@@ -1,0 +1,411 @@
+{
+  "id": "丁",
+  "kanjialiveData": {
+    "_id": "54317b0c791eba5146ee4c73",
+    "_rev": "11-a6576e9ff1a60b1ff7b13dfb8b6e78ce",
+    "rad_name_ja": "いち",
+    "grade": 3,
+    "hint_group": 5,
+    "kunyomi": "n/a",
+    "meaning": "khu phố, đơn vị đếm linh tinh, số chẵn",
+    "kstroke": 2,
+    "examples": [
+      {
+        "japanese": "丁（ちょう）",
+        "meaning": {
+          "english": "counter for guns and tofu",
+          "vietnamese": "đơn vị đếm súng và đậu phụ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "丁度（ちょうど）",
+        "meaning": {
+          "english": "just, right, exactly",
+          "vietnamese": "vừa đúng, chính xác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "丁々発止（ちょうちょうはっし）",
+        "meaning": {
+          "english": "crossing of swords, argument",
+          "vietnamese": "giao đấu kiếm, tranh luận"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "包丁（ほうちょう）",
+        "meaning": {
+          "english": "kitchen knife, carving knife",
+          "vietnamese": "dao nhà bếp, dao thái"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "落丁（らくちょう）",
+        "meaning": {
+          "english": "missing pages",
+          "vietnamese": "trang bị thiếu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "二丁目（にちょうめ）",
+        "meaning": {
+          "english": "2-choume (in address)",
+          "vietnamese": "khu phố số 2 (trong địa chỉ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "豆腐一丁（とうふいっちょう）",
+        "meaning": {
+          "english": "one cake of tofu",
+          "vietnamese": "một miếng đậu phụ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "拳銃二丁（けんじゅうにちょう）",
+        "meaning": {
+          "english": "two pistols",
+          "vietnamese": "hai khẩu súng lục"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "丁寧な（ていねいな）",
+        "meaning": {
+          "english": "polite, courteous, careful",
+          "vietnamese": "lịch sự, nhã nhặn, cẩn thận"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "丁重な（ていちょうな）",
+        "meaning": {
+          "english": "polite, courteous",
+          "vietnamese": "lịch sự, nhã nhặn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "丁",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=丁",
+    "rad_name_search": [
+      "ichi"
+    ],
+    "rad_order": 1,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "kname": "tei(neina)",
+    "rad_utf": "⼀",
+    "stroketimes": [
+      0,
+      1.2,
+      4.533333
+    ],
+    "kunyomi_ka_display": "n/a",
+    "dick": "2106",
+    "rad_name": "ichi",
+    "dicn": "2",
+    "mn_hint": "Group of houses at a road junction [124] → 丁.",
+    "rad_stroke": 1,
+    "onyomi_ja": "チョウ、テイ",
+    "rad_meaning": "một, nét ngang",
+    "onyomi": "chou, tei",
+    "ka_id": "ka_891",
+    "onyomi_search": [
+      "chou",
+      "tei",
+      "chou, tei"
+    ],
+    "kunyomi_search": [
+      "n/a",
+      "n/a"
+    ],
+    "meaning_search": [
+      "town subsection",
+      "town",
+      "subsection",
+      "miscellaneous counter",
+      "miscellaneous",
+      "counter",
+      "even number",
+      "even",
+      "number",
+      "town subsection, miscellaneous counter, even number"
+    ],
+    "onyomi_ja_search": [
+      "チョウ",
+      "テイ",
+      "チョウ、テイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "one",
+      "horizontal stroke",
+      "horizontal",
+      "stroke",
+      "one, horizontal stroke"
+    ],
+    "rad_name_ja_search": [
+      "いち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:11",
+      "ik1:c11"
+    ],
+    "rad_name_file": "ichi",
+    "kanji": {
+      "character": "丁",
+      "meaning": {
+        "english": "town subsection, miscellaneous counter, even number",
+        "vietnamese": "khu phố, đơn vị đếm linh tinh, số chẵn"
+      },
+      "strokes": {
+        "count": 2,
+        "timings": [
+          0,
+          1.2,
+          4.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tei(neina)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(neina)_2.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "chou, tei",
+        "katakana": "チョウ、テイ"
+      },
+      "kunyomi": {
+        "romaji": "n/a",
+        "hiragana": "n/a"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tei(neina)_2.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tei(neina)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tei(neina)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼀",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/ichi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いち",
+        "romaji": "ichi"
+      },
+      "meaning": {
+        "english": "one, horizontal stroke",
+        "vietnamese": "một, nét ngang"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ichi0.svg",
+        "https://media.kanjialive.com/rad_frames/ichi1.svg",
+        "https://media.kanjialive.com/rad_frames/ichi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "2106",
+      "classic_nelson": "2"
+    }
+  },
+  "jishoData": {
+    "query": "丁",
+    "found": true,
+    "taughtIn": "grade 3",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1312",
+    "strokeCount": 2,
+    "meaning": "phố, khu phố, thị trấn, đơn vị đếm súng/dụng cụ/lá/miếng, số chẵn, can chi thứ 4",
+    "kunyomi": [
+      "ひのと"
+    ],
+    "onyomi": [
+      "チョウ",
+      "テイ",
+      "チン",
+      "トウ",
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo"
+      },
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu Nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)"
+      },
+      {
+        "example": "一丁",
+        "reading": "イッチョウ",
+        "meaning": "một trang (sách đóng kiểu Nhật), một miếng đậu phụ, một phần ăn (nhà hàng), một vật dài và hẹp, một chō (đơn vị khoảng cách), một ván, một nhiệm vụ, nào, được rồi"
+      },
+      {
+        "example": "柳刃包丁",
+        "reading": "ヤナギバボウチョウ",
+        "meaning": "dao nhà bếp cho sashimi"
+      },
+      {
+        "example": "丁",
+        "reading": "テイ",
+        "meaning": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch Trung Quốc, Đan Mạch"
+      },
+      {
+        "example": "丁寧",
+        "reading": "テイネイ",
+        "meaning": "lịch sự, nhã nhặn, văn minh, cẩn thận, kỹ lưỡng, chu đáo"
+      },
+      {
+        "example": "装丁",
+        "reading": "ソウテイ",
+        "meaning": "đóng sách, thiết kế bìa sách"
+      },
+      {
+        "example": "正丁",
+        "reading": "セイテイ",
+        "meaning": "nam giới khỏe mạnh từ 21 đến 60 tuổi phải chịu các loại lao dịch và thuế (theo hệ thống luật lệnh)"
+      },
+      {
+        "example": "丁幾",
+        "reading": "チンキ",
+        "meaning": "cồn thuốc"
+      },
+      {
+        "example": "亜爾然丁",
+        "reading": "アルゼンチン",
+        "meaning": "Argentina"
+      },
+      {
+        "example": "丁々",
+        "reading": "トウトウ",
+        "meaning": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)"
+      },
+      {
+        "example": "丁々",
+        "reading": "トウトウ",
+        "meaning": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)"
+      },
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo"
+      },
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu Nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丁",
+        "reading": "てい",
+        "meaning": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch Trung Quốc, Đan Mạch"
+      },
+      {
+        "example": "丁亥",
+        "reading": "ていがい",
+        "meaning": "Đinh Hợi (can chi thứ 24 trong lục thập hoa giáp, ví dụ 1947, 2007, 2067)"
+      }
+    ],
+    "radical": {
+      "symbol": "一",
+      "meaning": "một"
+    },
+    "parts": [
+      "一",
+      "亅"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19969_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e01.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e01.gif",
+    "uri": "https://jisho.org/search/%E4%B8%81%23kanji"
+  }
+}
