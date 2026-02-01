@@ -1,0 +1,92 @@
+import type { GrammarLevel, GrammarPoint } from "@/features/grammar/types/grammar";
+
+export const grammarLevels: GrammarLevel[] = [
+  {
+    id: "n5-minna-1",
+    level: "N5",
+    title: "Ngữ pháp N5 - Minna I",
+    lessonCount: 25,
+    grammarCount: 94,
+    source: "Minna no Nihongo I",
+  },
+  {
+    id: "n4-minna-2",
+    level: "N4",
+    title: "Ngữ pháp N4 - Minna II",
+    lessonCount: 25,
+    grammarCount: 105,
+    source: "Minna no Nihongo II",
+  },
+  {
+    id: "n3-mimikara",
+    level: "N3",
+    title: "Ngữ pháp N3 - Mimikara",
+    lessonCount: 10,
+    grammarCount: 139,
+    source: "Mimikara Oboeru",
+  },
+  {
+    id: "n2-mimikara",
+    level: "N2",
+    title: "Ngữ pháp N2 - Mimikara",
+    lessonCount: 9,
+    grammarCount: 147,
+    source: "Mimikara Oboeru",
+  },
+  {
+    id: "n1-mimikara",
+    level: "N1",
+    title: "Ngữ pháp N1 - Mimikara",
+    lessonCount: 15,
+    grammarCount: 0,
+    source: "Mimikara Oboeru",
+  },
+];
+
+export const grammarPoints: GrammarPoint[] = [
+  {
+    id: "gp-01",
+    levelId: "n5-minna-1",
+    title: "~です / ~ではありません",
+    meaning: "Khẳng định & phủ định lịch sự",
+    structure: "N + です / N + ではありません",
+    lesson: 1,
+    examples: ["わたしは学生です。", "わたしは先生ではありません。"],
+  },
+  {
+    id: "gp-02",
+    levelId: "n5-minna-1",
+    title: "~も",
+    meaning: "Cũng / cũng là",
+    structure: "N + も",
+    lesson: 2,
+    examples: ["わたしも学生です。"],
+  },
+  {
+    id: "gp-03",
+    levelId: "n4-minna-2",
+    title: "~ながら",
+    meaning: "Vừa ... vừa ...",
+    structure: "Vます + ながら",
+    lesson: 26,
+    examples: ["音楽を聞きながら勉強します。"],
+  },
+  {
+    id: "gp-04",
+    levelId: "n3-mimikara",
+    title: "~に違いない",
+    meaning: "Chắc chắn là",
+    structure: "Plain + に違いない",
+    lesson: 2,
+    examples: ["彼は来るに違いない。"],
+  },
+  {
+    id: "gp-05",
+    levelId: "n2-mimikara",
+    title: "~にしては",
+    meaning: "Xét theo ... thì",
+    structure: "N/V + にしては",
+    lesson: 3,
+    examples: ["彼は学生にしてはしっかりしている。"],
+  },
+];
