@@ -1,0 +1,605 @@
+{
+  "id": "明",
+  "kanjialiveData": {
+    "_id": "54317afd791eba5146ee4b5c",
+    "_rev": "11-bcc619f522376549a7ad1d858bb05e40",
+    "rad_name_ja": "ひへん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "a, akeru, aka, akarui, akaramu, aki, akiraka",
+    "meaning": "sáng, rõ",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "証明する（しょうめいする）",
+        "meaning": {
+          "english": "prove",
+          "vietnamese": "chứng minh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "説明する（せつめいする）",
+        "meaning": {
+          "english": "explain",
+          "vietnamese": "giải thích"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "賢明な（けんめいな）",
+        "meaning": {
+          "english": "wise",
+          "vietnamese": "sáng suốt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "明治（めいじ）",
+        "meaning": {
+          "english": "Meiji era",
+          "vietnamese": "thời Minh Trị"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "明晩（みょうばん）",
+        "meaning": {
+          "english": "tomorrow evening",
+          "vietnamese": "tối mai"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "夜明け（よあけ）",
+        "meaning": {
+          "english": "dawn",
+          "vietnamese": "bình minh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "明くる日（あくるひ）",
+        "meaning": {
+          "english": "following day",
+          "vietnamese": "ngày hôm sau"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "明るい（あかるい）",
+        "meaning": {
+          "english": "bright, cheerful",
+          "vietnamese": "sáng sủa, vui vẻ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "明らむ（あからむ）",
+        "meaning": {
+          "english": "become luminous",
+          "vietnamese": "trở nên sáng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "明らかな（あきらかな）",
+        "meaning": {
+          "english": "obvious",
+          "vietnamese": "rõ ràng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "*明後日（あさって）",
+        "meaning": {
+          "english": "day after tomorrow",
+          "vietnamese": "ngày kia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*明日（あした/あす）",
+        "meaning": {
+          "english": "tomorrow",
+          "vietnamese": "ngày mai"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aka(rui)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aka(rui)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aka(rui)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aka(rui)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あ、あける、あか、あかるい、あからむ、あき、あきらか",
+    "ka_utf": "明",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=明",
+    "kname": "aka(rui)",
+    "rad_order": 93,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "4"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "8"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "24"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "1"
+      }
+    ],
+    "rad_name_search": [
+      "hihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0.908,
+      1.466,
+      2.866,
+      3.733,
+      4.799,
+      5.999,
+      8.132,
+      8.799,
+      9.666667
+    ],
+    "kunyomi_ka_display": "あ、あか、あき",
+    "dick": "572",
+    "rad_name": "hihen",
+    "dicn": "2110",
+    "mn_hint": "Bright and clear, when both the sun 日 and the moon 月 are in the sky.",
+    "rad_stroke": 4,
+    "onyomi_ja": "メイ、ミョウ",
+    "rad_meaning": "sun, day, time",
+    "onyomi": "mei, myou",
+    "ka_id": "ka_64",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "mei",
+      "myou",
+      "mei, myou"
+    ],
+    "kunyomi_search": [
+      "a",
+      "akeru",
+      "aka",
+      "akarui",
+      "akaramu",
+      "aki",
+      "akiraka",
+      "a, akeru, aka, akarui, akaramu, aki, akiraka"
+    ],
+    "meaning_search": [
+      "bright",
+      "clear",
+      "bright, clear"
+    ],
+    "onyomi_ja_search": [
+      "メイ",
+      "ミョウ",
+      "メイ、ミョウ"
+    ],
+    "kunyomi_ja_search": [
+      "あ",
+      "あける",
+      "あか",
+      "あかるい",
+      "あからむ",
+      "あき",
+      "あきらか",
+      "あ、あける、あか、あかるい、あからむ、あき、あきらか"
+    ],
+    "rad_meaning_search": [
+      "sun",
+      "day",
+      "time",
+      "sun, day, time"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ひへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:10",
+      "cij:c10",
+      "bk",
+      "bk:5",
+      "bk:c5",
+      "aij3",
+      "aij3:1",
+      "aij3:c1",
+      "aij3:v3",
+      "aij3:v3:1",
+      "aij3:v3:c1",
+      "mac",
+      "mac:17",
+      "mac:c17",
+      "gen",
+      "gen:11",
+      "gen:c11",
+      "ap",
+      "ap:19",
+      "ap:c19",
+      "kll",
+      "kll:6",
+      "kll:c6",
+      "mosr",
+      "mosr:4",
+      "mosr:c4",
+      "cijr",
+      "cijr:8",
+      "cijr:c8",
+      "cijr",
+      "cijr:24",
+      "cijr:c24",
+      "cijr",
+      "cijr:30",
+      "cijr:c30",
+      "cijr",
+      "cijr:30",
+      "cijr:c30",
+      "mntr",
+      "mntr:1",
+      "mntr:c1"
+    ],
+    "rad_name_file": "hihen",
+    "kanji": {
+      "character": "明",
+      "meaning": {
+        "english": "bright, clear",
+        "vietnamese": "sáng, rõ"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0.908,
+          1.466,
+          2.866,
+          3.733,
+          4.799,
+          5.999,
+          8.132,
+          8.799,
+          9.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/aka(rui)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "mei, myou",
+        "katakana": "メイ、ミョウ"
+      },
+      "kunyomi": {
+        "romaji": "a, akeru, aka, akarui, akaramu, aki, akiraka",
+        "hiragana": "あ、あか、あき"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/aka(rui)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/aka(rui)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/aka(rui)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/hihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ひへん",
+        "romaji": "hihen"
+      },
+      "meaning": {
+        "english": "sun, day, time",
+        "vietnamese": "mặt trời, ngày, thời gian"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hihen0.svg",
+        "https://media.kanjialive.com/rad_frames/hihen1.svg",
+        "https://media.kanjialive.com/rad_frames/hihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "572",
+      "classic_nelson": "2110"
+    }
+  },
+  "jishoData": {
+    "query": "明",
+    "found": true,
+    "taughtIn": "grade 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "67",
+    "strokeCount": 8,
+    "meaning": "sáng, ánh sáng",
+    "kunyomi": [
+      "あ.かり",
+      "あか.るい",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "あ.ける",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ",
+      "ミン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "明",
+        "reading": "メイ",
+        "meaning": "độ sáng, sáng suốt, tầm nhìn, thị lực, năm thứ n thời Minh Trị (1868.9.8-1912.7.30)"
+      },
+      {
+        "example": "明暗",
+        "reading": "メイアン",
+        "meaning": "sáng và tối, sáng tối"
+      },
+      {
+        "example": "光明",
+        "reading": "コウミョウ",
+        "meaning": "ánh sáng rực rỡ, hy vọng, tương lai tươi sáng, ánh sáng từ Phật/Bồ tát"
+      },
+      {
+        "example": "英明",
+        "reading": "エイメイ",
+        "meaning": "thông minh, sáng suốt, sáng dạ"
+      },
+      {
+        "example": "明",
+        "reading": "ミョウ",
+        "meaning": "vidya (trí tuệ), mantra, sắp tới (vd. 4/7...)"
+      },
+      {
+        "example": "明日",
+        "reading": "アシタ",
+        "meaning": "ngày mai, tương lai gần"
+      },
+      {
+        "example": "光明",
+        "reading": "コウミョウ",
+        "meaning": "ánh sáng rực rỡ, hy vọng, tương lai tươi sáng, ánh sáng từ Phật/Bồ tát"
+      },
+      {
+        "example": "内明",
+        "reading": "ナイミョウ",
+        "meaning": "adhyatma vidya (một trong năm khoa học Ấn Độ cổ), khoa học tâm linh"
+      },
+      {
+        "example": "明",
+        "reading": "ミン",
+        "meaning": "nhà Minh (Trung Quốc; 1368-1644)"
+      },
+      {
+        "example": "明楽",
+        "reading": "ミンガク",
+        "meaning": "nhạc Trung Quốc thời Minh (phổ biến ở Nhật đầu thế kỷ 17)"
+      },
+      {
+        "example": "胡志明",
+        "reading": "ホーチミン",
+        "meaning": "Hồ Chí Minh (1890-1969), Nguyễn Tất Thành, Hồ Chí Minh (Việt Nam)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "明かり",
+        "reading": "あかり",
+        "meaning": "ánh sáng, ánh sáng, đèn, bằng chứng (vô tội)"
+      },
+      {
+        "example": "明り先",
+        "reading": "あかりさき",
+        "meaning": "nguồn sáng"
+      },
+      {
+        "example": "軒明かり",
+        "reading": "のきあかり",
+        "meaning": "đèn hiên"
+      },
+      {
+        "example": "明るい",
+        "reading": "あかるい",
+        "meaning": "sáng, rạng rỡ, vui vẻ, lạc quan, (tương lai) tươi sáng, am hiểu, quen thuộc, công bằng, sạch sẽ, vô tư"
+      },
+      {
+        "example": "明るむ",
+        "reading": "あかるむ",
+        "meaning": "sáng lên, trở nên sáng"
+      },
+      {
+        "example": "明らむ",
+        "reading": "あからむ",
+        "meaning": "trở nên sáng lúc bình minh (vd. bầu trời)"
+      },
+      {
+        "example": "明らか",
+        "reading": "あきらか",
+        "meaning": "rõ ràng, hiển nhiên, sáng, nhẹ"
+      },
+      {
+        "example": "明らかにする",
+        "reading": "あきらかにする",
+        "meaning": "làm rõ, giải thích, công bố"
+      },
+      {
+        "example": "開ける",
+        "reading": "あける",
+        "meaning": "mở (cửa...), mở (gói), mở khóa, mở cửa (kinh doanh), dọn trống, rời đi, bình minh, kết thúc (kỳ, mùa), bắt đầu (Năm mới), để trống (lịch), có thời gian, mở (lỗ)"
+      },
+      {
+        "example": "開く",
+        "reading": "あく",
+        "meaning": "mở (cửa...), mở (kinh doanh), trống, rảnh, có sẵn, hở (cổ...), đã mở (mắt, miệng), kết thúc, có lỗ, có khe, có khoảng cách (giữa sự kiện)"
+      },
+      {
+        "example": "明くる",
+        "reading": "あくる",
+        "meaning": "tiếp theo (ngày, sáng...)"
+      },
+      {
+        "example": "明くる",
+        "reading": "あくる",
+        "meaning": "tiếp theo (ngày, sáng...)"
+      },
+      {
+        "example": "あくる日",
+        "reading": "あくるひ",
+        "meaning": "ngày hôm sau"
+      },
+      {
+        "example": "明かす",
+        "reading": "あかす",
+        "meaning": "trải qua (đêm), tiết lộ, công bố, chứng minh, xác minh"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "日",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26126_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0660e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/660e.gif",
+    "uri": "https://jisho.org/search/%E6%98%8E%23kanji"
+  }
+}
