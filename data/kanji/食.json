@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "ku, kuu, ta, taberu",
-    "meaning": "eat, food",
+    "meaning": "ăn, đồ ăn",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "食堂（しょくどう）",
         "meaning": {
-          "english": "dining hall"
+          "english": "dining hall",
+          "vietnamese": "phòng ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "食欲（しょくよく）",
         "meaning": {
-          "english": "appetite (for food)"
+          "english": "appetite (for food)",
+          "vietnamese": "sự thèm ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "食後（しょくご）",
         "meaning": {
-          "english": "after a meal"
+          "english": "after a meal",
+          "vietnamese": "sau bữa ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "夕食（ゆうしょく）",
         "meaning": {
-          "english": "dinner"
+          "english": "dinner",
+          "vietnamese": "bữa tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "朝食（ちょうしょく）",
         "meaning": {
-          "english": "breakfast"
+          "english": "breakfast",
+          "vietnamese": "bữa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "和食（わしょく）",
         "meaning": {
-          "english": "Japanese-style meal"
+          "english": "Japanese-style meal",
+          "vietnamese": "bữa ăn kiểu Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_f.opus",
@@ -85,7 +91,8 @@
       {
         "japanese": "食事する（しょくじする）",
         "meaning": {
-          "english": "have a meal"
+          "english": "have a meal",
+          "vietnamese": "ăn cơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_g.opus",
@@ -97,7 +104,8 @@
       {
         "japanese": "断食する（だんじきする）",
         "meaning": {
-          "english": "fast [v.i.]"
+          "english": "fast [v.i.]",
+          "vietnamese": "nhịn ăn (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_h.opus",
@@ -109,7 +117,8 @@
       {
         "japanese": "食い物（くいもの）",
         "meaning": {
-          "english": "food"
+          "english": "food",
+          "vietnamese": "đồ ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_i.opus",
@@ -121,7 +130,8 @@
       {
         "japanese": "食べる（たべる）",
         "meaning": {
-          "english": "eat"
+          "english": "eat",
+          "vietnamese": "ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_j.opus",
@@ -133,7 +143,8 @@
       {
         "japanese": "食べ物（たべもの）",
         "meaning": {
-          "english": "food"
+          "english": "food",
+          "vietnamese": "đồ ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ta(beru)_06_k.opus",
@@ -225,7 +236,7 @@
     "mn_hint": "Please view the radical animation on the left; eating is good 良 for people [9].",
     "rad_stroke": 9,
     "onyomi_ja": "ショク、ジキ",
-    "rad_meaning": "food, to eat",
+    "rad_meaning": "ăn, đồ ăn",
     "onyomi": "shoku, jiki",
     "ka_id": "ka_59",
     "onyomi_search": [
@@ -241,9 +252,9 @@
       "ku, kuu, ta, taberu"
     ],
     "meaning_search": [
-      "eat",
-      "food",
-      "eat, food"
+      "ăn",
+      "đồ ăn",
+      "ăn, đồ ăn"
     ],
     "onyomi_ja_search": [
       "ショク",
@@ -258,11 +269,11 @@
       "く、くう、た、たべる"
     ],
     "rad_meaning_search": [
-      "food",
-      "to eat",
-      "to",
-      "eat",
-      "food, to eat"
+      "đồ ăn",
+      "ăn",
+      "ăn",
+      "đồ ăn",
+      "đồ ăn, ăn"
     ],
     "rad_name_ja_search": [
       "しょく"
@@ -317,7 +328,8 @@
     "kanji": {
       "character": "食",
       "meaning": {
-        "english": "eat, food"
+        "english": "eat, food",
+        "vietnamese": "ăn, đồ ăn"
       },
       "strokes": {
         "count": 9,
@@ -373,7 +385,8 @@
         "romaji": "shoku"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat",
+        "vietnamese": "đồ ăn, ăn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shoku0.svg",
@@ -394,7 +407,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "328",
     "strokeCount": 9,
-    "meaning": "eat, food",
+    "meaning": "ăn, đồ ăn",
     "kunyomi": [
       "く.う",
       "く.らう",
@@ -409,74 +422,74 @@
       {
         "example": "食",
         "reading": "ショク",
-        "meaning": "food, foodstuff, eating, appetite, meal, portion"
+        "meaning": "đồ ăn, thực phẩm, ăn uống, sự thèm ăn, bữa ăn"
       },
       {
         "example": "食",
         "reading": "ショク",
-        "meaning": "eclipse (solar, lunar, etc.), occultation"
+        "meaning": "nhật thực, nguyệt thực"
       },
       {
         "example": "飽食",
         "reading": "ホウショク",
-        "meaning": "eating until one is full, eating one's fill, gorging (on), satiation, having adequate food, having all one needs (for daily living), plenty"
+        "meaning": "ăn no, no nê, đủ ăn"
       },
       {
         "example": "会食",
         "reading": "カイショク",
-        "meaning": "eating together, dining together, having a meal together"
+        "meaning": "ăn chung, dùng bữa cùng nhau"
       },
       {
         "example": "食",
         "reading": "ショク",
-        "meaning": "food, foodstuff, eating, appetite, meal, portion"
+        "meaning": "đồ ăn, thực phẩm, ăn uống, sự thèm ăn, bữa ăn"
       },
       {
         "example": "食堂",
         "reading": "ジキドウ",
-        "meaning": "dining hall (at a temple)"
+        "meaning": "phòng ăn (ở chùa)"
       },
       {
         "example": "断食",
         "reading": "ダンジキ",
-        "meaning": "fasting, fast"
+        "meaning": "nhịn ăn, ăn chay"
       },
       {
         "example": "斎食",
         "reading": "サイジキ",
-        "meaning": "morning meal (for priests, monks, etc.), food offering at a Buddhist ceremony"
+        "meaning": "bữa sáng (của sư), đồ cúng (Phật)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "食う",
         "reading": "くう",
-        "meaning": "to eat, to live, to make a living, to survive, to bite, to sting (as insects do), to tease, to torment, to taunt, to make light of, to make fun of, to encroach on, to eat into, to consume, to defeat a superior, to threaten a position, to consume time, to consume resources, to receive something (usu. an unfavourable event), to have sexual relations with a woman, esp. for the first time"
+        "meaning": "ăn, sống, kiếm sống, cắn, châm chọc, xâm lấn, tiêu tốn"
       },
       {
         "example": "食うや食わず",
         "reading": "くうやくわず",
-        "meaning": "(living) from hand to mouth, living on the fringe of subsistence"
+        "meaning": "sống lay lắt, kiếm ăn qua ngày"
       },
       {
         "example": "食らう",
         "reading": "くらう",
-        "meaning": "to eat, to drink, to wolf, to knock back, to receive (e.g. a blow), to be on the receiving end (of something undesirable), to undergo (trouble)"
+        "meaning": "ăn, uống, nhận (đòn), chịu (rủi ro)"
       },
       {
         "example": "食べる",
         "reading": "たべる",
-        "meaning": "to eat, to live on (e.g. a salary), to live off, to subsist on"
+        "meaning": "ăn, sống bằng (lương...)"
       },
       {
         "example": "食べるラー油",
         "reading": "たべるラーゆ",
-        "meaning": "chili oil mixed with chopped garlic, onions, etc."
+        "meaning": "dầu ớt trộn tỏi, hành"
       },
       {
         "example": "食む",
         "reading": "はむ",
-        "meaning": "to eat (fodder, grass, etc.), to receive (a salary), to receive a stipend from one's lord"
+        "meaning": "ăn (cỏ, thức ăn gia súc), nhận (bổng lộc)"
       }
     ],
     "radical": {
@@ -484,7 +497,7 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": "ăn, đồ ăn"
     },
     "parts": [
       "食"

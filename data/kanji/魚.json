@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uo, sakana",
-    "meaning": "fish",
+    "meaning": "cá",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "魚類（ぎょるい）",
         "meaning": {
-          "english": "fish (as class of animal)"
+          "english": "fish (as class of animal)",
+          "vietnamese": "cá (lớp động vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "魚介類（ぎょかいるい）",
         "meaning": {
-          "english": "marine products, seafood"
+          "english": "marine products, seafood",
+          "vietnamese": "hải sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "金魚（きんぎょ）",
         "meaning": {
-          "english": "goldfish"
+          "english": "goldfish",
+          "vietnamese": "cá vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "鮮魚（せんぎょ）",
         "meaning": {
-          "english": "fresh fish"
+          "english": "fresh fish",
+          "vietnamese": "cá tươi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "人魚（にんぎょ）",
         "meaning": {
-          "english": "mermaid, merman"
+          "english": "mermaid, merman",
+          "vietnamese": "người cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "深海魚（しんかいぎょ）",
         "meaning": {
-          "english": "deep-sea fish"
+          "english": "deep-sea fish",
+          "vietnamese": "cá biển sâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_f.opus",
@@ -85,7 +91,8 @@
       {
         "japanese": "熱帯魚（ねったいぎょ）",
         "meaning": {
-          "english": "tropical fish"
+          "english": "tropical fish",
+          "vietnamese": "cá nhiệt đới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_g.opus",
@@ -97,7 +104,8 @@
       {
         "japanese": "魚市場（うおいちば）",
         "meaning": {
-          "english": "fish market"
+          "english": "fish market",
+          "vietnamese": "chợ cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_h.opus",
@@ -109,7 +117,8 @@
       {
         "japanese": "飛び魚（とびうお）",
         "meaning": {
-          "english": "flying fish"
+          "english": "flying fish",
+          "vietnamese": "cá chuồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_i.opus",
@@ -121,7 +130,8 @@
       {
         "japanese": "魚（さかな）",
         "meaning": {
-          "english": "fish [n.]"
+          "english": "fish [n.]",
+          "vietnamese": "cá (danh từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_j.opus",
@@ -133,7 +143,8 @@
       {
         "japanese": "魚屋（さかなや）",
         "meaning": {
-          "english": "fish market, fish dealer"
+          "english": "fish market, fish dealer",
+          "vietnamese": "chợ cá, tiệm cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_k.opus",
@@ -145,7 +156,8 @@
       {
         "japanese": "*雑魚（ざこ）",
         "meaning": {
-          "english": "small fish, small fry"
+          "english": "small fish, small fry",
+          "vietnamese": "cá nhỏ, tép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uo_06_l.opus",
@@ -223,7 +235,7 @@
     "mn_hint": "Please view the animation in the radical field to the left.",
     "rad_stroke": 11,
     "onyomi_ja": "ギョ",
-    "rad_meaning": "fish",
+    "rad_meaning": "cá",
     "onyomi": "gyo",
     "ka_id": "ka_862",
     "onyomi_search": [
@@ -236,8 +248,8 @@
       "uo, sakana"
     ],
     "meaning_search": [
-      "fish",
-      "fish"
+      "cá",
+      "cá"
     ],
     "onyomi_ja_search": [
       "ギョ",
@@ -249,8 +261,8 @@
       "うお、さかな"
     ],
     "rad_meaning_search": [
-      "fish",
-      "fish"
+      "cá",
+      "cá"
     ],
     "rad_name_ja_search": [
       "うお"
@@ -290,7 +302,8 @@
     "kanji": {
       "character": "魚",
       "meaning": {
-        "english": "fish"
+        "english": "fish",
+        "vietnamese": "cá"
       },
       "strokes": {
         "count": 11,
@@ -350,7 +363,8 @@
         "romaji": "uo"
       },
       "meaning": {
-        "english": "fish"
+        "english": "fish",
+        "vietnamese": "cá"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uo0.svg",
@@ -371,7 +385,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1208",
     "strokeCount": 11,
-    "meaning": "fish",
+    "meaning": "cá",
     "kunyomi": [
       "うお",
       "さかな",
@@ -384,64 +398,64 @@
       {
         "example": "魚類",
         "reading": "ギョルイ",
-        "meaning": "fish, fishes"
+        "meaning": "cá, các loài cá"
       },
       {
         "example": "魚介類",
         "reading": "ギョカイルイ",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": "hải sản, cá và động vật có vỏ"
       },
       {
         "example": "鮮魚",
         "reading": "センギョ",
-        "meaning": "fresh fish"
+        "meaning": "cá tươi"
       },
       {
         "example": "稚魚",
         "reading": "チギョ",
-        "meaning": "fry, juvenile fish, fingerling"
+        "meaning": "cá con, cá giống"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魚",
         "reading": "さかな",
-        "meaning": "fish"
+        "meaning": "cá"
       },
       {
         "example": "魚市場",
         "reading": "うおいちば",
-        "meaning": "fish market"
+        "meaning": "chợ cá"
       },
       {
         "example": "川魚",
         "reading": "かわうお",
-        "meaning": "river fish, freshwater fish"
+        "meaning": "cá sông, cá nước ngọt"
       },
       {
         "example": "活魚",
         "reading": "かつぎょ",
-        "meaning": "live fish and shellfish (kept in a tank in a restaurant)"
+        "meaning": "cá tươi sống (nuôi trong bể ở nhà hàng)"
       },
       {
         "example": "魚",
         "reading": "さかな",
-        "meaning": "fish"
+        "meaning": "cá"
       },
       {
         "example": "魚釣り",
         "reading": "さかなつり",
-        "meaning": "fishing"
+        "meaning": "câu cá"
       },
       {
         "example": "旬の魚",
         "reading": "しゅんのさかな",
-        "meaning": "fish in season"
+        "meaning": "cá đúng mùa"
       }
     ],
     "radical": {
       "symbol": "魚",
-      "meaning": "fish"
+      "meaning": "cá"
     },
     "parts": [
       "杰",

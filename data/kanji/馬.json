@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uma, ma",
-    "meaning": "horse",
+    "meaning": "ngựa",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "馬車（ばしゃ）",
         "meaning": {
-          "english": "horse-drawn vehicle"
+          "english": "horse-drawn vehicle",
+          "vietnamese": "xe ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "馬力（ばりき）",
         "meaning": {
-          "english": "horse-power, h.p."
+          "english": "horse-power, h.p.",
+          "vietnamese": "mã lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "乗馬（じょうば）",
         "meaning": {
-          "english": "horseback riding"
+          "english": "horseback riding",
+          "vietnamese": "cưỡi ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "競馬（けいば）",
         "meaning": {
-          "english": "horse racing"
+          "english": "horse racing",
+          "vietnamese": "đua ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "馬鹿な（ばかな）",
         "meaning": {
-          "english": "stupid, silly"
+          "english": "stupid, silly",
+          "vietnamese": "ngốc nghếch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "竹馬の友（ちくばのとも）",
         "meaning": {
-          "english": "childhood friend"
+          "english": "childhood friend",
+          "vietnamese": "bạn thuở nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_f.opus",
@@ -85,7 +91,8 @@
       {
         "japanese": "出馬する（しゅつばする）",
         "meaning": {
-          "english": "stand as a candidate"
+          "english": "stand as a candidate",
+          "vietnamese": "ứng cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_g.opus",
@@ -97,7 +104,8 @@
       {
         "japanese": "落馬する（らくばする）",
         "meaning": {
-          "english": "fall from a horse"
+          "english": "fall from a horse",
+          "vietnamese": "ngã ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_h.opus",
@@ -109,7 +117,8 @@
       {
         "japanese": "馬（うま）",
         "meaning": {
-          "english": "horse"
+          "english": "horse",
+          "vietnamese": "ngựa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_i.opus",
@@ -121,7 +130,8 @@
       {
         "japanese": "絵馬（えま）",
         "meaning": {
-          "english": "votive picture"
+          "english": "votive picture",
+          "vietnamese": "tranh cúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/uma_06_j.opus",
@@ -178,7 +188,7 @@
     "mn_hint": "Please view the animation in the radical field to the left.",
     "rad_stroke": 10,
     "onyomi_ja": "バ",
-    "rad_meaning": "horse",
+    "rad_meaning": "ngựa",
     "onyomi": "ba",
     "ka_id": "ka_698",
     "onyomi_search": [
@@ -191,8 +201,8 @@
       "uma, ma"
     ],
     "meaning_search": [
-      "horse",
-      "horse"
+      "ngựa",
+      "ngựa"
     ],
     "onyomi_ja_search": [
       "バ",
@@ -204,8 +214,8 @@
       "うま、ま"
     ],
     "rad_meaning_search": [
-      "horse",
-      "horse"
+      "ngựa",
+      "ngựa"
     ],
     "rad_name_ja_search": [
       "うま"
@@ -233,7 +243,8 @@
     "kanji": {
       "character": "馬",
       "meaning": {
-        "english": "horse"
+        "english": "horse",
+        "vietnamese": "ngựa"
       },
       "strokes": {
         "count": 10,
@@ -291,7 +302,8 @@
         "romaji": "uma"
       },
       "meaning": {
-        "english": "horse"
+        "english": "horse",
+        "vietnamese": "ngựa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/uma0.svg",
@@ -312,7 +324,7 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "639",
     "strokeCount": 10,
-    "meaning": "horse",
+    "meaning": "ngựa",
     "kunyomi": [
       "うま",
       "うま-",
@@ -325,49 +337,49 @@
       {
         "example": "馬車",
         "reading": "バシャ",
-        "meaning": "coach (horse-drawn), carriage, wagon, cart"
+        "meaning": "xe ngựa, xe ngựa kéo"
       },
       {
         "example": "馬券",
         "reading": "バケン",
-        "meaning": "betting ticket, betting slip"
+        "meaning": "vé cá cược"
       },
       {
         "example": "白馬",
         "reading": "ハクバ",
-        "meaning": "white horse, unrefined sake"
+        "meaning": "ngựa trắng, rượu chưa lọc"
       },
       {
         "example": "騎馬",
         "reading": "キバ",
-        "meaning": "horse riding, horseback riding, horseback rider"
+        "meaning": "cưỡi ngựa, kỵ sĩ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "馬",
         "reading": "うま",
-        "meaning": "horse, horse racing, promoted bishop, knight (court card in mekuri karuta and unsun karuta)"
+        "meaning": "ngựa, đua ngựa, quân mã (cờ)"
       },
       {
         "example": "馬車",
         "reading": "ばしゃ",
-        "meaning": "coach (horse-drawn), carriage, wagon, cart"
+        "meaning": "xe ngựa, xe ngựa kéo"
       },
       {
         "example": "白馬",
         "reading": "はくば",
-        "meaning": "white horse, unrefined sake"
+        "meaning": "ngựa trắng, rượu chưa lọc"
       },
       {
         "example": "竹馬",
         "reading": "たけうま",
-        "meaning": "stilts (for walking), hobby horse"
+        "meaning": "cà kheo, ngựa gỗ đồ chơi"
       },
       {
         "example": "馬克",
         "reading": "マルク",
-        "meaning": "mark (former currency of Germany)"
+        "meaning": "mark (đơn vị tiền Đức cũ)"
       },
       {
         "example": "馬尼剌",
@@ -377,17 +389,17 @@
       {
         "example": "白馬",
         "reading": "はくば",
-        "meaning": "white horse, unrefined sake"
+        "meaning": "ngựa trắng, rượu chưa lọc"
       },
       {
         "example": "竹馬",
         "reading": "たけうま",
-        "meaning": "stilts (for walking), hobby horse"
+        "meaning": "cà kheo, ngựa gỗ đồ chơi"
       }
     ],
     "radical": {
       "symbol": "馬",
-      "meaning": "horse"
+      "meaning": "ngựa"
     },
     "parts": [
       "杰",

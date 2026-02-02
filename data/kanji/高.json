@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "taka, takai, takasa, takamaru, takaburu, takameru",
-    "meaning": "high",
+    "meaning": "cao",
     "kstroke": 10,
     "examples": [
       {
         "japanese": "高校生（こうこうせい）",
         "meaning": {
-          "english": "senior high school student"
+          "english": "senior high school student",
+          "vietnamese": "học sinh trung học phổ thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "高速道路（こうそくどうろ）",
         "meaning": {
-          "english": "highway"
+          "english": "highway",
+          "vietnamese": "đường cao tốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "高熱（こうねつ）",
         "meaning": {
-          "english": "high fever"
+          "english": "high fever",
+          "vietnamese": "sốt cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "高価な（こうかな）",
         "meaning": {
-          "english": "expensive"
+          "english": "expensive",
+          "vietnamese": "đắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "最高（さいこう）",
         "meaning": {
-          "english": "supreme"
+          "english": "supreme",
+          "vietnamese": "tối cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "高い（たかい）",
         "meaning": {
-          "english": "tall, high, expensive"
+          "english": "tall, high, expensive",
+          "vietnamese": "cao, đắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_f.opus",
@@ -85,7 +91,8 @@
       {
         "japanese": "高まる（たかまる）",
         "meaning": {
-          "english": "rise [v.i.]"
+          "english": "rise [v.i.]",
+          "vietnamese": "tăng lên (nội động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_g.opus",
@@ -97,7 +104,8 @@
       {
         "japanese": "高める（たかめる）",
         "meaning": {
-          "english": "raise, boost [v.t.]"
+          "english": "raise, boost [v.t.]",
+          "vietnamese": "nâng cao, tăng cường (ngoại động từ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_h.opus",
@@ -109,7 +117,8 @@
       {
         "japanese": "円高（えんだか）",
         "meaning": {
-          "english": "strong yen"
+          "english": "strong yen",
+          "vietnamese": "đồng yên mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_i.opus",
@@ -121,7 +130,8 @@
       {
         "japanese": "売上高（うりあげだか）",
         "meaning": {
-          "english": "sales"
+          "english": "sales",
+          "vietnamese": "doanh số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/taka(i)_06_j.opus",
@@ -198,7 +208,7 @@
     "mn_hint": "Please view the animation in the radical field to the left.",
     "rad_stroke": 10,
     "onyomi_ja": "コウ",
-    "rad_meaning": "high",
+    "rad_meaning": "cao",
     "onyomi": "kou",
     "ka_id": "ka_147",
     "onyomi_search": [
@@ -215,8 +225,8 @@
       "taka, takai, takasa, takamaru, takaburu, takameru"
     ],
     "meaning_search": [
-      "high",
-      "high"
+      "cao",
+      "cao"
     ],
     "onyomi_ja_search": [
       "コウ",
@@ -232,8 +242,8 @@
       "たか、たかい、たかさ、たかまる、たかぶる、たかめる"
     ],
     "rad_meaning_search": [
-      "high",
-      "high"
+      "cao",
+      "cao"
     ],
     "rad_name_ja_search": [
       "たかい"
@@ -273,7 +283,8 @@
     "kanji": {
       "character": "高",
       "meaning": {
-        "english": "high"
+        "english": "high",
+        "vietnamese": "cao"
       },
       "strokes": {
         "count": 10,
@@ -331,7 +342,8 @@
         "romaji": "takai"
       },
       "meaning": {
-        "english": "high"
+        "english": "high",
+        "vietnamese": "cao"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takai0.svg",
@@ -352,7 +364,7 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "65",
     "strokeCount": 10,
-    "meaning": "tall, high, expensive",
+    "meaning": "cao, đắt",
     "kunyomi": [
       "たか.い",
       "たか",
@@ -367,64 +379,64 @@
       {
         "example": "高",
         "reading": "コウ",
-        "meaning": "high, high school"
+        "meaning": "cao, trường trung học"
       },
       {
         "example": "高圧",
         "reading": "コウアツ",
-        "meaning": "high voltage, high pressure"
+        "meaning": "điện áp cao, áp suất cao"
       },
       {
         "example": "中高",
         "reading": "チュウコウ",
-        "meaning": "middle and high school, medium and high (level)"
+        "meaning": "trung học cơ sở và phổ thông, mức trung bình và cao"
       },
       {
         "example": "激昂",
         "reading": "ゲッコウ",
-        "meaning": "excitement, exasperation, indignation, rage, fury"
+        "meaning": "kích động, bực tức, phẫn nộ, thịnh nộ"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "高い",
         "reading": "たかい",
-        "meaning": "high, tall, expensive, high-priced, high (level), above average (in degree, quality, etc.), loud, high-pitched, shrill"
+        "meaning": "cao, đắt, mức cao, trên trung bình, to, cao (âm thanh)"
       },
       {
         "example": "高い高い",
         "reading": "たかいたかい",
-        "meaning": "lifting a child high up in the air"
+        "meaning": "bế trẻ giơ cao lên"
       },
       {
         "example": "高",
         "reading": "たか",
-        "meaning": "quantity, amount, volume, number, amount of money"
+        "meaning": "số lượng, khối lượng, số tiền"
       },
       {
         "example": "高い",
         "reading": "たかい",
-        "meaning": "high, tall, expensive, high-priced, high (level), above average (in degree, quality, etc.), loud, high-pitched, shrill"
+        "meaning": "cao, đắt, mức cao, trên trung bình, to, cao (âm thanh)"
       },
       {
         "example": "威高",
         "reading": "いたか",
-        "meaning": "arrogant, haughty, self-important"
+        "meaning": "kiêu ngạo, tự cao"
       },
       {
         "example": "背高",
         "reading": "せいたか",
-        "meaning": "tallness, tall person"
+        "meaning": "chiều cao, người cao"
       },
       {
         "example": "高まる",
         "reading": "たかまる",
-        "meaning": "to rise, to swell, to be promoted"
+        "meaning": "tăng lên, sưng lên, được thăng chức"
       },
       {
         "example": "高める",
         "reading": "たかめる",
-        "meaning": "to raise, to lift, to boost, to enhance"
+        "meaning": "nâng cao, tăng cường"
       }
     ],
     "radical": {
@@ -432,7 +444,7 @@
       "forms": [
         "髙"
       ],
-      "meaning": "tall"
+      "meaning": "cao"
     },
     "parts": [
       "亠",
