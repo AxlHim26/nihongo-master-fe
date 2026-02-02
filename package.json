@@ -19,7 +19,9 @@
     "process-15-kanji": "node scripts/process-15-kanji-vi.mjs",
     "process-next-15-kanji": "node scripts/process-next-15-kanji-vi.mjs",
     "process-15-cache": "node scripts/process-15-cache-only.mjs",
+    "process-next-15-cache": "node scripts/process-next-15-cache-only.mjs",
     "process-next-15-vi": "node scripts/process-next-15-vi.mjs",
+    "process-15-unprocessed": "node scripts/process-15-unprocessed.mjs",
     "lint-staged": "lint-staged",
     "prepare": "husky"
   },
@@ -27,6 +29,7 @@
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
+    "@elevenlabs/elevenlabs-js": "^2.33.0",
     "@mui/icons-material": "^6.5.0",
     "@mui/material": "^6.5.0",
     "@tanstack/react-query": "^5.90.20",
