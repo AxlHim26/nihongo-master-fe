@@ -332,4 +332,6 @@ for (const file of toProcess) {
 }
 
 await fs.appendFile(processedPath, "\n" + toProcess.join("\n") + "\n", "utf-8");
-console.log("\nĐã xử lý: " + toProcess.join(", "));
+const outLine = "Đã xử lý: " + toProcess.join(", ");
+console.log("\n" + outLine);
+await fs.writeFile(path.join(root, "data", "last-15-processed.txt"), toProcess.join("\n") + "\n", "utf-8");
