@@ -222,7 +222,8 @@ const processedSet = new Set(
 
 const allFiles = await fs.readdir(dataDir);
 const jsonFiles = allFiles.filter((f) => f.endsWith(".json"));
-const unprocessed = jsonFiles.filter((f) => !processedSet.has(f));
+const basename = (f) => f.replace(/\.json$/, "");
+const unprocessed = jsonFiles.filter((f) => !processedSet.has(f) && !processedSet.has(basename(f)));
 
 // Ưu tiên: tên ngắn trước (số ký tự của tên file không tính .json)
 const nameLen = (f) => f.replace(/\.json$/, "").length;
@@ -331,7 +332,7 @@ for (const file of toProcess) {
   console.log("OK:", file);
 }
 
-await fs.appendFile(processedPath, "\n" + toProcess.join("\n") + "\n", "utf-8");
+await fs.appendFile(processedPath, "\n" + toProcess.map(basename).join("\n") + "\n", "utf-8");
 const outLine = "Đã xử lý: " + toProcess.join(", ");
 console.log("\n" + outLine);
 await fs.writeFile(path.join(root, "data", "last-15-processed.txt"), toProcess.join("\n") + "\n", "utf-8");
