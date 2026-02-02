@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import { createJSONStorage, persist } from "zustand/middleware";
+import { persist } from "zustand/middleware";
 
 import storage from "@/shared/utils/storage";
 
@@ -28,7 +28,7 @@ export const useThemeStore = create<ThemeState>()(
     }),
     {
       name: "app-theme",
-      storage: createJSONStorage(() => storage),
+      storage,
       partialize: (state) => ({ mode: state.mode }),
       onRehydrateStorage: () => (state) => {
         state?.setHasHydrated(true);
