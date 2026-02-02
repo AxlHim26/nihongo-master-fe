@@ -5,6 +5,7 @@ export const conversationMessageSchema = z.object({
   role: z.enum(["user", "assistant"]),
   content: z.string(),
   createdAt: z.string(),
+  emotion: z.enum(["happy", "sad", "surprised", "caring", "shy", "confused", "neutral"]).optional(),
 });
 
 export const conversationSchema = z.object({

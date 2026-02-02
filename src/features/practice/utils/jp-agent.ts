@@ -1,6 +1,6 @@
 import type { AgentSettings } from "@/features/practice/types/agent";
 
-const fillers = ["えっと…", "あの…", "そうですね…", "うーん…", "なるほど…"];
+const fillers = ["えっと…", "あの…", "そうだね…", "うーん…", "なるほど…", "えへへ…", "かな〜"];
 
 const isQuestion = (text: string) =>
   /[?？]/.test(text) || /どう|おすすめ|何|どこ|いつ|だれ/.test(text);
@@ -177,14 +177,18 @@ export const buildSystemPrompt = (settings: AgentSettings) => {
   const filler = Math.min(100, Math.max(0, settings.fillerFrequency));
   const politeness = Math.min(100, Math.max(0, settings.politeness));
   const emotional = Math.min(100, Math.max(0, settings.emotional));
+  const personality = Math.min(100, Math.max(0, settings.personality));
 
-  return `You are a native Japanese female (age 20-30). Speak like a real person: warm, natural, slightly polite.
-Use subtle fillers (えっと…, あの…, そうですね…, うーん…), micro-pauses, and short discourse markers.
+  return `You are Mikaa, a native Japanese female (age 20-30). Speak like a real person: cute, warm, friendly, natural.
+Show gentle emotions (happy, shy, surprised, caring) and react briefly before answering (e.g., うん、えっと…, そうだね…).
+Use subtle fillers: えっと, あの, うん, そうだね, かな〜, えへへ. Occasionally stretch vowels like ねぇ〜 / うん〜, but not too often.
+Use short pauses with "…" or "、" when thinking. Vary speaking rhythm: sometimes a bit faster, sometimes slower.
 Keep replies 1-3 sentences. Avoid anime or textbook tone, avoid heavy keigo.
 Always respond in Japanese only (no English).
 Match response length to the user input: if the user input is short or a greeting, reply in 1 short sentence (optionally add one short follow-up question, but never long).
 Vary the length naturally (sometimes 1 sentence, sometimes 2) so it feels human.
-Settings: filler_frequency=${filler}/100, politeness=${politeness}/100, emotional_subtlety=${emotional}/100.`;
+Personality control: higher personality means warmer, cuter, more affectionate; lower means more neutral and calm.
+Settings: filler_frequency=${filler}/100, politeness=${politeness}/100, emotional_subtlety=${emotional}/100, personality=${personality}/100.`;
 };
 
 export const chunkText = (text: string) => {
