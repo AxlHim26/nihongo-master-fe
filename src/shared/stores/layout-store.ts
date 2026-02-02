@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import { createJSONStorage, persist } from "zustand/middleware";
+import { persist } from "zustand/middleware";
 
 import storage from "@/shared/utils/storage";
 
@@ -30,7 +30,7 @@ export const useLayoutStore = create<LayoutState>()(
     }),
     {
       name: "app-layout",
-      storage: createJSONStorage(() => storage),
+      storage,
       partialize: (state) => ({ sidebarOpen: state.sidebarOpen }),
       onRehydrateStorage: () => (state) => {
         state?.setHasHydrated(true);

@@ -1,24 +1,19 @@
-import type { StateStorage } from "zustand/middleware";
+import { createJSONStorage } from "zustand/middleware";
 
-const storage: StateStorage = {
-  getItem: (name) => {
-    if (typeof window === "undefined") {
-      return null;
-    }
-    return window.localStorage.getItem(name);
-  },
-  setItem: (name, value) => {
-    if (typeof window === "undefined") {
-      return;
-    }
-    window.localStorage.setItem(name, value);
-  },
-  removeItem: (name) => {
-    if (typeof window === "undefined") {
-      return;
-    }
-    window.localStorage.removeItem(name);
-  },
+const noopStorage: Storage = {
+  getItem: () => null,
+  setItem: () => {},
+  removeItem: () => {},
+  key: () => null,
+  length: 0,
+  clear: () => {},
 };
+
+const storage = createJSONStorage(() => {
+  if (typeof window === "undefined") {
+    return noopStorage;
+  }
+  return window.localStorage;
+});
 
 export default storage;

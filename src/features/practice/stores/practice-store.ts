@@ -10,7 +10,7 @@ type PracticeState = {
   activeConversationId: Conversation["id"] | null;
   draft: string;
   agentSettings: AgentSettings;
-  setActiveConversationId: (id: Conversation["id"]) => void;
+  setActiveConversationId: (id: Conversation["id"] | null) => void;
   setDraft: (value: string) => void;
   clearDraft: () => void;
   setAgentSettings: (settings: AgentSettings) => void;

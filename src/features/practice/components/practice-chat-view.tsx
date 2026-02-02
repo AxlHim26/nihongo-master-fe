@@ -120,8 +120,9 @@ export default function PracticeChatView() {
     }
     const stored = readStoredConversations();
     setConversations(stored);
-    if (!activeConversationId && stored.length > 0) {
-      setActiveConversationId(stored[0].id);
+    const firstConversation = stored[0];
+    if (!activeConversationId && firstConversation) {
+      setActiveConversationId(firstConversation.id);
     }
     hydratedRef.current = true;
   }, [activeConversationId, readStoredConversations, setActiveConversationId]);
@@ -313,16 +314,20 @@ export default function PracticeChatView() {
     return sanitized.length > 36 ? `${sanitized.slice(0, 36).trim()}…` : sanitized;
   }, []);
 
-  const getIdlePrompt = React.useCallback(() => {
+  const getIdlePrompt = React.useCallback((): string => {
     const prompts = [
       "Start by saying a gentle check-in equivalent to 'Bạn còn ở đó không?'. Then softly start a light topic (weather, mood, music, or a small daily moment). Reply in Japanese only, 1-2 sentences.",
       "In Japanese, gently ask if the user is still there (meaning 'Bạn còn ở đó không?'), then invite them to continue with a light topic. Keep it warm and short.",
       "Reply in Japanese. First line: a soft check-in meaning 'Bạn còn ở đó không?'. Second line: a gentle topic starter. Keep it natural.",
     ];
-    return prompts[Math.floor(Math.random() * prompts.length)] ?? prompts[0];
+    const prompt = prompts[Math.floor(Math.random() * prompts.length)];
+    return (
+      prompt ??
+      "Reply in Japanese only. Soft check-in meaning 'Bạn còn ở đó không?', then a gentle topic starter. 1-2 sentences."
+    );
   }, []);
 
-  const getIdleStoryPrompt = React.useCallback(() => {
+  const getIdleStoryPrompt = React.useCallback((): string => {
     const lastStory = lastIdleStoryRef.current;
     if (lastStory) {
       const snippet = lastStory.slice(-240);
@@ -333,7 +338,11 @@ export default function PracticeChatView() {
       "Japanese only. Speak slowly and softly. Share a small personal daily-life story (a walk, a cafe, cooking, a quiet evening). Two long sentences, include a brief pause (…/、). No questions.",
       "In Japanese, narrate a calm self-story about your day (a simple routine, a soft moment, something you noticed). Two long sentences, gentle and slow, with a small pause. No questions.",
     ];
-    return prompts[Math.floor(Math.random() * prompts.length)] ?? prompts[0];
+    const prompt = prompts[Math.floor(Math.random() * prompts.length)];
+    return (
+      prompt ??
+      "Reply in Japanese only. Calm self-story about your day. Two long sentences, gentle and slow, with a small pause. No questions."
+    );
   }, []);
 
   const handleCreateConversation = () => {
@@ -355,7 +364,8 @@ export default function PracticeChatView() {
     setConversations((prev) => {
       const next = prev.filter((conv) => conv.id !== id);
       if (activeConversationId === id) {
-        setActiveConversationId(next[0]?.id ?? null);
+        const nextActive = next[0];
+        setActiveConversationId(nextActive ? nextActive.id : null);
         setPendingConversation(null);
       }
       return next;
