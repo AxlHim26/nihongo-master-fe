@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "tori",
-    "meaning": "bird, fowl, poultry",
+    "meaning": "chim, gia cầm",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "鳥類（ちょうるい）",
         "meaning": {
-          "english": "birds, avian"
+          "english": "birds, avian",
+          "vietnamese": "chim, loài chim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "野鳥（やちょう）",
         "meaning": {
-          "english": "wild bird"
+          "english": "wild bird",
+          "vietnamese": "chim hoang dã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "白鳥（はくちょう）",
         "meaning": {
-          "english": "swan"
+          "english": "swan",
+          "vietnamese": "thiên nga"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "益鳥（えきちょう）",
         "meaning": {
-          "english": "beneficial bird"
+          "english": "beneficial bird",
+          "vietnamese": "chim có ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "一石二鳥（いっせきにちょう）",
         "meaning": {
-          "english": "killing two birds with one stone"
+          "english": "killing two birds with one stone",
+          "vietnamese": "một mũi tên trúng hai đích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "七面鳥（しちめんちょう）",
         "meaning": {
-          "english": "turkey"
+          "english": "turkey",
+          "vietnamese": "gà tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_f.opus",
@@ -85,7 +91,8 @@
       {
         "japanese": "鳥（とり）",
         "meaning": {
-          "english": "bird, fowl, poultry"
+          "english": "bird, fowl, poultry",
+          "vietnamese": "chim, gia cầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_g.opus",
@@ -97,7 +104,8 @@
       {
         "japanese": "鳥居（とりい）",
         "meaning": {
-          "english": "torii, gateway to a Shinto shrine"
+          "english": "torii, gateway to a Shinto shrine",
+          "vietnamese": "torii, cổng đền Thần đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_h.opus",
@@ -109,7 +117,8 @@
       {
         "japanese": "鳥肉（とりにく）",
         "meaning": {
-          "english": "chicken meat"
+          "english": "chicken meat",
+          "vietnamese": "thịt gà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_i.opus",
@@ -121,7 +130,8 @@
       {
         "japanese": "渡り鳥（わたりどり）",
         "meaning": {
-          "english": "migratory bird, bird of passage"
+          "english": "migratory bird, bird of passage",
+          "vietnamese": "chim di cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(haku)chou_06_j.opus",
@@ -265,9 +275,10 @@
     "rad_name_file": "tori",
     "kanji": {
       "character": "鳥",
-      "meaning": {
-        "english": "bird, fowl, poultry"
-      },
+"meaning": {
+      "english": "bird, fowl, poultry",
+      "vietnamese": "chim, gia cầm"
+    },
       "strokes": {
         "count": 11,
         "timings": [
@@ -326,7 +337,8 @@
         "romaji": "tori"
       },
       "meaning": {
-        "english": "bird"
+        "english": "bird",
+        "vietnamese": "chim"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tori0.svg",
@@ -347,7 +359,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1043",
     "strokeCount": 11,
-    "meaning": "bird, chicken",
+    "meaning": "chim, gà",
     "kunyomi": [
       "とり"
     ],
@@ -358,49 +370,49 @@
       {
         "example": "鶏肉",
         "reading": "トリニク",
-        "meaning": "chicken meat, fowl, poultry, bird meat"
+        "meaning": "thịt gà, gia cầm, thịt chim"
       },
       {
         "example": "鳥獣",
         "reading": "チョウジュウ",
-        "meaning": "birds and wild animals, wildlife"
+        "meaning": "chim và thú hoang dã, động vật hoang dã"
       },
       {
         "example": "海鳥",
         "reading": "ウミドリ",
-        "meaning": "sea bird"
+        "meaning": "chim biển"
       },
       {
         "example": "愛鳥",
         "reading": "アイチョウ",
-        "meaning": "pet bird"
+        "meaning": "chim cảnh"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳥",
         "reading": "とり",
-        "meaning": "bird, bird meat (esp. chicken meat), fowl, poultry"
+        "meaning": "chim, thịt chim (đặc biệt thịt gà), gia cầm"
       },
       {
         "example": "鳥居",
         "reading": "とりい",
-        "meaning": "torii (Shinto shrine archway)"
+        "meaning": "torii (cổng vòm đền Thần đạo)"
       },
       {
         "example": "焼き鳥",
         "reading": "やきとり",
-        "meaning": "yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer, grilled and skewered bird (esp. sparrow), failing to win a single hand during a half-game"
+        "meaning": "yakitori, thịt gà (hoặc thịt bò/lợn) nướng xiên, chim nướng xiên, thua trắng trong nửa ván bài"
       },
       {
         "example": "花鶏",
         "reading": "あとり",
-        "meaning": "brambling (bird) (Fringilla montifringilla)"
+        "meaning": "chim brambling (Fringilla montifringilla)"
       }
     ],
     "radical": {
       "symbol": "鳥",
-      "meaning": "bird"
+      "meaning": "chim"
     },
     "parts": [
       "杰",

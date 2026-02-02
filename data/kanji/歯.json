@@ -7,13 +7,14 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ha",
-    "meaning": "tooth",
+    "meaning": "răng",
     "kstroke": 12,
     "examples": [
       {
         "japanese": "歯科医（しかい）",
         "meaning": {
-          "english": "dentist"
+          "english": "dentist",
+          "vietnamese": "nha sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "永久歯（えいきゅうし）",
         "meaning": {
-          "english": "permanent tooth"
+          "english": "permanent tooth",
+          "vietnamese": "răng vĩnh viễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "乳歯（にゅうし）",
         "meaning": {
-          "english": "milk tooth, first set of teeth"
+          "english": "milk tooth, first set of teeth",
+          "vietnamese": "răng sữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ha_06_c.opus",

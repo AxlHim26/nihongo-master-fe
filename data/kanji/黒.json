@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kuroi, kuro",
-    "meaning": "black",
+    "meaning": "đen",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "黒板（こくばん）",
         "meaning": {
-          "english": "blackboard"
+          "english": "blackboard",
+          "vietnamese": "bảng đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "暗黒（あんこく）",
         "meaning": {
-          "english": "darkness"
+          "english": "darkness",
+          "vietnamese": "bóng tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "黒い（くろい）",
         "meaning": {
-          "english": "black"
+          "english": "black",
+          "vietnamese": "đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "黒髪（くろかみ）",
         "meaning": {
-          "english": "black hair"
+          "english": "black hair",
+          "vietnamese": "tóc đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "白黒（しろくろ）",
         "meaning": {
-          "english": "black and white"
+          "english": "black and white",
+          "vietnamese": "đen trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "真っ黒な（まっくろな）",
         "meaning": {
-          "english": "pitch black"
+          "english": "pitch black",
+          "vietnamese": "đen kịt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuro_06_f.opus",
@@ -225,7 +231,8 @@
     "kanji": {
       "character": "黒",
       "meaning": {
-        "english": "black"
+        "english": "black",
+        "vietnamese": "đen"
       },
       "strokes": {
         "count": 11,
@@ -285,7 +292,8 @@
         "romaji": "kuro"
       },
       "meaning": {
-        "english": "black"
+        "english": "black",
+        "vietnamese": "đen"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuro0.svg",
@@ -306,7 +314,7 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "573",
     "strokeCount": 11,
-    "meaning": "black",
+    "meaning": "đen",
     "kunyomi": [
       "くろ",
       "くろ.ずむ",

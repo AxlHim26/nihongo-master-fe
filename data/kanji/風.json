@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kaze, kaza",
-    "meaning": "wind, manner",
+    "meaning": "gió, phong cách",
     "kstroke": 9,
     "examples": [
       {
         "japanese": "風習（ふうしゅう）",
         "meaning": {
-          "english": "custom"
+          "english": "custom",
+          "vietnamese": "phong tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "風景（ふうけい）",
         "meaning": {
-          "english": "scenery"
+          "english": "scenery",
+          "vietnamese": "phong cảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "台風（たいふう）",
         "meaning": {
-          "english": "typhoon"
+          "english": "typhoon",
+          "vietnamese": "bão"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "扇風機（せんぷうき）",
         "meaning": {
-          "english": "electric fan"
+          "english": "electric fan",
+          "vietnamese": "quạt điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "風呂（ふろ）",
         "meaning": {
-          "english": "bath"
+          "english": "bath",
+          "vietnamese": "bồn tắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "風（かぜ）",
         "meaning": {
-          "english": "wind"
+          "english": "wind",
+          "vietnamese": "gió"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaze_06_f.opus",

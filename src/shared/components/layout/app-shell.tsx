@@ -37,6 +37,7 @@ type AppShellProps = {
 export default function AppShell({ children }: AppShellProps) {
   const pathname = usePathname();
   const current = getCurrentSection(pathname);
+  const isChatView = pathname.startsWith("/practice/chat");
   const { sidebarOpen, setSidebarOpen } = useLayoutStore(
     useShallow((state) => ({
       sidebarOpen: state.sidebarOpen,
@@ -73,7 +74,14 @@ export default function AppShell({ children }: AppShellProps) {
           </IconButton>
           <span className="text-sm font-semibold text-slate-600">Japience</span>
         </Stack>
-        <main className="no-scrollbar flex-1 overflow-y-auto px-6 py-8 lg:px-10">{children}</main>
+        <main
+          className={cn(
+            "no-scrollbar flex min-h-0 flex-1 flex-col px-6 py-8 lg:px-10",
+            isChatView ? "overflow-hidden" : "overflow-y-auto",
+          )}
+        >
+          {children}
+        </main>
       </Box>
     </Box>
   );

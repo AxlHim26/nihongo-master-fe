@@ -20,6 +20,7 @@ export const useSpeechRecognition = ({
   onInterim,
 }: UseSpeechRecognitionOptions): UseSpeechRecognitionResult => {
   const recognitionRef = React.useRef<SpeechRecognition | null>(null);
+  const restartTimerRef = React.useRef<number | null>(null);
   const onFinalRef = React.useRef(onFinal);
   const onInterimRef = React.useRef(onInterim);
   const lastFinalRef = React.useRef<{ text: string; at: number }>({ text: "", at: 0 });
@@ -88,23 +89,45 @@ export const useSpeechRecognition = ({
 
     recognition.onerror = (event: SpeechRecognitionErrorEvent) => {
       setError(event.error || "microphone_error");
+      const nonRetryable = new Set(["not-allowed", "service-not-allowed", "bad-grammar"]);
+      if (shouldListenRef.current && !nonRetryable.has(event.error)) {
+        if (restartTimerRef.current) {
+          window.clearTimeout(restartTimerRef.current);
+        }
+        restartTimerRef.current = window.setTimeout(() => {
+          try {
+            recognition.start();
+            setListening(true);
+          } catch {
+            setListening(false);
+          }
+        }, 250);
+      }
     };
 
     recognition.onend = () => {
       setListening(false);
       if (shouldListenRef.current) {
-        try {
-          recognition.start();
-          setListening(true);
-        } catch {
-          setListening(false);
+        if (restartTimerRef.current) {
+          window.clearTimeout(restartTimerRef.current);
         }
+        restartTimerRef.current = window.setTimeout(() => {
+          try {
+            recognition.start();
+            setListening(true);
+          } catch {
+            setListening(false);
+          }
+        }, 150);
       }
     };
 
     recognitionRef.current = recognition;
 
     return () => {
+      if (restartTimerRef.current) {
+        window.clearTimeout(restartTimerRef.current);
+      }
       recognition.stop();
       recognitionRef.current = null;
     };
@@ -117,6 +140,9 @@ export const useSpeechRecognition = ({
     }
     shouldListenRef.current = true;
     try {
+      if (restartTimerRef.current) {
+        window.clearTimeout(restartTimerRef.current);
+      }
       recognition.start();
       setListening(true);
     } catch (err) {

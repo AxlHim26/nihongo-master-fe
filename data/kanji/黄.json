@@ -7,13 +7,14 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ki, ko",
-    "meaning": "yellow",
+    "meaning": "vàng",
     "kstroke": 11,
     "examples": [
       {
         "japanese": "黄砂（こうさ）",
         "meaning": {
-          "english": "golden sands"
+          "english": "golden sands",
+          "vietnamese": "cát vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_a.opus",
@@ -25,7 +26,8 @@
       {
         "japanese": "黄金（おうごん）",
         "meaning": {
-          "english": "gold"
+          "english": "gold",
+          "vietnamese": "vàng, vàng kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_b.opus",
@@ -37,7 +39,8 @@
       {
         "japanese": "卵黄（らんおう）",
         "meaning": {
-          "english": "egg yolk"
+          "english": "egg yolk",
+          "vietnamese": "lòng đỏ trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_c.opus",
@@ -49,7 +52,8 @@
       {
         "japanese": "硫黄（いおう）",
         "meaning": {
-          "english": "sulfur, sulphur"
+          "english": "sulfur, sulphur",
+          "vietnamese": "lưu huỳnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_d.opus",
@@ -61,7 +65,8 @@
       {
         "japanese": "黄色（きいろ）",
         "meaning": {
-          "english": "yellow"
+          "english": "yellow",
+          "vietnamese": "vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_e.opus",
@@ -73,7 +78,8 @@
       {
         "japanese": "黄ばむ（きばむ）",
         "meaning": {
-          "english": "turn yellow"
+          "english": "turn yellow",
+          "vietnamese": "chuyển vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_f.opus",
@@ -85,7 +91,8 @@
       {
         "japanese": "黄金（こがね）",
         "meaning": {
-          "english": "gold"
+          "english": "gold",
+          "vietnamese": "vàng, vàng kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_g.opus",
@@ -97,7 +104,8 @@
       {
         "japanese": "*黄昏（たそがれ）",
         "meaning": {
-          "english": "dusk, twilight"
+          "english": "dusk, twilight",
+          "vietnamese": "hoàng hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(iro)_06_h.opus",
@@ -211,7 +219,8 @@
     "kanji": {
       "character": "黄",
       "meaning": {
-        "english": "yellow"
+        "english": "yellow",
+        "vietnamese": "vàng"
       },
       "strokes": {
         "count": 11,
@@ -271,7 +280,8 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "yellow"
+        "english": "yellow",
+        "vietnamese": "vàng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki-yellow0.svg",
@@ -292,7 +302,7 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1240",
     "strokeCount": 11,
-    "meaning": "yellow",
+    "meaning": "vàng",
     "kunyomi": [
       "き",
       "こ-"

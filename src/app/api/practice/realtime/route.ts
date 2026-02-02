@@ -14,10 +14,17 @@ const computeMaxTokens = (message: string) => {
   if (length <= 20) {
     return 80;
   }
-  return 140;
+  if (length <= 80) {
+    return 140;
+  }
+  return 220;
 };
 
-const createMegaLLMStream = async (message: string, settings: AgentSettings) => {
+const createMegaLLMStream = async (
+  message: string,
+  settings: AgentSettings,
+  history: Array<{ role: "user" | "assistant"; content: string }> = [],
+) => {
   const apiKey = process.env["MEGALLM_API_KEY"];
   if (!apiKey) {
     return null;
@@ -37,6 +44,7 @@ const createMegaLLMStream = async (message: string, settings: AgentSettings) => 
       max_tokens: computeMaxTokens(message),
       messages: [
         { role: "system", content: buildSystemPrompt(settings) },
+        ...history,
         { role: "user", content: message },
       ],
     }),
@@ -53,10 +61,15 @@ export async function POST(request: Request) {
   const payload = (await request.json()) as {
     message: string;
     settings: AgentSettings;
+    history?: Array<{ role: "user" | "assistant"; content: string }>;
   };
   const encoder = new TextEncoder();
 
-  const megaStream = await createMegaLLMStream(payload.message, payload.settings);
+  const megaStream = await createMegaLLMStream(
+    payload.message,
+    payload.settings,
+    payload.history ?? [],
+  );
   if (!megaStream) {
     return new Response(
       JSON.stringify({

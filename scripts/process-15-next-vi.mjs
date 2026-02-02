@@ -1,11 +1,10 @@
 /**
- * Xử lý đúng 15 file kanji CHƯA có trong data/kanji-processed.txt:
- * - Ưu tiên tên file ngắn (1 ký tự trước).
- * - Dịch meaning EN → VI (string thay bằng VI, object thêm vietnamese).
- * - Append 15 tên file vào kanji-processed.txt.
+ * Xử lý đúng 15 file kanji CHƯA có trong kanji-processed.txt:
+ * - Ưu tiên tên file ngắn (1 ký tự trước)
+ * - Dịch meaning EN → VI (string thay bằng VI, object thêm vietnamese)
+ * - Ghi file, append 15 tên vào kanji-processed.txt
  *
  * Chạy: node scripts/process-15-next-vi.mjs
- * Cần .env.local: MEGALLM_API_KEY, MEGALLM_BASE_URL, MEGALLM_MODEL
  */
 
 import fs from "node:fs/promises";
@@ -162,7 +161,6 @@ async function translateBatch(texts, attempt = 1) {
       await new Promise((r) => setTimeout(r, 1500 * attempt));
       return translateBatch(texts, attempt + 1);
     }
-    console.warn(`Batch failed: ${msg}`);
     return null;
   }
 
@@ -177,8 +175,53 @@ async function translateBatch(texts, attempt = 1) {
   }
 }
 
-// --- main ---
-const processedRaw = await fs.readFile(processedPath, "utf-8");
+async function getVietnameseMeaningForKanji(kanjiChar, attempt = 1) {
+  const prompt = `Cho chữ Hán Nhật (kanji): "${kanjiChar}". Trả lời bằng đúng một cụm từ tiếng Việt ngắn gọn là nghĩa phổ biến nhất của chữ này. Chỉ trả lời cụm từ tiếng Việt, không giải thích.`;
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  let response;
+  try {
+    response = await fetch(`${BASE_URL}/chat/completions`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        messages: [
+          { role: "system", content: "Chỉ trả lời bằng một cụm từ tiếng Việt ngắn." },
+          { role: "user", content: prompt },
+        ],
+        temperature: 0.2,
+      }),
+      signal: controller.signal,
+    });
+  } catch {
+    clearTimeout(timeout);
+    if (attempt < 2) {
+      await new Promise((r) => setTimeout(r, 1000));
+      return getVietnameseMeaningForKanji(kanjiChar, attempt + 1);
+    }
+    return null;
+  } finally {
+    clearTimeout(timeout);
+  }
+
+  if (!response.ok) return null;
+  const data = await response.json();
+  const text = (data.choices?.[0]?.message?.content ?? "").trim();
+  return text || null;
+}
+
+// 1) Đọc danh sách đã xử lý
+let processedRaw = "";
+try {
+  processedRaw = await fs.readFile(processedPath, "utf-8");
+} catch {
+  // file chưa có
+}
 const processedSet = new Set(
   processedRaw
     .split(/\r?\n/)
@@ -186,25 +229,28 @@ const processedSet = new Set(
     .filter(Boolean)
 );
 
+// 2) Liệt kê tất cả .json trong data/kanji
 const allFiles = await fs.readdir(dataDir);
 const jsonFiles = allFiles.filter((f) => f.endsWith(".json"));
+
+// 3) Chọn 15 file chưa xử lý, ưu tiên tên ngắn
 const unprocessed = jsonFiles.filter((f) => !processedSet.has(f));
-// Ưu tiên tên ngắn: sort theo độ dài tên file (1 ký tự trước)
-unprocessed.sort((a, b) => {
-  const baseA = a.slice(0, -5); // ".json" = 5 chars
-  const baseB = b.slice(0, -5);
-  const lenA = baseA.length;
-  const lenB = baseB.length;
+const byLength = unprocessed.slice().sort((a, b) => {
+  const lenA = a.length;
+  const lenB = b.length;
   if (lenA !== lenB) return lenA - lenB;
   return a.localeCompare(b);
 });
+const toProcess = byLength.slice(0, 15);
 
-const toProcess = unprocessed.slice(0, 15);
 if (toProcess.length === 0) {
   console.log("Không còn file nào chưa xử lý.");
   process.exit(0);
 }
 
+console.log(`Chọn 15 file: ${toProcess.join(", ")}`);
+
+// Load cache
 let cache = {};
 try {
   const rawCache = await fs.readFile(cachePath, "utf-8");
@@ -215,10 +261,14 @@ try {
 const saveCache = () => fs.writeFile(cachePath, JSON.stringify(cache, null, 2), "utf-8");
 
 const chunkSize = 4;
+const delayMs = Math.max(0, Number(process.env.MEGALLM_BATCH_DELAY_MS) || 3000);
+
 for (const file of toProcess) {
   const filePath = path.join(dataDir, file);
   const raw = await fs.readFile(filePath, "utf-8");
   const json = JSON.parse(raw);
+  const kanjiChar = json.id ?? file.replace(/\.json$/, "");
+
   const entries = collectMeaningTargets(json);
 
   if (entries.length > 0) {
@@ -231,12 +281,13 @@ for (const file of toProcess) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }
-      if (i + chunkSize < uniqueValues.length) {
-        await new Promise((r) => setTimeout(r, 1500));
+      if (delayMs > 0 && i + chunkSize < uniqueValues.length) {
+        await new Promise((r) => setTimeout(r, delayMs));
       }
     }
 
@@ -248,8 +299,51 @@ for (const file of toProcess) {
     });
   }
 
+  // File không có meaning (cấp kanji) → thêm nghĩa tiếng Việt
+  const hasMainMeaning =
+    (typeof json.kanjialiveData?.meaning === "string" && json.kanjialiveData.meaning.trim()) ||
+    (typeof json.jishoData?.meaning === "string" && json.jishoData.meaning.trim());
+  const existingEnglish =
+    json.kanjialiveData?.kanji?.meaning?.english ||
+    json.kanjialiveData?.meaning ||
+    json.jishoData?.meaning;
+
+  if (!hasMainMeaning) {
+    let viMeaning =
+      (typeof existingEnglish === "string" && existingEnglish.trim() && cache[existingEnglish]) ||
+      null;
+    if (!viMeaning) {
+      viMeaning = await getVietnameseMeaningForKanji(kanjiChar);
+      if (viMeaning && existingEnglish) {
+        cache[existingEnglish] = viMeaning;
+        await saveCache();
+      }
+    }
+    if (viMeaning) {
+      if (json.kanjialiveData) {
+        json.kanjialiveData.meaning = viMeaning;
+        if (json.kanjialiveData.kanji?.meaning) {
+          json.kanjialiveData.kanji.meaning.vietnamese = viMeaning;
+          if (!json.kanjialiveData.kanji.meaning.english && existingEnglish)
+            json.kanjialiveData.kanji.meaning.english = existingEnglish;
+        } else if (json.kanjialiveData.kanji) {
+          json.kanjialiveData.kanji.meaning = {
+            english: existingEnglish || "",
+            vietnamese: viMeaning,
+          };
+        }
+      }
+      if (json.jishoData) {
+        json.jishoData.meaning = viMeaning;
+      }
+    }
+  }
+
   await fs.writeFile(filePath, JSON.stringify(json, null, 2), "utf-8");
 }
 
-await fs.appendFile(processedPath, toProcess.map((f) => f).join("\n") + "\n", "utf-8");
-console.log("Đã xử lý: " + toProcess.join(", "));
+// 5) Append 15 tên file vào kanji-processed.txt
+const append = toProcess.map((f) => f).join("\n") + (processedRaw.endsWith("\n") ? "" : "\n");
+await fs.appendFile(processedPath, append);
+
+console.log("Đã xử lý:", toProcess.join(", "));
