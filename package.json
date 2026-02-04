@@ -26,7 +26,6 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@elevenlabs/elevenlabs-js": "^2.33.0",
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",

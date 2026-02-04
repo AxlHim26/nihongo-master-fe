@@ -7,9 +7,13 @@ import SettingsIcon from "@mui/icons-material/Settings";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Divider from "@mui/material/Divider";
+import FormControl from "@mui/material/FormControl";
 import IconButton from "@mui/material/IconButton";
+import InputLabel from "@mui/material/InputLabel";
+import MenuItem from "@mui/material/MenuItem";
 import Paper from "@mui/material/Paper";
 import Popover from "@mui/material/Popover";
+import Select from "@mui/material/Select";
 import Typography from "@mui/material/Typography";
 import * as React from "react";
 import { useShallow } from "zustand/react/shallow";
@@ -72,8 +76,6 @@ export default function PracticeChatView() {
   const idleStoryBufferRef = React.useRef("");
   const lastIdleStoryRef = React.useRef("");
   const speechRateMultiplierRef = React.useRef(1);
-  const audioRef = React.useRef<HTMLAudioElement | null>(null);
-  const ttsAbortRef = React.useRef<AbortController | null>(null);
   const speechModeRef = React.useRef<"normal" | "story">("normal");
   const storageKey = "practice-conversations";
   const normalizeText = React.useCallback(
@@ -140,24 +142,136 @@ export default function PracticeChatView() {
       ? pendingConversation
       : conversations.find((conv) => conv.id === activeConversationId)) ?? null;
 
-  const fetchTtsAudio = React.useCallback(async (text: string) => {
-    const controller = new AbortController();
-    ttsAbortRef.current?.abort();
-    ttsAbortRef.current = controller;
-    const response = await fetch("/api/practice/tts", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text }),
-      signal: controller.signal,
-    });
-    if (!response.ok) {
-      const errorPayload = await response.json().catch(() => null);
-      const message =
-        (errorPayload && typeof errorPayload.error === "string" && errorPayload.error) ||
-        "Không thể kết nối ElevenLabs.";
-      throw new Error(message);
+  const [ttsVoices, setTtsVoices] = React.useState<SpeechSynthesisVoice[]>([]);
+
+  const pickPreferredVoice = React.useCallback((voices: SpeechSynthesisVoice[]) => {
+    if (!voices.length) {
+      return null;
     }
-    return response.blob();
+
+    const preferredNames = [
+      "Kyoko",
+      "Haruka",
+      "Hina",
+      "Hana",
+      "Siri",
+      "Google 日本語",
+      "Google Japanese",
+      "Japanese Female",
+    ];
+
+    const byName = voices.find((voice) =>
+      preferredNames.some((name) => voice.name.toLowerCase().includes(name.toLowerCase())),
+    );
+    if (byName) {
+      return byName;
+    }
+
+    const japaneseVoice = voices.find((voice) => voice.lang.toLowerCase().startsWith("ja"));
+    if (japaneseVoice) {
+      return japaneseVoice;
+    }
+
+    return voices[0];
+  }, []);
+
+  const displayVoices = React.useMemo(() => {
+    if (!ttsVoices.length) {
+      return [];
+    }
+
+    const preferredNames = ["Google 日本語", "Google Japanese", "Kyoko", "Haruka", "Hina", "Hana"];
+
+    const isPreferred = (voice: SpeechSynthesisVoice) =>
+      preferredNames.some((name) => voice.name.toLowerCase().includes(name.toLowerCase()));
+
+    const japaneseVoices = ttsVoices.filter((voice) => voice.lang.toLowerCase().startsWith("ja"));
+    const preferredJapanese = japaneseVoices.filter(isPreferred);
+
+    const pickUnique = (voices: SpeechSynthesisVoice[]) => {
+      const seen = new Set<string>();
+      return voices.filter((voice) => {
+        if (seen.has(voice.name)) {
+          return false;
+        }
+        seen.add(voice.name);
+        return true;
+      });
+    };
+
+    const candidates = pickUnique(preferredJapanese);
+
+    return candidates.slice(0, 2);
+  }, [ttsVoices]);
+
+  const speakWithBrowserTts = React.useCallback(
+    (text: string, rate: number, voiceName: string | null, emotional: number) => {
+      if (typeof window === "undefined" || !("speechSynthesis" in window)) {
+        return Promise.resolve();
+      }
+
+      const segments =
+        emotional >= 35
+          ? text.split(/(?<=[。！？!?])\s*/).filter((seg) => seg.trim().length > 0)
+          : [text];
+
+      const voices = window.speechSynthesis.getVoices();
+      const voiceCandidates = displayVoices.length ? displayVoices : voices;
+      const matched =
+        voiceName && voiceCandidates.length
+          ? voiceCandidates.find((voice) => voice.name === voiceName)
+          : null;
+      const voice = matched ?? pickPreferredVoice(voiceCandidates);
+
+      const speakSegment = (segment: string) =>
+        new Promise<void>((resolve) => {
+          const utterance = new SpeechSynthesisUtterance(segment);
+          if (voice) {
+            utterance.voice = voice;
+            utterance.lang = voice.lang || "ja-JP";
+          } else {
+            utterance.lang = "ja-JP";
+          }
+          const base = Math.max(0, Math.min(100, emotional));
+          const pitchBase = 1.0 + Math.min(0.45, base / 220);
+          const rateBase = Math.max(0.75, Math.min(1.25, rate));
+          const pitchJitter = (Math.random() * 2 - 1) * (base / 400);
+          const rateJitter = (Math.random() * 2 - 1) * (base / 800);
+          utterance.rate = Math.max(0.65, Math.min(1.35, rateBase + rateJitter));
+          utterance.pitch = Math.max(0.85, Math.min(1.5, pitchBase + pitchJitter));
+          utterance.onend = () => resolve();
+          utterance.onerror = () => resolve();
+          window.speechSynthesis.speak(utterance);
+        });
+
+      return new Promise<void>(async (resolve) => {
+        window.speechSynthesis.cancel();
+        for (let i = 0; i < segments.length; i += 1) {
+          await speakSegment(segments[i]);
+          if (i < segments.length - 1) {
+            await new Promise((pauseResolve) => setTimeout(pauseResolve, 120));
+          }
+        }
+        resolve();
+      });
+    },
+    [pickPreferredVoice, displayVoices],
+  );
+
+  React.useEffect(() => {
+    if (typeof window === "undefined" || !("speechSynthesis" in window)) {
+      return;
+    }
+
+    const loadVoices = () => {
+      setTtsVoices(window.speechSynthesis.getVoices());
+    };
+
+    loadVoices();
+    window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
+    return () => {
+      window.speechSynthesis.removeEventListener("voiceschanged", loadVoices);
+    };
   }, []);
 
   React.useEffect(() => {
@@ -215,33 +329,19 @@ export default function PracticeChatView() {
       const tempo = Math.max(1.1, Math.min(2.8, 2.4 / (baseRate * rateMultiplier)));
       setWaveDuration(tempo);
       try {
-        const blob = await fetchTtsAudio(next);
-        const url = URL.createObjectURL(blob);
-        const audio = new Audio(url);
-        audioRef.current = audio;
-        audio.onended = () => {
-          URL.revokeObjectURL(url);
-          speakingRef.current = false;
-          setIsSpeaking(false);
-          speakNext(settings);
-        };
-        audio.onerror = () => {
-          URL.revokeObjectURL(url);
-          speakingRef.current = false;
-          setIsSpeaking(false);
-          speakNext(settings);
-        };
-        await audio.play();
-      } catch (error) {
-        if (error instanceof Error && error.message) {
-          setStreamError(error.message);
-        }
+        await speakWithBrowserTts(
+          next,
+          baseRate * rateMultiplier,
+          settings.voiceName,
+          settings.emotional,
+        );
+      } finally {
         speakingRef.current = false;
         setIsSpeaking(false);
         speakNext(settings);
       }
     },
-    [callActive, fetchTtsAudio],
+    [callActive, speakWithBrowserTts],
   );
 
   const enqueueSpeech = React.useCallback(
@@ -681,13 +781,14 @@ export default function PracticeChatView() {
     if (!micSupported) {
       return;
     }
-    if (callActive && !callMuted) {
+    const shouldListen = callActive && !callMuted && !isSpeaking;
+    if (shouldListen) {
       startMic();
     } else {
       stopMic();
     }
     return () => stopMic();
-  }, [callActive, callMuted, micSupported, startMic, stopMic]);
+  }, [callActive, callMuted, isSpeaking, micSupported, startMic, stopMic]);
 
   React.useEffect(() => {
     if (!callActive) {
@@ -700,10 +801,8 @@ export default function PracticeChatView() {
       lastIdleStoryRef.current = "";
       speechRateMultiplierRef.current = 1;
       speechModeRef.current = "normal";
-      ttsAbortRef.current?.abort();
-      if (audioRef.current) {
-        audioRef.current.pause();
-        audioRef.current = null;
+      if (typeof window !== "undefined") {
+        window.speechSynthesis?.cancel();
       }
       return;
     }
@@ -732,13 +831,8 @@ export default function PracticeChatView() {
     lastIdleStoryRef.current = "";
     speechRateMultiplierRef.current = 1;
     speechModeRef.current = "normal";
-    ttsAbortRef.current?.abort();
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current = null;
-    }
     if (typeof window !== "undefined") {
-      // no-op for ElevenLabs audio
+      window.speechSynthesis?.cancel();
     }
     if (micSupported) {
       stopMic();
@@ -927,9 +1021,28 @@ export default function PracticeChatView() {
         <div className="mt-4">
           <AgentSettings settings={agentSettings} onChange={updateAgentSettings} />
         </div>
-        <div className="mt-4 space-y-2">
+        <div className="mt-4 space-y-3">
+          <FormControl size="small" fullWidth>
+            <InputLabel id="tts-voice-label">Giọng đọc</InputLabel>
+            <Select
+              labelId="tts-voice-label"
+              value={agentSettings.voiceName ?? ""}
+              label="Giọng đọc"
+              onChange={(event) =>
+                updateAgentSettings({
+                  voiceName: event.target.value ? String(event.target.value) : null,
+                })
+              }
+            >
+              {displayVoices.map((voice) => (
+                <MenuItem key={`${voice.name}-${voice.lang}`} value={voice.name}>
+                  {voice.name} ({voice.lang})
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
           <Typography variant="caption" color="text.secondary">
-            TTS: ElevenLabs
+            TTS: System voice{agentSettings.voiceName ? ` (${agentSettings.voiceName})` : ""}
           </Typography>
           <Typography variant="caption" color="text.secondary">
             LLM: {llmProvider === "megallm" ? "MegaLLM" : "Local fallback"}
