@@ -247,7 +247,8 @@ export default function PracticeChatView() {
       return new Promise<void>(async (resolve) => {
         window.speechSynthesis.cancel();
         for (let i = 0; i < segments.length; i += 1) {
-          await speakSegment(segments[i]);
+          const segment = segments[i] ?? "";
+          await speakSegment(segment);
           if (i < segments.length - 1) {
             await new Promise((pauseResolve) => setTimeout(pauseResolve, 120));
           }
