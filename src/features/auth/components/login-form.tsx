@@ -62,7 +62,7 @@ export default function LoginForm() {
   const mutation = useMutation({
     mutationFn: authenticate,
     onSuccess: (data) => {
-      authStorage.setSession(data.token, username);
+      authStorage.setSession(data.token);
       router.replace(targetPath);
     },
   });

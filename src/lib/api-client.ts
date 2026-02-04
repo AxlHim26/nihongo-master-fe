@@ -96,8 +96,7 @@ const refreshAccessToken = async () => {
       return null;
     }
 
-    const username = authStorage.getUsername();
-    authStorage.setSession(token, username ?? "");
+    authStorage.setSession(token);
     return token;
   })();
 
