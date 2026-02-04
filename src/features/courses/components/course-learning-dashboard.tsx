@@ -62,10 +62,15 @@ const SECTION_META: Record<
   },
 };
 
-const getYoutubeEmbedUrl = (rawUrl: string) => {
+const getVideoEmbedUrl = (rawUrl: string) => {
   try {
     const url = new URL(rawUrl);
     const host = url.hostname.replace("www.", "");
+    if (host === "drive.google.com") {
+      const match = url.pathname.match(/\/file\/d\/([^/]+)\/?/);
+      const fileId = match?.[1] ?? url.searchParams.get("id");
+      return fileId ? `https://drive.google.com/file/d/${fileId}/preview` : null;
+    }
     if (host === "youtu.be") {
       const id = url.pathname.slice(1);
       return id ? `https://www.youtube.com/embed/${id}` : null;
@@ -129,6 +134,19 @@ export default function CourseLearningDashboard() {
   const selectedSection = findSectionByType(selectedChapter, selectedSectionType);
   const selectedLesson = findLessonById(selectedSection, selectedLessonId);
 
+  const lessonCountByCourse = React.useMemo(() => {
+    const map = new Map<number, number>();
+    courses.forEach((course) => {
+      const total = course.chapters.reduce(
+        (sum, chapter) =>
+          sum + chapter.sections.reduce((acc, section) => acc + section.lessons.length, 0),
+        0,
+      );
+      map.set(course.id, total);
+    });
+    return map;
+  }, [courses]);
+
   const sectionsByType = React.useMemo(() => {
     const map: Partial<Record<SectionType, CourseSection>> = {};
     selectedChapter?.sections.forEach((section) => {
@@ -191,45 +209,45 @@ export default function CourseLearningDashboard() {
     }
   }, [selectedSection, selectedLessonId]);
 
-  const handleLogout = () => {
+  const handleLogout = React.useCallback(() => {
     authStorage.clearSession();
     router.replace("/login");
-  };
+  }, [router]);
 
-  const handleSelectCourse = (course: CourseTree) => {
-    setSelectedCourseId(course.id);
+  const handleSelectCourse = React.useCallback((courseId: number) => {
+    setSelectedCourseId(courseId);
     setSelectedChapterId(null);
     setSelectedSectionType(null);
     setSelectedLessonId(null);
-  };
+  }, []);
 
-  const handleBackToCourseList = () => {
+  const handleBackToCourseList = React.useCallback(() => {
     setSelectedCourseId(null);
     setSelectedChapterId(null);
     setSelectedSectionType(null);
     setSelectedLessonId(null);
-  };
+  }, []);
 
-  const handleSelectChapter = (chapterId: number) => {
+  const handleSelectChapter = React.useCallback((chapterId: number) => {
     setSelectedChapterId(chapterId);
     setSelectedSectionType(null);
     setSelectedLessonId(null);
-  };
+  }, []);
 
-  const handleBackToChapterList = () => {
+  const handleBackToChapterList = React.useCallback(() => {
     setSelectedChapterId(null);
     setSelectedSectionType(null);
     setSelectedLessonId(null);
-  };
+  }, []);
 
-  const handleBackToSectionList = () => {
+  const handleBackToSectionList = React.useCallback(() => {
     setSelectedSectionType(null);
     setSelectedLessonId(null);
-  };
+  }, []);
 
-  const handleBackToLessons = () => {
+  const handleBackToLessons = React.useCallback(() => {
     setSelectedLessonId(null);
-  };
+  }, []);
 
   const showCourseList = !selectedCourse;
   const showChapterList = Boolean(selectedCourse) && !selectedChapter;
@@ -307,39 +325,12 @@ export default function CourseLearningDashboard() {
               </Stack>
               <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
                 {courses.map((course) => (
-                  <Paper
+                  <CourseCard
                     key={course.id}
-                    elevation={0}
-                    onClick={() => handleSelectCourse(course)}
-                    className="group relative aspect-square cursor-pointer overflow-hidden rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)] p-5 transition hover:-translate-y-[2px] hover:border-blue-200 hover:shadow-lg"
-                  >
-                    <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(59,130,246,0.14),transparent_42%),linear-gradient(160deg,rgba(15,23,42,0.03),transparent_55%)]" />
-                    <div className="relative flex h-full flex-col justify-between">
-                      <Stack spacing={1.5}>
-                        <Typography variant="subtitle1" fontWeight={700}>
-                          {course.name}
-                        </Typography>
-                        <Typography variant="body2" color="text.secondary">
-                          {course.description ?? "Khóa học chưa có mô tả."}
-                        </Typography>
-                      </Stack>
-                      <Stack direction="row" spacing={1} flexWrap="wrap">
-                        <Chip size="small" label={`${course.chapters.length} chương`} />
-                        <Chip
-                          size="small"
-                          label={`${course.chapters.reduce(
-                            (sum, chapter) =>
-                              sum +
-                              chapter.sections.reduce(
-                                (acc, section) => acc + section.lessons.length,
-                                0,
-                              ),
-                            0,
-                          )} bài học`}
-                        />
-                      </Stack>
-                    </div>
-                  </Paper>
+                    course={course}
+                    lessonCount={lessonCountByCourse.get(course.id) ?? 0}
+                    onSelect={handleSelectCourse}
+                  />
                 ))}
               </div>
             </Stack>
@@ -374,21 +365,11 @@ export default function CourseLearningDashboard() {
               ) : (
                 <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
                   {selectedCourse.chapters.map((chapter) => (
-                    <Paper
+                    <ChapterCard
                       key={chapter.id}
-                      elevation={0}
-                      onClick={() => handleSelectChapter(chapter.id)}
-                      className="cursor-pointer rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-4 transition hover:border-blue-200"
-                    >
-                      <Stack spacing={1}>
-                        <Typography variant="subtitle1" fontWeight={700}>
-                          Chương {chapter.chapterOrder}: {chapter.title}
-                        </Typography>
-                        <Typography variant="body2" color="text.secondary">
-                          {chapter.description ?? "Không có mô tả cho chương này."}
-                        </Typography>
-                      </Stack>
-                    </Paper>
+                      chapter={chapter}
+                      onSelect={handleSelectChapter}
+                    />
                   ))}
                 </div>
               )}
@@ -416,59 +397,17 @@ export default function CourseLearningDashboard() {
                 Chọn mục học
               </Typography>
               <div className="grid gap-3 md:grid-cols-3">
-                {SECTION_ORDER.map((sectionType) => {
-                  const section = sectionsByType[sectionType];
-                  const meta = SECTION_META[sectionType];
-                  return (
-                    <Paper
-                      key={sectionType}
-                      elevation={0}
-                      onClick={() => {
-                        if (section) {
-                          setSelectedSectionType(sectionType);
-                          setSelectedLessonId(null);
-                        }
-                      }}
-                      className={`rounded-2xl border p-4 transition ${
-                        section
-                          ? "cursor-pointer border-[var(--app-border)] bg-[var(--app-card)] hover:border-blue-200"
-                          : "cursor-not-allowed border-dashed border-[var(--app-border)] bg-[var(--app-card)] opacity-70"
-                      }`}
-                    >
-                      <Stack spacing={1.5}>
-                        <Stack direction="row" justifyContent="space-between" alignItems="center">
-                          <span
-                            className={`rounded-lg px-2 py-1 text-xs font-semibold ${meta.colorClass}`}
-                          >
-                            {meta.icon}
-                          </span>
-                          <Chip
-                            size="small"
-                            label={
-                              !section
-                                ? "Trống"
-                                : section.status === "UNDER_DEVELOPMENT"
-                                  ? "Đang phát triển"
-                                  : `${section.lessons.length} bài`
-                            }
-                            color={
-                              section && section.status !== "UNDER_DEVELOPMENT"
-                                ? "primary"
-                                : "default"
-                            }
-                            variant={section ? "filled" : "outlined"}
-                          />
-                        </Stack>
-                        <Typography variant="subtitle1" fontWeight={700}>
-                          {meta.title}
-                        </Typography>
-                        <Typography variant="body2" color="text.secondary">
-                          {section?.title ?? meta.description}
-                        </Typography>
-                      </Stack>
-                    </Paper>
-                  );
-                })}
+                {SECTION_ORDER.map((sectionType) => (
+                  <SectionCard
+                    key={sectionType}
+                    sectionType={sectionType}
+                    section={sectionsByType[sectionType] ?? null}
+                    onSelect={(type) => {
+                      setSelectedSectionType(type);
+                      setSelectedLessonId(null);
+                    }}
+                  />
+                ))}
               </div>
             </Stack>
           )}
@@ -513,24 +452,11 @@ export default function CourseLearningDashboard() {
                   ) : (
                     <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
                       {selectedSection.lessons.map((lesson) => (
-                        <Paper
+                        <LessonCard
                           key={lesson.id}
-                          elevation={0}
-                          onClick={() => setSelectedLessonId(lesson.id)}
-                          className="cursor-pointer rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-4 transition hover:border-blue-200"
-                        >
-                          <Stack spacing={1}>
-                            <div className="flex items-center justify-between gap-2">
-                              <Typography variant="subtitle1" fontWeight={700}>
-                                {lesson.title}
-                              </Typography>
-                              <PlayCircleRoundedIcon fontSize="small" />
-                            </div>
-                            <Typography variant="caption" color="text.secondary">
-                              Bài {lesson.lessonOrder}
-                            </Typography>
-                          </Stack>
-                        </Paper>
+                          lesson={lesson}
+                          onSelect={setSelectedLessonId}
+                        />
                       ))}
                     </div>
                   )}
@@ -560,31 +486,14 @@ export default function CourseLearningDashboard() {
                       Danh sách bài học
                     </Typography>
                     <div className="flex gap-2 overflow-x-auto pb-2 lg:max-h-[740px] lg:flex-col lg:overflow-y-auto">
-                      {selectedSection.lessons.map((lesson) => {
-                        const active = lesson.id === selectedLesson.id;
-                        return (
-                          <button
-                            key={lesson.id}
-                            type="button"
-                            onClick={() => setSelectedLessonId(lesson.id)}
-                            className={`min-w-[200px] rounded-xl border px-3 py-2 text-left transition lg:min-w-0 ${
-                              active
-                                ? "border-blue-300 bg-blue-50 dark:bg-blue-500/10"
-                                : "border-[var(--app-border)] hover:border-blue-200"
-                            }`}
-                          >
-                            <div className="flex items-center justify-between gap-2">
-                              <Typography variant="body2" fontWeight={600}>
-                                {lesson.title}
-                              </Typography>
-                              <PlayCircleRoundedIcon fontSize="small" />
-                            </div>
-                            <Typography variant="caption" color="text.secondary">
-                              Bài {lesson.lessonOrder}
-                            </Typography>
-                          </button>
-                        );
-                      })}
+                      {selectedSection.lessons.map((lesson) => (
+                        <LessonListItem
+                          key={lesson.id}
+                          lesson={lesson}
+                          active={lesson.id === selectedLesson.id}
+                          onSelect={setSelectedLessonId}
+                        />
+                      ))}
                     </div>
                   </Paper>
                 </div>
@@ -597,12 +506,191 @@ export default function CourseLearningDashboard() {
   );
 }
 
+type CourseCardProps = {
+  course: CourseTree;
+  lessonCount: number;
+  onSelect: (courseId: number) => void;
+};
+
+const CourseCard = React.memo(function CourseCard({
+  course,
+  lessonCount,
+  onSelect,
+}: CourseCardProps) {
+  return (
+    <Paper
+      elevation={0}
+      onClick={() => onSelect(course.id)}
+      className="group relative aspect-square cursor-pointer overflow-hidden rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)] p-5 transition hover:-translate-y-[2px] hover:border-blue-200 hover:shadow-lg"
+    >
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(59,130,246,0.14),transparent_42%),linear-gradient(160deg,rgba(15,23,42,0.03),transparent_55%)]" />
+      <div className="relative flex h-full flex-col justify-between">
+        <Stack spacing={1.5}>
+          <Typography variant="subtitle1" fontWeight={700}>
+            {course.name}
+          </Typography>
+          <Typography variant="body2" color="text.secondary">
+            {course.description ?? "Khóa học chưa có mô tả."}
+          </Typography>
+        </Stack>
+        <Stack direction="row" spacing={1} flexWrap="wrap">
+          <Chip size="small" label={`${course.chapters.length} chương`} />
+          <Chip size="small" label={`${lessonCount} bài học`} />
+        </Stack>
+      </div>
+    </Paper>
+  );
+});
+
+type ChapterCardProps = {
+  chapter: CourseChapter;
+  onSelect: (chapterId: number) => void;
+};
+
+const ChapterCard = React.memo(function ChapterCard({ chapter, onSelect }: ChapterCardProps) {
+  return (
+    <Paper
+      elevation={0}
+      onClick={() => onSelect(chapter.id)}
+      className="cursor-pointer rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-4 transition hover:border-blue-200"
+    >
+      <Stack spacing={1}>
+        <Typography variant="subtitle1" fontWeight={700}>
+          Chương {chapter.chapterOrder}: {chapter.title}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          {chapter.description ?? "Không có mô tả cho chương này."}
+        </Typography>
+      </Stack>
+    </Paper>
+  );
+});
+
+type SectionCardProps = {
+  sectionType: SectionType;
+  section: CourseSection | null;
+  onSelect: (type: SectionType) => void;
+};
+
+const SectionCard = React.memo(function SectionCard({
+  sectionType,
+  section,
+  onSelect,
+}: SectionCardProps) {
+  const meta = SECTION_META[sectionType];
+  return (
+    <Paper
+      elevation={0}
+      onClick={() => {
+        if (section) {
+          onSelect(sectionType);
+        }
+      }}
+      className={`rounded-2xl border p-4 transition ${
+        section
+          ? "cursor-pointer border-[var(--app-border)] bg-[var(--app-card)] hover:border-blue-200"
+          : "cursor-not-allowed border-dashed border-[var(--app-border)] bg-[var(--app-card)] opacity-70"
+      }`}
+    >
+      <Stack spacing={1.5}>
+        <Stack direction="row" justifyContent="space-between" alignItems="center">
+          <span className={`rounded-lg px-2 py-1 text-xs font-semibold ${meta.colorClass}`}>
+            {meta.icon}
+          </span>
+          <Chip
+            size="small"
+            label={
+              !section
+                ? "Trống"
+                : section.status === "UNDER_DEVELOPMENT"
+                  ? "Đang phát triển"
+                  : `${section.lessons.length} bài`
+            }
+            color={section && section.status !== "UNDER_DEVELOPMENT" ? "primary" : "default"}
+            variant={section ? "filled" : "outlined"}
+          />
+        </Stack>
+        <Typography variant="subtitle1" fontWeight={700}>
+          {meta.title}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          {section?.title ?? meta.description}
+        </Typography>
+      </Stack>
+    </Paper>
+  );
+});
+
+type LessonCardProps = {
+  lesson: CourseLesson;
+  onSelect: (lessonId: number) => void;
+};
+
+const LessonCard = React.memo(function LessonCard({ lesson, onSelect }: LessonCardProps) {
+  return (
+    <Paper
+      elevation={0}
+      onClick={() => onSelect(lesson.id)}
+      className="cursor-pointer rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-4 transition hover:border-blue-200"
+    >
+      <Stack spacing={1}>
+        <div className="flex items-center justify-between gap-2">
+          <Typography variant="subtitle1" fontWeight={700}>
+            {lesson.title}
+          </Typography>
+          <PlayCircleRoundedIcon fontSize="small" />
+        </div>
+        <Typography variant="caption" color="text.secondary">
+          Bài {lesson.lessonOrder}
+        </Typography>
+      </Stack>
+    </Paper>
+  );
+});
+
+type LessonListItemProps = {
+  lesson: CourseLesson;
+  active: boolean;
+  onSelect: (lessonId: number) => void;
+};
+
+const LessonListItem = React.memo(function LessonListItem({
+  lesson,
+  active,
+  onSelect,
+}: LessonListItemProps) {
+  return (
+    <button
+      type="button"
+      onClick={() => onSelect(lesson.id)}
+      className={`min-w-[200px] rounded-xl border px-3 py-2 text-left transition lg:min-w-0 ${
+        active
+          ? "border-blue-300 bg-blue-50 dark:bg-blue-500/10"
+          : "border-[var(--app-border)] hover:border-blue-200"
+      }`}
+    >
+      <div className="flex items-center justify-between gap-2">
+        <Typography variant="body2" fontWeight={600}>
+          {lesson.title}
+        </Typography>
+        <PlayCircleRoundedIcon fontSize="small" />
+      </div>
+      <Typography variant="caption" color="text.secondary">
+        Bài {lesson.lessonOrder}
+      </Typography>
+    </button>
+  );
+});
+
 type LessonVideoProps = {
   lesson: CourseLesson;
 };
 
-function LessonVideo({ lesson }: LessonVideoProps) {
-  const embedUrl = lesson.videoUrl ? getYoutubeEmbedUrl(lesson.videoUrl) : null;
+const LessonVideo = React.memo(function LessonVideo({ lesson }: LessonVideoProps) {
+  const embedUrl = React.useMemo(
+    () => (lesson.videoUrl ? getVideoEmbedUrl(lesson.videoUrl) : null),
+    [lesson.videoUrl],
+  );
 
   return (
     <Paper
@@ -644,13 +732,13 @@ function LessonVideo({ lesson }: LessonVideoProps) {
       </Stack>
     </Paper>
   );
-}
+});
 
 type LessonPdfProps = {
   lesson: CourseLesson;
 };
 
-function LessonPdf({ lesson }: LessonPdfProps) {
+const LessonPdf = React.memo(function LessonPdf({ lesson }: LessonPdfProps) {
   return (
     <Paper
       elevation={0}
@@ -680,4 +768,4 @@ function LessonPdf({ lesson }: LessonPdfProps) {
       </Stack>
     </Paper>
   );
-}
+});
