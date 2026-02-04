@@ -7,12 +7,12 @@ import PlayArrowRoundedIcon from "@mui/icons-material/PlayArrowRounded";
 import Paper from "@mui/material/Paper";
 import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
-import { useEffect, useMemo, useState } from "react";
+import * as React from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 import KanjiDrawInput from "@/features/kanji/components/kanji-draw-input";
 import KanjiMapList from "@/features/kanji/components/kanji-map-list";
 import KanjiSearch from "@/features/kanji/components/kanji-search";
-import KanjiStats from "@/features/kanji/components/kanji-stats";
 import RadicalRelationMap from "@/features/kanji/components/radical-relation-map";
 import { kanjiGroupLabel, type KanjiSearchEntry } from "@/features/kanji/data/kanji-search";
 import type { KanjiExample, KanjiInfo } from "@/features/kanji/types/kanji-info";
@@ -155,35 +155,38 @@ export default function KanjiMapView() {
     };
   }, [missingKey]);
 
-  const translate = (text?: string) => {
-    if (!text) return undefined;
-    return translations[text];
-  };
+  const translate = useCallback(
+    (text?: string) => {
+      if (!text) return undefined;
+      return translations[text];
+    },
+    [translations],
+  );
 
-  const onReadings = getOnReadings(kanjiInfo);
-  const kunReadings = getKunReadings(kanjiInfo);
-  const examples = kanjiInfo?.kanjialiveData?.examples ?? [];
+  const onReadings = useMemo(() => getOnReadings(kanjiInfo), [kanjiInfo]);
+  const kunReadings = useMemo(() => getKunReadings(kanjiInfo), [kanjiInfo]);
+  const examples = useMemo(() => kanjiInfo?.kanjialiveData?.examples ?? [], [kanjiInfo]);
 
-  const mainMeaning =
-    kanjiInfo?.kanjialiveData?.meaning ||
-    kanjiInfo?.jishoData?.meaning ||
-    translate(kanjiInfo?.kanjialiveData?.meaning || kanjiInfo?.jishoData?.meaning);
+  const mainMeaning = useMemo(() => {
+    const rawMeaning = kanjiInfo?.kanjialiveData?.meaning || kanjiInfo?.jishoData?.meaning;
+    return rawMeaning || translate(rawMeaning);
+  }, [kanjiInfo, translate]);
 
-  const handleSelectChange = (entry: KanjiSearchEntry | null) => {
+  const handleSelectChange = useCallback((entry: KanjiSearchEntry | null) => {
     setSelected(entry);
     if (!entry) {
       setKanjiInfo(null);
       setError(null);
     }
-  };
+  }, []);
 
-  const playAudio = (example: KanjiExample) => {
+  const playAudio = useCallback((example: KanjiExample) => {
     const audioUrl =
       example.audio?.mp3 || example.audio?.ogg || example.audio?.aac || example.audio?.opus;
     if (!audioUrl) return;
     const audio = new Audio(audioUrl);
     audio.play().catch(() => undefined);
-  };
+  }, []);
 
   return (
     <Stack spacing={4}>
@@ -327,47 +330,14 @@ export default function KanjiMapView() {
                 </div>
                 {examples.length ? (
                   <div className="max-h-[270px] space-y-3 overflow-y-auto pr-1">
-                    {examples.map((example) => {
-                      const { base, reading } = parseFurigana(example.japanese);
-                      const meaning =
-                        example.meaning?.vietnamese ??
-                        translate(example.meaning?.english) ??
-                        example.meaning?.english;
-                      return (
-                        <div
-                          key={example.japanese}
-                          className="flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-[var(--app-border)] bg-[var(--app-bg)] p-4"
-                        >
-                          <div>
-                            <div className="text-lg font-semibold">
-                              {reading ? (
-                                <ruby>
-                                  {base}
-                                  <rt className="text-xs text-[var(--app-muted)]">{reading}</rt>
-                                </ruby>
-                              ) : (
-                                base
-                              )}
-                            </div>
-                            <div className="text-sm text-[var(--app-muted)]">
-                              {meaning ?? "Chưa có nghĩa tiếng Việt"}
-                            </div>
-                          </div>
-                          <button
-                            type="button"
-                            className={cn(
-                              "flex items-center gap-2 rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm transition",
-                              "hover:-translate-y-[1px] hover:border-indigo-200",
-                              "dark:bg-slate-950 dark:text-slate-100",
-                            )}
-                            onClick={() => playAudio(example)}
-                          >
-                            <PlayArrowRoundedIcon fontSize="small" />
-                            Nghe
-                          </button>
-                        </div>
-                      );
-                    })}
+                    {examples.map((example) => (
+                      <KanjiExampleRow
+                        key={example.japanese}
+                        example={example}
+                        onPlay={playAudio}
+                        translate={translate}
+                      />
+                    ))}
                   </div>
                 ) : (
                   <div className="rounded-2xl border border-dashed border-[var(--app-border)] bg-[var(--app-bg)] p-4 text-sm text-[var(--app-muted)]">
@@ -380,11 +350,57 @@ export default function KanjiMapView() {
         </Paper>
       </div>
 
-      <KanjiStats />
-
       {selected && !loading && !error && <RadicalRelationMap kanjiInfo={kanjiInfo} />}
 
       <KanjiMapList />
     </Stack>
   );
 }
+
+type KanjiExampleRowProps = {
+  example: KanjiExample;
+  onPlay: (example: KanjiExample) => void;
+  translate: (text?: string) => string | undefined;
+};
+
+const KanjiExampleRow = React.memo(function KanjiExampleRow({
+  example,
+  onPlay,
+  translate,
+}: KanjiExampleRowProps) {
+  const { base, reading } = parseFurigana(example.japanese);
+  const meaning =
+    example.meaning?.vietnamese ?? translate(example.meaning?.english) ?? example.meaning?.english;
+
+  return (
+    <div className="flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-[var(--app-border)] bg-[var(--app-bg)] p-4">
+      <div>
+        <div className="text-lg font-semibold">
+          {reading ? (
+            <ruby>
+              {base}
+              <rt className="text-xs text-[var(--app-muted)]">{reading}</rt>
+            </ruby>
+          ) : (
+            base
+          )}
+        </div>
+        <div className="text-sm text-[var(--app-muted)]">
+          {meaning ?? "Chưa có nghĩa tiếng Việt"}
+        </div>
+      </div>
+      <button
+        type="button"
+        className={cn(
+          "flex items-center gap-2 rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm transition",
+          "hover:-translate-y-[1px] hover:border-indigo-200",
+          "dark:bg-slate-950 dark:text-slate-100",
+        )}
+        onClick={() => onPlay(example)}
+      >
+        <PlayArrowRoundedIcon fontSize="small" />
+        Nghe
+      </button>
+    </div>
+  );
+});

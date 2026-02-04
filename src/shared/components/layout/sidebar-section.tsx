@@ -1,3 +1,5 @@
+import * as React from "react";
+
 import SidebarItem from "@/shared/components/layout/sidebar-item";
 import type { NavSection } from "@/shared/types/navigation";
 import { cn } from "@/shared/utils/cn";
@@ -7,7 +9,7 @@ type SidebarSectionProps = {
   onItemClick?: (id: string) => void;
 };
 
-export default function SidebarSection({ section, activeId, onItemClick }: SidebarSectionProps) {
+function SidebarSection({ section, activeId, onItemClick }: SidebarSectionProps) {
   const titleStyle = section.titleStyle ?? "upper";
   const iconTone = titleStyle === "upper" ? "text-slate-400" : "text-slate-500";
   return (
@@ -40,7 +42,7 @@ export default function SidebarSection({ section, activeId, onItemClick }: Sideb
               key={item.id}
               item={item}
               active={Boolean(isActive)}
-              onClick={() => onItemClick?.(item.id)}
+              {...(onItemClick ? { onClick: onItemClick } : {})}
             />
           );
         })}
@@ -48,3 +50,5 @@ export default function SidebarSection({ section, activeId, onItemClick }: Sideb
     </div>
   );
 }
+
+export default React.memo(SidebarSection);
