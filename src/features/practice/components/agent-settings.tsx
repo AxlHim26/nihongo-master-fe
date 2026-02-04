@@ -56,19 +56,6 @@ export default function AgentSettings({ settings, onChange }: AgentSettingsProps
           sx={sliderSx}
         />
       </div>
-      <div>
-        <Typography variant="caption" color="text.secondary">
-          Personality
-        </Typography>
-        <Slider
-          value={settings.personality}
-          min={0}
-          max={100}
-          onChange={(_, value) => onChange({ personality: value as number })}
-          valueLabelDisplay="auto"
-          sx={sliderSx}
-        />
-      </div>
     </Box>
   );
 }

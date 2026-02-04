@@ -1,4 +1,5 @@
 import Link from "next/link";
+import * as React from "react";
 
 import type { NavItem } from "@/shared/types/navigation";
 import { cn } from "@/shared/utils/cn";
@@ -6,13 +7,16 @@ import { cn } from "@/shared/utils/cn";
 type SidebarItemProps = {
   item: NavItem;
   active?: boolean;
-  onClick?: () => void;
+  onClick?: (id: string) => void;
 };
 
-export default function SidebarItem({ item, active, onClick }: SidebarItemProps) {
+function SidebarItem({ item, active, onClick }: SidebarItemProps) {
   const isDashed = item.variant === "dashed";
   const isPlain = item.variant === "plain";
   const showInlineBadge = isPlain && item.badge;
+  const handleClick = React.useCallback(() => {
+    onClick?.(item.id);
+  }, [item.id, onClick]);
   const className = cn(
     "flex w-full appearance-none items-center justify-between rounded-xl border-0 bg-transparent px-3 py-2 text-sm font-medium transition",
     isPlain
@@ -69,15 +73,21 @@ export default function SidebarItem({ item, active, onClick }: SidebarItemProps)
 
   if (item.href && !item.disabled) {
     return (
-      <Link className={className} href={item.href} {...(onClick ? { onClick } : {})}>
+      <Link className={className} href={item.href} {...(onClick ? { onClick: handleClick } : {})}>
         {content}
       </Link>
     );
   }
 
   return (
-    <button type="button" className={className} {...(!item.disabled && onClick ? { onClick } : {})}>
+    <button
+      type="button"
+      className={className}
+      {...(!item.disabled && onClick ? { onClick: handleClick } : {})}
+    >
       {content}
     </button>
   );
 }
+
+export default React.memo(SidebarItem);
