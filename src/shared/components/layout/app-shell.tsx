@@ -78,7 +78,7 @@ export default function AppShell({ children }: AppShellProps) {
             <IconButton onClick={() => setSidebarOpen(true)}>
               <MenuIcon />
             </IconButton>
-            <span className="text-sm font-semibold text-slate-600">Japience</span>
+            <span className="text-sm font-semibold text-slate-600">MiraiGo</span>
           </Stack>
         )}
         <main

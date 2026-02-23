@@ -1,7 +1,7 @@
 import Axios, { AxiosError, AxiosHeaders, InternalAxiosRequestConfig } from "axios";
 
 import { authStorage } from "@/features/auth/utils/auth-storage";
-import { BYPASS_AUTH, getBackendApiUrl } from "@/lib/env";
+import { getBackendApiUrl } from "@/lib/env";
 import { ApiError } from "@/lib/fetcher";
 
 type ApiEnvelope<T> = {
@@ -108,10 +108,6 @@ const refreshAccessToken = async () => {
 };
 
 export const ensureAccessToken = async () => {
-  if (BYPASS_AUTH) {
-    return "dev-bypass-token";
-  }
-
   const existingToken = authStorage.getToken();
   if (existingToken) {
     return existingToken;
@@ -131,12 +127,12 @@ export const api = Axios.create({
 
 api.interceptors.request.use(authRequestInterceptor);
 api.interceptors.response.use(
-  (response) => response.data,
+  (response) => response,
   async (error: AxiosError<ApiEnvelope<unknown>>) => {
     const status = error.response?.status;
     const config = error.config as RetryableRequestConfig | undefined;
     const shouldHandleUnauthorized =
-      !BYPASS_AUTH && status === 401 && config && !config._retry && !isAuthEndpoint(config.url);
+      status === 401 && config && !config._retry && !isAuthEndpoint(config.url);
 
     if (!shouldHandleUnauthorized) {
       throw createApiError(error);
