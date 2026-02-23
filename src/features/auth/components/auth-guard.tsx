@@ -7,7 +7,6 @@ import * as React from "react";
 
 import { authStorage } from "@/features/auth/utils/auth-storage";
 import { ensureAccessToken } from "@/lib/api-client";
-import { BYPASS_AUTH } from "@/lib/env";
 
 type AuthGuardProps = {
   children: React.ReactNode;
@@ -19,11 +18,6 @@ export default function AuthGuard({ children }: AuthGuardProps) {
   const [ready, setReady] = React.useState(false);
 
   React.useEffect(() => {
-    if (BYPASS_AUTH) {
-      setReady(true);
-      return;
-    }
-
     let alive = true;
 
     const bootstrapAuth = async () => {

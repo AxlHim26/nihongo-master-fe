@@ -3,6 +3,7 @@
 import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 import Paper from "@mui/material/Paper";
 import Typography from "@mui/material/Typography";
+import Image from "next/image";
 import { useMemo } from "react";
 
 import radicallist from "@/features/kanji/data/radicallist.json";
@@ -160,9 +161,11 @@ export default function KanjiRadicalMap({ kanjiInfo, translate }: KanjiRadicalMa
                   >
                     <span>{alt.char}</span>
                     {alt.posName && (
-                      <img
+                      <Image
                         alt={alt.posName}
                         src={`/radical-positions/${alt.posName}.svg`}
+                        width={16}
+                        height={16}
                         className="h-4 w-4 opacity-70"
                       />
                     )}

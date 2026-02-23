@@ -38,3 +38,7 @@ export const getCurrentUser = async () => {
   const response = await api.get<ApiEnvelope<CurrentUser>>("/api/v1/users/me");
   return response.data.data;
 };
+
+export const logout = async () => {
+  await api.post<ApiEnvelope<null>>("/api/v1/auth/logout");
+};

@@ -17,7 +17,6 @@ import * as React from "react";
 import { authenticate } from "@/features/auth/services/auth-api";
 import { authStorage } from "@/features/auth/utils/auth-storage";
 import { ensureAccessToken } from "@/lib/api-client";
-import { BYPASS_AUTH } from "@/lib/env";
 import { ApiError } from "@/lib/fetcher";
 
 const isSafeRedirect = (value: string | null) => {
@@ -38,11 +37,6 @@ export default function LoginForm() {
     : "/courses";
 
   React.useEffect(() => {
-    if (BYPASS_AUTH) {
-      router.replace(targetPath);
-      return;
-    }
-
     let alive = true;
 
     const bootstrapAuth = async () => {

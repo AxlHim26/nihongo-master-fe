@@ -1,12 +1,12 @@
 "use client";
 
-import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
+import LogoutRoundedIcon from "@mui/icons-material/LogoutRounded";
 import PersonIcon from "@mui/icons-material/Person";
 import Box from "@mui/material/Box";
 import Divider from "@mui/material/Divider";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import * as React from "react";
 import { useShallow } from "zustand/react/shallow";
 
@@ -18,6 +18,7 @@ import {
   topTabs,
   vocabularySidebarSections,
 } from "@/core/constants/navigation";
+import { logout } from "@/features/auth/services/auth-api";
 import { authStorage } from "@/features/auth/utils/auth-storage";
 import SidebarSection from "@/shared/components/layout/sidebar-section";
 import TopTabs from "@/shared/components/layout/top-tabs";
@@ -38,6 +39,7 @@ type SidebarProps = {
 
 export default function Sidebar({ current }: SidebarProps) {
   const pathname = usePathname();
+  const router = useRouter();
   const { setCommandOpen, setSidebarOpen } = useLayoutStore(
     useShallow((state) => ({
       setCommandOpen: state.setCommandOpen,
@@ -46,6 +48,7 @@ export default function Sidebar({ current }: SidebarProps) {
   );
 
   const sections = React.useMemo(() => sectionMap[current], [current]);
+  const [logoutPending, setLogoutPending] = React.useState(false);
 
   const handleItemClick = React.useCallback(
     (id: string) => {
@@ -62,15 +65,33 @@ export default function Sidebar({ current }: SidebarProps) {
   const activeHref = pathname;
   const email = authStorage.getEmail() ?? authStorage.getUsername() ?? "";
 
+  const handleLogout = React.useCallback(async () => {
+    if (logoutPending) {
+      return;
+    }
+
+    setLogoutPending(true);
+    try {
+      await logout();
+    } catch {
+      // Even if server logout fails, clear local session and move user to login.
+    } finally {
+      authStorage.clearSession();
+      setSidebarOpen(false);
+      router.replace("/login");
+      setLogoutPending(false);
+    }
+  }, [logoutPending, router, setSidebarOpen]);
+
   return (
     <Box className="flex h-full flex-col gap-6 px-4 py-6">
       <div className="flex items-center gap-3">
         <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-red-500 text-sm font-semibold text-white shadow-sm">
-          J
+          M
         </div>
         <div>
           <Typography variant="subtitle1" fontWeight={700}>
-            Japience
+            MiraiGo
           </Typography>
         </div>
       </div>
@@ -103,8 +124,13 @@ export default function Sidebar({ current }: SidebarProps) {
             </div>
             <div className="text-xs font-semibold text-slate-700 dark:text-slate-200">{email}</div>
           </div>
-          <IconButton size="small">
-            <AutoAwesomeIcon fontSize="inherit" />
+          <IconButton
+            size="small"
+            onClick={handleLogout}
+            aria-label="Đăng xuất"
+            disabled={logoutPending}
+          >
+            <LogoutRoundedIcon fontSize="inherit" />
           </IconButton>
         </div>
       </div>

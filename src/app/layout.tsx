@@ -13,8 +13,8 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: {
-    default: "Japience",
-    template: "%s | Japience",
+    default: "MiraiGo",
+    template: "%s | MiraiGo",
   },
   description: "Nền tảng học ngữ pháp tiếng Nhật với trải nghiệm cao cấp.",
   metadataBase: new URL(process.env["NEXT_PUBLIC_APP_URL"] ?? "http://localhost:3000"),
