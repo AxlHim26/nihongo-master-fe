@@ -170,6 +170,8 @@ class HandwritingCanvas {
   }
 }
 
-export default {
+const handwriting = {
   Canvas: HandwritingCanvas,
 };
+
+export default handwriting;

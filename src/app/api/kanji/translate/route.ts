@@ -1,7 +1,9 @@
 import { NextResponse } from "next/server";
 
+import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
+
 const MEGALLM_API_KEY = process.env["MEGALLM_API_KEY"];
-const MEGALLM_BASE_URL = process.env["MEGALLM_BASE_URL"] || "https://api.megallm.ai";
+const MEGALLM_COMPLETIONS_URL = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
 const MEGALLM_MODEL = process.env["MEGALLM_MODEL"] || "gpt-4o-mini";
 
 export async function POST(request: Request) {
@@ -23,7 +25,7 @@ export async function POST(request: Request) {
     ...texts.map((text, index) => `${index + 1}. ${text}`),
   ].join("\n");
 
-  const response = await fetch(`${MEGALLM_BASE_URL}/v1/chat/completions`, {
+  const response = await fetch(MEGALLM_COMPLETIONS_URL, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

@@ -1,10 +1,11 @@
 import type { AgentSettings } from "@/features/practice/types/agent";
 import { buildSystemPrompt } from "@/features/practice/utils/jp-agent";
+import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
 
 export const runtime = "nodejs";
 
 const modelId = process.env["MEGALLM_MODEL"] ?? "gpt-4o-mini";
-const baseUrl = process.env["MEGALLM_BASE_URL"] ?? "https://ai.megallm.io/v1";
+const completionsUrl = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
 
 const computeMaxTokens = (message: string) => {
   const length = message.trim().length;
@@ -30,7 +31,7 @@ const createMegaLLMStream = async (
     return null;
   }
 
-  const response = await fetch(`${baseUrl}/chat/completions`, {
+  const response = await fetch(completionsUrl, {
     method: "POST",
     headers: {
       Authorization: `Bearer ${apiKey}`,
