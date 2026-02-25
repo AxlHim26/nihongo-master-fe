@@ -13,8 +13,8 @@ type StatCardProps = {
 };
 
 const toneClasses: Record<NonNullable<StatCardProps["tone"]>, string> = {
-  neutral: "bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-300",
-  primary: "bg-indigo-50 text-indigo-600 dark:bg-indigo-500/20 dark:text-indigo-200",
+  neutral: "bg-[var(--app-surface-2)] text-[var(--app-muted)]",
+  primary: "bg-[var(--app-primary-soft)] text-[var(--app-primary)]",
 };
 
 export default function StatCard({
