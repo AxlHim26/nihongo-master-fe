@@ -1,35 +1,45 @@
-# Japience Frontend
+# MiraiGo Frontend
 
-Japience Frontend is a premium learning interface for Japanese study — designed to feel calm, modern, and structured. It blends a clean SaaS‑grade layout with language‑first UX: focused reading space, soft hierarchy, and responsive interaction patterns that help users study without distraction.
+MiraiGo Frontend is the learner-facing web application for the MiraiGo Japanese learning platform.  
+It is built for daily study workflows: clear navigation, low-friction practice, and responsive lesson delivery.
 
-## What It Delivers
+## Product Scope
 
-- A unified learning flow across grammar, vocabulary, AI practice, and Kanji mapping.
-- Real‑time conversational UI with speech input and streaming responses.
-- A Kanji experience with on/kun readings, Vietnamese meanings, furigana examples, audio samples, and a radical relationship map.
-- A scalable architecture that keeps features isolated yet consistent.
+- Lesson viewer with embedded video and PDF materials
+- Grammar and vocabulary study pages
+- Kanji map and Kanji detail exploration
+- AI practice chat (text + voice interaction)
+- Theme system (light/dark) with persistent user preference
 
-## Technology Overview
+## Tech Stack
 
-Japience FE is built on a modern, production‑grade stack with strict type safety and a clean system design:
+- **Next.js 16 (App Router)**
+- **TypeScript (strict)**
+- **Tailwind CSS + Material UI**
+- **TanStack Query** for server-state and caching
+- **Zustand** for client-state
+- **Zod** for runtime validation
+- **ESLint + Prettier + Husky + lint-staged**
 
-- **Next.js App Router** for file‑based routing and server/client composition.
-- **TypeScript (strict)** for end‑to‑end type safety.
-- **Tailwind CSS + Material UI** for fast layout + refined component styling.
-- **Zustand** for predictable client state.
-- **TanStack Query** for server data + caching.
-- **ESLint + Prettier** for consistent code quality.
+## Architecture Principles
 
-## Visual Identity
+- Feature-first modules under `src/features/*`
+- Shared UI and layout primitives under `src/shared/*`
+- App-wide config and constants under `src/core/*`
+- API routes under `src/app/api/*`
+- Strong type contracts for all domain models
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Japience-Frontend-3B82F6?style=for-the-badge" alt="Japience Frontend" />
-  <img src="https://img.shields.io/badge/Next.js-App%20Router-0F172A?style=for-the-badge" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-Strict-2563EB?style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-UI-38BDF8?style=for-the-badge" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MUI-Design-6366F1?style=for-the-badge" alt="MUI" />
-</div>
+## Core Folders
 
-## Design Intent
+```text
+src/
+  app/                # App Router pages and API routes
+  core/               # Theme, constants, app-level config
+  features/           # Domain features (courses, practice, kanji, ...)
+  lib/                # API/env utilities
+  shared/             # Reusable UI, layout, hooks
+```
 
-Japience FE is intentionally minimal yet expressive: it emphasizes readability, smooth rhythm, and consistent visual language, while allowing deep study features to scale over time.
+## Brand
+
+This application is branded as **MiraiGo** across UI copy, navigation, and learner-facing experiences.

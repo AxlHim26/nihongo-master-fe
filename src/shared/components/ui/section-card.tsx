@@ -25,11 +25,12 @@ export default function SectionCard({
       elevation={0}
       onClick={onClick}
       className={cn(
-        "group flex cursor-pointer items-center justify-between rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] px-6 py-5 transition hover:-translate-y-[1px] hover:border-indigo-200 hover:shadow-md",
+        "group flex items-center justify-between gap-3 rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] px-4 py-4 transition hover:-translate-y-[1px] hover:border-[var(--app-primary)] hover:shadow-md sm:px-6 sm:py-5",
+        onClick && "cursor-pointer",
         className,
       )}
     >
-      <div className="space-y-1">
+      <div className="min-w-0 flex-1 space-y-1">
         <Typography variant="subtitle1" fontWeight={600}>
           {title}
         </Typography>
@@ -40,7 +41,7 @@ export default function SectionCard({
         )}
         {meta}
       </div>
-      <div className="flex h-9 w-9 items-center justify-center rounded-full bg-slate-100 text-slate-400 transition group-hover:bg-indigo-50 group-hover:text-indigo-500 dark:bg-slate-800">
+      <div className="flex h-9 w-9 items-center justify-center rounded-full bg-[var(--app-surface-2)] text-[var(--app-muted)] transition group-hover:bg-[var(--app-primary-soft)] group-hover:text-[var(--app-primary)]">
         <ChevronRightIcon fontSize="small" />
       </div>
     </Paper>

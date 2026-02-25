@@ -11,7 +11,6 @@ import * as React from "react";
 import { useCallback, useEffect, useMemo, useState } from "react";
 
 import KanjiDrawInput from "@/features/kanji/components/kanji-draw-input";
-import KanjiMapList from "@/features/kanji/components/kanji-map-list";
 import KanjiSearch from "@/features/kanji/components/kanji-search";
 import RadicalRelationMap from "@/features/kanji/components/radical-relation-map";
 import { kanjiGroupLabel, type KanjiSearchEntry } from "@/features/kanji/data/kanji-search";
@@ -205,9 +204,6 @@ export default function KanjiMapView() {
             elevation={0}
             className="rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)] p-6"
           >
-            <Typography variant="subtitle1" fontWeight={600} className="mb-3">
-              Tìm nhanh kanji
-            </Typography>
             <KanjiSearch value={selected} onChange={handleSelectChange} />
           </Paper>
 
@@ -220,11 +216,8 @@ export default function KanjiMapView() {
                 <Typography variant="subtitle1" fontWeight={600}>
                   Vẽ kanji
                 </Typography>
-                <Typography variant="caption" className="text-[var(--app-muted)]">
-                  Viết vào bảng để nhận diện nhanh
-                </Typography>
               </div>
-              <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-indigo-50 text-indigo-600">
+              <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-blue-50 text-blue-600 dark:bg-[var(--app-surface-2)] dark:text-[var(--app-fg-muted)]">
                 <AutoStoriesRoundedIcon fontSize="small" />
               </div>
             </div>
@@ -278,7 +271,7 @@ export default function KanjiMapView() {
                       onReadings.map((reading) => (
                         <span
                           key={`on-${reading}`}
-                          className="rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-slate-950 dark:text-slate-100"
+                          className="rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-[#161D2A] dark:text-[#E5E7EB]"
                         >
                           {reading}
                         </span>
@@ -297,7 +290,7 @@ export default function KanjiMapView() {
                       kunReadings.map((reading) => (
                         <span
                           key={`kun-${reading}`}
-                          className="rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-slate-950 dark:text-slate-100"
+                          className="rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-[#161D2A] dark:text-[#E5E7EB]"
                         >
                           {reading}
                         </span>
@@ -351,8 +344,6 @@ export default function KanjiMapView() {
       </div>
 
       {selected && !loading && !error && <RadicalRelationMap kanjiInfo={kanjiInfo} />}
-
-      <KanjiMapList />
     </Stack>
   );
 }
@@ -393,8 +384,8 @@ const KanjiExampleRow = React.memo(function KanjiExampleRow({
         type="button"
         className={cn(
           "flex items-center gap-2 rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm transition",
-          "hover:-translate-y-[1px] hover:border-indigo-200",
-          "dark:bg-slate-950 dark:text-slate-100",
+          "hover:-translate-y-[1px] hover:border-blue-200 dark:hover:border-[var(--app-active-border)] dark:hover:bg-[var(--app-surface-2)]",
+          "dark:bg-[#161D2A] dark:text-[#E5E7EB]",
         )}
         onClick={() => onPlay(example)}
       >

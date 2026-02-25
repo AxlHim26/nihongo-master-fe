@@ -15,7 +15,7 @@ import {
 
 export default function CourseListPage() {
   const router = useRouter();
-  const { courses, isLoading, isError, unauthorized, usingSampleData } = useCourseTreeData();
+  const { courses, isLoading, isError, unauthorized } = useCourseTreeData();
 
   const lessonCountByCourse = React.useMemo(() => getLessonCountByCourse(courses), [courses]);
 
@@ -41,7 +41,6 @@ export default function CourseListPage() {
         isLoading={isLoading}
         isError={isError}
         unauthorized={unauthorized}
-        usingSampleData={usingSampleData}
         hasData={courses.length > 0}
         onReauth={handleReauth}
         emptyTitle="Chưa có khóa học"

@@ -21,9 +21,9 @@ export default function KanjiMapList() {
                 <span>{cluster.kanjiCount} kanji</span>
                 <span>{cluster.progress}%</span>
               </div>
-              <div className="h-2 w-full overflow-hidden rounded-full bg-slate-100 dark:bg-slate-800">
+              <div className="h-2 w-full overflow-hidden rounded-full bg-slate-100 dark:bg-[#212B3A]">
                 <div
-                  className="h-full rounded-full bg-indigo-500"
+                  className="h-full rounded-full bg-blue-500 dark:bg-[var(--app-fg-muted)]"
                   style={{ width: `${cluster.progress}%` }}
                 />
               </div>

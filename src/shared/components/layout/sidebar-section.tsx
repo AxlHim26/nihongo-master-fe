@@ -28,7 +28,7 @@ function SidebarSection({ section, activeId, onItemClick }: SidebarSectionProps)
             <span>{section.title}</span>
           </span>
           {section.meta && (
-            <span className="rounded-full border border-slate-200 bg-slate-50 px-1.5 py-0.5 text-[10px] font-medium text-slate-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-400">
+            <span className="rounded-full border border-slate-200 bg-slate-50 px-1.5 py-0.5 text-[10px] font-medium text-slate-500 dark:border-[#3A4658] dark:bg-[#1A2231] dark:text-[#A7B0BC]">
               {section.meta}
             </span>
           )}

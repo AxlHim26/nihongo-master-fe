@@ -116,7 +116,7 @@ export default function KanjiRadicalMap({ kanjiInfo, translate }: KanjiRadicalMa
             Gợi ý các bộ thủ liên quan và biến thể ký tự
           </Typography>
         </div>
-        <div className="flex h-9 w-9 items-center justify-center rounded-2xl bg-indigo-50 text-indigo-600">
+        <div className="flex h-9 w-9 items-center justify-center rounded-2xl bg-blue-50 text-blue-600 dark:bg-[var(--app-surface-2)] dark:text-[var(--app-fg-muted)]">
           <InfoOutlinedIcon fontSize="small" />
         </div>
       </div>
@@ -157,7 +157,7 @@ export default function KanjiRadicalMap({ kanjiInfo, translate }: KanjiRadicalMa
                 {alternatives.map((alt) => (
                   <div
                     key={`${alt.char}-${alt.posName ?? "base"}`}
-                    className="flex items-center gap-2 rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-sm font-semibold text-slate-700 shadow-sm dark:bg-slate-950 dark:text-slate-100"
+                    className="flex items-center gap-2 rounded-full border border-[var(--app-border)] bg-white px-3 py-1 text-sm font-semibold text-slate-700 shadow-sm dark:bg-[#161D2A] dark:text-[#E5E7EB]"
                   >
                     <span>{alt.char}</span>
                     {alt.posName && (

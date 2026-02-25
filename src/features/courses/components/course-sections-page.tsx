@@ -19,7 +19,6 @@ import {
   findChapterById,
   findCourseById,
   getSectionPath,
-  getSectionsByType,
   parsePositiveInt,
 } from "@/features/courses/utils/course-tree-selectors";
 
@@ -32,7 +31,7 @@ export default function CourseSectionsPage({ courseId, chapterId }: CourseSectio
   const router = useRouter();
   const parsedCourseId = React.useMemo(() => parsePositiveInt(courseId), [courseId]);
   const parsedChapterId = React.useMemo(() => parsePositiveInt(chapterId), [chapterId]);
-  const { courses, isLoading, isError, unauthorized, usingSampleData } = useCourseTreeData();
+  const { courses, isLoading, isError, unauthorized } = useCourseTreeData();
 
   const course = React.useMemo(
     () => findCourseById(courses, parsedCourseId),
@@ -43,7 +42,18 @@ export default function CourseSectionsPage({ courseId, chapterId }: CourseSectio
     [course, parsedChapterId],
   );
 
-  const sectionsByType = React.useMemo(() => getSectionsByType(chapter), [chapter]);
+  const orderedSections = React.useMemo(() => {
+    if (!chapter) {
+      return [];
+    }
+
+    const sectionOrderMap = new Map(SECTION_ORDER.map((type, index) => [type, index]));
+    return [...chapter.sections].sort(
+      (left, right) =>
+        (sectionOrderMap.get(left.type) ?? Number.MAX_SAFE_INTEGER) -
+        (sectionOrderMap.get(right.type) ?? Number.MAX_SAFE_INTEGER),
+    );
+  }, [chapter]);
 
   const handleReauth = React.useCallback(() => {
     authStorage.clearSession();
@@ -85,7 +95,6 @@ export default function CourseSectionsPage({ courseId, chapterId }: CourseSectio
         isLoading={isLoading}
         isError={isError}
         unauthorized={unauthorized}
-        usingSampleData={usingSampleData}
         hasData={courses.length > 0}
         onReauth={handleReauth}
         emptyTitle="Chưa có khóa học"
@@ -108,11 +117,11 @@ export default function CourseSectionsPage({ courseId, chapterId }: CourseSectio
               <Alert severity="info">Chương này chưa có mục học.</Alert>
             )}
             <div className="grid gap-3 md:grid-cols-3">
-              {SECTION_ORDER.map((sectionType) => (
+              {orderedSections.map((section) => (
                 <SectionCard
-                  key={sectionType}
-                  sectionType={sectionType}
-                  section={sectionsByType[sectionType] ?? null}
+                  key={section.id}
+                  sectionType={section.type}
+                  section={section}
                   onSelect={handleSelectSection}
                 />
               ))}

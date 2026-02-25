@@ -4,8 +4,8 @@ import { Suspense } from "react";
 import LoginForm from "@/features/auth/components/login-form";
 
 export const metadata: Metadata = {
-  title: "Đăng nhập",
-  description: "Đăng nhập để truy cập hệ thống học tập",
+  title: "MiraiGo | Đăng nhập",
+  description: "Đăng nhập vào không gian học tập MiraiGo",
 };
 
 export default function LoginPage() {

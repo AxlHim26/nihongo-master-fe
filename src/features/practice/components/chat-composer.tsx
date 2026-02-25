@@ -36,7 +36,7 @@ export default function ChatComposer({ onSend, onCall }: ChatComposerProps) {
   return (
     <Paper
       elevation={0}
-      className="flex w-full items-center gap-3 rounded-full border-2 border-slate-300 bg-white px-4 py-3 shadow-md transition focus-within:border-indigo-300 focus-within:ring-4 focus-within:ring-indigo-100 dark:border-slate-700 dark:bg-slate-900 dark:focus-within:border-indigo-400 dark:focus-within:ring-indigo-500/20 sm:px-5 sm:py-4 md:px-6 md:py-4"
+      className="flex w-full items-center gap-3 rounded-full border-2 border-[var(--app-border)] bg-[var(--app-chat-input-bg)] px-4 py-3 shadow-md transition focus-within:border-blue-500 focus-within:ring-4 focus-within:ring-blue-200 dark:focus-within:border-[var(--app-active-border)] dark:focus-within:ring-[var(--focus-ring)] sm:px-5 sm:py-4 md:px-6 md:py-4"
     >
       <IconButton size="small" onClick={onCall}>
         <MicIcon fontSize="small" />
@@ -46,6 +46,10 @@ export default function ChatComposer({ onSend, onCall }: ChatComposerProps) {
         value={draft}
         onChange={(event) => setDraft(event.target.value)}
         onKeyDown={(event) => {
+          const nativeEvent = event.nativeEvent as KeyboardEvent & { isComposing?: boolean };
+          if (nativeEvent.isComposing || nativeEvent.keyCode === 229 || event.repeat) {
+            return;
+          }
           if (event.key === "Enter" && !event.shiftKey) {
             event.preventDefault();
             handleSend();

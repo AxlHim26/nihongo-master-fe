@@ -23,6 +23,7 @@ import { authStorage } from "@/features/auth/utils/auth-storage";
 import SidebarSection from "@/shared/components/layout/sidebar-section";
 import TopTabs from "@/shared/components/layout/top-tabs";
 import ThemeToggle from "@/shared/components/theme/theme-toggle";
+import BrandLogo from "@/shared/components/ui/brand-logo";
 import { useLayoutStore } from "@/shared/stores/layout-store";
 
 const sectionMap = {
@@ -85,16 +86,7 @@ export default function Sidebar({ current }: SidebarProps) {
 
   return (
     <Box className="flex h-full flex-col gap-6 px-4 py-6">
-      <div className="flex items-center gap-3">
-        <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-red-500 text-sm font-semibold text-white shadow-sm">
-          M
-        </div>
-        <div>
-          <Typography variant="subtitle1" fontWeight={700}>
-            MiraiGo
-          </Typography>
-        </div>
-      </div>
+      <BrandLogo />
 
       <TopTabs tabs={topTabs} />
 
@@ -122,7 +114,7 @@ export default function Sidebar({ current }: SidebarProps) {
             <div className="flex h-9 w-9 items-center justify-center rounded-full bg-slate-100 text-slate-500">
               <PersonIcon fontSize="small" />
             </div>
-            <div className="text-xs font-semibold text-slate-700 dark:text-slate-200">{email}</div>
+            <div className="text-xs font-semibold text-slate-700 dark:text-[#E5E7EB]">{email}</div>
           </div>
           <IconButton
             size="small"

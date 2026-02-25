@@ -1,5 +1,6 @@
 import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
 import BarChartIcon from "@mui/icons-material/BarChart";
+import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import GridViewIcon from "@mui/icons-material/GridView";
 import LayersOutlinedIcon from "@mui/icons-material/LayersOutlined";
 import LibraryBooksIcon from "@mui/icons-material/LibraryBooks";
@@ -7,43 +8,43 @@ import MapIcon from "@mui/icons-material/Map";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
 import PsychologyIcon from "@mui/icons-material/Psychology";
 import PublicIcon from "@mui/icons-material/Public";
+import RecordVoiceOverIcon from "@mui/icons-material/RecordVoiceOver";
 import SchoolIcon from "@mui/icons-material/School";
 import SearchIcon from "@mui/icons-material/Search";
-import TimerIcon from "@mui/icons-material/Timer";
 
 import { grammarLevels } from "@/core/data/grammar";
 import type { NavSection, TopTab } from "@/shared/types/navigation";
 
 export const topTabs: TopTab[] = [
   {
-    id: "grammar",
-    label: "Ngữ pháp",
-    href: "/grammar",
-    icon: <MenuBookIcon fontSize="small" />,
-  },
-  {
     id: "vocabulary",
-    label: "Từ vựng",
+    label: "Từ Vựng",
     href: "/vocabulary",
     icon: <LibraryBooksIcon fontSize="small" />,
   },
   {
-    id: "practice",
-    label: "Luyện tập",
-    href: "/practice/chat",
-    icon: <AutoAwesomeIcon fontSize="small" />,
+    id: "grammar",
+    label: "Ngữ Pháp",
+    href: "/grammar",
+    icon: <MenuBookIcon fontSize="small" />,
+  },
+  {
+    id: "kanji-map",
+    label: "Hán Tự",
+    href: "/kanji-map",
+    icon: <MapIcon fontSize="small" />,
   },
   {
     id: "courses",
-    label: "Khóa học",
+    label: "Khoá Học",
     href: "/courses",
     icon: <SchoolIcon fontSize="small" />,
   },
   {
-    id: "kanji-map",
-    label: "Kanji map",
-    href: "/kanji-map",
-    icon: <MapIcon fontSize="small" />,
+    id: "practice",
+    label: "Luyện Tập",
+    href: "/practice/chat",
+    icon: <AutoAwesomeIcon fontSize="small" />,
   },
 ];
 
@@ -173,16 +174,28 @@ export const practiceSidebarSections: NavSection[] = [
         icon: <AutoAwesomeIcon fontSize="small" />,
       },
       {
-        id: "challenge",
-        label: "Thử thách 50 ngày",
-        href: "/practice/challenge",
-        icon: <TimerIcon fontSize="small" />,
+        id: "practice-reading",
+        label: "Luyện đọc",
+        href: "/practice/reading",
+        icon: <MenuBookIcon fontSize="small" />,
+      },
+      {
+        id: "practice-listening",
+        label: "Luyện nghe",
+        href: "/practice/listening",
+        icon: <GraphicEqIcon fontSize="small" />,
+      },
+      {
+        id: "practice-shadowing",
+        label: "Shadowing",
+        href: "/practice/shadowing",
+        icon: <RecordVoiceOverIcon fontSize="small" />,
       },
       {
         id: "jlpt",
         label: "Luyện thi JLPT",
+        href: "/practice/jlpt",
         icon: <AutoAwesomeIcon fontSize="small" />,
-        disabled: true,
       },
     ],
   },
@@ -196,7 +209,7 @@ export const coursesSidebarSections: NavSection[] = [
         id: "home",
         label: "Trang chủ",
         href: "/courses",
-        icon: <SchoolIcon fontSize="small" />,
+        icon: <GridViewIcon fontSize="small" />,
       },
       {
         id: "search",
@@ -225,7 +238,7 @@ export const kanjiSidebarSections: NavSection[] = [
         id: "home",
         label: "Trang chủ",
         href: "/kanji-map",
-        icon: <MapIcon fontSize="small" />,
+        icon: <GridViewIcon fontSize="small" />,
       },
       {
         id: "search",
@@ -233,17 +246,43 @@ export const kanjiSidebarSections: NavSection[] = [
         icon: <SearchIcon fontSize="small" />,
         badge: "Ctrl + K",
       },
+      {
+        id: "review",
+        label: "Cần ôn tập",
+        icon: <PsychologyIcon fontSize="small" />,
+        variant: "plain",
+      },
     ],
   },
   {
-    id: "levels",
-    title: "Cấp độ JLPT",
+    id: "kanji-library",
+    title: "Kho hán tự",
     items: [
-      { id: "jlpt-n5", label: "N5", href: "/kanji-map?level=n5" },
-      { id: "jlpt-n4", label: "N4", href: "/kanji-map?level=n4" },
-      { id: "jlpt-n3", label: "N3", href: "/kanji-map?level=n3" },
-      { id: "jlpt-n2", label: "N2", href: "/kanji-map?level=n2" },
-      { id: "jlpt-n1", label: "N1", href: "/kanji-map?level=n1" },
+      {
+        id: "kanji-n5",
+        label: "Hán tự N5",
+        variant: "plain",
+      },
+      {
+        id: "kanji-n4",
+        label: "Hán tự N4",
+        variant: "plain",
+      },
+      {
+        id: "kanji-n3",
+        label: "Hán tự N3",
+        variant: "plain",
+      },
+      {
+        id: "kanji-n2",
+        label: "Hán tự N2",
+        variant: "plain",
+      },
+      {
+        id: "kanji-n1",
+        label: "Hán tự N1",
+        variant: "plain",
+      },
     ],
   },
 ];

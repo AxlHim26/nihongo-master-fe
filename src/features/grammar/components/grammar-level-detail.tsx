@@ -72,9 +72,9 @@ export default function GrammarLevelDetail({ levelId }: GrammarLevelDetailProps)
                 key={point.id}
                 elevation={0}
                 onClick={() => setSelectedPointId(point.id)}
-                className={`cursor-pointer rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-4 transition hover:border-indigo-200 hover:shadow-sm ${
+                className={`cursor-pointer rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-4 transition hover:border-blue-200 hover:shadow-sm dark:hover:border-[var(--app-active-border)] ${
                   selectedPointId === point.id
-                    ? "border-indigo-300 bg-indigo-50/60 dark:bg-indigo-500/10"
+                    ? "border-blue-300 bg-blue-50/60 dark:border-[var(--app-active-border)] dark:bg-[var(--app-active-bg)]"
                     : ""
                 }`}
               >
@@ -133,7 +133,7 @@ export default function GrammarLevelDetail({ levelId }: GrammarLevelDetailProps)
                   <Paper
                     key={example}
                     elevation={0}
-                    className="rounded-2xl border border-[var(--app-border)] bg-slate-50 px-4 py-3 text-sm text-slate-700 dark:bg-slate-900 dark:text-slate-200"
+                    className="rounded-2xl border border-[var(--app-border)] bg-slate-50 px-4 py-3 text-sm text-slate-700 dark:bg-[#1A2231] dark:text-[#E5E7EB]"
                   >
                     {example}
                   </Paper>

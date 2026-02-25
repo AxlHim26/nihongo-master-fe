@@ -4,58 +4,143 @@ import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
 
 export const runtime = "nodejs";
 
-const modelId = process.env["MEGALLM_MODEL"] ?? "gpt-4o-mini";
 const completionsUrl = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
+
+type MegaLlmSuccess = {
+  ok: true;
+  stream: ReadableStream<Uint8Array>;
+};
+
+type MegaLlmFailure = {
+  ok: false;
+  status: number;
+  error: string;
+};
+
+type MegaLlmResult = MegaLlmSuccess | MegaLlmFailure;
 
 const computeMaxTokens = (message: string) => {
   const length = message.trim().length;
   if (length <= 8) {
-    return 40;
+    return 180;
   }
   if (length <= 20) {
-    return 80;
+    return 240;
   }
   if (length <= 80) {
-    return 140;
+    return 320;
   }
-  return 220;
+  return 420;
+};
+
+const getModelCandidates = () => {
+  const configuredModel = (process.env["MEGALLM_MODEL"] ?? "alibaba-qwen3.5-397b").trim();
+  const fallbackRaw =
+    process.env["MEGALLM_FALLBACK_MODELS"] ??
+    "mistralai/mistral-nemotron,openai-gpt-oss-20b,openai-gpt-oss-120b";
+  const fallbackModels = fallbackRaw
+    .split(",")
+    .map((item) => item.trim())
+    .filter(Boolean);
+
+  return Array.from(new Set([configuredModel, ...fallbackModels]));
+};
+
+const extractUpstreamError = async (response: Response) => {
+  const text = await response.text();
+  if (!text) {
+    return `MegaLLM request failed with status ${response.status}.`;
+  }
+
+  try {
+    const parsed = JSON.parse(text) as {
+      error?: string | { message?: string };
+      message?: string;
+    };
+    const errorMessage =
+      typeof parsed.error === "string"
+        ? parsed.error
+        : parsed.error?.message || parsed.message || text;
+    return String(errorMessage);
+  } catch {
+    return text;
+  }
 };
 
 const createMegaLLMStream = async (
   message: string,
   settings: AgentSettings,
   history: Array<{ role: "user" | "assistant"; content: string }> = [],
-) => {
+): Promise<MegaLlmResult> => {
   const apiKey = process.env["MEGALLM_API_KEY"];
   if (!apiKey) {
-    return null;
+    return {
+      ok: false,
+      status: 500,
+      error: "Thiếu MEGALLM_API_KEY trong .env.local.",
+    };
   }
 
-  const response = await fetch(completionsUrl, {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      model: modelId,
-      stream: true,
-      temperature: 0.7,
-      top_p: 0.9,
-      max_tokens: computeMaxTokens(message),
-      messages: [
-        { role: "system", content: buildSystemPrompt(settings) },
-        ...history,
-        { role: "user", content: message },
-      ],
-    }),
-  });
+  const models = getModelCandidates();
+  let lastFailure: MegaLlmFailure | null = null;
 
-  if (!response.ok || !response.body) {
-    return null;
+  for (const model of models) {
+    try {
+      const response = await fetch(completionsUrl, {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${apiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model,
+          stream: true,
+          temperature: 0.7,
+          top_p: 0.9,
+          max_tokens: computeMaxTokens(message),
+          messages: [
+            { role: "system", content: buildSystemPrompt(settings) },
+            ...history,
+            { role: "user", content: message },
+          ],
+        }),
+      });
+
+      if (response.ok && response.body) {
+        return {
+          ok: true,
+          stream: response.body,
+        };
+      }
+
+      const upstreamError = await extractUpstreamError(response);
+      lastFailure = {
+        ok: false,
+        status: response.status,
+        error: `MegaLLM (${model}): ${upstreamError}`,
+      };
+
+      const retryWithNextModel = [400, 402, 403, 404, 429].includes(response.status);
+      if (!retryWithNextModel) {
+        break;
+      }
+    } catch (error) {
+      lastFailure = {
+        ok: false,
+        status: 500,
+        error: error instanceof Error ? error.message : "Không thể kết nối MegaLLM.",
+      };
+      break;
+    }
   }
 
-  return response.body;
+  return (
+    lastFailure ?? {
+      ok: false,
+      status: 500,
+      error: "MegaLLM endpoint unavailable.",
+    }
+  );
 };
 
 export async function POST(request: Request) {
@@ -66,24 +151,24 @@ export async function POST(request: Request) {
   };
   const encoder = new TextEncoder();
 
-  const megaStream = await createMegaLLMStream(
+  const megaResult = await createMegaLLMStream(
     payload.message,
     payload.settings,
     payload.history ?? [],
   );
-  if (!megaStream) {
+  if (!megaResult.ok) {
     return new Response(
       JSON.stringify({
-        error: "Missing MEGALLM_API_KEY or MegaLLM endpoint unavailable.",
+        error: megaResult.error,
       }),
-      { status: 500 },
+      { status: megaResult.status || 500 },
     );
   }
 
   const stream = new ReadableStream({
     async start(controller) {
       try {
-        const reader = megaStream.getReader();
+        const reader = megaResult.stream.getReader();
         const decoder = new TextDecoder();
         let buffer = "";
 

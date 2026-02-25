@@ -27,12 +27,21 @@ export default function ThemeToggle() {
   return (
     <ToggleButtonGroup
       aria-label="Theme mode"
-      color="primary"
+      color="standard"
       value={mode}
       exclusive
       onChange={handleChange}
       size="small"
-      className="rounded-full bg-white/80 shadow-sm backdrop-blur dark:bg-slate-900/60"
+      className="rounded-full border border-[var(--app-border)] bg-[var(--app-surface)] shadow-sm backdrop-blur"
+      sx={{
+        "& .MuiToggleButton-root.Mui-selected": {
+          color: "#60A5FA",
+          backgroundColor: "rgba(96,165,250,0.14)",
+        },
+        "& .MuiToggleButton-root.Mui-selected:hover": {
+          backgroundColor: "rgba(96,165,250,0.2)",
+        },
+      }}
     >
       <ToggleButton value="light" aria-label="Light mode">
         <LightModeIcon fontSize="small" />

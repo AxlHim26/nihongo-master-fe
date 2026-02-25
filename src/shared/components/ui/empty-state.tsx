@@ -27,7 +27,7 @@ export default function EmptyState({
         className,
       )}
     >
-      <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-slate-100 text-slate-400 dark:bg-slate-800">
+      <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-slate-100 text-slate-400 dark:bg-[var(--app-surface-2)] dark:text-[var(--app-muted)]">
         {icon}
       </div>
       <Typography variant="subtitle1" fontWeight={600}>

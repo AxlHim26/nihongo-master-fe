@@ -25,11 +25,11 @@ export default function CourseList() {
               <span className="flex items-center gap-1">
                 <TimerIcon fontSize="inherit" /> {course.duration}
               </span>
-              <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[11px] text-slate-600 dark:bg-slate-800 dark:text-slate-300">
+              <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[11px] text-slate-600 dark:bg-[#212B3A] dark:text-[#A7B0BC]">
                 {course.level}
               </span>
               {course.badge && (
-                <span className="rounded-full border border-indigo-200 px-2 py-0.5 text-[11px] text-indigo-500">
+                <span className="rounded-full border border-blue-200 px-2 py-0.5 text-[11px] text-blue-500 dark:border-[var(--app-active-border)] dark:text-[var(--app-fg-muted)]">
                   {course.badge}
                 </span>
               )}

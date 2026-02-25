@@ -63,10 +63,10 @@ export default function CommandPalette() {
       fullWidth
       maxWidth="sm"
       PaperProps={{
-        className: "rounded-3xl bg-white/95 p-2 shadow-2xl backdrop-blur dark:bg-slate-950/95",
+        className: "rounded-3xl bg-white/95 p-2 shadow-2xl backdrop-blur dark:bg-[#161D2A]/95",
       }}
     >
-      <Box className="flex items-center gap-2 rounded-2xl border border-slate-200 bg-slate-50 px-3 py-2 dark:border-slate-800 dark:bg-slate-900">
+      <Box className="flex items-center gap-2 rounded-2xl border border-slate-200 bg-slate-50 px-3 py-2 dark:border-[#2F3A4B] dark:bg-[#1A2231]">
         <SearchIcon fontSize="small" className="text-slate-400" />
         <InputBase
           autoFocus
