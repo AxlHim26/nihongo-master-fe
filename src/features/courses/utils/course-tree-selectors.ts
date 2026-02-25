@@ -5,7 +5,7 @@ import type {
   SectionType,
 } from "@/features/courses/types/course-tree";
 
-const SECTION_TYPES: SectionType[] = ["VOCABULARY", "GRAMMAR", "KANJI"];
+const SECTION_TYPES: SectionType[] = ["VOCABULARY", "GRAMMAR", "KANJI", "READING", "LISTENING"];
 
 export const findCourseById = (courses: CourseTree[], courseId: number | null) =>
   courses.find((course) => course.id === courseId) ?? null;

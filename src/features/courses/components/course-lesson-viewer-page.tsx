@@ -55,7 +55,7 @@ export default function CourseLessonViewerPage({
   const parsedSectionType = React.useMemo(() => parseSectionType(sectionType), [sectionType]);
   const parsedLessonId = React.useMemo(() => parsePositiveInt(lessonId), [lessonId]);
 
-  const { courses, isLoading, isError, unauthorized, usingSampleData } = useCourseTreeData();
+  const { courses, isLoading, isError, unauthorized } = useCourseTreeData();
 
   const course = React.useMemo(
     () => findCourseById(courses, parsedCourseId),
@@ -115,7 +115,6 @@ export default function CourseLessonViewerPage({
         isLoading={isLoading}
         isError={isError}
         unauthorized={unauthorized}
-        usingSampleData={usingSampleData}
         hasData={courses.length > 0}
         onReauth={handleReauth}
         emptyTitle="Chưa có khóa học"

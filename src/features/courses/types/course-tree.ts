@@ -1,4 +1,4 @@
-export type SectionType = "VOCABULARY" | "GRAMMAR" | "KANJI";
+export type SectionType = "VOCABULARY" | "GRAMMAR" | "KANJI" | "READING" | "LISTENING";
 
 export type CourseLesson = {
   id: number;
