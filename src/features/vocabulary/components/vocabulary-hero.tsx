@@ -29,7 +29,11 @@ export default function VocabularyHero() {
           </div>
         </div>
         <div className="flex items-center gap-2">
-          <Button variant="contained" startIcon={<AddIcon />}>
+          <Button
+            variant="contained"
+            startIcon={<AddIcon />}
+            className="dark:!border dark:!border-[var(--app-border)] dark:!bg-[var(--app-surface-2)] dark:!text-[var(--app-fg)] dark:hover:!bg-[var(--app-active-bg)] dark:hover:!shadow-none"
+          >
             Mới
           </Button>
           <Button variant="outlined" size="small">

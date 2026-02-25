@@ -75,8 +75,8 @@ export default function KanjiDrawInput({ onSelect }: KanjiDrawInputProps) {
   return (
     <div className="flex flex-col items-center gap-4">
       <div className="relative">
-        <div className="pointer-events-none absolute left-1/2 top-0 h-full -translate-x-1/2 border-l border-dashed border-slate-300/70 dark:border-slate-700" />
-        <div className="pointer-events-none absolute left-0 top-1/2 w-full -translate-y-1/2 border-t border-dashed border-slate-300/70 dark:border-slate-700" />
+        <div className="pointer-events-none absolute left-1/2 top-0 h-full -translate-x-1/2 border-l border-dashed border-slate-300/70 dark:border-[#3A4658]" />
+        <div className="pointer-events-none absolute left-0 top-1/2 w-full -translate-y-1/2 border-t border-dashed border-slate-300/70 dark:border-[#3A4658]" />
         <canvas
           ref={canvasRef}
           width={CANVAS_SIZE}
@@ -104,7 +104,7 @@ export default function KanjiDrawInput({ onSelect }: KanjiDrawInputProps) {
                 type="button"
                 className={cn(
                   "flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--app-border)] bg-white text-sm font-semibold text-slate-700 shadow-sm transition hover:-translate-y-[1px]",
-                  "dark:bg-slate-950 dark:text-slate-100",
+                  "dark:bg-[#161D2A] dark:text-[#E5E7EB]",
                 )}
                 onClick={() => handleSelectSuggestion(suggestion)}
               >
@@ -117,7 +117,7 @@ export default function KanjiDrawInput({ onSelect }: KanjiDrawInputProps) {
         <Tooltip title="Nhận diện">
           <IconButton
             onClick={handleRecognize}
-            className="border border-[var(--app-border)] bg-indigo-50 text-indigo-600 hover:bg-indigo-100"
+            className="border border-[var(--app-border)] bg-blue-50 text-blue-600 hover:bg-blue-100 dark:bg-[var(--app-surface-2)] dark:text-[var(--app-fg)] dark:hover:bg-[var(--app-card)]"
           >
             <SearchRoundedIcon fontSize="small" />
           </IconButton>
