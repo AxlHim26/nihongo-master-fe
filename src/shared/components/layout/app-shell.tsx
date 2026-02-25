@@ -9,6 +9,7 @@ import { usePathname } from "next/navigation";
 import { useShallow } from "zustand/react/shallow";
 
 import Sidebar from "@/shared/components/layout/sidebar";
+import BrandLogo from "@/shared/components/ui/brand-logo";
 import { useLayoutStore } from "@/shared/stores/layout-store";
 import { cn } from "@/shared/utils/cn";
 
@@ -49,7 +50,7 @@ export default function AppShell({ children }: AppShellProps) {
   return (
     <Box className="flex h-screen overflow-hidden bg-[var(--app-bg)] text-[var(--app-fg)]">
       {!immersiveMode && (
-        <Box className="hidden h-full w-[280px] border-r border-[var(--app-border)] bg-white/70 backdrop-blur dark:bg-slate-950/40 lg:block">
+        <Box className="app-sidebar hidden h-full w-[280px] lg:block">
           <Sidebar current={current} />
         </Box>
       )}
@@ -59,7 +60,7 @@ export default function AppShell({ children }: AppShellProps) {
           open={sidebarOpen}
           onClose={() => setSidebarOpen(false)}
           PaperProps={{
-            className: "h-full w-[280px] bg-white dark:bg-slate-950",
+            className: "app-sidebar h-full w-[min(84vw,280px)]",
           }}
         >
           <Sidebar current={current} />
@@ -71,20 +72,20 @@ export default function AppShell({ children }: AppShellProps) {
           <Stack
             direction="row"
             alignItems="center"
-            className={cn(
-              "bg-[var(--app-bg)]/80 border-b border-[var(--app-border)] px-6 py-4 backdrop-blur lg:hidden",
-            )}
+            className={cn("app-navbar px-4 py-3 lg:hidden")}
           >
             <IconButton onClick={() => setSidebarOpen(true)}>
               <MenuIcon />
             </IconButton>
-            <span className="text-sm font-semibold text-slate-600">MiraiGo</span>
+            <BrandLogo className="ml-1" />
           </Stack>
         )}
         <main
           className={cn(
             "no-scrollbar flex min-h-0 flex-1 flex-col",
-            immersiveMode ? "px-4 py-6 lg:px-8" : "px-6 py-8 lg:px-10",
+            immersiveMode
+              ? "px-3 py-4 sm:px-4 sm:py-5 lg:px-8"
+              : "px-3 py-4 sm:px-4 sm:py-5 lg:px-10 lg:py-8",
             isChatView ? "overflow-hidden" : "overflow-y-auto",
           )}
         >
