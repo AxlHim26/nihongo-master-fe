@@ -2,11 +2,14 @@
 
 import AddIcon from "@mui/icons-material/Add";
 import CallIcon from "@mui/icons-material/Call";
+import ChatBubbleOutlineIcon from "@mui/icons-material/ChatBubbleOutline";
+import CloseRoundedIcon from "@mui/icons-material/CloseRounded";
 import MicOffIcon from "@mui/icons-material/MicOff";
 import SettingsIcon from "@mui/icons-material/Settings";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Divider from "@mui/material/Divider";
+import Drawer from "@mui/material/Drawer";
 import FormControl from "@mui/material/FormControl";
 import IconButton from "@mui/material/IconButton";
 import InputLabel from "@mui/material/InputLabel";
@@ -40,6 +43,15 @@ const createMessage = (
   createdAt: new Date().toISOString(),
 });
 
+const subtleOutlinedButtonSx = {
+  borderColor: "var(--app-border)",
+  color: "var(--app-fg)",
+  "&:hover": {
+    borderColor: "var(--app-active-border)",
+    backgroundColor: "var(--app-surface-2)",
+  },
+} as const;
+
 export default function PracticeChatView() {
   const { activeConversationId, setActiveConversationId, agentSettings, updateAgentSettings } =
     usePracticeStore(
@@ -67,6 +79,7 @@ export default function PracticeChatView() {
   const [isSpeaking, setIsSpeaking] = React.useState(false);
   const [waveDuration, setWaveDuration] = React.useState(2.4);
   const [settingsAnchor, setSettingsAnchor] = React.useState<HTMLElement | null>(null);
+  const [mobilePanelOpen, setMobilePanelOpen] = React.useState(false);
   const lastUserSentRef = React.useRef<{ text: string; at: number }>({ text: "", at: 0 });
   const hydratedRef = React.useRef(false);
   const lastActivityRef = React.useRef(Date.now());
@@ -455,6 +468,7 @@ export default function PracticeChatView() {
     };
     setPendingConversation(newConversation);
     setActiveConversationId(newConversation.id);
+    setMobilePanelOpen(false);
   };
 
   const handleRenameConversation = (id: string, title: string) => {
@@ -472,6 +486,14 @@ export default function PracticeChatView() {
       return next;
     });
   };
+
+  const handleSelectConversation = React.useCallback(
+    (id: string) => {
+      setActiveConversationId(id);
+      setMobilePanelOpen(false);
+    },
+    [setActiveConversationId],
+  );
 
   const ensureConversation = React.useCallback(() => {
     if (pendingConversation && pendingConversation.id === activeConversationId) {
@@ -871,16 +893,45 @@ export default function PracticeChatView() {
           elevation={0}
           className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)]"
         >
-          <Box className="flex min-h-0 flex-1 flex-col overflow-hidden px-6 pt-6">
+          <Box className="flex min-h-0 flex-1 flex-col overflow-hidden px-3 pt-3 sm:px-4 sm:pt-4 lg:px-6 lg:pt-6">
+            <Box className="mb-3 flex items-center gap-2 lg:hidden">
+              <IconButton
+                size="small"
+                onClick={() => setMobilePanelOpen(true)}
+                aria-label="Mở danh sách hội thoại"
+              >
+                <ChatBubbleOutlineIcon fontSize="small" />
+              </IconButton>
+              <Button
+                variant="outlined"
+                startIcon={<AddIcon />}
+                onClick={handleCreateConversation}
+                className="flex-1 justify-center rounded-full"
+                sx={subtleOutlinedButtonSx}
+              >
+                Trò chuyện mới
+              </Button>
+              <IconButton
+                size="small"
+                onClick={handleOpenSettings}
+                aria-label="Mở cài đặt hội thoại"
+              >
+                <SettingsIcon fontSize="small" />
+              </IconButton>
+            </Box>
             <Box className="mx-auto flex min-h-0 w-full max-w-xl flex-1 flex-col sm:max-w-2xl md:max-w-3xl lg:max-w-4xl">
               {callActive ? (
                 <Box className="flex flex-1 flex-col items-center justify-center gap-6">
                   <div className="text-center">
-                    <p className="text-3xl font-semibold text-slate-700">Mikaa</p>
-                    <p className="text-lg text-slate-500">{callTime}</p>
+                    <p className="text-2xl font-semibold text-slate-700 dark:text-slate-100 sm:text-3xl">
+                      Mikaa
+                    </p>
+                    <p className="text-base text-slate-500 dark:text-slate-300 sm:text-lg">
+                      {callTime}
+                    </p>
                   </div>
-                  <div className="relative flex h-44 w-44 items-center justify-center">
-                    <div className="absolute h-full w-full rounded-full bg-indigo-200/40 blur-lg" />
+                  <div className="relative flex h-36 w-36 items-center justify-center sm:h-44 sm:w-44">
+                    <div className="absolute h-full w-full rounded-full bg-blue-200/30 blur-lg dark:bg-white/10" />
                     <div
                       className="voice-ring"
                       style={{ "--wave-duration": `${waveDuration}s` } as React.CSSProperties}
@@ -899,17 +950,20 @@ export default function PracticeChatView() {
                         />
                       ))}
                     </div>
-                    <div className="relative z-10 flex h-36 w-36 items-center justify-center rounded-full bg-gradient-to-br from-sky-200 via-indigo-200 to-purple-200 shadow-inner">
-                      <span className="h-10 w-10 rounded-full bg-white/70" />
+                    <div className="relative z-10 flex h-28 w-28 items-center justify-center rounded-full bg-gradient-to-br from-sky-200 via-blue-200 to-slate-200 shadow-inner dark:from-[#4B5563] dark:via-[#6B7280] dark:to-[#9CA3AF] sm:h-36 sm:w-36">
+                      <span className="h-10 w-10 rounded-full bg-white/70 dark:bg-white/30" />
                     </div>
                   </div>
-                  <div className="space-y-2 text-center text-sm text-slate-500">
+                  <div className="space-y-2 text-center text-sm text-slate-500 dark:text-[var(--app-muted)]">
                     <p>
-                      AI: <span className="text-slate-700">{lastAssistantUtterance || "…"}</span>
+                      AI:{" "}
+                      <span className="text-slate-700 dark:text-[var(--app-fg)]">
+                        {lastAssistantUtterance || "…"}
+                      </span>
                     </p>
                     <p>
                       Bạn:{" "}
-                      <span className="text-slate-700">
+                      <span className="text-slate-700 dark:text-[var(--app-fg)]">
                         {interimTranscript || lastUserUtterance || "…"}
                       </span>
                     </p>
@@ -943,13 +997,13 @@ export default function PracticeChatView() {
                 </Typography>
               )}
             </Box>
-            <div className="mx-auto w-full max-w-xl shrink-0 pb-6 pt-2 sm:max-w-2xl md:max-w-3xl lg:max-w-4xl">
+            <div className="mx-auto w-full max-w-xl shrink-0 pb-3 pt-2 sm:max-w-2xl sm:pb-4 md:max-w-3xl lg:max-w-4xl lg:pb-6">
               {callActive ? (
-                <div className="mx-auto flex w-full max-w-md items-center justify-center gap-3 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3">
+                <div className="mx-auto flex w-full max-w-md items-center justify-center gap-3 rounded-2xl border border-[var(--app-border)] bg-[var(--app-surface-2)] px-4 py-3">
                   <button
                     type="button"
                     onClick={toggleMute}
-                    className="flex flex-1 items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-600"
+                    className="flex flex-1 items-center justify-center gap-2 rounded-xl border border-[var(--app-border)] bg-[var(--app-card)] px-3 py-2 text-sm text-[var(--app-fg)]"
                   >
                     {callMuted ? <MicOffIcon fontSize="small" /> : <CallIcon fontSize="small" />}
                     {callMuted ? "Unmute" : "Mute"}
@@ -957,7 +1011,7 @@ export default function PracticeChatView() {
                   <button
                     type="button"
                     onClick={handleEndCall}
-                    className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-rose-500 px-3 py-2 text-sm text-white shadow-sm"
+                    className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-blue-600 px-3 py-2 text-sm text-white shadow-sm transition hover:bg-blue-700 dark:bg-slate-500 dark:hover:bg-slate-400"
                   >
                     End call
                   </button>
@@ -965,20 +1019,13 @@ export default function PracticeChatView() {
               ) : (
                 <ChatComposer onSend={handleSendMessage} onCall={handleStartCall} />
               )}
-              <Typography
-                variant="caption"
-                color="text.secondary"
-                className="mt-2 block text-right"
-              >
-                Dữ liệu được lưu cục bộ
-              </Typography>
             </div>
           </Box>
         </Paper>
 
         <Paper
           elevation={0}
-          className="flex min-h-0 w-full flex-col rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)] lg:w-[320px] lg:shrink-0"
+          className="hidden min-h-0 w-full flex-col rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)] lg:flex lg:w-[320px] lg:shrink-0"
         >
           <Box className="flex items-center gap-2 px-4 pt-4">
             <IconButton size="small" onClick={handleOpenSettings}>
@@ -988,7 +1035,8 @@ export default function PracticeChatView() {
               variant="outlined"
               startIcon={<AddIcon />}
               onClick={handleCreateConversation}
-              className="flex-1 justify-start rounded-full border-slate-200 text-slate-700"
+              className="flex-1 justify-start rounded-full"
+              sx={subtleOutlinedButtonSx}
             >
               Trò chuyện mới
             </Button>
@@ -998,13 +1046,51 @@ export default function PracticeChatView() {
             <ConversationList
               conversations={conversations}
               activeId={activeConversationId}
-              onSelect={setActiveConversationId}
+              onSelect={handleSelectConversation}
               onRename={handleRenameConversation}
               onDelete={handleDeleteConversation}
             />
           </Box>
         </Paper>
       </Box>
+      <Drawer
+        anchor="right"
+        open={mobilePanelOpen}
+        onClose={() => setMobilePanelOpen(false)}
+        PaperProps={{
+          className:
+            "flex h-full w-[min(88vw,360px)] flex-col border-l border-[var(--app-border)] bg-[var(--app-card)]",
+        }}
+      >
+        <Box className="flex items-center justify-between border-b border-[var(--app-border)] px-4 py-3">
+          <Typography variant="subtitle1" fontWeight={700}>
+            Hội thoại
+          </Typography>
+          <IconButton size="small" onClick={() => setMobilePanelOpen(false)} aria-label="Đóng">
+            <CloseRoundedIcon fontSize="small" />
+          </IconButton>
+        </Box>
+        <Box className="flex items-center gap-2 px-4 pt-4">
+          <Button
+            variant="outlined"
+            startIcon={<AddIcon />}
+            onClick={handleCreateConversation}
+            className="flex-1 justify-center rounded-full"
+            sx={subtleOutlinedButtonSx}
+          >
+            Trò chuyện mới
+          </Button>
+        </Box>
+        <Box className="flex min-h-0 flex-1 flex-col px-4 pb-4 pt-3">
+          <ConversationList
+            conversations={conversations}
+            activeId={activeConversationId}
+            onSelect={handleSelectConversation}
+            onRename={handleRenameConversation}
+            onDelete={handleDeleteConversation}
+          />
+        </Box>
+      </Drawer>
       <Popover
         open={settingsOpen}
         anchorEl={settingsAnchor}
@@ -1013,7 +1099,7 @@ export default function PracticeChatView() {
         transformOrigin={{ vertical: "top", horizontal: "left" }}
         PaperProps={{
           className:
-            "w-[320px] rounded-3xl border border-slate-200 bg-white p-6 shadow-xl dark:border-slate-800 dark:bg-slate-950",
+            "w-[min(90vw,320px)] rounded-3xl border border-slate-200 bg-white p-6 shadow-xl dark:border-[#2F3A4B] dark:bg-[#161D2A]",
         }}
       >
         <Typography variant="subtitle1" fontWeight={600}>

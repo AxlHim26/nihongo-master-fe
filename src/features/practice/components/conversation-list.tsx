@@ -110,8 +110,8 @@ const ConversationRow = React.memo(function ConversationRow({
       className={cn(
         "flex items-center justify-between gap-2 rounded-xl px-2 py-2 text-sm transition",
         active
-          ? "bg-indigo-50 text-indigo-700 ring-1 ring-indigo-100 dark:bg-indigo-500/10 dark:text-indigo-200 dark:ring-indigo-400/20"
-          : "text-slate-600 hover:bg-slate-50 hover:text-slate-900 dark:hover:bg-slate-900/40",
+          ? "bg-blue-50 text-blue-700 dark:bg-[var(--app-active-bg)] dark:text-[var(--app-active-fg)]"
+          : "text-slate-600 hover:bg-slate-50 hover:text-slate-900 dark:text-[var(--app-muted)] dark:hover:bg-[var(--app-surface-2)] dark:hover:text-[var(--app-fg)]",
       )}
     >
       {editing ? (
@@ -129,7 +129,7 @@ const ConversationRow = React.memo(function ConversationRow({
                 onCancelEditing();
               }
             }}
-            className="w-full rounded-lg border border-slate-200 bg-white px-2 py-1 text-sm text-slate-700 outline-none focus:border-indigo-400 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200"
+            className="w-full rounded-lg border border-slate-200 bg-white px-2 py-1 text-sm text-slate-700 outline-none focus:border-blue-400 dark:border-[var(--app-border)] dark:bg-[var(--app-surface-2)] dark:text-[var(--app-fg)] dark:focus:border-[var(--app-active-border)]"
             autoFocus
           />
         </div>

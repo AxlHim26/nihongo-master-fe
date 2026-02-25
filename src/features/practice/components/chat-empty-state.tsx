@@ -14,7 +14,7 @@ export default function ChatEmptyState({ prompts = [], onPrompt }: ChatEmptyStat
       alignItems="center"
       className="flex flex-1 items-center justify-center py-12 text-center"
     >
-      <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-indigo-50 text-indigo-600">
+      <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-blue-50 text-blue-600 dark:bg-[var(--app-surface-2)] dark:text-[var(--app-fg-muted)]">
         <AutoAwesomeIcon />
       </div>
       <Typography variant="h6" fontWeight={600}>
@@ -30,7 +30,7 @@ export default function ChatEmptyState({ prompts = [], onPrompt }: ChatEmptyStat
               key={prompt}
               type="button"
               onClick={() => onPrompt?.(prompt)}
-              className="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs text-slate-600 transition hover:border-indigo-200 hover:text-indigo-600"
+              className="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs text-slate-600 transition hover:border-blue-200 hover:text-blue-600 dark:border-[var(--app-border)] dark:bg-[var(--app-surface-2)] dark:text-[var(--app-muted)] dark:hover:border-[var(--app-active-border)] dark:hover:text-[var(--app-fg)]"
             >
               {prompt}
             </button>
