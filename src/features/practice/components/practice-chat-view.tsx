@@ -10,13 +10,9 @@ import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Divider from "@mui/material/Divider";
 import Drawer from "@mui/material/Drawer";
-import FormControl from "@mui/material/FormControl";
 import IconButton from "@mui/material/IconButton";
-import InputLabel from "@mui/material/InputLabel";
-import MenuItem from "@mui/material/MenuItem";
 import Paper from "@mui/material/Paper";
 import Popover from "@mui/material/Popover";
-import Select from "@mui/material/Select";
 import Typography from "@mui/material/Typography";
 import * as React from "react";
 import { useShallow } from "zustand/react/shallow";
@@ -32,6 +28,7 @@ import { usePracticeStore } from "@/features/practice/stores/practice-store";
 import type { AgentSettings as AgentSettingsType } from "@/features/practice/types/agent";
 import type { Conversation, ConversationMessage } from "@/features/practice/types/practice";
 import { detectEmotionTag } from "@/features/practice/utils/emotion-tag";
+import { getPreferredJapaneseFemaleVoice } from "@/features/practice/utils/voice-picker";
 
 const createMessage = (
   content: string,
@@ -52,6 +49,9 @@ const subtleOutlinedButtonSx = {
   },
 } as const;
 
+const hasKanjiPattern = /[\p{Script=Han}々ヶヵ]/u;
+const hasFuriganaPattern = /[\p{Script=Han}々ヶヵ]+\([^()]+\)/u;
+
 export default function PracticeChatView() {
   const { activeConversationId, setActiveConversationId, agentSettings, updateAgentSettings } =
     usePracticeStore(
@@ -70,7 +70,6 @@ export default function PracticeChatView() {
   const [streamError, setStreamError] = React.useState<string | null>(null);
   const [conversations, setConversations] = React.useState<Conversation[]>([]);
   const [interimTranscript, setInterimTranscript] = React.useState("");
-  const [llmProvider, setLlmProvider] = React.useState<"megallm" | "local">("local");
   const [callActive, setCallActive] = React.useState(false);
   const [callMuted, setCallMuted] = React.useState(false);
   const [callSeconds, setCallSeconds] = React.useState(0);
@@ -80,6 +79,7 @@ export default function PracticeChatView() {
   const [waveDuration, setWaveDuration] = React.useState(2.4);
   const [settingsAnchor, setSettingsAnchor] = React.useState<HTMLElement | null>(null);
   const [mobilePanelOpen, setMobilePanelOpen] = React.useState(false);
+  const callActiveRef = React.useRef(false);
   const lastUserSentRef = React.useRef<{ text: string; at: number }>({ text: "", at: 0 });
   const hydratedRef = React.useRef(false);
   const lastActivityRef = React.useRef(Date.now());
@@ -149,164 +149,70 @@ export default function PracticeChatView() {
     persistConversations(conversations);
   }, [conversations, persistConversations]);
 
+  React.useEffect(() => {
+    callActiveRef.current = callActive;
+  }, [callActive]);
+
   const [pendingConversation, setPendingConversation] = React.useState<Conversation | null>(null);
   const activeConversation =
     (pendingConversation && pendingConversation.id === activeConversationId
       ? pendingConversation
       : conversations.find((conv) => conv.id === activeConversationId)) ?? null;
 
-  const [ttsVoices, setTtsVoices] = React.useState<SpeechSynthesisVoice[]>([]);
-
-  const pickPreferredVoice = React.useCallback((voices: SpeechSynthesisVoice[]) => {
-    if (!voices.length) {
-      return null;
+  const speakWithBrowserTts = React.useCallback(async (text: string, rate: number) => {
+    if (typeof window === "undefined" || !("speechSynthesis" in window) || !callActiveRef.current) {
+      return Promise.resolve();
     }
 
-    const preferredNames = [
-      "Kyoko",
-      "Haruka",
-      "Hina",
-      "Hana",
-      "Siri",
-      "Google 日本語",
-      "Google Japanese",
-      "Japanese Female",
-    ];
+    const segments = text.split(/(?<=[。！？!?])\s*/).filter((seg) => seg.trim().length > 0);
+    const queue = segments.length ? segments : [text];
 
-    const byName = voices.find((voice) =>
-      preferredNames.some((name) => voice.name.toLowerCase().includes(name.toLowerCase())),
-    );
-    if (byName) {
-      return byName;
-    }
+    const voice = await getPreferredJapaneseFemaleVoice();
 
-    const japaneseVoice = voices.find((voice) => voice.lang.toLowerCase().startsWith("ja"));
-    if (japaneseVoice) {
-      return japaneseVoice;
-    }
-
-    return voices[0];
-  }, []);
-
-  const displayVoices = React.useMemo(() => {
-    if (!ttsVoices.length) {
-      return [];
-    }
-
-    const preferredNames = ["Google 日本語", "Google Japanese", "Kyoko", "Haruka", "Hina", "Hana"];
-
-    const isPreferred = (voice: SpeechSynthesisVoice) =>
-      preferredNames.some((name) => voice.name.toLowerCase().includes(name.toLowerCase()));
-
-    const japaneseVoices = ttsVoices.filter((voice) => voice.lang.toLowerCase().startsWith("ja"));
-    const preferredJapanese = japaneseVoices.filter(isPreferred);
-
-    const pickUnique = (voices: SpeechSynthesisVoice[]) => {
-      const seen = new Set<string>();
-      return voices.filter((voice) => {
-        if (seen.has(voice.name)) {
-          return false;
+    const speakSegment = (segment: string) =>
+      new Promise<void>((resolve) => {
+        if (!callActiveRef.current) {
+          resolve();
+          return;
         }
-        seen.add(voice.name);
-        return true;
+        const utterance = new SpeechSynthesisUtterance(segment);
+        if (voice) {
+          utterance.voice = voice;
+          utterance.lang = voice.lang || "ja-JP";
+        } else {
+          utterance.lang = "ja-JP";
+        }
+        const rateBase = Math.max(0.7, Math.min(1.3, rate));
+        const rateJitter = (Math.random() * 2 - 1) * 0.03;
+        const pitchJitter = (Math.random() * 2 - 1) * 0.03;
+        utterance.rate = Math.max(0.65, Math.min(1.35, rateBase + rateJitter));
+        utterance.pitch = Math.max(0.95, Math.min(1.35, 1.11 + pitchJitter));
+        utterance.onend = () => resolve();
+        utterance.onerror = () => resolve();
+        window.speechSynthesis.speak(utterance);
       });
-    };
 
-    const candidates = pickUnique(preferredJapanese);
-
-    return candidates.slice(0, 2);
-  }, [ttsVoices]);
-
-  const speakWithBrowserTts = React.useCallback(
-    (text: string, rate: number, voiceName: string | null, emotional: number) => {
-      if (typeof window === "undefined" || !("speechSynthesis" in window)) {
-        return Promise.resolve();
+    return new Promise<void>(async (resolve) => {
+      window.speechSynthesis.cancel();
+      for (let i = 0; i < queue.length; i += 1) {
+        if (!callActiveRef.current) {
+          break;
+        }
+        const segment = queue[i] ?? "";
+        await speakSegment(segment);
+        if (i < queue.length - 1) {
+          await new Promise((pauseResolve) => setTimeout(pauseResolve, 120));
+        }
       }
-
-      const segments =
-        emotional >= 35
-          ? text.split(/(?<=[。！？!?])\s*/).filter((seg) => seg.trim().length > 0)
-          : [text];
-
-      const voices = window.speechSynthesis.getVoices();
-      const voiceCandidates = displayVoices.length ? displayVoices : voices;
-      const matched =
-        voiceName && voiceCandidates.length
-          ? voiceCandidates.find((voice) => voice.name === voiceName)
-          : null;
-      const voice = matched ?? pickPreferredVoice(voiceCandidates);
-
-      const speakSegment = (segment: string) =>
-        new Promise<void>((resolve) => {
-          const utterance = new SpeechSynthesisUtterance(segment);
-          if (voice) {
-            utterance.voice = voice;
-            utterance.lang = voice.lang || "ja-JP";
-          } else {
-            utterance.lang = "ja-JP";
-          }
-          const base = Math.max(0, Math.min(100, emotional));
-          const pitchBase = 1.0 + Math.min(0.45, base / 220);
-          const rateBase = Math.max(0.75, Math.min(1.25, rate));
-          const pitchJitter = (Math.random() * 2 - 1) * (base / 400);
-          const rateJitter = (Math.random() * 2 - 1) * (base / 800);
-          utterance.rate = Math.max(0.65, Math.min(1.35, rateBase + rateJitter));
-          utterance.pitch = Math.max(0.85, Math.min(1.5, pitchBase + pitchJitter));
-          utterance.onend = () => resolve();
-          utterance.onerror = () => resolve();
-          window.speechSynthesis.speak(utterance);
-        });
-
-      return new Promise<void>(async (resolve) => {
-        window.speechSynthesis.cancel();
-        for (let i = 0; i < segments.length; i += 1) {
-          const segment = segments[i] ?? "";
-          await speakSegment(segment);
-          if (i < segments.length - 1) {
-            await new Promise((pauseResolve) => setTimeout(pauseResolve, 120));
-          }
-        }
-        resolve();
-      });
-    },
-    [pickPreferredVoice, displayVoices],
-  );
+      resolve();
+    });
+  }, []);
 
   React.useEffect(() => {
     if (typeof window === "undefined" || !("speechSynthesis" in window)) {
       return;
     }
-
-    const loadVoices = () => {
-      setTtsVoices(window.speechSynthesis.getVoices());
-    };
-
-    loadVoices();
-    window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
-    return () => {
-      window.speechSynthesis.removeEventListener("voiceschanged", loadVoices);
-    };
-  }, []);
-
-  React.useEffect(() => {
-    const loadStatus = async () => {
-      try {
-        const response = await fetch("/api/status", { cache: "no-store" });
-        if (!response.ok) {
-          setLlmProvider("local");
-          return;
-        }
-        const data = (await response.json()) as {
-          data?: { llmProvider?: "megallm" | "local" };
-        };
-        if (data.data?.llmProvider) {
-          setLlmProvider(data.data.llmProvider);
-        }
-      } catch {
-        // ignore
-      }
-    };
-    loadStatus();
+    window.speechSynthesis.getVoices();
   }, []);
 
   const resetStream = () => {
@@ -320,7 +226,7 @@ export default function PracticeChatView() {
       if (speakingRef.current) {
         return;
       }
-      if (!callActive) {
+      if (!callActiveRef.current) {
         setIsSpeaking(false);
         return;
       }
@@ -331,11 +237,10 @@ export default function PracticeChatView() {
       }
       speakingRef.current = true;
       setIsSpeaking(true);
-      const emotional = Math.min(100, Math.max(0, settings.emotional));
-      const baseRate = 1.0 + emotional / 600;
+      const baseRate = Math.max(0.7, Math.min(1.3, settings.speechRate / 100));
       let rateMultiplier = speechRateMultiplierRef.current;
       if (speechModeRef.current === "story") {
-        const variability = 0.08 + (emotional / 100) * 0.08;
+        const variability = 0.05;
         const jitter = (Math.random() * 2 - 1) * variability;
         const lengthFactor = next.length > 30 ? -0.08 : next.length < 12 ? 0.08 : 0;
         rateMultiplier = Math.min(0.95, Math.max(0.55, rateMultiplier + jitter + lengthFactor));
@@ -343,30 +248,25 @@ export default function PracticeChatView() {
       const tempo = Math.max(1.1, Math.min(2.8, 2.4 / (baseRate * rateMultiplier)));
       setWaveDuration(tempo);
       try {
-        await speakWithBrowserTts(
-          next,
-          baseRate * rateMultiplier,
-          settings.voiceName,
-          settings.emotional,
-        );
+        await speakWithBrowserTts(next, baseRate * rateMultiplier);
       } finally {
         speakingRef.current = false;
         setIsSpeaking(false);
         speakNext(settings);
       }
     },
-    [callActive, speakWithBrowserTts],
+    [speakWithBrowserTts],
   );
 
   const enqueueSpeech = React.useCallback(
     (text: string, settings: AgentSettingsType) => {
-      if (!text.trim() || !callActive) {
+      if (!text.trim() || !callActiveRef.current) {
         return;
       }
       speechQueueRef.current.push(text);
       speakNext(settings);
     },
-    [callActive, speakNext],
+    [speakNext],
   );
 
   const appendChunk = React.useCallback(
@@ -386,6 +286,47 @@ export default function PracticeChatView() {
             : conv,
         ),
       );
+    },
+    [],
+  );
+
+  const maybeAttachFurigana = React.useCallback(
+    async (conversationId: string, messageId: string, content: string) => {
+      const text = content.trim();
+      if (!text || !hasKanjiPattern.test(text) || hasFuriganaPattern.test(text)) {
+        return;
+      }
+
+      try {
+        const response = await fetch("/api/practice/furigana", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ text }),
+        });
+        if (!response.ok) {
+          return;
+        }
+        const payload = (await response.json().catch(() => null)) as { text?: string } | null;
+        const converted = payload?.text?.trim();
+        if (!converted) {
+          return;
+        }
+
+        setConversations((prev) =>
+          prev.map((conv) =>
+            conv.id === conversationId
+              ? {
+                  ...conv,
+                  messages: conv.messages.map((msg) =>
+                    msg.id === messageId ? { ...msg, content: converted } : msg,
+                  ),
+                }
+              : conv,
+          ),
+        );
+      } catch {
+        // keep original content if conversion fails
+      }
     },
     [],
   );
@@ -551,6 +492,8 @@ export default function PracticeChatView() {
         const reader = response.body.getReader();
         const decoder = new TextDecoder();
         let buffer = "";
+        let hasVisibleChunk = false;
+        let fullAssistantMessage = "";
 
         while (true) {
           const { value, done } = await reader.read();
@@ -564,7 +507,7 @@ export default function PracticeChatView() {
             if (!line.startsWith("data: ")) {
               continue;
             }
-            const chunk = line.replace("data: ", "");
+            const chunk = line.replace("data: ", "").trimEnd();
             if (chunk === "[DONE]") {
               if (idleMessageRef.current?.id === messageId) {
                 if (idleMessageRef.current.mode === "story") {
@@ -576,7 +519,15 @@ export default function PracticeChatView() {
                 }
                 idleMessageRef.current = null;
               }
+              if (!hasVisibleChunk) {
+                appendChunk(
+                  conversationId,
+                  messageId,
+                  "Model chưa trả về nội dung. Hãy gửi lại hoặc tăng `max_tokens` cho model hiện tại.",
+                );
+              }
               finalizeMessageEmotion(conversationId, messageId);
+              void maybeAttachFurigana(conversationId, messageId, fullAssistantMessage);
               const leftover = speechBufferRef.current.trim();
               if (leftover) {
                 enqueueSpeech(leftover, settings);
@@ -585,6 +536,10 @@ export default function PracticeChatView() {
               return;
             }
             appendChunk(conversationId, messageId, chunk);
+            if (chunk.trim().length > 0) {
+              hasVisibleChunk = true;
+            }
+            fullAssistantMessage += chunk;
             speechBufferRef.current += chunk;
             setLastAssistantUtterance((prev) => `${prev}${chunk}`);
             if (/[。！？\n]/.test(chunk) || speechBufferRef.current.length > 12) {
@@ -595,6 +550,9 @@ export default function PracticeChatView() {
               speechBufferRef.current = "";
             }
           }
+        }
+        if (fullAssistantMessage.trim().length > 0) {
+          void maybeAttachFurigana(conversationId, messageId, fullAssistantMessage);
         }
       } catch (error) {
         if (controller.signal.aborted) {
@@ -610,7 +568,7 @@ export default function PracticeChatView() {
         setIsStreaming(false);
       }
     },
-    [appendChunk, enqueueSpeech, finalizeMessageEmotion],
+    [appendChunk, enqueueSpeech, finalizeMessageEmotion, maybeAttachFurigana],
   );
 
   const handleSendMessage = React.useCallback(
@@ -629,8 +587,18 @@ export default function PracticeChatView() {
       speechModeRef.current = "normal";
       const normalized = normalizeText(trimmed);
       const last = lastUserSentRef.current;
-      if (last.text && last.text === normalized && Date.now() - last.at < 2000) {
-        return;
+      const elapsed = Date.now() - last.at;
+      if (last.text && elapsed < 2500) {
+        if (last.text === normalized) {
+          return;
+        }
+        const isLikelyTailDuplicate =
+          normalized.length >= 2 &&
+          normalized.length <= Math.max(8, Math.floor(last.text.length * 0.45)) &&
+          last.text.endsWith(normalized);
+        if (isLikelyTailDuplicate) {
+          return;
+        }
       }
       lastUserSentRef.current = { text: normalized, at: Date.now() };
       setInterimTranscript("");
@@ -793,12 +761,7 @@ export default function PracticeChatView() {
     onInterim: handleInterimTranscript,
   });
 
-  const {
-    supported: micSupported,
-    listening: micListening,
-    start: startMic,
-    stop: stopMic,
-  } = recognition;
+  const { supported: micSupported, start: startMic, stop: stopMic } = recognition;
 
   React.useEffect(() => {
     if (!micSupported) {
@@ -836,11 +799,13 @@ export default function PracticeChatView() {
   }, [callActive]);
 
   const handleStartCall = () => {
+    callActiveRef.current = true;
     setCallActive(true);
     setCallMuted(false);
   };
 
   const handleEndCall = () => {
+    callActiveRef.current = false;
     setCallActive(false);
     setCallMuted(false);
     setInterimTranscript("");
@@ -879,7 +844,6 @@ export default function PracticeChatView() {
   const callTime = `${String(Math.floor(callSeconds / 60)).padStart(2, "0")}:${String(
     callSeconds % 60,
   ).padStart(2, "0")}`;
-
   const settingsOpen = Boolean(settingsAnchor);
   const handleOpenSettings = (event: React.MouseEvent<HTMLButtonElement>) => {
     setSettingsAnchor(event.currentTarget);
@@ -1098,8 +1062,12 @@ export default function PracticeChatView() {
         anchorOrigin={{ vertical: "bottom", horizontal: "left" }}
         transformOrigin={{ vertical: "top", horizontal: "left" }}
         PaperProps={{
-          className:
-            "w-[min(90vw,320px)] rounded-3xl border border-slate-200 bg-white p-6 shadow-xl dark:border-[#2F3A4B] dark:bg-[#161D2A]",
+          className: "w-[min(90vw,320px)] rounded-3xl border p-6 shadow-xl",
+          sx: {
+            borderColor: "var(--app-border)",
+            backgroundColor: "var(--app-card)",
+            color: "var(--app-fg)",
+          },
         }}
       >
         <Typography variant="subtitle1" fontWeight={600}>
@@ -1108,38 +1076,6 @@ export default function PracticeChatView() {
         <div className="mt-4">
           <AgentSettings settings={agentSettings} onChange={updateAgentSettings} />
         </div>
-        <div className="mt-4 space-y-3">
-          <FormControl size="small" fullWidth>
-            <InputLabel id="tts-voice-label">Giọng đọc</InputLabel>
-            <Select
-              labelId="tts-voice-label"
-              value={agentSettings.voiceName ?? ""}
-              label="Giọng đọc"
-              onChange={(event) =>
-                updateAgentSettings({
-                  voiceName: event.target.value ? String(event.target.value) : null,
-                })
-              }
-            >
-              {displayVoices.map((voice) => (
-                <MenuItem key={`${voice.name}-${voice.lang}`} value={voice.name}>
-                  {voice.name} ({voice.lang})
-                </MenuItem>
-              ))}
-            </Select>
-          </FormControl>
-          <Typography variant="caption" color="text.secondary">
-            TTS: System voice{agentSettings.voiceName ? ` (${agentSettings.voiceName})` : ""}
-          </Typography>
-          <Typography variant="caption" color="text.secondary">
-            LLM: {llmProvider === "megallm" ? "MegaLLM" : "Local fallback"}
-          </Typography>
-        </div>
-        {micSupported && (
-          <Typography variant="caption" color="text.secondary" className="mt-3 block">
-            Mic: {micListening ? "Đang nghe" : "Tạm dừng"}
-          </Typography>
-        )}
         {isStreaming && (
           <Typography variant="caption" color="text.secondary" className="mt-2 block">
             AI đang trả lời…

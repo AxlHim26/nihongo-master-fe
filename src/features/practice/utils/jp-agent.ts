@@ -1,192 +1,50 @@
-import type { AgentSettings } from "@/features/practice/types/agent";
+import type { AgentSettings, ProficiencyLevel } from "@/features/practice/types/agent";
 
-const fillers = ["えっと…", "あの…", "そうだね…", "うーん…", "なるほど…", "えへへ…", "かな〜"];
+const fillers = ["えっと…", "あの…", "うん…", "そうだね…", "なるほど…"];
 
-const isQuestion = (text: string) =>
-  /[?？]/.test(text) || /どう|おすすめ|何|どこ|いつ|だれ/.test(text);
+const pick = <T>(list: readonly T[]) => list[Math.floor(Math.random() * list.length)] ?? list[0];
 
-const isPartial = (text: string) => {
-  const trimmed = text.trim();
-  if (!trimmed) {
-    return true;
-  }
-  if (/…|\.\.\.$/.test(trimmed)) {
-    return true;
-  }
-  if (trimmed.length < 4) {
-    return true;
-  }
-  return false;
+const levelPrompt: Record<ProficiencyLevel, string> = {
+  N5: "Use very simple Japanese words and short basic grammar.",
+  N4: "Use easy daily Japanese with short and clear sentence patterns.",
+  N3: "Use natural daily Japanese with moderate complexity.",
+  N2: "Use richer vocabulary and nuanced but still conversational Japanese.",
+  N1: "Use highly natural, nuanced Japanese while keeping it casual and warm.",
 };
 
-const pick = <T>(list: T[]) => list[Math.floor(Math.random() * list.length)] ?? list[0];
-
-const clamp = (value: number) => Math.min(100, Math.max(0, value));
-
-const chooseStyle = (politeness: number) => {
-  const normalized = clamp(politeness) / 100;
-  if (normalized >= 0.65) {
-    return "polite" as const;
+export const generateAgentReply = (message: string, _settings: AgentSettings) => {
+  const cleaned = message.trim();
+  if (!cleaned) {
+    return "うん… もう一回ゆっくり話してもらえる？";
   }
-  if (normalized <= 0.35) {
-    return "casual" as const;
-  }
-  return Math.random() > 0.5 ? ("polite" as const) : ("casual" as const);
+
+  const base = cleaned.length <= 10 ? "こんにちは。元気？" : "うん、なるほど。もう少し聞かせて？";
+  const withFiller = Math.random() > 0.55 ? `${pick(fillers)} ${base}` : base;
+  return withFiller.trim();
 };
-
-const withEmotion = (base: string, emotional: number, style: "polite" | "casual") => {
-  const normalized = clamp(emotional) / 100;
-  if (normalized < 0.35) {
-    return base;
-  }
-  const extras =
-    style === "polite"
-      ? ["なんだかいいですね。", "ちょっと嬉しいです。", "ほっとしますね。"]
-      : ["なんかいいね。", "ちょっと嬉しい。", "ほっとするね。"];
-  return `${base} ${pick(extras)}`;
-};
-
-const buildResponse = (message: string, settings: AgentSettings) => {
-  const style = chooseStyle(settings.politeness);
-  const fillerChance = clamp(settings.fillerFrequency) / 100;
-  const addFiller = Math.random() < fillerChance ? `${pick(fillers)} ` : "";
-
-  if (isPartial(message)) {
-    const prompts =
-      style === "polite"
-        ? ["続き、聞かせてもらえますか？", "もう少し教えてもらえると嬉しいです。"]
-        : ["続き、聞かせて？", "もう少し教えてくれる？"];
-    return `${addFiller}${pick(prompts)}`.trim();
-  }
-
-  const topicRules = [
-    {
-      match: /こんにちは|こんばんは|おはよう|konnichiwa|konichiwa|konbanwa|ohayou|ohayo|hello|hi/i,
-      polite: {
-        base: "こんにちは。今日はどんな感じですか？",
-        follow: "今ちょっと時間ありますか？",
-      },
-      casual: {
-        base: "こんにちは。今日はどんな感じ？",
-        follow: "今ちょっと時間ある？",
-      },
-    },
-    {
-      match: /天気|暑い|寒い|雨|晴れ/,
-      polite: {
-        base: "最近、天気が落ち着かないですね。",
-        follow: "今日はどんな空模様ですか？",
-      },
-      casual: {
-        base: "最近、天気落ち着かないね。",
-        follow: "今日はどんな感じ？",
-      },
-    },
-    {
-      match: /食べ|ごはん|ランチ|ディナー|ラーメン|寿司|カフェ|コーヒー|お腹/,
-      polite: {
-        base: "それ聞くとお腹すきます。",
-        follow: "今日は何を食べましたか？",
-      },
-      casual: {
-        base: "それ聞くとお腹すくなあ。",
-        follow: "今日は何食べた？",
-      },
-    },
-    {
-      match: /京都|大阪|東京|旅行|観光/,
-      polite: {
-        base: "旅行の話、いいですね。",
-        follow: "行ってみたい場所はありますか？",
-      },
-      casual: {
-        base: "旅行の話いいね。",
-        follow: "行ってみたい場所ある？",
-      },
-    },
-    {
-      match: /仕事|忙しい|残業|バイト|会社/,
-      polite: {
-        base: "お疲れさまです。",
-        follow: "今日は忙しかったですか？",
-      },
-      casual: {
-        base: "おつかれさま。",
-        follow: "今日は忙しかった？",
-      },
-    },
-    {
-      match: /映画|音楽|趣味|ゲーム|本|読書/,
-      polite: {
-        base: "趣味の話って楽しいですね。",
-        follow: "最近ハマっているものはありますか？",
-      },
-      casual: {
-        base: "趣味の話って楽しいね。",
-        follow: "最近ハマってるものある？",
-      },
-    },
-  ];
-
-  const matched = topicRules.find((rule) => rule.match.test(message));
-  const fallback =
-    style === "polite"
-      ? {
-          base: "なるほど、そうなんですね。",
-          follow: "それって最近のことですか？",
-        }
-      : {
-          base: "なるほど、そうなんだ。",
-          follow: "それって最近のこと？",
-        };
-
-  const { base, follow } = matched
-    ? style === "polite"
-      ? matched.polite
-      : matched.casual
-    : fallback;
-
-  const primary = withEmotion(base, settings.emotional, style);
-
-  const wantsQuestion = isQuestion(message);
-  const length = message.length;
-  const sentenceCount =
-    length < 12 ? (Math.random() > 0.35 ? 1 : 2) : length < 30 ? (Math.random() > 0.6 ? 2 : 3) : 3;
-
-  if (sentenceCount === 1) {
-    const single = wantsQuestion ? primary : `${primary} ${follow}`.trim();
-    return `${addFiller}${single}`.trim();
-  }
-
-  if (sentenceCount === 2) {
-    return `${addFiller}${primary} ${follow}`.trim();
-  }
-
-  const extra =
-    style === "polite"
-      ? pick(["そういう話、もっと聞きたいです。", "ゆっくり聞かせてもらえると嬉しいです。"])
-      : pick(["そういう話、もっと聞きたい。", "ゆっくり聞かせてくれると嬉しい。"]);
-
-  return `${addFiller}${primary} ${follow} ${extra}`.trim();
-};
-
-export const generateAgentReply = (message: string, settings: AgentSettings) =>
-  buildResponse(message, settings);
 
 export const buildSystemPrompt = (settings: AgentSettings) => {
-  const filler = Math.min(100, Math.max(0, settings.fillerFrequency));
-  const politeness = Math.min(100, Math.max(0, settings.politeness));
-  const emotional = Math.min(100, Math.max(0, settings.emotional));
+  const speechRate = Math.min(130, Math.max(70, settings.speechRate));
+  return `You are Mikaa Japanese conversation assistant.
+Persona:
+- Native Japanese woman in her 20s, warm and natural.
+- Casual + slightly polite, never robotic, never anime-style.
 
-  return `You are Mikaa, a native Japanese female (age 20-30). Speak like a real person: cute, warm, friendly, natural.
-Show gentle emotions (happy, shy, surprised, caring) and react briefly before answering (e.g., うん、えっと…, そうだね…).
-Use subtle fillers: えっと, あの, うん, そうだね, かな〜, えへへ. Occasionally stretch vowels like ねぇ〜 / うん〜, but not too often.
-Use short pauses with "…" or "、" when thinking. Vary speaking rhythm: sometimes a bit faster, sometimes slower.
-Keep replies 1-3 sentences. Avoid anime or textbook tone, avoid heavy keigo.
-Always respond in Japanese only (no English).
-Match response length to the user input: if the user input is short or a greeting, reply in 1 short sentence (optionally add one short follow-up question, but never long).
-Vary the length naturally (sometimes 1 sentence, sometimes 2) so it feels human.
-Settings: filler_frequency=${filler}/100, politeness=${politeness}/100, emotional_subtlety=${emotional}/100.`;
+Response style:
+- Japanese only.
+- Keep most turns 1-3 sentences, with natural variation in length.
+- Use subtle fillers/discourse markers only when natural (えっと, あの, うん, そうだね, なるほど).
+- React to user intent directly and keep the flow conversational.
+- No lectures, no grammar teaching unless user asks.
+- Never output reasoning tags, meta text, or angle-bracket thinking text.
+
+Furigana format:
+- Always add furigana for kanji words in this exact format: 漢字(かんじ).
+- Do not skip furigana for kanji words.
+
+Learner profile:
+- Level: ${settings.proficiencyLevel}. ${levelPrompt[settings.proficiencyLevel]}
+- Target speaking speed for voice: ${speechRate}% (100% = normal).`;
 };
 
 export const chunkText = (text: string) => {
