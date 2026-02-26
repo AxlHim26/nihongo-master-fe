@@ -18,6 +18,7 @@ import {
   SECTION_META,
 } from "@/features/courses/components/course-tree-ui";
 import { useCourseTreeData } from "@/features/courses/hooks/use-course-tree-data";
+import { saveContinueLearning } from "@/features/courses/utils/continue-learning";
 import {
   findChapterById,
   findCourseById,
@@ -100,6 +101,21 @@ export default function CourseLessonViewerPage({
     },
     [parsedChapterId, parsedCourseId, parsedSectionType, router],
   );
+
+  React.useEffect(() => {
+    if (!parsedCourseId || !parsedChapterId || !parsedSectionType || !parsedLessonId || !lesson) {
+      return;
+    }
+
+    saveContinueLearning({
+      path: getLessonPath(parsedCourseId, parsedChapterId, parsedSectionType, parsedLessonId),
+      courseId: parsedCourseId,
+      chapterId: parsedChapterId,
+      sectionType: parsedSectionType,
+      lessonId: parsedLessonId,
+      updatedAt: new Date().toISOString(),
+    });
+  }, [lesson, parsedChapterId, parsedCourseId, parsedLessonId, parsedSectionType]);
 
   const sectionTitle = parsedSectionType ? SECTION_META[parsedSectionType].title : "Bài học";
 
