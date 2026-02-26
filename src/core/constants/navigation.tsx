@@ -1,5 +1,4 @@
 import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
-import BarChartIcon from "@mui/icons-material/BarChart";
 import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import GridViewIcon from "@mui/icons-material/GridView";
 import LayersOutlinedIcon from "@mui/icons-material/LayersOutlined";
@@ -7,7 +6,6 @@ import LibraryBooksIcon from "@mui/icons-material/LibraryBooks";
 import MapIcon from "@mui/icons-material/Map";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
 import PsychologyIcon from "@mui/icons-material/Psychology";
-import PublicIcon from "@mui/icons-material/Public";
 import RecordVoiceOverIcon from "@mui/icons-material/RecordVoiceOver";
 import SchoolIcon from "@mui/icons-material/School";
 import SearchIcon from "@mui/icons-material/Search";
@@ -118,44 +116,37 @@ export const vocabularySidebarSections: NavSection[] = [
     ],
   },
   {
-    id: "community",
-    title: "Khóa học cộng đồng (146)",
-    icon: <PublicIcon fontSize="inherit" />,
-    titleStyle: "normal",
+    id: "vocabulary-library",
+    title: "Kho từ vựng",
     items: [
       {
-        id: "lesson-12",
-        label: "Bài 12",
-        badge: "(Mới)",
-        icon: <BarChartIcon fontSize="inherit" />,
+        id: "vocabulary-n5",
+        label: "Từ vựng N5",
         variant: "plain",
       },
       {
-        id: "lesson-11",
-        label: "Bài 11",
-        badge: "(Mới)",
-        icon: <BarChartIcon fontSize="inherit" />,
+        id: "vocabulary-n4",
+        label: "Từ vựng N4",
         variant: "plain",
       },
       {
-        id: "lesson-10",
-        label: "Bài 10",
-        badge: "(Mới)",
-        icon: <BarChartIcon fontSize="inherit" />,
+        id: "vocabulary-n3",
+        label: "Từ vựng N3",
         variant: "plain",
       },
       {
-        id: "lesson-9",
-        label: "Bài 9",
-        badge: "(Mới)",
-        icon: <BarChartIcon fontSize="inherit" />,
+        id: "vocabulary-n2",
+        label: "Từ vựng N2",
         variant: "plain",
       },
       {
-        id: "lesson-8",
-        label: "Bài 8",
-        badge: "(Mới)",
-        icon: <BarChartIcon fontSize="inherit" />,
+        id: "vocabulary-n1",
+        label: "Từ vựng N1",
+        variant: "plain",
+      },
+      {
+        id: "vocabulary-specialized",
+        label: "Từ vựng chuyên ngành",
         variant: "plain",
       },
     ],
@@ -217,15 +208,6 @@ export const coursesSidebarSections: NavSection[] = [
         icon: <SearchIcon fontSize="small" />,
         badge: "Ctrl + K",
       },
-    ],
-  },
-  {
-    id: "tracks",
-    title: "Lộ trình",
-    items: [
-      { id: "foundation", label: "Nền tảng N5", href: "/courses?track=foundation" },
-      { id: "intermediate", label: "Nâng cao N3", href: "/courses?track=intermediate" },
-      { id: "advanced", label: "N1 tăng tốc", href: "/courses?track=advanced" },
     ],
   },
 ];

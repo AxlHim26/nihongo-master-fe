@@ -23,7 +23,7 @@ export default function EmptyState({
     <Paper
       elevation={0}
       className={cn(
-        "flex flex-col items-center justify-center rounded-3xl border border-dashed border-[var(--app-border)] bg-[var(--app-card)] px-6 py-16 text-center",
+        "flex flex-col items-center justify-center rounded-3xl border border-dashed border-[var(--app-border)] bg-[linear-gradient(165deg,rgba(255,255,255,0.94),rgba(242,246,252,0.82))] px-6 py-16 text-center dark:bg-[linear-gradient(165deg,rgba(42,42,42,0.95),rgba(33,33,33,0.92))]",
         className,
       )}
     >

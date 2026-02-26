@@ -2,7 +2,7 @@ import { create } from "zustand";
 import { persist } from "zustand/middleware";
 
 import type { AgentSettings } from "@/features/practice/types/agent";
-import { defaultAgentSettings } from "@/features/practice/types/agent";
+import { defaultAgentSettings, normalizeAgentSettings } from "@/features/practice/types/agent";
 import type { Conversation } from "@/features/practice/types/practice";
 import storage from "@/shared/utils/storage";
 
@@ -26,9 +26,11 @@ export const usePracticeStore = create<PracticeState>()(
       setActiveConversationId: (id) => set({ activeConversationId: id }),
       setDraft: (value) => set({ draft: value }),
       clearDraft: () => set({ draft: "" }),
-      setAgentSettings: (settings) => set({ agentSettings: settings }),
+      setAgentSettings: (settings) => set({ agentSettings: normalizeAgentSettings(settings) }),
       updateAgentSettings: (settings) =>
-        set((state) => ({ agentSettings: { ...state.agentSettings, ...settings } })),
+        set((state) => ({
+          agentSettings: normalizeAgentSettings({ ...state.agentSettings, ...settings }),
+        })),
     }),
     {
       name: "practice-settings",
@@ -42,10 +44,10 @@ export const usePracticeStore = create<PracticeState>()(
         return {
           ...current,
           ...incoming,
-          agentSettings: {
+          agentSettings: normalizeAgentSettings({
             ...current.agentSettings,
             ...(incoming.agentSettings ?? {}),
-          },
+          }),
         };
       },
     },
