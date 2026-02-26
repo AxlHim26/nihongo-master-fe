@@ -14,7 +14,8 @@ type StatCardProps = {
 
 const toneClasses: Record<NonNullable<StatCardProps["tone"]>, string> = {
   neutral: "bg-[var(--app-surface-2)] text-[var(--app-muted)]",
-  primary: "bg-[var(--app-primary-soft)] text-[var(--app-primary)]",
+  primary:
+    "bg-[linear-gradient(135deg,var(--app-primary-soft),rgba(96,165,250,0.22))] text-[var(--app-primary)]",
 };
 
 export default function StatCard({
@@ -28,12 +29,15 @@ export default function StatCard({
     <Paper
       elevation={0}
       className={cn(
-        "flex items-center gap-4 rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-5",
+        "flex items-center gap-4 rounded-2xl border border-[var(--app-border)] bg-[linear-gradient(165deg,rgba(255,255,255,0.98),rgba(242,246,252,0.86))] p-5 transition duration-200 hover:-translate-y-[1px] hover:shadow-[0_14px_30px_-24px_rgba(59,130,246,0.45)] dark:bg-[linear-gradient(165deg,rgba(42,42,42,0.95),rgba(33,33,33,0.94))]",
         className,
       )}
     >
       <div
-        className={cn("flex h-12 w-12 items-center justify-center rounded-2xl", toneClasses[tone])}
+        className={cn(
+          "flex h-12 w-12 items-center justify-center rounded-2xl border border-[var(--app-border)]",
+          toneClasses[tone],
+        )}
       >
         {icon}
       </div>

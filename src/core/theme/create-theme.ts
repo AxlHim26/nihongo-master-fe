@@ -172,7 +172,12 @@ const getDesignTokens = (mode: PaletteMode) => {
           root: {
             backgroundImage: "none",
             backgroundColor: tokens.background.paper,
-            borderColor: tokens.divider,
+            border: `1px solid ${tokens.divider}`,
+            boxShadow:
+              mode === "dark"
+                ? "0 20px 44px -34px rgba(0, 0, 0, 0.72)"
+                : "0 18px 36px -30px rgba(15, 23, 42, 0.24)",
+            transition: "border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease",
           },
         },
       },
