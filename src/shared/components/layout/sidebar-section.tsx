@@ -12,6 +12,7 @@ type SidebarSectionProps = {
 function SidebarSection({ section, activeId, onItemClick }: SidebarSectionProps) {
   const titleStyle = section.titleStyle ?? "upper";
   const iconTone = titleStyle === "upper" ? "text-slate-400" : "text-slate-500";
+  const shouldBoldItems = section.id === "vocabulary-library" || section.id === "kanji-library";
   return (
     <div className="space-y-2">
       {section.title && (
@@ -42,6 +43,7 @@ function SidebarSection({ section, activeId, onItemClick }: SidebarSectionProps)
               key={item.id}
               item={item}
               active={Boolean(isActive)}
+              forceBold={shouldBoldItems}
               {...(onItemClick ? { onClick: onItemClick } : {})}
             />
           );

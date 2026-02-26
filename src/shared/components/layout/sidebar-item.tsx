@@ -8,9 +8,10 @@ type SidebarItemProps = {
   item: NavItem;
   active?: boolean;
   onClick?: (id: string) => void;
+  forceBold?: boolean;
 };
 
-function SidebarItem({ item, active, onClick }: SidebarItemProps) {
+function SidebarItem({ item, active, onClick, forceBold }: SidebarItemProps) {
   const isDashed = item.variant === "dashed";
   const isPlain = item.variant === "plain";
   const showInlineBadge = isPlain && item.badge;
@@ -41,7 +42,7 @@ function SidebarItem({ item, active, onClick }: SidebarItemProps) {
     >
       <span className={cn("flex items-center gap-2", isDashed && "justify-center")}>
         {item.icon}
-        <span className="flex items-center gap-1">
+        <span className={cn("flex items-center gap-1", forceBold && "font-semibold")}>
           {item.label}
           {showInlineBadge && (
             <span className="text-xs text-[var(--app-fg-muted)]">{item.badge}</span>
