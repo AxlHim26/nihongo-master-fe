@@ -20,6 +20,7 @@ import {
 } from "@/core/constants/navigation";
 import { logout } from "@/features/auth/services/auth-api";
 import { authStorage } from "@/features/auth/utils/auth-storage";
+import { getContinueLearningPath } from "@/features/courses/utils/continue-learning";
 import SidebarSection from "@/shared/components/layout/sidebar-section";
 import TopTabs from "@/shared/components/layout/top-tabs";
 import ThemeToggle from "@/shared/components/theme/theme-toggle";
@@ -59,8 +60,13 @@ export default function Sidebar({ current }: SidebarProps) {
       if (id === "create-set") {
         setSidebarOpen(false);
       }
+      if (id === "continue-learning") {
+        const nextPath = getContinueLearningPath();
+        router.push(nextPath || "/courses");
+        setSidebarOpen(false);
+      }
     },
-    [setCommandOpen, setSidebarOpen],
+    [router, setCommandOpen, setSidebarOpen],
   );
 
   const activeHref = pathname;

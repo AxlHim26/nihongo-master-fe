@@ -1,6 +1,7 @@
 import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
 import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import GridViewIcon from "@mui/icons-material/GridView";
+import HistoryRoundedIcon from "@mui/icons-material/HistoryRounded";
 import LayersOutlinedIcon from "@mui/icons-material/LayersOutlined";
 import LibraryBooksIcon from "@mui/icons-material/LibraryBooks";
 import MapIcon from "@mui/icons-material/Map";
@@ -207,6 +208,12 @@ export const coursesSidebarSections: NavSection[] = [
         label: "Tìm kiếm",
         icon: <SearchIcon fontSize="small" />,
         badge: "Ctrl + K",
+      },
+      {
+        id: "continue-learning",
+        label: "Tiếp tục xem",
+        icon: <HistoryRoundedIcon fontSize="small" />,
+        variant: "plain",
       },
     ],
   },

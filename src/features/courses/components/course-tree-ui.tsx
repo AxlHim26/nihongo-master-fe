@@ -27,7 +27,6 @@ import type {
   CourseTree,
   SectionType,
 } from "@/features/courses/types/course-tree";
-import { getBackendApiUrl } from "@/lib/env";
 import EmptyState from "@/shared/components/ui/empty-state";
 
 export const SECTION_ORDER: SectionType[] = [
@@ -533,12 +532,8 @@ const getVideoPlaybackUrl = (rawValue: string) => {
     return null;
   }
 
-  if (/^\d+$/.test(value)) {
-    return `${getBackendApiUrl()}/api/v1/videos/${value}/stream`;
-  }
-
-  if (/^\/api\/v1\/videos\/\d+\/stream$/.test(value)) {
-    return `${getBackendApiUrl()}${value}`;
+  if (/^\d+$/.test(value) || /^\/api\/v1\/videos\/\d+\/stream$/.test(value)) {
+    return null;
   }
 
   return value;
