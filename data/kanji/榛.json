@@ -20,39 +20,60 @@
       {
         "example": "榛莽",
         "reading": "シンボウ",
-        "meaning": "luxuriant vegetation"
+        "meaning": {
+          "en": "luxuriant vegetation"
+        },
+        "romaji": "shinbou"
       },
       {
         "example": "榛の木",
         "reading": "ハンノキ",
-        "meaning": "Japanese alder (Alnus japonica)"
+        "meaning": {
+          "vi": "Japanese alder (Alnus japonica)"
+        },
+        "romaji": "hannoki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "榛",
         "reading": "はしばみ",
-        "meaning": "Asian hazel (Corylus heterophylla var. thunbergii), Siberian hazel"
+        "meaning": {
+          "vi": "Asian hazel (Corylus heterophylla var. thunbergii), Siberian hazel"
+        },
+        "romaji": "hashibami"
       },
       {
         "example": "はしばみの実",
         "reading": "はしばみのみ",
-        "meaning": "hazelnut"
+        "meaning": {
+          "en": "hazelnut"
+        },
+        "romaji": "hashibaminomi"
       },
       {
         "example": "西洋榛",
         "reading": "せいようはしばみ",
-        "meaning": "Eurasian hazel (Corylus avellana)"
+        "meaning": {
+          "en": "Eurasian hazel (Corylus avellana)"
+        },
+        "romaji": "seiyouhashibami"
       },
       {
         "example": "角榛",
         "reading": "つのはしばみ",
-        "meaning": "Japanese hazel (Corylus sieboldiana)"
+        "meaning": {
+          "vi": "Japanese hazel (Corylus sieboldiana)"
+        },
+        "romaji": "tsunohashibami"
       },
       {
         "example": "榛",
         "reading": "はり",
-        "meaning": "Japanese alder (Alnus japonica)"
+        "meaning": {
+          "vi": "Japanese alder (Alnus japonica)"
+        },
+        "romaji": "hari"
       }
     ],
     "radical": {
@@ -70,5 +91,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0699b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/699b.gif",
     "uri": "https://jisho.org/search/%E6%A6%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "trân",
+    "trăn"
+  ]
 }

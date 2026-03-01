@@ -19,24 +19,36 @@
       {
         "example": "使嗾",
         "reading": "シソウ",
-        "meaning": "instigation"
+        "meaning": {
+          "en": "instigation"
+        },
+        "romaji": "shisou"
       },
       {
         "example": "使嗾",
         "reading": "シソウ",
-        "meaning": "instigation"
+        "meaning": {
+          "en": "instigation"
+        },
+        "romaji": "shisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嗾ける",
         "reading": "けしかける",
-        "meaning": "to instigate, to incite, to spur on, to set (e.g. a dog after someone)"
+        "meaning": {
+          "vi": "to instigate, to incite, to spur on, to set (e.g. a dog after someone)"
+        },
+        "romaji": "keshikakeru"
       },
       {
         "example": "唆す",
         "reading": "そそのかす",
-        "meaning": "to instigate, to tempt, to entice, to incite"
+        "meaning": {
+          "vi": "to instigate, to tempt, to entice, to incite"
+        },
+        "romaji": "sosonokasu"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55fe.gif",
     "uri": "https://jisho.org/search/%E5%97%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thốc",
+    "tẩu"
+  ]
 }

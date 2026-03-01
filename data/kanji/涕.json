@@ -17,19 +17,28 @@
       {
         "example": "涕泣",
         "reading": "テイキュウ",
-        "meaning": "khóc lóc, nức nở"
+        "meaning": {
+          "vi": "khóc lóc, nức nở"
+        },
+        "romaji": "teikyuu"
       },
       {
         "example": "流涕",
         "reading": "リュウテイ",
-        "meaning": "khóc, chảy nước mắt"
+        "meaning": {
+          "vi": "khóc, chảy nước mắt"
+        },
+        "romaji": "ryuutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涙",
         "reading": "なみだ",
-        "meaning": "nước mắt, dịch nước mắt, thương cảm"
+        "meaning": {
+          "vi": "nước mắt, dịch nước mắt, thương cảm"
+        },
+        "romaji": "namida"
       }
     ],
     "radical": {
@@ -51,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d95.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d95.gif",
     "uri": "https://jisho.org/search/%E6%B6%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "thế"
+  ]
 }

@@ -331,34 +331,52 @@
       {
         "example": "脱",
         "reading": "ダツ",
-        "meaning": "de- (indicating reversal, removal, etc.), post-"
+        "meaning": {
+          "vi": "de- (indicating reversal, removal, etc.), post-"
+        },
+        "romaji": "datsu"
       },
       {
         "example": "脱税",
         "reading": "ダツゼイ",
-        "meaning": "tax evasion"
+        "meaning": {
+          "en": "tax evasion"
+        },
+        "romaji": "datsuzei"
       },
       {
         "example": "逸脱",
         "reading": "イツダツ",
-        "meaning": "deviation, departure, (accidental) omission"
+        "meaning": {
+          "vi": "deviation, departure, (accidental) omission"
+        },
+        "romaji": "itsudatsu"
       },
       {
         "example": "解脱",
         "reading": "ゲダツ",
-        "meaning": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti"
+        "meaning": {
+          "en": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti"
+        },
+        "romaji": "gedatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脱ぐ",
         "reading": "ぬぐ",
-        "meaning": "to take off (clothes, shoes, etc.), to undress"
+        "meaning": {
+          "en": "to take off (clothes, shoes, etc.), to undress"
+        },
+        "romaji": "nugu"
       },
       {
         "example": "脱げる",
         "reading": "ぬげる",
-        "meaning": "to come off, to slip down, to slip off"
+        "meaning": {
+          "vi": "to come off, to slip down, to slip off"
+        },
+        "romaji": "nugeru"
       }
     ],
     "radical": {
@@ -378,5 +396,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08131.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8131.gif",
     "uri": "https://jisho.org/search/%E8%84%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thoát",
+    "đoái"
+  ]
 }

@@ -18,7 +18,10 @@
       {
         "example": "團平喜佐古",
         "reading": "ダンベイキサゴ",
-        "meaning": "Umbonium giganteum (species of sea snail)"
+        "meaning": {
+          "vi": "Umbonium giganteum (species of sea snail)"
+        },
+        "romaji": "danbeikisago"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05718.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5718.gif",
     "uri": "https://jisho.org/search/%E5%9C%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "đoàn"
+  ]
 }

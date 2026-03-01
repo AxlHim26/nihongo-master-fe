@@ -284,29 +284,44 @@
       {
         "example": "幹",
         "reading": "ミキ",
-        "meaning": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base"
+        "meaning": {
+          "en": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base"
+        },
+        "romaji": "miki"
       },
       {
         "example": "幹事",
         "reading": "カンジ",
-        "meaning": "executive secretary, coordinator, organizer, person in charge of making arrangements"
+        "meaning": {
+          "vi": "executive secretary, coordinator, organizer, person in charge of making arrangements"
+        },
+        "romaji": "kanji"
       },
       {
         "example": "主幹",
         "reading": "シュカン",
-        "meaning": "chief editor, managing editor, manager, person in charge"
+        "meaning": {
+          "vi": "chief editor, managing editor, manager, person in charge"
+        },
+        "romaji": "shukan"
       },
       {
         "example": "基幹",
         "reading": "キカン",
-        "meaning": "mainstay, nucleus, key"
+        "meaning": {
+          "en": "mainstay, nucleus, key"
+        },
+        "romaji": "kikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幹",
         "reading": "みき",
-        "meaning": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base"
+        "meaning": {
+          "en": "(tree) trunk, (arrow) shaft, (tool) handle, backbone, base"
+        },
+        "romaji": "miki"
       }
     ],
     "radical": {
@@ -323,5 +338,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e79.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e79.gif",
     "uri": "https://jisho.org/search/%E5%B9%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "can",
+    "cán",
+    "hàn"
+  ]
 }

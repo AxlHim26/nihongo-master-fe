@@ -330,17 +330,26 @@
       {
         "example": "察",
         "reading": "サツ",
-        "meaning": "cops, police"
+        "meaning": {
+          "vi": "cops, police"
+        },
+        "romaji": "satsu"
       },
       {
         "example": "監察",
         "reading": "カンサツ",
-        "meaning": "inspection, inspector"
+        "meaning": {
+          "vi": "inspection, inspector"
+        },
+        "romaji": "kansatsu"
       },
       {
         "example": "偵察",
         "reading": "テイサツ",
-        "meaning": "scouting, reconnaissance"
+        "meaning": {
+          "en": "scouting, reconnaissance"
+        },
+        "romaji": "teisatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -360,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdf.gif",
     "uri": "https://jisho.org/search/%E5%AF%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "sát"
+  ]
 }

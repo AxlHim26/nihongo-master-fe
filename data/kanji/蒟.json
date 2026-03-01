@@ -15,12 +15,18 @@
       {
         "example": "蒟蒻",
         "reading": "コンニャク",
-        "meaning": "konnyaku (Amorphophallus konjac), konjac, devil's tongue, konnyaku jelly, konjac jelly, devil's tongue jelly"
+        "meaning": {
+          "vi": "konnyaku (Amorphophallus konjac), konjac, devil's tongue, konnyaku jelly, konjac jelly, devil's tongue jelly"
+        },
+        "romaji": "konnyaku"
       },
       {
         "example": "こんにゃく粉",
         "reading": "コンニャクコ",
-        "meaning": "konjac powder, powdered konjac"
+        "meaning": {
+          "vi": "konjac powder, powdered konjac"
+        },
+        "romaji": "konnyakuko"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0849f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/849f.gif",
     "uri": "https://jisho.org/search/%E8%92%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "củ"
+  ]
 }

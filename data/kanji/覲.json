@@ -16,7 +16,10 @@
       {
         "example": "参勤",
         "reading": "サンキン",
-        "meaning": "going to serve one's lord, daimyo's alternating Edo residence, official attendance service (by a daimyo in the Edo period)"
+        "meaning": {
+          "vi": "going to serve one's lord, daimyo's alternating Edo residence, official attendance service (by a daimyo in the Edo period)"
+        },
+        "romaji": "sankin"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89b2.gif",
     "uri": "https://jisho.org/search/%E8%A6%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cẩn",
+    "cận"
+  ]
 }

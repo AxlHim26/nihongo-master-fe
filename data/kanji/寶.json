@@ -16,14 +16,20 @@
       {
         "example": "文房四宝",
         "reading": "ブンボウシホウ",
-        "meaning": "the four tools of writing (brush, ink, inkstone and paper)"
+        "meaning": {
+          "vi": "the four tools of writing (brush, ink, inkstone and paper)"
+        },
+        "romaji": "bunboushihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宝",
         "reading": "たから",
-        "meaning": "treasure"
+        "meaning": {
+          "en": "treasure"
+        },
+        "romaji": "takara"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf6.gif",
     "uri": "https://jisho.org/search/%E5%AF%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "bảo",
+    "bửu"
+  ]
 }

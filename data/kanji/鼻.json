@@ -12,10 +12,10 @@
     "examples": [
       {
         "japanese": "鼻炎（びえん）",
-"meaning": {
-        "english": "nasal inflammation",
-        "vietnamese": "viêm mũi"
-      },
+        "meaning": {
+          "english": "nasal inflammation",
+          "vietnamese": "viêm mũi"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-hana_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bi-hana_06_a.aac",
@@ -25,10 +25,10 @@
       },
       {
         "japanese": "鼻音（びおん）",
-"meaning": {
-        "english": "nasal sound",
-        "vietnamese": "âm mũi"
-      },
+        "meaning": {
+          "english": "nasal sound",
+          "vietnamese": "âm mũi"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-hana_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bi-hana_06_b.aac",
@@ -38,10 +38,10 @@
       },
       {
         "japanese": "耳鼻科（じびか）",
-"meaning": {
-        "english": "otolaryngology",
-        "vietnamese": "tai mũi họng"
-      },
+        "meaning": {
+          "english": "otolaryngology",
+          "vietnamese": "tai mũi họng"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-hana_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bi-hana_06_c.aac",
@@ -51,9 +51,9 @@
       },
       {
         "japanese": "鼻（はな）",
-"meaning": {
-        "english": "nose",
-        "vietnamese": "mũi"
+        "meaning": {
+          "english": "nose",
+          "vietnamese": "mũi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-hana_06_d.opus",
@@ -64,10 +64,10 @@
       },
       {
         "japanese": "鼻水（はなみず）",
-"meaning": {
-        "english": "mucus",
-        "vietnamese": "nước mũi"
-      },
+        "meaning": {
+          "english": "mucus",
+          "vietnamese": "nước mũi"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-hana_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bi-hana_06_e.aac",
@@ -77,10 +77,10 @@
       },
       {
         "japanese": "鼻血（はなぢ）",
-"meaning": {
-        "english": "nosebleed",
-        "vietnamese": "chảy máu mũi"
-      },
+        "meaning": {
+          "english": "nosebleed",
+          "vietnamese": "chảy máu mũi"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-hana_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bi-hana_06_f.aac",
@@ -300,44 +300,68 @@
       {
         "example": "鼻息",
         "reading": "ハナイキ",
-        "meaning": "thở bằng mũi, hơi thở qua mũi, sự hài lòng, phấn khích"
+        "meaning": {
+          "vi": "thở bằng mũi, hơi thở qua mũi, sự hài lòng, phấn khích"
+        },
+        "romaji": "hanaiki"
       },
       {
         "example": "鼻炎",
         "reading": "ビエン",
-        "meaning": "viêm mũi, sổ mũi"
+        "meaning": {
+          "vi": "viêm mũi, sổ mũi"
+        },
+        "romaji": "bien"
       },
       {
         "example": "阿鼻",
         "reading": "アビ",
-        "meaning": "A Tỳ (tầng địa ngục thấp nhất)"
+        "meaning": {
+          "vi": "A Tỳ (tầng địa ngục thấp nhất)"
+        },
+        "romaji": "abi"
       },
       {
         "example": "擤鼻",
         "reading": "コウビ",
-        "meaning": "xì mũi"
+        "meaning": {
+          "vi": "xì mũi"
+        },
+        "romaji": "koubi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鼻",
         "reading": "はな",
-        "meaning": "mũi"
+        "meaning": {
+          "vi": "mũi"
+        },
+        "romaji": "hana"
       },
       {
         "example": "鼻息",
         "reading": "はないき",
-        "meaning": "thở bằng mũi, hơi thở qua mũi, sự hài lòng, phấn khích"
+        "meaning": {
+          "vi": "thở bằng mũi, hơi thở qua mũi, sự hài lòng, phấn khích"
+        },
+        "romaji": "hanaiki"
       },
       {
         "example": "目鼻",
         "reading": "めはな",
-        "meaning": "mắt và mũi, nét mặt, hình dáng"
+        "meaning": {
+          "vi": "mắt và mũi, nét mặt, hình dáng"
+        },
+        "romaji": "mehana"
       },
       {
         "example": "赤鼻",
         "reading": "あかはな",
-        "meaning": "mũi đỏ"
+        "meaning": {
+          "vi": "mũi đỏ"
+        },
+        "romaji": "akahana"
       }
     ],
     "radical": {
@@ -355,5 +379,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f3b.gif",
     "uri": "https://jisho.org/search/%E9%BC%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tì",
+    "tị",
+    "tỵ"
+  ]
 }

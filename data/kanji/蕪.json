@@ -19,59 +19,92 @@
       {
         "example": "蕪雑",
         "reading": "ブザツ",
-        "meaning": "disordered, confused, unpolished, rough"
+        "meaning": {
+          "vi": "disordered, confused, unpolished, rough"
+        },
+        "romaji": "buzatsu"
       },
       {
         "example": "蕪辞",
         "reading": "ブジ",
-        "meaning": "coarse speech or writing, humble reference to one's own words"
+        "meaning": {
+          "vi": "coarse speech or writing, humble reference to one's own words"
+        },
+        "romaji": "buji"
       },
       {
         "example": "赤かぶ",
         "reading": "アカカブ",
-        "meaning": "red turnip, small red radish"
+        "meaning": {
+          "vi": "red turnip, small red radish"
+        },
+        "romaji": "akakabu"
       },
       {
         "example": "芽かぶ",
         "reading": "メカブ",
-        "meaning": "thick wakame leaves from near the stem"
+        "meaning": {
+          "en": "thick wakame leaves from near the stem"
+        },
+        "romaji": "mekabu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蕪",
         "reading": "かぶ",
-        "meaning": "turnip (Brassica rapa)"
+        "meaning": {
+          "vi": "turnip (Brassica rapa)"
+        },
+        "romaji": "kabu"
       },
       {
         "example": "蕪汁",
         "reading": "かぶらじる",
-        "meaning": "turnip miso soup"
+        "meaning": {
+          "vi": "turnip miso soup"
+        },
+        "romaji": "kaburajiru"
       },
       {
         "example": "赤かぶ",
         "reading": "あかかぶ",
-        "meaning": "red turnip, small red radish"
+        "meaning": {
+          "vi": "red turnip, small red radish"
+        },
+        "romaji": "akakabu"
       },
       {
         "example": "芽かぶ",
         "reading": "めかぶ",
-        "meaning": "thick wakame leaves from near the stem"
+        "meaning": {
+          "en": "thick wakame leaves from near the stem"
+        },
+        "romaji": "mekabu"
       },
       {
         "example": "蕪",
         "reading": "かぶ",
-        "meaning": "turnip (Brassica rapa)"
+        "meaning": {
+          "vi": "turnip (Brassica rapa)"
+        },
+        "romaji": "kabu"
       },
       {
         "example": "蕪汁",
         "reading": "かぶらじる",
-        "meaning": "turnip miso soup"
+        "meaning": {
+          "vi": "turnip miso soup"
+        },
+        "romaji": "kaburajiru"
       },
       {
         "example": "和布蕪",
         "reading": "めかぶら",
-        "meaning": "thick wakame leaves from near the stem"
+        "meaning": {
+          "en": "thick wakame leaves from near the stem"
+        },
+        "romaji": "mekabura"
       }
     ],
     "radical": {
@@ -94,5 +127,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0856a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/856a.gif",
     "uri": "https://jisho.org/search/%E8%95%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "vu"
+  ]
 }

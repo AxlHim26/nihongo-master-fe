@@ -19,12 +19,18 @@
       {
         "example": "富裕",
         "reading": "フユウ",
-        "meaning": "wealthy, rich, affluent"
+        "meaning": {
+          "en": "wealthy, rich, affluent"
+        },
+        "romaji": "fuyuu"
       },
       {
         "example": "富有",
         "reading": "フユウ",
-        "meaning": "rich, wealthy"
+        "meaning": {
+          "en": "rich, wealthy"
+        },
+        "romaji": "fuyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a8.gif",
     "uri": "https://jisho.org/search/%E5%86%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "phú"
+  ]
 }

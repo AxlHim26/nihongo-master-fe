@@ -313,22 +313,34 @@
       {
         "example": "週",
         "reading": "シュウ",
-        "meaning": "week"
+        "meaning": {
+          "en": "week"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "週明け",
         "reading": "シュウアケ",
-        "meaning": "beginning of next week (usu. Monday), early next week"
+        "meaning": {
+          "en": "beginning of next week (usu. Monday), early next week"
+        },
+        "romaji": "shuuake"
       },
       {
         "example": "前週",
         "reading": "ゼンシュウ",
-        "meaning": "last week, the week before"
+        "meaning": {
+          "en": "last week, the week before"
+        },
+        "romaji": "zenshuu"
       },
       {
         "example": "隔週",
         "reading": "カクシュウ",
-        "meaning": "every other week, every two weeks"
+        "meaning": {
+          "en": "every other week, every two weeks"
+        },
+        "romaji": "kakushuu"
       }
     ],
     "kunyomiExamples": [],
@@ -351,5 +363,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09031.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9031.gif",
     "uri": "https://jisho.org/search/%E9%80%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "chu"
+  ]
 }

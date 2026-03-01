@@ -17,22 +17,34 @@
       {
         "example": "婉曲",
         "reading": "エンキョク",
-        "meaning": "euphemistic, circumlocutory, roundabout, indirect"
+        "meaning": {
+          "vi": "euphemistic, circumlocutory, roundabout, indirect"
+        },
+        "romaji": "enkyoku"
       },
       {
         "example": "婉曲迂遠",
         "reading": "エンキョクウエン",
-        "meaning": "being euphemistic and circumlocutory"
+        "meaning": {
+          "vi": "being euphemistic and circumlocutory"
+        },
+        "romaji": "enkyokuuen"
       },
       {
         "example": "妖艶",
         "reading": "ヨウエン",
-        "meaning": "fascinating, voluptuous, bewitching, captivating"
+        "meaning": {
+          "vi": "fascinating, voluptuous, bewitching, captivating"
+        },
+        "romaji": "youen"
       },
       {
         "example": "柔婉",
         "reading": "ジュウエン",
-        "meaning": "simple, plain, honest, unaffected, frank, unpretentious"
+        "meaning": {
+          "vi": "simple, plain, honest, unaffected, frank, unpretentious"
+        },
+        "romaji": "juuen"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a49.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a49.gif",
     "uri": "https://jisho.org/search/%E5%A9%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "uyển"
+  ]
 }

@@ -243,44 +243,68 @@
       {
         "example": "芽球",
         "reading": "ガキュウ",
-        "meaning": "gemmule, blast (cell)"
+        "meaning": {
+          "en": "gemmule, blast (cell)"
+        },
+        "romaji": "gakyuu"
       },
       {
         "example": "芽殖孤虫",
         "reading": "ガショクコチュウ",
-        "meaning": "Sparganum proliferum (species of worm)"
+        "meaning": {
+          "vi": "Sparganum proliferum (species of worm)"
+        },
+        "romaji": "gashokukochuu"
       },
       {
         "example": "発芽",
         "reading": "ハツガ",
-        "meaning": "germination, sprouting, budding"
+        "meaning": {
+          "vi": "germination, sprouting, budding"
+        },
+        "romaji": "hatsuga"
       },
       {
         "example": "無性芽",
         "reading": "ムセイガ",
-        "meaning": "gemma"
+        "meaning": {
+          "en": "gemma"
+        },
+        "romaji": "museiga"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "芽",
         "reading": "め",
-        "meaning": "sprout, shoot, bud, germinal disk (in an egg)"
+        "meaning": {
+          "vi": "sprout, shoot, bud, germinal disk (in an egg)"
+        },
+        "romaji": "me"
       },
       {
         "example": "目出度い",
         "reading": "めでたい",
-        "meaning": "happy, auspicious, propitious, joyous, naive"
+        "meaning": {
+          "vi": "happy, auspicious, propitious, joyous, naive"
+        },
+        "romaji": "medetai"
       },
       {
         "example": "若芽",
         "reading": "わかめ",
-        "meaning": "sprouts, new shoots, young buds"
+        "meaning": {
+          "vi": "sprouts, new shoots, young buds"
+        },
+        "romaji": "wakame"
       },
       {
         "example": "脇芽",
         "reading": "わきめ",
-        "meaning": "axillary bud, lateral bud, side shoots (e.g. of a tomato or broccoli plant), side buds, suckers"
+        "meaning": {
+          "vi": "axillary bud, lateral bud, side shoots (e.g. of a tomato or broccoli plant), side buds, suckers"
+        },
+        "romaji": "wakime"
       }
     ],
     "radical": {
@@ -298,5 +322,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082bd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82bd.gif",
     "uri": "https://jisho.org/search/%E8%8A%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nha"
+  ]
 }

@@ -304,29 +304,44 @@
       {
         "example": "応",
         "reading": "オウ",
-        "meaning": "agreement, affirmative, aye, yes, OK, okay, yeah, all right"
+        "meaning": {
+          "en": "agreement, affirmative, aye, yes, OK, okay, yeah, all right"
+        },
+        "romaji": "ou"
       },
       {
         "example": "応援",
         "reading": "オウエン",
-        "meaning": "aid, assistance, help, support, reinforcement, cheering, rooting (for), support"
+        "meaning": {
+          "vi": "aid, assistance, help, support, reinforcement, cheering, rooting (for), support"
+        },
+        "romaji": "ouen"
       },
       {
         "example": "呼応",
         "reading": "コオウ",
-        "meaning": "hailing each other, acting in concert, responding (to), sympathizing (with), agreement, concord"
+        "meaning": {
+          "vi": "hailing each other, acting in concert, responding (to), sympathizing (with), agreement, concord"
+        },
+        "romaji": "koou"
       },
       {
         "example": "饗応",
         "reading": "キョウオウ",
-        "meaning": "entertaining with food and drink, treating to dinner, wining and dining"
+        "meaning": {
+          "en": "entertaining with food and drink, treating to dinner, wining and dining"
+        },
+        "romaji": "kyouou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "応える",
         "reading": "こたえる",
-        "meaning": "to respond, to answer, to meet (e.g. demands, expectations), to affect, to take a toll, to strike home, to have an effect on, to be hard on someone (e.g. heat, cold, work, illness, etc.), to be a strain"
+        "meaning": {
+          "vi": "to respond, to answer, to meet (e.g. demands, expectations), to affect, to take a toll, to strike home, to have an effect on, to be hard on someone (e.g. heat, cold, work, illness, etc.), to be a strain"
+        },
+        "romaji": "kotaeru"
       }
     ],
     "radical": {
@@ -345,5 +360,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fdc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fdc.gif",
     "uri": "https://jisho.org/search/%E5%BF%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "ưng"
+  ]
 }

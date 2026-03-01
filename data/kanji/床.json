@@ -293,64 +293,100 @@
       {
         "example": "床",
         "reading": "ショウ",
-        "meaning": "counter for beds"
+        "meaning": {
+          "en": "counter for beds"
+        },
+        "romaji": "shou"
       },
       {
         "example": "床几",
         "reading": "ショウギ",
-        "meaning": "camp stool, folding stool"
+        "meaning": {
+          "vi": "camp stool, folding stool"
+        },
+        "romaji": "shougi"
       },
       {
         "example": "臨床",
         "reading": "リンショウ",
-        "meaning": "clinical (e.g. pathology, physiology)"
+        "meaning": {
+          "vi": "clinical (e.g. pathology, physiology)"
+        },
+        "romaji": "rinshou"
       },
       {
         "example": "温床",
         "reading": "オンショウ",
-        "meaning": "hotbed, breeding ground"
+        "meaning": {
+          "en": "hotbed, breeding ground"
+        },
+        "romaji": "onshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "床",
         "reading": "とこ",
-        "meaning": "bed, bedding, sickbed, alcove, riverbed, seedbed, straw \"core\" of a tatami mat, floor"
+        "meaning": {
+          "en": "bed, bedding, sickbed, alcove, riverbed, seedbed, straw \"core\" of a tatami mat, floor"
+        },
+        "romaji": "toko"
       },
       {
         "example": "床の間",
         "reading": "とこのま",
-        "meaning": "tokonoma (alcove where art or flowers are displayed)"
+        "meaning": {
+          "vi": "tokonoma (alcove where art or flowers are displayed)"
+        },
+        "romaji": "tokonoma"
       },
       {
         "example": "鋏",
         "reading": "やっとこ",
-        "meaning": "pincers, nippers, pliers"
+        "meaning": {
+          "vi": "pincers, nippers, pliers"
+        },
+        "romaji": "yattoko"
       },
       {
         "example": "金床",
         "reading": "かなとこ",
-        "meaning": "anvil"
+        "meaning": {
+          "en": "anvil"
+        },
+        "romaji": "kanatoko"
       },
       {
         "example": "床",
         "reading": "ゆか",
-        "meaning": "floor, stage (for the narrator and the shamisen player), dining platform built across a river"
+        "meaning": {
+          "vi": "floor, stage (for the narrator and the shamisen player), dining platform built across a river"
+        },
+        "romaji": "yuka"
       },
       {
         "example": "床下",
         "reading": "ゆかした",
-        "meaning": "under the floor"
+        "meaning": {
+          "en": "under the floor"
+        },
+        "romaji": "yukashita"
       },
       {
         "example": "河床",
         "reading": "かしょう",
-        "meaning": "riverbed, raised platform on the bank of a river for enjoying the cool in summer"
+        "meaning": {
+          "vi": "riverbed, raised platform on the bank of a river for enjoying the cool in summer"
+        },
+        "romaji": "kashou"
       },
       {
         "example": "納涼床",
         "reading": "のうりょうゆか",
-        "meaning": "raised platform on the bank of a river for enjoying the summer cool"
+        "meaning": {
+          "vi": "raised platform on the bank of a river for enjoying the summer cool"
+        },
+        "romaji": "nouryouyuka"
       }
     ],
     "radical": {
@@ -365,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e8a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e8a.gif",
     "uri": "https://jisho.org/search/%E5%BA%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "sàng"
+  ]
 }

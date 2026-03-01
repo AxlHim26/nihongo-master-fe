@@ -16,17 +16,26 @@
       {
         "example": "芭蕉",
         "reading": "バショウ",
-        "meaning": "Japanese fiber banana (Musa basjoo)"
+        "meaning": {
+          "vi": "Japanese fiber banana (Musa basjoo)"
+        },
+        "romaji": "bashou"
       },
       {
         "example": "芭蕉梶木",
         "reading": "バショウカジキ",
-        "meaning": "Indo-Pacific sailfish (Istiophorus platypterus)"
+        "meaning": {
+          "vi": "Indo-Pacific sailfish (Istiophorus platypterus)"
+        },
+        "romaji": "bashoukajiki"
       },
       {
         "example": "芭月涼",
         "reading": "ハヅキリョウ",
-        "meaning": "Ryo Hazuki"
+        "meaning": {
+          "en": "Ryo Hazuki"
+        },
+        "romaji": "hazukiryou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82ad.gif",
     "uri": "https://jisho.org/search/%E8%8A%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "ba"
+  ]
 }

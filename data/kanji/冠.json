@@ -19,44 +19,68 @@
       {
         "example": "冠",
         "reading": "カンムリ",
-        "meaning": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+        "meaning": {
+          "vi": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+        },
+        "romaji": "kanmuri"
       },
       {
         "example": "冠婚葬祭",
         "reading": "カンコンソウサイ",
-        "meaning": "important ceremonial occasions in family relationships"
+        "meaning": {
+          "vi": "important ceremonial occasions in family relationships"
+        },
+        "romaji": "kankonsousai"
       },
       {
         "example": "宝冠",
         "reading": "ホウカン",
-        "meaning": "diadem, jeweled crown"
+        "meaning": {
+          "en": "diadem, jeweled crown"
+        },
+        "romaji": "houkan"
       },
       {
         "example": "月桂冠",
         "reading": "ゲッケイカン",
-        "meaning": "laurel wreath"
+        "meaning": {
+          "en": "laurel wreath"
+        },
+        "romaji": "gekkeikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "冠",
         "reading": "かんむり",
-        "meaning": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+        "meaning": {
+          "vi": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+        },
+        "romaji": "kanmuri"
       },
       {
         "example": "冠海雀",
         "reading": "かんむりうみすずめ",
-        "meaning": "Japanese murrelet (Synthliboramphus wumizusume), crested murrelet"
+        "meaning": {
+          "vi": "Japanese murrelet (Synthliboramphus wumizusume), crested murrelet"
+        },
+        "romaji": "kanmuriumisuzume"
       },
       {
         "example": "初冠",
         "reading": "ういこうぶり",
-        "meaning": "crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)"
+        "meaning": {
+          "vi": "crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)"
+        },
+        "romaji": "uikouburi"
       },
       {
         "example": "老冠",
         "reading": "おいかんむり",
-        "meaning": "kanji \"old\" radical at top"
+        "meaning": {
+          "vi": "kanji \"old\" radical at top"
+        },
+        "romaji": "oikanmuri"
       }
     ],
     "radical": {
@@ -73,5 +97,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a0.gif",
     "uri": "https://jisho.org/search/%E5%86%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "quan",
+    "quán"
+  ]
 }

@@ -262,27 +262,42 @@
       {
         "example": "枚",
         "reading": "マイ",
-        "meaning": "counter for thin, flat objects (e.g. sheets of paper, plates, coins), counter for portions of gyōza or soba, counter for ranks, counter for wrestlers of a particular rank, counter for fields or rice paddies, counter for palanquin bearers"
+        "meaning": {
+          "vi": "counter for thin, flat objects (e.g. sheets of paper, plates, coins), counter for portions of gyōza or soba, counter for ranks, counter for wrestlers of a particular rank, counter for fields or rice paddies, counter for palanquin bearers"
+        },
+        "romaji": "mai"
       },
       {
         "example": "枚数",
         "reading": "マイスウ",
-        "meaning": "the number of flat things, win-loss difference which influences the ranking of wrestlers"
+        "meaning": {
+          "en": "the number of flat things, win-loss difference which influences the ranking of wrestlers"
+        },
+        "romaji": "maisuu"
       },
       {
         "example": "パンツ一枚",
         "reading": "パンツイチマイ",
-        "meaning": "(wearing) nothing but a pair of underpants"
+        "meaning": {
+          "vi": "(wearing) nothing but a pair of underpants"
+        },
+        "romaji": "pantsuichimai"
       },
       {
         "example": "奇跡の一枚",
         "reading": "キセキノイチマイ",
-        "meaning": "photo in which its subject looks much more attractive than their usual self"
+        "meaning": {
+          "vi": "photo in which its subject looks much more attractive than their usual self"
+        },
+        "romaji": "kisekinoichimai"
       },
       {
         "example": "枚を銜む",
         "reading": "バイヲフクム",
-        "meaning": "to gag (a horse)"
+        "meaning": {
+          "en": "to gag (a horse)"
+        },
+        "romaji": "baiwofukumu"
       }
     ],
     "kunyomiExamples": [],
@@ -299,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0679a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/679a.gif",
     "uri": "https://jisho.org/search/%E6%9E%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "mai"
+  ]
 }

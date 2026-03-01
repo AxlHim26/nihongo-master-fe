@@ -18,29 +18,44 @@
       {
         "example": "呑酸",
         "reading": "ドンサン",
-        "meaning": "acid reflux, heart-burn"
+        "meaning": {
+          "en": "acid reflux, heart-burn"
+        },
+        "romaji": "donsan"
       },
       {
         "example": "呑舟",
         "reading": "ドンシュウ",
-        "meaning": "swallowing a boat whole"
+        "meaning": {
+          "en": "swallowing a boat whole"
+        },
+        "romaji": "donshuu"
       },
       {
         "example": "併呑",
         "reading": "ヘイドン",
-        "meaning": "annexation, absorption, merger, swallowing up"
+        "meaning": {
+          "vi": "annexation, absorption, merger, swallowing up"
+        },
+        "romaji": "heidon"
       },
       {
         "example": "清濁併呑",
         "reading": "セイダクヘイドン",
-        "meaning": "being so broad-minded as to accept all sorts of things, both good and evil, being broad-minded enough to be tolerant of people of all shades"
+        "meaning": {
+          "vi": "being so broad-minded as to accept all sorts of things, both good and evil, being broad-minded enough to be tolerant of people of all shades"
+        },
+        "romaji": "seidakuheidon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飲む",
         "reading": "のむ",
-        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        "meaning": {
+          "vi": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        },
+        "romaji": "nomu"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05451.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5451.gif",
     "uri": "https://jisho.org/search/%E5%91%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "thôn"
+  ]
 }

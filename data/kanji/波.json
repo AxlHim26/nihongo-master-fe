@@ -314,44 +314,68 @@
       {
         "example": "波",
         "reading": "ハ",
-        "meaning": "counter for waves (of a repeated occurrence)"
+        "meaning": {
+          "vi": "counter for waves (of a repeated occurrence)"
+        },
+        "romaji": "ha"
       },
       {
         "example": "波及",
         "reading": "ハキュウ",
-        "meaning": "spread, extension, influence, aftereffect, ripple"
+        "meaning": {
+          "vi": "spread, extension, influence, aftereffect, ripple"
+        },
+        "romaji": "hakyuu"
       },
       {
         "example": "低周波",
         "reading": "テイシュウハ",
-        "meaning": "low frequency"
+        "meaning": {
+          "en": "low frequency"
+        },
+        "romaji": "teishuuha"
       },
       {
         "example": "横波",
         "reading": "ヨコナミ",
-        "meaning": "transverse wave, beam sea"
+        "meaning": {
+          "en": "transverse wave, beam sea"
+        },
+        "romaji": "yokonami"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "波",
         "reading": "なみ",
-        "meaning": "wave, ups and downs"
+        "meaning": {
+          "vi": "wave, ups and downs"
+        },
+        "romaji": "nami"
       },
       {
         "example": "波間",
         "reading": "なみま",
-        "meaning": "interval between the waves, gap between waves"
+        "meaning": {
+          "vi": "interval between the waves, gap between waves"
+        },
+        "romaji": "namima"
       },
       {
         "example": "高波",
         "reading": "たかなみ",
-        "meaning": "high waves, heavy seas"
+        "meaning": {
+          "en": "high waves, heavy seas"
+        },
+        "romaji": "takanami"
       },
       {
         "example": "横波",
         "reading": "よこなみ",
-        "meaning": "transverse wave, beam sea"
+        "meaning": {
+          "en": "transverse wave, beam sea"
+        },
+        "romaji": "yokonami"
       }
     ],
     "radical": {
@@ -371,5 +395,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce2.gif",
     "uri": "https://jisho.org/search/%E6%B3%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "ba"
+  ]
 }

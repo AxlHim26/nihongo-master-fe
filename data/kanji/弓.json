@@ -243,44 +243,68 @@
       {
         "example": "弓",
         "reading": "キュウ",
-        "meaning": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet)"
+        "meaning": {
+          "vi": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet)"
+        },
+        "romaji": "kyuu"
       },
       {
         "example": "弓矢",
         "reading": "ユミヤ",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": {
+          "vi": "bow and arrow, weapon, arms"
+        },
+        "romaji": "yumiya"
       },
       {
         "example": "洋弓",
         "reading": "ヨウキュウ",
-        "meaning": "(Western) archery, Western-style bow"
+        "meaning": {
+          "en": "(Western) archery, Western-style bow"
+        },
+        "romaji": "youkyuu"
       },
       {
         "example": "鰓弓",
         "reading": "サイキュウ",
-        "meaning": "branchial arch, gill arch"
+        "meaning": {
+          "en": "branchial arch, gill arch"
+        },
+        "romaji": "saikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弓",
         "reading": "ゆみ",
-        "meaning": "bow (weapon), archery, bow (for a violin, etc.)"
+        "meaning": {
+          "vi": "bow (weapon), archery, bow (for a violin, etc.)"
+        },
+        "romaji": "yumi"
       },
       {
         "example": "弓矢",
         "reading": "ゆみや",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": {
+          "vi": "bow and arrow, weapon, arms"
+        },
+        "romaji": "yumiya"
       },
       {
         "example": "大弓",
         "reading": "だいきゅう",
-        "meaning": "bow, longbow"
+        "meaning": {
+          "en": "bow, longbow"
+        },
+        "romaji": "daikyuu"
       },
       {
         "example": "上げ弓",
         "reading": "あげゆみ",
-        "meaning": "up-bow (technique used when playing a string instrument)"
+        "meaning": {
+          "vi": "up-bow (technique used when playing a string instrument)"
+        },
+        "romaji": "ageyumi"
       }
     ],
     "radical": {
@@ -294,5 +318,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f13.gif",
     "uri": "https://jisho.org/search/%E5%BC%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "cung"
+  ]
 }

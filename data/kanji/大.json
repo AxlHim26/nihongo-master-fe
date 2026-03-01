@@ -379,44 +379,68 @@
       {
         "example": "大",
         "reading": "ダイ",
-        "meaning": "large, big, great, huge, vast, major, important, serious, severe, great, prominent, eminent, distinguished, -sized, as big as, the size of, university, large (e.g. serving size), large option, long month (i.e. having 31 days)"
+        "meaning": {
+          "vi": "large, big, great, huge, vast, major, important, serious, severe, great, prominent, eminent, distinguished, -sized, as big as, the size of, university, large (e.g. serving size), large option, long month (i.e. having 31 days)"
+        },
+        "romaji": "dai"
       },
       {
         "example": "大尉",
         "reading": "タイイ",
-        "meaning": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        "meaning": {
+          "vi": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        },
+        "romaji": "taii"
       },
       {
         "example": "国大",
         "reading": "コクダイ",
-        "meaning": "national university"
+        "meaning": {
+          "en": "national university"
+        },
+        "romaji": "kokudai"
       },
       {
         "example": "電通大",
         "reading": "デンツウダイ",
-        "meaning": "University of Electro-Communications"
+        "meaning": {
+          "en": "University of Electro-Communications"
+        },
+        "romaji": "dentsuudai"
       },
       {
         "example": "大",
         "reading": "タイ",
-        "meaning": "nth year in the Taishō era (1912.7.30-1926.12.25)"
+        "meaning": {
+          "en": "nth year in the Taishō era (1912.7.30-1926.12.25)"
+        },
+        "romaji": "tai"
       },
       {
         "example": "大尉",
         "reading": "タイイ",
-        "meaning": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        "meaning": {
+          "vi": "captain (Army, US Marine Corps, USAF), lieutenant (Navy), flight lieutenant (RAF, RAAF, RNZAF, etc.)"
+        },
+        "romaji": "taii"
       },
       {
         "example": "御大",
         "reading": "オンタイ",
-        "meaning": "boss, governor, headman"
+        "meaning": {
+          "en": "boss, governor, headman"
+        },
+        "romaji": "ontai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "大きい",
         "reading": "おおきい",
-        "meaning": "big, large, great, loud, extensive, spacious, important, decisive, valuable, older, grown up"
+        "meaning": {
+          "vi": "big, large, great, loud, extensive, spacious, important, decisive, valuable, older, grown up"
+        },
+        "romaji": "ookii"
       }
     ],
     "radical": {
@@ -430,5 +454,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05927.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5927.gif",
     "uri": "https://jisho.org/search/%E5%A4%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái",
+    "đại"
+  ]
 }

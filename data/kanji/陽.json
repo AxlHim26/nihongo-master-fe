@@ -265,34 +265,52 @@
       {
         "example": "陽",
         "reading": "ヨウ",
-        "meaning": "(the) positive, yang (in Chinese divination), the open, visible place, public place"
+        "meaning": {
+          "vi": "(the) positive, yang (in Chinese divination), the open, visible place, public place"
+        },
+        "romaji": "you"
       },
       {
         "example": "陽気",
         "reading": "ヨウキ",
-        "meaning": "cheerful, jovial, merry, lively, weather, season, spirit of yang"
+        "meaning": {
+          "vi": "cheerful, jovial, merry, lively, weather, season, spirit of yang"
+        },
+        "romaji": "youki"
       },
       {
         "example": "山陽",
         "reading": "サンヨウ",
-        "meaning": "south side of a mountain, Sanyo district"
+        "meaning": {
+          "en": "south side of a mountain, Sanyo district"
+        },
+        "romaji": "san'you"
       },
       {
         "example": "陰陽",
         "reading": "インヨウ",
-        "meaning": "cosmic dual forces, yin and yang, sun and moon, etc."
+        "meaning": {
+          "en": "cosmic dual forces, yin and yang, sun and moon, etc."
+        },
+        "romaji": "in'you"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陽",
         "reading": "ひ",
-        "meaning": "sun, sunshine, sunlight"
+        "meaning": {
+          "en": "sun, sunshine, sunlight"
+        },
+        "romaji": "hi"
       },
       {
         "example": "日差し",
         "reading": "ひざし",
-        "meaning": "sunlight, rays of the Sun"
+        "meaning": {
+          "en": "sunlight, rays of the Sun"
+        },
+        "romaji": "hizashi"
       }
     ],
     "radical": {
@@ -312,5 +330,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0967d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/967d.gif",
     "uri": "https://jisho.org/search/%E9%99%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "dương"
+  ]
 }

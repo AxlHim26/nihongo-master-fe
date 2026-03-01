@@ -16,7 +16,10 @@
       {
         "example": "浅蜊",
         "reading": "あさり",
-        "meaning": "Manila clam (Ruditapes philippinarum), Japanese littleneck clam"
+        "meaning": {
+          "vi": "Manila clam (Ruditapes philippinarum), Japanese littleneck clam"
+        },
+        "romaji": "asari"
       }
     ],
     "radical": {
@@ -34,5 +37,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bcf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bcf.gif",
     "uri": "https://jisho.org/search/%E9%AF%8F%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

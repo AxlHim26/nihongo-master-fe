@@ -18,12 +18,18 @@
       {
         "example": "覗く",
         "reading": "のぞく",
-        "meaning": "to peek (through a keyhole, gap, etc.), to look down into (a ravine, etc.), to peek into (a shop, bookstore, etc.), to sneak a look at, to take a quick look at, to peep (through a telescope, microscope, etc.), to stick out (a scarf from a collar, etc.), to peek through (sky through a forest canopy, etc.), to examine (an expression), to study (a face), to face"
+        "meaning": {
+          "vi": "to peek (through a keyhole, gap, etc.), to look down into (a ravine, etc.), to peek into (a shop, bookstore, etc.), to sneak a look at, to take a quick look at, to peep (through a telescope, microscope, etc.), to stick out (a scarf from a collar, etc.), to peek through (sky through a forest canopy, etc.), to examine (an expression), to study (a face), to face"
+        },
+        "romaji": "nozoku"
       },
       {
         "example": "窺う",
         "reading": "うかがう",
-        "meaning": "to peep (through), to peek, to examine (esp. covertly), to await (one's chance), to guess, to infer, to gather, to surmise"
+        "meaning": {
+          "vi": "to peep (through), to peek, to examine (esp. covertly), to await (one's chance), to guess, to infer, to gather, to surmise"
+        },
+        "romaji": "ukagau"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08997.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8997.gif",
     "uri": "https://jisho.org/search/%E8%A6%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

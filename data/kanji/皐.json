@@ -19,12 +19,18 @@
       {
         "example": "五月",
         "reading": "さつき",
-        "meaning": "fifth month of the lunar calendar, satsuki azalea (Rhododendron indicum)"
+        "meaning": {
+          "en": "fifth month of the lunar calendar, satsuki azalea (Rhododendron indicum)"
+        },
+        "romaji": "satsuki"
       },
       {
         "example": "五月晴れ",
         "reading": "さつきばれ",
-        "meaning": "fine weather during the rainy season"
+        "meaning": {
+          "en": "fine weather during the rainy season"
+        },
+        "romaji": "satsukibare"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07690.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7690.gif",
     "uri": "https://jisho.org/search/%E7%9A%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "cao"
+  ]
 }

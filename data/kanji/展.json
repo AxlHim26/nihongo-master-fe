@@ -300,22 +300,34 @@
       {
         "example": "展",
         "reading": "テン",
-        "meaning": "triển lãm, hiện vật trưng bày"
+        "meaning": {
+          "vi": "triển lãm, hiện vật trưng bày"
+        },
+        "romaji": "ten"
       },
       {
         "example": "展開",
         "reading": "テンカイ",
-        "meaning": "phát triển, tiến hóa, tiến triển, mở ra, bước ngoặt (cốt truyện), mở rộng, triển khai, giải nén, chia sẻ (thông tin)"
+        "meaning": {
+          "vi": "phát triển, tiến hóa, tiến triển, mở ra, bước ngoặt (cốt truyện), mở rộng, triển khai, giải nén, chia sẻ (thông tin)"
+        },
+        "romaji": "tenkai"
       },
       {
         "example": "個展",
         "reading": "コテン",
-        "meaning": "triển lãm cá nhân"
+        "meaning": {
+          "vi": "triển lãm cá nhân"
+        },
+        "romaji": "koten"
       },
       {
         "example": "巡回展",
         "reading": "ジュンカイテン",
-        "meaning": "triển lãm lưu động"
+        "meaning": {
+          "vi": "triển lãm lưu động"
+        },
+        "romaji": "junkaiten"
       }
     ],
     "kunyomiExamples": [],
@@ -334,5 +346,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c55.gif",
     "uri": "https://jisho.org/search/%E5%B1%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "triển"
+  ]
 }

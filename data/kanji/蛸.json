@@ -18,17 +18,26 @@
       {
         "example": "蛸",
         "reading": "たこ",
-        "meaning": "octopus, fool, idiot"
+        "meaning": {
+          "vi": "octopus, fool, idiot"
+        },
+        "romaji": "tako"
       },
       {
         "example": "たこ焼き",
         "reading": "たこやき",
-        "meaning": "takoyaki, octopus dumplings"
+        "meaning": {
+          "vi": "takoyaki, octopus dumplings"
+        },
+        "romaji": "takoyaki"
       },
       {
         "example": "茹で蛸",
         "reading": "ゆでだこ",
-        "meaning": "boiled octopus, person with red flushed skin"
+        "meaning": {
+          "vi": "boiled octopus, person with red flushed skin"
+        },
+        "romaji": "yudedako"
       }
     ],
     "radical": {
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86f8.gif",
     "uri": "https://jisho.org/search/%E8%9B%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "sao",
+    "tiêu"
+  ]
 }

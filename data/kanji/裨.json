@@ -18,12 +18,18 @@
       {
         "example": "裨益",
         "reading": "ヒエキ",
-        "meaning": "benefit, profit, good, help, contribution"
+        "meaning": {
+          "vi": "benefit, profit, good, help, contribution"
+        },
+        "romaji": "hieki"
       },
       {
         "example": "裨補",
         "reading": "ヒホ",
-        "meaning": "support, supplement, help"
+        "meaning": {
+          "vi": "support, supplement, help"
+        },
+        "romaji": "hiho"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88e8.gif",
     "uri": "https://jisho.org/search/%E8%A3%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "bì",
+    "ty",
+    "tì",
+    "tỳ"
+  ]
 }

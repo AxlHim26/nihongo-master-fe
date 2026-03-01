@@ -17,17 +17,26 @@
       {
         "example": "叔母",
         "reading": "オバ",
-        "meaning": "aunt"
+        "meaning": {
+          "en": "aunt"
+        },
+        "romaji": "oba"
       },
       {
         "example": "叔父",
         "reading": "オジ",
-        "meaning": "uncle"
+        "meaning": {
+          "en": "uncle"
+        },
+        "romaji": "oji"
       },
       {
         "example": "伯叔",
         "reading": "ハクシュク",
-        "meaning": "brothers, one's father's brothers"
+        "meaning": {
+          "en": "brothers, one's father's brothers"
+        },
+        "romaji": "hakushuku"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053d4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53d4.gif",
     "uri": "https://jisho.org/search/%E5%8F%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "thúc"
+  ]
 }

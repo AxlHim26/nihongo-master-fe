@@ -321,59 +321,92 @@
       {
         "example": "色",
         "reading": "ショク",
-        "meaning": "counter for colours"
+        "meaning": {
+          "en": "counter for colours"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "紫色",
         "reading": "ムラサキイロ",
-        "meaning": "purple, violet"
+        "meaning": {
+          "vi": "purple, violet"
+        },
+        "romaji": "murasakiiro"
       },
       {
         "example": "彩色",
         "reading": "サイシキ",
-        "meaning": "colouring, coloring, colouration, coloration, painting"
+        "meaning": {
+          "vi": "colouring, coloring, colouration, coloration, painting"
+        },
+        "romaji": "saishiki"
       },
       {
         "example": "色",
         "reading": "シキ",
-        "meaning": "rupa (form), visible objects (i.e. color and form)"
+        "meaning": {
+          "vi": "rupa (form), visible objects (i.e. color and form)"
+        },
+        "romaji": "shiki"
       },
       {
         "example": "色彩",
         "reading": "シキサイ",
-        "meaning": "colour, color, hue, tints"
+        "meaning": {
+          "en": "colour, color, hue, tints"
+        },
+        "romaji": "shikisai"
       },
       {
         "example": "彩色",
         "reading": "サイシキ",
-        "meaning": "colouring, coloring, colouration, coloration, painting"
+        "meaning": {
+          "vi": "colouring, coloring, colouration, coloration, painting"
+        },
+        "romaji": "saishiki"
       },
       {
         "example": "極彩色",
         "reading": "ゴクサイシキ",
-        "meaning": "richly colored, richly coloured"
+        "meaning": {
+          "en": "richly colored, richly coloured"
+        },
+        "romaji": "gokusaishiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "色",
         "reading": "いろ",
-        "meaning": "colour, color, hue, tint, tinge, shade, complexion, skin colour, skin color, look (on one's face), expression, appearance, air, feeling, personality, character, tone (of one's voice, etc.), tune, sound, ring, love, lust, sensuality, love affair, lover, paramour, beauty, sexiness, physical appeal, kind, type, variety"
+        "meaning": {
+          "vi": "colour, color, hue, tint, tinge, shade, complexion, skin colour, skin color, look (on one's face), expression, appearance, air, feeling, personality, character, tone (of one's voice, etc.), tune, sound, ring, love, lust, sensuality, love affair, lover, paramour, beauty, sexiness, physical appeal, kind, type, variety"
+        },
+        "romaji": "iro"
       },
       {
         "example": "色合い",
         "reading": "いろあい",
-        "meaning": "colouring, coloring, shade (of colour), hue, tone, tinge, tint, flavour, nuance, feel, sense, look"
+        "meaning": {
+          "en": "colouring, coloring, shade (of colour), hue, tone, tinge, tint, flavour, nuance, feel, sense, look"
+        },
+        "romaji": "iroai"
       },
       {
         "example": "紫色",
         "reading": "むらさきいろ",
-        "meaning": "purple, violet"
+        "meaning": {
+          "vi": "purple, violet"
+        },
+        "romaji": "murasakiiro"
       },
       {
         "example": "橙色",
         "reading": "だいだいいろ",
-        "meaning": "orange (color, colour)"
+        "meaning": {
+          "en": "orange (color, colour)"
+        },
+        "romaji": "daidaiiro"
       }
     ],
     "radical": {
@@ -389,5 +422,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08272.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8272.gif",
     "uri": "https://jisho.org/search/%E8%89%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "sắc"
+  ]
 }

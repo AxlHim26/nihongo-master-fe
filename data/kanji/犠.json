@@ -20,24 +20,36 @@
       {
         "example": "犠牲者",
         "reading": "ギセイシャ",
-        "meaning": "victim (esp. someone killed), casualty"
+        "meaning": {
+          "vi": "victim (esp. someone killed), casualty"
+        },
+        "romaji": "giseisha"
       },
       {
         "example": "犠牲",
         "reading": "ギセイ",
-        "meaning": "sacrifice, victim (esp. someone killed), casualty, sacrifice (to a deity)"
+        "meaning": {
+          "vi": "sacrifice, victim (esp. someone killed), casualty, sacrifice (to a deity)"
+        },
+        "romaji": "gisei"
       },
       {
         "example": "供犠",
         "reading": "クギ",
-        "meaning": "sacrifice, sacrificial animal"
+        "meaning": {
+          "en": "sacrifice, sacrificial animal"
+        },
+        "romaji": "kugi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "生贄",
         "reading": "いけにえ",
-        "meaning": "(living) sacrifice, victim, scapegoat"
+        "meaning": {
+          "vi": "(living) sacrifice, victim, scapegoat"
+        },
+        "romaji": "ikenie"
       }
     ],
     "radical": {
@@ -61,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72a0.gif",
     "uri": "https://jisho.org/search/%E7%8A%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "hy"
+  ]
 }

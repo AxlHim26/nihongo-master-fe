@@ -19,24 +19,36 @@
       {
         "example": "薫",
         "reading": "クン",
-        "meaning": "pleasant smell, aroma, fragrance, scent, pleasant-smelling vegetation"
+        "meaning": {
+          "vi": "pleasant smell, aroma, fragrance, scent, pleasant-smelling vegetation"
+        },
+        "romaji": "kun"
       },
       {
         "example": "燻蒸",
         "reading": "クンジョウ",
-        "meaning": "fumigation, smoking (out)"
+        "meaning": {
+          "en": "fumigation, smoking (out)"
+        },
+        "romaji": "kunjou"
       },
       {
         "example": "余薫",
         "reading": "ヨクン",
-        "meaning": "lingering odor, lingering odour"
+        "meaning": {
+          "en": "lingering odor, lingering odour"
+        },
+        "romaji": "yokun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "香る",
         "reading": "かおる",
-        "meaning": "to smell sweet, to be fragrant"
+        "meaning": {
+          "en": "to smell sweet, to be fragrant"
+        },
+        "romaji": "kaoru"
       }
     ],
     "radical": {
@@ -58,5 +70,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ab.gif",
     "uri": "https://jisho.org/search/%E8%96%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "huân"
+  ]
 }

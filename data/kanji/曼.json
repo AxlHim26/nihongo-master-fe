@@ -18,22 +18,34 @@
       {
         "example": "曼荼羅",
         "reading": "マンダラ",
-        "meaning": "mandala (đồ hình Mạn-đà-la)"
+        "meaning": {
+          "vi": "mandala (đồ hình Mạn-đà-la)"
+        },
+        "romaji": "mandara"
       },
       {
         "example": "曼珠沙華",
         "reading": "マンジュシャゲ",
-        "meaning": "hoa ly nhện đỏ (Lycoris radiata), hoa thạch toán"
+        "meaning": {
+          "vi": "hoa ly nhện đỏ (Lycoris radiata), hoa thạch toán"
+        },
+        "romaji": "manjushage"
       },
       {
         "example": "日耳曼",
         "reading": "ゲルマン",
-        "meaning": "German (người, ngôn ngữ, văn hóa)"
+        "meaning": {
+          "vi": "German (người, ngôn ngữ, văn hóa)"
+        },
+        "romaji": "geruman"
       },
       {
         "example": "浪漫",
         "reading": "ロウマン",
-        "meaning": "lãng mạn, chuyện tình, tinh thần phiêu lưu, tiểu thuyết"
+        "meaning": {
+          "vi": "lãng mạn, chuyện tình, tinh thần phiêu lưu, tiểu thuyết"
+        },
+        "romaji": "rouman"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66fc.gif",
     "uri": "https://jisho.org/search/%E6%9B%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "man",
+    "mạn"
+  ]
 }

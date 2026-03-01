@@ -17,29 +17,42 @@
       {
         "example": "高麗雉",
         "reading": "コウライキジ",
-        "meaning": "common pheasant (Phasianus colchicus), ring-necked pheasant"
+        "meaning": {
+          "vi": "common pheasant (Phasianus colchicus), ring-necked pheasant"
+        },
+        "romaji": "kouraikiji"
       },
       {
         "example": "白雉",
         "reading": "ハクチ",
-        "meaning": "Hakuchi era (650.2.15-654.10.?)"
+        "meaning": {
+          "en": "Hakuchi era (650.2.15-654.10.?)"
+        },
+        "romaji": "hakuchi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【キジ】",
         "reading": "green pheasant (Phasianus versicolor), Japanese green pheasant",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "green pheasant (Phasianus versicolor), Japanese green pheasant"
       },
       {
         "example": "キジ科",
         "reading": "キジか",
-        "meaning": "Phasianidae (pheasant family of birds)"
+        "meaning": {
+          "vi": "Phasianidae (pheasant family of birds)"
+        },
+        "romaji": "kijika"
       },
       {
         "example": "高麗雉",
         "reading": "こうらいきじ",
-        "meaning": "common pheasant (Phasianus colchicus), ring-necked pheasant"
+        "meaning": {
+          "vi": "common pheasant (Phasianus colchicus), ring-necked pheasant"
+        },
+        "romaji": "kouraikiji"
       }
     ],
     "radical": {
@@ -55,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c9.gif",
     "uri": "https://jisho.org/search/%E9%9B%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "trĩ"
+  ]
 }

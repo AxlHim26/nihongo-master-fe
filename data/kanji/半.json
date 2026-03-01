@@ -304,34 +304,52 @@
       {
         "example": "半",
         "reading": "ハン",
-        "meaning": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2)"
+        "meaning": {
+          "vi": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2)"
+        },
+        "romaji": "han"
       },
       {
         "example": "半額",
         "reading": "ハンガク",
-        "meaning": "half the amount (of money), half price, half fare"
+        "meaning": {
+          "vi": "half the amount (of money), half price, half fare"
+        },
+        "romaji": "hangaku"
       },
       {
         "example": "四畳半",
         "reading": "ヨジョウハン",
-        "meaning": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+        "meaning": {
+          "vi": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+        },
+        "romaji": "yojouhan"
       },
       {
         "example": "過半",
         "reading": "カハン",
-        "meaning": "the greater part"
+        "meaning": {
+          "vi": "the greater part"
+        },
+        "romaji": "kahan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "半ば",
         "reading": "なかば",
-        "meaning": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly"
+        "meaning": {
+          "vi": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly"
+        },
+        "romaji": "nakaba"
       },
       {
         "example": "半ば過ぎ",
         "reading": "なかばすぎ",
-        "meaning": "beyond the middle"
+        "meaning": {
+          "en": "beyond the middle"
+        },
+        "romaji": "nakabasugi"
       }
     ],
     "radical": {
@@ -348,5 +366,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0534a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/534a.gif",
     "uri": "https://jisho.org/search/%E5%8D%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bán"
+  ]
 }

@@ -17,19 +17,28 @@
       {
         "example": "淘汰",
         "reading": "トウタ",
-        "meaning": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection"
+        "meaning": {
+          "vi": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection"
+        },
+        "romaji": "touta"
       },
       {
         "example": "淘汰作用",
         "reading": "トウタサヨウ",
-        "meaning": "sifting out, weeding out, selection, sorting"
+        "meaning": {
+          "en": "sifting out, weeding out, selection, sorting"
+        },
+        "romaji": "toutasayou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "淘げる",
         "reading": "よなげる",
-        "meaning": "to separate and discard, to sieve and sort, to wash out (impurities, etc.)"
+        "meaning": {
+          "vi": "to separate and discard, to sieve and sort, to wash out (impurities, etc.)"
+        },
+        "romaji": "yonageru"
       }
     ],
     "radical": {
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd8.gif",
     "uri": "https://jisho.org/search/%E6%B7%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "đào"
+  ]
 }

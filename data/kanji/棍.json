@@ -16,22 +16,34 @@
       {
         "example": "棍",
         "reading": "コン",
-        "meaning": "stick, club"
+        "meaning": {
+          "en": "stick, club"
+        },
+        "romaji": "kon"
       },
       {
         "example": "棍棒",
         "reading": "コンボウ",
-        "meaning": "stick, club, cudgel, bludgeon"
+        "meaning": {
+          "en": "stick, club, cudgel, bludgeon"
+        },
+        "romaji": "konbou"
       },
       {
         "example": "三節棍",
         "reading": "サンセツコン",
-        "meaning": "three-section staff"
+        "meaning": {
+          "en": "three-section staff"
+        },
+        "romaji": "sansetsukon"
       },
       {
         "example": "平均棍",
         "reading": "ヘイキンコン",
-        "meaning": "halter, haltere (small balancing organ on a two-winged fly)"
+        "meaning": {
+          "en": "halter, haltere (small balancing organ on a two-winged fly)"
+        },
+        "romaji": "heikinkon"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68cd.gif",
     "uri": "https://jisho.org/search/%E6%A3%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "côn",
+    "hỗn"
+  ]
 }

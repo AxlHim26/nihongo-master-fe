@@ -17,7 +17,10 @@
       {
         "example": "移徙",
         "reading": "ワタマシ",
-        "meaning": "moving houses (of a nobleman, emperor, etc.), taking out a mikoshi (for a festival, etc.)"
+        "meaning": {
+          "vi": "moving houses (of a nobleman, emperor, etc.), taking out a mikoshi (for a festival, etc.)"
+        },
+        "romaji": "watamashi"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f99.gif",
     "uri": "https://jisho.org/search/%E5%BE%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "tỉ",
+    "tỷ"
+  ]
 }

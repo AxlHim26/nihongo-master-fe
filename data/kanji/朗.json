@@ -241,29 +241,44 @@
       {
         "example": "朗報",
         "reading": "ロウホウ",
-        "meaning": "good news, happy news, glad tidings"
+        "meaning": {
+          "vi": "good news, happy news, glad tidings"
+        },
+        "romaji": "rouhou"
       },
       {
         "example": "朗読",
         "reading": "ロウドク",
-        "meaning": "reading aloud, recitation"
+        "meaning": {
+          "en": "reading aloud, recitation"
+        },
+        "romaji": "roudoku"
       },
       {
         "example": "晃朗",
         "reading": "コウロウ",
-        "meaning": "bright and brilliant"
+        "meaning": {
+          "en": "bright and brilliant"
+        },
+        "romaji": "kourou"
       },
       {
         "example": "融朗",
         "reading": "ユウロウ",
-        "meaning": "brightness, clearness"
+        "meaning": {
+          "en": "brightness, clearness"
+        },
+        "romaji": "yuurou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朗らか",
         "reading": "ほがらか",
-        "meaning": "cheerful, merry, sunny, melodious, bright (sky, day, etc.), fine, clear"
+        "meaning": {
+          "en": "cheerful, merry, sunny, melodious, bright (sky, day, etc.), fine, clear"
+        },
+        "romaji": "hogaraka"
       }
     ],
     "radical": {
@@ -278,5 +293,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06717.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6717.gif",
     "uri": "https://jisho.org/search/%E6%9C%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "lãng"
+  ]
 }

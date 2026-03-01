@@ -20,39 +20,60 @@
       {
         "example": "襲名",
         "reading": "シュウメイ",
-        "meaning": "succession to another's professional name"
+        "meaning": {
+          "vi": "succession to another's professional name"
+        },
+        "romaji": "shuumei"
       },
       {
         "example": "襲撃",
         "reading": "シュウゲキ",
-        "meaning": "(surprise) attack, assault, raid, charge"
+        "meaning": {
+          "vi": "(surprise) attack, assault, raid, charge"
+        },
+        "romaji": "shuugeki"
       },
       {
         "example": "奇襲",
         "reading": "キシュウ",
-        "meaning": "surprise attack"
+        "meaning": {
+          "vi": "surprise attack"
+        },
+        "romaji": "kishuu"
       },
       {
         "example": "強襲",
         "reading": "キョウシュウ",
-        "meaning": "assault, violent attack"
+        "meaning": {
+          "en": "assault, violent attack"
+        },
+        "romaji": "kyoushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "襲う",
         "reading": "おそう",
-        "meaning": "to attack, to assail, to make an assault, to strike, to hunt down, to succeed (someone in a post, role, etc.), to make a sudden visit"
+        "meaning": {
+          "vi": "to attack, to assail, to make an assault, to strike, to hunt down, to succeed (someone in a post, role, etc.), to make a sudden visit"
+        },
+        "romaji": "osou"
       },
       {
         "example": "重ね",
         "reading": "かさね",
-        "meaning": "pile, heap, layers (e.g. of clothing), set (e.g. of boxes), course (e.g. of stones), counter for things that are stacked, piled up (or layered, etc.), layers of clothing worn under one's overcoat, combination of colors created by layering of garments (colours)"
+        "meaning": {
+          "vi": "pile, heap, layers (e.g. of clothing), set (e.g. of boxes), course (e.g. of stones), counter for things that are stacked, piled up (or layered, etc.), layers of clothing worn under one's overcoat, combination of colors created by layering of garments (colours)"
+        },
+        "romaji": "kasane"
       },
       {
         "example": "かさねの色目",
         "reading": "かさねのいろめ",
-        "meaning": "combination of colors created by layering of garments (colours)"
+        "meaning": {
+          "en": "combination of colors created by layering of garments (colours)"
+        },
+        "romaji": "kasanenoirome"
       }
     ],
     "radical": {
@@ -72,5 +93,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08972.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8972.gif",
     "uri": "https://jisho.org/search/%E8%A5%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tập"
+  ]
 }

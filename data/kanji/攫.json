@@ -17,19 +17,28 @@
       {
         "example": "一獲",
         "reading": "イッカク",
-        "meaning": "one grab"
+        "meaning": {
+          "en": "one grab"
+        },
+        "romaji": "ikkaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "攫う",
         "reading": "さらう",
-        "meaning": "to carry off, to run away with, to sweep away, to snatch, to kidnap, to abduct, to take entirely for oneself, to monopolize"
+        "meaning": {
+          "vi": "to carry off, to run away with, to sweep away, to snatch, to kidnap, to abduct, to take entirely for oneself, to monopolize"
+        },
+        "romaji": "sarau"
       },
       {
         "example": "掴む",
         "reading": "つかむ",
-        "meaning": "to seize, to catch, to grasp, to grip, to grab, to clutch, to hold, to catch hold of, to lay one's hands on, to obtain, to acquire, to get, to win, to capture, to understand, to grasp, to comprehend"
+        "meaning": {
+          "vi": "to seize, to catch, to grasp, to grip, to grab, to clutch, to hold, to catch hold of, to lay one's hands on, to obtain, to acquire, to get, to win, to capture, to understand, to grasp, to comprehend"
+        },
+        "romaji": "tsukamu"
       }
     ],
     "radical": {
@@ -49,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652b.gif",
     "uri": "https://jisho.org/search/%E6%94%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "quắc",
+    "quặc"
+  ]
 }

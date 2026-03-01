@@ -19,39 +19,60 @@
       {
         "example": "帝国主義",
         "reading": "テイコクシュギ",
-        "meaning": "imperialism"
+        "meaning": {
+          "vi": "imperialism"
+        },
+        "romaji": "teikokushugi"
       },
       {
         "example": "帝国",
         "reading": "テイコク",
-        "meaning": "empire, Empire of Japan"
+        "meaning": {
+          "vi": "empire, Empire of Japan"
+        },
+        "romaji": "teikoku"
       },
       {
         "example": "女帝",
         "reading": "ジョテイ",
-        "meaning": "empress"
+        "meaning": {
+          "vi": "empress"
+        },
+        "romaji": "jotei"
       },
       {
         "example": "大帝",
         "reading": "タイテイ",
-        "meaning": "great emperor, ... the Great"
+        "meaning": {
+          "vi": "great emperor, ... the Great"
+        },
+        "romaji": "taitei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帝",
         "reading": "みかど",
-        "meaning": "emperor (of Japan), mikado, (the gates of an) imperial residence"
+        "meaning": {
+          "vi": "emperor (of Japan), mikado, (the gates of an) imperial residence"
+        },
+        "romaji": "mikado"
       },
       {
         "example": "帝揚羽",
         "reading": "みかどあげは",
-        "meaning": "common jay (species of swallowtail butterfly, Graphium doson)"
+        "meaning": {
+          "vi": "common jay (species of swallowtail butterfly, Graphium doson)"
+        },
+        "romaji": "mikadoageha"
       },
       {
         "example": "時の帝",
         "reading": "ときのみかど",
-        "meaning": "emperor of the time"
+        "meaning": {
+          "vi": "emperor of the time"
+        },
+        "romaji": "tokinomikado"
       }
     ],
     "radical": {
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e1d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e1d.gif",
     "uri": "https://jisho.org/search/%E5%B8%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "đế"
+  ]
 }

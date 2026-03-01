@@ -19,29 +19,44 @@
       {
         "example": "朽壊",
         "reading": "キュウカイ",
-        "meaning": "rotting and crumbling"
+        "meaning": {
+          "en": "rotting and crumbling"
+        },
+        "romaji": "kyuukai"
       },
       {
         "example": "朽廃",
         "reading": "キュウハイ",
-        "meaning": "decay, dilapidation"
+        "meaning": {
+          "vi": "decay, dilapidation"
+        },
+        "romaji": "kyuuhai"
       },
       {
         "example": "若朽",
         "reading": "ジャッキュウ",
-        "meaning": "being young yet unambitious, being young but lacking spirit"
+        "meaning": {
+          "vi": "being young yet unambitious, being young but lacking spirit"
+        },
+        "romaji": "jakkyuu"
       },
       {
         "example": "腐朽",
         "reading": "フキュウ",
-        "meaning": "decay, deterioration, rot"
+        "meaning": {
+          "en": "decay, deterioration, rot"
+        },
+        "romaji": "fukyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朽ちる",
         "reading": "くちる",
-        "meaning": "to rot, to decay, to die in obscurity, to be forgotten with time"
+        "meaning": {
+          "en": "to rot, to decay, to die in obscurity, to be forgotten with time"
+        },
+        "romaji": "kuchiru"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0673d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/673d.gif",
     "uri": "https://jisho.org/search/%E6%9C%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hủ"
+  ]
 }

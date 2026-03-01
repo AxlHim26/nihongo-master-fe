@@ -17,7 +17,10 @@
       {
         "example": "杯",
         "reading": "さかずき",
-        "meaning": "sake cup, cup for alcoholic beverages"
+        "meaning": {
+          "vi": "sake cup, cup for alcoholic beverages"
+        },
+        "romaji": "sakazuki"
       }
     ],
     "radical": {
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89da.gif",
     "uri": "https://jisho.org/search/%E8%A7%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "cô"
+  ]
 }

@@ -19,44 +19,68 @@
       {
         "example": "扇子",
         "reading": "センス",
-        "meaning": "folding fan"
+        "meaning": {
+          "en": "folding fan"
+        },
+        "romaji": "sensu"
       },
       {
         "example": "扇形",
         "reading": "オウギガタ",
-        "meaning": "fan shape, sector"
+        "meaning": {
+          "vi": "fan shape, sector"
+        },
+        "romaji": "ougigata"
       },
       {
         "example": "換気扇",
         "reading": "カンキセン",
-        "meaning": "ventilation fan, extractor fan"
+        "meaning": {
+          "en": "ventilation fan, extractor fan"
+        },
+        "romaji": "kankisen"
       },
       {
         "example": "夏炉冬扇",
         "reading": "カロトウセン",
-        "meaning": "summer fires and winter fans, useless things"
+        "meaning": {
+          "en": "summer fires and winter fans, useless things"
+        },
+        "romaji": "karotousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "扇",
         "reading": "おうぎ",
-        "meaning": "folding fan"
+        "meaning": {
+          "en": "folding fan"
+        },
+        "romaji": "ougi"
       },
       {
         "example": "扇形",
         "reading": "おうぎがた",
-        "meaning": "fan shape, sector"
+        "meaning": {
+          "vi": "fan shape, sector"
+        },
+        "romaji": "ougigata"
       },
       {
         "example": "舞扇",
         "reading": "まいおうぎ",
-        "meaning": "dancer's fan"
+        "meaning": {
+          "en": "dancer's fan"
+        },
+        "romaji": "maiougi"
       },
       {
         "example": "絵扇",
         "reading": "えおうぎ",
-        "meaning": "fan painted with a picture"
+        "meaning": {
+          "vi": "fan painted with a picture"
+        },
+        "romaji": "eougi"
       }
     ],
     "radical": {
@@ -78,5 +102,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06247.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6247.gif",
     "uri": "https://jisho.org/search/%E6%89%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiến",
+    "thiên"
+  ]
 }

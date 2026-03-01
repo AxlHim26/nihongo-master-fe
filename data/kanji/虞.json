@@ -25,29 +25,44 @@
       {
         "example": "虞犯",
         "reading": "グハン",
-        "meaning": "being likely to commit a crime, pre-delinquency"
+        "meaning": {
+          "vi": "being likely to commit a crime, pre-delinquency"
+        },
+        "romaji": "guhan"
       },
       {
         "example": "虞犯少年",
         "reading": "グハンショウネン",
-        "meaning": "juvenile deemed likely to commit a crime, pre-delinquent juvenile, status offender"
+        "meaning": {
+          "vi": "juvenile deemed likely to commit a crime, pre-delinquent juvenile, status offender"
+        },
+        "romaji": "guhanshounen"
       },
       {
         "example": "憂虞",
         "reading": "ユウグ",
-        "meaning": "anxiety, fear"
+        "meaning": {
+          "en": "anxiety, fear"
+        },
+        "romaji": "yuugu"
       },
       {
         "example": "不虞",
         "reading": "フグ",
-        "meaning": "unforeseen (occurrence), unexpected (event), accident"
+        "meaning": {
+          "vi": "unforeseen (occurrence), unexpected (event), accident"
+        },
+        "romaji": "fugu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恐れ",
         "reading": "おそれ",
-        "meaning": "fear, horror, anxiety, concern, uneasiness, reverence"
+        "meaning": {
+          "en": "fear, horror, anxiety, concern, uneasiness, reverence"
+        },
+        "romaji": "osore"
       }
     ],
     "radical": {
@@ -66,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865e.gif",
     "uri": "https://jisho.org/search/%E8%99%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngu"
+  ]
 }

@@ -302,44 +302,68 @@
       {
         "example": "腰",
         "reading": "コシ",
-        "meaning": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows"
+        "meaning": {
+          "en": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows"
+        },
+        "romaji": "koshi"
       },
       {
         "example": "腰痛",
         "reading": "ヨウツウ",
-        "meaning": "lower back pain, lumbago"
+        "meaning": {
+          "vi": "lower back pain, lumbago"
+        },
+        "romaji": "youtsuu"
       },
       {
         "example": "細腰",
         "reading": "サイヨウ",
-        "meaning": "slender hips, slim waist"
+        "meaning": {
+          "vi": "slender hips, slim waist"
+        },
+        "romaji": "saiyou"
       },
       {
         "example": "柳腰",
         "reading": "ヤナギゴシ",
-        "meaning": "slim waist, slender figure, willowy figure, waist of a willow tree"
+        "meaning": {
+          "en": "slim waist, slender figure, willowy figure, waist of a willow tree"
+        },
+        "romaji": "yanagigoshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腰",
         "reading": "こし",
-        "meaning": "lower back, waist, hips, lumbar region, body (of hair, noodle, paper, etc.), resilience, spring"
+        "meaning": {
+          "vi": "lower back, waist, hips, lumbar region, body (of hair, noodle, paper, etc.), resilience, spring"
+        },
+        "romaji": "koshi"
       },
       {
         "example": "腰",
         "reading": "こし",
-        "meaning": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows"
+        "meaning": {
+          "en": "counter for swords, hakama, obi, etc. worn around the waist, counter for quivers of arrows"
+        },
+        "romaji": "koshi"
       },
       {
         "example": "お腰",
         "reading": "おこし",
-        "meaning": "buttocks, lower back, waist, hips, kimono underskirt"
+        "meaning": {
+          "vi": "buttocks, lower back, waist, hips, kimono underskirt"
+        },
+        "romaji": "okoshi"
       },
       {
         "example": "太刀二腰",
         "reading": "たちふたこし",
-        "meaning": "two swords"
+        "meaning": {
+          "en": "two swords"
+        },
+        "romaji": "tachifutakoshi"
       }
     ],
     "radical": {
@@ -358,5 +382,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08170.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8170.gif",
     "uri": "https://jisho.org/search/%E8%85%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "yêu"
+  ]
 }

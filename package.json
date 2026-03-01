@@ -34,10 +34,12 @@
     "@tanstack/react-query": "^5.90.20",
     "axios": "^1.13.4",
     "clsx": "^2.1.1",
+    "hanzi-writer": "^3.7.3",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "tailwind-merge": "^2.6.0",
+    "wanakana": "^5.3.1",
     "zod": "^3.24.1",
     "zustand": "^5.0.10"
   },

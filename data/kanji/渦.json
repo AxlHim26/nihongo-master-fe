@@ -19,44 +19,68 @@
       {
         "example": "渦中",
         "reading": "カチュウ",
-        "meaning": "vortex, maelstrom, whirlpool, (in the middle of a) scandal, controversy, quarrel, turmoil"
+        "meaning": {
+          "vi": "vortex, maelstrom, whirlpool, (in the middle of a) scandal, controversy, quarrel, turmoil"
+        },
+        "romaji": "kachuu"
       },
       {
         "example": "渦状",
         "reading": "カジョウ",
-        "meaning": "spiral"
+        "meaning": {
+          "vi": "spiral"
+        },
+        "romaji": "kajou"
       },
       {
         "example": "冷水渦",
         "reading": "レイスイウズ",
-        "meaning": "cold eddy"
+        "meaning": {
+          "en": "cold eddy"
+        },
+        "romaji": "reisuiuzu"
       },
       {
         "example": "極渦",
         "reading": "キョクウズ",
-        "meaning": "polar vortex, polar cell"
+        "meaning": {
+          "vi": "polar vortex, polar cell"
+        },
+        "romaji": "kyokuuzu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渦",
         "reading": "うず",
-        "meaning": "whirlpool, swirl, eddy, vortex, maelstrom"
+        "meaning": {
+          "vi": "whirlpool, swirl, eddy, vortex, maelstrom"
+        },
+        "romaji": "uzu"
       },
       {
         "example": "渦巻き",
         "reading": "うずまき",
-        "meaning": "whirlpool, maelstrom, vortex, eddy, swirl, spiral (shape, pattern)"
+        "meaning": {
+          "vi": "whirlpool, maelstrom, vortex, eddy, swirl, spiral (shape, pattern)"
+        },
+        "romaji": "uzumaki"
       },
       {
         "example": "冷水渦",
         "reading": "れいすいうず",
-        "meaning": "cold eddy"
+        "meaning": {
+          "en": "cold eddy"
+        },
+        "romaji": "reisuiuzu"
       },
       {
         "example": "暖水渦",
         "reading": "だんすいうず",
-        "meaning": "warm eddy"
+        "meaning": {
+          "en": "warm eddy"
+        },
+        "romaji": "dansuiuzu"
       }
     ],
     "radical": {
@@ -77,5 +101,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e26.gif",
     "uri": "https://jisho.org/search/%E6%B8%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "oa",
+    "qua"
+  ]
 }

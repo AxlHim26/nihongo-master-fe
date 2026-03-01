@@ -17,24 +17,36 @@
       {
         "example": "玩具",
         "reading": "ガング",
-        "meaning": "toy"
+        "meaning": {
+          "en": "toy"
+        },
+        "romaji": "gangu"
       },
       {
         "example": "玩物",
         "reading": "ガンブツ",
-        "meaning": "toy, plaything"
+        "meaning": {
+          "vi": "toy, plaything"
+        },
+        "romaji": "ganbutsu"
       },
       {
         "example": "賞玩",
         "reading": "ショウガン",
-        "meaning": "appreciation, admiration, enjoyment"
+        "meaning": {
+          "vi": "appreciation, admiration, enjoyment"
+        },
+        "romaji": "shougan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弄ぶ",
         "reading": "もてあそぶ",
-        "meaning": "to play with (a toy, one's hair, etc.), to fiddle with, to toy with (one's emotions, etc.), to trifle with, to do with something as one pleases, to appreciate"
+        "meaning": {
+          "vi": "to play with (a toy, one's hair, etc.), to fiddle with, to toy with (one's emotions, etc.), to trifle with, to do with something as one pleases, to appreciate"
+        },
+        "romaji": "moteasobu"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07feb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7feb.gif",
     "uri": "https://jisho.org/search/%E7%BF%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngoạn"
+  ]
 }

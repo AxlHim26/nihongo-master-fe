@@ -360,22 +360,34 @@
       {
         "example": "題",
         "reading": "ダイ",
-        "meaning": "title, subject, theme, topic, problem (on a test), question, counter for questions (on a test)"
+        "meaning": {
+          "vi": "title, subject, theme, topic, problem (on a test), question, counter for questions (on a test)"
+        },
+        "romaji": "dai"
       },
       {
         "example": "題材",
         "reading": "ダイザイ",
-        "meaning": "subject, theme"
+        "meaning": {
+          "en": "subject, theme"
+        },
+        "romaji": "daizai"
       },
       {
         "example": "表題",
         "reading": "ヒョウダイ",
-        "meaning": "title, index, heading, headline, caption"
+        "meaning": {
+          "vi": "title, index, heading, headline, caption"
+        },
+        "romaji": "hyoudai"
       },
       {
         "example": "命題",
         "reading": "メイダイ",
-        "meaning": "proposition, thesis, notion, theory, problem, issue, challenge"
+        "meaning": {
+          "vi": "proposition, thesis, notion, theory, problem, issue, challenge"
+        },
+        "romaji": "meidai"
       }
     ],
     "kunyomiExamples": [],
@@ -395,5 +407,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0984c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/984c.gif",
     "uri": "https://jisho.org/search/%E9%A1%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "đề",
+    "đệ"
+  ]
 }

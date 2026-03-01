@@ -265,22 +265,34 @@
       {
         "example": "湾",
         "reading": "ワン",
-        "meaning": "bay, gulf, inlet"
+        "meaning": {
+          "en": "bay, gulf, inlet"
+        },
+        "romaji": "wan"
       },
       {
         "example": "湾岸",
         "reading": "ワンガン",
-        "meaning": "gulf coast, bay coast"
+        "meaning": {
+          "en": "gulf coast, bay coast"
+        },
+        "romaji": "wangan"
       },
       {
         "example": "メキシコ湾",
         "reading": "メキシコワン",
-        "meaning": "Gulf of Mexico"
+        "meaning": {
+          "en": "Gulf of Mexico"
+        },
+        "romaji": "mekishikowan"
       },
       {
         "example": "海湾",
         "reading": "カイワン",
-        "meaning": "gulf, bay"
+        "meaning": {
+          "en": "gulf, bay"
+        },
+        "romaji": "kaiwan"
       }
     ],
     "kunyomiExamples": [],
@@ -301,5 +313,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e7e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e7e.gif",
     "uri": "https://jisho.org/search/%E6%B9%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "loan"
+  ]
 }

@@ -20,12 +20,18 @@
       {
         "example": "匡救",
         "reading": "キョウキュウ",
-        "meaning": "delivering from sin, succor, succour"
+        "meaning": {
+          "en": "delivering from sin, succor, succour"
+        },
+        "romaji": "kyoukyuu"
       },
       {
         "example": "匡正",
         "reading": "キョウセイ",
-        "meaning": "correction (of a fault, mistake, flaw, etc.), remedy, rectification, redress, reform"
+        "meaning": {
+          "en": "correction (of a fault, mistake, flaw, etc.), remedy, rectification, redress, reform"
+        },
+        "romaji": "kyousei"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05321.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5321.gif",
     "uri": "https://jisho.org/search/%E5%8C%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuông"
+  ]
 }

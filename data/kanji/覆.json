@@ -21,39 +21,60 @@
       {
         "example": "覆",
         "reading": "フク",
-        "meaning": "concealment (of one's vices), veil, cover, overturning, toppling"
+        "meaning": {
+          "vi": "concealment (of one's vices), veil, cover, overturning, toppling"
+        },
+        "romaji": "fuku"
       },
       {
         "example": "覆面",
         "reading": "フクメン",
-        "meaning": "mask, veil, disguise, anonymous, unmarked, incognito"
+        "meaning": {
+          "en": "mask, veil, disguise, anonymous, unmarked, incognito"
+        },
+        "romaji": "fukumen"
       },
       {
         "example": "被覆",
         "reading": "ヒフク",
-        "meaning": "coating, covering, cover"
+        "meaning": {
+          "en": "coating, covering, cover"
+        },
+        "romaji": "hifuku"
       },
       {
         "example": "傾覆",
         "reading": "ケイフク",
-        "meaning": "turning upside down"
+        "meaning": {
+          "vi": "turning upside down"
+        },
+        "romaji": "keifuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "覆う",
         "reading": "おおう",
-        "meaning": "to cover, to hide, to conceal, to wrap, to disguise"
+        "meaning": {
+          "vi": "to cover, to hide, to conceal, to wrap, to disguise"
+        },
+        "romaji": "oou"
       },
       {
         "example": "覆す",
         "reading": "くつがえす",
-        "meaning": "to overturn, to capsize, to upset, to overthrow (government etc.), to reverse (decision etc.), to disprove (an established theory etc.), to overrule"
+        "meaning": {
+          "vi": "to overturn, to capsize, to upset, to overthrow (government etc.), to reverse (decision etc.), to disprove (an established theory etc.), to overrule"
+        },
+        "romaji": "kutsugaesu"
       },
       {
         "example": "覆る",
         "reading": "くつがえる",
-        "meaning": "to topple over, to be overturned, to capsize, to be overruled, to be reversed, to be discredited"
+        "meaning": {
+          "vi": "to topple over, to be overturned, to capsize, to be overruled, to be reversed, to be discredited"
+        },
+        "romaji": "kutsugaeru"
       }
     ],
     "radical": {
@@ -75,5 +96,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08986.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8986.gif",
     "uri": "https://jisho.org/search/%E8%A6%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "phú",
+    "phúc"
+  ]
 }

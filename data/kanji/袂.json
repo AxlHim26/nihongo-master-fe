@@ -18,24 +18,36 @@
       {
         "example": "分袂",
         "reading": "ブンベイ",
-        "meaning": "parting (from someone)"
+        "meaning": {
+          "vi": "parting (from someone)"
+        },
+        "romaji": "bunbei"
       },
       {
         "example": "連袂",
         "reading": "レンベイ",
-        "meaning": "doing in unison, doing together, doing en masse"
+        "meaning": {
+          "en": "doing in unison, doing together, doing en masse"
+        },
+        "romaji": "renbei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "袂",
         "reading": "たもと",
-        "meaning": "sleeve (esp. of a kimono), pocket of sleeve, vicinity (esp. of a bridge), foot of a mountain, base of a mountain"
+        "meaning": {
+          "vi": "sleeve (esp. of a kimono), pocket of sleeve, vicinity (esp. of a bridge), foot of a mountain, base of a mountain"
+        },
+        "romaji": "tamoto"
       },
       {
         "example": "袂糞",
         "reading": "たもとくそ",
-        "meaning": "dust, etc. that gathers in the bottoms of sleeves (esp. in Japanese traditional clothing)"
+        "meaning": {
+          "vi": "dust, etc. that gathers in the bottoms of sleeves (esp. in Japanese traditional clothing)"
+        },
+        "romaji": "tamotokuso"
       }
     ],
     "radical": {
@@ -56,5 +68,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08882.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8882.gif",
     "uri": "https://jisho.org/search/%E8%A2%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "duệ",
+    "mệ"
+  ]
 }

@@ -20,44 +20,68 @@
       {
         "example": "鬼",
         "reading": "オニ",
-        "meaning": "yêu quái, oni, ma, người hung ác, rất, cực kỳ"
+        "meaning": {
+          "vi": "yêu quái, oni, ma, người hung ác, rất, cực kỳ"
+        },
+        "romaji": "oni"
       },
       {
         "example": "鬼神",
         "reading": "キシン",
-        "meaning": "thần dữ"
+        "meaning": {
+          "vi": "thần dữ"
+        },
+        "romaji": "kishin"
       },
       {
         "example": "債鬼",
         "reading": "サイキ",
-        "meaning": "chủ nợ tàn nhẫn, người đi đòi nợ"
+        "meaning": {
+          "vi": "chủ nợ tàn nhẫn, người đi đòi nợ"
+        },
+        "romaji": "saiki"
       },
       {
         "example": "豪鬼",
         "reading": "ゴウキ",
-        "meaning": "Akuma (Street Fighter)"
+        "meaning": {
+          "en": "Akuma (Street Fighter)"
+        },
+        "romaji": "gouki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鬼",
         "reading": "おに",
-        "meaning": "yêu quái, oni, ma, người hung ác, rất, cực kỳ"
+        "meaning": {
+          "vi": "yêu quái, oni, ma, người hung ác, rất, cực kỳ"
+        },
+        "romaji": "oni"
       },
       {
         "example": "鬼神",
         "reading": "きしん",
-        "meaning": "thần dữ"
+        "meaning": {
+          "vi": "thần dữ"
+        },
+        "romaji": "kishin"
       },
       {
         "example": "青鬼",
         "reading": "あおおに",
-        "meaning": "quỷ xanh (có sừng)"
+        "meaning": {
+          "vi": "quỷ xanh (có sừng)"
+        },
+        "romaji": "aooni"
       },
       {
         "example": "赤鬼",
         "reading": "あかおに",
-        "meaning": "quỷ đỏ (có sừng)"
+        "meaning": {
+          "vi": "quỷ đỏ (có sừng)"
+        },
+        "romaji": "akaoni"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b3c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b3c.gif",
     "uri": "https://jisho.org/search/%E9%AC%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "quỷ"
+  ]
 }

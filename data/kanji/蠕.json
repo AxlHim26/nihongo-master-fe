@@ -20,19 +20,28 @@
       {
         "example": "蠕虫",
         "reading": "ゼンチュウ",
-        "meaning": "worm, helminth"
+        "meaning": {
+          "en": "worm, helminth"
+        },
+        "romaji": "zenchuu"
       },
       {
         "example": "蠕虫学",
         "reading": "ゼンチュウガク",
-        "meaning": "helminthology"
+        "meaning": {
+          "en": "helminthology"
+        },
+        "romaji": "zenchuugaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蠢く",
         "reading": "うごめく",
-        "meaning": "to wriggle, to squirm, to crawl like a worm"
+        "meaning": {
+          "en": "to wriggle, to squirm, to crawl like a worm"
+        },
+        "romaji": "ugomeku"
       }
     ],
     "radical": {
@@ -48,5 +57,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08815.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8815.gif",
     "uri": "https://jisho.org/search/%E8%A0%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhu",
+    "nhuyễn"
+  ]
 }

@@ -259,34 +259,52 @@
       {
         "example": "僕",
         "reading": "ボク",
-        "meaning": "I, me, you, manservant"
+        "meaning": {
+          "en": "I, me, you, manservant"
+        },
+        "romaji": "boku"
       },
       {
         "example": "僕たち",
         "reading": "ボクタチ",
-        "meaning": "we"
+        "meaning": {
+          "en": "we"
+        },
+        "romaji": "bokutachi"
       },
       {
         "example": "校僕",
         "reading": "コウボク",
-        "meaning": "student studying and working at the school"
+        "meaning": {
+          "en": "student studying and working at the school"
+        },
+        "romaji": "kouboku"
       },
       {
         "example": "童僕",
         "reading": "ドウボク",
-        "meaning": "young male servant, page"
+        "meaning": {
+          "vi": "young male servant, page"
+        },
+        "romaji": "douboku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "僕",
         "reading": "しもべ",
-        "meaning": "servant, manservant, menial"
+        "meaning": {
+          "en": "servant, manservant, menial"
+        },
+        "romaji": "shimobe"
       },
       {
         "example": "神の僕",
         "reading": "かみのしもべ",
-        "meaning": "Servant of God"
+        "meaning": {
+          "en": "Servant of God"
+        },
+        "romaji": "kaminoshimobe"
       }
     ],
     "radical": {
@@ -308,5 +326,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50d5.gif",
     "uri": "https://jisho.org/search/%E5%83%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "bộc"
+  ]
 }

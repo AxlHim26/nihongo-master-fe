@@ -17,34 +17,52 @@
       {
         "example": "誹謗",
         "reading": "ヒボウ",
-        "meaning": "slander, abuse"
+        "meaning": {
+          "en": "slander, abuse"
+        },
+        "romaji": "hibou"
       },
       {
         "example": "誹毀",
         "reading": "ヒキ",
-        "meaning": "defamation, libel, calumny, slander"
+        "meaning": {
+          "en": "defamation, libel, calumny, slander"
+        },
+        "romaji": "hiki"
       },
       {
         "example": "譏誹",
         "reading": "キヒ",
-        "meaning": "abuse, slander"
+        "meaning": {
+          "en": "abuse, slander"
+        },
+        "romaji": "kihi"
       },
       {
         "example": "俳諧",
         "reading": "ハイカイ",
-        "meaning": "haikai (collective name for haiku, haibun, haiga, senryū, etc.), haikai no renga (humorous, often vulgar style of renga which emerged in the 16th century), absurd, comical"
+        "meaning": {
+          "en": "haikai (collective name for haiku, haibun, haiga, senryū, etc.), haikai no renga (humorous, often vulgar style of renga which emerged in the 16th century), absurd, comical"
+        },
+        "romaji": "haikai"
       },
       {
         "example": "俳風",
         "reading": "ハイフウ",
-        "meaning": "style of a haikai or haiku poem"
+        "meaning": {
+          "vi": "style of a haikai or haiku poem"
+        },
+        "romaji": "haifuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謗る",
         "reading": "そしる",
-        "meaning": "to slander, to libel, to criticize, to criticise"
+        "meaning": {
+          "en": "to slander, to libel, to criticize, to criticise"
+        },
+        "romaji": "soshiru"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab9.gif",
     "uri": "https://jisho.org/search/%E8%AA%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "phỉ"
+  ]
 }

@@ -298,42 +298,66 @@
       {
         "example": "衛星",
         "reading": "エイセイ",
-        "meaning": "(natural) satellite, moon, (artificial) satellite"
+        "meaning": {
+          "en": "(natural) satellite, moon, (artificial) satellite"
+        },
+        "romaji": "eisei"
       },
       {
         "example": "衛生",
         "reading": "エイセイ",
-        "meaning": "hygiene, sanitation, health"
+        "meaning": {
+          "en": "hygiene, sanitation, health"
+        },
+        "romaji": "eisei"
       },
       {
         "example": "自衛",
         "reading": "ジエイ",
-        "meaning": "self-defense, self-defence"
+        "meaning": {
+          "en": "self-defense, self-defence"
+        },
+        "romaji": "jiei"
       },
       {
         "example": "専守防衛",
         "reading": "センシュボウエイ",
-        "meaning": "nonaggressive defense (policy) (defence)"
+        "meaning": {
+          "vi": "nonaggressive defense (policy) (defence)"
+        },
+        "romaji": "senshubouei"
       },
       {
         "example": "衛星",
         "reading": "エイセイ",
-        "meaning": "(natural) satellite, moon, (artificial) satellite"
+        "meaning": {
+          "en": "(natural) satellite, moon, (artificial) satellite"
+        },
+        "romaji": "eisei"
       },
       {
         "example": "衛生",
         "reading": "エイセイ",
-        "meaning": "hygiene, sanitation, health"
+        "meaning": {
+          "en": "hygiene, sanitation, health"
+        },
+        "romaji": "eisei"
       },
       {
         "example": "近衛",
         "reading": "コノエ",
-        "meaning": "Imperial Guards"
+        "meaning": {
+          "vi": "Imperial Guards"
+        },
+        "romaji": "konoe"
       },
       {
         "example": "兵衛",
         "reading": "ヒョウエ",
-        "meaning": "middle palace guard (ritsuryō system)"
+        "meaning": {
+          "vi": "middle palace guard (ritsuryō system)"
+        },
+        "romaji": "hyoue"
       }
     ],
     "kunyomiExamples": [],
@@ -351,5 +375,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0885b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/885b.gif",
     "uri": "https://jisho.org/search/%E8%A1%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "vệ"
+  ]
 }

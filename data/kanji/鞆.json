@@ -15,12 +15,18 @@
       {
         "example": "鞆",
         "reading": "とも",
-        "meaning": "archer's left-wrist protector"
+        "meaning": {
+          "vi": "archer's left-wrist protector"
+        },
+        "romaji": "tomo"
       },
       {
         "example": "巴",
         "reading": "ともえ",
-        "meaning": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures"
+        "meaning": {
+          "vi": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures"
+        },
+        "romaji": "tomoe"
       }
     ],
     "radical": {
@@ -36,5 +42,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09786.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9786.gif",
     "uri": "https://jisho.org/search/%E9%9E%86%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -299,59 +299,92 @@
       {
         "example": "怪",
         "reading": "カイ",
-        "meaning": "mystery, wonder"
+        "meaning": {
+          "en": "mystery, wonder"
+        },
+        "romaji": "kai"
       },
       {
         "example": "怪獣",
         "reading": "カイジュウ",
-        "meaning": "monster"
+        "meaning": {
+          "en": "monster"
+        },
+        "romaji": "kaijuu"
       },
       {
         "example": "奇々怪々",
         "reading": "キキカイカイ",
-        "meaning": "very strange, bizarre, weird, mysterious"
+        "meaning": {
+          "en": "very strange, bizarre, weird, mysterious"
+        },
+        "romaji": "kikikaikai"
       },
       {
         "example": "夜道怪",
         "reading": "ヤドウカイ",
-        "meaning": "folk monster who wanders at night injuring and kidnapping people"
+        "meaning": {
+          "vi": "folk monster who wanders at night injuring and kidnapping people"
+        },
+        "romaji": "yadoukai"
       },
       {
         "example": "怪我",
         "reading": "ケガ",
-        "meaning": "injury, wound, mistake, accident, loss"
+        "meaning": {
+          "en": "injury, wound, mistake, accident, loss"
+        },
+        "romaji": "kega"
       },
       {
         "example": "けが人",
         "reading": "ケガニン",
-        "meaning": "wounded person, injured person"
+        "meaning": {
+          "vi": "wounded person, injured person"
+        },
+        "romaji": "keganin"
       },
       {
         "example": "物怪",
         "reading": "モッケ",
-        "meaning": "unexpected"
+        "meaning": {
+          "vi": "unexpected"
+        },
+        "romaji": "mokke"
       },
       {
         "example": "物の怪",
         "reading": "モノノケ",
-        "meaning": "evil spirit, (vengeful) ghost, specter, spectre"
+        "meaning": {
+          "vi": "evil spirit, (vengeful) ghost, specter, spectre"
+        },
+        "romaji": "mononoke"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "怪しい",
         "reading": "あやしい",
-        "meaning": "suspicious, dubious, questionable, dodgy, shady, fishy, doubtful, unsure, uncertain, unlikely, implausible, untrustworthy, unreliable, clumsy, awkward, shaky, poor, strange, weird, eerie, spooky, uncanny, ominous (e.g. weather), threatening, dangerous (e.g. financial situation), uncertain, suspicious (of a potential amorous relation), mysterious, bewitching, alluring, enticing, enchanting"
+        "meaning": {
+          "vi": "suspicious, dubious, questionable, dodgy, shady, fishy, doubtful, unsure, uncertain, unlikely, implausible, untrustworthy, unreliable, clumsy, awkward, shaky, poor, strange, weird, eerie, spooky, uncanny, ominous (e.g. weather), threatening, dangerous (e.g. financial situation), uncertain, suspicious (of a potential amorous relation), mysterious, bewitching, alluring, enticing, enchanting"
+        },
+        "romaji": "ayashii"
       },
       {
         "example": "怪しい手つきで",
         "reading": "あやしいてつきで",
-        "meaning": "clumsily, with clumsy hands"
+        "meaning": {
+          "en": "clumsily, with clumsy hands"
+        },
+        "romaji": "ayashiitetsukide"
       },
       {
         "example": "怪しむ",
         "reading": "あやしむ",
-        "meaning": "to suspect"
+        "meaning": {
+          "vi": "to suspect"
+        },
+        "romaji": "ayashimu"
       }
     ],
     "radical": {
@@ -371,5 +404,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0602a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/602a.gif",
     "uri": "https://jisho.org/search/%E6%80%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "quái"
+  ]
 }

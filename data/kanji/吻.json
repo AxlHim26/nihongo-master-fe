@@ -18,22 +18,34 @@
       {
         "example": "吻",
         "reading": "フン",
-        "meaning": "proboscis, snout"
+        "meaning": {
+          "vi": "proboscis, snout"
+        },
+        "romaji": "fun"
       },
       {
         "example": "吻殻綱",
         "reading": "フンカクコウ",
-        "meaning": "Rostroconchia (class of extinct molluscs)"
+        "meaning": {
+          "en": "Rostroconchia (class of extinct molluscs)"
+        },
+        "romaji": "funkakukou"
       },
       {
         "example": "黄吻",
         "reading": "コウフン",
-        "meaning": "young and inexperienced person"
+        "meaning": {
+          "vi": "young and inexperienced person"
+        },
+        "romaji": "koufun"
       },
       {
         "example": "口吻",
         "reading": "コウフン",
-        "meaning": "way of speaking, intimation, lips, mouth, snout, proboscis"
+        "meaning": {
+          "vi": "way of speaking, intimation, lips, mouth, snout, proboscis"
+        },
+        "romaji": "koufun"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543b.gif",
     "uri": "https://jisho.org/search/%E5%90%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "vẫn"
+  ]
 }

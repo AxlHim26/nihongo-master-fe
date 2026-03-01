@@ -20,34 +20,52 @@
       {
         "example": "屈辱",
         "reading": "クツジョク",
-        "meaning": "disgrace, humiliation"
+        "meaning": {
+          "en": "disgrace, humiliation"
+        },
+        "romaji": "kutsujoku"
       },
       {
         "example": "屈従",
         "reading": "クツジュウ",
-        "meaning": "servile submission, subservience"
+        "meaning": {
+          "en": "servile submission, subservience"
+        },
+        "romaji": "kutsujuu"
       },
       {
         "example": "背屈",
         "reading": "ハイクツ",
-        "meaning": "dorsiflexion, dorsal flexion"
+        "meaning": {
+          "en": "dorsiflexion, dorsal flexion"
+        },
+        "romaji": "haikutsu"
       },
       {
         "example": "後屈",
         "reading": "コウクツ",
-        "meaning": "retroflexion"
+        "meaning": {
+          "en": "retroflexion"
+        },
+        "romaji": "koukutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屈む",
         "reading": "かがむ",
-        "meaning": "to stoop, to lean over, to bend forward, to bend down, to crouch, to squat"
+        "meaning": {
+          "vi": "to stoop, to lean over, to bend forward, to bend down, to crouch, to squat"
+        },
+        "romaji": "kagamu"
       },
       {
         "example": "屈める",
         "reading": "かがめる",
-        "meaning": "to stoop, to bend (e.g. one's knees)"
+        "meaning": {
+          "vi": "to stoop, to bend (e.g. one's knees)"
+        },
+        "romaji": "kagameru"
       }
     ],
     "radical": {
@@ -64,5 +82,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c48.gif",
     "uri": "https://jisho.org/search/%E5%B1%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuất",
+    "quật"
+  ]
 }

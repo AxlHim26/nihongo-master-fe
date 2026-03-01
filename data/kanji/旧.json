@@ -305,34 +305,52 @@
       {
         "example": "旧",
         "reading": "キュウ",
-        "meaning": "cũ, trước đây, cựu, đồ cũ, phong tục cũ, ngày xưa, lịch âm cũ Nhật"
+        "meaning": {
+          "vi": "cũ, trước đây, cựu, đồ cũ, phong tục cũ, ngày xưa, lịch âm cũ Nhật"
+        },
+        "romaji": "kyuu"
       },
       {
         "example": "旧式",
         "reading": "キュウシキ",
-        "meaning": "kiểu cũ, phong cách cũ"
+        "meaning": {
+          "vi": "kiểu cũ, phong cách cũ"
+        },
+        "romaji": "kyuushiki"
       },
       {
         "example": "新旧",
         "reading": "シンキュウ",
-        "meaning": "mới và cũ, đến và đi"
+        "meaning": {
+          "vi": "mới và cũ, đến và đi"
+        },
+        "romaji": "shinkyuu"
       },
       {
         "example": "懐旧",
         "reading": "カイキュウ",
-        "meaning": "hoài niệm, nhớ quá khứ"
+        "meaning": {
+          "vi": "hoài niệm, nhớ quá khứ"
+        },
+        "romaji": "kaikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "古い",
         "reading": "ふるい",
-        "meaning": "cũ, già, cổ xưa, lỗi thời, xưa, lâu đời, cũ kỹ, lạc hậu"
+        "meaning": {
+          "vi": "cũ, già, cổ xưa, lỗi thời, xưa, lâu đời, cũ kỹ, lạc hậu"
+        },
+        "romaji": "furui"
       },
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "trước đây, cựu, quá khứ, một thời, trước kia, ban đầu"
+        "meaning": {
+          "vi": "trước đây, cựu, quá khứ, một thời, trước kia, ban đầu"
+        },
+        "romaji": "moto"
       }
     ],
     "radical": {
@@ -347,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e7.gif",
     "uri": "https://jisho.org/search/%E6%97%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "cựu"
+  ]
 }

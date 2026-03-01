@@ -18,7 +18,10 @@
       {
         "example": "草食男子",
         "reading": "ソウショクダンシ",
-        "meaning": "man who doesn't adhere to traditional masculinity, esp. with women and careers, herbivore man"
+        "meaning": {
+          "vi": "man who doesn't adhere to traditional masculinity, esp. with women and careers, herbivore man"
+        },
+        "romaji": "soushokudanshi"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88dd.gif",
     "uri": "https://jisho.org/search/%E8%A3%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "trang"
+  ]
 }

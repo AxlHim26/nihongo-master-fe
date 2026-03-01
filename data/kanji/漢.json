@@ -275,22 +275,34 @@
       {
         "example": "漢",
         "reading": "カン",
-        "meaning": "China, Han dynasty (of China; 202 BCE-220 CE), Han (majority Chinese ethnic group), man"
+        "meaning": {
+          "vi": "China, Han dynasty (of China; 202 BCE-220 CE), Han (majority Chinese ethnic group), man"
+        },
+        "romaji": "kan"
       },
       {
         "example": "漢字",
         "reading": "カンジ",
-        "meaning": "kanji, Chinese character"
+        "meaning": {
+          "en": "kanji, Chinese character"
+        },
+        "romaji": "kanji"
       },
       {
         "example": "巨漢",
         "reading": "キョカン",
-        "meaning": "giant"
+        "meaning": {
+          "en": "giant"
+        },
+        "romaji": "kyokan"
       },
       {
         "example": "門外漢",
         "reading": "モンガイカン",
-        "meaning": "outsider, layman, amateur"
+        "meaning": {
+          "en": "outsider, layman, amateur"
+        },
+        "romaji": "mongaikan"
       }
     ],
     "kunyomiExamples": [],
@@ -314,5 +326,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f22.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f22.gif",
     "uri": "https://jisho.org/search/%E6%BC%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hán"
+  ]
 }

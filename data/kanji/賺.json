@@ -18,7 +18,10 @@
       {
         "example": "賺す",
         "reading": "すかす",
-        "meaning": "to coax, to cajole, to humour (humor), to wheedle"
+        "meaning": {
+          "en": "to coax, to cajole, to humour (humor), to wheedle"
+        },
+        "romaji": "sukasu"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cfa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cfa.gif",
     "uri": "https://jisho.org/search/%E8%B3%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "trám"
+  ]
 }

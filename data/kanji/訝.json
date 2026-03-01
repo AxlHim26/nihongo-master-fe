@@ -18,7 +18,10 @@
       {
         "example": "訝る",
         "reading": "いぶかる",
-        "meaning": "to wonder, to puzzle oneself about, to feel anxious about, to suspect, to doubt"
+        "meaning": {
+          "vi": "to wonder, to puzzle oneself about, to feel anxious about, to suspect, to doubt"
+        },
+        "romaji": "ibukaru"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a1d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a1d.gif",
     "uri": "https://jisho.org/search/%E8%A8%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhạ"
+  ]
 }

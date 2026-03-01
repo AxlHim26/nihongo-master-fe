@@ -19,34 +19,52 @@
       {
         "example": "桐蔭学園横浜大学",
         "reading": "トウインガクエンヨコハマダイガク",
-        "meaning": "Toin University of Yokohama"
+        "meaning": {
+          "en": "Toin University of Yokohama"
+        },
+        "romaji": "touingakuen'yokohamadaigaku"
       },
       {
         "example": "桐蔭横浜大学",
         "reading": "トウインヨコハマダイガク",
-        "meaning": "Toin University of Yokohama"
+        "meaning": {
+          "en": "Toin University of Yokohama"
+        },
+        "romaji": "touin'yokohamadaigaku"
       },
       {
         "example": "梧桐",
         "reading": "アオギリ",
-        "meaning": "Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"
+        "meaning": {
+          "vi": "Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"
+        },
+        "romaji": "aogiri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "桐",
         "reading": "きり",
-        "meaning": "paulownia (Paulownia tomentosa), empress tree, foxglove tree"
+        "meaning": {
+          "vi": "paulownia (Paulownia tomentosa), empress tree, foxglove tree"
+        },
+        "romaji": "kiri"
       },
       {
         "example": "桐材",
         "reading": "きりざい",
-        "meaning": "paulownia wood"
+        "meaning": {
+          "vi": "paulownia wood"
+        },
+        "romaji": "kirizai"
       },
       {
         "example": "五七桐",
         "reading": "ごしちのきり",
-        "meaning": "paulownia crest (three leaves with seven blossoms on the center lead and five blossoms on each side leaf)"
+        "meaning": {
+          "vi": "paulownia crest (three leaves with seven blossoms on the center lead and five blossoms on each side leaf)"
+        },
+        "romaji": "goshichinokiri"
       }
     ],
     "radical": {
@@ -63,5 +81,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06850.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6850.gif",
     "uri": "https://jisho.org/search/%E6%A1%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "thông",
+    "đồng"
+  ]
 }

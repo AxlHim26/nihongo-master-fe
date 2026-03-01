@@ -256,44 +256,68 @@
       {
         "example": "耳鼻科",
         "reading": "ジビカ",
-        "meaning": "otolaryngology, ear, nose, and throat department"
+        "meaning": {
+          "vi": "otolaryngology, ear, nose, and throat department"
+        },
+        "romaji": "jibika"
       },
       {
         "example": "耳鼻咽喉科",
         "reading": "ジビインコウカ",
-        "meaning": "otorhinolaryngology, otolaryngology, ear, nose and throat department"
+        "meaning": {
+          "vi": "otorhinolaryngology, otolaryngology, ear, nose and throat department"
+        },
+        "romaji": "jibiinkouka"
       },
       {
         "example": "中耳",
         "reading": "チュウジ",
-        "meaning": "middle ear, tympanum"
+        "meaning": {
+          "vi": "middle ear, tympanum"
+        },
+        "romaji": "chuuji"
       },
       {
         "example": "外耳",
         "reading": "ガイジ",
-        "meaning": "external ear, concha"
+        "meaning": {
+          "en": "external ear, concha"
+        },
+        "romaji": "gaiji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "耳",
         "reading": "みみ",
-        "meaning": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle"
+        "meaning": {
+          "vi": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle"
+        },
+        "romaji": "mimi"
       },
       {
         "example": "耳障り",
         "reading": "みみざわり",
-        "meaning": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous"
+        "meaning": {
+          "vi": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous"
+        },
+        "romaji": "mimizawari"
       },
       {
         "example": "大耳",
         "reading": "おおみみ",
-        "meaning": "big ears, listening without paying attention"
+        "meaning": {
+          "vi": "big ears, listening without paying attention"
+        },
+        "romaji": "oomimi"
       },
       {
         "example": "遠耳",
         "reading": "とおみみ",
-        "meaning": "sharp hearing"
+        "meaning": {
+          "vi": "sharp hearing"
+        },
+        "romaji": "toomimi"
       }
     ],
     "radical": {
@@ -307,5 +331,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08033.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8033.gif",
     "uri": "https://jisho.org/search/%E8%80%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhĩ"
+  ]
 }

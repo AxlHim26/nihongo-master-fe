@@ -340,29 +340,44 @@
       {
         "example": "警官",
         "reading": "ケイカン",
-        "meaning": "police officer, policeman, constable"
+        "meaning": {
+          "vi": "police officer, policeman, constable"
+        },
+        "romaji": "keikan"
       },
       {
         "example": "警戒",
         "reading": "ケイカイ",
-        "meaning": "vigilance, caution, alertness, precaution, being on guard"
+        "meaning": {
+          "vi": "vigilance, caution, alertness, precaution, being on guard"
+        },
+        "romaji": "keikai"
       },
       {
         "example": "県警",
         "reading": "ケンケイ",
-        "meaning": "prefectural police"
+        "meaning": {
+          "vi": "prefectural police"
+        },
+        "romaji": "kenkei"
       },
       {
         "example": "府警",
         "reading": "フケイ",
-        "meaning": "prefectural police (Osaka or Kyoto)"
+        "meaning": {
+          "vi": "prefectural police (Osaka or Kyoto)"
+        },
+        "romaji": "fukei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戒める",
         "reading": "いましめる",
-        "meaning": "to warn against, to caution against, to admonish, to scold, to rebuke, to prohibit, to forbid, to ban, to be cautious, to detest, to loathe, to punish"
+        "meaning": {
+          "vi": "to warn against, to caution against, to admonish, to scold, to rebuke, to prohibit, to forbid, to ban, to be cautious, to detest, to loathe, to punish"
+        },
+        "romaji": "imashimeru"
       }
     ],
     "radical": {
@@ -385,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b66.gif",
     "uri": "https://jisho.org/search/%E8%AD%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảnh"
+  ]
 }

@@ -18,22 +18,34 @@
       {
         "example": "恕",
         "reading": "ジョ",
-        "meaning": "sự thông cảm, đồng cảm, lòng trắc ẩn"
+        "meaning": {
+          "vi": "sự thông cảm, đồng cảm, lòng trắc ẩn"
+        },
+        "romaji": "jo"
       },
       {
         "example": "恕する",
         "reading": "ジョスル",
-        "meaning": "tha thứ, ân xá, bỏ qua"
+        "meaning": {
+          "vi": "tha thứ, ân xá, bỏ qua"
+        },
+        "romaji": "josuru"
       },
       {
         "example": "海恕",
         "reading": "カイジョ",
-        "meaning": "rộng lượng, tha thứ, hào phóng"
+        "meaning": {
+          "vi": "rộng lượng, tha thứ, hào phóng"
+        },
+        "romaji": "kaijo"
       },
       {
         "example": "忠恕",
         "reading": "チュウジョ",
-        "meaning": "chân thành và thông cảm"
+        "meaning": {
+          "vi": "chân thành và thông cảm"
+        },
+        "romaji": "chuujo"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06055.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6055.gif",
     "uri": "https://jisho.org/search/%E6%81%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "thứ"
+  ]
 }

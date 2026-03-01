@@ -294,37 +294,58 @@
       {
         "example": "列",
         "reading": "レツ",
-        "meaning": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+        "meaning": {
+          "vi": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+        },
+        "romaji": "retsu"
       },
       {
         "example": "列伝",
         "reading": "レツデン",
-        "meaning": "series of biographies"
+        "meaning": {
+          "vi": "series of biographies"
+        },
+        "romaji": "retsuden"
       },
       {
         "example": "配列",
         "reading": "ハイレツ",
-        "meaning": "arrangement, disposition, array"
+        "meaning": {
+          "vi": "arrangement, disposition, array"
+        },
+        "romaji": "hairetsu"
       },
       {
         "example": "系列",
         "reading": "ケイレツ",
-        "meaning": "series, sequence, system, succession, keiretsu (group), conglomeration of businesses linked by cross-shareholdings, affiliated, subsidiary"
+        "meaning": {
+          "vi": "series, sequence, system, succession, keiretsu (group), conglomeration of businesses linked by cross-shareholdings, affiliated, subsidiary"
+        },
+        "romaji": "keiretsu"
       },
       {
         "example": "列",
         "reading": "レツ",
-        "meaning": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+        "meaning": {
+          "vi": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+        },
+        "romaji": "retsu"
       },
       {
         "example": "列車",
         "reading": "レッシャ",
-        "meaning": "train, railway train"
+        "meaning": {
+          "en": "train, railway train"
+        },
+        "romaji": "ressha"
       },
       {
         "example": "加密列",
         "reading": "カミツレ",
-        "meaning": "German chamomile (Matricaria recutita), German camomile"
+        "meaning": {
+          "en": "German chamomile (Matricaria recutita), German camomile"
+        },
+        "romaji": "kamitsure"
       }
     ],
     "kunyomiExamples": [],
@@ -343,5 +364,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05217.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5217.gif",
     "uri": "https://jisho.org/search/%E5%88%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "liệt"
+  ]
 }

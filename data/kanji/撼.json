@@ -16,7 +16,10 @@
       {
         "example": "震撼",
         "reading": "シンカン",
-        "meaning": "shake, shock"
+        "meaning": {
+          "en": "shake, shock"
+        },
+        "romaji": "shinkan"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64bc.gif",
     "uri": "https://jisho.org/search/%E6%92%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hám"
+  ]
 }

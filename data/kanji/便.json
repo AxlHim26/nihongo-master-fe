@@ -352,54 +352,84 @@
       {
         "example": "便",
         "reading": "ベン",
-        "meaning": "convenience, service, facility, accommodation, excreta (esp. faeces), excrement, stool"
+        "meaning": {
+          "vi": "convenience, service, facility, accommodation, excreta (esp. faeces), excrement, stool"
+        },
+        "romaji": "ben"
       },
       {
         "example": "便宜",
         "reading": "ベンギ",
-        "meaning": "convenience, accommodation, advantage, benefit, expediency"
+        "meaning": {
+          "vi": "convenience, accommodation, advantage, benefit, expediency"
+        },
+        "romaji": "bengi"
       },
       {
         "example": "利便",
         "reading": "リベン",
-        "meaning": "convenience"
+        "meaning": {
+          "en": "convenience"
+        },
+        "romaji": "riben"
       },
       {
         "example": "大便",
         "reading": "ダイベン",
-        "meaning": "feces, faeces, excrement, stool"
+        "meaning": {
+          "en": "feces, faeces, excrement, stool"
+        },
+        "romaji": "daiben"
       },
       {
         "example": "便",
         "reading": "ビン",
-        "meaning": "flight (e.g. airline flight), trip (e.g. train trip), service, mail, post, letter, opportunity, chance"
+        "meaning": {
+          "vi": "flight (e.g. airline flight), trip (e.g. train trip), service, mail, post, letter, opportunity, chance"
+        },
+        "romaji": "bin"
       },
       {
         "example": "便宜",
         "reading": "ベンギ",
-        "meaning": "convenience, accommodation, advantage, benefit, expediency"
+        "meaning": {
+          "vi": "convenience, accommodation, advantage, benefit, expediency"
+        },
+        "romaji": "bengi"
       },
       {
         "example": "穏便",
         "reading": "オンビン",
-        "meaning": "gentle, peaceable, amicable, quiet, without fuss, simply"
+        "meaning": {
+          "vi": "gentle, peaceable, amicable, quiet, without fuss, simply"
+        },
+        "romaji": "onbin"
       },
       {
         "example": "増便",
         "reading": "ゾウビン",
-        "meaning": "increase in the number of flights"
+        "meaning": {
+          "en": "increase in the number of flights"
+        },
+        "romaji": "zoubin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "便り",
         "reading": "たより",
-        "meaning": "news, tidings, information, correspondence, letter"
+        "meaning": {
+          "vi": "news, tidings, information, correspondence, letter"
+        },
+        "romaji": "tayori"
       },
       {
         "example": "便りがないのはよい便り",
         "reading": "たよりがないのはよいたより",
-        "meaning": "no news is good news"
+        "meaning": {
+          "en": "no news is good news"
+        },
+        "romaji": "tayoriganainohayoitayori"
       }
     ],
     "radical": {
@@ -421,5 +451,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fbf.gif",
     "uri": "https://jisho.org/search/%E4%BE%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiện"
+  ]
 }

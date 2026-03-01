@@ -17,12 +17,18 @@
       {
         "example": "掉尾",
         "reading": "チョウビ",
-        "meaning": "nỗ lực cuối, giai đoạn cuối, kết thúc"
+        "meaning": {
+          "vi": "nỗ lực cuối, giai đoạn cuối, kết thúc"
+        },
+        "romaji": "choubi"
       },
       {
         "example": "掉尾",
         "reading": "チョウビ",
-        "meaning": "nỗ lực cuối, giai đoạn cuối, kết thúc"
+        "meaning": {
+          "vi": "nỗ lực cuối, giai đoạn cuối, kết thúc"
+        },
+        "romaji": "choubi"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06389.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6389.gif",
     "uri": "https://jisho.org/search/%E6%8E%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "trạo",
+    "điệu"
+  ]
 }

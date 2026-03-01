@@ -14,7 +14,10 @@
       {
         "example": "錚々",
         "reading": "ソウソウ",
-        "meaning": "eminent, prominent, distinguished, first-rate, leading, ringing (of metal), resonant (of a musical instrument)"
+        "meaning": {
+          "vi": "eminent, prominent, distinguished, first-rate, leading, ringing (of metal), resonant (of a musical instrument)"
+        },
+        "romaji": "sousou"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0931a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/931a.gif",
     "uri": "https://jisho.org/search/%E9%8C%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tranh"
+  ]
 }

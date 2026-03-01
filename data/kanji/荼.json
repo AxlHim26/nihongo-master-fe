@@ -19,17 +19,26 @@
       {
         "example": "荼枳尼",
         "reading": "ダキニ",
-        "meaning": "Dakini (fairy-goddess)"
+        "meaning": {
+          "en": "Dakini (fairy-goddess)"
+        },
+        "romaji": "dakini"
       },
       {
         "example": "荼毘",
         "reading": "ダビ",
-        "meaning": "cremation"
+        "meaning": {
+          "en": "cremation"
+        },
+        "romaji": "dabi"
       },
       {
         "example": "鳩槃荼",
         "reading": "クハンダ",
-        "meaning": "Kumbhanda, demon with large testicles believed to drain people of their vitality"
+        "meaning": {
+          "vi": "Kumbhanda, demon with large testicles believed to drain people of their vitality"
+        },
+        "romaji": "kuhanda"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0837c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/837c.gif",
     "uri": "https://jisho.org/search/%E8%8D%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "gia",
+    "đồ"
+  ]
 }

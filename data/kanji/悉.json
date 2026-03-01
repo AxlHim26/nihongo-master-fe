@@ -21,39 +21,60 @@
       {
         "example": "悉無律",
         "reading": "シツムリツ",
-        "meaning": "all-or-none law"
+        "meaning": {
+          "en": "all-or-none law"
+        },
+        "romaji": "shitsumuritsu"
       },
       {
         "example": "知悉",
         "reading": "チシツ",
-        "meaning": "having a complete knowledge (of), knowing everything (about), knowing thoroughly, being well acquainted (with)"
+        "meaning": {
+          "vi": "having a complete knowledge (of), knowing everything (about), knowing thoroughly, being well acquainted (with)"
+        },
+        "romaji": "chishitsu"
       },
       {
         "example": "不悉",
         "reading": "フシツ",
-        "meaning": "Very Sincerely Yours"
+        "meaning": {
+          "en": "Very Sincerely Yours"
+        },
+        "romaji": "fushitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "事々",
         "reading": "ことごと",
-        "meaning": "everything"
+        "meaning": {
+          "en": "everything"
+        },
+        "romaji": "kotogoto"
       },
       {
         "example": "悉く",
         "reading": "ことごとく",
-        "meaning": "altogether, entirely"
+        "meaning": {
+          "en": "altogether, entirely"
+        },
+        "romaji": "kotogotoku"
       },
       {
         "example": "悉く",
         "reading": "ことごとく",
-        "meaning": "altogether, entirely"
+        "meaning": {
+          "en": "altogether, entirely"
+        },
+        "romaji": "kotogotoku"
       },
       {
         "example": "具に",
         "reading": "つぶさに",
-        "meaning": "in detail, with great care, completely, fully"
+        "meaning": {
+          "vi": "in detail, with great care, completely, fully"
+        },
+        "romaji": "tsubusani"
       }
     ],
     "radical": {
@@ -74,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06089.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6089.gif",
     "uri": "https://jisho.org/search/%E6%82%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tất"
+  ]
 }

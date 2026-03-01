@@ -317,22 +317,34 @@
       {
         "example": "洋",
         "reading": "ヨウ",
-        "meaning": "Occident and Orient (esp. the Occident), ocean, sea, foreign, Western, European"
+        "meaning": {
+          "vi": "Occident and Orient (esp. the Occident), ocean, sea, foreign, Western, European"
+        },
+        "romaji": "you"
       },
       {
         "example": "洋画",
         "reading": "ヨウガ",
-        "meaning": "Western painting, Western film, Western movie"
+        "meaning": {
+          "vi": "Western painting, Western film, Western movie"
+        },
+        "romaji": "youga"
       },
       {
         "example": "南氷洋",
         "reading": "ナンヒョウヨウ",
-        "meaning": "Antarctic Ocean"
+        "meaning": {
+          "en": "Antarctic Ocean"
+        },
+        "romaji": "nanhyouyou"
       },
       {
         "example": "環太平洋",
         "reading": "カンタイヘイヨウ",
-        "meaning": "Pacific Rim"
+        "meaning": {
+          "vi": "Pacific Rim"
+        },
+        "romaji": "kantaiheiyou"
       }
     ],
     "kunyomiExamples": [],
@@ -354,5 +366,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d0b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d0b.gif",
     "uri": "https://jisho.org/search/%E6%B4%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "dương"
+  ]
 }

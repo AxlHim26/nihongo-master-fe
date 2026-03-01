@@ -369,79 +369,124 @@
       {
         "example": "十",
         "reading": "ジュウ",
-        "meaning": "ten, 10, ten years of age, book containing a collection of poems"
+        "meaning": {
+          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+        },
+        "romaji": "juu"
       },
       {
         "example": "十一",
         "reading": "ジュウイチ",
-        "meaning": "eleven, 11, jack"
+        "meaning": {
+          "en": "eleven, 11, jack"
+        },
+        "romaji": "juuichi"
       },
       {
         "example": "９０",
         "reading": "キュウジュウ",
-        "meaning": "ninety, 90"
+        "meaning": {
+          "en": "ninety, 90"
+        },
+        "romaji": "kyuujuu"
       },
       {
         "example": "第十",
         "reading": "ダイジュウ",
-        "meaning": "tenth"
+        "meaning": {
+          "en": "tenth"
+        },
+        "romaji": "daijuu"
       },
       {
         "example": "十種競技",
         "reading": "ジッシュキョウギ",
-        "meaning": "decathlon"
+        "meaning": {
+          "en": "decathlon"
+        },
+        "romaji": "jisshukyougi"
       },
       {
         "example": "十指",
         "reading": "ジッシ",
-        "meaning": "the ten fingers"
+        "meaning": {
+          "en": "the ten fingers"
+        },
+        "romaji": "jisshi"
       },
       {
         "example": "十指",
         "reading": "ジッシ",
-        "meaning": "the ten fingers"
+        "meaning": {
+          "en": "the ten fingers"
+        },
+        "romaji": "jisshi"
       },
       {
         "example": "十回",
         "reading": "ジッカイ",
-        "meaning": "ten times"
+        "meaning": {
+          "en": "ten times"
+        },
+        "romaji": "jikkai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "十",
         "reading": "じゅう",
-        "meaning": "ten, 10, ten years of age, book containing a collection of poems"
+        "meaning": {
+          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+        },
+        "romaji": "juu"
       },
       {
         "example": "１０日",
         "reading": "とおか",
-        "meaning": "10th day of the month, ten days"
+        "meaning": {
+          "en": "10th day of the month, ten days"
+        },
+        "romaji": "tooka"
       },
       {
         "example": "釈迦十",
         "reading": "しゃかじゅう",
-        "meaning": "10 of batons (in mekuri karuta)"
+        "meaning": {
+          "en": "10 of batons (in mekuri karuta)"
+        },
+        "romaji": "shakajuu"
       },
       {
         "example": "十",
         "reading": "じゅう",
-        "meaning": "ten, 10, ten years of age, book containing a collection of poems"
+        "meaning": {
+          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+        },
+        "romaji": "juu"
       },
       {
         "example": "１０日",
         "reading": "とおか",
-        "meaning": "10th day of the month, ten days"
+        "meaning": {
+          "en": "10th day of the month, ten days"
+        },
+        "romaji": "tooka"
       },
       {
         "example": "算盤",
         "reading": "そろばん",
-        "meaning": "abacus, soroban, calculation (esp. of profit and loss), reckoning"
+        "meaning": {
+          "vi": "abacus, soroban, calculation (esp. of profit and loss), reckoning"
+        },
+        "romaji": "soroban"
       },
       {
         "example": "そろばん高い",
         "reading": "そろばんだかい",
-        "meaning": "calculating, miserly"
+        "meaning": {
+          "en": "calculating, miserly"
+        },
+        "romaji": "sorobandakai"
       }
     ],
     "radical": {
@@ -455,5 +500,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05341.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5341.gif",
     "uri": "https://jisho.org/search/%E5%8D%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "thập"
+  ]
 }

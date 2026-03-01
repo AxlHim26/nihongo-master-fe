@@ -24,44 +24,68 @@
       {
         "example": "斉",
         "reading": "セイ",
-        "meaning": "Qi (kingdom in China during the Spring and Autumn Period and the Period of the Warring States), Ch'i"
+        "meaning": {
+          "vi": "Qi (kingdom in China during the Spring and Autumn Period and the Period of the Warring States), Ch'i"
+        },
+        "romaji": "sei"
       },
       {
         "example": "斉唱",
         "reading": "セイショウ",
-        "meaning": "singing in unison, chanting in unison"
+        "meaning": {
+          "en": "singing in unison, chanting in unison"
+        },
+        "romaji": "seishou"
       },
       {
         "example": "一斉",
         "reading": "イッセイ",
-        "meaning": "simultaneous, all at once"
+        "meaning": {
+          "en": "simultaneous, all at once"
+        },
+        "romaji": "issei"
       },
       {
         "example": "整斉",
         "reading": "セイセイ",
-        "meaning": "arranged, organized, orderly, neat"
+        "meaning": {
+          "en": "arranged, organized, orderly, neat"
+        },
+        "romaji": "seisei"
       },
       {
         "example": "斎行",
         "reading": "サイコウ",
-        "meaning": "carrying out (a religious festival or ceremony)"
+        "meaning": {
+          "en": "carrying out (a religious festival or ceremony)"
+        },
+        "romaji": "saikou"
       },
       {
         "example": "斉衡",
         "reading": "サイコウ",
-        "meaning": "Saikō era (854.11.30-857.2.21)"
+        "meaning": {
+          "en": "Saikō era (854.11.30-857.2.21)"
+        },
+        "romaji": "saikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "等しい",
         "reading": "ひとしい",
-        "meaning": "equal, identical, the same, no different (from), just like, equivalent"
+        "meaning": {
+          "en": "equal, identical, the same, no different (from), just like, equivalent"
+        },
+        "romaji": "hitoshii"
       },
       {
         "example": "等しく",
         "reading": "ひとしく",
-        "meaning": "equally, evenly, similarly, alike, just as ..., as soon as ..., the moment (that) ..., immediately upon ..."
+        "meaning": {
+          "vi": "equally, evenly, similarly, alike, just as ..., as soon as ..., the moment (that) ..., immediately upon ..."
+        },
+        "romaji": "hitoshiku"
       }
     ],
     "radical": {
@@ -79,5 +103,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06589.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6589.gif",
     "uri": "https://jisho.org/search/%E6%96%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tề"
+  ]
 }

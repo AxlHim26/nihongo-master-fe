@@ -353,44 +353,68 @@
       {
         "example": "混",
         "reading": "コン",
-        "meaning": "(traffic) congestion, heavy traffic"
+        "meaning": {
+          "en": "(traffic) congestion, heavy traffic"
+        },
+        "romaji": "kon"
       },
       {
         "example": "混血",
         "reading": "コンケツ",
-        "meaning": "mixed race, mixed parentage"
+        "meaning": {
+          "vi": "mixed race, mixed parentage"
+        },
+        "romaji": "konketsu"
       },
       {
         "example": "麻混",
         "reading": "アサコン",
-        "meaning": "hemp blend, linen blend"
+        "meaning": {
+          "vi": "hemp blend, linen blend"
+        },
+        "romaji": "asakon"
       },
       {
         "example": "滾々",
         "reading": "コンコン",
-        "meaning": "(flowing) copiously"
+        "meaning": {
+          "vi": "(flowing) copiously"
+        },
+        "romaji": "konkon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "混じる",
         "reading": "まじる",
-        "meaning": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        "meaning": {
+          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        },
+        "romaji": "majiru"
       },
       {
         "example": "混ざる",
         "reading": "まざる",
-        "meaning": "to be mixed, to be blended with, to associate with, to mingle with, to join"
+        "meaning": {
+          "en": "to be mixed, to be blended with, to associate with, to mingle with, to join"
+        },
+        "romaji": "mazaru"
       },
       {
         "example": "混ぜる",
         "reading": "まぜる",
-        "meaning": "to mix, to stir, to blend"
+        "meaning": {
+          "en": "to mix, to stir, to blend"
+        },
+        "romaji": "mazeru"
       },
       {
         "example": "混む",
         "reading": "こむ",
-        "meaning": "to be crowded, to be packed, to be congested, to be thronged (with)"
+        "meaning": {
+          "vi": "to be crowded, to be packed, to be congested, to be thronged (with)"
+        },
+        "romaji": "komu"
       }
     ],
     "radical": {
@@ -410,5 +434,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06df7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6df7.gif",
     "uri": "https://jisho.org/search/%E6%B7%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "côn",
+    "cổn",
+    "hồn",
+    "hỗn"
+  ]
 }

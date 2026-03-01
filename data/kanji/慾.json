@@ -14,22 +14,34 @@
       {
         "example": "欲",
         "reading": "ヨク",
-        "meaning": "greed, craving, desire, appetite, hunger, avarice, wants"
+        "meaning": {
+          "vi": "greed, craving, desire, appetite, hunger, avarice, wants"
+        },
+        "romaji": "yoku"
       },
       {
         "example": "欲望",
         "reading": "ヨクボウ",
-        "meaning": "desire, appetite, lust"
+        "meaning": {
+          "vi": "desire, appetite, lust"
+        },
+        "romaji": "yokubou"
       },
       {
         "example": "私欲",
         "reading": "シヨク",
-        "meaning": "self-interest, selfish desire"
+        "meaning": {
+          "en": "self-interest, selfish desire"
+        },
+        "romaji": "shiyoku"
       },
       {
         "example": "制欲",
         "reading": "セイヨク",
-        "meaning": "control of passions, control of appetite"
+        "meaning": {
+          "vi": "control of passions, control of appetite"
+        },
+        "romaji": "seiyoku"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0617e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/617e.gif",
     "uri": "https://jisho.org/search/%E6%85%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "dục"
+  ]
 }

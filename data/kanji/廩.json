@@ -16,7 +16,10 @@
       {
         "example": "倉廩",
         "reading": "ソウリン",
-        "meaning": "rice granary"
+        "meaning": {
+          "en": "rice granary"
+        },
+        "romaji": "sourin"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee9.gif",
     "uri": "https://jisho.org/search/%E5%BB%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "lẫm"
+  ]
 }

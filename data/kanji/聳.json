@@ -16,14 +16,20 @@
       {
         "example": "聳立",
         "reading": "ショウリツ",
-        "meaning": "being conspicuously tall"
+        "meaning": {
+          "vi": "being conspicuously tall"
+        },
+        "romaji": "shouritsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聳える",
         "reading": "そびえる",
-        "meaning": "to rise (of a building, mountain, etc.), to tower, to soar"
+        "meaning": {
+          "en": "to rise (of a building, mountain, etc.), to tower, to soar"
+        },
+        "romaji": "sobieru"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08073.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8073.gif",
     "uri": "https://jisho.org/search/%E8%81%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tủng"
+  ]
 }

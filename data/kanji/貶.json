@@ -18,29 +18,44 @@
       {
         "example": "貶下",
         "reading": "ヘンゲ",
-        "meaning": "scorn, disdain, contempt"
+        "meaning": {
+          "vi": "scorn, disdain, contempt"
+        },
+        "romaji": "henge"
       },
       {
         "example": "褒貶",
         "reading": "ホウヘン",
-        "meaning": "praise and censure, criticism"
+        "meaning": {
+          "vi": "praise and censure, criticism"
+        },
+        "romaji": "houhen"
       },
       {
         "example": "毀誉褒貶",
         "reading": "キヨホウヘン",
-        "meaning": "praise and censure, public criticisms"
+        "meaning": {
+          "vi": "praise and censure, public criticisms"
+        },
+        "romaji": "kiyohouhen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貶す",
         "reading": "けなす",
-        "meaning": "to speak ill of, to disparage"
+        "meaning": {
+          "vi": "to speak ill of, to disparage"
+        },
+        "romaji": "kenasu"
       },
       {
         "example": "貶める",
         "reading": "おとしめる",
-        "meaning": "to show contempt for, to look down upon, to have a low opinion of, to cause to fall, to make decline"
+        "meaning": {
+          "vi": "to show contempt for, to look down upon, to have a low opinion of, to cause to fall, to make decline"
+        },
+        "romaji": "otoshimeru"
       }
     ],
     "radical": {
@@ -59,5 +74,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb6.gif",
     "uri": "https://jisho.org/search/%E8%B2%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "biếm"
+  ]
 }

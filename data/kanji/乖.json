@@ -17,12 +17,24 @@
       {
         "example": "乖離",
         "reading": "カイリ",
-        "meaning": "divergence, alienation, deviation, estrangement, separation, detachment"
+        "meaning": {
+          "vi": "divergence, alienation, deviation, estrangement, separation, detachment"
+        },
+        "meaningVN": "sự khác biệt, sự xa lánh, sự lệch lạc, sự ghẻ lạnh, sự tách rời, sự tách rời",
+        "hanViet": "quai li",
+        "hanVietExplain": "乖 (quai: trái ngược) + 離 (li: dời xa, chia lìa, dời khỏi) → sự khác biệt, sự xa lánh, sự lệch lạc, sự ghẻ lạnh, sự tách rời, sự tách rời",
+        "romaji": "kairi"
       },
       {
         "example": "乖離率",
         "reading": "カイリリツ",
-        "meaning": "deviation rate, rate of divergence"
+        "meaning": {
+          "en": "deviation rate, rate of divergence"
+        },
+        "meaningVN": "tỷ lệ sai lệch, tỷ lệ phân kỳ",
+        "hanViet": "quai li luật",
+        "hanVietExplain": "乖 (quai: trái ngược) + 離 (li: dời xa, chia lìa, dời khỏi) + 率 (luật: noi theo) → tỷ lệ sai lệch, tỷ lệ phân kỳ",
+        "romaji": "kairiritsu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +52,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e56.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e56.gif",
     "uri": "https://jisho.org/search/%E4%B9%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "quai"
+  ],
+  "meaningVN": "phản đối, không tuân theo",
+  "hanVietExplain": "quai: trái ngược, láu lỉnh"
 }

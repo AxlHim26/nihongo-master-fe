@@ -19,29 +19,44 @@
       {
         "example": "海浦",
         "reading": "カイホ",
-        "meaning": "seaside"
+        "meaning": {
+          "en": "seaside"
+        },
+        "romaji": "kaiho"
       },
       {
         "example": "曲浦",
         "reading": "キョクホ",
-        "meaning": "winding coast (beach)"
+        "meaning": {
+          "en": "winding coast (beach)"
+        },
+        "romaji": "kyokuho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浦",
         "reading": "うら",
-        "meaning": "inlet, seashore, beach"
+        "meaning": {
+          "en": "inlet, seashore, beach"
+        },
+        "romaji": "ura"
       },
       {
         "example": "浦内笛鯛",
         "reading": "うらうちふえだい",
-        "meaning": "Papuan black snapper (Lutjanus goldiei)"
+        "meaning": {
+          "vi": "Papuan black snapper (Lutjanus goldiei)"
+        },
+        "romaji": "urauchifuedai"
       },
       {
         "example": "津々浦々",
         "reading": "つつうらうら",
-        "meaning": "all over the country, throughout the land, every nook and cranny of the land, far and wide, (in) every port and harbor"
+        "meaning": {
+          "vi": "all over the country, throughout the land, every nook and cranny of the land, far and wide, (in) every port and harbor"
+        },
+        "romaji": "tsutsuuraura"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d66.gif",
     "uri": "https://jisho.org/search/%E6%B5%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "phố",
+    "phổ"
+  ]
 }

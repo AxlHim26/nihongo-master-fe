@@ -17,39 +17,60 @@
       {
         "example": "汀渚",
         "reading": "テイショ",
-        "meaning": "sand bar, waters edge"
+        "meaning": {
+          "en": "sand bar, waters edge"
+        },
+        "romaji": "teisho"
       },
       {
         "example": "汀線",
         "reading": "テイセン",
-        "meaning": "shoreline, beach line"
+        "meaning": {
+          "en": "shoreline, beach line"
+        },
+        "romaji": "teisen"
       },
       {
         "example": "長汀",
         "reading": "チョウテイ",
-        "meaning": "long shore"
+        "meaning": {
+          "en": "long shore"
+        },
+        "romaji": "choutei"
       },
       {
         "example": "池汀",
         "reading": "チテイ",
-        "meaning": "shore of a pond, pond bank"
+        "meaning": {
+          "vi": "shore of a pond, pond bank"
+        },
+        "romaji": "chitei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汀",
         "reading": "みぎわ",
-        "meaning": "water's edge, shore, waterside"
+        "meaning": {
+          "en": "water's edge, shore, waterside"
+        },
+        "romaji": "migiwa"
       },
       {
         "example": "汀線",
         "reading": "ていせん",
-        "meaning": "shoreline, beach line"
+        "meaning": {
+          "en": "shoreline, beach line"
+        },
+        "romaji": "teisen"
       },
       {
         "example": "渚",
         "reading": "なぎさ",
-        "meaning": "water's edge, beach, shore"
+        "meaning": {
+          "en": "water's edge, beach, shore"
+        },
+        "romaji": "nagisa"
       }
     ],
     "radical": {
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c40.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c40.gif",
     "uri": "https://jisho.org/search/%E6%B1%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "đinh"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "嗤笑",
         "reading": "シショウ",
-        "meaning": "sneer"
+        "meaning": {
+          "en": "sneer"
+        },
+        "romaji": "shishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "笑う",
         "reading": "わらう",
-        "meaning": "to laugh, to smile, to sneer, to ridicule, to be dumbfounded, to be flabbergasted"
+        "meaning": {
+          "en": "to laugh, to smile, to sneer, to ridicule, to be dumbfounded, to be flabbergasted"
+        },
+        "romaji": "warau"
       },
       {
         "example": "笑うべき",
         "reading": "わらうべき",
-        "meaning": "laughable, ridiculous, funny, comical"
+        "meaning": {
+          "en": "laughable, ridiculous, funny, comical"
+        },
+        "romaji": "waraubeki"
       }
     ],
     "radical": {
@@ -44,5 +53,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55e4.gif",
     "uri": "https://jisho.org/search/%E5%97%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "si",
+    "xi",
+    "xuy"
+  ]
 }

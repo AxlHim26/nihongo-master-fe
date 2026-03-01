@@ -18,7 +18,10 @@
       {
         "example": "流石",
         "reading": "さすが",
-        "meaning": "as one would expect, just as you'd expect (from), just like (someone), still, all the same, after all, even ... (e.g. \"even a genius\")"
+        "meaning": {
+          "vi": "as one would expect, just as you'd expect (from), just like (someone), still, all the same, after all, even ... (e.g. \"even a genius\")"
+        },
+        "romaji": "sasuga"
       }
     ],
     "radical": {
@@ -41,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09049.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9049.gif",
     "uri": "https://jisho.org/search/%E9%81%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "trinh"
+  ]
 }

@@ -422,74 +422,116 @@
       {
         "example": "食",
         "reading": "ショク",
-        "meaning": "đồ ăn, thực phẩm, ăn uống, sự thèm ăn, bữa ăn"
+        "meaning": {
+          "vi": "đồ ăn, thực phẩm, ăn uống, sự thèm ăn, bữa ăn"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "食",
         "reading": "ショク",
-        "meaning": "nhật thực, nguyệt thực"
+        "meaning": {
+          "vi": "nhật thực, nguyệt thực"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "飽食",
         "reading": "ホウショク",
-        "meaning": "ăn no, no nê, đủ ăn"
+        "meaning": {
+          "vi": "ăn no, no nê, đủ ăn"
+        },
+        "romaji": "houshoku"
       },
       {
         "example": "会食",
         "reading": "カイショク",
-        "meaning": "ăn chung, dùng bữa cùng nhau"
+        "meaning": {
+          "vi": "ăn chung, dùng bữa cùng nhau"
+        },
+        "romaji": "kaishoku"
       },
       {
         "example": "食",
         "reading": "ショク",
-        "meaning": "đồ ăn, thực phẩm, ăn uống, sự thèm ăn, bữa ăn"
+        "meaning": {
+          "vi": "đồ ăn, thực phẩm, ăn uống, sự thèm ăn, bữa ăn"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "食堂",
         "reading": "ジキドウ",
-        "meaning": "phòng ăn (ở chùa)"
+        "meaning": {
+          "vi": "phòng ăn (ở chùa)"
+        },
+        "romaji": "jikidou"
       },
       {
         "example": "断食",
         "reading": "ダンジキ",
-        "meaning": "nhịn ăn, ăn chay"
+        "meaning": {
+          "vi": "nhịn ăn, ăn chay"
+        },
+        "romaji": "danjiki"
       },
       {
         "example": "斎食",
         "reading": "サイジキ",
-        "meaning": "bữa sáng (của sư), đồ cúng (Phật)"
+        "meaning": {
+          "vi": "bữa sáng (của sư), đồ cúng (Phật)"
+        },
+        "romaji": "saijiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "食う",
         "reading": "くう",
-        "meaning": "ăn, sống, kiếm sống, cắn, châm chọc, xâm lấn, tiêu tốn"
+        "meaning": {
+          "vi": "ăn, sống, kiếm sống, cắn, châm chọc, xâm lấn, tiêu tốn"
+        },
+        "romaji": "kuu"
       },
       {
         "example": "食うや食わず",
         "reading": "くうやくわず",
-        "meaning": "sống lay lắt, kiếm ăn qua ngày"
+        "meaning": {
+          "vi": "sống lay lắt, kiếm ăn qua ngày"
+        },
+        "romaji": "kuuyakuwazu"
       },
       {
         "example": "食らう",
         "reading": "くらう",
-        "meaning": "ăn, uống, nhận (đòn), chịu (rủi ro)"
+        "meaning": {
+          "vi": "ăn, uống, nhận (đòn), chịu (rủi ro)"
+        },
+        "romaji": "kurau"
       },
       {
         "example": "食べる",
         "reading": "たべる",
-        "meaning": "ăn, sống bằng (lương...)"
+        "meaning": {
+          "vi": "ăn, sống bằng (lương...)"
+        },
+        "romaji": "taberu"
       },
       {
         "example": "食べるラー油",
         "reading": "たべるラーゆ",
-        "meaning": "dầu ớt trộn tỏi, hành"
+        "meaning": {
+          "vi": "dầu ớt trộn tỏi, hành"
+        },
+        "romaji": "taberuraayu"
       },
       {
         "example": "食む",
         "reading": "はむ",
-        "meaning": "ăn (cỏ, thức ăn gia súc), nhận (bổng lộc)"
+        "meaning": {
+          "vi": "ăn (cỏ, thức ăn gia súc), nhận (bổng lộc)"
+        },
+        "romaji": "hamu"
       }
     ],
     "radical": {
@@ -506,5 +548,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98df.gif",
     "uri": "https://jisho.org/search/%E9%A3%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thực",
+    "tự"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "英知",
         "reading": "エイチ",
-        "meaning": "wisdom, intelligence, sagacity"
+        "meaning": {
+          "en": "wisdom, intelligence, sagacity"
+        },
+        "romaji": "eichi"
       },
       {
         "example": "叡王",
         "reading": "エイオウ",
-        "meaning": "Eiō (one of the eight major professional titles of shogi)"
+        "meaning": {
+          "vi": "Eiō (one of the eight major professional titles of shogi)"
+        },
+        "romaji": "eiou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e1.gif",
     "uri": "https://jisho.org/search/%E5%8F%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "duệ"
+  ]
 }

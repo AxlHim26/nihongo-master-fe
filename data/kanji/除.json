@@ -334,49 +334,76 @@
       {
         "example": "除",
         "reading": "ジョ",
-        "meaning": "division"
+        "meaning": {
+          "en": "division"
+        },
+        "romaji": "jo"
       },
       {
         "example": "除外",
         "reading": "ジョガイ",
-        "meaning": "exception, exclusion"
+        "meaning": {
+          "vi": "exception, exclusion"
+        },
+        "romaji": "jogai"
       },
       {
         "example": "切除",
         "reading": "セツジョ",
-        "meaning": "cut off, cut out, ablation, resection, surgical removal"
+        "meaning": {
+          "en": "cut off, cut out, ablation, resection, surgical removal"
+        },
+        "romaji": "setsujo"
       },
       {
         "example": "防除",
         "reading": "ボウジョ",
-        "meaning": "prevention (of plant disease and insect damage), (pest) control, extermination (of harmful insects), protection (against natural disasters)"
+        "meaning": {
+          "vi": "prevention (of plant disease and insect damage), (pest) control, extermination (of harmful insects), protection (against natural disasters)"
+        },
+        "romaji": "boujo"
       },
       {
         "example": "除",
         "reading": "ジョ",
-        "meaning": "division"
+        "meaning": {
+          "en": "division"
+        },
+        "romaji": "jo"
       },
       {
         "example": "除外",
         "reading": "ジョガイ",
-        "meaning": "exception, exclusion"
+        "meaning": {
+          "vi": "exception, exclusion"
+        },
+        "romaji": "jogai"
       },
       {
         "example": "分解掃除",
         "reading": "ブンカイソウジ",
-        "meaning": "overhaul, taking apart and cleaning"
+        "meaning": {
+          "vi": "overhaul, taking apart and cleaning"
+        },
+        "romaji": "bunkaisouji"
       },
       {
         "example": "掃き掃除",
         "reading": "ハキソウジ",
-        "meaning": "sweeping and cleaning"
+        "meaning": {
+          "vi": "sweeping and cleaning"
+        },
+        "romaji": "hakisouji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "除く",
         "reading": "のぞく",
-        "meaning": "to remove, to get rid of, to take away, to eliminate, to exclude, to except, to leave out, to omit, to kill (a traitor, opponent, etc.)"
+        "meaning": {
+          "vi": "to remove, to get rid of, to take away, to eliminate, to exclude, to except, to leave out, to omit, to kill (a traitor, opponent, etc.)"
+        },
+        "romaji": "nozoku"
       }
     ],
     "radical": {
@@ -396,5 +423,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09664.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9664.gif",
     "uri": "https://jisho.org/search/%E9%99%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "trừ"
+  ]
 }

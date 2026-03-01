@@ -17,24 +17,36 @@
       {
         "example": "鶏卵",
         "reading": "ケイラン",
-        "meaning": "hen's egg"
+        "meaning": {
+          "en": "hen's egg"
+        },
+        "romaji": "keiran"
       },
       {
         "example": "牝鷄",
         "reading": "ヒンケイ",
-        "meaning": "hen"
+        "meaning": {
+          "en": "hen"
+        },
+        "romaji": "hinkei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鶏",
         "reading": "にわとり",
-        "meaning": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        "meaning": {
+          "en": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        },
+        "romaji": "niwatori"
       },
       {
         "example": "鶏",
         "reading": "にわとり",
-        "meaning": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        "meaning": {
+          "en": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        },
+        "romaji": "niwatori"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dc4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dc4.gif",
     "uri": "https://jisho.org/search/%E9%B7%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "kê"
+  ]
 }

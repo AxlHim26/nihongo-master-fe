@@ -18,29 +18,44 @@
       {
         "example": "鍼灸",
         "reading": "シンキュウ",
-        "meaning": "acupuncture and moxibustion"
+        "meaning": {
+          "vi": "acupuncture and moxibustion"
+        },
+        "romaji": "shinkyuu"
       },
       {
         "example": "鍼医",
         "reading": "ハリイ",
-        "meaning": "acupuncturist"
+        "meaning": {
+          "vi": "acupuncturist"
+        },
+        "romaji": "harii"
       },
       {
         "example": "金針",
         "reading": "キンシン",
-        "meaning": "gold needle (esp. an acupuncture needle)"
+        "meaning": {
+          "vi": "gold needle (esp. an acupuncture needle)"
+        },
+        "romaji": "kinshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鍼",
         "reading": "はり",
-        "meaning": "(acupuncture) needle, acupuncture"
+        "meaning": {
+          "vi": "(acupuncture) needle, acupuncture"
+        },
+        "romaji": "hari"
       },
       {
         "example": "鍼医",
         "reading": "はりい",
-        "meaning": "acupuncturist"
+        "meaning": {
+          "vi": "acupuncturist"
+        },
+        "romaji": "harii"
       }
     ],
     "radical": {
@@ -60,5 +75,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0937c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/937c.gif",
     "uri": "https://jisho.org/search/%E9%8D%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "châm",
+    "kiềm",
+    "trâm"
+  ]
 }

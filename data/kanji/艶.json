@@ -23,59 +23,92 @@
       {
         "example": "艶",
         "reading": "エン",
-        "meaning": "charming, fascinating, voluptuous"
+        "meaning": {
+          "vi": "charming, fascinating, voluptuous"
+        },
+        "romaji": "en"
       },
       {
         "example": "演歌",
         "reading": "エンカ",
-        "meaning": "enka, traditional-style Japanese popular ballad, troubadour"
+        "meaning": {
+          "vi": "enka, traditional-style Japanese popular ballad, troubadour"
+        },
+        "romaji": "enka"
       },
       {
         "example": "妖艶",
         "reading": "ヨウエン",
-        "meaning": "fascinating, voluptuous, bewitching, captivating"
+        "meaning": {
+          "vi": "fascinating, voluptuous, bewitching, captivating"
+        },
+        "romaji": "youen"
       },
       {
         "example": "凄艶",
         "reading": "セイエン",
-        "meaning": "weirdly beautiful"
+        "meaning": {
+          "en": "weirdly beautiful"
+        },
+        "romaji": "seien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "艶",
         "reading": "つや",
-        "meaning": "gloss, luster, lustre, shine, sheen, polish, mellowness (of a voice), youthfulness (e.g. of skin), interest, appeal, charm, color, colour, feeling, romance, love, sexiness"
+        "meaning": {
+          "vi": "gloss, luster, lustre, shine, sheen, polish, mellowness (of a voice), youthfulness (e.g. of skin), interest, appeal, charm, color, colour, feeling, romance, love, sexiness"
+        },
+        "romaji": "tsuya"
       },
       {
         "example": "艶々",
         "reading": "つやつや",
-        "meaning": "glossy, bright, slick"
+        "meaning": {
+          "en": "glossy, bright, slick"
+        },
+        "romaji": "tsuyatsuya"
       },
       {
         "example": "艶々",
         "reading": "つやつや",
-        "meaning": "glossy, bright, slick"
+        "meaning": {
+          "en": "glossy, bright, slick"
+        },
+        "romaji": "tsuyatsuya"
       },
       {
         "example": "艶かしい",
         "reading": "なまめかしい",
-        "meaning": "charming, captivating, bewitching, seductive, coquettish"
+        "meaning": {
+          "vi": "charming, captivating, bewitching, seductive, coquettish"
+        },
+        "romaji": "namamekashii"
       },
       {
         "example": "艶やか",
         "reading": "あでやか",
-        "meaning": "glamorous, charming, fascinatingly elegant, lovely, gorgeous, beguiling, bewitching"
+        "meaning": {
+          "en": "glamorous, charming, fascinatingly elegant, lovely, gorgeous, beguiling, bewitching"
+        },
+        "romaji": "adeyaka"
       },
       {
         "example": "艶めく",
         "reading": "つやめく",
-        "meaning": "(for an object) to be shiny, to be glossy, (for a woman) to be alluring, to look sexy"
+        "meaning": {
+          "en": "(for an object) to be shiny, to be glossy, (for a woman) to be alluring, to look sexy"
+        },
+        "romaji": "tsuyameku"
       },
       {
         "example": "艶めく",
         "reading": "なまめく",
-        "meaning": "to brim over with feminine charm, to look captivating (of a woman), to be sexy, to be seductive, to be enticing, to look young and fresh, to be elegant, to look refined, to have a calm and composed appearance"
+        "meaning": {
+          "vi": "to brim over with feminine charm, to look captivating (of a woman), to be sexy, to be seductive, to be enticing, to look young and fresh, to be elegant, to look refined, to have a calm and composed appearance"
+        },
+        "romaji": "namameku"
       }
     ],
     "radical": {
@@ -95,5 +128,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08276.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8276.gif",
     "uri": "https://jisho.org/search/%E8%89%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "diễm"
+  ]
 }

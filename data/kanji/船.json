@@ -343,44 +343,68 @@
       {
         "example": "船",
         "reading": "セン",
-        "meaning": "ship, boat, vessel"
+        "meaning": {
+          "vi": "ship, boat, vessel"
+        },
+        "romaji": "sen"
       },
       {
         "example": "船員",
         "reading": "センイン",
-        "meaning": "sailor, seaman, seafarer"
+        "meaning": {
+          "en": "sailor, seaman, seafarer"
+        },
+        "romaji": "sen'in"
       },
       {
         "example": "造船",
         "reading": "ゾウセン",
-        "meaning": "shipbuilding"
+        "meaning": {
+          "vi": "shipbuilding"
+        },
+        "romaji": "zousen"
       },
       {
         "example": "大船",
         "reading": "オオブネ",
-        "meaning": "large boat"
+        "meaning": {
+          "en": "large boat"
+        },
+        "romaji": "oobune"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "船",
         "reading": "ふね",
-        "meaning": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        "meaning": {
+          "vi": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        },
+        "romaji": "fune"
       },
       {
         "example": "船貝",
         "reading": "ふねがい",
-        "meaning": "Arca avellana (species of ark shell)"
+        "meaning": {
+          "vi": "Arca avellana (species of ark shell)"
+        },
+        "romaji": "funegai"
       },
       {
         "example": "大船",
         "reading": "おおぶね",
-        "meaning": "large boat"
+        "meaning": {
+          "en": "large boat"
+        },
+        "romaji": "oobune"
       },
       {
         "example": "釣り船",
         "reading": "つりぶね",
-        "meaning": "fishing boat, boat-shaped hanging flower vase"
+        "meaning": {
+          "vi": "fishing boat, boat-shaped hanging flower vase"
+        },
+        "romaji": "tsuribune"
       }
     ],
     "radical": {
@@ -396,5 +420,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08239.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8239.gif",
     "uri": "https://jisho.org/search/%E8%88%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuyền"
+  ]
 }

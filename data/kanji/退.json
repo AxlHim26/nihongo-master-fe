@@ -358,54 +358,84 @@
       {
         "example": "退役",
         "reading": "タイエキ",
-        "meaning": "retiring from military service"
+        "meaning": {
+          "en": "retiring from military service"
+        },
+        "romaji": "taieki"
       },
       {
         "example": "退院",
         "reading": "タイイン",
-        "meaning": "leaving hospital, discharge from hospital"
+        "meaning": {
+          "vi": "leaving hospital, discharge from hospital"
+        },
+        "romaji": "taiin"
       },
       {
         "example": "進退",
         "reading": "シンタイ",
-        "meaning": "advance or retreat, moving forwards or backwards, movement, course of action, behaviour, conduct, attitude, remaining in one's post or resigning, staying or leaving"
+        "meaning": {
+          "vi": "advance or retreat, moving forwards or backwards, movement, course of action, behaviour, conduct, attitude, remaining in one's post or resigning, staying or leaving"
+        },
+        "romaji": "shintai"
       },
       {
         "example": "勇退",
         "reading": "ユウタイ",
-        "meaning": "retiring voluntarily, resigning one's post (to make way for others), stepping down, bowing out"
+        "meaning": {
+          "vi": "retiring voluntarily, resigning one's post (to make way for others), stepping down, bowing out"
+        },
+        "romaji": "yuutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "退く",
         "reading": "しりぞく",
-        "meaning": "to step back, to move back, to retreat, to withdraw (from the presence of a superior), to leave, to exit, to resign, to retire, to quit, to concede"
+        "meaning": {
+          "vi": "to step back, to move back, to retreat, to withdraw (from the presence of a superior), to leave, to exit, to resign, to retire, to quit, to concede"
+        },
+        "romaji": "shirizoku"
       },
       {
         "example": "退ける",
         "reading": "しりぞける",
-        "meaning": "to refuse, to reject, to turn down, to dismiss, to repel, to repulse, to drive away, to beat off, to defeat, to make (someone) leave, to send away, to turn away, to force (someone) to leave their post, to oust, to remove, to expel"
+        "meaning": {
+          "vi": "to refuse, to reject, to turn down, to dismiss, to repel, to repulse, to drive away, to beat off, to defeat, to make (someone) leave, to send away, to turn away, to force (someone) to leave their post, to oust, to remove, to expel"
+        },
+        "romaji": "shirizokeru"
       },
       {
         "example": "退く",
         "reading": "ひく",
-        "meaning": "to move back, to draw back, to recede, to fall back, to retreat, to lessen, to subside, to ebb, to go down (e.g. of swelling), to resign, to retire, to quit"
+        "meaning": {
+          "en": "to move back, to draw back, to recede, to fall back, to retreat, to lessen, to subside, to ebb, to go down (e.g. of swelling), to resign, to retire, to quit"
+        },
+        "romaji": "hiku"
       },
       {
         "example": "退く",
         "reading": "どく",
-        "meaning": "to step aside, to move (i.e. out of the way), to make way, to resign, to retire, to quit, to secede"
+        "meaning": {
+          "vi": "to step aside, to move (i.e. out of the way), to make way, to resign, to retire, to quit, to secede"
+        },
+        "romaji": "doku"
       },
       {
         "example": "退ける",
         "reading": "のける",
-        "meaning": "to put something out of the way, to move (something, someone) aside, to remove, to exclude, to take away, to set aside, to keep apart, to remove (someone) from the group, to shun, to do well despite difficulties, to accomplish despite adversity, to do resolutely, to do boldly"
+        "meaning": {
+          "vi": "to put something out of the way, to move (something, someone) aside, to remove, to exclude, to take away, to set aside, to keep apart, to remove (someone) from the group, to shun, to do well despite difficulties, to accomplish despite adversity, to do resolutely, to do boldly"
+        },
+        "romaji": "nokeru"
       },
       {
         "example": "退く",
         "reading": "どく",
-        "meaning": "to step aside, to move (i.e. out of the way), to make way, to resign, to retire, to quit, to secede"
+        "meaning": {
+          "vi": "to step aside, to move (i.e. out of the way), to make way, to resign, to retire, to quit, to secede"
+        },
+        "romaji": "doku"
       }
     ],
     "radical": {
@@ -425,5 +455,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09000.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9000.gif",
     "uri": "https://jisho.org/search/%E9%80%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "thoái",
+    "thối"
+  ]
 }

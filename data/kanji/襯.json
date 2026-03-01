@@ -16,7 +16,10 @@
       {
         "example": "襯衣",
         "reading": "シンイ",
-        "meaning": "underwear, shirt (worn as an undergarment)"
+        "meaning": {
+          "en": "underwear, shirt (worn as an undergarment)"
+        },
+        "romaji": "shin'i"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0896f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/896f.gif",
     "uri": "https://jisho.org/search/%E8%A5%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "sấn"
+  ]
 }

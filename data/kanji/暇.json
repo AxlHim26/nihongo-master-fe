@@ -262,44 +262,68 @@
       {
         "example": "暇人",
         "reading": "ヒマジン",
-        "meaning": "person with a lot of free time on their hands, person of leisure, idler, loafer"
+        "meaning": {
+          "vi": "person with a lot of free time on their hands, person of leisure, idler, loafer"
+        },
+        "romaji": "himajin"
       },
       {
         "example": "寸暇",
         "reading": "スンカ",
-        "meaning": "moment's leisure, free minute"
+        "meaning": {
+          "en": "moment's leisure, free minute"
+        },
+        "romaji": "sunka"
       },
       {
         "example": "請暇",
         "reading": "セイカ",
-        "meaning": "vacation request, request for leave of absence"
+        "meaning": {
+          "en": "vacation request, request for leave of absence"
+        },
+        "romaji": "seika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暇",
         "reading": "ひま",
-        "meaning": "spare time, free time, leisure, time (it takes to do something), time required, time off, leave, vacation, holiday, dismissal, firing, severance, divorce, free, not busy, unoccupied, idle, slow (business), slack, dull, to be free, to be not busy, to be available, to be doing nothing"
+        "meaning": {
+          "vi": "spare time, free time, leisure, time (it takes to do something), time required, time off, leave, vacation, holiday, dismissal, firing, severance, divorce, free, not busy, unoccupied, idle, slow (business), slack, dull, to be free, to be not busy, to be available, to be doing nothing"
+        },
+        "romaji": "hima"
       },
       {
         "example": "暇つぶし",
         "reading": "ひまつぶし",
-        "meaning": "killing time, keeping oneself occupied, time killer, wasting time, waste of time"
+        "meaning": {
+          "vi": "killing time, keeping oneself occupied, time killer, wasting time, waste of time"
+        },
+        "romaji": "himatsubushi"
       },
       {
         "example": "暇暇",
         "reading": "ひまひま",
-        "meaning": "one's leisure hours"
+        "meaning": {
+          "en": "one's leisure hours"
+        },
+        "romaji": "himahima"
       },
       {
         "example": "暇",
         "reading": "いとま",
-        "meaning": "(spare) time, free time, leisure, time off, leave, vacation, holiday, resignation, dismissal, divorce, leaving, taking one's leave, farewell"
+        "meaning": {
+          "vi": "(spare) time, free time, leisure, time off, leave, vacation, holiday, resignation, dismissal, divorce, leaving, taking one's leave, farewell"
+        },
+        "romaji": "itoma"
       },
       {
         "example": "暇乞い",
         "reading": "いとまごい",
-        "meaning": "leave-taking, (saying) goodbye, requesting leave (from work)"
+        "meaning": {
+          "en": "leave-taking, (saying) goodbye, requesting leave (from work)"
+        },
+        "romaji": "itomagoi"
       }
     ],
     "radical": {
@@ -314,5 +338,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06687.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6687.gif",
     "uri": "https://jisho.org/search/%E6%9A%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạ",
+    "xuyết"
+  ]
 }

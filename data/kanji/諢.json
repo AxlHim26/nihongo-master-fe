@@ -14,7 +14,10 @@
       {
         "example": "あだ名",
         "reading": "アダナ",
-        "meaning": "nickname"
+        "meaning": {
+          "en": "nickname"
+        },
+        "romaji": "adana"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae2.gif",
     "uri": "https://jisho.org/search/%E8%AB%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hộn",
+    "ngộn"
+  ]
 }

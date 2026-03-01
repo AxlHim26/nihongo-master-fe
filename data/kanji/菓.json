@@ -249,22 +249,34 @@
       {
         "example": "菓",
         "reading": "カ",
-        "meaning": "fruit, counter for fruit"
+        "meaning": {
+          "en": "fruit, counter for fruit"
+        },
+        "romaji": "ka"
       },
       {
         "example": "菓子",
         "reading": "カシ",
-        "meaning": "confectionery, sweets, candy, cake"
+        "meaning": {
+          "en": "confectionery, sweets, candy, cake"
+        },
+        "romaji": "kashi"
       },
       {
         "example": "製菓",
         "reading": "セイカ",
-        "meaning": "confectionery production"
+        "meaning": {
+          "vi": "confectionery production"
+        },
+        "romaji": "seika"
       },
       {
         "example": "聖菓",
         "reading": "セイカ",
-        "meaning": "Christmas cake"
+        "meaning": {
+          "en": "Christmas cake"
+        },
+        "romaji": "seika"
       }
     ],
     "kunyomiExamples": [],
@@ -284,5 +296,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83d3.gif",
     "uri": "https://jisho.org/search/%E8%8F%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "quả"
+  ]
 }

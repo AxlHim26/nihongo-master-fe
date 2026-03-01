@@ -22,44 +22,68 @@
       {
         "example": "被",
         "reading": "ヒ",
-        "meaning": "indicates the target of an activity, -ee (e.g. employee, examinee, trustee)"
+        "meaning": {
+          "vi": "indicates the target of an activity, -ee (e.g. employee, examinee, trustee)"
+        },
+        "romaji": "hi"
       },
       {
         "example": "被害",
         "reading": "ヒガイ",
-        "meaning": "(suffering) damage, injury, harm"
+        "meaning": {
+          "en": "(suffering) damage, injury, harm"
+        },
+        "romaji": "higai"
       },
       {
         "example": "外被",
         "reading": "ガイヒ",
-        "meaning": "(protective) coat, casing, housing, jacket"
+        "meaning": {
+          "vi": "(protective) coat, casing, housing, jacket"
+        },
+        "romaji": "gaihi"
       },
       {
         "example": "花被",
         "reading": "カヒ",
-        "meaning": "perianth, floral envelope"
+        "meaning": {
+          "vi": "perianth, floral envelope"
+        },
+        "romaji": "kahi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "被る",
         "reading": "こうむる",
-        "meaning": "to suffer, to receive (kindness, rebuke, support), to sustain (damage)"
+        "meaning": {
+          "vi": "to suffer, to receive (kindness, rebuke, support), to sustain (damage)"
+        },
+        "romaji": "koumuru"
       },
       {
         "example": "覆う",
         "reading": "おおう",
-        "meaning": "to cover, to hide, to conceal, to wrap, to disguise"
+        "meaning": {
+          "vi": "to cover, to hide, to conceal, to wrap, to disguise"
+        },
+        "romaji": "oou"
       },
       {
         "example": "被る",
         "reading": "かぶる",
-        "meaning": "to put on (one's head), to wear, to have on, to pull over (one's head), to crown (oneself), to be covered with (dust, snow, etc.), to pour (water, etc.) on oneself, to dash on oneself, to ship water, to bear (e.g. someone's debts, faults, etc.), to take (blame), to assume (responsibility), to shoulder (burden), to overlap (e.g. sound or color), to be similar, to be redundant, to be fogged (due to overexposure, etc.), to close, to come to an end, to get a full house, to sell out, to blunder, to bungle, to fail, to be deceived"
+        "meaning": {
+          "vi": "to put on (one's head), to wear, to have on, to pull over (one's head), to crown (oneself), to be covered with (dust, snow, etc.), to pour (water, etc.) on oneself, to dash on oneself, to ship water, to bear (e.g. someone's debts, faults, etc.), to take (blame), to assume (responsibility), to shoulder (burden), to overlap (e.g. sound or color), to be similar, to be redundant, to be fogged (due to overexposure, etc.), to close, to come to an end, to get a full house, to sell out, to blunder, to bungle, to fail, to be deceived"
+        },
+        "romaji": "kaburu"
       },
       {
         "example": "被せる",
         "reading": "かぶせる",
-        "meaning": "to cover (with something), to put on (e.g. someone's head), to pour liquid (on something), to dash liquid (over something), to plate (something) with metal, to cover (with a dental crown), to add (e.g. music to a video), to include (into something), to speak (over someone else), to put the blame (on someone), to place the responsibility (on someone)"
+        "meaning": {
+          "vi": "to cover (with something), to put on (e.g. someone's head), to pour liquid (on something), to dash liquid (over something), to plate (something) with metal, to cover (with a dental crown), to add (e.g. music to a video), to include (into something), to speak (over someone else), to put the blame (on someone), to place the responsibility (on someone)"
+        },
+        "romaji": "kabuseru"
       }
     ],
     "radical": {
@@ -78,5 +102,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88ab.gif",
     "uri": "https://jisho.org/search/%E8%A2%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "bí",
+    "bị",
+    "phi"
+  ]
 }

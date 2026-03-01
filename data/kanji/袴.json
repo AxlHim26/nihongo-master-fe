@@ -19,44 +19,68 @@
       {
         "example": "袴下",
         "reading": "コシタ",
-        "meaning": "long johns, long underpants, long underwear"
+        "meaning": {
+          "vi": "long johns, long underpants, long underwear"
+        },
+        "romaji": "koshita"
       },
       {
         "example": "長袴",
         "reading": "ナガバカマ",
-        "meaning": "long hakama, trailing hakama"
+        "meaning": {
+          "en": "long hakama, trailing hakama"
+        },
+        "romaji": "nagabakama"
       },
       {
         "example": "着袴",
         "reading": "チャッコ",
-        "meaning": "ceremony of fitting child with a hakama"
+        "meaning": {
+          "en": "ceremony of fitting child with a hakama"
+        },
+        "romaji": "chakko"
       },
       {
         "example": "山袴",
         "reading": "サンパク",
-        "meaning": "work hakama that are loose at the top and tight at the bottom"
+        "meaning": {
+          "vi": "work hakama that are loose at the top and tight at the bottom"
+        },
+        "romaji": "sanpaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "袴",
         "reading": "はかま",
-        "meaning": "hakama, pleated skirt or loose-legged trousers worn over a kimono mainly on ceremonial occasions, (leaf) sheath, (sake bottle) stand"
+        "meaning": {
+          "vi": "hakama, pleated skirt or loose-legged trousers worn over a kimono mainly on ceremonial occasions, (leaf) sheath, (sake bottle) stand"
+        },
+        "romaji": "hakama"
       },
       {
         "example": "袴着",
         "reading": "はかまぎ",
-        "meaning": "ceremony fitting child with a hakama"
+        "meaning": {
+          "en": "ceremony fitting child with a hakama"
+        },
+        "romaji": "hakamagi"
       },
       {
         "example": "紅の袴",
         "reading": "くれないのはかま",
-        "meaning": "red hakama (worn by miko or noblewomen at court)"
+        "meaning": {
+          "en": "red hakama (worn by miko or noblewomen at court)"
+        },
+        "romaji": "kurenainohakama"
       },
       {
         "example": "緋の袴",
         "reading": "ひのはかま",
-        "meaning": "red hakama (worn by miko or noblewomen at court)"
+        "meaning": {
+          "en": "red hakama (worn by miko or noblewomen at court)"
+        },
+        "romaji": "hinohakama"
       }
     ],
     "radical": {
@@ -76,5 +100,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88b4.gif",
     "uri": "https://jisho.org/search/%E8%A2%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "khố"
+  ]
 }

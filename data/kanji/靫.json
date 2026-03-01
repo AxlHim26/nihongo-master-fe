@@ -24,27 +24,40 @@
       {
         "example": "靫",
         "reading": "うつぼ",
-        "meaning": "quiver (cylindrical and worn on the back or hip)"
+        "meaning": {
+          "vi": "quiver (cylindrical and worn on the back or hip)"
+        },
+        "romaji": "utsubo"
       },
       {
         "example": "靫蔓",
         "reading": "うつぼかずら",
-        "meaning": "pitcher plant"
+        "meaning": {
+          "vi": "pitcher plant"
+        },
+        "romaji": "utsubokazura"
       },
       {
         "example": "【ハマウツボ】",
         "reading": "broomrape (Orobanche coerulescens)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "broomrape (Orobanche coerulescens)"
       },
       {
         "example": "靫",
         "reading": "うつぼ",
-        "meaning": "quiver (cylindrical and worn on the back or hip)"
+        "meaning": {
+          "vi": "quiver (cylindrical and worn on the back or hip)"
+        },
+        "romaji": "utsubo"
       },
       {
         "example": "靫",
         "reading": "ゆぎ",
-        "meaning": "quiver (box-shaped and worn on the back)"
+        "meaning": {
+          "vi": "quiver (box-shaped and worn on the back)"
+        },
+        "romaji": "yugi"
       }
     ],
     "radical": {
@@ -60,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0976b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/976b.gif",
     "uri": "https://jisho.org/search/%E9%9D%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "xoa"
+  ]
 }

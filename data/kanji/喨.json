@@ -15,17 +15,26 @@
       {
         "example": "喨々",
         "reading": "リョウリョウ",
-        "meaning": "clear and bright (sound), pellucid"
+        "meaning": {
+          "vi": "clear and bright (sound), pellucid"
+        },
+        "romaji": "ryouryou"
       },
       {
         "example": "嚠喨",
         "reading": "リュウリョウ",
-        "meaning": "clear and resounding (as a voice or musical instrument)"
+        "meaning": {
+          "en": "clear and resounding (as a voice or musical instrument)"
+        },
+        "romaji": "ryuuryou"
       },
       {
         "example": "喨々",
         "reading": "リョウリョウ",
-        "meaning": "clear and bright (sound), pellucid"
+        "meaning": {
+          "vi": "clear and bright (sound), pellucid"
+        },
+        "romaji": "ryouryou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55a8.gif",
     "uri": "https://jisho.org/search/%E5%96%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "lượng"
+  ]
 }

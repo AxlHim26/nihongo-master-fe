@@ -15,7 +15,10 @@
       {
         "example": "面影",
         "reading": "おもかげ",
-        "meaning": "face, looks, countenance, vestige, trace, reminder"
+        "meaning": {
+          "en": "face, looks, countenance, vestige, trace, reminder"
+        },
+        "romaji": "omokage"
       }
     ],
     "radical": {
@@ -36,5 +39,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fe4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fe4.gif",
     "uri": "https://jisho.org/search/%E4%BF%A4%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

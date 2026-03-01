@@ -21,39 +21,60 @@
       {
         "example": "浸透",
         "reading": "シントウ",
-        "meaning": "permeation (of thought, ideology, culture, etc.), infiltration (e.g. of ideas), spread, penetration (e.g. into a market), pervasion, permeation (of a liquid, etc.), soaking, percolation, osmosis"
+        "meaning": {
+          "vi": "permeation (of thought, ideology, culture, etc.), infiltration (e.g. of ideas), spread, penetration (e.g. into a market), pervasion, permeation (of a liquid, etc.), soaking, percolation, osmosis"
+        },
+        "romaji": "shintou"
       },
       {
         "example": "浸水",
         "reading": "シンスイ",
-        "meaning": "inundation, submersion, flood"
+        "meaning": {
+          "en": "inundation, submersion, flood"
+        },
+        "romaji": "shinsui"
       },
       {
         "example": "防浸",
         "reading": "ボウシン",
-        "meaning": "watertight, waterproof"
+        "meaning": {
+          "vi": "watertight, waterproof"
+        },
+        "romaji": "boushin"
       },
       {
         "example": "液浸",
         "reading": "エキシン",
-        "meaning": "immersion, dipping, in microscopy, immersing both the objective lens and the specimen in a liquid to increase the numerical aperture, in photolithography, filling the air gap between the final lens and the wafer surface with a liquid to increase the resolution"
+        "meaning": {
+          "vi": "immersion, dipping, in microscopy, immersing both the objective lens and the specimen in a liquid to increase the numerical aperture, in photolithography, filling the air gap between the final lens and the wafer surface with a liquid to increase the resolution"
+        },
+        "romaji": "ekishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浸す",
         "reading": "ひたす",
-        "meaning": "to soak, to dip, to steep, to immerse, to moisten, to wet"
+        "meaning": {
+          "vi": "to soak, to dip, to steep, to immerse, to moisten, to wet"
+        },
+        "romaji": "hitasu"
       },
       {
         "example": "浸る",
         "reading": "ひたる",
-        "meaning": "to be soaked in, to be flooded, to be submerged, to be immersed in (joy, memories, alcohol, etc.), to give oneself over to, to bask in"
+        "meaning": {
+          "en": "to be soaked in, to be flooded, to be submerged, to be immersed in (joy, memories, alcohol, etc.), to give oneself over to, to bask in"
+        },
+        "romaji": "hitaru"
       },
       {
         "example": "浸かる",
         "reading": "つかる",
-        "meaning": "to be submerged, to be soaked, to be pickled, to be well seasoned, to be totally immersed (in a condition, e.g. laziness)"
+        "meaning": {
+          "vi": "to be submerged, to be soaked, to be pickled, to be well seasoned, to be totally immersed (in a condition, e.g. laziness)"
+        },
+        "romaji": "tsukaru"
       }
     ],
     "radical": {
@@ -74,5 +95,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d78.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d78.gif",
     "uri": "https://jisho.org/search/%E6%B5%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thâm",
+    "tẩm"
+  ]
 }

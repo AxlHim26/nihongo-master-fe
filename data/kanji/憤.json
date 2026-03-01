@@ -19,29 +19,44 @@
       {
         "example": "憤慨",
         "reading": "フンガイ",
-        "meaning": "indignation, resentment"
+        "meaning": {
+          "en": "indignation, resentment"
+        },
+        "romaji": "fungai"
       },
       {
         "example": "憤激",
         "reading": "フンゲキ",
-        "meaning": "fury, flying into a rage, outrage"
+        "meaning": {
+          "en": "fury, flying into a rage, outrage"
+        },
+        "romaji": "fungeki"
       },
       {
         "example": "公憤",
         "reading": "コウフン",
-        "meaning": "public indignation, anger (as a citizen)"
+        "meaning": {
+          "vi": "public indignation, anger (as a citizen)"
+        },
+        "romaji": "koufun"
       },
       {
         "example": "痛憤",
         "reading": "ツウフン",
-        "meaning": "strong indignation"
+        "meaning": {
+          "en": "strong indignation"
+        },
+        "romaji": "tsuufun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憤る",
         "reading": "いきどおる",
-        "meaning": "to be angry, to resent, to be enraged, to be indignant"
+        "meaning": {
+          "en": "to be angry, to resent, to be enraged, to be indignant"
+        },
+        "romaji": "ikidooru"
       }
     ],
     "radical": {
@@ -64,5 +79,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a4.gif",
     "uri": "https://jisho.org/search/%E6%86%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "phấn",
+    "phẫn"
+  ]
 }

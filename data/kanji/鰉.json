@@ -18,17 +18,26 @@
       {
         "example": "鰉",
         "reading": "ひがい",
-        "meaning": "Sarcocheilichthys variegatus (species of minnow)"
+        "meaning": {
+          "vi": "Sarcocheilichthys variegatus (species of minnow)"
+        },
+        "romaji": "higai"
       },
       {
         "example": "脂鰉",
         "reading": "あぶらひがい",
-        "meaning": "Sarcocheilichthys biwaensis (species of cyprinid)"
+        "meaning": {
+          "vi": "Sarcocheilichthys biwaensis (species of cyprinid)"
+        },
+        "romaji": "aburahigai"
       },
       {
         "example": "河鰉",
         "reading": "かわひがい",
-        "meaning": "Sarcocheilichthys variegatus variegatus (subspecies of cyprinid)"
+        "meaning": {
+          "vi": "Sarcocheilichthys variegatus variegatus (subspecies of cyprinid)"
+        },
+        "romaji": "kawahigai"
       }
     ],
     "radical": {
@@ -46,5 +55,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c09.gif",
     "uri": "https://jisho.org/search/%E9%B0%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàng"
+  ]
 }

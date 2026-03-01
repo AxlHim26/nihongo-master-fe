@@ -16,22 +16,34 @@
       {
         "example": "迦具土神",
         "reading": "カグツチノカミ",
-        "meaning": "Kagutsuchi, fire deity who burned to death his mother Izanami during childbirth (and was therefore beheaded by his father Izanagi)"
+        "meaning": {
+          "en": "Kagutsuchi, fire deity who burned to death his mother Izanami during childbirth (and was therefore beheaded by his father Izanagi)"
+        },
+        "romaji": "kagutsuchinokami"
       },
       {
         "example": "迦葉仏",
         "reading": "カショウブツ",
-        "meaning": "Kassapa Buddha, Kasyapa Buddha, Kashyapa Buddha"
+        "meaning": {
+          "vi": "Kassapa Buddha, Kasyapa Buddha, Kashyapa Buddha"
+        },
+        "romaji": "kashoubutsu"
       },
       {
         "example": "釈迦",
         "reading": "シャカ",
-        "meaning": "Gautama Buddha, Shakyamuni, the historical Buddha"
+        "meaning": {
+          "en": "Gautama Buddha, Shakyamuni, the historical Buddha"
+        },
+        "romaji": "shaka"
       },
       {
         "example": "底野迦",
         "reading": "テリアカ",
-        "meaning": "theriac (antidote to poison)"
+        "meaning": {
+          "vi": "theriac (antidote to poison)"
+        },
+        "romaji": "teriaka"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fe6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fe6.gif",
     "uri": "https://jisho.org/search/%E8%BF%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "ca",
+    "già"
+  ]
 }

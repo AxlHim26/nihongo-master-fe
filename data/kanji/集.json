@@ -418,39 +418,60 @@
       {
         "example": "集",
         "reading": "シュウ",
-        "meaning": "collection, compilation"
+        "meaning": {
+          "vi": "collection, compilation"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "集荷",
         "reading": "シュウカ",
-        "meaning": "collection of cargo (esp. produce, etc.), cargo booking"
+        "meaning": {
+          "vi": "collection of cargo (esp. produce, etc.), cargo booking"
+        },
+        "romaji": "shuuka"
       },
       {
         "example": "句集",
         "reading": "クシュウ",
-        "meaning": "collection of haiku poems"
+        "meaning": {
+          "vi": "collection of haiku poems"
+        },
+        "romaji": "kushuu"
       },
       {
         "example": "歌集",
         "reading": "カシュウ",
-        "meaning": "collection of waka poems, anthology, songbook"
+        "meaning": {
+          "vi": "collection of waka poems, anthology, songbook"
+        },
+        "romaji": "kashuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "集まる",
         "reading": "あつまる",
-        "meaning": "to gather, to collect, to assemble"
+        "meaning": {
+          "en": "to gather, to collect, to assemble"
+        },
+        "romaji": "atsumaru"
       },
       {
         "example": "集める",
         "reading": "あつめる",
-        "meaning": "to collect, to assemble, to gather"
+        "meaning": {
+          "en": "to collect, to assemble, to gather"
+        },
+        "romaji": "atsumeru"
       },
       {
         "example": "集う",
         "reading": "つどう",
-        "meaning": "to meet, to assemble, to congregate"
+        "meaning": {
+          "en": "to meet, to assemble, to congregate"
+        },
+        "romaji": "tsudou"
       }
     ],
     "radical": {
@@ -465,5 +486,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c6.gif",
     "uri": "https://jisho.org/search/%E9%9B%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "tập"
+  ]
 }

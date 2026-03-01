@@ -327,44 +327,68 @@
       {
         "example": "軍",
         "reading": "グン",
-        "meaning": "army, armed forces, troops, military authorities, team, group, troupe"
+        "meaning": {
+          "vi": "army, armed forces, troops, military authorities, team, group, troupe"
+        },
+        "romaji": "gun"
       },
       {
         "example": "軍医",
         "reading": "グンイ",
-        "meaning": "military physician or surgeon"
+        "meaning": {
+          "vi": "military physician or surgeon"
+        },
+        "romaji": "gun'i"
       },
       {
         "example": "両軍",
         "reading": "リョウグン",
-        "meaning": "both armies, both teams, both sides"
+        "meaning": {
+          "en": "both armies, both teams, both sides"
+        },
+        "romaji": "ryougun"
       },
       {
         "example": "従軍",
         "reading": "ジュウグン",
-        "meaning": "military service, serving in a war, taking part in a campaign"
+        "meaning": {
+          "vi": "military service, serving in a war, taking part in a campaign"
+        },
+        "romaji": "juugun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戦",
         "reading": "いくさ",
-        "meaning": "war, battle, campaign, fight, troops, forces"
+        "meaning": {
+          "vi": "war, battle, campaign, fight, troops, forces"
+        },
+        "romaji": "ikusa"
       },
       {
         "example": "軍神",
         "reading": "ぐんしん",
-        "meaning": "god of war, war hero (who died in battle)"
+        "meaning": {
+          "en": "god of war, war hero (who died in battle)"
+        },
+        "romaji": "gunshin"
       },
       {
         "example": "海兵遠征軍",
         "reading": "かいへいえんせいいくさ",
-        "meaning": "Marine Expeditionary Force (US)"
+        "meaning": {
+          "vi": "Marine Expeditionary Force (US)"
+        },
+        "romaji": "kaiheienseiikusa"
       },
       {
         "example": "大軍",
         "reading": "おおいくさ",
-        "meaning": "great war, great battle"
+        "meaning": {
+          "en": "great war, great battle"
+        },
+        "romaji": "ooikusa"
       }
     ],
     "radical": {
@@ -379,5 +403,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ecd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ecd.gif",
     "uri": "https://jisho.org/search/%E8%BB%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "quân"
+  ]
 }

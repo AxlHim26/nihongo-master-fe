@@ -244,34 +244,52 @@
       {
         "example": "偶",
         "reading": "グウ",
-        "meaning": "even number, even, spouse, mate"
+        "meaning": {
+          "vi": "even number, even, spouse, mate"
+        },
+        "romaji": "guu"
       },
       {
         "example": "偶然",
         "reading": "グウゼン",
-        "meaning": "coincidence, chance, accident, fortuity, by chance, unexpectedly, accidentally, contingency"
+        "meaning": {
+          "vi": "coincidence, chance, accident, fortuity, by chance, unexpectedly, accidentally, contingency"
+        },
+        "romaji": "guuzen"
       },
       {
         "example": "土偶",
         "reading": "ドグウ",
-        "meaning": "earthen figure, clay figure, dogū, clay figurines from the late Jōmon period"
+        "meaning": {
+          "vi": "earthen figure, clay figure, dogū, clay figurines from the late Jōmon period"
+        },
+        "romaji": "doguu"
       },
       {
         "example": "配偶",
         "reading": "ハイグウ",
-        "meaning": "combination, spouse, husband or wife, partner, married couple, husband and wife"
+        "meaning": {
+          "vi": "combination, spouse, husband or wife, partner, married couple, husband and wife"
+        },
+        "romaji": "haiguu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偶",
         "reading": "たま",
-        "meaning": "occasional, infrequent, rare"
+        "meaning": {
+          "en": "occasional, infrequent, rare"
+        },
+        "romaji": "tama"
       },
       {
         "example": "偶々",
         "reading": "たまたま",
-        "meaning": "by chance, by accident, accidentally, happen to (be, do), unexpectedly, casually, occasionally, once in a while, now and then"
+        "meaning": {
+          "vi": "by chance, by accident, accidentally, happen to (be, do), unexpectedly, casually, occasionally, once in a while, now and then"
+        },
+        "romaji": "tamatama"
       }
     ],
     "radical": {
@@ -292,5 +310,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05076.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5076.gif",
     "uri": "https://jisho.org/search/%E5%81%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngẫu"
+  ]
 }

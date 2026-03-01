@@ -14,7 +14,7 @@
         "japanese": "継続する（けいぞくする）",
         "meaning": {
           "english": "continue",
-        "vietnamese": "tiếp tục"
+          "vietnamese": "tiếp tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "連続する（れんぞくする）",
         "meaning": {
           "english": "occur in succession",
-        "vietnamese": "xảy ra liên tiếp"
+          "vietnamese": "xảy ra liên tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "接続する（せつぞくする）",
         "meaning": {
           "english": "connect",
-        "vietnamese": "kết nối"
+          "vietnamese": "kết nối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "続出する（ぞくしゅつする）",
         "meaning": {
           "english": "appear one after another",
-        "vietnamese": "xuất hiện liên tiếp"
+          "vietnamese": "xuất hiện liên tiếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "続く（つづく）",
         "meaning": {
           "english": "continue [v.i.]",
-        "vietnamese": "tiếp tục (nội động)"
+          "vietnamese": "tiếp tục (nội động)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_e.opus",
@@ -79,7 +79,7 @@
         "japanese": "続ける（つづける）",
         "meaning": {
           "english": "continue [v.t.]",
-        "vietnamese": "tiếp tục (ngoại động)"
+          "vietnamese": "tiếp tục (ngoại động)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_f.opus",
@@ -92,7 +92,7 @@
         "japanese": "手続き（てつづき）",
         "meaning": {
           "english": "formalities, procedure",
-        "vietnamese": "thủ tục"
+          "vietnamese": "thủ tục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuzu(ku)_06_g.opus",
@@ -332,7 +332,7 @@
       },
       "meaning": {
         "english": "thread",
-      "vietnamese": "sợi"
+        "vietnamese": "sợi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -369,44 +369,68 @@
       {
         "example": "続",
         "reading": "ゾク",
-        "meaning": "phần tiếp, loạt thứ hai"
+        "meaning": {
+          "vi": "phần tiếp, loạt thứ hai"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "続出",
         "reading": "ゾクシュツ",
-        "meaning": "xuất hiện liên tiếp"
+        "meaning": {
+          "vi": "xuất hiện liên tiếp"
+        },
+        "romaji": "zokushutsu"
       },
       {
         "example": "断続",
         "reading": "ダンゾク",
-        "meaning": "gián đoạn, xảy ra không liên tục"
+        "meaning": {
+          "vi": "gián đoạn, xảy ra không liên tục"
+        },
+        "romaji": "danzoku"
       },
       {
         "example": "持続",
         "reading": "ジゾク",
-        "meaning": "tiếp tục, kéo dài, bền vững"
+        "meaning": {
+          "vi": "tiếp tục, kéo dài, bền vững"
+        },
+        "romaji": "jizoku"
       },
       {
         "example": "続",
         "reading": "ゾク",
-        "meaning": "phần tiếp, loạt thứ hai"
+        "meaning": {
+          "vi": "phần tiếp, loạt thứ hai"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "続日本紀",
         "reading": "ショクニホンギ",
-        "meaning": "Shoku Nihongi (sử Nhật cổ điển)"
+        "meaning": {
+          "vi": "Shoku Nihongi (sử Nhật cổ điển)"
+        },
+        "romaji": "shokunihongi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "続く",
         "reading": "つづく",
-        "meaning": "tiếp tục, kéo dài, nối tiếp, theo sau, giữ"
+        "meaning": {
+          "vi": "tiếp tục, kéo dài, nối tiếp, theo sau, giữ"
+        },
+        "romaji": "tsuzuku"
       },
       {
         "example": "続ける",
         "reading": "つづける",
-        "meaning": "tiếp tục, duy trì"
+        "meaning": {
+          "vi": "tiếp tục, duy trì"
+        },
+        "romaji": "tsuzukeru"
       }
     ],
     "radical": {
@@ -428,5 +452,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d9a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d9a.gif",
     "uri": "https://jisho.org/search/%E7%B6%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tục"
+  ]
 }

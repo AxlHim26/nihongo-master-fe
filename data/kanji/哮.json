@@ -18,7 +18,10 @@
       {
         "example": "哮る",
         "reading": "たける",
-        "meaning": "to roar, to howl"
+        "meaning": {
+          "en": "to roar, to howl"
+        },
+        "romaji": "takeru"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54ee.gif",
     "uri": "https://jisho.org/search/%E5%93%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hao"
+  ]
 }

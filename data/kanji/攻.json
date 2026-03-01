@@ -242,29 +242,44 @@
       {
         "example": "攻守",
         "reading": "コウシュ",
-        "meaning": "offense and defense, offence and defence, batting and fielding"
+        "meaning": {
+          "en": "offense and defense, offence and defence, batting and fielding"
+        },
+        "romaji": "koushu"
       },
       {
         "example": "攻撃",
         "reading": "コウゲキ",
-        "meaning": "attack, assault, raid, onslaught, offensive, criticism, censure, denunciation, condemnation"
+        "meaning": {
+          "en": "attack, assault, raid, onslaught, offensive, criticism, censure, denunciation, condemnation"
+        },
+        "romaji": "kougeki"
       },
       {
         "example": "速攻",
         "reading": "ソッコウ",
-        "meaning": "swift attack, quick attack, fast break, right away, without delay, immediately"
+        "meaning": {
+          "en": "swift attack, quick attack, fast break, right away, without delay, immediately"
+        },
+        "romaji": "sokkou"
       },
       {
         "example": "猛攻",
         "reading": "モウコウ",
-        "meaning": "fierce attack"
+        "meaning": {
+          "en": "fierce attack"
+        },
+        "romaji": "moukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "攻める",
         "reading": "せめる",
-        "meaning": "to attack, to assault, to assail"
+        "meaning": {
+          "en": "to attack, to assault, to assail"
+        },
+        "romaji": "semeru"
       }
     ],
     "radical": {
@@ -283,5 +298,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0653b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/653b.gif",
     "uri": "https://jisho.org/search/%E6%94%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "công"
+  ]
 }

@@ -14,7 +14,10 @@
       {
         "example": "芍薬",
         "reading": "シャクヤク",
-        "meaning": "Chinese peony (Paeonia lactiflora)"
+        "meaning": {
+          "vi": "Chinese peony (Paeonia lactiflora)"
+        },
+        "romaji": "shakuyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0828d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/828d.gif",
     "uri": "https://jisho.org/search/%E8%8A%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thược"
+  ]
 }

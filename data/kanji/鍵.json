@@ -18,44 +18,68 @@
       {
         "example": "鍵",
         "reading": "ケン",
-        "meaning": "key (on a piano, organ, etc.)"
+        "meaning": {
+          "vi": "key (on a piano, organ, etc.)"
+        },
+        "romaji": "ken"
       },
       {
         "example": "鍵盤",
         "reading": "ケンバン",
-        "meaning": "keyboard (of a piano, typewriter, etc.)"
+        "meaning": {
+          "vi": "keyboard (of a piano, typewriter, etc.)"
+        },
+        "romaji": "kenban"
       },
       {
         "example": "打鍵",
         "reading": "ダケン",
-        "meaning": "keystroke"
+        "meaning": {
+          "en": "keystroke"
+        },
+        "romaji": "daken"
       },
       {
         "example": "黒鍵",
         "reading": "コッケン",
-        "meaning": "black key (on a piano, organ, etc.)"
+        "meaning": {
+          "vi": "black key (on a piano, organ, etc.)"
+        },
+        "romaji": "kokken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鍵",
         "reading": "かぎ",
-        "meaning": "key, lock, key (to a problem, success, etc.), clue"
+        "meaning": {
+          "vi": "key, lock, key (to a problem, success, etc.), clue"
+        },
+        "romaji": "kagi"
       },
       {
         "example": "鍵垢",
         "reading": "かぎアカ",
-        "meaning": "private account (on social media, esp. Twitter), account that can only be viewed by approved followers"
+        "meaning": {
+          "vi": "private account (on social media, esp. Twitter), account that can only be viewed by approved followers"
+        },
+        "romaji": "kagiaka"
       },
       {
         "example": "公開鍵",
         "reading": "こうかいかぎ",
-        "meaning": "public key"
+        "meaning": {
+          "vi": "public key"
+        },
+        "romaji": "koukaikagi"
       },
       {
         "example": "暗号鍵",
         "reading": "あんごうかぎ",
-        "meaning": "cryptographic key, encryption key"
+        "meaning": {
+          "vi": "cryptographic key, encryption key"
+        },
+        "romaji": "angoukagi"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09375.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9375.gif",
     "uri": "https://jisho.org/search/%E9%8D%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiện"
+  ]
 }

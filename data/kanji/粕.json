@@ -17,29 +17,44 @@
       {
         "example": "糟粕",
         "reading": "ソウハク",
-        "meaning": "sake lees"
+        "meaning": {
+          "en": "sake lees"
+        },
+        "romaji": "souhaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滓",
         "reading": "かす",
-        "meaning": "dregs, sediment, grounds, meal, lees (esp. sake), leftovers, by-product, worthless item, junk, dregs (e.g. of society), scum, dross, 1-point card"
+        "meaning": {
+          "vi": "dregs, sediment, grounds, meal, lees (esp. sake), leftovers, by-product, worthless item, junk, dregs (e.g. of society), scum, dross, 1-point card"
+        },
+        "romaji": "kasu"
       },
       {
         "example": "糟汁",
         "reading": "かすじる",
-        "meaning": "soup made with sake lees"
+        "meaning": {
+          "vi": "soup made with sake lees"
+        },
+        "romaji": "kasujiru"
       },
       {
         "example": "魚粕",
         "reading": "ぎょかす",
-        "meaning": "fish meal"
+        "meaning": {
+          "en": "fish meal"
+        },
+        "romaji": "gyokasu"
       },
       {
         "example": "酒かす",
         "reading": "さけかす",
-        "meaning": "sake lees"
+        "meaning": {
+          "en": "sake lees"
+        },
+        "romaji": "sakekasu"
       }
     ],
     "radical": {
@@ -54,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c95.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c95.gif",
     "uri": "https://jisho.org/search/%E7%B2%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "phách"
+  ]
 }

@@ -17,17 +17,26 @@
       {
         "example": "析出",
         "reading": "セキシュツ",
-        "meaning": "separation, deposition, precipitation"
+        "meaning": {
+          "vi": "separation, deposition, precipitation"
+        },
+        "romaji": "sekishutsu"
       },
       {
         "example": "透析",
         "reading": "トウセキ",
-        "meaning": "dialysis"
+        "meaning": {
+          "en": "dialysis"
+        },
+        "romaji": "touseki"
       },
       {
         "example": "人工透析",
         "reading": "ジンコウトウセキ",
-        "meaning": "(artificial) dialysis"
+        "meaning": {
+          "en": "(artificial) dialysis"
+        },
+        "romaji": "jinkoutouseki"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06790.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6790.gif",
     "uri": "https://jisho.org/search/%E6%9E%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích"
+  ]
 }

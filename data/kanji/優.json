@@ -385,69 +385,108 @@
       {
         "example": "優",
         "reading": "ユウ",
-        "meaning": "Excellent (grade), A, superiority, excellence, gentle, graceful, elegant, skillful"
+        "meaning": {
+          "vi": "Excellent (grade), A, superiority, excellence, gentle, graceful, elegant, skillful"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "優位",
         "reading": "ユウイ",
-        "meaning": "predominance, superiority, ascendancy, advantage, supremacy"
+        "meaning": {
+          "vi": "predominance, superiority, ascendancy, advantage, supremacy"
+        },
+        "romaji": "yuui"
       },
       {
         "example": "声優",
         "reading": "セイユウ",
-        "meaning": "voice actor or actress (radio, animation, etc.)"
+        "meaning": {
+          "en": "voice actor or actress (radio, animation, etc.)"
+        },
+        "romaji": "seiyuu"
       },
       {
         "example": "怪優",
         "reading": "カイユウ",
-        "meaning": "actor or performer with fascinating acting and appearance"
+        "meaning": {
+          "vi": "actor or performer with fascinating acting and appearance"
+        },
+        "romaji": "kaiyuu"
       },
       {
         "example": "優曇華",
         "reading": "ウドンゲ",
-        "meaning": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata), something very rare (from the legend that the udumbara flowers once in 3000 years), Japanese fiber banana flower, green lacewing eggs"
+        "meaning": {
+          "vi": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata), something very rare (from the legend that the udumbara flowers once in 3000 years), Japanese fiber banana flower, green lacewing eggs"
+        },
+        "romaji": "udonge"
       },
       {
         "example": "優婆夷",
         "reading": "ウバイ",
-        "meaning": "upasika (devout female lay follower of Buddhism)"
+        "meaning": {
+          "vi": "upasika (devout female lay follower of Buddhism)"
+        },
+        "romaji": "ubai"
       },
       {
         "example": "声優",
         "reading": "セイユウ",
-        "meaning": "voice actor or actress (radio, animation, etc.)"
+        "meaning": {
+          "en": "voice actor or actress (radio, animation, etc.)"
+        },
+        "romaji": "seiyuu"
       },
       {
         "example": "怪優",
         "reading": "カイユウ",
-        "meaning": "actor or performer with fascinating acting and appearance"
+        "meaning": {
+          "vi": "actor or performer with fascinating acting and appearance"
+        },
+        "romaji": "kaiyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "優しい",
         "reading": "やさしい",
-        "meaning": "tender, kind, gentle, graceful, affectionate, amiable"
+        "meaning": {
+          "en": "tender, kind, gentle, graceful, affectionate, amiable"
+        },
+        "romaji": "yasashii"
       },
       {
         "example": "優しい声",
         "reading": "やさしいこえ",
-        "meaning": "soft voice"
+        "meaning": {
+          "en": "soft voice"
+        },
+        "romaji": "yasashiikoe"
       },
       {
         "example": "優れる",
         "reading": "すぐれる",
-        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        "meaning": {
+          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        },
+        "romaji": "sugureru"
       },
       {
         "example": "勝る",
         "reading": "まさる",
-        "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+        "meaning": {
+          "vi": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+        },
+        "romaji": "masaru"
       },
       {
         "example": "優るとも劣らない",
         "reading": "まさるともおとらない",
-        "meaning": "not at all inferior to, rival or surpass, compare favorably (with)"
+        "meaning": {
+          "vi": "not at all inferior to, rival or surpass, compare favorably (with)"
+        },
+        "romaji": "masarutomootoranai"
       }
     ],
     "radical": {
@@ -470,5 +509,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0512a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/512a.gif",
     "uri": "https://jisho.org/search/%E5%84%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "ưu"
+  ]
 }

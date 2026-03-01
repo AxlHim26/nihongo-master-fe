@@ -16,19 +16,28 @@
       {
         "example": "饂飩",
         "reading": "ウドン",
-        "meaning": "udon, thick Japanese wheat noodles"
+        "meaning": {
+          "vi": "udon, thick Japanese wheat noodles"
+        },
+        "romaji": "udon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "饂飩",
         "reading": "うどん",
-        "meaning": "udon, thick Japanese wheat noodles"
+        "meaning": {
+          "vi": "udon, thick Japanese wheat noodles"
+        },
+        "romaji": "udon"
       },
       {
         "example": "うどん粉",
         "reading": "うどんこ",
-        "meaning": "udon flour (wheat flour)"
+        "meaning": {
+          "en": "udon flour (wheat flour)"
+        },
+        "romaji": "udonko"
       }
     ],
     "radical": {
@@ -47,5 +56,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09942.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9942.gif",
     "uri": "https://jisho.org/search/%E9%A5%82%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

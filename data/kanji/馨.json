@@ -20,34 +20,52 @@
       {
         "example": "馨香",
         "reading": "ケイコウ",
-        "meaning": "fragrance, perfume, aroma, honor, honour, fame"
+        "meaning": {
+          "vi": "fragrance, perfume, aroma, honor, honour, fame"
+        },
+        "romaji": "keikou"
       },
       {
         "example": "素馨",
         "reading": "ソケイ",
-        "meaning": "Spanish jasmine (Jasminum grandiflorum)"
+        "meaning": {
+          "vi": "Spanish jasmine (Jasminum grandiflorum)"
+        },
+        "romaji": "sokei"
       },
       {
         "example": "黄素馨",
         "reading": "キソケイ",
-        "meaning": "Italian jasmine (Jasminum humile var. revolutum), yellow jasmine"
+        "meaning": {
+          "en": "Italian jasmine (Jasminum humile var. revolutum), yellow jasmine"
+        },
+        "romaji": "kisokei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "香る",
         "reading": "かおる",
-        "meaning": "to smell sweet, to be fragrant"
+        "meaning": {
+          "en": "to smell sweet, to be fragrant"
+        },
+        "romaji": "kaoru"
       },
       {
         "example": "香り",
         "reading": "かおり",
-        "meaning": "aroma, fragrance, scent, smell"
+        "meaning": {
+          "en": "aroma, fragrance, scent, smell"
+        },
+        "romaji": "kaori"
       },
       {
         "example": "香り立つ",
         "reading": "かおりたつ",
-        "meaning": "to be fragrant, to have a pleasant aroma"
+        "meaning": {
+          "vi": "to be fragrant, to have a pleasant aroma"
+        },
+        "romaji": "kaoritatsu"
       }
     ],
     "radical": {
@@ -68,5 +86,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a8.gif",
     "uri": "https://jisho.org/search/%E9%A6%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hinh",
+    "hấn"
+  ]
 }

@@ -16,12 +16,24 @@
       {
         "example": "亢",
         "reading": "コウ",
-        "meaning": "Chinese \"Neck\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Neck\" constellation (one of the 28 mansions)"
+        },
+        "meaningVN": "chòm sao \"cổ\" trung quốc (một trong 28 dinh thự)",
+        "hanViet": "cang",
+        "hanVietExplain": "cang: sao Cang (một trong Nhị thập bát tú), cao, kiêu ngạo",
+        "romaji": "kou"
       },
       {
         "example": "興奮",
         "reading": "コウフン",
-        "meaning": "excitement, stimulation, agitation, arousal"
+        "meaning": {
+          "en": "excitement, stimulation, agitation, arousal"
+        },
+        "meaningVN": "sự phấn khích, sự kích động, sự kích động, sự kích động",
+        "hanViet": "hưng phấn",
+        "hanVietExplain": "興 (hưng: thức dậy) + 奮 (phấn: chim dang cánh bay) → sự phấn khích, sự kích động, sự kích động, sự kích động",
+        "romaji": "koufun"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +49,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ea2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ea2.gif",
     "uri": "https://jisho.org/search/%E4%BA%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cang",
+    "cương",
+    "hàng",
+    "kháng"
+  ],
+  "meaningVN": "tinh thần phấn chấn",
+  "hanVietExplain": "cang: sao Cang (một trong Nhị thập bát tú), cao, kiêu ngạo"
 }

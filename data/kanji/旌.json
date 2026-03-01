@@ -18,14 +18,20 @@
       {
         "example": "旌",
         "reading": "セイ",
-        "meaning": "flag (esp. originally a flagpole-topping streamer made of feathers)"
+        "meaning": {
+          "vi": "flag (esp. originally a flagpole-topping streamer made of feathers)"
+        },
+        "romaji": "sei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旗",
         "reading": "はた",
-        "meaning": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+        "meaning": {
+          "vi": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+        },
+        "romaji": "hata"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65cc.gif",
     "uri": "https://jisho.org/search/%E6%97%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tinh"
+  ]
 }

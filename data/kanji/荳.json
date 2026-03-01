@@ -18,12 +18,18 @@
       {
         "example": "豆",
         "reading": "まめ",
-        "meaning": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+        "meaning": {
+          "vi": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+        },
+        "romaji": "mame"
       },
       {
         "example": "肉刺",
         "reading": "まめ",
-        "meaning": "blister, corn"
+        "meaning": {
+          "en": "blister, corn"
+        },
+        "romaji": "mame"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08373.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8373.gif",
     "uri": "https://jisho.org/search/%E8%8D%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "đậu"
+  ]
 }

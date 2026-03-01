@@ -20,34 +20,52 @@
       {
         "example": "技",
         "reading": "ワザ",
-        "meaning": "technique, art, skill, move"
+        "meaning": {
+          "en": "technique, art, skill, move"
+        },
+        "romaji": "waza"
       },
       {
         "example": "技能",
         "reading": "ギノウ",
-        "meaning": "technical skill, ability, capacity"
+        "meaning": {
+          "vi": "technical skill, ability, capacity"
+        },
+        "romaji": "ginou"
       },
       {
         "example": "雑技",
         "reading": "ザツギ",
-        "meaning": "performing arts, acrobatics"
+        "meaning": {
+          "vi": "performing arts, acrobatics"
+        },
+        "romaji": "zatsugi"
       },
       {
         "example": "地歌舞伎",
         "reading": "ジカブキ",
-        "meaning": "amateur kabuki performed at local festivals"
+        "meaning": {
+          "vi": "amateur kabuki performed at local festivals"
+        },
+        "romaji": "jikabuki"
       },
       {
         "example": "上方歌舞伎",
         "reading": "カミガタカブキ",
-        "meaning": "kabuki in the Kyoto-Osaka style"
+        "meaning": {
+          "en": "kabuki in the Kyoto-Osaka style"
+        },
+        "romaji": "kamigatakabuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "技",
         "reading": "わざ",
-        "meaning": "technique, art, skill, move"
+        "meaning": {
+          "en": "technique, art, skill, move"
+        },
+        "romaji": "waza"
       }
     ],
     "radical": {
@@ -67,5 +85,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0e.gif",
     "uri": "https://jisho.org/search/%E4%BC%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "ky",
+    "kĩ",
+    "kỹ"
+  ]
 }

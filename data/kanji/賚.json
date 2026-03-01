@@ -18,7 +18,10 @@
       {
         "example": "賜物",
         "reading": "たまもの",
-        "meaning": "gift, boon, godsend, (good) result, fruit (e.g. of one's efforts)"
+        "meaning": {
+          "en": "gift, boon, godsend, (good) result, fruit (e.g. of one's efforts)"
+        },
+        "romaji": "tamamono"
       }
     ],
     "radical": {
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cda.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cda.gif",
     "uri": "https://jisho.org/search/%E8%B3%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "lãi",
+    "lại"
+  ]
 }

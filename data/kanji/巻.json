@@ -311,84 +311,132 @@
       {
         "example": "巻",
         "reading": "カン",
-        "meaning": "volume (of book), reel (of film), scroll (of books or paintings), roll (paper, etc.)"
+        "meaning": {
+          "vi": "volume (of book), reel (of film), scroll (of books or paintings), roll (paper, etc.)"
+        },
+        "romaji": "kan"
       },
       {
         "example": "巻末",
         "reading": "カンマツ",
-        "meaning": "end of a book"
+        "meaning": {
+          "en": "end of a book"
+        },
+        "romaji": "kanmatsu"
       },
       {
         "example": "圧巻",
         "reading": "アッカン",
-        "meaning": "highlight, best part, stunning, incredible, spectacular, breathtaking, to stun, to amaze, to impress, to overwhelm (with emotion)"
+        "meaning": {
+          "vi": "highlight, best part, stunning, incredible, spectacular, breathtaking, to stun, to amaze, to impress, to overwhelm (with emotion)"
+        },
+        "romaji": "akkan"
       },
       {
         "example": "通巻",
         "reading": "ツウカン",
-        "meaning": "consecutive number of volumes, total number of volumes"
+        "meaning": {
+          "en": "consecutive number of volumes, total number of volumes"
+        },
+        "romaji": "tsuukan"
       },
       {
         "example": "巻雲",
         "reading": "ケンウン",
-        "meaning": "cirrus (cloud)"
+        "meaning": {
+          "en": "cirrus (cloud)"
+        },
+        "romaji": "ken'un"
       },
       {
         "example": "巻纓",
         "reading": "ケンエイ",
-        "meaning": "rolled tail (of a traditional Japanese hat), looped tail"
+        "meaning": {
+          "vi": "rolled tail (of a traditional Japanese hat), looped tail"
+        },
+        "romaji": "ken'ei"
       },
       {
         "example": "席巻",
         "reading": "セッケン",
-        "meaning": "sweeping (over, across), conquering, overwhelming"
+        "meaning": {
+          "vi": "sweeping (over, across), conquering, overwhelming"
+        },
+        "romaji": "sekken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巻く",
         "reading": "まく",
-        "meaning": "to wind, to coil, to roll, to wear (e.g. turban, scarf), to envelope, to shroud, to outflank, to skirt, to link (verse), to move ahead (three hours, etc.), to move up"
+        "meaning": {
+          "vi": "to wind, to coil, to roll, to wear (e.g. turban, scarf), to envelope, to shroud, to outflank, to skirt, to link (verse), to move ahead (three hours, etc.), to move up"
+        },
+        "romaji": "maku"
       },
       {
         "example": "巻",
         "reading": "まき",
-        "meaning": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal)"
+        "meaning": {
+          "vi": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal)"
+        },
+        "romaji": "maki"
       },
       {
         "example": "巻き返し",
         "reading": "まきかえし",
-        "meaning": "rally, recovery, comeback, rollback, winding (thread, etc.)"
+        "meaning": {
+          "en": "rally, recovery, comeback, rollback, winding (thread, etc.)"
+        },
+        "romaji": "makikaeshi"
       },
       {
         "example": "絵巻",
         "reading": "えまき",
-        "meaning": "picture scroll"
+        "meaning": {
+          "vi": "picture scroll"
+        },
+        "romaji": "emaki"
       },
       {
         "example": "鉢巻",
         "reading": "はちまき",
-        "meaning": "headband"
+        "meaning": {
+          "en": "headband"
+        },
+        "romaji": "hachimaki"
       },
       {
         "example": "巻",
         "reading": "まき",
-        "meaning": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal)"
+        "meaning": {
+          "vi": "roll (e.g. of cloth), winding (e.g. watch), volume (of book), speeding up, heel (of a Japanese sandal)"
+        },
+        "romaji": "maki"
       },
       {
         "example": "巻き返し",
         "reading": "まきかえし",
-        "meaning": "rally, recovery, comeback, rollback, winding (thread, etc.)"
+        "meaning": {
+          "en": "rally, recovery, comeback, rollback, winding (thread, etc.)"
+        },
+        "romaji": "makikaeshi"
       },
       {
         "example": "絵巻",
         "reading": "えまき",
-        "meaning": "picture scroll"
+        "meaning": {
+          "vi": "picture scroll"
+        },
+        "romaji": "emaki"
       },
       {
         "example": "鉢巻",
         "reading": "はちまき",
-        "meaning": "headband"
+        "meaning": {
+          "en": "headband"
+        },
+        "romaji": "hachimaki"
       }
     ],
     "radical": {
@@ -410,5 +458,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dfb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dfb.gif",
     "uri": "https://jisho.org/search/%E5%B7%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyển"
+  ]
 }

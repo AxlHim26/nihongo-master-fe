@@ -363,54 +363,82 @@
       {
         "example": "長",
         "reading": "チョウ",
-        "meaning": "head, chief, leader, elder, merit, strong point, superiority, major"
+        "meaning": {
+          "vi": "head, chief, leader, elder, merit, strong point, superiority, major"
+        },
+        "romaji": "chou"
       },
       {
         "example": "長官",
         "reading": "チョウカン",
-        "meaning": "secretary (government), director, chief"
+        "meaning": {
+          "en": "secretary (government), director, chief"
+        },
+        "romaji": "choukan"
       },
       {
         "example": "体長",
         "reading": "タイチョウ",
-        "meaning": "length (of an animal), body length"
+        "meaning": {
+          "en": "length (of an animal), body length"
+        },
+        "romaji": "taichou"
       },
       {
         "example": "医長",
         "reading": "イチョウ",
-        "meaning": "medical director, chief physician"
+        "meaning": {
+          "vi": "medical director, chief physician"
+        },
+        "romaji": "ichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "長い",
         "reading": "ながい",
-        "meaning": "long (distance, length), long (time), protracted, prolonged"
+        "meaning": {
+          "vi": "long (distance, length), long (time), protracted, prolonged"
+        },
+        "romaji": "nagai"
       },
       {
         "example": "長居",
         "reading": "ながい",
-        "meaning": "long visit, overstaying"
+        "meaning": {
+          "en": "long visit, overstaying"
+        },
+        "romaji": "nagai"
       },
       {
         "example": "長",
         "reading": "おさ",
-        "meaning": "head, chief, leader, the greatest (of all the ...)"
+        "meaning": {
+          "en": "head, chief, leader, the greatest (of all the ...)"
+        },
+        "romaji": "osa"
       },
       {
         "example": "【オサガメ】",
         "reading": "leatherback turtle (Dermochelys coriacea)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "leatherback turtle (Dermochelys coriacea)"
       },
       {
         "example": "田長",
         "reading": "たおさ",
-        "meaning": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)"
+        "meaning": {
+          "vi": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)"
+        },
+        "romaji": "taosa"
       },
       {
         "example": "死出田長",
         "reading": "しでたおさ",
-        "meaning": "lesser cuckoo (Cuculus poliocephalus)"
+        "meaning": {
+          "vi": "lesser cuckoo (Cuculus poliocephalus)"
+        },
+        "romaji": "shidetaosa"
       }
     ],
     "radical": {
@@ -427,5 +455,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09577.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9577.gif",
     "uri": "https://jisho.org/search/%E9%95%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "tràng",
+    "trướng",
+    "trường",
+    "trưởng",
+    "trượng"
+  ]
 }

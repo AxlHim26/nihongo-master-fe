@@ -21,24 +21,48 @@
       {
         "example": "や行",
         "reading": "ヤギョウ",
-        "meaning": "the \"ya\" column of the Japanese syllabary table (ya, yu, yo)"
+        "meaning": {
+          "vi": "the \"ya\" column of the Japanese syllabary table (ya, yu, yo)"
+        },
+        "meaningVN": "cột \"ya\" trong bảng âm tiết tiếng nhật (ya, yu, yo)",
+        "hanViet": "や hàng",
+        "hanVietExplain": "hàng: hàng, dòng, đi, làm, hàng, dãy, thứ hạng, đức hạnh",
+        "romaji": "yagyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "也",
         "reading": "なり",
-        "meaning": "to be, to be (at a location), sum of money"
+        "meaning": {
+          "en": "to be, to be (at a location), sum of money"
+        },
+        "meaningVN": "ở, ở (ở một địa điểm), số tiền",
+        "hanViet": "dã",
+        "hanVietExplain": "dã: cũng, vậy, cũng, vậy, cũng, vậy",
+        "romaji": "nari"
       },
       {
         "example": "弱き者よ汝の名は女なり",
         "reading": "よわきものよなんじのなはおんななり",
-        "meaning": "frailty, thy name is woman"
+        "meaning": {
+          "en": "frailty, thy name is woman"
+        },
+        "meaningVN": "yếu đuối, tên bạn là phụ nữ",
+        "hanViet": "nhược き giả よ nhữ の danh は nhữ な り",
+        "hanVietExplain": "弱 (nhược: yếu, kém) + 者 (giả: người) + 汝 (nhữ: mày (đại từ nhân xưng ngôi thứ hai)) + 名 (danh: tên, danh) + 女 (nhữ: đàn bà, con gái) → yếu đuối, tên bạn là phụ nữ",
+        "romaji": "yowakimonoyonanjinonahaonnanari"
       },
       {
         "example": "知らぬは亭主ばかりなり",
         "reading": "しらぬはていしゅばかりなり",
-        "meaning": "the husband is always the last to know, everyone knows of the wife's infidelity but the cuckolded husband"
+        "meaning": {
+          "en": "the husband is always the last to know, everyone knows of the wife's infidelity but the cuckolded husband"
+        },
+        "meaningVN": "chồng luôn là người biết cuối cùng, ai cũng biết chuyện vợ ngoại tình nhưng chồng cắm sừng",
+        "hanViet": "tri ら ぬ は đình chúa ば か り な り",
+        "hanVietExplain": "知 (tri: biết) + 亭 (đình: cái nhà nhỏ) + 主 (chúa: người đứng đầu) → chồng luôn là người biết cuối cùng, ai cũng biết chuyện vợ ngoại tình nhưng chồng cắm sừng",
+        "romaji": "shiranuhateishubakarinari"
       }
     ],
     "radical": {
@@ -60,5 +84,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5f.gif",
     "uri": "https://jisho.org/search/%E4%B9%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "dã",
+    "giã",
+    "giả"
+  ],
+  "meaningVN": "là (cổ điển)",
+  "hanVietExplain": "dã: cũng, vậy, cũng, vậy, cũng, vậy"
 }

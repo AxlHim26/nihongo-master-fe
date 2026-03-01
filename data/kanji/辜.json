@@ -16,7 +16,10 @@
       {
         "example": "無辜",
         "reading": "ムコ",
-        "meaning": "innocent, blameless, guiltless"
+        "meaning": {
+          "en": "innocent, blameless, guiltless"
+        },
+        "romaji": "muko"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9c.gif",
     "uri": "https://jisho.org/search/%E8%BE%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "cô"
+  ]
 }

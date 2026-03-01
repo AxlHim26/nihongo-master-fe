@@ -20,39 +20,60 @@
       {
         "example": "誉望",
         "reading": "ヨボウ",
-        "meaning": "vinh dự"
+        "meaning": {
+          "vi": "vinh dự"
+        },
+        "romaji": "yobou"
       },
       {
         "example": "声誉",
         "reading": "セイヨ",
-        "meaning": "danh tiếng, uy tín, vinh dự"
+        "meaning": {
+          "vi": "danh tiếng, uy tín, vinh dự"
+        },
+        "romaji": "seiyo"
       },
       {
         "example": "毀誉",
         "reading": "キヨ",
-        "meaning": "khen chê, tán thành và phản đối"
+        "meaning": {
+          "vi": "khen chê, tán thành và phản đối"
+        },
+        "romaji": "kiyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誉れ",
         "reading": "ほまれ",
-        "meaning": "vinh dự"
+        "meaning": {
+          "vi": "vinh dự"
+        },
+        "romaji": "homare"
       },
       {
         "example": "誉れ高い",
         "reading": "ほまれたかい",
-        "meaning": "nổi tiếng"
+        "meaning": {
+          "vi": "nổi tiếng"
+        },
+        "romaji": "homaretakai"
       },
       {
         "example": "出藍の誉れ",
         "reading": "しゅつらんのほまれ",
-        "meaning": "vượt thầy"
+        "meaning": {
+          "vi": "vượt thầy"
+        },
+        "romaji": "shutsurannohomare"
       },
       {
         "example": "褒める",
         "reading": "ほめる",
-        "meaning": "khen ngợi, tán dương"
+        "meaning": {
+          "vi": "khen ngợi, tán dương"
+        },
+        "romaji": "homeru"
       }
     ],
     "radical": {
@@ -72,5 +93,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a89.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a89.gif",
     "uri": "https://jisho.org/search/%E8%AA%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "dự"
+  ]
 }

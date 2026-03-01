@@ -18,39 +18,60 @@
       {
         "example": "葵花",
         "reading": "キカ",
-        "meaning": "sunflower"
+        "meaning": {
+          "en": "sunflower"
+        },
+        "romaji": "kika"
       },
       {
         "example": "戎葵",
         "reading": "ジュウキ",
-        "meaning": "hollyhock"
+        "meaning": {
+          "en": "hollyhock"
+        },
+        "romaji": "juuki"
       },
       {
         "example": "黄蜀葵",
         "reading": "トロロアオイ",
-        "meaning": "sunset hibiscus (Hibiscus manihot)"
+        "meaning": {
+          "en": "sunset hibiscus (Hibiscus manihot)"
+        },
+        "romaji": "tororoaoi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葵",
         "reading": "あおい",
-        "meaning": "mallow (any plant of family Malvaceae), Asarum caulescens (species of wild ginger)"
+        "meaning": {
+          "vi": "mallow (any plant of family Malvaceae), Asarum caulescens (species of wild ginger)"
+        },
+        "romaji": "aoi"
       },
       {
         "example": "葵色",
         "reading": "あおいいろ",
-        "meaning": "purple, lavender"
+        "meaning": {
+          "vi": "purple, lavender"
+        },
+        "romaji": "aoiiro"
       },
       {
         "example": "布袋葵",
         "reading": "ほていあおい",
-        "meaning": "common water hyacinth (Pontederia crassipes)"
+        "meaning": {
+          "vi": "common water hyacinth (Pontederia crassipes)"
+        },
+        "romaji": "hoteiaoi"
       },
       {
         "example": "天竺葵",
         "reading": "てんじくあおい",
-        "meaning": "geranium (Pelargonium inquinans)"
+        "meaning": {
+          "vi": "geranium (Pelargonium inquinans)"
+        },
+        "romaji": "tenjikuaoi"
       }
     ],
     "radical": {
@@ -72,5 +93,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08475.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8475.gif",
     "uri": "https://jisho.org/search/%E8%91%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "quỳ"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "匍球",
         "reading": "ホキュウ",
-        "meaning": "bóng lăn đất"
+        "meaning": {
+          "vi": "bóng lăn đất"
+        },
+        "romaji": "hokyuu"
       },
       {
         "example": "匍匐",
         "reading": "ホフク",
-        "meaning": "bò, trườn, lén lút"
+        "meaning": {
+          "vi": "bò, trườn, lén lút"
+        },
+        "romaji": "hofuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "這う",
         "reading": "はう",
-        "meaning": "bò, trườn, đi bốn chân, trườn, ngoằn ngoèo, lan (dây leo, hoa), lan rộng"
+        "meaning": {
+          "vi": "bò, trườn, đi bốn chân, trườn, ngoằn ngoèo, lan (dây leo, hoa), lan rộng"
+        },
+        "romaji": "hau"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0530d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/530d.gif",
     "uri": "https://jisho.org/search/%E5%8C%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bồ"
+  ]
 }

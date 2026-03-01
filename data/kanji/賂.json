@@ -18,14 +18,20 @@
       {
         "example": "貨賂",
         "reading": "カロ",
-        "meaning": "bribe"
+        "meaning": {
+          "en": "bribe"
+        },
+        "romaji": "karo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "賂",
         "reading": "まいない",
-        "meaning": "bribe"
+        "meaning": {
+          "en": "bribe"
+        },
+        "romaji": "mainai"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc2.gif",
     "uri": "https://jisho.org/search/%E8%B3%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "lộ"
+  ]
 }

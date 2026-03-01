@@ -14,12 +14,18 @@
       {
         "example": "鞠問",
         "reading": "キクモン",
-        "meaning": "questioning (someone) about a crime, interrogation"
+        "meaning": {
+          "en": "questioning (someone) about a crime, interrogation"
+        },
+        "romaji": "kikumon"
       },
       {
         "example": "推鞠",
         "reading": "スイキク",
-        "meaning": "investigating (e.g. a criminal)"
+        "meaning": {
+          "en": "investigating (e.g. a criminal)"
+        },
+        "romaji": "suikiku"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ab.gif",
     "uri": "https://jisho.org/search/%E9%9E%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "cúc"
+  ]
 }

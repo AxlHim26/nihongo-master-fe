@@ -16,12 +16,18 @@
       {
         "example": "飛語",
         "reading": "ヒゴ",
-        "meaning": "baseless rumor, baseless rumour, gossip, false report"
+        "meaning": {
+          "vi": "baseless rumor, baseless rumour, gossip, false report"
+        },
+        "romaji": "higo"
       },
       {
         "example": "飛鳥",
         "reading": "ヒチョウ",
-        "meaning": "flying bird"
+        "meaning": {
+          "en": "flying bird"
+        },
+        "romaji": "hichou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0871a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/871a.gif",
     "uri": "https://jisho.org/search/%E8%9C%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi",
+    "phỉ"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "軸",
         "reading": "ジク",
-        "meaning": "axis, shaft, axle, center, centre, focal point, key point, stalk, stem, hanging scroll"
+        "meaning": {
+          "vi": "axis, shaft, axle, center, centre, focal point, key point, stalk, stem, hanging scroll"
+        },
+        "romaji": "jiku"
       },
       {
         "example": "軸足",
         "reading": "ジクアシ",
-        "meaning": "pivot foot, emphasis, priority, focus"
+        "meaning": {
+          "vi": "pivot foot, emphasis, priority, focus"
+        },
+        "romaji": "jikuashi"
       },
       {
         "example": "基軸",
         "reading": "キジク",
-        "meaning": "basis, foundation, core, criterion, standard"
+        "meaning": {
+          "en": "basis, foundation, core, criterion, standard"
+        },
+        "romaji": "kijiku"
       },
       {
         "example": "中軸",
         "reading": "チュウジク",
-        "meaning": "axis, pivot, central figure, key man"
+        "meaning": {
+          "vi": "axis, pivot, central figure, key man"
+        },
+        "romaji": "chuujiku"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ef8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ef8.gif",
     "uri": "https://jisho.org/search/%E8%BB%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "trục"
+  ]
 }

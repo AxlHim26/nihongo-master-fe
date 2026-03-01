@@ -243,44 +243,68 @@
       {
         "example": "矢状",
         "reading": "シジョウ",
-        "meaning": "sagittal"
+        "meaning": {
+          "en": "sagittal"
+        },
+        "romaji": "shijou"
       },
       {
         "example": "矢状縫合",
         "reading": "シジョウホウゴウ",
-        "meaning": "sagittal suture"
+        "meaning": {
+          "en": "sagittal suture"
+        },
+        "romaji": "shijouhougou"
       },
       {
         "example": "弓矢",
         "reading": "ユミヤ",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": {
+          "vi": "bow and arrow, weapon, arms"
+        },
+        "romaji": "yumiya"
       },
       {
         "example": "嚆矢",
         "reading": "コウシ",
-        "meaning": "whistling arrow used to signal the start of battle, start (e.g. of a movement), beginning, dawn"
+        "meaning": {
+          "en": "whistling arrow used to signal the start of battle, start (e.g. of a movement), beginning, dawn"
+        },
+        "romaji": "koushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "矢",
         "reading": "や",
-        "meaning": "arrow, wedge, chock"
+        "meaning": {
+          "en": "arrow, wedge, chock"
+        },
+        "romaji": "ya"
       },
       {
         "example": "矢先",
         "reading": "やさき",
-        "meaning": "arrowhead, target of a flying arrow, brunt (of an attack), the very moment (when), the point (of doing)"
+        "meaning": {
+          "vi": "arrowhead, target of a flying arrow, brunt (of an attack), the very moment (when), the point (of doing)"
+        },
+        "romaji": "yasaki"
       },
       {
         "example": "弓矢",
         "reading": "ゆみや",
-        "meaning": "bow and arrow, weapon, arms"
+        "meaning": {
+          "vi": "bow and arrow, weapon, arms"
+        },
+        "romaji": "yumiya"
       },
       {
         "example": "洗い矢",
         "reading": "あらいや",
-        "meaning": "ramrod, cleaning rod"
+        "meaning": {
+          "en": "ramrod, cleaning rod"
+        },
+        "romaji": "araiya"
       }
     ],
     "radical": {
@@ -298,5 +322,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77e2.gif",
     "uri": "https://jisho.org/search/%E7%9F%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi",
+    "thỉ"
+  ]
 }

@@ -20,17 +20,26 @@
       {
         "example": "薺",
         "reading": "なずな",
-        "meaning": "shepherd's purse (Capsella bursa-pastoris)"
+        "meaning": {
+          "vi": "shepherd's purse (Capsella bursa-pastoris)"
+        },
+        "romaji": "nazuna"
       },
       {
         "example": "紫薺",
         "reading": "むらさきなずな",
-        "meaning": "purple rock cress (Aubrietia deltoidea)"
+        "meaning": {
+          "vi": "purple rock cress (Aubrietia deltoidea)"
+        },
+        "romaji": "murasakinazuna"
       },
       {
         "example": "犬薺",
         "reading": "いぬなずな",
-        "meaning": "woodland draba (Draba nemorosa), woodland whitlow-grass"
+        "meaning": {
+          "en": "woodland draba (Draba nemorosa), woodland whitlow-grass"
+        },
+        "romaji": "inunazuna"
       }
     ],
     "radical": {
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ba.gif",
     "uri": "https://jisho.org/search/%E8%96%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tề",
+    "tể"
+  ]
 }

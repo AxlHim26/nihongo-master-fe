@@ -239,39 +239,60 @@
       {
         "example": "較差",
         "reading": "カクサ",
-        "meaning": "range"
+        "meaning": {
+          "en": "range"
+        },
+        "romaji": "kakusa"
       },
       {
         "example": "較優位論",
         "reading": "カクユウイロン",
-        "meaning": "theory of comparative advantage"
+        "meaning": {
+          "vi": "theory of comparative advantage"
+        },
+        "romaji": "kakuyuuiron"
       },
       {
         "example": "国際比較",
         "reading": "コクサイヒカク",
-        "meaning": "international comparison, country-by-country comparison"
+        "meaning": {
+          "vi": "international comparison, country-by-country comparison"
+        },
+        "romaji": "kokusaihikaku"
       },
       {
         "example": "直接比較",
         "reading": "チョクセツヒカク",
-        "meaning": "direct comparison"
+        "meaning": {
+          "vi": "direct comparison"
+        },
+        "romaji": "chokusetsuhikaku"
       },
       {
         "example": "校正",
         "reading": "コウセイ",
-        "meaning": "proofreading, calibration"
+        "meaning": {
+          "vi": "proofreading, calibration"
+        },
+        "romaji": "kousei"
       },
       {
         "example": "較量",
         "reading": "コウリョウ",
-        "meaning": "comparison"
+        "meaning": {
+          "vi": "comparison"
+        },
+        "romaji": "kouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "比べる",
         "reading": "くらべる",
-        "meaning": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's)"
+        "meaning": {
+          "vi": "to compare, to make a comparison (between), to compete (on), to measure (one's strength, ability, etc. against another's)"
+        },
+        "romaji": "kuraberu"
       }
     ],
     "radical": {
@@ -287,5 +308,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f03.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f03.gif",
     "uri": "https://jisho.org/search/%E8%BC%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "giác",
+    "giáo",
+    "giảo",
+    "giếu"
+  ]
 }

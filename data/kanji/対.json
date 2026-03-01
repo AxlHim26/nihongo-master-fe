@@ -346,54 +346,84 @@
       {
         "example": "対",
         "reading": "タイ",
-        "meaning": "versus, against, vs., v., to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180), toward ..., to ..., with ..., against ..., anti-, equal footing, equal terms, opposite"
+        "meaning": {
+          "vi": "versus, against, vs., v., to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180), toward ..., to ..., with ..., against ..., anti-, equal footing, equal terms, opposite"
+        },
+        "romaji": "tai"
       },
       {
         "example": "対案",
         "reading": "タイアン",
-        "meaning": "counter-proposal, counter-suggestion"
+        "meaning": {
+          "vi": "counter-proposal, counter-suggestion"
+        },
+        "romaji": "taian"
       },
       {
         "example": "国対",
         "reading": "コクタイ",
-        "meaning": "Committee of the National Diet"
+        "meaning": {
+          "en": "Committee of the National Diet"
+        },
+        "romaji": "kokutai"
       },
       {
         "example": "相対",
         "reading": "ソウタイ",
-        "meaning": "relativity, relative, facing (e.g. a problem), confronting"
+        "meaning": {
+          "vi": "relativity, relative, facing (e.g. a problem), confronting"
+        },
+        "romaji": "soutai"
       },
       {
         "example": "対",
         "reading": "ツイ",
-        "meaning": "pair, couple, set, antithesis, counter for items that come in pairs, counter for sets (of clothes, small furniture, utensils, etc.)"
+        "meaning": {
+          "vi": "pair, couple, set, antithesis, counter for items that come in pairs, counter for sets (of clothes, small furniture, utensils, etc.)"
+        },
+        "romaji": "tsui"
       },
       {
         "example": "対句",
         "reading": "ツイク",
-        "meaning": "couplet, antithesis"
+        "meaning": {
+          "vi": "couplet, antithesis"
+        },
+        "romaji": "tsuiku"
       },
       {
         "example": "一対",
         "reading": "イッツイ",
-        "meaning": "pair, couple"
+        "meaning": {
+          "vi": "pair, couple"
+        },
+        "romaji": "ittsui"
       },
       {
         "example": "双対",
         "reading": "ソウツイ",
-        "meaning": "duality"
+        "meaning": {
+          "en": "duality"
+        },
+        "romaji": "soutsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "対手",
         "reading": "たいしゅ",
-        "meaning": "opponent (in combat)"
+        "meaning": {
+          "vi": "opponent (in combat)"
+        },
+        "romaji": "taishu"
       },
       {
         "example": "向かう",
         "reading": "むかう",
-        "meaning": "to face, to go towards, to head towards"
+        "meaning": {
+          "en": "to face, to go towards, to head towards"
+        },
+        "romaji": "mukau"
       }
     ],
     "radical": {
@@ -408,5 +438,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bfe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bfe.gif",
     "uri": "https://jisho.org/search/%E5%AF%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "đối"
+  ]
 }

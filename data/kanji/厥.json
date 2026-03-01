@@ -18,12 +18,18 @@
       {
         "example": "厥冷",
         "reading": "ケツレイ",
-        "meaning": "clamminess, coldness of body"
+        "meaning": {
+          "en": "clamminess, coldness of body"
+        },
+        "romaji": "ketsurei"
       },
       {
         "example": "突厥",
         "reading": "トッケツ",
-        "meaning": "Gokturks (Turkic confederation), Sky Turks, Tujue"
+        "meaning": {
+          "en": "Gokturks (Turkic confederation), Sky Turks, Tujue"
+        },
+        "romaji": "tokketsu"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a5.gif",
     "uri": "https://jisho.org/search/%E5%8E%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyết"
+  ]
 }

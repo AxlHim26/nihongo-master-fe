@@ -14,7 +14,10 @@
       {
         "example": "冖冠",
         "reading": "ベキカンムリ",
-        "meaning": "kanji \"wa\" radical at top (radical 14)"
+        "meaning": {
+          "vi": "kanji \"wa\" radical at top (radical 14)"
+        },
+        "romaji": "bekikanmuri"
       }
     ],
     "kunyomiExamples": [],
@@ -29,5 +32,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05196.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5196.gif",
     "uri": "https://jisho.org/search/%E5%86%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "mịch"
+  ]
 }

@@ -23,39 +23,60 @@
       {
         "example": "寓話",
         "reading": "グウワ",
-        "meaning": "fable, allegory"
+        "meaning": {
+          "en": "fable, allegory"
+        },
+        "romaji": "guuwa"
       },
       {
         "example": "寓意",
         "reading": "グウイ",
-        "meaning": "hidden meaning, symbolism, moral"
+        "meaning": {
+          "en": "hidden meaning, symbolism, moral"
+        },
+        "romaji": "guui"
       },
       {
         "example": "流寓",
         "reading": "リュウグウ",
-        "meaning": "living a roaming life, wandering and settling in a foreign land"
+        "meaning": {
+          "en": "living a roaming life, wandering and settling in a foreign land"
+        },
+        "romaji": "ryuuguu"
       },
       {
         "example": "仮寓",
         "reading": "カグウ",
-        "meaning": "temporary residence"
+        "meaning": {
+          "vi": "temporary residence"
+        },
+        "romaji": "kaguu"
       },
       {
         "example": "寓話",
         "reading": "グウワ",
-        "meaning": "fable, allegory"
+        "meaning": {
+          "en": "fable, allegory"
+        },
+        "romaji": "guuwa"
       },
       {
         "example": "寓意",
         "reading": "グウイ",
-        "meaning": "hidden meaning, symbolism, moral"
+        "meaning": {
+          "en": "hidden meaning, symbolism, moral"
+        },
+        "romaji": "guui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寓する",
         "reading": "ぐうする",
-        "meaning": "to reside temporarily, to imply"
+        "meaning": {
+          "vi": "to reside temporarily, to imply"
+        },
+        "romaji": "guusuru"
       }
     ],
     "radical": {
@@ -73,5 +94,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd3.gif",
     "uri": "https://jisho.org/search/%E5%AF%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngụ"
+  ]
 }

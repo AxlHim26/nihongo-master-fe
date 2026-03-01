@@ -334,22 +334,34 @@
       {
         "example": "師",
         "reading": "シ",
-        "meaning": "teacher, master, mentor, religious leader, specialist, five-battalion brigade comprising 2500 men (Zhou dynasty Chinese army)"
+        "meaning": {
+          "vi": "teacher, master, mentor, religious leader, specialist, five-battalion brigade comprising 2500 men (Zhou dynasty Chinese army)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "獅子",
         "reading": "シシ",
-        "meaning": "lion, left-hand (stone) guardian lion-dog at a Shinto shrine"
+        "meaning": {
+          "en": "lion, left-hand (stone) guardian lion-dog at a Shinto shrine"
+        },
+        "romaji": "shishi"
       },
       {
         "example": "大師",
         "reading": "ダイシ",
-        "meaning": "great teacher (i.e. a buddha, bodhisattva or high monk, esp. Kobo Daishi)"
+        "meaning": {
+          "vi": "great teacher (i.e. a buddha, bodhisattva or high monk, esp. Kobo Daishi)"
+        },
+        "romaji": "daishi"
       },
       {
         "example": "歯科医師",
         "reading": "シカイシ",
-        "meaning": "dentist"
+        "meaning": {
+          "en": "dentist"
+        },
+        "romaji": "shikaishi"
       }
     ],
     "kunyomiExamples": [],
@@ -367,5 +379,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e2b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e2b.gif",
     "uri": "https://jisho.org/search/%E5%B8%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "sư"
+  ]
 }

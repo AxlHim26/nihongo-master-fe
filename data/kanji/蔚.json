@@ -18,17 +18,26 @@
       {
         "example": "鬱林",
         "reading": "ウツリン",
-        "meaning": "rừng rậm, tháng năm âm lịch"
+        "meaning": {
+          "vi": "rừng rậm, tháng năm âm lịch"
+        },
+        "romaji": "utsurin"
       },
       {
         "example": "蓊鬱",
         "reading": "オウウツ",
-        "meaning": "um tùm, xanh tốt, sum suê"
+        "meaning": {
+          "vi": "um tùm, xanh tốt, sum suê"
+        },
+        "romaji": "ouutsu"
       },
       {
         "example": "彬蔚",
         "reading": "ヒンウツ",
-        "meaning": "học rộng tinh tế, đẹp trai"
+        "meaning": {
+          "vi": "học rộng tinh tế, đẹp trai"
+        },
+        "romaji": "hin'utsu"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0851a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/851a.gif",
     "uri": "https://jisho.org/search/%E8%94%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "uý",
+    "uất"
+  ]
 }

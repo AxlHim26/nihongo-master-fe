@@ -19,19 +19,28 @@
       {
         "example": "頑張って",
         "reading": "ガンバッテ",
-        "meaning": "do your best, go for it, hang in there, keep at it"
+        "meaning": {
+          "vi": "do your best, go for it, hang in there, keep at it"
+        },
+        "romaji": "ganbatte"
       },
       {
         "example": "頑固",
         "reading": "ガンコ",
-        "meaning": "stubborn, obstinate, pigheaded"
+        "meaning": {
+          "vi": "stubborn, obstinate, pigheaded"
+        },
+        "romaji": "ganko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頑な",
         "reading": "かたくな",
-        "meaning": "obstinate, stubborn, mulish, die-hard, bigoted"
+        "meaning": {
+          "en": "obstinate, stubborn, mulish, die-hard, bigoted"
+        },
+        "romaji": "katakuna"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09811.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9811.gif",
     "uri": "https://jisho.org/search/%E9%A0%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngoan"
+  ]
 }

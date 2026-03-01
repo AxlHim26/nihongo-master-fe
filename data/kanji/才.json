@@ -253,22 +253,34 @@
       {
         "example": "才",
         "reading": "サイ",
-        "meaning": "ability, gift, talent, aptitude, genius, sai, traditional unit of volume, approx. 1.8 ml"
+        "meaning": {
+          "vi": "ability, gift, talent, aptitude, genius, sai, traditional unit of volume, approx. 1.8 ml"
+        },
+        "romaji": "sai"
       },
       {
         "example": "歳",
         "reading": "サイ",
-        "meaning": "... years old, age (of) ..."
+        "meaning": {
+          "en": "... years old, age (of) ..."
+        },
+        "romaji": "sai"
       },
       {
         "example": "鬼才",
         "reading": "キサイ",
-        "meaning": "wizard, genius, remarkable talent, exceptional ability"
+        "meaning": {
+          "vi": "wizard, genius, remarkable talent, exceptional ability"
+        },
+        "romaji": "kisai"
       },
       {
         "example": "英才",
         "reading": "エイサイ",
-        "meaning": "genius, brilliance, unusual talent, gifted person, person of unusual talent"
+        "meaning": {
+          "vi": "genius, brilliance, unusual talent, gifted person, person of unusual talent"
+        },
+        "romaji": "eisai"
       }
     ],
     "kunyomiExamples": [],
@@ -288,5 +300,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0624d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/624d.gif",
     "uri": "https://jisho.org/search/%E6%89%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tài"
+  ]
 }

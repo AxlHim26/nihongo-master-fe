@@ -16,14 +16,20 @@
       {
         "example": "山の芋",
         "reading": "ヤマノイモ",
-        "meaning": "Japanese yam (Dioscorea japonica)"
+        "meaning": {
+          "vi": "Japanese yam (Dioscorea japonica)"
+        },
+        "romaji": "yamanoimo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "山の芋",
         "reading": "やまのいも",
-        "meaning": "Japanese yam (Dioscorea japonica)"
+        "meaning": {
+          "vi": "Japanese yam (Dioscorea japonica)"
+        },
+        "romaji": "yamanoimo"
       }
     ],
     "radical": {
@@ -46,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08577.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8577.gif",
     "uri": "https://jisho.org/search/%E8%95%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "dự"
+  ]
 }

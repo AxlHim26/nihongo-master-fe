@@ -19,29 +19,44 @@
       {
         "example": "鷹隼",
         "reading": "ヨウシュン",
-        "meaning": "hawk and falcon"
+        "meaning": {
+          "en": "hawk and falcon"
+        },
+        "romaji": "youshun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "隼",
         "reading": "はやぶさ",
-        "meaning": "falcon (esp. the peregrine falcon, Falco peregrinus)"
+        "meaning": {
+          "vi": "falcon (esp. the peregrine falcon, Falco peregrinus)"
+        },
+        "romaji": "hayabusa"
       },
       {
         "example": "ハヤブサ科",
         "reading": "ハヤブサか",
-        "meaning": "Falconidae (family of birds of prey)"
+        "meaning": {
+          "vi": "Falconidae (family of birds of prey)"
+        },
+        "romaji": "hayabusaka"
       },
       {
         "example": "稚児隼",
         "reading": "ちごはやぶさ",
-        "meaning": "northern hobby (Falco subbuteo)"
+        "meaning": {
+          "en": "northern hobby (Falco subbuteo)"
+        },
+        "romaji": "chigohayabusa"
       },
       {
         "example": "白隼",
         "reading": "しろはやぶさ",
-        "meaning": "gyrfalcon (Falco rusticolus)"
+        "meaning": {
+          "en": "gyrfalcon (Falco rusticolus)"
+        },
+        "romaji": "shirohayabusa"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96bc.gif",
     "uri": "https://jisho.org/search/%E9%9A%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuẩn"
+  ]
 }

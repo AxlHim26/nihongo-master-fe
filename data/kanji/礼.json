@@ -297,42 +297,66 @@
       {
         "example": "礼",
         "reading": "レイ",
-        "meaning": "thanks, gratitude, manners, etiquette, bow (i.e. bending of the body), bowing, reward, gift, ceremony, ritual, key money"
+        "meaning": {
+          "en": "thanks, gratitude, manners, etiquette, bow (i.e. bending of the body), bowing, reward, gift, ceremony, ritual, key money"
+        },
+        "romaji": "rei"
       },
       {
         "example": "礼儀",
         "reading": "レイギ",
-        "meaning": "manners, courtesy, etiquette"
+        "meaning": {
+          "en": "manners, courtesy, etiquette"
+        },
+        "romaji": "reigi"
       },
       {
         "example": "巡礼",
         "reading": "ジュンレイ",
-        "meaning": "pilgrimage, pilgrim"
+        "meaning": {
+          "vi": "pilgrimage, pilgrim"
+        },
+        "romaji": "junrei"
       },
       {
         "example": "儀礼",
         "reading": "ギレイ",
-        "meaning": "courtesy, etiquette, formality, protocol, (religious) observance, ritual, rite"
+        "meaning": {
+          "vi": "courtesy, etiquette, formality, protocol, (religious) observance, ritual, rite"
+        },
+        "romaji": "girei"
       },
       {
         "example": "礼賛",
         "reading": "ライサン",
-        "meaning": "praise, worship, adoration, glorification"
+        "meaning": {
+          "vi": "praise, worship, adoration, glorification"
+        },
+        "romaji": "raisan"
       },
       {
         "example": "礼冠",
         "reading": "ライカン",
-        "meaning": "crown or head-ornament worn with formal or ceremonial clothes by nobility (ritsuryō system)"
+        "meaning": {
+          "en": "crown or head-ornament worn with formal or ceremonial clothes by nobility (ritsuryō system)"
+        },
+        "romaji": "raikan"
       },
       {
         "example": "頂礼",
         "reading": "チョウライ",
-        "meaning": "prostration, placing knees, hands and forehead on the ground to show utmost respect"
+        "meaning": {
+          "vi": "prostration, placing knees, hands and forehead on the ground to show utmost respect"
+        },
+        "romaji": "chourai"
       },
       {
         "example": "帰命頂礼",
         "reading": "キミョウチョウライ",
-        "meaning": "most formal form of a prayer"
+        "meaning": {
+          "vi": "most formal form of a prayer"
+        },
+        "romaji": "kimyouchourai"
       }
     ],
     "kunyomiExamples": [],
@@ -351,5 +375,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0793c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/793c.gif",
     "uri": "https://jisho.org/search/%E7%A4%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lễ"
+  ]
 }

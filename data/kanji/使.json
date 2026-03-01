@@ -345,49 +345,76 @@
       {
         "example": "使",
         "reading": "シ",
-        "meaning": "messenger, police and judicial chief (Heian and Kamakura periods), klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"
+        "meaning": {
+          "vi": "messenger, police and judicial chief (Heian and Kamakura periods), klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "使者",
         "reading": "シシャ",
-        "meaning": "messenger, envoy, emissary"
+        "meaning": {
+          "en": "messenger, envoy, emissary"
+        },
+        "romaji": "shisha"
       },
       {
         "example": "特使",
         "reading": "トクシ",
-        "meaning": "special envoy"
+        "meaning": {
+          "vi": "special envoy"
+        },
+        "romaji": "tokushi"
       },
       {
         "example": "実力行使",
         "reading": "ジツリョクコウシ",
-        "meaning": "use of force"
+        "meaning": {
+          "en": "use of force"
+        },
+        "romaji": "jitsuryokukoushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "使う",
         "reading": "つかう",
-        "meaning": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"
+        "meaning": {
+          "vi": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"
+        },
+        "romaji": "tsukau"
       },
       {
         "example": "使い",
         "reading": "つかい",
-        "meaning": "errand, mission, going on an errand, messenger, bearer, errand boy, errand girl, familiar spirit, use, usage, user, trainer, tamer, handler, charmer"
+        "meaning": {
+          "vi": "errand, mission, going on an errand, messenger, bearer, errand boy, errand girl, familiar spirit, use, usage, user, trainer, tamer, handler, charmer"
+        },
+        "romaji": "tsukai"
       },
       {
         "example": "使い方",
         "reading": "つかいかた",
-        "meaning": "way of using (something), way to use, how to use, usage, use, way of handling (employees, subordinates, etc.), way of treating, treatment, management"
+        "meaning": {
+          "vi": "way of using (something), way to use, how to use, usage, use, way of handling (employees, subordinates, etc.), way of treating, treatment, management"
+        },
+        "romaji": "tsukaikata"
       },
       {
         "example": "オズの魔法使い",
         "reading": "オズのまほうつかい",
-        "meaning": "The Wonderful Wizard of Oz (novel by L. F. Baum, 1900), The Wizard of Oz (film, 1939)"
+        "meaning": {
+          "en": "The Wonderful Wizard of Oz (novel by L. F. Baum, 1900), The Wizard of Oz (film, 1939)"
+        },
+        "romaji": "ozunomahoutsukai"
       },
       {
         "example": "春の使い",
         "reading": "はるのつかい",
-        "meaning": "Japanese bush warbler, messenger of spring"
+        "meaning": {
+          "vi": "Japanese bush warbler, messenger of spring"
+        },
+        "romaji": "harunotsukai"
       }
     ],
     "radical": {
@@ -407,5 +434,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f7f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f7f.gif",
     "uri": "https://jisho.org/search/%E4%BD%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "sứ",
+    "sử"
+  ]
 }

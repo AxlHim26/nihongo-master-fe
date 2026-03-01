@@ -16,7 +16,10 @@
       {
         "example": "人心恟々",
         "reading": "ジンシンキョウキョウ",
-        "meaning": "panic-stricken (people), frightened (masses), alarmed"
+        "meaning": {
+          "vi": "panic-stricken (people), frightened (masses), alarmed"
+        },
+        "romaji": "jinshinkyoukyou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d36.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d36.gif",
     "uri": "https://jisho.org/search/%E6%B4%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "hung"
+  ]
 }

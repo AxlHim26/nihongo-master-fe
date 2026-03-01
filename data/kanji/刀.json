@@ -252,54 +252,84 @@
       {
         "example": "刀",
         "reading": "カタナ",
-        "meaning": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+        "meaning": {
+          "vi": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+        },
+        "romaji": "katana"
       },
       {
         "example": "刀剣",
         "reading": "トウケン",
-        "meaning": "sword, dagger, knife, bayonet"
+        "meaning": {
+          "en": "sword, dagger, knife, bayonet"
+        },
+        "romaji": "touken"
       },
       {
         "example": "小刀",
         "reading": "コガタナ",
-        "meaning": "(small) knife, short sword, small sword"
+        "meaning": {
+          "en": "(small) knife, short sword, small sword"
+        },
+        "romaji": "kogatana"
       },
       {
         "example": "大刀",
         "reading": "ダイトウ",
-        "meaning": "(Japanese) long sword, large sword, guandao, Chinese glaive"
+        "meaning": {
+          "vi": "(Japanese) long sword, large sword, guandao, Chinese glaive"
+        },
+        "romaji": "daitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刀",
         "reading": "かたな",
-        "meaning": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+        "meaning": {
+          "vi": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+        },
+        "romaji": "katana"
       },
       {
         "example": "刀折れ矢尽きて",
         "reading": "かたなおれやつきて",
-        "meaning": "having exhausted every available means, having broken one's sword and exhausted one's arrows"
+        "meaning": {
+          "en": "having exhausted every available means, having broken one's sword and exhausted one's arrows"
+        },
+        "romaji": "katanaoreyatsukite"
       },
       {
         "example": "一刀",
         "reading": "いっとう",
-        "meaning": "sword, blade, single stroke"
+        "meaning": {
+          "en": "sword, blade, single stroke"
+        },
+        "romaji": "ittou"
       },
       {
         "example": "返す刀",
         "reading": "かえすかたな",
-        "meaning": "attacking one opponent then immediately attacking another"
+        "meaning": {
+          "vi": "attacking one opponent then immediately attacking another"
+        },
+        "romaji": "kaesukatana"
       },
       {
         "example": "剃刀",
         "reading": "かみそり",
-        "meaning": "razor"
+        "meaning": {
+          "en": "razor"
+        },
+        "romaji": "kamisori"
       },
       {
         "example": "オッカムの剃刀",
         "reading": "オッカムのかみそり",
-        "meaning": "Occam's razor, Ockham's razor"
+        "meaning": {
+          "en": "Occam's razor, Ockham's razor"
+        },
+        "romaji": "okkamunokamisori"
       }
     ],
     "radical": {
@@ -316,5 +346,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05200.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5200.gif",
     "uri": "https://jisho.org/search/%E5%88%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "đao"
+  ]
 }

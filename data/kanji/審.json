@@ -20,29 +20,44 @@
       {
         "example": "審査",
         "reading": "シンサ",
-        "meaning": "judging, inspection, examination, investigation, review"
+        "meaning": {
+          "vi": "judging, inspection, examination, investigation, review"
+        },
+        "romaji": "shinsa"
       },
       {
         "example": "審議",
         "reading": "シンギ",
-        "meaning": "deliberation, discussion, consideration"
+        "meaning": {
+          "en": "deliberation, discussion, consideration"
+        },
+        "romaji": "shingi"
       },
       {
         "example": "一審",
         "reading": "イッシン",
-        "meaning": "first instance, first trial"
+        "meaning": {
+          "en": "first instance, first trial"
+        },
+        "romaji": "isshin"
       },
       {
         "example": "再審",
         "reading": "サイシン",
-        "meaning": "retrial, reopening of a case, review, reexamination"
+        "meaning": {
+          "vi": "retrial, reopening of a case, review, reexamination"
+        },
+        "romaji": "saishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詳らか",
         "reading": "つまびらか",
-        "meaning": "detailed, clear"
+        "meaning": {
+          "en": "detailed, clear"
+        },
+        "romaji": "tsumabiraka"
       }
     ],
     "radical": {
@@ -59,5 +74,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be9.gif",
     "uri": "https://jisho.org/search/%E5%AF%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thẩm"
+  ]
 }

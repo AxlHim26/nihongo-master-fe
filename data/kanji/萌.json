@@ -21,29 +21,44 @@
       {
         "example": "萌芽",
         "reading": "ホウガ",
-        "meaning": "germination, germ, sprout, early sign, beginning, starting to appear"
+        "meaning": {
+          "vi": "germination, germ, sprout, early sign, beginning, starting to appear"
+        },
+        "romaji": "houga"
       },
       {
         "example": "萌芽更新",
         "reading": "ホウガコウシン",
-        "meaning": "coppicing, coppice regeneration"
+        "meaning": {
+          "vi": "coppicing, coppice regeneration"
+        },
+        "romaji": "hougakoushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "萌える",
         "reading": "もえる",
-        "meaning": "to burst into bud, to sprout, to have a crush, to be infatuated"
+        "meaning": {
+          "vi": "to burst into bud, to sprout, to have a crush, to be infatuated"
+        },
+        "romaji": "moeru"
       },
       {
         "example": "兆す",
         "reading": "きざす",
-        "meaning": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"
+        "meaning": {
+          "vi": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"
+        },
+        "romaji": "kizasu"
       },
       {
         "example": "兆し",
         "reading": "きざし",
-        "meaning": "sign, indication, omen, symptom"
+        "meaning": {
+          "vi": "sign, indication, omen, symptom"
+        },
+        "romaji": "kizashi"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0840c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/840c.gif",
     "uri": "https://jisho.org/search/%E8%90%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "manh"
+  ]
 }

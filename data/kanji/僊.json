@@ -14,17 +14,26 @@
       {
         "example": "仙",
         "reading": "セン",
-        "meaning": "hermit, wizard, wizardry"
+        "meaning": {
+          "en": "hermit, wizard, wizardry"
+        },
+        "romaji": "sen"
       },
       {
         "example": "仙人",
         "reading": "センニン",
-        "meaning": "immortal mountain wizard (in Taoism), mountain man (esp. a hermit), person not bound by earthly desires"
+        "meaning": {
+          "vi": "immortal mountain wizard (in Taoism), mountain man (esp. a hermit), person not bound by earthly desires"
+        },
+        "romaji": "sennin"
       },
       {
         "example": "神仙",
         "reading": "シンセン",
-        "meaning": "immortal mountain wizard (in Taoism), Taoist immortal, supernatural being, (in Japan) 11th note of the ancient chromatic scale (approx. C)"
+        "meaning": {
+          "vi": "immortal mountain wizard (in Taoism), Taoist immortal, supernatural being, (in Japan) 11th note of the ancient chromatic scale (approx. C)"
+        },
+        "romaji": "shinsen"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ca.gif",
     "uri": "https://jisho.org/search/%E5%83%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiên"
+  ]
 }

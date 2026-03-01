@@ -19,34 +19,52 @@
       {
         "example": "吾兄",
         "reading": "アセ",
-        "meaning": "you (referring to a male)"
+        "meaning": {
+          "en": "you (referring to a male)"
+        },
+        "romaji": "ase"
       },
       {
         "example": "吾人",
         "reading": "ゴジン",
-        "meaning": "we"
+        "meaning": {
+          "en": "we"
+        },
+        "romaji": "gojin"
       },
       {
         "example": "故吾",
         "reading": "コゴ",
-        "meaning": "one's former self"
+        "meaning": {
+          "en": "one's former self"
+        },
+        "romaji": "kogo"
       },
       {
         "example": "金吾",
         "reading": "キンゴ",
-        "meaning": "kingo (game similar to blackjack)"
+        "meaning": {
+          "en": "kingo (game similar to blackjack)"
+        },
+        "romaji": "kingo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "我",
         "reading": "われ",
-        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        "meaning": {
+          "vi": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        },
+        "romaji": "ware"
       },
       {
         "example": "我々",
         "reading": "われわれ",
-        "meaning": "we"
+        "meaning": {
+          "en": "we"
+        },
+        "romaji": "wareware"
       }
     ],
     "radical": {
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543e.gif",
     "uri": "https://jisho.org/search/%E5%90%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngô"
+  ]
 }

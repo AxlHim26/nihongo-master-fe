@@ -23,44 +23,68 @@
       {
         "example": "擦弦楽器",
         "reading": "サツゲンガッキ",
-        "meaning": "bowed stringed instrument"
+        "meaning": {
+          "en": "bowed stringed instrument"
+        },
+        "romaji": "satsugengakki"
       },
       {
         "example": "擦文",
         "reading": "サツモン",
-        "meaning": "brush-mark pattern (scraped into the surface of earthenware with wood)"
+        "meaning": {
+          "vi": "brush-mark pattern (scraped into the surface of earthenware with wood)"
+        },
+        "romaji": "satsumon"
       },
       {
         "example": "塗擦",
         "reading": "トサツ",
-        "meaning": "rubbing an ointment into the skin"
+        "meaning": {
+          "en": "rubbing an ointment into the skin"
+        },
+        "romaji": "tosatsu"
       },
       {
         "example": "冷水摩擦",
         "reading": "レイスイマサツ",
-        "meaning": "rubdown with a wet towel, cold-water rubbing"
+        "meaning": {
+          "en": "rubdown with a wet towel, cold-water rubbing"
+        },
+        "romaji": "reisuimasatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "擦る",
         "reading": "する",
-        "meaning": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+        "meaning": {
+          "en": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+        },
+        "romaji": "suru"
       },
       {
         "example": "擦れる",
         "reading": "すれる",
-        "meaning": "to rub, to chafe, to wear out, to become worn, to lose one's innocence, to become sly"
+        "meaning": {
+          "en": "to rub, to chafe, to wear out, to become worn, to lose one's innocence, to become sly"
+        },
+        "romaji": "sureru"
       },
       {
         "example": "擦る",
         "reading": "こする",
-        "meaning": "to rub, to scrub, to scrape"
+        "meaning": {
+          "vi": "to rub, to scrub, to scrape"
+        },
+        "romaji": "kosuru"
       },
       {
         "example": "擦れる",
         "reading": "こすれる",
-        "meaning": "to be rubbed"
+        "meaning": {
+          "en": "to be rubbed"
+        },
+        "romaji": "kosureru"
       }
     ],
     "radical": {
@@ -83,5 +107,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64e6.gif",
     "uri": "https://jisho.org/search/%E6%93%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "sát"
+  ]
 }

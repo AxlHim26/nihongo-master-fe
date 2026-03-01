@@ -324,39 +324,60 @@
       {
         "example": "考",
         "reading": "コウ",
-        "meaning": "thought, report on one's investigation into ..., deceased father"
+        "meaning": {
+          "vi": "thought, report on one's investigation into ..., deceased father"
+        },
+        "romaji": "kou"
       },
       {
         "example": "考古学",
         "reading": "コウコガク",
-        "meaning": "archaeology, archeology"
+        "meaning": {
+          "en": "archaeology, archeology"
+        },
+        "romaji": "koukogaku"
       },
       {
         "example": "備考",
         "reading": "ビコウ",
-        "meaning": "note (for reference), remarks, N.B."
+        "meaning": {
+          "en": "note (for reference), remarks, N.B."
+        },
+        "romaji": "bikou"
       },
       {
         "example": "論考",
         "reading": "ロンコウ",
-        "meaning": "study (of), discussion, discourse, inquiry, research article, academic paper"
+        "meaning": {
+          "vi": "study (of), discussion, discourse, inquiry, research article, academic paper"
+        },
+        "romaji": "ronkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "考える",
         "reading": "かんがえる",
-        "meaning": "to think (about, of), to think over, to ponder, to contemplate, to reflect (on), to meditate (on), to consider, to bear in mind, to allow for, to take into consideration, to think (that), to believe, to hold (a view), to judge, to conclude, to suspect, to intend (to do), to think of (doing), to plan, to predict, to anticipate, to expect, to imagine, to come up with, to think up, to contrive, to devise, to consider (as), to regard (as), to look on (as), to take, to view"
+        "meaning": {
+          "vi": "to think (about, of), to think over, to ponder, to contemplate, to reflect (on), to meditate (on), to consider, to bear in mind, to allow for, to take into consideration, to think (that), to believe, to hold (a view), to judge, to conclude, to suspect, to intend (to do), to think of (doing), to plan, to predict, to anticipate, to expect, to imagine, to come up with, to think up, to contrive, to devise, to consider (as), to regard (as), to look on (as), to take, to view"
+        },
+        "romaji": "kangaeru"
       },
       {
         "example": "考え",
         "reading": "かんがえ",
-        "meaning": "thinking, thought, view, opinion, concept, idea, notion, imagination, intention, plan, design, consideration, judgement, deliberation, reflection, wish, hope, expectation"
+        "meaning": {
+          "vi": "thinking, thought, view, opinion, concept, idea, notion, imagination, intention, plan, design, consideration, judgement, deliberation, reflection, wish, hope, expectation"
+        },
+        "romaji": "kangae"
       },
       {
         "example": "考え方",
         "reading": "かんがえかた",
-        "meaning": "way of thinking"
+        "meaning": {
+          "en": "way of thinking"
+        },
+        "romaji": "kangaekata"
       }
     ],
     "radical": {
@@ -374,5 +395,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08003.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8003.gif",
     "uri": "https://jisho.org/search/%E8%80%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "khảo"
+  ]
 }

@@ -20,34 +20,52 @@
       {
         "example": "嵩高",
         "reading": "スウコウ",
-        "meaning": "lofty (of a mountain), tall"
+        "meaning": {
+          "en": "lofty (of a mountain), tall"
+        },
+        "romaji": "suukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嵩",
         "reading": "かさ",
-        "meaning": "bulk, volume, quantity"
+        "meaning": {
+          "en": "bulk, volume, quantity"
+        },
+        "romaji": "kasa"
       },
       {
         "example": "嵩上げ",
         "reading": "かさあげ",
-        "meaning": "raising (an embankment, levee, etc.), increasing (a budget, fees, etc.), raising, inflating (figures), padding (an expense account, bill, etc.)"
+        "meaning": {
+          "vi": "raising (an embankment, levee, etc.), increasing (a budget, fees, etc.), raising, inflating (figures), padding (an expense account, bill, etc.)"
+        },
+        "romaji": "kasaage"
       },
       {
         "example": "水かさ",
         "reading": "みずかさ",
-        "meaning": "volume of water (in a river, pond, flood, etc.)"
+        "meaning": {
+          "vi": "volume of water (in a river, pond, flood, etc.)"
+        },
+        "romaji": "mizukasa"
       },
       {
         "example": "年嵩",
         "reading": "としかさ",
-        "meaning": "senior, older, elderly"
+        "meaning": {
+          "en": "senior, older, elderly"
+        },
+        "romaji": "toshikasa"
       },
       {
         "example": "嵩む",
         "reading": "かさむ",
-        "meaning": "to mount up, to pile up, to accumulate, to increase"
+        "meaning": {
+          "vi": "to mount up, to pile up, to accumulate, to increase"
+        },
+        "romaji": "kasamu"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d69.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d69.gif",
     "uri": "https://jisho.org/search/%E5%B5%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "tung"
+  ]
 }

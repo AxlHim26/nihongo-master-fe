@@ -19,44 +19,68 @@
       {
         "example": "藻類",
         "reading": "ソウルイ",
-        "meaning": "seaweed, algae"
+        "meaning": {
+          "en": "seaweed, algae"
+        },
+        "romaji": "sourui"
       },
       {
         "example": "藻菌類",
         "reading": "ソウキンルイ",
-        "meaning": "algal fungi"
+        "meaning": {
+          "en": "algal fungi"
+        },
+        "romaji": "soukinrui"
       },
       {
         "example": "海藻",
         "reading": "カイソウ",
-        "meaning": "seaweed"
+        "meaning": {
+          "en": "seaweed"
+        },
+        "romaji": "kaisou"
       },
       {
         "example": "石灰藻",
         "reading": "セッカイソウ",
-        "meaning": "calcareous algae"
+        "meaning": {
+          "en": "calcareous algae"
+        },
+        "romaji": "sekkaisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "藻",
         "reading": "も",
-        "meaning": "algae, waterweed, seaweed, duckweed"
+        "meaning": {
+          "en": "algae, waterweed, seaweed, duckweed"
+        },
+        "romaji": "mo"
       },
       {
         "example": "藻掻く",
         "reading": "もがく",
-        "meaning": "to struggle, to writhe, to wriggle, to squirm, to act frantically, to make desperate efforts"
+        "meaning": {
+          "vi": "to struggle, to writhe, to wriggle, to squirm, to act frantically, to make desperate efforts"
+        },
+        "romaji": "mogaku"
       },
       {
         "example": "山椒藻",
         "reading": "さんしょうも",
-        "meaning": "floating watermoss (Salvinia natans)"
+        "meaning": {
+          "en": "floating watermoss (Salvinia natans)"
+        },
+        "romaji": "sanshoumo"
       },
       {
         "example": "菅藻",
         "reading": "すがも",
-        "meaning": "Phyllospadix iwatensis (species of seagrass)"
+        "meaning": {
+          "vi": "Phyllospadix iwatensis (species of seagrass)"
+        },
+        "romaji": "sugamo"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85fb.gif",
     "uri": "https://jisho.org/search/%E8%97%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tảo"
+  ]
 }

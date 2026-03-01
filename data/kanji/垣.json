@@ -19,34 +19,52 @@
       {
         "example": "垣牆",
         "reading": "エンショウ",
-        "meaning": "hedge, fence"
+        "meaning": {
+          "en": "hedge, fence"
+        },
+        "romaji": "enshou"
       },
       {
         "example": "紫微垣",
         "reading": "シビエン",
-        "meaning": "Purple Forbidden Enclosure (group of constellations in the northern sky associated with the emperor)"
+        "meaning": {
+          "vi": "Purple Forbidden Enclosure (group of constellations in the northern sky associated with the emperor)"
+        },
+        "romaji": "shibien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "垣",
         "reading": "かき",
-        "meaning": "fence, hedge, railing, barrier, wall"
+        "meaning": {
+          "en": "fence, hedge, railing, barrier, wall"
+        },
+        "romaji": "kaki"
       },
       {
         "example": "垣根",
         "reading": "かきね",
-        "meaning": "hedge, fence, border, limit"
+        "meaning": {
+          "en": "hedge, fence, border, limit"
+        },
+        "romaji": "kakine"
       },
       {
         "example": "斎垣",
         "reading": "いがき",
-        "meaning": "fence around a shrine (or other sacred area)"
+        "meaning": {
+          "en": "fence around a shrine (or other sacred area)"
+        },
+        "romaji": "igaki"
       },
       {
         "example": "築垣",
         "reading": "ついがき",
-        "meaning": "mud wall with a roof"
+        "meaning": {
+          "en": "mud wall with a roof"
+        },
+        "romaji": "tsuigaki"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a3.gif",
     "uri": "https://jisho.org/search/%E5%9E%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên"
+  ]
 }

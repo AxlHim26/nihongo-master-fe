@@ -18,24 +18,36 @@
       {
         "example": "駭然",
         "reading": "ガイゼン",
-        "meaning": "astonished, very surprised"
+        "meaning": {
+          "vi": "astonished, very surprised"
+        },
+        "romaji": "gaizen"
       },
       {
         "example": "驚駭",
         "reading": "キョウガイ",
-        "meaning": "being very surprised"
+        "meaning": {
+          "vi": "being very surprised"
+        },
+        "romaji": "kyougai"
       },
       {
         "example": "震駭",
         "reading": "シンガイ",
-        "meaning": "terror, shock"
+        "meaning": {
+          "en": "terror, shock"
+        },
+        "romaji": "shingai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "驚く",
         "reading": "おどろく",
-        "meaning": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed"
+        "meaning": {
+          "vi": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed"
+        },
+        "romaji": "odoroku"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ed.gif",
     "uri": "https://jisho.org/search/%E9%A7%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hãi"
+  ]
 }

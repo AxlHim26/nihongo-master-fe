@@ -17,24 +17,36 @@
       {
         "example": "顰み",
         "reading": "ヒソミ",
-        "meaning": "knitted brows, frown"
+        "meaning": {
+          "en": "knitted brows, frown"
+        },
+        "romaji": "hisomi"
       },
       {
         "example": "顰蹙",
         "reading": "ヒンシュク",
-        "meaning": "frowning on, looking on with scorn, showing disapproval"
+        "meaning": {
+          "vi": "frowning on, looking on with scorn, showing disapproval"
+        },
+        "romaji": "hinshuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "顰める",
         "reading": "ひそめる",
-        "meaning": "to knit (one's eyebrows), to furrow, to contract"
+        "meaning": {
+          "en": "to knit (one's eyebrows), to furrow, to contract"
+        },
+        "romaji": "hisomeru"
       },
       {
         "example": "顰める",
         "reading": "しかめる",
-        "meaning": "to screw up (one's face), to scrunch up, to pucker up, to furrow (one's brow), to wrinkle"
+        "meaning": {
+          "vi": "to screw up (one's face), to scrunch up, to pucker up, to furrow (one's brow), to wrinkle"
+        },
+        "romaji": "shikameru"
       }
     ],
     "radical": {
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09870.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9870.gif",
     "uri": "https://jisho.org/search/%E9%A1%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tần"
+  ]
 }

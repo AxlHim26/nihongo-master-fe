@@ -312,59 +312,92 @@
       {
         "example": "提起",
         "reading": "テイキ",
-        "meaning": "raising (a question), posing (a problem), bringing up (an issue), presenting, instituting (a lawsuit), lodging, filing (a claim), submitting (a case), lifting up"
+        "meaning": {
+          "vi": "raising (a question), posing (a problem), bringing up (an issue), presenting, instituting (a lawsuit), lodging, filing (a claim), submitting (a case), lifting up"
+        },
+        "romaji": "teiki"
       },
       {
         "example": "提案",
         "reading": "テイアン",
-        "meaning": "proposal, proposition, suggestion"
+        "meaning": {
+          "vi": "proposal, proposition, suggestion"
+        },
+        "romaji": "teian"
       },
       {
         "example": "大前提",
         "reading": "ダイゼンテイ",
-        "meaning": "important condition, basic premise, basic assumption, something that should be obvious to all, something that should not have to be argued, something that goes without mentioning, major premise (in a syllogism)"
+        "meaning": {
+          "vi": "important condition, basic premise, basic assumption, something that should be obvious to all, something that should not have to be argued, something that goes without mentioning, major premise (in a syllogism)"
+        },
+        "romaji": "daizentei"
       },
       {
         "example": "上提",
         "reading": "ジョウテイ",
-        "meaning": "introducing (a bill), presentation, departure on a journey"
+        "meaning": {
+          "vi": "introducing (a bill), presentation, departure on a journey"
+        },
+        "romaji": "joutei"
       },
       {
         "example": "提灯",
         "reading": "チョウチン",
-        "meaning": "paper lantern, Chinese lantern, Japanese lantern, snot bubble"
+        "meaning": {
+          "vi": "paper lantern, Chinese lantern, Japanese lantern, snot bubble"
+        },
+        "romaji": "chouchin"
       },
       {
         "example": "提灯鮟鱇",
         "reading": "チョウチンアンコウ",
-        "meaning": "football fish (any fish of family Himantolophidae, esp. the Atlantic footballfish, Himantolophus groenlandicus)"
+        "meaning": {
+          "vi": "football fish (any fish of family Himantolophidae, esp. the Atlantic footballfish, Himantolophus groenlandicus)"
+        },
+        "romaji": "chouchin'ankou"
       },
       {
         "example": "提宇子",
         "reading": "ダイウス",
-        "meaning": "God"
+        "meaning": {
+          "en": "God"
+        },
+        "romaji": "daiusu"
       },
       {
         "example": "提婆",
         "reading": "ダイバ",
-        "meaning": "deva (being with god-like characteristics)"
+        "meaning": {
+          "en": "deva (being with god-like characteristics)"
+        },
+        "romaji": "daiba"
       },
       {
         "example": "菩提",
         "reading": "ボダイ",
-        "meaning": "bodhi, enlightenment, happiness in the next world"
+        "meaning": {
+          "vi": "bodhi, enlightenment, happiness in the next world"
+        },
+        "romaji": "bodai"
       },
       {
         "example": "閻浮提",
         "reading": "エンブダイ",
-        "meaning": "Jambudvipa, continent of the terrestrial world"
+        "meaning": {
+          "vi": "Jambudvipa, continent of the terrestrial world"
+        },
+        "romaji": "enbudai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "提げる",
         "reading": "さげる",
-        "meaning": "to take along, to hold in the hand, to hang (e.g. from the shoulder or waist)"
+        "meaning": {
+          "en": "to take along, to hold in the hand, to hang (e.g. from the shoulder or waist)"
+        },
+        "romaji": "sageru"
       }
     ],
     "radical": {
@@ -383,5 +416,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063d0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63d0.gif",
     "uri": "https://jisho.org/search/%E6%8F%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "thì",
+    "đề",
+    "để"
+  ]
 }

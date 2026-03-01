@@ -19,44 +19,68 @@
       {
         "example": "藍綬褒章",
         "reading": "ランジュホウショウ",
-        "meaning": "Medal with Blue Ribbon"
+        "meaning": {
+          "en": "Medal with Blue Ribbon"
+        },
+        "romaji": "ranjuhoushou"
       },
       {
         "example": "藍衣社員",
         "reading": "ランイシャイン",
-        "meaning": "blue-collar, blue-collar worker (employee)"
+        "meaning": {
+          "vi": "blue-collar, blue-collar worker (employee)"
+        },
+        "romaji": "ran'ishain"
       },
       {
         "example": "伽藍",
         "reading": "ガラン",
-        "meaning": "temple (esp. large one), monastery, temple building"
+        "meaning": {
+          "vi": "temple (esp. large one), monastery, temple building"
+        },
+        "romaji": "garan"
       },
       {
         "example": "芥藍",
         "reading": "カイラン",
-        "meaning": "kai-lan, gai-lan, Chinese broccoli"
+        "meaning": {
+          "en": "kai-lan, gai-lan, Chinese broccoli"
+        },
+        "romaji": "kairan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "藍",
         "reading": "あい",
-        "meaning": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye), indigo (dye), indigo (colour)"
+        "meaning": {
+          "vi": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye), indigo (dye), indigo (colour)"
+        },
+        "romaji": "ai"
       },
       {
         "example": "藍色",
         "reading": "あいいろ",
-        "meaning": "indigo blue, indigo"
+        "meaning": {
+          "en": "indigo blue, indigo"
+        },
+        "romaji": "aiiro"
       },
       {
         "example": "人造藍",
         "reading": "じんぞうあい",
-        "meaning": "synthetic indigo"
+        "meaning": {
+          "en": "synthetic indigo"
+        },
+        "romaji": "jinzouai"
       },
       {
         "example": "琉球藍",
         "reading": "りゅうきゅうあい",
-        "meaning": "Assam indigo (Strobilanthes cusia)"
+        "meaning": {
+          "en": "Assam indigo (Strobilanthes cusia)"
+        },
+        "romaji": "ryuukyuuai"
       }
     ],
     "radical": {
@@ -78,5 +102,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85cd.gif",
     "uri": "https://jisho.org/search/%E8%97%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "lam"
+  ]
 }

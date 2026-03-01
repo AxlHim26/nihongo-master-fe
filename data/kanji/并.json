@@ -18,7 +18,10 @@
       {
         "example": "併呑",
         "reading": "ヘイドン",
-        "meaning": "annexation, absorption, merger, swallowing up"
+        "meaning": {
+          "vi": "annexation, absorption, merger, swallowing up"
+        },
+        "romaji": "heidon"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e76.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e76.gif",
     "uri": "https://jisho.org/search/%E5%B9%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "bình",
+    "bính",
+    "phanh",
+    "tinh",
+    "tính",
+    "tỉnh",
+    "tịnh"
+  ]
 }

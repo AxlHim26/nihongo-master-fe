@@ -398,49 +398,76 @@
       {
         "example": "難",
         "reading": "ナン",
-        "meaning": "difficulty, trouble, hardship, shortage, accident, disaster, danger, fault, defect, flaw, criticism, charge, blame"
+        "meaning": {
+          "vi": "difficulty, trouble, hardship, shortage, accident, disaster, danger, fault, defect, flaw, criticism, charge, blame"
+        },
+        "romaji": "nan"
       },
       {
         "example": "難解",
         "reading": "ナンカイ",
-        "meaning": "difficult to understand, unintelligible, abstruse"
+        "meaning": {
+          "en": "difficult to understand, unintelligible, abstruse"
+        },
+        "romaji": "nankai"
       },
       {
         "example": "至難",
         "reading": "シナン",
-        "meaning": "most difficult, next to impossible"
+        "meaning": {
+          "vi": "most difficult, next to impossible"
+        },
+        "romaji": "shinan"
       },
       {
         "example": "海難",
         "reading": "カイナン",
-        "meaning": "accident at sea, sea disaster, shipwreck"
+        "meaning": {
+          "vi": "accident at sea, sea disaster, shipwreck"
+        },
+        "romaji": "kainan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "難い",
         "reading": "かたい",
-        "meaning": "difficult, hard"
+        "meaning": {
+          "en": "difficult, hard"
+        },
+        "romaji": "katai"
       },
       {
         "example": "難しい",
         "reading": "むずかしい",
-        "meaning": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        "meaning": {
+          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        },
+        "romaji": "muzukashii"
       },
       {
         "example": "難しい顔をする",
         "reading": "むずかしいかおをする",
-        "meaning": "to look displeased, to frown, to scowl, to look grave, to look serious"
+        "meaning": {
+          "vi": "to look displeased, to frown, to scowl, to look grave, to look serious"
+        },
+        "romaji": "muzukashiikaowosuru"
       },
       {
         "example": "難しい",
         "reading": "むずかしい",
-        "meaning": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        "meaning": {
+          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        },
+        "romaji": "muzukashii"
       },
       {
         "example": "難しい",
         "reading": "むずかしい",
-        "meaning": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        "meaning": {
+          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        },
+        "romaji": "muzukashii"
       }
     ],
     "radical": {
@@ -459,5 +486,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96e3.gif",
     "uri": "https://jisho.org/search/%E9%9B%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "na",
+    "nan",
+    "nạn"
+  ]
 }

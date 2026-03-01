@@ -286,44 +286,68 @@
       {
         "example": "技",
         "reading": "ワザ",
-        "meaning": "technique, art, skill, move"
+        "meaning": {
+          "en": "technique, art, skill, move"
+        },
+        "romaji": "waza"
       },
       {
         "example": "技巧",
         "reading": "ギコウ",
-        "meaning": "technique, finesse"
+        "meaning": {
+          "en": "technique, finesse"
+        },
+        "romaji": "gikou"
       },
       {
         "example": "国技",
         "reading": "コクギ",
-        "meaning": "national sport"
+        "meaning": {
+          "vi": "national sport"
+        },
+        "romaji": "kokugi"
       },
       {
         "example": "陸上競技",
         "reading": "リクジョウキョウギ",
-        "meaning": "track and field, athletics"
+        "meaning": {
+          "en": "track and field, athletics"
+        },
+        "romaji": "rikujoukyougi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "技",
         "reading": "わざ",
-        "meaning": "technique, art, skill, move"
+        "meaning": {
+          "en": "technique, art, skill, move"
+        },
+        "romaji": "waza"
       },
       {
         "example": "技あり",
         "reading": "わざあり",
-        "meaning": "waza-ari (in judo, a half-point awarded for good but incomplete execution)"
+        "meaning": {
+          "vi": "waza-ari (in judo, a half-point awarded for good but incomplete execution)"
+        },
+        "romaji": "wazaari"
       },
       {
         "example": "寝技",
         "reading": "ねわざ",
-        "meaning": "pinning technique (in wrestling or judo), underhanded dealings"
+        "meaning": {
+          "vi": "pinning technique (in wrestling or judo), underhanded dealings"
+        },
+        "romaji": "newaza"
       },
       {
         "example": "投げ技",
         "reading": "なげわざ",
-        "meaning": "throw or throwing technique (sumo, judo)"
+        "meaning": {
+          "en": "throw or throwing technique (sumo, judo)"
+        },
+        "romaji": "nagewaza"
       }
     ],
     "radical": {
@@ -343,5 +367,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06280.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6280.gif",
     "uri": "https://jisho.org/search/%E6%8A%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "kĩ",
+    "kỹ"
+  ]
 }

@@ -315,74 +315,116 @@
       {
         "example": "束",
         "reading": "ソク",
-        "meaning": "lưới, đơn vị đếm bó lớn (vd. 10 bó lúa, 200 tờ giấy), gang tay (đo chiều dài mũi tên)"
+        "meaning": {
+          "vi": "lưới, đơn vị đếm bó lớn (vd. 10 bó lúa, 200 tờ giấy), gang tay (đo chiều dài mũi tên)"
+        },
+        "romaji": "soku"
       },
       {
         "example": "束縛",
         "reading": "ソクバク",
-        "meaning": "kiềm chế, hạn chế, xiềng xích, trói buộc"
+        "meaning": {
+          "vi": "kiềm chế, hạn chế, xiềng xích, trói buộc"
+        },
+        "romaji": "sokubaku"
       },
       {
         "example": "結束",
         "reading": "ケッソク",
-        "meaning": "đoàn kết, thống nhất, bó buộc, mặc (quần áo, áo giáp...)"
+        "meaning": {
+          "vi": "đoàn kết, thống nhất, bó buộc, mặc (quần áo, áo giáp...)"
+        },
+        "romaji": "kessoku"
       },
       {
         "example": "口約束",
         "reading": "クチヤクソク",
-        "meaning": "lời hứa, chữ tín"
+        "meaning": {
+          "vi": "lời hứa, chữ tín"
+        },
+        "romaji": "kuchiyakusoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "束",
         "reading": "たば",
-        "meaning": "bó, bó (lúa)"
+        "meaning": {
+          "vi": "bó, bó (lúa)"
+        },
+        "romaji": "taba"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        "meaning": {
+          "vi": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        },
+        "romaji": "tabaneru"
       },
       {
         "example": "鍵束",
         "reading": "かぎたば",
-        "meaning": "chùm chìa khóa"
+        "meaning": {
+          "vi": "chùm chìa khóa"
+        },
+        "romaji": "kagitaba"
       },
       {
         "example": "麦束",
         "reading": "むぎたば",
-        "meaning": "bó lúa mì"
+        "meaning": {
+          "vi": "bó lúa mì"
+        },
+        "romaji": "mugitaba"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        "meaning": {
+          "vi": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        },
+        "romaji": "tabaneru"
       },
       {
         "example": "束",
         "reading": "つか",
-        "meaning": "cột chống, độ dày (sách, xấp giấy...), gang tay, bó"
+        "meaning": {
+          "vi": "cột chống, độ dày (sách, xấp giấy...), gang tay, bó"
+        },
+        "romaji": "tsuka"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        "meaning": {
+          "vi": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        },
+        "romaji": "tabaneru"
       },
       {
         "example": "不束",
         "reading": "ふつつか",
-        "meaning": "thiếu kinh nghiệm, bất tài, bất cẩn"
+        "meaning": {
+          "vi": "thiếu kinh nghiệm, bất tài, bất cẩn"
+        },
+        "romaji": "futsutsuka"
       },
       {
         "example": "矢束",
         "reading": "やつか",
-        "meaning": "chiều dài mũi tên, bó tên"
+        "meaning": {
+          "vi": "chiều dài mũi tên, bó tên"
+        },
+        "romaji": "yatsuka"
       },
       {
         "example": "束ねる",
         "reading": "たばねる",
-        "meaning": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        "meaning": {
+          "vi": "bó (rơm, tóc, tiền, thư...), quản lý, kiểm soát, khoanh tay, chắp tay"
+        },
+        "romaji": "tabaneru"
       }
     ],
     "radical": {
@@ -400,5 +442,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0675f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/675f.gif",
     "uri": "https://jisho.org/search/%E6%9D%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thú",
+    "thúc"
+  ]
 }

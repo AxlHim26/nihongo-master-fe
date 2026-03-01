@@ -20,22 +20,34 @@
       {
         "example": "覇",
         "reading": "ハ",
-        "meaning": "bá quyền, thống trị, lãnh đạo, chức vô địch, thắng lợi"
+        "meaning": {
+          "vi": "bá quyền, thống trị, lãnh đạo, chức vô địch, thắng lợi"
+        },
+        "romaji": "ha"
       },
       {
         "example": "覇権",
         "reading": "ハケン",
-        "meaning": "bá quyền"
+        "meaning": {
+          "vi": "bá quyền"
+        },
+        "romaji": "haken"
       },
       {
         "example": "制覇",
         "reading": "セイハ",
-        "meaning": "chinh phục, thống trị, làm chủ, giành chức vô địch"
+        "meaning": {
+          "vi": "chinh phục, thống trị, làm chủ, giành chức vô địch"
+        },
+        "romaji": "seiha"
       },
       {
         "example": "初制覇",
         "reading": "ハツセイハ",
-        "meaning": "thắng lợi lần đầu"
+        "meaning": {
+          "vi": "thắng lợi lần đầu"
+        },
+        "romaji": "hatsuseiha"
       }
     ],
     "kunyomiExamples": [],
@@ -56,5 +68,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08987.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8987.gif",
     "uri": "https://jisho.org/search/%E8%A6%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "bá",
+    "phách"
+  ]
 }

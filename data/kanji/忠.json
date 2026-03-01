@@ -225,22 +225,34 @@
       {
         "example": "忠",
         "reading": "チュウ",
-        "meaning": "loyalty, devotion, fidelity, faithfulness, inspector of the Imperial Prosecuting and Investigating Office (ritsuryō system)"
+        "meaning": {
+          "vi": "loyalty, devotion, fidelity, faithfulness, inspector of the Imperial Prosecuting and Investigating Office (ritsuryō system)"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "忠臣",
         "reading": "チュウシン",
-        "meaning": "loyal retainer, loyal subject"
+        "meaning": {
+          "en": "loyal retainer, loyal subject"
+        },
+        "romaji": "chuushin"
       },
       {
         "example": "誠忠",
         "reading": "セイチュウ",
-        "meaning": "loyalty"
+        "meaning": {
+          "en": "loyalty"
+        },
+        "romaji": "seichuu"
       },
       {
         "example": "不忠",
         "reading": "フチュウ",
-        "meaning": "disloyalty, infidelity"
+        "meaning": {
+          "en": "disloyalty, infidelity"
+        },
+        "romaji": "fuchuu"
       }
     ],
     "kunyomiExamples": [],
@@ -261,5 +273,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fe0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fe0.gif",
     "uri": "https://jisho.org/search/%E5%BF%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "trung"
+  ]
 }

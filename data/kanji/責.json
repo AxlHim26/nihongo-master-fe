@@ -299,29 +299,44 @@
       {
         "example": "責",
         "reading": "セキ",
-        "meaning": "responsibility, duty, obligation"
+        "meaning": {
+          "vi": "responsibility, duty, obligation"
+        },
+        "romaji": "seki"
       },
       {
         "example": "責任",
         "reading": "セキニン",
-        "meaning": "duty, responsibility (incl. supervision of staff), liability, onus"
+        "meaning": {
+          "vi": "duty, responsibility (incl. supervision of staff), liability, onus"
+        },
+        "romaji": "sekinin"
       },
       {
         "example": "問責",
         "reading": "モンセキ",
-        "meaning": "blame, censure, reproof, reprimand, rebuke"
+        "meaning": {
+          "vi": "blame, censure, reproof, reprimand, rebuke"
+        },
+        "romaji": "monseki"
       },
       {
         "example": "引責",
         "reading": "インセキ",
-        "meaning": "taking responsibility"
+        "meaning": {
+          "vi": "taking responsibility"
+        },
+        "romaji": "inseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "責める",
         "reading": "せめる",
-        "meaning": "to condemn, to blame, to criticize, to criticise, to reproach, to accuse, to urge, to press, to pester, to torture, to torment, to persecute, to break in (a horse)"
+        "meaning": {
+          "vi": "to condemn, to blame, to criticize, to criticise, to reproach, to accuse, to urge, to press, to pester, to torture, to torment, to persecute, to break in (a horse)"
+        },
+        "romaji": "semeru"
       }
     ],
     "radical": {
@@ -340,5 +355,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cac.gif",
     "uri": "https://jisho.org/search/%E8%B2%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "trách",
+    "trái"
+  ]
 }

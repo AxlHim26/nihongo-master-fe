@@ -20,12 +20,18 @@
       {
         "example": "歯",
         "reading": "は",
-        "meaning": "răng, răng (lược, cưa...), bánh răng, đế gueta"
+        "meaning": {
+          "vi": "răng, răng (lược, cưa...), bánh răng, đế gueta"
+        },
+        "romaji": "ha"
       },
       {
         "example": "歯医者",
         "reading": "はいしゃ",
-        "meaning": "nha sĩ"
+        "meaning": {
+          "vi": "nha sĩ"
+        },
+        "romaji": "haisha"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f52.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f52.gif",
     "uri": "https://jisho.org/search/%E9%BD%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "xỉ"
+  ]
 }

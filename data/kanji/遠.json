@@ -355,49 +355,76 @@
       {
         "example": "遠山",
         "reading": "エンザン",
-        "meaning": "distant mountain"
+        "meaning": {
+          "en": "distant mountain"
+        },
+        "romaji": "enzan"
       },
       {
         "example": "遠隔",
         "reading": "エンカク",
-        "meaning": "distant, remote, isolated"
+        "meaning": {
+          "en": "distant, remote, isolated"
+        },
+        "romaji": "enkaku"
       },
       {
         "example": "望遠",
         "reading": "ボウエン",
-        "meaning": "seeing at a distance"
+        "meaning": {
+          "en": "seeing at a distance"
+        },
+        "romaji": "bouen"
       },
       {
         "example": "以遠",
         "reading": "イエン",
-        "meaning": "beyond, further than"
+        "meaning": {
+          "en": "beyond, further than"
+        },
+        "romaji": "ien"
       },
       {
         "example": "遠忌",
         "reading": "オンキ",
-        "meaning": "anniversary of a death twelve or more years earlier"
+        "meaning": {
+          "en": "anniversary of a death twelve or more years earlier"
+        },
+        "romaji": "onki"
       },
       {
         "example": "遠諱",
         "reading": "オンキ",
-        "meaning": "semicentennial memorial service"
+        "meaning": {
+          "en": "semicentennial memorial service"
+        },
+        "romaji": "onki"
       },
       {
         "example": "久遠",
         "reading": "クオン",
-        "meaning": "eternity"
+        "meaning": {
+          "en": "eternity"
+        },
+        "romaji": "kuon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遠い",
         "reading": "とおい",
-        "meaning": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted"
+        "meaning": {
+          "vi": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted"
+        },
+        "romaji": "tooi"
       },
       {
         "example": "遠い昔",
         "reading": "とおいむかし",
-        "meaning": "remote past, far ago, time immemorial"
+        "meaning": {
+          "vi": "remote past, far ago, time immemorial"
+        },
+        "romaji": "tooimukashi"
       }
     ],
     "radical": {
@@ -419,5 +446,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09060.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9060.gif",
     "uri": "https://jisho.org/search/%E9%81%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "viến",
+    "viển",
+    "viễn"
+  ]
 }

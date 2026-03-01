@@ -14,7 +14,10 @@
       {
         "example": "袱紗",
         "reading": "フクサ",
-        "meaning": "small silk wrapper, small cloth for wiping tea utensils, crepe wrapper"
+        "meaning": {
+          "vi": "small silk wrapper, small cloth for wiping tea utensils, crepe wrapper"
+        },
+        "romaji": "fukusa"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088b1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88b1.gif",
     "uri": "https://jisho.org/search/%E8%A2%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "phục"
+  ]
 }

@@ -17,44 +17,68 @@
       {
         "example": "蝉声",
         "reading": "センセイ",
-        "meaning": "cicada singing"
+        "meaning": {
+          "en": "cicada singing"
+        },
+        "romaji": "sensei"
       },
       {
         "example": "秋蝉",
         "reading": "アキゼミ",
-        "meaning": "cicadas that sing when autumn comes"
+        "meaning": {
+          "en": "cicadas that sing when autumn comes"
+        },
+        "romaji": "akizemi"
       },
       {
         "example": "寒蝉",
         "reading": "カンゼミ",
-        "meaning": "cicadas which sing in late autumn"
+        "meaning": {
+          "en": "cicadas which sing in late autumn"
+        },
+        "romaji": "kanzemi"
       },
       {
         "example": "寒蝉",
         "reading": "カンゼミ",
-        "meaning": "cicadas which sing in late autumn"
+        "meaning": {
+          "en": "cicadas which sing in late autumn"
+        },
+        "romaji": "kanzemi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蝉",
         "reading": "せみ",
-        "meaning": "cicada, locust, small-sized pulley"
+        "meaning": {
+          "vi": "cicada, locust, small-sized pulley"
+        },
+        "romaji": "semi"
       },
       {
         "example": "蝉海老",
         "reading": "せみえび",
-        "meaning": "blunt slipper lobster (species of shovel-nosed lobster, Scyllarides squammosus)"
+        "meaning": {
+          "vi": "blunt slipper lobster (species of shovel-nosed lobster, Scyllarides squammosus)"
+        },
+        "romaji": "semiebi"
       },
       {
         "example": "空蝉",
         "reading": "うつせみ",
-        "meaning": "one's present existence, this mortal frame, this world, this life, temporal things, cast-off cicada shell, cicada"
+        "meaning": {
+          "vi": "one's present existence, this mortal frame, this world, this life, temporal things, cast-off cicada shell, cicada"
+        },
+        "romaji": "utsusemi"
       },
       {
         "example": "秋の蝉",
         "reading": "あきのせみ",
-        "meaning": "cicadas that sing when autumn comes, cicadas that sing even in autumn"
+        "meaning": {
+          "en": "cicadas that sing when autumn comes, cicadas that sing even in autumn"
+        },
+        "romaji": "akinosemi"
       }
     ],
     "radical": {
@@ -71,5 +95,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08749.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8749.gif",
     "uri": "https://jisho.org/search/%E8%9D%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiền",
+    "thuyền"
+  ]
 }

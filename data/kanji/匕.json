@@ -16,24 +16,36 @@
       {
         "example": "匕首",
         "reading": "アイクチ",
-        "meaning": "dagger, dirk"
+        "meaning": {
+          "en": "dagger, dirk"
+        },
+        "romaji": "aikuchi"
       },
       {
         "example": "匕箸",
         "reading": "ヒチョ",
-        "meaning": "spoon and chopsticks"
+        "meaning": {
+          "vi": "spoon and chopsticks"
+        },
+        "romaji": "hicho"
       },
       {
         "example": "石匕",
         "reading": "セキヒ",
-        "meaning": "stone knife (Jomon-period tool, shaped like a rice spoon)"
+        "meaning": {
+          "vi": "stone knife (Jomon-period tool, shaped like a rice spoon)"
+        },
+        "romaji": "sekihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "匙",
         "reading": "さじ",
-        "meaning": "spoon"
+        "meaning": {
+          "vi": "spoon"
+        },
+        "romaji": "saji"
       }
     ],
     "radical": {
@@ -47,5 +59,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05315.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5315.gif",
     "uri": "https://jisho.org/search/%E5%8C%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuỷ",
+    "truỷ",
+    "tỷ"
+  ]
 }

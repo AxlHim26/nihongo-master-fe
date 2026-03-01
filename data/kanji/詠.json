@@ -20,34 +20,52 @@
       {
         "example": "詠",
         "reading": "エイ",
-        "meaning": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem"
+        "meaning": {
+          "vi": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem"
+        },
+        "romaji": "ei"
       },
       {
         "example": "詠歌",
         "reading": "エイカ",
-        "meaning": "poem (esp. tanka), song, composition of a poem or song, pilgrim's song, pilgrim's hymn, singing a poem or song in a loud voice"
+        "meaning": {
+          "vi": "poem (esp. tanka), song, composition of a poem or song, pilgrim's song, pilgrim's hymn, singing a poem or song in a loud voice"
+        },
+        "romaji": "eika"
       },
       {
         "example": "朗詠",
         "reading": "ロウエイ",
-        "meaning": "recitation (of Japanese or Chinese poem)"
+        "meaning": {
+          "vi": "recitation (of Japanese or Chinese poem)"
+        },
+        "romaji": "rouei"
       },
       {
         "example": "遺詠",
         "reading": "イエイ",
-        "meaning": "posthumous song or poem"
+        "meaning": {
+          "vi": "posthumous song or poem"
+        },
+        "romaji": "iei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詠む",
         "reading": "よむ",
-        "meaning": "to compose (a Japanese poem), to write, to use as the theme of a poem, to recite (e.g. a poem), to chant, to intone"
+        "meaning": {
+          "vi": "to compose (a Japanese poem), to write, to use as the theme of a poem, to recite (e.g. a poem), to chant, to intone"
+        },
+        "romaji": "yomu"
       },
       {
         "example": "歌う",
         "reading": "うたう",
-        "meaning": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+        "meaning": {
+          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+        },
+        "romaji": "utau"
       }
     ],
     "radical": {
@@ -66,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a60.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a60.gif",
     "uri": "https://jisho.org/search/%E8%A9%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "vịnh"
+  ]
 }

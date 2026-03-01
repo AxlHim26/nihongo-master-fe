@@ -17,34 +17,52 @@
       {
         "example": "槌骨",
         "reading": "ツチコツ",
-        "meaning": "malleus (bone of the ear), hammer"
+        "meaning": {
+          "en": "malleus (bone of the ear), hammer"
+        },
+        "romaji": "tsuchikotsu"
       },
       {
         "example": "破城槌",
         "reading": "ハジョウツイ",
-        "meaning": "battering ram"
+        "meaning": {
+          "en": "battering ram"
+        },
+        "romaji": "hajoutsui"
       },
       {
         "example": "鉄槌",
         "reading": "テッツイ",
-        "meaning": "iron hammer, crushing blow"
+        "meaning": {
+          "en": "iron hammer, crushing blow"
+        },
+        "romaji": "tettsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "槌",
         "reading": "つち",
-        "meaning": "hammer, mallet, sledgehammer, gavel"
+        "meaning": {
+          "en": "hammer, mallet, sledgehammer, gavel"
+        },
+        "romaji": "tsuchi"
       },
       {
         "example": "槌音",
         "reading": "つちおと",
-        "meaning": "hammering sound, hammering"
+        "meaning": {
+          "en": "hammering sound, hammering"
+        },
+        "romaji": "tsuchioto"
       },
       {
         "example": "鑿と言えば槌",
         "reading": "のみといえばつち",
-        "meaning": "one should do more than what is literally being asked for, when told (to bring) the chisel, (also bring) the mallet"
+        "meaning": {
+          "en": "one should do more than what is literally being asked for, when told (to bring) the chisel, (also bring) the mallet"
+        },
+        "romaji": "nomitoiebatsuchi"
       }
     ],
     "radical": {
@@ -61,5 +79,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cc.gif",
     "uri": "https://jisho.org/search/%E6%A7%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuỳ",
+    "truỳ",
+    "đôi"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "麦穂",
         "reading": "バクスイ",
-        "meaning": "bông lúa mì"
+        "meaning": {
+          "vi": "bông lúa mì"
+        },
+        "romaji": "bakusui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "穂",
         "reading": "ほ",
-        "meaning": "bông (cây ngũ cốc), đầu, chóp, đỉnh sóng, chồi ghép"
+        "meaning": {
+          "vi": "bông (cây ngũ cốc), đầu, chóp, đỉnh sóng, chồi ghép"
+        },
+        "romaji": "ho"
       },
       {
         "example": "初穂",
         "reading": "はつほ",
-        "meaning": "bông lúa đầu mùa, vụ đầu mùa, lễ vật (dâng thần)"
+        "meaning": {
+          "vi": "bông lúa đầu mùa, vụ đầu mùa, lễ vật (dâng thần)"
+        },
+        "romaji": "hatsuho"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a57.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a57.gif",
     "uri": "https://jisho.org/search/%E7%A9%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuệ"
+  ]
 }

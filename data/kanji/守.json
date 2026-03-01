@@ -349,99 +349,156 @@
       {
         "example": "守備",
         "reading": "シュビ",
-        "meaning": "defense, defence"
+        "meaning": {
+          "en": "defense, defence"
+        },
+        "romaji": "shubi"
       },
       {
         "example": "守勢",
         "reading": "シュセイ",
-        "meaning": "(being on the) defensive"
+        "meaning": {
+          "en": "(being on the) defensive"
+        },
+        "romaji": "shusei"
       },
       {
         "example": "好守",
         "reading": "コウシュ",
-        "meaning": "good fielding"
+        "meaning": {
+          "en": "good fielding"
+        },
+        "romaji": "koushu"
       },
       {
         "example": "攻守",
         "reading": "コウシュ",
-        "meaning": "offense and defense, offence and defence, batting and fielding"
+        "meaning": {
+          "en": "offense and defense, offence and defence, batting and fielding"
+        },
+        "romaji": "koushu"
       },
       {
         "example": "守護",
         "reading": "シュゴ",
-        "meaning": "protection, safeguard, shugo (Kamakura or Muromachi period military governor)"
+        "meaning": {
+          "vi": "protection, safeguard, shugo (Kamakura or Muromachi period military governor)"
+        },
+        "romaji": "shugo"
       },
       {
         "example": "都寺",
         "reading": "ツウス",
-        "meaning": "one of the six administrators of a Zen temple"
+        "meaning": {
+          "vi": "one of the six administrators of a Zen temple"
+        },
+        "romaji": "tsuusu"
       },
       {
         "example": "居留守",
         "reading": "イルス",
-        "meaning": "pretending to be out"
+        "meaning": {
+          "vi": "pretending to be out"
+        },
+        "romaji": "irusu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "守る",
         "reading": "まもる",
-        "meaning": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow"
+        "meaning": {
+          "vi": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow"
+        },
+        "romaji": "mamoru"
       },
       {
         "example": "守り",
         "reading": "まもり",
-        "meaning": "protection, defense, defence, providence, amulet, charm, talisman"
+        "meaning": {
+          "vi": "protection, defense, defence, providence, amulet, charm, talisman"
+        },
+        "romaji": "mamori"
       },
       {
         "example": "守り神",
         "reading": "まもりがみ",
-        "meaning": "guardian deity"
+        "meaning": {
+          "en": "guardian deity"
+        },
+        "romaji": "mamorigami"
       },
       {
         "example": "島主",
         "reading": "とうしゅ",
-        "meaning": "island chief"
+        "meaning": {
+          "en": "island chief"
+        },
+        "romaji": "toushu"
       },
       {
         "example": "山守",
         "reading": "やまもり",
-        "meaning": "ranger (forest), mountain guardian"
+        "meaning": {
+          "en": "ranger (forest), mountain guardian"
+        },
+        "romaji": "yamamori"
       },
       {
         "example": "守り",
         "reading": "もり",
-        "meaning": "babysitting, babysitter, protecting, keeping, keeper"
+        "meaning": {
+          "vi": "babysitting, babysitter, protecting, keeping, keeper"
+        },
+        "romaji": "mori"
       },
       {
         "example": "守り立てる",
         "reading": "もりたてる",
-        "meaning": "to support, to back up, to rally round, to revive (e.g. a company), to boost (e.g. morale), to bring up, to raise"
+        "meaning": {
+          "vi": "to support, to back up, to rally round, to revive (e.g. a company), to boost (e.g. morale), to bring up, to raise"
+        },
+        "romaji": "moritateru"
       },
       {
         "example": "井守",
         "reading": "いもり",
-        "meaning": "newt (esp. the Japanese fire belly newt, Cynops pyrrhogaster)"
+        "meaning": {
+          "vi": "newt (esp. the Japanese fire belly newt, Cynops pyrrhogaster)"
+        },
+        "romaji": "imori"
       },
       {
         "example": "足無井守",
         "reading": "あしなしいもり",
-        "meaning": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        "meaning": {
+          "vi": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        },
+        "romaji": "ashinashiimori"
       },
       {
         "example": "守",
         "reading": "かみ",
-        "meaning": "director (of the provincial governors under the ritsuryō system)"
+        "meaning": {
+          "vi": "director (of the provincial governors under the ritsuryō system)"
+        },
+        "romaji": "kami"
       },
       {
         "example": "肥後守",
         "reading": "ひごのかみ",
-        "meaning": "higonokami, type of folding knife with metal handle"
+        "meaning": {
+          "vi": "higonokami, type of folding knife with metal handle"
+        },
+        "romaji": "higonokami"
       },
       {
         "example": "出羽守",
         "reading": "でわのかみ",
-        "meaning": "director of Dewa province, person who frequently makes comparisons with other countries, industries, etc. when complaining about an issue or situation"
+        "meaning": {
+          "vi": "director of Dewa province, person who frequently makes comparisons with other countries, industries, etc. when complaining about an issue or situation"
+        },
+        "romaji": "dewanokami"
       }
     ],
     "radical": {
@@ -456,5 +513,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b88.gif",
     "uri": "https://jisho.org/search/%E5%AE%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "thú",
+    "thủ"
+  ]
 }

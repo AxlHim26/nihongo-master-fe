@@ -365,54 +365,84 @@
       {
         "example": "様",
         "reading": "ヨウ",
-        "meaning": "appearing ..., looking ..., way to ..., method of ...ing, form, style, design, like, similar to, thing (thought or spoken)"
+        "meaning": {
+          "vi": "appearing ..., looking ..., way to ..., method of ...ing, form, style, design, like, similar to, thing (thought or spoken)"
+        },
+        "romaji": "you"
       },
       {
         "example": "様式",
         "reading": "ヨウシキ",
-        "meaning": "style, form, pattern"
+        "meaning": {
+          "vi": "style, form, pattern"
+        },
+        "romaji": "youshiki"
       },
       {
         "example": "文様",
         "reading": "モンヨウ",
-        "meaning": "pattern, design"
+        "meaning": {
+          "vi": "pattern, design"
+        },
+        "romaji": "mon'you"
       },
       {
         "example": "一様",
         "reading": "イチヨウ",
-        "meaning": "uniform, equal, even, the same, identical, common, ordinary, usual"
+        "meaning": {
+          "en": "uniform, equal, even, the same, identical, common, ordinary, usual"
+        },
+        "romaji": "ichiyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "様",
         "reading": "さま",
-        "meaning": "Mr, Mrs, Miss, Ms, makes a word more polite (usu. in fixed expressions), state, situation, appearance, manner"
+        "meaning": {
+          "vi": "Mr, Mrs, Miss, Ms, makes a word more polite (usu. in fixed expressions), state, situation, appearance, manner"
+        },
+        "romaji": "sama"
       },
       {
         "example": "様変わり",
         "reading": "さまがわり",
-        "meaning": "changing completely, transformation"
+        "meaning": {
+          "vi": "changing completely, transformation"
+        },
+        "romaji": "samagawari"
       },
       {
         "example": "殿様",
         "reading": "とのさま",
-        "meaning": "nobleman, dignitary, lord, feudal lord (of the Edo period), daimyo, man brought up away from the world, arrogant man with little knowledge of the ways of the world"
+        "meaning": {
+          "vi": "nobleman, dignitary, lord, feudal lord (of the Edo period), daimyo, man brought up away from the world, arrogant man with little knowledge of the ways of the world"
+        },
+        "romaji": "tonosama"
       },
       {
         "example": "ご馳走様",
         "reading": "ごちそうさま",
-        "meaning": "thank you (for the meal), that was a delicious meal, thank you (for displaying lovey-dovey behaviour)"
+        "meaning": {
+          "vi": "thank you (for the meal), that was a delicious meal, thank you (for displaying lovey-dovey behaviour)"
+        },
+        "romaji": "gochisousama"
       },
       {
         "example": "唐行きさん",
         "reading": "からゆきさん",
-        "meaning": "karayuki-san, young Japanese women who were sent to work (mainly as prostitutes) in foreign countries, esp. in Southeast Asia (Meiji to early Showa)"
+        "meaning": {
+          "vi": "karayuki-san, young Japanese women who were sent to work (mainly as prostitutes) in foreign countries, esp. in Southeast Asia (Meiji to early Showa)"
+        },
+        "romaji": "karayukisan"
       },
       {
         "example": "愛様",
         "reading": "いとさん",
-        "meaning": "daughter (of a good family)"
+        "meaning": {
+          "en": "daughter (of a good family)"
+        },
+        "romaji": "itosan"
       }
     ],
     "radical": {
@@ -430,5 +460,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69d8.gif",
     "uri": "https://jisho.org/search/%E6%A7%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "dạng"
+  ]
 }

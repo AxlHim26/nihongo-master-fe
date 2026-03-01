@@ -20,34 +20,52 @@
       {
         "example": "架",
         "reading": "カ",
-        "meaning": "rack, mount, stand"
+        "meaning": {
+          "en": "rack, mount, stand"
+        },
+        "romaji": "ka"
       },
       {
         "example": "架空",
         "reading": "カクウ",
-        "meaning": "fictitious, imaginary, fanciful, fabricated, aerial, overhead"
+        "meaning": {
+          "en": "fictitious, imaginary, fanciful, fabricated, aerial, overhead"
+        },
+        "romaji": "kakuu"
       },
       {
         "example": "高架",
         "reading": "コウカ",
-        "meaning": "elevated (structure), overhead"
+        "meaning": {
+          "en": "elevated (structure), overhead"
+        },
+        "romaji": "kouka"
       },
       {
         "example": "担架",
         "reading": "タンカ",
-        "meaning": "stretcher, litter, gurney"
+        "meaning": {
+          "en": "stretcher, litter, gurney"
+        },
+        "romaji": "tanka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "架ける",
         "reading": "かける",
-        "meaning": "to suspend between two points, to build (a bridge, etc.), to put up on something (e.g. legs up on table)"
+        "meaning": {
+          "vi": "to suspend between two points, to build (a bridge, etc.), to put up on something (e.g. legs up on table)"
+        },
+        "romaji": "kakeru"
       },
       {
         "example": "架かる",
         "reading": "かかる",
-        "meaning": "to span, to bridge, to cross, to straddle"
+        "meaning": {
+          "vi": "to span, to bridge, to cross, to straddle"
+        },
+        "romaji": "kakaru"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067b6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67b6.gif",
     "uri": "https://jisho.org/search/%E6%9E%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá"
+  ]
 }

@@ -15,17 +15,26 @@
       {
         "example": "絽",
         "reading": "ロ",
-        "meaning": "silk gauze (esp. used in light clothing for high summer)"
+        "meaning": {
+          "vi": "silk gauze (esp. used in light clothing for high summer)"
+        },
+        "romaji": "ro"
       },
       {
         "example": "絽織",
         "reading": "ロオリ",
-        "meaning": "gauze (fabric), gauze texture, gauze weave"
+        "meaning": {
+          "en": "gauze (fabric), gauze texture, gauze weave"
+        },
+        "romaji": "roori"
       },
       {
         "example": "黒絽",
         "reading": "クロロ",
-        "meaning": "black \"ro\" silk gauze"
+        "meaning": {
+          "en": "black \"ro\" silk gauze"
+        },
+        "romaji": "kuroro"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d7d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d7d.gif",
     "uri": "https://jisho.org/search/%E7%B5%BD%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

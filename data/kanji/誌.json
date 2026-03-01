@@ -267,22 +267,34 @@
       {
         "example": "誌",
         "reading": "シ",
-        "meaning": "magazine, journal"
+        "meaning": {
+          "en": "magazine, journal"
+        },
+        "romaji": "shi"
       },
       {
         "example": "記す",
         "reading": "シルス",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": {
+          "en": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        },
+        "romaji": "shirusu"
       },
       {
         "example": "風物詩",
         "reading": "フウブツシ",
-        "meaning": "feature of the season, something characteristic of a particular season, poem about natural scenery or a particular season"
+        "meaning": {
+          "vi": "feature of the season, something characteristic of a particular season, poem about natural scenery or a particular season"
+        },
+        "romaji": "fuubutsushi"
       },
       {
         "example": "日誌",
         "reading": "ニッシ",
-        "meaning": "journal, log"
+        "meaning": {
+          "en": "journal, log"
+        },
+        "romaji": "nisshi"
       }
     ],
     "kunyomiExamples": [],
@@ -302,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a8c.gif",
     "uri": "https://jisho.org/search/%E8%AA%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí"
+  ]
 }

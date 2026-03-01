@@ -20,34 +20,52 @@
       {
         "example": "悦",
         "reading": "エツ",
-        "meaning": "self-satisfaction, rejoicing"
+        "meaning": {
+          "en": "self-satisfaction, rejoicing"
+        },
+        "romaji": "etsu"
       },
       {
         "example": "悦に入る",
         "reading": "エツニイル",
-        "meaning": "to be pleased, to gloat, to glow with self-satisfaction"
+        "meaning": {
+          "vi": "to be pleased, to gloat, to glow with self-satisfaction"
+        },
+        "romaji": "etsuniiru"
       },
       {
         "example": "満悦",
         "reading": "マンエツ",
-        "meaning": "great delight, great satisfaction, rapture"
+        "meaning": {
+          "vi": "great delight, great satisfaction, rapture"
+        },
+        "romaji": "man'etsu"
       },
       {
         "example": "怡悦",
         "reading": "イエツ",
-        "meaning": "rejoicing"
+        "meaning": {
+          "en": "rejoicing"
+        },
+        "romaji": "ietsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喜ぶ",
         "reading": "よろこぶ",
-        "meaning": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
+        "meaning": {
+          "vi": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
+        },
+        "romaji": "yorokobu"
       },
       {
         "example": "喜ばす",
         "reading": "よろこばす",
-        "meaning": "to delight, to please, to make (someone) happy, to give pleasure (to)"
+        "meaning": {
+          "vi": "to delight, to please, to make (someone) happy, to give pleasure (to)"
+        },
+        "romaji": "yorokobasu"
       }
     ],
     "radical": {
@@ -68,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a6.gif",
     "uri": "https://jisho.org/search/%E6%82%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "duyệt"
+  ]
 }

@@ -17,17 +17,26 @@
       {
         "example": "孜々",
         "reading": "シシ",
-        "meaning": "assiduously, diligently"
+        "meaning": {
+          "en": "assiduously, diligently"
+        },
+        "romaji": "shishi"
       },
       {
         "example": "孜々営々",
         "reading": "シシエイエイ",
-        "meaning": "assiduously, with unremitting zeal"
+        "meaning": {
+          "en": "assiduously, with unremitting zeal"
+        },
+        "romaji": "shishieiei"
       },
       {
         "example": "孜々",
         "reading": "シシ",
-        "meaning": "assiduously, diligently"
+        "meaning": {
+          "en": "assiduously, diligently"
+        },
+        "romaji": "shishi"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b5c.gif",
     "uri": "https://jisho.org/search/%E5%AD%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

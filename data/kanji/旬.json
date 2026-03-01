@@ -18,37 +18,58 @@
       {
         "example": "旬",
         "reading": "ジュン",
-        "meaning": "ten-day period (in a month), ten-year period (in one's age), decade"
+        "meaning": {
+          "vi": "ten-day period (in a month), ten-year period (in one's age), decade"
+        },
+        "romaji": "jun"
       },
       {
         "example": "旬報",
         "reading": "ジュンポウ",
-        "meaning": "ten-day report"
+        "meaning": {
+          "vi": "ten-day report"
+        },
+        "romaji": "junpou"
       },
       {
         "example": "初旬",
         "reading": "ショジュン",
-        "meaning": "first 10 days of the month"
+        "meaning": {
+          "en": "first 10 days of the month"
+        },
+        "romaji": "shojun"
       },
       {
         "example": "一旬",
         "reading": "イチジュン",
-        "meaning": "ten days"
+        "meaning": {
+          "en": "ten days"
+        },
+        "romaji": "ichijun"
       },
       {
         "example": "旬",
         "reading": "シュン",
-        "meaning": "season (for fruit, seafood, etc.), best time of the year (for), in vogue, popular, hot, fresh"
+        "meaning": {
+          "vi": "season (for fruit, seafood, etc.), best time of the year (for), in vogue, popular, hot, fresh"
+        },
+        "romaji": "shun"
       },
       {
         "example": "旬の魚",
         "reading": "シュンノサカナ",
-        "meaning": "fish in season"
+        "meaning": {
+          "en": "fish in season"
+        },
+        "romaji": "shunnosakana"
       },
       {
         "example": "最旬",
         "reading": "サイシュン",
-        "meaning": "hottest (e.g. fashion), freshest, in vogue"
+        "meaning": {
+          "en": "hottest (e.g. fashion), freshest, in vogue"
+        },
+        "romaji": "saishun"
       }
     ],
     "kunyomiExamples": [],
@@ -64,5 +85,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ec.gif",
     "uri": "https://jisho.org/search/%E6%97%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyên",
+    "quân",
+    "tuần"
+  ]
 }

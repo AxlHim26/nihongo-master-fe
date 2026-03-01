@@ -267,29 +267,44 @@
       {
         "example": "戻入",
         "reading": "レイニュウ",
-        "meaning": "reversal of monies, funds, commissions"
+        "meaning": {
+          "en": "reversal of monies, funds, commissions"
+        },
+        "romaji": "reinyuu"
       },
       {
         "example": "背戻",
         "reading": "ハイレイ",
-        "meaning": "disobeying, infringing, running counter to"
+        "meaning": {
+          "en": "disobeying, infringing, running counter to"
+        },
+        "romaji": "hairei"
       },
       {
         "example": "暴戻",
         "reading": "ボウレイ",
-        "meaning": "tyranny, atrocity, brutality"
+        "meaning": {
+          "en": "tyranny, atrocity, brutality"
+        },
+        "romaji": "bourei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戻す",
         "reading": "もどす",
-        "meaning": "to put back, to return, to give back, to restore (to a previous state, e.g. defrosting, reconstituting, reconciling), to turn back (e.g. clock hand), to vomit, to throw up, to recover (of a market price)"
+        "meaning": {
+          "vi": "to put back, to return, to give back, to restore (to a previous state, e.g. defrosting, reconstituting, reconciling), to turn back (e.g. clock hand), to vomit, to throw up, to recover (of a market price)"
+        },
+        "romaji": "modosu"
       },
       {
         "example": "戻る",
         "reading": "もどる",
-        "meaning": "to turn back (e.g. half-way), to return, to go back, to recover (e.g. something lost), to be returned, to rebound, to spring back"
+        "meaning": {
+          "vi": "to turn back (e.g. half-way), to return, to go back, to recover (e.g. something lost), to be returned, to rebound, to spring back"
+        },
+        "romaji": "modoru"
       }
     ],
     "radical": {
@@ -310,5 +325,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0623b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/623b.gif",
     "uri": "https://jisho.org/search/%E6%88%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "lệ",
+    "liệt",
+    "lư"
+  ]
 }

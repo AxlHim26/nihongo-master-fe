@@ -16,44 +16,68 @@
       {
         "example": "斧鉞",
         "reading": "フエツ",
-        "meaning": "axe"
+        "meaning": {
+          "en": "axe"
+        },
+        "romaji": "fuetsu"
       },
       {
         "example": "斧斤",
         "reading": "フキン",
-        "meaning": "axe"
+        "meaning": {
+          "en": "axe"
+        },
+        "romaji": "fukin"
       },
       {
         "example": "石斧",
         "reading": "セキフ",
-        "meaning": "stone axe (ax)"
+        "meaning": {
+          "en": "stone axe (ax)"
+        },
+        "romaji": "sekifu"
       },
       {
         "example": "多頭石斧",
         "reading": "タトウセキフ",
-        "meaning": "stone axe with multiple cutting edges (Jōmon period)"
+        "meaning": {
+          "vi": "stone axe with multiple cutting edges (Jōmon period)"
+        },
+        "romaji": "tatousekifu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "斧",
         "reading": "おの",
-        "meaning": "axe, ax, hatchet"
+        "meaning": {
+          "en": "axe, ax, hatchet"
+        },
+        "romaji": "ono"
       },
       {
         "example": "斧足類",
         "reading": "ふそくるい",
-        "meaning": "pelecypods (i.e. bivalves)"
+        "meaning": {
+          "vi": "pelecypods (i.e. bivalves)"
+        },
+        "romaji": "fusokurui"
       },
       {
         "example": "戦斧",
         "reading": "せんぷ",
-        "meaning": "battleaxe"
+        "meaning": {
+          "en": "battleaxe"
+        },
+        "romaji": "senpu"
       },
       {
         "example": "手斧",
         "reading": "ておの",
-        "meaning": "hatchet, adze, adz"
+        "meaning": {
+          "en": "hatchet, adze, adz"
+        },
+        "romaji": "teono"
       }
     ],
     "radical": {
@@ -68,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065a7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65a7.gif",
     "uri": "https://jisho.org/search/%E6%96%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "phủ"
+  ]
 }

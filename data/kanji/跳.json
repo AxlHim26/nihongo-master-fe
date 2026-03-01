@@ -21,29 +21,44 @@
       {
         "example": "跳躍",
         "reading": "チョウヤク",
-        "meaning": "jump, leap, skip, bound"
+        "meaning": {
+          "vi": "jump, leap, skip, bound"
+        },
+        "romaji": "chouyaku"
       },
       {
         "example": "跳馬",
         "reading": "チョウバ",
-        "meaning": "long horse (for vaulting)"
+        "meaning": {
+          "en": "long horse (for vaulting)"
+        },
+        "romaji": "chouba"
       },
       {
         "example": "反跳",
         "reading": "ハンチョウ",
-        "meaning": "(physical) recoil"
+        "meaning": {
+          "vi": "(physical) recoil"
+        },
+        "romaji": "hanchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "跳ねる",
         "reading": "はねる",
-        "meaning": "to jump, to leap, to prance, to spring up, to bound, to hop, to break up, to close, to come to an end, to hit (e.g. to have a car hit something or someone)"
+        "meaning": {
+          "vi": "to jump, to leap, to prance, to spring up, to bound, to hop, to break up, to close, to come to an end, to hit (e.g. to have a car hit something or someone)"
+        },
+        "romaji": "haneru"
       },
       {
         "example": "飛ぶ",
         "reading": "とぶ",
-        "meaning": "to fly, to soar, to jump, to leap, to spring, to bound, to hop, to spatter, to scatter, to splash, to fly (e.g. of sparks), to hurry, to rush, to flee, to run off, to escape, to disappear, to vanish, to fade, to thin out, to break off, to come off, to fall off, to blow (of a fuse), to be sent out (of an order), to fly (of false rumours, catcalls, etc.), to come flying (of a punch, kick, etc.), to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation)"
+        "meaning": {
+          "vi": "to fly, to soar, to jump, to leap, to spring, to bound, to hop, to spatter, to scatter, to splash, to fly (e.g. of sparks), to hurry, to rush, to flee, to run off, to escape, to disappear, to vanish, to fade, to thin out, to break off, to come off, to fall off, to blow (of a fuse), to be sent out (of an order), to fly (of false rumours, catcalls, etc.), to come flying (of a punch, kick, etc.), to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation)"
+        },
+        "romaji": "tobu"
       }
     ],
     "radical": {
@@ -64,5 +79,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08df3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8df3.gif",
     "uri": "https://jisho.org/search/%E8%B7%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiêu",
+    "đào"
+  ]
 }

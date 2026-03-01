@@ -21,44 +21,92 @@
       {
         "example": "亀裂",
         "reading": "キレツ",
-        "meaning": "nứt, kẽ nứt, khe, nứt nẻ, rạn"
+        "meaning": {
+          "vi": "nứt, kẽ nứt, khe, nứt nẻ, rạn"
+        },
+        "meaningVN": "nứt, kẽ nứt, khe, nứt nẻ, rạn",
+        "hanViet": "quy liệt",
+        "hanVietExplain": "亀 (quy: con rùa) + 裂 (liệt: xé ra) → nứt, kẽ nứt, khe, nứt nẻ, rạn",
+        "romaji": "kiretsu"
       },
       {
         "example": "亀甲",
         "reading": "キッコウ",
-        "meaning": "mai rùa, hoa văn mai rùa, hoa văn tổ ong, dấu ngoặc mai rùa"
+        "meaning": {
+          "vi": "mai rùa, hoa văn mai rùa, hoa văn tổ ong, dấu ngoặc mai rùa"
+        },
+        "meaningVN": "mai rùa, hoa văn mai rùa, hoa văn tổ ong, dấu ngoặc mai rùa",
+        "hanViet": "quy giáp",
+        "hanVietExplain": "亀 (quy: con rùa) + 甲 (giáp: vỏ cứng của động vật) → mai rùa, hoa văn mai rùa, hoa văn tổ ong, dấu ngoặc mai rùa",
+        "romaji": "kikkou"
       },
       {
         "example": "霊亀",
         "reading": "レイキ",
-        "meaning": "rùa thần (điềm may), niên hiệu Reiki (715.9.2-717.11.17)"
+        "meaning": {
+          "vi": "rùa thần (điềm may), niên hiệu Reiki (715.9.2-717.11.17)"
+        },
+        "meaningVN": "rùa thần (điềm may), niên hiệu reiki (715.9.2-717.11.17)",
+        "hanViet": "linh quy",
+        "hanVietExplain": "霊 (linh: ?) + 亀 (quy: con rùa) → rùa thần (điềm may), niên hiệu reiki (715.9.2-717.11.17)",
+        "romaji": "reiki"
       },
       {
         "example": "宝亀",
         "reading": "ホウキ",
-        "meaning": "Niên hiệu Hōki (770.10.1-781.1.1)"
+        "meaning": {
+          "vi": "Niên hiệu Hōki (770.10.1-781.1.1)"
+        },
+        "meaningVN": "niên hiệu hōki (770.10.1-781.1.1)",
+        "hanViet": "bảo quy",
+        "hanVietExplain": "宝 (bảo: quý giá) + 亀 (quy: con rùa) → niên hiệu hōki (770.10.1-781.1.1)",
+        "romaji": "houki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "亀",
         "reading": "かめ",
-        "meaning": "rùa, người nghiện rượu, huy hiệu rùa"
+        "meaning": {
+          "vi": "rùa, người nghiện rượu, huy hiệu rùa"
+        },
+        "meaningVN": "rùa, người nghiện rượu, huy hiệu rùa",
+        "hanViet": "quy",
+        "hanVietExplain": "quy: con rùa",
+        "romaji": "kame"
       },
       {
         "example": "亀綾",
         "reading": "かめあや",
-        "meaning": "lụa trắng bóng cao cấp, vải lụa thô hoa văn kim cương"
+        "meaning": {
+          "vi": "lụa trắng bóng cao cấp, vải lụa thô hoa văn kim cương"
+        },
+        "meaningVN": "lụa trắng bóng cao cấp, vải lụa thô hoa văn kim cương",
+        "hanViet": "quy lăng",
+        "hanVietExplain": "亀 (quy: con rùa) + 綾 (lăng: lụa mỏng) → lụa trắng bóng cao cấp, vải lụa thô hoa văn kim cương",
+        "romaji": "kameaya"
       },
       {
         "example": "お亀",
         "reading": "おかめ",
-        "meaning": "phụ nữ bình thường (mũi thấp, trán rộng, má phúng); mì soba với chả cá, nấm, rau, rong biển..."
+        "meaning": {
+          "vi": "phụ nữ bình thường (mũi thấp, trán rộng, má phúng); mì soba với chả cá, nấm, rau, rong biển..."
+        },
+        "meaningVN": "phụ nữ bình thường (mũi thấp, trán rộng, má phúng); mì soba với chả cá, nấm, rau, rong biển...",
+        "hanViet": "お quy",
+        "hanVietExplain": "quy: con rùa",
+        "romaji": "okame"
       },
       {
         "example": "出歯亀",
         "reading": "でばかめ",
-        "meaning": "kẻ nhìn trộm"
+        "meaning": {
+          "vi": "kẻ nhìn trộm"
+        },
+        "meaningVN": "kẻ nhìn trộm",
+        "hanViet": "xuý xỉ quy",
+        "hanVietExplain": "出 (xuý: ra ngoài, đi ra) + 歯 (xỉ: răng) + 亀 (quy: con rùa) → kẻ nhìn trộm",
+        "romaji": "debakame"
       }
     ],
     "radical": {
@@ -80,5 +128,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e80.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e80.gif",
     "uri": "https://jisho.org/search/%E4%BA%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "quy"
+  ],
+  "meaningVN": "rùa",
+  "hanVietExplain": "quy: con rùa"
 }

@@ -305,49 +305,76 @@
       {
         "example": "打",
         "reading": "ダ",
-        "meaning": "hitting a ball (with a bat, golf club, etc.), batting, stroke"
+        "meaning": {
+          "en": "hitting a ball (with a bat, golf club, etc.), batting, stroke"
+        },
+        "romaji": "da"
       },
       {
         "example": "打",
         "reading": "ダース",
-        "meaning": "dozen"
+        "meaning": {
+          "en": "dozen"
+        },
+        "romaji": "daasu"
       },
       {
         "example": "本塁打",
         "reading": "ホンルイダ",
-        "meaning": "home run"
+        "meaning": {
+          "en": "home run"
+        },
+        "romaji": "honruida"
       },
       {
         "example": "二塁打",
         "reading": "ニルイダ",
-        "meaning": "two-base hit, double"
+        "meaning": {
+          "en": "two-base hit, double"
+        },
+        "romaji": "niruida"
       },
       {
         "example": "打",
         "reading": "ダース",
-        "meaning": "dozen"
+        "meaning": {
+          "en": "dozen"
+        },
+        "romaji": "daasu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "打つ",
         "reading": "うつ",
-        "meaning": "to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to vaccinate, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal), to drop (a piece)"
+        "meaning": {
+          "vi": "to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to vaccinate, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal), to drop (a piece)"
+        },
+        "romaji": "utsu"
       },
       {
         "example": "打つ手",
         "reading": "うつて",
-        "meaning": "way to do (something)"
+        "meaning": {
+          "en": "way to do (something)"
+        },
+        "romaji": "utsute"
       },
       {
         "example": "打つ",
         "reading": "ぶつ",
-        "meaning": "to hit (someone), to strike, to beat, to make (a speech), to give (an address), to gamble"
+        "meaning": {
+          "vi": "to hit (someone), to strike, to beat, to make (a speech), to give (an address), to gamble"
+        },
+        "romaji": "butsu"
       },
       {
         "example": "打付ける",
         "reading": "ぶつける",
-        "meaning": "to hit (e.g. one's head), to strike, to knock, to run (into), to crash (into), to throw (at), to fling (at), to hurl (at), to vent (e.g. one's anger), to express (one's feelings), to throw (a question at someone), to pit (someone) against, to set against, to match against, to put up against"
+        "meaning": {
+          "vi": "to hit (e.g. one's head), to strike, to knock, to run (into), to crash (into), to throw (at), to fling (at), to hurl (at), to vent (e.g. one's anger), to express (one's feelings), to throw (a question at someone), to pit (someone) against, to set against, to match against, to put up against"
+        },
+        "romaji": "butsukeru"
       }
     ],
     "radical": {
@@ -365,5 +392,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06253.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6253.gif",
     "uri": "https://jisho.org/search/%E6%89%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "tá",
+    "đả"
+  ]
 }

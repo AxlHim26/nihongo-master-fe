@@ -18,12 +18,18 @@
       {
         "example": "粳",
         "reading": "うる",
-        "meaning": "nonglutinous grain (not sticky enough to make mochi rice cakes)"
+        "meaning": {
+          "en": "nonglutinous grain (not sticky enough to make mochi rice cakes)"
+        },
+        "romaji": "uru"
       },
       {
         "example": "うるち米",
         "reading": "うるちまい",
-        "meaning": "normal rice (as opposed to mochi rice), non-sticky rice"
+        "meaning": {
+          "vi": "normal rice (as opposed to mochi rice), non-sticky rice"
+        },
+        "romaji": "uruchimai"
       }
     ],
     "radical": {
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cb3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cb3.gif",
     "uri": "https://jisho.org/search/%E7%B2%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "canh",
+    "cánh",
+    "ngạnh"
+  ]
 }

@@ -20,64 +20,98 @@
       {
         "example": "奴隷",
         "reading": "ドレイ",
-        "meaning": "slave, servant, slavery"
+        "meaning": {
+          "en": "slave, servant, slavery"
+        },
+        "romaji": "dorei"
       },
       {
         "example": "【ドチザメ】",
         "reading": "banded houndshark (Triakis scyllium)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "banded houndshark (Triakis scyllium)"
       },
       {
         "example": "売国奴",
         "reading": "バイコクド",
-        "meaning": "traitor (to one's country), quisling"
+        "meaning": {
+          "en": "traitor (to one's country), quisling"
+        },
+        "romaji": "baikokudo"
       },
       {
         "example": "農奴",
         "reading": "ノウド",
-        "meaning": "serf"
+        "meaning": {
+          "en": "serf"
+        },
+        "romaji": "noudo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奴",
         "reading": "やつ",
-        "meaning": "fellow, guy, chap, thing, object, he, she, him, her"
+        "meaning": {
+          "vi": "fellow, guy, chap, thing, object, he, she, him, her"
+        },
+        "romaji": "yatsu"
       },
       {
         "example": "臣",
         "reading": "やつこ",
-        "meaning": "slave, retainer, servant, captive, varlet, I, me"
+        "meaning": {
+          "vi": "slave, retainer, servant, captive, varlet, I, me"
+        },
+        "romaji": "yatsuko"
       },
       {
         "example": "彼奴",
         "reading": "あやつ",
-        "meaning": "he, she, that guy"
+        "meaning": {
+          "en": "he, she, that guy"
+        },
+        "romaji": "ayatsu"
       },
       {
         "example": "懲りない奴",
         "reading": "こりないやつ",
-        "meaning": "person (generally male) who won't learn their lesson, persistent jerk"
+        "meaning": {
+          "vi": "person (generally male) who won't learn their lesson, persistent jerk"
+        },
+        "romaji": "korinaiyatsu"
       },
       {
         "example": "奴",
         "reading": "やっこ",
-        "meaning": "servant (esp. a samurai's attendant), chivalrous man (Edo period), cubed tofu (often served cold), kite shaped like an Edo-period footman, Edo-period hairstyle worn by samurai's attendants, enslavement (of a woman; Edo-period punishment for her own or her husband's crime), he, she, him, her"
+        "meaning": {
+          "vi": "servant (esp. a samurai's attendant), chivalrous man (Edo period), cubed tofu (often served cold), kite shaped like an Edo-period footman, Edo-period hairstyle worn by samurai's attendants, enslavement (of a woman; Edo-period punishment for her own or her husband's crime), he, she, him, her"
+        },
+        "romaji": "yakko"
       },
       {
         "example": "奴頭",
         "reading": "やっこあたま",
-        "meaning": "Edo-period hairstyle worn by samurai's attendants"
+        "meaning": {
+          "vi": "Edo-period hairstyle worn by samurai's attendants"
+        },
+        "romaji": "yakkoatama"
       },
       {
         "example": "輪抜奴",
         "reading": "わぬけやっこ",
-        "meaning": "bluering angelfish (Pomacanthus annularis)"
+        "meaning": {
+          "vi": "bluering angelfish (Pomacanthus annularis)"
+        },
+        "romaji": "wanukeyakko"
       },
       {
         "example": "三下奴",
         "reading": "さんしたやっこ",
-        "meaning": "petty underling, small fry"
+        "meaning": {
+          "vi": "petty underling, small fry"
+        },
+        "romaji": "sanshitayakko"
       }
     ],
     "radical": {
@@ -92,5 +126,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05974.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5974.gif",
     "uri": "https://jisho.org/search/%E5%A5%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "nô"
+  ]
 }

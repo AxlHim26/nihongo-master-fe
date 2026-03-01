@@ -301,29 +301,44 @@
       {
         "example": "婦",
         "reading": "フ",
-        "meaning": "married woman, woman, lady"
+        "meaning": {
+          "en": "married woman, woman, lady"
+        },
+        "romaji": "fu"
       },
       {
         "example": "婦女暴行",
         "reading": "フジョボウコウ",
-        "meaning": "sexual assault (of a woman), rape"
+        "meaning": {
+          "vi": "sexual assault (of a woman), rape"
+        },
+        "romaji": "fujoboukou"
       },
       {
         "example": "保健婦",
         "reading": "ホケンフ",
-        "meaning": "district health nurse, public health nurse"
+        "meaning": {
+          "vi": "district health nurse, public health nurse"
+        },
+        "romaji": "hokenfu"
       },
       {
         "example": "老婦",
         "reading": "ロウフ",
-        "meaning": "old woman"
+        "meaning": {
+          "en": "old woman"
+        },
+        "romaji": "roufu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嫁",
         "reading": "よめ",
-        "meaning": "bride, (one's) daughter-in-law, wife"
+        "meaning": {
+          "en": "bride, (one's) daughter-in-law, wife"
+        },
+        "romaji": "yome"
       }
     ],
     "radical": {
@@ -340,5 +355,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a66.gif",
     "uri": "https://jisho.org/search/%E5%A9%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "phụ"
+  ]
 }

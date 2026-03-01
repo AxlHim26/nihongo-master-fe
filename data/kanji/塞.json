@@ -20,49 +20,76 @@
       {
         "example": "塞源",
         "reading": "ソクゲン",
-        "meaning": "blockage of a source"
+        "meaning": {
+          "en": "blockage of a source"
+        },
+        "romaji": "sokugen"
       },
       {
         "example": "塞栓",
         "reading": "ソクセン",
-        "meaning": "embolus, abnormal substance (i.e. air) circulating in the blood"
+        "meaning": {
+          "en": "embolus, abnormal substance (i.e. air) circulating in the blood"
+        },
+        "romaji": "sokusen"
       },
       {
         "example": "梗塞",
         "reading": "コウソク",
-        "meaning": "stoppage, blocking, infarction, infarct"
+        "meaning": {
+          "vi": "stoppage, blocking, infarction, infarct"
+        },
+        "romaji": "kousoku"
       },
       {
         "example": "閉塞",
         "reading": "ヘイソク",
-        "meaning": "blockage, blockade, blocking up, stoppage, obstruction, occlusion"
+        "meaning": {
+          "vi": "blockage, blockade, blocking up, stoppage, obstruction, occlusion"
+        },
+        "romaji": "heisoku"
       },
       {
         "example": "塞翁が馬",
         "reading": "サイオウガウマ",
-        "meaning": "the future is unpredictable, inscrutable are the ways of heaven, the irony of fate"
+        "meaning": {
+          "vi": "the future is unpredictable, inscrutable are the ways of heaven, the irony of fate"
+        },
+        "romaji": "saiougauma"
       },
       {
         "example": "塞外",
         "reading": "サイガイ",
-        "meaning": "outside a fort, outside the Great Wall of China"
+        "meaning": {
+          "en": "outside a fort, outside the Great Wall of China"
+        },
+        "romaji": "saigai"
       },
       {
         "example": "防塞",
         "reading": "ボウサイ",
-        "meaning": "fort, defensive position"
+        "meaning": {
+          "vi": "fort, defensive position"
+        },
+        "romaji": "bousai"
       },
       {
         "example": "城塞",
         "reading": "ジョウサイ",
-        "meaning": "fortress, stronghold, citadel"
+        "meaning": {
+          "en": "fortress, stronghold, citadel"
+        },
+        "romaji": "jousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塞ぐ",
         "reading": "ふさぐ",
-        "meaning": "to stop up, to close up, to block (up), to plug up, to shut up, to cover (ears, eyes, etc.), to close (eyes, mouth), to stand in the way, to obstruct, to occupy, to fill up, to take up, to perform one's role, to do one's duty, to feel depressed, to be in low spirits, to mope"
+        "meaning": {
+          "vi": "to stop up, to close up, to block (up), to plug up, to shut up, to cover (ears, eyes, etc.), to close (eyes, mouth), to stand in the way, to obstruct, to occupy, to fill up, to take up, to perform one's role, to do one's duty, to feel depressed, to be in low spirits, to mope"
+        },
+        "romaji": "fusagu"
       }
     ],
     "radical": {
@@ -79,5 +106,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585e.gif",
     "uri": "https://jisho.org/search/%E5%A1%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "tái",
+    "tắc"
+  ]
 }

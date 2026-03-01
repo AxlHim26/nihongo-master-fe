@@ -14,12 +14,18 @@
       {
         "example": "駅",
         "reading": "エキ",
-        "meaning": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
+        "meaning": {
+          "vi": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
+        },
+        "romaji": "eki"
       },
       {
         "example": "駅子",
         "reading": "エキシ",
-        "meaning": "staff at a horse changing station during the ritsuryō period"
+        "meaning": {
+          "vi": "staff at a horse changing station during the ritsuryō period"
+        },
+        "romaji": "ekishi"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5b.gif",
     "uri": "https://jisho.org/search/%E9%A9%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch"
+  ]
 }

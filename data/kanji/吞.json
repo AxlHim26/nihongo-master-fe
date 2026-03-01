@@ -18,17 +18,26 @@
       {
         "example": "呑酸",
         "reading": "ドンサン",
-        "meaning": "acid reflux, heart-burn"
+        "meaning": {
+          "en": "acid reflux, heart-burn"
+        },
+        "romaji": "donsan"
       },
       {
         "example": "呑舟",
         "reading": "ドンシュウ",
-        "meaning": "swallowing a boat whole"
+        "meaning": {
+          "en": "swallowing a boat whole"
+        },
+        "romaji": "donshuu"
       },
       {
         "example": "併呑",
         "reading": "ヘイドン",
-        "meaning": "annexation, absorption, merger, swallowing up"
+        "meaning": {
+          "vi": "annexation, absorption, merger, swallowing up"
+        },
+        "romaji": "heidon"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541e.gif",
     "uri": "https://jisho.org/search/%E5%90%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thôn"
+  ]
 }

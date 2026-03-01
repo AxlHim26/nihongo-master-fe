@@ -229,22 +229,34 @@
       {
         "example": "征服",
         "reading": "セイフク",
-        "meaning": "conquest, subjugation, overcoming (a difficulty), conquering (e.g. a mountain), mastery (of a skill)"
+        "meaning": {
+          "en": "conquest, subjugation, overcoming (a difficulty), conquering (e.g. a mountain), mastery (of a skill)"
+        },
+        "romaji": "seifuku"
       },
       {
         "example": "征圧",
         "reading": "セイアツ",
-        "meaning": "conquest, subjugation, overcoming, controlling"
+        "meaning": {
+          "en": "conquest, subjugation, overcoming, controlling"
+        },
+        "romaji": "seiatsu"
       },
       {
         "example": "出征",
         "reading": "シュッセイ",
-        "meaning": "going to war, departure for the front, departure for military service (in response to a draft)"
+        "meaning": {
+          "vi": "going to war, departure for the front, departure for military service (in response to a draft)"
+        },
+        "romaji": "shussei"
       },
       {
         "example": "長征",
         "reading": "チョウセイ",
-        "meaning": "lengthy military expedition, Long March (China, 1934-1936), Long March (series of Chinese launch vehicles)"
+        "meaning": {
+          "vi": "lengthy military expedition, Long March (China, 1934-1936), Long March (series of Chinese launch vehicles)"
+        },
+        "romaji": "chousei"
       }
     ],
     "kunyomiExamples": [],
@@ -261,5 +273,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f81.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f81.gif",
     "uri": "https://jisho.org/search/%E5%BE%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "chinh",
+    "trưng"
+  ]
 }

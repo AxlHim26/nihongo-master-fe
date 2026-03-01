@@ -351,29 +351,44 @@
       {
         "example": "統括",
         "reading": "トウカツ",
-        "meaning": "unification, bringing together, generalization, control, supervision"
+        "meaning": {
+          "vi": "unification, bringing together, generalization, control, supervision"
+        },
+        "romaji": "toukatsu"
       },
       {
         "example": "統一",
         "reading": "トウイツ",
-        "meaning": "unity, consolidation, uniformity, unification, compatible"
+        "meaning": {
+          "vi": "unity, consolidation, uniformity, unification, compatible"
+        },
+        "romaji": "touitsu"
       },
       {
         "example": "総統",
         "reading": "ソウトウ",
-        "meaning": "supreme ruler, generalissimo, president (of Taiwan), führer, fuehrer"
+        "meaning": {
+          "vi": "supreme ruler, generalissimo, president (of Taiwan), führer, fuehrer"
+        },
+        "romaji": "soutou"
       },
       {
         "example": "継統",
         "reading": "ケイトウ",
-        "meaning": "accession to the throne"
+        "meaning": {
+          "en": "accession to the throne"
+        },
+        "romaji": "keitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "統べる",
         "reading": "すべる",
-        "meaning": "to rule over, to govern, to command, to control, to integrate, to consolidate, to unite, to incorporate"
+        "meaning": {
+          "vi": "to rule over, to govern, to command, to control, to integrate, to consolidate, to unite, to incorporate"
+        },
+        "romaji": "suberu"
       }
     ],
     "radical": {
@@ -395,5 +410,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d71.gif",
     "uri": "https://jisho.org/search/%E7%B5%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thống"
+  ]
 }

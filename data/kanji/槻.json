@@ -19,12 +19,18 @@
       {
         "example": "欅",
         "reading": "けやき",
-        "meaning": "Japanese zelkova (Zelkova serrata)"
+        "meaning": {
+          "vi": "Japanese zelkova (Zelkova serrata)"
+        },
+        "romaji": "keyaki"
       },
       {
         "example": "槻欅",
         "reading": "つきげやき",
-        "meaning": "Japanese zelkova (Zelkova serrata)"
+        "meaning": {
+          "vi": "Japanese zelkova (Zelkova serrata)"
+        },
+        "romaji": "tsukigeyaki"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69fb.gif",
     "uri": "https://jisho.org/search/%E6%A7%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "quy"
+  ]
 }

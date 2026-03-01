@@ -229,29 +229,44 @@
       {
         "example": "渉外",
         "reading": "ショウガイ",
-        "meaning": "public relations, client liaison, client relations"
+        "meaning": {
+          "vi": "public relations, client liaison, client relations"
+        },
+        "romaji": "shougai"
       },
       {
         "example": "渉外係",
         "reading": "ショウガイガカリ",
-        "meaning": "liaison officer, public relations man"
+        "meaning": {
+          "vi": "liaison officer, public relations man"
+        },
+        "romaji": "shougaigakari"
       },
       {
         "example": "団体交渉",
         "reading": "ダンタイコウショウ",
-        "meaning": "collective bargaining"
+        "meaning": {
+          "en": "collective bargaining"
+        },
+        "romaji": "dantaikoushou"
       },
       {
         "example": "婚外交渉",
         "reading": "コンガイコウショウ",
-        "meaning": "extramarital sex"
+        "meaning": {
+          "en": "extramarital sex"
+        },
+        "romaji": "kongaikoushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渡る",
         "reading": "わたる",
-        "meaning": "to cross over, to go across, to extend, to cover, to range, to span"
+        "meaning": {
+          "vi": "to cross over, to go across, to extend, to cover, to range, to span"
+        },
+        "romaji": "wataru"
       }
     ],
     "radical": {
@@ -272,5 +287,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e09.gif",
     "uri": "https://jisho.org/search/%E6%B8%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiệp"
+  ]
 }

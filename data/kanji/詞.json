@@ -285,44 +285,68 @@
       {
         "example": "詞",
         "reading": "シ",
-        "meaning": "words, writing, lyrics, ci (form of Chinese poetry), independent word"
+        "meaning": {
+          "vi": "words, writing, lyrics, ci (form of Chinese poetry), independent word"
+        },
+        "romaji": "shi"
       },
       {
         "example": "詞華集",
         "reading": "シカシュウ",
-        "meaning": "anthology (of poems), florilegium"
+        "meaning": {
+          "vi": "anthology (of poems), florilegium"
+        },
+        "romaji": "shikashuu"
       },
       {
         "example": "作詞",
         "reading": "サクシ",
-        "meaning": "(writing) song lyrics"
+        "meaning": {
+          "en": "(writing) song lyrics"
+        },
+        "romaji": "sakushi"
       },
       {
         "example": "固有名詞",
         "reading": "コユウメイシ",
-        "meaning": "proper noun"
+        "meaning": {
+          "vi": "proper noun"
+        },
+        "romaji": "koyuumeishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "言葉",
         "reading": "ことば",
-        "meaning": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"
+        "meaning": {
+          "vi": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"
+        },
+        "romaji": "kotoba"
       },
       {
         "example": "詞書き",
         "reading": "ことばがき",
-        "meaning": "foreword to a collection of poems, preface, explanatory notes, captions"
+        "meaning": {
+          "vi": "foreword to a collection of poems, preface, explanatory notes, captions"
+        },
+        "romaji": "kotobagaki"
       },
       {
         "example": "枕詞",
         "reading": "まくらことば",
-        "meaning": "pillow word, decorative word used prefixally in classical Japanese literature, preface, introduction"
+        "meaning": {
+          "vi": "pillow word, decorative word used prefixally in classical Japanese literature, preface, introduction"
+        },
+        "romaji": "makurakotoba"
       },
       {
         "example": "花言葉",
         "reading": "はなことば",
-        "meaning": "language of flowers (e.g. the use of red roses to signify love), floriography"
+        "meaning": {
+          "vi": "language of flowers (e.g. the use of red roses to signify love), floriography"
+        },
+        "romaji": "hanakotoba"
       }
     ],
     "radical": {
@@ -342,5 +366,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a5e.gif",
     "uri": "https://jisho.org/search/%E8%A9%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "từ"
+  ]
 }

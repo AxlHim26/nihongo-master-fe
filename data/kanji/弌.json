@@ -18,7 +18,10 @@
       {
         "example": "一",
         "reading": "イチ",
-        "meaning": "one, 1, best, first, foremost, beginning, start, a (single), one (of many), ace, bottom string (on a shamisen, etc.)"
+        "meaning": {
+          "en": "one, 1, best, first, foremost, beginning, start, a (single), one (of many), ace, bottom string (on a shamisen, etc.)"
+        },
+        "romaji": "ichi"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0c.gif",
     "uri": "https://jisho.org/search/%E5%BC%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhất"
+  ]
 }

@@ -16,7 +16,10 @@
       {
         "example": "暗然",
         "reading": "アンゼン",
-        "meaning": "tối, u ám, đen, không rõ, buồn bã, chán nản, thất vọng, rơi lệ, ngã lòng"
+        "meaning": {
+          "vi": "tối, u ám, đen, không rõ, buồn bã, chán nản, thất vọng, rơi lệ, ngã lòng"
+        },
+        "romaji": "anzen"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09eef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9eef.gif",
     "uri": "https://jisho.org/search/%E9%BB%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "ảm"
+  ]
 }

@@ -250,44 +250,68 @@
       {
         "example": "午前",
         "reading": "ゴゼン",
-        "meaning": "morning, a.m."
+        "meaning": {
+          "en": "morning, a.m."
+        },
+        "romaji": "gozen"
       },
       {
         "example": "午後",
         "reading": "ゴゴ",
-        "meaning": "afternoon, p.m."
+        "meaning": {
+          "vi": "afternoon, p.m."
+        },
+        "romaji": "gogo"
       },
       {
         "example": "端午",
         "reading": "タンゴ",
-        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+        "meaning": {
+          "en": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+        },
+        "romaji": "tango"
       },
       {
         "example": "亭午",
         "reading": "テイゴ",
-        "meaning": "noon"
+        "meaning": {
+          "en": "noon"
+        },
+        "romaji": "teigo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "午",
         "reading": "うま",
-        "meaning": "the Horse (seventh sign of the Chinese zodiac), hour of the Horse (around noon, 11am-1pm, or 12 noon-2pm), south, fifth month of the lunar calendar"
+        "meaning": {
+          "vi": "the Horse (seventh sign of the Chinese zodiac), hour of the Horse (around noon, 11am-1pm, or 12 noon-2pm), south, fifth month of the lunar calendar"
+        },
+        "romaji": "uma"
       },
       {
         "example": "午年",
         "reading": "うまどし",
-        "meaning": "year of the Horse"
+        "meaning": {
+          "en": "year of the Horse"
+        },
+        "romaji": "umadoshi"
       },
       {
         "example": "庚午",
         "reading": "かのえうま",
-        "meaning": "Metal Horse (7th term of the sexagenary cycle, e.g. 1930, 1990, 2050)"
+        "meaning": {
+          "en": "Metal Horse (7th term of the sexagenary cycle, e.g. 1930, 1990, 2050)"
+        },
+        "romaji": "kanoeuma"
       },
       {
         "example": "甲午",
         "reading": "きのえうま",
-        "meaning": "Wood Horse (31st term of the sexagenary cycle, e.g. 1954, 2014, 2074)"
+        "meaning": {
+          "en": "Wood Horse (31st term of the sexagenary cycle, e.g. 1954, 2014, 2074)"
+        },
+        "romaji": "kinoeuma"
       }
     ],
     "radical": {
@@ -304,5 +328,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05348.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5348.gif",
     "uri": "https://jisho.org/search/%E5%8D%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngọ"
+  ]
 }

@@ -19,12 +19,18 @@
       {
         "example": "豈",
         "reading": "あに",
-        "meaning": "never, by no means, not in the least, in no way, why, what for"
+        "meaning": {
+          "en": "never, by no means, not in the least, in no way, why, what for"
+        },
+        "romaji": "ani"
       },
       {
         "example": "あに図らんや",
         "reading": "あにはからんや",
-        "meaning": "contrary to one's expectations, to one's surprise"
+        "meaning": {
+          "vi": "contrary to one's expectations, to one's surprise"
+        },
+        "romaji": "anihakaran'ya"
       }
     ],
     "radical": {
@@ -41,5 +47,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c48.gif",
     "uri": "https://jisho.org/search/%E8%B1%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "khải",
+    "khỉ",
+    "khởi"
+  ]
 }

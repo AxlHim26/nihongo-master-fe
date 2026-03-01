@@ -16,34 +16,52 @@
       {
         "example": "海葱",
         "reading": "カイソウ",
-        "meaning": "hành biển"
+        "meaning": {
+          "vi": "hành biển"
+        },
+        "romaji": "kaisou"
       },
       {
         "example": "鬱蒼",
         "reading": "ウッソウ",
-        "meaning": "dày, rậm rạp"
+        "meaning": {
+          "vi": "dày, rậm rạp"
+        },
+        "romaji": "ussou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葱",
         "reading": "ねぎ",
-        "meaning": "hành lá Nhật, hành xanh"
+        "meaning": {
+          "vi": "hành lá Nhật, hành xanh"
+        },
+        "romaji": "negi"
       },
       {
         "example": "葱油",
         "reading": "ねぎあぶら",
-        "meaning": "dầu hành"
+        "meaning": {
+          "vi": "dầu hành"
+        },
+        "romaji": "negiabura"
       },
       {
         "example": "万能ネギ",
         "reading": "ばんのうねぎ",
-        "meaning": "ngọn hành xanh (băm làm gia vị)"
+        "meaning": {
+          "vi": "ngọn hành xanh (băm làm gia vị)"
+        },
+        "romaji": "bannounegi"
       },
       {
         "example": "九条ネギ",
         "reading": "くじょうねぎ",
-        "meaning": "hành Kujō (phổ biến ở vùng Kansai)"
+        "meaning": {
+          "vi": "hành Kujō (phổ biến ở vùng Kansai)"
+        },
+        "romaji": "kujounegi"
       }
     ],
     "radical": {
@@ -63,5 +81,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08471.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8471.gif",
     "uri": "https://jisho.org/search/%E8%91%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "song",
+    "thông"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "赦",
         "reading": "シャ",
-        "meaning": "pardon, amnesty"
+        "meaning": {
+          "vi": "pardon, amnesty"
+        },
+        "romaji": "sha"
       },
       {
         "example": "赦免",
         "reading": "シャメン",
-        "meaning": "pardon, remission, amnesty"
+        "meaning": {
+          "vi": "pardon, remission, amnesty"
+        },
+        "romaji": "shamen"
       },
       {
         "example": "特赦",
         "reading": "トクシャ",
-        "meaning": "special pardon, (general) amnesty"
+        "meaning": {
+          "vi": "special pardon, (general) amnesty"
+        },
+        "romaji": "tokusha"
       },
       {
         "example": "情け容赦",
         "reading": "ナサケヨウシャ",
-        "meaning": "mercy"
+        "meaning": {
+          "en": "mercy"
+        },
+        "romaji": "nasakeyousha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "許す",
         "reading": "ゆるす",
-        "meaning": "to permit, to allow, to approve, to consent to, to forgive, to pardon, to excuse, to tolerate, to exempt (someone) from, to remit, to release, to let off, to acknowledge, to admit, to trust, to confide in, to let one's guard down, to give up (points in a game, distance in a race, etc.), to yield"
+        "meaning": {
+          "vi": "to permit, to allow, to approve, to consent to, to forgive, to pardon, to excuse, to tolerate, to exempt (someone) from, to remit, to release, to let off, to acknowledge, to admit, to trust, to confide in, to let one's guard down, to give up (points in a game, distance in a race, etc.), to yield"
+        },
+        "romaji": "yurusu"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d66.gif",
     "uri": "https://jisho.org/search/%E8%B5%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "xá"
+  ]
 }

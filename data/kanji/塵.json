@@ -18,54 +18,82 @@
       {
         "example": "塵",
         "reading": "ジン",
-        "meaning": "defilement, impurity, affliction, object (perceived with the mind or the senses), one billionth"
+        "meaning": {
+          "vi": "defilement, impurity, affliction, object (perceived with the mind or the senses), one billionth"
+        },
+        "romaji": "jin"
       },
       {
         "example": "塵埃",
         "reading": "ジンアイ",
-        "meaning": "dust, dirt, dreary world, petty affairs of everyday life"
+        "meaning": {
+          "vi": "dust, dirt, dreary world, petty affairs of everyday life"
+        },
+        "romaji": "jin'ai"
       },
       {
         "example": "灰塵",
         "reading": "カイジン",
-        "meaning": "ashes and dust"
+        "meaning": {
+          "en": "ashes and dust"
+        },
+        "romaji": "kaijin"
       },
       {
         "example": "細塵",
         "reading": "サイジン",
-        "meaning": "fine dust"
+        "meaning": {
+          "en": "fine dust"
+        },
+        "romaji": "saijin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塵",
         "reading": "ちり",
-        "meaning": "dust, trash, garbage, rubbish, dirt, negligible amount, tiny bit, hustle and bustle (of life), worldly cares, impurities of the world, ritual gestures indicating that a fight will be clean"
+        "meaning": {
+          "vi": "dust, trash, garbage, rubbish, dirt, negligible amount, tiny bit, hustle and bustle (of life), worldly cares, impurities of the world, ritual gestures indicating that a fight will be clean"
+        },
+        "romaji": "chiri"
       },
       {
         "example": "ちり紙",
         "reading": "ちりがみ",
-        "meaning": "tissue paper, toilet paper"
+        "meaning": {
+          "vi": "tissue paper, toilet paper"
+        },
+        "romaji": "chirigami"
       },
       {
         "example": "【ゴミ】",
         "reading": "rubbish, trash, garbage, refuse, litter",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "rubbish, trash, garbage, refuse, litter"
       },
       {
         "example": "ゴミ箱",
         "reading": "ごみばこ",
-        "meaning": "trash can, garbage can, rubbish bin, dustbin"
+        "meaning": {
+          "en": "trash can, garbage can, rubbish bin, dustbin"
+        },
+        "romaji": "gomibako"
       },
       {
         "example": "粗大ごみ",
         "reading": "そだいごみ",
-        "meaning": "large-size refuse (e.g. furniture, electrical goods), oversized garbage, bulky rubbish, useless man about the house, husband who is retired and considered a nuisance"
+        "meaning": {
+          "en": "large-size refuse (e.g. furniture, electrical goods), oversized garbage, bulky rubbish, useless man about the house, husband who is retired and considered a nuisance"
+        },
+        "romaji": "sodaigomi"
       },
       {
         "example": "家庭ごみ",
         "reading": "かていごみ",
-        "meaning": "household garbage, household trash, household refuse"
+        "meaning": {
+          "en": "household garbage, household trash, household refuse"
+        },
+        "romaji": "kateigomi"
       }
     ],
     "radical": {
@@ -82,5 +110,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05875.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5875.gif",
     "uri": "https://jisho.org/search/%E5%A1%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "trần"
+  ]
 }

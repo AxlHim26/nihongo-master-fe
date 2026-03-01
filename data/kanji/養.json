@@ -303,29 +303,44 @@
       {
         "example": "養子",
         "reading": "ヨウシ",
-        "meaning": "adopted child (usu. male), son-in-law"
+        "meaning": {
+          "vi": "adopted child (usu. male), son-in-law"
+        },
+        "romaji": "youshi"
       },
       {
         "example": "養育",
         "reading": "ヨウイク",
-        "meaning": "bringing up, rearing, upbringing"
+        "meaning": {
+          "vi": "bringing up, rearing, upbringing"
+        },
+        "romaji": "youiku"
       },
       {
         "example": "供養",
         "reading": "クヨウ",
-        "meaning": "memorial service for the dead, holding a service"
+        "meaning": {
+          "en": "memorial service for the dead, holding a service"
+        },
+        "romaji": "kuyou"
       },
       {
         "example": "培養",
         "reading": "バイヨウ",
-        "meaning": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+        "meaning": {
+          "vi": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+        },
+        "romaji": "baiyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "養う",
         "reading": "やしなう",
-        "meaning": "to support, to maintain, to provide for, to bring up, to raise, to rear, to feed, to adopt (a child), to cultivate (a habit, a quality, etc.), to develop, to build up, to foster, to recuperate (from injury, illness, etc.)"
+        "meaning": {
+          "vi": "to support, to maintain, to provide for, to bring up, to raise, to rear, to feed, to adopt (a child), to cultivate (a habit, a quality, etc.), to develop, to build up, to foster, to recuperate (from injury, illness, etc.)"
+        },
+        "romaji": "yashinau"
       }
     ],
     "radical": {
@@ -345,5 +360,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0990a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/990a.gif",
     "uri": "https://jisho.org/search/%E9%A4%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "dường",
+    "dưỡng",
+    "dượng",
+    "dạng"
+  ]
 }

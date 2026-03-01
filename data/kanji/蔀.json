@@ -20,12 +20,18 @@
       {
         "example": "蔀",
         "reading": "しとみ",
-        "meaning": "latticed shutters (in traditional Japanese and Chinese architecture)"
+        "meaning": {
+          "vi": "latticed shutters (in traditional Japanese and Chinese architecture)"
+        },
+        "romaji": "shitomi"
       },
       {
         "example": "蔀戸",
         "reading": "しとみど",
-        "meaning": "latticed shutters (in traditional Japanese and Chinese architecture)"
+        "meaning": {
+          "vi": "latticed shutters (in traditional Japanese and Chinese architecture)"
+        },
+        "romaji": "shitomido"
       }
     ],
     "radical": {
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08500.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8500.gif",
     "uri": "https://jisho.org/search/%E8%94%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "bộ"
+  ]
 }

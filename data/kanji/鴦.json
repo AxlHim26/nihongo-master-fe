@@ -14,7 +14,10 @@
       {
         "example": "鴛鴦",
         "reading": "エンオウ",
-        "meaning": "mandarin duck"
+        "meaning": {
+          "en": "mandarin duck"
+        },
+        "romaji": "en'ou"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d26.gif",
     "uri": "https://jisho.org/search/%E9%B4%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "ương"
+  ]
 }

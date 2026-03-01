@@ -301,54 +301,84 @@
       {
         "example": "南",
         "reading": "ナン",
-        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+        "meaning": {
+          "vi": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+        },
+        "romaji": "nan"
       },
       {
         "example": "南海",
         "reading": "ナンカイ",
-        "meaning": "southern sea"
+        "meaning": {
+          "en": "southern sea"
+        },
+        "romaji": "nankai"
       },
       {
         "example": "東南",
         "reading": "トウナン",
-        "meaning": "south-east"
+        "meaning": {
+          "en": "south-east"
+        },
+        "romaji": "tounan"
       },
       {
         "example": "西南",
         "reading": "セイナン",
-        "meaning": "south-west"
+        "meaning": {
+          "en": "south-west"
+        },
+        "romaji": "seinan"
       },
       {
         "example": "南",
         "reading": "ナン",
-        "meaning": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+        "meaning": {
+          "vi": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+        },
+        "romaji": "nan"
       },
       {
         "example": "南海",
         "reading": "ナンカイ",
-        "meaning": "southern sea"
+        "meaning": {
+          "en": "southern sea"
+        },
+        "romaji": "nankai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "南",
         "reading": "みなみ",
-        "meaning": "south"
+        "meaning": {
+          "en": "south"
+        },
+        "romaji": "minami"
       },
       {
         "example": "南アフリカ",
         "reading": "みなみアフリカ",
-        "meaning": "South Africa"
+        "meaning": {
+          "en": "South Africa"
+        },
+        "romaji": "minamiafurika"
       },
       {
         "example": "東南",
         "reading": "とうなん",
-        "meaning": "south-east"
+        "meaning": {
+          "en": "south-east"
+        },
+        "romaji": "tounan"
       },
       {
         "example": "西南",
         "reading": "せいなん",
-        "meaning": "south-west"
+        "meaning": {
+          "en": "south-west"
+        },
+        "romaji": "seinan"
       }
     ],
     "radical": {
@@ -365,5 +395,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05357.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5357.gif",
     "uri": "https://jisho.org/search/%E5%8D%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "na",
+    "nam"
+  ]
 }

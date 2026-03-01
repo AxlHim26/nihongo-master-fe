@@ -312,22 +312,34 @@
       {
         "example": "評",
         "reading": "ヒョウ",
-        "meaning": "criticism, commentary, review"
+        "meaning": {
+          "en": "criticism, commentary, review"
+        },
+        "romaji": "hyou"
       },
       {
         "example": "評価",
         "reading": "ヒョウカ",
-        "meaning": "valuation, appraisal, evaluation, assessment, estimation, rating, judging, appreciation, recognition, acknowledgement, rating highly, praising"
+        "meaning": {
+          "vi": "valuation, appraisal, evaluation, assessment, estimation, rating, judging, appreciation, recognition, acknowledgement, rating highly, praising"
+        },
+        "romaji": "hyouka"
       },
       {
         "example": "総評",
         "reading": "ソウヒョウ",
-        "meaning": "general comment"
+        "meaning": {
+          "en": "general comment"
+        },
+        "romaji": "souhyou"
       },
       {
         "example": "大好評",
         "reading": "ダイコウヒョウ",
-        "meaning": "very highly commended, highly lauded, very well-received, very popular"
+        "meaning": {
+          "vi": "very highly commended, highly lauded, very well-received, very popular"
+        },
+        "romaji": "daikouhyou"
       }
     ],
     "kunyomiExamples": [],
@@ -349,5 +361,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a55.gif",
     "uri": "https://jisho.org/search/%E8%A9%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "bình"
+  ]
 }

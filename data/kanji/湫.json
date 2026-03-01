@@ -19,12 +19,18 @@
       {
         "example": "湫",
         "reading": "くで",
-        "meaning": "wetland, marsh"
+        "meaning": {
+          "en": "wetland, marsh"
+        },
+        "romaji": "kude"
       },
       {
         "example": "湫",
         "reading": "くで",
-        "meaning": "wetland, marsh"
+        "meaning": {
+          "en": "wetland, marsh"
+        },
+        "romaji": "kude"
       }
     ],
     "radical": {
@@ -44,5 +50,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e6b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e6b.gif",
     "uri": "https://jisho.org/search/%E6%B9%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiều",
+    "tiểu",
+    "tưu"
+  ]
 }

@@ -21,39 +21,60 @@
       {
         "example": "貞",
         "reading": "テイ",
-        "meaning": "firm adherence to one's principles, chastity (of a woman)"
+        "meaning": {
+          "vi": "firm adherence to one's principles, chastity (of a woman)"
+        },
+        "romaji": "tei"
       },
       {
         "example": "貞潔",
         "reading": "テイケツ",
-        "meaning": "chastity, purity"
+        "meaning": {
+          "vi": "chastity, purity"
+        },
+        "romaji": "teiketsu"
       },
       {
         "example": "シロウト童貞",
         "reading": "シロウトドウテイ",
-        "meaning": "man who has never had sex except with sex workers"
+        "meaning": {
+          "vi": "man who has never had sex except with sex workers"
+        },
+        "romaji": "shiroutodoutei"
       },
       {
         "example": "不貞",
         "reading": "フテイ",
-        "meaning": "unfaithfulness, infidelity, unchastity"
+        "meaning": {
+          "en": "unfaithfulness, infidelity, unchastity"
+        },
+        "romaji": "futei"
       },
       {
         "example": "貞永",
         "reading": "ジョウエイ",
-        "meaning": "Jōei era (1232.4.2-1233.4.15)"
+        "meaning": {
+          "en": "Jōei era (1232.4.2-1233.4.15)"
+        },
+        "romaji": "jouei"
       },
       {
         "example": "貞応",
         "reading": "ジョウオウ",
-        "meaning": "Jōō era (1222.4.13-1224.11.20)"
+        "meaning": {
+          "en": "Jōō era (1222.4.13-1224.11.20)"
+        },
+        "romaji": "jouou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貞はる",
         "reading": "さだはる",
-        "meaning": "to harp too long on a subject"
+        "meaning": {
+          "vi": "to harp too long on a subject"
+        },
+        "romaji": "sadaharu"
       }
     ],
     "radical": {
@@ -70,5 +91,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c9e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c9e.gif",
     "uri": "https://jisho.org/search/%E8%B2%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "trinh"
+  ]
 }

@@ -17,14 +17,20 @@
       {
         "example": "傷悴",
         "reading": "ショウスイ",
-        "meaning": "great grief"
+        "meaning": {
+          "en": "great grief"
+        },
+        "romaji": "shousui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "倅",
         "reading": "せがれ",
-        "meaning": "son, punk, brat, penis"
+        "meaning": {
+          "vi": "son, punk, brat, penis"
+        },
+        "romaji": "segare"
       }
     ],
     "radical": {
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ff0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ff0.gif",
     "uri": "https://jisho.org/search/%E5%BF%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuỵ"
+  ]
 }

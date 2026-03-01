@@ -19,34 +19,52 @@
       {
         "example": "凸",
         "reading": "トツ",
-        "meaning": "lồi"
+        "meaning": {
+          "vi": "lồi"
+        },
+        "romaji": "totsu"
       },
       {
         "example": "凸凹",
         "reading": "デコボコ",
-        "meaning": "gồ ghề, không bằng phẳng, chênh lệch"
+        "meaning": {
+          "vi": "gồ ghề, không bằng phẳng, chênh lệch"
+        },
+        "romaji": "dekoboko"
       },
       {
         "example": "凹凸",
         "reading": "オウトツ",
-        "meaning": "gồ ghề, không bằng phẳng, chênh lệch"
+        "meaning": {
+          "vi": "gồ ghề, không bằng phẳng, chênh lệch"
+        },
+        "romaji": "outotsu"
       },
       {
         "example": "両凸",
         "reading": "リョウトツ",
-        "meaning": "lồi hai mặt"
+        "meaning": {
+          "vi": "lồi hai mặt"
+        },
+        "romaji": "ryoutotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "凸",
         "reading": "でこ",
-        "meaning": "trán, gồ"
+        "meaning": {
+          "vi": "trán, gồ"
+        },
+        "romaji": "deko"
       },
       {
         "example": "凸凹",
         "reading": "でこぼこ",
-        "meaning": "gồ ghề, không bằng phẳng, chênh lệch"
+        "meaning": {
+          "vi": "gồ ghề, không bằng phẳng, chênh lệch"
+        },
+        "romaji": "dekoboko"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f8.gif",
     "uri": "https://jisho.org/search/%E5%87%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "đột"
+  ]
 }

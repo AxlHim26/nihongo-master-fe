@@ -268,34 +268,52 @@
       {
         "example": "永久",
         "reading": "エイキュウ",
-        "meaning": "eternity, permanence, perpetuity, Eikyū era (1113.7.13-1118.4.3)"
+        "meaning": {
+          "vi": "eternity, permanence, perpetuity, Eikyū era (1113.7.13-1118.4.3)"
+        },
+        "romaji": "eikyuu"
       },
       {
         "example": "永遠",
         "reading": "エイエン",
-        "meaning": "eternity, perpetuity, permanence, immortality"
+        "meaning": {
+          "vi": "eternity, perpetuity, permanence, immortality"
+        },
+        "romaji": "eien"
       },
       {
         "example": "永々",
         "reading": "エイエイ",
-        "meaning": "forever"
+        "meaning": {
+          "en": "forever"
+        },
+        "romaji": "eiei"
       },
       {
         "example": "大永",
         "reading": "タイエイ",
-        "meaning": "Taiei era (1521.8.23-1528.8.20)"
+        "meaning": {
+          "en": "Taiei era (1521.8.23-1528.8.20)"
+        },
+        "romaji": "taiei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "長い",
         "reading": "ながい",
-        "meaning": "long (distance, length), long (time), protracted, prolonged"
+        "meaning": {
+          "vi": "long (distance, length), long (time), protracted, prolonged"
+        },
+        "romaji": "nagai"
       },
       {
         "example": "長いこと",
         "reading": "ながいこと",
-        "meaning": "for a long time"
+        "meaning": {
+          "en": "for a long time"
+        },
+        "romaji": "nagaikoto"
       }
     ],
     "radical": {
@@ -314,5 +332,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c38.gif",
     "uri": "https://jisho.org/search/%E6%B0%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "vĩnh",
+    "vịnh"
+  ]
 }

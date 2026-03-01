@@ -209,57 +209,90 @@
       {
         "example": "仁",
         "reading": "ジン",
-        "meaning": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+        "meaning": {
+          "vi": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+        },
+        "romaji": "jin"
       },
       {
         "example": "任侠",
         "reading": "ニンキョウ",
-        "meaning": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+        "meaning": {
+          "vi": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+        },
+        "romaji": "ninkyou"
       },
       {
         "example": "同仁",
         "reading": "ドウジン",
-        "meaning": "universal benevolence"
+        "meaning": {
+          "en": "universal benevolence"
+        },
+        "romaji": "doujin"
       },
       {
         "example": "一視同仁",
         "reading": "イッシドウジン",
-        "meaning": "loving every human being with impartiality, universal brotherhood, universal benevolence"
+        "meaning": {
+          "vi": "loving every human being with impartiality, universal brotherhood, universal benevolence"
+        },
+        "romaji": "isshidoujin"
       },
       {
         "example": "仁",
         "reading": "ジン",
-        "meaning": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+        "meaning": {
+          "vi": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+        },
+        "romaji": "jin"
       },
       {
         "example": "俄",
         "reading": "ニワカ",
-        "meaning": "sudden, abrupt, unexpected, immediate, hasty, improvised, impromptu, offhand, impromptu skit, bandwagon fan, fair-weather fan"
+        "meaning": {
+          "vi": "sudden, abrupt, unexpected, immediate, hasty, improvised, impromptu, offhand, impromptu skit, bandwagon fan, fair-weather fan"
+        },
+        "romaji": "niwaka"
       },
       {
         "example": "亜麻仁",
         "reading": "アマニ",
-        "meaning": "flaxseed, linseed"
+        "meaning": {
+          "en": "flaxseed, linseed"
+        },
+        "romaji": "amani"
       },
       {
         "example": "仁",
         "reading": "ジン",
-        "meaning": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+        "meaning": {
+          "vi": "benevolence (esp. as a virtue of Confucianism), consideration, compassion, humanity, charity, human, kernel, nucleolus"
+        },
+        "romaji": "jin"
       },
       {
         "example": "任侠",
         "reading": "ニンキョウ",
-        "meaning": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+        "meaning": {
+          "vi": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+        },
+        "romaji": "ninkyou"
       },
       {
         "example": "永仁",
         "reading": "エイニン",
-        "meaning": "Einin era (1293.8.5-1299.4.25)"
+        "meaning": {
+          "en": "Einin era (1293.8.5-1299.4.25)"
+        },
+        "romaji": "einin"
       },
       {
         "example": "薏苡仁",
         "reading": "ヨクイニン",
-        "meaning": "coix seed (used in traditional Chinese medicine)"
+        "meaning": {
+          "en": "coix seed (used in traditional Chinese medicine)"
+        },
+        "romaji": "yokuinin"
       }
     ],
     "kunyomiExamples": [],
@@ -278,5 +311,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec1.gif",
     "uri": "https://jisho.org/search/%E4%BB%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhân",
+    "nhơn"
+  ]
 }

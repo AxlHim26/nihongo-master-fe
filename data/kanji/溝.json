@@ -19,44 +19,68 @@
       {
         "example": "溝",
         "reading": "コウ",
-        "meaning": "10^32, hundred nonillion"
+        "meaning": {
+          "en": "10^32, hundred nonillion"
+        },
+        "romaji": "kou"
       },
       {
         "example": "溝渠",
         "reading": "コウキョ",
-        "meaning": "ditch, sewer, canal"
+        "meaning": {
+          "en": "ditch, sewer, canal"
+        },
+        "romaji": "koukyo"
       },
       {
         "example": "排水溝",
         "reading": "ハイスイコウ",
-        "meaning": "drainage, gutter, ditch"
+        "meaning": {
+          "en": "drainage, gutter, ditch"
+        },
+        "romaji": "haisuikou"
       },
       {
         "example": "海溝",
         "reading": "カイコウ",
-        "meaning": "oceanic trench, deep-sea trench, deep"
+        "meaning": {
+          "vi": "oceanic trench, deep-sea trench, deep"
+        },
+        "romaji": "kaikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "溝",
         "reading": "みぞ",
-        "meaning": "ditch, drain, gutter, trench, groove, tread, indentation, gap (between people, countries, etc.), gulf, rift"
+        "meaning": {
+          "vi": "ditch, drain, gutter, trench, groove, tread, indentation, gap (between people, countries, etc.), gulf, rift"
+        },
+        "romaji": "mizo"
       },
       {
         "example": "溝隠",
         "reading": "みぞかくし",
-        "meaning": "Chinese lobelia (Lobelia chinensis)"
+        "meaning": {
+          "en": "Chinese lobelia (Lobelia chinensis)"
+        },
+        "romaji": "mizokakushi"
       },
       {
         "example": "押さえ溝",
         "reading": "おさえみぞ",
-        "meaning": "groove in the body of wooden plane which holds the blade"
+        "meaning": {
+          "vi": "groove in the body of wooden plane which holds the blade"
+        },
+        "romaji": "osaemizo"
       },
       {
         "example": "逃げ溝",
         "reading": "にげみぞ",
-        "meaning": "clearance groove, under cut"
+        "meaning": {
+          "en": "clearance groove, under cut"
+        },
+        "romaji": "nigemizo"
       }
     ],
     "radical": {
@@ -78,5 +102,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9d.gif",
     "uri": "https://jisho.org/search/%E6%BA%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "câu"
+  ]
 }

@@ -361,29 +361,44 @@
       {
         "example": "報",
         "reading": "ホウ",
-        "meaning": "information, news, report, reward, retribution"
+        "meaning": {
+          "vi": "information, news, report, reward, retribution"
+        },
+        "romaji": "hou"
       },
       {
         "example": "報告",
         "reading": "ホウコク",
-        "meaning": "report, information"
+        "meaning": {
+          "vi": "report, information"
+        },
+        "romaji": "houkoku"
       },
       {
         "example": "会報",
         "reading": "カイホウ",
-        "meaning": "bulletin (issued by a society), report, newsletter"
+        "meaning": {
+          "vi": "bulletin (issued by a society), report, newsletter"
+        },
+        "romaji": "kaihou"
       },
       {
         "example": "注意報",
         "reading": "チュウイホウ",
-        "meaning": "warning (e.g. for a storm), advisory"
+        "meaning": {
+          "en": "warning (e.g. for a storm), advisory"
+        },
+        "romaji": "chuuihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "報いる",
         "reading": "むくいる",
-        "meaning": "to reward, to recompense, to repay, to retaliate, to get revenge"
+        "meaning": {
+          "vi": "to reward, to recompense, to repay, to retaliate, to get revenge"
+        },
+        "romaji": "mukuiru"
       }
     ],
     "radical": {
@@ -403,5 +418,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05831.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5831.gif",
     "uri": "https://jisho.org/search/%E5%A0%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "báo"
+  ]
 }

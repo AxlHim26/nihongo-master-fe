@@ -16,19 +16,26 @@
       {
         "example": "鍍金",
         "reading": "トキン",
-        "meaning": "plating (chrome, gold, silver, etc.), coating, gilding, gilt"
+        "meaning": {
+          "vi": "plating (chrome, gold, silver, etc.), coating, gilding, gilt"
+        },
+        "romaji": "tokin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【メッキ】",
         "reading": "plating (chrome, gold, silver, etc.), coating, gilding, gilt, pretense, pretence, simulation",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "plating (chrome, gold, silver, etc.), coating, gilding, gilt, pretense, pretence, simulation"
       },
       {
         "example": "メッキが剥げる",
         "reading": "メッキがはげる",
-        "meaning": "to reveal one's true colors"
+        "meaning": {
+          "en": "to reveal one's true colors"
+        },
+        "romaji": "mekkigahageru"
       }
     ],
     "radical": {
@@ -47,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0934d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/934d.gif",
     "uri": "https://jisho.org/search/%E9%8D%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "độ"
+  ]
 }

@@ -19,39 +19,60 @@
       {
         "example": "浜堤",
         "reading": "ヒンテイ",
-        "meaning": "beach ridge"
+        "meaning": {
+          "en": "beach ridge"
+        },
+        "romaji": "hintei"
       },
       {
         "example": "海浜",
         "reading": "カイヒン",
-        "meaning": "seashore, seaside, beach"
+        "meaning": {
+          "en": "seashore, seaside, beach"
+        },
+        "romaji": "kaihin"
       },
       {
         "example": "京浜",
         "reading": "ケイヒン",
-        "meaning": "Tokyo and Yokohama"
+        "meaning": {
+          "en": "Tokyo and Yokohama"
+        },
+        "romaji": "keihin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浜",
         "reading": "はま",
-        "meaning": "beach, seashore, captured pieces, captured stones, Yokohama, riverbank, riverside"
+        "meaning": {
+          "vi": "beach, seashore, captured pieces, captured stones, Yokohama, riverbank, riverside"
+        },
+        "romaji": "hama"
       },
       {
         "example": "浜辺",
         "reading": "はまべ",
-        "meaning": "beach, foreshore"
+        "meaning": {
+          "en": "beach, foreshore"
+        },
+        "romaji": "hamabe"
       },
       {
         "example": "白浜",
         "reading": "しらはま",
-        "meaning": "white sandy beach"
+        "meaning": {
+          "en": "white sandy beach"
+        },
+        "romaji": "shirahama"
       },
       {
         "example": "塩浜",
         "reading": "しおはま",
-        "meaning": "saltpan, field for drying salt"
+        "meaning": {
+          "vi": "saltpan, field for drying salt"
+        },
+        "romaji": "shiohama"
       }
     ],
     "radical": {
@@ -72,5 +93,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d5c.gif",
     "uri": "https://jisho.org/search/%E6%B5%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "banh",
+    "binh"
+  ]
 }

@@ -15,7 +15,10 @@
       {
         "example": "駝鳥",
         "reading": "ダチョウ",
-        "meaning": "ostrich (Struthio camelus)"
+        "meaning": {
+          "en": "ostrich (Struthio camelus)"
+        },
+        "romaji": "dachou"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d15.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d15.gif",
     "uri": "https://jisho.org/search/%E9%B4%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "đà"
+  ]
 }

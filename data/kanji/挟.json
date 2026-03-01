@@ -232,29 +232,44 @@
       {
         "example": "挟殺",
         "reading": "キョウサツ",
-        "meaning": "rundown"
+        "meaning": {
+          "en": "rundown"
+        },
+        "romaji": "kyousatsu"
       },
       {
         "example": "挟瞼器",
         "reading": "キョウケンキ",
-        "meaning": "entropion forceps"
+        "meaning": {
+          "vi": "entropion forceps"
+        },
+        "romaji": "kyoukenki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "挟む",
         "reading": "はさむ",
-        "meaning": "to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"
+        "meaning": {
+          "vi": "to hold between (e.g. one's fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to catch (e.g. a finger in a door), to trap, to pinch, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke), to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.), to harbour (feelings), to cast (e.g. doubt)"
+        },
+        "romaji": "hasamu"
       },
       {
         "example": "挟まる",
         "reading": "はさまる",
-        "meaning": "to get between, to be caught in"
+        "meaning": {
+          "en": "to get between, to be caught in"
+        },
+        "romaji": "hasamaru"
       },
       {
         "example": "差し挟む",
         "reading": "さしはさむ",
-        "meaning": "to insert, to interrupt, to slip in a word, to harbor (e.g. doubts), to harbour, to entertain (e.g. a theory)"
+        "meaning": {
+          "vi": "to insert, to interrupt, to slip in a word, to harbor (e.g. doubts), to harbour, to entertain (e.g. a theory)"
+        },
+        "romaji": "sashihasamu"
       }
     ],
     "radical": {
@@ -277,5 +292,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0631f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/631f.gif",
     "uri": "https://jisho.org/search/%E6%8C%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệp",
+    "tiệp"
+  ]
 }

@@ -19,24 +19,36 @@
       {
         "example": "践言",
         "reading": "センゲン",
-        "meaning": "keeping one's word"
+        "meaning": {
+          "vi": "keeping one's word"
+        },
+        "romaji": "sengen"
       },
       {
         "example": "践祚",
         "reading": "センソ",
-        "meaning": "accession (to the throne)"
+        "meaning": {
+          "en": "accession (to the throne)"
+        },
+        "romaji": "senso"
       },
       {
         "example": "履践",
         "reading": "リセン",
-        "meaning": "implementation, carrying out, practice"
+        "meaning": {
+          "vi": "implementation, carrying out, practice"
+        },
+        "romaji": "risen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "踏む",
         "reading": "ふむ",
-        "meaning": "to step on, to tread on, to trample on, to set foot on (e.g. foreign soil), to stand on, to visit, to experience, to undergo, to follow (rules, principles, etc.), to go through (e.g. formalities), to complete, to estimate, to guess, to judge, to value, to appraise, to rhyme, to succeed to (e.g. the throne)"
+        "meaning": {
+          "vi": "to step on, to tread on, to trample on, to set foot on (e.g. foreign soil), to stand on, to visit, to experience, to undergo, to follow (rules, principles, etc.), to go through (e.g. formalities), to complete, to estimate, to guess, to judge, to value, to appraise, to rhyme, to succeed to (e.g. the throne)"
+        },
+        "romaji": "fumu"
       }
     ],
     "radical": {
@@ -57,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08df5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8df5.gif",
     "uri": "https://jisho.org/search/%E8%B7%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiễn"
+  ]
 }

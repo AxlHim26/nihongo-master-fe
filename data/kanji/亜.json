@@ -19,29 +19,59 @@
       {
         "example": "亜",
         "reading": "ア",
-        "meaning": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
+        "meaning": {
+          "vi": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
+        },
+        "meaningVN": "phụ, hạng hai, kém hơn, -ous (biểu thị trạng thái oxy hóa thấp), -ite, châu á, argentina, ả rập, châu mỹ, người mỹ",
+        "hanViet": "a",
+        "hanVietExplain": "a: thứ hai, châu Á",
+        "romaji": "a"
       },
       {
         "example": "亜鉛",
         "reading": "アエン",
-        "meaning": "zinc (Zn)"
+        "meaning": {
+          "en": "zinc (Zn)"
+        },
+        "meaningVN": "kẽm (zn)",
+        "hanViet": "a diên",
+        "hanVietExplain": "亜 (a: thứ hai) + 鉛 (diên: kim loại chì, Pb) → kẽm (zn)",
+        "romaji": "aen"
       },
       {
         "example": "東亜",
         "reading": "トウア",
-        "meaning": "East Asia, the Orient"
+        "meaning": {
+          "en": "East Asia, the Orient"
+        },
+        "meaningVN": "đông á, phương đông",
+        "hanViet": "đông a",
+        "hanVietExplain": "東 (đông: phía đông, phương đông) + 亜 (a: thứ hai) → đông á, phương đông",
+        "romaji": "toua"
       },
       {
         "example": "叙利亜",
         "reading": "シリア",
-        "meaning": "Syria"
+        "meaning": {
+          "en": "Syria"
+        },
+        "meaningVN": "syria",
+        "hanViet": "tự lợi a",
+        "hanVietExplain": "叙 (tự: thuật lại, kể lại) + 利 (lợi: lợi ích, công dụng) + 亜 (a: thứ hai) → syria",
+        "romaji": "shiria"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "次ぐ",
         "reading": "つぐ",
-        "meaning": "to follow, to come after, to come next (to), to rank next (to), to rank second (to)"
+        "meaning": {
+          "en": "to follow, to come after, to come next (to), to rank next (to), to rank second (to)"
+        },
+        "meaningVN": "theo sau, đến sau, đến tiếp theo (đến), xếp hạng tiếp theo (đến), xếp thứ hai (đến)",
+        "hanViet": "thứ ぐ",
+        "hanVietExplain": "thứ: sau (không phải đầu tiên), tiếp theo, thứ bậc, lần, lượt",
+        "romaji": "tsugu"
       }
     ],
     "radical": {
@@ -57,5 +87,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e9c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e9c.gif",
     "uri": "https://jisho.org/search/%E4%BA%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "a",
+    "á"
+  ],
+  "meaningVN": "châu á, xếp tiếp, theo sau, -ous",
+  "hanVietExplain": "a: thứ hai, châu Á"
 }

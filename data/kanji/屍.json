@@ -16,39 +16,60 @@
       {
         "example": "屍",
         "reading": "シカバネ",
-        "meaning": "corpse, kanji \"corpse\" radical"
+        "meaning": {
+          "vi": "corpse, kanji \"corpse\" radical"
+        },
+        "romaji": "shikabane"
       },
       {
         "example": "死体",
         "reading": "シタイ",
-        "meaning": "dead body, corpse, cadaver, carcass"
+        "meaning": {
+          "vi": "dead body, corpse, cadaver, carcass"
+        },
+        "romaji": "shitai"
       },
       {
         "example": "死屍",
         "reading": "シシ",
-        "meaning": "corpse"
+        "meaning": {
+          "vi": "corpse"
+        },
+        "romaji": "shishi"
       },
       {
         "example": "検死",
         "reading": "ケンシ",
-        "meaning": "autopsy, post-mortem (examination), (coroner's) inquest, examination of a body to determine if a crime has been committed"
+        "meaning": {
+          "vi": "autopsy, post-mortem (examination), (coroner's) inquest, examination of a body to determine if a crime has been committed"
+        },
+        "romaji": "kenshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屍",
         "reading": "しかばね",
-        "meaning": "corpse, kanji \"corpse\" radical"
+        "meaning": {
+          "vi": "corpse, kanji \"corpse\" radical"
+        },
+        "romaji": "shikabane"
       },
       {
         "example": "屍をさらす",
         "reading": "しかばねをさらす",
-        "meaning": "to die on the battlefield"
+        "meaning": {
+          "en": "to die on the battlefield"
+        },
+        "romaji": "shikabanewosarasu"
       },
       {
         "example": "生ける屍",
         "reading": "いけるしかばね",
-        "meaning": "living corpse"
+        "meaning": {
+          "vi": "living corpse"
+        },
+        "romaji": "ikerushikabane"
       }
     ],
     "radical": {
@@ -66,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4d.gif",
     "uri": "https://jisho.org/search/%E5%B1%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi"
+  ]
 }

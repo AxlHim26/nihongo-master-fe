@@ -349,39 +349,60 @@
       {
         "example": "決",
         "reading": "ケツ",
-        "meaning": "decision, vote"
+        "meaning": {
+          "en": "decision, vote"
+        },
+        "romaji": "ketsu"
       },
       {
         "example": "決意",
         "reading": "ケツイ",
-        "meaning": "decision, determination, resolution"
+        "meaning": {
+          "en": "decision, determination, resolution"
+        },
+        "romaji": "ketsui"
       },
       {
         "example": "表決",
         "reading": "ヒョウケツ",
-        "meaning": "vote, voting"
+        "meaning": {
+          "en": "vote, voting"
+        },
+        "romaji": "hyouketsu"
       },
       {
         "example": "強行採決",
         "reading": "キョウコウサイケツ",
-        "meaning": "forced passage (of a bill, measure, resolution, etc.), railroading, steamrolling, steamrollering"
+        "meaning": {
+          "vi": "forced passage (of a bill, measure, resolution, etc.), railroading, steamrolling, steamrollering"
+        },
+        "romaji": "kyoukousaiketsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "決める",
         "reading": "きめる",
-        "meaning": "to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix, to clinch (a victory), to decide (the outcome of a match), to persist in doing, to go through with, to always do, to have made a habit of, to take for granted, to assume, to dress up, to dress to kill, to dress to the nines, to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing, to immobilize with a double-arm lock (in sumo, judo, etc.), to eat or drink something, to take illegal drugs"
+        "meaning": {
+          "vi": "to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix, to clinch (a victory), to decide (the outcome of a match), to persist in doing, to go through with, to always do, to have made a habit of, to take for granted, to assume, to dress up, to dress to kill, to dress to the nines, to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing, to immobilize with a double-arm lock (in sumo, judo, etc.), to eat or drink something, to take illegal drugs"
+        },
+        "romaji": "kimeru"
       },
       {
         "example": "決まる",
         "reading": "きまる",
-        "meaning": "to be decided, to be settled, to be fixed, to be arranged, to be unchanging, to be the same (as always), to be fixed, to be set, to be a fixed rule, to be destined, to be a convention, to be a custom, to be common knowledge, to be well executed (of a manoeuvre in a sport, game, etc.), to go well, to succeed, to connect (of a punch), to look good (of clothing), to look sharp, to be stylish, to suit one, to be held in place (of a hairdo), to be struck and held (of a pose in kabuki)"
+        "meaning": {
+          "vi": "to be decided, to be settled, to be fixed, to be arranged, to be unchanging, to be the same (as always), to be fixed, to be set, to be a fixed rule, to be destined, to be a convention, to be a custom, to be common knowledge, to be well executed (of a manoeuvre in a sport, game, etc.), to go well, to succeed, to connect (of a punch), to look good (of clothing), to look sharp, to be stylish, to suit one, to be held in place (of a hairdo), to be struck and held (of a pose in kabuki)"
+        },
+        "romaji": "kimaru"
       },
       {
         "example": "決る",
         "reading": "しゃくる",
-        "meaning": "to dig out, to gouge out, to hollow out, to scoop, to ladle, to bail, to jerk (one's chin)"
+        "meaning": {
+          "vi": "to dig out, to gouge out, to hollow out, to scoop, to ladle, to bail, to jerk (one's chin)"
+        },
+        "romaji": "shakuru"
       }
     ],
     "radical": {
@@ -403,5 +424,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7a.gif",
     "uri": "https://jisho.org/search/%E6%B1%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyết",
+    "khuyết",
+    "quyết"
+  ]
 }

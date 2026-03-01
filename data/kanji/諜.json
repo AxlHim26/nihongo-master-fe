@@ -19,22 +19,34 @@
       {
         "example": "諜報",
         "reading": "チョウホウ",
-        "meaning": "secret information, intelligence"
+        "meaning": {
+          "en": "secret information, intelligence"
+        },
+        "romaji": "chouhou"
       },
       {
         "example": "諜者",
         "reading": "チョウジャ",
-        "meaning": "spy"
+        "meaning": {
+          "vi": "spy"
+        },
+        "romaji": "chouja"
       },
       {
         "example": "防諜",
         "reading": "ボウチョウ",
-        "meaning": "counterintelligence, counterespionage"
+        "meaning": {
+          "vi": "counterintelligence, counterespionage"
+        },
+        "romaji": "bouchou"
       },
       {
         "example": "喋々",
         "reading": "チョウチョウ",
-        "meaning": "glibly, volubly, at great length"
+        "meaning": {
+          "en": "glibly, volubly, at great length"
+        },
+        "romaji": "chouchou"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08adc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8adc.gif",
     "uri": "https://jisho.org/search/%E8%AB%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "điệp"
+  ]
 }

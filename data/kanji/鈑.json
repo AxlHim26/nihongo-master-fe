@@ -15,17 +15,26 @@
       {
         "example": "板金",
         "reading": "バンキン",
-        "meaning": "sheet metal, metal plate"
+        "meaning": {
+          "vi": "sheet metal, metal plate"
+        },
+        "romaji": "bankin"
       },
       {
         "example": "鋼板",
         "reading": "コウハン",
-        "meaning": "steel sheet, steel plate"
+        "meaning": {
+          "vi": "steel sheet, steel plate"
+        },
+        "romaji": "kouhan"
       },
       {
         "example": "鋼板",
         "reading": "コウハン",
-        "meaning": "steel sheet, steel plate"
+        "meaning": {
+          "vi": "steel sheet, steel plate"
+        },
+        "romaji": "kouhan"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09211.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9211.gif",
     "uri": "https://jisho.org/search/%E9%88%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "bản"
+  ]
 }

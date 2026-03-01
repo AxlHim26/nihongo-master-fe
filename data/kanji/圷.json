@@ -15,7 +15,10 @@
       {
         "example": "圷ねぎ",
         "reading": "あくつねぎ",
-        "meaning": "red variety of Welsh onion grown in Ibaraki Prefecture"
+        "meaning": {
+          "vi": "red variety of Welsh onion grown in Ibaraki Prefecture"
+        },
+        "romaji": "akutsunegi"
       }
     ],
     "radical": {
@@ -31,5 +34,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05737.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5737.gif",
     "uri": "https://jisho.org/search/%E5%9C%B7%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -17,19 +17,28 @@
       {
         "example": "史跡",
         "reading": "シセキ",
-        "meaning": "di tích lịch sử"
+        "meaning": {
+          "vi": "di tích lịch sử"
+        },
+        "romaji": "shiseki"
       },
       {
         "example": "城跡",
         "reading": "シロアト",
-        "meaning": "di tích thành, phế tích lâu đài"
+        "meaning": {
+          "vi": "di tích thành, phế tích lâu đài"
+        },
+        "romaji": "shiroato"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "城跡",
         "reading": "しろあと",
-        "meaning": "di tích thành, phế tích lâu đài"
+        "meaning": {
+          "vi": "di tích thành, phế tích lâu đài"
+        },
+        "romaji": "shiroato"
       }
     ],
     "radical": {
@@ -54,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e5f.gif",
     "uri": "https://jisho.org/search/%E8%B9%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích"
+  ]
 }

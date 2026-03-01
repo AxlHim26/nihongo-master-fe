@@ -17,24 +17,36 @@
       {
         "example": "庵",
         "reading": "イオリ",
-        "meaning": "hermitage, retreat"
+        "meaning": {
+          "en": "hermitage, retreat"
+        },
+        "romaji": "iori"
       },
       {
         "example": "菴羅",
         "reading": "アンラ",
-        "meaning": "mango"
+        "meaning": {
+          "en": "mango"
+        },
+        "romaji": "anra"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "庵",
         "reading": "いおり",
-        "meaning": "hermitage, retreat"
+        "meaning": {
+          "en": "hermitage, retreat"
+        },
+        "romaji": "iori"
       },
       {
         "example": "庵",
         "reading": "いおり",
-        "meaning": "hermitage, retreat"
+        "meaning": {
+          "en": "hermitage, retreat"
+        },
+        "romaji": "iori"
       }
     ],
     "radical": {
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f4.gif",
     "uri": "https://jisho.org/search/%E8%8F%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "am",
+    "ám"
+  ]
 }

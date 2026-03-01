@@ -291,44 +291,68 @@
       {
         "example": "岸壁",
         "reading": "ガンペキ",
-        "meaning": "quay, wharf, jetty, wall-like shoreline, cliff wall"
+        "meaning": {
+          "en": "quay, wharf, jetty, wall-like shoreline, cliff wall"
+        },
+        "romaji": "ganpeki"
       },
       {
         "example": "岸頭",
         "reading": "ガントウ",
-        "meaning": "shore, wharf"
+        "meaning": {
+          "en": "shore, wharf"
+        },
+        "romaji": "gantou"
       },
       {
         "example": "護岸",
         "reading": "ゴガン",
-        "meaning": "river dike"
+        "meaning": {
+          "en": "river dike"
+        },
+        "romaji": "gogan"
       },
       {
         "example": "対岸",
         "reading": "タイガン",
-        "meaning": "opposite shore"
+        "meaning": {
+          "vi": "opposite shore"
+        },
+        "romaji": "taigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "岸",
         "reading": "きし",
-        "meaning": "bank, coast, shore"
+        "meaning": {
+          "en": "bank, coast, shore"
+        },
+        "romaji": "kishi"
       },
       {
         "example": "岸辺",
         "reading": "きしべ",
-        "meaning": "shore, bank (of a body of water)"
+        "meaning": {
+          "en": "shore, bank (of a body of water)"
+        },
+        "romaji": "kishibe"
       },
       {
         "example": "片岸",
         "reading": "かたぎし",
-        "meaning": "one bank (of a river)"
+        "meaning": {
+          "en": "one bank (of a river)"
+        },
+        "romaji": "katagishi"
       },
       {
         "example": "彼の岸",
         "reading": "かのきし",
-        "meaning": "nirvana"
+        "meaning": {
+          "en": "nirvana"
+        },
+        "romaji": "kanokishi"
       }
     ],
     "radical": {
@@ -344,5 +368,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb8.gif",
     "uri": "https://jisho.org/search/%E5%B2%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạn"
+  ]
 }

@@ -19,12 +19,18 @@
       {
         "example": "勾配",
         "reading": "コウバイ",
-        "meaning": "slope, incline, gradient, grade, pitch, slope (of a linear function), gradient (vector calculus)"
+        "meaning": {
+          "vi": "slope, incline, gradient, grade, pitch, slope (of a linear function), gradient (vector calculus)"
+        },
+        "romaji": "koubai"
       },
       {
         "example": "勾引",
         "reading": "コウイン",
-        "meaning": "arrest, custody, apprehending, abduction"
+        "meaning": {
+          "vi": "arrest, custody, apprehending, abduction"
+        },
+        "romaji": "kouin"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52fe.gif",
     "uri": "https://jisho.org/search/%E5%8B%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "câu",
+    "cấu"
+  ]
 }

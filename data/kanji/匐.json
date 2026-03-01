@@ -15,12 +15,18 @@
       {
         "example": "匐行疹",
         "reading": "フクコウシン",
-        "meaning": "ringworm, serpigo"
+        "meaning": {
+          "vi": "ringworm, serpigo"
+        },
+        "romaji": "fukukoushin"
       },
       {
         "example": "匍匐",
         "reading": "ホフク",
-        "meaning": "creeping, crawling, sneaking"
+        "meaning": {
+          "vi": "creeping, crawling, sneaking"
+        },
+        "romaji": "hofuku"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05310.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5310.gif",
     "uri": "https://jisho.org/search/%E5%8C%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "bặc"
+  ]
 }

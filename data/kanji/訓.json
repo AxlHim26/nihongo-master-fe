@@ -253,54 +253,84 @@
       {
         "example": "訓",
         "reading": "クン",
-        "meaning": "native Japanese reading of a Chinese character, precept, lesson, one's teachings"
+        "meaning": {
+          "vi": "native Japanese reading of a Chinese character, precept, lesson, one's teachings"
+        },
+        "romaji": "kun"
       },
       {
         "example": "訓示",
         "reading": "クンジ",
-        "meaning": "instruction, direction, briefing"
+        "meaning": {
+          "en": "instruction, direction, briefing"
+        },
+        "romaji": "kunji"
       },
       {
         "example": "特訓",
         "reading": "トックン",
-        "meaning": "special training, intensive training, crash course"
+        "meaning": {
+          "vi": "special training, intensive training, crash course"
+        },
+        "romaji": "tokkun"
       },
       {
         "example": "校訓",
         "reading": "コウクン",
-        "meaning": "school precepts"
+        "meaning": {
+          "vi": "school precepts"
+        },
+        "romaji": "koukun"
       },
       {
         "example": "庭訓",
         "reading": "テイキン",
-        "meaning": "home education"
+        "meaning": {
+          "en": "home education"
+        },
+        "romaji": "teikin"
       },
       {
         "example": "家訓",
         "reading": "カクン",
-        "meaning": "family precepts, family motto, rule of the home"
+        "meaning": {
+          "vi": "family precepts, family motto, rule of the home"
+        },
+        "romaji": "kakun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "教える",
         "reading": "おしえる",
-        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach"
+        "meaning": {
+          "vi": "to teach, to instruct, to tell, to inform, to show, to preach"
+        },
+        "romaji": "oshieru"
       },
       {
         "example": "読む",
         "reading": "よむ",
-        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        "meaning": {
+          "vi": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        },
+        "romaji": "yomu"
       },
       {
         "example": "訓む",
         "reading": "よむ",
-        "meaning": "to read (a kanji) with its native Japanese reading"
+        "meaning": {
+          "vi": "to read (a kanji) with its native Japanese reading"
+        },
+        "romaji": "yomu"
       },
       {
         "example": "訓ずる",
         "reading": "くんずる",
-        "meaning": "to read kanji using its native Japanese pronunciation"
+        "meaning": {
+          "vi": "to read kanji using its native Japanese pronunciation"
+        },
+        "romaji": "kunzuru"
       }
     ],
     "radical": {
@@ -318,5 +348,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a13.gif",
     "uri": "https://jisho.org/search/%E8%A8%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "huấn"
+  ]
 }

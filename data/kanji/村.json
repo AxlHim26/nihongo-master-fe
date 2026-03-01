@@ -294,44 +294,68 @@
       {
         "example": "村",
         "reading": "ムラ",
-        "meaning": "village"
+        "meaning": {
+          "en": "village"
+        },
+        "romaji": "mura"
       },
       {
         "example": "村議会",
         "reading": "ソンギカイ",
-        "meaning": "village assembly"
+        "meaning": {
+          "en": "village assembly"
+        },
+        "romaji": "songikai"
       },
       {
         "example": "町村",
         "reading": "チョウソン",
-        "meaning": "towns and villages"
+        "meaning": {
+          "en": "towns and villages"
+        },
+        "romaji": "chouson"
       },
       {
         "example": "農村",
         "reading": "ノウソン",
-        "meaning": "agricultural community, farm village, rural"
+        "meaning": {
+          "en": "agricultural community, farm village, rural"
+        },
+        "romaji": "nouson"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "村",
         "reading": "むら",
-        "meaning": "village"
+        "meaning": {
+          "en": "village"
+        },
+        "romaji": "mura"
       },
       {
         "example": "村長",
         "reading": "そんちょう",
-        "meaning": "village headman, village mayor"
+        "meaning": {
+          "en": "village headman, village mayor"
+        },
+        "romaji": "sonchou"
       },
       {
         "example": "選手村",
         "reading": "せんしゅむら",
-        "meaning": "Olympic village, athlete's village"
+        "meaning": {
+          "vi": "Olympic village, athlete's village"
+        },
+        "romaji": "senshumura"
       },
       {
         "example": "隣村",
         "reading": "りんそん",
-        "meaning": "neighboring village, neighbouring village"
+        "meaning": {
+          "en": "neighboring village, neighbouring village"
+        },
+        "romaji": "rinson"
       }
     ],
     "radical": {
@@ -346,5 +370,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06751.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6751.gif",
     "uri": "https://jisho.org/search/%E6%9D%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "thôn"
+  ]
 }

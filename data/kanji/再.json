@@ -338,39 +338,60 @@
       {
         "example": "再",
         "reading": "サイ",
-        "meaning": "re-, again"
+        "meaning": {
+          "en": "re-, again"
+        },
+        "romaji": "sai"
       },
       {
         "example": "再演",
         "reading": "サイエン",
-        "meaning": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+        "meaning": {
+          "vi": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+        },
+        "romaji": "saien"
       },
       {
         "example": "一再",
         "reading": "イッサイ",
-        "meaning": "once or twice, repeatedly"
+        "meaning": {
+          "vi": "once or twice, repeatedly"
+        },
+        "romaji": "issai"
       },
       {
         "example": "再",
         "reading": "サイ",
-        "meaning": "re-, again"
+        "meaning": {
+          "en": "re-, again"
+        },
+        "romaji": "sai"
       },
       {
         "example": "再演",
         "reading": "サイエン",
-        "meaning": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+        "meaning": {
+          "vi": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+        },
+        "romaji": "saien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "再び",
         "reading": "ふたたび",
-        "meaning": "again, once more, a second time"
+        "meaning": {
+          "en": "again, once more, a second time"
+        },
+        "romaji": "futatabi"
       },
       {
         "example": "再び取る",
         "reading": "ふたたびとる",
-        "meaning": "to reassume"
+        "meaning": {
+          "en": "to reassume"
+        },
+        "romaji": "futatabitoru"
       }
     ],
     "radical": {
@@ -387,5 +408,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518d.gif",
     "uri": "https://jisho.org/search/%E5%86%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tái"
+  ]
 }

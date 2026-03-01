@@ -16,34 +16,52 @@
       {
         "example": "褌",
         "reading": "フンドシ",
-        "meaning": "fundoshi, loincloth, traditional Japanese men's undergarment made from a length of cotton, kimono underskirt, wrestler's ornamental apron"
+        "meaning": {
+          "vi": "fundoshi, loincloth, traditional Japanese men's undergarment made from a length of cotton, kimono underskirt, wrestler's ornamental apron"
+        },
+        "romaji": "fundoshi"
       },
       {
         "example": "緊褌",
         "reading": "キンコン",
-        "meaning": "loincloth"
+        "meaning": {
+          "en": "loincloth"
+        },
+        "romaji": "kinkon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "褌",
         "reading": "ふんどし",
-        "meaning": "fundoshi, loincloth, traditional Japanese men's undergarment made from a length of cotton, kimono underskirt, wrestler's ornamental apron"
+        "meaning": {
+          "vi": "fundoshi, loincloth, traditional Japanese men's undergarment made from a length of cotton, kimono underskirt, wrestler's ornamental apron"
+        },
+        "romaji": "fundoshi"
       },
       {
         "example": "ふんどし一丁",
         "reading": "ふんどしいっちょう",
-        "meaning": "(wearing) a loincloth alone, nothing but a loincloth"
+        "meaning": {
+          "en": "(wearing) a loincloth alone, nothing but a loincloth"
+        },
+        "romaji": "fundoshiitchou"
       },
       {
         "example": "越中褌",
         "reading": "えっちゅうふんどし",
-        "meaning": "string loincloth, G-string"
+        "meaning": {
+          "en": "string loincloth, G-string"
+        },
+        "romaji": "etchuufundoshi"
       },
       {
         "example": "六尺褌",
         "reading": "ろくしゃくふんどし",
-        "meaning": "traditional Japanese G-string for men"
+        "meaning": {
+          "vi": "traditional Japanese G-string for men"
+        },
+        "romaji": "rokushakufundoshi"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0890c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/890c.gif",
     "uri": "https://jisho.org/search/%E8%A4%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "côn"
+  ]
 }

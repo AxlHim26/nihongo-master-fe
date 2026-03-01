@@ -313,29 +313,44 @@
       {
         "example": "敗",
         "reading": "ハイ",
-        "meaning": "loss, defeat, counter for losses"
+        "meaning": {
+          "en": "loss, defeat, counter for losses"
+        },
+        "romaji": "hai"
       },
       {
         "example": "敗因",
         "reading": "ハイイン",
-        "meaning": "cause of defeat"
+        "meaning": {
+          "en": "cause of defeat"
+        },
+        "romaji": "haiin"
       },
       {
         "example": "惜敗",
         "reading": "セキハイ",
-        "meaning": "regrettable defeat, defeat by a narrow margin"
+        "meaning": {
+          "en": "regrettable defeat, defeat by a narrow margin"
+        },
+        "romaji": "sekihai"
       },
       {
         "example": "零敗",
         "reading": "レイハイ",
-        "meaning": "losing without scoring, shutout, whitewash, having no losses, being undefeated"
+        "meaning": {
+          "en": "losing without scoring, shutout, whitewash, having no losses, being undefeated"
+        },
+        "romaji": "reihai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敗れる",
         "reading": "やぶれる",
-        "meaning": "to be defeated, to be beaten, to be unsuccessful, to lose"
+        "meaning": {
+          "en": "to be defeated, to be beaten, to be unsuccessful, to lose"
+        },
+        "romaji": "yabureru"
       }
     ],
     "radical": {
@@ -356,5 +371,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06557.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6557.gif",
     "uri": "https://jisho.org/search/%E6%95%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "bại"
+  ]
 }

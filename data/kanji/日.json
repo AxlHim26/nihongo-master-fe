@@ -436,64 +436,100 @@
       {
         "example": "日",
         "reading": "ニチ",
-        "meaning": "Chủ nhật, ngày thứ n (trong tháng), đơn vị đếm ngày, Nhật Bản"
+        "meaning": {
+          "vi": "Chủ nhật, ngày thứ n (trong tháng), đơn vị đếm ngày, Nhật Bản"
+        },
+        "romaji": "nichi"
       },
       {
         "example": "日時",
         "reading": "ニチジ",
-        "meaning": "ngày giờ (họp, khởi hành...), ngày và giờ"
+        "meaning": {
+          "vi": "ngày giờ (họp, khởi hành...), ngày và giờ"
+        },
+        "romaji": "nichiji"
       },
       {
         "example": "抗日",
         "reading": "コウニチ",
-        "meaning": "kháng Nhật, chống Nhật"
+        "meaning": {
+          "vi": "kháng Nhật, chống Nhật"
+        },
+        "romaji": "kounichi"
       },
       {
         "example": "在日",
         "reading": "ザイニチ",
-        "meaning": "cư trú tại Nhật (người nước ngoài), Zainichi (người Triều Tiên/Hàn tại Nhật)"
+        "meaning": {
+          "vi": "cư trú tại Nhật (người nước ngoài), Zainichi (người Triều Tiên/Hàn tại Nhật)"
+        },
+        "romaji": "zainichi"
       },
       {
         "example": "日月",
         "reading": "ジツゲツ",
-        "meaning": "mặt trời và mặt trăng, thời gian, ngày tháng năm, Chủ nhật và Thứ hai"
+        "meaning": {
+          "vi": "mặt trời và mặt trăng, thời gian, ngày tháng năm, Chủ nhật và Thứ hai"
+        },
+        "romaji": "jitsugetsu"
       },
       {
         "example": "日外",
         "reading": "ジツガイ",
-        "meaning": "một thời, trước đây, một lần"
+        "meaning": {
+          "vi": "một thời, trước đây, một lần"
+        },
+        "romaji": "jitsugai"
       },
       {
         "example": "両日",
         "reading": "リョウジツ",
-        "meaning": "cả hai ngày, hai ngày"
+        "meaning": {
+          "vi": "cả hai ngày, hai ngày"
+        },
+        "romaji": "ryoujitsu"
       },
       {
         "example": "三十日",
         "reading": "ミソカ",
-        "meaning": "ngày cuối tháng"
+        "meaning": {
+          "vi": "ngày cuối tháng"
+        },
+        "romaji": "misoka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "日",
         "reading": "ひ",
-        "meaning": "ngày, mặt trời, nắng, ban ngày, ngày tháng, hạn chót, thời gian (vd. thời thơ ấu), trường hợp, sự kiện"
+        "meaning": {
+          "vi": "ngày, mặt trời, nắng, ban ngày, ngày tháng, hạn chót, thời gian (vd. thời thơ ấu), trường hợp, sự kiện"
+        },
+        "romaji": "hi"
       },
       {
         "example": "日陰",
         "reading": "ひかげ",
-        "meaning": "bóng râm, bóng, nắng"
+        "meaning": {
+          "vi": "bóng râm, bóng, nắng"
+        },
+        "romaji": "hikage"
       },
       {
         "example": "在りし日",
         "reading": "ありしひ",
-        "meaning": "ngày xưa, thời còn sống, khi còn tại thế"
+        "meaning": {
+          "vi": "ngày xưa, thời còn sống, khi còn tại thế"
+        },
+        "romaji": "arishihi"
       },
       {
         "example": "あくる日",
         "reading": "あくるひ",
-        "meaning": "ngày hôm sau"
+        "meaning": {
+          "vi": "ngày hôm sau"
+        },
+        "romaji": "akuruhi"
       }
     ],
     "radical": {
@@ -507,5 +543,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e5.gif",
     "uri": "https://jisho.org/search/%E6%97%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhật",
+    "nhựt"
+  ]
 }

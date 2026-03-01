@@ -17,12 +17,18 @@
       {
         "example": "叟",
         "reading": "ソウ",
-        "meaning": "old man, venerable gentleman"
+        "meaning": {
+          "en": "old man, venerable gentleman"
+        },
+        "romaji": "sou"
       },
       {
         "example": "迂叟",
         "reading": "ウソウ",
-        "meaning": "I, me, my humble self"
+        "meaning": {
+          "en": "I, me, my humble self"
+        },
+        "romaji": "usou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53df.gif",
     "uri": "https://jisho.org/search/%E5%8F%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "sưu",
+    "tẩu"
+  ]
 }

@@ -19,12 +19,18 @@
       {
         "example": "禊",
         "reading": "みそぎ",
-        "meaning": "purification ceremony (performed with water), ritual purification, ablutions"
+        "meaning": {
+          "vi": "purification ceremony (performed with water), ritual purification, ablutions"
+        },
+        "romaji": "misogi"
       },
       {
         "example": "禊教",
         "reading": "みそぎきょう",
-        "meaning": "Misogi-kyo (sect of Shinto)"
+        "meaning": {
+          "en": "Misogi-kyo (sect of Shinto)"
+        },
+        "romaji": "misogikyou"
       }
     ],
     "radical": {
@@ -46,5 +52,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0798a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/798a.gif",
     "uri": "https://jisho.org/search/%E7%A6%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hễ",
+    "hệ"
+  ]
 }

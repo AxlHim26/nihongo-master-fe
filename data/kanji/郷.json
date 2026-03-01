@@ -291,59 +291,92 @@
       {
         "example": "郷",
         "reading": "キョウ",
-        "meaning": "hometown, rural township (of China)"
+        "meaning": {
+          "vi": "hometown, rural township (of China)"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "郷愁",
         "reading": "キョウシュウ",
-        "meaning": "nostalgia, homesickness"
+        "meaning": {
+          "en": "nostalgia, homesickness"
+        },
+        "romaji": "kyoushuu"
       },
       {
         "example": "同郷",
         "reading": "ドウキョウ",
-        "meaning": "same village, same town, same province"
+        "meaning": {
+          "vi": "same village, same town, same province"
+        },
+        "romaji": "doukyou"
       },
       {
         "example": "故郷",
         "reading": "コキョウ",
-        "meaning": "hometown, birthplace, native place, one's old home"
+        "meaning": {
+          "vi": "hometown, birthplace, native place, one's old home"
+        },
+        "romaji": "kokyou"
       },
       {
         "example": "郷",
         "reading": "ゴウ",
-        "meaning": "countryside, country, 50-home township (comprised of 2-3 neighbourhoods)"
+        "meaning": {
+          "vi": "countryside, country, 50-home township (comprised of 2-3 neighbourhoods)"
+        },
+        "romaji": "gou"
       },
       {
         "example": "郷学",
         "reading": "ゴウガク",
-        "meaning": "village school (esp. in Edo-era Japan, and ancient Korea and China)"
+        "meaning": {
+          "vi": "village school (esp. in Edo-era Japan, and ancient Korea and China)"
+        },
+        "romaji": "gougaku"
       },
       {
         "example": "水郷",
         "reading": "スイゴウ",
-        "meaning": "beautiful riverside location, lakeside district, canal district"
+        "meaning": {
+          "en": "beautiful riverside location, lakeside district, canal district"
+        },
+        "romaji": "suigou"
       },
       {
         "example": "大西郷",
         "reading": "ダイサイゴウ",
-        "meaning": "the Great Saigo"
+        "meaning": {
+          "en": "the Great Saigo"
+        },
+        "romaji": "daisaigou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "里",
         "reading": "さと",
-        "meaning": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past"
+        "meaning": {
+          "vi": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past"
+        },
+        "romaji": "sato"
       },
       {
         "example": "無何有の郷",
         "reading": "むかうのさと",
-        "meaning": "utopia, (natural) paradise"
+        "meaning": {
+          "vi": "utopia, (natural) paradise"
+        },
+        "romaji": "mukaunosato"
       },
       {
         "example": "第二の故郷",
         "reading": "だいにのこきょう",
-        "meaning": "one's second home, home away from home"
+        "meaning": {
+          "en": "one's second home, home away from home"
+        },
+        "romaji": "daininokokyou"
       }
     ],
     "radical": {
@@ -362,5 +395,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090f7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90f7.gif",
     "uri": "https://jisho.org/search/%E9%83%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hương"
+  ]
 }

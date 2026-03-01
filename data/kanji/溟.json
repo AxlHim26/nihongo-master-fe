@@ -17,12 +17,18 @@
       {
         "example": "滄溟",
         "reading": "ソウメイ",
-        "meaning": "great blue sea, ocean"
+        "meaning": {
+          "en": "great blue sea, ocean"
+        },
+        "romaji": "soumei"
       },
       {
         "example": "南溟",
         "reading": "ナンメイ",
-        "meaning": "the southern ocean"
+        "meaning": {
+          "en": "the southern ocean"
+        },
+        "romaji": "nanmei"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9f.gif",
     "uri": "https://jisho.org/search/%E6%BA%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "minh"
+  ]
 }

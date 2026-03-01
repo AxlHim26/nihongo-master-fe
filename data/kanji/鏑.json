@@ -19,27 +19,42 @@
       {
         "example": "鏑",
         "reading": "かぶら",
-        "meaning": "turnip-shaped whistle made of hollowed-out wood or deer horn (attached to an arrow to sound when fired), arrow with such a whistle attached"
+        "meaning": {
+          "vi": "turnip-shaped whistle made of hollowed-out wood or deer horn (attached to an arrow to sound when fired), arrow with such a whistle attached"
+        },
+        "romaji": "kabura"
       },
       {
         "example": "鏑矢",
         "reading": "かぶらや",
-        "meaning": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+        "meaning": {
+          "en": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+        },
+        "romaji": "kaburaya"
       },
       {
         "example": "八目鏑",
         "reading": "やつめかぶら",
-        "meaning": "eight-holed arrow whistle"
+        "meaning": {
+          "en": "eight-holed arrow whistle"
+        },
+        "romaji": "yatsumekabura"
       },
       {
         "example": "鳴り鏑",
         "reading": "なりかぶら",
-        "meaning": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+        "meaning": {
+          "en": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+        },
+        "romaji": "narikabura"
       },
       {
         "example": "鏑矢",
         "reading": "かぶらや",
-        "meaning": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+        "meaning": {
+          "en": "arrow with a whistle attached, whistling arrow used to signal the start of battle"
+        },
+        "romaji": "kaburaya"
       }
     ],
     "radical": {
@@ -63,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d1.gif",
     "uri": "https://jisho.org/search/%E9%8F%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "đích"
+  ]
 }

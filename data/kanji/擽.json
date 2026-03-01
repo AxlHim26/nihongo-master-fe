@@ -21,7 +21,10 @@
       {
         "example": "擽る",
         "reading": "くすぐる",
-        "meaning": "to tickle, to tickle (one's curiosity, vanity, etc.), to arouse, to appeal to, to flatter, to make (someone) laugh, to amuse, to entertain"
+        "meaning": {
+          "vi": "to tickle, to tickle (one's curiosity, vanity, etc.), to arouse, to appeal to, to flatter, to make (someone) laugh, to amuse, to entertain"
+        },
+        "romaji": "kusuguru"
       }
     ],
     "radical": {
@@ -42,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64fd.gif",
     "uri": "https://jisho.org/search/%E6%93%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "lịch"
+  ]
 }

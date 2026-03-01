@@ -253,44 +253,68 @@
       {
         "example": "岩盤",
         "reading": "ガンバン",
-        "meaning": "bedrock"
+        "meaning": {
+          "en": "bedrock"
+        },
+        "romaji": "ganban"
       },
       {
         "example": "岩石",
         "reading": "ガンセキ",
-        "meaning": "rock"
+        "meaning": {
+          "en": "rock"
+        },
+        "romaji": "ganseki"
       },
       {
         "example": "砂岩",
         "reading": "サガン",
-        "meaning": "sandstone"
+        "meaning": {
+          "en": "sandstone"
+        },
+        "romaji": "sagan"
       },
       {
         "example": "石灰岩",
         "reading": "セッカイガン",
-        "meaning": "limestone"
+        "meaning": {
+          "en": "limestone"
+        },
+        "romaji": "sekkaigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "岩",
         "reading": "いわ",
-        "meaning": "rock, boulder, crag"
+        "meaning": {
+          "en": "rock, boulder, crag"
+        },
+        "romaji": "iwa"
       },
       {
         "example": "岩間",
         "reading": "いわま",
-        "meaning": "among rocks"
+        "meaning": {
+          "en": "among rocks"
+        },
+        "romaji": "iwama"
       },
       {
         "example": "一枚岩",
         "reading": "いちまいいわ",
-        "meaning": "monolith, large slab of rock, unity (of a group, organization, etc.), unanimity, solidarity"
+        "meaning": {
+          "vi": "monolith, large slab of rock, unity (of a group, organization, etc.), unanimity, solidarity"
+        },
+        "romaji": "ichimaiiwa"
       },
       {
         "example": "浮岩",
         "reading": "うきいわ",
-        "meaning": "rock partially submerged in water, rock partially emerging from the water, pumice stone"
+        "meaning": {
+          "vi": "rock partially submerged in water, rock partially emerging from the water, pumice stone"
+        },
+        "romaji": "ukiiwa"
       }
     ],
     "radical": {
@@ -306,5 +330,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca9.gif",
     "uri": "https://jisho.org/search/%E5%B2%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "nham"
+  ]
 }

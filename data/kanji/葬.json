@@ -19,29 +19,44 @@
       {
         "example": "葬",
         "reading": "ソウ",
-        "meaning": "funeral"
+        "meaning": {
+          "en": "funeral"
+        },
+        "romaji": "sou"
       },
       {
         "example": "葬儀",
         "reading": "ソウギ",
-        "meaning": "funeral, funeral service"
+        "meaning": {
+          "en": "funeral, funeral service"
+        },
+        "romaji": "sougi"
       },
       {
         "example": "火葬",
         "reading": "カソウ",
-        "meaning": "cremation"
+        "meaning": {
+          "en": "cremation"
+        },
+        "romaji": "kasou"
       },
       {
         "example": "葬送",
         "reading": "ソウソウ",
-        "meaning": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial"
+        "meaning": {
+          "vi": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial"
+        },
+        "romaji": "sousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葬る",
         "reading": "ほうむる",
-        "meaning": "to bury, to inter, to entomb, to cover up, to hush up, to shelve"
+        "meaning": {
+          "vi": "to bury, to inter, to entomb, to cover up, to hush up, to shelve"
+        },
+        "romaji": "houmuru"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846c.gif",
     "uri": "https://jisho.org/search/%E8%91%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "táng"
+  ]
 }

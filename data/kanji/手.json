@@ -389,54 +389,84 @@
       {
         "example": "手術",
         "reading": "シュジュツ",
-        "meaning": "phẫu thuật, ca mổ, kỹ năng tay, ảo thuật"
+        "meaning": {
+          "vi": "phẫu thuật, ca mổ, kỹ năng tay, ảo thuật"
+        },
+        "romaji": "shujutsu"
       },
       {
         "example": "手記",
         "reading": "シュキ",
-        "meaning": "ghi chú, bản ghi nhớ, hồi ký, tự truyện"
+        "meaning": {
+          "vi": "ghi chú, bản ghi nhớ, hồi ký, tự truyện"
+        },
+        "romaji": "shuki"
       },
       {
         "example": "二塁手",
         "reading": "ニルイシュ",
-        "meaning": "cầu thủ chốt hai"
+        "meaning": {
+          "vi": "cầu thủ chốt hai"
+        },
+        "romaji": "niruishu"
       },
       {
         "example": "名手",
         "reading": "メイシュ",
-        "meaning": "bậc thầy, chuyên gia, nước đi xuất sắc (trong cờ vây, shogi)"
+        "meaning": {
+          "vi": "bậc thầy, chuyên gia, nước đi xuất sắc (trong cờ vây, shogi)"
+        },
+        "romaji": "meishu"
       },
       {
         "example": "交際上手",
         "reading": "コウサイジョウズ",
-        "meaning": "giỏi giao tiếp xã hội, khả năng xã giao"
+        "meaning": {
+          "vi": "giỏi giao tiếp xã hội, khả năng xã giao"
+        },
+        "romaji": "kousaijouzu"
       },
       {
         "example": "処世上手",
         "reading": "ショセイジョウズ",
-        "meaning": "biết cách xử thế, biết bí quyết thành công trong cuộc sống"
+        "meaning": {
+          "vi": "biết cách xử thế, biết bí quyết thành công trong cuộc sống"
+        },
+        "romaji": "shoseijouzu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "手",
         "reading": "て",
-        "meaning": "tay, cánh tay, chân trước, tay cầm, người làm, sự giúp đỡ, phiền phức, cách, mẹo, nước đi, kỹ thuật, chữ viết tay, loại, sở hữu, khả năng xử lý, quân bài, hướng, nước cờ (trong cờ vây, shogi)"
+        "meaning": {
+          "vi": "tay, cánh tay, chân trước, tay cầm, người làm, sự giúp đỡ, phiền phức, cách, mẹo, nước đi, kỹ thuật, chữ viết tay, loại, sở hữu, khả năng xử lý, quân bài, hướng, nước cờ (trong cờ vây, shogi)"
+        },
+        "romaji": "te"
       },
       {
         "example": "手足",
         "reading": "てあし",
-        "meaning": "tay chân, tứ chi, người sai vặt, người đáng tin cậy"
+        "meaning": {
+          "vi": "tay chân, tứ chi, người sai vặt, người đáng tin cậy"
+        },
+        "romaji": "teashi"
       },
       {
         "example": "逆手",
         "reading": "さかて",
-        "meaning": "cầm ngược (trong thể dục), cầm chéo tay (trong golf), dùng tay ngược, cầm kiếm ngược, xoay chuyển tình thế, khóa tay ngược (trong judo), mẹo gian"
+        "meaning": {
+          "vi": "cầm ngược (trong thể dục), cầm chéo tay (trong golf), dùng tay ngược, cầm kiếm ngược, xoay chuyển tình thế, khóa tay ngược (trong judo), mẹo gian"
+        },
+        "romaji": "sakate"
       },
       {
         "example": "担い手",
         "reading": "にないて",
-        "meaning": "người gánh vác, người chịu trách nhiệm, người phụ trách, người ủng hộ"
+        "meaning": {
+          "vi": "người gánh vác, người chịu trách nhiệm, người phụ trách, người ủng hộ"
+        },
+        "romaji": "ninaite"
       }
     ],
     "radical": {
@@ -453,5 +483,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0624b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/624b.gif",
     "uri": "https://jisho.org/search/%E6%89%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thủ"
+  ]
 }

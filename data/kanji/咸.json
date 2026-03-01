@@ -16,12 +16,18 @@
       {
         "example": "咸豊",
         "reading": "カンポウ",
-        "meaning": "Xianfeng era (of emperor Wenzong of Qing; 1850-1861)"
+        "meaning": {
+          "vi": "Xianfeng era (of emperor Wenzong of Qing; 1850-1861)"
+        },
+        "romaji": "kanpou"
       },
       {
         "example": "阮咸",
         "reading": "ゲンカン",
-        "meaning": "ruanxian (4 or 5-stringed Chinese lute), ruan"
+        "meaning": {
+          "en": "ruanxian (4 or 5-stringed Chinese lute), ruan"
+        },
+        "romaji": "genkan"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054b8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54b8.gif",
     "uri": "https://jisho.org/search/%E5%92%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "giảm",
+    "hàm",
+    "hám"
+  ]
 }

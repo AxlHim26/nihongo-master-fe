@@ -260,29 +260,44 @@
       {
         "example": "勇",
         "reading": "ユウ",
-        "meaning": "bravery, courage, heroism"
+        "meaning": {
+          "en": "bravery, courage, heroism"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "勇気",
         "reading": "ユウキ",
-        "meaning": "courage, bravery, valour, valor, nerve, boldness"
+        "meaning": {
+          "en": "courage, bravery, valour, valor, nerve, boldness"
+        },
+        "romaji": "yuuki"
       },
       {
         "example": "義勇",
         "reading": "ギユウ",
-        "meaning": "heroism, loyalty and courage"
+        "meaning": {
+          "en": "heroism, loyalty and courage"
+        },
+        "romaji": "giyuu"
       },
       {
         "example": "武勇",
         "reading": "ブユウ",
-        "meaning": "bravery, military prowess, valour, valor"
+        "meaning": {
+          "vi": "bravery, military prowess, valour, valor"
+        },
+        "romaji": "buyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勇む",
         "reading": "いさむ",
-        "meaning": "to be in high spirits, to be encouraged, to be lively, to cheer up"
+        "meaning": {
+          "vi": "to be in high spirits, to be encouraged, to be lively, to cheer up"
+        },
+        "romaji": "isamu"
       }
     ],
     "radical": {
@@ -298,5 +313,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c7.gif",
     "uri": "https://jisho.org/search/%E5%8B%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "dũng"
+  ]
 }

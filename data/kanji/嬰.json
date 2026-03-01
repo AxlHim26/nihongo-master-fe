@@ -18,24 +18,36 @@
       {
         "example": "嬰",
         "reading": "エイ",
-        "meaning": "sharp"
+        "meaning": {
+          "vi": "sharp"
+        },
+        "romaji": "ei"
       },
       {
         "example": "嬰音",
         "reading": "エイオン",
-        "meaning": "sharp (musical note)"
+        "meaning": {
+          "vi": "sharp (musical note)"
+        },
+        "romaji": "eion"
       },
       {
         "example": "退嬰",
         "reading": "タイエイ",
-        "meaning": "conservativeness, conservatism, regression, retrogression, unadventurousness"
+        "meaning": {
+          "en": "conservativeness, conservatism, regression, retrogression, unadventurousness"
+        },
+        "romaji": "taiei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嬰児",
         "reading": "みどりご",
-        "meaning": "infant, baby"
+        "meaning": {
+          "en": "infant, baby"
+        },
+        "romaji": "midorigo"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b30.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b30.gif",
     "uri": "https://jisho.org/search/%E5%AC%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "anh"
+  ]
 }

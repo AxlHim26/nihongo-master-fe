@@ -14,22 +14,34 @@
       {
         "example": "臈",
         "reading": "ロウ",
-        "meaning": "year in the Buddhist order (after the completion of the first meditation retreat), becoming more experienced with age, social status based on this experience"
+        "meaning": {
+          "vi": "year in the Buddhist order (after the completion of the first meditation retreat), becoming more experienced with age, social status based on this experience"
+        },
+        "romaji": "rou"
       },
       {
         "example": "臈たける",
         "reading": "ロウタケル",
-        "meaning": "to be elegant (usu. of a woman), to be graceful, to be refined, to become well-experienced, to mature"
+        "meaning": {
+          "vi": "to be elegant (usu. of a woman), to be graceful, to be refined, to become well-experienced, to mature"
+        },
+        "romaji": "routakeru"
       },
       {
         "example": "女郎",
         "reading": "ジョロウ",
-        "meaning": "prostitute (esp. Edo period)"
+        "meaning": {
+          "vi": "prostitute (esp. Edo period)"
+        },
+        "romaji": "jorou"
       },
       {
         "example": "劫臈",
         "reading": "コウロウ",
-        "meaning": "long time, long years of service"
+        "meaning": {
+          "en": "long time, long years of service"
+        },
+        "romaji": "kourou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c8.gif",
     "uri": "https://jisho.org/search/%E8%87%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạp"
+  ]
 }

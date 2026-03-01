@@ -16,34 +16,52 @@
       {
         "example": "丙戌",
         "reading": "ヒノエイヌ",
-        "meaning": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)"
+        "meaning": {
+          "en": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)"
+        },
+        "romaji": "hinoeinu"
       },
       {
         "example": "甲戌",
         "reading": "キノエイヌ",
-        "meaning": "Wood Dog (11th term of the sexagenary cycle, e.g. 1934, 1994, 2054)"
+        "meaning": {
+          "en": "Wood Dog (11th term of the sexagenary cycle, e.g. 1934, 1994, 2054)"
+        },
+        "romaji": "kinoeinu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戌",
         "reading": "いぬ",
-        "meaning": "the Dog (eleventh sign of the Chinese zodiac), hour of the Dog (around 8pm, 7-9pm, or 8-10pm), west-northwest, ninth month of the lunar calendar"
+        "meaning": {
+          "vi": "the Dog (eleventh sign of the Chinese zodiac), hour of the Dog (around 8pm, 7-9pm, or 8-10pm), west-northwest, ninth month of the lunar calendar"
+        },
+        "romaji": "inu"
       },
       {
         "example": "戌亥",
         "reading": "いぬい",
-        "meaning": "northwest"
+        "meaning": {
+          "en": "northwest"
+        },
+        "romaji": "inui"
       },
       {
         "example": "庚戌",
         "reading": "かのえいぬ",
-        "meaning": "Metal Dog (47th term of the sexagenary cycle, e.g. 1910, 1970, 2030)"
+        "meaning": {
+          "en": "Metal Dog (47th term of the sexagenary cycle, e.g. 1910, 1970, 2030)"
+        },
+        "romaji": "kanoeinu"
       },
       {
         "example": "甲戌",
         "reading": "きのえいぬ",
-        "meaning": "Wood Dog (11th term of the sexagenary cycle, e.g. 1934, 1994, 2054)"
+        "meaning": {
+          "en": "Wood Dog (11th term of the sexagenary cycle, e.g. 1934, 1994, 2054)"
+        },
+        "romaji": "kinoeinu"
       }
     ],
     "radical": {
@@ -60,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620c.gif",
     "uri": "https://jisho.org/search/%E6%88%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuất"
+  ]
 }

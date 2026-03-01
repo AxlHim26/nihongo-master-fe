@@ -16,29 +16,44 @@
       {
         "example": "諫言",
         "reading": "カンゲン",
-        "meaning": "admonition, remonstrance, expostulation"
+        "meaning": {
+          "vi": "admonition, remonstrance, expostulation"
+        },
+        "romaji": "kangen"
       },
       {
         "example": "諫死",
         "reading": "カンシ",
-        "meaning": "committing suicide (to remonstrate or dissuade one's lord), preparing to die in an effort to dissuade one's lord"
+        "meaning": {
+          "vi": "committing suicide (to remonstrate or dissuade one's lord), preparing to die in an effort to dissuade one's lord"
+        },
+        "romaji": "kanshi"
       },
       {
         "example": "諷諫",
         "reading": "フウカン",
-        "meaning": "indirect remonstrance, exhortation by insinuation"
+        "meaning": {
+          "en": "indirect remonstrance, exhortation by insinuation"
+        },
+        "romaji": "fuukan"
       },
       {
         "example": "直諫",
         "reading": "チョッカン",
-        "meaning": "personal admonition, remonstration"
+        "meaning": {
+          "vi": "personal admonition, remonstration"
+        },
+        "romaji": "chokkan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "諌める",
         "reading": "いさめる",
-        "meaning": "to remonstrate, to admonish (someone) for, to advise (someone) not to, to warn against"
+        "meaning": {
+          "en": "to remonstrate, to admonish (someone) for, to advise (someone) not to, to warn against"
+        },
+        "romaji": "isameru"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aeb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aeb.gif",
     "uri": "https://jisho.org/search/%E8%AB%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "gián"
+  ]
 }

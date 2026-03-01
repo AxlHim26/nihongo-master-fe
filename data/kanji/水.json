@@ -322,44 +322,68 @@
       {
         "example": "水",
         "reading": "スイ",
-        "meaning": "Wednesday, shaved ice (served with flavored syrup), water (fifth of the five elements)"
+        "meaning": {
+          "vi": "Wednesday, shaved ice (served with flavored syrup), water (fifth of the five elements)"
+        },
+        "romaji": "sui"
       },
       {
         "example": "水位",
         "reading": "スイイ",
-        "meaning": "water level"
+        "meaning": {
+          "en": "water level"
+        },
+        "romaji": "suii"
       },
       {
         "example": "用水",
         "reading": "ヨウスイ",
-        "meaning": "irrigation water, water for fire, city water, cistern water"
+        "meaning": {
+          "en": "irrigation water, water for fire, city water, cistern water"
+        },
+        "romaji": "yousui"
       },
       {
         "example": "浄水",
         "reading": "ジョウスイ",
-        "meaning": "clean water, purified water"
+        "meaning": {
+          "vi": "clean water, purified water"
+        },
+        "romaji": "jousui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "水",
         "reading": "みず",
-        "meaning": "water (esp. cool or cold), fluid (esp. in an animal tissue), liquid, flood, floodwaters, water offered to wrestlers just prior to a bout, break granted to wrestlers engaged in a prolonged bout"
+        "meaning": {
+          "vi": "water (esp. cool or cold), fluid (esp. in an animal tissue), liquid, flood, floodwaters, water offered to wrestlers just prior to a bout, break granted to wrestlers engaged in a prolonged bout"
+        },
+        "romaji": "mizu"
       },
       {
         "example": "水揚げ",
         "reading": "みずあげ",
-        "meaning": "landing, unloading (e.g. a ship), catch (of fish), takings, sales (of a shop), defloration (e.g. of a geisha), preservation (of cut flowers, in ikebana)"
+        "meaning": {
+          "vi": "landing, unloading (e.g. a ship), catch (of fish), takings, sales (of a shop), defloration (e.g. of a geisha), preservation (of cut flowers, in ikebana)"
+        },
+        "romaji": "mizuage"
       },
       {
         "example": "飲み水",
         "reading": "のみみず",
-        "meaning": "drinking water, potable water"
+        "meaning": {
+          "vi": "drinking water, potable water"
+        },
+        "romaji": "nomimizu"
       },
       {
         "example": "呼び水",
         "reading": "よびみず",
-        "meaning": "pump-priming, rousing, stimulation"
+        "meaning": {
+          "vi": "pump-priming, rousing, stimulation"
+        },
+        "romaji": "yobimizu"
       }
     ],
     "radical": {
@@ -377,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c34.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c34.gif",
     "uri": "https://jisho.org/search/%E6%B0%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuỷ"
+  ]
 }

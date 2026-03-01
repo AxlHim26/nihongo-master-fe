@@ -15,17 +15,24 @@
       {
         "example": "叺",
         "reading": "かます",
-        "meaning": "straw bag"
+        "meaning": {
+          "en": "straw bag"
+        },
+        "romaji": "kamasu"
       },
       {
         "example": "【カマスサワラ】",
         "reading": "wahoo (Acanthocybium solandri)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "wahoo (Acanthocybium solandri)"
       },
       {
         "example": "大和叺",
         "reading": "やまとかます",
-        "meaning": "Japanese barracuda (Sphyraena japonica)"
+        "meaning": {
+          "vi": "Japanese barracuda (Sphyraena japonica)"
+        },
+        "romaji": "yamatokamasu"
       }
     ],
     "radical": {
@@ -40,5 +47,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53fa.gif",
     "uri": "https://jisho.org/search/%E5%8F%BA%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

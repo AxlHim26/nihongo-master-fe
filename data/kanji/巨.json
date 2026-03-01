@@ -215,12 +215,18 @@
       {
         "example": "巨匠",
         "reading": "キョショウ",
-        "meaning": "master, masterhand, maestro"
+        "meaning": {
+          "en": "master, masterhand, maestro"
+        },
+        "romaji": "kyoshou"
       },
       {
         "example": "巨額",
         "reading": "キョガク",
-        "meaning": "huge sum (esp. of money), enormous sum, massive amount"
+        "meaning": {
+          "vi": "huge sum (esp. of money), enormous sum, massive amount"
+        },
+        "romaji": "kyogaku"
       }
     ],
     "kunyomiExamples": [],
@@ -236,5 +242,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de8.gif",
     "uri": "https://jisho.org/search/%E5%B7%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "cự",
+    "há"
+  ]
 }

@@ -16,22 +16,34 @@
       {
         "example": "辻",
         "reading": "つじ",
-        "meaning": "crossroads, crossing, intersection, street corner, street"
+        "meaning": {
+          "en": "crossroads, crossing, intersection, street corner, street"
+        },
+        "romaji": "tsuji"
       },
       {
         "example": "旋風",
         "reading": "せんぷう",
-        "meaning": "whirlwind, sensation, commotion, hullabaloo"
+        "meaning": {
+          "en": "whirlwind, sensation, commotion, hullabaloo"
+        },
+        "romaji": "senpuu"
       },
       {
         "example": "辻辻",
         "reading": "つじつじ",
-        "meaning": "every street corner, every crossing"
+        "meaning": {
+          "en": "every street corner, every crossing"
+        },
+        "romaji": "tsujitsuji"
       },
       {
         "example": "四辻",
         "reading": "よつつじ",
-        "meaning": "crossroads, intersection, crossway, carrefour"
+        "meaning": {
+          "en": "crossroads, intersection, crossway, carrefour"
+        },
+        "romaji": "yotsutsuji"
       }
     ],
     "radical": {
@@ -51,5 +63,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbb.gif",
     "uri": "https://jisho.org/search/%E8%BE%BB%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

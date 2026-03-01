@@ -17,39 +17,60 @@
       {
         "example": "裏",
         "reading": "リ",
-        "meaning": "in (e.g. secret), with (e.g. success)"
+        "meaning": {
+          "en": "in (e.g. secret), with (e.g. success)"
+        },
+        "romaji": "ri"
       },
       {
         "example": "裏面",
         "reading": "リメン",
-        "meaning": "back (side), reverse, the inside, background, dark side (e.g. of society), behind the scenes, beneath the surface"
+        "meaning": {
+          "en": "back (side), reverse, the inside, background, dark side (e.g. of society), behind the scenes, beneath the surface"
+        },
+        "romaji": "rimen"
       },
       {
         "example": "成功裏",
         "reading": "セイコウリ",
-        "meaning": "(with a) successful outcome, (ending in) success"
+        "meaning": {
+          "en": "(with a) successful outcome, (ending in) success"
+        },
+        "romaji": "seikouri"
       },
       {
         "example": "胸裏",
         "reading": "キョウリ",
-        "meaning": "one's heart, one's mind (feelings, bosom)"
+        "meaning": {
+          "en": "one's heart, one's mind (feelings, bosom)"
+        },
+        "romaji": "kyouri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "内",
         "reading": "うち",
-        "meaning": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        "meaning": {
+          "vi": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        },
+        "romaji": "uchi"
       },
       {
         "example": "冥々のうち",
         "reading": "めいめいのうち",
-        "meaning": "unawares, before one is aware"
+        "meaning": {
+          "en": "unawares, before one is aware"
+        },
+        "romaji": "meimeinouchi"
       },
       {
         "example": "胸の内",
         "reading": "むねのうち",
-        "meaning": "what's in one's heart, one's emotional state, what one feels"
+        "meaning": {
+          "en": "what's in one's heart, one's emotional state, what one feels"
+        },
+        "romaji": "munenouchi"
       }
     ],
     "radical": {
@@ -67,5 +88,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88e1.gif",
     "uri": "https://jisho.org/search/%E8%A3%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "lí",
+    "lý"
+  ]
 }

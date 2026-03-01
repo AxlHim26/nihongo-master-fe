@@ -276,39 +276,60 @@
       {
         "example": "輩",
         "reading": "ハイ",
-        "meaning": "group, gang, bunch"
+        "meaning": {
+          "vi": "group, gang, bunch"
+        },
+        "romaji": "hai"
       },
       {
         "example": "輩出",
         "reading": "ハイシュツ",
-        "meaning": "producing (people) in great numbers, appearing one after the other"
+        "meaning": {
+          "vi": "producing (people) in great numbers, appearing one after the other"
+        },
+        "romaji": "haishutsu"
       },
       {
         "example": "軽輩",
         "reading": "ケイハイ",
-        "meaning": "underling"
+        "meaning": {
+          "en": "underling"
+        },
+        "romaji": "keihai"
       },
       {
         "example": "儕輩",
         "reading": "サイハイ",
-        "meaning": "colleagues, fellows, comrades"
+        "meaning": {
+          "en": "colleagues, fellows, comrades"
+        },
+        "romaji": "saihai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輩",
         "reading": "やから",
-        "meaning": "party (of people), set (of people), clan, family, fellow"
+        "meaning": {
+          "vi": "party (of people), set (of people), clan, family, fellow"
+        },
+        "romaji": "yakara"
       },
       {
         "example": "不逞の輩",
         "reading": "ふていのやから",
-        "meaning": "lawless people, gang, malcontents, recalcitrants"
+        "meaning": {
+          "vi": "lawless people, gang, malcontents, recalcitrants"
+        },
+        "romaji": "futeinoyakara"
       },
       {
         "example": "輩",
         "reading": "ともがら",
-        "meaning": "comrade, fellow"
+        "meaning": {
+          "en": "comrade, fellow"
+        },
+        "romaji": "tomogara"
       }
     ],
     "radical": {
@@ -323,5 +344,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f29.gif",
     "uri": "https://jisho.org/search/%E8%BC%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "bối"
+  ]
 }

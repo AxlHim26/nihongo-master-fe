@@ -24,39 +24,60 @@
       {
         "example": "撓角法",
         "reading": "トウカクホウ",
-        "meaning": "slope deflection method"
+        "meaning": {
+          "vi": "slope deflection method"
+        },
+        "romaji": "toukakuhou"
       },
       {
         "example": "撓曲",
         "reading": "トウキョク",
-        "meaning": "flexure"
+        "meaning": {
+          "en": "flexure"
+        },
+        "romaji": "toukyoku"
       },
       {
         "example": "可撓",
         "reading": "カトウ",
-        "meaning": "flexible"
+        "meaning": {
+          "en": "flexible"
+        },
+        "romaji": "katou"
       },
       {
         "example": "屈撓",
         "reading": "クットウ",
-        "meaning": "bending"
+        "meaning": {
+          "en": "bending"
+        },
+        "romaji": "kuttou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撓む",
         "reading": "たわむ",
-        "meaning": "to bend, to warp, to lose heart"
+        "meaning": {
+          "vi": "to bend, to warp, to lose heart"
+        },
+        "romaji": "tawamu"
       },
       {
         "example": "撓う",
         "reading": "しなう",
-        "meaning": "to bend, to warp, to yield, to be supple (e.g. bamboo, body), to be flexible, to be pliant"
+        "meaning": {
+          "vi": "to bend, to warp, to yield, to be supple (e.g. bamboo, body), to be flexible, to be pliant"
+        },
+        "romaji": "shinau"
       },
       {
         "example": "撓める",
         "reading": "たわめる",
-        "meaning": "to bend (a piece of wood, etc.), to bow"
+        "meaning": {
+          "vi": "to bend (a piece of wood, etc.), to bow"
+        },
+        "romaji": "tawameru"
       }
     ],
     "radical": {
@@ -75,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06493.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6493.gif",
     "uri": "https://jisho.org/search/%E6%92%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "nạo"
+  ]
 }

@@ -20,49 +20,76 @@
       {
         "example": "琴",
         "reading": "キン",
-        "meaning": "qin (7-stringed Chinese zither), guqin"
+        "meaning": {
+          "en": "qin (7-stringed Chinese zither), guqin"
+        },
+        "romaji": "kin"
       },
       {
         "example": "琴曲",
         "reading": "キンキョク",
-        "meaning": "koto music"
+        "meaning": {
+          "en": "koto music"
+        },
+        "romaji": "kinkyoku"
       },
       {
         "example": "奚琴",
         "reading": "ケイキン",
-        "meaning": "xiqin (2-stringed Chinese musical instrument)"
+        "meaning": {
+          "en": "xiqin (2-stringed Chinese musical instrument)"
+        },
+        "romaji": "keikin"
       },
       {
         "example": "携琴",
         "reading": "ケイキン",
-        "meaning": "sihu (4-stringed Chinese musical instrument played with a bow)"
+        "meaning": {
+          "vi": "sihu (4-stringed Chinese musical instrument played with a bow)"
+        },
+        "romaji": "keikin"
       },
       {
         "example": "和琴",
         "reading": "ワゴン",
-        "meaning": "wagon, yamatogoto, six-stringed native Japanese zither"
+        "meaning": {
+          "vi": "wagon, yamatogoto, six-stringed native Japanese zither"
+        },
+        "romaji": "wagon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "琴",
         "reading": "こと",
-        "meaning": "koto (13-stringed Japanese zither), stringed instrument, zheng (Chinese zither), guzheng"
+        "meaning": {
+          "vi": "koto (13-stringed Japanese zither), stringed instrument, zheng (Chinese zither), guzheng"
+        },
+        "romaji": "koto"
       },
       {
         "example": "琴座",
         "reading": "ことざ",
-        "meaning": "Lyra (constellation), the Lyre"
+        "meaning": {
+          "en": "Lyra (constellation), the Lyre"
+        },
+        "romaji": "kotoza"
       },
       {
         "example": "箏の琴",
         "reading": "そうのこと",
-        "meaning": "koto"
+        "meaning": {
+          "en": "koto"
+        },
+        "romaji": "sounokoto"
       },
       {
         "example": "琵琶の琴",
         "reading": "びわのこと",
-        "meaning": "biwa (4 or 5-stringed Oriental lute)"
+        "meaning": {
+          "en": "biwa (4 or 5-stringed Oriental lute)"
+        },
+        "romaji": "biwanokoto"
       }
     ],
     "radical": {
@@ -81,5 +108,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07434.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7434.gif",
     "uri": "https://jisho.org/search/%E7%90%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "cầm"
+  ]
 }

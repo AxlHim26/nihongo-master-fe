@@ -356,39 +356,60 @@
       {
         "example": "器",
         "reading": "キ",
-        "meaning": "device, instrument, vessel, container, ability, capacity, calibre, caliber"
+        "meaning": {
+          "vi": "device, instrument, vessel, container, ability, capacity, calibre, caliber"
+        },
+        "romaji": "ki"
       },
       {
         "example": "機械",
         "reading": "キカイ",
-        "meaning": "machine, mechanism, instrument, appliance, apparatus"
+        "meaning": {
+          "vi": "machine, mechanism, instrument, appliance, apparatus"
+        },
+        "romaji": "kikai"
       },
       {
         "example": "呼吸器",
         "reading": "コキュウキ",
-        "meaning": "respiratory organs"
+        "meaning": {
+          "vi": "respiratory organs"
+        },
+        "romaji": "kokyuuki"
       },
       {
         "example": "化学兵器",
         "reading": "カガクヘイキ",
-        "meaning": "chemical weapon"
+        "meaning": {
+          "vi": "chemical weapon"
+        },
+        "romaji": "kagakuheiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "器",
         "reading": "うつわ",
-        "meaning": "bowl, vessel, container, ability, capacity, calibre, caliber"
+        "meaning": {
+          "vi": "bowl, vessel, container, ability, capacity, calibre, caliber"
+        },
+        "romaji": "utsuwa"
       },
       {
         "example": "器物",
         "reading": "きぶつ",
-        "meaning": "receptacle, container, vessel, utensil, implement, furniture, personal property, calibre, talent, ability"
+        "meaning": {
+          "vi": "receptacle, container, vessel, utensil, implement, furniture, personal property, calibre, talent, ability"
+        },
+        "romaji": "kibutsu"
       },
       {
         "example": "横綱の器",
         "reading": "よこづなのうつわ",
-        "meaning": "mental characteristics expected of a grand champion"
+        "meaning": {
+          "vi": "mental characteristics expected of a grand champion"
+        },
+        "romaji": "yokozunanoutsuwa"
       }
     ],
     "radical": {
@@ -403,5 +424,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05668.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5668.gif",
     "uri": "https://jisho.org/search/%E5%99%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "khí"
+  ]
 }

@@ -20,49 +20,76 @@
       {
         "example": "執務",
         "reading": "シツム",
-        "meaning": "performance of one's official duties"
+        "meaning": {
+          "vi": "performance of one's official duties"
+        },
+        "romaji": "shitsumu"
       },
       {
         "example": "執拗い",
         "reading": "シツコイ",
-        "meaning": "insistent, obstinate, persistent, tenacious, too rich (taste, etc.), fatty, heavy, greasy"
+        "meaning": {
+          "vi": "insistent, obstinate, persistent, tenacious, too rich (taste, etc.), fatty, heavy, greasy"
+        },
+        "romaji": "shitsukoi"
       },
       {
         "example": "中執",
         "reading": "チュウシツ",
-        "meaning": "Central Executive Committee"
+        "meaning": {
+          "en": "Central Executive Committee"
+        },
+        "romaji": "chuushitsu"
       },
       {
         "example": "確執",
         "reading": "カクシツ",
-        "meaning": "discord, antagonism"
+        "meaning": {
+          "en": "discord, antagonism"
+        },
+        "romaji": "kakushitsu"
       },
       {
         "example": "執",
         "reading": "シュウ",
-        "meaning": "attachment, obsession, persistence"
+        "meaning": {
+          "vi": "attachment, obsession, persistence"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "執行",
         "reading": "シッコウ",
-        "meaning": "execution, carrying out, performance, enforcement, exercise, service, conduct, execution, lead monk performing various tasks in a temple"
+        "meaning": {
+          "vi": "execution, carrying out, performance, enforcement, exercise, service, conduct, execution, lead monk performing various tasks in a temple"
+        },
+        "romaji": "shikkou"
       },
       {
         "example": "確執",
         "reading": "カクシツ",
-        "meaning": "discord, antagonism"
+        "meaning": {
+          "en": "discord, antagonism"
+        },
+        "romaji": "kakushitsu"
       },
       {
         "example": "愛執",
         "reading": "アイシュウ",
-        "meaning": "attachment, covetous affection"
+        "meaning": {
+          "en": "attachment, covetous affection"
+        },
+        "romaji": "aishuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "執る",
         "reading": "とる",
-        "meaning": "to take (trouble), to attend (to business), to command (army)"
+        "meaning": {
+          "en": "to take (trouble), to attend (to business), to command (army)"
+        },
+        "romaji": "toru"
       }
     ],
     "radical": {
@@ -83,5 +110,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f7.gif",
     "uri": "https://jisho.org/search/%E5%9F%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "chấp"
+  ]
 }

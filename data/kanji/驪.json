@@ -15,7 +15,10 @@
       {
         "example": "驪竜",
         "reading": "リリョウ",
-        "meaning": "black dragon"
+        "meaning": {
+          "en": "black dragon"
+        },
+        "romaji": "riryou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a6a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a6a.gif",
     "uri": "https://jisho.org/search/%E9%A9%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "li",
+    "ly"
+  ]
 }

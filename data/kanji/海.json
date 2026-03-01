@@ -347,44 +347,68 @@
       {
         "example": "海運",
         "reading": "カイウン",
-        "meaning": "maritime transport, shipping"
+        "meaning": {
+          "vi": "maritime transport, shipping"
+        },
+        "romaji": "kaiun"
       },
       {
         "example": "海域",
         "reading": "カイイキ",
-        "meaning": "area of sea, waters"
+        "meaning": {
+          "en": "area of sea, waters"
+        },
+        "romaji": "kaiiki"
       },
       {
         "example": "公海",
         "reading": "コウカイ",
-        "meaning": "high seas, international waters"
+        "meaning": {
+          "en": "high seas, international waters"
+        },
+        "romaji": "koukai"
       },
       {
         "example": "内海",
         "reading": "ナイカイ",
-        "meaning": "inland sea, inlet, gulf, bay, lake"
+        "meaning": {
+          "en": "inland sea, inlet, gulf, bay, lake"
+        },
+        "romaji": "naikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "海",
         "reading": "うみ",
-        "meaning": "sea, ocean, waters"
+        "meaning": {
+          "en": "sea, ocean, waters"
+        },
+        "romaji": "umi"
       },
       {
         "example": "海辺",
         "reading": "うみべ",
-        "meaning": "beach, seashore, seaside, coast"
+        "meaning": {
+          "en": "beach, seashore, seaside, coast"
+        },
+        "romaji": "umibe"
       },
       {
         "example": "内海",
         "reading": "ないかい",
-        "meaning": "inland sea, inlet, gulf, bay, lake"
+        "meaning": {
+          "en": "inland sea, inlet, gulf, bay, lake"
+        },
+        "romaji": "naikai"
       },
       {
         "example": "血の海",
         "reading": "ちのうみ",
-        "meaning": "sea of blood, pool of blood"
+        "meaning": {
+          "vi": "sea of blood, pool of blood"
+        },
+        "romaji": "chinoumi"
       }
     ],
     "radical": {
@@ -405,5 +429,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d77.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d77.gif",
     "uri": "https://jisho.org/search/%E6%B5%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hải"
+  ]
 }

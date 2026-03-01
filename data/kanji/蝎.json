@@ -17,14 +17,20 @@
       {
         "example": "蛇蠍",
         "reading": "ダカツ",
-        "meaning": "serpent (snake) and scorpion, detestation"
+        "meaning": {
+          "vi": "serpent (snake) and scorpion, detestation"
+        },
+        "romaji": "dakatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "さそり座",
         "reading": "さそりざ",
-        "meaning": "Scorpio (constellation), the Scorpion"
+        "meaning": {
+          "vi": "Scorpio (constellation), the Scorpion"
+        },
+        "romaji": "sasoriza"
       }
     ],
     "radical": {
@@ -41,5 +47,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0874e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/874e.gif",
     "uri": "https://jisho.org/search/%E8%9D%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiết",
+    "hạt",
+    "yết"
+  ]
 }

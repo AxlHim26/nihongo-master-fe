@@ -14,12 +14,18 @@
       {
         "example": "鵞眼",
         "reading": "ガガン",
-        "meaning": "đồng xu zeni"
+        "meaning": {
+          "vi": "đồng xu zeni"
+        },
+        "romaji": "gagan"
       },
       {
         "example": "鵞口瘡",
         "reading": "ガコウソウ",
-        "meaning": "tưa miệng (bệnh nhi), aphtha, nấm miệng"
+        "meaning": {
+          "vi": "tưa miệng (bệnh nhi), aphtha, nấm miệng"
+        },
+        "romaji": "gakousou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d5e.gif",
     "uri": "https://jisho.org/search/%E9%B5%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "nga"
+  ]
 }

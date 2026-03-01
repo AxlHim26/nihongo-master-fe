@@ -386,44 +386,68 @@
       {
         "example": "時",
         "reading": "ジ",
-        "meaning": "hour, o'clock, (specified) time, when ..., during ..."
+        "meaning": {
+          "vi": "hour, o'clock, (specified) time, when ..., during ..."
+        },
+        "romaji": "ji"
       },
       {
         "example": "時価",
         "reading": "ジカ",
-        "meaning": "current value, price, market value"
+        "meaning": {
+          "vi": "current value, price, market value"
+        },
+        "romaji": "jika"
       },
       {
         "example": "零時",
         "reading": "レイジ",
-        "meaning": "twelve o'clock, midnight, noon"
+        "meaning": {
+          "en": "twelve o'clock, midnight, noon"
+        },
+        "romaji": "reiji"
       },
       {
         "example": "平時",
         "reading": "ヘイジ",
-        "meaning": "peacetime, time of peace, ordinary times, normal times"
+        "meaning": {
+          "vi": "peacetime, time of peace, ordinary times, normal times"
+        },
+        "romaji": "heiji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "時",
         "reading": "とき",
-        "meaning": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
+        "meaning": {
+          "vi": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
+        },
+        "romaji": "toki"
       },
       {
         "example": "時折",
         "reading": "ときおり",
-        "meaning": "sometimes, at intervals, occasionally, on occasion, from time to time"
+        "meaning": {
+          "en": "sometimes, at intervals, occasionally, on occasion, from time to time"
+        },
+        "romaji": "tokiori"
       },
       {
         "example": "切り替え時",
         "reading": "きりかえとき",
-        "meaning": "time to switch over, response time"
+        "meaning": {
+          "vi": "time to switch over, response time"
+        },
+        "romaji": "kirikaetoki"
       },
       {
         "example": "逢魔が時",
         "reading": "おうまがとき",
-        "meaning": "twilight (traditionally regarded as a time when accidents and disasters are frequent)"
+        "meaning": {
+          "en": "twilight (traditionally regarded as a time when accidents and disasters are frequent)"
+        },
+        "romaji": "oumagatoki"
       }
     ],
     "radical": {
@@ -439,5 +463,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06642.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6642.gif",
     "uri": "https://jisho.org/search/%E6%99%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "thì",
+    "thời"
+  ]
 }

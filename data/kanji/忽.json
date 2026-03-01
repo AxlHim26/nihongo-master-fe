@@ -17,39 +17,60 @@
       {
         "example": "忽",
         "reading": "コツ",
-        "meaning": "one hundred-thousandth, sudden, abrupt, unexpected"
+        "meaning": {
+          "vi": "one hundred-thousandth, sudden, abrupt, unexpected"
+        },
+        "romaji": "kotsu"
       },
       {
         "example": "忽焉",
         "reading": "コツエン",
-        "meaning": "sudden, unexpected"
+        "meaning": {
+          "vi": "sudden, unexpected"
+        },
+        "romaji": "kotsuen"
       },
       {
         "example": "軽忽",
         "reading": "キョウコツ",
-        "meaning": "indiscreet, thoughtless, absurd, laughable, disdaining, belittling"
+        "meaning": {
+          "en": "indiscreet, thoughtless, absurd, laughable, disdaining, belittling"
+        },
+        "romaji": "kyoukotsu"
       },
       {
         "example": "粗忽",
         "reading": "ソコツ",
-        "meaning": "careless, thoughtless, rash, rude, at fault"
+        "meaning": {
+          "en": "careless, thoughtless, rash, rude, at fault"
+        },
+        "romaji": "sokotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "忽ち",
         "reading": "たちまち",
-        "meaning": "in an instant, in a moment, immediately, right away, at once, suddenly, all of a sudden, all at once"
+        "meaning": {
+          "en": "in an instant, in a moment, immediately, right away, at once, suddenly, all of a sudden, all at once"
+        },
+        "romaji": "tachimachi"
       },
       {
         "example": "忽せ",
         "reading": "ゆるがせ",
-        "meaning": "negligent, careless, easygoing, relaxed"
+        "meaning": {
+          "en": "negligent, careless, easygoing, relaxed"
+        },
+        "romaji": "yurugase"
       },
       {
         "example": "忽せにする",
         "reading": "ゆるがせにする",
-        "meaning": "to be negligent, to neglect, to slight"
+        "meaning": {
+          "en": "to be negligent, to neglect, to slight"
+        },
+        "romaji": "yurugasenisuru"
       }
     ],
     "radical": {
@@ -70,5 +91,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ffd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ffd.gif",
     "uri": "https://jisho.org/search/%E5%BF%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hốt"
+  ]
 }

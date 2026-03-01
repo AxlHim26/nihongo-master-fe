@@ -18,49 +18,76 @@
       {
         "example": "聾",
         "reading": "ロウ",
-        "meaning": "deafness"
+        "meaning": {
+          "en": "deafness"
+        },
+        "romaji": "rou"
       },
       {
         "example": "聾唖",
         "reading": "ロウア",
-        "meaning": "deafness, deaf-mutism, deaf-mute"
+        "meaning": {
+          "en": "deafness, deaf-mutism, deaf-mute"
+        },
+        "romaji": "roua"
       },
       {
         "example": "盲聾",
         "reading": "モウロウ",
-        "meaning": "deafblindness, deaf-blind person"
+        "meaning": {
+          "vi": "deafblindness, deaf-blind person"
+        },
+        "romaji": "mourou"
       },
       {
         "example": "全聾",
         "reading": "ゼンロウ",
-        "meaning": "total deafness"
+        "meaning": {
+          "en": "total deafness"
+        },
+        "romaji": "zenrou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聾する",
         "reading": "ろうする",
-        "meaning": "to deafen"
+        "meaning": {
+          "en": "to deafen"
+        },
+        "romaji": "rousuru"
       },
       {
         "example": "聾",
         "reading": "つんぼ",
-        "meaning": "deafness, deaf person"
+        "meaning": {
+          "vi": "deafness, deaf person"
+        },
+        "romaji": "tsunbo"
       },
       {
         "example": "つんぼ桟敷",
         "reading": "つんぼさじき",
-        "meaning": "being kept uninformed, being cut off, out of the loop, upper gallery (where one can't hear), blind seat"
+        "meaning": {
+          "vi": "being kept uninformed, being cut off, out of the loop, upper gallery (where one can't hear), blind seat"
+        },
+        "romaji": "tsunbosajiki"
       },
       {
         "example": "金聾",
         "reading": "かなつんぼ",
-        "meaning": "completely deaf"
+        "meaning": {
+          "vi": "completely deaf"
+        },
+        "romaji": "kanatsunbo"
       },
       {
         "example": "耳癈",
         "reading": "みみしい",
-        "meaning": "deafness, deaf person"
+        "meaning": {
+          "vi": "deafness, deaf person"
+        },
+        "romaji": "mimishii"
       }
     ],
     "radical": {
@@ -76,5 +103,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0807e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/807e.gif",
     "uri": "https://jisho.org/search/%E8%81%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "lung"
+  ]
 }

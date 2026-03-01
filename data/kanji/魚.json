@@ -398,59 +398,92 @@
       {
         "example": "魚類",
         "reading": "ギョルイ",
-        "meaning": "cá, các loài cá"
+        "meaning": {
+          "vi": "cá, các loài cá"
+        },
+        "romaji": "gyorui"
       },
       {
         "example": "魚介類",
         "reading": "ギョカイルイ",
-        "meaning": "hải sản, cá và động vật có vỏ"
+        "meaning": {
+          "vi": "hải sản, cá và động vật có vỏ"
+        },
+        "romaji": "gyokairui"
       },
       {
         "example": "鮮魚",
         "reading": "センギョ",
-        "meaning": "cá tươi"
+        "meaning": {
+          "vi": "cá tươi"
+        },
+        "romaji": "sengyo"
       },
       {
         "example": "稚魚",
         "reading": "チギョ",
-        "meaning": "cá con, cá giống"
+        "meaning": {
+          "vi": "cá con, cá giống"
+        },
+        "romaji": "chigyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魚",
         "reading": "さかな",
-        "meaning": "cá"
+        "meaning": {
+          "vi": "cá"
+        },
+        "romaji": "sakana"
       },
       {
         "example": "魚市場",
         "reading": "うおいちば",
-        "meaning": "chợ cá"
+        "meaning": {
+          "vi": "chợ cá"
+        },
+        "romaji": "uoichiba"
       },
       {
         "example": "川魚",
         "reading": "かわうお",
-        "meaning": "cá sông, cá nước ngọt"
+        "meaning": {
+          "vi": "cá sông, cá nước ngọt"
+        },
+        "romaji": "kawauo"
       },
       {
         "example": "活魚",
         "reading": "かつぎょ",
-        "meaning": "cá tươi sống (nuôi trong bể ở nhà hàng)"
+        "meaning": {
+          "vi": "cá tươi sống (nuôi trong bể ở nhà hàng)"
+        },
+        "romaji": "katsugyo"
       },
       {
         "example": "魚",
         "reading": "さかな",
-        "meaning": "cá"
+        "meaning": {
+          "vi": "cá"
+        },
+        "romaji": "sakana"
       },
       {
         "example": "魚釣り",
         "reading": "さかなつり",
-        "meaning": "câu cá"
+        "meaning": {
+          "vi": "câu cá"
+        },
+        "romaji": "sakanatsuri"
       },
       {
         "example": "旬の魚",
         "reading": "しゅんのさかな",
-        "meaning": "cá đúng mùa"
+        "meaning": {
+          "vi": "cá đúng mùa"
+        },
+        "romaji": "shunnosakana"
       }
     ],
     "radical": {
@@ -466,5 +499,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b5a.gif",
     "uri": "https://jisho.org/search/%E9%AD%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngư"
+  ]
 }

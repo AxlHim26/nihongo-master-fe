@@ -14,7 +14,10 @@
       {
         "example": "蜉蝣",
         "reading": "フユウ",
-        "meaning": "mayfly, ephemerality (of life)"
+        "meaning": {
+          "vi": "mayfly, ephemerality (of life)"
+        },
+        "romaji": "fuyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08763.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8763.gif",
     "uri": "https://jisho.org/search/%E8%9D%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "du"
+  ]
 }

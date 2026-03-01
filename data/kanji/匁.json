@@ -17,27 +17,42 @@
       {
         "example": "匁",
         "reading": "もんめ",
-        "meaning": "monme (unit of weight, 3.75 g), monme, Edo-period silver coin worth between 1/50th and 1/80th of a ryō"
+        "meaning": {
+          "vi": "monme (unit of weight, 3.75 g), monme, Edo-period silver coin worth between 1/50th and 1/80th of a ryō"
+        },
+        "romaji": "monme"
       },
       {
         "example": "百匁",
         "reading": "ひゃくもんめ",
-        "meaning": "375 grams (100 monme)"
+        "meaning": {
+          "en": "375 grams (100 monme)"
+        },
+        "romaji": "hyakumonme"
       },
       {
         "example": "花いちもんめ",
         "reading": "はないちもんめ",
-        "meaning": "children's game in which two groups compete for members by playing janken"
+        "meaning": {
+          "vi": "children's game in which two groups compete for members by playing janken"
+        },
+        "romaji": "hanaichimonme"
       },
       {
         "example": "百匁",
         "reading": "ひゃくもんめ",
-        "meaning": "375 grams (100 monme)"
+        "meaning": {
+          "en": "375 grams (100 monme)"
+        },
+        "romaji": "hyakumonme"
       },
       {
         "example": "花いちもんめ",
         "reading": "はないちもんめ",
-        "meaning": "children's game in which two groups compete for members by playing janken"
+        "meaning": {
+          "vi": "children's game in which two groups compete for members by playing janken"
+        },
+        "romaji": "hanaichimonme"
       }
     ],
     "radical": {
@@ -53,5 +68,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05301.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5301.gif",
     "uri": "https://jisho.org/search/%E5%8C%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạng",
+    "lưỡng"
+  ]
 }

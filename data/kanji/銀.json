@@ -281,34 +281,52 @@
       {
         "example": "銀",
         "reading": "ギン",
-        "meaning": "silver (Ag), silver (color), silver (medal, prize, etc.), silver coin, silver general, bank, money"
+        "meaning": {
+          "vi": "silver (Ag), silver (color), silver (medal, prize, etc.), silver coin, silver general, bank, money"
+        },
+        "romaji": "gin"
       },
       {
         "example": "銀色",
         "reading": "ギンイロ",
-        "meaning": "silver (color, colour)"
+        "meaning": {
+          "en": "silver (color, colour)"
+        },
+        "romaji": "gin'iro"
       },
       {
         "example": "世銀",
         "reading": "セギン",
-        "meaning": "World Bank"
+        "meaning": {
+          "en": "World Bank"
+        },
+        "romaji": "segin"
       },
       {
         "example": "水銀",
         "reading": "スイギン",
-        "meaning": "mercury (Hg)"
+        "meaning": {
+          "en": "mercury (Hg)"
+        },
+        "romaji": "suigin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "銀",
         "reading": "しろがね",
-        "meaning": "silver, silver coin, silver (color)"
+        "meaning": {
+          "en": "silver, silver coin, silver (color)"
+        },
+        "romaji": "shirogane"
       },
       {
         "example": "銀鯵",
         "reading": "しろがねあじ",
-        "meaning": "lookdown (Selene vomer)"
+        "meaning": {
+          "en": "lookdown (Selene vomer)"
+        },
+        "romaji": "shiroganeaji"
       }
     ],
     "radical": {
@@ -326,5 +344,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09280.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9280.gif",
     "uri": "https://jisho.org/search/%E9%8A%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngân"
+  ]
 }

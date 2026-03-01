@@ -19,22 +19,32 @@
       {
         "example": "茜",
         "reading": "あかね",
-        "meaning": "madder (esp. Japanese madder, Rubia argyi), madder (red color)"
+        "meaning": {
+          "vi": "madder (esp. Japanese madder, Rubia argyi), madder (red color)"
+        },
+        "romaji": "akane"
       },
       {
         "example": "茜色",
         "reading": "あかねいろ",
-        "meaning": "madder red, dark red, crimson"
+        "meaning": {
+          "en": "madder red, dark red, crimson"
+        },
+        "romaji": "akaneiro"
       },
       {
         "example": "【アキアカネ】",
         "reading": "autumn darter (Sympetrum frequens)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "autumn darter (Sympetrum frequens)"
       },
       {
         "example": "蝦夷茜",
         "reading": "えぞあかね",
-        "meaning": "yellow-winged darter (Sympetrum flaveolum)"
+        "meaning": {
+          "vi": "yellow-winged darter (Sympetrum flaveolum)"
+        },
+        "romaji": "ezoakane"
       }
     ],
     "radical": {
@@ -52,5 +62,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0831c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/831c.gif",
     "uri": "https://jisho.org/search/%E8%8C%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiến",
+    "trệ",
+    "tây",
+    "tê"
+  ]
 }

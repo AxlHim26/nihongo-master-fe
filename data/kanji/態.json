@@ -306,34 +306,52 @@
       {
         "example": "態",
         "reading": "タイ",
-        "meaning": "condition, figure, appearance, voice"
+        "meaning": {
+          "vi": "condition, figure, appearance, voice"
+        },
+        "romaji": "tai"
       },
       {
         "example": "態勢",
         "reading": "タイセイ",
-        "meaning": "attitude, posture, preparedness, readiness"
+        "meaning": {
+          "vi": "attitude, posture, preparedness, readiness"
+        },
+        "romaji": "taisei"
       },
       {
         "example": "旧態",
         "reading": "キュウタイ",
-        "meaning": "old state of affairs"
+        "meaning": {
+          "en": "old state of affairs"
+        },
+        "romaji": "kyuutai"
       },
       {
         "example": "動態",
         "reading": "ドウタイ",
-        "meaning": "movement, dynamic state"
+        "meaning": {
+          "en": "movement, dynamic state"
+        },
+        "romaji": "doutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "態と",
         "reading": "わざと",
-        "meaning": "on purpose, deliberately, intentionally"
+        "meaning": {
+          "vi": "on purpose, deliberately, intentionally"
+        },
+        "romaji": "wazato"
       },
       {
         "example": "態とらしい",
         "reading": "わざとらしい",
-        "meaning": "unnatural, affected, studied, forced"
+        "meaning": {
+          "en": "unnatural, affected, studied, forced"
+        },
+        "romaji": "wazatorashii"
       }
     ],
     "radical": {
@@ -354,5 +372,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614b.gif",
     "uri": "https://jisho.org/search/%E6%85%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái"
+  ]
 }

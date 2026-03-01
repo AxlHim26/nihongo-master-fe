@@ -19,24 +19,36 @@
       {
         "example": "遽然",
         "reading": "キョゼン",
-        "meaning": "sudden, abrupt"
+        "meaning": {
+          "vi": "sudden, abrupt"
+        },
+        "romaji": "kyozen"
       },
       {
         "example": "急遽",
         "reading": "キュウキョ",
-        "meaning": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        "meaning": {
+          "vi": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        },
+        "romaji": "kyuukyo"
       },
       {
         "example": "惶遽",
         "reading": "コウキョ",
-        "meaning": "being afraid and panicked"
+        "meaning": {
+          "vi": "being afraid and panicked"
+        },
+        "romaji": "koukyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慌ただしい",
         "reading": "あわただしい",
-        "meaning": "busy, hectic, hurried, rushed, rapid, quick, sudden"
+        "meaning": {
+          "vi": "busy, hectic, hurried, rushed, rapid, quick, sudden"
+        },
+        "romaji": "awatadashii"
       }
     ],
     "radical": {
@@ -60,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907d.gif",
     "uri": "https://jisho.org/search/%E9%81%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "cự"
+  ]
 }

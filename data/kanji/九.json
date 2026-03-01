@@ -21,7 +21,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_a.mp3"
-        }
+        },
+        "meaningVN": "kyushuu",
+        "hanViet": "cưu châu",
+        "hanVietExplain": "九 (cưu: chín, 9) + 州 (châu: châu (đơn vị hành chính)) → kyushuu"
       },
       {
         "japanese": "九回（きゅうかい）",
@@ -34,7 +37,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_b.mp3"
-        }
+        },
+        "meaningVN": "9 lần",
+        "hanViet": "cưu hối",
+        "hanVietExplain": "九 (cưu: chín, 9) + 回 (hối: về) → 9 lần"
       },
       {
         "japanese": "九年（きゅうねん）",
@@ -47,7 +53,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_c.mp3"
-        }
+        },
+        "meaningVN": "9 năm",
+        "hanViet": "cưu niên",
+        "hanVietExplain": "九 (cưu: chín, 9) + 年 (niên: năm) → 9 năm"
       },
       {
         "japanese": "九月（くがつ）",
@@ -60,7 +69,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_d.mp3"
-        }
+        },
+        "meaningVN": "tháng 9",
+        "hanViet": "cưu nguyệt",
+        "hanVietExplain": "九 (cưu: chín, 9) + 月 (nguyệt: Mặt Trăng) → tháng 9"
       },
       {
         "japanese": "九時（くじ）",
@@ -73,7 +85,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_e.mp3"
-        }
+        },
+        "meaningVN": "9 giờ",
+        "hanViet": "cưu thì",
+        "hanVietExplain": "九 (cưu: chín, 9) + 時 (thì: lúc) → 9 giờ"
       },
       {
         "japanese": "十九日（じゅうくにち）",
@@ -86,7 +101,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_f.mp3"
-        }
+        },
+        "meaningVN": "19 ngày, ngày 19 của tháng",
+        "hanViet": "thập cưu nhật",
+        "hanVietExplain": "十 (thập: mười, 10) + 九 (cưu: chín, 9) + 日 (nhật: Mặt Trời) → 19 ngày, ngày 19 của tháng"
       },
       {
         "japanese": "九日（ここのか）",
@@ -99,7 +117,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_g.mp3"
-        }
+        },
+        "meaningVN": "9 ngày, ngày 9 tháng",
+        "hanViet": "cưu nhật",
+        "hanVietExplain": "九 (cưu: chín, 9) + 日 (nhật: Mặt Trời) → 9 ngày, ngày 9 tháng"
       },
       {
         "japanese": "九つ（ここのつ）",
@@ -112,7 +133,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/9_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/9_06_h.mp3"
-        }
+        },
+        "meaningVN": "9 (đối tượng)",
+        "hanViet": "cưu つ",
+        "hanVietExplain": "cưu: chín, 9"
       }
     ],
     "kunyomi_ja": "ここの、ここのつ",
@@ -333,64 +357,136 @@
       {
         "example": "九",
         "reading": "キュウ",
-        "meaning": "nine, 9"
+        "meaning": {
+          "en": "nine, 9"
+        },
+        "meaningVN": "chín, 9",
+        "hanViet": "cưu",
+        "hanVietExplain": "cưu: chín, 9",
+        "romaji": "kyuu"
       },
       {
         "example": "九州",
         "reading": "キュウシュウ",
-        "meaning": "Kyūshū (southernmost of the four main islands of Japan)"
+        "meaning": {
+          "vi": "Kyūshū (southernmost of the four main islands of Japan)"
+        },
+        "meaningVN": "kyūshū (cực nam của bốn hòn đảo chính của nhật bản)",
+        "hanViet": "cưu châu",
+        "hanVietExplain": "九 (cưu: chín, 9) + 州 (châu: châu (đơn vị hành chính)) → kyūshū (cực nam của bốn hòn đảo chính của nhật bản)",
+        "romaji": "kyuushuu"
       },
       {
         "example": "十九",
         "reading": "ジュウキュウ",
-        "meaning": "nineteen, 19"
+        "meaning": {
+          "en": "nineteen, 19"
+        },
+        "meaningVN": "mười chín, 19",
+        "hanViet": "thập cưu",
+        "hanVietExplain": "十 (thập: mười, 10) + 九 (cưu: chín, 9) → mười chín, 19",
+        "romaji": "juukyuu"
       },
       {
         "example": "２９",
         "reading": "ニジュウキュウ",
-        "meaning": "29, twenty nine, 5am"
+        "meaning": {
+          "en": "29, twenty nine, 5am"
+        },
+        "meaningVN": "29, 29, 5 giờ sáng",
+        "hanViet": "２ ９",
+        "hanVietExplain": null,
+        "romaji": "nijuukyuu"
       },
       {
         "example": "九",
         "reading": "キュウ",
-        "meaning": "nine, 9"
+        "meaning": {
+          "en": "nine, 9"
+        },
+        "meaningVN": "chín, 9",
+        "hanViet": "cưu",
+        "hanVietExplain": "cưu: chín, 9",
+        "romaji": "kyuu"
       },
       {
         "example": "９月",
         "reading": "クガツ",
-        "meaning": "September, ninth month of the lunar calendar"
+        "meaning": {
+          "vi": "September, ninth month of the lunar calendar"
+        },
+        "meaningVN": "tháng 9, tháng 9 âm lịch",
+        "hanViet": "９ nguyệt",
+        "hanVietExplain": "nguyệt: Mặt Trăng, tháng",
+        "romaji": "kugatsu"
       },
       {
         "example": "九九",
         "reading": "クク",
-        "meaning": "multiplication table, times table"
+        "meaning": {
+          "vi": "multiplication table, times table"
+        },
+        "meaningVN": "bảng nhân, bảng nhân",
+        "hanViet": "cưu cưu",
+        "hanVietExplain": "九 (cưu: chín, 9) + 九 (cưu: chín, 9) → bảng nhân, bảng nhân",
+        "romaji": "kuku"
       },
       {
         "example": "第九",
         "reading": "ダイク",
-        "meaning": "ninth, Beethoven's Ninth Symphony"
+        "meaning": {
+          "vi": "ninth, Beethoven's Ninth Symphony"
+        },
+        "meaningVN": "thứ chín, bản giao hưởng thứ chín của beethoven",
+        "hanViet": "đệ cưu",
+        "hanVietExplain": "第 (đệ: thứ bậc) + 九 (cưu: chín, 9) → thứ chín, bản giao hưởng thứ chín của beethoven",
+        "romaji": "daiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "九",
         "reading": "きゅう",
-        "meaning": "nine, 9"
+        "meaning": {
+          "en": "nine, 9"
+        },
+        "meaningVN": "chín, 9",
+        "hanViet": "cưu",
+        "hanVietExplain": "cưu: chín, 9",
+        "romaji": "kyuu"
       },
       {
         "example": "九重",
         "reading": "ここのえ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": {
+          "vi": "ninefold, imperial palace, the Court"
+        },
+        "meaningVN": "chín lần, hoàng cung, triều đình",
+        "hanViet": "cưu trùng",
+        "hanVietExplain": "九 (cưu: chín, 9) + 重 (trùng: trùng, lặp lại) → chín lần, hoàng cung, triều đình",
+        "romaji": "kokonoe"
       },
       {
         "example": "九つ",
         "reading": "ここのつ",
-        "meaning": "nine, nine years of age, twelve o'clock (old time system)"
+        "meaning": {
+          "en": "nine, nine years of age, twelve o'clock (old time system)"
+        },
+        "meaningVN": "chín, chín tuổi, mười hai giờ (hệ thống thời gian cũ)",
+        "hanViet": "cưu つ",
+        "hanVietExplain": "cưu: chín, 9",
+        "romaji": "kokonotsu"
       },
       {
         "example": "九つ時",
         "reading": "ここのつどき",
-        "meaning": "(approx.) twelve o'clock (am or pm, old time system), noon, midnight"
+        "meaning": {
+          "vi": "(approx.) twelve o'clock (am or pm, old time system), noon, midnight"
+        },
+        "meaningVN": "(xấp xỉ) mười hai giờ (sáng hoặc chiều, hệ thống thời gian cũ), trưa, nửa đêm",
+        "hanViet": "cưu つ thì",
+        "hanVietExplain": "九 (cưu: chín, 9) + 時 (thì: lúc) → (xấp xỉ) mười hai giờ (sáng hoặc chiều, hệ thống thời gian cũ), trưa, nửa đêm",
+        "romaji": "kokonotsudoki"
       }
     ],
     "radical": {
@@ -409,5 +505,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5d.gif",
     "uri": "https://jisho.org/search/%E4%B9%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "cưu",
+    "cửu"
+  ],
+  "meaningVN": "chín",
+  "hanVietExplain": "cưu: chín, 9"
 }

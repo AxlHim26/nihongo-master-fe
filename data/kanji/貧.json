@@ -323,39 +323,60 @@
       {
         "example": "貧",
         "reading": "ヒン",
-        "meaning": "poverty, penury, want, need, insufficiency, shortage, deficiency"
+        "meaning": {
+          "vi": "poverty, penury, want, need, insufficiency, shortage, deficiency"
+        },
+        "romaji": "hin"
       },
       {
         "example": "貧血",
         "reading": "ヒンケツ",
-        "meaning": "anemia, anaemia"
+        "meaning": {
+          "en": "anemia, anaemia"
+        },
+        "romaji": "hinketsu"
       },
       {
         "example": "清貧",
         "reading": "セイヒン",
-        "meaning": "honourable poverty, honorable poverty"
+        "meaning": {
+          "vi": "honourable poverty, honorable poverty"
+        },
+        "romaji": "seihin"
       },
       {
         "example": "極貧",
         "reading": "ゴクヒン",
-        "meaning": "destitution"
+        "meaning": {
+          "en": "destitution"
+        },
+        "romaji": "gokuhin"
       },
       {
         "example": "貧乏",
         "reading": "ビンボウ",
-        "meaning": "poverty-stricken, destitute, poor, penurious"
+        "meaning": {
+          "vi": "poverty-stricken, destitute, poor, penurious"
+        },
+        "romaji": "binbou"
       },
       {
         "example": "貧乏人",
         "reading": "ビンボウニン",
-        "meaning": "poor person, the poor"
+        "meaning": {
+          "vi": "poor person, the poor"
+        },
+        "romaji": "binbounin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貧しい",
         "reading": "まずしい",
-        "meaning": "poor, needy, lacking (quantity and quality-wise), poor, scanty, skimpy, slight, inadequate"
+        "meaning": {
+          "vi": "poor, needy, lacking (quantity and quality-wise), poor, scanty, skimpy, slight, inadequate"
+        },
+        "romaji": "mazushii"
       }
     ],
     "radical": {
@@ -372,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca7.gif",
     "uri": "https://jisho.org/search/%E8%B2%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "bần"
+  ]
 }

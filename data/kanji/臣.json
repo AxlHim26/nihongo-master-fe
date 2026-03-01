@@ -255,32 +255,50 @@
       {
         "example": "臣",
         "reading": "オミ",
-        "meaning": "bề tôi, tùy tùng, Omi (tước cha truyền con nối), tôi"
+        "meaning": {
+          "vi": "bề tôi, tùy tùng, Omi (tước cha truyền con nối), tôi"
+        },
+        "romaji": "omi"
       },
       {
         "example": "臣下",
         "reading": "シンカ",
-        "meaning": "bề tôi, thần dân, gia thần, tôi tớ"
+        "meaning": {
+          "vi": "bề tôi, thần dân, gia thần, tôi tớ"
+        },
+        "romaji": "shinka"
       },
       {
         "example": "忠臣",
         "reading": "チュウシン",
-        "meaning": "bề tôi trung thành"
+        "meaning": {
+          "vi": "bề tôi trung thành"
+        },
+        "romaji": "chuushin"
       },
       {
         "example": "重臣",
         "reading": "ジュウシン",
-        "meaning": "đại thần, quan cao cấp"
+        "meaning": {
+          "vi": "đại thần, quan cao cấp"
+        },
+        "romaji": "juushin"
       },
       {
         "example": "国務大臣",
         "reading": "コクムダイジン",
-        "meaning": "bộ trưởng, thành viên nội các (Nhật Bản)"
+        "meaning": {
+          "vi": "bộ trưởng, thành viên nội các (Nhật Bản)"
+        },
+        "romaji": "kokumudaijin"
       },
       {
         "example": "内大臣",
         "reading": "ナイダイジン",
-        "meaning": "Nội đại thần (1885-1945), Nội vụ đại thần (669-1868)"
+        "meaning": {
+          "vi": "Nội đại thần (1885-1945), Nội vụ đại thần (669-1868)"
+        },
+        "romaji": "naidaijin"
       }
     ],
     "kunyomiExamples": [],
@@ -296,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e3.gif",
     "uri": "https://jisho.org/search/%E8%87%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thần"
+  ]
 }

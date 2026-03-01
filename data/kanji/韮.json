@@ -19,22 +19,32 @@
       {
         "example": "韮",
         "reading": "にら",
-        "meaning": "garlic chives (Allium tuberosum), Chinese chives, Chinese leek"
+        "meaning": {
+          "en": "garlic chives (Allium tuberosum), Chinese chives, Chinese leek"
+        },
+        "romaji": "nira"
       },
       {
         "example": "韮葱",
         "reading": "にらねぎ",
-        "meaning": "broadleaf wild leek (Allium ampeloprasum)"
+        "meaning": {
+          "vi": "broadleaf wild leek (Allium ampeloprasum)"
+        },
+        "romaji": "niranegi"
       },
       {
         "example": "黄にら",
         "reading": "きにら",
-        "meaning": "Chinese yellow chives (Allium tuberosum), Chinese leek sprouts, yellow garlic chives, gau wong"
+        "meaning": {
+          "vi": "Chinese yellow chives (Allium tuberosum), Chinese leek sprouts, yellow garlic chives, gau wong"
+        },
+        "romaji": "kinira"
       },
       {
         "example": "【ハナニラ】",
         "reading": "spring starflower (Ipheion uniflorum), springstar",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "spring starflower (Ipheion uniflorum), springstar"
       }
     ],
     "radical": {
@@ -49,5 +59,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ee.gif",
     "uri": "https://jisho.org/search/%E9%9F%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cửu",
+    "phỉ"
+  ]
 }

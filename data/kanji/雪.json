@@ -355,44 +355,68 @@
       {
         "example": "雪辱",
         "reading": "セツジョク",
-        "meaning": "rửa nhục, trả thù"
+        "meaning": {
+          "vi": "rửa nhục, trả thù"
+        },
+        "romaji": "setsujoku"
       },
       {
         "example": "雪上",
         "reading": "セツジョウ",
-        "meaning": "trên tuyết"
+        "meaning": {
+          "vi": "trên tuyết"
+        },
+        "romaji": "setsujou"
       },
       {
         "example": "積雪",
         "reading": "セキセツ",
-        "meaning": "tuyết rơi, lớp tuyết phủ"
+        "meaning": {
+          "vi": "tuyết rơi, lớp tuyết phủ"
+        },
+        "romaji": "sekisetsu"
       },
       {
         "example": "融雪",
         "reading": "ユウセツ",
-        "meaning": "tuyết tan, sự tan tuyết"
+        "meaning": {
+          "vi": "tuyết tan, sự tan tuyết"
+        },
+        "romaji": "yuusetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雪",
         "reading": "ゆき",
-        "meaning": "tuyết, tuyết rơi"
+        "meaning": {
+          "vi": "tuyết, tuyết rơi"
+        },
+        "romaji": "yuki"
       },
       {
         "example": "雪国",
         "reading": "ゆきぐに",
-        "meaning": "xứ tuyết, vùng có tuyết"
+        "meaning": {
+          "vi": "xứ tuyết, vùng có tuyết"
+        },
+        "romaji": "yukiguni"
       },
       {
         "example": "細雪",
         "reading": "ささめゆき",
-        "meaning": "tuyết rơi nhẹ, bông tuyết nhỏ"
+        "meaning": {
+          "vi": "tuyết rơi nhẹ, bông tuyết nhỏ"
+        },
+        "romaji": "sasameyuki"
       },
       {
         "example": "粉雪",
         "reading": "こなゆき",
-        "meaning": "tuyết bột"
+        "meaning": {
+          "vi": "tuyết bột"
+        },
+        "romaji": "konayuki"
       }
     ],
     "radical": {
@@ -407,5 +431,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96ea.gif",
     "uri": "https://jisho.org/search/%E9%9B%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuyết"
+  ]
 }

@@ -17,14 +17,20 @@
       {
         "example": "憧憬",
         "reading": "ドウケイ",
-        "meaning": "longing, yearning, aspiration, adoration"
+        "meaning": {
+          "vi": "longing, yearning, aspiration, adoration"
+        },
+        "romaji": "doukei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憧れる",
         "reading": "あこがれる",
-        "meaning": "to long for, to yearn for, to hanker after, to be attracted by, to be drawn to, to aspire to, to admire, to adore"
+        "meaning": {
+          "vi": "to long for, to yearn for, to hanker after, to be attracted by, to be drawn to, to aspire to, to admire, to adore"
+        },
+        "romaji": "akogareru"
       }
     ],
     "radical": {
@@ -46,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ac.gif",
     "uri": "https://jisho.org/search/%E6%86%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảnh"
+  ]
 }

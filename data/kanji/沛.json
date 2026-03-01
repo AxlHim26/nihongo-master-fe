@@ -14,7 +14,10 @@
       {
         "example": "沛然",
         "reading": "ハイゼン",
-        "meaning": "torrential (rain)"
+        "meaning": {
+          "en": "torrential (rain)"
+        },
+        "romaji": "haizen"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c9b.gif",
     "uri": "https://jisho.org/search/%E6%B2%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "bái",
+    "phái"
+  ]
 }

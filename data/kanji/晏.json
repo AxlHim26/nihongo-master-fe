@@ -17,12 +17,18 @@
       {
         "example": "晏如",
         "reading": "アンジョ",
-        "meaning": "calm, tranquil"
+        "meaning": {
+          "en": "calm, tranquil"
+        },
+        "romaji": "anjo"
       },
       {
         "example": "晏然",
         "reading": "アンゼン",
-        "meaning": "calm, tranquil"
+        "meaning": {
+          "en": "calm, tranquil"
+        },
+        "romaji": "anzen"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0664f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/664f.gif",
     "uri": "https://jisho.org/search/%E6%99%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "yến",
+    "án"
+  ]
 }

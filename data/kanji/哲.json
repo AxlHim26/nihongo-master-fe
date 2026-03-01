@@ -232,22 +232,34 @@
       {
         "example": "哲",
         "reading": "テツ",
-        "meaning": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence"
+        "meaning": {
+          "vi": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence"
+        },
+        "romaji": "tetsu"
       },
       {
         "example": "哲学",
         "reading": "テツガク",
-        "meaning": "philosophy"
+        "meaning": {
+          "vi": "philosophy"
+        },
+        "romaji": "tetsugaku"
       },
       {
         "example": "変哲",
         "reading": "ヘンテツ",
-        "meaning": "something unusual, something odd, something out of the ordinary"
+        "meaning": {
+          "en": "something unusual, something odd, something out of the ordinary"
+        },
+        "romaji": "hentetsu"
       },
       {
         "example": "西哲",
         "reading": "セイテツ",
-        "meaning": "distinguished Western philosopher, great Western thinker, Western philosophy"
+        "meaning": {
+          "vi": "distinguished Western philosopher, great Western thinker, Western philosophy"
+        },
+        "romaji": "seitetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -264,5 +276,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54f2.gif",
     "uri": "https://jisho.org/search/%E5%93%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "triết"
+  ]
 }

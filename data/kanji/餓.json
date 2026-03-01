@@ -19,19 +19,28 @@
       {
         "example": "餓死",
         "reading": "ガシ",
-        "meaning": "(death from) starvation, starving to death"
+        "meaning": {
+          "en": "(death from) starvation, starving to death"
+        },
+        "romaji": "gashi"
       },
       {
         "example": "餓鬼",
         "reading": "ガキ",
-        "meaning": "brat, kid, urchin, little devil, preta, hungry ghost"
+        "meaning": {
+          "vi": "brat, kid, urchin, little devil, preta, hungry ghost"
+        },
+        "romaji": "gaki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飢える",
         "reading": "うえる",
-        "meaning": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+        "meaning": {
+          "en": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+        },
+        "romaji": "ueru"
       }
     ],
     "radical": {
@@ -51,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09913.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9913.gif",
     "uri": "https://jisho.org/search/%E9%A4%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngã",
+    "ngạ"
+  ]
 }

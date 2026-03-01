@@ -18,7 +18,10 @@
       {
         "example": "啜る",
         "reading": "すする",
-        "meaning": "to slurp, to sip (loudly), to sniffle, to sniff"
+        "meaning": {
+          "vi": "to slurp, to sip (loudly), to sniffle, to sniff"
+        },
+        "romaji": "susuru"
       }
     ],
     "radical": {
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0555c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/555c.gif",
     "uri": "https://jisho.org/search/%E5%95%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "xuyết"
+  ]
 }

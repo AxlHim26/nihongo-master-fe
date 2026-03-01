@@ -19,34 +19,52 @@
       {
         "example": "錬金術師",
         "reading": "レンキンジュツシ",
-        "meaning": "alchemist"
+        "meaning": {
+          "en": "alchemist"
+        },
+        "romaji": "renkinjutsushi"
       },
       {
         "example": "錬金術",
         "reading": "レンキンジュツ",
-        "meaning": "alchemy, way of making money, moneymaker, money-spinner"
+        "meaning": {
+          "vi": "alchemy, way of making money, moneymaker, money-spinner"
+        },
+        "romaji": "renkinjutsu"
       },
       {
         "example": "修練",
         "reading": "シュウレン",
-        "meaning": "training, drill, practice, practising, discipline"
+        "meaning": {
+          "vi": "training, drill, practice, practising, discipline"
+        },
+        "romaji": "shuuren"
       },
       {
         "example": "精錬",
         "reading": "セイレン",
-        "meaning": "refining, refinement, smelting, training"
+        "meaning": {
+          "en": "refining, refinement, smelting, training"
+        },
+        "romaji": "seiren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "練る",
         "reading": "ねる",
-        "meaning": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march"
+        "meaning": {
+          "vi": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march"
+        },
+        "romaji": "neru"
       },
       {
         "example": "錬る",
         "reading": "ねる",
-        "meaning": "to temper (steel)"
+        "meaning": {
+          "vi": "to temper (steel)"
+        },
+        "romaji": "neru"
       }
     ],
     "radical": {
@@ -70,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932c.gif",
     "uri": "https://jisho.org/search/%E9%8C%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "luyện"
+  ]
 }

@@ -18,39 +18,60 @@
       {
         "example": "しわ胃",
         "reading": "シワイ",
-        "meaning": "abomasum"
+        "meaning": {
+          "en": "abomasum"
+        },
+        "romaji": "shiwai"
       },
       {
         "example": "褶曲",
         "reading": "シュウキョク",
-        "meaning": "bend, geologic fold"
+        "meaning": {
+          "en": "bend, geologic fold"
+        },
+        "romaji": "shuukyoku"
       },
       {
         "example": "しわ胃",
         "reading": "シワイ",
-        "meaning": "abomasum"
+        "meaning": {
+          "en": "abomasum"
+        },
+        "romaji": "shiwai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "皺",
         "reading": "しわ",
-        "meaning": "wrinkle, crease, ripple"
+        "meaning": {
+          "vi": "wrinkle, crease, ripple"
+        },
+        "romaji": "shiwa"
       },
       {
         "example": "しわ胃",
         "reading": "しわい",
-        "meaning": "abomasum"
+        "meaning": {
+          "en": "abomasum"
+        },
+        "romaji": "shiwai"
       },
       {
         "example": "皺皺",
         "reading": "しわしわ",
-        "meaning": "crumpled, wrinkled"
+        "meaning": {
+          "vi": "crumpled, wrinkled"
+        },
+        "romaji": "shiwashiwa"
       },
       {
         "example": "皺",
         "reading": "しぼ",
-        "meaning": "bumpy texture of a material (esp. woven fabric), creases in an eboshi hat"
+        "meaning": {
+          "vi": "bumpy texture of a material (esp. woven fabric), creases in an eboshi hat"
+        },
+        "romaji": "shibo"
       }
     ],
     "radical": {
@@ -67,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076ba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76ba.gif",
     "uri": "https://jisho.org/search/%E7%9A%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "trứu"
+  ]
 }

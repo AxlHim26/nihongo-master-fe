@@ -290,34 +290,52 @@
       {
         "example": "伏兵",
         "reading": "フクヘイ",
-        "meaning": "phục kích, quân mai phục, đối thủ bất ngờ, chướng ngại bất ngờ"
+        "meaning": {
+          "vi": "phục kích, quân mai phục, đối thủ bất ngờ, chướng ngại bất ngờ"
+        },
+        "romaji": "fukuhei"
       },
       {
         "example": "伏線",
         "reading": "フクセン",
-        "meaning": "đặt bối cảnh, chuẩn bị, biện pháp phòng ngừa"
+        "meaning": {
+          "vi": "đặt bối cảnh, chuẩn bị, biện pháp phòng ngừa"
+        },
+        "romaji": "fukusen"
       },
       {
         "example": "起伏",
         "reading": "キフク",
-        "meaning": "gợn sóng, thăng trầm, cao thấp"
+        "meaning": {
+          "vi": "gợn sóng, thăng trầm, cao thấp"
+        },
+        "romaji": "kifuku"
       },
       {
         "example": "承服",
         "reading": "ショウフク",
-        "meaning": "chấp nhận, đồng ý, phục tùng, tuân thủ"
+        "meaning": {
+          "vi": "chấp nhận, đồng ý, phục tùng, tuân thủ"
+        },
+        "romaji": "shoufuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伏せる",
         "reading": "ふせる",
-        "meaning": "lật úp, đặt úp, cúi xuống (mắt, đầu), nằm sấp, che giấu, ẩn, đặt quân mai phục, nằm, nghỉ, đi ngủ (khi ốm)"
+        "meaning": {
+          "vi": "lật úp, đặt úp, cúi xuống (mắt, đầu), nằm sấp, che giấu, ẩn, đặt quân mai phục, nằm, nghỉ, đi ngủ (khi ốm)"
+        },
+        "romaji": "fuseru"
       },
       {
         "example": "伏す",
         "reading": "ふす",
-        "meaning": "cúi xuống, phủ phục, ẩn mình"
+        "meaning": {
+          "vi": "cúi xuống, phủ phục, ẩn mình"
+        },
+        "romaji": "fusu"
       }
     ],
     "radical": {
@@ -335,5 +353,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0f.gif",
     "uri": "https://jisho.org/search/%E4%BC%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "bặc",
+    "phu",
+    "phúc",
+    "phục"
+  ]
 }

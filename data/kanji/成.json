@@ -399,54 +399,84 @@
       {
         "example": "成果",
         "reading": "セイカ",
-        "meaning": "kết quả, thành quả, thành tựu"
+        "meaning": {
+          "vi": "kết quả, thành quả, thành tựu"
+        },
+        "romaji": "seika"
       },
       {
         "example": "成案",
         "reading": "セイアン",
-        "meaning": "kế hoạch cụ thể"
+        "meaning": {
+          "vi": "kế hoạch cụ thể"
+        },
+        "romaji": "seian"
       },
       {
         "example": "合成",
         "reading": "ゴウセイ",
-        "meaning": "tổng hợp, kết hợp, ghép ảnh"
+        "meaning": {
+          "vi": "tổng hợp, kết hợp, ghép ảnh"
+        },
+        "romaji": "gousei"
       },
       {
         "example": "集大成",
         "reading": "シュウタイセイ",
-        "meaning": "tuyển tập lớn, đỉnh cao (công sức)"
+        "meaning": {
+          "vi": "tuyển tập lớn, đỉnh cao (công sức)"
+        },
+        "romaji": "shuutaisei"
       },
       {
         "example": "成仏",
         "reading": "ジョウブツ",
-        "meaning": "thành Phật, qua đời an lành"
+        "meaning": {
+          "vi": "thành Phật, qua đời an lành"
+        },
+        "romaji": "joubutsu"
       },
       {
         "example": "成就",
         "reading": "ジョウジュ",
-        "meaning": "hoàn thành, thực hiện"
+        "meaning": {
+          "vi": "hoàn thành, thực hiện"
+        },
+        "romaji": "jouju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "成る",
         "reading": "なる",
-        "meaning": "trở thành, lớn lên, đạt được, hoàn thành, thay đổi, biến thành"
+        "meaning": {
+          "vi": "trở thành, lớn lên, đạt được, hoàn thành, thay đổi, biến thành"
+        },
+        "romaji": "naru"
       },
       {
         "example": "成るべく",
         "reading": "なるべく",
-        "meaning": "càng nhiều càng tốt, nếu có thể"
+        "meaning": {
+          "vi": "càng nhiều càng tốt, nếu có thể"
+        },
+        "romaji": "narubeku"
       },
       {
         "example": "成す",
         "reading": "なす",
-        "meaning": "hình thành, tạo nên, hoàn thành, đạt được, thực hiện"
+        "meaning": {
+          "vi": "hình thành, tạo nên, hoàn thành, đạt được, thực hiện"
+        },
+        "romaji": "nasu"
       },
       {
         "example": "なす角",
         "reading": "なすかく",
-        "meaning": "góc tạo thành"
+        "meaning": {
+          "vi": "góc tạo thành"
+        },
+        "romaji": "nasukaku"
       }
     ],
     "radical": {
@@ -461,5 +491,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06210.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6210.gif",
     "uri": "https://jisho.org/search/%E6%88%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "thành"
+  ]
 }

@@ -18,7 +18,10 @@
       {
         "example": "蝉",
         "reading": "せみ",
-        "meaning": "cicada, locust, small-sized pulley"
+        "meaning": {
+          "vi": "cicada, locust, small-sized pulley"
+        },
+        "romaji": "semi"
       }
     ],
     "radical": {
@@ -30,5 +33,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ec.gif",
     "uri": "https://jisho.org/search/%E8%9F%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiền",
+    "thuyền"
+  ]
 }

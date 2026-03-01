@@ -18,12 +18,18 @@
       {
         "example": "栲",
         "reading": "たえ",
-        "meaning": "cloth (esp. cloth made from fibers of the paper mulberry tree)"
+        "meaning": {
+          "vi": "cloth (esp. cloth made from fibers of the paper mulberry tree)"
+        },
+        "romaji": "tae"
       },
       {
         "example": "白妙",
         "reading": "しろたえ",
-        "meaning": "white cloth, white"
+        "meaning": {
+          "en": "white cloth, white"
+        },
+        "romaji": "shirotae"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06832.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6832.gif",
     "uri": "https://jisho.org/search/%E6%A0%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "khảo"
+  ]
 }

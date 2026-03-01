@@ -359,59 +359,92 @@
       {
         "example": "苦",
         "reading": "ク",
-        "meaning": "pain, anguish, suffering, distress, anxiety, worry, trouble, difficulty, hardship, duhkha (suffering)"
+        "meaning": {
+          "vi": "pain, anguish, suffering, distress, anxiety, worry, trouble, difficulty, hardship, duhkha (suffering)"
+        },
+        "romaji": "ku"
       },
       {
         "example": "苦境",
         "reading": "クキョウ",
-        "meaning": "difficult situation, adverse circumstances, predicament, trouble, dilemma, distress"
+        "meaning": {
+          "vi": "difficult situation, adverse circumstances, predicament, trouble, dilemma, distress"
+        },
+        "romaji": "kukyou"
       },
       {
         "example": "生活苦",
         "reading": "セイカツク",
-        "meaning": "hardships of life (esp. due to lack of money), life's struggles"
+        "meaning": {
+          "vi": "hardships of life (esp. due to lack of money), life's struggles"
+        },
+        "romaji": "seikatsuku"
       },
       {
         "example": "病苦",
         "reading": "ビョウク",
-        "meaning": "pain of sickness"
+        "meaning": {
+          "vi": "pain of sickness"
+        },
+        "romaji": "byouku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苦しい",
         "reading": "くるしい",
-        "meaning": "painful, difficult, tough, hard, distressing, (psychologically) difficult, stressful, awkward (e.g. position), straitened (circumstances), tight (financial situation), needy, struggling, strained (interpretation, explanation, etc.), lame (e.g. excuse), forced (e.g. smile), far-fetched, hard to do, unpleasant"
+        "meaning": {
+          "vi": "painful, difficult, tough, hard, distressing, (psychologically) difficult, stressful, awkward (e.g. position), straitened (circumstances), tight (financial situation), needy, struggling, strained (interpretation, explanation, etc.), lame (e.g. excuse), forced (e.g. smile), far-fetched, hard to do, unpleasant"
+        },
+        "romaji": "kurushii"
       },
       {
         "example": "苦しい言い訳",
         "reading": "くるしいいいわけ",
-        "meaning": "lame excuse, poor excuse"
+        "meaning": {
+          "vi": "lame excuse, poor excuse"
+        },
+        "romaji": "kurushiiiiwake"
       },
       {
         "example": "苦しむ",
         "reading": "くるしむ",
-        "meaning": "to suffer, to groan, to be worried"
+        "meaning": {
+          "en": "to suffer, to groan, to be worried"
+        },
+        "romaji": "kurushimu"
       },
       {
         "example": "苦しめる",
         "reading": "くるしめる",
-        "meaning": "to torment, to pain, to inflict (physical) pain, to hurt, to harass, to cause (emotional) pain, to afflict, to distress, to bother, to trouble, to stump, to baffle"
+        "meaning": {
+          "vi": "to torment, to pain, to inflict (physical) pain, to hurt, to harass, to cause (emotional) pain, to afflict, to distress, to bother, to trouble, to stump, to baffle"
+        },
+        "romaji": "kurushimeru"
       },
       {
         "example": "苦い",
         "reading": "にがい",
-        "meaning": "bitter"
+        "meaning": {
+          "en": "bitter"
+        },
+        "romaji": "nigai"
       },
       {
         "example": "苦い薬",
         "reading": "にがいくすり",
-        "meaning": "bitter medicine"
+        "meaning": {
+          "en": "bitter medicine"
+        },
+        "romaji": "nigaikusuri"
       },
       {
         "example": "苦る",
         "reading": "にがる",
-        "meaning": "to feel bitter, to scowl"
+        "meaning": {
+          "en": "to feel bitter, to scowl"
+        },
+        "romaji": "nigaru"
       }
     ],
     "radical": {
@@ -430,5 +463,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82e6.gif",
     "uri": "https://jisho.org/search/%E8%8B%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "cổ",
+    "khổ"
+  ]
 }

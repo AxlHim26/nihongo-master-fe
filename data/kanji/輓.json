@@ -17,17 +17,26 @@
       {
         "example": "挽歌",
         "reading": "バンカ",
-        "meaning": "elegy, funeral song"
+        "meaning": {
+          "en": "elegy, funeral song"
+        },
+        "romaji": "banka"
       },
       {
         "example": "ばんえい競走",
         "reading": "バンエイキョウソウ",
-        "meaning": "ban'ei, form of horse racing in which draft horses pull heavy sleds up sand ramps"
+        "meaning": {
+          "vi": "ban'ei, form of horse racing in which draft horses pull heavy sleds up sand ramps"
+        },
+        "romaji": "ban'eikyousou"
       },
       {
         "example": "推輓",
         "reading": "スイバン",
-        "meaning": "recommendation (of someone for a position), nomination"
+        "meaning": {
+          "vi": "recommendation (of someone for a position), nomination"
+        },
+        "romaji": "suiban"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f13.gif",
     "uri": "https://jisho.org/search/%E8%BC%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "vãn"
+  ]
 }

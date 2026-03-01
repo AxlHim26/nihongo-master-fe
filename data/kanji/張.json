@@ -308,29 +308,44 @@
       {
         "example": "張",
         "reading": "チョウ",
-        "meaning": "Chinese \"Extended Net\" constellation (one of the 28 mansions), counter for objects with stretched strings (i.e. bows, kotos), curtains, papers, etc."
+        "meaning": {
+          "vi": "Chinese \"Extended Net\" constellation (one of the 28 mansions), counter for objects with stretched strings (i.e. bows, kotos), curtains, papers, etc."
+        },
+        "romaji": "chou"
       },
       {
         "example": "張本人",
         "reading": "チョウホンニン",
-        "meaning": "originator, ringleader, perpetrator, main culprit, person responsible"
+        "meaning": {
+          "vi": "originator, ringleader, perpetrator, main culprit, person responsible"
+        },
+        "romaji": "chouhonnin"
       },
       {
         "example": "海外出張",
         "reading": "カイガイシュッチョウ",
-        "meaning": "overseas business trip"
+        "meaning": {
+          "vi": "overseas business trip"
+        },
+        "romaji": "kaigaishutchou"
       },
       {
         "example": "伸長",
         "reading": "シンチョウ",
-        "meaning": "expansion, extension, elongation, stretching"
+        "meaning": {
+          "vi": "expansion, extension, elongation, stretching"
+        },
+        "romaji": "shinchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "張る",
         "reading": "はる",
-        "meaning": "to stick, to paste, to affix, to stretch, to spread, to strain, to tighten, to put up (e.g. a tent), to form (e.g. ice on a pond), to fill, to swell, to stick out, to push out, to post (a link, etc. online), to be expensive, to keep a watch on, to be on the lookout, to slap, to become one tile away from completion, to span, to generate"
+        "meaning": {
+          "vi": "to stick, to paste, to affix, to stretch, to spread, to strain, to tighten, to put up (e.g. a tent), to form (e.g. ice on a pond), to fill, to swell, to stick out, to push out, to post (a link, etc. online), to be expensive, to keep a watch on, to be on the lookout, to slap, to become one tile away from completion, to span, to generate"
+        },
+        "romaji": "haru"
       }
     ],
     "radical": {
@@ -345,5 +360,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f35.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f35.gif",
     "uri": "https://jisho.org/search/%E5%BC%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "trương",
+    "trướng"
+  ]
 }

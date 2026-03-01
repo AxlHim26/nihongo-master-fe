@@ -17,17 +17,26 @@
       {
         "example": "陪審",
         "reading": "バイシン",
-        "meaning": "jury"
+        "meaning": {
+          "en": "jury"
+        },
+        "romaji": "baishin"
       },
       {
         "example": "陪観",
         "reading": "バイカン",
-        "meaning": "viewing something in the company of one's superior"
+        "meaning": {
+          "vi": "viewing something in the company of one's superior"
+        },
+        "romaji": "baikan"
       },
       {
         "example": "反閇",
         "reading": "ヘンバイ",
-        "meaning": "ceremony performed by a sorcerer to protect a noble setting out on a trip, dance steps inspired by this ceremony"
+        "meaning": {
+          "vi": "ceremony performed by a sorcerer to protect a noble setting out on a trip, dance steps inspired by this ceremony"
+        },
+        "romaji": "henbai"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0966a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/966a.gif",
     "uri": "https://jisho.org/search/%E9%99%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "bồi"
+  ]
 }

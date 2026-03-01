@@ -18,17 +18,26 @@
       {
         "example": "滴",
         "reading": "しずく",
-        "meaning": "drop (e.g. of water), drip"
+        "meaning": {
+          "vi": "drop (e.g. of water), drip"
+        },
+        "romaji": "shizuku"
       },
       {
         "example": "花のしずく",
         "reading": "はなのしずく",
-        "meaning": "dew that trickles down from a flower"
+        "meaning": {
+          "en": "dew that trickles down from a flower"
+        },
+        "romaji": "hananoshizuku"
       },
       {
         "example": "雨雫",
         "reading": "あめしずく",
-        "meaning": "raindrop, crying"
+        "meaning": {
+          "vi": "raindrop, crying"
+        },
+        "romaji": "ameshizuku"
       }
     ],
     "radical": {
@@ -45,5 +54,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96eb.gif",
     "uri": "https://jisho.org/search/%E9%9B%AB%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

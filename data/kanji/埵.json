@@ -14,12 +14,18 @@
       {
         "example": "薩埵",
         "reading": "サッタ",
-        "meaning": "sattva (sentient beings), bodhisattva, Vajrasattva"
+        "meaning": {
+          "en": "sattva (sentient beings), bodhisattva, Vajrasattva"
+        },
+        "romaji": "satta"
       },
       {
         "example": "菩提薩埵",
         "reading": "ボダイサッタ",
-        "meaning": "bodhisattva"
+        "meaning": {
+          "en": "bodhisattva"
+        },
+        "romaji": "bodaisatta"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f5.gif",
     "uri": "https://jisho.org/search/%E5%9F%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "đoá",
+    "đoả"
+  ]
 }

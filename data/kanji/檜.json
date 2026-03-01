@@ -19,32 +19,50 @@
       {
         "example": "檜",
         "reading": "ひのき",
-        "meaning": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        "meaning": {
+          "vi": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        },
+        "romaji": "hinoki"
       },
       {
         "example": "桧笠",
         "reading": "ひのきがさ",
-        "meaning": "conical hat"
+        "meaning": {
+          "en": "conical hat"
+        },
+        "romaji": "hinokigasa"
       },
       {
         "example": "檜",
         "reading": "ひのき",
-        "meaning": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        "meaning": {
+          "vi": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        },
+        "romaji": "hinoki"
       },
       {
         "example": "檜扇",
         "reading": "ひおうぎ",
-        "meaning": "formal folding fan made of hinoki cypress, blackberry lily (Belamcanda Chinensis), leopard lily, leopard flower"
+        "meaning": {
+          "vi": "formal folding fan made of hinoki cypress, blackberry lily (Belamcanda Chinensis), leopard lily, leopard flower"
+        },
+        "romaji": "hiougi"
       },
       {
         "example": "唐檜",
         "reading": "とうひ",
-        "meaning": "spruce tree (esp. Picea jezoensis hondoensis, a variety of Ezo spruce)"
+        "meaning": {
+          "vi": "spruce tree (esp. Picea jezoensis hondoensis, a variety of Ezo spruce)"
+        },
+        "romaji": "touhi"
       },
       {
         "example": "欧州唐檜",
         "reading": "おうしゅうとうひ",
-        "meaning": "Norway spruce (Picea abies)"
+        "meaning": {
+          "vi": "Norway spruce (Picea abies)"
+        },
+        "romaji": "oushuutouhi"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a9c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a9c.gif",
     "uri": "https://jisho.org/search/%E6%AA%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "cối"
+  ]
 }

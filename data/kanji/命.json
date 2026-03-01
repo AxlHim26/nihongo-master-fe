@@ -319,59 +319,92 @@
       {
         "example": "命",
         "reading": "メイ",
-        "meaning": "order, command, decree, life, destiny, fate"
+        "meaning": {
+          "en": "order, command, decree, life, destiny, fate"
+        },
+        "romaji": "mei"
       },
       {
         "example": "命運",
         "reading": "メイウン",
-        "meaning": "fate, destiny"
+        "meaning": {
+          "en": "fate, destiny"
+        },
+        "romaji": "meiun"
       },
       {
         "example": "延命",
         "reading": "エンメイ",
-        "meaning": "keeping alive longer, prolonging life, life extension, life-support"
+        "meaning": {
+          "vi": "keeping alive longer, prolonging life, life extension, life-support"
+        },
+        "romaji": "enmei"
       },
       {
         "example": "十月革命",
         "reading": "ジュウガツカクメイ",
-        "meaning": "October Revolution"
+        "meaning": {
+          "en": "October Revolution"
+        },
+        "romaji": "juugatsukakumei"
       },
       {
         "example": "命婦",
         "reading": "ミョウブ",
-        "meaning": "title for high-ranking court ladies"
+        "meaning": {
+          "en": "title for high-ranking court ladies"
+        },
+        "romaji": "myoubu"
       },
       {
         "example": "延命",
         "reading": "エンメイ",
-        "meaning": "keeping alive longer, prolonging life, life extension, life-support"
+        "meaning": {
+          "vi": "keeping alive longer, prolonging life, life extension, life-support"
+        },
+        "romaji": "enmei"
       },
       {
         "example": "安心立命",
         "reading": "アンシンリツメイ",
-        "meaning": "spiritual peace and enlightenment, keeping an unperturbed mind through faith"
+        "meaning": {
+          "vi": "spiritual peace and enlightenment, keeping an unperturbed mind through faith"
+        },
+        "romaji": "anshinritsumei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "命",
         "reading": "いのち",
-        "meaning": "life, life force, lifetime, lifespan, most important thing, foundation, core, paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love), fate, destiny, karma"
+        "meaning": {
+          "vi": "life, life force, lifetime, lifespan, most important thing, foundation, core, paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love), fate, destiny, karma"
+        },
+        "romaji": "inochi"
       },
       {
         "example": "命からがら",
         "reading": "いのちからがら",
-        "meaning": "for dear life, barely escaping alive"
+        "meaning": {
+          "vi": "for dear life, barely escaping alive"
+        },
+        "romaji": "inochikaragara"
       },
       {
         "example": "貴い命",
         "reading": "たっといいのち",
-        "meaning": "precious life"
+        "meaning": {
+          "vi": "precious life"
+        },
+        "romaji": "tattoiinochi"
       },
       {
         "example": "露の命",
         "reading": "つゆのいのち",
-        "meaning": "life as evanescent as the dew"
+        "meaning": {
+          "en": "life as evanescent as the dew"
+        },
+        "romaji": "tsuyunoinochi"
       }
     ],
     "radical": {
@@ -388,5 +421,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0547d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/547d.gif",
     "uri": "https://jisho.org/search/%E5%91%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "mệnh"
+  ]
 }

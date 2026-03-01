@@ -16,7 +16,10 @@
       {
         "example": "覿面",
         "reading": "テキメン",
-        "meaning": "immediate (effect, result, etc.), instant, instantaneous, prompt"
+        "meaning": {
+          "vi": "immediate (effect, result, etc.), instant, instantaneous, prompt"
+        },
+        "romaji": "tekimen"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089bf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89bf.gif",
     "uri": "https://jisho.org/search/%E8%A6%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "địch"
+  ]
 }

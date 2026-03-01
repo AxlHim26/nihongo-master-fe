@@ -17,22 +17,34 @@
       {
         "example": "観音",
         "reading": "カンノン",
-        "meaning": "Avalokiteshvara (Bodhisattva), Avalokitesvara, Kannon, Kwannon, Guanyin, Buddhist deity of compassion"
+        "meaning": {
+          "vi": "Avalokiteshvara (Bodhisattva), Avalokitesvara, Kannon, Kwannon, Guanyin, Buddhist deity of compassion"
+        },
+        "romaji": "kannon"
       },
       {
         "example": "観光",
         "reading": "カンコウ",
-        "meaning": "sightseeing, tourism"
+        "meaning": {
+          "en": "sightseeing, tourism"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "偉観",
         "reading": "イカン",
-        "meaning": "magnificent sight, grand sight, spectacular view, fine spectacle"
+        "meaning": {
+          "vi": "magnificent sight, grand sight, spectacular view, fine spectacle"
+        },
+        "romaji": "ikan"
       },
       {
         "example": "理觀",
         "reading": "リカン",
-        "meaning": "contemplation of principle"
+        "meaning": {
+          "vi": "contemplation of principle"
+        },
+        "romaji": "rikan"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089c0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89c0.gif",
     "uri": "https://jisho.org/search/%E8%A7%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "quan",
+    "quán"
+  ]
 }

@@ -339,59 +339,92 @@
       {
         "example": "月",
         "reading": "ゲツ",
-        "meaning": "Monday"
+        "meaning": {
+          "en": "Monday"
+        },
+        "romaji": "getsu"
       },
       {
         "example": "月額",
         "reading": "ゲツガク",
-        "meaning": "monthly amount (sum)"
+        "meaning": {
+          "en": "monthly amount (sum)"
+        },
+        "romaji": "getsugaku"
       },
       {
         "example": "隔月",
         "reading": "カクゲツ",
-        "meaning": "every second month, every other month"
+        "meaning": {
+          "en": "every second month, every other month"
+        },
+        "romaji": "kakugetsu"
       },
       {
         "example": "望月",
         "reading": "モチヅキ",
-        "meaning": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+        "meaning": {
+          "en": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+        },
+        "romaji": "mochizuki"
       },
       {
         "example": "月輪",
         "reading": "ゲツリン",
-        "meaning": "(full) moon, moon when it's round"
+        "meaning": {
+          "en": "(full) moon, moon when it's round"
+        },
+        "romaji": "getsurin"
       },
       {
         "example": "旧正月",
         "reading": "キュウショウガツ",
-        "meaning": "lunar New Year (esp. the Chinese New Year)"
+        "meaning": {
+          "vi": "lunar New Year (esp. the Chinese New Year)"
+        },
+        "romaji": "kyuushougatsu"
       },
       {
         "example": "お正月",
         "reading": "オショウガツ",
-        "meaning": "New Year (esp. first three days), first month of the year, January"
+        "meaning": {
+          "vi": "New Year (esp. first three days), first month of the year, January"
+        },
+        "romaji": "oshougatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "月",
         "reading": "つき",
-        "meaning": "Moon, month, moonlight, (a) moon, natural satellite"
+        "meaning": {
+          "en": "Moon, month, moonlight, (a) moon, natural satellite"
+        },
+        "romaji": "tsuki"
       },
       {
         "example": "月末",
         "reading": "げつまつ",
-        "meaning": "end of the month"
+        "meaning": {
+          "en": "end of the month"
+        },
+        "romaji": "getsumatsu"
       },
       {
         "example": "卯月",
         "reading": "うづき",
-        "meaning": "fourth month of the lunar calendar"
+        "meaning": {
+          "en": "fourth month of the lunar calendar"
+        },
+        "romaji": "uzuki"
       },
       {
         "example": "祥月",
         "reading": "しょうつき",
-        "meaning": "month of a person's death"
+        "meaning": {
+          "vi": "month of a person's death"
+        },
+        "romaji": "shoutsuki"
       }
     ],
     "radical": {
@@ -405,5 +438,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06708.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6708.gif",
     "uri": "https://jisho.org/search/%E6%9C%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguyệt"
+  ]
 }

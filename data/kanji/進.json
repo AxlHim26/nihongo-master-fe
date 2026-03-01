@@ -373,39 +373,60 @@
       {
         "example": "進学",
         "reading": "シンガク",
-        "meaning": "advancing to the next stage of education, going on to (high school, college, etc.)"
+        "meaning": {
+          "en": "advancing to the next stage of education, going on to (high school, college, etc.)"
+        },
+        "romaji": "shingaku"
       },
       {
         "example": "進化",
         "reading": "シンカ",
-        "meaning": "evolution, evolution, becoming more advanced, progress, development, improvement"
+        "meaning": {
+          "vi": "evolution, evolution, becoming more advanced, progress, development, improvement"
+        },
+        "romaji": "shinka"
       },
       {
         "example": "後進",
         "reading": "コウシン",
-        "meaning": "one's junior, younger generation, next generation, moving backwards, backing up, reversing"
+        "meaning": {
+          "vi": "one's junior, younger generation, next generation, moving backwards, backing up, reversing"
+        },
+        "romaji": "koushin"
       },
       {
         "example": "累進",
         "reading": "ルイシン",
-        "meaning": "successive promotion, gradual progression, rising step by step, increasing progressively (of income tax, etc.)"
+        "meaning": {
+          "vi": "successive promotion, gradual progression, rising step by step, increasing progressively (of income tax, etc.)"
+        },
+        "romaji": "ruishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "進む",
         "reading": "すすむ",
-        "meaning": "to advance, to go forward, to precede, to go ahead (of), to make progress, to improve, to deepen, to heighten, to be fast (of a clock), to be ahead, to do of one's own free will"
+        "meaning": {
+          "vi": "to advance, to go forward, to precede, to go ahead (of), to make progress, to improve, to deepen, to heighten, to be fast (of a clock), to be ahead, to do of one's own free will"
+        },
+        "romaji": "susumu"
       },
       {
         "example": "進むも地獄退くも地獄",
         "reading": "すすむもじごくしりぞくもじごく",
-        "meaning": "between the devil and the deep blue sea, both advancing and retreating are hell"
+        "meaning": {
+          "vi": "between the devil and the deep blue sea, both advancing and retreating are hell"
+        },
+        "romaji": "susumumojigokushirizokumojigoku"
       },
       {
         "example": "進める",
         "reading": "すすめる",
-        "meaning": "to advance, to move forward, to put (a clock, watch) forward, to carry forward (plans, work, etc.), to proceed with, to make progress in, to further, to advance, to hasten, to speed up, to raise, to elevate, to promote, to develop, to stimulate (e.g. one's appetite)"
+        "meaning": {
+          "vi": "to advance, to move forward, to put (a clock, watch) forward, to carry forward (plans, work, etc.), to proceed with, to make progress in, to further, to advance, to hasten, to speed up, to raise, to elevate, to promote, to develop, to stimulate (e.g. one's appetite)"
+        },
+        "romaji": "susumeru"
       }
     ],
     "radical": {
@@ -425,5 +446,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09032.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9032.gif",
     "uri": "https://jisho.org/search/%E9%80%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiến",
+    "tấn"
+  ]
 }

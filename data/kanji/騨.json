@@ -18,7 +18,10 @@
       {
         "example": "飛騨",
         "reading": "ヒダ",
-        "meaning": "Hida (city, region of Gifu Prefecture, Edo-period province)"
+        "meaning": {
+          "vi": "Hida (city, region of Gifu Prefecture, Edo-period province)"
+        },
+        "romaji": "hida"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a28.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a28.gif",
     "uri": "https://jisho.org/search/%E9%A8%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàn"
+  ]
 }

@@ -256,24 +256,36 @@
       {
         "example": "匹偶",
         "reading": "ヒツグウ",
-        "meaning": "pair, couple (husband and wife), friend, comrade"
+        "meaning": {
+          "vi": "pair, couple (husband and wife), friend, comrade"
+        },
+        "romaji": "hitsuguu"
       },
       {
         "example": "馬匹",
         "reading": "バヒツ",
-        "meaning": "horses"
+        "meaning": {
+          "en": "horses"
+        },
+        "romaji": "bahitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "匹",
         "reading": "ひき",
-        "meaning": "counter for small animals, counter for rolls of cloth (two han in size), counter for horses, roll of cloth"
+        "meaning": {
+          "en": "counter for small animals, counter for rolls of cloth (two han in size), counter for horses, roll of cloth"
+        },
+        "romaji": "hiki"
       },
       {
         "example": "二匹",
         "reading": "にひき",
-        "meaning": "two small animals"
+        "meaning": {
+          "en": "two small animals"
+        },
+        "romaji": "nihiki"
       }
     ],
     "radical": {
@@ -288,5 +300,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05339.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5339.gif",
     "uri": "https://jisho.org/search/%E5%8C%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộc",
+    "thất"
+  ]
 }

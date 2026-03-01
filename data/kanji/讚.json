@@ -17,29 +17,44 @@
       {
         "example": "讚",
         "reading": "サン",
-        "meaning": "a style of Chinese poetry, legend or inscription on a picture"
+        "meaning": {
+          "vi": "a style of Chinese poetry, legend or inscription on a picture"
+        },
+        "romaji": "san"
       },
       {
         "example": "賛歌",
         "reading": "サンカ",
-        "meaning": "song of praise, eulogy, paean, hymn"
+        "meaning": {
+          "vi": "song of praise, eulogy, paean, hymn"
+        },
+        "romaji": "sanka"
       },
       {
         "example": "画讃",
         "reading": "ガサン",
-        "meaning": "legend over a picture, inscription (legend, writing) on a painting"
+        "meaning": {
+          "vi": "legend over a picture, inscription (legend, writing) on a painting"
+        },
+        "romaji": "gasan"
       },
       {
         "example": "和讃",
         "reading": "ワサン",
-        "meaning": "hymns of praise in Japanese"
+        "meaning": {
+          "vi": "hymns of praise in Japanese"
+        },
+        "romaji": "wasan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "称える",
         "reading": "たたえる",
-        "meaning": "to praise, to extol, to hail, to laud, to celebrate"
+        "meaning": {
+          "vi": "to praise, to extol, to hail, to laud, to celebrate"
+        },
+        "romaji": "tataeru"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b9a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b9a.gif",
     "uri": "https://jisho.org/search/%E8%AE%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tán"
+  ]
 }

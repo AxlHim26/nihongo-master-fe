@@ -19,12 +19,18 @@
       {
         "example": "覚束ない",
         "reading": "オボツカナイ",
-        "meaning": "uncertain, doubtful, unpromising, unreliable, unsteady, insecure, shaky, faltering, unclear, vague, hazy, indistinct"
+        "meaning": {
+          "vi": "uncertain, doubtful, unpromising, unreliable, unsteady, insecure, shaky, faltering, unclear, vague, hazy, indistinct"
+        },
+        "romaji": "obotsukanai"
       },
       {
         "example": "覚路",
         "reading": "カクロ",
-        "meaning": "path to enlightenment"
+        "meaning": {
+          "vi": "path to enlightenment"
+        },
+        "romaji": "kakuro"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089ba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89ba.gif",
     "uri": "https://jisho.org/search/%E8%A6%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "giác",
+    "giáo"
+  ]
 }

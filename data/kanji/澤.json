@@ -20,7 +20,10 @@
       {
         "example": "白沢",
         "reading": "ハクタク",
-        "meaning": "bai ze (mythical Chinese animal able to understand human speech, having the body of a lion and eight eyes)"
+        "meaning": {
+          "vi": "bai ze (mythical Chinese animal able to understand human speech, having the body of a lion and eight eyes)"
+        },
+        "romaji": "hakutaku"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +48,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fa4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fa4.gif",
     "uri": "https://jisho.org/search/%E6%BE%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch",
+    "thích",
+    "trạch"
+  ]
 }

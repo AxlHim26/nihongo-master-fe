@@ -338,34 +338,52 @@
       {
         "example": "士",
         "reading": "シ",
-        "meaning": "man (esp. one who is well-respected), samurai, person (in a certain profession, esp. licensed), member"
+        "meaning": {
+          "vi": "man (esp. one who is well-respected), samurai, person (in a certain profession, esp. licensed), member"
+        },
+        "romaji": "shi"
       },
       {
         "example": "士官",
         "reading": "シカン",
-        "meaning": "officer"
+        "meaning": {
+          "en": "officer"
+        },
+        "romaji": "shikan"
       },
       {
         "example": "飛行士",
         "reading": "ヒコウシ",
-        "meaning": "pilot"
+        "meaning": {
+          "vi": "pilot"
+        },
+        "romaji": "hikoushi"
       },
       {
         "example": "公認会計士",
         "reading": "コウニンカイケイシ",
-        "meaning": "certified public accountant"
+        "meaning": {
+          "vi": "certified public accountant"
+        },
+        "romaji": "kouninkaikeishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "侍",
         "reading": "さむらい",
-        "meaning": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
+        "meaning": {
+          "vi": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
+        },
+        "romaji": "samurai"
       },
       {
         "example": "二四六九士",
         "reading": "にしむくさむらい",
-        "meaning": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+        "meaning": {
+          "en": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+        },
+        "romaji": "nishimukusamurai"
       }
     ],
     "radical": {
@@ -379,5 +397,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58eb.gif",
     "uri": "https://jisho.org/search/%E5%A3%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "sĩ"
+  ]
 }

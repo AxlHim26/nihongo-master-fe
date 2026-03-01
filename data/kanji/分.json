@@ -386,104 +386,164 @@
       {
         "example": "分",
         "reading": "ブン",
-        "meaning": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother)"
+        "meaning": {
+          "vi": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother)"
+        },
+        "romaji": "bun"
       },
       {
         "example": "分化",
         "reading": "ブンカ",
-        "meaning": "specialization, specialisation, differentiation"
+        "meaning": {
+          "vi": "specialization, specialisation, differentiation"
+        },
+        "romaji": "bunka"
       },
       {
         "example": "応分",
         "reading": "オウブン",
-        "meaning": "according to one's abilities, appropriate, reasonable"
+        "meaning": {
+          "vi": "according to one's abilities, appropriate, reasonable"
+        },
+        "romaji": "oubun"
       },
       {
         "example": "細分",
         "reading": "サイブン",
-        "meaning": "subdivision (into small parts)"
+        "meaning": {
+          "vi": "subdivision (into small parts)"
+        },
+        "romaji": "saibun"
       },
       {
         "example": "分",
         "reading": "フン",
-        "meaning": "minute (unit of time), fun (one tenth of a monme, 5.787 grains)"
+        "meaning": {
+          "en": "minute (unit of time), fun (one tenth of a monme, 5.787 grains)"
+        },
+        "romaji": "fun"
       },
       {
         "example": "分身",
         "reading": "ブンシン",
-        "meaning": "other self, alter ego, part of oneself (in someone or something else), representation of oneself, incarnations of Buddha"
+        "meaning": {
+          "vi": "other self, alter ego, part of oneself (in someone or something else), representation of oneself, incarnations of Buddha"
+        },
+        "romaji": "bunshin"
       },
       {
         "example": "毎分",
         "reading": "マイフン",
-        "meaning": "every minute, per minute"
+        "meaning": {
+          "vi": "every minute, per minute"
+        },
+        "romaji": "maifun"
       },
       {
         "example": "壊変毎分",
         "reading": "カイヘンマイフン",
-        "meaning": "disintegration per minute, dpm"
+        "meaning": {
+          "vi": "disintegration per minute, dpm"
+        },
+        "romaji": "kaihenmaifun"
       },
       {
         "example": "分",
         "reading": "ブ",
-        "meaning": "one-tenth, one percent (one-tenth of a wari), 3 mm (one-tenth of a sun), 2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes), 0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale), one-quarter of a ryō (obsolete unit of currency), thickness, advantageous circumstances, one-tenth of a monme of silver"
+        "meaning": {
+          "vi": "one-tenth, one percent (one-tenth of a wari), 3 mm (one-tenth of a sun), 2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes), 0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale), one-quarter of a ryō (obsolete unit of currency), thickness, advantageous circumstances, one-tenth of a monme of silver"
+        },
+        "romaji": "bu"
       },
       {
         "example": "分",
         "reading": "ブン",
-        "meaning": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother)"
+        "meaning": {
+          "vi": "part, portion, share, amount, worth (as in \"two days' worth\"), enough (for), one's means, one's place, one's lot, one's social position, one's duty, one's part, condition, state (of affairs), extent, rate (as in \"at this rate\"), in proportion to, just as much as, to the same degree, content (e.g. alcohol), percentage, equivalent to (e.g. an old brother)"
+        },
+        "romaji": "bun"
       },
       {
         "example": "一分",
         "reading": "イチブ",
-        "meaning": "one tenth, one hundredth, one percent, one tenth of a sun, one quarter ryō (an old coin)"
+        "meaning": {
+          "vi": "one tenth, one hundredth, one percent, one tenth of a sun, one quarter ryō (an old coin)"
+        },
+        "romaji": "ichibu"
       },
       {
         "example": "節分",
         "reading": "セツブン",
-        "meaning": "setsubun, last day of winter in the traditional Japanese calendar (usu. February 3 or 4), day of the bean scattering ceremony, last day of any season (according to the traditional Japanese calendar)"
+        "meaning": {
+          "vi": "setsubun, last day of winter in the traditional Japanese calendar (usu. February 3 or 4), day of the bean scattering ceremony, last day of any season (according to the traditional Japanese calendar)"
+        },
+        "romaji": "setsubun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        "meaning": {
+          "vi": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        },
+        "romaji": "wakeru"
       },
       {
         "example": "分け",
         "reading": "わけ",
-        "meaning": "division, splitting, classification, sharing, distribution, draw, tie"
+        "meaning": {
+          "vi": "division, splitting, classification, sharing, distribution, draw, tie"
+        },
+        "romaji": "wake"
       },
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        "meaning": {
+          "vi": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        },
+        "romaji": "wakeru"
       },
       {
         "example": "申し訳",
         "reading": "もうしわけ",
-        "meaning": "apology, excuse"
+        "meaning": {
+          "vi": "apology, excuse"
+        },
+        "romaji": "moushiwake"
       },
       {
         "example": "追分",
         "reading": "おいわけ",
-        "meaning": "forked road"
+        "meaning": {
+          "en": "forked road"
+        },
+        "romaji": "oiwake"
       },
       {
         "example": "分かれる",
         "reading": "わかれる",
-        "meaning": "to branch, to fork, to diverge, to separate, to split, to divide, to disperse, to scatter"
+        "meaning": {
+          "vi": "to branch, to fork, to diverge, to separate, to split, to divide, to disperse, to scatter"
+        },
+        "romaji": "wakareru"
       },
       {
         "example": "分かる",
         "reading": "わかる",
-        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        "meaning": {
+          "vi": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        },
+        "romaji": "wakaru"
       },
       {
         "example": "分かつ",
         "reading": "わかつ",
-        "meaning": "to divide, to separate, to share, to distribute, to distinguish"
+        "meaning": {
+          "vi": "to divide, to separate, to share, to distribute, to distinguish"
+        },
+        "romaji": "wakatsu"
       }
     ],
     "radical": {
@@ -501,5 +561,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05206.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5206.gif",
     "uri": "https://jisho.org/search/%E5%88%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "phân",
+    "phần",
+    "phận"
+  ]
 }

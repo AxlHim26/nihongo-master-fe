@@ -19,49 +19,76 @@
       {
         "example": "蓮華",
         "reading": "レンゲ",
-        "meaning": "lotus flower, Chinese milk vetch (Astragalus sinicus), china spoon, lotus-shaped pedestal for a gravestone"
+        "meaning": {
+          "vi": "lotus flower, Chinese milk vetch (Astragalus sinicus), china spoon, lotus-shaped pedestal for a gravestone"
+        },
+        "romaji": "renge"
       },
       {
         "example": "蓮角",
         "reading": "レンカク",
-        "meaning": "jacana (esp. the pheasant-tailed jacana, Hydrophasianus chirurgus), lily-trotter"
+        "meaning": {
+          "vi": "jacana (esp. the pheasant-tailed jacana, Hydrophasianus chirurgus), lily-trotter"
+        },
+        "romaji": "renkaku"
       },
       {
         "example": "睡蓮",
         "reading": "スイレン",
-        "meaning": "water lily (any plant of genus Nymphaea), pygmy waterlily (Nymphaea tetragona)"
+        "meaning": {
+          "vi": "water lily (any plant of genus Nymphaea), pygmy waterlily (Nymphaea tetragona)"
+        },
+        "romaji": "suiren"
       },
       {
         "example": "黄連",
         "reading": "オウレン",
-        "meaning": "goldthread (Coptis japonica)"
+        "meaning": {
+          "vi": "goldthread (Coptis japonica)"
+        },
+        "romaji": "ouren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蓮",
         "reading": "はす",
-        "meaning": "sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"
+        "meaning": {
+          "en": "sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"
+        },
+        "romaji": "hasu"
       },
       {
         "example": "蓮池",
         "reading": "はすいけ",
-        "meaning": "lotus pond"
+        "meaning": {
+          "vi": "lotus pond"
+        },
+        "romaji": "hasuike"
       },
       {
         "example": "蓮",
         "reading": "はす",
-        "meaning": "sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"
+        "meaning": {
+          "en": "sacred lotus (Nelumbo nucifera), Indian lotus, lotus, rose of Sharon (Hibiscus syriacus)"
+        },
+        "romaji": "hasu"
       },
       {
         "example": "蓮の蔤",
         "reading": "はちすのはい",
-        "meaning": "lotus root"
+        "meaning": {
+          "en": "lotus root"
+        },
+        "romaji": "hachisunohai"
       },
       {
         "example": "木蓮",
         "reading": "きはちす",
-        "meaning": "rose of Sharon (Hibiscus syriacus)"
+        "meaning": {
+          "en": "rose of Sharon (Hibiscus syriacus)"
+        },
+        "romaji": "kihachisu"
       }
     ],
     "radical": {
@@ -80,5 +107,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ee.gif",
     "uri": "https://jisho.org/search/%E8%93%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "liên"
+  ]
 }

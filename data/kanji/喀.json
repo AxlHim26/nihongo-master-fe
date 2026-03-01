@@ -16,12 +16,18 @@
       {
         "example": "喀出",
         "reading": "カクシュツ",
-        "meaning": "expectoration, spitting"
+        "meaning": {
+          "vi": "expectoration, spitting"
+        },
+        "romaji": "kakushutsu"
       },
       {
         "example": "喀痰",
         "reading": "カクタン",
-        "meaning": "expectoration, sputum"
+        "meaning": {
+          "vi": "expectoration, sputum"
+        },
+        "romaji": "kakutan"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05580.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5580.gif",
     "uri": "https://jisho.org/search/%E5%96%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "ca",
+    "khách"
+  ]
 }

@@ -265,22 +265,34 @@
       {
         "example": "販売",
         "reading": "ハンバイ",
-        "meaning": "bán hàng, doanh số, bán, marketing"
+        "meaning": {
+          "vi": "bán hàng, doanh số, bán, marketing"
+        },
+        "romaji": "hanbai"
       },
       {
         "example": "販売員",
         "reading": "ハンバイイン",
-        "meaning": "nhân viên bán hàng"
+        "meaning": {
+          "vi": "nhân viên bán hàng"
+        },
+        "romaji": "hanbaiin"
       },
       {
         "example": "自販",
         "reading": "ジハン",
-        "meaning": "bán tự động, bán xe"
+        "meaning": {
+          "vi": "bán tự động, bán xe"
+        },
+        "romaji": "jihan"
       },
       {
         "example": "再販",
         "reading": "サイハン",
-        "meaning": "bán lại"
+        "meaning": {
+          "vi": "bán lại"
+        },
+        "romaji": "saihan"
       }
     ],
     "kunyomiExamples": [],
@@ -299,5 +311,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca9.gif",
     "uri": "https://jisho.org/search/%E8%B2%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiến",
+    "phán"
+  ]
 }

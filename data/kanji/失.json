@@ -334,34 +334,52 @@
       {
         "example": "失",
         "reading": "シツ",
-        "meaning": "loss (of something), disadvantage, mistake, error, failure, flaw, defect, error"
+        "meaning": {
+          "en": "loss (of something), disadvantage, mistake, error, failure, flaw, defect, error"
+        },
+        "romaji": "shitsu"
       },
       {
         "example": "失業",
         "reading": "シツギョウ",
-        "meaning": "unemployment, losing one's job, becoming unemployed"
+        "meaning": {
+          "vi": "unemployment, losing one's job, becoming unemployed"
+        },
+        "romaji": "shitsugyou"
       },
       {
         "example": "得失",
         "reading": "トクシツ",
-        "meaning": "advantages and disadvantages, plus and minuses"
+        "meaning": {
+          "vi": "advantages and disadvantages, plus and minuses"
+        },
+        "romaji": "tokushitsu"
       },
       {
         "example": "敵失",
         "reading": "テキシツ",
-        "meaning": "error made by the enemy or opposing team"
+        "meaning": {
+          "vi": "error made by the enemy or opposing team"
+        },
+        "romaji": "tekishitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "失う",
         "reading": "うしなう",
-        "meaning": "to lose, to miss (a chance, opportunity), to lose (a loved one), to be bereaved of, to concede (goals, points, etc.)"
+        "meaning": {
+          "vi": "to lose, to miss (a chance, opportunity), to lose (a loved one), to be bereaved of, to concede (goals, points, etc.)"
+        },
+        "romaji": "ushinau"
       },
       {
         "example": "失せる",
         "reading": "うせる",
-        "meaning": "to disappear, to vanish, to fade away, to go, to leave, to die"
+        "meaning": {
+          "vi": "to disappear, to vanish, to fade away, to go, to leave, to die"
+        },
+        "romaji": "useru"
       }
     ],
     "radical": {
@@ -378,5 +396,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05931.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5931.gif",
     "uri": "https://jisho.org/search/%E5%A4%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thất"
+  ]
 }

@@ -390,39 +390,60 @@
       {
         "example": "連",
         "reading": "レン",
-        "meaning": "two reams (of paper), 1000 sheets (of paper), stanza, verse, tribe (in taxonomy), forecast (bet), bet which predicts the top 2 finishers (i.e. quinella or perfecta bet), party, company, group, set, things strung in a line, e.g. pearls, dried fish, spans of a bridge, etc., falcon"
+        "meaning": {
+          "vi": "two reams (of paper), 1000 sheets (of paper), stanza, verse, tribe (in taxonomy), forecast (bet), bet which predicts the top 2 finishers (i.e. quinella or perfecta bet), party, company, group, set, things strung in a line, e.g. pearls, dried fish, spans of a bridge, etc., falcon"
+        },
+        "romaji": "ren"
       },
       {
         "example": "連関",
         "reading": "レンカン",
-        "meaning": "connection, relation, linkage"
+        "meaning": {
+          "en": "connection, relation, linkage"
+        },
+        "romaji": "renkan"
       },
       {
         "example": "労連",
         "reading": "ロウレン",
-        "meaning": "labour union, labor union"
+        "meaning": {
+          "en": "labour union, labor union"
+        },
+        "romaji": "rouren"
       },
       {
         "example": "常連",
         "reading": "ジョウレン",
-        "meaning": "regular customer, regular patron, regular visitor, frequenter, constant companion"
+        "meaning": {
+          "vi": "regular customer, regular patron, regular visitor, frequenter, constant companion"
+        },
+        "romaji": "jouren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "連なる",
         "reading": "つらなる",
-        "meaning": "to extend, to stretch out, to stand in a row, to attend, to participate in, to enrol, to enroll, to join, to have a connection, to be related, to be linked"
+        "meaning": {
+          "vi": "to extend, to stretch out, to stand in a row, to attend, to participate in, to enrol, to enroll, to join, to have a connection, to be related, to be linked"
+        },
+        "romaji": "tsuranaru"
       },
       {
         "example": "連ねる",
         "reading": "つらねる",
-        "meaning": "to line up, to put in a row, to add (to a group), to accept (as a member of an organization, etc.), to join (e.g. a list), to link, to put together, to string together (e.g. compliments), to enumerate, to take along with, to bring with"
+        "meaning": {
+          "vi": "to line up, to put in a row, to add (to a group), to accept (as a member of an organization, etc.), to join (e.g. a list), to link, to put together, to string together (e.g. compliments), to enumerate, to take along with, to bring with"
+        },
+        "romaji": "tsuraneru"
       },
       {
         "example": "連れる",
         "reading": "つれる",
-        "meaning": "to take (someone) with one, to bring along, to go with, to be accompanied by"
+        "meaning": {
+          "vi": "to take (someone) with one, to bring along, to go with, to be accompanied by"
+        },
+        "romaji": "tsureru"
       }
     ],
     "radical": {
@@ -442,5 +463,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09023.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9023.gif",
     "uri": "https://jisho.org/search/%E9%80%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "liên",
+    "liễn"
+  ]
 }

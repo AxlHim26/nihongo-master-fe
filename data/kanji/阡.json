@@ -14,7 +14,10 @@
       {
         "example": "千",
         "reading": "セン",
-        "meaning": "nghìn, 1.000"
+        "meaning": {
+          "vi": "nghìn, 1.000"
+        },
+        "romaji": "sen"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09621.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9621.gif",
     "uri": "https://jisho.org/search/%E9%98%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiên"
+  ]
 }

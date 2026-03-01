@@ -19,29 +19,44 @@
       {
         "example": "妃",
         "reading": "ヒ",
-        "meaning": "princess, consort"
+        "meaning": {
+          "vi": "princess, consort"
+        },
+        "romaji": "hi"
       },
       {
         "example": "妃殿下",
         "reading": "ヒデンカ",
-        "meaning": "princess, Her Royal Highness"
+        "meaning": {
+          "vi": "princess, Her Royal Highness"
+        },
+        "romaji": "hidenka"
       },
       {
         "example": "皇太子妃",
         "reading": "コウタイシヒ",
-        "meaning": "crown princess"
+        "meaning": {
+          "vi": "crown princess"
+        },
+        "romaji": "koutaishihi"
       },
       {
         "example": "王太妃",
         "reading": "オウタイヒ",
-        "meaning": "crown princess"
+        "meaning": {
+          "vi": "crown princess"
+        },
+        "romaji": "outaihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "后",
         "reading": "きさき",
-        "meaning": "empress (consort), queen (consort)"
+        "meaning": {
+          "vi": "empress (consort), queen (consort)"
+        },
+        "romaji": "kisaki"
       }
     ],
     "radical": {
@@ -56,5 +71,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05983.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5983.gif",
     "uri": "https://jisho.org/search/%E5%A6%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi",
+    "phối"
+  ]
 }

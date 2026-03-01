@@ -20,29 +20,44 @@
       {
         "example": "拒否",
         "reading": "キョヒ",
-        "meaning": "refusal, rejection, denial, veto"
+        "meaning": {
+          "en": "refusal, rejection, denial, veto"
+        },
+        "romaji": "kyohi"
       },
       {
         "example": "拒絶反応",
         "reading": "キョゼツハンノウ",
-        "meaning": "(transplant) rejection, strong reaction (against)"
+        "meaning": {
+          "vi": "(transplant) rejection, strong reaction (against)"
+        },
+        "romaji": "kyozetsuhannou"
       },
       {
         "example": "抗拒",
         "reading": "コウキョ",
-        "meaning": "resistance, opposition"
+        "meaning": {
+          "vi": "resistance, opposition"
+        },
+        "romaji": "koukyo"
       },
       {
         "example": "着拒",
         "reading": "チャッキョ",
-        "meaning": "blocking communications (from a phone number or an e-mail address)"
+        "meaning": {
+          "vi": "blocking communications (from a phone number or an e-mail address)"
+        },
+        "romaji": "chakkyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拒む",
         "reading": "こばむ",
-        "meaning": "to refuse, to reject, to decline, to prevent (from doing), to deny (e.g. access), to block"
+        "meaning": {
+          "vi": "to refuse, to reject, to decline, to prevent (from doing), to deny (e.g. access), to block"
+        },
+        "romaji": "kobamu"
       }
     ],
     "radical": {
@@ -61,5 +76,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d2.gif",
     "uri": "https://jisho.org/search/%E6%8B%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "củ",
+    "cự"
+  ]
 }

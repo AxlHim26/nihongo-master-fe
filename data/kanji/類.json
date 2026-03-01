@@ -357,34 +357,52 @@
       {
         "example": "類",
         "reading": "ルイ",
-        "meaning": "kind, sort, type, class, genus, order, family, similar example, parallel, the like"
+        "meaning": {
+          "vi": "kind, sort, type, class, genus, order, family, similar example, parallel, the like"
+        },
+        "romaji": "rui"
       },
       {
         "example": "類似",
         "reading": "ルイジ",
-        "meaning": "resemblance, similarity, likeness, analogy"
+        "meaning": {
+          "en": "resemblance, similarity, likeness, analogy"
+        },
+        "romaji": "ruiji"
       },
       {
         "example": "魚類",
         "reading": "ギョルイ",
-        "meaning": "fish, fishes"
+        "meaning": {
+          "en": "fish, fishes"
+        },
+        "romaji": "gyorui"
       },
       {
         "example": "魚介類",
         "reading": "ギョカイルイ",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": {
+          "vi": "marine products, seafood, fish and shellfish"
+        },
+        "romaji": "gyokairui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "類い",
         "reading": "たぐい",
-        "meaning": "kind, sort, type, equal, match, peer"
+        "meaning": {
+          "vi": "kind, sort, type, equal, match, peer"
+        },
+        "romaji": "tagui"
       },
       {
         "example": "類いする",
         "reading": "たぐいする",
-        "meaning": "to be equal to, to be as good as, to be a match for, to rival"
+        "meaning": {
+          "en": "to be equal to, to be as good as, to be a match for, to rival"
+        },
+        "romaji": "taguisuru"
       }
     ],
     "radical": {
@@ -403,5 +421,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0985e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/985e.gif",
     "uri": "https://jisho.org/search/%E9%A1%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "loại"
+  ]
 }

@@ -19,34 +19,52 @@
       {
         "example": "僻",
         "reading": "ヘキ",
-        "meaning": "secluded, leaning to one side"
+        "meaning": {
+          "en": "secluded, leaning to one side"
+        },
+        "romaji": "heki"
       },
       {
         "example": "僻遠",
         "reading": "ヘキエン",
-        "meaning": "remote, outlying"
+        "meaning": {
+          "en": "remote, outlying"
+        },
+        "romaji": "hekien"
       },
       {
         "example": "僻",
         "reading": "ヒガ",
-        "meaning": "evil, untrue, erroneous"
+        "meaning": {
+          "en": "evil, untrue, erroneous"
+        },
+        "romaji": "higa"
       },
       {
         "example": "僻み",
         "reading": "ヒガミ",
-        "meaning": "prejudice, bias, warped view, jealousy, inferiority complex"
+        "meaning": {
+          "vi": "prejudice, bias, warped view, jealousy, inferiority complex"
+        },
+        "romaji": "higami"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "僻する",
         "reading": "へきする",
-        "meaning": "to lean to one side, to be warped"
+        "meaning": {
+          "vi": "to lean to one side, to be warped"
+        },
+        "romaji": "hekisuru"
       },
       {
         "example": "僻む",
         "reading": "ひがむ",
-        "meaning": "to have a warped view, to be jaundiced, to be prejudiced, to feel that one has been unfairly treated, to be jealous, to be envious, to have an inferiority complex"
+        "meaning": {
+          "vi": "to have a warped view, to be jaundiced, to be prejudiced, to feel that one has been unfairly treated, to be jealous, to be envious, to have an inferiority complex"
+        },
+        "romaji": "higamu"
       }
     ],
     "radical": {
@@ -68,5 +86,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50fb.gif",
     "uri": "https://jisho.org/search/%E5%83%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích",
+    "tịch"
+  ]
 }

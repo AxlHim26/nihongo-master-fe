@@ -17,14 +17,20 @@
       {
         "example": "大鮃",
         "reading": "オヒョウ",
-        "meaning": "halibut (esp. the Pacific halibut, Hippoglossus stenolepis)"
+        "meaning": {
+          "vi": "halibut (esp. the Pacific halibut, Hippoglossus stenolepis)"
+        },
+        "romaji": "ohyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "平目",
         "reading": "ひらめ",
-        "meaning": "flounder (esp. the large-tooth flounders of family Paralichthyidae, but also lefteye flounders of family Bothidae), bastard halibut, olive flounder (Paralichthys olivaceus), person who sucks up to superiors, toady"
+        "meaning": {
+          "vi": "flounder (esp. the large-tooth flounders of family Paralichthyidae, but also lefteye flounders of family Bothidae), bastard halibut, olive flounder (Paralichthys olivaceus), person who sucks up to superiors, toady"
+        },
+        "romaji": "hirame"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b83.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b83.gif",
     "uri": "https://jisho.org/search/%E9%AE%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "bình"
+  ]
 }

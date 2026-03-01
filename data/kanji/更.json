@@ -318,64 +318,100 @@
       {
         "example": "更",
         "reading": "コウ",
-        "meaning": "one-fifth of the night (approx. 2 hours)"
+        "meaning": {
+          "vi": "one-fifth of the night (approx. 2 hours)"
+        },
+        "romaji": "kou"
       },
       {
         "example": "更改",
         "reading": "コウカイ",
-        "meaning": "renewal, extension, revision"
+        "meaning": {
+          "en": "renewal, extension, revision"
+        },
+        "romaji": "koukai"
       },
       {
         "example": "中更",
         "reading": "チュウコウ",
-        "meaning": "middle watch, 12 midnight-2am"
+        "meaning": {
+          "en": "middle watch, 12 midnight-2am"
+        },
+        "romaji": "chuukou"
       },
       {
         "example": "五更",
         "reading": "ゴコウ",
-        "meaning": "the five night watches, fifth watch of the night (approx. 3am to 5am)"
+        "meaning": {
+          "vi": "the five night watches, fifth watch of the night (approx. 3am to 5am)"
+        },
+        "romaji": "gokou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "新",
         "reading": "さら",
-        "meaning": "new, unused, new, obvious, natural"
+        "meaning": {
+          "en": "new, unused, new, obvious, natural"
+        },
+        "romaji": "sara"
       },
       {
         "example": "更に",
         "reading": "さらに",
-        "meaning": "furthermore, again, after all, more and more, moreover, even more"
+        "meaning": {
+          "en": "furthermore, again, after all, more and more, moreover, even more"
+        },
+        "romaji": "sarani"
       },
       {
         "example": "真っさら",
         "reading": "まっさら",
-        "meaning": "brand new, fresh"
+        "meaning": {
+          "en": "brand new, fresh"
+        },
+        "romaji": "massara"
       },
       {
         "example": "殊更",
         "reading": "ことさら",
-        "meaning": "intentionally, deliberately, designedly, on purpose, especially, particularly"
+        "meaning": {
+          "vi": "intentionally, deliberately, designedly, on purpose, especially, particularly"
+        },
+        "romaji": "kotosara"
       },
       {
         "example": "更に",
         "reading": "さらに",
-        "meaning": "furthermore, again, after all, more and more, moreover, even more"
+        "meaning": {
+          "en": "furthermore, again, after all, more and more, moreover, even more"
+        },
+        "romaji": "sarani"
       },
       {
         "example": "さらに困ったことに",
         "reading": "さらにこまったことに",
-        "meaning": "to make matters worse"
+        "meaning": {
+          "en": "to make matters worse"
+        },
+        "romaji": "saranikomattakotoni"
       },
       {
         "example": "更ける",
         "reading": "ふける",
-        "meaning": "to get late, to advance, to wear on"
+        "meaning": {
+          "en": "to get late, to advance, to wear on"
+        },
+        "romaji": "fukeru"
       },
       {
         "example": "更かす",
         "reading": "ふかす",
-        "meaning": "to sit up late"
+        "meaning": {
+          "vi": "to sit up late"
+        },
+        "romaji": "fukasu"
       }
     ],
     "radical": {
@@ -392,5 +428,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66f4.gif",
     "uri": "https://jisho.org/search/%E6%9B%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "canh",
+    "cánh"
+  ]
 }

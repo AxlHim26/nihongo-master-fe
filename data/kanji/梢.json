@@ -18,24 +18,36 @@
       {
         "example": "梢子",
         "reading": "ショウシ",
-        "meaning": "boatman"
+        "meaning": {
+          "en": "boatman"
+        },
+        "romaji": "shoushi"
       },
       {
         "example": "末梢",
         "reading": "マッショウ",
-        "meaning": "tip of a twig, tip, end, trifles, trivial matters, minor details"
+        "meaning": {
+          "vi": "tip of a twig, tip, end, trifles, trivial matters, minor details"
+        },
+        "romaji": "masshou"
       },
       {
         "example": "黄梢",
         "reading": "コウショウ",
-        "meaning": "spring of yellow buds"
+        "meaning": {
+          "vi": "spring of yellow buds"
+        },
+        "romaji": "koushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梢",
         "reading": "こずえ",
-        "meaning": "treetop, tip of a branch"
+        "meaning": {
+          "vi": "treetop, tip of a branch"
+        },
+        "romaji": "kozue"
       }
     ],
     "radical": {
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68a2.gif",
     "uri": "https://jisho.org/search/%E6%A2%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "sao",
+    "tiêu"
+  ]
 }

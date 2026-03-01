@@ -18,22 +18,34 @@
       {
         "example": "娃鬟",
         "reading": "アイカン",
-        "meaning": "beautiful woman"
+        "meaning": {
+          "en": "beautiful woman"
+        },
+        "romaji": "aikan"
       },
       {
         "example": "娃鬟",
         "reading": "アイカン",
-        "meaning": "beautiful woman"
+        "meaning": {
+          "en": "beautiful woman"
+        },
+        "romaji": "aikan"
       },
       {
         "example": "館娃",
         "reading": "カンアイ",
-        "meaning": "palace (in China built by Wu Dynasty King)"
+        "meaning": {
+          "vi": "palace (in China built by Wu Dynasty King)"
+        },
+        "romaji": "kan'ai"
       },
       {
         "example": "娃々菜",
         "reading": "ワワサイ",
-        "meaning": "baby Chinese cabbage, wawasai cabbage, variety of small Chinese cabbage"
+        "meaning": {
+          "en": "baby Chinese cabbage, wawasai cabbage, variety of small Chinese cabbage"
+        },
+        "romaji": "wawasai"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a03.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a03.gif",
     "uri": "https://jisho.org/search/%E5%A8%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "oa"
+  ]
 }

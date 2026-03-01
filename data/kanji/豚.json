@@ -273,44 +273,68 @@
       {
         "example": "豚",
         "reading": "トン",
-        "meaning": "pig, pork"
+        "meaning": {
+          "vi": "pig, pork"
+        },
+        "romaji": "ton"
       },
       {
         "example": "豚肉",
         "reading": "ブタニク",
-        "meaning": "pork"
+        "meaning": {
+          "vi": "pork"
+        },
+        "romaji": "butaniku"
       },
       {
         "example": "養豚",
         "reading": "ヨウトン",
-        "meaning": "pig-keeping, pig farming"
+        "meaning": {
+          "vi": "pig-keeping, pig farming"
+        },
+        "romaji": "youton"
       },
       {
         "example": "焼きとん",
         "reading": "ヤキトン",
-        "meaning": "yakiton, grilled pork on skewers"
+        "meaning": {
+          "vi": "yakiton, grilled pork on skewers"
+        },
+        "romaji": "yakiton"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "豚",
         "reading": "ぶた",
-        "meaning": "pig (Sus scrofa domesticus), pork, fatso, fatty"
+        "meaning": {
+          "vi": "pig (Sus scrofa domesticus), pork, fatso, fatty"
+        },
+        "romaji": "buta"
       },
       {
         "example": "豚肉",
         "reading": "ぶたにく",
-        "meaning": "pork"
+        "meaning": {
+          "vi": "pork"
+        },
+        "romaji": "butaniku"
       },
       {
         "example": "野生豚",
         "reading": "やせいぶた",
-        "meaning": "feral pig"
+        "meaning": {
+          "vi": "feral pig"
+        },
+        "romaji": "yaseibuta"
       },
       {
         "example": "萌え豚",
         "reading": "もえぶた",
-        "meaning": "anime freak, person overly interested in female anime and video game characters"
+        "meaning": {
+          "vi": "anime freak, person overly interested in female anime and video game characters"
+        },
+        "romaji": "moebuta"
       }
     ],
     "radical": {
@@ -325,5 +349,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c5a.gif",
     "uri": "https://jisho.org/search/%E8%B1%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồn",
+    "độn"
+  ]
 }

@@ -18,29 +18,44 @@
       {
         "example": "苧",
         "reading": "カラムシ",
-        "meaning": "ramie (Boehmeria nivea var. nipononivea)"
+        "meaning": {
+          "vi": "ramie (Boehmeria nivea var. nipononivea)"
+        },
+        "romaji": "karamushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "麻",
         "reading": "あさ",
-        "meaning": "cannabis (Cannabis sativa), hemp (plant), hemp (fiber), linen, flax, jute"
+        "meaning": {
+          "vi": "cannabis (Cannabis sativa), hemp (plant), hemp (fiber), linen, flax, jute"
+        },
+        "romaji": "asa"
       },
       {
         "example": "麻幹",
         "reading": "おがら",
-        "meaning": "hemp reed, hemp stalk"
+        "meaning": {
+          "vi": "hemp reed, hemp stalk"
+        },
+        "romaji": "ogara"
       },
       {
         "example": "苧",
         "reading": "からむし",
-        "meaning": "ramie (Boehmeria nivea var. nipononivea)"
+        "meaning": {
+          "vi": "ramie (Boehmeria nivea var. nipononivea)"
+        },
+        "romaji": "karamushi"
       },
       {
         "example": "苧",
         "reading": "からむし",
-        "meaning": "ramie (Boehmeria nivea var. nipononivea)"
+        "meaning": {
+          "vi": "ramie (Boehmeria nivea var. nipononivea)"
+        },
+        "romaji": "karamushi"
       }
     ],
     "radical": {
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82e7.gif",
     "uri": "https://jisho.org/search/%E8%8B%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "ninh",
+    "trữ"
+  ]
 }

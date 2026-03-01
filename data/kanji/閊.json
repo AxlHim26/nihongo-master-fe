@@ -15,7 +15,10 @@
       {
         "example": "閊える",
         "reading": "つかえる",
-        "meaning": "to stick, to get stuck, to get caught, to get jammed, to clog, to be unavailable, to be busy, to be occupied, to be full, to be piled up (e.g. of work), to halt (in one's speech), to stumble (over one's words), to stutter, to stammer, to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.), to feel pressure, to feel pain"
+        "meaning": {
+          "vi": "to stick, to get stuck, to get caught, to get jammed, to clog, to be unavailable, to be busy, to be occupied, to be full, to be piled up (e.g. of work), to halt (in one's speech), to stumble (over one's words), to stutter, to stammer, to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.), to feel pressure, to feel pain"
+        },
+        "romaji": "tsukaeru"
       }
     ],
     "radical": {
@@ -30,5 +33,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0958a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/958a.gif",
     "uri": "https://jisho.org/search/%E9%96%8A%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -18,19 +18,28 @@
       {
         "example": "釁端",
         "reading": "キンタン",
-        "meaning": "opening of hostilities"
+        "meaning": {
+          "vi": "opening of hostilities"
+        },
+        "romaji": "kintan"
       },
       {
         "example": "瑕瑾",
         "reading": "カキン",
-        "meaning": "scratch, chip, nick, flaw, fault, defect, shame, disgrace"
+        "meaning": {
+          "vi": "scratch, chip, nick, flaw, fault, defect, shame, disgrace"
+        },
+        "romaji": "kakin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "血塗る",
         "reading": "ちぬる",
-        "meaning": "to smear with blood, to kill"
+        "meaning": {
+          "en": "to smear with blood, to kill"
+        },
+        "romaji": "chinuru"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c1.gif",
     "uri": "https://jisho.org/search/%E9%87%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "hấn"
+  ]
 }

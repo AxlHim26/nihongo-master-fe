@@ -17,19 +17,28 @@
       {
         "example": "澪標",
         "reading": "ミオツクシ",
-        "meaning": "marks in a water channel, channel buoys"
+        "meaning": {
+          "en": "marks in a water channel, channel buoys"
+        },
+        "romaji": "miotsukushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "澪",
         "reading": "みお",
-        "meaning": "waterway, channel, wake (of a ship)"
+        "meaning": {
+          "vi": "waterway, channel, wake (of a ship)"
+        },
+        "romaji": "mio"
       },
       {
         "example": "澪標",
         "reading": "みおつくし",
-        "meaning": "marks in a water channel, channel buoys"
+        "meaning": {
+          "en": "marks in a water channel, channel buoys"
+        },
+        "romaji": "miotsukushi"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06faa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6faa.gif",
     "uri": "https://jisho.org/search/%E6%BE%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "linh"
+  ]
 }

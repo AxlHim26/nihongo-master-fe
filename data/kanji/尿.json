@@ -21,49 +21,76 @@
       {
         "example": "尿",
         "reading": "ニョウ",
-        "meaning": "urine"
+        "meaning": {
+          "en": "urine"
+        },
+        "romaji": "nyou"
       },
       {
         "example": "尿酸",
         "reading": "ニョウサン",
-        "meaning": "uric acid"
+        "meaning": {
+          "en": "uric acid"
+        },
+        "romaji": "nyousan"
       },
       {
         "example": "利尿",
         "reading": "リニョウ",
-        "meaning": "diuresis"
+        "meaning": {
+          "en": "diuresis"
+        },
+        "romaji": "rinyou"
       },
       {
         "example": "遺尿",
         "reading": "イニョウ",
-        "meaning": "enuresis, bed wetting"
+        "meaning": {
+          "en": "enuresis, bed wetting"
+        },
+        "romaji": "inyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尿",
         "reading": "にょう",
-        "meaning": "urine"
+        "meaning": {
+          "en": "urine"
+        },
+        "romaji": "nyou"
       },
       {
         "example": "尿袋",
         "reading": "いばりぶくろ",
-        "meaning": "urinary bladder"
+        "meaning": {
+          "en": "urinary bladder"
+        },
+        "romaji": "ibaribukuro"
       },
       {
         "example": "尿",
         "reading": "にょう",
-        "meaning": "urine"
+        "meaning": {
+          "en": "urine"
+        },
+        "romaji": "nyou"
       },
       {
         "example": "尿袋",
         "reading": "いばりぶくろ",
-        "meaning": "urinary bladder"
+        "meaning": {
+          "en": "urinary bladder"
+        },
+        "romaji": "ibaribukuro"
       },
       {
         "example": "尿",
         "reading": "にょう",
-        "meaning": "urine"
+        "meaning": {
+          "en": "urine"
+        },
+        "romaji": "nyou"
       }
     ],
     "radical": {
@@ -78,5 +105,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3f.gif",
     "uri": "https://jisho.org/search/%E5%B0%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "niếu",
+    "niệu",
+    "tuy"
+  ]
 }

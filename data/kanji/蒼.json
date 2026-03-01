@@ -18,29 +18,44 @@
       {
         "example": "蒼鉛",
         "reading": "ソウエン",
-        "meaning": "bismuth"
+        "meaning": {
+          "en": "bismuth"
+        },
+        "romaji": "souen"
       },
       {
         "example": "滄海",
         "reading": "ソウカイ",
-        "meaning": "the blue sea, blue waters"
+        "meaning": {
+          "en": "the blue sea, blue waters"
+        },
+        "romaji": "soukai"
       },
       {
         "example": "蒼々",
         "reading": "ソウソウ",
-        "meaning": "blue (sky, ocean, etc.), fresh and green (of vegetation), verdant, lush, greying (hair), aged"
+        "meaning": {
+          "en": "blue (sky, ocean, etc.), fresh and green (of vegetation), verdant, lush, greying (hair), aged"
+        },
+        "romaji": "sousou"
       },
       {
         "example": "穹蒼",
         "reading": "キュウソウ",
-        "meaning": "dome of the sky, vault of heaven"
+        "meaning": {
+          "en": "dome of the sky, vault of heaven"
+        },
+        "romaji": "kyuusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "青い",
         "reading": "あおい",
-        "meaning": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced"
+        "meaning": {
+          "vi": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced"
+        },
+        "romaji": "aoi"
       }
     ],
     "radical": {
@@ -61,5 +76,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84bc.gif",
     "uri": "https://jisho.org/search/%E8%92%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "thương",
+    "thưởng"
+  ]
 }

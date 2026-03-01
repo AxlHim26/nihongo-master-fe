@@ -17,12 +17,18 @@
       {
         "example": "寿司",
         "reading": "すし",
-        "meaning": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+        "meaning": {
+          "en": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+        },
+        "romaji": "sushi"
       },
       {
         "example": "寿司飯",
         "reading": "すしめし",
-        "meaning": "rice seasoned with vinegar, sugar and salt, used for preparing sushi, sushi rice"
+        "meaning": {
+          "vi": "rice seasoned with vinegar, sugar and salt, used for preparing sushi, sushi rice"
+        },
+        "romaji": "sushimeshi"
       }
     ],
     "radical": {
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b93.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b93.gif",
     "uri": "https://jisho.org/search/%E9%AE%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "trá",
+    "trả"
+  ]
 }

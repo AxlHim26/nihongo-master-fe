@@ -17,29 +17,42 @@
       {
         "example": "艮",
         "reading": "ゴン",
-        "meaning": "gen (one of the trigrams of the I Ching: mountain, northeast)"
+        "meaning": {
+          "en": "gen (one of the trigrams of the I Ching: mountain, northeast)"
+        },
+        "romaji": "gon"
       },
       {
         "example": "艮",
         "reading": "ゴン",
-        "meaning": "gen (one of the trigrams of the I Ching: mountain, northeast)"
+        "meaning": {
+          "en": "gen (one of the trigrams of the I Ching: mountain, northeast)"
+        },
+        "romaji": "gon"
       },
       {
         "example": "艮下艮上",
         "reading": "ゴンカゴンショウ",
-        "meaning": "one of the 64 trigrams"
+        "meaning": {
+          "en": "one of the 64 trigrams"
+        },
+        "romaji": "gonkagonshou"
       },
       {
         "example": "【ジュゴン】",
         "reading": "dugong (Dugong dugon), sea pig",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "dugong (Dugong dugon), sea pig"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丑寅",
         "reading": "うしとら",
-        "meaning": "northeast"
+        "meaning": {
+          "en": "northeast"
+        },
+        "romaji": "ushitora"
       }
     ],
     "radical": {
@@ -53,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826e.gif",
     "uri": "https://jisho.org/search/%E8%89%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấn"
+  ]
 }

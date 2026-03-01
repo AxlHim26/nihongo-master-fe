@@ -16,17 +16,26 @@
       {
         "example": "俑",
         "reading": "ヨウ",
-        "meaning": "tượng đất nung (trong lăng mộ Tần, Trung Quốc)"
+        "meaning": {
+          "vi": "tượng đất nung (trong lăng mộ Tần, Trung Quốc)"
+        },
+        "romaji": "you"
       },
       {
         "example": "俑を作る",
         "reading": "ヨウヲツクル",
-        "meaning": "làm gương xấu, tạo tiền lệ xấu"
+        "meaning": {
+          "vi": "làm gương xấu, tạo tiền lệ xấu"
+        },
+        "romaji": "youwotsukuru"
       },
       {
         "example": "兵馬俑",
         "reading": "ヘイバヨウ",
-        "meaning": "đội quân đất nung (tượng gần lăng Tần Thủy Hoàng, Trung Quốc)"
+        "meaning": {
+          "vi": "đội quân đất nung (tượng gần lăng Tần Thủy Hoàng, Trung Quốc)"
+        },
+        "romaji": "heibayou"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fd1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fd1.gif",
     "uri": "https://jisho.org/search/%E4%BF%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "dõng",
+    "dũng",
+    "thông"
+  ]
 }

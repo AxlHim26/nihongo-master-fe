@@ -20,49 +20,76 @@
       {
         "example": "眉宇",
         "reading": "ビウ",
-        "meaning": "brow, brows"
+        "meaning": {
+          "en": "brow, brows"
+        },
+        "romaji": "biu"
       },
       {
         "example": "眉月",
         "reading": "マユヅキ",
-        "meaning": "crescent moon"
+        "meaning": {
+          "en": "crescent moon"
+        },
+        "romaji": "mayuzuki"
       },
       {
         "example": "拝眉",
         "reading": "ハイビ",
-        "meaning": "having the pleasure of seeing (a person)"
+        "meaning": {
+          "vi": "having the pleasure of seeing (a person)"
+        },
+        "romaji": "haibi"
       },
       {
         "example": "愁眉",
         "reading": "シュウビ",
-        "meaning": "worried look, melancholy air"
+        "meaning": {
+          "en": "worried look, melancholy air"
+        },
+        "romaji": "shuubi"
       },
       {
         "example": "眉間",
         "reading": "ミケン",
-        "meaning": "brow, glabella, middle forehead, area between the eyebrows"
+        "meaning": {
+          "en": "brow, glabella, middle forehead, area between the eyebrows"
+        },
+        "romaji": "miken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "眉",
         "reading": "まゆ",
-        "meaning": "eyebrow, eyebrows"
+        "meaning": {
+          "en": "eyebrow, eyebrows"
+        },
+        "romaji": "mayu"
       },
       {
         "example": "眉毛",
         "reading": "まゆげ",
-        "meaning": "eyebrow"
+        "meaning": {
+          "en": "eyebrow"
+        },
+        "romaji": "mayuge"
       },
       {
         "example": "描き眉",
         "reading": "かきまゆ",
-        "meaning": "painted eyebrows, pencilled eyebrows"
+        "meaning": {
+          "vi": "painted eyebrows, pencilled eyebrows"
+        },
+        "romaji": "kakimayu"
       },
       {
         "example": "三日月眉",
         "reading": "みかづきまゆ",
-        "meaning": "arched eyebrows"
+        "meaning": {
+          "en": "arched eyebrows"
+        },
+        "romaji": "mikazukimayu"
       }
     ],
     "radical": {
@@ -78,5 +105,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07709.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7709.gif",
     "uri": "https://jisho.org/search/%E7%9C%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "mi",
+    "my"
+  ]
 }

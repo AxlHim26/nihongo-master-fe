@@ -296,32 +296,50 @@
       {
         "example": "個",
         "reading": "コ",
-        "meaning": "counter for (small) things or pieces, counter for military units, (an) individual, one person"
+        "meaning": {
+          "vi": "counter for (small) things or pieces, counter for military units, (an) individual, one person"
+        },
+        "romaji": "ko"
       },
       {
         "example": "個々",
         "reading": "ココ",
-        "meaning": "individual, one by one, separate, each"
+        "meaning": {
+          "vi": "individual, one by one, separate, each"
+        },
+        "romaji": "koko"
       },
       {
         "example": "好個",
         "reading": "コウコ",
-        "meaning": "excellent, fine, pertinent"
+        "meaning": {
+          "vi": "excellent, fine, pertinent"
+        },
+        "romaji": "kouko"
       },
       {
         "example": "複数個",
         "reading": "フクスウコ",
-        "meaning": "multitude"
+        "meaning": {
+          "en": "multitude"
+        },
+        "romaji": "fukusuuko"
       },
       {
         "example": "箇",
         "reading": "カ",
-        "meaning": "counter used with Sino-Japanese words"
+        "meaning": {
+          "vi": "counter used with Sino-Japanese words"
+        },
+        "romaji": "ka"
       },
       {
         "example": "箇所",
         "reading": "カショ",
-        "meaning": "place, point, part, spot, area, passage, portion, counter for places, parts, passages, etc."
+        "meaning": {
+          "vi": "place, point, part, spot, area, passage, portion, counter for places, parts, passages, etc."
+        },
+        "romaji": "kasho"
       }
     ],
     "kunyomiExamples": [],
@@ -342,5 +360,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0500b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/500b.gif",
     "uri": "https://jisho.org/search/%E5%80%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cá"
+  ]
 }

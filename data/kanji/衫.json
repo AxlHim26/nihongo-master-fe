@@ -14,12 +14,18 @@
       {
         "example": "長衫",
         "reading": "チョウサン",
-        "meaning": "cheongsam, mandarin gown, mandarin dress"
+        "meaning": {
+          "en": "cheongsam, mandarin gown, mandarin dress"
+        },
+        "romaji": "chousan"
       },
       {
         "example": "軽衫",
         "reading": "カルサン",
-        "meaning": "hakama fashioned in the style of the pantaloons worn by the Portuguese"
+        "meaning": {
+          "vi": "hakama fashioned in the style of the pantaloons worn by the Portuguese"
+        },
+        "romaji": "karusan"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0886b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/886b.gif",
     "uri": "https://jisho.org/search/%E8%A1%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "sam"
+  ]
 }

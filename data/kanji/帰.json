@@ -312,34 +312,52 @@
       {
         "example": "帰還",
         "reading": "キカン",
-        "meaning": "về nước, hồi hương, phản hồi (mạch điện, hệ sinh học)"
+        "meaning": {
+          "vi": "về nước, hồi hương, phản hồi (mạch điện, hệ sinh học)"
+        },
+        "romaji": "kikan"
       },
       {
         "example": "帰化",
         "reading": "キカ",
-        "meaning": "nhập tịch"
+        "meaning": {
+          "vi": "nhập tịch"
+        },
+        "romaji": "kika"
       },
       {
         "example": "社会復帰",
         "reading": "シャカイフッキ",
-        "meaning": "tái hòa nhập xã hội"
+        "meaning": {
+          "vi": "tái hòa nhập xã hội"
+        },
+        "romaji": "shakaifukki"
       },
       {
         "example": "回帰",
         "reading": "カイキ",
-        "meaning": "trở lại, cách mạng, tái diễn, thoái lui"
+        "meaning": {
+          "vi": "trở lại, cách mạng, tái diễn, thoái lui"
+        },
+        "romaji": "kaiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帰る",
         "reading": "かえる",
-        "meaning": "trở về, về nhà, quay lại, ra về (khách), về đến nhà"
+        "meaning": {
+          "vi": "trở về, về nhà, quay lại, ra về (khách), về đến nhà"
+        },
+        "romaji": "kaeru"
       },
       {
         "example": "帰す",
         "reading": "かえす",
-        "meaning": "tiễn (ai) về, đưa (ai) về nhà"
+        "meaning": {
+          "vi": "tiễn (ai) về, đưa (ai) về nhà"
+        },
+        "romaji": "kaesu"
       }
     ],
     "radical": {
@@ -356,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e30.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e30.gif",
     "uri": "https://jisho.org/search/%E5%B8%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "quy"
+  ]
 }

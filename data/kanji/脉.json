@@ -16,12 +16,18 @@
       {
         "example": "脈",
         "reading": "ミャク",
-        "meaning": "pulse, vein, chain (of mountains, etc.), hope, thread (of an argument)"
+        "meaning": {
+          "vi": "pulse, vein, chain (of mountains, etc.), hope, thread (of an argument)"
+        },
+        "romaji": "myaku"
       },
       {
         "example": "脈診",
         "reading": "ミャクシン",
-        "meaning": "diagnostic sphygmopalpation (in traditional Chinese medicine), medical diagnosis performed by feeling one's pulse"
+        "meaning": {
+          "vi": "diagnostic sphygmopalpation (in traditional Chinese medicine), medical diagnosis performed by feeling one's pulse"
+        },
+        "romaji": "myakushin"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08109.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8109.gif",
     "uri": "https://jisho.org/search/%E8%84%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạch"
+  ]
 }

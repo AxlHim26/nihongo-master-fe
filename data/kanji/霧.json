@@ -21,49 +21,76 @@
       {
         "example": "霧化",
         "reading": "ムカ",
-        "meaning": "atomization"
+        "meaning": {
+          "en": "atomization"
+        },
+        "romaji": "muka"
       },
       {
         "example": "霧虹",
         "reading": "キリニジ",
-        "meaning": "fog bow, fogbow, mistbow, white rainbow"
+        "meaning": {
+          "en": "fog bow, fogbow, mistbow, white rainbow"
+        },
+        "romaji": "kiriniji"
       },
       {
         "example": "夕霧",
         "reading": "ユウギリ",
-        "meaning": "evening mist"
+        "meaning": {
+          "en": "evening mist"
+        },
+        "romaji": "yuugiri"
       },
       {
         "example": "海霧",
         "reading": "カイム",
-        "meaning": "sea fog"
+        "meaning": {
+          "en": "sea fog"
+        },
+        "romaji": "kaimu"
       },
       {
         "example": "蓮霧",
         "reading": "レンブ",
-        "meaning": "wax apple (Syzygium samarangense), Java apple"
+        "meaning": {
+          "vi": "wax apple (Syzygium samarangense), Java apple"
+        },
+        "romaji": "renbu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "霧",
         "reading": "きり",
-        "meaning": "fog, mist, spray"
+        "meaning": {
+          "vi": "fog, mist, spray"
+        },
+        "romaji": "kiri"
       },
       {
         "example": "霧雨",
         "reading": "きりさめ",
-        "meaning": "drizzle, light rain"
+        "meaning": {
+          "en": "drizzle, light rain"
+        },
+        "romaji": "kirisame"
       },
       {
         "example": "黒い霧",
         "reading": "くろいきり",
-        "meaning": "thick fog (of suspicion), black veil of secrecy, covered-up crime, unethical act, etc."
+        "meaning": {
+          "vi": "thick fog (of suspicion), black veil of secrecy, covered-up crime, unethical act, etc."
+        },
+        "romaji": "kuroikiri"
       },
       {
         "example": "雲霧",
         "reading": "うんむ",
-        "meaning": "clouds and fog"
+        "meaning": {
+          "en": "clouds and fog"
+        },
+        "romaji": "unmu"
       }
     ],
     "radical": {
@@ -80,5 +107,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09727.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9727.gif",
     "uri": "https://jisho.org/search/%E9%9C%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "vụ"
+  ]
 }

@@ -316,24 +316,36 @@
       {
         "example": "必",
         "reading": "ヒツ",
-        "meaning": "definiteness, certainty"
+        "meaning": {
+          "en": "definiteness, certainty"
+        },
+        "romaji": "hitsu"
       },
       {
         "example": "必需",
         "reading": "ヒツジュ",
-        "meaning": "necessary"
+        "meaning": {
+          "en": "necessary"
+        },
+        "romaji": "hitsuju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "必ず",
         "reading": "かならず",
-        "meaning": "always, without exception, necessarily, certainly, without fail, positively, invariably"
+        "meaning": {
+          "vi": "always, without exception, necessarily, certainly, without fail, positively, invariably"
+        },
+        "romaji": "kanarazu"
       },
       {
         "example": "必ずしも",
         "reading": "かならずしも",
-        "meaning": "(not) always, (not) necessarily, (not) entirely, (not) all"
+        "meaning": {
+          "en": "(not) always, (not) necessarily, (not) entirely, (not) all"
+        },
+        "romaji": "kanarazushimo"
       }
     ],
     "radical": {
@@ -352,5 +364,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fc5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fc5.gif",
     "uri": "https://jisho.org/search/%E5%BF%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "tất"
+  ]
 }

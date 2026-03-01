@@ -16,7 +16,10 @@
       {
         "example": "警蹕",
         "reading": "ケイヒツ",
-        "meaning": "heralding"
+        "meaning": {
+          "en": "heralding"
+        },
+        "romaji": "keihitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e55.gif",
     "uri": "https://jisho.org/search/%E8%B9%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "tất"
+  ]
 }

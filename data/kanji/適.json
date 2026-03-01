@@ -369,29 +369,44 @@
       {
         "example": "的確",
         "reading": "テキカク",
-        "meaning": "accurate, precise, exact, appropriate, apt, right"
+        "meaning": {
+          "vi": "accurate, precise, exact, appropriate, apt, right"
+        },
+        "romaji": "tekikaku"
       },
       {
         "example": "適応",
         "reading": "テキオウ",
-        "meaning": "adaptation, accommodation, conformity"
+        "meaning": {
+          "vi": "adaptation, accommodation, conformity"
+        },
+        "romaji": "tekiou"
       },
       {
         "example": "不適",
         "reading": "フテキ",
-        "meaning": "inadequacy, inappropriateness, unfitness, impropriety"
+        "meaning": {
+          "vi": "inadequacy, inappropriateness, unfitness, impropriety"
+        },
+        "romaji": "futeki"
       },
       {
         "example": "悠々自適",
         "reading": "ユウユウジテキ",
-        "meaning": "living a life of leisure with dignity, living quietly and comfortably free from worldly cares, otium cum dignitate"
+        "meaning": {
+          "en": "living a life of leisure with dignity, living quietly and comfortably free from worldly cares, otium cum dignitate"
+        },
+        "romaji": "yuuyuujiteki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "叶う",
         "reading": "かなう",
-        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        "meaning": {
+          "vi": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        },
+        "romaji": "kanau"
       }
     ],
     "radical": {
@@ -417,5 +432,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09069.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9069.gif",
     "uri": "https://jisho.org/search/%E9%81%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "quát",
+    "thích",
+    "trích",
+    "đích",
+    "địch"
+  ]
 }

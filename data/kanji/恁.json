@@ -16,7 +16,10 @@
       {
         "example": "恁麼",
         "reading": "インモ",
-        "meaning": "this sort, this way, what sort, what kind"
+        "meaning": {
+          "en": "this sort, this way, what sort, what kind"
+        },
+        "romaji": "inmo"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06041.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6041.gif",
     "uri": "https://jisho.org/search/%E6%81%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhẫm",
+    "nhậm"
+  ]
 }

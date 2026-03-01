@@ -418,89 +418,140 @@
       {
         "example": "合",
         "reading": "ゴウ",
-        "meaning": "gō, traditional unit of volume, approx. 180 ml, gō, traditional unit of area, approx 0.33 square meters, one-tenth of the distance from the base to the summit of a mountain, conjunction, sum, total, synthesis (in dialectics), minor premise (in hetuvidya), counter for covered containers, counter for matches, battles, etc."
+        "meaning": {
+          "vi": "gō, traditional unit of volume, approx. 180 ml, gō, traditional unit of area, approx 0.33 square meters, one-tenth of the distance from the base to the summit of a mountain, conjunction, sum, total, synthesis (in dialectics), minor premise (in hetuvidya), counter for covered containers, counter for matches, battles, etc."
+        },
+        "romaji": "gou"
       },
       {
         "example": "合意",
         "reading": "ゴウイ",
-        "meaning": "(coming to an) agreement, consent, mutual understanding, accord, consensus"
+        "meaning": {
+          "en": "(coming to an) agreement, consent, mutual understanding, accord, consensus"
+        },
+        "romaji": "goui"
       },
       {
         "example": "複合",
         "reading": "フクゴウ",
-        "meaning": "composite, combined, complex"
+        "meaning": {
+          "vi": "composite, combined, complex"
+        },
+        "romaji": "fukugou"
       },
       {
         "example": "整合",
         "reading": "セイゴウ",
-        "meaning": "adjustment, coordination, integration, conformity"
+        "meaning": {
+          "en": "adjustment, coordination, integration, conformity"
+        },
+        "romaji": "seigou"
       },
       {
         "example": "合宿",
         "reading": "ガッシュク",
-        "meaning": "lodging together, training camp, boarding house"
+        "meaning": {
+          "vi": "lodging together, training camp, boarding house"
+        },
+        "romaji": "gasshuku"
       },
       {
         "example": "合作",
         "reading": "ガッサク",
-        "meaning": "collaboration, joint work"
+        "meaning": {
+          "en": "collaboration, joint work"
+        },
+        "romaji": "gassaku"
       },
       {
         "example": "合戦",
         "reading": "カッセン",
-        "meaning": "battle, fight, fighting, engagement, contest"
+        "meaning": {
+          "en": "battle, fight, fighting, engagement, contest"
+        },
+        "romaji": "kassen"
       },
       {
         "example": "合羽",
         "reading": "カッパ",
-        "meaning": "raincoat"
+        "meaning": {
+          "en": "raincoat"
+        },
+        "romaji": "kappa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "合う",
         "reading": "あう",
-        "meaning": "to come together, to merge, to unite, to meet, to fit, to match, to suit, to agree with, to be correct, to be profitable, to be equitable, to do ... to each other, to do ... together"
+        "meaning": {
+          "vi": "to come together, to merge, to unite, to meet, to fit, to match, to suit, to agree with, to be correct, to be profitable, to be equitable, to do ... to each other, to do ... together"
+        },
+        "romaji": "au"
       },
       {
         "example": "合うも不思議、合わぬも不思議",
         "reading": "あうもふしぎ、あわぬもふしぎ",
-        "meaning": "dreams and fortune-telling are hit-and-miss"
+        "meaning": {
+          "en": "dreams and fortune-telling are hit-and-miss"
+        },
+        "romaji": "aumofushigi,awanumofushigi"
       },
       {
         "example": "合い",
         "reading": "あい",
-        "meaning": "between-season wear, spring and autumn clothing, spring and fall clothing, together, condition, situation, state, -ish"
+        "meaning": {
+          "vi": "between-season wear, spring and autumn clothing, spring and fall clothing, together, condition, situation, state, -ish"
+        },
+        "romaji": "ai"
       },
       {
         "example": "合言葉",
         "reading": "あいことば",
-        "meaning": "password, watchword, motto, slogan"
+        "meaning": {
+          "vi": "password, watchword, motto, slogan"
+        },
+        "romaji": "aikotoba"
       },
       {
         "example": "立会い",
         "reading": "たちあい",
-        "meaning": "presence (e.g. of an observer), observation, observer, witness, trading session (at an exchange), rising from a crouch to charge, initial charge, face-off"
+        "meaning": {
+          "vi": "presence (e.g. of an observer), observation, observer, witness, trading session (at an exchange), rising from a crouch to charge, initial charge, face-off"
+        },
+        "romaji": "tachiai"
       },
       {
         "example": "地合い",
         "reading": "じあい",
-        "meaning": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
+        "meaning": {
+          "vi": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
+        },
+        "romaji": "jiai"
       },
       {
         "example": "合わす",
         "reading": "あわす",
-        "meaning": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+        "meaning": {
+          "vi": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+        },
+        "romaji": "awasu"
       },
       {
         "example": "合わせる",
         "reading": "あわせる",
-        "meaning": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+        "meaning": {
+          "vi": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+        },
+        "romaji": "awaseru"
       },
       {
         "example": "合わせる顔がない",
         "reading": "あわせるかおがない",
-        "meaning": "too ashamed to meet"
+        "meaning": {
+          "en": "too ashamed to meet"
+        },
+        "romaji": "awaserukaoganai"
       }
     ],
     "radical": {
@@ -516,5 +567,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05408.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5408.gif",
     "uri": "https://jisho.org/search/%E5%90%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "cáp",
+    "hiệp",
+    "hạp",
+    "hợp"
+  ]
 }

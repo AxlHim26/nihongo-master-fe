@@ -257,29 +257,44 @@
       {
         "example": "踊躍",
         "reading": "ヨウヤク",
-        "meaning": "leaping with joy, jumping about"
+        "meaning": {
+          "vi": "leaping with joy, jumping about"
+        },
+        "romaji": "youyaku"
       },
       {
         "example": "現代舞踊",
         "reading": "ゲンダイブヨウ",
-        "meaning": "contemporary dance, modern dance"
+        "meaning": {
+          "vi": "contemporary dance, modern dance"
+        },
+        "romaji": "gendaibuyou"
       },
       {
         "example": "歌舞伎舞踊",
         "reading": "カブキブヨウ",
-        "meaning": "kabuki dance"
+        "meaning": {
+          "en": "kabuki dance"
+        },
+        "romaji": "kabukibuyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "踊る",
         "reading": "おどる",
-        "meaning": "to dance (orig. a hopping dance), to be manipulated, to dance to someone's tune"
+        "meaning": {
+          "vi": "to dance (orig. a hopping dance), to be manipulated, to dance to someone's tune"
+        },
+        "romaji": "odoru"
       },
       {
         "example": "踊る阿呆に見る阿呆",
         "reading": "おどるあほうにみるあほう",
-        "meaning": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance"
+        "meaning": {
+          "en": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance"
+        },
+        "romaji": "odoruahounimiruahou"
       }
     ],
     "radical": {
@@ -300,5 +315,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e0a.gif",
     "uri": "https://jisho.org/search/%E8%B8%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "dũng"
+  ]
 }

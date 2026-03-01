@@ -18,7 +18,10 @@
       {
         "example": "水かき",
         "reading": "みずかき",
-        "meaning": "web (between fingers or toes), paddle, paddle blade"
+        "meaning": {
+          "vi": "web (between fingers or toes), paddle, paddle blade"
+        },
+        "romaji": "mizukaki"
       }
     ],
     "radical": {
@@ -43,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e7c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e7c.gif",
     "uri": "https://jisho.org/search/%E8%B9%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "bốc",
+    "phốc"
+  ]
 }

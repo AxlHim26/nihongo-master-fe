@@ -13,144 +13,228 @@
       {
         "japanese": "並列する（へいれつする）",
         "meaning": {
-          "english": "stand in a row",
-        "vietnamese": "đứng xếp hàng"
+          "vi": "đứng thành một hàng",
+          "en": "stand in a row"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_a.mp3"
+        },
+        "hanViet": [
+          "bính",
+          "liệt"
+        ],
+        "hanVietExplain": {
+          "vi": "並 (bính: hợp, gồm) + 列 (liệt: bày ra) → đứng thành một hàng",
+          "en": "並 (binh: combine, include) + 列 (lie: display) → stand in a row"
         }
       },
       {
         "japanese": "並（なみ）",
         "meaning": {
-          "english": "common, ordinary, average",
-        "vietnamese": "thường, bình thường, trung bình"
+          "vi": "thông thường, tầm thường, trung bình",
+          "en": "common, ordinary, average"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_b.mp3"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
         }
       },
       {
         "japanese": "並木（なみき）",
         "meaning": {
-          "english": "row of trees",
-        "vietnamese": "hàng cây"
+          "vi": "hàng cây",
+          "en": "row of trees"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_c.mp3"
+        },
+        "hanViet": [
+          "bính",
+          "mộc"
+        ],
+        "hanVietExplain": {
+          "vi": "並 (bính: hợp, gồm) + 木 (mộc: cây, gỗ) → hàng cây",
+          "en": "並 (binh: hop, include) + 木 (wood: tree, wood) → row of trees"
         }
       },
       {
         "japanese": "並外れる（なみはずれる）",
         "meaning": {
-          "english": "out of the ordinary",
-        "vietnamese": "khác thường"
+          "vi": "khác thường",
+          "en": "out of the ordinary"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_d.mp3"
+        },
+        "hanViet": [
+          "bính",
+          "ngoại"
+        ],
+        "hanVietExplain": {
+          "vi": "並 (bính: hợp, gồm) + 外 (ngoại: bên ngoài) → khác thường",
+          "en": "並 (binh: suitable, including) + 外 (external: outside) → unusual"
         }
       },
       {
         "japanese": "町並み（まちなみ）",
         "meaning": {
-          "english": "stores and houses on a street",
-        "vietnamese": "cửa hàng và nhà trên phố"
+          "vi": "cửa hàng và nhà ở trên đường phố",
+          "en": "stores and houses on a street"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_e.mp3"
+        },
+        "hanViet": [
+          "đinh",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "町 (đinh: bờ ruộng) + 並 (bính: hợp, gồm) → cửa hàng và nhà ở trên đường phố",
+          "en": "町 (ding: field edge) + 並 (binh: hop, include) → shops and houses on the street"
         }
       },
       {
         "japanese": "軒並み（のきなみ）",
         "meaning": {
-          "english": "row of houses, at every door",
-        "vietnamese": "dãy nhà, mọi cửa"
+          "vi": "dãy nhà, ở mọi cửa",
+          "en": "row of houses, at every door"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_f.mp3"
+        },
+        "hanViet": [
+          "hiên",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "軒 (hiên: xe có mái che) + 並 (bính: hợp, gồm) → dãy nhà, ở mọi cửa",
+          "en": "軒 (porch: covered car) + 並 (bin: suitable, including) → row of houses, at every door"
         }
       },
       {
         "japanese": "人並み（ひとなみ）",
         "meaning": {
-          "english": "average, ordinary",
-        "vietnamese": "trung bình, bình thường"
+          "vi": "trung bình, bình thường",
+          "en": "average, ordinary"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_g.mp3"
+        },
+        "hanViet": [
+          "nhân",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "人 (nhân: người) + 並 (bính: hợp, gồm) → trung bình, bình thường",
+          "en": "人 (human: person) + 並 (binh: suitable, including) → average, normal"
         }
       },
       {
         "japanese": "月並みな（つきなみな）",
         "meaning": {
-          "english": "trite, commonplace, hackneyed",
-        "vietnamese": "sáo rỗng, tầm thường"
+          "vi": "sáo rỗng, tầm thường, nhàm chán",
+          "en": "trite, commonplace, hackneyed"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_h.mp3"
+        },
+        "hanViet": [
+          "nguyệt",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "月 (nguyệt: Mặt Trăng) + 並 (bính: hợp, gồm) → sáo rỗng, tầm thường, nhàm chán",
+          "en": "月 (moon: moon) + 並 (binh: suitable, including) → cliché, trivial, boring"
         }
       },
       {
         "japanese": "並べる（ならべる）",
         "meaning": {
-          "english": "line up [v.t.]",
-        "vietnamese": "xếp hàng (ngoại động)"
+          "vi": "xếp hàng [v.t.]",
+          "en": "line up [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_i.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_i.mp3"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
         }
       },
       {
         "japanese": "並ぶ（ならぶ）",
         "meaning": {
-          "english": "line up [v.i.]",
-        "vietnamese": "xếp hàng (nội động)"
+          "vi": "xếp hàng [v.i.]",
+          "en": "line up [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_j.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_j.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_j.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_j.mp3"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
         }
       },
       {
         "japanese": "並びに（ならびに）",
         "meaning": {
-          "english": "and",
-        "vietnamese": "và"
+          "vi": "và",
+          "en": "and"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hei-nara(bu)_06_k.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hei-nara(bu)_06_k.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hei-nara(bu)_06_k.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hei-nara(bu)_06_k.mp3"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
         }
       }
     ],
@@ -271,7 +355,7 @@
       "character": "並",
       "meaning": {
         "english": "line up, ordinary",
-      "vietnamese": "xếp hàng, bình thường"
+        "vietnamese": "xếp hàng, bình thường"
       },
       "strokes": {
         "count": 8,
@@ -326,7 +410,7 @@
       },
       "meaning": {
         "english": "one, horizontal stroke",
-      "vietnamese": "một, nét ngang"
+        "vietnamese": "một, nét ngang"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -363,69 +447,220 @@
       {
         "example": "併用",
         "reading": "ヘイヨウ",
-        "meaning": "dùng kết hợp, dùng chung"
+        "meaning": {
+          "vi": "dùng kết hợp, dùng chung",
+          "en": "dùng kết hợp, dùng chung"
+        },
+        "hanViet": [
+          "tính",
+          "dụng"
+        ],
+        "hanVietExplain": {
+          "vi": "併 (tính: hợp lại, gộp lại, dồn lại) + 用 (dụng: dùng, sử dụng) → dùng kết hợp, dùng chung",
+          "en": "併 (adjective: combine, put together, put together) + 用 (use: use, use) → use in combination, use together"
+        },
+        "romaji": "heiyou"
       },
       {
         "example": "並行",
         "reading": "ヘイコウ",
-        "meaning": "đi song song, chạy đồng thời"
+        "meaning": {
+          "vi": "đi song song, chạy đồng thời",
+          "en": "đi song song, chạy đồng thời"
+        },
+        "hanViet": [
+          "bính",
+          "hàng"
+        ],
+        "hanVietExplain": {
+          "vi": "並 (bính: hợp, gồm) + 行 (hàng: hàng, dòng) → đi song song, chạy đồng thời",
+          "en": "並 (binh: combination, including) + 行 (row: line, line) → go in parallel, run at the same time"
+        },
+        "romaji": "heikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "並",
         "reading": "なみ",
-        "meaning": "trung bình, thường, bình thường, mỗi, hàng"
+        "meaning": {
+          "vi": "trung bình, thường, bình thường, mỗi, hàng",
+          "en": "trung bình, thường, bình thường, mỗi, hàng"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
+        },
+        "romaji": "nami"
       },
       {
         "example": "並木",
         "reading": "なみき",
-        "meaning": "cây ven đường, hàng cây"
+        "meaning": {
+          "vi": "cây ven đường, hàng cây",
+          "en": "cây ven đường, hàng cây"
+        },
+        "hanViet": [
+          "bính",
+          "mộc"
+        ],
+        "hanVietExplain": {
+          "vi": "並 (bính: hợp, gồm) + 木 (mộc: cây, gỗ) → cây ven đường, hàng cây",
+          "en": "並 (binh: hop, include) + 木 (wood: tree, wood) → roadside tree, row of trees"
+        },
+        "romaji": "namiki"
       },
       {
         "example": "足並み",
         "reading": "あしなみ",
-        "meaning": "bước chân, nhịp"
+        "meaning": {
+          "vi": "bước chân, nhịp",
+          "en": "bước chân, nhịp"
+        },
+        "hanViet": [
+          "tú",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "足 (tú: chân thú) + 並 (bính: hợp, gồm) → bước chân, nhịp",
+          "en": "足 (tú: true beast) + 並 (binh: hop, include) → step, rhythm"
+        },
+        "romaji": "ashinami"
       },
       {
         "example": "軒並み",
         "reading": "のきなみ",
-        "meaning": "dãy nhà, mọi nhà, mọi cửa, tất cả"
+        "meaning": {
+          "vi": "dãy nhà, mọi nhà, mọi cửa, tất cả",
+          "en": "dãy nhà, mọi nhà, mọi cửa, tất cả"
+        },
+        "hanViet": [
+          "hiên",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "軒 (hiên: xe có mái che) + 並 (bính: hợp, gồm) → dãy nhà, mọi nhà, mọi cửa, tất cả",
+          "en": "軒 (porch: covered car) + 並 (bin: fit, include) → row of houses, every house, every door, all"
+        },
+        "romaji": "nokinami"
       },
       {
         "example": "並",
         "reading": "なみ",
-        "meaning": "trung bình, thường, bình thường, mỗi, hàng"
+        "meaning": {
+          "vi": "trung bình, thường, bình thường, mỗi, hàng",
+          "en": "trung bình, thường, bình thường, mỗi, hàng"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
+        },
+        "romaji": "nami"
       },
       {
         "example": "並木",
         "reading": "なみき",
-        "meaning": "cây ven đường, hàng cây"
+        "meaning": {
+          "vi": "cây ven đường, hàng cây",
+          "en": "cây ven đường, hàng cây"
+        },
+        "hanViet": [
+          "bính",
+          "mộc"
+        ],
+        "hanVietExplain": {
+          "vi": "並 (bính: hợp, gồm) + 木 (mộc: cây, gỗ) → cây ven đường, hàng cây",
+          "en": "並 (binh: hop, include) + 木 (wood: tree, wood) → roadside tree, row of trees"
+        },
+        "romaji": "namiki"
       },
       {
         "example": "足並み",
         "reading": "あしなみ",
-        "meaning": "bước chân, nhịp"
+        "meaning": {
+          "vi": "bước chân, nhịp",
+          "en": "bước chân, nhịp"
+        },
+        "hanViet": [
+          "tú",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "足 (tú: chân thú) + 並 (bính: hợp, gồm) → bước chân, nhịp",
+          "en": "足 (tú: true beast) + 並 (binh: hop, include) → step, rhythm"
+        },
+        "romaji": "ashinami"
       },
       {
         "example": "軒並み",
         "reading": "のきなみ",
-        "meaning": "dãy nhà, mọi nhà, mọi cửa, tất cả"
+        "meaning": {
+          "vi": "dãy nhà, mọi nhà, mọi cửa, tất cả",
+          "en": "dãy nhà, mọi nhà, mọi cửa, tất cả"
+        },
+        "hanViet": [
+          "hiên",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "軒 (hiên: xe có mái che) + 並 (bính: hợp, gồm) → dãy nhà, mọi nhà, mọi cửa, tất cả",
+          "en": "軒 (porch: covered car) + 並 (bin: fit, include) → row of houses, every house, every door, all"
+        },
+        "romaji": "nokinami"
       },
       {
         "example": "並べる",
         "reading": "ならべる",
-        "meaning": "xếp hàng, sắp xếp, liệt kê, ngang bằng"
+        "meaning": {
+          "vi": "xếp hàng, sắp xếp, liệt kê, ngang bằng",
+          "en": "xếp hàng, sắp xếp, liệt kê, ngang bằng"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
+        },
+        "romaji": "naraberu"
       },
       {
         "example": "並ぶ",
         "reading": "ならぶ",
-        "meaning": "xếp hàng, đứng hàng, sánh, ngang bằng"
+        "meaning": {
+          "vi": "xếp hàng, đứng hàng, sánh, ngang bằng",
+          "en": "xếp hàng, đứng hàng, sánh, ngang bằng"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
+        },
+        "romaji": "narabu"
       },
       {
         "example": "並びに",
         "reading": "ならびに",
-        "meaning": "và (cũng), cả ... và"
+        "meaning": {
+          "vi": "và (cũng), cả ... và",
+          "en": "và (cũng), cả ... và"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+          "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
+        },
+        "romaji": "narabini"
       }
     ],
     "radical": {
@@ -442,5 +677,19 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e26.gif",
     "uri": "https://jisho.org/search/%E4%B8%A6%23kanji"
+  },
+  "hanViet": [
+    "bính",
+    "tinh",
+    "tính",
+    "tịnh"
+  ],
+  "hanVietExplain": {
+    "vi": "bính: hợp, gồm, châu Tinh (Trung Quốc), bằng nhau, ngang nhau, đều",
+    "en": "bing: suitable, including, chau tinh (chinese), equal, equal, equal"
+  },
+  "meaning": {
+    "vi": "xếp hàng, bình thường",
+    "en": "line up, ordinary"
   }
 }

@@ -18,12 +18,18 @@
       {
         "example": "褶曲",
         "reading": "シュウキョク",
-        "meaning": "bend, geologic fold"
+        "meaning": {
+          "en": "bend, geologic fold"
+        },
+        "romaji": "shuukyoku"
       },
       {
         "example": "褶襞",
         "reading": "シュウヘキ",
-        "meaning": "folds (e.g. on a mountain)"
+        "meaning": {
+          "en": "folds (e.g. on a mountain)"
+        },
+        "romaji": "shuuheki"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08936.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8936.gif",
     "uri": "https://jisho.org/search/%E8%A4%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "triệp",
+    "tập",
+    "điệp"
+  ]
 }

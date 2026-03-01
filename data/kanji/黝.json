@@ -16,14 +16,20 @@
       {
         "example": "黝輝石",
         "reading": "ユウキセキ",
-        "meaning": "spodumen (khoáng vật)"
+        "meaning": {
+          "vi": "spodumen (khoáng vật)"
+        },
+        "romaji": "yuukiseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "青黒い",
         "reading": "あおぐろい",
-        "meaning": "đen pha xanh (như vết bầm), đen xanh"
+        "meaning": {
+          "vi": "đen pha xanh (như vết bầm), đen xanh"
+        },
+        "romaji": "aoguroi"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edd.gif",
     "uri": "https://jisho.org/search/%E9%BB%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "ửu"
+  ]
 }

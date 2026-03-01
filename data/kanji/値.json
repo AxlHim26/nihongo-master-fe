@@ -306,59 +306,92 @@
       {
         "example": "値",
         "reading": "チ",
-        "meaning": "level, value"
+        "meaning": {
+          "en": "level, value"
+        },
+        "romaji": "chi"
       },
       {
         "example": "値域",
         "reading": "チイキ",
-        "meaning": "range (of a function)"
+        "meaning": {
+          "en": "range (of a function)"
+        },
+        "romaji": "chiiki"
       },
       {
         "example": "経験値",
         "reading": "ケイケンチ",
-        "meaning": "amount of experience, experience level, experience point, exp, XP"
+        "meaning": {
+          "vi": "amount of experience, experience level, experience point, exp, XP"
+        },
+        "romaji": "keikenchi"
       },
       {
         "example": "閾値",
         "reading": "イキチ",
-        "meaning": "threshold (amount, dose, etc.)"
+        "meaning": {
+          "en": "threshold (amount, dose, etc.)"
+        },
+        "romaji": "ikichi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "値",
         "reading": "ね",
-        "meaning": "price, cost, value, worth, merit"
+        "meaning": {
+          "vi": "price, cost, value, worth, merit"
+        },
+        "romaji": "ne"
       },
       {
         "example": "値上がり",
         "reading": "ねあがり",
-        "meaning": "price increase, rise in price"
+        "meaning": {
+          "vi": "price increase, rise in price"
+        },
+        "romaji": "neagari"
       },
       {
         "example": "安値",
         "reading": "やすね",
-        "meaning": "low price"
+        "meaning": {
+          "vi": "low price"
+        },
+        "romaji": "yasune"
       },
       {
         "example": "底値",
         "reading": "そこね",
-        "meaning": "bottom price"
+        "meaning": {
+          "vi": "bottom price"
+        },
+        "romaji": "sokone"
       },
       {
         "example": "値",
         "reading": "あたい",
-        "meaning": "price, cost, value, worth, merit, value"
+        "meaning": {
+          "vi": "price, cost, value, worth, merit, value"
+        },
+        "romaji": "atai"
       },
       {
         "example": "値する",
         "reading": "あたいする",
-        "meaning": "to be worth, to be worthy of, to deserve, to merit"
+        "meaning": {
+          "en": "to be worth, to be worthy of, to deserve, to merit"
+        },
+        "romaji": "ataisuru"
       },
       {
         "example": "最初の値",
         "reading": "さいしょのあたい",
-        "meaning": "initial value"
+        "meaning": {
+          "en": "initial value"
+        },
+        "romaji": "saishonoatai"
       }
     ],
     "radical": {
@@ -379,5 +412,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05024.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5024.gif",
     "uri": "https://jisho.org/search/%E5%80%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "trị",
+    "trực"
+  ]
 }

@@ -17,34 +17,52 @@
       {
         "example": "琴",
         "reading": "コト",
-        "meaning": "đàn koto (13 dây Nhật Bản), nhạc cụ dây, đàn tranh Trung Quốc"
+        "meaning": {
+          "vi": "đàn koto (13 dây Nhật Bản), nhạc cụ dây, đàn tranh Trung Quốc"
+        },
+        "romaji": "koto"
       },
       {
         "example": "箏曲",
         "reading": "ソウキョク",
-        "meaning": "nhạc koto"
+        "meaning": {
+          "vi": "nhạc koto"
+        },
+        "romaji": "soukyoku"
       },
       {
         "example": "楽箏",
         "reading": "ガクソウ",
-        "meaning": "đàn koto cổ 13 dây dùng trong nhạc Nhã nhạc"
+        "meaning": {
+          "vi": "đàn koto cổ 13 dây dùng trong nhạc Nhã nhạc"
+        },
+        "romaji": "gakusou"
       },
       {
         "example": "俗箏",
         "reading": "ゾクソウ",
-        "meaning": "đàn koto hiện đại, nhạc koto hiện đại"
+        "meaning": {
+          "vi": "đàn koto hiện đại, nhạc koto hiện đại"
+        },
+        "romaji": "zokusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "琴",
         "reading": "こと",
-        "meaning": "đàn koto (13 dây Nhật Bản), nhạc cụ dây, đàn tranh Trung Quốc"
+        "meaning": {
+          "vi": "đàn koto (13 dây Nhật Bản), nhạc cụ dây, đàn tranh Trung Quốc"
+        },
+        "romaji": "koto"
       },
       {
         "example": "琴柱",
         "reading": "ことじ",
-        "meaning": "ngựa đàn koto"
+        "meaning": {
+          "vi": "ngựa đàn koto"
+        },
+        "romaji": "kotoji"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b5d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b5d.gif",
     "uri": "https://jisho.org/search/%E7%AD%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tranh"
+  ]
 }

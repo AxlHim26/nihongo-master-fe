@@ -276,34 +276,52 @@
       {
         "example": "途",
         "reading": "ト",
-        "meaning": "đường, tuyến"
+        "meaning": {
+          "vi": "đường, tuyến"
+        },
+        "romaji": "to"
       },
       {
         "example": "途上",
         "reading": "トジョウ",
-        "meaning": "trên đường, đang (phát triển, xây dựng...)"
+        "meaning": {
+          "vi": "trên đường, đang (phát triển, xây dựng...)"
+        },
+        "romaji": "tojou"
       },
       {
         "example": "使途",
         "reading": "シト",
-        "meaning": "mục đích chi tiêu, cách dùng hàng hóa"
+        "meaning": {
+          "vi": "mục đích chi tiêu, cách dùng hàng hóa"
+        },
+        "romaji": "shito"
       },
       {
         "example": "目処",
         "reading": "メド",
-        "meaning": "mục tiêu, triển vọng"
+        "meaning": {
+          "vi": "mục tiêu, triển vọng"
+        },
+        "romaji": "medo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "đường, lối, phố, hành trình, đạo lý, phương pháp"
+        "meaning": {
+          "vi": "đường, lối, phố, hành trình, đạo lý, phương pháp"
+        },
+        "romaji": "michi"
       },
       {
         "example": "冥き途",
         "reading": "くらきみち",
-        "meaning": "âm phủ, thế giới bên kia"
+        "meaning": {
+          "vi": "âm phủ, thế giới bên kia"
+        },
+        "romaji": "kurakimichi"
       }
     ],
     "radical": {
@@ -327,5 +345,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09014.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9014.gif",
     "uri": "https://jisho.org/search/%E9%80%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồ"
+  ]
 }

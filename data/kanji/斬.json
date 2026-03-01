@@ -21,19 +21,28 @@
       {
         "example": "斬",
         "reading": "ザン",
-        "meaning": "beheading, decapitation"
+        "meaning": {
+          "vi": "beheading, decapitation"
+        },
+        "romaji": "zan"
       },
       {
         "example": "斬新",
         "reading": "ザンシン",
-        "meaning": "novel, original, new, innovative"
+        "meaning": {
+          "en": "novel, original, new, innovative"
+        },
+        "romaji": "zanshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "斬る",
         "reading": "きる",
-        "meaning": "to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)"
+        "meaning": {
+          "vi": "to kill (a human) using a blade (sword, machete, knife, etc.), to slice (off), to lop (off), to cut (off)"
+        },
+        "romaji": "kiru"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ac.gif",
     "uri": "https://jisho.org/search/%E6%96%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "trảm"
+  ]
 }

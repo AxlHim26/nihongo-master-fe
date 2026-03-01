@@ -300,49 +300,76 @@
       {
         "example": "基",
         "reading": "キ",
-        "meaning": "group, (free) radical, counter for installed or mounted objects (e.g. stone lanterns, gravestones, satellites)"
+        "meaning": {
+          "vi": "group, (free) radical, counter for installed or mounted objects (e.g. stone lanterns, gravestones, satellites)"
+        },
+        "romaji": "ki"
       },
       {
         "example": "起因",
         "reading": "キイン",
-        "meaning": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+        "meaning": {
+          "en": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+        },
+        "romaji": "kiin"
       },
       {
         "example": "塩基",
         "reading": "エンキ",
-        "meaning": "base"
+        "meaning": {
+          "en": "base"
+        },
+        "romaji": "enki"
       },
       {
         "example": "加爾基",
         "reading": "カルキ",
-        "meaning": "chlorinated lime, calcium hypochlorite, chloride of lime, bleaching powder"
+        "meaning": {
+          "vi": "chlorinated lime, calcium hypochlorite, chloride of lime, bleaching powder"
+        },
+        "romaji": "karuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": {
+          "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        },
+        "romaji": "moto"
       },
       {
         "example": "基",
         "reading": "もとい",
-        "meaning": "basis, foundation, origin, source"
+        "meaning": {
+          "en": "basis, foundation, origin, source"
+        },
+        "romaji": "motoi"
       },
       {
         "example": "失敗は成功のもと",
         "reading": "しっぱいはせいこうのもと",
-        "meaning": "failure teaches success, failure is a stepping-stone to success"
+        "meaning": {
+          "vi": "failure teaches success, failure is a stepping-stone to success"
+        },
+        "romaji": "shippaihaseikounomoto"
       },
       {
         "example": "生兵法は大怪我のもと",
         "reading": "なまびょうほうはおおけがのもと",
-        "meaning": "a little learning is a dangerous thing"
+        "meaning": {
+          "en": "a little learning is a dangerous thing"
+        },
+        "romaji": "namabyouhouhaookeganomoto"
       },
       {
         "example": "基",
         "reading": "もとい",
-        "meaning": "basis, foundation, origin, source"
+        "meaning": {
+          "en": "basis, foundation, origin, source"
+        },
+        "romaji": "motoi"
       }
     ],
     "radical": {
@@ -359,5 +386,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57fa.gif",
     "uri": "https://jisho.org/search/%E5%9F%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ"
+  ]
 }

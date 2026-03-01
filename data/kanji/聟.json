@@ -17,17 +17,26 @@
       {
         "example": "婿",
         "reading": "むこ",
-        "meaning": "husband, groom, (one's) son-in-law"
+        "meaning": {
+          "en": "husband, groom, (one's) son-in-law"
+        },
+        "romaji": "muko"
       },
       {
         "example": "花婿",
         "reading": "はなむこ",
-        "meaning": "bridegroom"
+        "meaning": {
+          "en": "bridegroom"
+        },
+        "romaji": "hanamuko"
       },
       {
         "example": "相婿",
         "reading": "あいむこ",
-        "meaning": "brother-in-law"
+        "meaning": {
+          "en": "brother-in-law"
+        },
+        "romaji": "aimuko"
       }
     ],
     "radical": {
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0805f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/805f.gif",
     "uri": "https://jisho.org/search/%E8%81%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế"
+  ]
 }

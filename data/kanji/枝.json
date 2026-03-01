@@ -243,44 +243,68 @@
       {
         "example": "枝",
         "reading": "シ",
-        "meaning": "counter for long, thin things (i.e. swords)"
+        "meaning": {
+          "en": "counter for long, thin things (i.e. swords)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "枝葉",
         "reading": "エダハ",
-        "meaning": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        "meaning": {
+          "vi": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        },
+        "romaji": "edaha"
       },
       {
         "example": "整枝",
         "reading": "セイシ",
-        "meaning": "training (branches in horticulture)"
+        "meaning": {
+          "en": "training (branches in horticulture)"
+        },
+        "romaji": "seishi"
       },
       {
         "example": "茘枝",
         "reading": "レイシ",
-        "meaning": "litchi (Nephelium litchi), lychee, lichee, litchi nut, bitter melon (Momordica charantia), bitter gourd, Thais bronni (species of muricid gastropod)"
+        "meaning": {
+          "vi": "litchi (Nephelium litchi), lychee, lichee, litchi nut, bitter melon (Momordica charantia), bitter gourd, Thais bronni (species of muricid gastropod)"
+        },
+        "romaji": "reishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枝",
         "reading": "えだ",
-        "meaning": "branch, bough, limb, twig, sprig, spray"
+        "meaning": {
+          "vi": "branch, bough, limb, twig, sprig, spray"
+        },
+        "romaji": "eda"
       },
       {
         "example": "枝葉",
         "reading": "えだは",
-        "meaning": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        "meaning": {
+          "vi": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        },
+        "romaji": "edaha"
       },
       {
         "example": "若枝",
         "reading": "わかえだ",
-        "meaning": "young branch, shoot, sprig, scion"
+        "meaning": {
+          "vi": "young branch, shoot, sprig, scion"
+        },
+        "romaji": "wakaeda"
       },
       {
         "example": "細枝",
         "reading": "ほそえだ",
-        "meaning": "twig, wand"
+        "meaning": {
+          "en": "twig, wand"
+        },
+        "romaji": "hosoeda"
       }
     ],
     "radical": {
@@ -297,5 +321,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0679d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/679d.gif",
     "uri": "https://jisho.org/search/%E6%9E%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi",
+    "kì",
+    "kỳ"
+  ]
 }

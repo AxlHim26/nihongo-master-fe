@@ -345,44 +345,68 @@
       {
         "example": "朝",
         "reading": "チョウ",
-        "meaning": "dynasty, reign, period, epoch, age, court, North Korea"
+        "meaning": {
+          "vi": "dynasty, reign, period, epoch, age, court, North Korea"
+        },
+        "romaji": "chou"
       },
       {
         "example": "朝刊",
         "reading": "チョウカン",
-        "meaning": "morning newspaper"
+        "meaning": {
+          "vi": "morning newspaper"
+        },
+        "romaji": "choukan"
       },
       {
         "example": "本朝",
         "reading": "ホンチョウ",
-        "meaning": "this land, our country, Imperial Court of Japan"
+        "meaning": {
+          "vi": "this land, our country, Imperial Court of Japan"
+        },
+        "romaji": "honchou"
       },
       {
         "example": "王朝",
         "reading": "オウチョウ",
-        "meaning": "dynasty"
+        "meaning": {
+          "en": "dynasty"
+        },
+        "romaji": "ouchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朝",
         "reading": "あさ",
-        "meaning": "morning, breakfast"
+        "meaning": {
+          "en": "morning, breakfast"
+        },
+        "romaji": "asa"
       },
       {
         "example": "朝方",
         "reading": "あさがた",
-        "meaning": "early morning, early hours, early in the morning"
+        "meaning": {
+          "en": "early morning, early hours, early in the morning"
+        },
+        "romaji": "asagata"
       },
       {
         "example": "後の朝",
         "reading": "のちのあした",
-        "meaning": "the morning after (having slept together)"
+        "meaning": {
+          "vi": "the morning after (having slept together)"
+        },
+        "romaji": "nochinoashita"
       },
       {
         "example": "霜朝",
         "reading": "しもあさ",
-        "meaning": "frosty morning"
+        "meaning": {
+          "en": "frosty morning"
+        },
+        "romaji": "shimoasa"
       }
     ],
     "radical": {
@@ -398,5 +422,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0671d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/671d.gif",
     "uri": "https://jisho.org/search/%E6%9C%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "triêu",
+    "triều",
+    "trào"
+  ]
 }

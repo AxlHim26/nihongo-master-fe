@@ -14,17 +14,26 @@
       {
         "example": "鸞",
         "reading": "ラン",
-        "meaning": "loan (chim thần thoại Trung Quốc)"
+        "meaning": {
+          "vi": "loan (chim thần thoại Trung Quốc)"
+        },
+        "romaji": "ran"
       },
       {
         "example": "鸞鏡",
         "reading": "ランキョウ",
-        "meaning": "gương khắc chim thần thoại Trung Quốc ở mặt sau, (ở Nhật) nốt thứ 9 thang âm cổ (khoảng La thăng)"
+        "meaning": {
+          "vi": "gương khắc chim thần thoại Trung Quốc ở mặt sau, (ở Nhật) nốt thứ 9 thang âm cổ (khoảng La thăng)"
+        },
+        "romaji": "rankyou"
       },
       {
         "example": "青鸞",
         "reading": "セイラン",
-        "meaning": "gà lôi argus (Argusianus argus)"
+        "meaning": {
+          "vi": "gà lôi argus (Argusianus argus)"
+        },
+        "romaji": "seiran"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e1e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e1e.gif",
     "uri": "https://jisho.org/search/%E9%B8%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "loan"
+  ]
 }

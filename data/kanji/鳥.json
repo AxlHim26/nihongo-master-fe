@@ -275,10 +275,10 @@
     "rad_name_file": "tori",
     "kanji": {
       "character": "鳥",
-"meaning": {
-      "english": "bird, fowl, poultry",
-      "vietnamese": "chim, gia cầm"
-    },
+      "meaning": {
+        "english": "bird, fowl, poultry",
+        "vietnamese": "chim, gia cầm"
+      },
       "strokes": {
         "count": 11,
         "timings": [
@@ -370,44 +370,68 @@
       {
         "example": "鶏肉",
         "reading": "トリニク",
-        "meaning": "thịt gà, gia cầm, thịt chim"
+        "meaning": {
+          "vi": "thịt gà, gia cầm, thịt chim"
+        },
+        "romaji": "toriniku"
       },
       {
         "example": "鳥獣",
         "reading": "チョウジュウ",
-        "meaning": "chim và thú hoang dã, động vật hoang dã"
+        "meaning": {
+          "vi": "chim và thú hoang dã, động vật hoang dã"
+        },
+        "romaji": "choujuu"
       },
       {
         "example": "海鳥",
         "reading": "ウミドリ",
-        "meaning": "chim biển"
+        "meaning": {
+          "vi": "chim biển"
+        },
+        "romaji": "umidori"
       },
       {
         "example": "愛鳥",
         "reading": "アイチョウ",
-        "meaning": "chim cảnh"
+        "meaning": {
+          "vi": "chim cảnh"
+        },
+        "romaji": "aichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳥",
         "reading": "とり",
-        "meaning": "chim, thịt chim (đặc biệt thịt gà), gia cầm"
+        "meaning": {
+          "vi": "chim, thịt chim (đặc biệt thịt gà), gia cầm"
+        },
+        "romaji": "tori"
       },
       {
         "example": "鳥居",
         "reading": "とりい",
-        "meaning": "torii (cổng vòm đền Thần đạo)"
+        "meaning": {
+          "vi": "torii (cổng vòm đền Thần đạo)"
+        },
+        "romaji": "torii"
       },
       {
         "example": "焼き鳥",
         "reading": "やきとり",
-        "meaning": "yakitori, thịt gà (hoặc thịt bò/lợn) nướng xiên, chim nướng xiên, thua trắng trong nửa ván bài"
+        "meaning": {
+          "vi": "yakitori, thịt gà (hoặc thịt bò/lợn) nướng xiên, chim nướng xiên, thua trắng trong nửa ván bài"
+        },
+        "romaji": "yakitori"
       },
       {
         "example": "花鶏",
         "reading": "あとり",
-        "meaning": "chim brambling (Fringilla montifringilla)"
+        "meaning": {
+          "en": "chim brambling (Fringilla montifringilla)"
+        },
+        "romaji": "atori"
       }
     ],
     "radical": {
@@ -422,5 +446,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ce5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ce5.gif",
     "uri": "https://jisho.org/search/%E9%B3%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "điểu"
+  ]
 }

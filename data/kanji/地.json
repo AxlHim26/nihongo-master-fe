@@ -384,42 +384,66 @@
       {
         "example": "地",
         "reading": "チ",
-        "meaning": "earth, ground, land, soil, place, territory, bottom (of a package, book, etc.), earth (one of the five elements)"
+        "meaning": {
+          "vi": "earth, ground, land, soil, place, territory, bottom (of a package, book, etc.), earth (one of the five elements)"
+        },
+        "romaji": "chi"
       },
       {
         "example": "地位",
         "reading": "チイ",
-        "meaning": "(social) position, status, standing, position (in a company, organization, etc.), post, rank"
+        "meaning": {
+          "vi": "(social) position, status, standing, position (in a company, organization, etc.), post, rank"
+        },
+        "romaji": "chii"
       },
       {
         "example": "奥地",
         "reading": "オクチ",
-        "meaning": "interior, backwoods, hinterland, back regions"
+        "meaning": {
+          "en": "interior, backwoods, hinterland, back regions"
+        },
+        "romaji": "okuchi"
       },
       {
         "example": "対地",
         "reading": "タイチ",
-        "meaning": "towards the ground, with respect to the ground, ground (speed, attack, etc.)"
+        "meaning": {
+          "vi": "towards the ground, with respect to the ground, ground (speed, attack, etc.)"
+        },
+        "romaji": "taichi"
       },
       {
         "example": "地",
         "reading": "ジ",
-        "meaning": "ground, land, earth, soil, the region in question, the local area, skin, texture, fabric, material, weave, base, background, one's true nature, narrative (i.e. descriptive part of a story), real life, actuality, captured territory, noh chorus, accompaniment music (in Japanese dance), basic phrase (in Japanese music; usu. repetitive), base part (of multiple shamisens)"
+        "meaning": {
+          "vi": "ground, land, earth, soil, the region in question, the local area, skin, texture, fabric, material, weave, base, background, one's true nature, narrative (i.e. descriptive part of a story), real life, actuality, captured territory, noh chorus, accompaniment music (in Japanese dance), basic phrase (in Japanese music; usu. repetitive), base part (of multiple shamisens)"
+        },
+        "romaji": "ji"
       },
       {
         "example": "地合い",
         "reading": "ジアイ",
-        "meaning": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
+        "meaning": {
+          "vi": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
+        },
+        "romaji": "jiai"
       },
       {
         "example": "下地",
         "reading": "シタジ",
-        "meaning": "groundwork, foundation, inclination, aptitude, elementary knowledge (of), grounding (in), undercoat, first coat, soy sauce"
+        "meaning": {
+          "vi": "groundwork, foundation, inclination, aptitude, elementary knowledge (of), grounding (in), undercoat, first coat, soy sauce"
+        },
+        "romaji": "shitaji"
       },
       {
         "example": "築地",
         "reading": "ツイジ",
-        "meaning": "mud wall with a roof, roofed mud wall"
+        "meaning": {
+          "en": "mud wall with a roof, roofed mud wall"
+        },
+        "romaji": "tsuiji"
       }
     ],
     "kunyomiExamples": [],
@@ -435,5 +459,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05730.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5730.gif",
     "uri": "https://jisho.org/search/%E5%9C%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "địa"
+  ]
 }

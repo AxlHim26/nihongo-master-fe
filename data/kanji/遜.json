@@ -19,29 +19,44 @@
       {
         "example": "遜色",
         "reading": "ソンショク",
-        "meaning": "inferiority"
+        "meaning": {
+          "en": "inferiority"
+        },
+        "romaji": "sonshoku"
       },
       {
         "example": "遜色がある",
         "reading": "ソンショクガアル",
-        "meaning": "inferior to, suffering by comparison with, unable to compare with"
+        "meaning": {
+          "vi": "inferior to, suffering by comparison with, unable to compare with"
+        },
+        "romaji": "sonshokugaaru"
       },
       {
         "example": "不遜",
         "reading": "フソン",
-        "meaning": "haughty, arrogant, insolent, presumptuous"
+        "meaning": {
+          "vi": "haughty, arrogant, insolent, presumptuous"
+        },
+        "romaji": "fuson"
       },
       {
         "example": "尊大不遜",
         "reading": "ソンダイフソン",
-        "meaning": "arrogant and presumptuous, haughty arrogance, intolerable insolence"
+        "meaning": {
+          "vi": "arrogant and presumptuous, haughty arrogance, intolerable insolence"
+        },
+        "romaji": "sondaifuson"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謙る",
         "reading": "へりくだる",
-        "meaning": "to deprecate oneself and praise the listener, to abase oneself"
+        "meaning": {
+          "vi": "to deprecate oneself and praise the listener, to abase oneself"
+        },
+        "romaji": "herikudaru"
       }
     ],
     "radical": {
@@ -65,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0905c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/905c.gif",
     "uri": "https://jisho.org/search/%E9%81%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tốn"
+  ]
 }

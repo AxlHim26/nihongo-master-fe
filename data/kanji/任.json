@@ -360,34 +360,52 @@
       {
         "example": "任",
         "reading": "ニン",
-        "meaning": "obligation, duty, charge, responsibility"
+        "meaning": {
+          "vi": "obligation, duty, charge, responsibility"
+        },
+        "romaji": "nin"
       },
       {
         "example": "任意",
         "reading": "ニンイ",
-        "meaning": "optional, voluntary, arbitrary, random, discretionary, facultative, spontaneous, any, arbitrary"
+        "meaning": {
+          "vi": "optional, voluntary, arbitrary, random, discretionary, facultative, spontaneous, any, arbitrary"
+        },
+        "romaji": "nin'i"
       },
       {
         "example": "再任",
         "reading": "サイニン",
-        "meaning": "reappointment"
+        "meaning": {
+          "vi": "reappointment"
+        },
+        "romaji": "sainin"
       },
       {
         "example": "在任",
         "reading": "ザイニン",
-        "meaning": "being in office"
+        "meaning": {
+          "en": "being in office"
+        },
+        "romaji": "zainin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "任せる",
         "reading": "まかせる",
-        "meaning": "to leave (a matter, decision, etc. to someone), to entrust (to someone), to entrust (someone) with, to leave (to chance, one's imagination, etc.), to let (take its own course), to let (happen), to give (oneself to something), to use (money, strength, spare time, etc.) to the full, to use freely, to use without reserve"
+        "meaning": {
+          "vi": "to leave (a matter, decision, etc. to someone), to entrust (to someone), to entrust (someone) with, to leave (to chance, one's imagination, etc.), to let (take its own course), to let (happen), to give (oneself to something), to use (money, strength, spare time, etc.) to the full, to use freely, to use without reserve"
+        },
+        "romaji": "makaseru"
       },
       {
         "example": "任す",
         "reading": "まかす",
-        "meaning": "to entrust (to someone), to leave (in someone's hands)"
+        "meaning": {
+          "en": "to entrust (to someone), to leave (in someone's hands)"
+        },
+        "romaji": "makasu"
       }
     ],
     "radical": {
@@ -407,5 +425,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04efb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4efb.gif",
     "uri": "https://jisho.org/search/%E4%BB%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhiệm",
+    "nhâm",
+    "nhậm"
+  ]
 }

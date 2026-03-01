@@ -18,7 +18,10 @@
       {
         "example": "薬効",
         "reading": "ヤッコウ",
-        "meaning": "medical efficacy, effect of a medicine"
+        "meaning": {
+          "en": "medical efficacy, effect of a medicine"
+        },
+        "romaji": "yakkou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06548.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6548.gif",
     "uri": "https://jisho.org/search/%E6%95%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệu"
+  ]
 }

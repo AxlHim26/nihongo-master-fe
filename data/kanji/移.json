@@ -310,34 +310,52 @@
       {
         "example": "移行",
         "reading": "イコウ",
-        "meaning": "transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)"
+        "meaning": {
+          "vi": "transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)"
+        },
+        "romaji": "ikou"
       },
       {
         "example": "移管",
         "reading": "イカン",
-        "meaning": "transfer of control"
+        "meaning": {
+          "en": "transfer of control"
+        },
+        "romaji": "ikan"
       },
       {
         "example": "転移",
         "reading": "テンイ",
-        "meaning": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
+        "meaning": {
+          "vi": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
+        },
+        "romaji": "ten'i"
       },
       {
         "example": "変移",
         "reading": "ヘンイ",
-        "meaning": "change, alteration, transmutation, mutation"
+        "meaning": {
+          "en": "change, alteration, transmutation, mutation"
+        },
+        "romaji": "hen'i"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "移る",
         "reading": "うつる",
-        "meaning": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+        "meaning": {
+          "vi": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+        },
+        "romaji": "utsuru"
       },
       {
         "example": "移す",
         "reading": "うつす",
-        "meaning": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
+        "meaning": {
+          "vi": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
+        },
+        "romaji": "utsusu"
       }
     ],
     "radical": {
@@ -352,5 +370,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79fb.gif",
     "uri": "https://jisho.org/search/%E7%A7%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "dị",
+    "sỉ",
+    "xỉ"
+  ]
 }

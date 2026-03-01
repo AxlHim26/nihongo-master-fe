@@ -272,29 +272,44 @@
       {
         "example": "奏",
         "reading": "ソウ",
-        "meaning": "report to the emperor"
+        "meaning": {
+          "vi": "report to the emperor"
+        },
+        "romaji": "sou"
       },
       {
         "example": "奏功",
         "reading": "ソウコウ",
-        "meaning": "success, achievement, fruition"
+        "meaning": {
+          "en": "success, achievement, fruition"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "合奏",
         "reading": "ガッソウ",
-        "meaning": "ensemble (e.g. orchestra, chamber group, etc.), concert"
+        "meaning": {
+          "vi": "ensemble (e.g. orchestra, chamber group, etc.), concert"
+        },
+        "romaji": "gassou"
       },
       {
         "example": "四重奏",
         "reading": "シジュウソウ",
-        "meaning": "instrumental quartet"
+        "meaning": {
+          "en": "instrumental quartet"
+        },
+        "romaji": "shijuusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奏でる",
         "reading": "かなでる",
-        "meaning": "to play an instrument (esp. string instruments), to dance"
+        "meaning": {
+          "vi": "to play an instrument (esp. string instruments), to dance"
+        },
+        "romaji": "kanaderu"
       }
     ],
     "radical": {
@@ -312,5 +327,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0594f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/594f.gif",
     "uri": "https://jisho.org/search/%E5%A5%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấu",
+    "tấu"
+  ]
 }

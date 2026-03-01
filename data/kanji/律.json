@@ -300,37 +300,58 @@
       {
         "example": "律",
         "reading": "リツ",
-        "meaning": "law (esp. ancient East Asian criminal code), regulation, vinaya (rules for the monastic community), Ritsu (school of Buddhism), lüshi (style of Chinese poem), (musical) pitch, six odd-numbered notes of the ancient chromatic scale, Japanese seven-tone gagaku scale, similar to Dorian mode (corresponding to: re, mi, fa, so, la, ti, do), step (in traditional Eastern music, corresponding to a Western semitone)"
+        "meaning": {
+          "vi": "law (esp. ancient East Asian criminal code), regulation, vinaya (rules for the monastic community), Ritsu (school of Buddhism), lüshi (style of Chinese poem), (musical) pitch, six odd-numbered notes of the ancient chromatic scale, Japanese seven-tone gagaku scale, similar to Dorian mode (corresponding to: re, mi, fa, so, la, ti, do), step (in traditional Eastern music, corresponding to a Western semitone)"
+        },
+        "romaji": "ritsu"
       },
       {
         "example": "律令",
         "reading": "リツリョウ",
-        "meaning": "ritsuryō, criminal, administrative and civil codes of the Nara and Heian eras based on Chinese models"
+        "meaning": {
+          "en": "ritsuryō, criminal, administrative and civil codes of the Nara and Heian eras based on Chinese models"
+        },
+        "romaji": "ritsuryou"
       },
       {
         "example": "一律",
         "reading": "イチリツ",
-        "meaning": "uniform, even, across-the-board, equal"
+        "meaning": {
+          "en": "uniform, even, across-the-board, equal"
+        },
+        "romaji": "ichiritsu"
       },
       {
         "example": "自律",
         "reading": "ジリツ",
-        "meaning": "autonomy (in Kantian ethics), self-control"
+        "meaning": {
+          "en": "autonomy (in Kantian ethics), self-control"
+        },
+        "romaji": "jiritsu"
       },
       {
         "example": "律儀",
         "reading": "リチギ",
-        "meaning": "upright, honest, faithful, conscientious, sincere"
+        "meaning": {
+          "vi": "upright, honest, faithful, conscientious, sincere"
+        },
+        "romaji": "richigi"
       },
       {
         "example": "律義者",
         "reading": "リチギモノ",
-        "meaning": "honest person, conscientious person"
+        "meaning": {
+          "vi": "honest person, conscientious person"
+        },
+        "romaji": "richigimono"
       },
       {
         "example": "呂律",
         "reading": "ロレツ",
-        "meaning": "articulation"
+        "meaning": {
+          "en": "articulation"
+        },
+        "romaji": "roretsu"
       }
     ],
     "kunyomiExamples": [],
@@ -346,5 +367,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f8b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f8b.gif",
     "uri": "https://jisho.org/search/%E5%BE%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "luật"
+  ]
 }

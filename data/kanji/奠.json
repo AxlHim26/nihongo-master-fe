@@ -19,27 +19,42 @@
       {
         "example": "奠都",
         "reading": "テント",
-        "meaning": "transferring the capital"
+        "meaning": {
+          "vi": "transferring the capital"
+        },
+        "romaji": "tento"
       },
       {
         "example": "奉奠",
         "reading": "ホウテン",
-        "meaning": "humbly presenting something, reverently offering"
+        "meaning": {
+          "vi": "humbly presenting something, reverently offering"
+        },
+        "romaji": "houten"
       },
       {
         "example": "玉串奉奠",
         "reading": "タマグシホウテン",
-        "meaning": "reverentially offering a branch of the sacred tree"
+        "meaning": {
+          "en": "reverentially offering a branch of the sacred tree"
+        },
+        "romaji": "tamagushihouten"
       },
       {
         "example": "香典",
         "reading": "コウデン",
-        "meaning": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"
+        "meaning": {
+          "en": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"
+        },
+        "romaji": "kouden"
       },
       {
         "example": "乞巧奠",
         "reading": "キッコウデン",
-        "meaning": "Festival to Plead for Skills (progenitor festival of Tanabata)"
+        "meaning": {
+          "vi": "Festival to Plead for Skills (progenitor festival of Tanabata)"
+        },
+        "romaji": "kikkouden"
       }
     ],
     "kunyomiExamples": [],
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05960.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5960.gif",
     "uri": "https://jisho.org/search/%E5%A5%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "điện"
+  ]
 }

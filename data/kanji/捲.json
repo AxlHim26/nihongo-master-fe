@@ -20,49 +20,76 @@
       {
         "example": "捲縮",
         "reading": "ケンシュク",
-        "meaning": "crimp, crinkle, waviness"
+        "meaning": {
+          "vi": "crimp, crinkle, waviness"
+        },
+        "romaji": "kenshuku"
       },
       {
         "example": "捲土重来",
         "reading": "ケンドチョウライ",
-        "meaning": "recouping one's strength for a renewed attack, making another attempt with redoubled efforts"
+        "meaning": {
+          "vi": "recouping one's strength for a renewed attack, making another attempt with redoubled efforts"
+        },
+        "romaji": "kendochourai"
       },
       {
         "example": "席巻",
         "reading": "セッケン",
-        "meaning": "sweeping (over, across), conquering, overwhelming"
+        "meaning": {
+          "vi": "sweeping (over, across), conquering, overwhelming"
+        },
+        "romaji": "sekken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巻く",
         "reading": "まく",
-        "meaning": "to wind, to coil, to roll, to wear (e.g. turban, scarf), to envelope, to shroud, to outflank, to skirt, to link (verse), to move ahead (three hours, etc.), to move up"
+        "meaning": {
+          "vi": "to wind, to coil, to roll, to wear (e.g. turban, scarf), to envelope, to shroud, to outflank, to skirt, to link (verse), to move ahead (three hours, etc.), to move up"
+        },
+        "romaji": "maku"
       },
       {
         "example": "捲る",
         "reading": "まくる",
-        "meaning": "to turn up, to roll up (e.g. sleeves), to do over and over again, to do relentlessly, to do with reckless abandon, to do continuously, to stage a comeback (against) (in mahjong, horse racing, etc.), to come from behind"
+        "meaning": {
+          "vi": "to turn up, to roll up (e.g. sleeves), to do over and over again, to do relentlessly, to do with reckless abandon, to do continuously, to stage a comeback (against) (in mahjong, horse racing, etc.), to come from behind"
+        },
+        "romaji": "makuru"
       },
       {
         "example": "捲る",
         "reading": "まくる",
-        "meaning": "to turn up, to roll up (e.g. sleeves), to do over and over again, to do relentlessly, to do with reckless abandon, to do continuously, to stage a comeback (against) (in mahjong, horse racing, etc.), to come from behind"
+        "meaning": {
+          "vi": "to turn up, to roll up (e.g. sleeves), to do over and over again, to do relentlessly, to do with reckless abandon, to do continuously, to stage a comeback (against) (in mahjong, horse racing, etc.), to come from behind"
+        },
+        "romaji": "makuru"
       },
       {
         "example": "捲る",
         "reading": "まくる",
-        "meaning": "to turn up, to roll up (e.g. sleeves), to do over and over again, to do relentlessly, to do with reckless abandon, to do continuously, to stage a comeback (against) (in mahjong, horse racing, etc.), to come from behind"
+        "meaning": {
+          "vi": "to turn up, to roll up (e.g. sleeves), to do over and over again, to do relentlessly, to do with reckless abandon, to do continuously, to stage a comeback (against) (in mahjong, horse racing, etc.), to come from behind"
+        },
+        "romaji": "makuru"
       },
       {
         "example": "捲る",
         "reading": "めくる",
-        "meaning": "to turn over, to turn (pages), to leaf through (a book, etc.), to tear off, to strip off, to take off, to pull off (e.g. a blanket), to pull up (e.g. floorboards), to tear up"
+        "meaning": {
+          "vi": "to turn over, to turn (pages), to leaf through (a book, etc.), to tear off, to strip off, to take off, to pull off (e.g. a blanket), to pull up (e.g. floorboards), to tear up"
+        },
+        "romaji": "mekuru"
       },
       {
         "example": "捲れる",
         "reading": "まくれる",
-        "meaning": "to be turned up, to be turned inside out, to ride up, to be lifted (e.g. by wind)"
+        "meaning": {
+          "vi": "to be turned up, to be turned inside out, to ride up, to be lifted (e.g. by wind)"
+        },
+        "romaji": "makureru"
       }
     ],
     "radical": {
@@ -84,5 +111,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06372.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6372.gif",
     "uri": "https://jisho.org/search/%E6%8D%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyền",
+    "quyển"
+  ]
 }

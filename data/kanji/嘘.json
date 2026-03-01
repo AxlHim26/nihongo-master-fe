@@ -20,22 +20,34 @@
       {
         "example": "嘘",
         "reading": "うそ",
-        "meaning": "lie, fib, falsehood, untruth, mistake, error, unwise move, bad decision, no way!, unbelievable!, really?!"
+        "meaning": {
+          "en": "lie, fib, falsehood, untruth, mistake, error, unwise move, bad decision, no way!, unbelievable!, really?!"
+        },
+        "romaji": "uso"
       },
       {
         "example": "嘘つき",
         "reading": "うそつき",
-        "meaning": "liar, fibber, lying"
+        "meaning": {
+          "en": "liar, fibber, lying"
+        },
+        "romaji": "usotsuki"
       },
       {
         "example": "罪のない嘘",
         "reading": "つみのないうそ",
-        "meaning": "white lie, harmless lie, fib"
+        "meaning": {
+          "en": "white lie, harmless lie, fib"
+        },
+        "romaji": "tsuminonaiuso"
       },
       {
         "example": "大嘘",
         "reading": "おおうそ",
-        "meaning": "outrageous lie, outright lie"
+        "meaning": {
+          "en": "outrageous lie, outright lie"
+        },
+        "romaji": "oouso"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05618.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5618.gif",
     "uri": "https://jisho.org/search/%E5%98%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "hư"
+  ]
 }

@@ -269,29 +269,44 @@
       {
         "example": "募集",
         "reading": "ボシュウ",
-        "meaning": "recruitment, invitation, selection, advertisement, taking applications, raising (funds, donations, etc.), collection, subscription, solicitation, flotation (of shares, loans, etc.)"
+        "meaning": {
+          "vi": "recruitment, invitation, selection, advertisement, taking applications, raising (funds, donations, etc.), collection, subscription, solicitation, flotation (of shares, loans, etc.)"
+        },
+        "romaji": "boshuu"
       },
       {
         "example": "募金",
         "reading": "ボキン",
-        "meaning": "fundraising, collection of contributions, donating, donation, contribution"
+        "meaning": {
+          "en": "fundraising, collection of contributions, donating, donation, contribution"
+        },
+        "romaji": "bokin"
       },
       {
         "example": "公募",
         "reading": "コウボ",
-        "meaning": "public appeal (e.g. for contributions), public advertisement (of a post), open recruitment, public offering (of securities)"
+        "meaning": {
+          "vi": "public appeal (e.g. for contributions), public advertisement (of a post), open recruitment, public offering (of securities)"
+        },
+        "romaji": "koubo"
       },
       {
         "example": "急募",
         "reading": "キュウボ",
-        "meaning": "hurried recruitment, urgent recruitment"
+        "meaning": {
+          "en": "hurried recruitment, urgent recruitment"
+        },
+        "romaji": "kyuubo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "募る",
         "reading": "つのる",
-        "meaning": "to become stronger, to grow in intensity, to grow violent, to become worse, to invite contributions, etc., to solicit help, participation, etc., to recruit (e.g. soldiers)"
+        "meaning": {
+          "vi": "to become stronger, to grow in intensity, to grow violent, to become worse, to invite contributions, etc., to solicit help, participation, etc., to recruit (e.g. soldiers)"
+        },
+        "romaji": "tsunoru"
       }
     ],
     "radical": {
@@ -308,5 +323,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52df.gif",
     "uri": "https://jisho.org/search/%E5%8B%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộ"
+  ]
 }

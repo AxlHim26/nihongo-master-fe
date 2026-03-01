@@ -18,29 +18,44 @@
       {
         "example": "昴",
         "reading": "スバル",
-        "meaning": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        "meaning": {
+          "vi": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        },
+        "romaji": "subaru"
       },
       {
         "example": "昴宿",
         "reading": "ボウシュク",
-        "meaning": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        "meaning": {
+          "vi": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        },
+        "romaji": "boushuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "昴",
         "reading": "すばる",
-        "meaning": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        "meaning": {
+          "vi": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        },
+        "romaji": "subaru"
       },
       {
         "example": "昴星",
         "reading": "ぼうせい",
-        "meaning": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        "meaning": {
+          "vi": "chòm Thất Tinh (một trong 28 tú), Pleiades, Bảy Chị Em"
+        },
+        "romaji": "bousei"
       },
       {
         "example": "寒昴",
         "reading": "かんすばる",
-        "meaning": "Thất Tinh (đặc biệt mùa đông)"
+        "meaning": {
+          "vi": "Thất Tinh (đặc biệt mùa đông)"
+        },
+        "romaji": "kansubaru"
       }
     ],
     "radical": {
@@ -55,5 +70,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06634.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6634.gif",
     "uri": "https://jisho.org/search/%E6%98%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "mão"
+  ]
 }

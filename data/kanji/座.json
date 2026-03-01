@@ -357,29 +357,44 @@
       {
         "example": "座",
         "reading": "ザ",
-        "meaning": "seat, place, position, status, gathering, party, company, atmosphere (of a gathering), stand, pedestal, platform, trade guild, attaches to the names of constellations, attaches to the names of theatres, cinemas and theatrical troupes, counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs"
+        "meaning": {
+          "vi": "seat, place, position, status, gathering, party, company, atmosphere (of a gathering), stand, pedestal, platform, trade guild, attaches to the names of constellations, attaches to the names of theatres, cinemas and theatrical troupes, counter for theatres, deities, Buddhist images, tall mountains, and satokagura songs"
+        },
+        "romaji": "za"
       },
       {
         "example": "座敷",
         "reading": "ザシキ",
-        "meaning": "tatami room, tatami mat room, formal Japanese room, dinner party in a tatami room (esp. when a geisha or maiko attends)"
+        "meaning": {
+          "vi": "tatami room, tatami mat room, formal Japanese room, dinner party in a tatami room (esp. when a geisha or maiko attends)"
+        },
+        "romaji": "zashiki"
       },
       {
         "example": "連座",
         "reading": "レンザ",
-        "meaning": "implication (in a crime), involvement, sitting in a row (in the same seat)"
+        "meaning": {
+          "vi": "implication (in a crime), involvement, sitting in a row (in the same seat)"
+        },
+        "romaji": "renza"
       },
       {
         "example": "同坐",
         "reading": "ドウザ",
-        "meaning": "sitting together, the same theater (theatre), involvement, entanglement, implication"
+        "meaning": {
+          "vi": "sitting together, the same theater (theatre), involvement, entanglement, implication"
+        },
+        "romaji": "douza"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "座る",
         "reading": "すわる",
-        "meaning": "to sit, to squat, to assume (a position), to hold steady, to hold still"
+        "meaning": {
+          "vi": "to sit, to squat, to assume (a position), to hold steady, to hold still"
+        },
+        "romaji": "suwaru"
       }
     ],
     "radical": {
@@ -396,5 +411,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ea7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ea7.gif",
     "uri": "https://jisho.org/search/%E5%BA%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "toà",
+    "toạ"
+  ]
 }

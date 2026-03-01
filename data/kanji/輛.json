@@ -14,12 +14,18 @@
       {
         "example": "輛",
         "reading": "リョウ",
-        "meaning": "lượng từ cho toa xe, cho xe"
+        "meaning": {
+          "vi": "lượng từ cho toa xe, cho xe"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "一両",
         "reading": "イチリョウ",
-        "meaning": "một xe, một ryō (đồng xu xưa)"
+        "meaning": {
+          "vi": "một xe, một ryō (đồng xu xưa)"
+        },
+        "romaji": "ichiryou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f1b.gif",
     "uri": "https://jisho.org/search/%E8%BC%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "lượng",
+    "lạng"
+  ]
 }

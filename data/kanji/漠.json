@@ -17,22 +17,34 @@
       {
         "example": "漠",
         "reading": "バク",
-        "meaning": "vague, obscure, vast, boundless"
+        "meaning": {
+          "en": "vague, obscure, vast, boundless"
+        },
+        "romaji": "baku"
       },
       {
         "example": "漠然",
         "reading": "バクゼン",
-        "meaning": "vague, obscure, indistinct, hazy, ambiguous"
+        "meaning": {
+          "en": "vague, obscure, indistinct, hazy, ambiguous"
+        },
+        "romaji": "bakuzen"
       },
       {
         "example": "冥漠",
         "reading": "メイバク",
-        "meaning": "dim and distant"
+        "meaning": {
+          "en": "dim and distant"
+        },
+        "romaji": "meibaku"
       },
       {
         "example": "空漠",
         "reading": "クウバク",
-        "meaning": "vast, boundless, vague"
+        "meaning": {
+          "en": "vast, boundless, vague"
+        },
+        "romaji": "kuubaku"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f20.gif",
     "uri": "https://jisho.org/search/%E6%BC%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạc"
+  ]
 }

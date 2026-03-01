@@ -16,7 +16,10 @@
       {
         "example": "曲録",
         "reading": "キョクロク",
-        "meaning": "round-backed chair used by a priest during a memorial service"
+        "meaning": {
+          "vi": "round-backed chair used by a priest during a memorial service"
+        },
+        "romaji": "kyokuroku"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f54.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f54.gif",
     "uri": "https://jisho.org/search/%E5%BD%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "lục"
+  ]
 }

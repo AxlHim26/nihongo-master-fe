@@ -18,29 +18,44 @@
       {
         "example": "佩",
         "reading": "ハイ",
-        "meaning": "type of ancient oriental belt, counter for swords"
+        "meaning": {
+          "vi": "type of ancient oriental belt, counter for swords"
+        },
+        "romaji": "hai"
       },
       {
         "example": "佩剣",
         "reading": "ハイケン",
-        "meaning": "wearing a sword"
+        "meaning": {
+          "en": "wearing a sword"
+        },
+        "romaji": "haiken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "履く",
         "reading": "はく",
-        "meaning": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"
+        "meaning": {
+          "vi": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"
+        },
+        "romaji": "haku"
       },
       {
         "example": "帯びる",
         "reading": "おびる",
-        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        "meaning": {
+          "vi": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        },
+        "romaji": "obiru"
       },
       {
         "example": "佩びる",
         "reading": "おびる",
-        "meaning": "to wear, to put on (a sword)"
+        "meaning": {
+          "vi": "to wear, to put on (a sword)"
+        },
+        "romaji": "obiru"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f69.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f69.gif",
     "uri": "https://jisho.org/search/%E4%BD%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "bội"
+  ]
 }

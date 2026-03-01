@@ -18,34 +18,52 @@
       {
         "example": "大阪桐蔭",
         "reading": "オオサカトウイン",
-        "meaning": "Osaka Tōin Junior and Senior High School (abbr)"
+        "meaning": {
+          "en": "Osaka Tōin Junior and Senior High School (abbr)"
+        },
+        "romaji": "oosakatouin"
       },
       {
         "example": "緑陰",
         "reading": "リョクイン",
-        "meaning": "shade of trees"
+        "meaning": {
+          "en": "shade of trees"
+        },
+        "romaji": "ryokuin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陰",
         "reading": "かげ",
-        "meaning": "shade, shadow, behind (something), other side, back, the background, behind the scenes, behind someone's back, gloom (in someone's expression, nature, etc.), darkness"
+        "meaning": {
+          "vi": "shade, shadow, behind (something), other side, back, the background, behind the scenes, behind someone's back, gloom (in someone's expression, nature, etc.), darkness"
+        },
+        "romaji": "kage"
       },
       {
         "example": "陰口",
         "reading": "かげぐち",
-        "meaning": "malicious gossip, backbiting, speaking ill behind someone's back"
+        "meaning": {
+          "vi": "malicious gossip, backbiting, speaking ill behind someone's back"
+        },
+        "romaji": "kageguchi"
       },
       {
         "example": "物陰",
         "reading": "ものかげ",
-        "meaning": "place hidden from view, cover, shelter, hiding place"
+        "meaning": {
+          "vi": "place hidden from view, cover, shelter, hiding place"
+        },
+        "romaji": "monokage"
       },
       {
         "example": "小陰",
         "reading": "こかげ",
-        "meaning": "small hiding place, nook"
+        "meaning": {
+          "vi": "small hiding place, nook"
+        },
+        "romaji": "kokage"
       }
     ],
     "radical": {
@@ -67,5 +85,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852d.gif",
     "uri": "https://jisho.org/search/%E8%94%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "âm",
+    "ấm"
+  ]
 }

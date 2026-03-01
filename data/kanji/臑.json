@@ -20,12 +20,18 @@
       {
         "example": "脛",
         "reading": "すね",
-        "meaning": "shin, shank, lower leg"
+        "meaning": {
+          "en": "shin, shank, lower leg"
+        },
+        "romaji": "sune"
       },
       {
         "example": "すね当て",
         "reading": "すねあて",
-        "meaning": "shin guards, shin pads, greaves, leggings"
+        "meaning": {
+          "vi": "shin guards, shin pads, greaves, leggings"
+        },
+        "romaji": "suneate"
       }
     ],
     "radical": {
@@ -44,5 +50,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d1.gif",
     "uri": "https://jisho.org/search/%E8%87%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "nao",
+    "nhi",
+    "nhu",
+    "noãn",
+    "nê",
+    "nạo",
+    "nộn"
+  ]
 }

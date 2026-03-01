@@ -21,27 +21,42 @@
       {
         "example": "葛",
         "reading": "くず",
-        "meaning": "kudzu (Pueraria montana), Japanese arrowroot, Chinese moonseed (Sinomenium acutum)"
+        "meaning": {
+          "vi": "kudzu (Pueraria montana), Japanese arrowroot, Chinese moonseed (Sinomenium acutum)"
+        },
+        "romaji": "kuzu"
       },
       {
         "example": "葛籠",
         "reading": "つづら",
-        "meaning": "wicker clothes hamper"
+        "meaning": {
+          "vi": "wicker clothes hamper"
+        },
+        "romaji": "tsuzura"
       },
       {
         "example": "熊葛",
         "reading": "くまつづら",
-        "meaning": "common vervain (Verbena officinalis), common verbena"
+        "meaning": {
+          "en": "common vervain (Verbena officinalis), common verbena"
+        },
+        "romaji": "kumatsuzura"
       },
       {
         "example": "葛",
         "reading": "くず",
-        "meaning": "kudzu (Pueraria montana), Japanese arrowroot, Chinese moonseed (Sinomenium acutum)"
+        "meaning": {
+          "vi": "kudzu (Pueraria montana), Japanese arrowroot, Chinese moonseed (Sinomenium acutum)"
+        },
+        "romaji": "kuzu"
       },
       {
         "example": "葛餡",
         "reading": "くずあん",
-        "meaning": "kudzu sauce"
+        "meaning": {
+          "en": "kudzu sauce"
+        },
+        "romaji": "kuzuan"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0845b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/845b.gif",
     "uri": "https://jisho.org/search/%E8%91%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cát"
+  ]
 }

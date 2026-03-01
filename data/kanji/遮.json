@@ -19,24 +19,36 @@
       {
         "example": "遮断機",
         "reading": "シャダンキ",
-        "meaning": "(railway) crossing gate, barrier (at a toll booth, parking lot, etc.)"
+        "meaning": {
+          "vi": "(railway) crossing gate, barrier (at a toll booth, parking lot, etc.)"
+        },
+        "romaji": "shadanki"
       },
       {
         "example": "遮断器",
         "reading": "シャダンキ",
-        "meaning": "circuit breaker"
+        "meaning": {
+          "en": "circuit breaker"
+        },
+        "romaji": "shadanki"
       },
       {
         "example": "間遮",
         "reading": "アイシャ",
-        "meaning": "piece placed to block opponent's check, interposed piece"
+        "meaning": {
+          "vi": "piece placed to block opponent's check, interposed piece"
+        },
+        "romaji": "aisha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遮る",
         "reading": "さえぎる",
-        "meaning": "to interrupt, to obstruct (a view, someone's way, etc.), to block (light, wind, etc.), to intercept, to cut off"
+        "meaning": {
+          "vi": "to interrupt, to obstruct (a view, someone's way, etc.), to block (light, wind, etc.), to intercept, to cut off"
+        },
+        "romaji": "saegiru"
       }
     ],
     "radical": {
@@ -58,5 +70,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906e.gif",
     "uri": "https://jisho.org/search/%E9%81%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "già"
+  ]
 }

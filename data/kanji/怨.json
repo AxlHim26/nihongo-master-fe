@@ -22,59 +22,92 @@
       {
         "example": "怨言",
         "reading": "エンゲン",
-        "meaning": "grudge, complaint, reproach"
+        "meaning": {
+          "vi": "grudge, complaint, reproach"
+        },
+        "romaji": "engen"
       },
       {
         "example": "怨恨",
         "reading": "エンコン",
-        "meaning": "enmity, grudge"
+        "meaning": {
+          "en": "enmity, grudge"
+        },
+        "romaji": "enkon"
       },
       {
         "example": "旧怨",
         "reading": "キュウエン",
-        "meaning": "old grudge"
+        "meaning": {
+          "en": "old grudge"
+        },
+        "romaji": "kyuuen"
       },
       {
         "example": "宿怨",
         "reading": "シュクエン",
-        "meaning": "old grudge, old score"
+        "meaning": {
+          "en": "old grudge, old score"
+        },
+        "romaji": "shukuen"
       },
       {
         "example": "怨霊",
         "reading": "オンリョウ",
-        "meaning": "revengeful ghost, apparition"
+        "meaning": {
+          "vi": "revengeful ghost, apparition"
+        },
+        "romaji": "onryou"
       },
       {
         "example": "怨念",
         "reading": "オンネン",
-        "meaning": "deep-seated grudge, hatred"
+        "meaning": {
+          "vi": "deep-seated grudge, hatred"
+        },
+        "romaji": "onnen"
       },
       {
         "example": "呪怨",
         "reading": "ジュウオン",
-        "meaning": "Ju-on, The Grudge (Japanese horror movie)"
+        "meaning": {
+          "vi": "Ju-on, The Grudge (Japanese horror movie)"
+        },
+        "romaji": "juuon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恨む",
         "reading": "うらむ",
-        "meaning": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards"
+        "meaning": {
+          "en": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards"
+        },
+        "romaji": "uramu"
       },
       {
         "example": "恨み",
         "reading": "うらみ",
-        "meaning": "resentment, grudge, malice, bitterness, matter for regret, regret"
+        "meaning": {
+          "en": "resentment, grudge, malice, bitterness, matter for regret, regret"
+        },
+        "romaji": "urami"
       },
       {
         "example": "恨み言",
         "reading": "うらみごと",
-        "meaning": "grudge, complaint, reproach"
+        "meaning": {
+          "vi": "grudge, complaint, reproach"
+        },
+        "romaji": "uramigoto"
       },
       {
         "example": "恨めしい",
         "reading": "うらめしい",
-        "meaning": "reproachful, hateful, bitter"
+        "meaning": {
+          "vi": "reproachful, hateful, bitter"
+        },
+        "romaji": "urameshii"
       }
     ],
     "radical": {
@@ -94,5 +127,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06028.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6028.gif",
     "uri": "https://jisho.org/search/%E6%80%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "oán",
+    "uẩn"
+  ]
 }

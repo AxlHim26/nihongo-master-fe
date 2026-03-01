@@ -19,34 +19,52 @@
       {
         "example": "肝",
         "reading": "キモ",
-        "meaning": "gan, nội tạng, can đảm, điểm then chốt"
+        "meaning": {
+          "vi": "gan, nội tạng, can đảm, điểm then chốt"
+        },
+        "romaji": "kimo"
       },
       {
         "example": "胆石",
         "reading": "タンセキ",
-        "meaning": "sỏi mật"
+        "meaning": {
+          "vi": "sỏi mật"
+        },
+        "romaji": "tanseki"
       },
       {
         "example": "魂胆",
         "reading": "コンタン",
-        "meaning": "ý đồ ẩn, âm mưu, tình huống phức tạp"
+        "meaning": {
+          "vi": "ý đồ ẩn, âm mưu, tình huống phức tạp"
+        },
+        "romaji": "kontan"
       },
       {
         "example": "豪胆",
         "reading": "ゴウタン",
-        "meaning": "táo bạo, dũng cảm"
+        "meaning": {
+          "vi": "táo bạo, dũng cảm"
+        },
+        "romaji": "goutan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肝",
         "reading": "きも",
-        "meaning": "gan, nội tạng, can đảm, điểm then chốt"
+        "meaning": {
+          "vi": "gan, nội tạng, can đảm, điểm then chốt"
+        },
+        "romaji": "kimo"
       },
       {
         "example": "肝いり",
         "reading": "きもいり",
-        "meaning": "bảo trợ, giúp đỡ, quan làng (thời Edo)"
+        "meaning": {
+          "vi": "bảo trợ, giúp đỡ, quan làng (thời Edo)"
+        },
+        "romaji": "kimoiri"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c6.gif",
     "uri": "https://jisho.org/search/%E8%83%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàn",
+    "đảm"
+  ]
 }

@@ -15,7 +15,10 @@
       {
         "example": "臚列",
         "reading": "ロレツ",
-        "meaning": "lined up in a row"
+        "meaning": {
+          "vi": "lined up in a row"
+        },
+        "romaji": "roretsu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81da.gif",
     "uri": "https://jisho.org/search/%E8%87%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô",
+    "lư",
+    "phu"
+  ]
 }

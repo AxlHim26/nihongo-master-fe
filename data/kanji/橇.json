@@ -19,34 +19,50 @@
       {
         "example": "橇行",
         "reading": "キョウコウ",
-        "meaning": "traveling by sleigh"
+        "meaning": {
+          "en": "traveling by sleigh"
+        },
+        "romaji": "kyoukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ソリ】",
         "reading": "sleigh, sled, sledge",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "sleigh, sled, sledge"
       },
       {
         "example": "そり滑り",
         "reading": "そりすべり",
-        "meaning": "sledding, sledging"
+        "meaning": {
+          "en": "sledding, sledging"
+        },
+        "romaji": "sorisuberi"
       },
       {
         "example": "馬そり",
         "reading": "ばそり",
-        "meaning": "horse-drawn sleigh"
+        "meaning": {
+          "en": "horse-drawn sleigh"
+        },
+        "romaji": "basori"
       },
       {
         "example": "尾橇",
         "reading": "びそり",
-        "meaning": "tail skid (aircraft)"
+        "meaning": {
+          "en": "tail skid (aircraft)"
+        },
+        "romaji": "bisori"
       },
       {
         "example": "橇",
         "reading": "かんじき",
-        "meaning": "snowshoes"
+        "meaning": {
+          "en": "snowshoes"
+        },
+        "romaji": "kanjiki"
       }
     ],
     "radical": {
@@ -61,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a47.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a47.gif",
     "uri": "https://jisho.org/search/%E6%A9%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiêu",
+    "tuyệt"
+  ]
 }

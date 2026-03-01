@@ -312,59 +312,92 @@
       {
         "example": "潮流",
         "reading": "チョウリュウ",
-        "meaning": "tide, tidal current, tendency, drift, trend"
+        "meaning": {
+          "en": "tide, tidal current, tendency, drift, trend"
+        },
+        "romaji": "chouryuu"
       },
       {
         "example": "潮位",
         "reading": "チョウイ",
-        "meaning": "tide level"
+        "meaning": {
+          "en": "tide level"
+        },
+        "romaji": "choui"
       },
       {
         "example": "思潮",
         "reading": "シチョウ",
-        "meaning": "trend of thought"
+        "meaning": {
+          "en": "trend of thought"
+        },
+        "romaji": "shichou"
       },
       {
         "example": "退潮",
         "reading": "タイチョウ",
-        "meaning": "ebb tide, waning fortunes"
+        "meaning": {
+          "en": "ebb tide, waning fortunes"
+        },
+        "romaji": "taichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "潮",
         "reading": "しお",
-        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        "meaning": {
+          "vi": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        },
+        "romaji": "shio"
       },
       {
         "example": "潮風",
         "reading": "しおかぜ",
-        "meaning": "salty sea breeze, salt wind"
+        "meaning": {
+          "en": "salty sea breeze, salt wind"
+        },
+        "romaji": "shiokaze"
       },
       {
         "example": "黒潮",
         "reading": "くろしお",
-        "meaning": "Kuroshio Current, Japan Current"
+        "meaning": {
+          "vi": "Kuroshio Current, Japan Current"
+        },
+        "romaji": "kuroshio"
       },
       {
         "example": "赤潮",
         "reading": "あかしお",
-        "meaning": "red tide"
+        "meaning": {
+          "en": "red tide"
+        },
+        "romaji": "akashio"
       },
       {
         "example": "潮",
         "reading": "しお",
-        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        "meaning": {
+          "vi": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        },
+        "romaji": "shio"
       },
       {
         "example": "潮汁",
         "reading": "うしおじる",
-        "meaning": "thin soup of fish or shellfish boiled in seawater"
+        "meaning": {
+          "vi": "thin soup of fish or shellfish boiled in seawater"
+        },
+        "romaji": "ushiojiru"
       },
       {
         "example": "夕潮",
         "reading": "ゆうしお",
-        "meaning": "evening tide"
+        "meaning": {
+          "en": "evening tide"
+        },
+        "romaji": "yuushio"
       }
     ],
     "radical": {
@@ -385,5 +418,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6e.gif",
     "uri": "https://jisho.org/search/%E6%BD%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "triều",
+    "trào"
+  ]
 }

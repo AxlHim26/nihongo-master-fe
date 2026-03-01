@@ -344,54 +344,84 @@
       {
         "example": "装",
         "reading": "ソウ",
-        "meaning": "clothing, dressing, binding (of a book)"
+        "meaning": {
+          "en": "clothing, dressing, binding (of a book)"
+        },
+        "romaji": "sou"
       },
       {
         "example": "装甲",
         "reading": "ソウコウ",
-        "meaning": "armoring, armouring, armor, armour"
+        "meaning": {
+          "en": "armoring, armouring, armor, armour"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "新装",
         "reading": "シンソウ",
-        "meaning": "redecoration, remodelling, remodeling, refurbishment"
+        "meaning": {
+          "en": "redecoration, remodelling, remodeling, refurbishment"
+        },
+        "romaji": "shinsou"
       },
       {
         "example": "偽装",
         "reading": "ギソウ",
-        "meaning": "camouflage, disguise, pretense, feigning, masquerade"
+        "meaning": {
+          "vi": "camouflage, disguise, pretense, feigning, masquerade"
+        },
+        "romaji": "gisou"
       },
       {
         "example": "装束",
         "reading": "ショウゾク",
-        "meaning": "costume, dress, attire"
+        "meaning": {
+          "en": "costume, dress, attire"
+        },
+        "romaji": "shouzoku"
       },
       {
         "example": "装束能",
         "reading": "ショウゾクノウ",
-        "meaning": "formal noh performed in full costume"
+        "meaning": {
+          "vi": "formal noh performed in full costume"
+        },
+        "romaji": "shouzokunou"
       },
       {
         "example": "舞台衣装",
         "reading": "ブタイイショウ",
-        "meaning": "(theatrical) costumes"
+        "meaning": {
+          "en": "(theatrical) costumes"
+        },
+        "romaji": "butaiishou"
       },
       {
         "example": "舞衣装",
         "reading": "マイイショウ",
-        "meaning": "dancing costume"
+        "meaning": {
+          "en": "dancing costume"
+        },
+        "romaji": "maiishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "装う",
         "reading": "よそおう",
-        "meaning": "to dress (oneself in), to attire oneself in, to adorn, to decorate, to pretend, to feign, to affect, to disguise oneself as"
+        "meaning": {
+          "vi": "to dress (oneself in), to attire oneself in, to adorn, to decorate, to pretend, to feign, to affect, to disguise oneself as"
+        },
+        "romaji": "yosoou"
       },
       {
         "example": "装い",
         "reading": "よそおい",
-        "meaning": "dress, outfit, equipment, makeup, adornment, guise, get-up"
+        "meaning": {
+          "vi": "dress, outfit, equipment, makeup, adornment, guise, get-up"
+        },
+        "romaji": "yosooi"
       }
     ],
     "radical": {
@@ -411,5 +441,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88c5.gif",
     "uri": "https://jisho.org/search/%E8%A3%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "trang"
+  ]
 }

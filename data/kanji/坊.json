@@ -297,32 +297,50 @@
       {
         "example": "坊",
         "reading": "ボウ",
-        "meaning": "bonze, monk, monk's dwelling, boy, son, sonny, I, me, little, person who is ..."
+        "meaning": {
+          "vi": "bonze, monk, monk's dwelling, boy, son, sonny, I, me, little, person who is ..."
+        },
+        "romaji": "bou"
       },
       {
         "example": "坊さん",
         "reading": "ボウサン",
-        "meaning": "Buddhist priest, monk, boy"
+        "meaning": {
+          "vi": "Buddhist priest, monk, boy"
+        },
+        "romaji": "bousan"
       },
       {
         "example": "本因坊",
         "reading": "ホンインボウ",
-        "meaning": "Hon'inbō, Honinbo, grandmaster"
+        "meaning": {
+          "en": "Hon'inbō, Honinbo, grandmaster"
+        },
+        "romaji": "hon'inbou"
       },
       {
         "example": "厨房",
         "reading": "チュウボウ",
-        "meaning": "kitchen, galley, (Internet) troll"
+        "meaning": {
+          "en": "kitchen, galley, (Internet) troll"
+        },
+        "romaji": "chuubou"
       },
       {
         "example": "坊ちゃん",
         "reading": "ボッチャン",
-        "meaning": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world"
+        "meaning": {
+          "en": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world"
+        },
+        "romaji": "botchan"
       },
       {
         "example": "坊ちゃま",
         "reading": "ボッチャマ",
-        "meaning": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world"
+        "meaning": {
+          "en": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world"
+        },
+        "romaji": "botchama"
       }
     ],
     "kunyomiExamples": [],
@@ -338,5 +356,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0574a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/574a.gif",
     "uri": "https://jisho.org/search/%E5%9D%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "phòng",
+    "phường"
+  ]
 }

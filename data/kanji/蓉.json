@@ -15,12 +15,18 @@
       {
         "example": "芙蓉",
         "reading": "フヨウ",
-        "meaning": "cotton rose (Hibiscus mutabilis), Confederate rose, dixie rosemallow, lotus blossom"
+        "meaning": {
+          "en": "cotton rose (Hibiscus mutabilis), Confederate rose, dixie rosemallow, lotus blossom"
+        },
+        "romaji": "fuyou"
       },
       {
         "example": "阿芙蓉",
         "reading": "アフヨウ",
-        "meaning": "poppy"
+        "meaning": {
+          "vi": "poppy"
+        },
+        "romaji": "afuyou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84c9.gif",
     "uri": "https://jisho.org/search/%E8%93%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "dong",
+    "dung"
+  ]
 }

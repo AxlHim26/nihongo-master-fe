@@ -260,24 +260,36 @@
       {
         "example": "沸々",
         "reading": "フツフツ",
-        "meaning": "simmer, bubble out, flow out"
+        "meaning": {
+          "en": "simmer, bubble out, flow out"
+        },
+        "romaji": "futsufutsu"
       },
       {
         "example": "沸々",
         "reading": "フツフツ",
-        "meaning": "simmer, bubble out, flow out"
+        "meaning": {
+          "en": "simmer, bubble out, flow out"
+        },
+        "romaji": "futsufutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沸く",
         "reading": "わく",
-        "meaning": "to grow hot (e.g. water), to boil, to get excited (at), to erupt (in applause, cheering, etc.), to be in a ferment, to take place energetically, to ferment, to melt (of metal)"
+        "meaning": {
+          "vi": "to grow hot (e.g. water), to boil, to get excited (at), to erupt (in applause, cheering, etc.), to be in a ferment, to take place energetically, to ferment, to melt (of metal)"
+        },
+        "romaji": "waku"
       },
       {
         "example": "沸かす",
         "reading": "わかす",
-        "meaning": "to boil, to heat (a liquid), to prepare (a bath, hot drink), to excite, to rouse, to stir"
+        "meaning": {
+          "vi": "to boil, to heat (a liquid), to prepare (a bath, hot drink), to excite, to rouse, to stir"
+        },
+        "romaji": "wakasu"
       }
     ],
     "radical": {
@@ -298,5 +310,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cb8.gif",
     "uri": "https://jisho.org/search/%E6%B2%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "phí",
+    "phất"
+  ]
 }

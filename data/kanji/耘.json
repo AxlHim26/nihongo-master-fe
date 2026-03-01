@@ -16,7 +16,10 @@
       {
         "example": "耕耘",
         "reading": "コウウン",
-        "meaning": "cày cấy và nhổ cỏ, canh tác, trồng trọt"
+        "meaning": {
+          "vi": "cày cấy và nhổ cỏ, canh tác, trồng trọt"
+        },
+        "romaji": "kouun"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08018.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8018.gif",
     "uri": "https://jisho.org/search/%E8%80%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "vân"
+  ]
 }

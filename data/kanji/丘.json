@@ -19,44 +19,140 @@
       {
         "example": "丘陵",
         "reading": "キュウリョウ",
-        "meaning": "hill, hillock, rolling hills, foothills"
+        "meaning": {
+          "vi": "đồi, gò đồi, ngọn đồi thoai thoải, chân đồi",
+          "en": "hill, hillock, rolling hills, foothills"
+        },
+        "hanViet": [
+          "khiêu",
+          "lăng"
+        ],
+        "hanVietExplain": {
+          "vi": "丘 (khiêu: gò, đống) + 陵 (lăng: gò, đồi) → đồi, gò đồi, ngọn đồi thoai thoải, chân đồi",
+          "en": "丘 (leeu: mound, heap) + 陵 (lang: mound, hill) → hill, hillock, gentle hill, foothill"
+        },
+        "romaji": "kyuuryou"
       },
       {
         "example": "丘疹",
         "reading": "キュウシン",
-        "meaning": "pimple, papule"
+        "meaning": {
+          "vi": "mụn nhọt, mụn nhọt",
+          "en": "pimple, papule"
+        },
+        "hanViet": [
+          "khiêu",
+          "chẩn"
+        ],
+        "hanVietExplain": {
+          "vi": "丘 (khiêu: gò, đống) + 疹 (chẩn: bệnh lên sởi) → mụn nhọt, mụn nhọt",
+          "en": "丘 (diagnosis: mound, heap) + 疹 (diagnosis: measles) → pimple, pimple"
+        },
+        "romaji": "kyuushin"
       },
       {
         "example": "墳丘",
         "reading": "フンキュウ",
-        "meaning": "tumulus, grave mound"
+        "meaning": {
+          "vi": "gò mộ, gò mộ",
+          "en": "tumulus, grave mound"
+        },
+        "hanViet": [
+          "bổn",
+          "khiêu"
+        ],
+        "hanVietExplain": {
+          "vi": "墳 (bổn: mồ mả) + 丘 (khiêu: gò, đống) → gò mộ, gò mộ",
+          "en": "墳 (bon: grave) + 丘 (voi: mound, pile) → mound, burial mound"
+        },
+        "romaji": "funkyuu"
       },
       {
         "example": "砂丘",
         "reading": "サキュウ",
-        "meaning": "sand dune, sand hill"
+        "meaning": {
+          "vi": "cồn cát, đồi cát",
+          "en": "sand dune, sand hill"
+        },
+        "hanViet": [
+          "sa",
+          "khiêu"
+        ],
+        "hanVietExplain": {
+          "vi": "砂 (sa: đá vụn, sỏi vụn) + 丘 (khiêu: gò, đống) → cồn cát, đồi cát",
+          "en": "砂 (sa: crushed rock, crushed gravel) + 丘 (đêu: mound, pile) → sand dune, sand hill"
+        },
+        "romaji": "sakyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丘",
         "reading": "おか",
-        "meaning": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+        "meaning": {
+          "vi": "đồi, độ cao, gò đất, mặt đất nhô lên, điểm thưởng được trao cho người chiến thắng khi kết thúc trò chơi",
+          "en": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+        },
+        "hanViet": [
+          "khiêu"
+        ],
+        "hanVietExplain": {
+          "vi": "khiêu: gò, đống, thửa (ruộng)",
+          "en": "mound: mound, pile, plot (field)"
+        },
+        "romaji": "oka"
       },
       {
         "example": "岡辺",
         "reading": "おかべ",
-        "meaning": "vicinity of a hill"
+        "meaning": {
+          "vi": "vùng lân cận một ngọn đồi",
+          "en": "vicinity of a hill"
+        },
+        "hanViet": [
+          "cương",
+          "biên"
+        ],
+        "hanVietExplain": {
+          "vi": "岡 (cương: sườn núi) + 辺 (biên: bên, phía) → vùng lân cận một ngọn đồi",
+          "en": "岡 (outline: mountainside) + 辺 (bien: side, side) → vicinity of a hill"
+        },
+        "romaji": "okabe"
       },
       {
         "example": "小高い丘",
         "reading": "こだかいおか",
-        "meaning": "small hill, low hill, hillock"
+        "meaning": {
+          "vi": "đồi nhỏ, đồi thấp, gò đồi",
+          "en": "small hill, low hill, hillock"
+        },
+        "hanViet": [
+          "tiểu",
+          "cao",
+          "khiêu"
+        ],
+        "hanVietExplain": {
+          "vi": "小 (tiểu: nhỏ bé) + 高 (cao: cao) + 丘 (khiêu: gò, đống) → đồi nhỏ, đồi thấp, gò đồi",
+          "en": "小 (small: small) + 高 (tall: tall) + 丘 (leeu: mound, pile) → small hill, low hill, hillock"
+        },
+        "romaji": "kodakaioka"
       },
       {
         "example": "嵐が丘",
         "reading": "あらしがおか",
-        "meaning": "Wuthering Heights (novel by Emily Bronte)"
+        "meaning": {
+          "vi": "đồi gió hú (tiểu thuyết của emily bronte)",
+          "en": "Wuthering Heights (novel by Emily Bronte)"
+        },
+        "hanViet": [
+          "lam",
+          "khiêu"
+        ],
+        "hanVietExplain": {
+          "vi": "嵐 (lam: khí núi bốc lên) + 丘 (khiêu: gò, đống) → đồi gió hú (tiểu thuyết của emily bronte)",
+          "en": "嵐 (blue: rising mountain air) + 丘 (leu: mound, pile) → wuthering heights (novel by emily bronte)"
+        },
+        "romaji": "arashigaoka"
       }
     ],
     "radical": {
@@ -71,5 +167,17 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e18.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e18.gif",
     "uri": "https://jisho.org/search/%E4%B8%98%23kanji"
+  },
+  "hanViet": [
+    "khiêu",
+    "khâu"
+  ],
+  "hanVietExplain": {
+    "vi": "khiêu: gò, đống, thửa (ruộng)",
+    "en": "mound: mound, pile, plot (field)"
+  },
+  "meaning": {
+    "vi": "đồi, gò",
+    "en": "hill, knoll"
   }
 }

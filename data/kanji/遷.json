@@ -21,34 +21,52 @@
       {
         "example": "遷都",
         "reading": "セント",
-        "meaning": "relocation of the capital, transfer of the capital"
+        "meaning": {
+          "vi": "relocation of the capital, transfer of the capital"
+        },
+        "romaji": "sento"
       },
       {
         "example": "遷宮",
         "reading": "セングウ",
-        "meaning": "installation of a deity in a new shrine, transfer of a shrine"
+        "meaning": {
+          "en": "installation of a deity in a new shrine, transfer of a shrine"
+        },
+        "romaji": "senguu"
       },
       {
         "example": "左遷",
         "reading": "サセン",
-        "meaning": "demotion, relegation, reduction in rank, degradation, downward move"
+        "meaning": {
+          "en": "demotion, relegation, reduction in rank, degradation, downward move"
+        },
+        "romaji": "sasen"
       },
       {
         "example": "聖遷",
         "reading": "セイセン",
-        "meaning": "Hegira, Hejira, Hijra"
+        "meaning": {
+          "en": "Hegira, Hejira, Hijra"
+        },
+        "romaji": "seisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "移る",
         "reading": "うつる",
-        "meaning": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+        "meaning": {
+          "vi": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+        },
+        "romaji": "utsuru"
       },
       {
         "example": "移す",
         "reading": "うつす",
-        "meaning": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
+        "meaning": {
+          "vi": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
+        },
+        "romaji": "utsusu"
       }
     ],
     "radical": {
@@ -70,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09077.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9077.gif",
     "uri": "https://jisho.org/search/%E9%81%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiên"
+  ]
 }

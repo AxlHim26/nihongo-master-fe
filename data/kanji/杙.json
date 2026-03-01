@@ -17,12 +17,18 @@
       {
         "example": "杭",
         "reading": "くい",
-        "meaning": "stake, post, pile, picket, stump"
+        "meaning": {
+          "vi": "stake, post, pile, picket, stump"
+        },
+        "romaji": "kui"
       },
       {
         "example": "株",
         "reading": "くいぜ",
-        "meaning": "stump"
+        "meaning": {
+          "vi": "stump"
+        },
+        "romaji": "kuize"
       }
     ],
     "radical": {
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06759.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6759.gif",
     "uri": "https://jisho.org/search/%E6%9D%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "dặc",
+    "dực"
+  ]
 }

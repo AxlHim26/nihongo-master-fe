@@ -393,22 +393,34 @@
       {
         "example": "議",
         "reading": "ギ",
-        "meaning": "discussion, deliberation, thought, opinion"
+        "meaning": {
+          "vi": "discussion, deliberation, thought, opinion"
+        },
+        "romaji": "gi"
       },
       {
         "example": "議案",
         "reading": "ギアン",
-        "meaning": "legislative bill, measure, agenda item"
+        "meaning": {
+          "en": "legislative bill, measure, agenda item"
+        },
+        "romaji": "gian"
       },
       {
         "example": "本会議",
         "reading": "ホンカイギ",
-        "meaning": "plenary session, regular session"
+        "meaning": {
+          "vi": "plenary session, regular session"
+        },
+        "romaji": "honkaigi"
       },
       {
         "example": "日本学術会議",
         "reading": "ニホンガクジュツカイギ",
-        "meaning": "Science Council of Japan"
+        "meaning": {
+          "vi": "Science Council of Japan"
+        },
+        "romaji": "nihongakujutsukaigi"
       }
     ],
     "kunyomiExamples": [],
@@ -433,5 +445,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b70.gif",
     "uri": "https://jisho.org/search/%E8%AD%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghị"
+  ]
 }

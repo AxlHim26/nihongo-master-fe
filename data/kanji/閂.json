@@ -18,12 +18,18 @@
       {
         "example": "閂",
         "reading": "かんぬき",
-        "meaning": "bar, bolt (e.g. on door), latch, double-arm lock, (rope) cinching"
+        "meaning": {
+          "vi": "bar, bolt (e.g. on door), latch, double-arm lock, (rope) cinching"
+        },
+        "romaji": "kannuki"
       },
       {
         "example": "閂止め",
         "reading": "かんぬきどめ",
-        "meaning": "reinforcing \"bolt\" stitch across the bottom of a seam"
+        "meaning": {
+          "en": "reinforcing \"bolt\" stitch across the bottom of a seam"
+        },
+        "romaji": "kannukidome"
       }
     ],
     "radical": {
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09582.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9582.gif",
     "uri": "https://jisho.org/search/%E9%96%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "soan"
+  ]
 }

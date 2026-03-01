@@ -18,7 +18,10 @@
       {
         "example": "鯔",
         "reading": "ぼら",
-        "meaning": "striped mullet (Mugil cephalus), flathead grey mullet, black mullet, redlip mullet (Chelon haematocheilus)"
+        "meaning": {
+          "vi": "striped mullet (Mugil cephalus), flathead grey mullet, black mullet, redlip mullet (Chelon haematocheilus)"
+        },
+        "romaji": "bora"
       }
     ],
     "radical": {
@@ -36,5 +39,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c21.gif",
     "uri": "https://jisho.org/search/%E9%B0%A1%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

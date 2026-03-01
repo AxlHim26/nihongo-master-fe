@@ -17,44 +17,68 @@
       {
         "example": "霰粒腫",
         "reading": "サンリュウシュ",
-        "meaning": "chalazion, meibomian cyst"
+        "meaning": {
+          "en": "chalazion, meibomian cyst"
+        },
+        "romaji": "sanryuushu"
       },
       {
         "example": "散弾",
         "reading": "サンダン",
-        "meaning": "shot, buckshot"
+        "meaning": {
+          "en": "shot, buckshot"
+        },
+        "romaji": "sandan"
       },
       {
         "example": "散弾銃",
         "reading": "サンダンジュウ",
-        "meaning": "shotgun"
+        "meaning": {
+          "en": "shotgun"
+        },
+        "romaji": "sandanjuu"
       },
       {
         "example": "春霰",
         "reading": "シュンサン",
-        "meaning": "spring hail"
+        "meaning": {
+          "vi": "spring hail"
+        },
+        "romaji": "shunsan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "霰",
         "reading": "あられ",
-        "meaning": "hail (esp. hailballs under 5 mm), graupel, dicing, small cubes, roasted mochi pieces (usu. flavoured with soy sauce, etc.)"
+        "meaning": {
+          "vi": "hail (esp. hailballs under 5 mm), graupel, dicing, small cubes, roasted mochi pieces (usu. flavoured with soy sauce, etc.)"
+        },
+        "romaji": "arare"
       },
       {
         "example": "霰石",
         "reading": "あられいし",
-        "meaning": "aragonite"
+        "meaning": {
+          "en": "aragonite"
+        },
+        "romaji": "arareishi"
       },
       {
         "example": "雪あられ",
         "reading": "ゆきあられ",
-        "meaning": "soft hail, snow pellets"
+        "meaning": {
+          "vi": "soft hail, snow pellets"
+        },
+        "romaji": "yukiarare"
       },
       {
         "example": "雛あられ",
         "reading": "ひなあられ",
-        "meaning": "sweetened rice-flour cakes for offering at the Dolls' Festival"
+        "meaning": {
+          "en": "sweetened rice-flour cakes for offering at the Dolls' Festival"
+        },
+        "romaji": "hinaarare"
       }
     ],
     "radical": {
@@ -74,5 +98,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09730.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9730.gif",
     "uri": "https://jisho.org/search/%E9%9C%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tán",
+    "tản"
+  ]
 }

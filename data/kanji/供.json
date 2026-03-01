@@ -321,94 +321,148 @@
       {
         "example": "供述",
         "reading": "キョウジュツ",
-        "meaning": "affidavit, deposition, testimony"
+        "meaning": {
+          "vi": "affidavit, deposition, testimony"
+        },
+        "romaji": "kyoujutsu"
       },
       {
         "example": "供給",
         "reading": "キョウキュウ",
-        "meaning": "supply, provision"
+        "meaning": {
+          "vi": "supply, provision"
+        },
+        "romaji": "kyoukyuu"
       },
       {
         "example": "情報提供",
         "reading": "ジョウホウテイキョウ",
-        "meaning": "provision of information"
+        "meaning": {
+          "vi": "provision of information"
+        },
+        "romaji": "jouhouteikyou"
       },
       {
         "example": "臓器提供",
         "reading": "ゾウキテイキョウ",
-        "meaning": "organ donation"
+        "meaning": {
+          "en": "organ donation"
+        },
+        "romaji": "zoukiteikyou"
       },
       {
         "example": "供養",
         "reading": "クヨウ",
-        "meaning": "memorial service for the dead, holding a service"
+        "meaning": {
+          "en": "memorial service for the dead, holding a service"
+        },
+        "romaji": "kuyou"
       },
       {
         "example": "供物",
         "reading": "クモツ",
-        "meaning": "offering (e.g. to the gods), votive offering"
+        "meaning": {
+          "en": "offering (e.g. to the gods), votive offering"
+        },
+        "romaji": "kumotsu"
       },
       {
         "example": "節句",
         "reading": "セック",
-        "meaning": "seasonal festival"
+        "meaning": {
+          "en": "seasonal festival"
+        },
+        "romaji": "sekku"
       },
       {
         "example": "初節供",
         "reading": "ハツゼック",
-        "meaning": "baby's first annual festival"
+        "meaning": {
+          "en": "baby's first annual festival"
+        },
+        "romaji": "hatsuzekku"
       },
       {
         "example": "供花",
         "reading": "キョウカ",
-        "meaning": "offering of flowers (at shrine, grave, etc.), floral tribute"
+        "meaning": {
+          "en": "offering of flowers (at shrine, grave, etc.), floral tribute"
+        },
+        "romaji": "kyouka"
       },
       {
         "example": "人身御供",
         "reading": "ヒトミゴクウ",
-        "meaning": "human sacrifice, victim"
+        "meaning": {
+          "en": "human sacrifice, victim"
+        },
+        "romaji": "hitomigokuu"
       },
       {
         "example": "供御",
         "reading": "クゴ",
-        "meaning": "emperor's meal"
+        "meaning": {
+          "vi": "emperor's meal"
+        },
+        "romaji": "kugo"
       },
       {
         "example": "供祭",
         "reading": "グサイ",
-        "meaning": "offerings, offerings and worship"
+        "meaning": {
+          "vi": "offerings, offerings and worship"
+        },
+        "romaji": "gusai"
       },
       {
         "example": "内供",
         "reading": "ナイグ",
-        "meaning": "inner offerer (any of the 10 high-ranking monks serving at the inner offering hall)"
+        "meaning": {
+          "en": "inner offerer (any of the 10 high-ranking monks serving at the inner offering hall)"
+        },
+        "romaji": "naigu"
       },
       {
         "example": "応供",
         "reading": "オウグ",
-        "meaning": "arhat (meritorious person, esp. an epithet of Buddha)"
+        "meaning": {
+          "vi": "arhat (meritorious person, esp. an epithet of Buddha)"
+        },
+        "romaji": "ougu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "供える",
         "reading": "そなえる",
-        "meaning": "to offer, to sacrifice, to dedicate"
+        "meaning": {
+          "en": "to offer, to sacrifice, to dedicate"
+        },
+        "romaji": "sonaeru"
       },
       {
         "example": "供",
         "reading": "とも",
-        "meaning": "companion, follower, attendant, retinue"
+        "meaning": {
+          "vi": "companion, follower, attendant, retinue"
+        },
+        "romaji": "tomo"
       },
       {
         "example": "共に",
         "reading": "ともに",
-        "meaning": "together, jointly, at the same time, with, as ..., including, along with, both"
+        "meaning": {
+          "en": "together, jointly, at the same time, with, as ..., including, along with, both"
+        },
+        "romaji": "tomoni"
       },
       {
         "example": "酒のお供",
         "reading": "さけのおとも",
-        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        "meaning": {
+          "vi": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        },
+        "romaji": "sakenootomo"
       }
     ],
     "radical": {
@@ -429,5 +483,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f9b.gif",
     "uri": "https://jisho.org/search/%E4%BE%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cung",
+    "cúng"
+  ]
 }

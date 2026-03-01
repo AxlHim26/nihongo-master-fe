@@ -19,44 +19,68 @@
       {
         "example": "傘下",
         "reading": "サンカ",
-        "meaning": "affiliated with, under jurisdiction of, under the umbrella"
+        "meaning": {
+          "en": "affiliated with, under jurisdiction of, under the umbrella"
+        },
+        "romaji": "sanka"
       },
       {
         "example": "傘寿",
         "reading": "サンジュ",
-        "meaning": "80th birthday"
+        "meaning": {
+          "en": "80th birthday"
+        },
+        "romaji": "sanju"
       },
       {
         "example": "落下傘",
         "reading": "ラッカサン",
-        "meaning": "parachute"
+        "meaning": {
+          "vi": "parachute"
+        },
+        "romaji": "rakkasan"
       },
       {
         "example": "開傘",
         "reading": "カイサン",
-        "meaning": "opening of a parachute"
+        "meaning": {
+          "vi": "opening of a parachute"
+        },
+        "romaji": "kaisan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "傘",
         "reading": "かさ",
-        "meaning": "umbrella, parasol, something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus"
+        "meaning": {
+          "vi": "umbrella, parasol, something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus"
+        },
+        "romaji": "kasa"
       },
       {
         "example": "笠貝",
         "reading": "かさがい",
-        "meaning": "limpet (esp. species Cellana mazatlandica)"
+        "meaning": {
+          "vi": "limpet (esp. species Cellana mazatlandica)"
+        },
+        "romaji": "kasagai"
       },
       {
         "example": "核の傘",
         "reading": "かくのかさ",
-        "meaning": "nuclear umbrella"
+        "meaning": {
+          "en": "nuclear umbrella"
+        },
+        "romaji": "kakunokasa"
       },
       {
         "example": "から傘",
         "reading": "からかさ",
-        "meaning": "paper umbrella, bamboo-and-oiled-paper umbrella"
+        "meaning": {
+          "vi": "paper umbrella, bamboo-and-oiled-paper umbrella"
+        },
+        "romaji": "karakasa"
       }
     ],
     "radical": {
@@ -75,5 +99,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05098.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5098.gif",
     "uri": "https://jisho.org/search/%E5%82%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "tán",
+    "tản"
+  ]
 }

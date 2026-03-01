@@ -17,12 +17,18 @@
       {
         "example": "購入",
         "reading": "コウニュウ",
-        "meaning": "purchase, buying"
+        "meaning": {
+          "vi": "purchase, buying"
+        },
+        "romaji": "kounyuu"
       },
       {
         "example": "購読",
         "reading": "コウドク",
-        "meaning": "buying and reading (book, magazine, etc.), subscribing (incl. free subscriptions), taking (e.g. newspaper)"
+        "meaning": {
+          "vi": "buying and reading (book, magazine, etc.), subscribing (incl. free subscriptions), taking (e.g. newspaper)"
+        },
+        "romaji": "koudoku"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cfc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cfc.gif",
     "uri": "https://jisho.org/search/%E8%B3%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấu"
+  ]
 }

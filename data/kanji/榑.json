@@ -16,19 +16,28 @@
       {
         "example": "扶桑",
         "reading": "フソウ",
-        "meaning": "divine tree or island east of China, Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"
+        "meaning": {
+          "vi": "divine tree or island east of China, Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"
+        },
+        "romaji": "fusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "くれ縁",
         "reading": "くれえん",
-        "meaning": "open-air veranda with thin boards running the length of it"
+        "meaning": {
+          "vi": "open-air veranda with thin boards running the length of it"
+        },
+        "romaji": "kureen"
       },
       {
         "example": "節榑",
         "reading": "ふしくれ",
-        "meaning": "knotty wood or tree"
+        "meaning": {
+          "en": "knotty wood or tree"
+        },
+        "romaji": "fushikure"
       }
     ],
     "radical": {
@@ -46,5 +55,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06991.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6991.gif",
     "uri": "https://jisho.org/search/%E6%A6%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "phù"
+  ]
 }

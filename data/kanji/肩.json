@@ -226,44 +226,68 @@
       {
         "example": "肩甲",
         "reading": "ケンコウ",
-        "meaning": "scapular"
+        "meaning": {
+          "vi": "scapular"
+        },
+        "romaji": "kenkou"
       },
       {
         "example": "肩高",
         "reading": "ケンコウ",
-        "meaning": "withers (height from ground to shoulder blades in animals)"
+        "meaning": {
+          "en": "withers (height from ground to shoulder blades in animals)"
+        },
+        "romaji": "kenkou"
       },
       {
         "example": "路肩",
         "reading": "ロカタ",
-        "meaning": "shoulder (of a road), berm"
+        "meaning": {
+          "en": "shoulder (of a road), berm"
+        },
+        "romaji": "rokata"
       },
       {
         "example": "強肩",
         "reading": "キョウケン",
-        "meaning": "strong throwing arm"
+        "meaning": {
+          "en": "strong throwing arm"
+        },
+        "romaji": "kyouken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肩",
         "reading": "かた",
-        "meaning": "shoulder"
+        "meaning": {
+          "en": "shoulder"
+        },
+        "romaji": "kata"
       },
       {
         "example": "肩書き",
         "reading": "かたがき",
-        "meaning": "title (e.g. Doctor, Professor, Lord), job title, position (in a company), degree, status, rank"
+        "meaning": {
+          "vi": "title (e.g. Doctor, Professor, Lord), job title, position (in a company), degree, status, rank"
+        },
+        "romaji": "katagaki"
       },
       {
         "example": "路肩",
         "reading": "ろかた",
-        "meaning": "shoulder (of a road), berm"
+        "meaning": {
+          "en": "shoulder (of a road), berm"
+        },
+        "romaji": "rokata"
       },
       {
         "example": "相肩",
         "reading": "あいかた",
-        "meaning": "partner, someone who shares one's load"
+        "meaning": {
+          "vi": "partner, someone who shares one's load"
+        },
+        "romaji": "aikata"
       }
     ],
     "radical": {
@@ -283,5 +307,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80a9.gif",
     "uri": "https://jisho.org/search/%E8%82%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiên",
+    "kiên"
+  ]
 }

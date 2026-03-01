@@ -372,49 +372,76 @@
       {
         "example": "縮",
         "reading": "シュク",
-        "meaning": "wearing armour (armor), counter for suits of armour"
+        "meaning": {
+          "en": "wearing armour (armor), counter for suits of armour"
+        },
+        "romaji": "shuku"
       },
       {
         "example": "縮小",
         "reading": "シュクショウ",
-        "meaning": "reduction, curtailment, cut, cutback, scaling down, contraction, shrinkage"
+        "meaning": {
+          "en": "reduction, curtailment, cut, cutback, scaling down, contraction, shrinkage"
+        },
+        "romaji": "shukushou"
       },
       {
         "example": "凝縮",
         "reading": "ギョウシュク",
-        "meaning": "condensation (of ideas, emotions, etc.), condensation (of a vapour or gas)"
+        "meaning": {
+          "vi": "condensation (of ideas, emotions, etc.), condensation (of a vapour or gas)"
+        },
+        "romaji": "gyoushuku"
       },
       {
         "example": "濃縮",
         "reading": "ノウシュク",
-        "meaning": "concentration (e.g. of a solution), enrichment, condensation"
+        "meaning": {
+          "en": "concentration (e.g. of a solution), enrichment, condensation"
+        },
+        "romaji": "noushuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "縮む",
         "reading": "ちぢむ",
-        "meaning": "to shrink, to contract, to diminish (in size)"
+        "meaning": {
+          "en": "to shrink, to contract, to diminish (in size)"
+        },
+        "romaji": "chijimu"
       },
       {
         "example": "縮まる",
         "reading": "ちぢまる",
-        "meaning": "to shorten, to narrow, to close, to shrink"
+        "meaning": {
+          "en": "to shorten, to narrow, to close, to shrink"
+        },
+        "romaji": "chijimaru"
       },
       {
         "example": "縮める",
         "reading": "ちぢめる",
-        "meaning": "to shorten, to reduce, to condense, to shrink, to crumple (fabric), to wrinkle, to make (one's body) smaller, to draw in (one's legs), to duck (one's head)"
+        "meaning": {
+          "vi": "to shorten, to reduce, to condense, to shrink, to crumple (fabric), to wrinkle, to make (one's body) smaller, to draw in (one's legs), to duck (one's head)"
+        },
+        "romaji": "chijimeru"
       },
       {
         "example": "縮れる",
         "reading": "ちぢれる",
-        "meaning": "to be wavy, to be curled, to be frizzled"
+        "meaning": {
+          "en": "to be wavy, to be curled, to be frizzled"
+        },
+        "romaji": "chijireru"
       },
       {
         "example": "縮らす",
         "reading": "ちぢらす",
-        "meaning": "to curl, to crimp"
+        "meaning": {
+          "vi": "to curl, to crimp"
+        },
+        "romaji": "chijirasu"
       }
     ],
     "radical": {
@@ -436,5 +463,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e2e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e2e.gif",
     "uri": "https://jisho.org/search/%E7%B8%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "súc"
+  ]
 }

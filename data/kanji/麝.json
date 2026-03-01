@@ -15,12 +15,18 @@
       {
         "example": "麝香",
         "reading": "ジャコウ",
-        "meaning": "xạ hương"
+        "meaning": {
+          "vi": "xạ hương"
+        },
+        "romaji": "jakou"
       },
       {
         "example": "麝香揚羽",
         "reading": "ジャコウアゲハ",
-        "meaning": "bướm phượng Trung Quốc (Atrophaneura alcinous)"
+        "meaning": {
+          "vi": "bướm phượng Trung Quốc (Atrophaneura alcinous)"
+        },
+        "romaji": "jakouageha"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e9d.gif",
     "uri": "https://jisho.org/search/%E9%BA%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "xạ"
+  ]
 }

@@ -256,22 +256,34 @@
       {
         "example": "系",
         "reading": "ケイ",
-        "meaning": "system, lineage, group, corollary, system (range of strata that correspond to a particular time period), (taxonomical) series"
+        "meaning": {
+          "vi": "system, lineage, group, corollary, system (range of strata that correspond to a particular time period), (taxonomical) series"
+        },
+        "romaji": "kei"
       },
       {
         "example": "系統",
         "reading": "ケイトウ",
-        "meaning": "system, lineage, ancestry, family line, group (e.g. of colors) (colours), family (e.g. of languages), party, school (of thought), close (evolutionary) relationship, a population sharing a common ancestor (in genetics), strain (e.g. bacterial)"
+        "meaning": {
+          "vi": "system, lineage, ancestry, family line, group (e.g. of colors) (colours), family (e.g. of languages), party, school (of thought), close (evolutionary) relationship, a population sharing a common ancestor (in genetics), strain (e.g. bacterial)"
+        },
+        "romaji": "keitou"
       },
       {
         "example": "日系",
         "reading": "ニッケイ",
-        "meaning": "(of) Japanese descent, non-Japanese of Japanese descent, nikkeijin, company, etc. set up with Japanese capital, company managed by Japanese or non-Japanese of Japanese descent"
+        "meaning": {
+          "vi": "(of) Japanese descent, non-Japanese of Japanese descent, nikkeijin, company, etc. set up with Japanese capital, company managed by Japanese or non-Japanese of Japanese descent"
+        },
+        "romaji": "nikkei"
       },
       {
         "example": "水系",
         "reading": "スイケイ",
-        "meaning": "water system, river system, drainage system"
+        "meaning": {
+          "en": "water system, river system, drainage system"
+        },
+        "romaji": "suikei"
       }
     ],
     "kunyomiExamples": [],
@@ -292,5 +304,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cfb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cfb.gif",
     "uri": "https://jisho.org/search/%E7%B3%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hệ"
+  ]
 }

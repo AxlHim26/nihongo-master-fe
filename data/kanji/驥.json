@@ -14,12 +14,18 @@
       {
         "example": "驥足",
         "reading": "キソク",
-        "meaning": "full ability"
+        "meaning": {
+          "en": "full ability"
+        },
+        "romaji": "kisoku"
       },
       {
         "example": "驥尾",
         "reading": "キビ",
-        "meaning": "tail of a swift horse, behind a great person"
+        "meaning": {
+          "vi": "tail of a swift horse, behind a great person"
+        },
+        "romaji": "kibi"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a65.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a65.gif",
     "uri": "https://jisho.org/search/%E9%A9%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "kí",
+    "ký"
+  ]
 }

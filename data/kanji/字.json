@@ -326,49 +326,76 @@
       {
         "example": "字",
         "reading": "ジ",
-        "meaning": "character (esp. kanji), letter, written text, handwriting, penmanship, the ... word (e.g. \"the L word\" = \"love\")"
+        "meaning": {
+          "vi": "character (esp. kanji), letter, written text, handwriting, penmanship, the ... word (e.g. \"the L word\" = \"love\")"
+        },
+        "romaji": "ji"
       },
       {
         "example": "字形",
         "reading": "ジケイ",
-        "meaning": "character style, character form"
+        "meaning": {
+          "en": "character style, character form"
+        },
+        "romaji": "jikei"
       },
       {
         "example": "題字",
         "reading": "ダイジ",
-        "meaning": "title lettering"
+        "meaning": {
+          "en": "title lettering"
+        },
+        "romaji": "daiji"
       },
       {
         "example": "英字",
         "reading": "エイジ",
-        "meaning": "English letter, alphabetic character"
+        "meaning": {
+          "vi": "English letter, alphabetic character"
+        },
+        "romaji": "eiji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "字",
         "reading": "あざ",
-        "meaning": "section of village"
+        "meaning": {
+          "en": "section of village"
+        },
+        "romaji": "aza"
       },
       {
         "example": "字",
         "reading": "あざな",
-        "meaning": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village"
+        "meaning": {
+          "vi": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village"
+        },
+        "romaji": "azana"
       },
       {
         "example": "大字",
         "reading": "おおあざ",
-        "meaning": "larger section (of village)"
+        "meaning": {
+          "en": "larger section (of village)"
+        },
+        "romaji": "ooaza"
       },
       {
         "example": "小字",
         "reading": "こあざ",
-        "meaning": "small administrative unit (of a village)"
+        "meaning": {
+          "en": "small administrative unit (of a village)"
+        },
+        "romaji": "koaza"
       },
       {
         "example": "字",
         "reading": "あざな",
-        "meaning": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village"
+        "meaning": {
+          "vi": "Chinese courtesy name (name formerly given to adult Chinese men, used in place of their given name in formal situations), nickname, section of a village"
+        },
+        "romaji": "azana"
       }
     ],
     "radical": {
@@ -383,5 +410,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b57.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b57.gif",
     "uri": "https://jisho.org/search/%E5%AD%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tự"
+  ]
 }

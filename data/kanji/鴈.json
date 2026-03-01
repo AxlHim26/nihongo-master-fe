@@ -18,14 +18,20 @@
       {
         "example": "雁",
         "reading": "ガン",
-        "meaning": "wild goose"
+        "meaning": {
+          "en": "wild goose"
+        },
+        "romaji": "gan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雁",
         "reading": "かり",
-        "meaning": "wild goose, glans, head of a penis"
+        "meaning": {
+          "vi": "wild goose, glans, head of a penis"
+        },
+        "romaji": "kari"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d08.gif",
     "uri": "https://jisho.org/search/%E9%B4%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhạn"
+  ]
 }

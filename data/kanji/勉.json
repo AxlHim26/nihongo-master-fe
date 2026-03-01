@@ -256,29 +256,44 @@
       {
         "example": "勉強",
         "reading": "ベンキョウ",
-        "meaning": "study, diligence, working hard, experience, lesson (for the future), discount, price reduction"
+        "meaning": {
+          "vi": "study, diligence, working hard, experience, lesson (for the future), discount, price reduction"
+        },
+        "romaji": "benkyou"
       },
       {
         "example": "勉学",
         "reading": "ベンガク",
-        "meaning": "study, pursuit of knowledge"
+        "meaning": {
+          "vi": "study, pursuit of knowledge"
+        },
+        "romaji": "bengaku"
       },
       {
         "example": "猛勉",
         "reading": "モウベン",
-        "meaning": "studying hard, cramming"
+        "meaning": {
+          "en": "studying hard, cramming"
+        },
+        "romaji": "mouben"
       },
       {
         "example": "のこ勉",
         "reading": "ノコベン",
-        "meaning": "staying behind after school to do private study"
+        "meaning": {
+          "vi": "staying behind after school to do private study"
+        },
+        "romaji": "nokoben"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "努める",
         "reading": "つとめる",
-        "meaning": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+        "meaning": {
+          "en": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+        },
+        "romaji": "tsutomeru"
       }
     ],
     "radical": {
@@ -295,5 +310,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c9.gif",
     "uri": "https://jisho.org/search/%E5%8B%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "miễn",
+    "mẫn"
+  ]
 }

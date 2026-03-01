@@ -17,19 +17,28 @@
       {
         "example": "桜花",
         "reading": "オウカ",
-        "meaning": "cherry blossom"
+        "meaning": {
+          "en": "cherry blossom"
+        },
+        "romaji": "ouka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "桜",
         "reading": "さくら",
-        "meaning": "cherry tree, cherry blossom, fake buyer, paid audience, shill, seat filler, hired applauder, horse meat"
+        "meaning": {
+          "vi": "cherry tree, cherry blossom, fake buyer, paid audience, shill, seat filler, hired applauder, horse meat"
+        },
+        "romaji": "sakura"
       },
       {
         "example": "桜花",
         "reading": "おうか",
-        "meaning": "cherry blossom"
+        "meaning": {
+          "en": "cherry blossom"
+        },
+        "romaji": "ouka"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06afb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6afb.gif",
     "uri": "https://jisho.org/search/%E6%AB%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "anh"
+  ]
 }

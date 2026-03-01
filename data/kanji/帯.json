@@ -334,49 +334,76 @@
       {
         "example": "帯",
         "reading": "タイ",
-        "meaning": "band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.)"
+        "meaning": {
+          "en": "band (e.g. conduction, valence), belt (e.g. Van-Allen, asteroid, etc.)"
+        },
+        "romaji": "tai"
       },
       {
         "example": "帯状疱疹",
         "reading": "タイジョウホウシン",
-        "meaning": "shingles, herpes zoster"
+        "meaning": {
+          "vi": "shingles, herpes zoster"
+        },
+        "romaji": "taijouhoushin"
       },
       {
         "example": "付帯",
         "reading": "フタイ",
-        "meaning": "incidental, ancillary, accessory, secondary, collateral"
+        "meaning": {
+          "en": "incidental, ancillary, accessory, secondary, collateral"
+        },
+        "romaji": "futai"
       },
       {
         "example": "亜熱帯",
         "reading": "アネッタイ",
-        "meaning": "subtropics"
+        "meaning": {
+          "vi": "subtropics"
+        },
+        "romaji": "anettai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帯びる",
         "reading": "おびる",
-        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        "meaning": {
+          "vi": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        },
+        "romaji": "obiru"
       },
       {
         "example": "帯",
         "reading": "おび",
-        "meaning": "obi (kimono sash), obi (strip of paper looped around a book, CD, etc. containing information about the product), band, belt, strip, cingulum, radio or television program broadcast in the same time slot on all or most days"
+        "meaning": {
+          "vi": "obi (kimono sash), obi (strip of paper looped around a book, CD, etc. containing information about the product), band, belt, strip, cingulum, radio or television program broadcast in the same time slot on all or most days"
+        },
+        "romaji": "obi"
       },
       {
         "example": "帯びる",
         "reading": "おびる",
-        "meaning": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        "meaning": {
+          "vi": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+        },
+        "romaji": "obiru"
       },
       {
         "example": "単帯",
         "reading": "ひとえおび",
-        "meaning": "unlined sash"
+        "meaning": {
+          "en": "unlined sash"
+        },
+        "romaji": "hitoeobi"
       },
       {
         "example": "赤帯",
         "reading": "あかおび",
-        "meaning": "red sash, red belt"
+        "meaning": {
+          "en": "red sash, red belt"
+        },
+        "romaji": "akaobi"
       }
     ],
     "radical": {
@@ -393,5 +420,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e2f.gif",
     "uri": "https://jisho.org/search/%E5%B8%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "đái",
+    "đới"
+  ]
 }

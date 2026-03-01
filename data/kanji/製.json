@@ -304,22 +304,34 @@
       {
         "example": "製",
         "reading": "セイ",
-        "meaning": "make, manufacture, -made, made of ..., made in ..."
+        "meaning": {
+          "en": "make, manufacture, -made, made of ..., made in ..."
+        },
+        "romaji": "sei"
       },
       {
         "example": "製鋼",
         "reading": "セイコウ",
-        "meaning": "steel manufacture"
+        "meaning": {
+          "en": "steel manufacture"
+        },
+        "romaji": "seikou"
       },
       {
         "example": "縫製",
         "reading": "ホウセイ",
-        "meaning": "sewing (by machine)"
+        "meaning": {
+          "en": "sewing (by machine)"
+        },
+        "romaji": "housei"
       },
       {
         "example": "既製",
         "reading": "キセイ",
-        "meaning": "ready-made, off the shelf"
+        "meaning": {
+          "en": "ready-made, off the shelf"
+        },
+        "romaji": "kisei"
       }
     ],
     "kunyomiExamples": [],
@@ -341,5 +353,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88fd.gif",
     "uri": "https://jisho.org/search/%E8%A3%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "chế"
+  ]
 }

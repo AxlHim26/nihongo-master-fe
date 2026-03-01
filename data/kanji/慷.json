@@ -16,7 +16,10 @@
       {
         "example": "慷慨",
         "reading": "コウガイ",
-        "meaning": "righteous indignation, patriotic lamentation, deploration"
+        "meaning": {
+          "vi": "righteous indignation, patriotic lamentation, deploration"
+        },
+        "romaji": "kougai"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06177.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6177.gif",
     "uri": "https://jisho.org/search/%E6%85%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "khảng"
+  ]
 }

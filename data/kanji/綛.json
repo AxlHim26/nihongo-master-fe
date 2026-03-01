@@ -16,12 +16,18 @@
       {
         "example": "綛",
         "reading": "かせ",
-        "meaning": "hank, skein, reel, reeled thread"
+        "meaning": {
+          "en": "hank, skein, reel, reeled thread"
+        },
+        "romaji": "kase"
       },
       {
         "example": "かせ糸",
         "reading": "かせいと",
-        "meaning": "reeled thread"
+        "meaning": {
+          "en": "reeled thread"
+        },
+        "romaji": "kaseito"
       }
     ],
     "radical": {
@@ -43,5 +49,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d9b.gif",
     "uri": "https://jisho.org/search/%E7%B6%9B%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

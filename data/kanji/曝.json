@@ -18,29 +18,44 @@
       {
         "example": "暴露",
         "reading": "バクロ",
-        "meaning": "disclosure, exposure, revelation"
+        "meaning": {
+          "vi": "disclosure, exposure, revelation"
+        },
+        "romaji": "bakuro"
       },
       {
         "example": "曝書",
         "reading": "バクショ",
-        "meaning": "airing of books"
+        "meaning": {
+          "en": "airing of books"
+        },
+        "romaji": "bakusho"
       },
       {
         "example": "被曝",
         "reading": "ヒバク",
-        "meaning": "being exposed to radiation, radiation exposure"
+        "meaning": {
+          "vi": "being exposed to radiation, radiation exposure"
+        },
+        "romaji": "hibaku"
       },
       {
         "example": "低線量被曝",
         "reading": "テイセンリョウヒバク",
-        "meaning": "low level radiation, low dose irradiation, low dose exposure"
+        "meaning": {
+          "vi": "low level radiation, low dose irradiation, low dose exposure"
+        },
+        "romaji": "teisenryouhibaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "晒す",
         "reading": "さらす",
-        "meaning": "to expose (to the sun, public, danger, etc.), to bleach, to refine, to rinse (vegetables), to soak, to doxx, to dox, to make someone's private information public without permission, to sentence (someone) to public humiliation"
+        "meaning": {
+          "vi": "to expose (to the sun, public, danger, etc.), to bleach, to refine, to rinse (vegetables), to soak, to doxx, to dox, to make someone's private information public without permission, to sentence (someone) to public humiliation"
+        },
+        "romaji": "sarasu"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66dd.gif",
     "uri": "https://jisho.org/search/%E6%9B%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bộc"
+  ]
 }

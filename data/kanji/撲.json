@@ -17,17 +17,26 @@
       {
         "example": "撲滅",
         "reading": "ボクメツ",
-        "meaning": "eradication, extermination, destruction, suppression"
+        "meaning": {
+          "vi": "eradication, extermination, destruction, suppression"
+        },
+        "romaji": "bokumetsu"
       },
       {
         "example": "撲殺",
         "reading": "ボクサツ",
-        "meaning": "beat to death"
+        "meaning": {
+          "en": "beat to death"
+        },
+        "romaji": "bokusatsu"
       },
       {
         "example": "打撲",
         "reading": "ダボク",
-        "meaning": "blow, hit (on the body), beating"
+        "meaning": {
+          "en": "blow, hit (on the body), beating"
+        },
+        "romaji": "daboku"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +60,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64b2.gif",
     "uri": "https://jisho.org/search/%E6%92%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạc",
+    "phác",
+    "phốc"
+  ]
 }

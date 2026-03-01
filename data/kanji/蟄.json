@@ -18,7 +18,10 @@
       {
         "example": "啓蟄",
         "reading": "ケイチツ",
-        "meaning": "\"awakening of insects\" solar term (approx. March 6, the day on which hibernating insects are said to come out of the ground)"
+        "meaning": {
+          "vi": "\"awakening of insects\" solar term (approx. March 6, the day on which hibernating insects are said to come out of the ground)"
+        },
+        "romaji": "keichitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c4.gif",
     "uri": "https://jisho.org/search/%E8%9F%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "chập",
+    "trập"
+  ]
 }

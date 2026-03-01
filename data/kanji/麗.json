@@ -20,34 +20,52 @@
       {
         "example": "麗句",
         "reading": "レイク",
-        "meaning": "câu văn tao nhã"
+        "meaning": {
+          "vi": "câu văn tao nhã"
+        },
+        "romaji": "reiku"
       },
       {
         "example": "麗景殿",
         "reading": "レイケイデン",
-        "meaning": "điện các cung nữ (cung Heian)"
+        "meaning": {
+          "vi": "điện các cung nữ (cung Heian)"
+        },
+        "romaji": "reikeiden"
       },
       {
         "example": "瑰麗",
         "reading": "カイレイ",
-        "meaning": "cực kỳ đẹp, lộng lẫy"
+        "meaning": {
+          "vi": "cực kỳ đẹp, lộng lẫy"
+        },
+        "romaji": "kairei"
       },
       {
         "example": "清麗",
         "reading": "セイレイ",
-        "meaning": "sạch sẽ, thuần khiết, Seirei (một trong tám danh hiệu nữ chuyên nghiệp)"
+        "meaning": {
+          "vi": "sạch sẽ, thuần khiết, Seirei (một trong tám danh hiệu nữ chuyên nghiệp)"
+        },
+        "romaji": "seirei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "麗しい",
         "reading": "うるわしい",
-        "meaning": "đẹp, ấm áp"
+        "meaning": {
+          "vi": "đẹp, ấm áp"
+        },
+        "romaji": "uruwashii"
       },
       {
         "example": "麗らか",
         "reading": "うららか",
-        "meaning": "sáng (thời tiết, tâm trạng...), đẹp, rạng rỡ"
+        "meaning": {
+          "vi": "sáng (thời tiết, tâm trạng...), đẹp, rạng rỡ"
+        },
+        "romaji": "uraraka"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e97.gif",
     "uri": "https://jisho.org/search/%E9%BA%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "ly",
+    "lệ"
+  ]
 }

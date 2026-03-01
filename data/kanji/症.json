@@ -17,22 +17,34 @@
       {
         "example": "症",
         "reading": "ショウ",
-        "meaning": "illness, condition, -pathy"
+        "meaning": {
+          "vi": "illness, condition, -pathy"
+        },
+        "romaji": "shou"
       },
       {
         "example": "症候群",
         "reading": "ショウコウグン",
-        "meaning": "syndrome"
+        "meaning": {
+          "en": "syndrome"
+        },
+        "romaji": "shoukougun"
       },
       {
         "example": "自閉症",
         "reading": "ジヘイショウ",
-        "meaning": "autism"
+        "meaning": {
+          "en": "autism"
+        },
+        "romaji": "jiheishou"
       },
       {
         "example": "後遺症",
         "reading": "コウイショウ",
-        "meaning": "prognostic symptoms, after-effect, sequela"
+        "meaning": {
+          "vi": "prognostic symptoms, after-effect, sequela"
+        },
+        "romaji": "kouishou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75c7.gif",
     "uri": "https://jisho.org/search/%E7%97%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "chứng",
+    "trưng"
+  ]
 }

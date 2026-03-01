@@ -377,44 +377,68 @@
       {
         "example": "酒",
         "reading": "シュ",
-        "meaning": "alcohol, (alcoholic) drink, liqueur"
+        "meaning": {
+          "en": "alcohol, (alcoholic) drink, liqueur"
+        },
+        "romaji": "shu"
       },
       {
         "example": "酒税",
         "reading": "シュゼイ",
-        "meaning": "liquor tax, tax on alcohol"
+        "meaning": {
+          "en": "liquor tax, tax on alcohol"
+        },
+        "romaji": "shuzei"
       },
       {
         "example": "洋酒",
         "reading": "ヨウシュ",
-        "meaning": "Western wine and spirits, Western liquor"
+        "meaning": {
+          "vi": "Western wine and spirits, Western liquor"
+        },
+        "romaji": "youshu"
       },
       {
         "example": "清酒",
         "reading": "セイシュ",
-        "meaning": "refined sake"
+        "meaning": {
+          "en": "refined sake"
+        },
+        "romaji": "seishu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "酒",
         "reading": "さけ",
-        "meaning": "alcohol, sake"
+        "meaning": {
+          "en": "alcohol, sake"
+        },
+        "romaji": "sake"
       },
       {
         "example": "酒好き",
         "reading": "さけずき",
-        "meaning": "love of drink, fondness for alcohol, person who likes to drink, drinker"
+        "meaning": {
+          "vi": "love of drink, fondness for alcohol, person who likes to drink, drinker"
+        },
+        "romaji": "sakezuki"
       },
       {
         "example": "手酌酒",
         "reading": "てじゃくさけ",
-        "meaning": "pouring one's own drinks, drinking alone"
+        "meaning": {
+          "vi": "pouring one's own drinks, drinking alone"
+        },
+        "romaji": "tejakusake"
       },
       {
         "example": "小酒",
         "reading": "こさけ",
-        "meaning": "small drink, small amount of alcohol"
+        "meaning": {
+          "en": "small drink, small amount of alcohol"
+        },
+        "romaji": "kosake"
       }
     ],
     "radical": {
@@ -429,5 +453,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09152.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9152.gif",
     "uri": "https://jisho.org/search/%E9%85%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tửu"
+  ]
 }

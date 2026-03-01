@@ -17,22 +17,34 @@
       {
         "example": "彙",
         "reading": "イ",
-        "meaning": "kind, sort, type"
+        "meaning": {
+          "vi": "kind, sort, type"
+        },
+        "romaji": "i"
       },
       {
         "example": "彙報",
         "reading": "イホウ",
-        "meaning": "bulletin, collection of reports"
+        "meaning": {
+          "vi": "bulletin, collection of reports"
+        },
+        "romaji": "ihou"
       },
       {
         "example": "理解語彙",
         "reading": "リカイゴイ",
-        "meaning": "passive vocabulary"
+        "meaning": {
+          "vi": "passive vocabulary"
+        },
+        "romaji": "rikaigoi"
       },
       {
         "example": "使用語彙",
         "reading": "シヨウゴイ",
-        "meaning": "active vocabulary"
+        "meaning": {
+          "en": "active vocabulary"
+        },
+        "romaji": "shiyougoi"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f59.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f59.gif",
     "uri": "https://jisho.org/search/%E5%BD%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "vị",
+    "vựng"
+  ]
 }

@@ -16,29 +16,44 @@
       {
         "example": "蕾状期",
         "reading": "ライジョウキ",
-        "meaning": "bud stage (tooth)"
+        "meaning": {
+          "en": "bud stage (tooth)"
+        },
+        "romaji": "raijouki"
       },
       {
         "example": "花蕾",
         "reading": "カライ",
-        "meaning": "flower bud"
+        "meaning": {
+          "en": "flower bud"
+        },
+        "romaji": "karai"
       },
       {
         "example": "味蕾",
         "reading": "ミライ",
-        "meaning": "taste bud"
+        "meaning": {
+          "en": "taste bud"
+        },
+        "romaji": "mirai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蕾",
         "reading": "つぼみ",
-        "meaning": "(flower) bud, promising young person, budding beauty"
+        "meaning": {
+          "vi": "(flower) bud, promising young person, budding beauty"
+        },
+        "romaji": "tsubomi"
       },
       {
         "example": "薔薇のつぼみ",
         "reading": "ばらのつぼみ",
-        "meaning": "rosebud"
+        "meaning": {
+          "en": "rosebud"
+        },
+        "romaji": "baranotsubomi"
       }
     ],
     "radical": {
@@ -57,5 +72,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0857e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/857e.gif",
     "uri": "https://jisho.org/search/%E8%95%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "lôi",
+    "lội"
+  ]
 }

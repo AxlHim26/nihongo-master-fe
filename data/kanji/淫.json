@@ -21,29 +21,44 @@
       {
         "example": "淫",
         "reading": "イン",
-        "meaning": "licentiousness"
+        "meaning": {
+          "en": "licentiousness"
+        },
+        "romaji": "in"
       },
       {
         "example": "淫愛",
         "reading": "インアイ",
-        "meaning": "dirty love, sordid love"
+        "meaning": {
+          "en": "dirty love, sordid love"
+        },
+        "romaji": "in'ai"
       },
       {
         "example": "催淫",
         "reading": "サイイン",
-        "meaning": "arousing sexual desire"
+        "meaning": {
+          "en": "arousing sexual desire"
+        },
+        "romaji": "saiin"
       },
       {
         "example": "売淫",
         "reading": "バイイン",
-        "meaning": "prostitution"
+        "meaning": {
+          "vi": "prostitution"
+        },
+        "romaji": "baiin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "淫ら",
         "reading": "みだら",
-        "meaning": "obscene, indecent, lewd, bawdy, loose, improper, dirty"
+        "meaning": {
+          "vi": "obscene, indecent, lewd, bawdy, loose, improper, dirty"
+        },
+        "romaji": "midara"
       }
     ],
     "radical": {
@@ -65,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06deb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6deb.gif",
     "uri": "https://jisho.org/search/%E6%B7%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "dâm"
+  ]
 }

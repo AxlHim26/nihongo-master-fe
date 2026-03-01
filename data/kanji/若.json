@@ -358,89 +358,140 @@
       {
         "example": "若年",
         "reading": "ジャクネン",
-        "meaning": "youth"
+        "meaning": {
+          "en": "youth"
+        },
+        "romaji": "jakunen"
       },
       {
         "example": "若害",
         "reading": "ジャクガイ",
-        "meaning": "problems caused by young people, juvenile problem"
+        "meaning": {
+          "vi": "problems caused by young people, juvenile problem"
+        },
+        "romaji": "jakugai"
       },
       {
         "example": "老若",
         "reading": "ロウニャク",
-        "meaning": "young and old, all ages"
+        "meaning": {
+          "en": "young and old, all ages"
+        },
+        "romaji": "rounyaku"
       },
       {
         "example": "瞠若",
         "reading": "ドウジャク",
-        "meaning": "(staring in) astonishment, amazement"
+        "meaning": {
+          "en": "(staring in) astonishment, amazement"
+        },
+        "romaji": "doujaku"
       },
       {
         "example": "若僧",
         "reading": "ニャクソウ",
-        "meaning": "young monk, boy monk"
+        "meaning": {
+          "en": "young monk, boy monk"
+        },
+        "romaji": "nyakusou"
       },
       {
         "example": "若道",
         "reading": "ニャクドウ",
-        "meaning": "homosexuality, pederasty"
+        "meaning": {
+          "vi": "homosexuality, pederasty"
+        },
+        "romaji": "nyakudou"
       },
       {
         "example": "老若",
         "reading": "ロウニャク",
-        "meaning": "young and old, all ages"
+        "meaning": {
+          "en": "young and old, all ages"
+        },
+        "romaji": "rounyaku"
       },
       {
         "example": "若僧",
         "reading": "ニャクソウ",
-        "meaning": "young monk, boy monk"
+        "meaning": {
+          "en": "young monk, boy monk"
+        },
+        "romaji": "nyakusou"
       },
       {
         "example": "若道",
         "reading": "ニャクドウ",
-        "meaning": "homosexuality, pederasty"
+        "meaning": {
+          "vi": "homosexuality, pederasty"
+        },
+        "romaji": "nyakudou"
       },
       {
         "example": "般若",
         "reading": "ハンニャ",
-        "meaning": "prajna (wisdom required to attain enlightenment), hannya, mask of a grinning, horned demoness (represents a woman's rage and jealousy), dreadful face (esp. of a woman driven mad by jealousy), terrifying facial expression"
+        "meaning": {
+          "vi": "prajna (wisdom required to attain enlightenment), hannya, mask of a grinning, horned demoness (represents a woman's rage and jealousy), dreadful face (esp. of a woman driven mad by jealousy), terrifying facial expression"
+        },
+        "romaji": "hannya"
       },
       {
         "example": "麦般若",
         "reading": "ムギハンニャ",
-        "meaning": "beer"
+        "meaning": {
+          "en": "beer"
+        },
+        "romaji": "mugihannya"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "若い",
         "reading": "わかい",
-        "meaning": "young, youthful, immature, green, low (number), small"
+        "meaning": {
+          "en": "young, youthful, immature, green, low (number), small"
+        },
+        "romaji": "wakai"
       },
       {
         "example": "若い頃",
         "reading": "わかいころ",
-        "meaning": "one's youth, early life, one's early days, one's early years"
+        "meaning": {
+          "en": "one's youth, early life, one's early days, one's early years"
+        },
+        "romaji": "wakaikoro"
       },
       {
         "example": "若し",
         "reading": "もし",
-        "meaning": "if, in case, supposing"
+        "meaning": {
+          "vi": "if, in case, supposing"
+        },
+        "romaji": "moshi"
       },
       {
         "example": "若しかしたら",
         "reading": "もしかしたら",
-        "meaning": "perhaps, maybe, perchance, by some chance, by any chance"
+        "meaning": {
+          "vi": "perhaps, maybe, perchance, by some chance, by any chance"
+        },
+        "romaji": "moshikashitara"
       },
       {
         "example": "若しくは",
         "reading": "もしくは",
-        "meaning": "or, otherwise"
+        "meaning": {
+          "en": "or, otherwise"
+        },
+        "romaji": "moshikuha"
       },
       {
         "example": "如し",
         "reading": "ごとし",
-        "meaning": "like, as if, the same as"
+        "meaning": {
+          "en": "like, as if, the same as"
+        },
+        "romaji": "gotoshi"
       }
     ],
     "radical": {
@@ -460,5 +511,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82e5.gif",
     "uri": "https://jisho.org/search/%E8%8B%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhã",
+    "nhược"
+  ]
 }

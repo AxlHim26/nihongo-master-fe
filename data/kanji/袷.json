@@ -18,17 +18,26 @@
       {
         "example": "袷",
         "reading": "あわせ",
-        "meaning": "kimono có lót"
+        "meaning": {
+          "vi": "kimono có lót"
+        },
+        "romaji": "awase"
       },
       {
         "example": "秋袷",
         "reading": "あきあわせ",
-        "meaning": "kimono có lót mặc mùa thu"
+        "meaning": {
+          "vi": "kimono có lót mặc mùa thu"
+        },
+        "romaji": "akiawase"
       },
       {
         "example": "素袷",
         "reading": "すあわせ",
-        "meaning": "mặc kimono có lót không áo trong"
+        "meaning": {
+          "vi": "mặc kimono có lót không áo trong"
+        },
+        "romaji": "suawase"
       }
     ],
     "radical": {
@@ -48,5 +57,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088b7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88b7.gif",
     "uri": "https://jisho.org/search/%E8%A2%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "cáp",
+    "giáp",
+    "khiếp",
+    "kiếp"
+  ]
 }

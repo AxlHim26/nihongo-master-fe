@@ -275,44 +275,68 @@
       {
         "example": "粒",
         "reading": "ツブ",
-        "meaning": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops"
+        "meaning": {
+          "vi": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops"
+        },
+        "romaji": "tsubu"
       },
       {
         "example": "粒子",
         "reading": "リュウシ",
-        "meaning": "particle, grain"
+        "meaning": {
+          "vi": "particle, grain"
+        },
+        "romaji": "ryuushi"
       },
       {
         "example": "細粒",
         "reading": "サイリュウ",
-        "meaning": "fine grain, fine granule, microsphere"
+        "meaning": {
+          "vi": "fine grain, fine granule, microsphere"
+        },
+        "romaji": "sairyuu"
       },
       {
         "example": "粒々",
         "reading": "リュウリュウ",
-        "meaning": "each grain, every grain"
+        "meaning": {
+          "en": "each grain, every grain"
+        },
+        "romaji": "ryuuryuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粒",
         "reading": "つぶ",
-        "meaning": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops"
+        "meaning": {
+          "vi": "grain, bead, drop, counter for small round objects including grains, seeds, pills, drops"
+        },
+        "romaji": "tsubu"
       },
       {
         "example": "粒状",
         "reading": "りゅうじょう",
-        "meaning": "granular, granulated"
+        "meaning": {
+          "en": "granular, granulated"
+        },
+        "romaji": "ryuujou"
       },
       {
         "example": "米粒",
         "reading": "こめつぶ",
-        "meaning": "grain of rice"
+        "meaning": {
+          "en": "grain of rice"
+        },
+        "romaji": "kometsubu"
       },
       {
         "example": "小粒",
         "reading": "こつぶ",
-        "meaning": "small (of a grain or berry, etc.), small (in stature), limited (in abilities)"
+        "meaning": {
+          "en": "small (of a grain or berry, etc.), small (in stature), limited (in abilities)"
+        },
+        "romaji": "kotsubu"
       }
     ],
     "radical": {
@@ -327,5 +351,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c92.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c92.gif",
     "uri": "https://jisho.org/search/%E7%B2%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạp"
+  ]
 }

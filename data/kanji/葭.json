@@ -18,17 +18,26 @@
       {
         "example": "葦",
         "reading": "あし",
-        "meaning": "common reed (Phragmites australis)"
+        "meaning": {
+          "vi": "common reed (Phragmites australis)"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "葭切",
         "reading": "よしきり",
-        "meaning": "reed warbler (esp. the great reed warbler, but also the black-browed reed warbler)"
+        "meaning": {
+          "vi": "reed warbler (esp. the great reed warbler, but also the black-browed reed warbler)"
+        },
+        "romaji": "yoshikiri"
       },
       {
         "example": "葦",
         "reading": "あし",
-        "meaning": "common reed (Phragmites australis)"
+        "meaning": {
+          "vi": "common reed (Phragmites australis)"
+        },
+        "romaji": "ashi"
       }
     ],
     "radical": {
@@ -47,5 +56,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846d.gif",
     "uri": "https://jisho.org/search/%E8%91%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "gia",
+    "hà"
+  ]
 }

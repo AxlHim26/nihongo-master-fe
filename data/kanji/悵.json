@@ -17,7 +17,10 @@
       {
         "example": "悵然",
         "reading": "チョウゼン",
-        "meaning": "disappointed, upset, sad, sorrowful"
+        "meaning": {
+          "vi": "disappointed, upset, sad, sorrowful"
+        },
+        "romaji": "chouzen"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060b5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60b5.gif",
     "uri": "https://jisho.org/search/%E6%82%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "trướng"
+  ]
 }

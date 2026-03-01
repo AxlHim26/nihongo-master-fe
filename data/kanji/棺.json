@@ -17,22 +17,34 @@
       {
         "example": "棺",
         "reading": "カン",
-        "meaning": "coffin, casket"
+        "meaning": {
+          "en": "coffin, casket"
+        },
+        "romaji": "kan"
       },
       {
         "example": "棺桶",
         "reading": "カンオケ",
-        "meaning": "coffin, casket"
+        "meaning": {
+          "en": "coffin, casket"
+        },
+        "romaji": "kan'oke"
       },
       {
         "example": "石棺",
         "reading": "セッカン",
-        "meaning": "sarcophagus, stone coffin"
+        "meaning": {
+          "vi": "sarcophagus, stone coffin"
+        },
+        "romaji": "sekkan"
       },
       {
         "example": "納棺",
         "reading": "ノウカン",
-        "meaning": "placing a body in a coffin"
+        "meaning": {
+          "vi": "placing a body in a coffin"
+        },
+        "romaji": "noukan"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68fa.gif",
     "uri": "https://jisho.org/search/%E6%A3%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "quan",
+    "quán"
+  ]
 }

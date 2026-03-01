@@ -14,7 +14,10 @@
       {
         "example": "凵繞",
         "reading": "カンニョウ",
-        "meaning": "kanji \"box\" radical (radical 17)"
+        "meaning": {
+          "en": "kanji \"box\" radical (radical 17)"
+        },
+        "romaji": "kannyou"
       }
     ],
     "kunyomiExamples": [],
@@ -29,5 +32,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f5.gif",
     "uri": "https://jisho.org/search/%E5%87%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "khảm"
+  ]
 }

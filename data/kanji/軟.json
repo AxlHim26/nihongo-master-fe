@@ -289,39 +289,60 @@
       {
         "example": "軟",
         "reading": "ナン",
-        "meaning": "soft"
+        "meaning": {
+          "en": "soft"
+        },
+        "romaji": "nan"
       },
       {
         "example": "軟化",
         "reading": "ナンカ",
-        "meaning": "softening, softening (of attitude), mollification, weakening (of the market), blanching (of vegetables; by depriving them of light)"
+        "meaning": {
+          "vi": "softening, softening (of attitude), mollification, weakening (of the market), blanching (of vegetables; by depriving them of light)"
+        },
+        "romaji": "nanka"
       },
       {
         "example": "硬軟",
         "reading": "コウナン",
-        "meaning": "hardness and softness, hard line and moderate line"
+        "meaning": {
+          "en": "hardness and softness, hard line and moderate line"
+        },
+        "romaji": "kounan"
       },
       {
         "example": "軽軟",
         "reading": "ケイナン",
-        "meaning": "light and soft (of a wood)"
+        "meaning": {
+          "en": "light and soft (of a wood)"
+        },
+        "romaji": "keinan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柔らか",
         "reading": "やわらか",
-        "meaning": "soft, tender, pliant, supple, soft (colour, light, etc.), subdued, gentle (demeanour, voice, etc.), mild, informal, light, flexible (e.g. thinking)"
+        "meaning": {
+          "vi": "soft, tender, pliant, supple, soft (colour, light, etc.), subdued, gentle (demeanour, voice, etc.), mild, informal, light, flexible (e.g. thinking)"
+        },
+        "romaji": "yawaraka"
       },
       {
         "example": "柔らかい",
         "reading": "やわらかい",
-        "meaning": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        "meaning": {
+          "vi": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        },
+        "romaji": "yawarakai"
       },
       {
         "example": "柔らかい",
         "reading": "やわらかい",
-        "meaning": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        "meaning": {
+          "vi": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        },
+        "romaji": "yawarakai"
       }
     ],
     "radical": {
@@ -336,5 +357,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08edf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8edf.gif",
     "uri": "https://jisho.org/search/%E8%BB%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhuyễn"
+  ]
 }

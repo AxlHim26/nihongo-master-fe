@@ -353,39 +353,60 @@
       {
         "example": "支",
         "reading": "シ",
-        "meaning": "China"
+        "meaning": {
+          "en": "China"
+        },
+        "romaji": "shi"
       },
       {
         "example": "支援",
         "reading": "シエン",
-        "meaning": "support, backing, aid, assistance"
+        "meaning": {
+          "vi": "support, backing, aid, assistance"
+        },
+        "romaji": "shien"
       },
       {
         "example": "気管支",
         "reading": "キカンシ",
-        "meaning": "bronchus, bronchial tube"
+        "meaning": {
+          "en": "bronchus, bronchial tube"
+        },
+        "romaji": "kikanshi"
       },
       {
         "example": "干支",
         "reading": "エト",
-        "meaning": "sexagenary cycle, 60-term cycle of 12 zodiac animals combined with 5 elements in the traditional Chinese calendar; currently used in Japan for years, historically also for days, 12-year Chinese zodiac"
+        "meaning": {
+          "vi": "sexagenary cycle, 60-term cycle of 12 zodiac animals combined with 5 elements in the traditional Chinese calendar; currently used in Japan for years, historically also for days, 12-year Chinese zodiac"
+        },
+        "romaji": "eto"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "支える",
         "reading": "ささえる",
-        "meaning": "to support, to prop, to sustain, to underlay, to hold up, to defend, to hold at bay, to stem, to check"
+        "meaning": {
+          "vi": "to support, to prop, to sustain, to underlay, to hold up, to defend, to hold at bay, to stem, to check"
+        },
+        "romaji": "sasaeru"
       },
       {
         "example": "閊える",
         "reading": "つかえる",
-        "meaning": "to stick, to get stuck, to get caught, to get jammed, to clog, to be unavailable, to be busy, to be occupied, to be full, to be piled up (e.g. of work), to halt (in one's speech), to stumble (over one's words), to stutter, to stammer, to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.), to feel pressure, to feel pain"
+        "meaning": {
+          "vi": "to stick, to get stuck, to get caught, to get jammed, to clog, to be unavailable, to be busy, to be occupied, to be full, to be piled up (e.g. of work), to halt (in one's speech), to stumble (over one's words), to stutter, to stammer, to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.), to feel pressure, to feel pain"
+        },
+        "romaji": "tsukaeru"
       },
       {
         "example": "支う",
         "reading": "かう",
-        "meaning": "to support, to prop up"
+        "meaning": {
+          "vi": "to support, to prop up"
+        },
+        "romaji": "kau"
       }
     ],
     "radical": {
@@ -401,5 +422,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652f.gif",
     "uri": "https://jisho.org/search/%E6%94%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi"
+  ]
 }

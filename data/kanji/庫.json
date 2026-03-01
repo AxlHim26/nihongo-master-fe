@@ -288,44 +288,68 @@
       {
         "example": "庫内",
         "reading": "コナイ",
-        "meaning": "inside (a refrigerator, warehouse, etc.)"
+        "meaning": {
+          "en": "inside (a refrigerator, warehouse, etc.)"
+        },
+        "romaji": "konai"
       },
       {
         "example": "住宅金融公庫",
         "reading": "ジュウタクキンユウコウコ",
-        "meaning": "Government Housing Loan Corporation"
+        "meaning": {
+          "vi": "Government Housing Loan Corporation"
+        },
+        "romaji": "juutakukin'yuukouko"
       },
       {
         "example": "公庫",
         "reading": "コウコ",
-        "meaning": "finance corporation"
+        "meaning": {
+          "vi": "finance corporation"
+        },
+        "romaji": "kouko"
       },
       {
         "example": "蔵",
         "reading": "クラ",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": {
+          "vi": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        },
+        "romaji": "kura"
       },
       {
         "example": "庫院",
         "reading": "クイン",
-        "meaning": "kitchen-cum-office of a Zen temple or monastery, where meals are prepared and senior priests have their offices"
+        "meaning": {
+          "vi": "kitchen-cum-office of a Zen temple or monastery, where meals are prepared and senior priests have their offices"
+        },
+        "romaji": "kuin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔵",
         "reading": "くら",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": {
+          "vi": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        },
+        "romaji": "kura"
       },
       {
         "example": "蔵入れ",
         "reading": "くらいれ",
-        "meaning": "warehousing, storing in a warehouse"
+        "meaning": {
+          "en": "warehousing, storing in a warehouse"
+        },
+        "romaji": "kuraire"
       },
       {
         "example": "神庫",
         "reading": "ほくら",
-        "meaning": "small shrine, depository for sacred objects"
+        "meaning": {
+          "vi": "small shrine, depository for sacred objects"
+        },
+        "romaji": "hokura"
       }
     ],
     "radical": {
@@ -340,5 +364,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eab.gif",
     "uri": "https://jisho.org/search/%E5%BA%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "khố"
+  ]
 }

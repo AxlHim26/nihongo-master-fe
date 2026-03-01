@@ -15,7 +15,10 @@
       {
         "example": "俥",
         "reading": "くるま",
-        "meaning": "rickshaw, jinrikisha"
+        "meaning": {
+          "en": "rickshaw, jinrikisha"
+        },
+        "romaji": "kuruma"
       }
     ],
     "radical": {
@@ -33,5 +36,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fe5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fe5.gif",
     "uri": "https://jisho.org/search/%E4%BF%A5%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

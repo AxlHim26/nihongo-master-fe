@@ -18,7 +18,10 @@
       {
         "example": "嬲る",
         "reading": "なぶる",
-        "meaning": "trêu chọc, chế nhạo, chế giễu, chơi đùa (đồ chơi), nghịch, vọc"
+        "meaning": {
+          "vi": "trêu chọc, chế nhạo, chế giễu, chơi đùa (đồ chơi), nghịch, vọc"
+        },
+        "romaji": "naburu"
       }
     ],
     "radical": {
@@ -34,5 +37,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b32.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b32.gif",
     "uri": "https://jisho.org/search/%E5%AC%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "niểu",
+    "niễu",
+    "điều",
+    "điểu"
+  ]
 }

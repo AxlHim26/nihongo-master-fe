@@ -349,44 +349,68 @@
       {
         "example": "野",
         "reading": "ノ",
-        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post"
+        "meaning": {
+          "vi": "plain, field, hidden (structural) member, wild, lacking a political post"
+        },
+        "romaji": "no"
       },
       {
         "example": "野外",
         "reading": "ヤガイ",
-        "meaning": "outdoors, outside, open air, fields, outskirts, suburbs"
+        "meaning": {
+          "vi": "outdoors, outside, open air, fields, outskirts, suburbs"
+        },
+        "romaji": "yagai"
       },
       {
         "example": "内野",
         "reading": "ナイヤ",
-        "meaning": "infield, diamond"
+        "meaning": {
+          "en": "infield, diamond"
+        },
+        "romaji": "naiya"
       },
       {
         "example": "在野",
         "reading": "ザイヤ",
-        "meaning": "out of office, out of power, in opposition, unaffiliated (e.g. researcher, scientist), in private practice"
+        "meaning": {
+          "vi": "out of office, out of power, in opposition, unaffiliated (e.g. researcher, scientist), in private practice"
+        },
+        "romaji": "zaiya"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "野",
         "reading": "の",
-        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post"
+        "meaning": {
+          "vi": "plain, field, hidden (structural) member, wild, lacking a political post"
+        },
+        "romaji": "no"
       },
       {
         "example": "野末",
         "reading": "のずえ",
-        "meaning": "corners of a field"
+        "meaning": {
+          "en": "corners of a field"
+        },
+        "romaji": "nozue"
       },
       {
         "example": "裾野",
         "reading": "すその",
-        "meaning": "foot of a mountain, plain at the foot of a mountain, range, spread, extent, encompassing circle"
+        "meaning": {
+          "vi": "foot of a mountain, plain at the foot of a mountain, range, spread, extent, encompassing circle"
+        },
+        "romaji": "susono"
       },
       {
         "example": "郊野",
         "reading": "こうの",
-        "meaning": "suburban fields"
+        "meaning": {
+          "en": "suburban fields"
+        },
+        "romaji": "kouno"
       }
     ],
     "radical": {
@@ -402,5 +426,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ce.gif",
     "uri": "https://jisho.org/search/%E9%87%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "dã"
+  ]
 }

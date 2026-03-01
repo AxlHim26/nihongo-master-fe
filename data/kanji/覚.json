@@ -332,44 +332,68 @@
       {
         "example": "覚醒剤",
         "reading": "カクセイザイ",
-        "meaning": "stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)"
+        "meaning": {
+          "vi": "stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)"
+        },
+        "romaji": "kakuseizai"
       },
       {
         "example": "覚悟",
         "reading": "カクゴ",
-        "meaning": "readiness, (mental) preparedness, resolution, determination, resignation (to one's fate)"
+        "meaning": {
+          "vi": "readiness, (mental) preparedness, resolution, determination, resignation (to one's fate)"
+        },
+        "romaji": "kakugo"
       },
       {
         "example": "視聴覚",
         "reading": "シチョウカク",
-        "meaning": "senses of seeing and hearing, audiovisual"
+        "meaning": {
+          "en": "senses of seeing and hearing, audiovisual"
+        },
+        "romaji": "shichoukaku"
       },
       {
         "example": "才覚",
         "reading": "サイカク",
-        "meaning": "ready wit, quick wits, resourcefulness, talent, acumen, powers, knack, raising (money)"
+        "meaning": {
+          "vi": "ready wit, quick wits, resourcefulness, talent, acumen, powers, knack, raising (money)"
+        },
+        "romaji": "saikaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "覚える",
         "reading": "おぼえる",
-        "meaning": "to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember, to learn, to pick up, to acquire, to feel, to think, to regard"
+        "meaning": {
+          "vi": "to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember, to learn, to pick up, to acquire, to feel, to think, to regard"
+        },
+        "romaji": "oboeru"
       },
       {
         "example": "覚ます",
         "reading": "さます",
-        "meaning": "to awaken, to arouse from sleep, to bring to one's senses, to disabuse (someone of), to sober up, to dampen, to throw a damper on, to spoil"
+        "meaning": {
+          "vi": "to awaken, to arouse from sleep, to bring to one's senses, to disabuse (someone of), to sober up, to dampen, to throw a damper on, to spoil"
+        },
+        "romaji": "samasu"
       },
       {
         "example": "覚める",
         "reading": "さめる",
-        "meaning": "to wake, to wake up, to become sober, to sober up, to regain consciousness (e.g. after anaesthesia), to come to one's senses, to be disillusioned"
+        "meaning": {
+          "vi": "to wake, to wake up, to become sober, to sober up, to regain consciousness (e.g. after anaesthesia), to come to one's senses, to be disillusioned"
+        },
+        "romaji": "sameru"
       },
       {
         "example": "悟る",
         "reading": "さとる",
-        "meaning": "to perceive, to sense, to become aware, to notice, to detect, to discern, to understand, to comprehend, to realize, to attain enlightenment"
+        "meaning": {
+          "vi": "to perceive, to sense, to become aware, to notice, to detect, to discern, to understand, to comprehend, to realize, to attain enlightenment"
+        },
+        "romaji": "satoru"
       }
     ],
     "radical": {
@@ -385,5 +409,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0899a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/899a.gif",
     "uri": "https://jisho.org/search/%E8%A6%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "giác",
+    "giáo"
+  ]
 }

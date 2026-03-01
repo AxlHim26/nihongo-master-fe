@@ -268,22 +268,34 @@
       {
         "example": "協議",
         "reading": "キョウギ",
-        "meaning": "conference, consultation, discussion, negotiation"
+        "meaning": {
+          "en": "conference, consultation, discussion, negotiation"
+        },
+        "romaji": "kyougi"
       },
       {
         "example": "協会",
         "reading": "キョウカイ",
-        "meaning": "association, society, organization, organisation"
+        "meaning": {
+          "en": "association, society, organization, organisation"
+        },
+        "romaji": "kyoukai"
       },
       {
         "example": "農協",
         "reading": "ノウキョウ",
-        "meaning": "agricultural cooperative"
+        "meaning": {
+          "vi": "agricultural cooperative"
+        },
+        "romaji": "noukyou"
       },
       {
         "example": "経協",
         "reading": "ケイキョウ",
-        "meaning": "management association, management conference, management institute"
+        "meaning": {
+          "en": "management association, management conference, management institute"
+        },
+        "romaji": "keikyou"
       }
     ],
     "kunyomiExamples": [],
@@ -299,5 +311,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05354.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5354.gif",
     "uri": "https://jisho.org/search/%E5%8D%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệp"
+  ]
 }

@@ -20,12 +20,18 @@
       {
         "example": "鍾",
         "reading": "ショウ",
-        "meaning": "round bronze jar used for storing alcohol (Han dynasty China)"
+        "meaning": {
+          "en": "round bronze jar used for storing alcohol (Han dynasty China)"
+        },
+        "romaji": "shou"
       },
       {
         "example": "鍾乳洞",
         "reading": "ショウニュウドウ",
-        "meaning": "limestone cave, limestone cavern"
+        "meaning": {
+          "en": "limestone cave, limestone cavern"
+        },
+        "romaji": "shounyuudou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0937e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/937e.gif",
     "uri": "https://jisho.org/search/%E9%8D%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "chung"
+  ]
 }

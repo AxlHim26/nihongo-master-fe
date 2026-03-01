@@ -376,59 +376,92 @@
       {
         "example": "定価",
         "reading": "テイカ",
-        "meaning": "list price, regular price, established price"
+        "meaning": {
+          "vi": "list price, regular price, established price"
+        },
+        "romaji": "teika"
       },
       {
         "example": "定員",
         "reading": "テイイン",
-        "meaning": "fixed number (of people), prescribed number (of regular personnel, students, etc.), quota, numerical limit, complement, capacity (of a bus, boat, theatre, etc.), seating capacity"
+        "meaning": {
+          "vi": "fixed number (of people), prescribed number (of regular personnel, students, etc.), quota, numerical limit, complement, capacity (of a bus, boat, theatre, etc.), seating capacity"
+        },
+        "romaji": "teiin"
       },
       {
         "example": "裁定",
         "reading": "サイテイ",
-        "meaning": "decision, ruling, award, arbitration"
+        "meaning": {
+          "en": "decision, ruling, award, arbitration"
+        },
+        "romaji": "saitei"
       },
       {
         "example": "改定",
         "reading": "カイテイ",
-        "meaning": "revision (of a rule, price, etc.), alteration, change"
+        "meaning": {
+          "vi": "revision (of a rule, price, etc.), alteration, change"
+        },
+        "romaji": "kaitei"
       },
       {
         "example": "定",
         "reading": "ジョウ",
-        "meaning": "certainty, reality, actuality, regular, permanent, samadhi (state of intense concentration achieved through meditation)"
+        "meaning": {
+          "vi": "certainty, reality, actuality, regular, permanent, samadhi (state of intense concentration achieved through meditation)"
+        },
+        "romaji": "jou"
       },
       {
         "example": "定住",
         "reading": "テイジュウ",
-        "meaning": "settlement, permanent residency"
+        "meaning": {
+          "vi": "settlement, permanent residency"
+        },
+        "romaji": "teijuu"
       },
       {
         "example": "不定",
         "reading": "フジョウ",
-        "meaning": "uncertainty, insecurity, inconstancy, indefinite, undecided"
+        "meaning": {
+          "en": "uncertainty, insecurity, inconstancy, indefinite, undecided"
+        },
+        "romaji": "fujou"
       },
       {
         "example": "改定",
         "reading": "カイテイ",
-        "meaning": "revision (of a rule, price, etc.), alteration, change"
+        "meaning": {
+          "vi": "revision (of a rule, price, etc.), alteration, change"
+        },
+        "romaji": "kaitei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "定める",
         "reading": "さだめる",
-        "meaning": "to decide, to determine, to establish, to lay down, to prescribe, to provide, to stipulate, to bring peace (to), to make peaceful"
+        "meaning": {
+          "vi": "to decide, to determine, to establish, to lay down, to prescribe, to provide, to stipulate, to bring peace (to), to make peaceful"
+        },
+        "romaji": "sadameru"
       },
       {
         "example": "定まる",
         "reading": "さだまる",
-        "meaning": "to become settled, to be fixed"
+        "meaning": {
+          "en": "to become settled, to be fixed"
+        },
+        "romaji": "sadamaru"
       },
       {
         "example": "定か",
         "reading": "さだか",
-        "meaning": "definite, sure"
+        "meaning": {
+          "en": "definite, sure"
+        },
+        "romaji": "sadaka"
       }
     ],
     "radical": {
@@ -443,5 +476,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9a.gif",
     "uri": "https://jisho.org/search/%E5%AE%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "đính",
+    "định"
+  ]
 }

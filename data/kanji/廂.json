@@ -18,7 +18,10 @@
       {
         "example": "庇",
         "reading": "ひさし",
-        "meaning": "awning (over a window, doorway, etc.), eaves (of a roof), narrow aisle surrounding the core of a temple building, visor (of a cap), brim, peak, classic Japanese women's low pompadour hairstyle"
+        "meaning": {
+          "vi": "awning (over a window, doorway, etc.), eaves (of a roof), narrow aisle surrounding the core of a temple building, visor (of a cap), brim, peak, classic Japanese women's low pompadour hairstyle"
+        },
+        "romaji": "hisashi"
       }
     ],
     "radical": {
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec2.gif",
     "uri": "https://jisho.org/search/%E5%BB%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "sương",
+    "tương"
+  ]
 }

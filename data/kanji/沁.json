@@ -17,7 +17,10 @@
       {
         "example": "染みる",
         "reading": "しみる",
-        "meaning": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+        "meaning": {
+          "vi": "to pierce, to penetrate, to soak in, to permeate, to sting (wound or sensitive area, etc.), to smart, to twinge, to be infected (with vice), to be steeped (with prejudice), to be influenced, to feel keenly, to make a deep impression"
+        },
+        "romaji": "shimiru"
       }
     ],
     "radical": {
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c81.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c81.gif",
     "uri": "https://jisho.org/search/%E6%B2%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "sấm",
+    "thấm"
+  ]
 }

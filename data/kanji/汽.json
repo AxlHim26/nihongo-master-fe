@@ -200,12 +200,18 @@
       {
         "example": "汽車",
         "reading": "キシャ",
-        "meaning": "train (esp. long distance train), steam train"
+        "meaning": {
+          "vi": "train (esp. long distance train), steam train"
+        },
+        "romaji": "kisha"
       },
       {
         "example": "汽船",
         "reading": "キセン",
-        "meaning": "steamship, steamboat, steamer"
+        "meaning": {
+          "vi": "steamship, steamboat, steamer"
+        },
+        "romaji": "kisen"
       }
     ],
     "kunyomiExamples": [],
@@ -226,5 +232,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7d.gif",
     "uri": "https://jisho.org/search/%E6%B1%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hất",
+    "khí",
+    "ất"
+  ]
 }

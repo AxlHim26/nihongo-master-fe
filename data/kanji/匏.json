@@ -18,7 +18,10 @@
       {
         "example": "瓠",
         "reading": "ひさご",
-        "meaning": "gourd, calabash, bottle gourd, dried gourd, used as flask"
+        "meaning": {
+          "en": "gourd, calabash, bottle gourd, dried gourd, used as flask"
+        },
+        "romaji": "hisago"
       }
     ],
     "radical": {
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0530f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/530f.gif",
     "uri": "https://jisho.org/search/%E5%8C%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "biều",
+    "bào"
+  ]
 }

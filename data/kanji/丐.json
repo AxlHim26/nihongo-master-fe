@@ -16,7 +16,19 @@
       {
         "example": "乞丐",
         "reading": "コツガイ",
-        "meaning": "ăn xin, kẻ lang thang"
+        "meaning": {
+          "vi": "ăn xin, kẻ lang thang",
+          "en": "ăn xin, kẻ lang thang"
+        },
+        "hanViet": [
+          "khí",
+          "cái"
+        ],
+        "hanVietExplain": {
+          "vi": "乞 (khí: kẻ ăn mày, người ăn xin) + 丐 (cái: kẻ ăn mày) → ăn xin, kẻ lang thang",
+          "en": "乞 (qi: beggar, beggar) + 丐 (ma: beggar) → beggar, vagabond"
+        },
+        "romaji": "kotsugai"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +46,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e10.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e10.gif",
     "uri": "https://jisho.org/search/%E4%B8%90%23kanji"
+  },
+  "hanViet": [
+    "cái"
+  ],
+  "hanVietExplain": {
+    "vi": "cái: kẻ ăn mày, cầu xin",
+    "en": "what: beggar, begging"
+  },
+  "meaning": {
+    "vi": "ăn xin, xin, cho",
+    "en": "ăn xin, xin, cho"
   }
 }

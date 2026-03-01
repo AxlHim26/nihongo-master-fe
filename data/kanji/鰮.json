@@ -17,12 +17,18 @@
       {
         "example": "鰯",
         "reading": "いわし",
-        "meaning": "pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine"
+        "meaning": {
+          "vi": "pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine"
+        },
+        "romaji": "iwashi"
       },
       {
         "example": "関取鰮",
         "reading": "せきとりいわし",
-        "meaning": "Rouleina watasei (type of slickhead fish)"
+        "meaning": {
+          "vi": "Rouleina watasei (type of slickhead fish)"
+        },
+        "romaji": "sekitoriiwashi"
       }
     ],
     "radical": {
@@ -41,5 +47,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c2e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c2e.gif",
     "uri": "https://jisho.org/search/%E9%B0%AE%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

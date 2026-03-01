@@ -18,7 +18,10 @@
       {
         "example": "胙",
         "reading": "ひもろぎ",
-        "meaning": "offerings of food (to the gods)"
+        "meaning": {
+          "en": "offerings of food (to the gods)"
+        },
+        "romaji": "himorogi"
       }
     ],
     "radical": {
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80d9.gif",
     "uri": "https://jisho.org/search/%E8%83%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "tạc",
+    "tộ"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "飢餓",
         "reading": "キガ",
-        "meaning": "starvation, famine, hunger"
+        "meaning": {
+          "en": "starvation, famine, hunger"
+        },
+        "romaji": "kiga"
       },
       {
         "example": "飢饉",
         "reading": "キキン",
-        "meaning": "famine, crop failure, chronic shortage (e.g. of water)"
+        "meaning": {
+          "vi": "famine, crop failure, chronic shortage (e.g. of water)"
+        },
+        "romaji": "kikin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飢える",
         "reading": "うえる",
-        "meaning": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+        "meaning": {
+          "en": "to starve, to be famished, to be hungry, to be starved of (e.g. love), to be thirsty for (e.g. knowledge), to be hungry for"
+        },
+        "romaji": "ueru"
       }
     ],
     "radical": {
@@ -49,5 +58,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09951.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9951.gif",
     "uri": "https://jisho.org/search/%E9%A5%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "ki",
+    "ky"
+  ]
 }

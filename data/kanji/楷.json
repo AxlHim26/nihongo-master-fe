@@ -15,12 +15,18 @@
       {
         "example": "楷",
         "reading": "カイ",
-        "meaning": "regular script (of Chinese characters), square style, block style, standard style, Chinese pistache (Pistacia chinensis)"
+        "meaning": {
+          "vi": "regular script (of Chinese characters), square style, block style, standard style, Chinese pistache (Pistacia chinensis)"
+        },
+        "romaji": "kai"
       },
       {
         "example": "楷書",
         "reading": "カイショ",
-        "meaning": "printed style (of writing Chinese characters), square style, block style, standard style"
+        "meaning": {
+          "vi": "printed style (of writing Chinese characters), square style, block style, standard style"
+        },
+        "romaji": "kaisho"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06977.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6977.gif",
     "uri": "https://jisho.org/search/%E6%A5%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "giai",
+    "khải"
+  ]
 }

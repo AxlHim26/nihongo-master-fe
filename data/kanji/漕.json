@@ -18,29 +18,44 @@
       {
         "example": "漕艇",
         "reading": "ソウテイ",
-        "meaning": "rowing, boating"
+        "meaning": {
+          "en": "rowing, boating"
+        },
+        "romaji": "soutei"
       },
       {
         "example": "漕艇場",
         "reading": "ソウテイジョウ",
-        "meaning": "rowing course, rowing centre (center)"
+        "meaning": {
+          "en": "rowing course, rowing centre (center)"
+        },
+        "romaji": "souteijou"
       },
       {
         "example": "回漕",
         "reading": "カイソウ",
-        "meaning": "shipping, transport by sea"
+        "meaning": {
+          "vi": "shipping, transport by sea"
+        },
+        "romaji": "kaisou"
       },
       {
         "example": "サバニ帆漕",
         "reading": "サバニハンソウ",
-        "meaning": "sabani sailing and paddling regatta (Okinawa)"
+        "meaning": {
+          "vi": "sabani sailing and paddling regatta (Okinawa)"
+        },
+        "romaji": "sabanihansou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漕ぐ",
         "reading": "こぐ",
-        "meaning": "to row, to paddle, to scull, to pull (the oars), to pedal (a bicycle, etc.), to swing (on a swing), to work (a hand pump), to push through (a thicket, deep snow, etc.)"
+        "meaning": {
+          "vi": "to row, to paddle, to scull, to pull (the oars), to pedal (a bicycle, etc.), to swing (on a swing), to work (a hand pump), to push through (a thicket, deep snow, etc.)"
+        },
+        "romaji": "kogu"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f15.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f15.gif",
     "uri": "https://jisho.org/search/%E6%BC%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "tào"
+  ]
 }

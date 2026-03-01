@@ -18,24 +18,36 @@
       {
         "example": "棹歌",
         "reading": "トウカ",
-        "meaning": "boatmen's song"
+        "meaning": {
+          "en": "boatmen's song"
+        },
+        "romaji": "touka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "竿",
         "reading": "さお",
-        "meaning": "rod, pole, neck (of a shamisen, etc.), shamisen, beam (i.e. the crossbar of a balance), single line (esp. as a flying formation for geese), penis, counter for flags (on poles), counter for long, thin Japanese sweets (e.g. yōkan)"
+        "meaning": {
+          "vi": "rod, pole, neck (of a shamisen, etc.), shamisen, beam (i.e. the crossbar of a balance), single line (esp. as a flying formation for geese), penis, counter for flags (on poles), counter for long, thin Japanese sweets (e.g. yōkan)"
+        },
+        "romaji": "sao"
       },
       {
         "example": "棹さす",
         "reading": "さおさす",
-        "meaning": "to pole (a boat), to punt (a boat), to swim with (the tide), to go with (the flow, the times, etc.), to go against (the tide, the flow, etc.)"
+        "meaning": {
+          "vi": "to pole (a boat), to punt (a boat), to swim with (the tide), to go with (the flow, the times, etc.), to go against (the tide, the flow, etc.)"
+        },
+        "romaji": "saosasu"
       },
       {
         "example": "殻竿",
         "reading": "からざお",
-        "meaning": "flail (for threshing grain)"
+        "meaning": {
+          "en": "flail (for threshing grain)"
+        },
+        "romaji": "karazao"
       }
     ],
     "radical": {
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68f9.gif",
     "uri": "https://jisho.org/search/%E6%A3%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "trác",
+    "trạo"
+  ]
 }

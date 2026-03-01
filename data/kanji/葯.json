@@ -14,7 +14,10 @@
       {
         "example": "葯",
         "reading": "ヤク",
-        "meaning": "anther"
+        "meaning": {
+          "en": "anther"
+        },
+        "romaji": "yaku"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846f.gif",
     "uri": "https://jisho.org/search/%E8%91%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "dược",
+    "ước"
+  ]
 }

@@ -18,7 +18,10 @@
       {
         "example": "猪",
         "reading": "い",
-        "meaning": "hog (esp. a wild boar, but also including the domesticated pig)"
+        "meaning": {
+          "vi": "hog (esp. a wild boar, but also including the domesticated pig)"
+        },
+        "romaji": "i"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c6c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c6c.gif",
     "uri": "https://jisho.org/search/%E8%B1%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "trư"
+  ]
 }

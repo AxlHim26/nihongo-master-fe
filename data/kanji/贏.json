@@ -16,12 +16,18 @@
       {
         "example": "贏余",
         "reading": "エイヨ",
-        "meaning": "remainder"
+        "meaning": {
+          "en": "remainder"
+        },
+        "romaji": "eiyo"
       },
       {
         "example": "輸贏",
         "reading": "ユエイ",
-        "meaning": "gain or loss, victory or defeat"
+        "meaning": {
+          "en": "gain or loss, victory or defeat"
+        },
+        "romaji": "yuei"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d0f.gif",
     "uri": "https://jisho.org/search/%E8%B4%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "doanh"
+  ]
 }

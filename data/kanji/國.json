@@ -16,39 +16,60 @@
       {
         "example": "国際",
         "reading": "コクサイ",
-        "meaning": "international, diplomatic intercourse"
+        "meaning": {
+          "vi": "international, diplomatic intercourse"
+        },
+        "romaji": "kokusai"
       },
       {
         "example": "国語",
         "reading": "コクゴ",
-        "meaning": "national language, Japanese language (esp. as a school subject in Japan), one's native language, mother tongue, native Japanese words (as opposed to loanwords and Chinese-derived words)"
+        "meaning": {
+          "vi": "national language, Japanese language (esp. as a school subject in Japan), one's native language, mother tongue, native Japanese words (as opposed to loanwords and Chinese-derived words)"
+        },
+        "romaji": "kokugo"
       },
       {
         "example": "大韓民国",
         "reading": "ダイカンミンコク",
-        "meaning": "Republic of Korea, South Korea"
+        "meaning": {
+          "vi": "Republic of Korea, South Korea"
+        },
+        "romaji": "daikanminkoku"
       },
       {
         "example": "連合王国",
         "reading": "レンゴウオウコク",
-        "meaning": "United Kingdom"
+        "meaning": {
+          "en": "United Kingdom"
+        },
+        "romaji": "rengououkoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "国",
         "reading": "くに",
-        "meaning": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"
+        "meaning": {
+          "vi": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"
+        },
+        "romaji": "kuni"
       },
       {
         "example": "堅州国",
         "reading": "かたすくに",
-        "meaning": "underworld, netherworld"
+        "meaning": {
+          "en": "underworld, netherworld"
+        },
+        "romaji": "katasukuni"
       },
       {
         "example": "根の堅州国",
         "reading": "ねのかたすくに",
-        "meaning": "underworld, netherworld"
+        "meaning": {
+          "en": "underworld, netherworld"
+        },
+        "romaji": "nenokatasukuni"
       }
     ],
     "radical": {
@@ -64,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570b.gif",
     "uri": "https://jisho.org/search/%E5%9C%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "quốc"
+  ]
 }

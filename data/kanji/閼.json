@@ -20,12 +20,18 @@
       {
         "example": "閼伽",
         "reading": "アカ",
-        "meaning": "water offering to Buddha, holy water"
+        "meaning": {
+          "en": "water offering to Buddha, holy water"
+        },
+        "romaji": "aka"
       },
       {
         "example": "閼伽棚",
         "reading": "アカダナ",
-        "meaning": "shelf for offerings (of water, flowers, etc.)"
+        "meaning": {
+          "en": "shelf for offerings (of water, flowers, etc.)"
+        },
+        "romaji": "akadana"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95bc.gif",
     "uri": "https://jisho.org/search/%E9%96%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "yên",
+    "át"
+  ]
 }

@@ -287,59 +287,92 @@
       {
         "example": "肥満",
         "reading": "ヒマン",
-        "meaning": "corpulence, fatness, obesity"
+        "meaning": {
+          "vi": "corpulence, fatness, obesity"
+        },
+        "romaji": "himan"
       },
       {
         "example": "肥大",
         "reading": "ヒダイ",
-        "meaning": "swelling, enlargement, becoming fat, hypertrophy"
+        "meaning": {
+          "vi": "swelling, enlargement, becoming fat, hypertrophy"
+        },
+        "romaji": "hidai"
       },
       {
         "example": "堆肥",
         "reading": "タイヒ",
-        "meaning": "compost, manure"
+        "meaning": {
+          "vi": "compost, manure"
+        },
+        "romaji": "taihi"
       },
       {
         "example": "追肥",
         "reading": "ツイヒ",
-        "meaning": "(adding) extra fertilizer or manure (fertiliser)"
+        "meaning": {
+          "en": "(adding) extra fertilizer or manure (fertiliser)"
+        },
+        "romaji": "tsuihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肥える",
         "reading": "こえる",
-        "meaning": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy"
+        "meaning": {
+          "vi": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy"
+        },
+        "romaji": "koeru"
       },
       {
         "example": "肥",
         "reading": "こえ",
-        "meaning": "manure, night soil, dung, fertiliser, fertilizer"
+        "meaning": {
+          "en": "manure, night soil, dung, fertiliser, fertilizer"
+        },
+        "romaji": "koe"
       },
       {
         "example": "肥える",
         "reading": "こえる",
-        "meaning": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy"
+        "meaning": {
+          "vi": "to grow fat, to gain weight, to put on weight, to grow fertile (of soil), to be discerning (of one's palate, eye, ear, etc.), to be discriminating, to be refined, to become rich, to become wealthy"
+        },
+        "romaji": "koeru"
       },
       {
         "example": "肥やす",
         "reading": "こやす",
-        "meaning": "to fertilize, to fertilise, to manure, to enrich"
+        "meaning": {
+          "en": "to fertilize, to fertilise, to manure, to enrich"
+        },
+        "romaji": "koyasu"
       },
       {
         "example": "肥やし",
         "reading": "こやし",
-        "meaning": "manure, night soil, dung, fertiliser, fertilizer, something that will help one develop in the future"
+        "meaning": {
+          "vi": "manure, night soil, dung, fertiliser, fertilizer, something that will help one develop in the future"
+        },
+        "romaji": "koyashi"
       },
       {
         "example": "肥やし桶",
         "reading": "こやしおけ",
-        "meaning": "night soil pail"
+        "meaning": {
+          "vi": "night soil pail"
+        },
+        "romaji": "koyashioke"
       },
       {
         "example": "太る",
         "reading": "ふとる",
-        "meaning": "to put on weight, to gain weight, to grow fat, to get stout"
+        "meaning": {
+          "vi": "to put on weight, to gain weight, to grow fat, to get stout"
+        },
+        "romaji": "futoru"
       }
     ],
     "radical": {
@@ -357,5 +390,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80a5.gif",
     "uri": "https://jisho.org/search/%E8%82%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "phì"
+  ]
 }

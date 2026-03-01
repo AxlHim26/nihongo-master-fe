@@ -348,34 +348,52 @@
       {
         "example": "辞",
         "reading": "ジ",
-        "meaning": "address (e.g. opening or closing remarks), speech, words, ci (Chinese literary form), ancillary word"
+        "meaning": {
+          "vi": "address (e.g. opening or closing remarks), speech, words, ci (Chinese literary form), ancillary word"
+        },
+        "romaji": "ji"
       },
       {
         "example": "辞意",
         "reading": "ジイ",
-        "meaning": "intention to resign"
+        "meaning": {
+          "en": "intention to resign"
+        },
+        "romaji": "jii"
       },
       {
         "example": "弔辞",
         "reading": "チョウジ",
-        "meaning": "message of condolence, memorial address"
+        "meaning": {
+          "en": "message of condolence, memorial address"
+        },
+        "romaji": "chouji"
       },
       {
         "example": "修辞",
         "reading": "シュウジ",
-        "meaning": "figure of speech, rhetorical flourish"
+        "meaning": {
+          "vi": "figure of speech, rhetorical flourish"
+        },
+        "romaji": "shuuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辞める",
         "reading": "やめる",
-        "meaning": "to resign, to retire, to quit, to leave (one's job, etc.)"
+        "meaning": {
+          "en": "to resign, to retire, to quit, to leave (one's job, etc.)"
+        },
+        "romaji": "yameru"
       },
       {
         "example": "否む",
         "reading": "いなむ",
-        "meaning": "to refuse, to decline, to deny"
+        "meaning": {
+          "en": "to refuse, to decline, to deny"
+        },
+        "romaji": "inamu"
       }
     ],
     "radical": {
@@ -393,5 +411,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9e.gif",
     "uri": "https://jisho.org/search/%E8%BE%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "từ"
+  ]
 }

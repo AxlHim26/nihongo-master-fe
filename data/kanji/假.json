@@ -18,7 +18,10 @@
       {
         "example": "仮名",
         "reading": "カナ",
-        "meaning": "kana, Japanese syllabaries (i.e. hiragana and katakana)"
+        "meaning": {
+          "vi": "kana, Japanese syllabaries (i.e. hiragana and katakana)"
+        },
+        "romaji": "kana"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05047.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5047.gif",
     "uri": "https://jisho.org/search/%E5%81%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá",
+    "giả",
+    "hà"
+  ]
 }

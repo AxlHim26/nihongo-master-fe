@@ -299,39 +299,60 @@
       {
         "example": "卒",
         "reading": "ソツ",
-        "meaning": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)"
+        "meaning": {
+          "en": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)"
+        },
+        "romaji": "sotsu"
       },
       {
         "example": "卒業",
         "reading": "ソツギョウ",
-        "meaning": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"
+        "meaning": {
+          "vi": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"
+        },
+        "romaji": "sotsugyou"
       },
       {
         "example": "中卒",
         "reading": "チュウソツ",
-        "meaning": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate"
+        "meaning": {
+          "vi": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate"
+        },
+        "romaji": "chuusotsu"
       },
       {
         "example": "大卒",
         "reading": "ダイソツ",
-        "meaning": "university graduate, having graduated from university"
+        "meaning": {
+          "en": "university graduate, having graduated from university"
+        },
+        "romaji": "daisotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "卒する",
         "reading": "そっする",
-        "meaning": "to die, to pass away"
+        "meaning": {
+          "vi": "to die, to pass away"
+        },
+        "romaji": "sossuru"
       },
       {
         "example": "終える",
         "reading": "おえる",
-        "meaning": "to finish, to graduate"
+        "meaning": {
+          "en": "to finish, to graduate"
+        },
+        "romaji": "oeru"
       },
       {
         "example": "終わる",
         "reading": "おわる",
-        "meaning": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless"
+        "meaning": {
+          "vi": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless"
+        },
+        "romaji": "owaru"
       }
     ],
     "radical": {
@@ -347,5 +368,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05352.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5352.gif",
     "uri": "https://jisho.org/search/%E5%8D%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "thốt",
+    "tuất",
+    "tốt"
+  ]
 }

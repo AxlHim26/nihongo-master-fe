@@ -17,37 +17,58 @@
       {
         "example": "饒舌",
         "reading": "ジョウゼツ",
-        "meaning": "talkativeness, garrulity, loquacity"
+        "meaning": {
+          "en": "talkativeness, garrulity, loquacity"
+        },
+        "romaji": "jouzetsu"
       },
       {
         "example": "饒舌家",
         "reading": "ジョウゼツカ",
-        "meaning": "talkative person, chatterbox"
+        "meaning": {
+          "vi": "talkative person, chatterbox"
+        },
+        "romaji": "jouzetsuka"
       },
       {
         "example": "豊饒",
         "reading": "ホウジョウ",
-        "meaning": "fertile, productive, fruitful"
+        "meaning": {
+          "vi": "fertile, productive, fruitful"
+        },
+        "romaji": "houjou"
       },
       {
         "example": "富饒",
         "reading": "フジョウ",
-        "meaning": "richness"
+        "meaning": {
+          "en": "richness"
+        },
+        "romaji": "fujou"
       },
       {
         "example": "饒舌",
         "reading": "ジョウゼツ",
-        "meaning": "talkativeness, garrulity, loquacity"
+        "meaning": {
+          "en": "talkativeness, garrulity, loquacity"
+        },
+        "romaji": "jouzetsu"
       },
       {
         "example": "豊饒",
         "reading": "ホウジョウ",
-        "meaning": "fertile, productive, fruitful"
+        "meaning": {
+          "vi": "fertile, productive, fruitful"
+        },
+        "romaji": "houjou"
       },
       {
         "example": "富饒",
         "reading": "フジョウ",
-        "meaning": "richness"
+        "meaning": {
+          "en": "richness"
+        },
+        "romaji": "fujou"
       }
     ],
     "kunyomiExamples": [],
@@ -67,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09952.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9952.gif",
     "uri": "https://jisho.org/search/%E9%A5%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhiêu"
+  ]
 }

@@ -18,12 +18,18 @@
       {
         "example": "暢達",
         "reading": "チョウタツ",
-        "meaning": "fluency, facileness"
+        "meaning": {
+          "en": "fluency, facileness"
+        },
+        "romaji": "choutatsu"
       },
       {
         "example": "伸長",
         "reading": "シンチョウ",
-        "meaning": "expansion, extension, elongation, stretching"
+        "meaning": {
+          "vi": "expansion, extension, elongation, stretching"
+        },
+        "romaji": "shinchou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66a2.gif",
     "uri": "https://jisho.org/search/%E6%9A%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "sướng"
+  ]
 }

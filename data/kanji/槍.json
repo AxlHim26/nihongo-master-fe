@@ -18,44 +18,68 @@
       {
         "example": "槍騎兵",
         "reading": "ソウキヘイ",
-        "meaning": "lancer"
+        "meaning": {
+          "en": "lancer"
+        },
+        "romaji": "soukihei"
       },
       {
         "example": "槍術",
         "reading": "ソウジュツ",
-        "meaning": "spearmanship"
+        "meaning": {
+          "vi": "spearmanship"
+        },
+        "romaji": "soujutsu"
       },
       {
         "example": "聖槍",
         "reading": "セイソウ",
-        "meaning": "holy lance, sacred spear"
+        "meaning": {
+          "vi": "holy lance, sacred spear"
+        },
+        "romaji": "seisou"
       },
       {
         "example": "弓馬刀槍",
         "reading": "キュウバトウソウ",
-        "meaning": "archery, horsemanship, spearsmanship, and swordsmanship, martial arts in general"
+        "meaning": {
+          "vi": "archery, horsemanship, spearsmanship, and swordsmanship, martial arts in general"
+        },
+        "romaji": "kyuubatousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "槍",
         "reading": "やり",
-        "meaning": "spear, lance, javelin, lance, jeering"
+        "meaning": {
+          "vi": "spear, lance, javelin, lance, jeering"
+        },
+        "romaji": "yari"
       },
       {
         "example": "槍烏賊",
         "reading": "やりいか",
-        "meaning": "spear squid (Loligo bleekeri)"
+        "meaning": {
+          "vi": "spear squid (Loligo bleekeri)"
+        },
+        "romaji": "yariika"
       },
       {
         "example": "長槍",
         "reading": "ながやり",
-        "meaning": "long spear, pike"
+        "meaning": {
+          "vi": "long spear, pike"
+        },
+        "romaji": "nagayari"
       },
       {
         "example": "毛槍",
         "reading": "けやり",
-        "meaning": "keyari, long, feathered ornamental spear carried at the head of a daimyo's procession"
+        "meaning": {
+          "vi": "keyari, long, feathered ornamental spear carried at the head of a daimyo's procession"
+        },
+        "romaji": "keyari"
       }
     ],
     "radical": {
@@ -72,5 +96,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cd.gif",
     "uri": "https://jisho.org/search/%E6%A7%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "sang",
+    "sanh",
+    "thương"
+  ]
 }

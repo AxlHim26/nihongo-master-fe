@@ -279,29 +279,44 @@
       {
         "example": "齢",
         "reading": "レイ",
-        "meaning": "instar (developmental stage of arthropods), age, years"
+        "meaning": {
+          "vi": "instar (developmental stage of arthropods), age, years"
+        },
+        "romaji": "rei"
       },
       {
         "example": "適齢",
         "reading": "テキレイ",
-        "meaning": "suitable age"
+        "meaning": {
+          "en": "suitable age"
+        },
+        "romaji": "tekirei"
       },
       {
         "example": "加齢",
         "reading": "カレイ",
-        "meaning": "aging, ageing, growing older"
+        "meaning": {
+          "en": "aging, ageing, growing older"
+        },
+        "romaji": "karei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "齢",
         "reading": "よわい",
-        "meaning": "(one's) age"
+        "meaning": {
+          "en": "(one's) age"
+        },
+        "romaji": "yowai"
       },
       {
         "example": "歯する",
         "reading": "よわいする",
-        "meaning": "to associate (with), to join the company of, to stand alongside (as an equal)"
+        "meaning": {
+          "vi": "to associate (with), to join the company of, to stand alongside (as an equal)"
+        },
+        "romaji": "yowaisuru"
       }
     ],
     "radical": {
@@ -321,5 +336,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f62.gif",
     "uri": "https://jisho.org/search/%E9%BD%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "linh"
+  ]
 }

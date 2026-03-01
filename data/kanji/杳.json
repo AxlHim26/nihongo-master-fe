@@ -17,12 +17,18 @@
       {
         "example": "杳",
         "reading": "ヨウ",
-        "meaning": "dark, not understood, unknown"
+        "meaning": {
+          "en": "dark, not understood, unknown"
+        },
+        "romaji": "you"
       },
       {
         "example": "杳乎",
         "reading": "ヨウコ",
-        "meaning": "deep and wide"
+        "meaning": {
+          "vi": "deep and wide"
+        },
+        "romaji": "youko"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06773.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6773.gif",
     "uri": "https://jisho.org/search/%E6%9D%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "diểu",
+    "liểu",
+    "liễu",
+    "yểu"
+  ]
 }

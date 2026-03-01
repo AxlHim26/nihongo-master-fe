@@ -275,22 +275,34 @@
       {
         "example": "季",
         "reading": "キ",
-        "meaning": "season (in nature, sports, etc.), seasonal word or phrase (in haiku), year"
+        "meaning": {
+          "vi": "season (in nature, sports, etc.), seasonal word or phrase (in haiku), year"
+        },
+        "romaji": "ki"
       },
       {
         "example": "季刊",
         "reading": "キカン",
-        "meaning": "quarterly publication"
+        "meaning": {
+          "vi": "quarterly publication"
+        },
+        "romaji": "kikan"
       },
       {
         "example": "夏季",
         "reading": "カキ",
-        "meaning": "summer season, summer, summertime"
+        "meaning": {
+          "en": "summer season, summer, summertime"
+        },
+        "romaji": "kaki"
       },
       {
         "example": "秋季",
         "reading": "シュウキ",
-        "meaning": "fall season, autumn season"
+        "meaning": {
+          "en": "fall season, autumn season"
+        },
+        "romaji": "shuuki"
       }
     ],
     "kunyomiExamples": [],
@@ -306,5 +318,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b63.gif",
     "uri": "https://jisho.org/search/%E5%AD%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "quý"
+  ]
 }

@@ -313,59 +313,92 @@
       {
         "example": "倒産",
         "reading": "トウサン",
-        "meaning": "(corporate) bankruptcy, insolvency, commercial failure, failed business"
+        "meaning": {
+          "vi": "(corporate) bankruptcy, insolvency, commercial failure, failed business"
+        },
+        "romaji": "tousan"
       },
       {
         "example": "倒閣",
         "reading": "トウカク",
-        "meaning": "overthrow of government"
+        "meaning": {
+          "en": "overthrow of government"
+        },
+        "romaji": "toukaku"
       },
       {
         "example": "傾倒",
         "reading": "ケイトウ",
-        "meaning": "devoting oneself to, concentrating on, being an ardent admirer of, having great esteem for, tipping over and collapsing"
+        "meaning": {
+          "vi": "devoting oneself to, concentrating on, being an ardent admirer of, having great esteem for, tipping over and collapsing"
+        },
+        "romaji": "keitou"
       },
       {
         "example": "風倒",
         "reading": "フウトウ",
-        "meaning": "falling due to a strong wind, being toppled by the wind"
+        "meaning": {
+          "vi": "falling due to a strong wind, being toppled by the wind"
+        },
+        "romaji": "fuutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "倒れる",
         "reading": "たおれる",
-        "meaning": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
+        "meaning": {
+          "vi": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
+        },
+        "romaji": "taoreru"
       },
       {
         "example": "倒す",
         "reading": "たおす",
-        "meaning": "to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat), to kill, to defeat, to beat, to overthrow, to trip up, to ruin, to leave unpaid, to cheat, to do completely, to do thoroughly, to do to the fullest"
+        "meaning": {
+          "vi": "to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat), to kill, to defeat, to beat, to overthrow, to trip up, to ruin, to leave unpaid, to cheat, to do completely, to do thoroughly, to do to the fullest"
+        },
+        "romaji": "taosu"
       },
       {
         "example": "逆さま",
         "reading": "さかさま",
-        "meaning": "inverted, upside down, reversed, back to front, wrong way round"
+        "meaning": {
+          "vi": "inverted, upside down, reversed, back to front, wrong way round"
+        },
+        "romaji": "sakasama"
       },
       {
         "example": "逆様事",
         "reading": "さかさまごと",
-        "meaning": "child dying before parents, occurrence out of sequence, wrong order"
+        "meaning": {
+          "vi": "child dying before parents, occurrence out of sequence, wrong order"
+        },
+        "romaji": "sakasamagoto"
       },
       {
         "example": "逆さま",
         "reading": "さかさま",
-        "meaning": "inverted, upside down, reversed, back to front, wrong way round"
+        "meaning": {
+          "vi": "inverted, upside down, reversed, back to front, wrong way round"
+        },
+        "romaji": "sakasama"
       },
       {
         "example": "逆さ",
         "reading": "さかさ",
-        "meaning": "inverted, upside down, reversed, back to front"
+        "meaning": {
+          "vi": "inverted, upside down, reversed, back to front"
+        },
+        "romaji": "sakasa"
       },
       {
         "example": "逆しま",
         "reading": "さかしま",
-        "meaning": "reverse, inversion, upside down, unreasonable, absurd, wrong"
+        "meaning": {
+          "vi": "reverse, inversion, upside down, unreasonable, absurd, wrong"
+        },
+        "romaji": "sakashima"
       }
     ],
     "radical": {
@@ -386,5 +419,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05012.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5012.gif",
     "uri": "https://jisho.org/search/%E5%80%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "đáo",
+    "đảo"
+  ]
 }

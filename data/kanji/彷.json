@@ -16,19 +16,28 @@
       {
         "example": "彷彿",
         "reading": "ホウフツ",
-        "meaning": "(bearing a) close resemblance, vivid reminder (e.g. of the past), dim, faint, vague, blurred"
+        "meaning": {
+          "vi": "(bearing a) close resemblance, vivid reminder (e.g. of the past), dim, faint, vague, blurred"
+        },
+        "romaji": "houfutsu"
       },
       {
         "example": "彷徊",
         "reading": "ホウカイ",
-        "meaning": "walking around aimlessly"
+        "meaning": {
+          "en": "walking around aimlessly"
+        },
+        "romaji": "houkai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "彷徨う",
         "reading": "さまよう",
-        "meaning": "to loiter, to putter, to prowl, to wander about, to roam about, to knock around"
+        "meaning": {
+          "vi": "to loiter, to putter, to prowl, to wander about, to roam about, to knock around"
+        },
+        "romaji": "samayou"
       }
     ],
     "radical": {
@@ -43,5 +52,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f77.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f77.gif",
     "uri": "https://jisho.org/search/%E5%BD%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàng",
+    "phảng"
+  ]
 }

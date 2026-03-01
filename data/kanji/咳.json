@@ -20,49 +20,76 @@
       {
         "example": "咳嗽",
         "reading": "ガイソウ",
-        "meaning": "cough, coughing"
+        "meaning": {
+          "en": "cough, coughing"
+        },
+        "romaji": "gaisou"
       },
       {
         "example": "謦咳",
         "reading": "ケイガイ",
-        "meaning": "cough, hawking, laughing and talking at the same time, speak laughing"
+        "meaning": {
+          "vi": "cough, hawking, laughing and talking at the same time, speak laughing"
+        },
+        "romaji": "keigai"
       },
       {
         "example": "労咳",
         "reading": "ロウガイ",
-        "meaning": "pulmonary tuberculosis (in traditional Chinese medicine)"
+        "meaning": {
+          "vi": "pulmonary tuberculosis (in traditional Chinese medicine)"
+        },
+        "romaji": "rougai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "咳く",
         "reading": "せく",
-        "meaning": "to cough"
+        "meaning": {
+          "en": "to cough"
+        },
+        "romaji": "seku"
       },
       {
         "example": "咳く",
         "reading": "しわぶく",
-        "meaning": "to cough, to clear one's throat"
+        "meaning": {
+          "en": "to cough, to clear one's throat"
+        },
+        "romaji": "shiwabuku"
       },
       {
         "example": "咳",
         "reading": "せき",
-        "meaning": "cough, coughing, tussis"
+        "meaning": {
+          "en": "cough, coughing, tussis"
+        },
+        "romaji": "seki"
       },
       {
         "example": "咳き上げる",
         "reading": "せきあげる",
-        "meaning": "to have a coughing fit, to sob convulsively"
+        "meaning": {
+          "en": "to have a coughing fit, to sob convulsively"
+        },
+        "romaji": "sekiageru"
       },
       {
         "example": "百日咳",
         "reading": "ひゃくにちぜき",
-        "meaning": "whooping cough, pertussis"
+        "meaning": {
+          "vi": "whooping cough, pertussis"
+        },
+        "romaji": "hyakunichizeki"
       },
       {
         "example": "咳",
         "reading": "せき",
-        "meaning": "cough, coughing, tussis"
+        "meaning": {
+          "en": "cough, coughing, tussis"
+        },
+        "romaji": "seki"
       }
     ],
     "radical": {
@@ -80,5 +107,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54b3.gif",
     "uri": "https://jisho.org/search/%E5%92%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hài",
+    "khái"
+  ]
 }

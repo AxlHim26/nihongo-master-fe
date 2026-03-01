@@ -303,49 +303,76 @@
       {
         "example": "我",
         "reading": "ガ",
-        "meaning": "obstinacy, atman, the self, the ego"
+        "meaning": {
+          "en": "obstinacy, atman, the self, the ego"
+        },
+        "romaji": "ga"
       },
       {
         "example": "我慢",
         "reading": "ガマン",
-        "meaning": "endurance, patience, perseverance, bearing (with something), self-control, self-restraint"
+        "meaning": {
+          "vi": "endurance, patience, perseverance, bearing (with something), self-control, self-restraint"
+        },
+        "romaji": "gaman"
       },
       {
         "example": "無我",
         "reading": "ムガ",
-        "meaning": "selflessness, self-effacement, self-renunciation, anatta, anatman, doctrine that states that humans do not possess souls"
+        "meaning": {
+          "vi": "selflessness, self-effacement, self-renunciation, anatta, anatman, doctrine that states that humans do not possess souls"
+        },
+        "romaji": "muga"
       },
       {
         "example": "小我",
         "reading": "ショウガ",
-        "meaning": "the self, the ego"
+        "meaning": {
+          "en": "the self, the ego"
+        },
+        "romaji": "shouga"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "我",
         "reading": "われ",
-        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        "meaning": {
+          "vi": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        },
+        "romaji": "ware"
       },
       {
         "example": "我々",
         "reading": "われわれ",
-        "meaning": "we"
+        "meaning": {
+          "en": "we"
+        },
+        "romaji": "wareware"
       },
       {
         "example": "人は人、我は我",
         "reading": "ひとはひと、われはわれ",
-        "meaning": "live and let live, you do you and I'll do me, people are people; I am myself"
+        "meaning": {
+          "vi": "live and let live, you do you and I'll do me, people are people; I am myself"
+        },
+        "romaji": "hitohahito,warehaware"
       },
       {
         "example": "我",
         "reading": "われ",
-        "meaning": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        "meaning": {
+          "vi": "I, me, oneself, you, prefix indicating familiarity or contempt"
+        },
+        "romaji": "ware"
       },
       {
         "example": "我が",
         "reading": "わが",
-        "meaning": "my, our, one's own"
+        "meaning": {
+          "en": "my, our, one's own"
+        },
+        "romaji": "waga"
       }
     ],
     "radical": {
@@ -361,5 +388,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06211.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6211.gif",
     "uri": "https://jisho.org/search/%E6%88%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngã"
+  ]
 }

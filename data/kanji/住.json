@@ -317,34 +317,52 @@
       {
         "example": "住",
         "reading": "ジュウ",
-        "meaning": "dwelling, living"
+        "meaning": {
+          "en": "dwelling, living"
+        },
+        "romaji": "juu"
       },
       {
         "example": "住居",
         "reading": "ジュウキョ",
-        "meaning": "dwelling, house, residence, address"
+        "meaning": {
+          "en": "dwelling, house, residence, address"
+        },
+        "romaji": "juukyo"
       },
       {
         "example": "先住",
         "reading": "センジュウ",
-        "meaning": "original inhabitant, aboriginal, previous priest"
+        "meaning": {
+          "vi": "original inhabitant, aboriginal, previous priest"
+        },
+        "romaji": "senjuu"
       },
       {
         "example": "安住",
         "reading": "アンジュウ",
-        "meaning": "living in peace, living a quiet life, being content with one's present position, being satisfied with one's lot"
+        "meaning": {
+          "vi": "living in peace, living a quiet life, being content with one's present position, being satisfied with one's lot"
+        },
+        "romaji": "anjuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "住む",
         "reading": "すむ",
-        "meaning": "to live (of humans), to reside, to inhabit, to dwell, to abide"
+        "meaning": {
+          "en": "to live (of humans), to reside, to inhabit, to dwell, to abide"
+        },
+        "romaji": "sumu"
       },
       {
         "example": "住まう",
         "reading": "すまう",
-        "meaning": "to live, to reside, to inhabit"
+        "meaning": {
+          "en": "to live, to reside, to inhabit"
+        },
+        "romaji": "sumau"
       }
     ],
     "radical": {
@@ -363,5 +381,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f4f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f4f.gif",
     "uri": "https://jisho.org/search/%E4%BD%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "trú",
+    "trụ"
+  ]
 }

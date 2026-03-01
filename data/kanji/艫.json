@@ -16,24 +16,36 @@
       {
         "example": "艫",
         "reading": "ロ",
-        "meaning": "stern, bow"
+        "meaning": {
+          "en": "stern, bow"
+        },
+        "romaji": "ro"
       },
       {
         "example": "舳艫",
         "reading": "ジクロ",
-        "meaning": "bow and stern"
+        "meaning": {
+          "en": "bow and stern"
+        },
+        "romaji": "jikuro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "艫",
         "reading": "とも",
-        "meaning": "stern"
+        "meaning": {
+          "en": "stern"
+        },
+        "romaji": "tomo"
       },
       {
         "example": "とも座",
         "reading": "ともざ",
-        "meaning": "Puppis (constellation), the Poop Deck"
+        "meaning": {
+          "vi": "Puppis (constellation), the Poop Deck"
+        },
+        "romaji": "tomoza"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826b.gif",
     "uri": "https://jisho.org/search/%E8%89%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô"
+  ]
 }

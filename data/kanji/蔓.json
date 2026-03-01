@@ -18,29 +18,44 @@
       {
         "example": "蔓延",
         "reading": "マンエン",
-        "meaning": "spread (e.g. of a disease), rampancy, infestation, proliferation, being widespread"
+        "meaning": {
+          "vi": "spread (e.g. of a disease), rampancy, infestation, proliferation, being widespread"
+        },
+        "romaji": "man'en"
       },
       {
         "example": "まん延防止",
         "reading": "マンエンボウシ",
-        "meaning": "semi-state of emergency COVID-19 measures"
+        "meaning": {
+          "en": "semi-state of emergency COVID-19 measures"
+        },
+        "romaji": "man'enboushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔓延る",
         "reading": "はびこる",
-        "meaning": "to become overgrown, to grow thick, to spread, to run rampant, to thrive, to prevail, to become powerful"
+        "meaning": {
+          "vi": "to become overgrown, to grow thick, to spread, to run rampant, to thrive, to prevail, to become powerful"
+        },
+        "romaji": "habikoru"
       },
       {
         "example": "蔓",
         "reading": "つる",
-        "meaning": "vine, bine, tendril, runner, bow, temple arm, sidepiece, lug arm, earpiece, part of a pair of glasses that goes over the ear, connections, contacts, influence, financial supporter"
+        "meaning": {
+          "vi": "vine, bine, tendril, runner, bow, temple arm, sidepiece, lug arm, earpiece, part of a pair of glasses that goes over the ear, connections, contacts, influence, financial supporter"
+        },
+        "romaji": "tsuru"
       },
       {
         "example": "蔓脚類",
         "reading": "まんきゃくるい",
-        "meaning": "Cirripedia, barnacles"
+        "meaning": {
+          "vi": "Cirripedia, barnacles"
+        },
+        "romaji": "mankyakurui"
       }
     ],
     "radical": {
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08513.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8513.gif",
     "uri": "https://jisho.org/search/%E8%94%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "man",
+    "mạn"
+  ]
 }

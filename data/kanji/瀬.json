@@ -20,22 +20,34 @@
       {
         "example": "瀬",
         "reading": "せ",
-        "meaning": "shallows, shoal, rapids, current, torrent, position, place, chance, opportunity"
+        "meaning": {
+          "vi": "shallows, shoal, rapids, current, torrent, position, place, chance, opportunity"
+        },
+        "romaji": "se"
       },
       {
         "example": "瀬戸",
         "reading": "せと",
-        "meaning": "strait, channel"
+        "meaning": {
+          "en": "strait, channel"
+        },
+        "romaji": "seto"
       },
       {
         "example": "早瀬",
         "reading": "はやせ",
-        "meaning": "swift current, rapids"
+        "meaning": {
+          "vi": "swift current, rapids"
+        },
+        "romaji": "hayase"
       },
       {
         "example": "高瀬",
         "reading": "たかせ",
-        "meaning": "shallow river, shallows, flatboat, river boat"
+        "meaning": {
+          "en": "shallow river, shallows, flatboat, river boat"
+        },
+        "romaji": "takase"
       }
     ],
     "radical": {
@@ -60,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0702c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/702c.gif",
     "uri": "https://jisho.org/search/%E7%80%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lai"
+  ]
 }

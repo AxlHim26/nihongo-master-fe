@@ -21,34 +21,52 @@
       {
         "example": "澄徹",
         "reading": "チョウテツ",
-        "meaning": "sự trong suốt (vd. bầu trời), tính minh bạch"
+        "meaning": {
+          "vi": "sự trong suốt (vd. bầu trời), tính minh bạch"
+        },
+        "romaji": "choutetsu"
       },
       {
         "example": "澄明",
         "reading": "チョウメイ",
-        "meaning": "trong và sáng"
+        "meaning": {
+          "vi": "trong và sáng"
+        },
+        "romaji": "choumei"
       },
       {
         "example": "清澄",
         "reading": "セイチョウ",
-        "meaning": "trong, thanh tĩnh"
+        "meaning": {
+          "vi": "trong, thanh tĩnh"
+        },
+        "romaji": "seichou"
       },
       {
         "example": "明澄",
         "reading": "メイチョウ",
-        "meaning": "sáng rõ, trong"
+        "meaning": {
+          "vi": "sáng rõ, trong"
+        },
+        "romaji": "meichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "澄む",
         "reading": "すむ",
-        "meaning": "trở nên trong (nước, không khí...), trở nên trong suốt, vang rõ (vd. giọng), trở nên thanh tĩnh, không còn lo lắng, phát âm âm vô thanh"
+        "meaning": {
+          "vi": "trở nên trong (nước, không khí...), trở nên trong suốt, vang rõ (vd. giọng), trở nên thanh tĩnh, không còn lo lắng, phát âm âm vô thanh"
+        },
+        "romaji": "sumu"
       },
       {
         "example": "澄ます",
         "reading": "すます",
-        "meaning": "làm trong, tỏ ra bình thản, giả vờ thờ ơ, làm ra vẻ e lệ, chăm chú lắng nghe"
+        "meaning": {
+          "vi": "làm trong, tỏ ra bình thản, giả vờ thờ ơ, làm ra vẻ e lệ, chăm chú lắng nghe"
+        },
+        "romaji": "sumasu"
       }
     ],
     "radical": {
@@ -70,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f84.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f84.gif",
     "uri": "https://jisho.org/search/%E6%BE%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "trừng"
+  ]
 }

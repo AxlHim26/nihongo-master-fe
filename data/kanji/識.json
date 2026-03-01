@@ -311,39 +311,60 @@
       {
         "example": "識",
         "reading": "シキ",
-        "meaning": "acquaintanceship, vijnana, consciousness, written by..."
+        "meaning": {
+          "vi": "acquaintanceship, vijnana, consciousness, written by..."
+        },
+        "romaji": "shiki"
       },
       {
         "example": "識者",
         "reading": "シキシャ",
-        "meaning": "well-informed person, thinking person, intelligent person"
+        "meaning": {
+          "vi": "well-informed person, thinking person, intelligent person"
+        },
+        "romaji": "shikisha"
       },
       {
         "example": "光学式文字認識",
         "reading": "コウガクシキモジニンシキ",
-        "meaning": "optical character recognition, OCR"
+        "meaning": {
+          "vi": "optical character recognition, OCR"
+        },
+        "romaji": "kougakushikimojininshiki"
       },
       {
         "example": "目的意識",
         "reading": "モクテキイシキ",
-        "meaning": "sense of purpose"
+        "meaning": {
+          "vi": "sense of purpose"
+        },
+        "romaji": "mokutekiishiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "知る",
         "reading": "しる",
-        "meaning": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility"
+        "meaning": {
+          "vi": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility"
+        },
+        "romaji": "shiru"
       },
       {
         "example": "記す",
         "reading": "しるす",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": {
+          "en": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        },
+        "romaji": "shirusu"
       },
       {
         "example": "記す",
         "reading": "しるす",
-        "meaning": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        "meaning": {
+          "en": "to write down, to note down, to jot down, to take a note of, to mention, to describe, to give an account of, to inscribe, to mark, to brand, to remember, to engrave (in one's mind)"
+        },
+        "romaji": "shirusu"
       }
     ],
     "radical": {
@@ -364,5 +385,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b58.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b58.gif",
     "uri": "https://jisho.org/search/%E8%AD%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí",
+    "thức"
+  ]
 }

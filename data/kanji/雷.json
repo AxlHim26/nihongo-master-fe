@@ -21,59 +21,92 @@
       {
         "example": "雷",
         "reading": "カミナリ",
-        "meaning": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        "meaning": {
+          "en": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        },
+        "romaji": "kaminari"
       },
       {
         "example": "雷雨",
         "reading": "ライウ",
-        "meaning": "thunderstorm, thundershower"
+        "meaning": {
+          "en": "thunderstorm, thundershower"
+        },
+        "romaji": "raiu"
       },
       {
         "example": "機雷",
         "reading": "キライ",
-        "meaning": "(sea) mine"
+        "meaning": {
+          "en": "(sea) mine"
+        },
+        "romaji": "kirai"
       },
       {
         "example": "界雷",
         "reading": "カイライ",
-        "meaning": "frontal thunderstorm"
+        "meaning": {
+          "en": "frontal thunderstorm"
+        },
+        "romaji": "kairai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雷",
         "reading": "かみなり",
-        "meaning": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        "meaning": {
+          "en": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        },
+        "romaji": "kaminari"
       },
       {
         "example": "雷雲",
         "reading": "らいうん",
-        "meaning": "thundercloud"
+        "meaning": {
+          "en": "thundercloud"
+        },
+        "romaji": "raiun"
       },
       {
         "example": "水雷",
         "reading": "みずがみなり",
-        "meaning": "thunder accompanied by rain, lightning that does not start a fire"
+        "meaning": {
+          "vi": "thunder accompanied by rain, lightning that does not start a fire"
+        },
+        "romaji": "mizugaminari"
       },
       {
         "example": "日雷",
         "reading": "ひがみなり",
-        "meaning": "thunder on a clear day, lightning that starts a fire"
+        "meaning": {
+          "en": "thunder on a clear day, lightning that starts a fire"
+        },
+        "romaji": "higaminari"
       },
       {
         "example": "雷",
         "reading": "かみなり",
-        "meaning": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        "meaning": {
+          "en": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        },
+        "romaji": "kaminari"
       },
       {
         "example": "雷雲",
         "reading": "らいうん",
-        "meaning": "thundercloud"
+        "meaning": {
+          "en": "thundercloud"
+        },
+        "romaji": "raiun"
       },
       {
         "example": "雷",
         "reading": "かみなり",
-        "meaning": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        "meaning": {
+          "en": "lightning, thunder, thunderbolt, god of thunder, god of lightning, anger, fit of anger"
+        },
+        "romaji": "kaminari"
       }
     ],
     "radical": {
@@ -88,5 +121,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f7.gif",
     "uri": "https://jisho.org/search/%E9%9B%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lôi",
+    "lỗi"
+  ]
 }

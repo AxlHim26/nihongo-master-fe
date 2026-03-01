@@ -291,14 +291,20 @@
       {
         "example": "払暁",
         "reading": "フツギョウ",
-        "meaning": "dawn, daybreak"
+        "meaning": {
+          "en": "dawn, daybreak"
+        },
+        "romaji": "futsugyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "払う",
         "reading": "はらう",
-        "meaning": "to pay (e.g. money, bill), to brush off, to wipe away, to clear away, to dust off, to cut off (e.g. branches), to drive away (e.g. one's competitors), to sell off (something unneeded), to dispose of, to pay (e.g. attention), to show (e.g. respect, concern), to make (e.g. effort, sacrifice), to expend, to exert, to move out (of one's own place), to vacate, to sweep (e.g. one's legs), to knock aside, to make a sweeping stroke (in Japanese calligraphy), to reset (an abacus)"
+        "meaning": {
+          "vi": "to pay (e.g. money, bill), to brush off, to wipe away, to clear away, to dust off, to cut off (e.g. branches), to drive away (e.g. one's competitors), to sell off (something unneeded), to dispose of, to pay (e.g. attention), to show (e.g. respect, concern), to make (e.g. effort, sacrifice), to expend, to exert, to move out (of one's own place), to vacate, to sweep (e.g. one's legs), to knock aside, to make a sweeping stroke (in Japanese calligraphy), to reset (an abacus)"
+        },
+        "romaji": "harau"
       }
     ],
     "radical": {
@@ -316,5 +322,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06255.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6255.gif",
     "uri": "https://jisho.org/search/%E6%89%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "bật",
+    "phất"
+  ]
 }

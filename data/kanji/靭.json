@@ -22,17 +22,26 @@
       {
         "example": "靱性",
         "reading": "ジンセイ",
-        "meaning": "toughness (of a material), tenacity, fracture toughness"
+        "meaning": {
+          "en": "toughness (of a material), tenacity, fracture toughness"
+        },
+        "romaji": "jinsei"
       },
       {
         "example": "じん帯",
         "reading": "ジンタイ",
-        "meaning": "ligament"
+        "meaning": {
+          "en": "ligament"
+        },
+        "romaji": "jintai"
       },
       {
         "example": "強靭",
         "reading": "キョウジン",
-        "meaning": "tough, strong, stiff, tenacious"
+        "meaning": {
+          "en": "tough, strong, stiff, tenacious"
+        },
+        "romaji": "kyoujin"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0976d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/976d.gif",
     "uri": "https://jisho.org/search/%E9%9D%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhận"
+  ]
 }

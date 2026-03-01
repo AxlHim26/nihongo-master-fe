@@ -21,49 +21,76 @@
       {
         "example": "虚",
         "reading": "キョ",
-        "meaning": "không chuẩn bị, điều giả dối, sao Hư (một trong 28 tú Trung Quốc)"
+        "meaning": {
+          "vi": "không chuẩn bị, điều giả dối, sao Hư (một trong 28 tú Trung Quốc)"
+        },
+        "romaji": "kyo"
       },
       {
         "example": "虚偽",
         "reading": "キョギ",
-        "meaning": "điều giả dối, dối trá, nói dối, thông tin sai, ngụy biện"
+        "meaning": {
+          "vi": "điều giả dối, dối trá, nói dối, thông tin sai, ngụy biện"
+        },
+        "romaji": "kyogi"
       },
       {
         "example": "盈虚",
         "reading": "エイキョ",
-        "meaning": "trăng tròn trăng khuyết, giai đoạn, thịnh suy (vận mệnh)"
+        "meaning": {
+          "vi": "trăng tròn trăng khuyết, giai đoạn, thịnh suy (vận mệnh)"
+        },
+        "romaji": "eikyo"
       },
       {
         "example": "太虚",
         "reading": "タイキョ",
-        "meaning": "bầu trời, thiên không, Đại Hư (triết học Trung Hoa cổ: bản thể sinh ra khí)"
+        "meaning": {
+          "vi": "bầu trời, thiên không, Đại Hư (triết học Trung Hoa cổ: bản thể sinh ra khí)"
+        },
+        "romaji": "taikyo"
       },
       {
         "example": "虚偽",
         "reading": "キョギ",
-        "meaning": "điều giả dối, dối trá, nói dối, thông tin sai, ngụy biện"
+        "meaning": {
+          "vi": "điều giả dối, dối trá, nói dối, thông tin sai, ngụy biện"
+        },
+        "romaji": "kyogi"
       },
       {
         "example": "虚空",
         "reading": "コクウ",
-        "meaning": "khoảng không, bầu trời trống"
+        "meaning": {
+          "vi": "khoảng không, bầu trời trống"
+        },
+        "romaji": "kokuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虚しい",
         "reading": "むなしい",
-        "meaning": "trống rỗng, vô ích, vô hiệu, vô nghĩa, vô hiệu quả, vô hồn"
+        "meaning": {
+          "vi": "trống rỗng, vô ích, vô hiệu, vô nghĩa, vô hiệu quả, vô hồn"
+        },
+        "romaji": "munashii"
       },
       {
         "example": "虚ろ",
         "reading": "うつろ",
-        "meaning": "rỗng, trống, trống rỗng (giọng, nụ cười...), trống rỗng (mắt, ánh nhìn...), vô hồn (nét mặt...), trống (lời nói, lòng...)"
+        "meaning": {
+          "vi": "rỗng, trống, trống rỗng (giọng, nụ cười...), trống rỗng (mắt, ánh nhìn...), vô hồn (nét mặt...), trống (lời nói, lòng...)"
+        },
+        "romaji": "utsuro"
       },
       {
         "example": "虚舟",
         "reading": "うつろぶね",
-        "meaning": "con thuyền không xác định trôi dạt vào Ibaraki thời Edo (có người cho là UFO)"
+        "meaning": {
+          "vi": "con thuyền không xác định trôi dạt vào Ibaraki thời Edo (có người cho là UFO)"
+        },
+        "romaji": "utsurobune"
       }
     ],
     "radical": {
@@ -81,5 +108,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865a.gif",
     "uri": "https://jisho.org/search/%E8%99%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hư",
+    "khư"
+  ]
 }

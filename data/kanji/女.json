@@ -353,94 +353,148 @@
       {
         "example": "女",
         "reading": "ジョ",
-        "meaning": "woman, girl, daughter, Chinese \"Girl\" constellation (one of the 28 mansions), feminine noun"
+        "meaning": {
+          "en": "woman, girl, daughter, Chinese \"Girl\" constellation (one of the 28 mansions), feminine noun"
+        },
+        "romaji": "jo"
       },
       {
         "example": "女王",
         "reading": "ジョオウ",
-        "meaning": "queen, female champion"
+        "meaning": {
+          "vi": "queen, female champion"
+        },
+        "romaji": "joou"
       },
       {
         "example": "処女",
         "reading": "ショジョ",
-        "meaning": "virgin (usu. female), maiden, virgin (e.g. forest), unspoiled by human activity, debut, maiden (e.g. voyage)"
+        "meaning": {
+          "vi": "virgin (usu. female), maiden, virgin (e.g. forest), unspoiled by human activity, debut, maiden (e.g. voyage)"
+        },
+        "romaji": "shojo"
       },
       {
         "example": "一女",
         "reading": "イチジョ",
-        "meaning": "one daughter, eldest daughter, first-born daughter"
+        "meaning": {
+          "en": "one daughter, eldest daughter, first-born daughter"
+        },
+        "romaji": "ichijo"
       },
       {
         "example": "女王",
         "reading": "ジョオウ",
-        "meaning": "queen, female champion"
+        "meaning": {
+          "vi": "queen, female champion"
+        },
+        "romaji": "joou"
       },
       {
         "example": "女房",
         "reading": "ニョウボウ",
-        "meaning": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest)"
+        "meaning": {
+          "vi": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest)"
+        },
+        "romaji": "nyoubou"
       },
       {
         "example": "老若男女",
         "reading": "ロウニャクナンニョ",
-        "meaning": "men and women of all ages"
+        "meaning": {
+          "en": "men and women of all ages"
+        },
+        "romaji": "rounyakunannyo"
       },
       {
         "example": "天女",
         "reading": "テンニョ",
-        "meaning": "heavenly nymph, celestial maiden, beautiful and kind woman"
+        "meaning": {
+          "vi": "heavenly nymph, celestial maiden, beautiful and kind woman"
+        },
+        "romaji": "tennyo"
       },
       {
         "example": "女房",
         "reading": "ニョウボウ",
-        "meaning": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest)"
+        "meaning": {
+          "vi": "wife (esp. one's own wife), court lady, female court attache, woman who served at the imperial palace, woman (esp. as a love interest)"
+        },
+        "romaji": "nyoubou"
       },
       {
         "example": "女官",
         "reading": "ジョカン",
-        "meaning": "court lady, lady-in-waiting"
+        "meaning": {
+          "en": "court lady, lady-in-waiting"
+        },
+        "romaji": "jokan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "女",
         "reading": "おんな",
-        "meaning": "woman, female, female lover, girlfriend, mistress, (someone's) woman"
+        "meaning": {
+          "en": "woman, female, female lover, girlfriend, mistress, (someone's) woman"
+        },
+        "romaji": "onna"
       },
       {
         "example": "女形",
         "reading": "おんながた",
-        "meaning": "onnagata, male actor in female kabuki roles, female partner (in a relationship)"
+        "meaning": {
+          "vi": "onnagata, male actor in female kabuki roles, female partner (in a relationship)"
+        },
+        "romaji": "onnagata"
       },
       {
         "example": "醜女",
         "reading": "しゅうじょ",
-        "meaning": "ugly woman, unattractive woman, female demon"
+        "meaning": {
+          "en": "ugly woman, unattractive woman, female demon"
+        },
+        "romaji": "shuujo"
       },
       {
         "example": "囲い女",
         "reading": "かこいおんな",
-        "meaning": "mistress"
+        "meaning": {
+          "en": "mistress"
+        },
+        "romaji": "kakoionna"
       },
       {
         "example": "雌",
         "reading": "め",
-        "meaning": "female, smaller (of the two), weaker, woman, wife"
+        "meaning": {
+          "en": "female, smaller (of the two), weaker, woman, wife"
+        },
+        "romaji": "me"
       },
       {
         "example": "女神",
         "reading": "めがみ",
-        "meaning": "goddess"
+        "meaning": {
+          "en": "goddess"
+        },
+        "romaji": "megami"
       },
       {
         "example": "早乙女",
         "reading": "さおとめ",
-        "meaning": "young female rice planter, young girl"
+        "meaning": {
+          "vi": "young female rice planter, young girl"
+        },
+        "romaji": "saotome"
       },
       {
         "example": "醜女",
         "reading": "しゅうじょ",
-        "meaning": "ugly woman, unattractive woman, female demon"
+        "meaning": {
+          "en": "ugly woman, unattractive woman, female demon"
+        },
+        "romaji": "shuujo"
       }
     ],
     "radical": {
@@ -454,5 +508,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05973.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5973.gif",
     "uri": "https://jisho.org/search/%E5%A5%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhữ",
+    "nứ",
+    "nữ",
+    "nự"
+  ]
 }

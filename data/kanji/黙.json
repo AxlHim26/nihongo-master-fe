@@ -21,29 +21,44 @@
       {
         "example": "黙祷",
         "reading": "モクトウ",
-        "meaning": "cầu nguyện im lặng"
+        "meaning": {
+          "vi": "cầu nguyện im lặng"
+        },
+        "romaji": "mokutou"
       },
       {
         "example": "黙示",
         "reading": "モクシ",
-        "meaning": "ám chỉ, hàm ý, khải huyền"
+        "meaning": {
+          "vi": "ám chỉ, hàm ý, khải huyền"
+        },
+        "romaji": "mokushi"
       },
       {
         "example": "寡黙",
         "reading": "カモク",
-        "meaning": "ít nói, trầm lặng, kín đáo"
+        "meaning": {
+          "vi": "ít nói, trầm lặng, kín đáo"
+        },
+        "romaji": "kamoku"
       },
       {
         "example": "温厚寡黙",
         "reading": "オンコウカモク",
-        "meaning": "hiền lành và ít nói"
+        "meaning": {
+          "vi": "hiền lành và ít nói"
+        },
+        "romaji": "onkoukamoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黙る",
         "reading": "だまる",
-        "meaning": "im lặng, không nói gì"
+        "meaning": {
+          "vi": "im lặng, không nói gì"
+        },
+        "romaji": "damaru"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed9.gif",
     "uri": "https://jisho.org/search/%E9%BB%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "mặc"
+  ]
 }

@@ -20,22 +20,34 @@
       {
         "example": "鱒",
         "reading": "ます",
-        "meaning": "trout, sea trout"
+        "meaning": {
+          "en": "trout, sea trout"
+        },
+        "romaji": "masu"
       },
       {
         "example": "鱒の介",
         "reading": "ますのすけ",
-        "meaning": "chinook salmon (Oncorhynchus tshawytscha), king salmon, tyee salmon, Columbia River salmon, black salmon, chub salmon, hook bill salmon, winter salmon, spring salmon, quinnat salmon, blackmouth"
+        "meaning": {
+          "vi": "chinook salmon (Oncorhynchus tshawytscha), king salmon, tyee salmon, Columbia River salmon, black salmon, chub salmon, hook bill salmon, winter salmon, spring salmon, quinnat salmon, blackmouth"
+        },
+        "romaji": "masunosuke"
       },
       {
         "example": "塩鱒",
         "reading": "しおます",
-        "meaning": "salted mackerel"
+        "meaning": {
+          "en": "salted mackerel"
+        },
+        "romaji": "shiomasu"
       },
       {
         "example": "小豆鱒",
         "reading": "あずきます",
-        "meaning": "rock cod, black-saddled grouper"
+        "meaning": {
+          "vi": "rock cod, black-saddled grouper"
+        },
+        "romaji": "azukimasu"
       }
     ],
     "radical": {
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c52.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c52.gif",
     "uri": "https://jisho.org/search/%E9%B1%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tôn",
+    "tỗn"
+  ]
 }

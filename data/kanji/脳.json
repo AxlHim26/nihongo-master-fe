@@ -322,22 +322,34 @@
       {
         "example": "脳",
         "reading": "ノウ",
-        "meaning": "brain, brains, mind"
+        "meaning": {
+          "en": "brain, brains, mind"
+        },
+        "romaji": "nou"
       },
       {
         "example": "脳死",
         "reading": "ノウシ",
-        "meaning": "brain death"
+        "meaning": {
+          "en": "brain death"
+        },
+        "romaji": "noushi"
       },
       {
         "example": "苦悩",
         "reading": "クノウ",
-        "meaning": "(mental) agony, anguish, suffering, distress"
+        "meaning": {
+          "en": "(mental) agony, anguish, suffering, distress"
+        },
+        "romaji": "kunou"
       },
       {
         "example": "大脳",
         "reading": "ダイノウ",
-        "meaning": "cerebrum"
+        "meaning": {
+          "en": "cerebrum"
+        },
+        "romaji": "dainou"
       }
     ],
     "kunyomiExamples": [],
@@ -357,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08133.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8133.gif",
     "uri": "https://jisho.org/search/%E8%84%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "não"
+  ]
 }

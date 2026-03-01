@@ -19,29 +19,44 @@
       {
         "example": "篤志家",
         "reading": "トクシカ",
-        "meaning": "charitable person, philanthropist, volunteer, supporter"
+        "meaning": {
+          "vi": "charitable person, philanthropist, volunteer, supporter"
+        },
+        "romaji": "tokushika"
       },
       {
         "example": "篤学",
         "reading": "トクガク",
-        "meaning": "love of learning"
+        "meaning": {
+          "en": "love of learning"
+        },
+        "romaji": "tokugaku"
       },
       {
         "example": "重篤",
         "reading": "ジュウトク",
-        "meaning": "critical (condition), serious"
+        "meaning": {
+          "en": "critical (condition), serious"
+        },
+        "romaji": "juutoku"
       },
       {
         "example": "懇篤",
         "reading": "コントク",
-        "meaning": "cordial, kind, warm, genial"
+        "meaning": {
+          "en": "cordial, kind, warm, genial"
+        },
+        "romaji": "kontoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厚い",
         "reading": "あつい",
-        "meaning": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
+        "meaning": {
+          "vi": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
+        },
+        "romaji": "atsui"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07be4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7be4.gif",
     "uri": "https://jisho.org/search/%E7%AF%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "đốc"
+  ]
 }

@@ -272,24 +272,36 @@
       {
         "example": "奮闘",
         "reading": "フントウ",
-        "meaning": "strenuous effort, hard struggle, working hard, hard fighting, fierce fighting"
+        "meaning": {
+          "en": "strenuous effort, hard struggle, working hard, hard fighting, fierce fighting"
+        },
+        "romaji": "funtou"
       },
       {
         "example": "奮起",
         "reading": "フンキ",
-        "meaning": "stirring, rousing oneself"
+        "meaning": {
+          "en": "stirring, rousing oneself"
+        },
+        "romaji": "funki"
       },
       {
         "example": "性的興奮",
         "reading": "セイテキコウフン",
-        "meaning": "sexual arousal, sexual excitation"
+        "meaning": {
+          "en": "sexual arousal, sexual excitation"
+        },
+        "romaji": "seitekikoufun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奮う",
         "reading": "ふるう",
-        "meaning": "to muster (e.g. one's courage), to call forth, to rouse up, to be enlivened, to be invigorated"
+        "meaning": {
+          "vi": "to muster (e.g. one's courage), to call forth, to rouse up, to be enlivened, to be invigorated"
+        },
+        "romaji": "furuu"
       }
     ],
     "radical": {
@@ -305,5 +317,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0596e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/596e.gif",
     "uri": "https://jisho.org/search/%E5%A5%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phấn"
+  ]
 }

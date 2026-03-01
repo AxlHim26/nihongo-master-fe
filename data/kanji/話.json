@@ -380,49 +380,76 @@
       {
         "example": "話",
         "reading": "ワ",
-        "meaning": "counter for stories, episodes of TV series, etc."
+        "meaning": {
+          "vi": "counter for stories, episodes of TV series, etc."
+        },
+        "romaji": "wa"
       },
       {
         "example": "話題",
         "reading": "ワダイ",
-        "meaning": "topic, subject, much talked about, topical, in the news, hot"
+        "meaning": {
+          "vi": "topic, subject, much talked about, topical, in the news, hot"
+        },
+        "romaji": "wadai"
       },
       {
         "example": "懇話",
         "reading": "コンワ",
-        "meaning": "friendly talk, chat"
+        "meaning": {
+          "en": "friendly talk, chat"
+        },
+        "romaji": "konwa"
       },
       {
         "example": "秘話",
         "reading": "ヒワ",
-        "meaning": "secret story, unknown episode"
+        "meaning": {
+          "vi": "secret story, unknown episode"
+        },
+        "romaji": "hiwa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "話す",
         "reading": "はなす",
-        "meaning": "to talk, to speak, to converse, to chat, to tell, to explain, to narrate, to mention, to describe, to discuss, to speak (a language)"
+        "meaning": {
+          "vi": "to talk, to speak, to converse, to chat, to tell, to explain, to narrate, to mention, to describe, to discuss, to speak (a language)"
+        },
+        "romaji": "hanasu"
       },
       {
         "example": "話",
         "reading": "はなし",
-        "meaning": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"
+        "meaning": {
+          "vi": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"
+        },
+        "romaji": "hanashi"
       },
       {
         "example": "話し合い",
         "reading": "はなしあい",
-        "meaning": "discussion, talk, tête-à-tête, conference"
+        "meaning": {
+          "vi": "discussion, talk, tête-à-tête, conference"
+        },
+        "romaji": "hanashiai"
       },
       {
         "example": "いい話",
         "reading": "いいはなし",
-        "meaning": "good story, heartwarming story, good prospect (e.g. marriage, business)"
+        "meaning": {
+          "vi": "good story, heartwarming story, good prospect (e.g. marriage, business)"
+        },
+        "romaji": "iihanashi"
       },
       {
         "example": "固い話",
         "reading": "かたいはなし",
-        "meaning": "serious topic (of conversation)"
+        "meaning": {
+          "vi": "serious topic (of conversation)"
+        },
+        "romaji": "kataihanashi"
       }
     ],
     "radical": {
@@ -441,5 +468,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a71.gif",
     "uri": "https://jisho.org/search/%E8%A9%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thoại"
+  ]
 }

@@ -17,49 +17,76 @@
       {
         "example": "嘴管",
         "reading": "シカン",
-        "meaning": "insertion tip (e.g. of a catheter)"
+        "meaning": {
+          "vi": "insertion tip (e.g. of a catheter)"
+        },
+        "romaji": "shikan"
       },
       {
         "example": "乳嘴",
         "reading": "ニュウシ",
-        "meaning": "(mammary) nipple, teat"
+        "meaning": {
+          "vi": "(mammary) nipple, teat"
+        },
+        "romaji": "nyuushi"
       },
       {
         "example": "砂嘴",
         "reading": "サシ",
-        "meaning": "spit, sandspit"
+        "meaning": {
+          "vi": "spit, sandspit"
+        },
+        "romaji": "sashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嘴",
         "reading": "くちばし",
-        "meaning": "beak, bill"
+        "meaning": {
+          "en": "beak, bill"
+        },
+        "romaji": "kuchibashi"
       },
       {
         "example": "くちばしが黄色い",
         "reading": "くちばしがきいろい",
-        "meaning": "fledgling, young and inexperienced, green, wet behind the ears"
+        "meaning": {
+          "vi": "fledgling, young and inexperienced, green, wet behind the ears"
+        },
+        "romaji": "kuchibashigakiiroi"
       },
       {
         "example": "嘴",
         "reading": "くちばし",
-        "meaning": "beak, bill"
+        "meaning": {
+          "en": "beak, bill"
+        },
+        "romaji": "kuchibashi"
       },
       {
         "example": "嘴黒阿比",
         "reading": "はしぐろあび",
-        "meaning": "common loon (Gavia immer), great northern diver, great northern loon"
+        "meaning": {
+          "en": "common loon (Gavia immer), great northern diver, great northern loon"
+        },
+        "romaji": "hashiguroabi"
       },
       {
         "example": "大嘴",
         "reading": "おおはし",
-        "meaning": "toucan"
+        "meaning": {
+          "en": "toucan"
+        },
+        "romaji": "oohashi"
       },
       {
         "example": "いすかの嘴",
         "reading": "いすかのはし",
-        "meaning": "(something) not coming together (as one had hoped or expected), unfortunate turn of events, unexpected turn, (a) crossbill's beak (which has differently shaped upper and lower parts)"
+        "meaning": {
+          "vi": "(something) not coming together (as one had hoped or expected), unfortunate turn of events, unexpected turn, (a) crossbill's beak (which has differently shaped upper and lower parts)"
+        },
+        "romaji": "isukanohashi"
       }
     ],
     "radical": {
@@ -76,5 +103,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05634.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5634.gif",
     "uri": "https://jisho.org/search/%E5%98%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuỷ"
+  ]
 }

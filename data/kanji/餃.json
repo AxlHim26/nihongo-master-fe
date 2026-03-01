@@ -16,7 +16,10 @@
       {
         "example": "餃子",
         "reading": "ギョーザ",
-        "meaning": "gyoza, pot sticker, crescent-shaped pan-fried dumplings stuffed with minced pork and vegetables"
+        "meaning": {
+          "vi": "gyoza, pot sticker, crescent-shaped pan-fried dumplings stuffed with minced pork and vegetables"
+        },
+        "romaji": "gyooza"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09903.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9903.gif",
     "uri": "https://jisho.org/search/%E9%A4%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "giáo",
+    "giảo",
+    "kiểu"
+  ]
 }

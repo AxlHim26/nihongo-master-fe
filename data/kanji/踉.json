@@ -15,7 +15,10 @@
       {
         "example": "蹌踉",
         "reading": "ソウロウ",
-        "meaning": "tottering, staggering, reeling"
+        "meaning": {
+          "en": "tottering, staggering, reeling"
+        },
+        "romaji": "sourou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e09.gif",
     "uri": "https://jisho.org/search/%E8%B8%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "lương",
+    "lượng"
+  ]
 }

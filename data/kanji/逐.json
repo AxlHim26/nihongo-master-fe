@@ -17,22 +17,34 @@
       {
         "example": "逐次",
         "reading": "チクジ",
-        "meaning": "successively, one after another, sequentially, one by one"
+        "meaning": {
+          "en": "successively, one after another, sequentially, one by one"
+        },
+        "romaji": "chikuji"
       },
       {
         "example": "逐一",
         "reading": "チクイチ",
-        "meaning": "one by one, in detail, minutely"
+        "meaning": {
+          "en": "one by one, in detail, minutely"
+        },
+        "romaji": "chikuichi"
       },
       {
         "example": "放逐",
         "reading": "ホウチク",
-        "meaning": "expulsion, ousting, ejection, dismissal, banishment"
+        "meaning": {
+          "vi": "expulsion, ousting, ejection, dismissal, banishment"
+        },
+        "romaji": "houchiku"
       },
       {
         "example": "角逐",
         "reading": "カクチク",
-        "meaning": "competition, rivalry, vying (with)"
+        "meaning": {
+          "vi": "competition, rivalry, vying (with)"
+        },
+        "romaji": "kakuchiku"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09010.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9010.gif",
     "uri": "https://jisho.org/search/%E9%80%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "trục"
+  ]
 }

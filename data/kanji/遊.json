@@ -305,49 +305,76 @@
       {
         "example": "遊撃",
         "reading": "ユウゲキ",
-        "meaning": "raid, military attack by a mobile unit, hit-and-run attack, search-and-kill mission, search-and-destroy mission, military action without a predetermined target, attacking the enemy or assisting allies as the opportunity arises, shortstop, short"
+        "meaning": {
+          "vi": "raid, military attack by a mobile unit, hit-and-run attack, search-and-kill mission, search-and-destroy mission, military action without a predetermined target, attacking the enemy or assisting allies as the opportunity arises, shortstop, short"
+        },
+        "romaji": "yuugeki"
       },
       {
         "example": "遊園地",
         "reading": "ユウエンチ",
-        "meaning": "amusement park"
+        "meaning": {
+          "vi": "amusement park"
+        },
+        "romaji": "yuuenchi"
       },
       {
         "example": "浮遊",
         "reading": "フユウ",
-        "meaning": "floating, drifting, suspension, wandering (about)"
+        "meaning": {
+          "vi": "floating, drifting, suspension, wandering (about)"
+        },
+        "romaji": "fuyuu"
       },
       {
         "example": "外遊",
         "reading": "ガイユウ",
-        "meaning": "foreign travel"
+        "meaning": {
+          "en": "foreign travel"
+        },
+        "romaji": "gaiyuu"
       },
       {
         "example": "遊撃",
         "reading": "ユウゲキ",
-        "meaning": "raid, military attack by a mobile unit, hit-and-run attack, search-and-kill mission, search-and-destroy mission, military action without a predetermined target, attacking the enemy or assisting allies as the opportunity arises, shortstop, short"
+        "meaning": {
+          "vi": "raid, military attack by a mobile unit, hit-and-run attack, search-and-kill mission, search-and-destroy mission, military action without a predetermined target, attacking the enemy or assisting allies as the opportunity arises, shortstop, short"
+        },
+        "romaji": "yuugeki"
       },
       {
         "example": "遊園地",
         "reading": "ユウエンチ",
-        "meaning": "amusement park"
+        "meaning": {
+          "vi": "amusement park"
+        },
+        "romaji": "yuuenchi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遊ぶ",
         "reading": "あそぶ",
-        "meaning": "to play (games, sports), to enjoy oneself, to have a good time, to mess about (with alcohol, gambling, philandery, etc.), to be idle, to do nothing, to be unused, to meet up (with friends), to hang out, to give oneself up (to gambling, drinking, etc.), to go to (for pleasure or for study), to tease (someone), to play (with), to intentionally throw a ball to lower the batter's concentration"
+        "meaning": {
+          "vi": "to play (games, sports), to enjoy oneself, to have a good time, to mess about (with alcohol, gambling, philandery, etc.), to be idle, to do nothing, to be unused, to meet up (with friends), to hang out, to give oneself up (to gambling, drinking, etc.), to go to (for pleasure or for study), to tease (someone), to play (with), to intentionally throw a ball to lower the batter's concentration"
+        },
+        "romaji": "asobu"
       },
       {
         "example": "遊糸",
         "reading": "ゆうし",
-        "meaning": "gossamer, heat haze, shimmer of hot air"
+        "meaning": {
+          "en": "gossamer, heat haze, shimmer of hot air"
+        },
+        "romaji": "yuushi"
       },
       {
         "example": "遊ばす",
         "reading": "あそばす",
-        "meaning": "to let (someone) play, to keep (someone) amused, to entertain, to leave idle, to not make use of, to let go to waste, to do, to do"
+        "meaning": {
+          "vi": "to let (someone) play, to keep (someone) amused, to entertain, to leave idle, to not make use of, to let go to waste, to do, to do"
+        },
+        "romaji": "asobasu"
       }
     ],
     "radical": {
@@ -369,5 +396,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0904a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/904a.gif",
     "uri": "https://jisho.org/search/%E9%81%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "du"
+  ]
 }

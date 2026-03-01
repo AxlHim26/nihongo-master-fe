@@ -19,12 +19,18 @@
       {
         "example": "ヨモギ属",
         "reading": "ヨモギゾク",
-        "meaning": "Artemisia (genus of plants containing mugworts, wormwoods, etc.)"
+        "meaning": {
+          "vi": "Artemisia (genus of plants containing mugworts, wormwoods, etc.)"
+        },
+        "romaji": "yomogizoku"
       },
       {
         "example": "卑属",
         "reading": "ヒゾク",
-        "meaning": "lineal descendants"
+        "meaning": {
+          "en": "lineal descendants"
+        },
+        "romaji": "hizoku"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6c.gif",
     "uri": "https://jisho.org/search/%E5%B1%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "chú",
+    "chúc",
+    "thuộc"
+  ]
 }

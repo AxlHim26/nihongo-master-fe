@@ -320,22 +320,34 @@
       {
         "example": "像",
         "reading": "ゾウ",
-        "meaning": "image, figure, statue, picture, portrait, figure, form, shape, appearance, image"
+        "meaning": {
+          "vi": "image, figure, statue, picture, portrait, figure, form, shape, appearance, image"
+        },
+        "romaji": "zou"
       },
       {
         "example": "像主",
         "reading": "ゾウシュ",
-        "meaning": "subject (of a portrait or bust), a person posing for a portrait or bust, (historically) patron, someone who commissions a Buddhist temple or work of art"
+        "meaning": {
+          "vi": "subject (of a portrait or bust), a person posing for a portrait or bust, (historically) patron, someone who commissions a Buddhist temple or work of art"
+        },
+        "romaji": "zoushu"
       },
       {
         "example": "実像",
         "reading": "ジツゾウ",
-        "meaning": "real image, real form, real-life image, true picture, actual conditions, actual circumstances"
+        "meaning": {
+          "vi": "real image, real form, real-life image, true picture, actual conditions, actual circumstances"
+        },
+        "romaji": "jitsuzou"
       },
       {
         "example": "将来像",
         "reading": "ショウライゾウ",
-        "meaning": "vision of the future"
+        "meaning": {
+          "en": "vision of the future"
+        },
+        "romaji": "shouraizou"
       }
     ],
     "kunyomiExamples": [],
@@ -357,5 +369,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50cf.gif",
     "uri": "https://jisho.org/search/%E5%83%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tương",
+    "tượng"
+  ]
 }

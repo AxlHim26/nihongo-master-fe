@@ -16,17 +16,26 @@
       {
         "example": "遼",
         "reading": "リョウ",
-        "meaning": "Liao (Manchurian dynasty; 916-1125 CE), Khitan Empire"
+        "meaning": {
+          "vi": "Liao (Manchurian dynasty; 916-1125 CE), Khitan Empire"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "遼遠",
         "reading": "リョウエン",
-        "meaning": "remote, far off"
+        "meaning": {
+          "en": "remote, far off"
+        },
+        "romaji": "ryouen"
       },
       {
         "example": "西遼",
         "reading": "セイリョウ",
-        "meaning": "Western Liao (Central Asian Khitan empire; 1132-1211)"
+        "meaning": {
+          "vi": "Western Liao (Central Asian Khitan empire; 1132-1211)"
+        },
+        "romaji": "seiryou"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907c.gif",
     "uri": "https://jisho.org/search/%E9%81%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "liêu"
+  ]
 }

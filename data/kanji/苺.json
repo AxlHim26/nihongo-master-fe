@@ -18,22 +18,34 @@
       {
         "example": "苺",
         "reading": "いちご",
-        "meaning": "strawberry (esp. the garden strawberry, Fragaria x ananassa), 15,000 yen"
+        "meaning": {
+          "vi": "strawberry (esp. the garden strawberry, Fragaria x ananassa), 15,000 yen"
+        },
+        "romaji": "ichigo"
       },
       {
         "example": "いちご飴",
         "reading": "いちごあめ",
-        "meaning": "candy-coated strawberry on a stick"
+        "meaning": {
+          "en": "candy-coated strawberry on a stick"
+        },
+        "romaji": "ichigoame"
       },
       {
         "example": "幌向苺",
         "reading": "ほろむいいちご",
-        "meaning": "cloudberry (Rubus chamaemorus)"
+        "meaning": {
+          "en": "cloudberry (Rubus chamaemorus)"
+        },
+        "romaji": "horomuiichigo"
       },
       {
         "example": "木苺",
         "reading": "きいちご",
-        "meaning": "raspberry (any plant of genus Rubus, esp. Rubus palmatus var. coptophyllus)"
+        "meaning": {
+          "vi": "raspberry (any plant of genus Rubus, esp. Rubus palmatus var. coptophyllus)"
+        },
+        "romaji": "kiichigo"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82fa.gif",
     "uri": "https://jisho.org/search/%E8%8B%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "môi"
+  ]
 }

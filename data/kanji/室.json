@@ -342,44 +342,68 @@
       {
         "example": "室",
         "reading": "シツ",
-        "meaning": "room, wife (of someone of high rank), scabbard, Chinese \"Encampment\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "room, wife (of someone of high rank), scabbard, Chinese \"Encampment\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "shitsu"
       },
       {
         "example": "室長",
         "reading": "シツチョウ",
-        "meaning": "section chief, laboratory manager, office head, room monitor"
+        "meaning": {
+          "en": "section chief, laboratory manager, office head, room monitor"
+        },
+        "romaji": "shitsuchou"
       },
       {
         "example": "同室",
         "reading": "ドウシツ",
-        "meaning": "same room, sharing a room, occupying the same room"
+        "meaning": {
+          "vi": "same room, sharing a room, occupying the same room"
+        },
+        "romaji": "doushitsu"
       },
       {
         "example": "皇室",
         "reading": "コウシツ",
-        "meaning": "Imperial household"
+        "meaning": {
+          "vi": "Imperial household"
+        },
+        "romaji": "koushitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "室",
         "reading": "むろ",
-        "meaning": "greenhouse, icehouse, cellar"
+        "meaning": {
+          "en": "greenhouse, icehouse, cellar"
+        },
+        "romaji": "muro"
       },
       {
         "example": "室町",
         "reading": "むろまち",
-        "meaning": "Muromachi period (1336-1573)"
+        "meaning": {
+          "vi": "Muromachi period (1336-1573)"
+        },
+        "romaji": "muromachi"
       },
       {
         "example": "石室",
         "reading": "せきしつ",
-        "meaning": "stone hut, rock chamber, tomb, stone burial chamber"
+        "meaning": {
+          "en": "stone hut, rock chamber, tomb, stone burial chamber"
+        },
+        "romaji": "sekishitsu"
       },
       {
         "example": "氷室",
         "reading": "ひむろ",
-        "meaning": "ice house, ice room, cold room"
+        "meaning": {
+          "en": "ice house, ice room, cold room"
+        },
+        "romaji": "himuro"
       }
     ],
     "radical": {
@@ -396,5 +420,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ba4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ba4.gif",
     "uri": "https://jisho.org/search/%E5%AE%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thất"
+  ]
 }

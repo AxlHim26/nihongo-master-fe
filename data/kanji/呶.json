@@ -17,12 +17,18 @@
       {
         "example": "怒鳴り込む",
         "reading": "ドナリコム",
-        "meaning": "to storm in with a yell"
+        "meaning": {
+          "en": "to storm in with a yell"
+        },
+        "romaji": "donarikomu"
       },
       {
         "example": "怒鳴る",
         "reading": "ドナル",
-        "meaning": "to shout (in anger), to yell"
+        "meaning": {
+          "en": "to shout (in anger), to yell"
+        },
+        "romaji": "donaru"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05476.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5476.gif",
     "uri": "https://jisho.org/search/%E5%91%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "nao"
+  ]
 }

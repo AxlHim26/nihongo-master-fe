@@ -16,7 +16,10 @@
       {
         "example": "記章",
         "reading": "キショウ",
-        "meaning": "medal, badge, insignia"
+        "meaning": {
+          "en": "medal, badge, insignia"
+        },
+        "romaji": "kishou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fbd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fbd.gif",
     "uri": "https://jisho.org/search/%E5%BE%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "huy"
+  ]
 }

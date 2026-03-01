@@ -23,14 +23,20 @@
       {
         "example": "悪",
         "reading": "アク",
-        "meaning": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy"
+        "meaning": {
+          "en": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy"
+        },
+        "romaji": "aku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悪い",
         "reading": "わるい",
-        "meaning": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable"
+        "meaning": {
+          "vi": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable"
+        },
+        "romaji": "warui"
       }
     ],
     "radical": {
@@ -50,5 +56,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60e1.gif",
     "uri": "https://jisho.org/search/%E6%83%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "ác",
+    "ô",
+    "ố"
+  ]
 }

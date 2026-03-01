@@ -239,44 +239,68 @@
       {
         "example": "双",
         "reading": "ソウ",
-        "meaning": "pair"
+        "meaning": {
+          "vi": "pair"
+        },
+        "romaji": "sou"
       },
       {
         "example": "双子",
         "reading": "フタゴ",
-        "meaning": "twins, twin"
+        "meaning": {
+          "en": "twins, twin"
+        },
+        "romaji": "futago"
       },
       {
         "example": "一双",
         "reading": "イッソウ",
-        "meaning": "pair (esp. of folding screens)"
+        "meaning": {
+          "vi": "pair (esp. of folding screens)"
+        },
+        "romaji": "issou"
       },
       {
         "example": "八双",
         "reading": "ハッソウ",
-        "meaning": "style of sword fighting"
+        "meaning": {
+          "en": "style of sword fighting"
+        },
+        "romaji": "hassou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "二つ",
         "reading": "ふたつ",
-        "meaning": "two"
+        "meaning": {
+          "en": "two"
+        },
+        "romaji": "futatsu"
       },
       {
         "example": "双子",
         "reading": "ふたご",
-        "meaning": "twins, twin"
+        "meaning": {
+          "en": "twins, twin"
+        },
+        "romaji": "futago"
       },
       {
         "example": "並ぶ",
         "reading": "ならぶ",
-        "meaning": "to line up, to stand in a line, to rival, to match, to equal"
+        "meaning": {
+          "vi": "to line up, to stand in a line, to rival, to match, to equal"
+        },
+        "romaji": "narabu"
       },
       {
         "example": "二つ",
         "reading": "ふたつ",
-        "meaning": "two"
+        "meaning": {
+          "en": "two"
+        },
+        "romaji": "futatsu"
       }
     ],
     "radical": {
@@ -291,5 +315,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53cc.gif",
     "uri": "https://jisho.org/search/%E5%8F%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "song"
+  ]
 }

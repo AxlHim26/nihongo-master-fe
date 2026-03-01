@@ -16,29 +16,44 @@
       {
         "example": "鰐魚",
         "reading": "ガクギョ",
-        "meaning": "crocodile, alligator, crocodilian"
+        "meaning": {
+          "en": "crocodile, alligator, crocodilian"
+        },
+        "romaji": "gakugyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鰐",
         "reading": "わに",
-        "meaning": "crocodile, alligator, shark"
+        "meaning": {
+          "en": "crocodile, alligator, shark"
+        },
+        "romaji": "wani"
       },
       {
         "example": "和邇",
         "reading": "わに",
-        "meaning": "Wani, wani (mythological sea monster)"
+        "meaning": {
+          "en": "Wani, wani (mythological sea monster)"
+        },
+        "romaji": "wani"
       },
       {
         "example": "オーストラリア鰐",
         "reading": "オーストラリアわに",
-        "meaning": "freshwater crocodile (Crocodylus johnsoni), Australian freshwater crocodile, Johnston's crocodile"
+        "meaning": {
+          "en": "freshwater crocodile (Crocodylus johnsoni), Australian freshwater crocodile, Johnston's crocodile"
+        },
+        "romaji": "oosutorariawani"
       },
       {
         "example": "揚子江鰐",
         "reading": "ようすこうわに",
-        "meaning": "Chinese alligator (Alligator sinensis)"
+        "meaning": {
+          "en": "Chinese alligator (Alligator sinensis)"
+        },
+        "romaji": "yousukouwani"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c10.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c10.gif",
     "uri": "https://jisho.org/search/%E9%B0%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạc"
+  ]
 }

@@ -19,44 +19,68 @@
       {
         "example": "鷹隼",
         "reading": "ヨウシュン",
-        "meaning": "hawk and falcon"
+        "meaning": {
+          "en": "hawk and falcon"
+        },
+        "romaji": "youshun"
       },
       {
         "example": "鷹揚",
         "reading": "オウヨウ",
-        "meaning": "large-hearted, generous, liberal, open-handed, magnanimous, easygoing, placid, composed, cool, collected"
+        "meaning": {
+          "vi": "large-hearted, generous, liberal, open-handed, magnanimous, easygoing, placid, composed, cool, collected"
+        },
+        "romaji": "ouyou"
       },
       {
         "example": "放鷹",
         "reading": "ホウヨウ",
-        "meaning": "falconry, hawking"
+        "meaning": {
+          "en": "falconry, hawking"
+        },
+        "romaji": "houyou"
       },
       {
         "example": "鷹揚",
         "reading": "オウヨウ",
-        "meaning": "large-hearted, generous, liberal, open-handed, magnanimous, easygoing, placid, composed, cool, collected"
+        "meaning": {
+          "vi": "large-hearted, generous, liberal, open-handed, magnanimous, easygoing, placid, composed, cool, collected"
+        },
+        "romaji": "ouyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鷹",
         "reading": "たか",
-        "meaning": "hawk, falcon"
+        "meaning": {
+          "en": "hawk, falcon"
+        },
+        "romaji": "taka"
       },
       {
         "example": "鷹匠",
         "reading": "たかじょう",
-        "meaning": "falconer, hawker"
+        "meaning": {
+          "en": "falconer, hawker"
+        },
+        "romaji": "takajou"
       },
       {
         "example": "大鷹",
         "reading": "おおたか",
-        "meaning": "northern goshawk (Accipiter gentilis), female hawk (or falcon), falconry (using a northern goshawk)"
+        "meaning": {
+          "vi": "northern goshawk (Accipiter gentilis), female hawk (or falcon), falconry (using a northern goshawk)"
+        },
+        "romaji": "ootaka"
       },
       {
         "example": "小鷹",
         "reading": "こたか",
-        "meaning": "small hawk or falcon (used for hunting), falconry (using small hawks or falcons)"
+        "meaning": {
+          "en": "small hawk or falcon (used for hunting), falconry (using small hawks or falcons)"
+        },
+        "romaji": "kotaka"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09df9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9df9.gif",
     "uri": "https://jisho.org/search/%E9%B7%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "ưng"
+  ]
 }

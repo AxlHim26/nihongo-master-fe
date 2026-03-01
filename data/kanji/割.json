@@ -358,79 +358,124 @@
       {
         "example": "割愛",
         "reading": "カツアイ",
-        "meaning": "omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing"
+        "meaning": {
+          "vi": "omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing"
+        },
+        "romaji": "katsuai"
       },
       {
         "example": "割譲",
         "reading": "カツジョウ",
-        "meaning": "cession (of territory)"
+        "meaning": {
+          "en": "cession (of territory)"
+        },
+        "romaji": "katsujou"
       },
       {
         "example": "正割",
         "reading": "セイカツ",
-        "meaning": "secant (trigonometric function)"
+        "meaning": {
+          "en": "secant (trigonometric function)"
+        },
+        "romaji": "seikatsu"
       },
       {
         "example": "等割",
         "reading": "トウカツ",
-        "meaning": "equal cleavage (embryology)"
+        "meaning": {
+          "en": "equal cleavage (embryology)"
+        },
+        "romaji": "toukatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "割る",
         "reading": "わる",
-        "meaning": "to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)"
+        "meaning": {
+          "vi": "to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)"
+        },
+        "romaji": "waru"
       },
       {
         "example": "割り",
         "reading": "わり",
-        "meaning": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+        "meaning": {
+          "vi": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+        },
+        "romaji": "wari"
       },
       {
         "example": "割合",
         "reading": "わりあい",
-        "meaning": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+        "meaning": {
+          "vi": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+        },
+        "romaji": "wariai"
       },
       {
         "example": "学割",
         "reading": "がくわり",
-        "meaning": "student discount"
+        "meaning": {
+          "en": "student discount"
+        },
+        "romaji": "gakuwari"
       },
       {
         "example": "手合割",
         "reading": "てあいわり",
-        "meaning": "handicap (go, shogi)"
+        "meaning": {
+          "vi": "handicap (go, shogi)"
+        },
+        "romaji": "teaiwari"
       },
       {
         "example": "割り",
         "reading": "わり",
-        "meaning": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+        "meaning": {
+          "vi": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+        },
+        "romaji": "wari"
       },
       {
         "example": "割合",
         "reading": "わりあい",
-        "meaning": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+        "meaning": {
+          "vi": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+        },
+        "romaji": "wariai"
       },
       {
         "example": "学割",
         "reading": "がくわり",
-        "meaning": "student discount"
+        "meaning": {
+          "en": "student discount"
+        },
+        "romaji": "gakuwari"
       },
       {
         "example": "手合割",
         "reading": "てあいわり",
-        "meaning": "handicap (go, shogi)"
+        "meaning": {
+          "vi": "handicap (go, shogi)"
+        },
+        "romaji": "teaiwari"
       },
       {
         "example": "割れる",
         "reading": "われる",
-        "meaning": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"
+        "meaning": {
+          "vi": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"
+        },
+        "romaji": "wareru"
       },
       {
         "example": "裂く",
         "reading": "さく",
-        "meaning": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye"
+        "meaning": {
+          "vi": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye"
+        },
+        "romaji": "saku"
       }
     ],
     "radical": {
@@ -452,5 +497,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05272.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5272.gif",
     "uri": "https://jisho.org/search/%E5%89%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cát"
+  ]
 }

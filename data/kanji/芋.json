@@ -19,34 +19,52 @@
       {
         "example": "海芋",
         "reading": "カイウ",
-        "meaning": "calla (Zantedeschia aethiopica)"
+        "meaning": {
+          "vi": "calla (Zantedeschia aethiopica)"
+        },
+        "romaji": "kaiu"
       },
       {
         "example": "阿蘭陀海芋",
         "reading": "オランダカイウ",
-        "meaning": "calla lily (Zantedeschia aethiopica)"
+        "meaning": {
+          "vi": "calla lily (Zantedeschia aethiopica)"
+        },
+        "romaji": "orandakaiu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "芋",
         "reading": "いも",
-        "meaning": "tuber, taro, potato, yam, yokel, bumpkin, dud, worthless thing"
+        "meaning": {
+          "vi": "tuber, taro, potato, yam, yokel, bumpkin, dud, worthless thing"
+        },
+        "romaji": "imo"
       },
       {
         "example": "芋洗い",
         "reading": "いもあらい",
-        "meaning": "washing potatoes (in a bucket), being very crowded, being packed with people"
+        "meaning": {
+          "vi": "washing potatoes (in a bucket), being very crowded, being packed with people"
+        },
+        "romaji": "imoarai"
       },
       {
         "example": "焼き芋",
         "reading": "やきいも",
-        "meaning": "roasted sweet potato, baked sweet potato"
+        "meaning": {
+          "vi": "roasted sweet potato, baked sweet potato"
+        },
+        "romaji": "yakiimo"
       },
       {
         "example": "唐芋",
         "reading": "とういも",
-        "meaning": "sweet potato (Ipomoea batatas)"
+        "meaning": {
+          "vi": "sweet potato (Ipomoea batatas)"
+        },
+        "romaji": "touimo"
       }
     ],
     "radical": {
@@ -65,5 +83,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0828b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/828b.gif",
     "uri": "https://jisho.org/search/%E8%8A%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "dụ",
+    "hu",
+    "vu"
+  ]
 }

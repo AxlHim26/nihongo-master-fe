@@ -338,69 +338,108 @@
       {
         "example": "次",
         "reading": "ジ",
-        "meaning": "next, hypo- (i.e. containing an element with low valence), order, sequence, time, times"
+        "meaning": {
+          "vi": "next, hypo- (i.e. containing an element with low valence), order, sequence, time, times"
+        },
+        "romaji": "ji"
       },
       {
         "example": "次回",
         "reading": "ジカイ",
-        "meaning": "next time (occasion)"
+        "meaning": {
+          "en": "next time (occasion)"
+        },
+        "romaji": "jikai"
       },
       {
         "example": "三次",
         "reading": "サンジ",
-        "meaning": "third, tertiary, cubic (function, equation, etc.), third-order"
+        "meaning": {
+          "en": "third, tertiary, cubic (function, equation, etc.), third-order"
+        },
+        "romaji": "sanji"
       },
       {
         "example": "数次",
         "reading": "スウジ",
-        "meaning": "several times"
+        "meaning": {
+          "en": "several times"
+        },
+        "romaji": "suuji"
       },
       {
         "example": "次第に",
         "reading": "シダイニ",
-        "meaning": "gradually, by degrees, little by little, bit by bit"
+        "meaning": {
+          "en": "gradually, by degrees, little by little, bit by bit"
+        },
+        "romaji": "shidaini"
       },
       {
         "example": "次第",
         "reading": "シダイ",
-        "meaning": "depending on, as soon as, immediately after, upon, as (e.g. \"as one is told\", \"as one wishes\"), whatever (e.g. \"whatever is at hand\"), order, program, programme, precedence, circumstances, course of events, state of things, reason"
+        "meaning": {
+          "vi": "depending on, as soon as, immediately after, upon, as (e.g. \"as one is told\", \"as one wishes\"), whatever (e.g. \"whatever is at hand\"), order, program, programme, precedence, circumstances, course of events, state of things, reason"
+        },
+        "romaji": "shidai"
       },
       {
         "example": "路次",
         "reading": "ロジ",
-        "meaning": "way, path, route, along the way, along the road"
+        "meaning": {
+          "vi": "way, path, route, along the way, along the road"
+        },
+        "romaji": "roji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "次ぐ",
         "reading": "つぐ",
-        "meaning": "to follow, to come after, to come next (to), to rank next (to), to rank second (to)"
+        "meaning": {
+          "en": "to follow, to come after, to come next (to), to rank next (to), to rank second (to)"
+        },
+        "romaji": "tsugu"
       },
       {
         "example": "次ぐ身",
         "reading": "つぐみ",
-        "meaning": "next in line, heir"
+        "meaning": {
+          "en": "next in line, heir"
+        },
+        "romaji": "tsugumi"
       },
       {
         "example": "次",
         "reading": "つぎ",
-        "meaning": "next, following, subsequent, stage, station"
+        "meaning": {
+          "en": "next, following, subsequent, stage, station"
+        },
+        "romaji": "tsugi"
       },
       {
         "example": "次々",
         "reading": "つぎつぎ",
-        "meaning": "in succession, one by one"
+        "meaning": {
+          "en": "in succession, one by one"
+        },
+        "romaji": "tsugitsugi"
       },
       {
         "example": "五十三次",
         "reading": "ごじゅうさんつぎ",
-        "meaning": "fifty-three stations on the Tōkaidō (Edo-Kyoto highway in Edo-period Japan)"
+        "meaning": {
+          "vi": "fifty-three stations on the Tōkaidō (Edo-Kyoto highway in Edo-period Japan)"
+        },
+        "romaji": "gojuusantsugi"
       },
       {
         "example": "中継ぎ",
         "reading": "なかつぎ",
-        "meaning": "joining, joint, intermediation, acting as an intermediary, relaying, taking over, middle relief pitcher, middle reliever, pole-shaped item with a join in the middle, tea container with a lid that is the same size as the body"
+        "meaning": {
+          "vi": "joining, joint, intermediation, acting as an intermediary, relaying, taking over, middle relief pitcher, middle reliever, pole-shaped item with a join in the middle, tea container with a lid that is the same size as the body"
+        },
+        "romaji": "nakatsugi"
       }
     ],
     "radical": {
@@ -415,5 +454,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b21.gif",
     "uri": "https://jisho.org/search/%E6%AC%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thứ",
+    "tư"
+  ]
 }

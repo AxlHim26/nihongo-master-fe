@@ -236,22 +236,34 @@
       {
         "example": "抵触",
         "reading": "テイショク",
-        "meaning": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+        "meaning": {
+          "vi": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+        },
+        "romaji": "teishoku"
       },
       {
         "example": "抵抗",
         "reading": "テイコウ",
-        "meaning": "resistance, opposition, standing up to, reluctance, repulsion, repugnance, resistance, drag, friction, electrical resistance, resistor"
+        "meaning": {
+          "vi": "resistance, opposition, standing up to, reluctance, repulsion, repugnance, resistance, drag, friction, electrical resistance, resistor"
+        },
+        "romaji": "teikou"
       },
       {
         "example": "抗抵",
         "reading": "コウテイ",
-        "meaning": "resistance, opposition"
+        "meaning": {
+          "vi": "resistance, opposition"
+        },
+        "romaji": "koutei"
       },
       {
         "example": "角觝",
         "reading": "カクテイ",
-        "meaning": "strength contest, sumo wrestling"
+        "meaning": {
+          "en": "strength contest, sumo wrestling"
+        },
+        "romaji": "kakutei"
       }
     ],
     "kunyomiExamples": [],
@@ -270,5 +282,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062b5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62b5.gif",
     "uri": "https://jisho.org/search/%E6%8A%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉ",
+    "để"
+  ]
 }

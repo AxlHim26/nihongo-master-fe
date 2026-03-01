@@ -17,12 +17,18 @@
       {
         "example": "娼婦",
         "reading": "ショウフ",
-        "meaning": "prostitute"
+        "meaning": {
+          "vi": "prostitute"
+        },
+        "romaji": "shoufu"
       },
       {
         "example": "唱和",
         "reading": "ショウワ",
-        "meaning": "cheering in chorus, saying in unison"
+        "meaning": {
+          "en": "cheering in chorus, saying in unison"
+        },
+        "romaji": "shouwa"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05021.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5021.gif",
     "uri": "https://jisho.org/search/%E5%80%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "xương",
+    "xướng"
+  ]
 }

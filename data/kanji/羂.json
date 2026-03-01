@@ -17,7 +17,10 @@
       {
         "example": "罠",
         "reading": "わな",
-        "meaning": "trap (for catching animals), snare, trap, trick, ruse"
+        "meaning": {
+          "vi": "trap (for catching animals), snare, trap, trick, ruse"
+        },
+        "romaji": "wana"
       }
     ],
     "radical": {
@@ -42,5 +45,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f82.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f82.gif",
     "uri": "https://jisho.org/search/%E7%BE%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyên",
+    "quyến",
+    "quyển"
+  ]
 }

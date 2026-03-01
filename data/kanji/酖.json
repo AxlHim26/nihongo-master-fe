@@ -17,12 +17,18 @@
       {
         "example": "耽溺",
         "reading": "タンデキ",
-        "meaning": "indulgence (in alcohol, women, etc.), debauchery, dissipation"
+        "meaning": {
+          "vi": "indulgence (in alcohol, women, etc.), debauchery, dissipation"
+        },
+        "romaji": "tandeki"
       },
       {
         "example": "鴆",
         "reading": "チン",
-        "meaning": "poisonfeather bird, zhenniao, zhen, mythical poisonous bird (of ancient China)"
+        "meaning": {
+          "vi": "poisonfeather bird, zhenniao, zhen, mythical poisonous bird (of ancient China)"
+        },
+        "romaji": "chin"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09156.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9156.gif",
     "uri": "https://jisho.org/search/%E9%85%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "chậm",
+    "trấm",
+    "trầm",
+    "trậm",
+    "đam"
+  ]
 }

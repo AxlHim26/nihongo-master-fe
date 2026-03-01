@@ -378,54 +378,84 @@
       {
         "example": "点",
         "reading": "テン",
-        "meaning": "dot, spot, point, speck, mark, mark (in an exam, etc.), grade, score, points, point (in a game), score, goal, run, point, point, aspect, matter, detail, part, respect, way, viewpoint, (punctuation) mark (e.g. comma, period, decimal point), dot, \"dot\" stroke (in a Chinese character), counter for points, marks, goals, etc., counter for goods, items, articles of clothing, works of art, etc."
+        "meaning": {
+          "vi": "dot, spot, point, speck, mark, mark (in an exam, etc.), grade, score, points, point (in a game), score, goal, run, point, point, aspect, matter, detail, part, respect, way, viewpoint, (punctuation) mark (e.g. comma, period, decimal point), dot, \"dot\" stroke (in a Chinese character), counter for points, marks, goals, etc., counter for goods, items, articles of clothing, works of art, etc."
+        },
+        "romaji": "ten"
       },
       {
         "example": "点検",
         "reading": "テンケン",
-        "meaning": "detailed inspection, thorough examination, checking"
+        "meaning": {
+          "vi": "detailed inspection, thorough examination, checking"
+        },
+        "romaji": "tenken"
       },
       {
         "example": "最重点",
         "reading": "サイジュウテン",
-        "meaning": "very important point"
+        "meaning": {
+          "vi": "very important point"
+        },
+        "romaji": "saijuuten"
       },
       {
         "example": "同点",
         "reading": "ドウテン",
-        "meaning": "same score, deadlock, tie, draw"
+        "meaning": {
+          "en": "same score, deadlock, tie, draw"
+        },
+        "romaji": "douten"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "点ける",
         "reading": "つける",
-        "meaning": "to turn on, to switch on, to light up"
+        "meaning": {
+          "vi": "to turn on, to switch on, to light up"
+        },
+        "romaji": "tsukeru"
       },
       {
         "example": "点く",
         "reading": "つく",
-        "meaning": "to be lit (of a lamp, burner, etc.), to catch fire, to ignite, to start burning, to be turned on (of a light, appliance, etc.), to come on"
+        "meaning": {
+          "vi": "to be lit (of a lamp, burner, etc.), to catch fire, to ignite, to start burning, to be turned on (of a light, appliance, etc.), to come on"
+        },
+        "romaji": "tsuku"
       },
       {
         "example": "点てる",
         "reading": "たてる",
-        "meaning": "to make tea (matcha), to perform the tea ceremony"
+        "meaning": {
+          "vi": "to make tea (matcha), to perform the tea ceremony"
+        },
+        "romaji": "tateru"
       },
       {
         "example": "注す",
         "reading": "さす",
-        "meaning": "to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye"
+        "meaning": {
+          "vi": "to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye"
+        },
+        "romaji": "sasu"
       },
       {
         "example": "灯す",
         "reading": "ともす",
-        "meaning": "to light (a candle, lamp, etc.), to turn on (a light)"
+        "meaning": {
+          "vi": "to light (a candle, lamp, etc.), to turn on (a light)"
+        },
+        "romaji": "tomosu"
       },
       {
         "example": "灯す",
         "reading": "ともす",
-        "meaning": "to light (a candle, lamp, etc.), to turn on (a light)"
+        "meaning": {
+          "vi": "to light (a candle, lamp, etc.), to turn on (a light)"
+        },
+        "romaji": "tomosu"
       }
     ],
     "radical": {
@@ -444,5 +474,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70b9.gif",
     "uri": "https://jisho.org/search/%E7%82%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "điểm"
+  ]
 }

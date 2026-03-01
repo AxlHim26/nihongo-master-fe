@@ -333,29 +333,44 @@
       {
         "example": "快",
         "reading": "カイ",
-        "meaning": "pleasure, delight, enjoyment"
+        "meaning": {
+          "vi": "pleasure, delight, enjoyment"
+        },
+        "romaji": "kai"
       },
       {
         "example": "快感",
         "reading": "カイカン",
-        "meaning": "pleasant feeling, pleasant sensation, pleasure"
+        "meaning": {
+          "vi": "pleasant feeling, pleasant sensation, pleasure"
+        },
+        "romaji": "kaikan"
       },
       {
         "example": "豪快",
         "reading": "ゴウカイ",
-        "meaning": "hearty, tremendous, magnificent, glorious, splendid, heroic, stirring"
+        "meaning": {
+          "vi": "hearty, tremendous, magnificent, glorious, splendid, heroic, stirring"
+        },
+        "romaji": "goukai"
       },
       {
         "example": "明快",
         "reading": "メイカイ",
-        "meaning": "clear, clear-cut, lucid, unequivocal, explicit"
+        "meaning": {
+          "vi": "clear, clear-cut, lucid, unequivocal, explicit"
+        },
+        "romaji": "meikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "快い",
         "reading": "こころよい",
-        "meaning": "pleasant, agreeable, comfortable, refreshing"
+        "meaning": {
+          "vi": "pleasant, agreeable, comfortable, refreshing"
+        },
+        "romaji": "kokoroyoi"
       }
     ],
     "radical": {
@@ -377,5 +392,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05feb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5feb.gif",
     "uri": "https://jisho.org/search/%E5%BF%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoái"
+  ]
 }

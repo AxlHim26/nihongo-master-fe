@@ -384,84 +384,132 @@
       {
         "example": "解",
         "reading": "カイ",
-        "meaning": "solution (of an equation, inequality, etc.), root (e.g. of a polynomial), solution (to a given problem), answer, explanation, interpretation"
+        "meaning": {
+          "vi": "solution (of an equation, inequality, etc.), root (e.g. of a polynomial), solution (to a given problem), answer, explanation, interpretation"
+        },
+        "romaji": "kai"
       },
       {
         "example": "解禁",
         "reading": "カイキン",
-        "meaning": "lifting a ban, raising an embargo, opening a season (hunting, fishing, etc.), publishing contents, revealing information"
+        "meaning": {
+          "vi": "lifting a ban, raising an embargo, opening a season (hunting, fishing, etc.), publishing contents, revealing information"
+        },
+        "romaji": "kaikin"
       },
       {
         "example": "瓦解",
         "reading": "ガカイ",
-        "meaning": "collapse, downfall"
+        "meaning": {
+          "vi": "collapse, downfall"
+        },
+        "romaji": "gakai"
       },
       {
         "example": "明解",
         "reading": "メイカイ",
-        "meaning": "clear explanation"
+        "meaning": {
+          "vi": "clear explanation"
+        },
+        "romaji": "meikai"
       },
       {
         "example": "解熱",
         "reading": "ゲネツ",
-        "meaning": "lowering a fever, alleviation of fever"
+        "meaning": {
+          "en": "lowering a fever, alleviation of fever"
+        },
+        "romaji": "genetsu"
       },
       {
         "example": "解脱",
         "reading": "ゲダツ",
-        "meaning": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti"
+        "meaning": {
+          "en": "liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti"
+        },
+        "romaji": "gedatsu"
       },
       {
         "example": "雪解",
         "reading": "ユキゲ",
-        "meaning": "snow melting, water from melting snow"
+        "meaning": {
+          "en": "snow melting, water from melting snow"
+        },
+        "romaji": "yukige"
       },
       {
         "example": "義解",
         "reading": "ギゲ",
-        "meaning": "explanation (of the meaning), interpretation"
+        "meaning": {
+          "vi": "explanation (of the meaning), interpretation"
+        },
+        "romaji": "gige"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "解く",
         "reading": "とく",
-        "meaning": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)"
+        "meaning": {
+          "vi": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)"
+        },
+        "romaji": "toku"
       },
       {
         "example": "溶かす",
         "reading": "とかす",
-        "meaning": "to dissolve, to melt"
+        "meaning": {
+          "en": "to dissolve, to melt"
+        },
+        "romaji": "tokasu"
       },
       {
         "example": "梳かす",
         "reading": "とかす",
-        "meaning": "to comb out, to brush, to untangle, to unravel"
+        "meaning": {
+          "en": "to comb out, to brush, to untangle, to unravel"
+        },
+        "romaji": "tokasu"
       },
       {
         "example": "解ける",
         "reading": "とける",
-        "meaning": "to be solved, to be resolved, to loosen, to come untied, to come undone, to be removed (of restrictions), to be lifted (e.g. a ban), to be broken (spells, curses, etc.), to dissipate (of anger, tension, etc.), to melt away, to ease, to be appeased, to be resolved (of a dispute, misunderstanding, etc.), to be cleared up"
+        "meaning": {
+          "vi": "to be solved, to be resolved, to loosen, to come untied, to come undone, to be removed (of restrictions), to be lifted (e.g. a ban), to be broken (spells, curses, etc.), to dissipate (of anger, tension, etc.), to melt away, to ease, to be appeased, to be resolved (of a dispute, misunderstanding, etc.), to be cleared up"
+        },
+        "romaji": "tokeru"
       },
       {
         "example": "溶ける",
         "reading": "とける",
-        "meaning": "to melt, to thaw, to fuse, to dissolve"
+        "meaning": {
+          "en": "to melt, to thaw, to fuse, to dissolve"
+        },
+        "romaji": "tokeru"
       },
       {
         "example": "解く",
         "reading": "ほどく",
-        "meaning": "to undo, to untie, to unfasten, to unlace, to unravel, to loosen, to unpack"
+        "meaning": {
+          "vi": "to undo, to untie, to unfasten, to unlace, to unravel, to loosen, to unpack"
+        },
+        "romaji": "hodoku"
       },
       {
         "example": "解す",
         "reading": "ほぐす",
-        "meaning": "to disentangle, to untangle, to unravel, to loosen, to break up into pieces, to pick apart, to flake (a fish), to relieve, to ease, to relax"
+        "meaning": {
+          "vi": "to disentangle, to untangle, to unravel, to loosen, to break up into pieces, to pick apart, to flake (a fish), to relieve, to ease, to relax"
+        },
+        "romaji": "hogusu"
       },
       {
         "example": "分かる",
         "reading": "わかる",
-        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        "meaning": {
+          "vi": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        },
+        "romaji": "wakaru"
       }
     ],
     "radical": {
@@ -477,5 +525,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89e3.gif",
     "uri": "https://jisho.org/search/%E8%A7%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "giái",
+    "giải",
+    "giới"
+  ]
 }

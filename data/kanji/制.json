@@ -327,22 +327,34 @@
       {
         "example": "制",
         "reading": "セイ",
-        "meaning": "system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment"
+        "meaning": {
+          "vi": "system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment"
+        },
+        "romaji": "sei"
       },
       {
         "example": "制圧",
         "reading": "セイアツ",
-        "meaning": "gaining total control (of people or counties), suppression, oppression, control, mastery, ascendancy, supremacy"
+        "meaning": {
+          "vi": "gaining total control (of people or counties), suppression, oppression, control, mastery, ascendancy, supremacy"
+        },
+        "romaji": "seiatsu"
       },
       {
         "example": "天皇制",
         "reading": "テンノウセイ",
-        "meaning": "the Emperor System"
+        "meaning": {
+          "vi": "the Emperor System"
+        },
+        "romaji": "tennousei"
       },
       {
         "example": "帝政",
         "reading": "テイセイ",
-        "meaning": "imperial government, imperialism, monarchical rule"
+        "meaning": {
+          "vi": "imperial government, imperialism, monarchical rule"
+        },
+        "romaji": "teisei"
       }
     ],
     "kunyomiExamples": [],
@@ -364,5 +376,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05236.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5236.gif",
     "uri": "https://jisho.org/search/%E5%88%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "chế"
+  ]
 }

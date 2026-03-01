@@ -287,34 +287,52 @@
       {
         "example": "関与",
         "reading": "カンヨ",
-        "meaning": "participation, taking part in, participating in, being concerned in"
+        "meaning": {
+          "vi": "participation, taking part in, participating in, being concerned in"
+        },
+        "romaji": "kan'yo"
       },
       {
         "example": "干渉",
         "reading": "カンショウ",
-        "meaning": "interference, intervention, meddling"
+        "meaning": {
+          "en": "interference, intervention, meddling"
+        },
+        "romaji": "kanshou"
       },
       {
         "example": "水干",
         "reading": "スイカン",
-        "meaning": "everyday garment worn by nobles in ancient Japan, silk dried after having been washed in plain water and stretched out"
+        "meaning": {
+          "vi": "everyday garment worn by nobles in ancient Japan, silk dried after having been washed in plain water and stretched out"
+        },
+        "romaji": "suikan"
       },
       {
         "example": "十干",
         "reading": "ジッカン",
-        "meaning": "ten celestial stems (two types each of wood, fire, earth, metal, water), ten heavenly stems"
+        "meaning": {
+          "vi": "ten celestial stems (two types each of wood, fire, earth, metal, water), ten heavenly stems"
+        },
+        "romaji": "jikkan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "干す",
         "reading": "ほす",
-        "meaning": "to air, to dry, to desiccate, to drain (off), to drink up, to deprive of a role, job, etc."
+        "meaning": {
+          "vi": "to air, to dry, to desiccate, to drain (off), to drink up, to deprive of a role, job, etc."
+        },
+        "romaji": "hosu"
       },
       {
         "example": "干る",
         "reading": "ひる",
-        "meaning": "to dry (up), to become parched, to ebb, to recede"
+        "meaning": {
+          "vi": "to dry (up), to become parched, to ebb, to recede"
+        },
+        "romaji": "hiru"
       }
     ],
     "radical": {
@@ -330,5 +348,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e72.gif",
     "uri": "https://jisho.org/search/%E5%B9%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "can",
+    "cán"
+  ]
 }

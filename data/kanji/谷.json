@@ -226,44 +226,68 @@
       {
         "example": "谷底平野",
         "reading": "コクテイヘイヤ",
-        "meaning": "valley plain"
+        "meaning": {
+          "vi": "valley plain"
+        },
+        "romaji": "kokuteiheiya"
       },
       {
         "example": "渓谷",
         "reading": "ケイコク",
-        "meaning": "valley (with a river running through it), gorge, ravine, canyon"
+        "meaning": {
+          "en": "valley (with a river running through it), gorge, ravine, canyon"
+        },
+        "romaji": "keikoku"
       },
       {
         "example": "盤谷",
         "reading": "バンコク",
-        "meaning": "Bangkok (Thailand)"
+        "meaning": {
+          "en": "Bangkok (Thailand)"
+        },
+        "romaji": "bankoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "谷",
         "reading": "たに",
-        "meaning": "valley"
+        "meaning": {
+          "en": "valley"
+        },
+        "romaji": "tani"
       },
       {
         "example": "谷間",
         "reading": "たにま",
-        "meaning": "valley, ravine, gorge, chasm, cleavage (of breasts), part or place that has been left behind, blind spot, bottom (of society), (economic) trough, gap (in activity, one's work, etc.), lull, opening"
+        "meaning": {
+          "vi": "valley, ravine, gorge, chasm, cleavage (of breasts), part or place that has been left behind, blind spot, bottom (of society), (economic) trough, gap (in activity, one's work, etc.), lull, opening"
+        },
+        "romaji": "tanima"
       },
       {
         "example": "死の谷",
         "reading": "しのたに",
-        "meaning": "valley of death (barrier between product development and commercialization stages)"
+        "meaning": {
+          "vi": "valley of death (barrier between product development and commercialization stages)"
+        },
+        "romaji": "shinotani"
       },
       {
         "example": "気圧の谷",
         "reading": "きあつのたに",
-        "meaning": "low pressure trough"
+        "meaning": {
+          "vi": "low pressure trough"
+        },
+        "romaji": "kiatsunotani"
       },
       {
         "example": "極まる",
         "reading": "きわまる",
-        "meaning": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled"
+        "meaning": {
+          "en": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled"
+        },
+        "romaji": "kiwamaru"
       }
     ],
     "radical": {
@@ -280,5 +304,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c37.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c37.gif",
     "uri": "https://jisho.org/search/%E8%B0%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "cốc",
+    "dục",
+    "lộc"
+  ]
 }

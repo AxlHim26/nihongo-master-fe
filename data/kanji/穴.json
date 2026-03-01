@@ -209,44 +209,68 @@
       {
         "example": "穴",
         "reading": "ケツ",
-        "meaning": "ass, arse, buttocks, rear, end, acupuncture point, hole, notch"
+        "meaning": {
+          "vi": "ass, arse, buttocks, rear, end, acupuncture point, hole, notch"
+        },
+        "romaji": "ketsu"
       },
       {
         "example": "穴隙",
         "reading": "ケツゲキ",
-        "meaning": "crevice, aperture"
+        "meaning": {
+          "vi": "crevice, aperture"
+        },
+        "romaji": "ketsugeki"
       },
       {
         "example": "横穴",
         "reading": "ヨコアナ",
-        "meaning": "cave, tunnel, tunnel tomb (Kofun period)"
+        "meaning": {
+          "vi": "cave, tunnel, tunnel tomb (Kofun period)"
+        },
+        "romaji": "yokoana"
       },
       {
         "example": "経穴",
         "reading": "ケイケツ",
-        "meaning": "acupuncture point"
+        "meaning": {
+          "vi": "acupuncture point"
+        },
+        "romaji": "keiketsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "穴",
         "reading": "あな",
-        "meaning": "hole, opening, orifice, perforation, pit, hollow, cavity, hole (e.g. in the ground), burrow, den, lair, holt, hole, deficit, shortage, (financial) hole, loss, gap (left by a missing employee, team member, etc.), vacancy, opening, flaw, fault, defect, weak point, hole (in a theory, plan, etc.), loophole, good place not many people know about, well-kept secret, upset victory (with a large payoff), long shot, dark horse, (partitioned) box (type of floor seating in a traditional Japanese theatre), hiding place, hideout"
+        "meaning": {
+          "vi": "hole, opening, orifice, perforation, pit, hollow, cavity, hole (e.g. in the ground), burrow, den, lair, holt, hole, deficit, shortage, (financial) hole, loss, gap (left by a missing employee, team member, etc.), vacancy, opening, flaw, fault, defect, weak point, hole (in a theory, plan, etc.), loophole, good place not many people know about, well-kept secret, upset victory (with a large payoff), long shot, dark horse, (partitioned) box (type of floor seating in a traditional Japanese theatre), hiding place, hideout"
+        },
+        "romaji": "ana"
       },
       {
         "example": "穴埋め",
         "reading": "あなうめ",
-        "meaning": "filling (up) a hole, filling in (for a gap, vacancy, etc.), stopgap, filler (e.g. article), making up (for a loss, damage, etc.), covering (a deficit), compensation, cloze deletion (test format)"
+        "meaning": {
+          "vi": "filling (up) a hole, filling in (for a gap, vacancy, etc.), stopgap, filler (e.g. article), making up (for a loss, damage, etc.), covering (a deficit), compensation, cloze deletion (test format)"
+        },
+        "romaji": "anaume"
       },
       {
         "example": "風穴",
         "reading": "かざあな",
-        "meaning": "air hole, windhole, air vent, deep cave from which cold wind blows"
+        "meaning": {
+          "vi": "air hole, windhole, air vent, deep cave from which cold wind blows"
+        },
+        "romaji": "kazaana"
       },
       {
         "example": "横穴",
         "reading": "よこあな",
-        "meaning": "cave, tunnel, tunnel tomb (Kofun period)"
+        "meaning": {
+          "vi": "cave, tunnel, tunnel tomb (Kofun period)"
+        },
+        "romaji": "yokoana"
       }
     ],
     "radical": {
@@ -263,5 +287,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a74.gif",
     "uri": "https://jisho.org/search/%E7%A9%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyệt"
+  ]
 }

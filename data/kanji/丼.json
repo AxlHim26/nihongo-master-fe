@@ -22,22 +22,46 @@
       {
         "example": "丼",
         "reading": "どんぶり",
-        "meaning": "porcelain bowl, donburi, bowl of meat, fish, etc. served over rice"
+        "meaning": {
+          "vi": "porcelain bowl, donburi, bowl of meat, fish, etc. served over rice"
+        },
+        "meaningVN": "bát sứ, donburi, bát thịt, cá, v.v. dùng kèm cơm",
+        "hanViet": "tỉnh",
+        "hanVietExplain": "tỉnh: tiếng đồ vật quăng xuống giếng",
+        "romaji": "donburi"
       },
       {
         "example": "どんぶり勘定",
         "reading": "どんぶりかんじょう",
-        "meaning": "rough estimate, sloppy accounting, slapdash bookkeeping"
+        "meaning": {
+          "vi": "rough estimate, sloppy accounting, slapdash bookkeeping"
+        },
+        "meaningVN": "ước tính sơ bộ, kế toán cẩu thả, sổ sách kế toán cẩu thả",
+        "hanViet": "ど ん ぶ り khám đính",
+        "hanVietExplain": "勘 (khám: so sánh) + 定 (đính: định) → ước tính sơ bộ, kế toán cẩu thả, sổ sách kế toán cẩu thả",
+        "romaji": "donburikanjou"
       },
       {
         "example": "開化丼",
         "reading": "かいかどん",
-        "meaning": "bowl of rice topped with beef (or pork) and egg"
+        "meaning": {
+          "vi": "bowl of rice topped with beef (or pork) and egg"
+        },
+        "meaningVN": "tô cơm phủ thịt bò (hoặc thịt lợn) và trứng",
+        "hanViet": "khai hoa tỉnh",
+        "hanVietExplain": "開 (khai: mở ra) + 化 (hoa: biến hoá, biến đổi) + 丼 (tỉnh: tiếng đồ vật quăng xuống giếng) → tô cơm phủ thịt bò (hoặc thịt lợn) và trứng",
+        "romaji": "kaikadon"
       },
       {
         "example": "中華丼",
         "reading": "ちゅうかどん",
-        "meaning": "bowl of rice topped with a chop-suey-like mixture"
+        "meaning": {
+          "vi": "bowl of rice topped with a chop-suey-like mixture"
+        },
+        "meaningVN": "bát cơm phủ hỗn hợp giống như thịt băm",
+        "hanViet": "trung hoa tỉnh",
+        "hanVietExplain": "中 (trung: ở giữa) + 華 (hoa: đẹp) + 丼 (tỉnh: tiếng đồ vật quăng xuống giếng) → bát cơm phủ hỗn hợp giống như thịt băm",
+        "romaji": "chuukadon"
       }
     ],
     "radical": {
@@ -56,5 +80,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e3c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e3c.gif",
     "uri": "https://jisho.org/search/%E4%B8%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "tỉnh",
+    "đảm"
+  ],
+  "meaningVN": "bát, bát thức ăn",
+  "hanVietExplain": "tỉnh: tiếng đồ vật quăng xuống giếng"
 }

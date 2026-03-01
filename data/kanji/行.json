@@ -401,84 +401,132 @@
       {
         "example": "行",
         "reading": "コウ",
-        "meaning": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period)"
+        "meaning": {
+          "vi": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period)"
+        },
+        "romaji": "kou"
       },
       {
         "example": "行為",
         "reading": "コウイ",
-        "meaning": "act, deed, conduct"
+        "meaning": {
+          "en": "act, deed, conduct"
+        },
+        "romaji": "koui"
       },
       {
         "example": "並行",
         "reading": "ヘイコウ",
-        "meaning": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
+        "meaning": {
+          "vi": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
+        },
+        "romaji": "heikou"
       },
       {
         "example": "性行",
         "reading": "セイコウ",
-        "meaning": "character and conduct"
+        "meaning": {
+          "en": "character and conduct"
+        },
+        "romaji": "seikou"
       },
       {
         "example": "行",
         "reading": "ギョウ",
-        "meaning": "line (of text), row, verse, carya (austerities), samskara (formations), semi-cursive style (of writing Chinese characters), running style"
+        "meaning": {
+          "en": "line (of text), row, verse, carya (austerities), samskara (formations), semi-cursive style (of writing Chinese characters), running style"
+        },
+        "romaji": "gyou"
       },
       {
         "example": "行革",
         "reading": "ギョウカク",
-        "meaning": "administrative reform"
+        "meaning": {
+          "en": "administrative reform"
+        },
+        "romaji": "gyoukaku"
       },
       {
         "example": "奉行",
         "reading": "ブギョウ",
-        "meaning": "magistrate, shogunate administrator"
+        "meaning": {
+          "en": "magistrate, shogunate administrator"
+        },
+        "romaji": "bugyou"
       },
       {
         "example": "施行",
         "reading": "シコウ",
-        "meaning": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
+        "meaning": {
+          "vi": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
+        },
+        "romaji": "shikou"
       },
       {
         "example": "行脚",
         "reading": "アンギャ",
-        "meaning": "pilgrimage, walking tour, travelling (on foot)"
+        "meaning": {
+          "vi": "pilgrimage, walking tour, travelling (on foot)"
+        },
+        "romaji": "angya"
       },
       {
         "example": "行火",
         "reading": "アンカ",
-        "meaning": "bed warmer, foot warmer"
+        "meaning": {
+          "en": "bed warmer, foot warmer"
+        },
+        "romaji": "anka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "行く",
         "reading": "いく",
-        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        "meaning": {
+          "vi": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        },
+        "romaji": "iku"
       },
       {
         "example": "行く先",
         "reading": "ゆくさき",
-        "meaning": "destination, whereabouts, future, prospects"
+        "meaning": {
+          "vi": "destination, whereabouts, future, prospects"
+        },
+        "romaji": "yukusaki"
       },
       {
         "example": "行く",
         "reading": "いく",
-        "meaning": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        "meaning": {
+          "vi": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+        },
+        "romaji": "iku"
       },
       {
         "example": "行方",
         "reading": "ゆくえ",
-        "meaning": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead"
+        "meaning": {
+          "vi": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead"
+        },
+        "romaji": "yukue"
       },
       {
         "example": "行う",
         "reading": "おこなう",
-        "meaning": "to perform, to do, to conduct oneself, to carry out"
+        "meaning": {
+          "vi": "to perform, to do, to conduct oneself, to carry out"
+        },
+        "romaji": "okonau"
       },
       {
         "example": "行う",
         "reading": "おこなう",
-        "meaning": "to perform, to do, to conduct oneself, to carry out"
+        "meaning": {
+          "vi": "to perform, to do, to conduct oneself, to carry out"
+        },
+        "romaji": "okonau"
       }
     ],
     "radical": {
@@ -493,5 +541,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0884c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/884c.gif",
     "uri": "https://jisho.org/search/%E8%A1%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàng",
+    "hành",
+    "hãng",
+    "hạng",
+    "hạnh"
+  ]
 }

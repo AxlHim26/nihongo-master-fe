@@ -17,22 +17,34 @@
       {
         "example": "晶化",
         "reading": "ショウカ",
-        "meaning": "crystallization, crystallisation"
+        "meaning": {
+          "en": "crystallization, crystallisation"
+        },
+        "romaji": "shouka"
       },
       {
         "example": "晶光",
         "reading": "ショウコウ",
-        "meaning": "brilliant light"
+        "meaning": {
+          "en": "brilliant light"
+        },
+        "romaji": "shoukou"
       },
       {
         "example": "水晶",
         "reading": "スイショウ",
-        "meaning": "(rock) crystal, high purity quartz"
+        "meaning": {
+          "vi": "(rock) crystal, high purity quartz"
+        },
+        "romaji": "suishou"
       },
       {
         "example": "骸晶",
         "reading": "ガイショウ",
-        "meaning": "hopper crystal, skeleton crystal"
+        "meaning": {
+          "vi": "hopper crystal, skeleton crystal"
+        },
+        "romaji": "gaishou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06676.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6676.gif",
     "uri": "https://jisho.org/search/%E6%99%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "tinh"
+  ]
 }

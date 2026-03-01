@@ -305,39 +305,60 @@
       {
         "example": "毎",
         "reading": "マイ",
-        "meaning": "every (usu. with events, e.g. every weekend), each"
+        "meaning": {
+          "en": "every (usu. with events, e.g. every weekend), each"
+        },
+        "romaji": "mai"
       },
       {
         "example": "毎朝",
         "reading": "マイアサ",
-        "meaning": "every morning"
+        "meaning": {
+          "en": "every morning"
+        },
+        "romaji": "maiasa"
       },
       {
         "example": "毎々",
         "reading": "マイマイ",
-        "meaning": "each time, frequently, always"
+        "meaning": {
+          "en": "each time, frequently, always"
+        },
+        "romaji": "maimai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "毎",
         "reading": "ごと",
-        "meaning": "each, every"
+        "meaning": {
+          "en": "each, every"
+        },
+        "romaji": "goto"
       },
       {
         "example": "毎に",
         "reading": "ごとに",
-        "meaning": "one by one, each, every, at intervals of"
+        "meaning": {
+          "en": "one by one, each, every, at intervals of"
+        },
+        "romaji": "gotoni"
       },
       {
         "example": "月ごと",
         "reading": "つきごと",
-        "meaning": "monthly"
+        "meaning": {
+          "en": "monthly"
+        },
+        "romaji": "tsukigoto"
       },
       {
         "example": "戸ごと",
         "reading": "こごと",
-        "meaning": "every house, each household"
+        "meaning": {
+          "en": "every house, each household"
+        },
+        "romaji": "kogoto"
       }
     ],
     "radical": {
@@ -357,5 +378,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bce.gif",
     "uri": "https://jisho.org/search/%E6%AF%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "mỗi"
+  ]
 }

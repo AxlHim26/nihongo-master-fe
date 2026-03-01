@@ -17,24 +17,36 @@
       {
         "example": "偽物",
         "reading": "ニセモノ",
-        "meaning": "spurious article, forgery, counterfeit, imitation, sham"
+        "meaning": {
+          "vi": "spurious article, forgery, counterfeit, imitation, sham"
+        },
+        "romaji": "nisemono"
       },
       {
         "example": "贋作",
         "reading": "ガンサク",
-        "meaning": "fake (work), counterfeit"
+        "meaning": {
+          "en": "fake (work), counterfeit"
+        },
+        "romaji": "gansaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偽",
         "reading": "にせ",
-        "meaning": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-"
+        "meaning": {
+          "vi": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-"
+        },
+        "romaji": "nise"
       },
       {
         "example": "偽物",
         "reading": "にせもの",
-        "meaning": "spurious article, forgery, counterfeit, imitation, sham"
+        "meaning": {
+          "vi": "spurious article, forgery, counterfeit, imitation, sham"
+        },
+        "romaji": "nisemono"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d0b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d0b.gif",
     "uri": "https://jisho.org/search/%E8%B4%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhạn"
+  ]
 }

@@ -21,34 +21,67 @@
       {
         "example": "之繞",
         "reading": "シンニョウ",
-        "meaning": "bộ thủ \"đường\" hoặc \"tiến\" (bộ 162)"
+        "meaning": {
+          "vi": "bộ thủ \"đường\" hoặc \"tiến\" (bộ 162)"
+        },
+        "meaningVN": "bộ thủ \"đường\" hoặc \"tiến\" (bộ 162)",
+        "hanViet": "chi nhiễu",
+        "hanVietExplain": "之 (chi: đã, rồi) + 繞 (nhiễu: xoay quanh, đi vòng quanh, quấn quanh) → bộ thủ \"đường\" hoặc \"tiến\" (bộ 162)",
+        "romaji": "shinnyou"
       },
       {
         "example": "之繞を掛ける",
         "reading": "シンニュウヲカケル",
-        "meaning": "phóng đại"
+        "meaning": {
+          "vi": "phóng đại"
+        },
+        "meaningVN": "phóng đại",
+        "hanViet": "chi nhiễu を quải け る",
+        "hanVietExplain": "之 (chi: đã, rồi) + 繞 (nhiễu: xoay quanh, đi vòng quanh, quấn quanh) + 掛 (quải: treo lên) → phóng đại",
+        "romaji": "shinnyuuwokakeru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【の】",
         "reading": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question",
-        "meaning": ""
+        "meaning": "",
+        "hanViet": "【 の 】",
+        "hanVietExplain": null,
+        "romaji": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question"
       },
       {
         "example": "乃",
         "reading": "の",
-        "meaning": "của, thuộc về"
+        "meaning": {
+          "vi": "của, thuộc về"
+        },
+        "meaningVN": "của, thuộc về",
+        "hanViet": "nãi",
+        "hanVietExplain": "nãi: bèn (trợ từ)",
+        "romaji": "no"
       },
       {
         "example": "此れ",
         "reading": "これ",
-        "meaning": "này, cái này, người này, bây giờ, điểm này (trong thời gian), đây, dùng nhấn mạnh chủ ngữ, tôi"
+        "meaning": {
+          "vi": "này, cái này, người này, bây giờ, điểm này (trong thời gian), đây, dùng nhấn mạnh chủ ngữ, tôi"
+        },
+        "meaningVN": "này, cái này, người này, bây giờ, điểm này (trong thời gian), đây, dùng nhấn mạnh chủ ngữ, tôi",
+        "hanViet": "thử れ",
+        "hanVietExplain": "thử: này, bên này",
+        "romaji": "kore"
       },
       {
         "example": "これ等",
         "reading": "これら",
-        "meaning": "những cái này"
+        "meaning": {
+          "vi": "những cái này"
+        },
+        "meaningVN": "những cái này",
+        "hanViet": "こ れ đẳng",
+        "hanVietExplain": "đẳng: bằng nhau, thứ bậc, chờ đợi",
+        "romaji": "korera"
       }
     ],
     "radical": {
@@ -65,5 +98,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e4b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e4b.gif",
     "uri": "https://jisho.org/search/%E4%B9%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi"
+  ],
+  "meaningVN": "của, này",
+  "hanVietExplain": "chi: đã, rồi, thuộc về, (đại từ thay thế), mà, đi tới"
 }

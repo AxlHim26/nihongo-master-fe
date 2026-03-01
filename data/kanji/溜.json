@@ -22,69 +22,108 @@
       {
         "example": "溜飲",
         "reading": "リュウイン",
-        "meaning": "acid reflux, bile reflux, pyrosis, stomach acid (when it enters the esophagus), heartburn, indigestion, water brash, gloating, gratification, satisfaction"
+        "meaning": {
+          "vi": "acid reflux, bile reflux, pyrosis, stomach acid (when it enters the esophagus), heartburn, indigestion, water brash, gloating, gratification, satisfaction"
+        },
+        "romaji": "ryuuin"
       },
       {
         "example": "溜飲が下がる",
         "reading": "リュウインガサガル",
-        "meaning": "to feel relieved, to feel satisfied"
+        "meaning": {
+          "en": "to feel relieved, to feel satisfied"
+        },
+        "romaji": "ryuuingasagaru"
       },
       {
         "example": "溝溜",
         "reading": "コウリュウ",
-        "meaning": "drain and pool for collecting sewage, etc."
+        "meaning": {
+          "vi": "drain and pool for collecting sewage, etc."
+        },
+        "romaji": "kouryuu"
       },
       {
         "example": "貯留",
         "reading": "チョリュウ",
-        "meaning": "accumulation (e.g. of water), retention, storage, collection, sequestration (e.g. of carbon dioxide)"
+        "meaning": {
+          "en": "accumulation (e.g. of water), retention, storage, collection, sequestration (e.g. of carbon dioxide)"
+        },
+        "romaji": "choryuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "溜まる",
         "reading": "たまる",
-        "meaning": "to collect, to gather, to save, to accumulate, to pile up"
+        "meaning": {
+          "vi": "to collect, to gather, to save, to accumulate, to pile up"
+        },
+        "romaji": "tamaru"
       },
       {
         "example": "溜まる",
         "reading": "たまる",
-        "meaning": "to collect, to gather, to save, to accumulate, to pile up"
+        "meaning": {
+          "vi": "to collect, to gather, to save, to accumulate, to pile up"
+        },
+        "romaji": "tamaru"
       },
       {
         "example": "溜める",
         "reading": "ためる",
-        "meaning": "to amass, to accumulate, to store, to leave unpaid"
+        "meaning": {
+          "vi": "to amass, to accumulate, to store, to leave unpaid"
+        },
+        "romaji": "tameru"
       },
       {
         "example": "溜まり",
         "reading": "たまり",
-        "meaning": "pile, pool, collection, gathering spot, waiting place for a wrestler beside the ring, liquid runoff from miso preparation, tamari, variety of rich soy sauce (used for sashimi, etc.)"
+        "meaning": {
+          "vi": "pile, pool, collection, gathering spot, waiting place for a wrestler beside the ring, liquid runoff from miso preparation, tamari, variety of rich soy sauce (used for sashimi, etc.)"
+        },
+        "romaji": "tamari"
       },
       {
         "example": "たまり醤油",
         "reading": "たまりじょうゆ",
-        "meaning": "tamari soy sauce, variety of rich soy sauce (used for sashimi, etc.)"
+        "meaning": {
+          "en": "tamari soy sauce, variety of rich soy sauce (used for sashimi, etc.)"
+        },
+        "romaji": "tamarijouyu"
       },
       {
         "example": "船だまり",
         "reading": "ふなだまり",
-        "meaning": "moorage (esp. for small boats), anchorage"
+        "meaning": {
+          "vi": "moorage (esp. for small boats), anchorage"
+        },
+        "romaji": "funadamari"
       },
       {
         "example": "溜め",
         "reading": "ため",
-        "meaning": "cesspool, sink, manure sink"
+        "meaning": {
+          "vi": "cesspool, sink, manure sink"
+        },
+        "romaji": "tame"
       },
       {
         "example": "ため息",
         "reading": "ためいき",
-        "meaning": "sigh"
+        "meaning": {
+          "en": "sigh"
+        },
+        "romaji": "tameiki"
       },
       {
         "example": "ゴミ溜め",
         "reading": "ゴミため",
-        "meaning": "garbage dump, scrap heap, rubbish dump, dump, dumpsite"
+        "meaning": {
+          "vi": "garbage dump, scrap heap, rubbish dump, dump, dumpsite"
+        },
+        "romaji": "gomitame"
       }
     ],
     "radical": {
@@ -105,5 +144,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9c.gif",
     "uri": "https://jisho.org/search/%E6%BA%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "lưu",
+    "lựu"
+  ]
 }

@@ -232,24 +232,36 @@
       {
         "example": "侮",
         "reading": "ブ",
-        "meaning": "(something) despised, (something) made light of"
+        "meaning": {
+          "vi": "(something) despised, (something) made light of"
+        },
+        "romaji": "bu"
       },
       {
         "example": "侮辱",
         "reading": "ブジョク",
-        "meaning": "insult, affront, slight, contempt (e.g. of court)"
+        "meaning": {
+          "vi": "insult, affront, slight, contempt (e.g. of court)"
+        },
+        "romaji": "bujoku"
       },
       {
         "example": "軽侮",
         "reading": "ケイブ",
-        "meaning": "contempt, scorn"
+        "meaning": {
+          "vi": "contempt, scorn"
+        },
+        "romaji": "keibu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "侮る",
         "reading": "あなどる",
-        "meaning": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"
+        "meaning": {
+          "vi": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"
+        },
+        "romaji": "anadoru"
       }
     ],
     "radical": {
@@ -269,5 +281,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fae.gif",
     "uri": "https://jisho.org/search/%E4%BE%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hối",
+    "vũ"
+  ]
 }

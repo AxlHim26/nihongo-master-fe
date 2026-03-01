@@ -16,14 +16,20 @@
       {
         "example": "庠序",
         "reading": "ショウジョ",
-        "meaning": "school"
+        "meaning": {
+          "en": "school"
+        },
+        "romaji": "shoujo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "学び舎",
         "reading": "まなびや",
-        "meaning": "trường học, tòa nhà trường"
+        "meaning": {
+          "vi": "trường học, tòa nhà trường"
+        },
+        "romaji": "manabiya"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ea0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ea0.gif",
     "uri": "https://jisho.org/search/%E5%BA%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tường"
+  ]
 }

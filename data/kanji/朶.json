@@ -17,17 +17,26 @@
       {
         "example": "朶",
         "reading": "ダ",
-        "meaning": "branch (of flowers), cluster, mass (of clouds)"
+        "meaning": {
+          "en": "branch (of flowers), cluster, mass (of clouds)"
+        },
+        "romaji": "da"
       },
       {
         "example": "羊歯",
         "reading": "シダ",
-        "meaning": "fern (esp. species Gleichenia japonica), fernery"
+        "meaning": {
+          "vi": "fern (esp. species Gleichenia japonica), fernery"
+        },
+        "romaji": "shida"
       },
       {
         "example": "小羊歯",
         "reading": "コシダ",
-        "meaning": "Old World forked fern (Dicranopteris linearis)"
+        "meaning": {
+          "vi": "Old World forked fern (Dicranopteris linearis)"
+        },
+        "romaji": "koshida"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06736.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6736.gif",
     "uri": "https://jisho.org/search/%E6%9C%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "đoá"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "別冊",
         "reading": "ベッサツ",
-        "meaning": "quyển riêng, phụ bản, bổ sung"
+        "meaning": {
+          "vi": "quyển riêng, phụ bản, bổ sung"
+        },
+        "romaji": "bessatsu"
       },
       {
         "example": "冊封体制",
         "reading": "サクホウタイセイ",
-        "meaning": "chế độ phiên thuộc (Trung Hoa phong kiến)"
+        "meaning": {
+          "vi": "chế độ phiên thuộc (Trung Hoa phong kiến)"
+        },
+        "romaji": "sakuhoutaisei"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518c.gif",
     "uri": "https://jisho.org/search/%E5%86%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "sách"
+  ]
 }

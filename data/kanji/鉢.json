@@ -18,32 +18,50 @@
       {
         "example": "鉢",
         "reading": "ハチ",
-        "meaning": "bowl, pot, basin, flowerpot, crown, brainpan"
+        "meaning": {
+          "vi": "bowl, pot, basin, flowerpot, crown, brainpan"
+        },
+        "romaji": "hachi"
       },
       {
         "example": "鉢植え",
         "reading": "ハチウエ",
-        "meaning": "potted plant, potting"
+        "meaning": {
+          "vi": "potted plant, potting"
+        },
+        "romaji": "hachiue"
       },
       {
         "example": "乳鉢",
         "reading": "ニュウバチ",
-        "meaning": "mortar"
+        "meaning": {
+          "en": "mortar"
+        },
+        "romaji": "nyuubachi"
       },
       {
         "example": "衣鉢",
         "reading": "イハツ",
-        "meaning": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+        "meaning": {
+          "vi": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+        },
+        "romaji": "ihatsu"
       },
       {
         "example": "托鉢",
         "reading": "タクハツ",
-        "meaning": "religious mendicancy, asking for alms, monk's begging, going with one's bowl to the meditation hall at mealtime (in a Zen temple)"
+        "meaning": {
+          "vi": "religious mendicancy, asking for alms, monk's begging, going with one's bowl to the meditation hall at mealtime (in a Zen temple)"
+        },
+        "romaji": "takuhatsu"
       },
       {
         "example": "衣鉢",
         "reading": "イハツ",
-        "meaning": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+        "meaning": {
+          "vi": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+        },
+        "romaji": "ihatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09262.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9262.gif",
     "uri": "https://jisho.org/search/%E9%89%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "bát"
+  ]
 }

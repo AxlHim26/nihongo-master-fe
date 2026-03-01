@@ -15,7 +15,10 @@
       {
         "example": "鯒",
         "reading": "こち",
-        "meaning": "flathead (esp. the bartailed flathead, Platycephalus indicus)"
+        "meaning": {
+          "vi": "flathead (esp. the bartailed flathead, Platycephalus indicus)"
+        },
+        "romaji": "kochi"
       }
     ],
     "radical": {
@@ -32,5 +35,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bd2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bd2.gif",
     "uri": "https://jisho.org/search/%E9%AF%92%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

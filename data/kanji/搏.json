@@ -17,19 +17,28 @@
       {
         "example": "拍動",
         "reading": "ハクドウ",
-        "meaning": "pulsation, pulsebeat"
+        "meaning": {
+          "vi": "pulsation, pulsebeat"
+        },
+        "romaji": "hakudou"
       },
       {
         "example": "竜攘虎搏",
         "reading": "リュウジョウコハク",
-        "meaning": "fierce fighting"
+        "meaning": {
+          "en": "fierce fighting"
+        },
+        "romaji": "ryuujoukohaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "打つ",
         "reading": "うつ",
-        "meaning": "to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to vaccinate, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal), to drop (a piece)"
+        "meaning": {
+          "vi": "to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to vaccinate, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal), to drop (a piece)"
+        },
+        "romaji": "utsu"
       }
     ],
     "radical": {
@@ -50,5 +59,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0640f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/640f.gif",
     "uri": "https://jisho.org/search/%E6%90%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "bác",
+    "chuyên",
+    "đoàn"
+  ]
 }

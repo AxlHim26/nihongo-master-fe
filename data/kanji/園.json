@@ -378,44 +378,68 @@
       {
         "example": "園",
         "reading": "エン",
-        "meaning": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
+        "meaning": {
+          "vi": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
+        },
+        "romaji": "en"
       },
       {
         "example": "園芸",
         "reading": "エンゲイ",
-        "meaning": "horticulture, gardening"
+        "meaning": {
+          "en": "horticulture, gardening"
+        },
+        "romaji": "engei"
       },
       {
         "example": "花園",
         "reading": "ハナゾノ",
-        "meaning": "flower garden"
+        "meaning": {
+          "en": "flower garden"
+        },
+        "romaji": "hanazono"
       },
       {
         "example": "霊園",
         "reading": "レイエン",
-        "meaning": "(garden) cemetery, park-style cemetery, memorial park"
+        "meaning": {
+          "vi": "(garden) cemetery, park-style cemetery, memorial park"
+        },
+        "romaji": "reien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "園",
         "reading": "その",
-        "meaning": "garden, orchard, park, place, world, environment"
+        "meaning": {
+          "vi": "garden, orchard, park, place, world, environment"
+        },
+        "romaji": "sono"
       },
       {
         "example": "園生",
         "reading": "えんせい",
-        "meaning": "garden (esp. with trees), park"
+        "meaning": {
+          "vi": "garden (esp. with trees), park"
+        },
+        "romaji": "ensei"
       },
       {
         "example": "竹の園",
         "reading": "たけのその",
-        "meaning": "bamboo garden, Imperial family"
+        "meaning": {
+          "vi": "bamboo garden, Imperial family"
+        },
+        "romaji": "takenosono"
       },
       {
         "example": "女の園",
         "reading": "おんなのその",
-        "meaning": "woman's world, feminine environment"
+        "meaning": {
+          "en": "woman's world, feminine environment"
+        },
+        "romaji": "onnanosono"
       }
     ],
     "radical": {
@@ -432,5 +456,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05712.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5712.gif",
     "uri": "https://jisho.org/search/%E5%9C%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên"
+  ]
 }

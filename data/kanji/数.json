@@ -401,69 +401,108 @@
       {
         "example": "数",
         "reading": "スウ",
-        "meaning": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend"
+        "meaning": {
+          "en": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend"
+        },
+        "romaji": "suu"
       },
       {
         "example": "数億年",
         "reading": "スウオクネン",
-        "meaning": "several hundred million years"
+        "meaning": {
+          "en": "several hundred million years"
+        },
+        "romaji": "suuokunen"
       },
       {
         "example": "複数",
         "reading": "フクスウ",
-        "meaning": "plural, multiple, plural (number)"
+        "meaning": {
+          "vi": "plural, multiple, plural (number)"
+        },
+        "romaji": "fukusuu"
       },
       {
         "example": "枚数",
         "reading": "マイスウ",
-        "meaning": "the number of flat things, win-loss difference which influences the ranking of wrestlers"
+        "meaning": {
+          "en": "the number of flat things, win-loss difference which influences the ranking of wrestlers"
+        },
+        "romaji": "maisuu"
       },
       {
         "example": "数",
         "reading": "スウ",
-        "meaning": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend"
+        "meaning": {
+          "en": "several, a few, a number of, number, quantity, amount, counting, calculation, figures, numbers, number, numeral, figure, number, destiny, fate, outcome, course of events, trend"
+        },
+        "romaji": "suu"
       },
       {
         "example": "数億年",
         "reading": "スウオクネン",
-        "meaning": "several hundred million years"
+        "meaning": {
+          "en": "several hundred million years"
+        },
+        "romaji": "suuokunen"
       },
       {
         "example": "数牌",
         "reading": "シューパイ",
-        "meaning": "suited tiles"
+        "meaning": {
+          "en": "suited tiles"
+        },
+        "romaji": "shuupai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "数",
         "reading": "かず",
-        "meaning": "number, amount"
+        "meaning": {
+          "en": "number, amount"
+        },
+        "romaji": "kazu"
       },
       {
         "example": "数多く",
         "reading": "かずおおく",
-        "meaning": "in great numbers"
+        "meaning": {
+          "en": "in great numbers"
+        },
+        "romaji": "kazuooku"
       },
       {
         "example": "手数",
         "reading": "てすう",
-        "meaning": "trouble, bother, number of moves (in go, shogi, etc.), number of punches"
+        "meaning": {
+          "vi": "trouble, bother, number of moves (in go, shogi, etc.), number of punches"
+        },
+        "romaji": "tesuu"
       },
       {
         "example": "口数",
         "reading": "くちかず",
-        "meaning": "number of words a person speaks, number of dependents, number of mouths to feed, number of shares, items, applications, etc."
+        "meaning": {
+          "vi": "number of words a person speaks, number of dependents, number of mouths to feed, number of shares, items, applications, etc."
+        },
+        "romaji": "kuchikazu"
       },
       {
         "example": "数える",
         "reading": "かぞえる",
-        "meaning": "to count, to enumerate"
+        "meaning": {
+          "en": "to count, to enumerate"
+        },
+        "romaji": "kazoeru"
       },
       {
         "example": "屡々",
         "reading": "しばしば",
-        "meaning": "often, again and again, frequently, repeatedly"
+        "meaning": {
+          "vi": "often, again and again, frequently, repeatedly"
+        },
+        "romaji": "shibashiba"
       }
     ],
     "radical": {
@@ -484,5 +523,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06570.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6570.gif",
     "uri": "https://jisho.org/search/%E6%95%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "sác",
+    "số",
+    "sổ",
+    "xúc"
+  ]
 }

@@ -301,54 +301,84 @@
       {
         "example": "労",
         "reading": "ロウ",
-        "meaning": "labor, labour, toil, trouble, pains, work, effort, striving"
+        "meaning": {
+          "vi": "labor, labour, toil, trouble, pains, work, effort, striving"
+        },
+        "romaji": "rou"
       },
       {
         "example": "労組",
         "reading": "ロウソ",
-        "meaning": "labor union, labour union, trade union"
+        "meaning": {
+          "en": "labor union, labour union, trade union"
+        },
+        "romaji": "rouso"
       },
       {
         "example": "国労",
         "reading": "コクロウ",
-        "meaning": "National Railway Workers Union"
+        "meaning": {
+          "en": "National Railway Workers Union"
+        },
+        "romaji": "kokurou"
       },
       {
         "example": "功労",
         "reading": "コウロウ",
-        "meaning": "meritorious deed, services"
+        "meaning": {
+          "en": "meritorious deed, services"
+        },
+        "romaji": "kourou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "労する",
         "reading": "ろうする",
-        "meaning": "to work, to labor, to labour, to put to work, to make (someone) work"
+        "meaning": {
+          "vi": "to work, to labor, to labour, to put to work, to make (someone) work"
+        },
+        "romaji": "rousuru"
       },
       {
         "example": "労る",
         "reading": "いたわる",
-        "meaning": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for"
+        "meaning": {
+          "vi": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for"
+        },
+        "romaji": "itawaru"
       },
       {
         "example": "労き",
         "reading": "いたずき",
-        "meaning": "pain, trouble, illness"
+        "meaning": {
+          "vi": "pain, trouble, illness"
+        },
+        "romaji": "itazuki"
       },
       {
         "example": "労い",
         "reading": "ねぎらい",
-        "meaning": "expression of appreciation (for someone's efforts), thanks"
+        "meaning": {
+          "vi": "expression of appreciation (for someone's efforts), thanks"
+        },
+        "romaji": "negirai"
       },
       {
         "example": "労う",
         "reading": "ねぎらう",
-        "meaning": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+        "meaning": {
+          "vi": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+        },
+        "romaji": "negirau"
       },
       {
         "example": "労う",
         "reading": "ねぎらう",
-        "meaning": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+        "meaning": {
+          "vi": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+        },
+        "romaji": "negirau"
       }
     ],
     "radical": {
@@ -364,5 +394,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52b4.gif",
     "uri": "https://jisho.org/search/%E5%8A%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lao"
+  ]
 }

@@ -328,52 +328,82 @@
       {
         "example": "工",
         "reading": "コウ",
-        "meaning": "(factory) worker"
+        "meaning": {
+          "en": "(factory) worker"
+        },
+        "romaji": "kou"
       },
       {
         "example": "工員",
         "reading": "コウイン",
-        "meaning": "factory worker"
+        "meaning": {
+          "en": "factory worker"
+        },
+        "romaji": "kouin"
       },
       {
         "example": "起工",
         "reading": "キコウ",
-        "meaning": "setting to work"
+        "meaning": {
+          "en": "setting to work"
+        },
+        "romaji": "kikou"
       },
       {
         "example": "商工",
         "reading": "ショウコウ",
-        "meaning": "commerce and industry"
+        "meaning": {
+          "en": "commerce and industry"
+        },
+        "romaji": "shoukou"
       },
       {
         "example": "工夫",
         "reading": "クフウ",
-        "meaning": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+        "meaning": {
+          "vi": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+        },
+        "romaji": "kufuu"
       },
       {
         "example": "工面",
         "reading": "クメン",
-        "meaning": "contrivance, managing (to raise money), one's financial condition"
+        "meaning": {
+          "en": "contrivance, managing (to raise money), one's financial condition"
+        },
+        "romaji": "kumen"
       },
       {
         "example": "竹細工",
         "reading": "タケザイク",
-        "meaning": "bamboo work, bamboo ware"
+        "meaning": {
+          "en": "bamboo work, bamboo ware"
+        },
+        "romaji": "takezaiku"
       },
       {
         "example": "寄せ木細工",
         "reading": "ヨセギザイク",
-        "meaning": "wooden mosaic work, parquetry, wooden mosaic (e.g. on a piece of furniture), marquetry, marqueterie"
+        "meaning": {
+          "vi": "wooden mosaic work, parquetry, wooden mosaic (e.g. on a piece of furniture), marquetry, marqueterie"
+        },
+        "romaji": "yosegizaiku"
       },
       {
         "example": "具合",
         "reading": "グアイ",
-        "meaning": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+        "meaning": {
+          "vi": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+        },
+        "romaji": "guai"
       },
       {
         "example": "工面",
         "reading": "クメン",
-        "meaning": "contrivance, managing (to raise money), one's financial condition"
+        "meaning": {
+          "en": "contrivance, managing (to raise money), one's financial condition"
+        },
+        "romaji": "kumen"
       }
     ],
     "kunyomiExamples": [],
@@ -388,5 +418,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de5.gif",
     "uri": "https://jisho.org/search/%E5%B7%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "công"
+  ]
 }

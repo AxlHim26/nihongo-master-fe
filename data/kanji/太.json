@@ -331,59 +331,92 @@
       {
         "example": "大山",
         "reading": "タイザン",
-        "meaning": "great mountain, large mountain"
+        "meaning": {
+          "en": "great mountain, large mountain"
+        },
+        "romaji": "taizan"
       },
       {
         "example": "太鼓",
         "reading": "タイコ",
-        "meaning": "drum"
+        "meaning": {
+          "en": "drum"
+        },
+        "romaji": "taiko"
       },
       {
         "example": "太太",
         "reading": "タイタイ",
-        "meaning": "wife"
+        "meaning": {
+          "en": "wife"
+        },
+        "romaji": "taitai"
       },
       {
         "example": "馬太",
         "reading": "マタイ",
-        "meaning": "Matthew (the Apostle)"
+        "meaning": {
+          "vi": "Matthew (the Apostle)"
+        },
+        "romaji": "matai"
       },
       {
         "example": "大山",
         "reading": "タイザン",
-        "meaning": "great mountain, large mountain"
+        "meaning": {
+          "en": "great mountain, large mountain"
+        },
+        "romaji": "taizan"
       },
       {
         "example": "太鼓",
         "reading": "タイコ",
-        "meaning": "drum"
+        "meaning": {
+          "en": "drum"
+        },
+        "romaji": "taiko"
       },
       {
         "example": "羽太",
         "reading": "ハタ",
-        "meaning": "sea basses, groupers"
+        "meaning": {
+          "vi": "sea basses, groupers"
+        },
+        "romaji": "hata"
       },
       {
         "example": "赤羽太",
         "reading": "アカハタ",
-        "meaning": "blacktip grouper (species of fish, Epinephelus fasciatus)"
+        "meaning": {
+          "vi": "blacktip grouper (species of fish, Epinephelus fasciatus)"
+        },
+        "romaji": "akahata"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "太い",
         "reading": "ふとい",
-        "meaning": "fat, thick, deep (of a voice), thick, sonorous, daring, shameless, brazen, audacious"
+        "meaning": {
+          "vi": "fat, thick, deep (of a voice), thick, sonorous, daring, shameless, brazen, audacious"
+        },
+        "romaji": "futoi"
       },
       {
         "example": "太藺",
         "reading": "ふとい",
-        "meaning": "softstem bulrush (Scirpus tabernaemontani)"
+        "meaning": {
+          "vi": "softstem bulrush (Scirpus tabernaemontani)"
+        },
+        "romaji": "futoi"
       },
       {
         "example": "太る",
         "reading": "ふとる",
-        "meaning": "to put on weight, to gain weight, to grow fat, to get stout"
+        "meaning": {
+          "vi": "to put on weight, to gain weight, to grow fat, to get stout"
+        },
+        "romaji": "futoru"
       }
     ],
     "radical": {
@@ -398,5 +431,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592a.gif",
     "uri": "https://jisho.org/search/%E5%A4%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái"
+  ]
 }

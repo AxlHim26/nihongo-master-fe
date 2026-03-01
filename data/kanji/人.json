@@ -427,64 +427,100 @@
       {
         "example": "人",
         "reading": "ジン",
-        "meaning": "-viên (vd. người Ý), người làm ..., người, con người"
+        "meaning": {
+          "vi": "-viên (vd. người Ý), người làm ..., người, con người"
+        },
+        "romaji": "jin"
       },
       {
         "example": "人為",
         "reading": "ジンイ",
-        "meaning": "công việc con người, nghệ thuật, nhân tạo"
+        "meaning": {
+          "vi": "công việc con người, nghệ thuật, nhân tạo"
+        },
+        "romaji": "jin'i"
       },
       {
         "example": "米人",
         "reading": "ベイジン",
-        "meaning": "người Mỹ"
+        "meaning": {
+          "vi": "người Mỹ"
+        },
+        "romaji": "beijin"
       },
       {
         "example": "俳人",
         "reading": "ハイジン",
-        "meaning": "nhà thơ haiku"
+        "meaning": {
+          "vi": "nhà thơ haiku"
+        },
+        "romaji": "haijin"
       },
       {
         "example": "人",
         "reading": "ニン",
-        "meaning": "đơn vị đếm người"
+        "meaning": {
+          "vi": "đơn vị đếm người"
+        },
+        "romaji": "nin"
       },
       {
         "example": "人気",
         "reading": "ニンキ",
-        "meaning": "độ nổi tiếng, sự ủng hộ của công chúng, tình trạng (vd. thị trường), tính cách, bản chất"
+        "meaning": {
+          "vi": "độ nổi tiếng, sự ủng hộ của công chúng, tình trạng (vd. thị trường), tính cách, bản chất"
+        },
+        "romaji": "ninki"
       },
       {
         "example": "同人",
         "reading": "ドウジン",
-        "meaning": "cùng một người, người được nói đến, nhóm cùng chí hướng, đồng nghiệp, dōjin (fan/hobbyist tự sản xuất tạp chí, manga, phần mềm...)"
+        "meaning": {
+          "vi": "cùng một người, người được nói đến, nhóm cùng chí hướng, đồng nghiệp, dōjin (fan/hobbyist tự sản xuất tạp chí, manga, phần mềm...)"
+        },
+        "romaji": "doujin"
       },
       {
         "example": "代人",
         "reading": "ダイニン",
-        "meaning": "người thay thế, đại diện, ủy quyền, đại lý"
+        "meaning": {
+          "vi": "người thay thế, đại diện, ủy quyền, đại lý"
+        },
+        "romaji": "dainin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "人",
         "reading": "ひと",
-        "meaning": "người, ai đó, con người, nhân loại, người ta, tính cách, nhân cách, người có năng lực, người trưởng thành, tôi, một"
+        "meaning": {
+          "vi": "người, ai đó, con người, nhân loại, người ta, tính cách, nhân cách, người có năng lực, người trưởng thành, tôi, một"
+        },
+        "romaji": "hito"
       },
       {
         "example": "人一倍",
         "reading": "ひといちばい",
-        "meaning": "hơn người khác rất nhiều, cực kỳ, bất thường"
+        "meaning": {
+          "vi": "hơn người khác rất nhiều, cực kỳ, bất thường"
+        },
+        "romaji": "hitoichibai"
       },
       {
         "example": "貴人",
         "reading": "きじん",
-        "meaning": "quý tộc, người có địa vị cao"
+        "meaning": {
+          "vi": "quý tộc, người có địa vị cao"
+        },
+        "romaji": "kijin"
       },
       {
         "example": "いい人",
         "reading": "いいひと",
-        "meaning": "người tốt bụng, người tốt, người yêu, bạn trai, bạn gái"
+        "meaning": {
+          "vi": "người tốt bụng, người tốt, người yêu, bạn trai, bạn gái"
+        },
+        "romaji": "iihito"
       }
     ],
     "radical": {
@@ -501,5 +537,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eba.gif",
     "uri": "https://jisho.org/search/%E4%BA%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhân",
+    "nhơn"
+  ]
 }

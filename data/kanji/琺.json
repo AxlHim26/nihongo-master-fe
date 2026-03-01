@@ -14,12 +14,18 @@
       {
         "example": "琺瑯",
         "reading": "ホウロウ",
-        "meaning": "enamel, enamelled metalware (sinks, pots, etc.)"
+        "meaning": {
+          "vi": "enamel, enamelled metalware (sinks, pots, etc.)"
+        },
+        "romaji": "hourou"
       },
       {
         "example": "琺瑯質",
         "reading": "ホウロウシツ",
-        "meaning": "(tooth) enamel"
+        "meaning": {
+          "en": "(tooth) enamel"
+        },
+        "romaji": "houroushitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0743a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/743a.gif",
     "uri": "https://jisho.org/search/%E7%90%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "pháp"
+  ]
 }

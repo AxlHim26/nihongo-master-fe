@@ -334,34 +334,52 @@
       {
         "example": "裁",
         "reading": "サイ",
-        "meaning": "court"
+        "meaning": {
+          "en": "court"
+        },
+        "romaji": "sai"
       },
       {
         "example": "裁決",
         "reading": "サイケツ",
-        "meaning": "decision, ruling, judgement, judgment"
+        "meaning": {
+          "en": "decision, ruling, judgement, judgment"
+        },
+        "romaji": "saiketsu"
       },
       {
         "example": "家裁",
         "reading": "カサイ",
-        "meaning": "family court"
+        "meaning": {
+          "en": "family court"
+        },
+        "romaji": "kasai"
       },
       {
         "example": "高裁",
         "reading": "コウサイ",
-        "meaning": "High Court"
+        "meaning": {
+          "en": "High Court"
+        },
+        "romaji": "kousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "裁つ",
         "reading": "たつ",
-        "meaning": "to cut (cloth)"
+        "meaning": {
+          "en": "to cut (cloth)"
+        },
+        "romaji": "tatsu"
       },
       {
         "example": "裁く",
         "reading": "さばく",
-        "meaning": "to judge, to try, to sit in judgement (on), to decide (on)"
+        "meaning": {
+          "en": "to judge, to try, to sit in judgement (on), to decide (on)"
+        },
+        "romaji": "sabaku"
       }
     ],
     "radical": {
@@ -382,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88c1.gif",
     "uri": "https://jisho.org/search/%E8%A3%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "tài"
+  ]
 }

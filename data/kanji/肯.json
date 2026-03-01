@@ -197,24 +197,36 @@
       {
         "example": "肯定",
         "reading": "コウテイ",
-        "meaning": "affirmation, affirmative"
+        "meaning": {
+          "en": "affirmation, affirmative"
+        },
+        "romaji": "koutei"
       },
       {
         "example": "肯綮",
         "reading": "コウケイ",
-        "meaning": "the essential point"
+        "meaning": {
+          "vi": "the essential point"
+        },
+        "romaji": "koukei"
       },
       {
         "example": "首肯",
         "reading": "シュコウ",
-        "meaning": "assent, consent"
+        "meaning": {
+          "en": "assent, consent"
+        },
+        "romaji": "shukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肯んじる",
         "reading": "がえんじる",
-        "meaning": "to consent, to allow, to accept, to agree"
+        "meaning": {
+          "vi": "to consent, to allow, to accept, to agree"
+        },
+        "romaji": "gaenjiru"
       }
     ],
     "radical": {
@@ -232,5 +244,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80af.gif",
     "uri": "https://jisho.org/search/%E8%82%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "khải",
+    "khẳng"
+  ]
 }

@@ -338,69 +338,108 @@
       {
         "example": "体",
         "reading": "タイ",
-        "meaning": "body, physique, posture, shape, form, style, substance, identity, reality, field, counter for humanoid forms (e.g. dolls, statues, corpses, etc.), typeface, type"
+        "meaning": {
+          "vi": "body, physique, posture, shape, form, style, substance, identity, reality, field, counter for humanoid forms (e.g. dolls, statues, corpses, etc.), typeface, type"
+        },
+        "romaji": "tai"
       },
       {
         "example": "体育",
         "reading": "タイイク",
-        "meaning": "physical education, PE, gym (class)"
+        "meaning": {
+          "vi": "physical education, PE, gym (class)"
+        },
+        "romaji": "taiiku"
       },
       {
         "example": "生体",
         "reading": "セイタイ",
-        "meaning": "organism, living body"
+        "meaning": {
+          "en": "organism, living body"
+        },
+        "romaji": "seitai"
       },
       {
         "example": "解体",
         "reading": "カイタイ",
-        "meaning": "demolition, taking down, dismantling, disassembly, taking apart, dissolution (of an organization, company, etc.), breaking up, dissection (of a body), dismemberment"
+        "meaning": {
+          "vi": "demolition, taking down, dismantling, disassembly, taking apart, dissolution (of an organization, company, etc.), breaking up, dissection (of a body), dismemberment"
+        },
+        "romaji": "kaitai"
       },
       {
         "example": "体",
         "reading": "テイ",
-        "meaning": "appearance, air, condition, state, form"
+        "meaning": {
+          "vi": "appearance, air, condition, state, form"
+        },
+        "romaji": "tei"
       },
       {
         "example": "体裁",
         "reading": "テイサイ",
-        "meaning": "(outward) appearance, (proper) format (e.g. of an essay), form, style, appearances, decency, show, display, lip-service, insincere words, glib talk"
+        "meaning": {
+          "vi": "(outward) appearance, (proper) format (e.g. of an essay), form, style, appearances, decency, show, display, lip-service, insincere words, glib talk"
+        },
+        "romaji": "teisai"
       },
       {
         "example": "身体",
         "reading": "シンタイ",
-        "meaning": "body, physical system, (the) person"
+        "meaning": {
+          "vi": "body, physical system, (the) person"
+        },
+        "romaji": "shintai"
       },
       {
         "example": "風体",
         "reading": "フウテイ",
-        "meaning": "appearance, look, dress"
+        "meaning": {
+          "vi": "appearance, look, dress"
+        },
+        "romaji": "fuutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "体",
         "reading": "からだ",
-        "meaning": "body, torso, trunk, build, physique, frame, figure, health, constitution"
+        "meaning": {
+          "vi": "body, torso, trunk, build, physique, frame, figure, health, constitution"
+        },
+        "romaji": "karada"
       },
       {
         "example": "体つき",
         "reading": "からだつき",
-        "meaning": "body build, figure"
+        "meaning": {
+          "en": "body build, figure"
+        },
+        "romaji": "karadatsuki"
       },
       {
         "example": "お体",
         "reading": "おからだ",
-        "meaning": "body"
+        "meaning": {
+          "en": "body"
+        },
+        "romaji": "okarada"
       },
       {
         "example": "御体",
         "reading": "おんからだ",
-        "meaning": "body of Christ (Eucharist)"
+        "meaning": {
+          "en": "body of Christ (Eucharist)"
+        },
+        "romaji": "onkarada"
       },
       {
         "example": "形体",
         "reading": "なりかたち",
-        "meaning": "one's appearance"
+        "meaning": {
+          "vi": "one's appearance"
+        },
+        "romaji": "narikatachi"
       }
     ],
     "radical": {
@@ -419,5 +458,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f53.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f53.gif",
     "uri": "https://jisho.org/search/%E4%BD%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "bổn",
+    "thể"
+  ]
 }

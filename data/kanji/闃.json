@@ -18,12 +18,18 @@
       {
         "example": "闃",
         "reading": "ゲキ",
-        "meaning": "quietly"
+        "meaning": {
+          "en": "quietly"
+        },
+        "romaji": "geki"
       },
       {
         "example": "闃寂",
         "reading": "ゲキセキ",
-        "meaning": "silent and still, desolate"
+        "meaning": {
+          "en": "silent and still, desolate"
+        },
+        "romaji": "gekiseki"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95c3.gif",
     "uri": "https://jisho.org/search/%E9%97%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuých"
+  ]
 }

@@ -370,49 +370,76 @@
       {
         "example": "政",
         "reading": "マツリゴト",
-        "meaning": "rule, government"
+        "meaning": {
+          "en": "rule, government"
+        },
+        "romaji": "matsurigoto"
       },
       {
         "example": "政界",
         "reading": "セイカイ",
-        "meaning": "(world of) politics, political world, political circles"
+        "meaning": {
+          "vi": "(world of) politics, political world, political circles"
+        },
+        "romaji": "seikai"
       },
       {
         "example": "農政",
         "reading": "ノウセイ",
-        "meaning": "agricultural administration"
+        "meaning": {
+          "en": "agricultural administration"
+        },
+        "romaji": "nousei"
       },
       {
         "example": "帝政",
         "reading": "テイセイ",
-        "meaning": "imperial government, imperialism, monarchical rule"
+        "meaning": {
+          "vi": "imperial government, imperialism, monarchical rule"
+        },
+        "romaji": "teisei"
       },
       {
         "example": "摂政",
         "reading": "セッショウ",
-        "meaning": "regency, regent"
+        "meaning": {
+          "en": "regency, regent"
+        },
+        "romaji": "sesshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "政",
         "reading": "まつりごと",
-        "meaning": "rule, government"
+        "meaning": {
+          "en": "rule, government"
+        },
+        "romaji": "matsurigoto"
       },
       {
         "example": "政所",
         "reading": "まんどころ",
-        "meaning": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
+        "meaning": {
+          "vi": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
+        },
+        "romaji": "mandokoro"
       },
       {
         "example": "太政",
         "reading": "おおまつりごと",
-        "meaning": "(Japanese) imperial government"
+        "meaning": {
+          "vi": "(Japanese) imperial government"
+        },
+        "romaji": "oomatsurigoto"
       },
       {
         "example": "政所",
         "reading": "まんどころ",
-        "meaning": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
+        "meaning": {
+          "vi": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
+        },
+        "romaji": "mandokoro"
       }
     ],
     "radical": {
@@ -432,5 +459,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0653f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/653f.gif",
     "uri": "https://jisho.org/search/%E6%94%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "chinh",
+    "chánh",
+    "chính"
+  ]
 }

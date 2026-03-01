@@ -17,14 +17,20 @@
       {
         "example": "包か",
         "reading": "ホウカ",
-        "meaning": "gói, bọc"
+        "meaning": {
+          "vi": "gói, bọc"
+        },
+        "romaji": "houka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "包む",
         "reading": "つつむ",
-        "meaning": "gói, bọc, che phủ, giấu (cảm xúc), tặng (tiền trong phong bì)"
+        "meaning": {
+          "vi": "gói, bọc, che phủ, giấu (cảm xúc), tặng (tiền trong phong bì)"
+        },
+        "romaji": "tsutsumu"
       }
     ],
     "radical": {
@@ -45,5 +51,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f9.gif",
     "uri": "https://jisho.org/search/%E8%A3%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoã",
+    "khoả",
+    "loã"
+  ]
 }

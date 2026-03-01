@@ -17,44 +17,68 @@
       {
         "example": "壺",
         "reading": "コ",
-        "meaning": "hồ (đồ gốm Trung Quốc cổ hình bình, thường dùng đựng rượu)"
+        "meaning": {
+          "vi": "hồ (đồ gốm Trung Quốc cổ hình bình, thường dùng đựng rượu)"
+        },
+        "romaji": "ko"
       },
       {
         "example": "壺中",
         "reading": "コチュウ",
-        "meaning": "bên trong bình, kẻ nhát gan, người nhút nhát"
+        "meaning": {
+          "vi": "bên trong bình, kẻ nhát gan, người nhút nhát"
+        },
+        "romaji": "kochuu"
       },
       {
         "example": "投壺",
         "reading": "トウコ",
-        "meaning": "ném que vào bình (trò chơi)"
+        "meaning": {
+          "vi": "ném que vào bình (trò chơi)"
+        },
+        "romaji": "touko"
       },
       {
         "example": "唾壺",
         "reading": "ダコ",
-        "meaning": "ống nhổ"
+        "meaning": {
+          "vi": "ống nhổ"
+        },
+        "romaji": "dako"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "壺",
         "reading": "つぼ",
-        "meaning": "bình, lọ, bình hoa, chén xúc xắc, chỗ lõm, lưu vực (thác nước), mục tiêu, điều mong muốn, điểm then chốt (cuộc nói chuyện), tinh túy, huyệt châm cứu, điểm áp lực, vị trí trên phím (shamisen, koto), mục tiêu (khi bắn tên)"
+        "meaning": {
+          "vi": "bình, lọ, bình hoa, chén xúc xắc, chỗ lõm, lưu vực (thác nước), mục tiêu, điều mong muốn, điểm then chốt (cuộc nói chuyện), tinh túy, huyệt châm cứu, điểm áp lực, vị trí trên phím (shamisen, koto), mục tiêu (khi bắn tên)"
+        },
+        "romaji": "tsubo"
       },
       {
         "example": "壷洗い",
         "reading": "つぼあらい",
-        "meaning": "dịch vụ \"rửa\" ngón tay/chân đối tác (tại soapland)"
+        "meaning": {
+          "vi": "dịch vụ \"rửa\" ngón tay/chân đối tác (tại soapland)"
+        },
+        "romaji": "tsuboarai"
       },
       {
         "example": "前つぼ",
         "reading": "まえつぼ",
-        "meaning": "dây dép phía trước (giữa các ngón chân)"
+        "meaning": {
+          "vi": "dây dép phía trước (giữa các ngón chân)"
+        },
+        "romaji": "maetsubo"
       },
       {
         "example": "酒壺",
         "reading": "さかつぼ",
-        "meaning": "bình rượu sake, bình đựng rượu"
+        "meaning": {
+          "vi": "bình rượu sake, bình đựng rượu"
+        },
+        "romaji": "sakatsubo"
       }
     ],
     "radical": {
@@ -72,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058f7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58f7.gif",
     "uri": "https://jisho.org/search/%E5%A3%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ"
+  ]
 }

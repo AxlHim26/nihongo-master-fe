@@ -20,7 +20,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/go-taga(i)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/go-taga(i)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/go-taga(i)_06_a.mp3"
-        }
+        },
+        "meaningVN": "sự bình đẳng, sự ngang bằng, ngang bằng",
+        "hanViet": "hỗ cốc",
+        "hanVietExplain": "互 (hỗ: lẫn nhau) + 角 (cốc: cái sừng) → sự bình đẳng, sự ngang bằng, ngang bằng"
       },
       {
         "japanese": "相互（そうご）",
@@ -32,7 +35,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/go-taga(i)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/go-taga(i)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/go-taga(i)_06_b.mp3"
-        }
+        },
+        "meaningVN": "lẫn nhau, tương hỗ",
+        "hanViet": "tương hỗ",
+        "hanVietExplain": "相 (tương: qua lại lẫn nhau) + 互 (hỗ: lẫn nhau) → lẫn nhau, tương hỗ"
       },
       {
         "japanese": "交互に（こうごに）",
@@ -44,7 +50,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/go-taga(i)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/go-taga(i)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/go-taga(i)_06_c.mp3"
-        }
+        },
+        "meaningVN": "lẫn nhau, qua lại",
+        "hanViet": "giao hỗ に",
+        "hanVietExplain": "交 (giao: trao cho, giao cho) + 互 (hỗ: lẫn nhau) → lẫn nhau, qua lại"
       },
       {
         "japanese": "互選する（ごせんする）",
@@ -56,7 +65,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/go-taga(i)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/go-taga(i)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/go-taga(i)_06_d.mp3"
-        }
+        },
+        "meaningVN": "bầu bằng cách bỏ phiếu lẫn nhau",
+        "hanViet": "hỗ soát す る",
+        "hanVietExplain": "互 (hỗ: lẫn nhau) + 選 (soát: chọn lựa) → bầu bằng cách bỏ phiếu lẫn nhau"
       },
       {
         "japanese": "お互い（おたがい）",
@@ -68,7 +80,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/go-taga(i)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/go-taga(i)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/go-taga(i)_06_e.mp3"
-        }
+        },
+        "meaningVN": "lẫn nhau, hỗ tương, lẫn nhau",
+        "hanViet": "お hỗ い",
+        "hanVietExplain": "hỗ: lẫn nhau"
       },
       {
         "japanese": "互い違い（たがいちがい）",
@@ -80,7 +95,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/go-taga(i)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/go-taga(i)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/go-taga(i)_06_f.mp3"
-        }
+        },
+        "meaningVN": "luân phiên, luân phiên",
+        "hanViet": "hỗ い vi い",
+        "hanVietExplain": "互 (hỗ: lẫn nhau) + 違 (vi: không theo, không nghe, không tuân, làm trái) → luân phiên, luân phiên"
       }
     ],
     "kunyomi_ja": "たが、たがい",
@@ -251,29 +269,59 @@
       {
         "example": "互換",
         "reading": "ゴカン",
-        "meaning": "interchange, transposition, compatible (e.g. PC)"
+        "meaning": {
+          "vi": "interchange, transposition, compatible (e.g. PC)"
+        },
+        "meaningVN": "trao đổi, chuyển vị, tương thích (ví dụ: pc)",
+        "hanViet": "hỗ hoán",
+        "hanVietExplain": "互 (hỗ: lẫn nhau) + 換 (hoán: hoán đổi, trao đổi) → trao đổi, chuyển vị, tương thích (ví dụ: pc)",
+        "romaji": "gokan"
       },
       {
         "example": "互角",
         "reading": "ゴカク",
-        "meaning": "equal (in ability), even, evenly matched, well-matched, on par (with)"
+        "meaning": {
+          "vi": "equal (in ability), even, evenly matched, well-matched, on par (with)"
+        },
+        "meaningVN": "ngang nhau (về khả năng), ngang bằng, ngang bằng, ngang bằng, ngang bằng (với)",
+        "hanViet": "hỗ cốc",
+        "hanVietExplain": "互 (hỗ: lẫn nhau) + 角 (cốc: cái sừng) → ngang nhau (về khả năng), ngang bằng, ngang bằng, ngang bằng, ngang bằng (với)",
+        "romaji": "gokaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "互い",
         "reading": "たがい",
-        "meaning": "each other, one another"
+        "meaning": {
+          "en": "each other, one another"
+        },
+        "meaningVN": "nhau, lẫn nhau",
+        "hanViet": "hỗ い",
+        "hanVietExplain": "hỗ: lẫn nhau",
+        "romaji": "tagai"
       },
       {
         "example": "互いに",
         "reading": "たがいに",
-        "meaning": "mutually, with each other, reciprocally, together"
+        "meaning": {
+          "vi": "mutually, with each other, reciprocally, together"
+        },
+        "meaningVN": "cùng nhau, với nhau, qua lại, cùng nhau",
+        "hanViet": "hỗ い に",
+        "hanVietExplain": "hỗ: lẫn nhau",
+        "romaji": "tagaini"
       },
       {
         "example": "互に",
         "reading": "かたみに",
-        "meaning": "mutually, reciprocally, together"
+        "meaning": {
+          "vi": "mutually, reciprocally, together"
+        },
+        "meaningVN": "cùng nhau, qua lại, cùng nhau",
+        "hanViet": "hỗ に",
+        "hanVietExplain": "hỗ: lẫn nhau",
+        "romaji": "katamini"
       }
     ],
     "radical": {
@@ -289,5 +337,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e92.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e92.gif",
     "uri": "https://jisho.org/search/%E4%BA%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "hỗ"
+  ],
+  "meaningVN": "tương hỗ, hỗ tương, lẫn nhau",
+  "hanVietExplain": "hỗ: lẫn nhau"
 }

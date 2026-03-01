@@ -19,19 +19,26 @@
       {
         "example": "恍惚",
         "reading": "コウコツ",
-        "meaning": "ecstasy, rapture, trance, senility"
+        "meaning": {
+          "vi": "ecstasy, rapture, trance, senility"
+        },
+        "romaji": "koukotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ボケる】",
         "reading": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)"
       },
       {
         "example": "惚れる",
         "reading": "ほれる",
-        "meaning": "to fall in love (with), to fall for, to become enamored (with), to be taken (with), to be attracted (by), to be charmed (by), to be captivated (by), to be impressed (by), to admire, to forget oneself, to be entranced (by)"
+        "meaning": {
+          "vi": "to fall in love (with), to fall for, to become enamored (with), to be taken (with), to be attracted (by), to be charmed (by), to be captivated (by), to be impressed (by), to admire, to forget oneself, to be entranced (by)"
+        },
+        "romaji": "horeru"
       }
     ],
     "radical": {
@@ -51,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60da.gif",
     "uri": "https://jisho.org/search/%E6%83%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch",
+    "hốt"
+  ]
 }

@@ -230,34 +230,52 @@
       {
         "example": "沢",
         "reading": "タク",
-        "meaning": "blessing, grace, favour, favor, benefit"
+        "meaning": {
+          "en": "blessing, grace, favour, favor, benefit"
+        },
+        "romaji": "taku"
       },
       {
         "example": "沢山",
         "reading": "タクサン",
-        "meaning": "a lot, lots, plenty, many, a large number, much, a great deal, a good deal, enough, sufficient, enough, too many, too much"
+        "meaning": {
+          "vi": "a lot, lots, plenty, many, a large number, much, a great deal, a good deal, enough, sufficient, enough, too many, too much"
+        },
+        "romaji": "takusan"
       },
       {
         "example": "沼沢",
         "reading": "ショウタク",
-        "meaning": "marsh, swamp, bog"
+        "meaning": {
+          "vi": "marsh, swamp, bog"
+        },
+        "romaji": "shoutaku"
       },
       {
         "example": "恵沢",
         "reading": "ケイタク",
-        "meaning": "blessing, pity, favor, favour, benefit"
+        "meaning": {
+          "vi": "blessing, pity, favor, favour, benefit"
+        },
+        "romaji": "keitaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沢",
         "reading": "さわ",
-        "meaning": "mountain stream, valley, dale, wetlands, swamp, marsh"
+        "meaning": {
+          "vi": "mountain stream, valley, dale, wetlands, swamp, marsh"
+        },
+        "romaji": "sawa"
       },
       {
         "example": "沢地",
         "reading": "さわち",
-        "meaning": "marshy land"
+        "meaning": {
+          "en": "marshy land"
+        },
+        "romaji": "sawachi"
       }
     ],
     "radical": {
@@ -277,5 +295,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca2.gif",
     "uri": "https://jisho.org/search/%E6%B2%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch",
+    "thích",
+    "trạch"
+  ]
 }

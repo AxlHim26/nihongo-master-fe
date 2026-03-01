@@ -399,44 +399,68 @@
       {
         "example": "全",
         "reading": "ゼン",
-        "meaning": "all, whole, entire, complete, total, pan-, complete (set), in total"
+        "meaning": {
+          "vi": "all, whole, entire, complete, total, pan-, complete (set), in total"
+        },
+        "romaji": "zen"
       },
       {
         "example": "全域",
         "reading": "ゼンイキ",
-        "meaning": "the whole area, the entire region, all parts (of), the whole field (of study), every field, the whole gamut"
+        "meaning": {
+          "vi": "the whole area, the entire region, all parts (of), the whole field (of study), every field, the whole gamut"
+        },
+        "romaji": "zen'iki"
       },
       {
         "example": "腎不全",
         "reading": "ジンフゼン",
-        "meaning": "kidney failure, renal failure"
+        "meaning": {
+          "en": "kidney failure, renal failure"
+        },
+        "romaji": "jinfuzen"
       },
       {
         "example": "大全",
         "reading": "タイゼン",
-        "meaning": "complete collection, large collection, complete works"
+        "meaning": {
+          "vi": "complete collection, large collection, complete works"
+        },
+        "romaji": "taizen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "全く",
         "reading": "まったく",
-        "meaning": "really, truly, entirely, completely, wholly, perfectly, indeed, good grief"
+        "meaning": {
+          "vi": "really, truly, entirely, completely, wholly, perfectly, indeed, good grief"
+        },
+        "romaji": "mattaku"
       },
       {
         "example": "全くする",
         "reading": "まったくする",
-        "meaning": "to accomplish, to fulfill, to carry out"
+        "meaning": {
+          "vi": "to accomplish, to fulfill, to carry out"
+        },
+        "romaji": "mattakusuru"
       },
       {
         "example": "全て",
         "reading": "すべて",
-        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+        "meaning": {
+          "vi": "everything, all, the whole, entirely, completely, wholly, all"
+        },
+        "romaji": "subete"
       },
       {
         "example": "すべて選択",
         "reading": "すべてせんたく",
-        "meaning": "select all"
+        "meaning": {
+          "en": "select all"
+        },
+        "romaji": "subetesentaku"
       }
     ],
     "radical": {
@@ -452,5 +476,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05168.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5168.gif",
     "uri": "https://jisho.org/search/%E5%85%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "toàn"
+  ]
 }

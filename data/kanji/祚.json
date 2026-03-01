@@ -17,17 +17,26 @@
       {
         "example": "祚",
         "reading": "ソ",
-        "meaning": "rank of the emperor, imperial throne"
+        "meaning": {
+          "vi": "rank of the emperor, imperial throne"
+        },
+        "romaji": "so"
       },
       {
         "example": "永祚",
         "reading": "エイソ",
-        "meaning": "Eiso era (989.8.8-990.11.7)"
+        "meaning": {
+          "en": "Eiso era (989.8.8-990.11.7)"
+        },
+        "romaji": "eiso"
       },
       {
         "example": "皇祚",
         "reading": "コウソ",
-        "meaning": "rank of emperor, the imperial throne"
+        "meaning": {
+          "vi": "rank of emperor, the imperial throne"
+        },
+        "romaji": "kouso"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0795a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/795a.gif",
     "uri": "https://jisho.org/search/%E7%A5%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tộ"
+  ]
 }

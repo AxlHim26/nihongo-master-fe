@@ -17,14 +17,20 @@
       {
         "example": "麾下",
         "reading": "キカ",
-        "meaning": "dưới quyền chỉ huy (của), dưới ngọn cờ (của), chịu ảnh hưởng (bởi)"
+        "meaning": {
+          "vi": "dưới quyền chỉ huy (của), dưới ngọn cờ (của), chịu ảnh hưởng (bởi)"
+        },
+        "romaji": "kika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "差し招く",
         "reading": "さしまねく",
-        "meaning": "vẫy gọi"
+        "meaning": {
+          "vi": "vẫy gọi"
+        },
+        "romaji": "sashimaneku"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebe.gif",
     "uri": "https://jisho.org/search/%E9%BA%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "huy"
+  ]
 }

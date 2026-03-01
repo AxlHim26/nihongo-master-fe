@@ -16,22 +16,34 @@
       {
         "example": "顆",
         "reading": "カ",
-        "meaning": "condyle, counter for grains and small spheres"
+        "meaning": {
+          "vi": "condyle, counter for grains and small spheres"
+        },
+        "romaji": "ka"
       },
       {
         "example": "顆節目",
         "reading": "カセツモク",
-        "meaning": "Condylarthra, extinct order of mammals"
+        "meaning": {
+          "en": "Condylarthra, extinct order of mammals"
+        },
+        "romaji": "kasetsumoku"
       },
       {
         "example": "球顆",
         "reading": "キュウカ",
-        "meaning": "spherulite"
+        "meaning": {
+          "vi": "spherulite"
+        },
+        "romaji": "kyuuka"
       },
       {
         "example": "印顆",
         "reading": "インカ",
-        "meaning": "stamp, seal"
+        "meaning": {
+          "vi": "stamp, seal"
+        },
+        "romaji": "inka"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09846.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9846.gif",
     "uri": "https://jisho.org/search/%E9%A1%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoã",
+    "khoả"
+  ]
 }

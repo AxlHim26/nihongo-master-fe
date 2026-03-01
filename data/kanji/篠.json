@@ -21,32 +21,50 @@
       {
         "example": "篠",
         "reading": "しの",
-        "meaning": "thin-culmed dwarf bamboo (growing in clusters), Japanese transverse bamboo flute (high-pitched; usu. with seven holes), sliver (strand of loose fibers)"
+        "meaning": {
+          "vi": "thin-culmed dwarf bamboo (growing in clusters), Japanese transverse bamboo flute (high-pitched; usu. with seven holes), sliver (strand of loose fibers)"
+        },
+        "romaji": "shino"
       },
       {
         "example": "篠笹",
         "reading": "しのざさ",
-        "meaning": "bamboo grass, bamboo"
+        "meaning": {
+          "en": "bamboo grass, bamboo"
+        },
+        "romaji": "shinozasa"
       },
       {
         "example": "笹",
         "reading": "ささ",
-        "meaning": "bamboo grass, generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)"
+        "meaning": {
+          "vi": "bamboo grass, generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)"
+        },
+        "romaji": "sasa"
       },
       {
         "example": "笹竹",
         "reading": "ささたけ",
-        "meaning": "small bamboo"
+        "meaning": {
+          "en": "small bamboo"
+        },
+        "romaji": "sasatake"
       },
       {
         "example": "篶",
         "reading": "すず",
-        "meaning": "Sasamorpha borealis (species of bamboo grass unique to Japan), shoots of this plant"
+        "meaning": {
+          "vi": "Sasamorpha borealis (species of bamboo grass unique to Japan), shoots of this plant"
+        },
+        "romaji": "suzu"
       },
       {
         "example": "鈴懸",
         "reading": "すずかけ",
-        "meaning": "plane tree (esp. the Oriental plane, Platanus orientalis), hemp overgarment worn by Shugendō practitioners"
+        "meaning": {
+          "vi": "plane tree (esp. the Oriental plane, Platanus orientalis), hemp overgarment worn by Shugendō practitioners"
+        },
+        "romaji": "suzukake"
       }
     ],
     "radical": {
@@ -68,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07be0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7be0.gif",
     "uri": "https://jisho.org/search/%E7%AF%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiểu"
+  ]
 }

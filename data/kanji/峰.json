@@ -20,54 +20,84 @@
       {
         "example": "峰頭",
         "reading": "ホウトウ",
-        "meaning": "summit of a peak"
+        "meaning": {
+          "vi": "summit of a peak"
+        },
+        "romaji": "houtou"
       },
       {
         "example": "峰巒",
         "reading": "ホウラン",
-        "meaning": "(mountain) peak, mountain, mountain range"
+        "meaning": {
+          "vi": "(mountain) peak, mountain, mountain range"
+        },
+        "romaji": "houran"
       },
       {
         "example": "未踏峰",
         "reading": "ミトウホウ",
-        "meaning": "unclimbed mountain"
+        "meaning": {
+          "en": "unclimbed mountain"
+        },
+        "romaji": "mitouhou"
       },
       {
         "example": "高峰",
         "reading": "コウホウ",
-        "meaning": "high mountain, lofty peak"
+        "meaning": {
+          "vi": "high mountain, lofty peak"
+        },
+        "romaji": "kouhou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "峰",
         "reading": "みね",
-        "meaning": "peak, summit, ridge, top, back of a blade"
+        "meaning": {
+          "vi": "peak, summit, ridge, top, back of a blade"
+        },
+        "romaji": "mine"
       },
       {
         "example": "峰打ち",
         "reading": "みねうち",
-        "meaning": "striking with the back of the sword"
+        "meaning": {
+          "en": "striking with the back of the sword"
+        },
+        "romaji": "mineuchi"
       },
       {
         "example": "剣ヶ峰",
         "reading": "けんがみね",
-        "meaning": "rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"
+        "meaning": {
+          "vi": "rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"
+        },
+        "romaji": "kengamine"
       },
       {
         "example": "峰々",
         "reading": "みねみね",
-        "meaning": "peaks"
+        "meaning": {
+          "vi": "peaks"
+        },
+        "romaji": "minemine"
       },
       {
         "example": "剣ヶ峰",
         "reading": "けんがみね",
-        "meaning": "rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"
+        "meaning": {
+          "vi": "rim of a volcano (esp. Mt. Fuji), wrestling ring, dire or risky situation with no room for error, sink-or-swim position"
+        },
+        "romaji": "kengamine"
       },
       {
         "example": "峰々",
         "reading": "みねみね",
-        "meaning": "peaks"
+        "meaning": {
+          "vi": "peaks"
+        },
+        "romaji": "minemine"
       }
     ],
     "radical": {
@@ -84,5 +114,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cf0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cf0.gif",
     "uri": "https://jisho.org/search/%E5%B3%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "phong"
+  ]
 }

@@ -291,19 +291,28 @@
       {
         "example": "廉潔",
         "reading": "レンケツ",
-        "meaning": "honest, incorruptible, integrity"
+        "meaning": {
+          "vi": "honest, incorruptible, integrity"
+        },
+        "romaji": "renketsu"
       },
       {
         "example": "貞潔",
         "reading": "テイケツ",
-        "meaning": "chastity, purity"
+        "meaning": {
+          "vi": "chastity, purity"
+        },
+        "romaji": "teiketsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "潔い",
         "reading": "いさぎよい",
-        "meaning": "gracious (defeat, apology, etc.), graceful, honourable (e.g. death), noble, gallant, brave, manly, sportsmanlike, upright, righteous, honest, pure (heart), innocent, unspoiled (scenery, etc.), pure, clean"
+        "meaning": {
+          "vi": "gracious (defeat, apology, etc.), graceful, honourable (e.g. death), noble, gallant, brave, manly, sportsmanlike, upright, righteous, honest, pure (heart), innocent, unspoiled (scenery, etc.), pure, clean"
+        },
+        "romaji": "isagiyoi"
       }
     ],
     "radical": {
@@ -328,5 +337,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f54.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f54.gif",
     "uri": "https://jisho.org/search/%E6%BD%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiết"
+  ]
 }

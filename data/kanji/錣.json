@@ -18,7 +18,10 @@
       {
         "example": "錣",
         "reading": "しころ",
-        "meaning": "chuỗi tấm nối gắn sau và hai bên mũ giáp Nhật"
+        "meaning": {
+          "vi": "chuỗi tấm nối gắn sau và hai bên mũ giáp Nhật"
+        },
+        "romaji": "shikoro"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09323.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9323.gif",
     "uri": "https://jisho.org/search/%E9%8C%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuyết"
+  ]
 }

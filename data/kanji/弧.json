@@ -17,22 +17,34 @@
       {
         "example": "弧",
         "reading": "コ",
-        "meaning": "arc"
+        "meaning": {
+          "en": "arc"
+        },
+        "romaji": "ko"
       },
       {
         "example": "弧形",
         "reading": "コケイ",
-        "meaning": "arc"
+        "meaning": {
+          "en": "arc"
+        },
+        "romaji": "kokei"
       },
       {
         "example": "円弧",
         "reading": "エンコ",
-        "meaning": "arc"
+        "meaning": {
+          "en": "arc"
+        },
+        "romaji": "enko"
       },
       {
         "example": "励弧",
         "reading": "レイコ",
-        "meaning": "excitation"
+        "meaning": {
+          "en": "excitation"
+        },
+        "romaji": "reiko"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f27.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f27.gif",
     "uri": "https://jisho.org/search/%E5%BC%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ",
+    "o",
+    "ô"
+  ]
 }

@@ -16,17 +16,26 @@
       {
         "example": "非才",
         "reading": "ヒサイ",
-        "meaning": "thiếu năng lực, bất tài"
+        "meaning": {
+          "vi": "thiếu năng lực, bất tài"
+        },
+        "romaji": "hisai"
       },
       {
         "example": "菲沃斯",
         "reading": "ヒヨス",
-        "meaning": "cây cà độc dược"
+        "meaning": {
+          "vi": "cây cà độc dược"
+        },
+        "romaji": "hiyosu"
       },
       {
         "example": "芳菲",
         "reading": "ホウヒ",
-        "meaning": "hương hoa"
+        "meaning": {
+          "vi": "hương hoa"
+        },
+        "romaji": "houhi"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f2.gif",
     "uri": "https://jisho.org/search/%E8%8F%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi",
+    "phỉ"
+  ]
 }

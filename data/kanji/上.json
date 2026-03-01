@@ -13,157 +13,249 @@
       {
         "japanese": "上下する（じょうげする）",
         "meaning": {
-          "english": "go up and down",
-          "vietnamese": "lên xuống"
+          "vi": "đi lên và xuống",
+          "en": "go up and down"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_a.mp3"
+        },
+        "hanViet": [
+          "thướng",
+          "há"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 下 (há: đi xuống) → đi lên và xuống",
+          "en": "上 (thong: go up) + 下 (ha: go down) → go up and down"
         }
       },
       {
         "japanese": "頂上（ちょうじょう）",
         "meaning": {
-          "english": "summit",
-          "vietnamese": "đỉnh"
+          "vi": "đỉnh cao",
+          "en": "summit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_b.mp3"
+        },
+        "hanViet": [
+          "đính",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "頂 (đính: đỉnh đầu) + 上 (thướng: đi lên) → đỉnh cao",
+          "en": "頂 (dình: top of the head) + 上 (tương: going up) → peak"
         }
       },
       {
         "japanese": "上手（じょうず）",
         "meaning": {
-          "english": "skillful",
-          "vietnamese": "khéo léo, giỏi"
+          "vi": "khéo léo",
+          "en": "skillful"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_c.mp3"
+        },
+        "hanViet": [
+          "thướng",
+          "thủ"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 手 (thủ: cái tay) → khéo léo",
+          "en": "上 (thuong: go up) + 手 (thu: hand) → skillful"
         }
       },
       {
         "japanese": "以上（いじょう）",
         "meaning": {
-          "english": "more than, above",
-          "vietnamese": "trở lên, trên"
+          "vi": "hơn, ở trên",
+          "en": "more than, above"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_d.mp3"
+        },
+        "hanViet": [
+          "dĩ",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "以 (dĩ: dùng, sử dụng) + 上 (thướng: đi lên) → hơn, ở trên",
+          "en": "以 (dì: use, use) + 上 (tương: go up) → more, above"
         }
       },
       {
         "japanese": "上人（しょうにん）",
         "meaning": {
-          "english": "priest",
-          "vietnamese": "sư, tăng"
+          "vi": "linh mục",
+          "en": "priest"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_e.mp3"
+        },
+        "hanViet": [
+          "thướng",
+          "nhân"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 人 (nhân: người) → linh mục",
+          "en": "上 (上: go up) + 人 (上: person) → priest"
         }
       },
       {
         "japanese": "上（うえ）",
         "meaning": {
-          "english": "above, on top, upper part of",
-          "vietnamese": "trên, phía trên"
+          "vi": "ở trên, trên cùng, phần trên của",
+          "en": "above, on top, upper part of"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_f.mp3"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
         }
       },
       {
         "japanese": "目上（めうえ）",
         "meaning": {
-          "english": "superior(s)",
-          "vietnamese": "cấp trên"
+          "vi": "cấp trên",
+          "en": "superior(s)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_g.mp3"
+        },
+        "hanViet": [
+          "mục",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "目 (mục: mắt) + 上 (thướng: đi lên) → cấp trên",
+          "en": "目 (eye: eye) + 上 (direction: go up) → superior"
         }
       },
       {
         "japanese": "上回る（うわまわる）",
         "meaning": {
-          "english": "exceed",
-          "vietnamese": "vượt"
+          "vi": "quá",
+          "en": "exceed"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_h.mp3"
+        },
+        "hanViet": [
+          "thướng",
+          "hối"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 回 (hối: về) → quá",
+          "en": "上 (thinh: go up) + 回 (hoi: return) → too"
         }
       },
       {
         "japanese": "川上（かわかみ）",
         "meaning": {
-          "english": "upper reaches of a river",
-          "vietnamese": "thượng nguồn"
+          "vi": "thượng nguồn của một con sông",
+          "en": "upper reaches of a river"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_i.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_i.mp3"
+        },
+        "hanViet": [
+          "xuyên",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "川 (xuyên: dòng nước, sông) + 上 (thướng: đi lên) → thượng nguồn của một con sông",
+          "en": "川 (thien: stream, river) + 上 (thien: go up) → upstream of a river"
         }
       },
       {
         "japanese": "上がる（あがる）",
         "meaning": {
-          "english": "rise, climb up [v.i.]",
-          "vietnamese": "lên, leo lên"
+          "vi": "trỗi dậy, trèo lên [v.i.]",
+          "en": "rise, climb up [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_j.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_j.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_j.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_j.mp3"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
         }
       },
       {
         "japanese": "上げる（あげる）",
         "meaning": {
-          "english": "raise [v.t.]",
-          "vietnamese": "nâng lên"
+          "vi": "nâng cao [v.t.]",
+          "en": "raise [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_k.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_k.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_k.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_k.mp3"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
         }
       },
       {
         "japanese": "上る（のぼる）",
         "meaning": {
-          "english": "rise, climb up [v.i.]",
-          "vietnamese": "lên, leo lên"
+          "vi": "trỗi dậy, trèo lên [v.i.]",
+          "en": "rise, climb up [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-ue_06_l.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_l.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou-ue_06_l.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou-ue_06_l.mp3"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
         }
       }
     ],
@@ -429,149 +521,489 @@
       {
         "example": "上",
         "reading": "ジョウ",
-        "meaning": "from the standpoint of, from the viewpoint of, with respect to, in terms of, as a matter of, in view of, so far as ... is concerned, on, above, on top of, aboard (a ship or vehicle), the best, top, first class, first grade, first volume (of a two or three-volume set), first book, with my compliments"
+        "meaning": {
+          "vi": "từ quan điểm của, từ quan điểm của, đối với, về mặt, như một vấn đề, theo quan điểm của, cho đến nay ... là có liên quan, trên, trên, trên, trên, trên tàu (một con tàu hoặc phương tiện), tốt nhất, hàng đầu, hạng nhất, hạng nhất, tập đầu tiên (của một bộ hai hoặc ba tập), cuốn sách đầu tiên, với những lời khen ngợi của tôi",
+          "en": "from the standpoint of, from the viewpoint of, with respect to, in terms of, as a matter of, in view of, so far as ... is concerned, on, above, on top of, aboard (a ship or vehicle), the best, top, first class, first grade, first volume (of a two or three-volume set), first book, with my compliments"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "jou"
       },
       {
         "example": "上位",
         "reading": "ジョウイ",
-        "meaning": "superior (in rank), top, ranking, higher order (e.g. byte), host computer (of connected device)"
+        "meaning": {
+          "vi": "cấp trên (về thứ hạng), hàng đầu, thứ hạng, thứ tự cao hơn (ví dụ: byte), máy tính chủ (của thiết bị được kết nối)",
+          "en": "superior (in rank), top, ranking, higher order (e.g. byte), host computer (of connected device)"
+        },
+        "hanViet": [
+          "thướng",
+          "vị"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 位 (vị: vị trí) → cấp trên (về thứ hạng), hàng đầu, thứ hạng, thứ tự cao hơn (ví dụ: byte), máy tính chủ (của thiết bị được kết nối)",
+          "en": "上 (direction: going up) + 位 (position: position) → superior (in rank), top, rank, higher order (e.g. byte), host computer (of a connected device)"
+        },
+        "romaji": "joui"
       },
       {
         "example": "口上",
         "reading": "コウジョウ",
-        "meaning": "vocal message, speech, statement, prologue at the start of a kabuki performance"
+        "meaning": {
+          "vi": "thông điệp bằng giọng nói, bài phát biểu, lời tuyên bố, lời mở đầu khi bắt đầu buổi biểu diễn kabuki",
+          "en": "vocal message, speech, statement, prologue at the start of a kabuki performance"
+        },
+        "hanViet": [
+          "khẩu",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "口 (khẩu: mồm, miệng) + 上 (thướng: đi lên) → thông điệp bằng giọng nói, bài phát biểu, lời tuyên bố, lời mở đầu khi bắt đầu buổi biểu diễn kabuki",
+          "en": "口 (mouth: mouth, mouth) + 上 (song: go up) → voice message, speech, declaration, opening statement at the beginning of a kabuki performance"
+        },
+        "romaji": "koujou"
       },
       {
         "example": "水上",
         "reading": "スイジョウ",
-        "meaning": "on the water, aquatic, waterside, water's edge"
+        "meaning": {
+          "vi": "trên mặt nước, dưới nước, ven bờ, mép nước",
+          "en": "on the water, aquatic, waterside, water's edge"
+        },
+        "hanViet": [
+          "thuỷ",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "水 (thuỷ: nước) + 上 (thướng: đi lên) → trên mặt nước, dưới nước, ven bờ, mép nước",
+          "en": "水 (thuy: water) + 上 (thuong: go up) → on the water, under the water, along the shore, at the water's edge"
+        },
+        "romaji": "suijou"
       },
       {
         "example": "上人",
         "reading": "ショウニン",
-        "meaning": "holy priest, saint"
+        "meaning": {
+          "vi": "linh mục thánh, thánh",
+          "en": "holy priest, saint"
+        },
+        "hanViet": [
+          "thướng",
+          "nhân"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 人 (nhân: người) → linh mục thánh, thánh",
+          "en": "上 (上: go up) + 人 (human: person) → holy priest, saint"
+        },
+        "romaji": "shounin"
       },
       {
         "example": "上下",
         "reading": "ショウカ",
-        "meaning": "top and bottom, up and down, high and low, above and below, upper and lower ends, upper and lower classes, ruler and ruled, the government and the people"
+        "meaning": {
+          "vi": "trên và dưới, trên và dưới, cao và thấp, trên và dưới, trên và dưới, thượng lưu và hạ lưu, kẻ thống trị và kẻ bị trị, chính quyền và nhân dân",
+          "en": "top and bottom, up and down, high and low, above and below, upper and lower ends, upper and lower classes, ruler and ruled, the government and the people"
+        },
+        "hanViet": [
+          "thướng",
+          "há"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 下 (há: đi xuống) → trên và dưới, trên và dưới, cao và thấp, trên và dưới, trên và dưới, thượng lưu và hạ lưu, kẻ thống trị và kẻ bị trị, chính quyền và nhân dân",
+          "en": "上 (tương: go up) + 下 (há: go down) → above and below, above and below, high and low, above and below, above and below, upper and lower, rulers and ruled, government and people"
+        },
+        "romaji": "shouka"
       },
       {
         "example": "呈上",
         "reading": "テイジョウ",
-        "meaning": "giving, gifting, presenting"
+        "meaning": {
+          "vi": "tặng, tặng, trình bày",
+          "en": "giving, gifting, presenting"
+        },
+        "hanViet": [
+          "trình",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "呈 (trình: trình ra, đưa ra, dâng lên) + 上 (thướng: đi lên) → tặng, tặng, trình bày",
+          "en": "呈 (submit: present, offer, offer) + 上 (submit: go up) → present, offer, present"
+        },
+        "romaji": "teijou"
       },
       {
         "example": "主上",
         "reading": "シュジョウ",
-        "meaning": "emperor"
+        "meaning": {
+          "vi": "hoàng đế",
+          "en": "emperor"
+        },
+        "hanViet": [
+          "chúa",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "主 (chúa: người đứng đầu) + 上 (thướng: đi lên) → hoàng đế",
+          "en": "主 (lord: head) + 上 (thiang: go up) → emperor"
+        },
+        "romaji": "shujou"
       },
       {
         "example": "上海",
         "reading": "シャンハイ",
-        "meaning": "Shanghai (China)"
+        "meaning": {
+          "vi": "thượng hải (trung quốc)",
+          "en": "Shanghai (China)"
+        },
+        "hanViet": [
+          "thướng",
+          "hải"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 海 (hải: biển) → thượng hải (trung quốc)",
+          "en": "上 (thong: go up) + 海 (hai: sea) → shanghai (china)"
+        },
+        "romaji": "shanhai"
       },
       {
         "example": "上湯",
         "reading": "シャンタン",
-        "meaning": "top-grade Chinese soup stock"
+        "meaning": {
+          "vi": "nước súp cao cấp của trung quốc",
+          "en": "top-grade Chinese soup stock"
+        },
+        "hanViet": [
+          "thướng",
+          "sương"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 湯 (sương: nước nóng) → nước súp cao cấp của trung quốc",
+          "en": "上 (thiang: go up) + 湯 (sương: hot water) → premium chinese soup"
+        },
+        "romaji": "shantan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "上",
         "reading": "うえ",
-        "meaning": "above, over, up, top, summit, upper part, head (e.g. of a staircase), surface, on (top of), the above (in a piece of writing), earlier part, superior, better, higher (position, rank, etc.), upper (class), elder, older, senior, with respect to ..., in terms of, as far as ... is concerned, when (e.g. drunk), besides ..., in addition to ..., on top of ..., as well as ..., after ..., upon ..., on ..., with (e.g. full awareness), as a result of ..., since ..., now that ..., because ..., honorable, venerable, dear, emperor, sovereign, shogun, daimyo"
+        "meaning": {
+          "vi": "trên, trên, lên, đỉnh, đỉnh, phần trên, đầu (ví dụ: cầu thang), bề mặt, trên (đỉnh), phần trên (trong một đoạn văn bản), phần trước, cấp trên, tốt hơn, cao hơn (vị trí, cấp bậc, v.v.), trên (đẳng cấp), già hơn, cao cấp, đối với ..., về mặt, đối với ... là có liên quan, khi (ví dụ: say rượu), bên cạnh đó ..., ngoài ..., trên đỉnh ..., cũng như ..., sau ..., trên ..., trên ..., với (ví dụ: nhận thức đầy đủ), là kết quả của ..., vì ..., bây giờ ..., bởi vì ..., đáng kính, đáng kính, thân mến, hoàng đế, chủ quyền, tướng quân, daimyo",
+          "en": "above, over, up, top, summit, upper part, head (e.g. of a staircase), surface, on (top of), the above (in a piece of writing), earlier part, superior, better, higher (position, rank, etc.), upper (class), elder, older, senior, with respect to ..., in terms of, as far as ... is concerned, when (e.g. drunk), besides ..., in addition to ..., on top of ..., as well as ..., after ..., upon ..., on ..., with (e.g. full awareness), as a result of ..., since ..., now that ..., because ..., honorable, venerable, dear, emperor, sovereign, shogun, daimyo"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "ue"
       },
       {
         "example": "上向き",
         "reading": "うわむき",
-        "meaning": "pointing up, pointing upward, upturn, uptrend, upward tendency"
+        "meaning": {
+          "vi": "hướng lên,hướng lên,xu hướng đi lên,xu hướng đi lên",
+          "en": "pointing up, pointing upward, upturn, uptrend, upward tendency"
+        },
+        "hanViet": [
+          "thướng",
+          "hướng"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 向 (hướng: hướng, phía) → hướng lên,hướng lên,xu hướng đi lên,xu hướng đi lên",
+          "en": "上 (direction: going up) + 向 (direction: direction, direction) → upward direction, upward direction, upward trend, upward trend"
+        },
+        "romaji": "uwamuki"
       },
       {
         "example": "床上",
         "reading": "ゆかうえ",
-        "meaning": "on a floor, above floor level"
+        "meaning": {
+          "vi": "trên một tầng, trên mặt sàn",
+          "en": "on a floor, above floor level"
+        },
+        "hanViet": [
+          "sàng",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "床 (sàng: cái giường) + 上 (thướng: đi lên) → trên một tầng, trên mặt sàn",
+          "en": "床 (sieve: bed) + 上 (tuong: go up) → on a floor, on the floor"
+        },
+        "romaji": "yukaue"
       },
       {
         "example": "一枚上",
         "reading": "いちまいうえ",
-        "meaning": "one step higher, one better, cut above, one up"
+        "meaning": {
+          "vi": "cao hơn một bước, tốt hơn một bước, vượt lên trên, lên một bước",
+          "en": "one step higher, one better, cut above, one up"
+        },
+        "hanViet": [
+          "nhất",
+          "mai",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 枚 (mai: cây, quả, trái) + 上 (thướng: đi lên) → cao hơn một bước, tốt hơn một bước, vượt lên trên, lên một bước",
+          "en": "一 (first: one, 1) + 枚 (mai: tree, fruit, fruit) + 上 (tương: go up) → one step higher, one step better, go above, one step up"
+        },
+        "romaji": "ichimaiue"
       },
       {
         "example": "上",
         "reading": "かみ",
-        "meaning": "upper reaches (of a river), upper stream, top, upper part, upper half (of the body), long ago, beginning, first, person of high rank (e.g. the emperor), government, imperial court, imperial capital (i.e. Kyoto), capital region (i.e. Kansai), region (or direction of) the imperial palace, head (of a table), wife, mistress (of a restaurant)"
+        "meaning": {
+          "vi": "thượng nguồn (của một dòng sông), thượng nguồn, đỉnh, phần trên, nửa trên (của cơ thể), từ lâu, khởi đầu, đầu tiên, người có cấp bậc cao (ví dụ: hoàng đế), chính phủ, triều đình, kinh đô (ví dụ kyoto), vùng thủ đô (tức là kansai), khu vực (hoặc hướng) cung điện hoàng gia, người đứng đầu (của một cái bàn), vợ, tình nhân (của một nhà hàng)",
+          "en": "upper reaches (of a river), upper stream, top, upper part, upper half (of the body), long ago, beginning, first, person of high rank (e.g. the emperor), government, imperial court, imperial capital (i.e. Kyoto), capital region (i.e. Kansai), region (or direction of) the imperial palace, head (of a table), wife, mistress (of a restaurant)"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "kami"
       },
       {
         "example": "上期",
         "reading": "かみき",
-        "meaning": "first half of the (fiscal) year"
+        "meaning": {
+          "vi": "nửa đầu năm (tài chính)",
+          "en": "first half of the (fiscal) year"
+        },
+        "hanViet": [
+          "thướng",
+          "cơ"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 期 (cơ: thời kỳ, lúc) → nửa đầu năm (tài chính)",
+          "en": "上 (tsang: going up) + 期 (ch: period, time) → first half of the year (finance)"
+        },
+        "romaji": "kamiki"
       },
       {
         "example": "風上",
         "reading": "かざかみ",
-        "meaning": "windward, upwind"
+        "meaning": {
+          "vi": "hướng gió, ngược gió",
+          "en": "windward, upwind"
+        },
+        "hanViet": [
+          "phong",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "風 (phong: gió) + 上 (thướng: đi lên) → hướng gió, ngược gió",
+          "en": "風 (feng: wind) + 上 (direction: go up) → wind direction, against the wind"
+        },
+        "romaji": "kazakami"
       },
       {
         "example": "御上",
         "reading": "おかみ",
-        "meaning": "the Emperor, His Majesty, the government, the authorities, proprietress, hostess, landlady, mistress, your wife, his wife, (one's) master, lord"
+        "meaning": {
+          "vi": "hoàng đế, bệ hạ, chính phủ, chính quyền, chủ sở hữu, bà chủ, bà chủ, tình nhân, vợ của bạn, vợ của ông ấy, chủ nhân, chúa tể",
+          "en": "the Emperor, His Majesty, the government, the authorities, proprietress, hostess, landlady, mistress, your wife, his wife, (one's) master, lord"
+        },
+        "hanViet": [
+          "ngữ",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "御 (ngữ: ngăn lại, chống lại) + 上 (thướng: đi lên) → hoàng đế, bệ hạ, chính phủ, chính quyền, chủ sở hữu, bà chủ, bà chủ, tình nhân, vợ của bạn, vợ của ông ấy, chủ nhân, chúa tể",
+          "en": "御 (idiom: prevent, resist) + 上 (tuong: go up) → emperor, majesty, government, authority, owner, mistress, hostess, mistress, your wife, his wife, master, lord"
+        },
+        "romaji": "okami"
       },
       {
         "example": "上げる",
         "reading": "あげる",
-        "meaning": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.), to land (a boat), to deep-fry, to show someone (into a room), to give, to send someone (away), to enrol (one's child in school), to enroll, to increase (price, quality, status, etc.), to develop (talent, skill), to improve, to make (a loud sound), to raise (one's voice), to earn (something desirable), to praise, to give (an example, etc.), to cite, to summon up (all of one's energy, etc.), to arrest, to nominate, to summon (for geishas, etc.), to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.), to bear (a child), to conduct (a ceremony, esp. a wedding), (of the tide) to come in, to vomit, to do for (the sake of someone else), to complete ..., to humbly do ..."
+        "meaning": {
+          "vi": "nâng cao, nâng cao, làm lên (tóc), thả (diều, v.v.), phóng (pháo hoa, v.v.), lên mặt nước (tàu ngầm, v.v.), hạ cánh (thuyền), chiên ngập dầu, dẫn ai đó (vào phòng), đưa, đưa ai đó (đi), ghi danh (con đi học), ghi danh, tăng (giá cả, chất lượng, địa vị, v.v.), phát triển (tài năng, kỹ năng), cải thiện, tạo ra (âm thanh lớn), nâng cao (giọng nói của một người), kiếm được (điều gì đó mong muốn), khen ngợi, cho (ví dụ, v.v.), trích dẫn, triệu tập (tất cả sức lực của một người, v.v.), bắt giữ, đề cử, triệu tập (đối với geishas, v.v.), dâng (hương, cầu nguyện, v.v.) lên các vị thần (hoặc phật, v.v.), sinh (một đứa trẻ), tiến hành (một buổi lễ, đặc biệt là một đám cưới), (của thủy triều) đi vào, nôn mửa, làm vì (vì người khác), hoàn thành..., khiêm tốn làm...",
+          "en": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.), to land (a boat), to deep-fry, to show someone (into a room), to give, to send someone (away), to enrol (one's child in school), to enroll, to increase (price, quality, status, etc.), to develop (talent, skill), to improve, to make (a loud sound), to raise (one's voice), to earn (something desirable), to praise, to give (an example, etc.), to cite, to summon up (all of one's energy, etc.), to arrest, to nominate, to summon (for geishas, etc.), to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.), to bear (a child), to conduct (a ceremony, esp. a wedding), (of the tide) to come in, to vomit, to do for (the sake of someone else), to complete ..., to humbly do ..."
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "ageru"
       },
       {
         "example": "上がる",
         "reading": "あがる",
-        "meaning": "to rise, to go up, to come up, to ascend, to be raised, to enter (esp. from outdoors), to come in, to go in, to enter (a school), to advance to the next grade, to get out (of water), to come ashore, to increase, to improve, to make progress, to be promoted, to advance, to be made (of profit, etc.), to occur (esp. of a favourable result), to be adequate (to cover expenses, etc.), to be finished, to be done, to be over, to stop (of rain), to lift, to stop (working properly), to cut out, to give out, to die, to win (in a card game, etc.), to be arrested, to turn up (of evidence, etc.), to be deep fried, to be spoken loudly, to get nervous, to get stage fright, to be offered (to the gods, etc.), to go, to visit, to eat, to drink, to be listed (as a candidate), to serve (in one's master's home), to be complete, to finish, above, north of"
+        "meaning": {
+          "vi": "tăng lên, đi lên, đi lên, đi lên, được nâng lên, đi vào (đặc biệt là từ ngoài trời), đi vào, đi vào, vào (một trường học), lên lớp tiếp theo, ra khỏi (dưới nước), lên bờ, tăng trưởng, cải thiện, tiến bộ, được thăng chức, thăng tiến, được thực hiện (vì lợi nhuận, v.v.), xảy ra (đặc biệt là một kết quả thuận lợi), vừa đủ (để trang trải chi phí, v.v.), hoàn thành, phải làm, vượt qua, dừng (mưa), nâng, dừng (làm việc đúng cách), cắt ra, đưa ra, chết, thắng (trong một trò chơi bài, v.v.), bị bắt, xuất hiện (bằng chứng, v.v.), bị chiên giòn, nói to, lo lắng, sợ hãi sân khấu, được cúng dường (với các vị thần, v.v.), được đi, thăm, ăn, uống, được liệt kê (như một ứng cử viên), để phục vụ (trong nhà của chủ nhân), đến được hoàn thành, để kết thúc, ở trên, phía bắc của",
+          "en": "to rise, to go up, to come up, to ascend, to be raised, to enter (esp. from outdoors), to come in, to go in, to enter (a school), to advance to the next grade, to get out (of water), to come ashore, to increase, to improve, to make progress, to be promoted, to advance, to be made (of profit, etc.), to occur (esp. of a favourable result), to be adequate (to cover expenses, etc.), to be finished, to be done, to be over, to stop (of rain), to lift, to stop (working properly), to cut out, to give out, to die, to win (in a card game, etc.), to be arrested, to turn up (of evidence, etc.), to be deep fried, to be spoken loudly, to get nervous, to get stage fright, to be offered (to the gods, etc.), to go, to visit, to eat, to drink, to be listed (as a candidate), to serve (in one's master's home), to be complete, to finish, above, north of"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "agaru"
       },
       {
         "example": "上がり",
         "reading": "あがり",
-        "meaning": "rise, increase, ascent, income, takings, earnings, proceeds, (crop) yield, return, profit, completion, end, finish, end result (e.g. of crafts), how something comes out, finish, finishing (in a board or card game, etc.), green tea (esp. in a sushi restaurant), after (rain, illness, etc.), ex- (e.g. ex-bureaucrat), former"
+        "meaning": {
+          "vi": "tăng, tăng, đi lên, thu nhập, thu nhập, thu nhập, số tiền thu được, năng suất (cây trồng), lợi nhuận, hoàn thành, kết thúc, kết thúc, kết quả cuối cùng (ví dụ: hàng thủ công), cách một thứ xuất hiện, kết thúc, hoàn thiện (trong một bàn cờ hoặc trò chơi bài, v.v.), trà xanh (đặc biệt trong nhà hàng sushi), sau (mưa, bệnh tật, v.v.), ex- (ví dụ: cựu quan chức), trước đây",
+          "en": "rise, increase, ascent, income, takings, earnings, proceeds, (crop) yield, return, profit, completion, end, finish, end result (e.g. of crafts), how something comes out, finish, finishing (in a board or card game, etc.), green tea (esp. in a sushi restaurant), after (rain, illness, etc.), ex- (e.g. ex-bureaucrat), former"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "agari"
       },
       {
         "example": "上がり下り",
         "reading": "あがりおり",
-        "meaning": "going up and down, ascent and descent"
+        "meaning": {
+          "vi": "đi lên và đi xuống, đi lên và đi xuống",
+          "en": "going up and down, ascent and descent"
+        },
+        "hanViet": [
+          "thướng",
+          "há"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 下 (há: đi xuống) → đi lên và đi xuống, đi lên và đi xuống",
+          "en": "上 (thanh: go up) + 下 (há: go down) → go up and go down, go up and go down"
+        },
+        "romaji": "agariori"
       },
       {
         "example": "芸者上がり",
         "reading": "げいしゃあがり",
-        "meaning": "ex-geisha, former geisha"
+        "meaning": {
+          "vi": "cựu geisha, cựu geisha",
+          "en": "ex-geisha, former geisha"
+        },
+        "hanViet": [
+          "vân",
+          "giả",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "芸 (vân: gieo, rắc) + 者 (giả: người) + 上 (thướng: đi lên) → cựu geisha, cựu geisha",
+          "en": "芸 (van: sow, sprinkle) + 者 (fake: person) + 上 (tương: go up) → former geisha, former geisha"
+        },
+        "romaji": "geishaagari"
       },
       {
         "example": "上る",
         "reading": "のぼる",
-        "meaning": "to ascend, to go up, to climb, to ascend (as a natural process, e.g. the Sun), to rise, to go to (the capital), to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda)"
+        "meaning": {
+          "vi": "đi lên, đi lên, leo lên, đi lên (như một quá trình tự nhiên, ví dụ như mặt trời), mọc lên, đi đến (thủ đô), được thăng chức, thêm vào, thăng tiến (về giá cả), bơi lên (một dòng sông), đi thuyền lên, đi lên (trong chương trình nghị sự)",
+          "en": "to ascend, to go up, to climb, to ascend (as a natural process, e.g. the Sun), to rise, to go to (the capital), to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda)"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "noboru"
       },
       {
         "example": "上り",
         "reading": "のぼり",
-        "meaning": "ascent, climbing, ascending (path), climb, up-train, train heading toward the starting point of its route, upbound (esp. toward Tokyo), upstream, uphill"
+        "meaning": {
+          "vi": "đi lên, leo lên, đi lên (con đường), leo lên, lên tàu, tàu hướng về điểm xuất phát của lộ trình, đi lên (đặc biệt là về phía tokyo), ngược dòng, lên dốc",
+          "en": "ascent, climbing, ascending (path), climb, up-train, train heading toward the starting point of its route, upbound (esp. toward Tokyo), upstream, uphill"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "nobori"
       },
       {
         "example": "上り下り",
         "reading": "のぼりくだり",
-        "meaning": "going up and down, ascent and descent, climb and descent"
+        "meaning": {
+          "vi": "đi lên và đi xuống, đi lên và đi xuống, leo lên và đi xuống",
+          "en": "going up and down, ascent and descent, climb and descent"
+        },
+        "hanViet": [
+          "thướng",
+          "há"
+        ],
+        "hanVietExplain": {
+          "vi": "上 (thướng: đi lên) + 下 (há: đi xuống) → đi lên và đi xuống, đi lên và đi xuống, leo lên và đi xuống",
+          "en": "上 (thong: go up) + 下 (há: go down) → go up and go down, go up and go down, climb up and go down"
+        },
+        "romaji": "noborikudari"
       },
       {
         "example": "逆上せる",
         "reading": "のぼせる",
-        "meaning": "to feel dizzy, to have blood rush to one's head, to lose one's cool, to be obsessed, to be infatuated, to become conceited"
+        "meaning": {
+          "vi": "chóng mặt, máu dồn lên đầu, mất bình tĩnh, bị ám ảnh, mê đắm, tự phụ",
+          "en": "to feel dizzy, to have blood rush to one's head, to lose one's cool, to be obsessed, to be infatuated, to become conceited"
+        },
+        "hanViet": [
+          "nghịch",
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "逆 (nghịch: trái ngược) + 上 (thướng: đi lên) → chóng mặt, máu dồn lên đầu, mất bình tĩnh, bị ám ảnh, mê đắm, tự phụ",
+          "en": "逆 (reverse: opposite) + 上 (tang: go up) → dizzy, blood rushing to the head, losing temper, obsessed, infatuated, cocky"
+        },
+        "romaji": "noboseru"
       },
       {
         "example": "上せる",
         "reading": "のぼせる",
-        "meaning": "to raise, to record, to bring up (a matter), to serve (food), to send some on out"
+        "meaning": {
+          "vi": "nâng lên, ghi lại, mang lên (một vấn đề), phục vụ (thức ăn), gửi một ít",
+          "en": "to raise, to record, to bring up (a matter), to serve (food), to send some on out"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "noboseru"
       },
       {
         "example": "上す",
         "reading": "のぼす",
-        "meaning": "to raise, to record, to bring up (a matter), to serve (food), to send someone out"
+        "meaning": {
+          "vi": "nuôi, ghi lại, đưa ra (vấn đề), phục vụ (thức ăn), cử ai đó ra ngoài",
+          "en": "to raise, to record, to bring up (a matter), to serve (food), to send someone out"
+        },
+        "hanViet": [
+          "thướng"
+        ],
+        "hanVietExplain": {
+          "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+          "en": "usually: go up, above, go up, above"
+        },
+        "romaji": "nobosu"
       }
     ],
     "radical": {
@@ -586,5 +1018,17 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e0a.gif",
     "uri": "https://jisho.org/search/%E4%B8%8A%23kanji"
+  },
+  "hanViet": [
+    "thướng",
+    "thượng"
+  ],
+  "hanVietExplain": {
+    "vi": "thướng: đi lên, ở phía trên, đi lên, ở phía trên",
+    "en": "usually: go up, above, go up, above"
+  },
+  "meaning": {
+    "vi": "hướng lên",
+    "en": "up"
   }
 }

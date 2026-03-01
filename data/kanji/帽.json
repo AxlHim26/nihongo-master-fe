@@ -245,22 +245,34 @@
       {
         "example": "帽",
         "reading": "ボウ",
-        "meaning": "hat, cap"
+        "meaning": {
+          "vi": "hat, cap"
+        },
+        "romaji": "bou"
       },
       {
         "example": "帽子",
         "reading": "ボウシ",
-        "meaning": "hat, cap"
+        "meaning": {
+          "vi": "hat, cap"
+        },
+        "romaji": "boushi"
       },
       {
         "example": "水泳帽",
         "reading": "スイエイボウ",
-        "meaning": "swimming or bathing cap"
+        "meaning": {
+          "vi": "swimming or bathing cap"
+        },
+        "romaji": "suieibou"
       },
       {
         "example": "海水帽",
         "reading": "カイスイボウ",
-        "meaning": "bathing cap, swimcap"
+        "meaning": {
+          "vi": "bathing cap, swimcap"
+        },
+        "romaji": "kaisuibou"
       }
     ],
     "kunyomiExamples": [],
@@ -277,5 +289,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e3d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e3d.gif",
     "uri": "https://jisho.org/search/%E5%B8%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạo"
+  ]
 }

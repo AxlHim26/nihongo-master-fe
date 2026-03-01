@@ -330,94 +330,148 @@
       {
         "example": "宮",
         "reading": "キュウ",
-        "meaning": "palace, tonic (of the Japanese and Chinese pentatonic scale), ancient Chinese punishment (castration for men, or confinement for women), zodiacal sign"
+        "meaning": {
+          "vi": "palace, tonic (of the Japanese and Chinese pentatonic scale), ancient Chinese punishment (castration for men, or confinement for women), zodiacal sign"
+        },
+        "romaji": "kyuu"
       },
       {
         "example": "宮中",
         "reading": "キュウチュウ",
-        "meaning": "imperial court"
+        "meaning": {
+          "vi": "imperial court"
+        },
+        "romaji": "kyuuchuu"
       },
       {
         "example": "離宮",
         "reading": "リキュウ",
-        "meaning": "imperial villa, royal villa, detached palace"
+        "meaning": {
+          "vi": "imperial villa, royal villa, detached palace"
+        },
+        "romaji": "rikyuu"
       },
       {
         "example": "巨蟹宮",
         "reading": "キョカイキュウ",
-        "meaning": "Cancer (4th zodiacal sign), the Crab"
+        "meaning": {
+          "en": "Cancer (4th zodiacal sign), the Crab"
+        },
+        "romaji": "kyokaikyuu"
       },
       {
         "example": "宮司",
         "reading": "グウジ",
-        "meaning": "chief priest"
+        "meaning": {
+          "vi": "chief priest"
+        },
+        "romaji": "guuji"
       },
       {
         "example": "宮寺",
         "reading": "グウジ",
-        "meaning": "Buddhist temple within a Shinto shrine"
+        "meaning": {
+          "vi": "Buddhist temple within a Shinto shrine"
+        },
+        "romaji": "guuji"
       },
       {
         "example": "二宮",
         "reading": "ニグウ",
-        "meaning": "the Two Ise Shrines"
+        "meaning": {
+          "en": "the Two Ise Shrines"
+        },
+        "romaji": "niguu"
       },
       {
         "example": "東宮",
         "reading": "トウグウ",
-        "meaning": "crown prince"
+        "meaning": {
+          "vi": "crown prince"
+        },
+        "romaji": "touguu"
       },
       {
         "example": "宮内庁",
         "reading": "クナイチョウ",
-        "meaning": "Imperial Household Agency"
+        "meaning": {
+          "vi": "Imperial Household Agency"
+        },
+        "romaji": "kunaichou"
       },
       {
         "example": "宮内",
         "reading": "クナイ",
-        "meaning": "inside the Imperial Palace, Department of the Imperial Household"
+        "meaning": {
+          "vi": "inside the Imperial Palace, Department of the Imperial Household"
+        },
+        "romaji": "kunai"
       },
       {
         "example": "月宮",
         "reading": "ゲッキュウ",
-        "meaning": "moon palace of the Hindu god Chandra"
+        "meaning": {
+          "vi": "moon palace of the Hindu god Chandra"
+        },
+        "romaji": "gekkyuu"
       },
       {
         "example": "夙",
         "reading": "シュク",
-        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        "meaning": {
+          "vi": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        },
+        "romaji": "shuku"
       },
       {
         "example": "内宮",
         "reading": "ナイクウ",
-        "meaning": "Inner Ise Shrine"
+        "meaning": {
+          "en": "Inner Ise Shrine"
+        },
+        "romaji": "naikuu"
       },
       {
         "example": "外宮",
         "reading": "ゲクウ",
-        "meaning": "outer shrine of the Ise Grand Shrine"
+        "meaning": {
+          "en": "outer shrine of the Ise Grand Shrine"
+        },
+        "romaji": "gekuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宮",
         "reading": "みや",
-        "meaning": "shrine, palace, imperial residence, Imperial prince, Imperial princess, headboard with built-in shelves, drawers, etc., temple"
+        "meaning": {
+          "vi": "shrine, palace, imperial residence, Imperial prince, Imperial princess, headboard with built-in shelves, drawers, etc., temple"
+        },
+        "romaji": "miya"
       },
       {
         "example": "宮家",
         "reading": "みやけ",
-        "meaning": "house of an imperial prince"
+        "meaning": {
+          "vi": "house of an imperial prince"
+        },
+        "romaji": "miyake"
       },
       {
         "example": "若宮",
         "reading": "わかみや",
-        "meaning": "young imperial prince, child of the imperial family, shrine dedicated to a child of the god of the main shrine, newly built shrine (to which a divided tutelary deity has just been transferred)"
+        "meaning": {
+          "vi": "young imperial prince, child of the imperial family, shrine dedicated to a child of the god of the main shrine, newly built shrine (to which a divided tutelary deity has just been transferred)"
+        },
+        "romaji": "wakamiya"
       },
       {
         "example": "大宮",
         "reading": "おおみや",
-        "meaning": "imperial palace, shrine, Grand Empress Dowager, Empress Dowager, woman of imperial lineage who has borne a child, elderly woman of imperial lineage"
+        "meaning": {
+          "vi": "imperial palace, shrine, Grand Empress Dowager, Empress Dowager, woman of imperial lineage who has borne a child, elderly woman of imperial lineage"
+        },
+        "romaji": "oomiya"
       }
     ],
     "radical": {
@@ -433,5 +487,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bae.gif",
     "uri": "https://jisho.org/search/%E5%AE%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cung"
+  ]
 }

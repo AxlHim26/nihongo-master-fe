@@ -18,7 +18,10 @@
       {
         "example": "蟇",
         "reading": "ひきがえる",
-        "meaning": "toad (esp. the Japanese toad, Bufo japonicus)"
+        "meaning": {
+          "vi": "toad (esp. the Japanese toad, Bufo japonicus)"
+        },
+        "romaji": "hikigaeru"
       }
     ],
     "radical": {
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c6.gif",
     "uri": "https://jisho.org/search/%E8%9F%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô",
+    "mạc"
+  ]
 }

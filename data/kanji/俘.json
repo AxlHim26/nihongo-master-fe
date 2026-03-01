@@ -16,24 +16,36 @@
       {
         "example": "俘囚",
         "reading": "フシュウ",
-        "meaning": "prisoner (of war), captive, Emishi allied with the Japanese during the Nara and Heian periods"
+        "meaning": {
+          "vi": "prisoner (of war), captive, Emishi allied with the Japanese during the Nara and Heian periods"
+        },
+        "romaji": "fushuu"
       },
       {
         "example": "俘虜",
         "reading": "フリョ",
-        "meaning": "prisoner of war, captive"
+        "meaning": {
+          "vi": "prisoner of war, captive"
+        },
+        "romaji": "furyo"
       },
       {
         "example": "夷俘",
         "reading": "イフ",
-        "meaning": "Emishi allied with the central government (ritsuryō period)"
+        "meaning": {
+          "vi": "Emishi allied with the central government (ritsuryō period)"
+        },
+        "romaji": "ifu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虜",
         "reading": "とりこ",
-        "meaning": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+        "meaning": {
+          "vi": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+        },
+        "romaji": "toriko"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fd8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fd8.gif",
     "uri": "https://jisho.org/search/%E4%BF%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "phu"
+  ]
 }

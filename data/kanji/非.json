@@ -338,34 +338,52 @@
       {
         "example": "非",
         "reading": "ヒ",
-        "meaning": "fault, error, mistake, going poorly, being disadvantageous, being unfavorable, un-, non-, an-"
+        "meaning": {
+          "vi": "fault, error, mistake, going poorly, being disadvantageous, being unfavorable, un-, non-, an-"
+        },
+        "romaji": "hi"
       },
       {
         "example": "非行",
         "reading": "ヒコウ",
-        "meaning": "delinquency, misconduct"
+        "meaning": {
+          "en": "delinquency, misconduct"
+        },
+        "romaji": "hikou"
       },
       {
         "example": "是非是非",
         "reading": "ゼヒゼヒ",
-        "meaning": "certainly, by all means"
+        "meaning": {
+          "en": "certainly, by all means"
+        },
+        "romaji": "zehizehi"
       },
       {
         "example": "理非",
         "reading": "リヒ",
-        "meaning": "right and wrong"
+        "meaning": {
+          "en": "right and wrong"
+        },
+        "romaji": "rihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "非ず",
         "reading": "あらず",
-        "meaning": "not, does not exist"
+        "meaning": {
+          "en": "not, does not exist"
+        },
+        "romaji": "arazu"
       },
       {
         "example": "非ずんば",
         "reading": "あらずんば",
-        "meaning": "if not, unless"
+        "meaning": {
+          "en": "if not, unless"
+        },
+        "romaji": "arazunba"
       }
     ],
     "radical": {
@@ -379,5 +397,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0975e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/975e.gif",
     "uri": "https://jisho.org/search/%E9%9D%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi",
+    "phỉ"
+  ]
 }

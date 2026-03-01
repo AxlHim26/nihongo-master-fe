@@ -306,59 +306,92 @@
       {
         "example": "勢",
         "reading": "セイ",
-        "meaning": "strength, power, energy, military strength, army, (number of) troops"
+        "meaning": {
+          "vi": "strength, power, energy, military strength, army, (number of) troops"
+        },
+        "romaji": "sei"
       },
       {
         "example": "勢力",
         "reading": "セイリョク",
-        "meaning": "influence, power, might, strength, potency, force, energy"
+        "meaning": {
+          "vi": "influence, power, might, strength, potency, force, energy"
+        },
+        "romaji": "seiryoku"
       },
       {
         "example": "国勢",
         "reading": "コクセイ",
-        "meaning": "state of a country (population, resources, etc.), condition of a country, strength of a country"
+        "meaning": {
+          "vi": "state of a country (population, resources, etc.), condition of a country, strength of a country"
+        },
+        "romaji": "kokusei"
       },
       {
         "example": "党勢",
         "reading": "トウセイ",
-        "meaning": "strength of a party"
+        "meaning": {
+          "vi": "strength of a party"
+        },
+        "romaji": "tousei"
       },
       {
         "example": "勢",
         "reading": "ゼイ",
-        "meaning": "group (of people, players, companies, etc.), camp, team"
+        "meaning": {
+          "vi": "group (of people, players, companies, etc.), camp, team"
+        },
+        "romaji": "zei"
       },
       {
         "example": "同勢",
         "reading": "ドウゼイ",
-        "meaning": "party, company"
+        "meaning": {
+          "vi": "party, company"
+        },
+        "romaji": "douzei"
       },
       {
         "example": "猛勢",
         "reading": "モウセイ",
-        "meaning": "great strength, courageous army, valiant troops"
+        "meaning": {
+          "vi": "great strength, courageous army, valiant troops"
+        },
+        "romaji": "mousei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勢い",
         "reading": "いきおい",
-        "meaning": "force, vigor, vigour, energy, spirit, life, influence, authority, power, might, impetus, momentum, course (of events), naturally, necessarily"
+        "meaning": {
+          "vi": "force, vigor, vigour, energy, spirit, life, influence, authority, power, might, impetus, momentum, course (of events), naturally, necessarily"
+        },
+        "romaji": "ikioi"
       },
       {
         "example": "勢い余る",
         "reading": "いきおいあまる",
-        "meaning": "to have excess momentum (from going too fast, using too much force, etc.), to get carried away, to go overboard, to overdo (something)"
+        "meaning": {
+          "en": "to have excess momentum (from going too fast, using too much force, etc.), to get carried away, to go overboard, to overdo (something)"
+        },
+        "romaji": "ikioiamaru"
       },
       {
         "example": "弾み",
         "reading": "はずみ",
-        "meaning": "bounce, spring, rebound, momentum, impetus, impulse, stimulus, inertia, moment, instant, impulse, chance"
+        "meaning": {
+          "vi": "bounce, spring, rebound, momentum, impetus, impulse, stimulus, inertia, moment, instant, impulse, chance"
+        },
+        "romaji": "hazumi"
       },
       {
         "example": "弾車",
         "reading": "はずみぐるま",
-        "meaning": "flywheel"
+        "meaning": {
+          "en": "flywheel"
+        },
+        "romaji": "hazumiguruma"
       }
     ],
     "radical": {
@@ -376,5 +409,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52e2.gif",
     "uri": "https://jisho.org/search/%E5%8B%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "thế"
+  ]
 }

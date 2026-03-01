@@ -16,12 +16,18 @@
       {
         "example": "義捐",
         "reading": "ギエン",
-        "meaning": "alms, donation (esp. disaster relief or charity), contribution"
+        "meaning": {
+          "vi": "alms, donation (esp. disaster relief or charity), contribution"
+        },
+        "romaji": "gien"
       },
       {
         "example": "棄捐",
         "reading": "キエン",
-        "meaning": "donation, abandonment"
+        "meaning": {
+          "en": "donation, abandonment"
+        },
+        "romaji": "kien"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06350.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6350.gif",
     "uri": "https://jisho.org/search/%E6%8D%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyên"
+  ]
 }

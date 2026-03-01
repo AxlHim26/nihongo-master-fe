@@ -7,6 +7,7 @@ import Tooltip from "@mui/material/Tooltip";
 import Typography from "@mui/material/Typography";
 import { useEffect, useMemo, useRef, useState } from "react";
 
+import hanvietMapRaw from "@/features/kanji/data/hanviet-map.json";
 import {
   type KanjiSearchEntry,
   kanjiSearchOptions,
@@ -14,6 +15,8 @@ import {
 } from "@/features/kanji/data/kanji-search";
 import Handwriting from "@/features/kanji/lib/handwriting";
 import { cn } from "@/shared/utils/cn";
+
+const hanvietMap = hanvietMapRaw as Record<string, string>;
 
 const CANVAS_SIZE = 220;
 
@@ -103,12 +106,17 @@ export default function KanjiDrawInput({ onSelect }: KanjiDrawInputProps) {
                 key={suggestion}
                 type="button"
                 className={cn(
-                  "flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--app-border)] bg-white text-sm font-semibold text-slate-700 shadow-sm transition hover:-translate-y-[1px]",
+                  "flex h-[44px] w-[52px] flex-col items-center justify-center rounded-xl border border-[var(--app-border)] bg-white text-slate-700 shadow-sm transition hover:-translate-y-[1px]",
                   "dark:bg-[#161D2A] dark:text-[#E5E7EB]",
                 )}
                 onClick={() => handleSelectSuggestion(suggestion)}
               >
-                {suggestion}
+                <span className="text-base font-semibold leading-none">{suggestion}</span>
+                {hanvietMap[suggestion] && (
+                  <span className="mt-0.5 max-w-full truncate px-1 text-[9px] font-medium uppercase tracking-wider text-blue-600 dark:text-blue-400">
+                    {hanvietMap[suggestion]}
+                  </span>
+                )}
               </button>
             ))
           )}

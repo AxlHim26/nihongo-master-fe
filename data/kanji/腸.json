@@ -277,54 +277,84 @@
       {
         "example": "腸",
         "reading": "チョウ",
-        "meaning": "intestine, bowel"
+        "meaning": {
+          "en": "intestine, bowel"
+        },
+        "romaji": "chou"
       },
       {
         "example": "腸炎",
         "reading": "チョウエン",
-        "meaning": "enteritis"
+        "meaning": {
+          "en": "enteritis"
+        },
+        "romaji": "chouen"
       },
       {
         "example": "大腸",
         "reading": "ダイチョウ",
-        "meaning": "large intestine, large bowel, colon"
+        "meaning": {
+          "en": "large intestine, large bowel, colon"
+        },
+        "romaji": "daichou"
       },
       {
         "example": "胃腸",
         "reading": "イチョウ",
-        "meaning": "stomach and intestines, gastrointestinal tract, digestive organs"
+        "meaning": {
+          "en": "stomach and intestines, gastrointestinal tract, digestive organs"
+        },
+        "romaji": "ichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腸",
         "reading": "はらわた",
-        "meaning": "intestines, bowels, entrails, guts, placenta (of a pumpkin, melon, etc.), fibrous pulp, seed cavity, heart, spirit"
+        "meaning": {
+          "vi": "intestines, bowels, entrails, guts, placenta (of a pumpkin, melon, etc.), fibrous pulp, seed cavity, heart, spirit"
+        },
+        "romaji": "harawata"
       },
       {
         "example": "はらわたが煮えくり返る",
         "reading": "はらわたがにえくりかえる",
-        "meaning": "to be furious, to seethe with anger, to have one's blood boiling"
+        "meaning": {
+          "en": "to be furious, to seethe with anger, to have one's blood boiling"
+        },
+        "romaji": "harawataganiekurikaeru"
       },
       {
         "example": "腸",
         "reading": "わた",
-        "meaning": "entrails, guts"
+        "meaning": {
+          "en": "entrails, guts"
+        },
+        "romaji": "wata"
       },
       {
         "example": "腸香",
         "reading": "わたか",
-        "meaning": "Ischikauia steenackeri (species of cyprinid fish)"
+        "meaning": {
+          "vi": "Ischikauia steenackeri (species of cyprinid fish)"
+        },
+        "romaji": "wataka"
       },
       {
         "example": "大腸",
         "reading": "だいちょう",
-        "meaning": "large intestine, large bowel, colon"
+        "meaning": {
+          "en": "large intestine, large bowel, colon"
+        },
+        "romaji": "daichou"
       },
       {
         "example": "背わた",
         "reading": "せわた",
-        "meaning": "vein of a shrimp (prawn), digestive tract of a shrimp, sand vein"
+        "meaning": {
+          "vi": "vein of a shrimp (prawn), digestive tract of a shrimp, sand vein"
+        },
+        "romaji": "sewata"
       }
     ],
     "radical": {
@@ -344,5 +374,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08178.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8178.gif",
     "uri": "https://jisho.org/search/%E8%85%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tràng",
+    "trường"
+  ]
 }

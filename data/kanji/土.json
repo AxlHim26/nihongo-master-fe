@@ -311,64 +311,98 @@
       {
         "example": "土",
         "reading": "ド",
-        "meaning": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)"
+        "meaning": {
+          "en": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)"
+        },
+        "romaji": "do"
       },
       {
         "example": "土地",
         "reading": "トチ",
-        "meaning": "plot of land, lot, soil, locality, region, place"
+        "meaning": {
+          "vi": "plot of land, lot, soil, locality, region, place"
+        },
+        "romaji": "tochi"
       },
       {
         "example": "浄土",
         "reading": "ジョウド",
-        "meaning": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism"
+        "meaning": {
+          "vi": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism"
+        },
+        "romaji": "joudo"
       },
       {
         "example": "郷土",
         "reading": "キョウド",
-        "meaning": "native place, birth-place, one's old home, province, region, locality"
+        "meaning": {
+          "vi": "native place, birth-place, one's old home, province, region, locality"
+        },
+        "romaji": "kyoudo"
       },
       {
         "example": "【ト】",
         "reading": "Turkey",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Turkey"
       },
       {
         "example": "時計",
         "reading": "トケイ",
-        "meaning": "clock, watch, timepiece"
+        "meaning": {
+          "vi": "clock, watch, timepiece"
+        },
+        "romaji": "tokei"
       },
       {
         "example": "下土",
         "reading": "カド",
-        "meaning": "lower world, this world, the earth"
+        "meaning": {
+          "en": "lower world, this world, the earth"
+        },
+        "romaji": "kado"
       },
       {
         "example": "日ト",
         "reading": "ニット",
-        "meaning": "Japan and Turkey, Japanese-Turkish"
+        "meaning": {
+          "vi": "Japan and Turkey, Japanese-Turkish"
+        },
+        "romaji": "nitto"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "土",
         "reading": "つち",
-        "meaning": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+        "meaning": {
+          "vi": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+        },
+        "romaji": "tsuchi"
       },
       {
         "example": "土方",
         "reading": "どかた",
-        "meaning": "construction worker, laborer (labourer), navvy"
+        "meaning": {
+          "en": "construction worker, laborer (labourer), navvy"
+        },
+        "romaji": "dokata"
       },
       {
         "example": "盛り土",
         "reading": "もりど",
-        "meaning": "embankment (for road, railway, etc.), raising the ground level, fill"
+        "meaning": {
+          "en": "embankment (for road, railway, etc.), raising the ground level, fill"
+        },
+        "romaji": "morido"
       },
       {
         "example": "赤土",
         "reading": "あかつち",
-        "meaning": "red clay, red earth, laterite, dark-red paint"
+        "meaning": {
+          "vi": "red clay, red earth, laterite, dark-red paint"
+        },
+        "romaji": "akatsuchi"
       }
     ],
     "radical": {
@@ -382,5 +416,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0571f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/571f.gif",
     "uri": "https://jisho.org/search/%E5%9C%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thổ",
+    "đỗ",
+    "độ"
+  ]
 }

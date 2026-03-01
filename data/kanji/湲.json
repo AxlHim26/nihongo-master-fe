@@ -15,7 +15,10 @@
       {
         "example": "潺湲",
         "reading": "センカン",
-        "meaning": "gurgling, babbling, murmuring (stream, brook, etc.)"
+        "meaning": {
+          "en": "gurgling, babbling, murmuring (stream, brook, etc.)"
+        },
+        "romaji": "senkan"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e72.gif",
     "uri": "https://jisho.org/search/%E6%B9%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên"
+  ]
 }

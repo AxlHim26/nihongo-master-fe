@@ -14,12 +14,18 @@
       {
         "example": "哄笑",
         "reading": "コウショウ",
-        "meaning": "loud laughter (esp. by a group of people), roar of laughter, raucous laughter"
+        "meaning": {
+          "vi": "loud laughter (esp. by a group of people), roar of laughter, raucous laughter"
+        },
+        "romaji": "koushou"
       },
       {
         "example": "哄然",
         "reading": "コウゼン",
-        "meaning": "(laugh) broadly, (laugh) loudly"
+        "meaning": {
+          "en": "(laugh) broadly, (laugh) loudly"
+        },
+        "romaji": "kouzen"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c4.gif",
     "uri": "https://jisho.org/search/%E5%93%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "hống"
+  ]
 }

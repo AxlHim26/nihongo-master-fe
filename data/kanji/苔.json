@@ -17,34 +17,52 @@
       {
         "example": "苔状",
         "reading": "タイジョウ",
-        "meaning": "mossy"
+        "meaning": {
+          "en": "mossy"
+        },
+        "romaji": "taijou"
       },
       {
         "example": "苔癬",
         "reading": "タイセン",
-        "meaning": "lichen"
+        "meaning": {
+          "en": "lichen"
+        },
+        "romaji": "taisen"
       },
       {
         "example": "青苔",
         "reading": "セイタイ",
-        "meaning": "green moss"
+        "meaning": {
+          "en": "green moss"
+        },
+        "romaji": "seitai"
       },
       {
         "example": "掃苔",
         "reading": "ソウタイ",
-        "meaning": "visit to a family grave (esp. during the Bon festival), removal of moss from a tombstone"
+        "meaning": {
+          "vi": "visit to a family grave (esp. during the Bon festival), removal of moss from a tombstone"
+        },
+        "romaji": "soutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苔",
         "reading": "こけ",
-        "meaning": "moss, short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)"
+        "meaning": {
+          "vi": "moss, short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)"
+        },
+        "romaji": "koke"
       },
       {
         "example": "コケ植物",
         "reading": "コケしょくぶつ",
-        "meaning": "bryophyte (any of three groups of non-vascular land plants, incl. mosses, hornworts and liverworts)"
+        "meaning": {
+          "vi": "bryophyte (any of three groups of non-vascular land plants, incl. mosses, hornworts and liverworts)"
+        },
+        "romaji": "kokeshokubutsu"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d4.gif",
     "uri": "https://jisho.org/search/%E8%8B%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "đài"
+  ]
 }

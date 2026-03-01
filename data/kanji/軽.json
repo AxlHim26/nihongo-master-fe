@@ -372,59 +372,92 @@
       {
         "example": "軽",
         "reading": "ケイ",
-        "meaning": "light (e.g. aircraft, truck), light motor vehicle (up to 660cc and 64bhp), kei car"
+        "meaning": {
+          "vi": "light (e.g. aircraft, truck), light motor vehicle (up to 660cc and 64bhp), kei car"
+        },
+        "romaji": "kei"
       },
       {
         "example": "軽快",
         "reading": "ケイカイ",
-        "meaning": "light (of movements), nimble, sprightly, springy, light-hearted, cheerful, buoyant, jaunty, casual (e.g. clothing), rhythmical (e.g. melody), taking a turn for the better (of an illness), receding of symptoms, recovery, convalescence"
+        "meaning": {
+          "vi": "light (of movements), nimble, sprightly, springy, light-hearted, cheerful, buoyant, jaunty, casual (e.g. clothing), rhythmical (e.g. melody), taking a turn for the better (of an illness), receding of symptoms, recovery, convalescence"
+        },
+        "romaji": "keikai"
       },
       {
         "example": "軽々",
         "reading": "ケイケイ",
-        "meaning": "indiscreetly, thoughtlessly, carelessly, frivolously"
+        "meaning": {
+          "en": "indiscreetly, thoughtlessly, carelessly, frivolously"
+        },
+        "romaji": "keikei"
       },
       {
         "example": "酌量減軽",
         "reading": "シャクリョウゲンケイ",
-        "meaning": "reduction of punishment in the light of extenuating circumstances"
+        "meaning": {
+          "vi": "reduction of punishment in the light of extenuating circumstances"
+        },
+        "romaji": "shakuryougenkei"
       },
       {
         "example": "軽忽",
         "reading": "キョウコツ",
-        "meaning": "indiscreet, thoughtless, absurd, laughable, disdaining, belittling"
+        "meaning": {
+          "en": "indiscreet, thoughtless, absurd, laughable, disdaining, belittling"
+        },
+        "romaji": "kyoukotsu"
       },
       {
         "example": "常不軽",
         "reading": "ジョウフキョウ",
-        "meaning": "Sadaparibhuta (bodhisattva)"
+        "meaning": {
+          "vi": "Sadaparibhuta (bodhisattva)"
+        },
+        "romaji": "joufukyou"
       },
       {
         "example": "剽軽",
         "reading": "ヒョウキン",
-        "meaning": "facetious, droll, funny"
+        "meaning": {
+          "en": "facetious, droll, funny"
+        },
+        "romaji": "hyoukin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "軽い",
         "reading": "かるい",
-        "meaning": "light (i.e. not heavy), feeling light (i.e. offering little resistance, moving easily), light (i.e. of foot), effortless, nimble, agile, non-serious, minor, unimportant, trivial, slight, small, gentle, soft, easy, lighthearted (e.g. joke), easy, simple, indiscriminate"
+        "meaning": {
+          "vi": "light (i.e. not heavy), feeling light (i.e. offering little resistance, moving easily), light (i.e. of foot), effortless, nimble, agile, non-serious, minor, unimportant, trivial, slight, small, gentle, soft, easy, lighthearted (e.g. joke), easy, simple, indiscriminate"
+        },
+        "romaji": "karui"
       },
       {
         "example": "軽石",
         "reading": "かるいし",
-        "meaning": "pumice stone"
+        "meaning": {
+          "vi": "pumice stone"
+        },
+        "romaji": "karuishi"
       },
       {
         "example": "軽やか",
         "reading": "かろやか",
-        "meaning": "light, easy, non-serious, minor"
+        "meaning": {
+          "en": "light, easy, non-serious, minor"
+        },
+        "romaji": "karoyaka"
       },
       {
         "example": "軽んじる",
         "reading": "かろんじる",
-        "meaning": "to look down on, to make light of"
+        "meaning": {
+          "en": "to look down on, to make light of"
+        },
+        "romaji": "karonjiru"
       }
     ],
     "radical": {
@@ -440,5 +473,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08efd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8efd.gif",
     "uri": "https://jisho.org/search/%E8%BB%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí",
+    "khánh",
+    "khinh"
+  ]
 }

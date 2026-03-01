@@ -19,22 +19,34 @@
       {
         "example": "檜",
         "reading": "ひのき",
-        "meaning": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        "meaning": {
+          "vi": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        },
+        "romaji": "hinoki"
       },
       {
         "example": "桧笠",
         "reading": "ひのきがさ",
-        "meaning": "conical hat"
+        "meaning": {
+          "en": "conical hat"
+        },
+        "romaji": "hinokigasa"
       },
       {
         "example": "檜",
         "reading": "ひのき",
-        "meaning": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        "meaning": {
+          "vi": "hinoki cypress (Chamaecyparis obtusa), Japanese cypress"
+        },
+        "romaji": "hinoki"
       },
       {
         "example": "檜扇",
         "reading": "ひおうぎ",
-        "meaning": "formal folding fan made of hinoki cypress, blackberry lily (Belamcanda Chinensis), leopard lily, leopard flower"
+        "meaning": {
+          "vi": "formal folding fan made of hinoki cypress, blackberry lily (Belamcanda Chinensis), leopard lily, leopard flower"
+        },
+        "romaji": "hiougi"
       }
     ],
     "radical": {
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06867.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6867.gif",
     "uri": "https://jisho.org/search/%E6%A1%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "cối"
+  ]
 }

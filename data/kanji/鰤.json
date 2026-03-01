@@ -20,22 +20,30 @@
       {
         "example": "【ブリ】",
         "reading": "Japanese amberjack (species of yellowtail, Seriola quinqueradiata)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Japanese amberjack (species of yellowtail, Seriola quinqueradiata)"
       },
       {
         "example": "ブリ大根",
         "reading": "ブリだいこん",
-        "meaning": "yellowtail and daikon cooked with soy sauce"
+        "meaning": {
+          "en": "yellowtail and daikon cooked with soy sauce"
+        },
+        "romaji": "buridaikon"
       },
       {
         "example": "【アイブリ】",
         "reading": "black-banded trevally (Seriolina nigrofasciata), black-banded amberjack",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "black-banded trevally (Seriolina nigrofasciata), black-banded amberjack"
       },
       {
         "example": "錘鰤",
         "reading": "つむぶり",
-        "meaning": "rainbow runner (Elagatis bipinnulata), rainbow yellowtail, Spanish jack, Hawaiian salmon"
+        "meaning": {
+          "vi": "rainbow runner (Elagatis bipinnulata), rainbow yellowtail, Spanish jack, Hawaiian salmon"
+        },
+        "romaji": "tsumuburi"
       }
     ],
     "radical": {
@@ -55,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c24.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c24.gif",
     "uri": "https://jisho.org/search/%E9%B0%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "sư"
+  ]
 }

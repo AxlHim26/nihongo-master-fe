@@ -19,29 +19,44 @@
       {
         "example": "培養",
         "reading": "バイヨウ",
-        "meaning": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+        "meaning": {
+          "vi": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+        },
+        "romaji": "baiyou"
       },
       {
         "example": "培植",
         "reading": "バイショク",
-        "meaning": "cultivation (of plants), culturing"
+        "meaning": {
+          "vi": "cultivation (of plants), culturing"
+        },
+        "romaji": "baishoku"
       },
       {
         "example": "育成栽培",
         "reading": "イクセイサイバイ",
-        "meaning": "vegetable and fruit growing"
+        "meaning": {
+          "en": "vegetable and fruit growing"
+        },
+        "romaji": "ikuseisaibai"
       },
       {
         "example": "促成栽培",
         "reading": "ソクセイサイバイ",
-        "meaning": "forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)"
+        "meaning": {
+          "vi": "forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)"
+        },
+        "romaji": "sokuseisaibai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "培う",
         "reading": "つちかう",
-        "meaning": "to cultivate, to foster"
+        "meaning": {
+          "en": "to cultivate, to foster"
+        },
+        "romaji": "tsuchikau"
       }
     ],
     "radical": {
@@ -57,5 +72,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f9.gif",
     "uri": "https://jisho.org/search/%E5%9F%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "bẫu",
+    "bậu",
+    "bồi"
+  ]
 }

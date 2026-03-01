@@ -19,29 +19,44 @@
       {
         "example": "穏健",
         "reading": "オンケン",
-        "meaning": "moderate (view, politics, etc.), temperate, sensible, sober, non-radical"
+        "meaning": {
+          "vi": "moderate (view, politics, etc.), temperate, sensible, sober, non-radical"
+        },
+        "romaji": "onken"
       },
       {
         "example": "温和",
         "reading": "オンワ",
-        "meaning": "mild (climate), temperate, clement, pleasant, agreeable, gentle (nature, personality, etc.), mild, quiet, pleasant, moderate (statement, measure, etc.), mild, temperate"
+        "meaning": {
+          "vi": "mild (climate), temperate, clement, pleasant, agreeable, gentle (nature, personality, etc.), mild, quiet, pleasant, moderate (statement, measure, etc.), mild, temperate"
+        },
+        "romaji": "onwa"
       },
       {
         "example": "安穏",
         "reading": "アンノン",
-        "meaning": "peace, quiet, tranquility, tranquillity"
+        "meaning": {
+          "vi": "peace, quiet, tranquility, tranquillity"
+        },
+        "romaji": "annon"
       },
       {
         "example": "無事平穏",
         "reading": "ブジヘイオン",
-        "meaning": "peace and quiet, safe and peaceful, tranquil and uneventful"
+        "meaning": {
+          "vi": "peace and quiet, safe and peaceful, tranquil and uneventful"
+        },
+        "romaji": "bujiheion"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "穏やか",
         "reading": "おだやか",
-        "meaning": "calm, quiet, gentle, peaceful, mild, moderate, reasonable, amicable"
+        "meaning": {
+          "vi": "calm, quiet, gentle, peaceful, mild, moderate, reasonable, amicable"
+        },
+        "romaji": "odayaka"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a4f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a4f.gif",
     "uri": "https://jisho.org/search/%E7%A9%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "ổn"
+  ]
 }

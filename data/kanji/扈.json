@@ -16,17 +16,26 @@
       {
         "example": "扈従",
         "reading": "コショウ",
-        "meaning": "hầu cận (cấp trên), đi theo"
+        "meaning": {
+          "vi": "hầu cận (cấp trên), đi theo"
+        },
+        "romaji": "koshou"
       },
       {
         "example": "跋扈",
         "reading": "バッコ",
-        "meaning": "hoành hành, lan tràn, thống trị"
+        "meaning": {
+          "vi": "hoành hành, lan tràn, thống trị"
+        },
+        "romaji": "bakko"
       },
       {
         "example": "横行跋扈",
         "reading": "オウコウバッコ",
-        "meaning": "hoành hành, (kẻ xấu) tung hoành"
+        "meaning": {
+          "vi": "hoành hành, (kẻ xấu) tung hoành"
+        },
+        "romaji": "oukoubakko"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06248.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6248.gif",
     "uri": "https://jisho.org/search/%E6%89%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "hỗ"
+  ]
 }

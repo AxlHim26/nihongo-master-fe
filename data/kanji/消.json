@@ -368,34 +368,52 @@
       {
         "example": "消火",
         "reading": "ショウカ",
-        "meaning": "extinguishing a fire, fire fighting"
+        "meaning": {
+          "en": "extinguishing a fire, fire fighting"
+        },
+        "romaji": "shouka"
       },
       {
         "example": "消化",
         "reading": "ショウカ",
-        "meaning": "digestion (of food), digestion (of information), assimilation, thorough understanding, consumption, absorption, using up, meeting (e.g. a quota), completion, losing one's form and turning into something else"
+        "meaning": {
+          "vi": "digestion (of food), digestion (of information), assimilation, thorough understanding, consumption, absorption, using up, meeting (e.g. a quota), completion, losing one's form and turning into something else"
+        },
+        "romaji": "shouka"
       },
       {
         "example": "費消",
         "reading": "ヒショウ",
-        "meaning": "spending, consumption, misappropriation, embezzlement"
+        "meaning": {
+          "vi": "spending, consumption, misappropriation, embezzlement"
+        },
+        "romaji": "hishou"
       },
       {
         "example": "曖昧性解消",
         "reading": "アイマイセイカイショウ",
-        "meaning": "disambiguation"
+        "meaning": {
+          "en": "disambiguation"
+        },
+        "romaji": "aimaiseikaishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "消える",
         "reading": "きえる",
-        "meaning": "to disappear, to vanish, to go out of sight, to go away, to become lost, to go out (of a fire, light, etc.), to die, to turn off (e.g. of a TV screen), to fade (of a feeling, impression, etc.), to vanish (e.g. of hope), to go away (e.g. of a smell, itchiness, sleepiness), to disappear, to fade away (e.g. of footsteps), to wear away (e.g. of an inscription), to rub out (of writing), to fade (e.g. of ink), to be lost (e.g. of a tradition), to die out, to disappear"
+        "meaning": {
+          "vi": "to disappear, to vanish, to go out of sight, to go away, to become lost, to go out (of a fire, light, etc.), to die, to turn off (e.g. of a TV screen), to fade (of a feeling, impression, etc.), to vanish (e.g. of hope), to go away (e.g. of a smell, itchiness, sleepiness), to disappear, to fade away (e.g. of footsteps), to wear away (e.g. of an inscription), to rub out (of writing), to fade (e.g. of ink), to be lost (e.g. of a tradition), to die out, to disappear"
+        },
+        "romaji": "kieru"
       },
       {
         "example": "消す",
         "reading": "けす",
-        "meaning": "to erase, to rub out, to rub off, to cross out, to delete, to turn off (a light, TV, heater, etc.), to switch off, to extinguish (a fire, candle, etc.), to put out, to remove (a smell, pain, etc.), to eliminate, to get rid of, to relieve (pain, anxiety, etc.), to neutralize (poison), to drown out (a sound), to deaden, to absorb, to muffle, to kill, to murder, to bump off, to rub out"
+        "meaning": {
+          "vi": "to erase, to rub out, to rub off, to cross out, to delete, to turn off (a light, TV, heater, etc.), to switch off, to extinguish (a fire, candle, etc.), to put out, to remove (a smell, pain, etc.), to eliminate, to get rid of, to relieve (pain, anxiety, etc.), to neutralize (poison), to drown out (a sound), to deaden, to absorb, to muffle, to kill, to murder, to bump off, to rub out"
+        },
+        "romaji": "kesu"
       }
     ],
     "radical": {
@@ -415,5 +433,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d88.gif",
     "uri": "https://jisho.org/search/%E6%B6%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiêu"
+  ]
 }

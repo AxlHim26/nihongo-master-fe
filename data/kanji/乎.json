@@ -22,24 +22,48 @@
       {
         "example": "炳乎",
         "reading": "ヘイコ",
-        "meaning": "bright, shining, clear, evident"
+        "meaning": {
+          "en": "bright, shining, clear, evident"
+        },
+        "meaningVN": "sáng, rõ ràng, rõ ràng, hiển nhiên",
+        "hanViet": "bính hô",
+        "hanVietExplain": "炳 (bính: sáng chói) + 乎 (hô: (dùng trong câu hỏi)) → sáng, rõ ràng, rõ ràng, hiển nhiên",
+        "romaji": "heiko"
       },
       {
         "example": "杳乎",
         "reading": "ヨウコ",
-        "meaning": "deep and wide"
+        "meaning": {
+          "vi": "deep and wide"
+        },
+        "meaningVN": "sâu và rộng",
+        "hanViet": "diểu hô",
+        "hanVietExplain": "杳 (diểu: mờ mịt, lặng bặt) + 乎 (hô: (dùng trong câu hỏi)) → sâu và rộng",
+        "romaji": "youko"
       },
       {
         "example": "ヲコト点",
         "reading": "ヲコトテン",
-        "meaning": "diacritical marks used for interpreting classical Chinese"
+        "meaning": {
+          "vi": "diacritical marks used for interpreting classical Chinese"
+        },
+        "meaningVN": "dấu phụ dùng để giải thích tiếng trung cổ điển",
+        "hanViet": "ヲ コ ト điểm",
+        "hanVietExplain": "điểm: điểm, chấm, nốt, giờ",
+        "romaji": "wokototen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "ヲコト点",
         "reading": "ヲコトてん",
-        "meaning": "marks to aid in reading Chinese classics"
+        "meaning": {
+          "en": "marks to aid in reading Chinese classics"
+        },
+        "meaningVN": "dấu hiệu để hỗ trợ trong việc đọc kinh điển trung quốc",
+        "hanViet": "ヲ コ ト điểm",
+        "hanVietExplain": "điểm: điểm, chấm, nốt, giờ",
+        "romaji": "wokototen"
       }
     ],
     "radical": {
@@ -56,5 +80,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e4e.gif",
     "uri": "https://jisho.org/search/%E4%B9%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hô",
+    "hồ"
+  ],
+  "meaningVN": "dấu chấm hỏi, ?",
+  "hanVietExplain": "hô: (dùng trong câu hỏi)"
 }

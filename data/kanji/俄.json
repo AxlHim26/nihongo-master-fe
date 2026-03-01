@@ -16,19 +16,28 @@
       {
         "example": "俄然",
         "reading": "ガゼン",
-        "meaning": "bất ngờ, đột ngột, rất, hoàn toàn, hơn hẳn"
+        "meaning": {
+          "vi": "bất ngờ, đột ngột, rất, hoàn toàn, hơn hẳn"
+        },
+        "romaji": "gazen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "俄",
         "reading": "にわか",
-        "meaning": "đột ngột, bất ngờ, vội vàng, ứng biến, tiểu phẩm ứng biến, fan theo trào lưu"
+        "meaning": {
+          "vi": "đột ngột, bất ngờ, vội vàng, ứng biến, tiểu phẩm ứng biến, fan theo trào lưu"
+        },
+        "romaji": "niwaka"
       },
       {
         "example": "俄かに",
         "reading": "にわかに",
-        "meaning": "bất ngờ, đột ngột"
+        "meaning": {
+          "vi": "bất ngờ, đột ngột"
+        },
+        "romaji": "niwakani"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fc4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fc4.gif",
     "uri": "https://jisho.org/search/%E4%BF%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "nga"
+  ]
 }

@@ -391,84 +391,132 @@
       {
         "example": "外",
         "reading": "ガイ",
-        "meaning": "outside ..., beyond ..., not included in ..."
+        "meaning": {
+          "en": "outside ..., beyond ..., not included in ..."
+        },
+        "romaji": "gai"
       },
       {
         "example": "外圧",
         "reading": "ガイアツ",
-        "meaning": "external pressure, outside pressure, foreign pressure"
+        "meaning": {
+          "vi": "external pressure, outside pressure, foreign pressure"
+        },
+        "romaji": "gaiatsu"
       },
       {
         "example": "渉外",
         "reading": "ショウガイ",
-        "meaning": "public relations, client liaison, client relations"
+        "meaning": {
+          "vi": "public relations, client liaison, client relations"
+        },
+        "romaji": "shougai"
       },
       {
         "example": "在外",
         "reading": "ザイガイ",
-        "meaning": "overseas, abroad"
+        "meaning": {
+          "en": "overseas, abroad"
+        },
+        "romaji": "zaigai"
       },
       {
         "example": "外科",
         "reading": "ゲカ",
-        "meaning": "surgery (branch of medicine), department of surgery"
+        "meaning": {
+          "vi": "surgery (branch of medicine), department of surgery"
+        },
+        "romaji": "geka"
       },
       {
         "example": "外科医",
         "reading": "ゲカイ",
-        "meaning": "surgeon"
+        "meaning": {
+          "en": "surgeon"
+        },
+        "romaji": "gekai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "外",
         "reading": "そと",
-        "meaning": "outside, exterior, the open (air), other place, somewhere else, outside one's group (family, company, etc.)"
+        "meaning": {
+          "vi": "outside, exterior, the open (air), other place, somewhere else, outside one's group (family, company, etc.)"
+        },
+        "romaji": "soto"
       },
       {
         "example": "外壁",
         "reading": "がいへき",
-        "meaning": "outer wall"
+        "meaning": {
+          "en": "outer wall"
+        },
+        "romaji": "gaiheki"
       },
       {
         "example": "大外",
         "reading": "おおそと",
-        "meaning": "far out wide, far outside"
+        "meaning": {
+          "en": "far out wide, far outside"
+        },
+        "romaji": "oosoto"
       },
       {
         "example": "家の外",
         "reading": "いえのそと",
-        "meaning": "outside the house"
+        "meaning": {
+          "en": "outside the house"
+        },
+        "romaji": "ienosoto"
       },
       {
         "example": "他",
         "reading": "ほか",
-        "meaning": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of"
+        "meaning": {
+          "vi": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of"
+        },
+        "romaji": "hoka"
       },
       {
         "example": "他に",
         "reading": "ほかに",
-        "meaning": "else, in addition, besides"
+        "meaning": {
+          "en": "else, in addition, besides"
+        },
+        "romaji": "hokani"
       },
       {
         "example": "この外",
         "reading": "このほか",
-        "meaning": "besides, moreover, in addition"
+        "meaning": {
+          "en": "besides, moreover, in addition"
+        },
+        "romaji": "konohoka"
       },
       {
         "example": "思いのほか",
         "reading": "おもいのほか",
-        "meaning": "unexpectedly, surprisingly"
+        "meaning": {
+          "vi": "unexpectedly, surprisingly"
+        },
+        "romaji": "omoinohoka"
       },
       {
         "example": "外す",
         "reading": "はずす",
-        "meaning": "to remove, to take off, to detach, to unfasten, to undo, to drop (e.g. from a team), to remove (from a position), to exclude, to expel, to leave (e.g. one's seat), to go away from, to step out, to slip away, to dodge (a question, blow, etc.), to evade, to sidestep, to avoid (e.g. peak season), to miss (a target, chance, punch, etc.)"
+        "meaning": {
+          "vi": "to remove, to take off, to detach, to unfasten, to undo, to drop (e.g. from a team), to remove (from a position), to exclude, to expel, to leave (e.g. one's seat), to go away from, to step out, to slip away, to dodge (a question, blow, etc.), to evade, to sidestep, to avoid (e.g. peak season), to miss (a target, chance, punch, etc.)"
+        },
+        "romaji": "hazusu"
       },
       {
         "example": "外れる",
         "reading": "はずれる",
-        "meaning": "to be disconnected, to get out of place, to be off, to be out (e.g. of gear), to miss the mark, to get it wrong (e.g. guess, expectation), to draw a blank (e.g. lottery), to be removed, to be excluded, to be contrary to, to go against"
+        "meaning": {
+          "vi": "to be disconnected, to get out of place, to be off, to be out (e.g. of gear), to miss the mark, to get it wrong (e.g. guess, expectation), to draw a blank (e.g. lottery), to be removed, to be excluded, to be contrary to, to go against"
+        },
+        "romaji": "hazureru"
       }
     ],
     "radical": {
@@ -483,5 +531,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05916.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5916.gif",
     "uri": "https://jisho.org/search/%E5%A4%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngoại"
+  ]
 }

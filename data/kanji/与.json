@@ -13,97 +13,168 @@
       {
         "japanese": "与党（よとう）",
         "meaning": {
-          "english": "government party"
+          "vi": "đảng chính phủ",
+          "en": "government party"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_a.mp3"
+        },
+        "hanViet": [
+          "dư",
+          "đảng"
+        ],
+        "hanVietExplain": {
+          "vi": "与 (dư: cho) + 党 (đảng: bè, đảng) → đảng chính phủ",
+          "en": "与 (residual: give) + 党 (party: faction, party) → government party"
         }
       },
       {
         "japanese": "給与（きゅうよ）",
         "meaning": {
-          "english": "salary"
+          "vi": "lương",
+          "en": "salary"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_b.mp3"
+        },
+        "hanViet": [
+          "cấp",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "給 (cấp: đủ dùng) + 与 (dư: cho) → lương",
+          "en": "給 (grant: enough) + 与 (residual: give) → salary"
         }
       },
       {
         "japanese": "賞与（しょうよ）",
         "meaning": {
-          "english": "bonus pay"
+          "vi": "tiền thưởng",
+          "en": "bonus pay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_c.mp3"
+        },
+        "hanViet": [
+          "thưởng",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "賞 (thưởng: xem, ngắm) + 与 (dư: cho) → tiền thưởng",
+          "en": "賞 (reward: watch, watch) + 与 (residual: give) → bonus"
         }
       },
       {
         "japanese": "関与する（かんよする）",
         "meaning": {
-          "english": "participate in, take part in"
+          "vi": "tham gia vào, tham gia vào",
+          "en": "participate in, take part in"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_d.mp3"
+        },
+        "hanViet": [
+          "quan",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "関 (quan: cửa ải, cửa ô) + 与 (dư: cho) → tham gia vào, tham gia vào",
+          "en": "関 (quan: gate, gate) + 与 (residual: give) → participate in, participate in"
         }
       },
       {
         "japanese": "寄与する（きよする）",
         "meaning": {
-          "english": "contribute"
+          "vi": "đóng góp",
+          "en": "contribute"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_e.mp3"
+        },
+        "hanViet": [
+          "kí",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "寄 (kí: phó thác, gửi) + 与 (dư: cho) → đóng góp",
+          "en": "寄 (sign: entrust, send) + 与 (residual: give) → contribute"
         }
       },
       {
         "japanese": "贈与する（ぞうよする）",
         "meaning": {
-          "english": "donate"
+          "vi": "quyên tặng",
+          "en": "donate"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_f.mp3"
+        },
+        "hanViet": [
+          "tặng",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "贈 (tặng: tặng, biếu) + 与 (dư: cho) → quyên tặng",
+          "en": "贈 (donate: give, give) + 与 (residual: give) → donate"
         }
       },
       {
         "japanese": "授与する（じゅよする）",
         "meaning": {
-          "english": "award [v.t.]"
+          "vi": "giải thưởng [v.t.]",
+          "en": "award [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_g.mp3"
+        },
+        "hanViet": [
+          "thọ",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "授 (thọ: trao cho, truyền thụ, dạy) + 与 (dư: cho) → giải thưởng [v.t.]",
+          "en": "授 (tho: to give, to impart, to teach) + 与 (residual: to give) → award [v.t.]"
         }
       },
       {
         "japanese": "与える（あたえる）",
         "meaning": {
-          "english": "give"
+          "vi": "đưa cho",
+          "en": "give"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo-ata(eru)_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/yo-ata(eru)_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/yo-ata(eru)_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/yo-ata(eru)_06_h.mp3"
+        },
+        "hanViet": [
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "dư: cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng, và, với, chơi thân, cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng",
+          "en": "surplus: give, go around, be friendly, praise, applaud, and, with, be close to, give, go around, be friendly, praise, applaud"
         }
       }
     ],
@@ -278,39 +349,121 @@
       {
         "example": "与野党",
         "reading": "ヨヤトウ",
-        "meaning": "ruling and opposition parties, parties in and out of power"
+        "meaning": {
+          "vi": "các đảng cầm quyền và đối lập, các đảng trong và ngoài quyền lực",
+          "en": "ruling and opposition parties, parties in and out of power"
+        },
+        "hanViet": [
+          "dư",
+          "dã",
+          "đảng"
+        ],
+        "hanVietExplain": {
+          "vi": "与 (dư: cho) + 野 (dã: đồng nội) + 党 (đảng: bè, đảng) → các đảng cầm quyền và đối lập, các đảng trong và ngoài quyền lực",
+          "en": "与 (residual: give) + 野 (da: fellow domestic) + 党 (party: faction, party) → ruling and opposition parties, parties inside and outside of power"
+        },
+        "romaji": "yoyatou"
       },
       {
         "example": "与党",
         "reading": "ヨトウ",
-        "meaning": "ruling party, government party, party in power, government"
+        "meaning": {
+          "vi": "đảng cầm quyền, đảng cầm quyền, đảng cầm quyền, chính phủ",
+          "en": "ruling party, government party, party in power, government"
+        },
+        "hanViet": [
+          "dư",
+          "đảng"
+        ],
+        "hanVietExplain": {
+          "vi": "与 (dư: cho) + 党 (đảng: bè, đảng) → đảng cầm quyền, đảng cầm quyền, đảng cầm quyền, chính phủ",
+          "en": "与 (residual: give) + 党 (party: faction, party) → ruling party, ruling party, ruling party, government"
+        },
+        "romaji": "yotou"
       },
       {
         "example": "賞与",
         "reading": "ショウヨ",
-        "meaning": "bonus, reward, prize"
+        "meaning": {
+          "vi": "tiền thưởng, phần thưởng, phần thưởng",
+          "en": "bonus, reward, prize"
+        },
+        "hanViet": [
+          "thưởng",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "賞 (thưởng: xem, ngắm) + 与 (dư: cho) → tiền thưởng, phần thưởng, phần thưởng",
+          "en": "賞 (bonus: to watch, watch) + 与 (residual: to give) → bonus, reward, reward"
+        },
+        "romaji": "shouyo"
       },
       {
         "example": "贈与",
         "reading": "ゾウヨ",
-        "meaning": "donation, presentation"
+        "meaning": {
+          "vi": "sự quyên góp, sự trình bày",
+          "en": "donation, presentation"
+        },
+        "hanViet": [
+          "tặng",
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "贈 (tặng: tặng, biếu) + 与 (dư: cho) → sự quyên góp, sự trình bày",
+          "en": "贈 (donate: give, offer) + 与 (residual: give) → donation, presentation"
+        },
+        "romaji": "zouyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "与える",
         "reading": "あたえる",
-        "meaning": "to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award, to provide, to afford, to offer, to supply, to assign, to cause, to pass (a variable to a function)"
+        "meaning": {
+          "vi": "trao (đặc biệt cho người có địa vị thấp hơn), ban, cấp, trao, tặng, tặng, trao giải, cung cấp, đủ khả năng, cung cấp, cung cấp, phân công, gây ra, chuyển (một biến cho một chức năng)",
+          "en": "to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award, to provide, to afford, to offer, to supply, to assign, to cause, to pass (a variable to a function)"
+        },
+        "hanViet": [
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "dư: cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng, và, với, chơi thân, cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng",
+          "en": "surplus: give, go around, be friendly, praise, applaud, and, with, be close to, give, go around, be friendly, praise, applaud"
+        },
+        "romaji": "ataeru"
       },
       {
         "example": "与る",
         "reading": "あずかる",
-        "meaning": "to participate in, to take part in, to play a part in, to receive, to be given, to enjoy"
+        "meaning": {
+          "vi": "tham gia vào, tham gia vào, tham gia vào, nhận, được cho, tận hưởng",
+          "en": "to participate in, to take part in, to play a part in, to receive, to be given, to enjoy"
+        },
+        "hanViet": [
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "dư: cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng, và, với, chơi thân, cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng",
+          "en": "surplus: give, go around, be friendly, praise, applaud, and, with, be close to, give, go around, be friendly, praise, applaud"
+        },
+        "romaji": "azukaru"
       },
       {
         "example": "与する",
         "reading": "くみする",
-        "meaning": "to take part in, to be a party to, to side with, to support, to agree with"
+        "meaning": {
+          "vi": "tham gia, tham gia, sát cánh, ủng hộ, đồng ý với",
+          "en": "to take part in, to be a party to, to side with, to support, to agree with"
+        },
+        "hanViet": [
+          "dư"
+        ],
+        "hanVietExplain": {
+          "vi": "dư: cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng, và, với, chơi thân, cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng",
+          "en": "surplus: give, go around, be friendly, praise, applaud, and, with, be close to, give, go around, be friendly, praise, applaud"
+        },
+        "romaji": "kumisuru"
       }
     ],
     "radical": {
@@ -326,5 +479,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e0e.gif",
     "uri": "https://jisho.org/search/%E4%B8%8E%23kanji"
+  },
+  "hanViet": [
+    "dư",
+    "dữ",
+    "dự"
+  ],
+  "hanVietExplain": {
+    "vi": "dư: cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng, và, với, chơi thân, cho, đi lại chơi bời, thân thiện, khen ngợi, tán thưởng",
+    "en": "surplus: give, go around, be friendly, praise, applaud, and, with, be close to, give, go around, be friendly, praise, applaud"
+  },
+  "meaning": {
+    "vi": "cho, cấp",
+    "en": "give, grant"
   }
 }

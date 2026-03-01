@@ -17,12 +17,18 @@
       {
         "example": "劾奏",
         "reading": "ガイソウ",
-        "meaning": "report of an official's offence to the emperor (offense)"
+        "meaning": {
+          "vi": "report of an official's offence to the emperor (offense)"
+        },
+        "romaji": "gaisou"
       },
       {
         "example": "弾劾",
         "reading": "ダンガイ",
-        "meaning": "impeachment, denunciation, accusation, censure, arraignment"
+        "meaning": {
+          "vi": "impeachment, denunciation, accusation, censure, arraignment"
+        },
+        "romaji": "dangai"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052be.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52be.gif",
     "uri": "https://jisho.org/search/%E5%8A%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hặc"
+  ]
 }

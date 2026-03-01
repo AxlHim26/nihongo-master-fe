@@ -16,12 +16,18 @@
       {
         "example": "怒涛",
         "reading": "ドトウ",
-        "meaning": "surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"
+        "meaning": {
+          "vi": "surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"
+        },
+        "romaji": "dotou"
       },
       {
         "example": "風濤",
         "reading": "フウトウ",
-        "meaning": "wind and waves, waves stirred by the wind"
+        "meaning": {
+          "en": "wind and waves, waves stirred by the wind"
+        },
+        "romaji": "fuutou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d9b.gif",
     "uri": "https://jisho.org/search/%E6%B6%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "đào"
+  ]
 }

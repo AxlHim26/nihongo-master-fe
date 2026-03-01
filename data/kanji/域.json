@@ -272,22 +272,34 @@
       {
         "example": "域",
         "reading": "イキ",
-        "meaning": "region, limits, stage, level"
+        "meaning": {
+          "en": "region, limits, stage, level"
+        },
+        "romaji": "iki"
       },
       {
         "example": "域外",
         "reading": "イキガイ",
-        "meaning": "outside the area"
+        "meaning": {
+          "en": "outside the area"
+        },
+        "romaji": "ikigai"
       },
       {
         "example": "空域",
         "reading": "クウイキ",
-        "meaning": "airspace"
+        "meaning": {
+          "vi": "airspace"
+        },
+        "romaji": "kuuiki"
       },
       {
         "example": "聖域",
         "reading": "セイイキ",
-        "meaning": "sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion"
+        "meaning": {
+          "vi": "sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion"
+        },
+        "romaji": "seiiki"
       }
     ],
     "kunyomiExamples": [],
@@ -304,5 +316,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57df.gif",
     "uri": "https://jisho.org/search/%E5%9F%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "vực"
+  ]
 }

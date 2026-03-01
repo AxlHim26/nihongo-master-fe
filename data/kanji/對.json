@@ -22,12 +22,18 @@
       {
         "example": "対",
         "reading": "タイ",
-        "meaning": "versus, against, vs., v., to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180), toward ..., to ..., with ..., against ..., anti-, equal footing, equal terms, opposite"
+        "meaning": {
+          "vi": "versus, against, vs., v., to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180), toward ..., to ..., with ..., against ..., anti-, equal footing, equal terms, opposite"
+        },
+        "romaji": "tai"
       },
       {
         "example": "対して",
         "reading": "タイシテ",
-        "meaning": "for, in regard to, per"
+        "meaning": {
+          "vi": "for, in regard to, per"
+        },
+        "romaji": "taishite"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0d.gif",
     "uri": "https://jisho.org/search/%E5%B0%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "đối"
+  ]
 }

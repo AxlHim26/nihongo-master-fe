@@ -325,39 +325,60 @@
       {
         "example": "頼信紙",
         "reading": "ライシンシ",
-        "meaning": "telegram form, telegram blank"
+        "meaning": {
+          "en": "telegram form, telegram blank"
+        },
+        "romaji": "raishinshi"
       },
       {
         "example": "無頼",
         "reading": "ブライ",
-        "meaning": "villainous, rascally, knavish, independent, self-reliant"
+        "meaning": {
+          "vi": "villainous, rascally, knavish, independent, self-reliant"
+        },
+        "romaji": "burai"
       },
       {
         "example": "市井無頼",
         "reading": "シセイブライ",
-        "meaning": "urban villain, street hoodlum"
+        "meaning": {
+          "en": "urban villain, street hoodlum"
+        },
+        "romaji": "shiseiburai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頼む",
         "reading": "たのむ",
-        "meaning": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"
+        "meaning": {
+          "vi": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"
+        },
+        "romaji": "tanomu"
       },
       {
         "example": "頼むから",
         "reading": "たのむから",
-        "meaning": "please!, I'm asking you, for heaven's sake"
+        "meaning": {
+          "vi": "please!, I'm asking you, for heaven's sake"
+        },
+        "romaji": "tanomukara"
       },
       {
         "example": "頼もしい",
         "reading": "たのもしい",
-        "meaning": "reliable, dependable, trustworthy, reassuring, hopeful, promising"
+        "meaning": {
+          "vi": "reliable, dependable, trustworthy, reassuring, hopeful, promising"
+        },
+        "romaji": "tanomoshii"
       },
       {
         "example": "頼る",
         "reading": "たよる",
-        "meaning": "to rely on, to depend on, to count on, to turn to (for help)"
+        "meaning": {
+          "vi": "to rely on, to depend on, to count on, to turn to (for help)"
+        },
+        "romaji": "tayoru"
       }
     ],
     "radical": {
@@ -377,5 +398,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983c.gif",
     "uri": "https://jisho.org/search/%E9%A0%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lại"
+  ]
 }

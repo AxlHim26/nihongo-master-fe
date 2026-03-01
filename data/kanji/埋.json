@@ -286,44 +286,68 @@
       {
         "example": "埋蔵",
         "reading": "マイゾウ",
-        "meaning": "burying in the ground, having underground deposits"
+        "meaning": {
+          "vi": "burying in the ground, having underground deposits"
+        },
+        "romaji": "maizou"
       },
       {
         "example": "埋葬",
         "reading": "マイソウ",
-        "meaning": "burial"
+        "meaning": {
+          "en": "burial"
+        },
+        "romaji": "maisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "埋める",
         "reading": "うめる",
-        "meaning": "to bury (e.g. in the ground), to fill up (e.g. audience fills a hall), to cause to be packed, to plug (a gap), to stop (a gap), to bridge (a difference, a gap), to fill (a seat, a vacant position), to fill out (a form, a sheet), to make up for (a loss, shortage, etc.), to make amends, to compensate for, to put cold water (in a bath), to cover, to scatter something over"
+        "meaning": {
+          "vi": "to bury (e.g. in the ground), to fill up (e.g. audience fills a hall), to cause to be packed, to plug (a gap), to stop (a gap), to bridge (a difference, a gap), to fill (a seat, a vacant position), to fill out (a form, a sheet), to make up for (a loss, shortage, etc.), to make amends, to compensate for, to put cold water (in a bath), to cover, to scatter something over"
+        },
+        "romaji": "umeru"
       },
       {
         "example": "埋まる",
         "reading": "うまる",
-        "meaning": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule)"
+        "meaning": {
+          "vi": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule)"
+        },
+        "romaji": "umaru"
       },
       {
         "example": "埋もれる",
         "reading": "うもれる",
-        "meaning": "to be buried, to be covered, to be hidden"
+        "meaning": {
+          "en": "to be buried, to be covered, to be hidden"
+        },
+        "romaji": "umoreru"
       },
       {
         "example": "埋める",
         "reading": "うずめる",
-        "meaning": "to cover, to bury (e.g. one's face in hands), to submerge, to fill (completely), to stuff, to pack, to cram, to fill up"
+        "meaning": {
+          "vi": "to cover, to bury (e.g. one's face in hands), to submerge, to fill (completely), to stuff, to pack, to cram, to fill up"
+        },
+        "romaji": "uzumeru"
       },
       {
         "example": "埋まる",
         "reading": "うまる",
-        "meaning": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule)"
+        "meaning": {
+          "vi": "to be buried, to be covered, to be surrounded, to overflow, to be crowded, to be filled, to be repaid (e.g. debt), to be replenished, to be filled (e.g. blank, vacancy, schedule)"
+        },
+        "romaji": "umaru"
       },
       {
         "example": "埋ける",
         "reading": "いける",
-        "meaning": "to bury (in the ground), to cover (coals) with ash, to bank (a fire), to get (charcoal) going (in a hibachi)"
+        "meaning": {
+          "en": "to bury (in the ground), to cover (coals) with ash, to bank (a fire), to get (charcoal) going (in a hibachi)"
+        },
+        "romaji": "ikeru"
       }
     ],
     "radical": {
@@ -338,5 +362,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57cb.gif",
     "uri": "https://jisho.org/search/%E5%9F%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "mai",
+    "man"
+  ]
 }

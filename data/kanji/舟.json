@@ -242,44 +242,68 @@
       {
         "example": "舟艇",
         "reading": "シュウテイ",
-        "meaning": "boat, watercraft"
+        "meaning": {
+          "en": "boat, watercraft"
+        },
+        "romaji": "shuutei"
       },
       {
         "example": "舟橋",
         "reading": "フナバシ",
-        "meaning": "pontoon bridge"
+        "meaning": {
+          "vi": "pontoon bridge"
+        },
+        "romaji": "funabashi"
       },
       {
         "example": "軽舟",
         "reading": "ケイシュウ",
-        "meaning": "light boat, skiff"
+        "meaning": {
+          "en": "light boat, skiff"
+        },
+        "romaji": "keishuu"
       },
       {
         "example": "同舟",
         "reading": "ドウシュウ",
-        "meaning": "shipmates, fellow passengers"
+        "meaning": {
+          "vi": "shipmates, fellow passengers"
+        },
+        "romaji": "doushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "船",
         "reading": "ふね",
-        "meaning": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        "meaning": {
+          "vi": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        },
+        "romaji": "fune"
       },
       {
         "example": "船貝",
         "reading": "ふねがい",
-        "meaning": "Arca avellana (species of ark shell)"
+        "meaning": {
+          "vi": "Arca avellana (species of ark shell)"
+        },
+        "romaji": "funegai"
       },
       {
         "example": "釣り船",
         "reading": "つりぶね",
-        "meaning": "fishing boat, boat-shaped hanging flower vase"
+        "meaning": {
+          "vi": "fishing boat, boat-shaped hanging flower vase"
+        },
+        "romaji": "tsuribune"
       },
       {
         "example": "浮舟",
         "reading": "うきふね",
-        "meaning": "floating boat"
+        "meaning": {
+          "en": "floating boat"
+        },
+        "romaji": "ukifune"
       }
     ],
     "radical": {
@@ -293,5 +317,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0821f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/821f.gif",
     "uri": "https://jisho.org/search/%E8%88%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "chu",
+    "châu"
+  ]
 }

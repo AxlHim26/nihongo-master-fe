@@ -16,7 +16,10 @@
       {
         "example": "慫慂",
         "reading": "ショウヨウ",
-        "meaning": "advice, recommendation, suggestion, inducement, persuasion"
+        "meaning": {
+          "vi": "advice, recommendation, suggestion, inducement, persuasion"
+        },
+        "romaji": "shouyou"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0616b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/616b.gif",
     "uri": "https://jisho.org/search/%E6%85%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "túng",
+    "tủng"
+  ]
 }

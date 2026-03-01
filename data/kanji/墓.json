@@ -256,44 +256,68 @@
       {
         "example": "墓石",
         "reading": "ボセキ",
-        "meaning": "tombstone, gravestone"
+        "meaning": {
+          "en": "tombstone, gravestone"
+        },
+        "romaji": "boseki"
       },
       {
         "example": "墓参り",
         "reading": "ハカマイリ",
-        "meaning": "visit to a grave"
+        "meaning": {
+          "en": "visit to a grave"
+        },
+        "romaji": "hakamairi"
       },
       {
         "example": "陵墓",
         "reading": "リョウボ",
-        "meaning": "imperial tomb, imperial mausoleum"
+        "meaning": {
+          "vi": "imperial tomb, imperial mausoleum"
+        },
+        "romaji": "ryoubo"
       },
       {
         "example": "周堤墓",
         "reading": "シュウテイボ",
-        "meaning": "grave-site with circular embankment (Jomon period)"
+        "meaning": {
+          "vi": "grave-site with circular embankment (Jomon period)"
+        },
+        "romaji": "shuuteibo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "墓",
         "reading": "はか",
-        "meaning": "grave, gravesite, tomb"
+        "meaning": {
+          "en": "grave, gravesite, tomb"
+        },
+        "romaji": "haka"
       },
       {
         "example": "墓石",
         "reading": "ぼせき",
-        "meaning": "tombstone, gravestone"
+        "meaning": {
+          "en": "tombstone, gravestone"
+        },
+        "romaji": "boseki"
       },
       {
         "example": "無名戦士の墓",
         "reading": "むめいせんしのはか",
-        "meaning": "Tomb of the Unknown Soldier"
+        "meaning": {
+          "en": "Tomb of the Unknown Soldier"
+        },
+        "romaji": "mumeisenshinohaka"
       },
       {
         "example": "火垂るの墓",
         "reading": "ほたるのはか",
-        "meaning": "Grave of Fireflies (film)"
+        "meaning": {
+          "en": "Grave of Fireflies (film)"
+        },
+        "romaji": "hotarunohaka"
       }
     ],
     "radical": {
@@ -310,5 +334,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05893.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5893.gif",
     "uri": "https://jisho.org/search/%E5%A2%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộ"
+  ]
 }

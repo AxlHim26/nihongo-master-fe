@@ -360,89 +360,140 @@
       {
         "example": "向上",
         "reading": "コウジョウ",
-        "meaning": "elevation, rise, improvement, advancement, progress"
+        "meaning": {
+          "vi": "elevation, rise, improvement, advancement, progress"
+        },
+        "romaji": "koujou"
       },
       {
         "example": "向後",
         "reading": "コウゴ",
-        "meaning": "hereafter"
+        "meaning": {
+          "en": "hereafter"
+        },
+        "romaji": "kougo"
       },
       {
         "example": "趣向",
         "reading": "シュコウ",
-        "meaning": "plan, idea, design, plot, taste, liking, preference"
+        "meaning": {
+          "vi": "plan, idea, design, plot, taste, liking, preference"
+        },
+        "romaji": "shukou"
       },
       {
         "example": "性向",
         "reading": "セイコウ",
-        "meaning": "inclination, tendency, nature, character"
+        "meaning": {
+          "en": "inclination, tendency, nature, character"
+        },
+        "romaji": "seikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "向く",
         "reading": "むく",
-        "meaning": "to turn toward, to look (up, down, etc.), to face (e.g. east) (of a building, window, etc.), to look out on, to front (on), to point (of an arrow, compass needle, etc.), to be suited to, to be fit for, to go towards, to turn to (of one's interests, feelings, etc.), to be inclined (to do)"
+        "meaning": {
+          "vi": "to turn toward, to look (up, down, etc.), to face (e.g. east) (of a building, window, etc.), to look out on, to front (on), to point (of an arrow, compass needle, etc.), to be suited to, to be fit for, to go towards, to turn to (of one's interests, feelings, etc.), to be inclined (to do)"
+        },
+        "romaji": "muku"
       },
       {
         "example": "向いている",
         "reading": "むいている",
-        "meaning": "to be cut out for (e.g. a job), to be suited (to)"
+        "meaning": {
+          "en": "to be cut out for (e.g. a job), to be suited (to)"
+        },
+        "romaji": "muiteiru"
       },
       {
         "example": "向ける",
         "reading": "むける",
-        "meaning": "to turn (towards), to face, to point, to aim, to direct to, to head to, to go towards, to allot, to allocate, to send, to dispatch (e.g. a person), to aim for, to pursue"
+        "meaning": {
+          "vi": "to turn (towards), to face, to point, to aim, to direct to, to head to, to go towards, to allot, to allocate, to send, to dispatch (e.g. a person), to aim for, to pursue"
+        },
+        "romaji": "mukeru"
       },
       {
         "example": "向かう",
         "reading": "むかう",
-        "meaning": "to face, to go towards, to head towards"
+        "meaning": {
+          "en": "to face, to go towards, to head towards"
+        },
+        "romaji": "mukau"
       },
       {
         "example": "向かうところ敵無し",
         "reading": "むかうところてきなし",
-        "meaning": "unbeatable, invincible, irresistible"
+        "meaning": {
+          "en": "unbeatable, invincible, irresistible"
+        },
+        "romaji": "mukautokorotekinashi"
       },
       {
         "example": "向い",
         "reading": "むかい",
-        "meaning": "facing, opposite, across the street, other side"
+        "meaning": {
+          "vi": "facing, opposite, across the street, other side"
+        },
+        "romaji": "mukai"
       },
       {
         "example": "向かい合う",
         "reading": "むかいあう",
-        "meaning": "to face each other, to be opposite (to)"
+        "meaning": {
+          "vi": "to face each other, to be opposite (to)"
+        },
+        "romaji": "mukaiau"
       },
       {
         "example": "向こう",
         "reading": "むこう",
-        "meaning": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
+        "meaning": {
+          "vi": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
+        },
+        "romaji": "mukou"
       },
       {
         "example": "向こう側",
         "reading": "むこうがわ",
-        "meaning": "other side, opposite side, other party"
+        "meaning": {
+          "vi": "other side, opposite side, other party"
+        },
+        "romaji": "mukougawa"
       },
       {
         "example": "向こう",
         "reading": "むこう",
-        "meaning": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
+        "meaning": {
+          "vi": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
+        },
+        "romaji": "mukou"
       },
       {
         "example": "向こう側",
         "reading": "むこうがわ",
-        "meaning": "other side, opposite side, other party"
+        "meaning": {
+          "vi": "other side, opposite side, other party"
+        },
+        "romaji": "mukougawa"
       },
       {
         "example": "向い",
         "reading": "むかい",
-        "meaning": "facing, opposite, across the street, other side"
+        "meaning": {
+          "vi": "facing, opposite, across the street, other side"
+        },
+        "romaji": "mukai"
       },
       {
         "example": "向かい合う",
         "reading": "むかいあう",
-        "meaning": "to face each other, to be opposite (to)"
+        "meaning": {
+          "vi": "to face each other, to be opposite (to)"
+        },
+        "romaji": "mukaiau"
       }
     ],
     "radical": {
@@ -457,5 +508,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05411.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5411.gif",
     "uri": "https://jisho.org/search/%E5%90%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "hướng",
+    "hưởng"
+  ]
 }

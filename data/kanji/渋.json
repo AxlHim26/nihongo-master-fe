@@ -22,59 +22,92 @@
       {
         "example": "渋滞",
         "reading": "ジュウタイ",
-        "meaning": "tắc đường, ùn tắc, trì trệ"
+        "meaning": {
+          "vi": "tắc đường, ùn tắc, trì trệ"
+        },
+        "romaji": "juutai"
       },
       {
         "example": "渋面",
         "reading": "ジュウメン",
-        "meaning": "nhăn mặt, mặt khó chịu"
+        "meaning": {
+          "vi": "nhăn mặt, mặt khó chịu"
+        },
+        "romaji": "juumen"
       },
       {
         "example": "難渋",
         "reading": "ナンジュウ",
-        "meaning": "khổ sở, khó khăn, trở ngại"
+        "meaning": {
+          "vi": "khổ sở, khó khăn, trở ngại"
+        },
+        "romaji": "nanjuu"
       },
       {
         "example": "晦渋",
         "reading": "カイジュウ",
-        "meaning": "mơ hồ, khó hiểu"
+        "meaning": {
+          "vi": "mơ hồ, khó hiểu"
+        },
+        "romaji": "kaijuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渋",
         "reading": "しぶ",
-        "meaning": "nước hồng chát dùng nhuộm hoặc xử lý gỗ, giấy"
+        "meaning": {
+          "vi": "nước hồng chát dùng nhuộm hoặc xử lý gỗ, giấy"
+        },
+        "romaji": "shibu"
       },
       {
         "example": "渋い",
         "reading": "しぶい",
-        "meaning": "chát, đắng, khắc khổ, thanh nhã, buồn rầu, nhăn nhó, keo kiệt"
+        "meaning": {
+          "vi": "chát, đắng, khắc khổ, thanh nhã, buồn rầu, nhăn nhó, keo kiệt"
+        },
+        "romaji": "shibui"
       },
       {
         "example": "柿渋",
         "reading": "かきしぶ",
-        "meaning": "nước hồng chát dùng nhuộm hoặc xử lý gỗ, giấy"
+        "meaning": {
+          "vi": "nước hồng chát dùng nhuộm hoặc xử lý gỗ, giấy"
+        },
+        "romaji": "kakishibu"
       },
       {
         "example": "鉄渋",
         "reading": "かなしぶ",
-        "meaning": "rỉ sắt (trong nước)"
+        "meaning": {
+          "vi": "rỉ sắt (trong nước)"
+        },
+        "romaji": "kanashibu"
       },
       {
         "example": "渋い",
         "reading": "しぶい",
-        "meaning": "chát, đắng, khắc khổ, thanh nhã, buồn rầu, nhăn nhó, keo kiệt"
+        "meaning": {
+          "vi": "chát, đắng, khắc khổ, thanh nhã, buồn rầu, nhăn nhó, keo kiệt"
+        },
+        "romaji": "shibui"
       },
       {
         "example": "渋い顔をする",
         "reading": "しぶいかおをする",
-        "meaning": "nhăn mặt, cau có"
+        "meaning": {
+          "vi": "nhăn mặt, cau có"
+        },
+        "romaji": "shibuikaowosuru"
       },
       {
         "example": "渋る",
         "reading": "しぶる",
-        "meaning": "miễn cưỡng, do dự, chần chừ, trì hoãn"
+        "meaning": {
+          "vi": "miễn cưỡng, do dự, chần chừ, trì hoãn"
+        },
+        "romaji": "shiburu"
       }
     ],
     "radical": {
@@ -94,5 +127,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e0b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e0b.gif",
     "uri": "https://jisho.org/search/%E6%B8%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "sáp"
+  ]
 }

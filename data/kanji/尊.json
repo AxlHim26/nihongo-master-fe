@@ -299,54 +299,84 @@
       {
         "example": "尊",
         "reading": "ソン",
-        "meaning": "zun (ancient Chinese wine vessel, usu. made of bronze), honorific prefix referring to the listener, counter for buddhas"
+        "meaning": {
+          "vi": "zun (ancient Chinese wine vessel, usu. made of bronze), honorific prefix referring to the listener, counter for buddhas"
+        },
+        "romaji": "son"
       },
       {
         "example": "尊敬",
         "reading": "ソンケイ",
-        "meaning": "respect, esteem, reverence, honour, honor"
+        "meaning": {
+          "vi": "respect, esteem, reverence, honour, honor"
+        },
+        "romaji": "sonkei"
       },
       {
         "example": "自尊",
         "reading": "ジソン",
-        "meaning": "self-respect, esteem, self-importance, pride"
+        "meaning": {
+          "vi": "self-respect, esteem, self-importance, pride"
+        },
+        "romaji": "jison"
       },
       {
         "example": "至尊",
         "reading": "シソン",
-        "meaning": "extreme reverence, deeply revered person, the Emperor"
+        "meaning": {
+          "vi": "extreme reverence, deeply revered person, the Emperor"
+        },
+        "romaji": "shison"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": {
+          "vi": "precious, valuable, priceless, noble, exalted, sacred"
+        },
+        "romaji": "toutoi"
       },
       {
         "example": "尊い油",
         "reading": "たっといあぶら",
-        "meaning": "anointing oil"
+        "meaning": {
+          "en": "anointing oil"
+        },
+        "romaji": "tattoiabura"
       },
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": {
+          "vi": "precious, valuable, priceless, noble, exalted, sacred"
+        },
+        "romaji": "toutoi"
       },
       {
         "example": "尊い油",
         "reading": "たっといあぶら",
-        "meaning": "anointing oil"
+        "meaning": {
+          "en": "anointing oil"
+        },
+        "romaji": "tattoiabura"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": {
+          "vi": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        },
+        "romaji": "toutobu"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": {
+          "vi": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        },
+        "romaji": "toutobu"
       }
     ],
     "radical": {
@@ -362,5 +392,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0a.gif",
     "uri": "https://jisho.org/search/%E5%B0%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tôn"
+  ]
 }

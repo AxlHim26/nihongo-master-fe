@@ -217,17 +217,26 @@
       {
         "example": "隻",
         "reading": "セキ",
-        "meaning": "counter for ships, counter for half of a pair (e.g. half of a folding screen), counter for items carried in a bundle (e.g. fish, birds, arrows)"
+        "meaning": {
+          "vi": "counter for ships, counter for half of a pair (e.g. half of a folding screen), counter for items carried in a bundle (e.g. fish, birds, arrows)"
+        },
+        "romaji": "seki"
       },
       {
         "example": "隻影",
         "reading": "セキエイ",
-        "meaning": "a glimpse of an object's outlines"
+        "meaning": {
+          "vi": "a glimpse of an object's outlines"
+        },
+        "romaji": "sekiei"
       },
       {
         "example": "数隻",
         "reading": "スウセキ",
-        "meaning": "several (boats)"
+        "meaning": {
+          "en": "several (boats)"
+        },
+        "romaji": "suuseki"
       }
     ],
     "kunyomiExamples": [],
@@ -243,5 +252,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096bb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96bb.gif",
     "uri": "https://jisho.org/search/%E9%9A%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "chích"
+  ]
 }

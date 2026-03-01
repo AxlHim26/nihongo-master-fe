@@ -311,39 +311,60 @@
       {
         "example": "溶岩",
         "reading": "ヨウガン",
-        "meaning": "lava"
+        "meaning": {
+          "en": "lava"
+        },
+        "romaji": "yougan"
       },
       {
         "example": "溶液",
         "reading": "ヨウエキ",
-        "meaning": "solution (liquid)"
+        "meaning": {
+          "en": "solution (liquid)"
+        },
+        "romaji": "youeki"
       },
       {
         "example": "溶溶",
         "reading": "ヨウヨウ",
-        "meaning": "vast, overflowing with water, spacious"
+        "meaning": {
+          "vi": "vast, overflowing with water, spacious"
+        },
+        "romaji": "youyou"
       },
       {
         "example": "可溶",
         "reading": "カヨウ",
-        "meaning": "soluble, solubilizing, solubilising"
+        "meaning": {
+          "en": "soluble, solubilizing, solubilising"
+        },
+        "romaji": "kayou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "溶ける",
         "reading": "とける",
-        "meaning": "to melt, to thaw, to fuse, to dissolve"
+        "meaning": {
+          "en": "to melt, to thaw, to fuse, to dissolve"
+        },
+        "romaji": "tokeru"
       },
       {
         "example": "溶かす",
         "reading": "とかす",
-        "meaning": "to dissolve, to melt"
+        "meaning": {
+          "en": "to dissolve, to melt"
+        },
+        "romaji": "tokasu"
       },
       {
         "example": "溶く",
         "reading": "とく",
-        "meaning": "to dissolve (paint), to scramble (eggs), to melt (metal, etc.), to mix (water with flour, etc.)"
+        "meaning": {
+          "vi": "to dissolve (paint), to scramble (eggs), to melt (metal, etc.), to mix (water with flour, etc.)"
+        },
+        "romaji": "toku"
       }
     ],
     "radical": {
@@ -367,5 +388,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eb6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eb6.gif",
     "uri": "https://jisho.org/search/%E6%BA%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "dong",
+    "dung"
+  ]
 }

@@ -17,7 +17,13 @@
       {
         "example": "丿乀",
         "reading": "ヘツホツ",
-        "meaning": "lắc qua lắc lại (thuyền)"
+        "meaning": {
+          "vi": "lắc qua lắc lại (thuyền)"
+        },
+        "meaningVN": "lắc qua lắc lại (thuyền)",
+        "hanViet": "phiệt phất",
+        "hanVietExplain": "丿 (phiệt: nét phảy, nét phẩy) + 乀 (phất: nét mác) → lắc qua lắc lại (thuyền)",
+        "romaji": "hetsuhotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +38,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e3f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e3f.gif",
     "uri": "https://jisho.org/search/%E4%B8%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiệt",
+    "thiên",
+    "triệt"
+  ],
+  "meaningVN": "bộ thủ katakana no (số 4)",
+  "hanVietExplain": "phiệt: nét phảy, nét phẩy, bộ triệt"
 }

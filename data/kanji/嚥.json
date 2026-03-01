@@ -16,17 +16,26 @@
       {
         "example": "嚥下",
         "reading": "エンゲ",
-        "meaning": "nuốt, sự nuốt"
+        "meaning": {
+          "vi": "nuốt, sự nuốt"
+        },
+        "romaji": "enge"
       },
       {
         "example": "嚥下不能",
         "reading": "エンカフノウ",
-        "meaning": "mất khả năng nuốt"
+        "meaning": {
+          "vi": "mất khả năng nuốt"
+        },
+        "romaji": "enkafunou"
       },
       {
         "example": "誤嚥",
         "reading": "ゴエン",
-        "meaning": "hít vào (dị vật, thức ăn), hít sặc, nuốt nhầm ống"
+        "meaning": {
+          "vi": "hít vào (dị vật, thức ăn), hít sặc, nuốt nhầm ống"
+        },
+        "romaji": "goen"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56a5.gif",
     "uri": "https://jisho.org/search/%E5%9A%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "yên",
+    "yến",
+    "yết"
+  ]
 }

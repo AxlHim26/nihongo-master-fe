@@ -17,7 +17,10 @@
       {
         "example": "百",
         "reading": "ヒャク",
-        "meaning": "hundred, 100"
+        "meaning": {
+          "en": "hundred, 100"
+        },
+        "romaji": "hyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0964c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/964c.gif",
     "uri": "https://jisho.org/search/%E9%99%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạch"
+  ]
 }

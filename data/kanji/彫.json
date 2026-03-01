@@ -20,24 +20,36 @@
       {
         "example": "彫刻",
         "reading": "チョウコク",
-        "meaning": "carving, engraving, sculpture"
+        "meaning": {
+          "vi": "carving, engraving, sculpture"
+        },
+        "romaji": "choukoku"
       },
       {
         "example": "彫金",
         "reading": "チョウキン",
-        "meaning": "chasing, metal carving, metal engraving"
+        "meaning": {
+          "en": "chasing, metal carving, metal engraving"
+        },
+        "romaji": "choukin"
       },
       {
         "example": "木彫",
         "reading": "モクチョウ",
-        "meaning": "wood carving, wooden sculpture, woodcraft"
+        "meaning": {
+          "vi": "wood carving, wooden sculpture, woodcraft"
+        },
+        "romaji": "mokuchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "彫る",
         "reading": "ほる",
-        "meaning": "to carve, to engrave, to sculpt, to chisel, to tattoo"
+        "meaning": {
+          "vi": "to carve, to engrave, to sculpt, to chisel, to tattoo"
+        },
+        "romaji": "horu"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6b.gif",
     "uri": "https://jisho.org/search/%E5%BD%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "điêu"
+  ]
 }

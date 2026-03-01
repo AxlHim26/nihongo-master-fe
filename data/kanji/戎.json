@@ -17,39 +17,60 @@
       {
         "example": "戎葵",
         "reading": "ジュウキ",
-        "meaning": "hollyhock"
+        "meaning": {
+          "en": "hollyhock"
+        },
+        "romaji": "juuki"
       },
       {
         "example": "戎器",
         "reading": "ジュウキ",
-        "meaning": "weapons of war, arms"
+        "meaning": {
+          "vi": "weapons of war, arms"
+        },
+        "romaji": "juuki"
       },
       {
         "example": "西戎",
         "reading": "セイジュウ",
-        "meaning": "Xirong, Rong, inhabitants of the extremities of China as early as the Shang dynasty (1765-1122 BCE), barbarians to the west"
+        "meaning": {
+          "en": "Xirong, Rong, inhabitants of the extremities of China as early as the Shang dynasty (1765-1122 BCE), barbarians to the west"
+        },
+        "romaji": "seijuu"
       },
       {
         "example": "東夷西戎",
         "reading": "トウイセイジュウ",
-        "meaning": "barbarians to the east and to the west (from the perspective of old China)"
+        "meaning": {
+          "vi": "barbarians to the east and to the west (from the perspective of old China)"
+        },
+        "romaji": "touiseijuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恵比寿",
         "reading": "えびす",
-        "meaning": "Ebisu, god of fishing and commerce"
+        "meaning": {
+          "en": "Ebisu, god of fishing and commerce"
+        },
+        "romaji": "ebisu"
       },
       {
         "example": "夷",
         "reading": "えびす",
-        "meaning": "peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu), provincial (i.e. a person who lives far from the city), brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan), foreigner, barbarian"
+        "meaning": {
+          "vi": "peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu), provincial (i.e. a person who lives far from the city), brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan), foreigner, barbarian"
+        },
+        "romaji": "ebisu"
       },
       {
         "example": "十日戎",
         "reading": "とおかえびす",
-        "meaning": "Tōka Ebisu, festival held on January 10 in honor of Ebisu, the god of fishing and commerce"
+        "meaning": {
+          "en": "Tōka Ebisu, festival held on January 10 in honor of Ebisu, the god of fishing and commerce"
+        },
+        "romaji": "tookaebisu"
       }
     ],
     "radical": {
@@ -63,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620e.gif",
     "uri": "https://jisho.org/search/%E6%88%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhung"
+  ]
 }

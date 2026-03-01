@@ -249,29 +249,44 @@
       {
         "example": "耕作",
         "reading": "コウサク",
-        "meaning": "cultivation, farming"
+        "meaning": {
+          "en": "cultivation, farming"
+        },
+        "romaji": "kousaku"
       },
       {
         "example": "耕地",
         "reading": "コウチ",
-        "meaning": "arable land, plantation, farmland, fazenda, hacienda, large estate"
+        "meaning": {
+          "vi": "arable land, plantation, farmland, fazenda, hacienda, large estate"
+        },
+        "romaji": "kouchi"
       },
       {
         "example": "農耕",
         "reading": "ノウコウ",
-        "meaning": "farming, agriculture, cultivation"
+        "meaning": {
+          "en": "farming, agriculture, cultivation"
+        },
+        "romaji": "noukou"
       },
       {
         "example": "水耕",
         "reading": "スイコウ",
-        "meaning": "hydroponics"
+        "meaning": {
+          "vi": "hydroponics"
+        },
+        "romaji": "suikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "耕す",
         "reading": "たがやす",
-        "meaning": "to till, to plow, to plough, to cultivate"
+        "meaning": {
+          "vi": "to till, to plow, to plough, to cultivate"
+        },
+        "romaji": "tagayasu"
       }
     ],
     "radical": {
@@ -292,5 +307,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08015.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8015.gif",
     "uri": "https://jisho.org/search/%E8%80%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "canh"
+  ]
 }

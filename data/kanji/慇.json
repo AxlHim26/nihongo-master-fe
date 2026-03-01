@@ -14,12 +14,18 @@
       {
         "example": "慇懃",
         "reading": "インギン",
-        "meaning": "polite, courteous, civil, friendship, (sexual) intimacy"
+        "meaning": {
+          "vi": "polite, courteous, civil, friendship, (sexual) intimacy"
+        },
+        "romaji": "ingin"
       },
       {
         "example": "慇懃丁重",
         "reading": "インギンテイチョウ",
-        "meaning": "polite and courteous"
+        "meaning": {
+          "vi": "polite and courteous"
+        },
+        "romaji": "inginteichou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06147.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6147.gif",
     "uri": "https://jisho.org/search/%E6%85%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "ân"
+  ]
 }

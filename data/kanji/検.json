@@ -337,22 +337,34 @@
       {
         "example": "検閲",
         "reading": "ケンエツ",
-        "meaning": "censorship, inspection, examination"
+        "meaning": {
+          "vi": "censorship, inspection, examination"
+        },
+        "romaji": "ken'etsu"
       },
       {
         "example": "検疫",
         "reading": "ケンエキ",
-        "meaning": "quarantine, medical inspection"
+        "meaning": {
+          "vi": "quarantine, medical inspection"
+        },
+        "romaji": "ken'eki"
       },
       {
         "example": "送検",
         "reading": "ソウケン",
-        "meaning": "committing a suspect to trial, referring a case to a public prosecutor"
+        "meaning": {
+          "vi": "committing a suspect to trial, referring a case to a public prosecutor"
+        },
+        "romaji": "souken"
       },
       {
         "example": "最高検",
         "reading": "サイコウケン",
-        "meaning": "Public Prosecutor's Office"
+        "meaning": {
+          "vi": "Public Prosecutor's Office"
+        },
+        "romaji": "saikouken"
       }
     ],
     "kunyomiExamples": [],
@@ -370,5 +382,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0691c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/691c.gif",
     "uri": "https://jisho.org/search/%E6%A4%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiểm"
+  ]
 }

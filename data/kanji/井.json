@@ -20,44 +20,92 @@
       {
         "example": "井",
         "reading": "セイ",
-        "meaning": "thành giếng, chòm sao Giếng (một trong 28 tú)"
+        "meaning": {
+          "vi": "thành giếng, chòm sao Giếng (một trong 28 tú)"
+        },
+        "meaningVN": "thành giếng, chòm sao giếng (một trong 28 tú)",
+        "hanViet": "tĩnh",
+        "hanVietExplain": "tĩnh: cái giếng, sao Tỉnh (một trong Nhị thập bát tú), cái giếng, sao Tỉnh (một trong Nhị thập bát tú)",
+        "romaji": "sei"
       },
       {
         "example": "整然",
         "reading": "セイゼン",
-        "meaning": "có trật tự, đều đặn, có hệ thống, gọn gàng, chính xác"
+        "meaning": {
+          "vi": "có trật tự, đều đặn, có hệ thống, gọn gàng, chính xác"
+        },
+        "meaningVN": "có trật tự, đều đặn, có hệ thống, gọn gàng, chính xác",
+        "hanViet": "chỉnh nhiên",
+        "hanVietExplain": "整 (chỉnh: đều, ngay ngắn) + 然 (nhiên: đúng) → có trật tự, đều đặn, có hệ thống, gọn gàng, chính xác",
+        "romaji": "seizen"
       },
       {
         "example": "市井",
         "reading": "シセイ",
-        "meaning": "đường phố, thị trấn"
+        "meaning": {
+          "vi": "đường phố, thị trấn"
+        },
+        "meaningVN": "đường phố, thị trấn",
+        "hanViet": "thị tĩnh",
+        "hanVietExplain": "市 (thị: thị xã) + 井 (tĩnh: cái giếng) → đường phố, thị trấn",
+        "romaji": "shisei"
       },
       {
         "example": "整々",
         "reading": "セイセイ",
-        "meaning": "có trật tự, gọn gàng"
+        "meaning": {
+          "vi": "có trật tự, gọn gàng"
+        },
+        "meaningVN": "có trật tự, gọn gàng",
+        "hanViet": "chỉnh 々",
+        "hanVietExplain": "chỉnh: đều, ngay ngắn, còn nguyên vẹn, sửa sang, chỉnh đốn",
+        "romaji": "seisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "井",
         "reading": "い",
-        "meaning": "giếng"
+        "meaning": {
+          "vi": "giếng"
+        },
+        "meaningVN": "giếng",
+        "hanViet": "tĩnh",
+        "hanVietExplain": "tĩnh: cái giếng, sao Tỉnh (một trong Nhị thập bát tú), cái giếng, sao Tỉnh (một trong Nhị thập bát tú)",
+        "romaji": "i"
       },
       {
         "example": "堰",
         "reading": "せき",
-        "meaning": "đập, đập nước, rào chắn, cống"
+        "meaning": {
+          "vi": "đập, đập nước, rào chắn, cống"
+        },
+        "meaningVN": "đập, đập nước, rào chắn, cống",
+        "hanViet": "yển",
+        "hanVietExplain": "yển: đập đất",
+        "romaji": "seki"
       },
       {
         "example": "筒井",
         "reading": "つつい",
-        "meaning": "giếng tròn"
+        "meaning": {
+          "vi": "giếng tròn"
+        },
+        "meaningVN": "giếng tròn",
+        "hanViet": "đồng tĩnh",
+        "hanVietExplain": "筒 (đồng: ống tre) + 井 (tĩnh: cái giếng) → giếng tròn",
+        "romaji": "tsutsui"
       },
       {
         "example": "市井",
         "reading": "しせい",
-        "meaning": "đường phố, thị trấn"
+        "meaning": {
+          "vi": "đường phố, thị trấn"
+        },
+        "meaningVN": "đường phố, thị trấn",
+        "hanViet": "thị tĩnh",
+        "hanVietExplain": "市 (thị: thị xã) + 井 (tĩnh: cái giếng) → đường phố, thị trấn",
+        "romaji": "shisei"
       }
     ],
     "radical": {
@@ -75,5 +123,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e95.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e95.gif",
     "uri": "https://jisho.org/search/%E4%BA%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "tĩnh",
+    "tỉnh",
+    "đán"
+  ],
+  "meaningVN": "giếng, thành giếng, thị trấn, cộng đồng",
+  "hanVietExplain": "tĩnh: cái giếng, sao Tỉnh (một trong Nhị thập bát tú), cái giếng, sao Tỉnh (một trong Nhị thập bát tú)"
 }

@@ -18,24 +18,36 @@
       {
         "example": "幸臣",
         "reading": "コウシン",
-        "meaning": "cận thần được sủng ái"
+        "meaning": {
+          "vi": "cận thần được sủng ái"
+        },
+        "romaji": "koushin"
       },
       {
         "example": "僥倖",
         "reading": "ギョウコウ",
-        "meaning": "may mắn, của trời cho, phúc lành"
+        "meaning": {
+          "vi": "may mắn, của trời cho, phúc lành"
+        },
+        "romaji": "gyoukou"
       },
       {
         "example": "射幸",
         "reading": "シャコウ",
-        "meaning": "đầu cơ"
+        "meaning": {
+          "vi": "đầu cơ"
+        },
+        "romaji": "shakou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幸せ",
         "reading": "しあわせ",
-        "meaning": "hạnh phúc, may mắn, phúc lành"
+        "meaning": {
+          "vi": "hạnh phúc, may mắn, phúc lành"
+        },
+        "romaji": "shiawase"
       }
     ],
     "radical": {
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05016.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5016.gif",
     "uri": "https://jisho.org/search/%E5%80%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "hãnh"
+  ]
 }

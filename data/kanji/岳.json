@@ -19,34 +19,52 @@
       {
         "example": "岳人",
         "reading": "ガクジン",
-        "meaning": "alpinist, mountaineer"
+        "meaning": {
+          "vi": "alpinist, mountaineer"
+        },
+        "romaji": "gakujin"
       },
       {
         "example": "岳神",
         "reading": "ガクジン",
-        "meaning": "mountain god"
+        "meaning": {
+          "en": "mountain god"
+        },
+        "romaji": "gakujin"
       },
       {
         "example": "富嶽",
         "reading": "フガク",
-        "meaning": "Mount Fuji"
+        "meaning": {
+          "en": "Mount Fuji"
+        },
+        "romaji": "fugaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "岳",
         "reading": "たけ",
-        "meaning": "(high) mountain, Mount, Mt., mountain peak"
+        "meaning": {
+          "vi": "(high) mountain, Mount, Mt., mountain peak"
+        },
+        "romaji": "take"
       },
       {
         "example": "岳烏",
         "reading": "だけがらす",
-        "meaning": "spotted nutcracker (Nucifraga caryocatactes)"
+        "meaning": {
+          "vi": "spotted nutcracker (Nucifraga caryocatactes)"
+        },
+        "romaji": "dakegarasu"
       },
       {
         "example": "御嶽",
         "reading": "みたけ",
-        "meaning": "large, high mountain"
+        "meaning": {
+          "en": "large, high mountain"
+        },
+        "romaji": "mitake"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cb3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cb3.gif",
     "uri": "https://jisho.org/search/%E5%B2%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhạc"
+  ]
 }

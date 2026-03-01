@@ -16,12 +16,18 @@
       {
         "example": "粗鬆",
         "reading": "ソソウ",
-        "meaning": "rough, crude, unrefined"
+        "meaning": {
+          "en": "rough, crude, unrefined"
+        },
+        "romaji": "sosou"
       },
       {
         "example": "粗鬆",
         "reading": "ソソウ",
-        "meaning": "rough, crude, unrefined"
+        "meaning": {
+          "en": "rough, crude, unrefined"
+        },
+        "romaji": "sosou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b06.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b06.gif",
     "uri": "https://jisho.org/search/%E9%AC%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "tung",
+    "tông",
+    "tùng"
+  ]
 }

@@ -16,7 +16,10 @@
       {
         "example": "朕",
         "reading": "チン",
-        "meaning": "We"
+        "meaning": {
+          "en": "We"
+        },
+        "romaji": "chin"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06715.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6715.gif",
     "uri": "https://jisho.org/search/%E6%9C%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "trẫm"
+  ]
 }

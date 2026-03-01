@@ -19,17 +19,26 @@
       {
         "example": "葺く",
         "reading": "ふく",
-        "meaning": "to roof (a house with some material), to thatch, to shingle, to tile"
+        "meaning": {
+          "en": "to roof (a house with some material), to thatch, to shingle, to tile"
+        },
+        "romaji": "fuku"
       },
       {
         "example": "葺石",
         "reading": "ふきいし",
-        "meaning": "round boulders covering the slopes of a burial mound (Kofun period)"
+        "meaning": {
+          "vi": "round boulders covering the slopes of a burial mound (Kofun period)"
+        },
+        "romaji": "fukiishi"
       },
       {
         "example": "葺き板",
         "reading": "ふきいた",
-        "meaning": "shingles"
+        "meaning": {
+          "en": "shingles"
+        },
+        "romaji": "fukiita"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0847a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/847a.gif",
     "uri": "https://jisho.org/search/%E8%91%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tập"
+  ]
 }

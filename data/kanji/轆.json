@@ -16,12 +16,18 @@
       {
         "example": "轆轤",
         "reading": "ロクロ",
-        "meaning": "potter's wheel, lathe, pulley, windlass"
+        "meaning": {
+          "vi": "potter's wheel, lathe, pulley, windlass"
+        },
+        "romaji": "rokuro"
       },
       {
         "example": "ろくろ首",
         "reading": "ロクロクビ",
-        "meaning": "rokurokubi, long-neck woman, monstrous person (often a woman) with a neck that can expand and contract (in Japanese folklore)"
+        "meaning": {
+          "vi": "rokurokubi, long-neck woman, monstrous person (often a woman) with a neck that can expand and contract (in Japanese folklore)"
+        },
+        "romaji": "rokurokubi"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f46.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f46.gif",
     "uri": "https://jisho.org/search/%E8%BD%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "lộc"
+  ]
 }

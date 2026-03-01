@@ -18,34 +18,52 @@
       {
         "example": "拱手",
         "reading": "キョウシュ",
-        "meaning": "doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"
+        "meaning": {
+          "vi": "doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"
+        },
+        "romaji": "kyoushu"
       },
       {
         "example": "拱手傍観",
         "reading": "キョウシュボウカン",
-        "meaning": "stand idly by and watch"
+        "meaning": {
+          "en": "stand idly by and watch"
+        },
+        "romaji": "kyoushuboukan"
       },
       {
         "example": "拱手",
         "reading": "コウシュ",
-        "meaning": "folding one's arms"
+        "meaning": {
+          "en": "folding one's arms"
+        },
+        "romaji": "koushu"
       },
       {
         "example": "拱手",
         "reading": "キョウシュ",
-        "meaning": "doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"
+        "meaning": {
+          "vi": "doing nothing (to help), watching with one's arms folded, bowing with one's hands locked together in front of one's chest (form of Chinese salute)"
+        },
+        "romaji": "kyoushu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拱く",
         "reading": "こまねく",
-        "meaning": "to fold (one's) arms, to stand by and do nothing, to look on passively"
+        "meaning": {
+          "vi": "to fold (one's) arms, to stand by and do nothing, to look on passively"
+        },
+        "romaji": "komaneku"
       },
       {
         "example": "拱く",
         "reading": "こまねく",
-        "meaning": "to fold (one's) arms, to stand by and do nothing, to look on passively"
+        "meaning": {
+          "vi": "to fold (one's) arms, to stand by and do nothing, to look on passively"
+        },
+        "romaji": "komaneku"
       }
     ],
     "radical": {
@@ -66,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f1.gif",
     "uri": "https://jisho.org/search/%E6%8B%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "củng"
+  ]
 }

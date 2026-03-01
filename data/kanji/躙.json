@@ -17,19 +17,28 @@
       {
         "example": "蹂躙",
         "reading": "ジュウリン",
-        "meaning": "trampling down, overrunning, infringement, violation"
+        "meaning": {
+          "vi": "trampling down, overrunning, infringement, violation"
+        },
+        "romaji": "juurin"
       },
       {
         "example": "人道蹂躙",
         "reading": "ジンドウジュウリン",
-        "meaning": "outrage against humanity"
+        "meaning": {
+          "en": "outrage against humanity"
+        },
+        "romaji": "jindoujuurin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "躙る",
         "reading": "にじる",
-        "meaning": "to shuffle one's feet, to trample underfoot"
+        "meaning": {
+          "vi": "to shuffle one's feet, to trample underfoot"
+        },
+        "romaji": "nijiru"
       }
     ],
     "radical": {
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e99.gif",
     "uri": "https://jisho.org/search/%E8%BA%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "lận"
+  ]
 }

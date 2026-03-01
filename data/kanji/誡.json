@@ -16,24 +16,36 @@
       {
         "example": "戒告",
         "reading": "カイコク",
-        "meaning": "admonition, warning, caution"
+        "meaning": {
+          "en": "admonition, warning, caution"
+        },
+        "romaji": "kaikoku"
       },
       {
         "example": "訓戒",
         "reading": "クンカイ",
-        "meaning": "warning, admonition, lesson or a phrase that teaches you not to do something"
+        "meaning": {
+          "vi": "warning, admonition, lesson or a phrase that teaches you not to do something"
+        },
+        "romaji": "kunkai"
       },
       {
         "example": "遺戒",
         "reading": "イカイ",
-        "meaning": "one's last caution"
+        "meaning": {
+          "en": "one's last caution"
+        },
+        "romaji": "ikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戒める",
         "reading": "いましめる",
-        "meaning": "to warn against, to caution against, to admonish, to scold, to rebuke, to prohibit, to forbid, to ban, to be cautious, to detest, to loathe, to punish"
+        "meaning": {
+          "vi": "to warn against, to caution against, to admonish, to scold, to rebuke, to prohibit, to forbid, to ban, to be cautious, to detest, to loathe, to punish"
+        },
+        "romaji": "imashimeru"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa1.gif",
     "uri": "https://jisho.org/search/%E8%AA%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

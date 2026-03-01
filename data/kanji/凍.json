@@ -294,44 +294,68 @@
       {
         "example": "凍結",
         "reading": "トウケツ",
-        "meaning": "freezing (e.g. water), freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment)"
+        "meaning": {
+          "vi": "freezing (e.g. water), freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment)"
+        },
+        "romaji": "touketsu"
       },
       {
         "example": "凍死",
         "reading": "トウシ",
-        "meaning": "death from cold, freezing to death"
+        "meaning": {
+          "en": "death from cold, freezing to death"
+        },
+        "romaji": "toushi"
       },
       {
         "example": "解凍",
         "reading": "カイトウ",
-        "meaning": "thawing, defrosting, decompression (of data), extraction, unpacking, unzipping"
+        "meaning": {
+          "vi": "thawing, defrosting, decompression (of data), extraction, unpacking, unzipping"
+        },
+        "romaji": "kaitou"
       },
       {
         "example": "自動解凍",
         "reading": "ジドウカイトウ",
-        "meaning": "self-extracting (file)"
+        "meaning": {
+          "en": "self-extracting (file)"
+        },
+        "romaji": "jidoukaitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "凍る",
         "reading": "こおる",
-        "meaning": "to freeze, to become frozen, to freeze over"
+        "meaning": {
+          "en": "to freeze, to become frozen, to freeze over"
+        },
+        "romaji": "kooru"
       },
       {
         "example": "凍える",
         "reading": "こごえる",
-        "meaning": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled"
+        "meaning": {
+          "en": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled"
+        },
+        "romaji": "kogoeru"
       },
       {
         "example": "凍てる",
         "reading": "いてる",
-        "meaning": "to freeze, to freeze over"
+        "meaning": {
+          "en": "to freeze, to freeze over"
+        },
+        "romaji": "iteru"
       },
       {
         "example": "凍みる",
         "reading": "しみる",
-        "meaning": "to freeze, to be frozen over, to congeal"
+        "meaning": {
+          "en": "to freeze, to be frozen over, to congeal"
+        },
+        "romaji": "shimiru"
       }
     ],
     "radical": {
@@ -350,5 +374,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51cd.gif",
     "uri": "https://jisho.org/search/%E5%87%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "đông",
+    "đống"
+  ]
 }

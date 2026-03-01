@@ -17,22 +17,34 @@
       {
         "example": "嗣",
         "reading": "シ",
-        "meaning": "succession, successor"
+        "meaning": {
+          "en": "succession, successor"
+        },
+        "romaji": "shi"
       },
       {
         "example": "嗣業",
         "reading": "シギョウ",
-        "meaning": "succeeding to a business"
+        "meaning": {
+          "en": "succeeding to a business"
+        },
+        "romaji": "shigyou"
       },
       {
         "example": "継嗣",
         "reading": "ケイシ",
-        "meaning": "successor, heir, heiress"
+        "meaning": {
+          "en": "successor, heir, heiress"
+        },
+        "romaji": "keishi"
       },
       {
         "example": "世子",
         "reading": "セイシ",
-        "meaning": "heir, successor"
+        "meaning": {
+          "en": "heir, successor"
+        },
+        "romaji": "seishi"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55e3.gif",
     "uri": "https://jisho.org/search/%E5%97%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tự"
+  ]
 }

@@ -344,34 +344,52 @@
       {
         "example": "医",
         "reading": "イ",
-        "meaning": "medicine, the healing art, healing, curing, doctor"
+        "meaning": {
+          "en": "medicine, the healing art, healing, curing, doctor"
+        },
+        "romaji": "i"
       },
       {
         "example": "医院",
         "reading": "イイン",
-        "meaning": "doctor's office, doctor's surgery, clinic"
+        "meaning": {
+          "en": "doctor's office, doctor's surgery, clinic"
+        },
+        "romaji": "iin"
       },
       {
         "example": "軍医",
         "reading": "グンイ",
-        "meaning": "military physician or surgeon"
+        "meaning": {
+          "vi": "military physician or surgeon"
+        },
+        "romaji": "gun'i"
       },
       {
         "example": "校医",
         "reading": "コウイ",
-        "meaning": "school doctor"
+        "meaning": {
+          "en": "school doctor"
+        },
+        "romaji": "koui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "医する",
         "reading": "いする",
-        "meaning": "to cure, to heal"
+        "meaning": {
+          "en": "to cure, to heal"
+        },
+        "romaji": "isuru"
       },
       {
         "example": "薬師",
         "reading": "くすし",
-        "meaning": "doctor"
+        "meaning": {
+          "en": "doctor"
+        },
+        "romaji": "kusushi"
       }
     ],
     "radical": {
@@ -387,5 +405,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0533b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/533b.gif",
     "uri": "https://jisho.org/search/%E5%8C%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "y",
+    "ế"
+  ]
 }

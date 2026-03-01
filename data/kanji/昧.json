@@ -19,22 +19,34 @@
       {
         "example": "昧爽",
         "reading": "マイソウ",
-        "meaning": "dawn"
+        "meaning": {
+          "en": "dawn"
+        },
+        "romaji": "maisou"
       },
       {
         "example": "昧旦",
         "reading": "マイタン",
-        "meaning": "dawn, daybreak"
+        "meaning": {
+          "en": "dawn, daybreak"
+        },
+        "romaji": "maitan"
       },
       {
         "example": "三昧",
         "reading": "サンマイ",
-        "meaning": "samadhi (state of intense concentration achieved through meditation), being immersed in, being absorbed in, indulging in, doing to one's heart's content, prone to, apt to"
+        "meaning": {
+          "vi": "samadhi (state of intense concentration achieved through meditation), being immersed in, being absorbed in, indulging in, doing to one's heart's content, prone to, apt to"
+        },
+        "romaji": "sanmai"
       },
       {
         "example": "蒙昧",
         "reading": "モウマイ",
-        "meaning": "ignorant, unenlightened, uncivilized, uncivilised"
+        "meaning": {
+          "en": "ignorant, unenlightened, uncivilized, uncivilised"
+        },
+        "romaji": "moumai"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06627.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6627.gif",
     "uri": "https://jisho.org/search/%E6%98%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "muội",
+    "mạt"
+  ]
 }

@@ -321,49 +321,76 @@
       {
         "example": "路上",
         "reading": "ロジョウ",
-        "meaning": "on the road, on the street, in the street, on the way"
+        "meaning": {
+          "en": "on the road, on the street, in the street, on the way"
+        },
+        "romaji": "rojou"
       },
       {
         "example": "路地",
         "reading": "ロジ",
-        "meaning": "alley, alleyway, lane, path through a gate or garden, teahouse garden"
+        "meaning": {
+          "vi": "alley, alleyway, lane, path through a gate or garden, teahouse garden"
+        },
+        "romaji": "roji"
       },
       {
         "example": "活路",
         "reading": "カツロ",
-        "meaning": "means of survival, means of escape, way out of a difficulty"
+        "meaning": {
+          "vi": "means of survival, means of escape, way out of a difficulty"
+        },
+        "romaji": "katsuro"
       },
       {
         "example": "岐路",
         "reading": "キロ",
-        "meaning": "forked road, crossroads"
+        "meaning": {
+          "en": "forked road, crossroads"
+        },
+        "romaji": "kiro"
       },
       {
         "example": "路加",
         "reading": "ルカ",
-        "meaning": "St Luke"
+        "meaning": {
+          "en": "St Luke"
+        },
+        "romaji": "ruka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        "meaning": {
+          "vi": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        },
+        "romaji": "michi"
       },
       {
         "example": "道草",
         "reading": "みちくさ",
-        "meaning": "loitering on the way, wayside grass"
+        "meaning": {
+          "en": "loitering on the way, wayside grass"
+        },
+        "romaji": "michikusa"
       },
       {
         "example": "長路",
         "reading": "ながみち",
-        "meaning": "long road, far journey"
+        "meaning": {
+          "en": "long road, far journey"
+        },
+        "romaji": "nagamichi"
       },
       {
         "example": "脇道",
         "reading": "わきみち",
-        "meaning": "side road, byroad, digression (e.g. from argument)"
+        "meaning": {
+          "en": "side road, byroad, digression (e.g. from argument)"
+        },
+        "romaji": "wakimichi"
       }
     ],
     "radical": {
@@ -383,5 +410,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08def.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8def.gif",
     "uri": "https://jisho.org/search/%E8%B7%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc",
+    "lộ"
+  ]
 }

@@ -321,49 +321,76 @@
       {
         "example": "差",
         "reading": "サ",
-        "meaning": "difference, variation, difference"
+        "meaning": {
+          "en": "difference, variation, difference"
+        },
+        "romaji": "sa"
       },
       {
         "example": "差し",
         "reading": "サシ",
-        "meaning": "between (e.g. two people), face to face, hindrance, impediment, arrhythmic section of recitative, playing with only 2 players, prefix used for stress or emphasis, counter for traditional dance songs"
+        "meaning": {
+          "vi": "between (e.g. two people), face to face, hindrance, impediment, arrhythmic section of recitative, playing with only 2 players, prefix used for stress or emphasis, counter for traditional dance songs"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "落差",
         "reading": "ラクサ",
-        "meaning": "difference in elevation (between two points in a body of water), head, drop (e.g. of a waterfall), fall distance, difference, gap"
+        "meaning": {
+          "vi": "difference in elevation (between two points in a body of water), head, drop (e.g. of a waterfall), fall distance, difference, gap"
+        },
+        "romaji": "rakusa"
       },
       {
         "example": "賃金格差",
         "reading": "チンギンカクサ",
-        "meaning": "pay gap, wage gap, wage differential"
+        "meaning": {
+          "vi": "pay gap, wage gap, wage differential"
+        },
+        "romaji": "chinginkakusa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "差す",
         "reading": "さす",
-        "meaning": "to shine, to be visible, to be tinged with, to rise (of water levels), to flow in, to be felt (i.e. as an emotion), to come over one, to hold up (an umbrella, etc.), to put up, to raise, to extend one's arm straight ahead (in dance), to insert, to put in, to wear (a sword) in one's belt, to wear at one's side, to carry under one's arm, to insert one's arm under an opponent's arm, to pole (a boat), to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye, to light (a fire), to burn, to shut, to close, to lock, to fasten, to stop in the midst of, to leave undone"
+        "meaning": {
+          "vi": "to shine, to be visible, to be tinged with, to rise (of water levels), to flow in, to be felt (i.e. as an emotion), to come over one, to hold up (an umbrella, etc.), to put up, to raise, to extend one's arm straight ahead (in dance), to insert, to put in, to wear (a sword) in one's belt, to wear at one's side, to carry under one's arm, to insert one's arm under an opponent's arm, to pole (a boat), to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye, to light (a fire), to burn, to shut, to close, to lock, to fasten, to stop in the midst of, to leave undone"
+        },
+        "romaji": "sasu"
       },
       {
         "example": "差し",
         "reading": "さし",
-        "meaning": "between (e.g. two people), face to face, hindrance, impediment, arrhythmic section of recitative, playing with only 2 players, prefix used for stress or emphasis, counter for traditional dance songs"
+        "meaning": {
+          "vi": "between (e.g. two people), face to face, hindrance, impediment, arrhythmic section of recitative, playing with only 2 players, prefix used for stress or emphasis, counter for traditional dance songs"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "尺",
         "reading": "さし",
-        "meaning": "ruler, measure"
+        "meaning": {
+          "en": "ruler, measure"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "旗指",
         "reading": "はたさし",
-        "meaning": "samurai who carries his general's banner while riding into battle, small war flag attached to the back of one's armour during battle"
+        "meaning": {
+          "en": "samurai who carries his general's banner while riding into battle, small war flag attached to the back of one's armour during battle"
+        },
+        "romaji": "hatasashi"
       },
       {
         "example": "一差し",
         "reading": "ひとさし",
-        "meaning": "one dance, one game (e.g. of shogi)"
+        "meaning": {
+          "en": "one dance, one game (e.g. of shogi)"
+        },
+        "romaji": "hitosashi"
       }
     ],
     "radical": {
@@ -381,5 +408,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dee.gif",
     "uri": "https://jisho.org/search/%E5%B7%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "sai",
+    "si",
+    "soa",
+    "sái",
+    "ta",
+    "tha"
+  ]
 }

@@ -322,49 +322,76 @@
       {
         "example": "創価学会",
         "reading": "ソウカガッカイ",
-        "meaning": "Soka Gakkai (lay organization based on Nichiren Buddhism)"
+        "meaning": {
+          "en": "Soka Gakkai (lay organization based on Nichiren Buddhism)"
+        },
+        "romaji": "soukagakkai"
       },
       {
         "example": "創意",
         "reading": "ソウイ",
-        "meaning": "original idea, originality"
+        "meaning": {
+          "en": "original idea, originality"
+        },
+        "romaji": "soui"
       },
       {
         "example": "独創",
         "reading": "ドクソウ",
-        "meaning": "originality"
+        "meaning": {
+          "en": "originality"
+        },
+        "romaji": "dokusou"
       },
       {
         "example": "草創",
         "reading": "ソウソウ",
-        "meaning": "beginning, inauguration"
+        "meaning": {
+          "en": "beginning, inauguration"
+        },
+        "romaji": "sousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "作る",
         "reading": "つくる",
-        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        "meaning": {
+          "vi": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        },
+        "romaji": "tsukuru"
       },
       {
         "example": "始める",
         "reading": "はじめる",
-        "meaning": "to start, to begin, to commence, to initiate, to originate, to start up (a business, society, etc.), to open (e.g. a store), to establish, to start ..., to begin to ..."
+        "meaning": {
+          "vi": "to start, to begin, to commence, to initiate, to originate, to start up (a business, society, etc.), to open (e.g. a store), to establish, to start ..., to begin to ..."
+        },
+        "romaji": "hajimeru"
       },
       {
         "example": "傷",
         "reading": "きず",
-        "meaning": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+        "meaning": {
+          "vi": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+        },
+        "romaji": "kizu"
       },
       {
         "example": "古傷",
         "reading": "ふるきず",
-        "meaning": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+        "meaning": {
+          "vi": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+        },
+        "romaji": "furukizu"
       },
       {
         "example": "手傷",
         "reading": "てきず",
-        "meaning": "wound (suffered in a fight)"
+        "meaning": {
+          "en": "wound (suffered in a fight)"
+        },
+        "romaji": "tekizu"
       }
     ],
     "radical": {
@@ -384,5 +411,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05275.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5275.gif",
     "uri": "https://jisho.org/search/%E5%89%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "sang",
+    "sáng"
+  ]
 }

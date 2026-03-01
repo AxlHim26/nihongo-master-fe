@@ -18,22 +18,34 @@
       {
         "example": "蕨",
         "reading": "わらび",
-        "meaning": "bracken"
+        "meaning": {
+          "en": "bracken"
+        },
+        "romaji": "warabi"
       },
       {
         "example": "わらび粉",
         "reading": "わらびこ",
-        "meaning": "bracken starch (starch produced from the rhizomes of bracken)"
+        "meaning": {
+          "vi": "bracken starch (starch produced from the rhizomes of bracken)"
+        },
+        "romaji": "warabiko"
       },
       {
         "example": "早蕨",
         "reading": "さわらび",
-        "meaning": "freshly budded bracken"
+        "meaning": {
+          "en": "freshly budded bracken"
+        },
+        "romaji": "sawarabi"
       },
       {
         "example": "水蕨",
         "reading": "みずわらび",
-        "meaning": "water sprite (Ceratopteris thalictroides), Indian fern, water fern, Oriental waterfern, water hornfern"
+        "meaning": {
+          "vi": "water sprite (Ceratopteris thalictroides), Indian fern, water fern, Oriental waterfern, water hornfern"
+        },
+        "romaji": "mizuwarabi"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08568.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8568.gif",
     "uri": "https://jisho.org/search/%E8%95%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyết"
+  ]
 }

@@ -198,34 +198,52 @@
       {
         "example": "后宮",
         "reading": "コウグウ",
-        "meaning": "empress's palace, queen's palace, empress, queen"
+        "meaning": {
+          "vi": "empress's palace, queen's palace, empress, queen"
+        },
+        "romaji": "kouguu"
       },
       {
         "example": "皇妃",
         "reading": "コウヒ",
-        "meaning": "empress, queen"
+        "meaning": {
+          "vi": "empress, queen"
+        },
+        "romaji": "kouhi"
       },
       {
         "example": "皇太后",
         "reading": "コウタイゴウ",
-        "meaning": "Empress Dowager, Queen Mother"
+        "meaning": {
+          "vi": "Empress Dowager, Queen Mother"
+        },
+        "romaji": "koutaigou"
       },
       {
         "example": "太后",
         "reading": "タイコウ",
-        "meaning": "empress dowager, queen mother"
+        "meaning": {
+          "vi": "empress dowager, queen mother"
+        },
+        "romaji": "taikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "后",
         "reading": "きさき",
-        "meaning": "empress (consort), queen (consort)"
+        "meaning": {
+          "vi": "empress (consort), queen (consort)"
+        },
+        "romaji": "kisaki"
       },
       {
         "example": "后町",
         "reading": "きさきまち",
-        "meaning": "women's pavilion (of the inner Heian palace)"
+        "meaning": {
+          "vi": "women's pavilion (of the inner Heian palace)"
+        },
+        "romaji": "kisakimachi"
       }
     ],
     "radical": {
@@ -244,5 +262,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540e.gif",
     "uri": "https://jisho.org/search/%E5%90%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hấu",
+    "hậu"
+  ]
 }

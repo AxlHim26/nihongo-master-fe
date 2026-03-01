@@ -17,7 +17,10 @@
       {
         "example": "閭門",
         "reading": "リョモン",
-        "meaning": "gate of a village"
+        "meaning": {
+          "en": "gate of a village"
+        },
+        "romaji": "ryomon"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95ad.gif",
     "uri": "https://jisho.org/search/%E9%96%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "lư"
+  ]
 }

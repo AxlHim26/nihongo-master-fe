@@ -20,34 +20,52 @@
       {
         "example": "睡眠",
         "reading": "スイミン",
-        "meaning": "sleep"
+        "meaning": {
+          "vi": "sleep"
+        },
+        "romaji": "suimin"
       },
       {
         "example": "睡魔",
         "reading": "スイマ",
-        "meaning": "sleepiness, drowsiness, the sandman, Morpheus"
+        "meaning": {
+          "vi": "sleepiness, drowsiness, the sandman, Morpheus"
+        },
+        "romaji": "suima"
       },
       {
         "example": "昏睡",
         "reading": "コンスイ",
-        "meaning": "coma, deep sleep, falling fast asleep"
+        "meaning": {
+          "vi": "coma, deep sleep, falling fast asleep"
+        },
+        "romaji": "konsui"
       },
       {
         "example": "仮睡",
         "reading": "カスイ",
-        "meaning": "nap, doze"
+        "meaning": {
+          "vi": "nap, doze"
+        },
+        "romaji": "kasui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "眠る",
         "reading": "ねむる",
-        "meaning": "to sleep, to die, to rest (in peace), to lie (buried), to sleep (in the grave), to lie idle (e.g. of resources), to lie unused, to lie untapped, to lie untouched, to close one's eyes"
+        "meaning": {
+          "vi": "to sleep, to die, to rest (in peace), to lie (buried), to sleep (in the grave), to lie idle (e.g. of resources), to lie unused, to lie untapped, to lie untouched, to close one's eyes"
+        },
+        "romaji": "nemuru"
       },
       {
         "example": "眠い",
         "reading": "ねむい",
-        "meaning": "sleepy, drowsy, somnolent"
+        "meaning": {
+          "vi": "sleepy, drowsy, somnolent"
+        },
+        "romaji": "nemui"
       }
     ],
     "radical": {
@@ -64,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07761.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7761.gif",
     "uri": "https://jisho.org/search/%E7%9D%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuỵ"
+  ]
 }

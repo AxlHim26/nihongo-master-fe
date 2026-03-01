@@ -16,24 +16,36 @@
       {
         "example": "戟",
         "reading": "ゲキ",
-        "meaning": "ji (ancient Chinese halberd)"
+        "meaning": {
+          "en": "ji (ancient Chinese halberd)"
+        },
+        "romaji": "geki"
       },
       {
         "example": "矮鶏大戟",
         "reading": "チャボタイゲキ",
-        "meaning": "petty spurge (Euphorbia peplus)"
+        "meaning": {
+          "vi": "petty spurge (Euphorbia peplus)"
+        },
+        "romaji": "chabotaigeki"
       },
       {
         "example": "三叉戟",
         "reading": "サンサゲキ",
-        "meaning": "trident"
+        "meaning": {
+          "en": "trident"
+        },
+        "romaji": "sansageki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "矛",
         "reading": "ほこ",
-        "meaning": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+        "meaning": {
+          "vi": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+        },
+        "romaji": "hoko"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621f.gif",
     "uri": "https://jisho.org/search/%E6%88%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "kích"
+  ]
 }

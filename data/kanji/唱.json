@@ -274,29 +274,44 @@
       {
         "example": "唱和",
         "reading": "ショウワ",
-        "meaning": "cheering in chorus, saying in unison"
+        "meaning": {
+          "en": "cheering in chorus, saying in unison"
+        },
+        "romaji": "shouwa"
       },
       {
         "example": "唱歌",
         "reading": "ショウカ",
-        "meaning": "singing, song, music class (at pre-WWII schools), song for music classes"
+        "meaning": {
+          "vi": "singing, song, music class (at pre-WWII schools), song for music classes"
+        },
+        "romaji": "shouka"
       },
       {
         "example": "斉唱",
         "reading": "セイショウ",
-        "meaning": "singing in unison, chanting in unison"
+        "meaning": {
+          "en": "singing in unison, chanting in unison"
+        },
+        "romaji": "seishou"
       },
       {
         "example": "主唱",
         "reading": "シュショウ",
-        "meaning": "advocacy, promotion"
+        "meaning": {
+          "vi": "advocacy, promotion"
+        },
+        "romaji": "shushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唱える",
         "reading": "となえる",
-        "meaning": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist"
+        "meaning": {
+          "vi": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist"
+        },
+        "romaji": "tonaeru"
       }
     ],
     "radical": {
@@ -311,5 +326,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05531.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5531.gif",
     "uri": "https://jisho.org/search/%E5%94%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "xướng"
+  ]
 }

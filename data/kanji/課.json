@@ -288,22 +288,34 @@
       {
         "example": "課",
         "reading": "カ",
-        "meaning": "lesson, section (in an organization), division, department, counter for lessons and chapters (of a book)"
+        "meaning": {
+          "vi": "lesson, section (in an organization), division, department, counter for lessons and chapters (of a book)"
+        },
+        "romaji": "ka"
       },
       {
         "example": "課員",
         "reading": "カイン",
-        "meaning": "section staff"
+        "meaning": {
+          "en": "section staff"
+        },
+        "romaji": "kain"
       },
       {
         "example": "賦課",
         "reading": "フカ",
-        "meaning": "levy, imposition"
+        "meaning": {
+          "vi": "levy, imposition"
+        },
+        "romaji": "fuka"
       },
       {
         "example": "会計課",
         "reading": "カイケイカ",
-        "meaning": "accounts section, accounting section"
+        "meaning": {
+          "en": "accounts section, accounting section"
+        },
+        "romaji": "kaikeika"
       }
     ],
     "kunyomiExamples": [],
@@ -323,5 +335,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab2.gif",
     "uri": "https://jisho.org/search/%E8%AA%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoá"
+  ]
 }

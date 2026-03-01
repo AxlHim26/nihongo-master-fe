@@ -21,32 +21,50 @@
       {
         "example": "鮭",
         "reading": "さけ",
-        "meaning": "salmon (Salmonidae spp.), chum salmon (Oncorhynchus keta)"
+        "meaning": {
+          "vi": "salmon (Salmonidae spp.), chum salmon (Oncorhynchus keta)"
+        },
+        "romaji": "sake"
       },
       {
         "example": "鮭缶",
         "reading": "さけかん",
-        "meaning": "canned salmon, tinned salmon"
+        "meaning": {
+          "en": "canned salmon, tinned salmon"
+        },
+        "romaji": "sakekan"
       },
       {
         "example": "大西洋鮭",
         "reading": "たいせいようさけ",
-        "meaning": "Atlantic salmon (Salmo salmar)"
+        "meaning": {
+          "en": "Atlantic salmon (Salmo salmar)"
+        },
+        "romaji": "taiseiyousake"
       },
       {
         "example": "焼き鮭",
         "reading": "やきしゃけ",
-        "meaning": "grilled salmon"
+        "meaning": {
+          "en": "grilled salmon"
+        },
+        "romaji": "yakishake"
       },
       {
         "example": "鮭",
         "reading": "さけ",
-        "meaning": "salmon (Salmonidae spp.), chum salmon (Oncorhynchus keta)"
+        "meaning": {
+          "vi": "salmon (Salmonidae spp.), chum salmon (Oncorhynchus keta)"
+        },
+        "romaji": "sake"
       },
       {
         "example": "焼き鮭",
         "reading": "やきしゃけ",
-        "meaning": "grilled salmon"
+        "meaning": {
+          "en": "grilled salmon"
+        },
+        "romaji": "yakishake"
       }
     ],
     "radical": {
@@ -63,5 +81,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bad.gif",
     "uri": "https://jisho.org/search/%E9%AE%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hài",
+    "khuê"
+  ]
 }

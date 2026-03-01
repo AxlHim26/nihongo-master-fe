@@ -19,29 +19,44 @@
       {
         "example": "拙",
         "reading": "セツ",
-        "meaning": "poor, unskillful, clumsy, I, me"
+        "meaning": {
+          "vi": "poor, unskillful, clumsy, I, me"
+        },
+        "romaji": "setsu"
       },
       {
         "example": "拙劣",
         "reading": "セツレツ",
-        "meaning": "clumsy, unskillful"
+        "meaning": {
+          "en": "clumsy, unskillful"
+        },
+        "romaji": "setsuretsu"
       },
       {
         "example": "稚拙",
         "reading": "チセツ",
-        "meaning": "unskillful, childish, immature, naive, artless, clumsy, crude"
+        "meaning": {
+          "en": "unskillful, childish, immature, naive, artless, clumsy, crude"
+        },
+        "romaji": "chisetsu"
       },
       {
         "example": "巧拙",
         "reading": "コウセツ",
-        "meaning": "skill, workmanship, dexterity, quality"
+        "meaning": {
+          "vi": "skill, workmanship, dexterity, quality"
+        },
+        "romaji": "kousetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拙い",
         "reading": "つたない",
-        "meaning": "poor-quality, shoddy, crude, unskillful, inexpert, maladroit, inept, foolish, clumsy, unlucky"
+        "meaning": {
+          "vi": "poor-quality, shoddy, crude, unskillful, inexpert, maladroit, inept, foolish, clumsy, unlucky"
+        },
+        "romaji": "tsutanai"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d9.gif",
     "uri": "https://jisho.org/search/%E6%8B%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuyết"
+  ]
 }

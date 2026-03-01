@@ -17,34 +17,52 @@
       {
         "example": "鞍馬",
         "reading": "アンバ",
-        "meaning": "pommel horse, side horse, saddled horse"
+        "meaning": {
+          "vi": "pommel horse, side horse, saddled horse"
+        },
+        "romaji": "anba"
       },
       {
         "example": "鞍橋",
         "reading": "クラボネ",
-        "meaning": "saddle tree"
+        "meaning": {
+          "en": "saddle tree"
+        },
+        "romaji": "kurabone"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鞍",
         "reading": "くら",
-        "meaning": "saddle"
+        "meaning": {
+          "en": "saddle"
+        },
+        "romaji": "kura"
       },
       {
         "example": "鞍掛海豹",
         "reading": "くらかけあざらし",
-        "meaning": "ribbon seal (Histriophoca fasciata)"
+        "meaning": {
+          "vi": "ribbon seal (Histriophoca fasciata)"
+        },
+        "romaji": "kurakakeazarashi"
       },
       {
         "example": "馬鞍",
         "reading": "うまくら",
-        "meaning": "saddle"
+        "meaning": {
+          "en": "saddle"
+        },
+        "romaji": "umakura"
       },
       {
         "example": "唐鞍",
         "reading": "からくら",
-        "meaning": "Chinese-style ritual saddle"
+        "meaning": {
+          "en": "Chinese-style ritual saddle"
+        },
+        "romaji": "karakura"
       }
     ],
     "radical": {
@@ -60,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0978d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/978d.gif",
     "uri": "https://jisho.org/search/%E9%9E%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "an",
+    "yên"
+  ]
 }

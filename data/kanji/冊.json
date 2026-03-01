@@ -234,27 +234,42 @@
       {
         "example": "冊",
         "reading": "サツ",
-        "meaning": "counter for books, volume"
+        "meaning": {
+          "en": "counter for books, volume"
+        },
+        "romaji": "satsu"
       },
       {
         "example": "別冊",
         "reading": "ベッサツ",
-        "meaning": "separate volume, extra issue, supplement, additional volume, supplementary volume"
+        "meaning": {
+          "vi": "separate volume, extra issue, supplement, additional volume, supplementary volume"
+        },
+        "romaji": "bessatsu"
       },
       {
         "example": "合冊",
         "reading": "ガッサツ",
-        "meaning": "collection in one volume"
+        "meaning": {
+          "en": "collection in one volume"
+        },
+        "romaji": "gassatsu"
       },
       {
         "example": "冊",
         "reading": "サク",
-        "meaning": "imperial edict to confer nobility titles (in ancient China)"
+        "meaning": {
+          "vi": "imperial edict to confer nobility titles (in ancient China)"
+        },
+        "romaji": "saku"
       },
       {
         "example": "冊封",
         "reading": "サクホウ",
-        "meaning": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+        "meaning": {
+          "vi": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+        },
+        "romaji": "sakuhou"
       }
     ],
     "kunyomiExamples": [],
@@ -274,5 +289,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518a.gif",
     "uri": "https://jisho.org/search/%E5%86%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "sách"
+  ]
 }

@@ -317,29 +317,44 @@
       {
         "example": "賛",
         "reading": "サン",
-        "meaning": "praise, tribute, inscription (on a painting)"
+        "meaning": {
+          "vi": "praise, tribute, inscription (on a painting)"
+        },
+        "romaji": "san"
       },
       {
         "example": "賛意",
         "reading": "サンイ",
-        "meaning": "approval, assent"
+        "meaning": {
+          "vi": "approval, assent"
+        },
+        "romaji": "san'i"
       },
       {
         "example": "協賛",
         "reading": "キョウサン",
-        "meaning": "support, mutual aid, cooperation, approval, authorization, authorisation"
+        "meaning": {
+          "vi": "support, mutual aid, cooperation, approval, authorization, authorisation"
+        },
+        "romaji": "kyousan"
       },
       {
         "example": "絶賛",
         "reading": "ゼッサン",
-        "meaning": "high praise, great admiration, acclaim, with critical acclaim, to rave reviews, with high commendations, currently, presently, right now"
+        "meaning": {
+          "vi": "high praise, great admiration, acclaim, with critical acclaim, to rave reviews, with high commendations, currently, presently, right now"
+        },
+        "romaji": "zessan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "称える",
         "reading": "たたえる",
-        "meaning": "to praise, to extol, to hail, to laud, to celebrate"
+        "meaning": {
+          "vi": "to praise, to extol, to hail, to laud, to celebrate"
+        },
+        "romaji": "tataeru"
       }
     ],
     "radical": {
@@ -359,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cdb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cdb.gif",
     "uri": "https://jisho.org/search/%E8%B3%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tán"
+  ]
 }

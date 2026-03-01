@@ -17,19 +17,28 @@
       {
         "example": "海嘯",
         "reading": "カイショウ",
-        "meaning": "(tidal) bore, eagre, tsunami, tidal wave"
+        "meaning": {
+          "en": "(tidal) bore, eagre, tsunami, tidal wave"
+        },
+        "romaji": "kaishou"
       },
       {
         "example": "虎嘯",
         "reading": "コショウ",
-        "meaning": "tiger's howling, being out and active in the world (of a hero, etc.)"
+        "meaning": {
+          "en": "tiger's howling, being out and active in the world (of a hero, etc.)"
+        },
+        "romaji": "koshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嘯く",
         "reading": "うそぶく",
-        "meaning": "to boast, to brag, to feign ignorance, to pretend not to know, to recite (a song or poem to oneself), to bark, to roar, to howl"
+        "meaning": {
+          "vi": "to boast, to brag, to feign ignorance, to pretend not to know, to recite (a song or poem to oneself), to bark, to roar, to howl"
+        },
+        "romaji": "usobuku"
       }
     ],
     "radical": {
@@ -50,5 +59,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0562f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/562f.gif",
     "uri": "https://jisho.org/search/%E5%98%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiếu",
+    "sất",
+    "tiêu"
+  ]
 }

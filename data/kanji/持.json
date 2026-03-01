@@ -334,44 +334,68 @@
       {
         "example": "持",
         "reading": "ジ",
-        "meaning": "draw (in go, poetry contest, etc.), tie"
+        "meaning": {
+          "vi": "draw (in go, poetry contest, etc.), tie"
+        },
+        "romaji": "ji"
       },
       {
         "example": "持久",
         "reading": "ジキュウ",
-        "meaning": "endurance, persistence"
+        "meaning": {
+          "vi": "endurance, persistence"
+        },
+        "romaji": "jikyuu"
       },
       {
         "example": "堅持",
         "reading": "ケンジ",
-        "meaning": "holding on to, sticking to"
+        "meaning": {
+          "en": "holding on to, sticking to"
+        },
+        "romaji": "kenji"
       },
       {
         "example": "護持",
         "reading": "ゴジ",
-        "meaning": "defend and maintain, support, protection"
+        "meaning": {
+          "vi": "defend and maintain, support, protection"
+        },
+        "romaji": "goji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "持つ",
         "reading": "もつ",
-        "meaning": "to hold (in one's hand), to take, to carry, to possess, to have, to own, to maintain, to keep, to last, to be durable, to keep, to survive, to take charge of, to be in charge of, to hold (meeting, etc.), to have (opportunity, etc.), to have \"it\", to have that special something, to be blessed with good luck"
+        "meaning": {
+          "vi": "to hold (in one's hand), to take, to carry, to possess, to have, to own, to maintain, to keep, to last, to be durable, to keep, to survive, to take charge of, to be in charge of, to hold (meeting, etc.), to have (opportunity, etc.), to have \"it\", to have that special something, to be blessed with good luck"
+        },
+        "romaji": "motsu"
       },
       {
         "example": "持子",
         "reading": "もつご",
-        "meaning": "stone moroko (Pseudorasbora parva), topmouth gudgeon"
+        "meaning": {
+          "vi": "stone moroko (Pseudorasbora parva), topmouth gudgeon"
+        },
+        "romaji": "motsugo"
       },
       {
         "example": "持てる",
         "reading": "もてる",
-        "meaning": "to be able to possess (hold, get, etc.), to be well liked, to be popular, to be pampered (spoiled, doted upon, etc.), to be welcomed, to endure (the tests of time, the elements, etc.), to last, possessed, held, rich, wealthy, affluent"
+        "meaning": {
+          "vi": "to be able to possess (hold, get, etc.), to be well liked, to be popular, to be pampered (spoiled, doted upon, etc.), to be welcomed, to endure (the tests of time, the elements, etc.), to last, possessed, held, rich, wealthy, affluent"
+        },
+        "romaji": "moteru"
       },
       {
         "example": "持てる者",
         "reading": "もてるもの",
-        "meaning": "(the) haves, those who have"
+        "meaning": {
+          "en": "(the) haves, those who have"
+        },
+        "romaji": "moterumono"
       }
     ],
     "radical": {
@@ -390,5 +414,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06301.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6301.gif",
     "uri": "https://jisho.org/search/%E6%8C%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "trì"
+  ]
 }

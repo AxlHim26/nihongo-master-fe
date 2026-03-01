@@ -332,22 +332,34 @@
       {
         "example": "式",
         "reading": "シキ",
-        "meaning": "way, style, fashion, method, system, form, type, ceremony, rite, ritual, celebration, wedding (ceremony), equation, formula, expression, enforcement regulations (of the ritsuryō legal codes)"
+        "meaning": {
+          "vi": "way, style, fashion, method, system, form, type, ceremony, rite, ritual, celebration, wedding (ceremony), equation, formula, expression, enforcement regulations (of the ritsuryō legal codes)"
+        },
+        "romaji": "shiki"
       },
       {
         "example": "式場",
         "reading": "シキジョウ",
-        "meaning": "ceremonial hall (e.g. wedding, funeral), hall for ceremonies, place of ceremony"
+        "meaning": {
+          "vi": "ceremonial hall (e.g. wedding, funeral), hall for ceremonies, place of ceremony"
+        },
+        "romaji": "shikijou"
       },
       {
         "example": "硬式",
         "reading": "コウシキ",
-        "meaning": "hard (esp. of hardball, tennis, etc.)"
+        "meaning": {
+          "vi": "hard (esp. of hardball, tennis, etc.)"
+        },
+        "romaji": "koushiki"
       },
       {
         "example": "型式",
         "reading": "カタシキ",
-        "meaning": "model (e.g. of a vehicle), type"
+        "meaning": {
+          "vi": "model (e.g. of a vehicle), type"
+        },
+        "romaji": "katashiki"
       }
     ],
     "kunyomiExamples": [],
@@ -363,5 +375,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0f.gif",
     "uri": "https://jisho.org/search/%E5%BC%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thức"
+  ]
 }

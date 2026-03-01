@@ -19,29 +19,44 @@
       {
         "example": "赫々",
         "reading": "カクカク",
-        "meaning": "brilliant, bright, glorious"
+        "meaning": {
+          "en": "brilliant, bright, glorious"
+        },
+        "romaji": "kakukaku"
       },
       {
         "example": "嚇す",
         "reading": "カクス",
-        "meaning": "to threaten, to menace"
+        "meaning": {
+          "en": "to threaten, to menace"
+        },
+        "romaji": "kakusu"
       },
       {
         "example": "威嚇",
         "reading": "イカク",
-        "meaning": "threat, intimidation, menace"
+        "meaning": {
+          "en": "threat, intimidation, menace"
+        },
+        "romaji": "ikaku"
       },
       {
         "example": "恐嚇",
         "reading": "キョウカク",
-        "meaning": "intimidation, threat"
+        "meaning": {
+          "en": "intimidation, threat"
+        },
+        "romaji": "kyoukaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脅す",
         "reading": "おどす",
-        "meaning": "to threaten, to menace, to frighten (into doing)"
+        "meaning": {
+          "en": "to threaten, to menace, to frighten (into doing)"
+        },
+        "romaji": "odosu"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05687.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5687.gif",
     "uri": "https://jisho.org/search/%E5%9A%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hách"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "彰義隊",
         "reading": "ショウギタイ",
-        "meaning": "Shōgitai (group of former Tokugawa retainers opposed to the Meiji government and fought in the battle of Ueno)"
+        "meaning": {
+          "vi": "Shōgitai (group of former Tokugawa retainers opposed to the Meiji government and fought in the battle of Ueno)"
+        },
+        "romaji": "shougitai"
       },
       {
         "example": "彰徳",
         "reading": "ショウトク",
-        "meaning": "public praise, making another's virtues well-known"
+        "meaning": {
+          "vi": "public praise, making another's virtues well-known"
+        },
+        "romaji": "shoutoku"
       },
       {
         "example": "顕彰",
         "reading": "ケンショウ",
-        "meaning": "honouring (publicly), honoring, making someone's good deeds or achievements well-known"
+        "meaning": {
+          "vi": "honouring (publicly), honoring, making someone's good deeds or achievements well-known"
+        },
+        "romaji": "kenshou"
       },
       {
         "example": "表彰",
         "reading": "ヒョウショウ",
-        "meaning": "(official) commendation, public recognition (of someone's achievements, good deeds, etc.), awarding, honouring"
+        "meaning": {
+          "vi": "(official) commendation, public recognition (of someone's achievements, good deeds, etc.), awarding, honouring"
+        },
+        "romaji": "hyoushou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f70.gif",
     "uri": "https://jisho.org/search/%E5%BD%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "chương"
+  ]
 }

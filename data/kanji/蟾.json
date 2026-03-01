@@ -14,7 +14,10 @@
       {
         "example": "蟾酥",
         "reading": "センソ",
-        "meaning": "toad venom (used as an analgesic and cardiac stimulant in Chinese medicine)"
+        "meaning": {
+          "en": "toad venom (used as an analgesic and cardiac stimulant in Chinese medicine)"
+        },
+        "romaji": "senso"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87fe.gif",
     "uri": "https://jisho.org/search/%E8%9F%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiềm"
+  ]
 }

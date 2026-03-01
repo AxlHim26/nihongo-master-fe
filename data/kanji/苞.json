@@ -17,29 +17,44 @@
       {
         "example": "苞",
         "reading": "ホウ",
-        "meaning": "bract"
+        "meaning": {
+          "en": "bract"
+        },
+        "romaji": "hou"
       },
       {
         "example": "苞",
         "reading": "ツト",
-        "meaning": "straw-wrapped item, bundle of straw (containing a food item, etc.), local produce, souvenir, present, gift"
+        "meaning": {
+          "vi": "straw-wrapped item, bundle of straw (containing a food item, etc.), local produce, souvenir, present, gift"
+        },
+        "romaji": "tsuto"
       },
       {
         "example": "総苞",
         "reading": "ソウホウ",
-        "meaning": "involucre, involucrum"
+        "meaning": {
+          "en": "involucre, involucrum"
+        },
+        "romaji": "souhou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苞",
         "reading": "つと",
-        "meaning": "straw-wrapped item, bundle of straw (containing a food item, etc.), local produce, souvenir, present, gift"
+        "meaning": {
+          "vi": "straw-wrapped item, bundle of straw (containing a food item, etc.), local produce, souvenir, present, gift"
+        },
+        "romaji": "tsuto"
       },
       {
         "example": "つと納豆",
         "reading": "つとなっとう",
-        "meaning": "straw-wrapped natto"
+        "meaning": {
+          "vi": "straw-wrapped natto"
+        },
+        "romaji": "tsutonattou"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082de.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82de.gif",
     "uri": "https://jisho.org/search/%E8%8B%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "bao"
+  ]
 }

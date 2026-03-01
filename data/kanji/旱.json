@@ -16,29 +16,44 @@
       {
         "example": "干害",
         "reading": "カンガイ",
-        "meaning": "thiên tai hạn hán, thiệt hại do hạn"
+        "meaning": {
+          "vi": "thiên tai hạn hán, thiệt hại do hạn"
+        },
+        "romaji": "kangai"
       },
       {
         "example": "旱水",
         "reading": "カンスイ",
-        "meaning": "hạn hán và lũ lụt"
+        "meaning": {
+          "vi": "hạn hán và lũ lụt"
+        },
+        "romaji": "kansui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "日照り",
         "reading": "ひでり",
-        "meaning": "thời tiết khô, hạn hán"
+        "meaning": {
+          "vi": "thời tiết khô, hạn hán"
+        },
+        "romaji": "hideri"
       },
       {
         "example": "男日照り",
         "reading": "おとこひでり",
-        "meaning": "thiếu đàn ông phù hợp, khó tìm chồng"
+        "meaning": {
+          "vi": "thiếu đàn ông phù hợp, khó tìm chồng"
+        },
+        "romaji": "otokohideri"
       },
       {
         "example": "女日照り",
         "reading": "おんなひでり",
-        "meaning": "thiếu phụ nữ phù hợp, khó tìm vợ"
+        "meaning": {
+          "vi": "thiếu phụ nữ phù hợp, khó tìm vợ"
+        },
+        "romaji": "onnahideri"
       }
     ],
     "radical": {
@@ -53,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065f1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65f1.gif",
     "uri": "https://jisho.org/search/%E6%97%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạn"
+  ]
 }

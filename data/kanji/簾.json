@@ -17,59 +17,92 @@
       {
         "example": "簾",
         "reading": "レン",
-        "meaning": "bamboo screen, rattan blind"
+        "meaning": {
+          "en": "bamboo screen, rattan blind"
+        },
+        "romaji": "ren"
       },
       {
         "example": "暖簾",
         "reading": "ノレン",
-        "meaning": "(short) curtain hung at shop entrance, split curtain used to divide spaces in a house, reputation (of a store), good name, credit, goodwill"
+        "meaning": {
+          "vi": "(short) curtain hung at shop entrance, split curtain used to divide spaces in a house, reputation (of a store), good name, credit, goodwill"
+        },
+        "romaji": "noren"
       },
       {
         "example": "珠暖簾",
         "reading": "タマノレン",
-        "meaning": "curtain made of strung beads"
+        "meaning": {
+          "en": "curtain made of strung beads"
+        },
+        "romaji": "tamanoren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "簾",
         "reading": "すだれ",
-        "meaning": "bamboo screen, rattan blind, bamboo mat (for rolling sushi)"
+        "meaning": {
+          "en": "bamboo screen, rattan blind, bamboo mat (for rolling sushi)"
+        },
+        "romaji": "sudare"
       },
       {
         "example": "すだれ頭",
         "reading": "すだれあたま",
-        "meaning": "comb-over (hairstyle)"
+        "meaning": {
+          "en": "comb-over (hairstyle)"
+        },
+        "romaji": "sudareatama"
       },
       {
         "example": "秋簾",
         "reading": "あきすだれ",
-        "meaning": "bamboo screen still in place in autumn"
+        "meaning": {
+          "vi": "bamboo screen still in place in autumn"
+        },
+        "romaji": "akisudare"
       },
       {
         "example": "板簾",
         "reading": "いたすだれ",
-        "meaning": "Venetian blind"
+        "meaning": {
+          "en": "Venetian blind"
+        },
+        "romaji": "itasudare"
       },
       {
         "example": "簾",
         "reading": "すだれ",
-        "meaning": "bamboo screen, rattan blind, bamboo mat (for rolling sushi)"
+        "meaning": {
+          "en": "bamboo screen, rattan blind, bamboo mat (for rolling sushi)"
+        },
+        "romaji": "sudare"
       },
       {
         "example": "すだれ頭",
         "reading": "すだれあたま",
-        "meaning": "comb-over (hairstyle)"
+        "meaning": {
+          "en": "comb-over (hairstyle)"
+        },
+        "romaji": "sudareatama"
       },
       {
         "example": "巻きす",
         "reading": "まきす",
-        "meaning": "bamboo mat used in food preparation (esp. to roll sushi), sushi mat"
+        "meaning": {
+          "vi": "bamboo mat used in food preparation (esp. to roll sushi), sushi mat"
+        },
+        "romaji": "makisu"
       },
       {
         "example": "御簾",
         "reading": "みす",
-        "meaning": "bamboo blind"
+        "meaning": {
+          "en": "bamboo blind"
+        },
+        "romaji": "misu"
       }
     ],
     "radical": {
@@ -91,5 +124,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c3e.gif",
     "uri": "https://jisho.org/search/%E7%B0%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "liêm"
+  ]
 }

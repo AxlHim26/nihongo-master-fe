@@ -321,39 +321,60 @@
       {
         "example": "構成",
         "reading": "コウセイ",
-        "meaning": "composition, construction, formation, makeup, structure, organization, organisation"
+        "meaning": {
+          "vi": "composition, construction, formation, makeup, structure, organization, organisation"
+        },
+        "romaji": "kousei"
       },
       {
         "example": "構図",
         "reading": "コウズ",
-        "meaning": "composition (of painting), structural outline, compositional arrangement"
+        "meaning": {
+          "vi": "composition (of painting), structural outline, compositional arrangement"
+        },
+        "romaji": "kouzu"
       },
       {
         "example": "遺構",
         "reading": "イコウ",
-        "meaning": "(archaeological) remains, remnants (of ancient structures), ancient foundation"
+        "meaning": {
+          "en": "(archaeological) remains, remnants (of ancient structures), ancient foundation"
+        },
+        "romaji": "ikou"
       },
       {
         "example": "外構え",
         "reading": "ソトガマエ",
-        "meaning": "outward appearance (of a house), exterior, external structure (of a building; e.g. gate, fence, garage), exterior structure"
+        "meaning": {
+          "vi": "outward appearance (of a house), exterior, external structure (of a building; e.g. gate, fence, garage), exterior structure"
+        },
+        "romaji": "sotogamae"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "構える",
         "reading": "かまえる",
-        "meaning": "to set up (a house, store, etc.), to build, to establish, to run, to maintain, to have at the ready (e.g. a gun), to hold in preparation (e.g. a camera), to prepare in advance (e.g. a meal), to adopt a posture, to assume a stance, to stand ready, to be poised for, to put on an air, to assume an attitude, to stiffen, to tense up, to become formal, to fabricate in order to deceive, to make up, to feign, to plan, to scheme"
+        "meaning": {
+          "vi": "to set up (a house, store, etc.), to build, to establish, to run, to maintain, to have at the ready (e.g. a gun), to hold in preparation (e.g. a camera), to prepare in advance (e.g. a meal), to adopt a posture, to assume a stance, to stand ready, to be poised for, to put on an air, to assume an attitude, to stiffen, to tense up, to become formal, to fabricate in order to deceive, to make up, to feign, to plan, to scheme"
+        },
+        "romaji": "kamaeru"
       },
       {
         "example": "構う",
         "reading": "かまう",
-        "meaning": "to mind, to care about, to be concerned about, to have a regard for, to be an issue, to matter, to create inconvenience, to keep company, to care for, to look after, to entertain, to pay attention to, to spend time with, to interfere with, to meddle in, to tease, to banish, to prohibit"
+        "meaning": {
+          "vi": "to mind, to care about, to be concerned about, to have a regard for, to be an issue, to matter, to create inconvenience, to keep company, to care for, to look after, to entertain, to pay attention to, to spend time with, to interfere with, to meddle in, to tease, to banish, to prohibit"
+        },
+        "romaji": "kamau"
       },
       {
         "example": "構うものか",
         "reading": "かまうものか",
-        "meaning": "who cares?, I don't give a damn, what does it matter?"
+        "meaning": {
+          "en": "who cares?, I don't give a damn, what does it matter?"
+        },
+        "romaji": "kamaumonoka"
       }
     ],
     "radical": {
@@ -370,5 +391,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cb.gif",
     "uri": "https://jisho.org/search/%E6%A7%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấu"
+  ]
 }

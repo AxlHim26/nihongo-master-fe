@@ -17,34 +17,52 @@
       {
         "example": "睥睨",
         "reading": "ヘイゲイ",
-        "meaning": "glaring at, scowling at, looking contemptuously at, frowning down upon, domineering with a coercive look"
+        "meaning": {
+          "vi": "glaring at, scowling at, looking contemptuously at, frowning down upon, domineering with a coercive look"
+        },
+        "romaji": "heigei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "睨む",
         "reading": "にらむ",
-        "meaning": "to glare at, to scowl at, to glower at, to stare intensely at, to examine carefully, to estimate, to guess, to suspect, to judge, to keep an eye on someone (e.g. a suspicious or untrustworthy person), to watch, to take account of, to take into consideration"
+        "meaning": {
+          "vi": "to glare at, to scowl at, to glower at, to stare intensely at, to examine carefully, to estimate, to guess, to suspect, to judge, to keep an eye on someone (e.g. a suspicious or untrustworthy person), to watch, to take account of, to take into consideration"
+        },
+        "romaji": "niramu"
       },
       {
         "example": "睨み",
         "reading": "にらみ",
-        "meaning": "glare, sharp look"
+        "meaning": {
+          "vi": "glare, sharp look"
+        },
+        "romaji": "nirami"
       },
       {
         "example": "にらみ合い",
         "reading": "にらみあい",
-        "meaning": "glaring at each other, confrontation, standoff, face-off"
+        "meaning": {
+          "en": "glaring at each other, confrontation, standoff, face-off"
+        },
+        "romaji": "niramiai"
       },
       {
         "example": "親睨",
         "reading": "おやにらみ",
-        "meaning": "aucha perch (Coreoperca kawamebari)"
+        "meaning": {
+          "vi": "aucha perch (Coreoperca kawamebari)"
+        },
+        "romaji": "oyanirami"
       },
       {
         "example": "高麗親睨",
         "reading": "こうらいおやにらみ",
-        "meaning": "Coreoperca herzi (species of temperate perch)"
+        "meaning": {
+          "vi": "Coreoperca herzi (species of temperate perch)"
+        },
+        "romaji": "kouraioyanirami"
       }
     ],
     "radical": {
@@ -60,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07768.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7768.gif",
     "uri": "https://jisho.org/search/%E7%9D%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghễ"
+  ]
 }

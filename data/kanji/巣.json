@@ -276,49 +276,76 @@
       {
         "example": "巣窟",
         "reading": "ソウクツ",
-        "meaning": "den, haunt, hangout, nest, lair"
+        "meaning": {
+          "en": "den, haunt, hangout, nest, lair"
+        },
+        "romaji": "soukutsu"
       },
       {
         "example": "巣穴",
         "reading": "スアナ",
-        "meaning": "nesting hole, burrow, den"
+        "meaning": {
+          "en": "nesting hole, burrow, den"
+        },
+        "romaji": "suana"
       },
       {
         "example": "卵巣",
         "reading": "ランソウ",
-        "meaning": "ovary"
+        "meaning": {
+          "en": "ovary"
+        },
+        "romaji": "ransou"
       },
       {
         "example": "病巣",
         "reading": "ビョウソウ",
-        "meaning": "focus, nidus, lesion"
+        "meaning": {
+          "en": "focus, nidus, lesion"
+        },
+        "romaji": "byousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巣",
         "reading": "す",
-        "meaning": "nest, rookery, breeding place, hive, den, haunt, (spider's) web"
+        "meaning": {
+          "vi": "nest, rookery, breeding place, hive, den, haunt, (spider's) web"
+        },
+        "romaji": "su"
       },
       {
         "example": "巣食う",
         "reading": "すくう",
-        "meaning": "to build a nest, to nest, to hang out (of a bad group), to be based (in), to haunt, to lodge (in one's mind; of an evil thought, delusion, etc.), to be planted, to luck (in one's heart)"
+        "meaning": {
+          "vi": "to build a nest, to nest, to hang out (of a bad group), to be based (in), to haunt, to lodge (in one's mind; of an evil thought, delusion, etc.), to be planted, to luck (in one's heart)"
+        },
+        "romaji": "sukuu"
       },
       {
         "example": "古巣",
         "reading": "ふるす",
-        "meaning": "old haunts, former homes"
+        "meaning": {
+          "en": "old haunts, former homes"
+        },
+        "romaji": "furusu"
       },
       {
         "example": "浮き巣",
         "reading": "うきす",
-        "meaning": "floating nest"
+        "meaning": {
+          "en": "floating nest"
+        },
+        "romaji": "ukisu"
       },
       {
         "example": "巣食う",
         "reading": "すくう",
-        "meaning": "to build a nest, to nest, to hang out (of a bad group), to be based (in), to haunt, to lodge (in one's mind; of an evil thought, delusion, etc.), to be planted, to luck (in one's heart)"
+        "meaning": {
+          "vi": "to build a nest, to nest, to hang out (of a bad group), to be based (in), to haunt, to lodge (in one's mind; of an evil thought, delusion, etc.), to be planted, to luck (in one's heart)"
+        },
+        "romaji": "sukuu"
       }
     ],
     "radical": {
@@ -338,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de3.gif",
     "uri": "https://jisho.org/search/%E5%B7%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "sào"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "蠢動",
         "reading": "シュンドウ",
-        "meaning": "wriggling, squirming, writhing, maneuvering (behind the scenes; of insignificant people), manoeuvring, planning mischief"
+        "meaning": {
+          "vi": "wriggling, squirming, writhing, maneuvering (behind the scenes; of insignificant people), manoeuvring, planning mischief"
+        },
+        "romaji": "shundou"
       },
       {
         "example": "愚蠢",
         "reading": "グシュン",
-        "meaning": "foolish, stupid, silly"
+        "meaning": {
+          "vi": "foolish, stupid, silly"
+        },
+        "romaji": "gushun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蠢く",
         "reading": "うごめく",
-        "meaning": "to wriggle, to squirm, to crawl like a worm"
+        "meaning": {
+          "en": "to wriggle, to squirm, to crawl like a worm"
+        },
+        "romaji": "ugomeku"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08822.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8822.gif",
     "uri": "https://jisho.org/search/%E8%A0%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "xuẩn"
+  ]
 }

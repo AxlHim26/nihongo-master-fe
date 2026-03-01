@@ -372,49 +372,76 @@
       {
         "example": "公",
         "reading": "コウ",
-        "meaning": "public affair, government matter, the state, the government, the public, duke, prince, Sir, Lord, familiar or derogatory suffix"
+        "meaning": {
+          "vi": "public affair, government matter, the state, the government, the public, duke, prince, Sir, Lord, familiar or derogatory suffix"
+        },
+        "romaji": "kou"
       },
       {
         "example": "公安",
         "reading": "コウアン",
-        "meaning": "public peace, public safety, public security, peace and order, security police"
+        "meaning": {
+          "vi": "public peace, public safety, public security, peace and order, security police"
+        },
+        "romaji": "kouan"
       },
       {
         "example": "大公",
         "reading": "タイコウ",
-        "meaning": "archduke"
+        "meaning": {
+          "en": "archduke"
+        },
+        "romaji": "taikou"
       },
       {
         "example": "乃公",
         "reading": "ダイコウ",
-        "meaning": "I, me"
+        "meaning": {
+          "en": "I, me"
+        },
+        "romaji": "daikou"
       },
       {
         "example": "公家",
         "reading": "クゲ",
-        "meaning": "court noble, nobility, kuge, Imperial Court"
+        "meaning": {
+          "vi": "court noble, nobility, kuge, Imperial Court"
+        },
+        "romaji": "kuge"
       },
       {
         "example": "公廨",
         "reading": "クガイ",
-        "meaning": "government office"
+        "meaning": {
+          "en": "government office"
+        },
+        "romaji": "kugai"
       },
       {
         "example": "夙",
         "reading": "シュク",
-        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        "meaning": {
+          "vi": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        },
+        "romaji": "shuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "公",
         "reading": "おおやけ",
-        "meaning": "official, governmental, formal, public (use, matter, forum, etc.), common, being public knowledge, being out in the open, exposure to public view"
+        "meaning": {
+          "vi": "official, governmental, formal, public (use, matter, forum, etc.), common, being public knowledge, being out in the open, exposure to public view"
+        },
+        "romaji": "ooyake"
       },
       {
         "example": "公所",
         "reading": "おおやけどころ",
-        "meaning": "imperial court, government office, imperial land, government land"
+        "meaning": {
+          "vi": "imperial court, government office, imperial land, government land"
+        },
+        "romaji": "ooyakedokoro"
       }
     ],
     "radical": {
@@ -429,5 +456,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0516c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/516c.gif",
     "uri": "https://jisho.org/search/%E5%85%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "công"
+  ]
 }

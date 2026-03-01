@@ -18,7 +18,10 @@
       {
         "example": "誂える",
         "reading": "あつらえる",
-        "meaning": "to give an order, to place an order, to have made to order"
+        "meaning": {
+          "vi": "to give an order, to place an order, to have made to order"
+        },
+        "romaji": "atsuraeru"
       }
     ],
     "radical": {
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a82.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a82.gif",
     "uri": "https://jisho.org/search/%E8%AA%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "điếu",
+    "điệu"
+  ]
 }

@@ -20,7 +20,10 @@
       {
         "example": "姥捨て山",
         "reading": "うばすてやま",
-        "meaning": "núi bỏ bà già (theo truyền thuyết), vị trí trong công ty dành cho người già vô dụng, trường cao đẳng nữ"
+        "meaning": {
+          "vi": "núi bỏ bà già (theo truyền thuyết), vị trí trong công ty dành cho người già vô dụng, trường cao đẳng nữ"
+        },
+        "romaji": "ubasuteyama"
       }
     ],
     "radical": {
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59e8.gif",
     "uri": "https://jisho.org/search/%E5%A7%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "di"
+  ]
 }

@@ -397,84 +397,132 @@
       {
         "example": "悪",
         "reading": "アク",
-        "meaning": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy"
+        "meaning": {
+          "en": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy"
+        },
+        "romaji": "aku"
       },
       {
         "example": "悪質",
         "reading": "アクシツ",
-        "meaning": "malicious, vicious, malignant, underhanded, shoddy, inferior, poor-quality, second-rate"
+        "meaning": {
+          "vi": "malicious, vicious, malignant, underhanded, shoddy, inferior, poor-quality, second-rate"
+        },
+        "romaji": "akushitsu"
       },
       {
         "example": "害悪",
         "reading": "ガイアク",
-        "meaning": "harm, injury, evil (influence)"
+        "meaning": {
+          "en": "harm, injury, evil (influence)"
+        },
+        "romaji": "gaiaku"
       },
       {
         "example": "改悪",
         "reading": "カイアク",
-        "meaning": "changing (something) for the worse, disimprovement, deterioration"
+        "meaning": {
+          "vi": "changing (something) for the worse, disimprovement, deterioration"
+        },
+        "romaji": "kaiaku"
       },
       {
         "example": "悪寒",
         "reading": "オカン",
-        "meaning": "chill, shakes, ague"
+        "meaning": {
+          "en": "chill, shakes, ague"
+        },
+        "romaji": "okan"
       },
       {
         "example": "悪血",
         "reading": "アクチ",
-        "meaning": "impure blood"
+        "meaning": {
+          "vi": "impure blood"
+        },
+        "romaji": "akuchi"
       },
       {
         "example": "自己嫌悪",
         "reading": "ジコケンオ",
-        "meaning": "self-hatred, self-abhorrence, self-loathing"
+        "meaning": {
+          "en": "self-hatred, self-abhorrence, self-loathing"
+        },
+        "romaji": "jikoken'o"
       },
       {
         "example": "好悪",
         "reading": "コウオ",
-        "meaning": "likes and dislikes"
+        "meaning": {
+          "en": "likes and dislikes"
+        },
+        "romaji": "kouo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悪い",
         "reading": "わるい",
-        "meaning": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable"
+        "meaning": {
+          "vi": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable"
+        },
+        "romaji": "warui"
       },
       {
         "example": "悪い行い",
         "reading": "わるいおこない",
-        "meaning": "bad deed, evil deed"
+        "meaning": {
+          "en": "bad deed, evil deed"
+        },
+        "romaji": "waruiokonai"
       },
       {
         "example": "悪し",
         "reading": "あし",
-        "meaning": "bad, evil"
+        "meaning": {
+          "en": "bad, evil"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "悪しからず",
         "reading": "あしからず",
-        "meaning": "don't get me wrong, but ..., I'm sorry"
+        "meaning": {
+          "en": "don't get me wrong, but ..., I'm sorry"
+        },
+        "romaji": "ashikarazu"
       },
       {
         "example": "難い",
         "reading": "にくい",
-        "meaning": "difficult to ..., hard to ..."
+        "meaning": {
+          "en": "difficult to ..., hard to ..."
+        },
+        "romaji": "nikui"
       },
       {
         "example": "憎い",
         "reading": "にくい",
-        "meaning": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
+        "meaning": {
+          "vi": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
+        },
+        "romaji": "nikui"
       },
       {
         "example": "安んぞ",
         "reading": "いずくんぞ",
-        "meaning": "how, why"
+        "meaning": {
+          "en": "how, why"
+        },
+        "romaji": "izukunzo"
       },
       {
         "example": "憎む",
         "reading": "にくむ",
-        "meaning": "to hate, to detest"
+        "meaning": {
+          "en": "to hate, to detest"
+        },
+        "romaji": "nikumu"
       }
     ],
     "radical": {
@@ -495,5 +543,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60aa.gif",
     "uri": "https://jisho.org/search/%E6%82%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "ác"
+  ]
 }

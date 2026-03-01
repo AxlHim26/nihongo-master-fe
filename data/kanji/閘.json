@@ -16,17 +16,26 @@
       {
         "example": "閘門",
         "reading": "コウモン",
-        "meaning": "lock gate"
+        "meaning": {
+          "en": "lock gate"
+        },
+        "romaji": "koumon"
       },
       {
         "example": "気閘",
         "reading": "キコウ",
-        "meaning": "airlock, air lock"
+        "meaning": {
+          "en": "airlock, air lock"
+        },
+        "romaji": "kikou"
       },
       {
         "example": "陸閘",
         "reading": "リッコウ",
-        "meaning": "land lock, floodwall gate"
+        "meaning": {
+          "en": "land lock, floodwall gate"
+        },
+        "romaji": "rikkou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09598.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9598.gif",
     "uri": "https://jisho.org/search/%E9%96%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "sạp",
+    "áp"
+  ]
 }

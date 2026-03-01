@@ -265,34 +265,52 @@
       {
         "example": "厚生",
         "reading": "コウセイ",
-        "meaning": "welfare, public welfare, social welfare, (former) Ministry of Health and Welfare"
+        "meaning": {
+          "vi": "welfare, public welfare, social welfare, (former) Ministry of Health and Welfare"
+        },
+        "romaji": "kousei"
       },
       {
         "example": "厚相",
         "reading": "コウショウ",
-        "meaning": "Welfare Minister"
+        "meaning": {
+          "en": "Welfare Minister"
+        },
+        "romaji": "koushou"
       },
       {
         "example": "重厚",
         "reading": "ジュウコウ",
-        "meaning": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
+        "meaning": {
+          "vi": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
+        },
+        "romaji": "juukou"
       },
       {
         "example": "敗色濃厚",
         "reading": "ハイショクノウコウ",
-        "meaning": "likely loss, probable defeat"
+        "meaning": {
+          "vi": "likely loss, probable defeat"
+        },
+        "romaji": "haishokunoukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厚い",
         "reading": "あつい",
-        "meaning": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
+        "meaning": {
+          "vi": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
+        },
+        "romaji": "atsui"
       },
       {
         "example": "厚板",
         "reading": "あついた",
-        "meaning": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
+        "meaning": {
+          "vi": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
+        },
+        "romaji": "atsuita"
       }
     ],
     "radical": {
@@ -308,5 +326,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0539a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/539a.gif",
     "uri": "https://jisho.org/search/%E5%8E%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hậu"
+  ]
 }

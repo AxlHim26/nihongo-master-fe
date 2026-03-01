@@ -373,44 +373,68 @@
       {
         "example": "肉",
         "reading": "ニク",
-        "meaning": "flesh, meat, flesh (of a fruit), pulp, the physical body (as opposed to the spirit), flesh, thickness, content, substance, flesh, ink pad"
+        "meaning": {
+          "vi": "flesh, meat, flesh (of a fruit), pulp, the physical body (as opposed to the spirit), flesh, thickness, content, substance, flesh, ink pad"
+        },
+        "romaji": "niku"
       },
       {
         "example": "肉親",
         "reading": "ニクシン",
-        "meaning": "blood relationship, blood relative"
+        "meaning": {
+          "vi": "blood relationship, blood relative"
+        },
+        "romaji": "nikushin"
       },
       {
         "example": "食肉",
         "reading": "ショクニク",
-        "meaning": "meat (for consumption)"
+        "meaning": {
+          "vi": "meat (for consumption)"
+        },
+        "romaji": "shokuniku"
       },
       {
         "example": "中肉",
         "reading": "チュウニク",
-        "meaning": "medium build, meat of medium quality"
+        "meaning": {
+          "en": "medium build, meat of medium quality"
+        },
+        "romaji": "chuuniku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肉",
         "reading": "しし",
-        "meaning": "flesh (esp. of an animal), meat"
+        "meaning": {
+          "vi": "flesh (esp. of an animal), meat"
+        },
+        "romaji": "shishi"
       },
       {
         "example": "肉合い",
         "reading": "ししあい",
-        "meaning": "fleshiness, plumpness"
+        "meaning": {
+          "vi": "fleshiness, plumpness"
+        },
+        "romaji": "shishiai"
       },
       {
         "example": "鹿",
         "reading": "かのしし",
-        "meaning": "venison, deer"
+        "meaning": {
+          "en": "venison, deer"
+        },
+        "romaji": "kanoshishi"
       },
       {
         "example": "脯",
         "reading": "ほしし",
-        "meaning": "dried meat, jerky"
+        "meaning": {
+          "en": "dried meat, jerky"
+        },
+        "romaji": "hoshishi"
       }
     ],
     "radical": {
@@ -429,5 +453,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08089.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8089.gif",
     "uri": "https://jisho.org/search/%E8%82%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhụ",
+    "nhục",
+    "nậu"
+  ]
 }

@@ -297,29 +297,44 @@
       {
         "example": "討論",
         "reading": "トウロン",
-        "meaning": "debate, discussion"
+        "meaning": {
+          "en": "debate, discussion"
+        },
+        "romaji": "touron"
       },
       {
         "example": "討議",
         "reading": "トウギ",
-        "meaning": "debate, discussion"
+        "meaning": {
+          "en": "debate, discussion"
+        },
+        "romaji": "tougi"
       },
       {
         "example": "征討",
         "reading": "セイトウ",
-        "meaning": "subjugation, conquest"
+        "meaning": {
+          "en": "subjugation, conquest"
+        },
+        "romaji": "seitou"
       },
       {
         "example": "追討",
         "reading": "ツイトウ",
-        "meaning": "tracking down and killing, punitive expedition"
+        "meaning": {
+          "vi": "tracking down and killing, punitive expedition"
+        },
+        "romaji": "tsuitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "討つ",
         "reading": "うつ",
-        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge"
+        "meaning": {
+          "en": "to attack, to destroy, to defeat, to conquer, to avenge"
+        },
+        "romaji": "utsu"
       }
     ],
     "radical": {
@@ -337,5 +352,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a0e.gif",
     "uri": "https://jisho.org/search/%E8%A8%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thảo"
+  ]
 }

@@ -20,29 +20,44 @@
       {
         "example": "和",
         "reading": "ワ",
-        "meaning": "sum, harmony, peace, Japan, Japanese-style"
+        "meaning": {
+          "vi": "sum, harmony, peace, Japan, Japanese-style"
+        },
+        "romaji": "wa"
       },
       {
         "example": "和歌",
         "reading": "ワカ",
-        "meaning": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+        "meaning": {
+          "vi": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+        },
+        "romaji": "waka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "大和",
         "reading": "やまと",
-        "meaning": "(ancient) Japan, Yamato kingdom, state of Yamato, Yamato (former province located in present-day Nara Prefecture)"
+        "meaning": {
+          "vi": "(ancient) Japan, Yamato kingdom, state of Yamato, Yamato (former province located in present-day Nara Prefecture)"
+        },
+        "romaji": "yamato"
       },
       {
         "example": "大和歌",
         "reading": "やまとうた",
-        "meaning": "Japanese poem, waka, tanka"
+        "meaning": {
+          "vi": "Japanese poem, waka, tanka"
+        },
+        "romaji": "yamatouta"
       },
       {
         "example": "大倭",
         "reading": "おおやまと",
-        "meaning": "Japan, Yamato (former province located in present-day Nara Prefecture)"
+        "meaning": {
+          "vi": "Japan, Yamato (former province located in present-day Nara Prefecture)"
+        },
+        "romaji": "ooyamato"
       }
     ],
     "radical": {
@@ -61,5 +76,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0502d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/502d.gif",
     "uri": "https://jisho.org/search/%E5%80%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nuỵ",
+    "oa",
+    "oải",
+    "uy"
+  ]
 }

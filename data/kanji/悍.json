@@ -17,22 +17,34 @@
       {
         "example": "悍馬",
         "reading": "カンバ",
-        "meaning": "unruly horse, unmanageable horse, unbroken horse"
+        "meaning": {
+          "en": "unruly horse, unmanageable horse, unbroken horse"
+        },
+        "romaji": "kanba"
       },
       {
         "example": "悍婦",
         "reading": "カンプ",
-        "meaning": "bad-tempered woman, shrew, vixen, virago"
+        "meaning": {
+          "vi": "bad-tempered woman, shrew, vixen, virago"
+        },
+        "romaji": "kanpu"
       },
       {
         "example": "勁悍",
         "reading": "ケイカン",
-        "meaning": "strong and fierce"
+        "meaning": {
+          "en": "strong and fierce"
+        },
+        "romaji": "keikan"
       },
       {
         "example": "精悍",
         "reading": "セイカン",
-        "meaning": "virile, tough, masculine, sharp (features, look, etc.), fierce, dauntless"
+        "meaning": {
+          "vi": "virile, tough, masculine, sharp (features, look, etc.), fierce, dauntless"
+        },
+        "romaji": "seikan"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608d.gif",
     "uri": "https://jisho.org/search/%E6%82%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "hãn"
+  ]
 }

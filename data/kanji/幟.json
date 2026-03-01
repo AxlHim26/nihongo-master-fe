@@ -16,29 +16,44 @@
       {
         "example": "旗幟",
         "reading": "キシ",
-        "meaning": "flag, banner, ensign, emblem, (one's) stance, position, opinion"
+        "meaning": {
+          "vi": "flag, banner, ensign, emblem, (one's) stance, position, opinion"
+        },
+        "romaji": "kishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幟",
         "reading": "のぼり",
-        "meaning": "nobori, long, narrow banner attached to a pole on one side and a horizontal rod along the top, Boys' Day nobori, carp streamer"
+        "meaning": {
+          "vi": "nobori, long, narrow banner attached to a pole on one side and a horizontal rod along the top, Boys' Day nobori, carp streamer"
+        },
+        "romaji": "nobori"
       },
       {
         "example": "幟邑",
         "reading": "のぼりざと",
-        "meaning": "kanji \"large village\" radical"
+        "meaning": {
+          "en": "kanji \"large village\" radical"
+        },
+        "romaji": "noborizato"
       },
       {
         "example": "鯉のぼり",
         "reading": "こいのぼり",
-        "meaning": "koinobori, carp streamer, carp-shaped windsock traditionally flown to celebrate the Children's Day in May"
+        "meaning": {
+          "vi": "koinobori, carp streamer, carp-shaped windsock traditionally flown to celebrate the Children's Day in May"
+        },
+        "romaji": "koinobori"
       },
       {
         "example": "五月幟",
         "reading": "ごがつのぼり",
-        "meaning": "Boys' Festival paper-carp streamers"
+        "meaning": {
+          "vi": "Boys' Festival paper-carp streamers"
+        },
+        "romaji": "gogatsunobori"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e5f.gif",
     "uri": "https://jisho.org/search/%E5%B9%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "xí"
+  ]
 }

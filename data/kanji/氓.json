@@ -16,12 +16,18 @@
       {
         "example": "蒼氓",
         "reading": "ソウボウ",
-        "meaning": "the people, the public, citizens"
+        "meaning": {
+          "vi": "the people, the public, citizens"
+        },
+        "romaji": "soubou"
       },
       {
         "example": "流氓",
         "reading": "リュウボウ",
-        "meaning": "refugee"
+        "meaning": {
+          "en": "refugee"
+        },
+        "romaji": "ryuubou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c13.gif",
     "uri": "https://jisho.org/search/%E6%B0%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "manh"
+  ]
 }

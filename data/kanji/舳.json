@@ -19,29 +19,44 @@
       {
         "example": "舳",
         "reading": "ジク",
-        "meaning": "mũi tàu"
+        "meaning": {
+          "vi": "mũi tàu"
+        },
+        "romaji": "jiku"
       },
       {
         "example": "舳艫",
         "reading": "ジクロ",
-        "meaning": "mũi và đuôi tàu"
+        "meaning": {
+          "vi": "mũi và đuôi tàu"
+        },
+        "romaji": "jikuro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "舳先",
         "reading": "へさき",
-        "meaning": "mũi tàu"
+        "meaning": {
+          "vi": "mũi tàu"
+        },
+        "romaji": "hesaki"
       },
       {
         "example": "艫舳",
         "reading": "ともへ",
-        "meaning": "đuôi và mũi tàu"
+        "meaning": {
+          "vi": "đuôi và mũi tàu"
+        },
+        "romaji": "tomohe"
       },
       {
         "example": "舳先",
         "reading": "へさき",
-        "meaning": "mũi tàu"
+        "meaning": {
+          "vi": "mũi tàu"
+        },
+        "romaji": "hesaki"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08233.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8233.gif",
     "uri": "https://jisho.org/search/%E8%88%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "trục"
+  ]
 }

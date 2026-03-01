@@ -18,7 +18,10 @@
       {
         "example": "殳旁",
         "reading": "ほこづくり",
-        "meaning": "kanji radical 79 at right"
+        "meaning": {
+          "en": "kanji radical 79 at right"
+        },
+        "romaji": "hokozukuri"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb3.gif",
     "uri": "https://jisho.org/search/%E6%AE%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thù"
+  ]
 }

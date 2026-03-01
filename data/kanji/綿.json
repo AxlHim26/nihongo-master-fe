@@ -284,44 +284,68 @@
       {
         "example": "綿",
         "reading": "メン",
-        "meaning": "cotton"
+        "meaning": {
+          "en": "cotton"
+        },
+        "romaji": "men"
       },
       {
         "example": "綿密",
         "reading": "メンミツ",
-        "meaning": "minute, detailed, careful, scrupulous, thorough"
+        "meaning": {
+          "vi": "minute, detailed, careful, scrupulous, thorough"
+        },
+        "romaji": "menmitsu"
       },
       {
         "example": "石灰海綿",
         "reading": "セッカイカイメン",
-        "meaning": "calcareous sponge (any sponge of class Calcarea)"
+        "meaning": {
+          "vi": "calcareous sponge (any sponge of class Calcarea)"
+        },
+        "romaji": "sekkaikaimen"
       },
       {
         "example": "六放海綿",
         "reading": "ロッポウカイメン",
-        "meaning": "hexactinellid sponge, glass sponge (any sponge of class Hexactinellida)"
+        "meaning": {
+          "vi": "hexactinellid sponge, glass sponge (any sponge of class Hexactinellida)"
+        },
+        "romaji": "roppoukaimen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "綿",
         "reading": "わた",
-        "meaning": "cotton plant (Gossypium spp.), batting, wadding, padding"
+        "meaning": {
+          "vi": "cotton plant (Gossypium spp.), batting, wadding, padding"
+        },
+        "romaji": "wata"
       },
       {
         "example": "海神",
         "reading": "かいじん",
-        "meaning": "sea god, Poseidon, Neptune, sea, ocean"
+        "meaning": {
+          "vi": "sea god, Poseidon, Neptune, sea, ocean"
+        },
+        "romaji": "kaijin"
       },
       {
         "example": "結い綿",
         "reading": "ゆいわた",
-        "meaning": "traditional hairstyle worn by unmarried women"
+        "meaning": {
+          "en": "traditional hairstyle worn by unmarried women"
+        },
+        "romaji": "yuiwata"
       },
       {
         "example": "中綿",
         "reading": "なかわた",
-        "meaning": "padding (clothing or bedding), insulation, cotton wadding, stuffing (furniture)"
+        "meaning": {
+          "vi": "padding (clothing or bedding), insulation, cotton wadding, stuffing (furniture)"
+        },
+        "romaji": "nakawata"
       }
     ],
     "radical": {
@@ -342,5 +366,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dbf.gif",
     "uri": "https://jisho.org/search/%E7%B6%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "miên"
+  ]
 }

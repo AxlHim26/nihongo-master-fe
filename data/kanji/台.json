@@ -329,54 +329,84 @@
       {
         "example": "台",
         "reading": "ダイ",
-        "meaning": "stand, rest, base, pedestal, platform, table, holder, support, rack, setting (of a gem), mounting, stock (in grafting), counter for machines and vehicles, level (e.g. price level), mark, range, decade (of one's life), tall building (with a fine view), (observation) platform, plateau, heights"
+        "meaning": {
+          "vi": "stand, rest, base, pedestal, platform, table, holder, support, rack, setting (of a gem), mounting, stock (in grafting), counter for machines and vehicles, level (e.g. price level), mark, range, decade (of one's life), tall building (with a fine view), (observation) platform, plateau, heights"
+        },
+        "romaji": "dai"
       },
       {
         "example": "台車",
         "reading": "ダイシャ",
-        "meaning": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+        "meaning": {
+          "vi": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+        },
+        "romaji": "daisha"
       },
       {
         "example": "管区気象台",
         "reading": "カンクキショウダイ",
-        "meaning": "district meteorological observatory"
+        "meaning": {
+          "en": "district meteorological observatory"
+        },
+        "romaji": "kankukishoudai"
       },
       {
         "example": "気象台",
         "reading": "キショウダイ",
-        "meaning": "meteorological observatory"
+        "meaning": {
+          "en": "meteorological observatory"
+        },
+        "romaji": "kishoudai"
       },
       {
         "example": "台",
         "reading": "タイ",
-        "meaning": "Taiwan"
+        "meaning": {
+          "en": "Taiwan"
+        },
+        "romaji": "tai"
       },
       {
         "example": "台頭",
         "reading": "タイトウ",
-        "meaning": "rise (e.g. of a movement), emergence, rearing one's head, gaining prominence, coming to the fore, gaining power, gathering strength"
+        "meaning": {
+          "vi": "rise (e.g. of a movement), emergence, rearing one's head, gaining prominence, coming to the fore, gaining power, gathering strength"
+        },
+        "romaji": "taitou"
       },
       {
         "example": "屋台",
         "reading": "ヤタイ",
-        "meaning": "cart (esp. a food cart), stall, stand, festival float, portable shrine dedicated to a god and shaped like a house, dancing platform, stage prop fashioned after a large building, framework (of a building), foundation, house (esp. a small and miserable one)"
+        "meaning": {
+          "vi": "cart (esp. a food cart), stall, stand, festival float, portable shrine dedicated to a god and shaped like a house, dancing platform, stage prop fashioned after a large building, framework (of a building), foundation, house (esp. a small and miserable one)"
+        },
+        "romaji": "yatai"
       },
       {
         "example": "最後の舞台",
         "reading": "サイゴノブタイ",
-        "meaning": "final performance, swan song, last act"
+        "meaning": {
+          "vi": "final performance, swan song, last act"
+        },
+        "romaji": "saigonobutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "台",
         "reading": "うてな",
-        "meaning": "tower, stand, pedestal, calyx"
+        "meaning": {
+          "vi": "tower, stand, pedestal, calyx"
+        },
+        "romaji": "utena"
       },
       {
         "example": "弾正台",
         "reading": "だんじょうだい",
-        "meaning": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+        "meaning": {
+          "vi": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+        },
+        "romaji": "danjoudai"
       }
     ],
     "radical": {
@@ -391,5 +421,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f0.gif",
     "uri": "https://jisho.org/search/%E5%8F%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "thai",
+    "đài"
+  ]
 }

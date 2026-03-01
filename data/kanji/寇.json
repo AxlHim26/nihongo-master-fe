@@ -16,29 +16,44 @@
       {
         "example": "寇",
         "reading": "コウ",
-        "meaning": "invasion, invader"
+        "meaning": {
+          "en": "invasion, invader"
+        },
+        "romaji": "kou"
       },
       {
         "example": "寇する",
         "reading": "コウスル",
-        "meaning": "to invade"
+        "meaning": {
+          "en": "to invade"
+        },
+        "romaji": "kousuru"
       },
       {
         "example": "外寇",
         "reading": "ガイコウ",
-        "meaning": "foreign invasion, foreign attack, foreign force"
+        "meaning": {
+          "en": "foreign invasion, foreign attack, foreign force"
+        },
+        "romaji": "gaikou"
       },
       {
         "example": "来寇",
         "reading": "ライコウ",
-        "meaning": "invasion, raid, inroad"
+        "meaning": {
+          "en": "invasion, raid, inroad"
+        },
+        "romaji": "raikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仇する",
         "reading": "あだする",
-        "meaning": "to harm, to injure, to damage, to invade, to raid, to oppose, to rise against"
+        "meaning": {
+          "vi": "to harm, to injure, to damage, to invade, to raid, to oppose, to rise against"
+        },
+        "romaji": "adasuru"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc7.gif",
     "uri": "https://jisho.org/search/%E5%AF%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "khấu"
+  ]
 }

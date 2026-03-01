@@ -18,12 +18,18 @@
       {
         "example": "霙",
         "reading": "みぞれ",
-        "meaning": "sleet, daikon shavings, grated daikon, shaved ice topped with honey"
+        "meaning": {
+          "vi": "sleet, daikon shavings, grated daikon, shaved ice topped with honey"
+        },
+        "romaji": "mizore"
       },
       {
         "example": "みぞれ和え",
         "reading": "みぞれあえ",
-        "meaning": "seasoning of grated daikon with soy and vinegar, usu. for fish or vegetables"
+        "meaning": {
+          "en": "seasoning of grated daikon with soy and vinegar, usu. for fish or vegetables"
+        },
+        "romaji": "mizoreae"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09719.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9719.gif",
     "uri": "https://jisho.org/search/%E9%9C%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "anh"
+  ]
 }

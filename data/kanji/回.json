@@ -372,49 +372,76 @@
       {
         "example": "回",
         "reading": "カイ",
-        "meaning": "counter for occurrences, a time, an instance, inning (baseball), round, game, episode, chapter, instalment, Hui (people), Islam"
+        "meaning": {
+          "vi": "counter for occurrences, a time, an instance, inning (baseball), round, game, episode, chapter, instalment, Hui (people), Islam"
+        },
+        "romaji": "kai"
       },
       {
         "example": "回忌",
         "reading": "カイキ",
-        "meaning": "death anniversary, anniversary of a person's death"
+        "meaning": {
+          "vi": "death anniversary, anniversary of a person's death"
+        },
+        "romaji": "kaiki"
       },
       {
         "example": "初回",
         "reading": "ショカイ",
-        "meaning": "first time, first innings, initial attempt, first, initial"
+        "meaning": {
+          "vi": "first time, first innings, initial attempt, first, initial"
+        },
+        "romaji": "shokai"
       },
       {
         "example": "奪回",
         "reading": "ダッカイ",
-        "meaning": "recovery, rescue, recapture"
+        "meaning": {
+          "vi": "recovery, rescue, recapture"
+        },
+        "romaji": "dakkai"
       },
       {
         "example": "回向",
         "reading": "エコウ",
-        "meaning": "memorial service, prayers for the repose of the soul, transfer of merit"
+        "meaning": {
+          "vi": "memorial service, prayers for the repose of the soul, transfer of merit"
+        },
+        "romaji": "ekou"
       },
       {
         "example": "回向偈",
         "reading": "エコウゲ",
-        "meaning": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+        "meaning": {
+          "en": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+        },
+        "romaji": "ekouge"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "回る",
         "reading": "まわる",
-        "meaning": "to turn, to rotate, to revolve, to spin, to go around, to circle, to revolve around, to orbit, to make the rounds (of), to go around (several places), to travel around, to make a tour of, to patrol, to go by way of, to go via, to stop by (on the way), to take a roundabout route, to make a detour, to move around (to another place or position), to come around, to go over (e.g. to the opposing side), to come around (of one's turn), to be passed around (of a cup, circular, etc.), to function, to work well, to spread, to extend (to; e.g. of one's attention), to reach, to take effect (of alcohol, poison, etc.), to pass (a time), to turn (e.g. 5 o'clock), to earn interest, to ... around, to ... about"
+        "meaning": {
+          "vi": "to turn, to rotate, to revolve, to spin, to go around, to circle, to revolve around, to orbit, to make the rounds (of), to go around (several places), to travel around, to make a tour of, to patrol, to go by way of, to go via, to stop by (on the way), to take a roundabout route, to make a detour, to move around (to another place or position), to come around, to go over (e.g. to the opposing side), to come around (of one's turn), to be passed around (of a cup, circular, etc.), to function, to work well, to spread, to extend (to; e.g. of one's attention), to reach, to take effect (of alcohol, poison, etc.), to pass (a time), to turn (e.g. 5 o'clock), to earn interest, to ... around, to ... about"
+        },
+        "romaji": "mawaru"
       },
       {
         "example": "回す",
         "reading": "まわす",
-        "meaning": "to turn, to rotate, to spin, to twist, to gyrate, to pass around, to send around, to hand around, to circulate, to move (someone or something to where its needed), to send, to bring, to transfer, to forward, to direct, to submit, to turn (to a new use), to use (for something else), to turn on (something that turns or has a rotating part, e.g. a washing machine), to start up (e.g. an engine), to give (something) a spin, to put (someone in a position), to make (e.g. an enemy of), to ... around (e.g. chase, fool, play), to do all over, to do everywhere, to do completely, to surround (something) with, to enclose with, to put (an arm) around (e.g. someone's waist), to reach around, to invest (money), to lend, to dial (a telephone number), to gang-rape, to operate (e.g. business, shop)"
+        "meaning": {
+          "vi": "to turn, to rotate, to spin, to twist, to gyrate, to pass around, to send around, to hand around, to circulate, to move (someone or something to where its needed), to send, to bring, to transfer, to forward, to direct, to submit, to turn (to a new use), to use (for something else), to turn on (something that turns or has a rotating part, e.g. a washing machine), to start up (e.g. an engine), to give (something) a spin, to put (someone in a position), to make (e.g. an enemy of), to ... around (e.g. chase, fool, play), to do all over, to do everywhere, to do completely, to surround (something) with, to enclose with, to put (an arm) around (e.g. someone's waist), to reach around, to invest (money), to lend, to dial (a telephone number), to gang-rape, to operate (e.g. business, shop)"
+        },
+        "romaji": "mawasu"
       },
       {
         "example": "回る",
         "reading": "もとおる",
-        "meaning": "to wander around"
+        "meaning": {
+          "en": "to wander around"
+        },
+        "romaji": "motooru"
       }
     ],
     "radical": {
@@ -429,5 +456,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056de.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56de.gif",
     "uri": "https://jisho.org/search/%E5%9B%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hối",
+    "hồi"
+  ]
 }

@@ -18,7 +18,10 @@
       {
         "example": "苹果",
         "reading": "ヒョウカ",
-        "meaning": "apple (fruit)"
+        "meaning": {
+          "vi": "apple (fruit)"
+        },
+        "romaji": "hyouka"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82f9.gif",
     "uri": "https://jisho.org/search/%E8%8B%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "biền",
+    "bình",
+    "phanh",
+    "tần"
+  ]
 }

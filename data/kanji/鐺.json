@@ -22,7 +22,10 @@
       {
         "example": "鐺",
         "reading": "こじり",
-        "meaning": "(ornamental) tip of a scabbard, bottom of a bargeboard or cantilever"
+        "meaning": {
+          "vi": "(ornamental) tip of a scabbard, bottom of a bargeboard or cantilever"
+        },
+        "romaji": "kojiri"
       }
     ],
     "radical": {
@@ -43,5 +46,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0943a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/943a.gif",
     "uri": "https://jisho.org/search/%E9%90%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "sanh",
+    "thang",
+    "đang",
+    "đương"
+  ]
 }

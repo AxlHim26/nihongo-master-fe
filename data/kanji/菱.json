@@ -17,24 +17,36 @@
       {
         "example": "菱亜鉛鉱",
         "reading": "リョウアエンコウ",
-        "meaning": "smithsonite, zinc spar, szaskaite, calamine, dry-bone ore"
+        "meaning": {
+          "vi": "smithsonite, zinc spar, szaskaite, calamine, dry-bone ore"
+        },
+        "romaji": "ryouaenkou"
       },
       {
         "example": "菱花",
         "reading": "リョウカ",
-        "meaning": "water chestnut flower, water caltrop flower"
+        "meaning": {
+          "vi": "water chestnut flower, water caltrop flower"
+        },
+        "romaji": "ryouka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "菱",
         "reading": "ひし",
-        "meaning": "water caltrop (esp. Trapa japonica), water chestnut, caltrop (weapon)"
+        "meaning": {
+          "vi": "water caltrop (esp. Trapa japonica), water chestnut, caltrop (weapon)"
+        },
+        "romaji": "hishi"
       },
       {
         "example": "菱垣廻船",
         "reading": "ひがきかいせん",
-        "meaning": "large Japanese junk"
+        "meaning": {
+          "vi": "large Japanese junk"
+        },
+        "romaji": "higakikaisen"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f1.gif",
     "uri": "https://jisho.org/search/%E8%8F%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "lăng"
+  ]
 }

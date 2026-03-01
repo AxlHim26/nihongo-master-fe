@@ -379,64 +379,100 @@
       {
         "example": "高",
         "reading": "コウ",
-        "meaning": "cao, trường trung học"
+        "meaning": {
+          "vi": "cao, trường trung học"
+        },
+        "romaji": "kou"
       },
       {
         "example": "高圧",
         "reading": "コウアツ",
-        "meaning": "điện áp cao, áp suất cao"
+        "meaning": {
+          "vi": "điện áp cao, áp suất cao"
+        },
+        "romaji": "kouatsu"
       },
       {
         "example": "中高",
         "reading": "チュウコウ",
-        "meaning": "trung học cơ sở và phổ thông, mức trung bình và cao"
+        "meaning": {
+          "vi": "trung học cơ sở và phổ thông, mức trung bình và cao"
+        },
+        "romaji": "chuukou"
       },
       {
         "example": "激昂",
         "reading": "ゲッコウ",
-        "meaning": "kích động, bực tức, phẫn nộ, thịnh nộ"
+        "meaning": {
+          "vi": "kích động, bực tức, phẫn nộ, thịnh nộ"
+        },
+        "romaji": "gekkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "高い",
         "reading": "たかい",
-        "meaning": "cao, đắt, mức cao, trên trung bình, to, cao (âm thanh)"
+        "meaning": {
+          "vi": "cao, đắt, mức cao, trên trung bình, to, cao (âm thanh)"
+        },
+        "romaji": "takai"
       },
       {
         "example": "高い高い",
         "reading": "たかいたかい",
-        "meaning": "bế trẻ giơ cao lên"
+        "meaning": {
+          "vi": "bế trẻ giơ cao lên"
+        },
+        "romaji": "takaitakai"
       },
       {
         "example": "高",
         "reading": "たか",
-        "meaning": "số lượng, khối lượng, số tiền"
+        "meaning": {
+          "vi": "số lượng, khối lượng, số tiền"
+        },
+        "romaji": "taka"
       },
       {
         "example": "高い",
         "reading": "たかい",
-        "meaning": "cao, đắt, mức cao, trên trung bình, to, cao (âm thanh)"
+        "meaning": {
+          "vi": "cao, đắt, mức cao, trên trung bình, to, cao (âm thanh)"
+        },
+        "romaji": "takai"
       },
       {
         "example": "威高",
         "reading": "いたか",
-        "meaning": "kiêu ngạo, tự cao"
+        "meaning": {
+          "vi": "kiêu ngạo, tự cao"
+        },
+        "romaji": "itaka"
       },
       {
         "example": "背高",
         "reading": "せいたか",
-        "meaning": "chiều cao, người cao"
+        "meaning": {
+          "vi": "chiều cao, người cao"
+        },
+        "romaji": "seitaka"
       },
       {
         "example": "高まる",
         "reading": "たかまる",
-        "meaning": "tăng lên, sưng lên, được thăng chức"
+        "meaning": {
+          "vi": "tăng lên, sưng lên, được thăng chức"
+        },
+        "romaji": "takamaru"
       },
       {
         "example": "高める",
         "reading": "たかめる",
-        "meaning": "nâng cao, tăng cường"
+        "meaning": {
+          "vi": "nâng cao, tăng cường"
+        },
+        "romaji": "takameru"
       }
     ],
     "radical": {
@@ -456,5 +492,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ad8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ad8.gif",
     "uri": "https://jisho.org/search/%E9%AB%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "cao"
+  ]
 }

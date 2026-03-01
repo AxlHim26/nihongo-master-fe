@@ -18,24 +18,36 @@
       {
         "example": "輾転",
         "reading": "テンテン",
-        "meaning": "rolling about, tossing and turning (in bed), jactitation, jactation"
+        "meaning": {
+          "en": "rolling about, tossing and turning (in bed), jactitation, jactation"
+        },
+        "romaji": "tenten"
       },
       {
         "example": "輾転反側",
         "reading": "テンテンハンソク",
-        "meaning": "tossing and turning in bed, turning over in bed worrying over something"
+        "meaning": {
+          "en": "tossing and turning in bed, turning over in bed worrying over something"
+        },
+        "romaji": "tentenhansoku"
       },
       {
         "example": "輾転",
         "reading": "テンテン",
-        "meaning": "rolling about, tossing and turning (in bed), jactitation, jactation"
+        "meaning": {
+          "en": "rolling about, tossing and turning (in bed), jactitation, jactation"
+        },
+        "romaji": "tenten"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "軋る",
         "reading": "きしる",
-        "meaning": "to creak, to squeak, to grate, to grind, to rasp"
+        "meaning": {
+          "vi": "to creak, to squeak, to grate, to grind, to rasp"
+        },
+        "romaji": "kishiru"
       }
     ],
     "radical": {
@@ -53,5 +65,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3e.gif",
     "uri": "https://jisho.org/search/%E8%BC%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "niển",
+    "niễn",
+    "triển"
+  ]
 }

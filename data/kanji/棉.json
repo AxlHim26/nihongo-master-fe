@@ -16,24 +16,36 @@
       {
         "example": "綿",
         "reading": "メン",
-        "meaning": "cotton"
+        "meaning": {
+          "en": "cotton"
+        },
+        "romaji": "men"
       },
       {
         "example": "綿花",
         "reading": "メンカ",
-        "meaning": "raw cotton, cotton wool"
+        "meaning": {
+          "en": "raw cotton, cotton wool"
+        },
+        "romaji": "menka"
       },
       {
         "example": "印棉",
         "reading": "インメン",
-        "meaning": "Indian cotton (raw)"
+        "meaning": {
+          "en": "Indian cotton (raw)"
+        },
+        "romaji": "inmen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "綿",
         "reading": "わた",
-        "meaning": "cotton plant (Gossypium spp.), batting, wadding, padding"
+        "meaning": {
+          "vi": "cotton plant (Gossypium spp.), batting, wadding, padding"
+        },
+        "romaji": "wata"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c9.gif",
     "uri": "https://jisho.org/search/%E6%A3%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "miên"
+  ]
 }

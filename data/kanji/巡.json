@@ -20,39 +20,60 @@
       {
         "example": "巡",
         "reading": "ジュン",
-        "meaning": "counter for tours, cycles, rounds, circuits, etc."
+        "meaning": {
+          "en": "counter for tours, cycles, rounds, circuits, etc."
+        },
+        "romaji": "jun"
       },
       {
         "example": "巡回",
         "reading": "ジュンカイ",
-        "meaning": "going around, patrol, round, tour"
+        "meaning": {
+          "vi": "going around, patrol, round, tour"
+        },
+        "romaji": "junkai"
       },
       {
         "example": "一巡",
         "reading": "イチジュン",
-        "meaning": "one round, one tour, one circuit, one patrol"
+        "meaning": {
+          "vi": "one round, one tour, one circuit, one patrol"
+        },
+        "romaji": "ichijun"
       },
       {
         "example": "軽巡",
         "reading": "ケイジュン",
-        "meaning": "light cruiser"
+        "meaning": {
+          "en": "light cruiser"
+        },
+        "romaji": "keijun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巡る",
         "reading": "めぐる",
-        "meaning": "to go around, to make a circle around, to surround, to circle, to enclose, to come around (of a season, anniversary, turn, etc.), to return, to repeat, to circulate (of blood, money, etc.), to travel around, to make a tour of, to concern (a matter), to surround"
+        "meaning": {
+          "vi": "to go around, to make a circle around, to surround, to circle, to enclose, to come around (of a season, anniversary, turn, etc.), to return, to repeat, to circulate (of blood, money, etc.), to travel around, to make a tour of, to concern (a matter), to surround"
+        },
+        "romaji": "meguru"
       },
       {
         "example": "巡り",
         "reading": "めぐり",
-        "meaning": "circumference, girth, tour, pilgrimage, circulation (e.g. of blood)"
+        "meaning": {
+          "vi": "circumference, girth, tour, pilgrimage, circulation (e.g. of blood)"
+        },
+        "romaji": "meguri"
       },
       {
         "example": "めぐり合う",
         "reading": "めぐりあう",
-        "meaning": "to meet fortuitously, to meet by chance, to happen across"
+        "meaning": {
+          "vi": "to meet fortuitously, to meet by chance, to happen across"
+        },
+        "romaji": "meguriau"
       }
     ],
     "radical": {
@@ -71,5 +92,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de1.gif",
     "uri": "https://jisho.org/search/%E5%B7%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "duyên",
+    "tuần"
+  ]
 }

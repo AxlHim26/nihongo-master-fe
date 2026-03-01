@@ -384,54 +384,84 @@
       {
         "example": "愛",
         "reading": "アイ",
-        "meaning": "love, affection, care, attachment, craving, desire, agape, Ireland"
+        "meaning": {
+          "vi": "love, affection, care, attachment, craving, desire, agape, Ireland"
+        },
+        "romaji": "ai"
       },
       {
         "example": "愛犬",
         "reading": "アイケン",
-        "meaning": "pet dog, beloved dog, love of dogs, fondness for dogs"
+        "meaning": {
+          "vi": "pet dog, beloved dog, love of dogs, fondness for dogs"
+        },
+        "romaji": "aiken"
       },
       {
         "example": "友愛",
         "reading": "ユウアイ",
-        "meaning": "fraternity, friendship"
+        "meaning": {
+          "vi": "fraternity, friendship"
+        },
+        "romaji": "yuuai"
       },
       {
         "example": "同性愛",
         "reading": "ドウセイアイ",
-        "meaning": "homosexuality, homosexual love"
+        "meaning": {
+          "en": "homosexuality, homosexual love"
+        },
+        "romaji": "douseiai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "愛しい",
         "reading": "いとしい",
-        "meaning": "lovely, dear, beloved, darling, dearest, pitiable, pitiful"
+        "meaning": {
+          "vi": "lovely, dear, beloved, darling, dearest, pitiable, pitiful"
+        },
+        "romaji": "itoshii"
       },
       {
         "example": "悲しい",
         "reading": "かなしい",
-        "meaning": "sad, miserable, unhappy, sorrowful, sad, lamentable, deplorable, grievous"
+        "meaning": {
+          "vi": "sad, miserable, unhappy, sorrowful, sad, lamentable, deplorable, grievous"
+        },
+        "romaji": "kanashii"
       },
       {
         "example": "愛でる",
         "reading": "めでる",
-        "meaning": "to love, to cherish, to admire, to appreciate"
+        "meaning": {
+          "vi": "to love, to cherish, to admire, to appreciate"
+        },
+        "romaji": "mederu"
       },
       {
         "example": "惜しむ",
         "reading": "おしむ",
-        "meaning": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish"
+        "meaning": {
+          "vi": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish"
+        },
+        "romaji": "oshimu"
       },
       {
         "example": "愛",
         "reading": "まな",
-        "meaning": "beloved, dear"
+        "meaning": {
+          "en": "beloved, dear"
+        },
+        "romaji": "mana"
       },
       {
         "example": "愛弟子",
         "reading": "まなでし",
-        "meaning": "favorite pupil, favourite pupil, teacher's pet"
+        "meaning": {
+          "vi": "favorite pupil, favourite pupil, teacher's pet"
+        },
+        "romaji": "manadeshi"
       }
     ],
     "radical": {
@@ -452,5 +482,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611b.gif",
     "uri": "https://jisho.org/search/%E6%84%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ái"
+  ]
 }

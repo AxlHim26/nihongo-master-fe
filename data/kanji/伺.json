@@ -204,24 +204,36 @@
       {
         "example": "伺候",
         "reading": "シコウ",
-        "meaning": "waiting upon (someone)"
+        "meaning": {
+          "vi": "waiting upon (someone)"
+        },
+        "romaji": "shikou"
       },
       {
         "example": "経伺",
         "reading": "ケイシ",
-        "meaning": "asking for instructions, consulting and obtaining approval"
+        "meaning": {
+          "vi": "asking for instructions, consulting and obtaining approval"
+        },
+        "romaji": "keishi"
       },
       {
         "example": "奉伺",
         "reading": "ホウシ",
-        "meaning": "inquiring about (one's health)"
+        "meaning": {
+          "en": "inquiring about (one's health)"
+        },
+        "romaji": "houshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伺う",
         "reading": "うかがう",
-        "meaning": "to call on someone, to call at a place, to pay a visit, to wait on someone, to ask, to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.)"
+        "meaning": {
+          "vi": "to call on someone, to call at a place, to pay a visit, to wait on someone, to ask, to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.)"
+        },
+        "romaji": "ukagau"
       }
     ],
     "radical": {
@@ -241,5 +253,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f3a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f3a.gif",
     "uri": "https://jisho.org/search/%E4%BC%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tí",
+    "tý",
+    "tứ"
+  ]
 }

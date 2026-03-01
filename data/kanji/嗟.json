@@ -19,24 +19,32 @@
       {
         "example": "嗟嘆",
         "reading": "サタン",
-        "meaning": "than thở, thán phục, khen ngợi"
+        "meaning": {
+          "vi": "than thở, thán phục, khen ngợi"
+        },
+        "romaji": "satan"
       },
       {
         "example": "怨嗟",
         "reading": "エンサ",
-        "meaning": "oán hận sâu sắc"
+        "meaning": {
+          "vi": "oán hận sâu sắc"
+        },
+        "romaji": "ensa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ああ】",
         "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"
       },
       {
         "example": "【ああ】",
         "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"
       }
     ],
     "radical": {
@@ -55,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55df.gif",
     "uri": "https://jisho.org/search/%E5%97%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "ta"
+  ]
 }

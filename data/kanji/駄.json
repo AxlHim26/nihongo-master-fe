@@ -18,32 +18,50 @@
       {
         "example": "駄",
         "reading": "ダ",
-        "meaning": "poor, low-grade, trivial, insignificant, worthless, load, pack, horse load, packhorse"
+        "meaning": {
+          "vi": "poor, low-grade, trivial, insignificant, worthless, load, pack, horse load, packhorse"
+        },
+        "romaji": "da"
       },
       {
         "example": "駄目",
         "reading": "ダメ",
-        "meaning": "no good, not serving its purpose, useless, broken, hopeless, wasted, in vain, purposeless, cannot, must not, not allowed, neutral point, intersection owned by neither player at the end of a game, no!, stop!"
+        "meaning": {
+          "vi": "no good, not serving its purpose, useless, broken, hopeless, wasted, in vain, purposeless, cannot, must not, not allowed, neutral point, intersection owned by neither player at the end of a game, no!, stop!"
+        },
+        "romaji": "dame"
       },
       {
         "example": "雪駄",
         "reading": "セッタ",
-        "meaning": "leather-soled sandals (geta)"
+        "meaning": {
+          "en": "leather-soled sandals (geta)"
+        },
+        "romaji": "setta"
       },
       {
         "example": "足駄",
         "reading": "アシダ",
-        "meaning": "high clogs, rain clogs"
+        "meaning": {
+          "en": "high clogs, rain clogs"
+        },
+        "romaji": "ashida"
       },
       {
         "example": "中下駄",
         "reading": "チュウゲタ",
-        "meaning": "medium height geta"
+        "meaning": {
+          "en": "medium height geta"
+        },
+        "romaji": "chuugeta"
       },
       {
         "example": "高下駄",
         "reading": "タカゲタ",
-        "meaning": "tall wooden clogs"
+        "meaning": {
+          "en": "tall wooden clogs"
+        },
+        "romaji": "takageta"
       }
     ],
     "kunyomiExamples": [],
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c4.gif",
     "uri": "https://jisho.org/search/%E9%A7%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "đà"
+  ]
 }

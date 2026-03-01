@@ -22,69 +22,108 @@
       {
         "example": "蛇",
         "reading": "ヘビ",
-        "meaning": "snake, serpent, large snake"
+        "meaning": {
+          "vi": "snake, serpent, large snake"
+        },
+        "romaji": "hebi"
       },
       {
         "example": "蛇口",
         "reading": "ジャグチ",
-        "meaning": "faucet, tap"
+        "meaning": {
+          "vi": "faucet, tap"
+        },
+        "romaji": "jaguchi"
       },
       {
         "example": "王蛇",
         "reading": "オウジャ",
-        "meaning": "boa (snake)"
+        "meaning": {
+          "en": "boa (snake)"
+        },
+        "romaji": "ouja"
       },
       {
         "example": "長蛇",
         "reading": "チョウダ",
-        "meaning": "long snake, long line (of people, etc.)"
+        "meaning": {
+          "vi": "long snake, long line (of people, etc.)"
+        },
+        "romaji": "chouda"
       },
       {
         "example": "蛇行",
         "reading": "ダコウ",
-        "meaning": "meandering, snaking, zigzagging"
+        "meaning": {
+          "en": "meandering, snaking, zigzagging"
+        },
+        "romaji": "dakou"
       },
       {
         "example": "蛇蠍",
         "reading": "ダカツ",
-        "meaning": "serpent (snake) and scorpion, detestation"
+        "meaning": {
+          "vi": "serpent (snake) and scorpion, detestation"
+        },
+        "romaji": "dakatsu"
       },
       {
         "example": "委蛇",
         "reading": "イイ",
-        "meaning": "winding, meandering"
+        "meaning": {
+          "en": "winding, meandering"
+        },
+        "romaji": "ii"
       },
       {
         "example": "游蛇",
         "reading": "ユウダ",
-        "meaning": "water snake"
+        "meaning": {
+          "en": "water snake"
+        },
+        "romaji": "yuuda"
       },
       {
         "example": "委蛇",
         "reading": "イイ",
-        "meaning": "winding, meandering"
+        "meaning": {
+          "en": "winding, meandering"
+        },
+        "romaji": "ii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛇",
         "reading": "へび",
-        "meaning": "snake, serpent, large snake"
+        "meaning": {
+          "vi": "snake, serpent, large snake"
+        },
+        "romaji": "hebi"
       },
       {
         "example": "蛇穴に入る",
         "reading": "へびあなにいる",
-        "meaning": "snake hibernation"
+        "meaning": {
+          "en": "snake hibernation"
+        },
+        "romaji": "hebiananiiru"
       },
       {
         "example": "裸蛇",
         "reading": "はだかへび",
-        "meaning": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        "meaning": {
+          "vi": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        },
+        "romaji": "hadakahebi"
       },
       {
         "example": "錦蛇",
         "reading": "にしきへび",
-        "meaning": "python, rock snake"
+        "meaning": {
+          "vi": "python, rock snake"
+        },
+        "romaji": "nishikihebi"
       }
     ],
     "radical": {
@@ -100,5 +139,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86c7.gif",
     "uri": "https://jisho.org/search/%E8%9B%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "sá",
+    "xà"
+  ]
 }

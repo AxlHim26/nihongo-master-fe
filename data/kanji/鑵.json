@@ -16,12 +16,18 @@
       {
         "example": "缶",
         "reading": "カン",
-        "meaning": "can, tin, canned food"
+        "meaning": {
+          "en": "can, tin, canned food"
+        },
+        "romaji": "kan"
       },
       {
         "example": "汽缶",
         "reading": "キカン",
-        "meaning": "boiler"
+        "meaning": {
+          "en": "boiler"
+        },
+        "romaji": "kikan"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09475.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9475.gif",
     "uri": "https://jisho.org/search/%E9%91%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "quán"
+  ]
 }

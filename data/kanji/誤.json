@@ -286,29 +286,44 @@
       {
         "example": "誤",
         "reading": "ゴ",
-        "meaning": "mistake, error"
+        "meaning": {
+          "en": "mistake, error"
+        },
+        "romaji": "go"
       },
       {
         "example": "誤解",
         "reading": "ゴカイ",
-        "meaning": "misunderstanding"
+        "meaning": {
+          "en": "misunderstanding"
+        },
+        "romaji": "gokai"
       },
       {
         "example": "時代錯誤",
         "reading": "ジダイサクゴ",
-        "meaning": "anachronism"
+        "meaning": {
+          "en": "anachronism"
+        },
+        "romaji": "jidaisakugo"
       },
       {
         "example": "錯誤",
         "reading": "サクゴ",
-        "meaning": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
+        "meaning": {
+          "vi": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
+        },
+        "romaji": "sakugo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誤る",
         "reading": "あやまる",
-        "meaning": "to make a mistake (in), to commit an error, to do incorrectly, to err, to be wrong, to be incorrect, to be false, to be mistaken, to mislead, to misguide, to lead astray"
+        "meaning": {
+          "en": "to make a mistake (in), to commit an error, to do incorrectly, to err, to be wrong, to be incorrect, to be false, to be mistaken, to mislead, to misguide, to lead astray"
+        },
+        "romaji": "ayamaru"
       }
     ],
     "radical": {
@@ -327,5 +342,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa4.gif",
     "uri": "https://jisho.org/search/%E8%AA%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngộ"
+  ]
 }

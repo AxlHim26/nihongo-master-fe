@@ -328,39 +328,60 @@
       {
         "example": "北欧",
         "reading": "ホクオウ",
-        "meaning": "Northern Europe, Nordic countries, Scandinavia"
+        "meaning": {
+          "vi": "Northern Europe, Nordic countries, Scandinavia"
+        },
+        "romaji": "hokuou"
       },
       {
         "example": "北緯",
         "reading": "ホクイ",
-        "meaning": "north latitude"
+        "meaning": {
+          "en": "north latitude"
+        },
+        "romaji": "hokui"
       },
       {
         "example": "極北",
         "reading": "キョクホク",
-        "meaning": "extreme north, North Pole, utmost limit, breaking point"
+        "meaning": {
+          "vi": "extreme north, North Pole, utmost limit, breaking point"
+        },
+        "romaji": "kyokuhoku"
       },
       {
         "example": "西北",
         "reading": "セイホク",
-        "meaning": "north-west"
+        "meaning": {
+          "en": "north-west"
+        },
+        "romaji": "seihoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "北",
         "reading": "きた",
-        "meaning": "north, the North, northern territories, North Korea, north wind"
+        "meaning": {
+          "en": "north, the North, northern territories, North Korea, north wind"
+        },
+        "romaji": "kita"
       },
       {
         "example": "北アイルランド",
         "reading": "きたアイルランド",
-        "meaning": "Northern Ireland"
+        "meaning": {
+          "en": "Northern Ireland"
+        },
+        "romaji": "kitaairurando"
       },
       {
         "example": "西北",
         "reading": "せいほく",
-        "meaning": "north-west"
+        "meaning": {
+          "en": "north-west"
+        },
+        "romaji": "seihoku"
       }
     ],
     "radical": {
@@ -375,5 +396,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05317.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5317.gif",
     "uri": "https://jisho.org/search/%E5%8C%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "bắc",
+    "bối",
+    "bội"
+  ]
 }

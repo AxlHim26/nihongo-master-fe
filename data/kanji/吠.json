@@ -18,19 +18,28 @@
       {
         "example": "吠瑠璃",
         "reading": "ベイルリ",
-        "meaning": "beryl"
+        "meaning": {
+          "en": "beryl"
+        },
+        "romaji": "beiruri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吠える",
         "reading": "ほえる",
-        "meaning": "to bark, to howl, to bay, to roar, to yelp, to yap, to howl (of the wind), to roar (of the sea), to yell, to shout, to cry, to moan"
+        "meaning": {
+          "vi": "to bark, to howl, to bay, to roar, to yelp, to yap, to howl (of the wind), to roar (of the sea), to yell, to shout, to cry, to moan"
+        },
+        "romaji": "hoeru"
       },
       {
         "example": "吠える",
         "reading": "ほえる",
-        "meaning": "to bark, to howl, to bay, to roar, to yelp, to yap, to howl (of the wind), to roar (of the sea), to yell, to shout, to cry, to moan"
+        "meaning": {
+          "vi": "to bark, to howl, to bay, to roar, to yelp, to yap, to howl (of the wind), to roar (of the sea), to yell, to shout, to cry, to moan"
+        },
+        "romaji": "hoeru"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05420.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5420.gif",
     "uri": "https://jisho.org/search/%E5%90%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "phệ"
+  ]
 }

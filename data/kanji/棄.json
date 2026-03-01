@@ -19,29 +19,44 @@
       {
         "example": "棄権",
         "reading": "キケン",
-        "meaning": "abstention (from voting), renunciation (of a right), withdrawal (from a contest)"
+        "meaning": {
+          "en": "abstention (from voting), renunciation (of a right), withdrawal (from a contest)"
+        },
+        "romaji": "kiken"
       },
       {
         "example": "棄却",
         "reading": "キキャク",
-        "meaning": "rejection, dismissal, turning down, abandoning, renunciation"
+        "meaning": {
+          "en": "rejection, dismissal, turning down, abandoning, renunciation"
+        },
+        "romaji": "kikyaku"
       },
       {
         "example": "投棄",
         "reading": "トウキ",
-        "meaning": "abandonment, giving up, throwing away, disposal, dumping"
+        "meaning": {
+          "vi": "abandonment, giving up, throwing away, disposal, dumping"
+        },
+        "romaji": "touki"
       },
       {
         "example": "遺棄",
         "reading": "イキ",
-        "meaning": "abandonment, desertion"
+        "meaning": {
+          "en": "abandonment, desertion"
+        },
+        "romaji": "iki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "捨てる",
         "reading": "すてる",
-        "meaning": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"
+        "meaning": {
+          "vi": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"
+        },
+        "romaji": "suteru"
       }
     ],
     "radical": {
@@ -59,5 +74,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c4.gif",
     "uri": "https://jisho.org/search/%E6%A3%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "khí"
+  ]
 }

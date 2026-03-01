@@ -314,44 +314,68 @@
       {
         "example": "毛",
         "reading": "モウ",
-        "meaning": "one-thousandth, 0.03 mm (one-thousandth of a sun), 0.01 percent (one-thousandth of a wari), 3.75 milligrams (one-thousandth of a monme), old monetary unit (0.0001 yen)"
+        "meaning": {
+          "vi": "one-thousandth, 0.03 mm (one-thousandth of a sun), 0.01 percent (one-thousandth of a wari), 3.75 milligrams (one-thousandth of a monme), old monetary unit (0.0001 yen)"
+        },
+        "romaji": "mou"
       },
       {
         "example": "毛皮",
         "reading": "ケガワ",
-        "meaning": "fur, skin, pelt, kanji \"fur\" radical"
+        "meaning": {
+          "vi": "fur, skin, pelt, kanji \"fur\" radical"
+        },
+        "romaji": "kegawa"
       },
       {
         "example": "不毛",
         "reading": "フモウ",
-        "meaning": "barren, sterile, infertile, unproductive (e.g. discussion), fruitless"
+        "meaning": {
+          "vi": "barren, sterile, infertile, unproductive (e.g. discussion), fruitless"
+        },
+        "romaji": "fumou"
       },
       {
         "example": "再生毛",
         "reading": "サイセイモウ",
-        "meaning": "recycled wool, reclaimed wool"
+        "meaning": {
+          "en": "recycled wool, reclaimed wool"
+        },
+        "romaji": "saiseimou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "毛",
         "reading": "け",
-        "meaning": "hair, fur, wool, down, plumage, feathers"
+        "meaning": {
+          "vi": "hair, fur, wool, down, plumage, feathers"
+        },
+        "romaji": "ke"
       },
       {
         "example": "毛皮",
         "reading": "けがわ",
-        "meaning": "fur, skin, pelt, kanji \"fur\" radical"
+        "meaning": {
+          "vi": "fur, skin, pelt, kanji \"fur\" radical"
+        },
+        "romaji": "kegawa"
       },
       {
         "example": "お毛毛",
         "reading": "おけけ",
-        "meaning": "pubic hair"
+        "meaning": {
+          "vi": "pubic hair"
+        },
+        "romaji": "okeke"
       },
       {
         "example": "猫っ毛",
         "reading": "ねこっけ",
-        "meaning": "fine, soft hair"
+        "meaning": {
+          "en": "fine, soft hair"
+        },
+        "romaji": "nekokke"
       }
     ],
     "radical": {
@@ -365,5 +389,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bdb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bdb.gif",
     "uri": "https://jisho.org/search/%E6%AF%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "mao",
+    "mô"
+  ]
 }

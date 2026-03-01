@@ -16,24 +16,36 @@
       {
         "example": "老鶯",
         "reading": "ロウオウ",
-        "meaning": "bush warbler singing even after spring has passed"
+        "meaning": {
+          "vi": "bush warbler singing even after spring has passed"
+        },
+        "romaji": "rouou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鶯",
         "reading": "うぐいす",
-        "meaning": "Japanese bush warbler (Horornis diphone), Japanese nightingale, greenish brown, beautiful voice, woman with a beautiful voice"
+        "meaning": {
+          "vi": "Japanese bush warbler (Horornis diphone), Japanese nightingale, greenish brown, beautiful voice, woman with a beautiful voice"
+        },
+        "romaji": "uguisu"
       },
       {
         "example": "うぐいす色",
         "reading": "うぐいすいろ",
-        "meaning": "olive green, greenish brown"
+        "meaning": {
+          "en": "olive green, greenish brown"
+        },
+        "romaji": "uguisuiro"
       },
       {
         "example": "初鴬",
         "reading": "はつうぐいす",
-        "meaning": "first Japanese bush warbler to chirp this year (i.e. spring)"
+        "meaning": {
+          "vi": "first Japanese bush warbler to chirp this year (i.e. spring)"
+        },
+        "romaji": "hatsuuguisu"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d2c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d2c.gif",
     "uri": "https://jisho.org/search/%E9%B4%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạc",
+    "oanh"
+  ]
 }

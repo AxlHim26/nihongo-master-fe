@@ -18,22 +18,34 @@
       {
         "example": "生姜",
         "reading": "ショウキョウ",
-        "meaning": "dried ginger root (trad. medicine)"
+        "meaning": {
+          "en": "dried ginger root (trad. medicine)"
+        },
+        "romaji": "shoukyou"
       },
       {
         "example": "乾薑",
         "reading": "カンキョウ",
-        "meaning": "dried ginger"
+        "meaning": {
+          "en": "dried ginger"
+        },
+        "romaji": "kankyou"
       },
       {
         "example": "生姜",
         "reading": "ショウガ",
-        "meaning": "ginger (Zingiber officinale)"
+        "meaning": {
+          "en": "ginger (Zingiber officinale)"
+        },
+        "romaji": "shouga"
       },
       {
         "example": "紅しょうが",
         "reading": "ベニショウガ",
-        "meaning": "red pickled ginger"
+        "meaning": {
+          "vi": "red pickled ginger"
+        },
+        "romaji": "benishouga"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59dc.gif",
     "uri": "https://jisho.org/search/%E5%A7%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "khương"
+  ]
 }

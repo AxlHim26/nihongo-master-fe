@@ -16,12 +16,18 @@
       {
         "example": "浣腸",
         "reading": "カンチョウ",
-        "meaning": "enema"
+        "meaning": {
+          "en": "enema"
+        },
+        "romaji": "kanchou"
       },
       {
         "example": "浣腸液",
         "reading": "カンチョウエキ",
-        "meaning": "enema (solution)"
+        "meaning": {
+          "en": "enema (solution)"
+        },
+        "romaji": "kanchoueki"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d63.gif",
     "uri": "https://jisho.org/search/%E6%B5%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "cán",
+    "hoán"
+  ]
 }

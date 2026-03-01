@@ -18,24 +18,36 @@
       {
         "example": "剔抉",
         "reading": "テッケツ",
-        "meaning": "gouging out, exposing (a scandal, fraud, etc.)"
+        "meaning": {
+          "vi": "gouging out, exposing (a scandal, fraud, etc.)"
+        },
+        "romaji": "tekketsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抉る",
         "reading": "えぐる",
-        "meaning": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+        "meaning": {
+          "vi": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+        },
+        "romaji": "eguru"
       },
       {
         "example": "抉る",
         "reading": "こじる",
-        "meaning": "to pry, to prize, to prise"
+        "meaning": {
+          "vi": "to pry, to prize, to prise"
+        },
+        "romaji": "kojiru"
       },
       {
         "example": "抉る",
         "reading": "くじる",
-        "meaning": "to stick into and move around, to dig around in, to pick (i.e. one's teeth)"
+        "meaning": {
+          "vi": "to stick into and move around, to dig around in, to pick (i.e. one's teeth)"
+        },
+        "romaji": "kujiru"
       }
     ],
     "radical": {
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06289.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6289.gif",
     "uri": "https://jisho.org/search/%E6%8A%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyết"
+  ]
 }

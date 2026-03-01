@@ -14,7 +14,10 @@
       {
         "example": "楕円",
         "reading": "ダエン",
-        "meaning": "hình elip, hình bầu dục"
+        "meaning": {
+          "vi": "hình elip, hình bầu dục"
+        },
+        "romaji": "daen"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a62.gif",
     "uri": "https://jisho.org/search/%E6%A9%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "thoả",
+    "đoạ"
+  ]
 }

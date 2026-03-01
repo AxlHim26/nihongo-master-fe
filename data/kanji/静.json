@@ -373,74 +373,116 @@
       {
         "example": "静",
         "reading": "セイ",
-        "meaning": "stillness, quiet, peacefulness"
+        "meaning": {
+          "vi": "stillness, quiet, peacefulness"
+        },
+        "romaji": "sei"
       },
       {
         "example": "静観",
         "reading": "セイカン",
-        "meaning": "watchful waiting, careful supervision"
+        "meaning": {
+          "vi": "watchful waiting, careful supervision"
+        },
+        "romaji": "seikan"
       },
       {
         "example": "沈静",
         "reading": "チンセイ",
-        "meaning": "settling down, quieting down, cooling down, cooling off, stillness, quiet, tranquility"
+        "meaning": {
+          "en": "settling down, quieting down, cooling down, cooling off, stillness, quiet, tranquility"
+        },
+        "romaji": "chinsei"
       },
       {
         "example": "寧静",
         "reading": "ネイセイ",
-        "meaning": "calm, peace, tranquility"
+        "meaning": {
+          "vi": "calm, peace, tranquility"
+        },
+        "romaji": "neisei"
       },
       {
         "example": "静脈",
         "reading": "ジョウミャク",
-        "meaning": "vein"
+        "meaning": {
+          "en": "vein"
+        },
+        "romaji": "joumyaku"
       },
       {
         "example": "静注",
         "reading": "ジョウチュウ",
-        "meaning": "intravenous injection, IV"
+        "meaning": {
+          "en": "intravenous injection, IV"
+        },
+        "romaji": "jouchuu"
       },
       {
         "example": "寂静",
         "reading": "ジャクジョウ",
-        "meaning": "quiet, stillness, tranquility, enlightenment, nirvana"
+        "meaning": {
+          "en": "quiet, stillness, tranquility, enlightenment, nirvana"
+        },
+        "romaji": "jakujou"
       },
       {
         "example": "涅槃寂静",
         "reading": "ネハンジャクジョウ",
-        "meaning": "enlightenment leads to serenity"
+        "meaning": {
+          "en": "enlightenment leads to serenity"
+        },
+        "romaji": "nehanjakujou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "静か",
         "reading": "しずか",
-        "meaning": "quiet, silent, slow, unhurried, calm, peaceful"
+        "meaning": {
+          "vi": "quiet, silent, slow, unhurried, calm, peaceful"
+        },
+        "romaji": "shizuka"
       },
       {
         "example": "静かに",
         "reading": "しずかに",
-        "meaning": "calmly, quietly, gently, peacefully, be quiet!"
+        "meaning": {
+          "vi": "calmly, quietly, gently, peacefully, be quiet!"
+        },
+        "romaji": "shizukani"
       },
       {
         "example": "二人静",
         "reading": "ふたりしずか",
-        "meaning": "Chloranthus serratus (species of flowering plant)"
+        "meaning": {
+          "vi": "Chloranthus serratus (species of flowering plant)"
+        },
+        "romaji": "futarishizuka"
       },
       {
         "example": "一人静",
         "reading": "ひとりしずか",
-        "meaning": "Chloranthus japonicus"
+        "meaning": {
+          "vi": "Chloranthus japonicus"
+        },
+        "romaji": "hitorishizuka"
       },
       {
         "example": "静まる",
         "reading": "しずまる",
-        "meaning": "to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"
+        "meaning": {
+          "vi": "to become quiet, to quiet down, to quieten down, to calm down, to die down, to subside, to abate, to be suppressed"
+        },
+        "romaji": "shizumaru"
       },
       {
         "example": "静める",
         "reading": "しずめる",
-        "meaning": "to quiet (a child, crowd, etc.), to quieten, to make quiet, to calm (one's nerves, excitement, etc.), to compose (oneself), to appease (someone's anger), to pacify, to settle (e.g. discord), to suppress (a rebellion, riot, fire, etc.), to quell, to put down, to get under control, to relieve (a cough, pain, etc.), to soothe, to alleviate, to ease, to appease (a spirit, soul, etc.), to pacify, to soothe"
+        "meaning": {
+          "vi": "to quiet (a child, crowd, etc.), to quieten, to make quiet, to calm (one's nerves, excitement, etc.), to compose (oneself), to appease (someone's anger), to pacify, to settle (e.g. discord), to suppress (a rebellion, riot, fire, etc.), to quell, to put down, to get under control, to relieve (a cough, pain, etc.), to soothe, to alleviate, to ease, to appease (a spirit, soul, etc.), to pacify, to soothe"
+        },
+        "romaji": "shizumeru"
       }
     ],
     "radical": {
@@ -464,5 +506,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09759.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9759.gif",
     "uri": "https://jisho.org/search/%E9%9D%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "tĩnh",
+    "tịnh"
+  ]
 }

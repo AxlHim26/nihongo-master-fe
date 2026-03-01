@@ -21,14 +21,20 @@
       {
         "example": "冴寒",
         "reading": "ゴカン",
-        "meaning": "extreme cold"
+        "meaning": {
+          "en": "extreme cold"
+        },
+        "romaji": "gokan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "冴える",
         "reading": "さえる",
-        "meaning": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"
+        "meaning": {
+          "vi": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"
+        },
+        "romaji": "saeru"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b4.gif",
     "uri": "https://jisho.org/search/%E5%86%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhạ"
+  ]
 }

@@ -19,32 +19,50 @@
       {
         "example": "慧眼",
         "reading": "ケイガン",
-        "meaning": "keen eye, quick eye, sharp eye, keen insight, keen perception"
+        "meaning": {
+          "vi": "keen eye, quick eye, sharp eye, keen insight, keen perception"
+        },
+        "romaji": "keigan"
       },
       {
         "example": "慧敏",
         "reading": "ケイビン",
-        "meaning": "clever, of quick intellect"
+        "meaning": {
+          "en": "clever, of quick intellect"
+        },
+        "romaji": "keibin"
       },
       {
         "example": "恵",
         "reading": "エ",
-        "meaning": "wisdom, enlightenment, prajñā (one of the three divisions of the noble eightfold path), wisdom"
+        "meaning": {
+          "vi": "wisdom, enlightenment, prajñā (one of the three divisions of the noble eightfold path), wisdom"
+        },
+        "romaji": "e"
       },
       {
         "example": "慧眼",
         "reading": "エゲン",
-        "meaning": "the wisdom eye"
+        "meaning": {
+          "en": "the wisdom eye"
+        },
+        "romaji": "egen"
       },
       {
         "example": "浅知恵",
         "reading": "アサヂエ",
-        "meaning": "shallow thinking, superficial view, insufficient consideration"
+        "meaning": {
+          "vi": "shallow thinking, superficial view, insufficient consideration"
+        },
+        "romaji": "asajie"
       },
       {
         "example": "遅知恵",
         "reading": "オソヂエ",
-        "meaning": "delayed mental development, cognitive delay, late-developing intelligence, hindsight, wisdom after the event"
+        "meaning": {
+          "vi": "delayed mental development, cognitive delay, late-developing intelligence, hindsight, wisdom after the event"
+        },
+        "romaji": "osojie"
       }
     ],
     "kunyomiExamples": [],
@@ -66,5 +84,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06167.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6167.gif",
     "uri": "https://jisho.org/search/%E6%85%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "huệ",
+    "tuệ"
+  ]
 }

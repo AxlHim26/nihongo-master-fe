@@ -17,12 +17,18 @@
       {
         "example": "元帥",
         "reading": "ゲンスイ",
-        "meaning": "thống chế, đô đốc, đại tướng"
+        "meaning": {
+          "vi": "thống chế, đô đốc, đại tướng"
+        },
+        "romaji": "gensui"
       },
       {
         "example": "総帥",
         "reading": "ソウスイ",
-        "meaning": "tổng tư lệnh, lãnh đạo, chủ tịch tập đoàn"
+        "meaning": {
+          "vi": "tổng tư lệnh, lãnh đạo, chủ tịch tập đoàn"
+        },
+        "romaji": "sousui"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e25.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e25.gif",
     "uri": "https://jisho.org/search/%E5%B8%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "soái",
+    "suý",
+    "suất"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "寵",
         "reading": "チョウ",
-        "meaning": "favor, favour, affection"
+        "meaning": {
+          "en": "favor, favour, affection"
+        },
+        "romaji": "chou"
       },
       {
         "example": "寵愛",
         "reading": "チョウアイ",
-        "meaning": "favor, favour, affection"
+        "meaning": {
+          "en": "favor, favour, affection"
+        },
+        "romaji": "chouai"
       },
       {
         "example": "愛寵",
         "reading": "アイチョウ",
-        "meaning": "favor, favour"
+        "meaning": {
+          "en": "favor, favour"
+        },
+        "romaji": "aichou"
       },
       {
         "example": "聖寵",
         "reading": "セイチョウ",
-        "meaning": "grace (of God)"
+        "meaning": {
+          "en": "grace (of God)"
+        },
+        "romaji": "seichou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf5.gif",
     "uri": "https://jisho.org/search/%E5%AF%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "sủng"
+  ]
 }

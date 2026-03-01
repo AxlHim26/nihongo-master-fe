@@ -335,34 +335,52 @@
       {
         "example": "港",
         "reading": "コウ",
-        "meaning": "harbour"
+        "meaning": {
+          "en": "harbour"
+        },
+        "romaji": "kou"
       },
       {
         "example": "港内",
         "reading": "コウナイ",
-        "meaning": "inside the harbour, inside the harbor"
+        "meaning": {
+          "en": "inside the harbour, inside the harbor"
+        },
+        "romaji": "kounai"
       },
       {
         "example": "漁港",
         "reading": "ギョコウ",
-        "meaning": "fishing harbour, fishing harbor"
+        "meaning": {
+          "en": "fishing harbour, fishing harbor"
+        },
+        "romaji": "gyokou"
       },
       {
         "example": "海港",
         "reading": "カイコウ",
-        "meaning": "port, seaport"
+        "meaning": {
+          "vi": "port, seaport"
+        },
+        "romaji": "kaikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "港",
         "reading": "みなと",
-        "meaning": "harbour, harbor, port"
+        "meaning": {
+          "vi": "harbour, harbor, port"
+        },
+        "romaji": "minato"
       },
       {
         "example": "港区",
         "reading": "みなとく",
-        "meaning": "Minato City (special ward of Tokyo), Minato Ward (Osaka), Minato Ward (Nagoya)"
+        "meaning": {
+          "vi": "Minato City (special ward of Tokyo), Minato Ward (Osaka), Minato Ward (Nagoya)"
+        },
+        "romaji": "minatoku"
       }
     ],
     "radical": {
@@ -383,5 +401,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2f.gif",
     "uri": "https://jisho.org/search/%E6%B8%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảng",
+    "hống"
+  ]
 }

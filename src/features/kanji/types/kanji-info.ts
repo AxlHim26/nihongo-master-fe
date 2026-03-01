@@ -44,6 +44,10 @@ export type KanjiInfo = {
     meaning?: string;
     onyomi?: string[];
     kunyomi?: string[];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    onyomiExamples?: any[];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    kunyomiExamples?: any[];
     radical?: {
       symbol?: string;
       meaning?: string;
@@ -51,4 +55,29 @@ export type KanjiInfo = {
     jlptLevel?: string;
     strokeCount?: number;
   };
+  amHanViet?: string;
+  hanViet?: string[] | null;
+  hanVietExplain?: Record<string, string>;
+  meaning?: Record<string, string>;
+};
+
+export type KanjiSummary = {
+  kanji: string;
+  meaning: Record<string, string> | string;
+  onyomi: string;
+  kunyomi: string;
+  jlptLevel: string;
+  strokeCount: number;
+  index: number;
+  amHanViet?: string;
+  hanViet?: string[] | null;
+  hanVietExplain?: Record<string, string>;
+};
+
+export type KanjiListResponse = {
+  items: KanjiSummary[];
+  total: number;
+  page: number;
+  size: number;
+  totalPages: number;
 };

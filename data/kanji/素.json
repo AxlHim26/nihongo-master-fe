@@ -346,64 +346,100 @@
       {
         "example": "素",
         "reading": "ソ",
-        "meaning": "white silk, prime, principle"
+        "meaning": {
+          "vi": "white silk, prime, principle"
+        },
+        "romaji": "so"
       },
       {
         "example": "素案",
         "reading": "ソアン",
-        "meaning": "rough plan, draft"
+        "meaning": {
+          "vi": "rough plan, draft"
+        },
+        "romaji": "soan"
       },
       {
         "example": "栄養素",
         "reading": "エイヨウソ",
-        "meaning": "nutrient"
+        "meaning": {
+          "en": "nutrient"
+        },
+        "romaji": "eiyouso"
       },
       {
         "example": "酵素",
         "reading": "コウソ",
-        "meaning": "enzyme"
+        "meaning": {
+          "en": "enzyme"
+        },
+        "romaji": "kouso"
       },
       {
         "example": "素",
         "reading": "ス",
-        "meaning": "one's nature, one's feelings, oneself, plain, unadorned, undecorated, unadulterated, au naturel, mere, poor, exceedingly"
+        "meaning": {
+          "vi": "one's nature, one's feelings, oneself, plain, unadorned, undecorated, unadulterated, au naturel, mere, poor, exceedingly"
+        },
+        "romaji": "su"
       },
       {
         "example": "素顔",
         "reading": "スガオ",
-        "meaning": "face with no make-up, unpainted face, true face (of a country, celebrity, etc.), real face, true picture, real nature, sober face, sobriety"
+        "meaning": {
+          "vi": "face with no make-up, unpainted face, true face (of a country, celebrity, etc.), real face, true picture, real nature, sober face, sobriety"
+        },
+        "romaji": "sugao"
       },
       {
         "example": "空素",
         "reading": "カラス",
-        "meaning": "dealt hand containing only 1-point cards (scoring combination)"
+        "meaning": {
+          "vi": "dealt hand containing only 1-point cards (scoring combination)"
+        },
+        "romaji": "karasu"
       },
       {
         "example": "鉤素",
         "reading": "ハリス",
-        "meaning": "snell (fishing), leader, trace, cast"
+        "meaning": {
+          "en": "snell (fishing), leader, trace, cast"
+        },
+        "romaji": "harisu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": {
+          "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        },
+        "romaji": "moto"
       },
       {
         "example": "元より",
         "reading": "もとより",
-        "meaning": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ..."
+        "meaning": {
+          "en": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ..."
+        },
+        "romaji": "motoyori"
       },
       {
         "example": "味の素",
         "reading": "あじのもと",
-        "meaning": "Ajinomoto, brand name of monosodium glutamate (MSG)"
+        "meaning": {
+          "en": "Ajinomoto, brand name of monosodium glutamate (MSG)"
+        },
+        "romaji": "ajinomoto"
       },
       {
         "example": "味の素",
         "reading": "あじのもと",
-        "meaning": "Ajinomoto Co. Inc."
+        "meaning": {
+          "en": "Ajinomoto Co. Inc."
+        },
+        "romaji": "ajinomoto"
       }
     ],
     "radical": {
@@ -425,5 +461,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d20.gif",
     "uri": "https://jisho.org/search/%E7%B4%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tố"
+  ]
 }

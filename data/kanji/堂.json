@@ -254,22 +254,34 @@
       {
         "example": "堂",
         "reading": "ドウ",
-        "meaning": "temple, shrine, chapel, hall, company, front room"
+        "meaning": {
+          "vi": "temple, shrine, chapel, hall, company, front room"
+        },
+        "romaji": "dou"
       },
       {
         "example": "堂々",
         "reading": "ドウドウ",
-        "meaning": "magnificent, grand, impressive, dignified, majestic, imposing, stately, fair, square, open, unashamed, brazen, grandly, boldly, confidently, fairly, squarely, unreservedly, brazenly"
+        "meaning": {
+          "vi": "magnificent, grand, impressive, dignified, majestic, imposing, stately, fair, square, open, unashamed, brazen, grandly, boldly, confidently, fairly, squarely, unreservedly, brazenly"
+        },
+        "romaji": "doudou"
       },
       {
         "example": "殿堂",
         "reading": "デンドウ",
-        "meaning": "palace, hall, shrine, temple, sanctuary, hall of fame"
+        "meaning": {
+          "vi": "palace, hall, shrine, temple, sanctuary, hall of fame"
+        },
+        "romaji": "dendou"
       },
       {
         "example": "議事堂",
         "reading": "ギジドウ",
-        "meaning": "assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall"
+        "meaning": {
+          "vi": "assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall"
+        },
+        "romaji": "gijidou"
       }
     ],
     "kunyomiExamples": [],
@@ -287,5 +299,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05802.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5802.gif",
     "uri": "https://jisho.org/search/%E5%A0%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàng",
+    "đường"
+  ]
 }

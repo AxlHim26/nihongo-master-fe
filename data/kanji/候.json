@@ -299,44 +299,68 @@
       {
         "example": "候",
         "reading": "コウ",
-        "meaning": "season, weather"
+        "meaning": {
+          "en": "season, weather"
+        },
+        "romaji": "kou"
       },
       {
         "example": "候補",
         "reading": "コウホ",
-        "meaning": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
+        "meaning": {
+          "vi": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
+        },
+        "romaji": "kouho"
       },
       {
         "example": "時候",
         "reading": "ジコウ",
-        "meaning": "season, time of the year"
+        "meaning": {
+          "en": "season, time of the year"
+        },
+        "romaji": "jikou"
       },
       {
         "example": "症候",
         "reading": "ショウコウ",
-        "meaning": "symptom"
+        "meaning": {
+          "vi": "symptom"
+        },
+        "romaji": "shoukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "候ふ",
         "reading": "そうろう",
-        "meaning": "to serve (by a superior's side), to be, to do"
+        "meaning": {
+          "vi": "to serve (by a superior's side), to be, to do"
+        },
+        "romaji": "sourou"
       },
       {
         "example": "候間",
         "reading": "そうろうあいだ",
-        "meaning": "as ..."
+        "meaning": {
+          "en": "as ..."
+        },
+        "romaji": "sourouaida"
       },
       {
         "example": "書き候",
         "reading": "かきそうろう",
-        "meaning": "(have the honor, honour) to write"
+        "meaning": {
+          "en": "(have the honor, honour) to write"
+        },
+        "romaji": "kakisourou"
       },
       {
         "example": "御入り候ふ",
         "reading": "おんいりそうろう",
-        "meaning": "to go, to come, to be"
+        "meaning": {
+          "en": "to go, to come, to be"
+        },
+        "romaji": "on'irisourou"
       }
     ],
     "radical": {
@@ -357,5 +381,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05019.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5019.gif",
     "uri": "https://jisho.org/search/%E5%80%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "hậu"
+  ]
 }

@@ -372,34 +372,52 @@
       {
         "example": "死",
         "reading": "シ",
-        "meaning": "death, (an) out, death penalty (by strangulation or decapitation; most severe of the five ritsuryō punishments)"
+        "meaning": {
+          "vi": "death, (an) out, death penalty (by strangulation or decapitation; most severe of the five ritsuryō punishments)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "死因",
         "reading": "シイン",
-        "meaning": "cause of death"
+        "meaning": {
+          "en": "cause of death"
+        },
+        "romaji": "shiin"
       },
       {
         "example": "安楽死",
         "reading": "アンラクシ",
-        "meaning": "euthanasia"
+        "meaning": {
+          "en": "euthanasia"
+        },
+        "romaji": "anrakushi"
       },
       {
         "example": "病死",
         "reading": "ビョウシ",
-        "meaning": "death from disease, death from illness"
+        "meaning": {
+          "en": "death from disease, death from illness"
+        },
+        "romaji": "byoushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "死ぬ",
         "reading": "しぬ",
-        "meaning": "to die, to pass away, to lose spirit, to lose vigor, to look dead, to cease, to stop"
+        "meaning": {
+          "vi": "to die, to pass away, to lose spirit, to lose vigor, to look dead, to cease, to stop"
+        },
+        "romaji": "shinu"
       },
       {
         "example": "死ぬ気で",
         "reading": "しぬきで",
-        "meaning": "all out, like hell, like crazy, desperately, expecting to die"
+        "meaning": {
+          "vi": "all out, like hell, like crazy, desperately, expecting to die"
+        },
+        "romaji": "shinukide"
       }
     ],
     "radical": {
@@ -419,5 +437,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b7b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b7b.gif",
     "uri": "https://jisho.org/search/%E6%AD%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tử"
+  ]
 }

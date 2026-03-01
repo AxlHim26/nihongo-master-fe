@@ -17,29 +17,44 @@
       {
         "example": "にぎり寿司",
         "reading": "ニギリズシ",
-        "meaning": "nigirizushi, hand-pressed vinegared rice topped with seafood"
+        "meaning": {
+          "vi": "nigirizushi, hand-pressed vinegared rice topped with seafood"
+        },
+        "romaji": "nigirizushi"
       },
       {
         "example": "回転寿司",
         "reading": "カイテンズシ",
-        "meaning": "conveyor belt sushi, sushi-go-round, sushi train, kaiten-zushi"
+        "meaning": {
+          "en": "conveyor belt sushi, sushi-go-round, sushi train, kaiten-zushi"
+        },
+        "romaji": "kaitenzushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寿司",
         "reading": "すし",
-        "meaning": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+        "meaning": {
+          "en": "sushi, range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+        },
+        "romaji": "sushi"
       },
       {
         "example": "すし酢",
         "reading": "すしず",
-        "meaning": "seasoned vinegar used for preparing sushi rice"
+        "meaning": {
+          "vi": "seasoned vinegar used for preparing sushi rice"
+        },
+        "romaji": "sushizu"
       },
       {
         "example": "回転寿司",
         "reading": "かいてんずし",
-        "meaning": "conveyor belt sushi, sushi-go-round, sushi train, kaiten-zushi"
+        "meaning": {
+          "en": "conveyor belt sushi, sushi-go-round, sushi train, kaiten-zushi"
+        },
+        "romaji": "kaitenzushi"
       }
     ],
     "radical": {
@@ -57,5 +72,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ba8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ba8.gif",
     "uri": "https://jisho.org/search/%E9%AE%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghễ",
+    "quỳ"
+  ]
 }

@@ -246,69 +246,108 @@
       {
         "example": "柔",
         "reading": "ジュウ",
-        "meaning": "softness, gentleness, weakness"
+        "meaning": {
+          "en": "softness, gentleness, weakness"
+        },
+        "romaji": "juu"
       },
       {
         "example": "柔道",
         "reading": "ジュウドウ",
-        "meaning": "judo"
+        "meaning": {
+          "en": "judo"
+        },
+        "romaji": "juudou"
       },
       {
         "example": "内剛外柔",
         "reading": "ナイゴウガイジュウ",
-        "meaning": "gentle on the outside but tough on the inside, an iron hand in a velvet glove"
+        "meaning": {
+          "en": "gentle on the outside but tough on the inside, an iron hand in a velvet glove"
+        },
+        "romaji": "naigougaijuu"
       },
       {
         "example": "外剛内柔",
         "reading": "ガイゴウナイジュウ",
-        "meaning": "being tough on the outside but soft at heart, a faint-hearted person pretending to be brave"
+        "meaning": {
+          "vi": "being tough on the outside but soft at heart, a faint-hearted person pretending to be brave"
+        },
+        "romaji": "gaigounaijuu"
       },
       {
         "example": "柔和",
         "reading": "ニュウワ",
-        "meaning": "gentle, mild, meek, tender"
+        "meaning": {
+          "en": "gentle, mild, meek, tender"
+        },
+        "romaji": "nyuuwa"
       },
       {
         "example": "柔弱",
         "reading": "ニュウジャク",
-        "meaning": "weak, weak-kneed, soft, feeble, effeminate"
+        "meaning": {
+          "en": "weak, weak-kneed, soft, feeble, effeminate"
+        },
+        "romaji": "nyuujaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柔らか",
         "reading": "やわらか",
-        "meaning": "soft, tender, pliant, supple, soft (colour, light, etc.), subdued, gentle (demeanour, voice, etc.), mild, informal, light, flexible (e.g. thinking)"
+        "meaning": {
+          "vi": "soft, tender, pliant, supple, soft (colour, light, etc.), subdued, gentle (demeanour, voice, etc.), mild, informal, light, flexible (e.g. thinking)"
+        },
+        "romaji": "yawaraka"
       },
       {
         "example": "柔らかい",
         "reading": "やわらかい",
-        "meaning": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        "meaning": {
+          "vi": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        },
+        "romaji": "yawarakai"
       },
       {
         "example": "柔らかい",
         "reading": "やわらかい",
-        "meaning": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        "meaning": {
+          "vi": "soft, tender, supple, flexible, limber, limp, gentle, mild, soft, mellow, light (topic, book, etc.), informal, flexible (thinking, mind, etc.), malleable, adaptable"
+        },
+        "romaji": "yawarakai"
       },
       {
         "example": "柔",
         "reading": "やわ",
-        "meaning": "soft, weak, fragile, poorly built, insubstantial"
+        "meaning": {
+          "vi": "soft, weak, fragile, poorly built, insubstantial"
+        },
+        "romaji": "yawa"
       },
       {
         "example": "柔ら",
         "reading": "やわら",
-        "meaning": "judo, jujutsu"
+        "meaning": {
+          "en": "judo, jujutsu"
+        },
+        "romaji": "yawara"
       },
       {
         "example": "柔ら",
         "reading": "やわら",
-        "meaning": "judo, jujutsu"
+        "meaning": {
+          "en": "judo, jujutsu"
+        },
+        "romaji": "yawara"
       },
       {
         "example": "柔らか",
         "reading": "やわらか",
-        "meaning": "soft, tender, pliant, supple, soft (colour, light, etc.), subdued, gentle (demeanour, voice, etc.), mild, informal, light, flexible (e.g. thinking)"
+        "meaning": {
+          "vi": "soft, tender, pliant, supple, soft (colour, light, etc.), subdued, gentle (demeanour, voice, etc.), mild, informal, light, flexible (e.g. thinking)"
+        },
+        "romaji": "yawaraka"
       }
     ],
     "radical": {
@@ -324,5 +363,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d4.gif",
     "uri": "https://jisho.org/search/%E6%9F%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhu"
+  ]
 }

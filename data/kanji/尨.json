@@ -16,14 +16,20 @@
       {
         "example": "膨大",
         "reading": "ボウダイ",
-        "meaning": "huge, vast, enormous, colossal, extensive, large, swelling, expansion"
+        "meaning": {
+          "vi": "huge, vast, enormous, colossal, extensive, large, swelling, expansion"
+        },
+        "romaji": "boudai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "むく犬",
         "reading": "むくいぬ",
-        "meaning": "shaggy dog"
+        "meaning": {
+          "en": "shaggy dog"
+        },
+        "romaji": "mukuinu"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c28.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c28.gif",
     "uri": "https://jisho.org/search/%E5%B0%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "mang",
+    "mông"
+  ]
 }

@@ -286,29 +286,44 @@
       {
         "example": "研究員",
         "reading": "ケンキュウイン",
-        "meaning": "researcher, lab worker"
+        "meaning": {
+          "en": "researcher, lab worker"
+        },
+        "romaji": "kenkyuuin"
       },
       {
         "example": "研究",
         "reading": "ケンキュウ",
-        "meaning": "research, study, investigation"
+        "meaning": {
+          "en": "research, study, investigation"
+        },
+        "romaji": "kenkyuu"
       },
       {
         "example": "予研",
         "reading": "ヨケン",
-        "meaning": "National Institute of Health"
+        "meaning": {
+          "en": "National Institute of Health"
+        },
+        "romaji": "yoken"
       },
       {
         "example": "映研",
         "reading": "エイケン",
-        "meaning": "film studies, cinema studies"
+        "meaning": {
+          "en": "film studies, cinema studies"
+        },
+        "romaji": "eiken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "研ぐ",
         "reading": "とぐ",
-        "meaning": "to sharpen, to hone, to whet, to grind, to wash (rice), to scour, to polish, to burnish"
+        "meaning": {
+          "vi": "to sharpen, to hone, to whet, to grind, to wash (rice), to scour, to polish, to burnish"
+        },
+        "romaji": "togu"
       }
     ],
     "radical": {
@@ -329,5 +344,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07814.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7814.gif",
     "uri": "https://jisho.org/search/%E7%A0%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghiên",
+    "nghiễn"
+  ]
 }

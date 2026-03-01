@@ -20,49 +20,76 @@
       {
         "example": "鎖国",
         "reading": "サコク",
-        "meaning": "national isolation, closing the country (to foreigners), sakoku, policy of national isolation enacted by the Tokugawa shogunate"
+        "meaning": {
+          "vi": "national isolation, closing the country (to foreigners), sakoku, policy of national isolation enacted by the Tokugawa shogunate"
+        },
+        "romaji": "sakoku"
       },
       {
         "example": "鎖骨",
         "reading": "サコツ",
-        "meaning": "collarbone, clavicle"
+        "meaning": {
+          "en": "collarbone, clavicle"
+        },
+        "romaji": "sakotsu"
       },
       {
         "example": "経済封鎖",
         "reading": "ケイザイフウサ",
-        "meaning": "economic blockade, embargo"
+        "meaning": {
+          "en": "economic blockade, embargo"
+        },
+        "romaji": "keizaifuusa"
       },
       {
         "example": "学級閉鎖",
         "reading": "ガッキュウヘイサ",
-        "meaning": "temporary closing of classes"
+        "meaning": {
+          "vi": "temporary closing of classes"
+        },
+        "romaji": "gakkyuuheisa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鎖",
         "reading": "くさり",
-        "meaning": "chain, chains"
+        "meaning": {
+          "en": "chain, chains"
+        },
+        "romaji": "kusari"
       },
       {
         "example": "鎖編み",
         "reading": "くさりあみ",
-        "meaning": "chain stitch"
+        "meaning": {
+          "en": "chain stitch"
+        },
+        "romaji": "kusariami"
       },
       {
         "example": "失われた鎖",
         "reading": "うしなわれたくさり",
-        "meaning": "missing link"
+        "meaning": {
+          "en": "missing link"
+        },
+        "romaji": "ushinawaretakusari"
       },
       {
         "example": "救命の鎖",
         "reading": "きゅうめいのくさり",
-        "meaning": "chain of survival"
+        "meaning": {
+          "en": "chain of survival"
+        },
+        "romaji": "kyuumeinokusari"
       },
       {
         "example": "閉ざす",
         "reading": "とざす",
-        "meaning": "to shut, to close, to fasten, to lock, to block (a street, entrance, etc.), to shut in (with snow, ice, etc.), to shut off, to cut off, to cover (e.g. in darkness), to consume (with negative feelings), to fill (e.g. with sadness), to bury (e.g. in grief)"
+        "meaning": {
+          "en": "to shut, to close, to fasten, to lock, to block (a street, entrance, etc.), to shut in (with snow, ice, etc.), to shut off, to cut off, to cover (e.g. in darkness), to consume (with negative feelings), to fill (e.g. with sadness), to bury (e.g. in grief)"
+        },
+        "romaji": "tozasu"
       }
     ],
     "radical": {
@@ -83,5 +110,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09396.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9396.gif",
     "uri": "https://jisho.org/search/%E9%8E%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "toả"
+  ]
 }

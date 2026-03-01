@@ -16,14 +16,20 @@
       {
         "example": "蝟集",
         "reading": "イシュウ",
-        "meaning": "swarm, throng, flock together"
+        "meaning": {
+          "en": "swarm, throng, flock together"
+        },
+        "romaji": "ishuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "針鼠",
         "reading": "はりねずみ",
-        "meaning": "hedgehog (any mammal of family Erinaceidae)"
+        "meaning": {
+          "en": "hedgehog (any mammal of family Erinaceidae)"
+        },
+        "romaji": "harinezumi"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0875f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/875f.gif",
     "uri": "https://jisho.org/search/%E8%9D%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "vị"
+  ]
 }

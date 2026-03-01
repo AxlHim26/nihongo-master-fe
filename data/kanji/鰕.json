@@ -17,7 +17,10 @@
       {
         "example": "海老",
         "reading": "えび",
-        "meaning": "prawn, shrimp, lobster"
+        "meaning": {
+          "vi": "prawn, shrimp, lobster"
+        },
+        "romaji": "ebi"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c15.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c15.gif",
     "uri": "https://jisho.org/search/%E9%B0%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "hà"
+  ]
 }

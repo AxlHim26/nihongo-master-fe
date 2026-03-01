@@ -14,7 +14,10 @@
       {
         "example": "囈語",
         "reading": "ゲイゴ",
-        "meaning": "delirious talk, nonsense"
+        "meaning": {
+          "en": "delirious talk, nonsense"
+        },
+        "romaji": "geigo"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056c8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56c8.gif",
     "uri": "https://jisho.org/search/%E5%9B%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghệ"
+  ]
 }

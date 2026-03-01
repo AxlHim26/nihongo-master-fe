@@ -16,24 +16,36 @@
       {
         "example": "城跡",
         "reading": "シロアト",
-        "meaning": "castle site, ruins of a castle"
+        "meaning": {
+          "en": "castle site, ruins of a castle"
+        },
+        "romaji": "shiroato"
       },
       {
         "example": "遺址",
         "reading": "イシ",
-        "meaning": "(historic) ruins"
+        "meaning": {
+          "en": "(historic) ruins"
+        },
+        "romaji": "ishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "跡",
         "reading": "あと",
-        "meaning": "trace, tracks, mark, sign, site, remains, ruins, scar"
+        "meaning": {
+          "en": "trace, tracks, mark, sign, site, remains, ruins, scar"
+        },
+        "romaji": "ato"
       },
       {
         "example": "城跡",
         "reading": "しろあと",
-        "meaning": "castle site, ruins of a castle"
+        "meaning": {
+          "en": "castle site, ruins of a castle"
+        },
+        "romaji": "shiroato"
       }
     ],
     "radical": {
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05740.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5740.gif",
     "uri": "https://jisho.org/search/%E5%9D%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉ"
+  ]
 }

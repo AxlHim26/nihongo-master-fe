@@ -19,24 +19,36 @@
       {
         "example": "風貌",
         "reading": "フウボウ",
-        "meaning": "looks, appearance"
+        "meaning": {
+          "vi": "looks, appearance"
+        },
+        "romaji": "fuubou"
       },
       {
         "example": "外貌",
         "reading": "ガイボウ",
-        "meaning": "outward appearance"
+        "meaning": {
+          "vi": "outward appearance"
+        },
+        "romaji": "gaibou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "形",
         "reading": "かたち",
-        "meaning": "form, shape, figure, visage"
+        "meaning": {
+          "vi": "form, shape, figure, visage"
+        },
+        "romaji": "katachi"
       },
       {
         "example": "顔かたち",
         "reading": "かおかたち",
-        "meaning": "features, looks"
+        "meaning": {
+          "en": "features, looks"
+        },
+        "romaji": "kaokatachi"
       }
     ],
     "radical": {
@@ -52,5 +64,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8c.gif",
     "uri": "https://jisho.org/search/%E8%B2%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạc",
+    "mạo",
+    "mộc"
+  ]
 }

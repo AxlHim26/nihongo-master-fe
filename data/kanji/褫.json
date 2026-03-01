@@ -16,7 +16,10 @@
       {
         "example": "褫奪",
         "reading": "チダツ",
-        "meaning": "stripping (of clothes, office, etc.), deprivation"
+        "meaning": {
+          "vi": "stripping (of clothes, office, etc.), deprivation"
+        },
+        "romaji": "chidatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0892b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/892b.gif",
     "uri": "https://jisho.org/search/%E8%A4%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "sỉ"
+  ]
 }

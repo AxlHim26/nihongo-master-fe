@@ -358,49 +358,76 @@
       {
         "example": "広告",
         "reading": "コウコク",
-        "meaning": "advertisement, advertising, announcement, notice"
+        "meaning": {
+          "en": "advertisement, advertising, announcement, notice"
+        },
+        "romaji": "koukoku"
       },
       {
         "example": "広域",
         "reading": "コウイキ",
-        "meaning": "wide area, wide view (of a digitally displayed map), zoomed-out view"
+        "meaning": {
+          "vi": "wide area, wide view (of a digitally displayed map), zoomed-out view"
+        },
+        "romaji": "kouiki"
       },
       {
         "example": "曠々",
         "reading": "コウコウ",
-        "meaning": "extensive, spacious"
+        "meaning": {
+          "vi": "extensive, spacious"
+        },
+        "romaji": "koukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "広い",
         "reading": "ひろい",
-        "meaning": "spacious, vast, wide"
+        "meaning": {
+          "vi": "spacious, vast, wide"
+        },
+        "romaji": "hiroi"
       },
       {
         "example": "広い支持",
         "reading": "ひろいしじ",
-        "meaning": "broad support, wide-ranging support"
+        "meaning": {
+          "vi": "broad support, wide-ranging support"
+        },
+        "romaji": "hiroishiji"
       },
       {
         "example": "広まる",
         "reading": "ひろまる",
-        "meaning": "to spread, to be propagated"
+        "meaning": {
+          "vi": "to spread, to be propagated"
+        },
+        "romaji": "hiromaru"
       },
       {
         "example": "広める",
         "reading": "ひろめる",
-        "meaning": "to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge"
+        "meaning": {
+          "vi": "to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge"
+        },
+        "romaji": "hiromeru"
       },
       {
         "example": "広がる",
         "reading": "ひろがる",
-        "meaning": "to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space)"
+        "meaning": {
+          "vi": "to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space)"
+        },
+        "romaji": "hirogaru"
       },
       {
         "example": "広げる",
         "reading": "ひろげる",
-        "meaning": "to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper"
+        "meaning": {
+          "vi": "to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper"
+        },
+        "romaji": "hirogeru"
       }
     ],
     "radical": {
@@ -415,5 +442,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e83.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e83.gif",
     "uri": "https://jisho.org/search/%E5%BA%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoát",
+    "quảng"
+  ]
 }

@@ -18,34 +18,52 @@
       {
         "example": "蛙",
         "reading": "カエル",
-        "meaning": "frog, kajika frog (Buergeria buergeri)"
+        "meaning": {
+          "en": "frog, kajika frog (Buergeria buergeri)"
+        },
+        "romaji": "kaeru"
       },
       {
         "example": "海老尾",
         "reading": "エビオ",
-        "meaning": "goldfish with a shrimp-like tail, head of a shamisen or lute (bent back like a shrimp's tail)"
+        "meaning": {
+          "vi": "goldfish with a shrimp-like tail, head of a shamisen or lute (bent back like a shrimp's tail)"
+        },
+        "romaji": "ebio"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "海老",
         "reading": "えび",
-        "meaning": "prawn, shrimp, lobster"
+        "meaning": {
+          "vi": "prawn, shrimp, lobster"
+        },
+        "romaji": "ebi"
       },
       {
         "example": "海老芋",
         "reading": "えびいも",
-        "meaning": "shrimp-shaped taro variety"
+        "meaning": {
+          "vi": "shrimp-shaped taro variety"
+        },
+        "romaji": "ebiimo"
       },
       {
         "example": "鉄砲蝦",
         "reading": "てっぽうえび",
-        "meaning": "snapping shrimp (Alpheus brevicristatus), pistol prawn"
+        "meaning": {
+          "vi": "snapping shrimp (Alpheus brevicristatus), pistol prawn"
+        },
+        "romaji": "teppouebi"
       },
       {
         "example": "猩猩蝦",
         "reading": "しょうじょうえび",
-        "meaning": "kangaroo shrimp (Glyphus marsupialis)"
+        "meaning": {
+          "vi": "kangaroo shrimp (Glyphus marsupialis)"
+        },
+        "romaji": "shoujouebi"
       }
     ],
     "radical": {
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08766.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8766.gif",
     "uri": "https://jisho.org/search/%E8%9D%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "hà"
+  ]
 }

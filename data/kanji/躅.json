@@ -15,7 +15,10 @@
       {
         "example": "躑躅",
         "reading": "テキチョク",
-        "meaning": "hesitation, indecision, vacillation, wavering, azalea (Rhododendron spp.)"
+        "meaning": {
+          "vi": "hesitation, indecision, vacillation, wavering, azalea (Rhododendron spp.)"
+        },
+        "romaji": "tekichoku"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e85.gif",
     "uri": "https://jisho.org/search/%E8%BA%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "trạc",
+    "trục"
+  ]
 }

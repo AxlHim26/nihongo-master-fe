@@ -18,12 +18,18 @@
       {
         "example": "囮",
         "reading": "おとり",
-        "meaning": "decoy (for hunting), stool, lure, bait, decoy, stool pigeon, trap"
+        "meaning": {
+          "vi": "decoy (for hunting), stool, lure, bait, decoy, stool pigeon, trap"
+        },
+        "romaji": "otori"
       },
       {
         "example": "おとり広告",
         "reading": "おとりこうこく",
-        "meaning": "bait-and-switch advertising, bait-and-switch advertisement"
+        "meaning": {
+          "en": "bait-and-switch advertising, bait-and-switch advertisement"
+        },
+        "romaji": "otorikoukoku"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56ee.gif",
     "uri": "https://jisho.org/search/%E5%9B%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngoa"
+  ]
 }

@@ -293,29 +293,44 @@
       {
         "example": "英",
         "reading": "エイ",
-        "meaning": "United Kingdom, Britain, English (language)"
+        "meaning": {
+          "en": "United Kingdom, Britain, English (language)"
+        },
+        "romaji": "ei"
       },
       {
         "example": "英語",
         "reading": "エイゴ",
-        "meaning": "English (language)"
+        "meaning": {
+          "en": "English (language)"
+        },
+        "romaji": "eigo"
       },
       {
         "example": "育英",
         "reading": "イクエイ",
-        "meaning": "education of gifted young people, providing financial support to gifted students, education"
+        "meaning": {
+          "vi": "education of gifted young people, providing financial support to gifted students, education"
+        },
+        "romaji": "ikuei"
       },
       {
         "example": "和英",
         "reading": "ワエイ",
-        "meaning": "Japanese-English, Japanese-English dictionary"
+        "meaning": {
+          "vi": "Japanese-English, Japanese-English dictionary"
+        },
+        "romaji": "waei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "花房",
         "reading": "はなぶさ",
-        "meaning": "calyx, corolla"
+        "meaning": {
+          "en": "calyx, corolla"
+        },
+        "romaji": "hanabusa"
       }
     ],
     "radical": {
@@ -335,5 +350,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082f1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82f1.gif",
     "uri": "https://jisho.org/search/%E8%8B%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "anh"
+  ]
 }

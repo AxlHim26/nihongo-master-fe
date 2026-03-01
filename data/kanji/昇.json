@@ -281,29 +281,44 @@
       {
         "example": "昇給",
         "reading": "ショウキュウ",
-        "meaning": "salary raise"
+        "meaning": {
+          "en": "salary raise"
+        },
+        "romaji": "shoukyuu"
       },
       {
         "example": "昇格",
         "reading": "ショウカク",
-        "meaning": "promotion, raising of status"
+        "meaning": {
+          "vi": "promotion, raising of status"
+        },
+        "romaji": "shoukaku"
       },
       {
         "example": "定昇",
         "reading": "テイショウ",
-        "meaning": "regular (annual) pay raise"
+        "meaning": {
+          "vi": "regular (annual) pay raise"
+        },
+        "romaji": "teishou"
       },
       {
         "example": "赤丸急上昇",
         "reading": "アカマルキュウジョウショウ",
-        "meaning": "sudden increase (e.g. in ranking, popularity or sales), rapid rise (e.g. to fame or power)"
+        "meaning": {
+          "vi": "sudden increase (e.g. in ranking, popularity or sales), rapid rise (e.g. to fame or power)"
+        },
+        "romaji": "akamarukyuujoushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "上る",
         "reading": "のぼる",
-        "meaning": "to ascend, to go up, to climb, to ascend (as a natural process, e.g. the Sun), to rise, to go to (the capital), to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda)"
+        "meaning": {
+          "vi": "to ascend, to go up, to climb, to ascend (as a natural process, e.g. the Sun), to rise, to go to (the capital), to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda)"
+        },
+        "romaji": "noboru"
       }
     ],
     "radical": {
@@ -320,5 +335,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06607.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6607.gif",
     "uri": "https://jisho.org/search/%E6%98%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "thăng"
+  ]
 }

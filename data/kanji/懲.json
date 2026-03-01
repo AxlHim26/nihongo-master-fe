@@ -21,39 +21,60 @@
       {
         "example": "懲戒",
         "reading": "チョウカイ",
-        "meaning": "discipline, punishment, reprimand"
+        "meaning": {
+          "vi": "discipline, punishment, reprimand"
+        },
+        "romaji": "choukai"
       },
       {
         "example": "懲役",
         "reading": "チョウエキ",
-        "meaning": "penal servitude, imprisonment with hard labor (hard labour)"
+        "meaning": {
+          "vi": "penal servitude, imprisonment with hard labor (hard labour)"
+        },
+        "romaji": "choueki"
       },
       {
         "example": "膺懲",
         "reading": "ヨウチョウ",
-        "meaning": "punishment (of an enemy), chastisement"
+        "meaning": {
+          "vi": "punishment (of an enemy), chastisement"
+        },
+        "romaji": "youchou"
       },
       {
         "example": "暴支膺懲",
         "reading": "ボウシヨウチョウ",
-        "meaning": "punish savage China"
+        "meaning": {
+          "vi": "punish savage China"
+        },
+        "romaji": "boushiyouchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "懲りる",
         "reading": "こりる",
-        "meaning": "to learn by experience, to learn one's lesson, to learn the hard way, to be discouraged (by), to have enough (of), to be disgusted (with)"
+        "meaning": {
+          "vi": "to learn by experience, to learn one's lesson, to learn the hard way, to be discouraged (by), to have enough (of), to be disgusted (with)"
+        },
+        "romaji": "koriru"
       },
       {
         "example": "懲らす",
         "reading": "こらす",
-        "meaning": "to chastise, to punish, to discipline"
+        "meaning": {
+          "vi": "to chastise, to punish, to discipline"
+        },
+        "romaji": "korasu"
       },
       {
         "example": "懲らしめる",
         "reading": "こらしめる",
-        "meaning": "to chastise, to punish, to discipline"
+        "meaning": {
+          "vi": "to chastise, to punish, to discipline"
+        },
+        "romaji": "korashimeru"
       }
     ],
     "radical": {
@@ -76,5 +97,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61f2.gif",
     "uri": "https://jisho.org/search/%E6%87%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "trừng"
+  ]
 }

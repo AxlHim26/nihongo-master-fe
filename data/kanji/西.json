@@ -298,64 +298,100 @@
       {
         "example": "西",
         "reading": "セイ",
-        "meaning": "Spain"
+        "meaning": {
+          "vi": "Spain"
+        },
+        "romaji": "sei"
       },
       {
         "example": "西欧",
         "reading": "セイオウ",
-        "meaning": "Western Europe, the West, the Occident, Europe"
+        "meaning": {
+          "vi": "Western Europe, the West, the Occident, Europe"
+        },
+        "romaji": "seiou"
       },
       {
         "example": "南西",
         "reading": "ナンセイ",
-        "meaning": "southwest"
+        "meaning": {
+          "en": "southwest"
+        },
+        "romaji": "nansei"
       },
       {
         "example": "北北西",
         "reading": "ホクホクセイ",
-        "meaning": "north-northwest"
+        "meaning": {
+          "en": "north-northwest"
+        },
+        "romaji": "hokuhokusei"
       },
       {
         "example": "西方",
         "reading": "セイホウ",
-        "meaning": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
+        "meaning": {
+          "vi": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
+        },
+        "romaji": "seihou"
       },
       {
         "example": "西遊",
         "reading": "セイユウ",
-        "meaning": "westward trip, trip to the West"
+        "meaning": {
+          "vi": "westward trip, trip to the West"
+        },
+        "romaji": "seiyuu"
       },
       {
         "example": "西瓜",
         "reading": "スイカ",
-        "meaning": "watermelon (Citrullus lanatus)"
+        "meaning": {
+          "en": "watermelon (Citrullus lanatus)"
+        },
+        "romaji": "suika"
       },
       {
         "example": "西班牙",
         "reading": "スペイン",
-        "meaning": "Spain"
+        "meaning": {
+          "vi": "Spain"
+        },
+        "romaji": "supein"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "西",
         "reading": "にし",
-        "meaning": "west"
+        "meaning": {
+          "en": "west"
+        },
+        "romaji": "nishi"
       },
       {
         "example": "西方",
         "reading": "せいほう",
-        "meaning": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
+        "meaning": {
+          "vi": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
+        },
+        "romaji": "seihou"
       },
       {
         "example": "南西",
         "reading": "なんせい",
-        "meaning": "southwest"
+        "meaning": {
+          "en": "southwest"
+        },
+        "romaji": "nansei"
       },
       {
         "example": "京都外大西",
         "reading": "きょうとがいだいにし",
-        "meaning": "Kyoto Gaidainishi"
+        "meaning": {
+          "en": "Kyoto Gaidainishi"
+        },
+        "romaji": "kyoutogaidainishi"
       }
     ],
     "radical": {
@@ -373,5 +409,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0897f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/897f.gif",
     "uri": "https://jisho.org/search/%E8%A5%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tây",
+    "tê"
+  ]
 }

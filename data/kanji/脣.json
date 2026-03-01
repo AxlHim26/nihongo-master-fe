@@ -16,14 +16,20 @@
       {
         "example": "朱唇",
         "reading": "シュシン",
-        "meaning": "red lips"
+        "meaning": {
+          "vi": "red lips"
+        },
+        "romaji": "shushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唇",
         "reading": "くちびる",
-        "meaning": "lip, lips"
+        "meaning": {
+          "vi": "lip, lips"
+        },
+        "romaji": "kuchibiru"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08123.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8123.gif",
     "uri": "https://jisho.org/search/%E8%84%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thần"
+  ]
 }

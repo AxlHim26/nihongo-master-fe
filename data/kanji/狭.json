@@ -307,54 +307,84 @@
       {
         "example": "狭心症",
         "reading": "キョウシンショウ",
-        "meaning": "đau thắt ngực"
+        "meaning": {
+          "vi": "đau thắt ngực"
+        },
+        "romaji": "kyoushinshou"
       },
       {
         "example": "狭義",
         "reading": "キョウギ",
-        "meaning": "nghĩa hẹp (vd. của từ)"
+        "meaning": {
+          "vi": "nghĩa hẹp (vd. của từ)"
+        },
+        "romaji": "kyougi"
       },
       {
         "example": "偏狭",
         "reading": "ヘンキョウ",
-        "meaning": "hẹp hòi, không khoan dung, sự hẹp"
+        "meaning": {
+          "vi": "hẹp hòi, không khoan dung, sự hẹp"
+        },
+        "romaji": "henkyou"
       },
       {
         "example": "広狭",
         "reading": "コウキョウ",
-        "meaning": "độ rộng, rộng và hẹp"
+        "meaning": {
+          "vi": "độ rộng, rộng và hẹp"
+        },
+        "romaji": "koukyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "狭い",
         "reading": "せまい",
-        "meaning": "hẹp, chật, nhỏ, chật chội, hạn chế, hẹp hòi"
+        "meaning": {
+          "vi": "hẹp, chật, nhỏ, chật chội, hạn chế, hẹp hòi"
+        },
+        "romaji": "semai"
       },
       {
         "example": "狭める",
         "reading": "せばめる",
-        "meaning": "thu hẹp, giảm, co lại"
+        "meaning": {
+          "vi": "thu hẹp, giảm, co lại"
+        },
+        "romaji": "sebameru"
       },
       {
         "example": "狭まる",
         "reading": "せばまる",
-        "meaning": "thu hẹp, co lại"
+        "meaning": {
+          "vi": "thu hẹp, co lại"
+        },
+        "romaji": "sebamaru"
       },
       {
         "example": "狭",
         "reading": "さ",
-        "meaning": "hẹp, mỏng"
+        "meaning": {
+          "vi": "hẹp, mỏng"
+        },
+        "romaji": "sa"
       },
       {
         "example": "狭霧",
         "reading": "さぎり",
-        "meaning": "sương mù"
+        "meaning": {
+          "vi": "sương mù"
+        },
+        "romaji": "sagiri"
       },
       {
         "example": "若狭",
         "reading": "わかさ",
-        "meaning": "Wakasa (tỉnh cũ ở phía nam Fukui ngày nay)"
+        "meaning": {
+          "vi": "Wakasa (tỉnh cũ ở phía nam Fukui ngày nay)"
+        },
+        "romaji": "wakasa"
       }
     ],
     "radical": {
@@ -377,5 +407,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72ed.gif",
     "uri": "https://jisho.org/search/%E7%8B%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệp"
+  ]
 }

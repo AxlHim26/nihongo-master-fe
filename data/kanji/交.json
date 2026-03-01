@@ -399,69 +399,108 @@
       {
         "example": "交",
         "reading": "コウ",
-        "meaning": "association, fellowship, change (of season, year, etc.)"
+        "meaning": {
+          "vi": "association, fellowship, change (of season, year, etc.)"
+        },
+        "romaji": "kou"
       },
       {
         "example": "交易",
         "reading": "コウエキ",
-        "meaning": "trade, commerce"
+        "meaning": {
+          "en": "trade, commerce"
+        },
+        "romaji": "koueki"
       },
       {
         "example": "親交",
         "reading": "シンコウ",
-        "meaning": "intimacy, friendship, friendly relations"
+        "meaning": {
+          "vi": "intimacy, friendship, friendly relations"
+        },
+        "romaji": "shinkou"
       },
       {
         "example": "国交",
         "reading": "コッコウ",
-        "meaning": "diplomatic relations"
+        "meaning": {
+          "vi": "diplomatic relations"
+        },
+        "romaji": "kokkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "交わる",
         "reading": "まじわる",
-        "meaning": "to cross, to intersect, to join, to meet, to associate with, to mingle with, to consort with, to have a sexual relationship, to copulate"
+        "meaning": {
+          "vi": "to cross, to intersect, to join, to meet, to associate with, to mingle with, to consort with, to have a sexual relationship, to copulate"
+        },
+        "romaji": "majiwaru"
       },
       {
         "example": "交える",
         "reading": "まじえる",
-        "meaning": "to mix, to combine, to include, to exchange (words, fire, etc.), to cross (e.g. swords), to join together"
+        "meaning": {
+          "en": "to mix, to combine, to include, to exchange (words, fire, etc.), to cross (e.g. swords), to join together"
+        },
+        "romaji": "majieru"
       },
       {
         "example": "混じる",
         "reading": "まじる",
-        "meaning": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        "meaning": {
+          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        },
+        "romaji": "majiru"
       },
       {
         "example": "混じる",
         "reading": "まじる",
-        "meaning": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        "meaning": {
+          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        },
+        "romaji": "majiru"
       },
       {
         "example": "混ざる",
         "reading": "まざる",
-        "meaning": "to be mixed, to be blended with, to associate with, to mingle with, to join"
+        "meaning": {
+          "en": "to be mixed, to be blended with, to associate with, to mingle with, to join"
+        },
+        "romaji": "mazaru"
       },
       {
         "example": "混ぜる",
         "reading": "まぜる",
-        "meaning": "to mix, to stir, to blend"
+        "meaning": {
+          "en": "to mix, to stir, to blend"
+        },
+        "romaji": "mazeru"
       },
       {
         "example": "交わす",
         "reading": "かわす",
-        "meaning": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other"
+        "meaning": {
+          "en": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other"
+        },
+        "romaji": "kawasu"
       },
       {
         "example": "交わす",
         "reading": "かわす",
-        "meaning": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other"
+        "meaning": {
+          "en": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other"
+        },
+        "romaji": "kawasu"
       },
       {
         "example": "交々",
         "reading": "こもごも",
-        "meaning": "alternately, in succession"
+        "meaning": {
+          "en": "alternately, in succession"
+        },
+        "romaji": "komogomo"
       }
     ],
     "radical": {
@@ -476,5 +515,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ea4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ea4.gif",
     "uri": "https://jisho.org/search/%E4%BA%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "giao"
+  ]
 }

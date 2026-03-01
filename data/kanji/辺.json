@@ -272,49 +272,76 @@
       {
         "example": "辺",
         "reading": "ヘン",
-        "meaning": "area, vicinity, region, side, edge, circumstances"
+        "meaning": {
+          "en": "area, vicinity, region, side, edge, circumstances"
+        },
+        "romaji": "hen"
       },
       {
         "example": "辺境",
         "reading": "ヘンキョウ",
-        "meaning": "remote region, outlying district, border district, frontier"
+        "meaning": {
+          "en": "remote region, outlying district, border district, frontier"
+        },
+        "romaji": "henkyou"
       },
       {
         "example": "普遍",
         "reading": "フヘン",
-        "meaning": "universal, general, ubiquitous, omnipresent"
+        "meaning": {
+          "vi": "universal, general, ubiquitous, omnipresent"
+        },
+        "romaji": "fuhen"
       },
       {
         "example": "どの辺",
         "reading": "ドノヘン",
-        "meaning": "whereabouts, what part, how much, what point"
+        "meaning": {
+          "vi": "whereabouts, what part, how much, what point"
+        },
+        "romaji": "donohen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辺り",
         "reading": "あたり",
-        "meaning": "(in the) neighbourhood, neighborhood, vicinity, nearby, surroundings, around, about, or thereabouts, for instance, say, such as"
+        "meaning": {
+          "en": "(in the) neighbourhood, neighborhood, vicinity, nearby, surroundings, around, about, or thereabouts, for instance, say, such as"
+        },
+        "romaji": "atari"
       },
       {
         "example": "あたり一面",
         "reading": "あたりいちめん",
-        "meaning": "whole area, surrounding area, all around, everywhere, all over the place"
+        "meaning": {
+          "vi": "whole area, surrounding area, all around, everywhere, all over the place"
+        },
+        "romaji": "atariichimen"
       },
       {
         "example": "御辺",
         "reading": "ごへん",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "gohen"
       },
       {
         "example": "辺",
         "reading": "ほとり",
-        "meaning": "side (esp. of a waterbody), edge, bank, shore"
+        "meaning": {
+          "vi": "side (esp. of a waterbody), edge, bank, shore"
+        },
+        "romaji": "hotori"
       },
       {
         "example": "片辺",
         "reading": "かたほとり",
-        "meaning": "corner, remote country place"
+        "meaning": {
+          "vi": "corner, remote country place"
+        },
+        "romaji": "katahotori"
       }
     ],
     "radical": {
@@ -334,5 +361,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fba.gif",
     "uri": "https://jisho.org/search/%E8%BE%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "biên"
+  ]
 }

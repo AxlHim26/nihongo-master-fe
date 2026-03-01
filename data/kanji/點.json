@@ -22,7 +22,10 @@
       {
         "example": "点穴",
         "reading": "テンケツ",
-        "meaning": "huyệt (châm cứu), điểm yếu trên cơ thể"
+        "meaning": {
+          "vi": "huyệt (châm cứu), điểm yếu trên cơ thể"
+        },
+        "romaji": "tenketsu"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ede.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ede.gif",
     "uri": "https://jisho.org/search/%E9%BB%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "điểm"
+  ]
 }

@@ -22,12 +22,18 @@
       {
         "example": "転送",
         "reading": "テンソウ",
-        "meaning": "transfer (of a call, patient, etc.), forwarding (a letter, email, etc.), redirection, transfer (of data), transmission"
+        "meaning": {
+          "vi": "transfer (of a call, patient, etc.), forwarding (a letter, email, etc.), redirection, transfer (of data), transmission"
+        },
+        "romaji": "tensou"
       },
       {
         "example": "転任",
         "reading": "テンニン",
-        "meaning": "change of post"
+        "meaning": {
+          "vi": "change of post"
+        },
+        "romaji": "tennin"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f49.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f49.gif",
     "uri": "https://jisho.org/search/%E8%BD%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuyến",
+    "chuyển"
+  ]
 }

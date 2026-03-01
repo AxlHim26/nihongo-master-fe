@@ -16,24 +16,36 @@
       {
         "example": "氈",
         "reading": "カモ",
-        "meaning": "carpet, rug (esp. felt)"
+        "meaning": {
+          "vi": "carpet, rug (esp. felt)"
+        },
+        "romaji": "kamo"
       },
       {
         "example": "毛氈",
         "reading": "モウセン",
-        "meaning": "carpet, rug (esp. felt)"
+        "meaning": {
+          "vi": "carpet, rug (esp. felt)"
+        },
+        "romaji": "mousen"
       },
       {
         "example": "花毛氈",
         "reading": "ハナモウセン",
-        "meaning": "figured carpet"
+        "meaning": {
+          "vi": "figured carpet"
+        },
+        "romaji": "hanamousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "花毛氈",
         "reading": "はなもうせん",
-        "meaning": "figured carpet"
+        "meaning": {
+          "vi": "figured carpet"
+        },
+        "romaji": "hanamousen"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c08.gif",
     "uri": "https://jisho.org/search/%E6%B0%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiên"
+  ]
 }

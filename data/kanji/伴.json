@@ -20,49 +20,76 @@
       {
         "example": "伴侶",
         "reading": "ハンリョ",
-        "meaning": "companion, partner, spouse"
+        "meaning": {
+          "vi": "companion, partner, spouse"
+        },
+        "romaji": "hanryo"
       },
       {
         "example": "伴性遺伝",
         "reading": "ハンセイイデン",
-        "meaning": "sex-linked inheritance"
+        "meaning": {
+          "en": "sex-linked inheritance"
+        },
+        "romaji": "hanseiiden"
       },
       {
         "example": "随伴",
         "reading": "ズイハン",
-        "meaning": "attendance, accompanying, following, adjoint"
+        "meaning": {
+          "vi": "attendance, accompanying, following, adjoint"
+        },
+        "romaji": "zuihan"
       },
       {
         "example": "朴伴",
         "reading": "ボクハン",
-        "meaning": "Camellia japonica 'Bokuhan' (cultivar of common camellia)"
+        "meaning": {
+          "vi": "Camellia japonica 'Bokuhan' (cultivar of common camellia)"
+        },
+        "romaji": "bokuhan"
       },
       {
         "example": "伴奏",
         "reading": "バンソウ",
-        "meaning": "accompaniment"
+        "meaning": {
+          "vi": "accompaniment"
+        },
+        "romaji": "bansou"
       },
       {
         "example": "伴走",
         "reading": "バンソウ",
-        "meaning": "running alongside, pacesetting, accompanying"
+        "meaning": {
+          "vi": "running alongside, pacesetting, accompanying"
+        },
+        "romaji": "bansou"
       },
       {
         "example": "相伴",
         "reading": "ショウバン",
-        "meaning": "partaking, participating, taking part in, sharing (something with someone)"
+        "meaning": {
+          "vi": "partaking, participating, taking part in, sharing (something with someone)"
+        },
+        "romaji": "shouban"
       },
       {
         "example": "お相伴",
         "reading": "オショウバン",
-        "meaning": "sharing a meal"
+        "meaning": {
+          "en": "sharing a meal"
+        },
+        "romaji": "oshouban"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伴う",
         "reading": "ともなう",
-        "meaning": "to accompany, to go hand in hand with, to be consequent upon, to be accompanied by, to bring with, to take with, to be involved in"
+        "meaning": {
+          "vi": "to accompany, to go hand in hand with, to be consequent upon, to be accompanied by, to bring with, to take with, to be involved in"
+        },
+        "romaji": "tomonau"
       }
     ],
     "radical": {
@@ -83,5 +110,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f34.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f34.gif",
     "uri": "https://jisho.org/search/%E4%BC%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạn",
+    "phán"
+  ]
 }

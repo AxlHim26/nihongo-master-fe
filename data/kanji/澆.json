@@ -16,7 +16,10 @@
       {
         "example": "澆季",
         "reading": "ギョウキ",
-        "meaning": "frivolous age, degenerate period in history, decadent age"
+        "meaning": {
+          "vi": "frivolous age, degenerate period in history, decadent age"
+        },
+        "romaji": "gyouki"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f86.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f86.gif",
     "uri": "https://jisho.org/search/%E6%BE%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiêu",
+    "nghiêu"
+  ]
 }

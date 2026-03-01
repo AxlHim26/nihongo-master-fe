@@ -250,44 +250,68 @@
       {
         "example": "倉庫",
         "reading": "ソウコ",
-        "meaning": "storehouse, warehouse, godown"
+        "meaning": {
+          "en": "storehouse, warehouse, godown"
+        },
+        "romaji": "souko"
       },
       {
         "example": "倉頡",
         "reading": "ソウケツ",
-        "meaning": "Cangjie (input method for Chinese)"
+        "meaning": {
+          "vi": "Cangjie (input method for Chinese)"
+        },
+        "romaji": "souketsu"
       },
       {
         "example": "船倉",
         "reading": "センソウ",
-        "meaning": "ship's hold, hatch"
+        "meaning": {
+          "vi": "ship's hold, hatch"
+        },
+        "romaji": "sensou"
       },
       {
         "example": "穀倉",
         "reading": "コクソウ",
-        "meaning": "granary"
+        "meaning": {
+          "en": "granary"
+        },
+        "romaji": "kokusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔵",
         "reading": "くら",
-        "meaning": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        "meaning": {
+          "vi": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+        },
+        "romaji": "kura"
       },
       {
         "example": "倉敷",
         "reading": "くらしき",
-        "meaning": "Kurashiki (city), storage charges"
+        "meaning": {
+          "en": "Kurashiki (city), storage charges"
+        },
+        "romaji": "kurashiki"
       },
       {
         "example": "鎌倉",
         "reading": "かまくら",
-        "meaning": "Kamakura (city)"
+        "meaning": {
+          "en": "Kamakura (city)"
+        },
+        "romaji": "kamakura"
       },
       {
         "example": "お蔵",
         "reading": "おくら",
-        "meaning": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate)"
+        "meaning": {
+          "vi": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate)"
+        },
+        "romaji": "okura"
       }
     ],
     "radical": {
@@ -308,5 +332,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05009.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5009.gif",
     "uri": "https://jisho.org/search/%E5%80%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "sảng",
+    "thương",
+    "thảng",
+    "xương"
+  ]
 }

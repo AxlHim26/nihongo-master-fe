@@ -19,34 +19,52 @@
       {
         "example": "撃墜",
         "reading": "ゲキツイ",
-        "meaning": "shooting down (an aircraft)"
+        "meaning": {
+          "en": "shooting down (an aircraft)"
+        },
+        "romaji": "gekitsui"
       },
       {
         "example": "撃沈",
         "reading": "ゲキチン",
-        "meaning": "(attacking and) sinking (a ship), sending (a ship) to the bottom"
+        "meaning": {
+          "vi": "(attacking and) sinking (a ship), sending (a ship) to the bottom"
+        },
+        "romaji": "gekichin"
       },
       {
         "example": "銃撃",
         "reading": "ジュウゲキ",
-        "meaning": "shooting, gunning (down)"
+        "meaning": {
+          "en": "shooting, gunning (down)"
+        },
+        "romaji": "juugeki"
       },
       {
         "example": "追撃",
         "reading": "ツイゲキ",
-        "meaning": "pursuit (of a fleeing enemy), chase, follow-up attack"
+        "meaning": {
+          "vi": "pursuit (of a fleeing enemy), chase, follow-up attack"
+        },
+        "romaji": "tsuigeki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撃つ",
         "reading": "うつ",
-        "meaning": "to shoot (a gun, person, etc.), to fire"
+        "meaning": {
+          "vi": "to shoot (a gun, person, etc.), to fire"
+        },
+        "romaji": "utsu"
       },
       {
         "example": "討つ",
         "reading": "うつ",
-        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge"
+        "meaning": {
+          "en": "to attack, to destroy, to defeat, to conquer, to avenge"
+        },
+        "romaji": "utsu"
       }
     ],
     "radical": {
@@ -67,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06483.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6483.gif",
     "uri": "https://jisho.org/search/%E6%92%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "kích"
+  ]
 }

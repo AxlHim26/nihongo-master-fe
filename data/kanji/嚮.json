@@ -18,17 +18,26 @@
       {
         "example": "向後",
         "reading": "コウゴ",
-        "meaning": "hereafter"
+        "meaning": {
+          "en": "hereafter"
+        },
+        "romaji": "kougo"
       },
       {
         "example": "向後",
         "reading": "コウゴ",
-        "meaning": "hereafter"
+        "meaning": {
+          "en": "hereafter"
+        },
+        "romaji": "kougo"
       },
       {
         "example": "嚮導",
         "reading": "キョウドウ",
-        "meaning": "guidance, leading (the way), taking point, conducting, leader, guide, guide"
+        "meaning": {
+          "vi": "guidance, leading (the way), taking point, conducting, leader, guide, guide"
+        },
+        "romaji": "kyoudou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56ae.gif",
     "uri": "https://jisho.org/search/%E5%9A%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hướng",
+    "hưởng"
+  ]
 }

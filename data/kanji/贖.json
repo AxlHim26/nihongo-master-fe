@@ -16,19 +16,28 @@
       {
         "example": "贖罪",
         "reading": "ショクザイ",
-        "meaning": "atonement, the Atonement (of Jesus Christ)"
+        "meaning": {
+          "en": "atonement, the Atonement (of Jesus Christ)"
+        },
+        "romaji": "shokuzai"
       },
       {
         "example": "贖罪意識",
         "reading": "ショクザイイシキ",
-        "meaning": "sense of atonement"
+        "meaning": {
+          "en": "sense of atonement"
+        },
+        "romaji": "shokuzaiishiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "贖う",
         "reading": "あがなう",
-        "meaning": "to atone for, to expiate, to redeem, to make up for, to compensate for"
+        "meaning": {
+          "vi": "to atone for, to expiate, to redeem, to make up for, to compensate for"
+        },
+        "romaji": "aganau"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d16.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d16.gif",
     "uri": "https://jisho.org/search/%E8%B4%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thục"
+  ]
 }

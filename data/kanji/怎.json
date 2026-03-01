@@ -18,7 +18,10 @@
       {
         "example": "作麼生",
         "reading": "ソモサン",
-        "meaning": "hãy xem điều sau, bạn có thể trả lời không?"
+        "meaning": {
+          "vi": "hãy xem điều sau, bạn có thể trả lời không?"
+        },
+        "romaji": "somosan"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0600e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/600e.gif",
     "uri": "https://jisho.org/search/%E6%80%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "chẩm",
+    "trẩm"
+  ]
 }

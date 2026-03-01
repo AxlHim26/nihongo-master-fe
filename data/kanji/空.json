@@ -419,94 +419,148 @@
       {
         "example": "空",
         "reading": "クウ",
-        "meaning": "empty air, sky, shunyata (the lack of an immutable intrinsic nature within any phenomenon), emptiness, air force, fruitlessness, meaninglessness, void (one of the five elements), empty (e.g. set)"
+        "meaning": {
+          "vi": "empty air, sky, shunyata (the lack of an immutable intrinsic nature within any phenomenon), emptiness, air force, fruitlessness, meaninglessness, void (one of the five elements), empty (e.g. set)"
+        },
+        "romaji": "kuu"
       },
       {
         "example": "空域",
         "reading": "クウイキ",
-        "meaning": "airspace"
+        "meaning": {
+          "vi": "airspace"
+        },
+        "romaji": "kuuiki"
       },
       {
         "example": "領空",
         "reading": "リョウクウ",
-        "meaning": "territorial airspace"
+        "meaning": {
+          "vi": "territorial airspace"
+        },
+        "romaji": "ryoukuu"
       },
       {
         "example": "防空",
         "reading": "ボウクウ",
-        "meaning": "air defense, air defence"
+        "meaning": {
+          "en": "air defense, air defence"
+        },
+        "romaji": "boukuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "空",
         "reading": "そら",
-        "meaning": "sky, the air, the heavens, weather, far-off place, distant place, state of mind, feeling, (from) memory, (by) heart, falsehood, lie, somehow, vaguely, fake"
+        "meaning": {
+          "vi": "sky, the air, the heavens, weather, far-off place, distant place, state of mind, feeling, (from) memory, (by) heart, falsehood, lie, somehow, vaguely, fake"
+        },
+        "romaji": "sora"
       },
       {
         "example": "空模様",
         "reading": "そらもよう",
-        "meaning": "look of the sky, weather"
+        "meaning": {
+          "en": "look of the sky, weather"
+        },
+        "romaji": "soramoyou"
       },
       {
         "example": "定めなき空",
         "reading": "さだめなきそら",
-        "meaning": "changeable weather"
+        "meaning": {
+          "en": "changeable weather"
+        },
+        "romaji": "sadamenakisora"
       },
       {
         "example": "晴れた空",
         "reading": "はれたそら",
-        "meaning": "clear sky, cloudless sky"
+        "meaning": {
+          "en": "clear sky, cloudless sky"
+        },
+        "romaji": "haretasora"
       },
       {
         "example": "開く",
         "reading": "あく",
-        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        "meaning": {
+          "vi": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        },
+        "romaji": "aku"
       },
       {
         "example": "空き",
         "reading": "あき",
-        "meaning": "space, room, gap, emptiness, vacancy, opening, empty seat, free time, time to spare, disuse, unused thing"
+        "meaning": {
+          "vi": "space, room, gap, emptiness, vacancy, opening, empty seat, free time, time to spare, disuse, unused thing"
+        },
+        "romaji": "aki"
       },
       {
         "example": "空き缶",
         "reading": "あきかん",
-        "meaning": "empty can"
+        "meaning": {
+          "vi": "empty can"
+        },
+        "romaji": "akikan"
       },
       {
         "example": "開ける",
         "reading": "あける",
-        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        "meaning": {
+          "vi": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        },
+        "romaji": "akeru"
       },
       {
         "example": "空",
         "reading": "から",
-        "meaning": "emptiness, being empty, not carrying anything, unburdened, empty-handed, dishonoured (bill, promise, etc.), false, no-show (reservation), put-on (cheeriness, courage, etc.), empty (compliments), insincere"
+        "meaning": {
+          "vi": "emptiness, being empty, not carrying anything, unburdened, empty-handed, dishonoured (bill, promise, etc.), false, no-show (reservation), put-on (cheeriness, courage, etc.), empty (compliments), insincere"
+        },
+        "romaji": "kara"
       },
       {
         "example": "空手",
         "reading": "からて",
-        "meaning": "karate, being empty-handed, having nothing in one's hands"
+        "meaning": {
+          "vi": "karate, being empty-handed, having nothing in one's hands"
+        },
+        "romaji": "karate"
       },
       {
         "example": "もぬけの殻",
         "reading": "もぬけのから",
-        "meaning": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+        "meaning": {
+          "vi": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+        },
+        "romaji": "monukenokara"
       },
       {
         "example": "空く",
         "reading": "すく",
-        "meaning": "to become less crowded, to thin out, to get empty, to be hungry"
+        "meaning": {
+          "vi": "to become less crowded, to thin out, to get empty, to be hungry"
+        },
+        "romaji": "suku"
       },
       {
         "example": "空かす",
         "reading": "すかす",
-        "meaning": "to feel hungry, to get hungry"
+        "meaning": {
+          "en": "to feel hungry, to get hungry"
+        },
+        "romaji": "sukasu"
       },
       {
         "example": "虚しい",
         "reading": "むなしい",
-        "meaning": "empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"
+        "meaning": {
+          "vi": "empty, void, vacant, vain, fruitless, futile, ineffective, lifeless"
+        },
+        "romaji": "munashii"
       }
     ],
     "radical": {
@@ -523,5 +577,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a7a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a7a.gif",
     "uri": "https://jisho.org/search/%E7%A9%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "không",
+    "khống",
+    "khổng"
+  ]
 }

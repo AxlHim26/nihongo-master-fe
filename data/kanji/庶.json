@@ -17,22 +17,34 @@
       {
         "example": "庶民",
         "reading": "ショミン",
-        "meaning": "common people, ordinary people, masses"
+        "meaning": {
+          "vi": "common people, ordinary people, masses"
+        },
+        "romaji": "shomin"
       },
       {
         "example": "庶民的",
         "reading": "ショミンテキ",
-        "meaning": "popular, folksy, plebeian, ordinary, unpretentious"
+        "meaning": {
+          "vi": "popular, folksy, plebeian, ordinary, unpretentious"
+        },
+        "romaji": "shominteki"
       },
       {
         "example": "衆庶",
         "reading": "シュウショ",
-        "meaning": "the masses, common people"
+        "meaning": {
+          "vi": "the masses, common people"
+        },
+        "romaji": "shuusho"
       },
       {
         "example": "士庶",
         "reading": "シショ",
-        "meaning": "samurai and commoners, normal people (as opposed to people of a high social standing)"
+        "meaning": {
+          "vi": "samurai and commoners, normal people (as opposed to people of a high social standing)"
+        },
+        "romaji": "shisho"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eb6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eb6.gif",
     "uri": "https://jisho.org/search/%E5%BA%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "thứ"
+  ]
 }

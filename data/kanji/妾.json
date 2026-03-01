@@ -18,39 +18,60 @@
       {
         "example": "妾",
         "reading": "ショウ",
-        "meaning": "mistress, kept woman, concubine, I, me"
+        "meaning": {
+          "vi": "mistress, kept woman, concubine, I, me"
+        },
+        "romaji": "shou"
       },
       {
         "example": "妾出",
         "reading": "ショウシュツ",
-        "meaning": "illegitimate (e.g. born to a mistress)"
+        "meaning": {
+          "en": "illegitimate (e.g. born to a mistress)"
+        },
+        "romaji": "shoushutsu"
       },
       {
         "example": "愛妾",
         "reading": "アイショウ",
-        "meaning": "beloved concubine, favourite concubine (e.g. of the shogun)"
+        "meaning": {
+          "en": "beloved concubine, favourite concubine (e.g. of the shogun)"
+        },
+        "romaji": "aishou"
       },
       {
         "example": "外妾",
         "reading": "ガイショウ",
-        "meaning": "foreigner's mistress"
+        "meaning": {
+          "en": "foreigner's mistress"
+        },
+        "romaji": "gaishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妾",
         "reading": "めかけ",
-        "meaning": "mistress, kept woman, concubine"
+        "meaning": {
+          "vi": "mistress, kept woman, concubine"
+        },
+        "romaji": "mekake"
       },
       {
         "example": "妾腹",
         "reading": "しょうふく",
-        "meaning": "illegitimate (e.g. born to a mistress)"
+        "meaning": {
+          "en": "illegitimate (e.g. born to a mistress)"
+        },
+        "romaji": "shoufuku"
       },
       {
         "example": "妾",
         "reading": "わらわ",
-        "meaning": "I, me"
+        "meaning": {
+          "en": "I, me"
+        },
+        "romaji": "warawa"
       }
     ],
     "radical": {
@@ -65,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059be.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59be.gif",
     "uri": "https://jisho.org/search/%E5%A6%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiếp"
+  ]
 }

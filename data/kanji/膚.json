@@ -225,34 +225,52 @@
       {
         "example": "肌膚",
         "reading": "キフ",
-        "meaning": "skin"
+        "meaning": {
+          "en": "skin"
+        },
+        "romaji": "kifu"
       },
       {
         "example": "ただれた皮膚",
         "reading": "タダレタヒフ",
-        "meaning": "inflamed skin"
+        "meaning": {
+          "en": "inflamed skin"
+        },
+        "romaji": "tadaretahifu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肌",
         "reading": "はだ",
-        "meaning": "skin, body (in the context of intimate bodily contact), surface, grain (e.g. of wood), texture, disposition, temperament, character, type"
+        "meaning": {
+          "vi": "skin, body (in the context of intimate bodily contact), surface, grain (e.g. of wood), texture, disposition, temperament, character, type"
+        },
+        "romaji": "hada"
       },
       {
         "example": "肌色",
         "reading": "はだいろ",
-        "meaning": "flesh colour (of a Japanese person), flesh color, pale orange, (one's) skin color, skin colour, skin tone"
+        "meaning": {
+          "vi": "flesh colour (of a Japanese person), flesh color, pale orange, (one's) skin color, skin colour, skin tone"
+        },
+        "romaji": "hadairo"
       },
       {
         "example": "素肌",
         "reading": "すはだ",
-        "meaning": "bare skin, naked skin"
+        "meaning": {
+          "en": "bare skin, naked skin"
+        },
+        "romaji": "suhada"
       },
       {
         "example": "地肌",
         "reading": "じはだ",
-        "meaning": "texture, grain, one's skin (lacking makeup, etc.), natural skin, bare skin, scalp, surface of the earth, bare ground, surface of a sword blade"
+        "meaning": {
+          "vi": "texture, grain, one's skin (lacking makeup, etc.), natural skin, bare skin, scalp, surface of the earth, bare ground, surface of a sword blade"
+        },
+        "romaji": "jihada"
       }
     ],
     "radical": {
@@ -274,5 +292,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819a.gif",
     "uri": "https://jisho.org/search/%E8%86%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "phu"
+  ]
 }

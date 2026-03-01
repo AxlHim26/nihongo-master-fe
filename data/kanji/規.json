@@ -277,22 +277,34 @@
       {
         "example": "基準",
         "reading": "キジュン",
-        "meaning": "standard, criterion, norm, benchmark, measure, gauge, basis"
+        "meaning": {
+          "en": "standard, criterion, norm, benchmark, measure, gauge, basis"
+        },
+        "romaji": "kijun"
       },
       {
         "example": "規格",
         "reading": "キカク",
-        "meaning": "standard, norm"
+        "meaning": {
+          "en": "standard, norm"
+        },
+        "romaji": "kikaku"
       },
       {
         "example": "内規",
         "reading": "ナイキ",
-        "meaning": "private regulations, bylaws, internal rules, tradition"
+        "meaning": {
+          "vi": "private regulations, bylaws, internal rules, tradition"
+        },
+        "romaji": "naiki"
       },
       {
         "example": "正規",
         "reading": "セイキ",
-        "meaning": "regular, normal, formal, legal, established, legitimate"
+        "meaning": {
+          "en": "regular, normal, formal, legal, established, legitimate"
+        },
+        "romaji": "seiki"
       }
     ],
     "kunyomiExamples": [],
@@ -311,5 +323,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0898f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/898f.gif",
     "uri": "https://jisho.org/search/%E8%A6%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "quy"
+  ]
 }

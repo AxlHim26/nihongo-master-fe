@@ -17,12 +17,18 @@
       {
         "example": "顕著",
         "reading": "ケンチョ",
-        "meaning": "remarkable, striking, obvious"
+        "meaning": {
+          "en": "remarkable, striking, obvious"
+        },
+        "romaji": "kencho"
       },
       {
         "example": "顕現",
         "reading": "ケンゲン",
-        "meaning": "manifestation"
+        "meaning": {
+          "en": "manifestation"
+        },
+        "romaji": "kengen"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0986f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/986f.gif",
     "uri": "https://jisho.org/search/%E9%A1%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiển"
+  ]
 }

@@ -394,64 +394,100 @@
       {
         "example": "神",
         "reading": "シン",
-        "meaning": "spirit, psyche, god, deity, divinity, kami"
+        "meaning": {
+          "vi": "spirit, psyche, god, deity, divinity, kami"
+        },
+        "romaji": "shin"
       },
       {
         "example": "神学",
         "reading": "シンガク",
-        "meaning": "theology, divinity"
+        "meaning": {
+          "en": "theology, divinity"
+        },
+        "romaji": "shingaku"
       },
       {
         "example": "鬼神",
         "reading": "キシン",
-        "meaning": "fierce god"
+        "meaning": {
+          "en": "fierce god"
+        },
+        "romaji": "kishin"
       },
       {
         "example": "祭神",
         "reading": "サイジン",
-        "meaning": "enshrined deity"
+        "meaning": {
+          "en": "enshrined deity"
+        },
+        "romaji": "saijin"
       },
       {
         "example": "神",
         "reading": "シン",
-        "meaning": "spirit, psyche, god, deity, divinity, kami"
+        "meaning": {
+          "vi": "spirit, psyche, god, deity, divinity, kami"
+        },
+        "romaji": "shin"
       },
       {
         "example": "神宮",
         "reading": "ジングウ",
-        "meaning": "high-status Shinto shrine with connection to imperial family, imperial Shinto shrine, Ise Grand Shrine"
+        "meaning": {
+          "vi": "high-status Shinto shrine with connection to imperial family, imperial Shinto shrine, Ise Grand Shrine"
+        },
+        "romaji": "jinguu"
       },
       {
         "example": "天神",
         "reading": "テンジン",
-        "meaning": "heavenly god, heavenly gods, spirit of Sugawara no Michizane, Tenmangu shrine (dedicated to Michizane's spirit), pit of a dried plum, dried plum, tenjin hairstyle, prostitute of the second-highest class (Edo period), tuning peg (on a biwa or shamisen)"
+        "meaning": {
+          "vi": "heavenly god, heavenly gods, spirit of Sugawara no Michizane, Tenmangu shrine (dedicated to Michizane's spirit), pit of a dried plum, dried plum, tenjin hairstyle, prostitute of the second-highest class (Edo period), tuning peg (on a biwa or shamisen)"
+        },
+        "romaji": "tenjin"
       },
       {
         "example": "石神",
         "reading": "シャクジン",
-        "meaning": "stone which is worshipped, image of a god in stone"
+        "meaning": {
+          "vi": "stone which is worshipped, image of a god in stone"
+        },
+        "romaji": "shakujin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "神",
         "reading": "かみ",
-        "meaning": "god, deity, divinity, spirit, kami, incredible, fantastic, amazing, Emperor (of Japan), thunder"
+        "meaning": {
+          "vi": "god, deity, divinity, spirit, kami, incredible, fantastic, amazing, Emperor (of Japan), thunder"
+        },
+        "romaji": "kami"
       },
       {
         "example": "神様",
         "reading": "かみさま",
-        "meaning": "God, god, deity, divinity, spirit, kami, ace, king, superior person, god (amongst men)"
+        "meaning": {
+          "vi": "God, god, deity, divinity, spirit, kami, ace, king, superior person, god (amongst men)"
+        },
+        "romaji": "kamisama"
       },
       {
         "example": "大神",
         "reading": "おおかみ",
-        "meaning": "god"
+        "meaning": {
+          "en": "god"
+        },
+        "romaji": "ookami"
       },
       {
         "example": "ギ神",
         "reading": "ギかみ",
-        "meaning": "Greek mythology"
+        "meaning": {
+          "en": "Greek mythology"
+        },
+        "romaji": "gikami"
       }
     ],
     "radical": {
@@ -471,5 +507,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0795e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/795e.gif",
     "uri": "https://jisho.org/search/%E7%A5%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thần"
+  ]
 }

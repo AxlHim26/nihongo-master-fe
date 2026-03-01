@@ -19,29 +19,44 @@
       {
         "example": "渇",
         "reading": "カツ",
-        "meaning": "thirst"
+        "meaning": {
+          "en": "thirst"
+        },
+        "romaji": "katsu"
       },
       {
         "example": "渇望",
         "reading": "カツボウ",
-        "meaning": "craving, longing, thirsting"
+        "meaning": {
+          "en": "craving, longing, thirsting"
+        },
+        "romaji": "katsubou"
       },
       {
         "example": "枯渇",
         "reading": "コカツ",
-        "meaning": "drying up, running dry, running out, being exhausted, being drained"
+        "meaning": {
+          "vi": "drying up, running dry, running out, being exhausted, being drained"
+        },
+        "romaji": "kokatsu"
       },
       {
         "example": "口渇",
         "reading": "コウカツ",
-        "meaning": "thirst, dry mouth, -dipsia"
+        "meaning": {
+          "vi": "thirst, dry mouth, -dipsia"
+        },
+        "romaji": "koukatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渇く",
         "reading": "かわく",
-        "meaning": "to be thirsty, to feel thirsty, to thirst for, to crave"
+        "meaning": {
+          "en": "to be thirsty, to feel thirsty, to thirst for, to crave"
+        },
+        "romaji": "kawaku"
       }
     ],
     "radical": {
@@ -62,5 +77,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e07.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e07.gif",
     "uri": "https://jisho.org/search/%E6%B8%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạt",
+    "khát",
+    "kiệt"
+  ]
 }

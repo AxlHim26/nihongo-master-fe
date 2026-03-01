@@ -19,14 +19,20 @@
       {
         "example": "叱罵",
         "reading": "シツバ",
-        "meaning": "angry scolding, abusive criticism"
+        "meaning": {
+          "en": "angry scolding, abusive criticism"
+        },
+        "romaji": "shitsuba"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "叱る",
         "reading": "しかる",
-        "meaning": "to scold, to chide, to rebuke, to reprimand"
+        "meaning": {
+          "vi": "to scold, to chide, to rebuke, to reprimand"
+        },
+        "romaji": "shikaru"
       }
     ],
     "radical": {
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/20b9f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/20b9f.gif",
     "uri": "https://jisho.org/search/%F0%A0%AE%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "sất"
+  ]
 }

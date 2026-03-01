@@ -402,79 +402,124 @@
       {
         "example": "末",
         "reading": "マツ",
-        "meaning": "the end (of), powder"
+        "meaning": {
+          "vi": "the end (of), powder"
+        },
+        "romaji": "matsu"
       },
       {
         "example": "末日",
         "reading": "マツジツ",
-        "meaning": "last day (of a month)"
+        "meaning": {
+          "en": "last day (of a month)"
+        },
+        "romaji": "matsujitsu"
       },
       {
         "example": "幕末",
         "reading": "バクマツ",
-        "meaning": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"
+        "meaning": {
+          "vi": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"
+        },
+        "romaji": "bakumatsu"
       },
       {
         "example": "終末",
         "reading": "シュウマツ",
-        "meaning": "end, close, conclusion, termination"
+        "meaning": {
+          "en": "end, close, conclusion, termination"
+        },
+        "romaji": "shuumatsu"
       },
       {
         "example": "末路",
         "reading": "マツロ",
-        "meaning": "last days, the end, one's fate"
+        "meaning": {
+          "en": "last days, the end, one's fate"
+        },
+        "romaji": "matsuro"
       },
       {
         "example": "末裔",
         "reading": "マツエイ",
-        "meaning": "descendant"
+        "meaning": {
+          "en": "descendant"
+        },
+        "romaji": "matsuei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "末",
         "reading": "すえ",
-        "meaning": "end, tip, top, end (of the year, month, etc.), close, youngest child, descendants, offspring, posterity, future, (finally) after, (at last) after, at the end of, trifles, trivialities, degenerate age"
+        "meaning": {
+          "vi": "end, tip, top, end (of the year, month, etc.), close, youngest child, descendants, offspring, posterity, future, (finally) after, (at last) after, at the end of, trifles, trivialities, degenerate age"
+        },
+        "romaji": "sue"
       },
       {
         "example": "末広",
         "reading": "すえひろ",
-        "meaning": "spreading out like an open fan, becoming prosperous, folding fan, ceremonial folding fan"
+        "meaning": {
+          "vi": "spreading out like an open fan, becoming prosperous, folding fan, ceremonial folding fan"
+        },
+        "romaji": "suehiro"
       },
       {
         "example": "来月末",
         "reading": "らいげつまつ",
-        "meaning": "end of next month"
+        "meaning": {
+          "en": "end of next month"
+        },
+        "romaji": "raigetsumatsu"
       },
       {
         "example": "末の末",
         "reading": "すえのすえ",
-        "meaning": "the last"
+        "meaning": {
+          "en": "the last"
+        },
+        "romaji": "suenosue"
       },
       {
         "example": "末",
         "reading": "うら",
-        "meaning": "top end, tip"
+        "meaning": {
+          "vi": "top end, tip"
+        },
+        "romaji": "ura"
       },
       {
         "example": "末枯れ",
         "reading": "うらがれ",
-        "meaning": "dying of the little twigs and branches"
+        "meaning": {
+          "en": "dying of the little twigs and branches"
+        },
+        "romaji": "uragare"
       },
       {
         "example": "末",
         "reading": "うれ",
-        "meaning": "new shoots, new growth (of a tree)"
+        "meaning": {
+          "en": "new shoots, new growth (of a tree)"
+        },
+        "romaji": "ure"
       },
       {
         "example": "末葉",
         "reading": "うらば",
-        "meaning": "end leaves, top leaves, last leaves"
+        "meaning": {
+          "vi": "end leaves, top leaves, last leaves"
+        },
+        "romaji": "uraba"
       },
       {
         "example": "木の末",
         "reading": "このうれ",
-        "meaning": "treetop, tip of a branch"
+        "meaning": {
+          "vi": "treetop, tip of a branch"
+        },
+        "romaji": "konoure"
       }
     ],
     "radical": {
@@ -492,5 +537,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672b.gif",
     "uri": "https://jisho.org/search/%E6%9C%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạt"
+  ]
 }

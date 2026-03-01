@@ -379,59 +379,92 @@
       {
         "example": "表",
         "reading": "ヒョウ",
-        "meaning": "table, chart, list, memorial to an emperor"
+        "meaning": {
+          "vi": "table, chart, list, memorial to an emperor"
+        },
+        "romaji": "hyou"
       },
       {
         "example": "表記",
         "reading": "ヒョウキ",
-        "meaning": "expression in writing, written representation, notation, transcription, orthography, writing on the surface (e.g. an address on an envelope), inscribing on the face"
+        "meaning": {
+          "vi": "expression in writing, written representation, notation, transcription, orthography, writing on the surface (e.g. an address on an envelope), inscribing on the face"
+        },
+        "romaji": "hyouki"
       },
       {
         "example": "一覧表",
         "reading": "イチランヒョウ",
-        "meaning": "list, table, schedule, catalogue, catalog"
+        "meaning": {
+          "en": "list, table, schedule, catalogue, catalog"
+        },
+        "romaji": "ichiranhyou"
       },
       {
         "example": "意表",
         "reading": "イヒョウ",
-        "meaning": "surprise, something unexpected"
+        "meaning": {
+          "vi": "surprise, something unexpected"
+        },
+        "romaji": "ihyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "表",
         "reading": "おもて",
-        "meaning": "surface, face (i.e. the visible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an inning), top (of an inning), cover (for tatami mats, etc.), foreground, Omotesenke school of tea ceremony"
+        "meaning": {
+          "vi": "surface, face (i.e. the visible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an inning), top (of an inning), cover (for tatami mats, etc.), foreground, Omotesenke school of tea ceremony"
+        },
+        "romaji": "omote"
       },
       {
         "example": "表裏",
         "reading": "ひょうり",
-        "meaning": "front and back, inside and outside, two sides, both sides, duplicity, double-dealing, being two-faced"
+        "meaning": {
+          "vi": "front and back, inside and outside, two sides, both sides, duplicity, double-dealing, being two-faced"
+        },
+        "romaji": "hyouri"
       },
       {
         "example": "京表",
         "reading": "きょうおもて",
-        "meaning": "vicinity of Kyoto"
+        "meaning": {
+          "en": "vicinity of Kyoto"
+        },
+        "romaji": "kyouomote"
       },
       {
         "example": "中表",
         "reading": "なかおもて",
-        "meaning": "cloth folded inside out"
+        "meaning": {
+          "en": "cloth folded inside out"
+        },
+        "romaji": "nakaomote"
       },
       {
         "example": "表す",
         "reading": "あらわす",
-        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        "meaning": {
+          "vi": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        },
+        "romaji": "arawasu"
       },
       {
         "example": "現れる",
         "reading": "あらわれる",
-        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+        "meaning": {
+          "vi": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+        },
+        "romaji": "arawareru"
       },
       {
         "example": "表す",
         "reading": "あらわす",
-        "meaning": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        "meaning": {
+          "vi": "to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known"
+        },
+        "romaji": "arawasu"
       }
     ],
     "radical": {
@@ -452,5 +485,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08868.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8868.gif",
     "uri": "https://jisho.org/search/%E8%A1%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "biểu"
+  ]
 }

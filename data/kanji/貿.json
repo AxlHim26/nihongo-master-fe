@@ -230,17 +230,26 @@
       {
         "example": "貿易",
         "reading": "ボウエキ",
-        "meaning": "mậu dịch (quốc tế), xuất nhập khẩu"
+        "meaning": {
+          "vi": "mậu dịch (quốc tế), xuất nhập khẩu"
+        },
+        "romaji": "boueki"
       },
       {
         "example": "貿易赤字",
         "reading": "ボウエキアカジ",
-        "meaning": "thâm hụt thương mại"
+        "meaning": {
+          "vi": "thâm hụt thương mại"
+        },
+        "romaji": "bouekiakaji"
       },
       {
         "example": "内貿",
         "reading": "ナイボウ",
-        "meaning": "thương mại nội địa"
+        "meaning": {
+          "vi": "thương mại nội địa"
+        },
+        "romaji": "naibou"
       }
     ],
     "kunyomiExamples": [],
@@ -259,5 +268,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbf.gif",
     "uri": "https://jisho.org/search/%E8%B2%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "mậu"
+  ]
 }

@@ -14,12 +14,18 @@
       {
         "example": "艙口",
         "reading": "ソウコウ",
-        "meaning": "hatch, hatchway (ship)"
+        "meaning": {
+          "vi": "hatch, hatchway (ship)"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "船倉",
         "reading": "センソウ",
-        "meaning": "ship's hold, hatch"
+        "meaning": {
+          "vi": "ship's hold, hatch"
+        },
+        "romaji": "sensou"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08259.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8259.gif",
     "uri": "https://jisho.org/search/%E8%89%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "thương"
+  ]
 }

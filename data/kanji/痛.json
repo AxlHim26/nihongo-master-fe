@@ -354,49 +354,76 @@
       {
         "example": "痛",
         "reading": "ツウ",
-        "meaning": "pain, ache, -algia"
+        "meaning": {
+          "vi": "pain, ache, -algia"
+        },
+        "romaji": "tsuu"
       },
       {
         "example": "痛感",
         "reading": "ツウカン",
-        "meaning": "feeling keenly, fully realizing"
+        "meaning": {
+          "en": "feeling keenly, fully realizing"
+        },
+        "romaji": "tsuukan"
       },
       {
         "example": "悲痛",
         "reading": "ヒツウ",
-        "meaning": "grief, sorrow, extreme sadness, heartbreak"
+        "meaning": {
+          "en": "grief, sorrow, extreme sadness, heartbreak"
+        },
+        "romaji": "hitsuu"
       },
       {
         "example": "沈痛",
         "reading": "チンツウ",
-        "meaning": "grave, sad, mournful, sorrowful, pensive"
+        "meaning": {
+          "vi": "grave, sad, mournful, sorrowful, pensive"
+        },
+        "romaji": "chintsuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "痛い",
         "reading": "いたい",
-        "meaning": "painful, sore, cringy, embarrassing"
+        "meaning": {
+          "vi": "painful, sore, cringy, embarrassing"
+        },
+        "romaji": "itai"
       },
       {
         "example": "痛々しい",
         "reading": "いたいたしい",
-        "meaning": "pitiful, pathetic, painful to look at"
+        "meaning": {
+          "vi": "pitiful, pathetic, painful to look at"
+        },
+        "romaji": "itaitashii"
       },
       {
         "example": "痛む",
         "reading": "いたむ",
-        "meaning": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+        "meaning": {
+          "vi": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+        },
+        "romaji": "itamu"
       },
       {
         "example": "痛ましい",
         "reading": "いたましい",
-        "meaning": "pitiful, heartbreaking, heartrending, touching, tragic, sad, hurtful"
+        "meaning": {
+          "vi": "pitiful, heartbreaking, heartrending, touching, tragic, sad, hurtful"
+        },
+        "romaji": "itamashii"
       },
       {
         "example": "痛める",
         "reading": "いためる",
-        "meaning": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+        "meaning": {
+          "vi": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+        },
+        "romaji": "itameru"
       }
     ],
     "radical": {
@@ -412,5 +439,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75db.gif",
     "uri": "https://jisho.org/search/%E7%97%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thống"
+  ]
 }

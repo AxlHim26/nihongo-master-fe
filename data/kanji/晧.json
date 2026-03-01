@@ -14,12 +14,18 @@
       {
         "example": "皓々",
         "reading": "コウコウ",
-        "meaning": "bright (esp. of the moon), broad and empty"
+        "meaning": {
+          "vi": "bright (esp. of the moon), broad and empty"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "皓々",
         "reading": "コウコウ",
-        "meaning": "bright (esp. of the moon), broad and empty"
+        "meaning": {
+          "vi": "bright (esp. of the moon), broad and empty"
+        },
+        "romaji": "koukou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06667.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6667.gif",
     "uri": "https://jisho.org/search/%E6%99%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạo"
+  ]
 }

@@ -328,39 +328,60 @@
       {
         "example": "射",
         "reading": "シャ",
-        "meaning": "archery, mapping, map, morphism, arrow"
+        "meaning": {
+          "vi": "archery, mapping, map, morphism, arrow"
+        },
+        "romaji": "sha"
       },
       {
         "example": "射撃",
         "reading": "シャゲキ",
-        "meaning": "firing, shooting, fire, gunshot, marksmanship"
+        "meaning": {
+          "vi": "firing, shooting, fire, gunshot, marksmanship"
+        },
+        "romaji": "shageki"
       },
       {
         "example": "照射",
         "reading": "ショウシャ",
-        "meaning": "irradiation, radiation, beaming, exposure (to light), illumination"
+        "meaning": {
+          "vi": "irradiation, radiation, beaming, exposure (to light), illumination"
+        },
+        "romaji": "shousha"
       },
       {
         "example": "投射",
         "reading": "トウシャ",
-        "meaning": "projection (of an image)"
+        "meaning": {
+          "vi": "projection (of an image)"
+        },
+        "romaji": "tousha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "射る",
         "reading": "いる",
-        "meaning": "to shoot (arrow, bolt, dart)"
+        "meaning": {
+          "en": "to shoot (arrow, bolt, dart)"
+        },
+        "romaji": "iru"
       },
       {
         "example": "射す",
         "reading": "さす",
-        "meaning": "to shine"
+        "meaning": {
+          "en": "to shine"
+        },
+        "romaji": "sasu"
       },
       {
         "example": "撃つ",
         "reading": "うつ",
-        "meaning": "to shoot (a gun, person, etc.), to fire"
+        "meaning": {
+          "vi": "to shoot (a gun, person, etc.), to fire"
+        },
+        "romaji": "utsu"
       }
     ],
     "radical": {
@@ -375,5 +396,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c04.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c04.gif",
     "uri": "https://jisho.org/search/%E5%B0%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "dạ",
+    "dịch",
+    "xạ"
+  ]
 }

@@ -21,59 +21,92 @@
       {
         "example": "沙",
         "reading": "シャ",
-        "meaning": "one hundred-millionth"
+        "meaning": {
+          "en": "one hundred-millionth"
+        },
+        "romaji": "sha"
       },
       {
         "example": "砂漠",
         "reading": "サバク",
-        "meaning": "desert"
+        "meaning": {
+          "en": "desert"
+        },
+        "romaji": "sabaku"
       },
       {
         "example": "流砂",
         "reading": "リュウサ",
-        "meaning": "quicksand"
+        "meaning": {
+          "en": "quicksand"
+        },
+        "romaji": "ryuusa"
       },
       {
         "example": "秋沙",
         "reading": "アイサ",
-        "meaning": "merganser (any duck of genus Mergus)"
+        "meaning": {
+          "en": "merganser (any duck of genus Mergus)"
+        },
+        "romaji": "aisa"
       },
       {
         "example": "沙",
         "reading": "シャ",
-        "meaning": "one hundred-millionth"
+        "meaning": {
+          "en": "one hundred-millionth"
+        },
+        "romaji": "sha"
       },
       {
         "example": "砂丘",
         "reading": "サキュウ",
-        "meaning": "sand dune, sand hill"
+        "meaning": {
+          "en": "sand dune, sand hill"
+        },
+        "romaji": "sakyuu"
       },
       {
         "example": "流砂",
         "reading": "リュウサ",
-        "meaning": "quicksand"
+        "meaning": {
+          "en": "quicksand"
+        },
+        "romaji": "ryuusa"
       },
       {
         "example": "泥砂",
         "reading": "デイサ",
-        "meaning": "mud and sand"
+        "meaning": {
+          "en": "mud and sand"
+        },
+        "romaji": "deisa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "砂",
         "reading": "すな",
-        "meaning": "sand, grit"
+        "meaning": {
+          "en": "sand, grit"
+        },
+        "romaji": "suna"
       },
       {
         "example": "砂子",
         "reading": "すなご",
-        "meaning": "gold dust, silver dust, sand, grit"
+        "meaning": {
+          "en": "gold dust, silver dust, sand, grit"
+        },
+        "romaji": "sunago"
       },
       {
         "example": "白砂",
         "reading": "はくしゃ",
-        "meaning": "white sand"
+        "meaning": {
+          "en": "white sand"
+        },
+        "romaji": "hakusha"
       }
     ],
     "radical": {
@@ -93,5 +126,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c99.gif",
     "uri": "https://jisho.org/search/%E6%B2%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "sa",
+    "sá"
+  ]
 }

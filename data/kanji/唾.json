@@ -19,39 +19,60 @@
       {
         "example": "唾液",
         "reading": "ダエキ",
-        "meaning": "saliva, sputum"
+        "meaning": {
+          "vi": "saliva, sputum"
+        },
+        "romaji": "daeki"
       },
       {
         "example": "唾液腺",
         "reading": "ダエキセン",
-        "meaning": "salivary gland"
+        "meaning": {
+          "en": "salivary gland"
+        },
+        "romaji": "daekisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唾",
         "reading": "つば",
-        "meaning": "saliva, spit, spittle"
+        "meaning": {
+          "vi": "saliva, spit, spittle"
+        },
+        "romaji": "tsuba"
       },
       {
         "example": "唾く",
         "reading": "つばく",
-        "meaning": "to spit"
+        "meaning": {
+          "vi": "to spit"
+        },
+        "romaji": "tsubaku"
       },
       {
         "example": "生唾",
         "reading": "なまつば",
-        "meaning": "saliva (in one's mouth)"
+        "meaning": {
+          "en": "saliva (in one's mouth)"
+        },
+        "romaji": "namatsuba"
       },
       {
         "example": "痰唾",
         "reading": "たんつば",
-        "meaning": "sputum, phlegm"
+        "meaning": {
+          "vi": "sputum, phlegm"
+        },
+        "romaji": "tantsuba"
       },
       {
         "example": "唾",
         "reading": "つば",
-        "meaning": "saliva, spit, spittle"
+        "meaning": {
+          "vi": "saliva, spit, spittle"
+        },
+        "romaji": "tsuba"
       }
     ],
     "radical": {
@@ -68,5 +89,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0553e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/553e.gif",
     "uri": "https://jisho.org/search/%E5%94%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thoá"
+  ]
 }

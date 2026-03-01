@@ -249,34 +249,52 @@
       {
         "example": "含有",
         "reading": "ガンユウ",
-        "meaning": "containing (an ingredient, mineral, etc.)"
+        "meaning": {
+          "en": "containing (an ingredient, mineral, etc.)"
+        },
+        "romaji": "gan'yuu"
       },
       {
         "example": "含蓄",
         "reading": "ガンチク",
-        "meaning": "implication, significance, connotation, depth of meaning, complications of a problem"
+        "meaning": {
+          "vi": "implication, significance, connotation, depth of meaning, complications of a problem"
+        },
+        "romaji": "ganchiku"
       },
       {
         "example": "内含",
         "reading": "ナイガン",
-        "meaning": "containing within (it), inclusion, (material) implication, material conditional"
+        "meaning": {
+          "vi": "containing within (it), inclusion, (material) implication, material conditional"
+        },
+        "romaji": "naigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "含む",
         "reading": "ふくむ",
-        "meaning": "to contain, to comprise, to have, to hold, to include, to embrace, to hold in the mouth, to bear in mind, to understand, to harbor (grudge, etc.), to harbour, to express (emotion, etc.), to imply"
+        "meaning": {
+          "vi": "to contain, to comprise, to have, to hold, to include, to embrace, to hold in the mouth, to bear in mind, to understand, to harbor (grudge, etc.), to harbour, to express (emotion, etc.), to imply"
+        },
+        "romaji": "fukumu"
       },
       {
         "example": "含むところがある",
         "reading": "ふくむところがある",
-        "meaning": "to harbor ill feeling"
+        "meaning": {
+          "en": "to harbor ill feeling"
+        },
+        "romaji": "fukumutokorogaaru"
       },
       {
         "example": "含める",
         "reading": "ふくめる",
-        "meaning": "to include (in a group or scope), to instruct, to make one understand, to include (a nuance), to put in (an implication), to put in (someone's) mouth, to permeate with flavor"
+        "meaning": {
+          "vi": "to include (in a group or scope), to instruct, to make one understand, to include (a nuance), to put in (an implication), to put in (someone's) mouth, to permeate with flavor"
+        },
+        "romaji": "fukumeru"
       }
     ],
     "radical": {
@@ -292,5 +310,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0542b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/542b.gif",
     "uri": "https://jisho.org/search/%E5%90%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàm",
+    "hám"
+  ]
 }

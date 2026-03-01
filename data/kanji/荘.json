@@ -22,52 +22,82 @@
       {
         "example": "荘",
         "reading": "ショウ",
-        "meaning": "trang viên, biệt thự"
+        "meaning": {
+          "vi": "trang viên, biệt thự"
+        },
+        "romaji": "shou"
       },
       {
         "example": "荘園",
         "reading": "ショウエン",
-        "meaning": "trang viên, đất đai"
+        "meaning": {
+          "vi": "trang viên, đất đai"
+        },
+        "romaji": "shouen"
       },
       {
         "example": "山荘",
         "reading": "サンソウ",
-        "meaning": "biệt thự núi, nhà nghỉ núi"
+        "meaning": {
+          "vi": "biệt thự núi, nhà nghỉ núi"
+        },
+        "romaji": "sansou"
       },
       {
         "example": "山水荘",
         "reading": "サンスイソウ",
-        "meaning": "Quán Sansui"
+        "meaning": {
+          "vi": "Quán Sansui"
+        },
+        "romaji": "sansuisou"
       },
       {
         "example": "荘",
         "reading": "ショウ",
-        "meaning": "trang viên, biệt thự"
+        "meaning": {
+          "vi": "trang viên, biệt thự"
+        },
+        "romaji": "shou"
       },
       {
         "example": "荘園",
         "reading": "ショウエン",
-        "meaning": "trang viên, đất đai"
+        "meaning": {
+          "vi": "trang viên, đất đai"
+        },
+        "romaji": "shouen"
       },
       {
         "example": "荘",
         "reading": "チャン",
-        "meaning": "đơn vị đếm ván mahjong"
+        "meaning": {
+          "vi": "đơn vị đếm ván mahjong"
+        },
+        "romaji": "chan"
       },
       {
         "example": "荘風牌",
         "reading": "チャンフォンパイ",
-        "meaning": "quân bài trùng gió vòng"
+        "meaning": {
+          "vi": "quân bài trùng gió vòng"
+        },
+        "romaji": "chanfuonpai"
       },
       {
         "example": "半荘",
         "reading": "ハンチャン",
-        "meaning": "nửa ván (đông và nam)"
+        "meaning": {
+          "vi": "nửa ván (đông và nam)"
+        },
+        "romaji": "hanchan"
       },
       {
         "example": "連チャン",
         "reading": "レンチャン",
-        "meaning": "sự kiện lặp lại, chuỗi, nhà cái giữ cái"
+        "meaning": {
+          "vi": "sự kiện lặp lại, chuỗi, nhà cái giữ cái"
+        },
+        "romaji": "renchan"
       }
     ],
     "kunyomiExamples": [],
@@ -87,5 +117,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08358.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8358.gif",
     "uri": "https://jisho.org/search/%E8%8D%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "trang"
+  ]
 }

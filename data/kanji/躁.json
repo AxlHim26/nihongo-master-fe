@@ -16,22 +16,34 @@
       {
         "example": "躁",
         "reading": "ソウ",
-        "meaning": "hưng cảm"
+        "meaning": {
+          "vi": "hưng cảm"
+        },
+        "romaji": "sou"
       },
       {
         "example": "躁鬱",
         "reading": "ソウウツ",
-        "meaning": "rối loạn lưỡng cực, thay đổi tâm trạng"
+        "meaning": {
+          "vi": "rối loạn lưỡng cực, thay đổi tâm trạng"
+        },
+        "romaji": "souutsu"
       },
       {
         "example": "焦燥",
         "reading": "ショウソウ",
-        "meaning": "nóng lòng, bực bội"
+        "meaning": {
+          "vi": "nóng lòng, bực bội"
+        },
+        "romaji": "shousou"
       },
       {
         "example": "狂騒",
         "reading": "キョウソウ",
-        "meaning": "hưng phấn, kích động"
+        "meaning": {
+          "vi": "hưng phấn, kích động"
+        },
+        "romaji": "kyousou"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e81.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e81.gif",
     "uri": "https://jisho.org/search/%E8%BA%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "táo"
+  ]
 }

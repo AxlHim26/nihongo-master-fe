@@ -20,12 +20,18 @@
       {
         "example": "覊束",
         "reading": "キソク",
-        "meaning": "fetters, shackles, restraints"
+        "meaning": {
+          "en": "fetters, shackles, restraints"
+        },
+        "romaji": "kisoku"
       },
       {
         "example": "羈絆",
         "reading": "キハン",
-        "meaning": "fetters, shackles, restraints, bond, connection"
+        "meaning": {
+          "en": "fetters, shackles, restraints, bond, connection"
+        },
+        "romaji": "kihan"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0898a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/898a.gif",
     "uri": "https://jisho.org/search/%E8%A6%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "ki",
+    "ky"
+  ]
 }

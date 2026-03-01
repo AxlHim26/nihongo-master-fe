@@ -19,12 +19,18 @@
       {
         "example": "茹でる",
         "reading": "ゆでる",
-        "meaning": "luộc (trong nước nóng), xông hơi thuốc (chỗ sưng)"
+        "meaning": {
+          "vi": "luộc (trong nước nóng), xông hơi thuốc (chỗ sưng)"
+        },
+        "romaji": "yuderu"
       },
       {
         "example": "茹でる",
         "reading": "ゆでる",
-        "meaning": "luộc (trong nước nóng), xông hơi thuốc (chỗ sưng)"
+        "meaning": {
+          "vi": "luộc (trong nước nóng), xông hơi thuốc (chỗ sưng)"
+        },
+        "romaji": "yuderu"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08339.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8339.gif",
     "uri": "https://jisho.org/search/%E8%8C%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "như",
+    "nhự"
+  ]
 }

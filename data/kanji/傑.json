@@ -19,29 +19,44 @@
       {
         "example": "傑",
         "reading": "ケツ",
-        "meaning": "the top (e.g. top ten), the best"
+        "meaning": {
+          "vi": "the top (e.g. top ten), the best"
+        },
+        "romaji": "ketsu"
       },
       {
         "example": "傑人",
         "reading": "ケツジン",
-        "meaning": "outstanding person, distinguished person, person of high caliber"
+        "meaning": {
+          "vi": "outstanding person, distinguished person, person of high caliber"
+        },
+        "romaji": "ketsujin"
       },
       {
         "example": "豪傑",
         "reading": "ゴウケツ",
-        "meaning": "hero, bold person, daring person, great person, extraordinary person"
+        "meaning": {
+          "vi": "hero, bold person, daring person, great person, extraordinary person"
+        },
+        "romaji": "gouketsu"
       },
       {
         "example": "英傑",
         "reading": "エイケツ",
-        "meaning": "great person, hero, mastermind, extraordinary person"
+        "meaning": {
+          "vi": "great person, hero, mastermind, extraordinary person"
+        },
+        "romaji": "eiketsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "優れる",
         "reading": "すぐれる",
-        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        "meaning": {
+          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        },
+        "romaji": "sugureru"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05091.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5091.gif",
     "uri": "https://jisho.org/search/%E5%82%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiệt"
+  ]
 }

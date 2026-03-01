@@ -15,12 +15,18 @@
       {
         "example": "迚も",
         "reading": "とても",
-        "meaning": "very, awfully, exceedingly, (not) at all, by no means, simply (cannot)"
+        "meaning": {
+          "vi": "very, awfully, exceedingly, (not) at all, by no means, simply (cannot)"
+        },
+        "romaji": "totemo"
       },
       {
         "example": "迚も斯くても",
         "reading": "とてもかくても",
-        "meaning": "no matter what, anyhow, in any case, at any rate, in any event, anyway"
+        "meaning": {
+          "en": "no matter what, anyhow, in any case, at any rate, in any event, anyway"
+        },
+        "romaji": "totemokakutemo"
       }
     ],
     "radical": {
@@ -41,5 +47,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fda.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fda.gif",
     "uri": "https://jisho.org/search/%E8%BF%9A%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

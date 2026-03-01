@@ -311,22 +311,34 @@
       {
         "example": "駅",
         "reading": "エキ",
-        "meaning": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
+        "meaning": {
+          "vi": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
+        },
+        "romaji": "eki"
       },
       {
         "example": "駅員",
         "reading": "エキイン",
-        "meaning": "(train) station attendant, station employee, station staff"
+        "meaning": {
+          "vi": "(train) station attendant, station employee, station staff"
+        },
+        "romaji": "ekiin"
       },
       {
         "example": "宿駅",
         "reading": "シュクエキ",
-        "meaning": "relay station, post station, stage"
+        "meaning": {
+          "vi": "relay station, post station, stage"
+        },
+        "romaji": "shukueki"
       },
       {
         "example": "終着駅",
         "reading": "シュウチャクエキ",
-        "meaning": "terminal station"
+        "meaning": {
+          "en": "terminal station"
+        },
+        "romaji": "shuuchakueki"
       }
     ],
     "kunyomiExamples": [],
@@ -344,5 +356,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c5.gif",
     "uri": "https://jisho.org/search/%E9%A7%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch"
+  ]
 }

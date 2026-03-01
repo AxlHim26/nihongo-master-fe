@@ -17,12 +17,18 @@
       {
         "example": "黠奴",
         "reading": "カツド",
-        "meaning": "người xảo quyệt"
+        "meaning": {
+          "vi": "người xảo quyệt"
+        },
+        "romaji": "katsudo"
       },
       {
         "example": "奸黠",
         "reading": "カンカツ",
-        "meaning": "xảo quyệt, ranh mãnh"
+        "meaning": {
+          "vi": "xảo quyệt, ranh mãnh"
+        },
+        "romaji": "kankatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ee0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ee0.gif",
     "uri": "https://jisho.org/search/%E9%BB%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệt"
+  ]
 }

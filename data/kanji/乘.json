@@ -18,7 +18,13 @@
       {
         "example": "乗る",
         "reading": "のる",
-        "meaning": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark, to get on (e.g. a footstool), to step on, to jump on, to sit on, to mount, to reach, to go over, to pass, to follow, to stay (on track), to go with (the times, etc.), to take part, to participate, to join, to get into the swing (and sing, dance, etc.), to be deceived, to be taken in, to be carried, to be spread, to be scattered, to stick, to attach, to take, to go on"
+        "meaning": {
+          "vi": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark, to get on (e.g. a footstool), to step on, to jump on, to sit on, to mount, to reach, to go over, to pass, to follow, to stay (on track), to go with (the times, etc.), to take part, to participate, to join, to get into the swing (and sing, dance, etc.), to be deceived, to be taken in, to be carried, to be spread, to be scattered, to stick, to attach, to take, to go on"
+        },
+        "meaningVN": "lên (tàu, máy bay, xe buýt, tàu thủy, v.v.), đi vào, lên, bắt, bắt tay, lên (ví dụ: một cái ghế để chân), bước lên, nhảy lên, ngồi lên, gắn kết, với tới, đi qua, vượt qua, đi theo, ở lại (đi đúng hướng), đi cùng (thời gian, v.v.), tham gia, tham gia, tham gia, tham gia vào xích đu (và hát, nhảy, v.v.), bị lừa dối, bị bắt trong, được mang theo, được trải ra, bị phân tán, dính vào, gắn vào, lấy đi, tiếp tục",
+        "hanViet": "thặng る",
+        "hanVietExplain": "thặng: cỗ xe, sách ghi chép, cưỡi, nhân (phép toán)",
+        "romaji": "noru"
       }
     ],
     "radical": {
@@ -37,5 +43,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e58.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e58.gif",
     "uri": "https://jisho.org/search/%E4%B9%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "thặng",
+    "thừa"
+  ],
+  "meaningVN": "lũy thừa, nhân, ghi, đếm cho xe",
+  "hanVietExplain": "thặng: cỗ xe, sách ghi chép, cưỡi, nhân (phép toán)"
 }

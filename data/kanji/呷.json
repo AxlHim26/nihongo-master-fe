@@ -18,7 +18,10 @@
       {
         "example": "呷る",
         "reading": "あおる",
-        "meaning": "to gulp down (alcohol, poison, etc.), to quaff, to down"
+        "meaning": {
+          "vi": "to gulp down (alcohol, poison, etc.), to quaff, to down"
+        },
+        "romaji": "aoru"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05477.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5477.gif",
     "uri": "https://jisho.org/search/%E5%91%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạp"
+  ]
 }

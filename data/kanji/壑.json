@@ -17,7 +17,10 @@
       {
         "example": "渓壑",
         "reading": "ケイガク",
-        "meaning": "ravine, chasm, ravenous desire, insatiable desire"
+        "meaning": {
+          "en": "ravine, chasm, ravenous desire, insatiable desire"
+        },
+        "romaji": "keigaku"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58d1.gif",
     "uri": "https://jisho.org/search/%E5%A3%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "hác"
+  ]
 }

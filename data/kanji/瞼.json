@@ -16,34 +16,52 @@
       {
         "example": "瞼板腺",
         "reading": "ケンバンセン",
-        "meaning": "meibomian gland, tarsal gland"
+        "meaning": {
+          "en": "meibomian gland, tarsal gland"
+        },
+        "romaji": "kenbansen"
       },
       {
         "example": "花瞼",
         "reading": "カケン",
-        "meaning": "beautiful eyelids"
+        "meaning": {
+          "en": "beautiful eyelids"
+        },
+        "romaji": "kaken"
       },
       {
         "example": "眼瞼",
         "reading": "ガンケン",
-        "meaning": "eyelid, palpebra"
+        "meaning": {
+          "vi": "eyelid, palpebra"
+        },
+        "romaji": "ganken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "瞼",
         "reading": "まぶた",
-        "meaning": "eyelid"
+        "meaning": {
+          "en": "eyelid"
+        },
+        "romaji": "mabuta"
       },
       {
         "example": "二重まぶた",
         "reading": "ふたえまぶた",
-        "meaning": "double-edged eyelid"
+        "meaning": {
+          "en": "double-edged eyelid"
+        },
+        "romaji": "futaemabuta"
       },
       {
         "example": "一重まぶた",
         "reading": "ひとえまぶた",
-        "meaning": "single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
+        "meaning": {
+          "vi": "single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
+        },
+        "romaji": "hitoemabuta"
       }
     ],
     "radical": {
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77bc.gif",
     "uri": "https://jisho.org/search/%E7%9E%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiểm"
+  ]
 }

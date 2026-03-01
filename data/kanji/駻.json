@@ -14,7 +14,10 @@
       {
         "example": "悍馬",
         "reading": "カンバ",
-        "meaning": "unruly horse, unmanageable horse, unbroken horse"
+        "meaning": {
+          "en": "unruly horse, unmanageable horse, unbroken horse"
+        },
+        "romaji": "kanba"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99fb.gif",
     "uri": "https://jisho.org/search/%E9%A7%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hãn"
+  ]
 }

@@ -373,34 +373,52 @@
       {
         "example": "非可換幾何",
         "reading": "ヒカカンキカ",
-        "meaning": "noncommutative geometry, NCG"
+        "meaning": {
+          "en": "noncommutative geometry, NCG"
+        },
+        "romaji": "hikakankika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "何",
         "reading": "なに",
-        "meaning": "what, you-know-what, that thing, whatsit, whachamacallit, what's-his-name, what's-her-name, penis, (one's) thing, dick, (not) at all, (not) in the slightest, what?, huh?, hey!, come on!, oh, no (it's fine), why (it's nothing), oh (certainly not)"
+        "meaning": {
+          "vi": "what, you-know-what, that thing, whatsit, whachamacallit, what's-his-name, what's-her-name, penis, (one's) thing, dick, (not) at all, (not) in the slightest, what?, huh?, hey!, come on!, oh, no (it's fine), why (it's nothing), oh (certainly not)"
+        },
+        "romaji": "nani"
       },
       {
         "example": "何か",
         "reading": "なにか",
-        "meaning": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+        "meaning": {
+          "en": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+        },
+        "romaji": "nanika"
       },
       {
         "example": "何々",
         "reading": "なになに",
-        "meaning": "what, so-and-so, such and such, something (or other), what?, wait, hang on, well, well, let's see, no, oh (not at all), please, there, there"
+        "meaning": {
+          "vi": "what, so-and-so, such and such, something (or other), what?, wait, hang on, well, well, let's see, no, oh (not at all), please, there, there"
+        },
+        "romaji": "naninani"
       },
       {
         "example": "何",
         "reading": "なん",
-        "meaning": "what, how many, many, a lot of, several, a few, some"
+        "meaning": {
+          "en": "what, how many, many, a lot of, several, a few, some"
+        },
+        "romaji": "nan"
       },
       {
         "example": "何か",
         "reading": "なにか",
-        "meaning": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+        "meaning": {
+          "en": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+        },
+        "romaji": "nanika"
       }
     ],
     "radical": {
@@ -420,5 +438,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f55.gif",
     "uri": "https://jisho.org/search/%E4%BD%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "hà"
+  ]
 }

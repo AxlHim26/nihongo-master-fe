@@ -17,24 +17,36 @@
       {
         "example": "勾股弦",
         "reading": "コウコゲン",
-        "meaning": "three sides of right triangle (minor cathetus, major cathetus and hypotenuse)"
+        "meaning": {
+          "vi": "three sides of right triangle (minor cathetus, major cathetus and hypotenuse)"
+        },
+        "romaji": "koukogen"
       },
       {
         "example": "勾股弦の定理",
         "reading": "コウコゲンノテイリ",
-        "meaning": "Pythagorean theorem"
+        "meaning": {
+          "vi": "Pythagorean theorem"
+        },
+        "romaji": "koukogennoteiri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鉤",
         "reading": "かぎ",
-        "meaning": "hook, hook bracket (Japanese quotation mark)"
+        "meaning": {
+          "vi": "hook, hook bracket (Japanese quotation mark)"
+        },
+        "romaji": "kagi"
       },
       {
         "example": "かぎ括弧",
         "reading": "かぎかっこ",
-        "meaning": "square bracket, Japanese-style quotation marks"
+        "meaning": {
+          "vi": "square bracket, Japanese-style quotation marks"
+        },
+        "romaji": "kagikakko"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0920e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/920e.gif",
     "uri": "https://jisho.org/search/%E9%88%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "câu"
+  ]
 }

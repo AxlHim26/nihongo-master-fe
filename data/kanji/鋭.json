@@ -279,29 +279,44 @@
       {
         "example": "鋭",
         "reading": "エイ",
-        "meaning": "sharpness, sharp weapon, blade, fine soldier"
+        "meaning": {
+          "vi": "sharpness, sharp weapon, blade, fine soldier"
+        },
+        "romaji": "ei"
       },
       {
         "example": "鋭意",
         "reading": "エイイ",
-        "meaning": "eagerly, earnestly, zealously, wholeheartedly, diligently, assiduously"
+        "meaning": {
+          "en": "eagerly, earnestly, zealously, wholeheartedly, diligently, assiduously"
+        },
+        "romaji": "eii"
       },
       {
         "example": "精鋭",
         "reading": "セイエイ",
-        "meaning": "elite, best, pick, cream of the crop"
+        "meaning": {
+          "vi": "elite, best, pick, cream of the crop"
+        },
+        "romaji": "seiei"
       },
       {
         "example": "気鋭",
         "reading": "キエイ",
-        "meaning": "spirited, energetic"
+        "meaning": {
+          "vi": "spirited, energetic"
+        },
+        "romaji": "kiei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鋭い",
         "reading": "するどい",
-        "meaning": "sharp (knife, claws, etc.), pointed, sharp (pain, tone, etc.), acute, stabbing, cutting (remark, criticism, etc.), stinging, biting, fierce (attack), pointed (question, look, etc.), piercing (gaze), shrill (sound), keen (intuition, sense of smell, etc.), acute, sharp (eye, mind, etc.), astute, shrewd, discerning, penetrating (insight, question, etc.), perceptive"
+        "meaning": {
+          "vi": "sharp (knife, claws, etc.), pointed, sharp (pain, tone, etc.), acute, stabbing, cutting (remark, criticism, etc.), stinging, biting, fierce (attack), pointed (question, look, etc.), piercing (gaze), shrill (sound), keen (intuition, sense of smell, etc.), acute, sharp (eye, mind, etc.), astute, shrewd, discerning, penetrating (insight, question, etc.), perceptive"
+        },
+        "romaji": "surudoi"
       }
     ],
     "radical": {
@@ -322,5 +337,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92ed.gif",
     "uri": "https://jisho.org/search/%E9%8B%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "duệ",
+    "nhuệ",
+    "đoái"
+  ]
 }

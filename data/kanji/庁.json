@@ -258,22 +258,34 @@
       {
         "example": "庁",
         "reading": "チョウ",
-        "meaning": "government office, agency, board"
+        "meaning": {
+          "en": "government office, agency, board"
+        },
+        "romaji": "chou"
       },
       {
         "example": "庁舎",
         "reading": "チョウシャ",
-        "meaning": "government office building"
+        "meaning": {
+          "en": "government office building"
+        },
+        "romaji": "chousha"
       },
       {
         "example": "国税庁",
         "reading": "コクゼイチョウ",
-        "meaning": "National Tax Agency (Japan), national taxation agency (e.g. IRS)"
+        "meaning": {
+          "vi": "National Tax Agency (Japan), national taxation agency (e.g. IRS)"
+        },
+        "romaji": "kokuzeichou"
       },
       {
         "example": "政庁",
         "reading": "セイチョウ",
-        "meaning": "government office"
+        "meaning": {
+          "en": "government office"
+        },
+        "romaji": "seichou"
       }
     ],
     "kunyomiExamples": [],
@@ -290,5 +302,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e81.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e81.gif",
     "uri": "https://jisho.org/search/%E5%BA%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "sảnh",
+    "thính"
+  ]
 }

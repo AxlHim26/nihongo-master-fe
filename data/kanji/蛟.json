@@ -17,14 +17,20 @@
       {
         "example": "蛟竜",
         "reading": "コウリョウ",
-        "meaning": "mizuchi (thủy quái giống rồng bốn chân, có sừng và hơi độc), thiên tài chưa gặp thời"
+        "meaning": {
+          "vi": "mizuchi (thủy quái giống rồng bốn chân, có sừng và hơi độc), thiên tài chưa gặp thời"
+        },
+        "romaji": "kouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛟",
         "reading": "みずち",
-        "meaning": "mizuchi, thủy quái giống rồng bốn chân, có sừng và hơi độc"
+        "meaning": {
+          "vi": "mizuchi, thủy quái giống rồng bốn chân, có sừng và hơi độc"
+        },
+        "romaji": "mizuchi"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86df.gif",
     "uri": "https://jisho.org/search/%E8%9B%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "giao"
+  ]
 }

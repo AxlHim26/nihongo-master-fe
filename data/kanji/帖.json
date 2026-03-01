@@ -18,32 +18,50 @@
       {
         "example": "帖合",
         "reading": "チョウアイ",
-        "meaning": "type of commission system in the book industry in Japan"
+        "meaning": {
+          "vi": "type of commission system in the book industry in Japan"
+        },
+        "romaji": "chouai"
       },
       {
         "example": "捕物帳",
         "reading": "トリモノチョウ",
-        "meaning": "detective story (esp. one from the Edo period featuring thief-takers), detective's memoirs, thief taker's memoirs"
+        "meaning": {
+          "vi": "detective story (esp. one from the Edo period featuring thief-takers), detective's memoirs, thief taker's memoirs"
+        },
+        "romaji": "torimonochou"
       },
       {
         "example": "写生帖",
         "reading": "シャセイチョウ",
-        "meaning": "sketchbook"
+        "meaning": {
+          "en": "sketchbook"
+        },
+        "romaji": "shaseichou"
       },
       {
         "example": "帖",
         "reading": "ジョウ",
-        "meaning": "folding book, counter for units of paper and nori (48 pages of Mino paper; 20 pages of hanshi; 10 sheets of nori), counter for folding books, folding screens, shields, etc., counter for pairs (of curtains), counter for tatami mats"
+        "meaning": {
+          "vi": "folding book, counter for units of paper and nori (48 pages of Mino paper; 20 pages of hanshi; 10 sheets of nori), counter for folding books, folding screens, shields, etc., counter for pairs (of curtains), counter for tatami mats"
+        },
+        "romaji": "jou"
       },
       {
         "example": "法帖",
         "reading": "ホウジョウ",
-        "meaning": "copybook printed from the works of old masters of calligraphy"
+        "meaning": {
+          "vi": "copybook printed from the works of old masters of calligraphy"
+        },
+        "romaji": "houjou"
       },
       {
         "example": "画帖",
         "reading": "ガジョウ",
-        "meaning": "picture album"
+        "meaning": {
+          "vi": "picture album"
+        },
+        "romaji": "gajou"
       }
     ],
     "kunyomiExamples": [],
@@ -60,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e16.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e16.gif",
     "uri": "https://jisho.org/search/%E5%B8%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiếp",
+    "thiệp"
+  ]
 }

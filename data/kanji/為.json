@@ -25,74 +25,116 @@
       {
         "example": "為政者",
         "reading": "イセイシャ",
-        "meaning": "statesman, administrator, politician, policymaker"
+        "meaning": {
+          "vi": "statesman, administrator, politician, policymaker"
+        },
+        "romaji": "iseisha"
       },
       {
         "example": "為公会",
         "reading": "イコウカイ",
-        "meaning": "Iko-kai (faction of the LDP)"
+        "meaning": {
+          "vi": "Iko-kai (faction of the LDP)"
+        },
+        "romaji": "ikoukai"
       },
       {
         "example": "人為",
         "reading": "ジンイ",
-        "meaning": "human work, human agency, art, artificiality"
+        "meaning": {
+          "en": "human work, human agency, art, artificiality"
+        },
+        "romaji": "jin'i"
       },
       {
         "example": "営為",
         "reading": "エイイ",
-        "meaning": "business, occupation"
+        "meaning": {
+          "vi": "business, occupation"
+        },
+        "romaji": "eii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "為",
         "reading": "ため",
-        "meaning": "good, advantage, benefit, welfare, sake, purpose, objective, aim, consequence, result, effect, affecting, regarding, concerning"
+        "meaning": {
+          "vi": "good, advantage, benefit, welfare, sake, purpose, objective, aim, consequence, result, effect, affecting, regarding, concerning"
+        },
+        "romaji": "tame"
       },
       {
         "example": "為に",
         "reading": "ために",
-        "meaning": "for, for the sake of, to one's advantage, in favor of, in favour of, on behalf of, because of, as a result of"
+        "meaning": {
+          "en": "for, for the sake of, to one's advantage, in favor of, in favour of, on behalf of, because of, as a result of"
+        },
+        "romaji": "tameni"
       },
       {
         "example": "外為",
         "reading": "がいため",
-        "meaning": "foreign exchange"
+        "meaning": {
+          "en": "foreign exchange"
+        },
+        "romaji": "gaitame"
       },
       {
         "example": "不為",
         "reading": "ふため",
-        "meaning": "disadvantageous, harmful, unprofitable"
+        "meaning": {
+          "vi": "disadvantageous, harmful, unprofitable"
+        },
+        "romaji": "futame"
       },
       {
         "example": "成る",
         "reading": "なる",
-        "meaning": "to become, to get, to grow, to turn, to reach, to attain, to result in, to turn out, to end up, to prove (to be), to consist of, to be composed of, to be made up of, to be completed, to be realized, to succeed, to be attained, to be accomplished, to change (into), to turn (into), to transform, to come (to do), to begin (to do), to grow (to do), to come to, to amount to, to add up to, to make, to play (the part of), to act as, to be used for, to be useful for, to serve as, to be promoted, to do ..."
+        "meaning": {
+          "vi": "to become, to get, to grow, to turn, to reach, to attain, to result in, to turn out, to end up, to prove (to be), to consist of, to be composed of, to be made up of, to be completed, to be realized, to succeed, to be attained, to be accomplished, to change (into), to turn (into), to transform, to come (to do), to begin (to do), to grow (to do), to come to, to amount to, to add up to, to make, to play (the part of), to act as, to be used for, to be useful for, to serve as, to be promoted, to do ..."
+        },
+        "romaji": "naru"
       },
       {
         "example": "為す",
         "reading": "なす",
-        "meaning": "to do, to commit, to carry out, to bring about"
+        "meaning": {
+          "en": "to do, to commit, to carry out, to bring about"
+        },
+        "romaji": "nasu"
       },
       {
         "example": "為すがまま",
         "reading": "なすがまま",
-        "meaning": "at the mercy of (something or someone)"
+        "meaning": {
+          "en": "at the mercy of (something or someone)"
+        },
+        "romaji": "nasugamama"
       },
       {
         "example": "為る",
         "reading": "する",
-        "meaning": "to do, to carry out, to perform, to cause to become, to make (into), to turn (into), to serve as, to act as, to work as, to wear (clothes, a facial expression, etc.), to judge as being, to view as being, to think of as, to treat as, to use as, to decide on, to choose, to be sensed (of a smell, noise, etc.), to be (in a state, condition, etc.), to be worth, to cost, to pass (of time), to elapse, to place, or raise, person A to a post or status B, to transform A to B, to make A into B, to exchange A for B, to make use of A for B, to view A as B, to handle A as if it were B, to feel A about B, verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\"), creates a humble verb (after a noun prefixed with \"o\" or \"go\"), to be just about to, to be just starting to, to try to, to attempt to"
+        "meaning": {
+          "vi": "to do, to carry out, to perform, to cause to become, to make (into), to turn (into), to serve as, to act as, to work as, to wear (clothes, a facial expression, etc.), to judge as being, to view as being, to think of as, to treat as, to use as, to decide on, to choose, to be sensed (of a smell, noise, etc.), to be (in a state, condition, etc.), to be worth, to cost, to pass (of time), to elapse, to place, or raise, person A to a post or status B, to transform A to B, to make A into B, to exchange A for B, to make use of A for B, to view A as B, to handle A as if it were B, to feel A about B, verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\"), creates a humble verb (after a noun prefixed with \"o\" or \"go\"), to be just about to, to be just starting to, to try to, to attempt to"
+        },
+        "romaji": "suru"
       },
       {
         "example": "成り",
         "reading": "なり",
-        "meaning": "promoted (of a piece)"
+        "meaning": {
+          "vi": "promoted (of a piece)"
+        },
+        "romaji": "nari"
       },
       {
         "example": "成り代わる",
         "reading": "なりかわる",
-        "meaning": "to take over for (someone), to stand in for, to substitute for, to replace, to take the place of (something)"
+        "meaning": {
+          "vi": "to take over for (someone), to stand in for, to substitute for, to replace, to take the place of (something)"
+        },
+        "romaji": "narikawaru"
       }
     ],
     "radical": {
@@ -114,5 +156,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070ba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70ba.gif",
     "uri": "https://jisho.org/search/%E7%82%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "vi",
+    "vy",
+    "vị"
+  ]
 }

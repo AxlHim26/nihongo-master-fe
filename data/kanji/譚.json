@@ -16,22 +16,34 @@
       {
         "example": "譚",
         "reading": "タン",
-        "meaning": "story, tale"
+        "meaning": {
+          "en": "story, tale"
+        },
+        "romaji": "tan"
       },
       {
         "example": "譚歌",
         "reading": "タンカ",
-        "meaning": "ballad"
+        "meaning": {
+          "en": "ballad"
+        },
+        "romaji": "tanka"
       },
       {
         "example": "英雄譚",
         "reading": "エイユウタン",
-        "meaning": "epic, heroic tale"
+        "meaning": {
+          "vi": "epic, heroic tale"
+        },
+        "romaji": "eiyuutan"
       },
       {
         "example": "綺譚",
         "reading": "キタン",
-        "meaning": "beautiful story"
+        "meaning": {
+          "en": "beautiful story"
+        },
+        "romaji": "kitan"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b5a.gif",
     "uri": "https://jisho.org/search/%E8%AD%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàm"
+  ]
 }

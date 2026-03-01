@@ -16,12 +16,18 @@
       {
         "example": "奎",
         "reading": "ケイ",
-        "meaning": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "kei"
       },
       {
         "example": "奎宿",
         "reading": "トカキボシ",
-        "meaning": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "tokakiboshi"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0594e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/594e.gif",
     "uri": "https://jisho.org/search/%E5%A5%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuê"
+  ]
 }

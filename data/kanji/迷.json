@@ -311,29 +311,44 @@
       {
         "example": "迷惑",
         "reading": "メイワク",
-        "meaning": "trouble, bother, annoyance, nuisance, inconvenience, to be troubled (by), to be bothered (by), to be inconvenienced (by)"
+        "meaning": {
+          "en": "trouble, bother, annoyance, nuisance, inconvenience, to be troubled (by), to be bothered (by), to be inconvenienced (by)"
+        },
+        "romaji": "meiwaku"
       },
       {
         "example": "迷路",
         "reading": "メイロ",
-        "meaning": "maze, labyrinth, inner ear"
+        "meaning": {
+          "en": "maze, labyrinth, inner ear"
+        },
+        "romaji": "meiro"
       },
       {
         "example": "混迷",
         "reading": "コンメイ",
-        "meaning": "turmoil, chaos, confusion"
+        "meaning": {
+          "en": "turmoil, chaos, confusion"
+        },
+        "romaji": "konmei"
       },
       {
         "example": "愛迷",
         "reading": "アイメイ",
-        "meaning": "straying from love, falling out of love, lost love"
+        "meaning": {
+          "en": "straying from love, falling out of love, lost love"
+        },
+        "romaji": "aimei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "迷う",
         "reading": "まよう",
-        "meaning": "to lose one's way, to get lost, to go astray, to waver, to hesitate, to vacillate, to be of two minds (about), to be unable to make up one's mind, to not know what to do, to be at a loss, to be puzzled, to be perplexed, to be captivated (by), to be infatuated (with), to be charmed (by), to be carried away (by), to be blinded (by), to be lost (in), to lose oneself (to), to linger (of a departed soul), to be restless in one's grave, to be unable to rest in peace"
+        "meaning": {
+          "vi": "to lose one's way, to get lost, to go astray, to waver, to hesitate, to vacillate, to be of two minds (about), to be unable to make up one's mind, to not know what to do, to be at a loss, to be puzzled, to be perplexed, to be captivated (by), to be infatuated (with), to be charmed (by), to be carried away (by), to be blinded (by), to be lost (in), to lose oneself (to), to linger (of a departed soul), to be restless in one's grave, to be unable to rest in peace"
+        },
+        "romaji": "mayou"
       }
     ],
     "radical": {
@@ -353,5 +368,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff7.gif",
     "uri": "https://jisho.org/search/%E8%BF%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "mê"
+  ]
 }

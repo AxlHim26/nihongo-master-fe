@@ -16,22 +16,34 @@
       {
         "example": "蘊奥",
         "reading": "ウンノウ",
-        "meaning": "inner mysteries (of a field of study), secrets"
+        "meaning": {
+          "en": "inner mysteries (of a field of study), secrets"
+        },
+        "romaji": "unnou"
       },
       {
         "example": "蘊蓄",
         "reading": "ウンチク",
-        "meaning": "great erudition, extensive knowledge, vast stock of knowledge"
+        "meaning": {
+          "en": "great erudition, extensive knowledge, vast stock of knowledge"
+        },
+        "romaji": "unchiku"
       },
       {
         "example": "中蘊",
         "reading": "チュウウン",
-        "meaning": "bardo, state (or period) of intermediate existence between one's death and rebirth (in Japan, 49 days)"
+        "meaning": {
+          "vi": "bardo, state (or period) of intermediate existence between one's death and rebirth (in Japan, 49 days)"
+        },
+        "romaji": "chuuun"
       },
       {
         "example": "行蘊",
         "reading": "ギョウウン",
-        "meaning": "formation of volition, aggregate of volition"
+        "meaning": {
+          "en": "formation of volition, aggregate of volition"
+        },
+        "romaji": "gyouun"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0860a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/860a.gif",
     "uri": "https://jisho.org/search/%E8%98%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "uấn",
+    "uẩn",
+    "ôn"
+  ]
 }

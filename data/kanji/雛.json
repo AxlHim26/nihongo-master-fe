@@ -21,59 +21,92 @@
       {
         "example": "雛妓",
         "reading": "スウギ",
-        "meaning": "child geisha, geisha apprentice"
+        "meaning": {
+          "vi": "child geisha, geisha apprentice"
+        },
+        "romaji": "suugi"
       },
       {
         "example": "雛僧",
         "reading": "スウソウ",
-        "meaning": "young priest"
+        "meaning": {
+          "vi": "young priest"
+        },
+        "romaji": "suusou"
       },
       {
         "example": "鳳雛",
         "reading": "ホウスウ",
-        "meaning": "gifted young person who shows much promise"
+        "meaning": {
+          "vi": "gifted young person who shows much promise"
+        },
+        "romaji": "housuu"
       },
       {
         "example": "臥竜鳳雛",
         "reading": "ガリョウホウスウ",
-        "meaning": "gifted young person who shows much promise, unrecognized genius, great person whose talent is hidden under a bushel"
+        "meaning": {
+          "vi": "gifted young person who shows much promise, unrecognized genius, great person whose talent is hidden under a bushel"
+        },
+        "romaji": "garyouhousuu"
       },
       {
         "example": "雛妓",
         "reading": "スウギ",
-        "meaning": "child geisha, geisha apprentice"
+        "meaning": {
+          "vi": "child geisha, geisha apprentice"
+        },
+        "romaji": "suugi"
       },
       {
         "example": "雛僧",
         "reading": "スウソウ",
-        "meaning": "young priest"
+        "meaning": {
+          "vi": "young priest"
+        },
+        "romaji": "suusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雛",
         "reading": "ひな",
-        "meaning": "young bird, chick, fledgling, hina doll, doll displayed during the Girls' Festival"
+        "meaning": {
+          "vi": "young bird, chick, fledgling, hina doll, doll displayed during the Girls' Festival"
+        },
+        "romaji": "hina"
       },
       {
         "example": "ひな祭り",
         "reading": "ひなまつり",
-        "meaning": "Hinamatsuri (March 3), Girls' Festival, Dolls' Festival"
+        "meaning": {
+          "en": "Hinamatsuri (March 3), Girls' Festival, Dolls' Festival"
+        },
+        "romaji": "hinamatsuri"
       },
       {
         "example": "巣雛",
         "reading": "すひな",
-        "meaning": "nestling"
+        "meaning": {
+          "en": "nestling"
+        },
+        "romaji": "suhina"
       },
       {
         "example": "雛",
         "reading": "ひよこ",
-        "meaning": "young bird, chick, fledgling, greenhorn, fledgeling, novice, rookie"
+        "meaning": {
+          "en": "young bird, chick, fledgling, greenhorn, fledgeling, novice, rookie"
+        },
+        "romaji": "hiyoko"
       },
       {
         "example": "ひよこ豆",
         "reading": "ひよこまめ",
-        "meaning": "chickpea (Cicer arietinum), garbanzo bean"
+        "meaning": {
+          "vi": "chickpea (Cicer arietinum), garbanzo bean"
+        },
+        "romaji": "hiyokomame"
       }
     ],
     "radical": {
@@ -89,5 +122,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96db.gif",
     "uri": "https://jisho.org/search/%E9%9B%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "sồ"
+  ]
 }

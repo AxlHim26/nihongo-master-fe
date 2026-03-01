@@ -17,14 +17,20 @@
       {
         "example": "生擒",
         "reading": "セイキン",
-        "meaning": "capturing something alive"
+        "meaning": {
+          "vi": "capturing something alive"
+        },
+        "romaji": "seikin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虜",
         "reading": "とりこ",
-        "meaning": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+        "meaning": {
+          "vi": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+        },
+        "romaji": "toriko"
       }
     ],
     "radical": {
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d2.gif",
     "uri": "https://jisho.org/search/%E6%93%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "cầm"
+  ]
 }

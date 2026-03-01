@@ -289,44 +289,68 @@
       {
         "example": "千",
         "reading": "セン",
-        "meaning": "nghìn, 1.000"
+        "meaning": {
+          "vi": "nghìn, 1.000"
+        },
+        "romaji": "sen"
       },
       {
         "example": "千九百年代",
         "reading": "センキュウヒャクネンダイ",
-        "meaning": "thập niên 1900"
+        "meaning": {
+          "vi": "thập niên 1900"
+        },
+        "romaji": "senkyuuhyakunendai"
       },
       {
         "example": "一騎当千",
         "reading": "イッキトウセン",
-        "meaning": "một người địch nghìn, dũng tướng"
+        "meaning": {
+          "vi": "một người địch nghìn, dũng tướng"
+        },
+        "romaji": "ikkitousen"
       },
       {
         "example": "一人当千",
         "reading": "イチニントウセン",
-        "meaning": "một người địch nghìn"
+        "meaning": {
+          "vi": "một người địch nghìn"
+        },
+        "romaji": "ichinintousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "千",
         "reading": "せん",
-        "meaning": "nghìn, 1.000"
+        "meaning": {
+          "vi": "nghìn, 1.000"
+        },
+        "romaji": "sen"
       },
       {
         "example": "千島",
         "reading": "ちしま",
-        "meaning": "quần đảo Kuril"
+        "meaning": {
+          "vi": "quần đảo Kuril"
+        },
+        "romaji": "chishima"
       },
       {
         "example": "百千",
         "reading": "ひゃくせん",
-        "meaning": "số lượng lớn, đủ loại, hàng trăm hàng nghìn"
+        "meaning": {
+          "vi": "số lượng lớn, đủ loại, hàng trăm hàng nghìn"
+        },
+        "romaji": "hyakusen"
       },
       {
         "example": "８０００",
         "reading": "はっせん",
-        "meaning": "8000, tám nghìn, nhiều"
+        "meaning": {
+          "vi": "8000, tám nghìn, nhiều"
+        },
+        "romaji": "hassen"
       }
     ],
     "radical": {
@@ -341,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05343.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5343.gif",
     "uri": "https://jisho.org/search/%E5%8D%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiên"
+  ]
 }

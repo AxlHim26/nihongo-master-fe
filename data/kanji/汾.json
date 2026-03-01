@@ -14,7 +14,10 @@
       {
         "example": "汾酒",
         "reading": "フェンチュウ",
-        "meaning": "fenjiu (distilled Chinese alcohol made from kaoliang)"
+        "meaning": {
+          "en": "fenjiu (distilled Chinese alcohol made from kaoliang)"
+        },
+        "romaji": "fyenchuu"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c7e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c7e.gif",
     "uri": "https://jisho.org/search/%E6%B1%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phần"
+  ]
 }

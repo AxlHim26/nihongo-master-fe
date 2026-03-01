@@ -350,49 +350,76 @@
       {
         "example": "性",
         "reading": "セイ",
-        "meaning": "nature (of a person), sex, gender, sex (i.e. sexual attraction, activity, etc.), gender, -ty, -ity, -ness, -cy"
+        "meaning": {
+          "vi": "nature (of a person), sex, gender, sex (i.e. sexual attraction, activity, etc.), gender, -ty, -ity, -ness, -cy"
+        },
+        "romaji": "sei"
       },
       {
         "example": "性格",
         "reading": "セイカク",
-        "meaning": "character (of a person), personality, disposition, nature, characteristics, nature (of a thing, event, etc.)"
+        "meaning": {
+          "vi": "character (of a person), personality, disposition, nature, characteristics, nature (of a thing, event, etc.)"
+        },
+        "romaji": "seikaku"
       },
       {
         "example": "耐性",
         "reading": "タイセイ",
-        "meaning": "resistance (e.g. to antibiotics), tolerance (e.g. drug tolerance)"
+        "meaning": {
+          "en": "resistance (e.g. to antibiotics), tolerance (e.g. drug tolerance)"
+        },
+        "romaji": "taisei"
       },
       {
         "example": "社会性",
         "reading": "シャカイセイ",
-        "meaning": "sociality"
+        "meaning": {
+          "en": "sociality"
+        },
+        "romaji": "shakaisei"
       },
       {
         "example": "性",
         "reading": "ショウ",
-        "meaning": "nature, disposition, temperament, character, quality, that which does not change according to external influences"
+        "meaning": {
+          "vi": "nature, disposition, temperament, character, quality, that which does not change according to external influences"
+        },
+        "romaji": "shou"
       },
       {
         "example": "性根",
         "reading": "ショウネ",
-        "meaning": "nature, character, disposition"
+        "meaning": {
+          "vi": "nature, character, disposition"
+        },
+        "romaji": "shoune"
       },
       {
         "example": "冷え性",
         "reading": "ヒエショウ",
-        "meaning": "sensitivity to cold, poor circulation"
+        "meaning": {
+          "vi": "sensitivity to cold, poor circulation"
+        },
+        "romaji": "hieshou"
       },
       {
         "example": "凝り性",
         "reading": "コリショウ",
-        "meaning": "tendency to become totally absorbed in something, monomania, perfectionism, fastidiousness, meticulousness, susceptibility for a stiffening of the shoulders"
+        "meaning": {
+          "vi": "tendency to become totally absorbed in something, monomania, perfectionism, fastidiousness, meticulousness, susceptibility for a stiffening of the shoulders"
+        },
+        "romaji": "korishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "性",
         "reading": "さが",
-        "meaning": "one's nature, one's destiny, custom, tradition, habit, convention"
+        "meaning": {
+          "en": "one's nature, one's destiny, custom, tradition, habit, convention"
+        },
+        "romaji": "saga"
       }
     ],
     "radical": {
@@ -411,5 +438,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06027.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6027.gif",
     "uri": "https://jisho.org/search/%E6%80%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "tính"
+  ]
 }

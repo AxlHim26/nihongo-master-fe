@@ -323,39 +323,60 @@
       {
         "example": "憎悪",
         "reading": "ゾウオ",
-        "meaning": "hatred, abhorrence, loathing, detestation"
+        "meaning": {
+          "en": "hatred, abhorrence, loathing, detestation"
+        },
+        "romaji": "zouo"
       },
       {
         "example": "憎悪犯罪",
         "reading": "ゾウオハンザイ",
-        "meaning": "hate crime"
+        "meaning": {
+          "en": "hate crime"
+        },
+        "romaji": "zouohanzai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憎む",
         "reading": "にくむ",
-        "meaning": "to hate, to detest"
+        "meaning": {
+          "en": "to hate, to detest"
+        },
+        "romaji": "nikumu"
       },
       {
         "example": "憎い",
         "reading": "にくい",
-        "meaning": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
+        "meaning": {
+          "vi": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
+        },
+        "romaji": "nikui"
       },
       {
         "example": "憎らしい",
         "reading": "にくらしい",
-        "meaning": "odious, hateful, detestable, horrible, (speaking ironically) darling"
+        "meaning": {
+          "vi": "odious, hateful, detestable, horrible, (speaking ironically) darling"
+        },
+        "romaji": "nikurashii"
       },
       {
         "example": "憎しみ",
         "reading": "にくしみ",
-        "meaning": "hatred"
+        "meaning": {
+          "en": "hatred"
+        },
+        "romaji": "nikushimi"
       },
       {
         "example": "憎しみ合う",
         "reading": "にくしみあう",
-        "meaning": "to hate each other, to hate mutually"
+        "meaning": {
+          "en": "to hate each other, to hate mutually"
+        },
+        "romaji": "nikushimiau"
       }
     ],
     "radical": {
@@ -376,5 +397,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0618e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/618e.gif",
     "uri": "https://jisho.org/search/%E6%86%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "tăng"
+  ]
 }

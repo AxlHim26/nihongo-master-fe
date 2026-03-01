@@ -17,19 +17,28 @@
       {
         "example": "苟安",
         "reading": "コウアン",
-        "meaning": "snatching a moment of rest, seeking temporary ease"
+        "meaning": {
+          "vi": "snatching a moment of rest, seeking temporary ease"
+        },
+        "romaji": "kouan"
       },
       {
         "example": "苟且",
         "reading": "コウショ",
-        "meaning": "stopgap, makeshift, temporary"
+        "meaning": {
+          "vi": "stopgap, makeshift, temporary"
+        },
+        "romaji": "kousho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苟も",
         "reading": "いやしくも",
-        "meaning": "any, at all, in the least, even in a slight degree, ever"
+        "meaning": {
+          "en": "any, at all, in the least, even in a slight degree, ever"
+        },
+        "romaji": "iyashikumo"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82df.gif",
     "uri": "https://jisho.org/search/%E8%8B%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cẩu"
+  ]
 }

@@ -15,12 +15,18 @@
       {
         "example": "瀰茫",
         "reading": "ビボウ",
-        "meaning": "endless river, boundless water"
+        "meaning": {
+          "en": "endless river, boundless water"
+        },
+        "romaji": "bibou"
       },
       {
         "example": "瀰漫",
         "reading": "ビマン",
-        "meaning": "spread, pervasion, permeation"
+        "meaning": {
+          "vi": "spread, pervasion, permeation"
+        },
+        "romaji": "biman"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07030.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7030.gif",
     "uri": "https://jisho.org/search/%E7%80%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "my",
+    "nhị"
+  ]
 }

@@ -16,29 +16,44 @@
       {
         "example": "黄櫨",
         "reading": "ハゼノキ",
-        "meaning": "wax tree (Toxicodendron succedaneum), Japanese wax tree"
+        "meaning": {
+          "vi": "wax tree (Toxicodendron succedaneum), Japanese wax tree"
+        },
+        "romaji": "hazenoki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黄櫨",
         "reading": "はぜのき",
-        "meaning": "wax tree (Toxicodendron succedaneum), Japanese wax tree"
+        "meaning": {
+          "vi": "wax tree (Toxicodendron succedaneum), Japanese wax tree"
+        },
+        "romaji": "hazenoki"
       },
       {
         "example": "櫨蝋",
         "reading": "はぜろう",
-        "meaning": "vegetable wax, Japan wax, sumac wax"
+        "meaning": {
+          "vi": "vegetable wax, Japan wax, sumac wax"
+        },
+        "romaji": "hazerou"
       },
       {
         "example": "夏櫨",
         "reading": "なつはぜ",
-        "meaning": "oldham blueberry (Vaccinium oldhamii)"
+        "meaning": {
+          "en": "oldham blueberry (Vaccinium oldhamii)"
+        },
+        "romaji": "natsuhaze"
       },
       {
         "example": "山櫨",
         "reading": "やまはぜ",
-        "meaning": "woodland sumac (Rhus sylvestris)"
+        "meaning": {
+          "en": "woodland sumac (Rhus sylvestris)"
+        },
+        "romaji": "yamahaze"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ae8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ae8.gif",
     "uri": "https://jisho.org/search/%E6%AB%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô"
+  ]
 }

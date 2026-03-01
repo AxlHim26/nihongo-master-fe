@@ -19,12 +19,18 @@
       {
         "example": "儂",
         "reading": "わし",
-        "meaning": "I, me"
+        "meaning": {
+          "en": "I, me"
+        },
+        "romaji": "washi"
       },
       {
         "example": "私等",
         "reading": "わしら",
-        "meaning": "we, us"
+        "meaning": {
+          "en": "we, us"
+        },
+        "romaji": "washira"
       }
     ],
     "radical": {
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05102.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5102.gif",
     "uri": "https://jisho.org/search/%E5%84%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "nông",
+    "nùng"
+  ]
 }

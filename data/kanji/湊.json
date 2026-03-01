@@ -18,19 +18,28 @@
       {
         "example": "輻輳",
         "reading": "フクソウ",
-        "meaning": "congestion (e.g. traffic), overcrowding, convergence (esp. optical)"
+        "meaning": {
+          "vi": "congestion (e.g. traffic), overcrowding, convergence (esp. optical)"
+        },
+        "romaji": "fukusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "港",
         "reading": "みなと",
-        "meaning": "harbour, harbor, port"
+        "meaning": {
+          "vi": "harbour, harbor, port"
+        },
+        "romaji": "minato"
       },
       {
         "example": "春の湊",
         "reading": "はるのみなと",
-        "meaning": "end of spring"
+        "meaning": {
+          "vi": "end of spring"
+        },
+        "romaji": "harunominato"
       }
     ],
     "radical": {
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e4a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e4a.gif",
     "uri": "https://jisho.org/search/%E6%B9%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấu",
+    "tấu"
+  ]
 }

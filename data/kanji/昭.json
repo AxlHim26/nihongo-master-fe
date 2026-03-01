@@ -198,22 +198,34 @@
       {
         "example": "昭",
         "reading": "ショウ",
-        "meaning": "nth year in the Shōwa era (1926.12.25-1989.1.7)"
+        "meaning": {
+          "en": "nth year in the Shōwa era (1926.12.25-1989.1.7)"
+        },
+        "romaji": "shou"
       },
       {
         "example": "昭和",
         "reading": "ショウワ",
-        "meaning": "Shōwa era (1926.12.25-1989.1.7), reminiscent of the Shōwa era, Shōwa-nostalgic, old-fashioned, quaint, old-school"
+        "meaning": {
+          "en": "Shōwa era (1926.12.25-1989.1.7), reminiscent of the Shōwa era, Shōwa-nostalgic, old-fashioned, quaint, old-school"
+        },
+        "romaji": "shouwa"
       },
       {
         "example": "昭昭",
         "reading": "ショウショウ",
-        "meaning": "clear, bright, plain, obvious"
+        "meaning": {
+          "vi": "clear, bright, plain, obvious"
+        },
+        "romaji": "shoushou"
       },
       {
         "example": "遍照",
         "reading": "ヘンジョウ",
-        "meaning": "universal illumination (esp. in Buddhism, by the dharma-body)"
+        "meaning": {
+          "vi": "universal illumination (esp. in Buddhism, by the dharma-body)"
+        },
+        "romaji": "henjou"
       }
     ],
     "kunyomiExamples": [],
@@ -230,5 +242,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0662d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/662d.gif",
     "uri": "https://jisho.org/search/%E6%98%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiêu",
+    "thiều"
+  ]
 }

@@ -215,22 +215,34 @@
       {
         "example": "賀",
         "reading": "ガ",
-        "meaning": "congratulation, celebration"
+        "meaning": {
+          "en": "congratulation, celebration"
+        },
+        "romaji": "ga"
       },
       {
         "example": "賀正",
         "reading": "ガショウ",
-        "meaning": "A Happy New Year!"
+        "meaning": {
+          "vi": "A Happy New Year!"
+        },
+        "romaji": "gashou"
       },
       {
         "example": "年賀",
         "reading": "ネンガ",
-        "meaning": "New Year's greetings, New Year's call, New Year's gift"
+        "meaning": {
+          "en": "New Year's greetings, New Year's call, New Year's gift"
+        },
+        "romaji": "nenga"
       },
       {
         "example": "祝賀",
         "reading": "シュクガ",
-        "meaning": "celebration, congratulations"
+        "meaning": {
+          "en": "celebration, congratulations"
+        },
+        "romaji": "shukuga"
       }
     ],
     "kunyomiExamples": [],
@@ -249,5 +261,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc0.gif",
     "uri": "https://jisho.org/search/%E8%B3%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạ"
+  ]
 }

@@ -19,34 +19,52 @@
       {
         "example": "弦",
         "reading": "ゲン",
-        "meaning": "bowstring, string (of a shamisen, etc.), stringed instrument, chord, hypotenuse"
+        "meaning": {
+          "vi": "bowstring, string (of a shamisen, etc.), stringed instrument, chord, hypotenuse"
+        },
+        "romaji": "gen"
       },
       {
         "example": "弦楽",
         "reading": "ゲンガク",
-        "meaning": "music for strings, string music"
+        "meaning": {
+          "en": "music for strings, string music"
+        },
+        "romaji": "gengaku"
       },
       {
         "example": "三弦",
         "reading": "サンゲン",
-        "meaning": "shamisen, samisen, sanxian (Chinese lute), the three string instruments used in gagaku (biwa, wagon and sou), three strings, three-stringed instrument"
+        "meaning": {
+          "en": "shamisen, samisen, sanxian (Chinese lute), the three string instruments used in gagaku (biwa, wagon and sou), three strings, three-stringed instrument"
+        },
+        "romaji": "sangen"
       },
       {
         "example": "移弦",
         "reading": "イゲン",
-        "meaning": "string-crossing (violin, cello, etc.)"
+        "meaning": {
+          "en": "string-crossing (violin, cello, etc.)"
+        },
+        "romaji": "igen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弦",
         "reading": "つる",
-        "meaning": "bowstring, string (of shamisen, guitar, violin, etc.), bail (arched pot handle), diagonal levelling wire across the top of a masu"
+        "meaning": {
+          "vi": "bowstring, string (of shamisen, guitar, violin, etc.), bail (arched pot handle), diagonal levelling wire across the top of a masu"
+        },
+        "romaji": "tsuru"
       },
       {
         "example": "弦音",
         "reading": "つるおと",
-        "meaning": "sound of vibrating bowstring"
+        "meaning": {
+          "en": "sound of vibrating bowstring"
+        },
+        "romaji": "tsuruoto"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f26.gif",
     "uri": "https://jisho.org/search/%E5%BC%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyền"
+  ]
 }

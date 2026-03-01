@@ -17,17 +17,26 @@
       {
         "example": "冽々",
         "reading": "レツレツ",
-        "meaning": "extremely cold"
+        "meaning": {
+          "en": "extremely cold"
+        },
+        "romaji": "retsuretsu"
       },
       {
         "example": "清冽",
         "reading": "セイレツ",
-        "meaning": "cool and clear"
+        "meaning": {
+          "en": "cool and clear"
+        },
+        "romaji": "seiretsu"
       },
       {
         "example": "冽々",
         "reading": "レツレツ",
-        "meaning": "extremely cold"
+        "meaning": {
+          "en": "extremely cold"
+        },
+        "romaji": "retsuretsu"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051bd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51bd.gif",
     "uri": "https://jisho.org/search/%E5%86%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "liệt"
+  ]
 }

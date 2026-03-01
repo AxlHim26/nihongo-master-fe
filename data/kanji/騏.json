@@ -14,12 +14,18 @@
       {
         "example": "麒麟",
         "reading": "キリン",
-        "meaning": "giraffe (Giraffa camelopardalis), qilin (Chinese unicorn), horse that can ride 1000 ri in a day"
+        "meaning": {
+          "vi": "giraffe (Giraffa camelopardalis), qilin (Chinese unicorn), horse that can ride 1000 ri in a day"
+        },
+        "romaji": "kirin"
       },
       {
         "example": "麒麟も老いぬれば駑馬に劣る",
         "reading": "キリンモオイヌレバドバニオトル",
-        "meaning": "even an outstanding person becomes inferior when getting old"
+        "meaning": {
+          "vi": "even an outstanding person becomes inferior when getting old"
+        },
+        "romaji": "kirinmooinurebadobaniotoru"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a0f.gif",
     "uri": "https://jisho.org/search/%E9%A8%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "kì",
+    "kỳ"
+  ]
 }

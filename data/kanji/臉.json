@@ -16,7 +16,10 @@
       {
         "example": "臉譜",
         "reading": "レンプ",
-        "meaning": "lianpu (face painting in classical Chinese opera)"
+        "meaning": {
+          "vi": "lianpu (face painting in classical Chinese opera)"
+        },
+        "romaji": "renpu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c9.gif",
     "uri": "https://jisho.org/search/%E8%87%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiểm",
+    "liễm",
+    "liệm",
+    "thiểm"
+  ]
 }

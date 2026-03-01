@@ -17,24 +17,36 @@
       {
         "example": "漣音",
         "reading": "レンオン",
-        "meaning": "mordent"
+        "meaning": {
+          "en": "mordent"
+        },
+        "romaji": "ren'on"
       },
       {
         "example": "漣々",
         "reading": "レンレン",
-        "meaning": "flowing endlessly (of tears), rippling (of water)"
+        "meaning": {
+          "vi": "flowing endlessly (of tears), rippling (of water)"
+        },
+        "romaji": "renren"
       },
       {
         "example": "漣々",
         "reading": "レンレン",
-        "meaning": "flowing endlessly (of tears), rippling (of water)"
+        "meaning": {
+          "vi": "flowing endlessly (of tears), rippling (of water)"
+        },
+        "romaji": "renren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "さざ波",
         "reading": "さざなみ",
-        "meaning": "ripple (on water), wavelets, ripple (e.g. of uneasiness), unrest, disturbance, discord, friction"
+        "meaning": {
+          "vi": "ripple (on water), wavelets, ripple (e.g. of uneasiness), unrest, disturbance, discord, friction"
+        },
+        "romaji": "sazanami"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f23.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f23.gif",
     "uri": "https://jisho.org/search/%E6%BC%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "liên"
+  ]
 }

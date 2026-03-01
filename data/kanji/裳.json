@@ -17,34 +17,52 @@
       {
         "example": "裳階",
         "reading": "モコシ",
-        "meaning": "pent roof (below the true roof of a pagoda, etc.)"
+        "meaning": {
+          "vi": "pent roof (below the true roof of a pagoda, etc.)"
+        },
+        "romaji": "mokoshi"
       },
       {
         "example": "舞衣装",
         "reading": "マイイショウ",
-        "meaning": "dancing costume"
+        "meaning": {
+          "en": "dancing costume"
+        },
+        "romaji": "maiishou"
       },
       {
         "example": "花嫁衣裳",
         "reading": "ハナヨメイショウ",
-        "meaning": "bridal costume, wedding dress"
+        "meaning": {
+          "en": "bridal costume, wedding dress"
+        },
+        "romaji": "hanayomeishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "裳",
         "reading": "も",
-        "meaning": "traditional skirt"
+        "meaning": {
+          "en": "traditional skirt"
+        },
+        "romaji": "mo"
       },
       {
         "example": "裳着",
         "reading": "もぎ",
-        "meaning": "Heian-period coming-of-age ceremony for girls"
+        "meaning": {
+          "vi": "Heian-period coming-of-age ceremony for girls"
+        },
+        "romaji": "mogi"
       },
       {
         "example": "裳裾",
         "reading": "もすそ",
-        "meaning": "cuff (of pants), hem (of skirt), train (of dress), foot (of mountain)"
+        "meaning": {
+          "vi": "cuff (of pants), hem (of skirt), train (of dress), foot (of mountain)"
+        },
+        "romaji": "mosuso"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f3.gif",
     "uri": "https://jisho.org/search/%E8%A3%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thường"
+  ]
 }

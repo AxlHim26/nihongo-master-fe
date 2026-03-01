@@ -19,29 +19,44 @@
       {
         "example": "囚",
         "reading": "シュウ",
-        "meaning": "imprisonment, captive, prisoner"
+        "meaning": {
+          "vi": "imprisonment, captive, prisoner"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "囚人",
         "reading": "シュウジン",
-        "meaning": "prisoner, convict"
+        "meaning": {
+          "vi": "prisoner, convict"
+        },
+        "romaji": "shuujin"
       },
       {
         "example": "確定死刑囚",
         "reading": "カクテイシケイシュウ",
-        "meaning": "criminal condemned to death, convict on death row"
+        "meaning": {
+          "en": "criminal condemned to death, convict on death row"
+        },
+        "romaji": "kakuteishikeishuu"
       },
       {
         "example": "罪囚",
         "reading": "ザイシュウ",
-        "meaning": "prisoner, convict"
+        "meaning": {
+          "vi": "prisoner, convict"
+        },
+        "romaji": "zaishuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "囚われる",
         "reading": "とらわれる",
-        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        "meaning": {
+          "vi": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        },
+        "romaji": "torawareru"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56da.gif",
     "uri": "https://jisho.org/search/%E5%9B%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tù"
+  ]
 }

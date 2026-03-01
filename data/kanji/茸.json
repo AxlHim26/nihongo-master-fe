@@ -19,54 +19,84 @@
       {
         "example": "毛茸",
         "reading": "モウジョウ",
-        "meaning": "hair, trichome"
+        "meaning": {
+          "en": "hair, trichome"
+        },
+        "romaji": "moujou"
       },
       {
         "example": "鹿茸",
         "reading": "ロクジョウ",
-        "meaning": "pilose antler (used in traditional Chinese medicine), velvet antler"
+        "meaning": {
+          "vi": "pilose antler (used in traditional Chinese medicine), velvet antler"
+        },
+        "romaji": "rokujou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "茸",
         "reading": "きのこ",
-        "meaning": "mushroom"
+        "meaning": {
+          "en": "mushroom"
+        },
+        "romaji": "kinoko"
       },
       {
         "example": "キノコ狩り",
         "reading": "きのこがり",
-        "meaning": "mushrooming, mushroom picking, mushroom gathering"
+        "meaning": {
+          "vi": "mushrooming, mushroom picking, mushroom gathering"
+        },
+        "romaji": "kinokogari"
       },
       {
         "example": "幻覚キノコ",
         "reading": "げんかくきのこ",
-        "meaning": "hallucinogenic mushroom, magic mushroom"
+        "meaning": {
+          "en": "hallucinogenic mushroom, magic mushroom"
+        },
+        "romaji": "genkakukinoko"
       },
       {
         "example": "毒キノコ",
         "reading": "どくキノコ",
-        "meaning": "toadstool, poisonous mushroom"
+        "meaning": {
+          "vi": "toadstool, poisonous mushroom"
+        },
+        "romaji": "dokukinoko"
       },
       {
         "example": "茸",
         "reading": "きのこ",
-        "meaning": "mushroom"
+        "meaning": {
+          "en": "mushroom"
+        },
+        "romaji": "kinoko"
       },
       {
         "example": "キノコ狩り",
         "reading": "きのこがり",
-        "meaning": "mushrooming, mushroom picking, mushroom gathering"
+        "meaning": {
+          "vi": "mushrooming, mushroom picking, mushroom gathering"
+        },
+        "romaji": "kinokogari"
       },
       {
         "example": "藍茸",
         "reading": "あいたけ",
-        "meaning": "green-cracking russula (Russula virescens), quilted green russula, green brittlegill"
+        "meaning": {
+          "en": "green-cracking russula (Russula virescens), quilted green russula, green brittlegill"
+        },
+        "romaji": "aitake"
       },
       {
         "example": "舞茸",
         "reading": "まいたけ",
-        "meaning": "hen-of-the-woods (species of polypore mushroom, Grifola frondosa)"
+        "meaning": {
+          "vi": "hen-of-the-woods (species of polypore mushroom, Grifola frondosa)"
+        },
+        "romaji": "maitake"
       }
     ],
     "radical": {
@@ -84,5 +114,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08338.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8338.gif",
     "uri": "https://jisho.org/search/%E8%8C%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhung",
+    "nhĩ",
+    "nhũng"
+  ]
 }

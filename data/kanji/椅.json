@@ -16,12 +16,18 @@
       {
         "example": "椅子",
         "reading": "イス",
-        "meaning": "chair, seat, stool, bench, post, position, seat, office"
+        "meaning": {
+          "vi": "chair, seat, stool, bench, post, position, seat, office"
+        },
+        "romaji": "isu"
       },
       {
         "example": "倚子",
         "reading": "イシ",
-        "meaning": "traditional square chair with armrests and a torii-shaped back (used by the emperor, etc. during ceremonies)"
+        "meaning": {
+          "vi": "traditional square chair with armrests and a torii-shaped back (used by the emperor, etc. during ceremonies)"
+        },
+        "romaji": "ishi"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06905.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6905.gif",
     "uri": "https://jisho.org/search/%E6%A4%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "kỷ",
+    "y",
+    "ỷ"
+  ]
 }

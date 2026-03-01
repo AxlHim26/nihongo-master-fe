@@ -14,12 +14,18 @@
       {
         "example": "髑髏",
         "reading": "ドクロ",
-        "meaning": "skull (esp. weatherbeaten, used as symbol of death), death's head, cranium"
+        "meaning": {
+          "vi": "skull (esp. weatherbeaten, used as symbol of death), death's head, cranium"
+        },
+        "romaji": "dokuro"
       },
       {
         "example": "がしゃ髑髏",
         "reading": "ガシャドクロ",
-        "meaning": "gashadokuro (mythical giant skeleton monster)"
+        "meaning": {
+          "en": "gashadokuro (mythical giant skeleton monster)"
+        },
+        "romaji": "gashadokuro"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09acf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9acf.gif",
     "uri": "https://jisho.org/search/%E9%AB%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "lâu"
+  ]
 }

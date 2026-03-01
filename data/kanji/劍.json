@@ -16,14 +16,20 @@
       {
         "example": "剣",
         "reading": "ケン",
-        "meaning": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+        "meaning": {
+          "vi": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+        },
+        "romaji": "ken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "剣",
         "reading": "けん",
-        "meaning": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+        "meaning": {
+          "vi": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+        },
+        "romaji": "ken"
       }
     ],
     "radical": {
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0528d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/528d.gif",
     "uri": "https://jisho.org/search/%E5%8A%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiếm"
+  ]
 }

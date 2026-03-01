@@ -16,12 +16,18 @@
       {
         "example": "包丁",
         "reading": "ホウチョウ",
-        "meaning": "kitchen knife, cooking, food"
+        "meaning": {
+          "en": "kitchen knife, cooking, food"
+        },
+        "romaji": "houchou"
       },
       {
         "example": "庖厨",
         "reading": "ホウチュウ",
-        "meaning": "kitchen"
+        "meaning": {
+          "en": "kitchen"
+        },
+        "romaji": "houchuu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e96.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e96.gif",
     "uri": "https://jisho.org/search/%E5%BA%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "bao",
+    "bào"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "開闢",
         "reading": "カイビャク",
-        "meaning": "beginning of the world, creation"
+        "meaning": {
+          "en": "beginning of the world, creation"
+        },
+        "romaji": "kaibyaku"
       },
       {
         "example": "宇宙開闢",
         "reading": "ウチュウカイビャク",
-        "meaning": "(since) the beginning of the universe, (since) the dawn of time"
+        "meaning": {
+          "en": "(since) the beginning of the universe, (since) the dawn of time"
+        },
+        "romaji": "uchuukaibyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95e2.gif",
     "uri": "https://jisho.org/search/%E9%97%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "phách",
+    "tịch"
+  ]
 }

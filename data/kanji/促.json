@@ -19,29 +19,44 @@
       {
         "example": "促進",
         "reading": "ソクシン",
-        "meaning": "promotion, acceleration, encouragement, facilitation, spurring on"
+        "meaning": {
+          "vi": "promotion, acceleration, encouragement, facilitation, spurring on"
+        },
+        "romaji": "sokushin"
       },
       {
         "example": "促成",
         "reading": "ソクセイ",
-        "meaning": "promotion of growth"
+        "meaning": {
+          "vi": "promotion of growth"
+        },
+        "romaji": "sokusei"
       },
       {
         "example": "督促",
         "reading": "トクソク",
-        "meaning": "urge, demand, importunity"
+        "meaning": {
+          "vi": "urge, demand, importunity"
+        },
+        "romaji": "tokusoku"
       },
       {
         "example": "矢の催促",
         "reading": "ヤノサイソク",
-        "meaning": "strongly and repeatedly urging (demanding, requesting, pressing)"
+        "meaning": {
+          "vi": "strongly and repeatedly urging (demanding, requesting, pressing)"
+        },
+        "romaji": "yanosaisoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "促す",
         "reading": "うながす",
-        "meaning": "to urge, to encourage, to press, to prompt, to draw (attention to), to stimulate (e.g. growth), to hasten (e.g. development), to quicken, to accelerate, to promote"
+        "meaning": {
+          "vi": "to urge, to encourage, to press, to prompt, to draw (attention to), to stimulate (e.g. growth), to hasten (e.g. development), to quicken, to accelerate, to promote"
+        },
+        "romaji": "unagasu"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fc3.gif",
     "uri": "https://jisho.org/search/%E4%BF%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "xúc"
+  ]
 }

@@ -15,12 +15,18 @@
       {
         "example": "マサイ麒麟",
         "reading": "マサイキリン",
-        "meaning": "hươu cao cổ Masai (Giraffa camelopardalis tippelskirchii)"
+        "meaning": {
+          "vi": "hươu cao cổ Masai (Giraffa camelopardalis tippelskirchii)"
+        },
+        "romaji": "masaikirin"
       },
       {
         "example": "木麒麟",
         "reading": "モッキリン",
-        "meaning": "cây Barbados (Pereskia aculeata), xương rồng lá, chanh leo"
+        "meaning": {
+          "vi": "cây Barbados (Pereskia aculeata), xương rồng lá, chanh leo"
+        },
+        "romaji": "mokkirin"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e9f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e9f.gif",
     "uri": "https://jisho.org/search/%E9%BA%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "lân"
+  ]
 }

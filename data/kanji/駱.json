@@ -16,12 +16,18 @@
       {
         "example": "絡繹",
         "reading": "ラクエキ",
-        "meaning": "constant (stream of traffic), incessant"
+        "meaning": {
+          "en": "constant (stream of traffic), incessant"
+        },
+        "romaji": "rakueki"
       },
       {
         "example": "駱駝",
         "reading": "ラクダ",
-        "meaning": "camel, camel (cloth), cloth made from camel hair, camel (color), light yellowish brown"
+        "meaning": {
+          "en": "camel, camel (cloth), cloth made from camel hair, camel (color), light yellowish brown"
+        },
+        "romaji": "rakuda"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099f1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99f1.gif",
     "uri": "https://jisho.org/search/%E9%A7%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc"
+  ]
 }

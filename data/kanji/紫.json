@@ -19,44 +19,68 @@
       {
         "example": "紫色",
         "reading": "ムラサキイロ",
-        "meaning": "purple, violet"
+        "meaning": {
+          "vi": "purple, violet"
+        },
+        "romaji": "murasakiiro"
       },
       {
         "example": "紫外線",
         "reading": "シガイセン",
-        "meaning": "ultraviolet rays, ultraviolet radiation"
+        "meaning": {
+          "en": "ultraviolet rays, ultraviolet radiation"
+        },
+        "romaji": "shigaisen"
       },
       {
         "example": "紅紫",
         "reading": "コウシ",
-        "meaning": "crimson and purple, red-purple, magenta"
+        "meaning": {
+          "vi": "crimson and purple, red-purple, magenta"
+        },
+        "romaji": "koushi"
       },
       {
         "example": "九紫",
         "reading": "キュウシ",
-        "meaning": "ninth of nine traditional astrological signs (corresponding to Mars and south)"
+        "meaning": {
+          "vi": "ninth of nine traditional astrological signs (corresponding to Mars and south)"
+        },
+        "romaji": "kyuushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "紫",
         "reading": "むらさき",
-        "meaning": "purple, violet, purple gromwell (Lithospermum erythrorhizon), red gromwell, red-root gromwell, soy sauce"
+        "meaning": {
+          "vi": "purple, violet, purple gromwell (Lithospermum erythrorhizon), red gromwell, red-root gromwell, soy sauce"
+        },
+        "romaji": "murasaki"
       },
       {
         "example": "紫色",
         "reading": "むらさきいろ",
-        "meaning": "purple, violet"
+        "meaning": {
+          "vi": "purple, violet"
+        },
+        "romaji": "murasakiiro"
       },
       {
         "example": "貝紫",
         "reading": "かいむらさき",
-        "meaning": "Tyrian purple"
+        "meaning": {
+          "vi": "Tyrian purple"
+        },
+        "romaji": "kaimurasaki"
       },
       {
         "example": "古代紫",
         "reading": "こだいむらさき",
-        "meaning": "reddish-purple"
+        "meaning": {
+          "vi": "reddish-purple"
+        },
+        "romaji": "kodaimurasaki"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d2b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d2b.gif",
     "uri": "https://jisho.org/search/%E7%B4%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tử"
+  ]
 }

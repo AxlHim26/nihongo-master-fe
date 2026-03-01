@@ -20,39 +20,60 @@
       {
         "example": "岩壁",
         "reading": "ガンペキ",
-        "meaning": "wall of rock, rock cliff, rock face"
+        "meaning": {
+          "en": "wall of rock, rock cliff, rock face"
+        },
+        "romaji": "ganpeki"
       },
       {
         "example": "巌巌とした",
         "reading": "ガンガントシタ",
-        "meaning": "craggy, steep (as of a mountain)"
+        "meaning": {
+          "vi": "craggy, steep (as of a mountain)"
+        },
+        "romaji": "gangantoshita"
       },
       {
         "example": "奇岩",
         "reading": "キガン",
-        "meaning": "strangely shaped large rock, large rock of unusual shape"
+        "meaning": {
+          "vi": "strangely shaped large rock, large rock of unusual shape"
+        },
+        "romaji": "kigan"
       },
       {
         "example": "危岩",
         "reading": "キガン",
-        "meaning": "steep, towering rock"
+        "meaning": {
+          "vi": "steep, towering rock"
+        },
+        "romaji": "kigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "岩",
         "reading": "いわ",
-        "meaning": "rock, boulder, crag"
+        "meaning": {
+          "en": "rock, boulder, crag"
+        },
+        "romaji": "iwa"
       },
       {
         "example": "巌",
         "reading": "いわお",
-        "meaning": "huge rock, massive boulder"
+        "meaning": {
+          "en": "huge rock, massive boulder"
+        },
+        "romaji": "iwao"
       },
       {
         "example": "巌",
         "reading": "いわお",
-        "meaning": "huge rock, massive boulder"
+        "meaning": {
+          "en": "huge rock, massive boulder"
+        },
+        "romaji": "iwao"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dcc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dcc.gif",
     "uri": "https://jisho.org/search/%E5%B7%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "nham"
+  ]
 }

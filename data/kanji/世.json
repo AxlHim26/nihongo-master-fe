@@ -13,121 +13,210 @@
       {
         "japanese": "世紀（せいき）",
         "meaning": {
-          "english": "century"
+          "vi": "thế kỷ",
+          "en": "century"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_a.mp3"
+        },
+        "hanViet": [
+          "thế",
+          "kỉ"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 紀 (kỉ: gỡ mối rối) → thế kỷ",
+          "en": "世 (so: life, in the world) + 紀 (ky: untangle) → century"
         }
       },
       {
         "japanese": "三世（さんせい）",
         "meaning": {
-          "english": "3rd generation"
+          "vi": "thế hệ thứ 3",
+          "en": "3rd generation"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_b.mp3"
+        },
+        "hanViet": [
+          "tam",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 世 (thế: đời, trên đời) → thế hệ thứ 3",
+          "en": "三 (three: three, 3) + 世 (so: life, in the world) → 3rd generation"
         }
       },
       {
         "japanese": "中世（ちゅうせい）",
         "meaning": {
-          "english": "Middle Ages"
+          "vi": "thời trung cổ",
+          "en": "Middle Ages"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_c.mp3"
+        },
+        "hanViet": [
+          "trung",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "中 (trung: ở giữa) + 世 (thế: đời, trên đời) → thời trung cổ",
+          "en": "中 (middle: in the middle) + 世 (so: life, in the world) → medieval"
         }
       },
       {
         "japanese": "世界（せかい）",
         "meaning": {
-          "english": "world"
+          "vi": "thế giới",
+          "en": "world"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_d.mp3"
+        },
+        "hanViet": [
+          "thế",
+          "giới"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 界 (giới: ranh giới, giới hạn) → thế giới",
+          "en": "世 (world: life, in the world) + 界 (world: boundary, limit) → world"
         }
       },
       {
         "japanese": "世間（せけん）",
         "meaning": {
-          "english": "world, society"
+          "vi": "thế giới, xã hội",
+          "en": "world, society"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_e.mp3"
+        },
+        "hanViet": [
+          "thế",
+          "gian"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 間 (gian: khoảng không gian) → thế giới, xã hội",
+          "en": "世 (world: life, in the world) + 間 (space: space) → world, society"
         }
       },
       {
         "japanese": "世代（せだい）",
         "meaning": {
-          "english": "generation"
+          "vi": "thế hệ",
+          "en": "generation"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_f.mp3"
+        },
+        "hanViet": [
+          "thế",
+          "đại"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 代 (đại: triều đại) → thế hệ",
+          "en": "世 (generation: life, in the world) + 代 (dynasty: dynasty) → generation"
         }
       },
       {
         "japanese": "世話（せわ）",
         "meaning": {
-          "english": "assistance"
+          "vi": "hỗ trợ",
+          "en": "assistance"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_g.mp3"
+        },
+        "hanViet": [
+          "thế",
+          "thoại"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 話 (thoại: nói) → hỗ trợ",
+          "en": "世 (so: life, in the world) + 話 (voice: speak) → support"
         }
       },
       {
         "japanese": "出世する（しゅっせする）",
         "meaning": {
-          "english": "get promoted"
+          "vi": "được thăng chức",
+          "en": "get promoted"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_h.mp3"
+        },
+        "hanViet": [
+          "xuý",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "出 (xuý: ra ngoài, đi ra) + 世 (thế: đời, trên đời) → được thăng chức",
+          "en": "出 (súy: go out, go out) + 世 (subsequent: life, in the world) → get promoted"
         }
       },
       {
         "japanese": "世の中（よのなか）",
         "meaning": {
-          "english": "world, society"
+          "vi": "thế giới, xã hội",
+          "en": "world, society"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_i.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_i.mp3"
+        },
+        "hanViet": [
+          "thế",
+          "trung"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 中 (trung: ở giữa) → thế giới, xã hội",
+          "en": "世 (so: life, in the world) + 中 (middle: in the middle) → world, society"
         }
       },
       {
         "japanese": "あの世（あのよ）",
         "meaning": {
-          "english": "world of the dead"
+          "vi": "thế giới của người chết",
+          "en": "world of the dead"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-yo_06_j.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-yo_06_j.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-yo_06_j.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-yo_06_j.mp3"
+        },
+        "hanViet": [
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "thế: đời, trên đời, nối đời nhau, chỗ quen biết cũ",
+          "en": "so: life, in the world, life after life, place of old acquaintances"
         }
       }
     ],
@@ -363,64 +452,205 @@
       {
         "example": "世",
         "reading": "セイ",
-        "meaning": "counter for generations, epoch"
+        "meaning": {
+          "vi": "truy cập cho các thế hệ, kỷ nguyên",
+          "en": "counter for generations, epoch"
+        },
+        "hanViet": [
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "thế: đời, trên đời, nối đời nhau, chỗ quen biết cũ",
+          "en": "so: life, in the world, life after life, place of old acquaintances"
+        },
+        "romaji": "sei"
       },
       {
         "example": "世紀",
         "reading": "セイキ",
-        "meaning": "century, era, of the century (e.g. fight of the century)"
+        "meaning": {
+          "vi": "thế kỷ, thời đại, của thế kỷ (ví dụ: trận chiến của thế kỷ)",
+          "en": "century, era, of the century (e.g. fight of the century)"
+        },
+        "hanViet": [
+          "thế",
+          "kỉ"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 紀 (kỉ: gỡ mối rối) → thế kỷ, thời đại, của thế kỷ (ví dụ: trận chiến của thế kỷ)",
+          "en": "世 (century: life, in the world) + 紀 (century: untangle) → century, era, of the century (for example: battle of the century)"
+        },
+        "romaji": "seiki"
       },
       {
         "example": "近世",
         "reading": "キンセイ",
-        "meaning": "recent past, recent times, early modern period (Azuchi-Momoyama to Edo in Japan)"
+        "meaning": {
+          "vi": "quá khứ gần đây, thời gian gần đây, thời kỳ đầu hiện đại (azuchi-momoyama đến edo ở nhật bản)",
+          "en": "recent past, recent times, early modern period (Azuchi-Momoyama to Edo in Japan)"
+        },
+        "hanViet": [
+          "cấn",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "近 (cấn: gần, bên cạnh) + 世 (thế: đời, trên đời) → quá khứ gần đây, thời gian gần đây, thời kỳ đầu hiện đại (azuchi-momoyama đến edo ở nhật bản)",
+          "en": "近 (can: near, next to) + 世 (so: life, in the world) → recent past, recent times, early modern period (azuchi-momoyama to edo in japan)"
+        },
+        "romaji": "kinsei"
       },
       {
         "example": "創世",
         "reading": "ソウセイ",
-        "meaning": "creation of the world"
+        "meaning": {
+          "vi": "sự sáng tạo của thế giới",
+          "en": "creation of the world"
+        },
+        "hanViet": [
+          "sang",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "創 (sang: đau, bị thương) + 世 (thế: đời, trên đời) → sự sáng tạo của thế giới",
+          "en": "創 (sang: pain, injury) + 世 (so: life, in the world) → creation of the world"
+        },
+        "romaji": "sousei"
       },
       {
         "example": "世",
         "reading": "セイ",
-        "meaning": "counter for generations, epoch"
+        "meaning": {
+          "vi": "truy cập cho các thế hệ, kỷ nguyên",
+          "en": "counter for generations, epoch"
+        },
+        "hanViet": [
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "thế: đời, trên đời, nối đời nhau, chỗ quen biết cũ",
+          "en": "so: life, in the world, life after life, place of old acquaintances"
+        },
+        "romaji": "sei"
       },
       {
         "example": "世紀",
         "reading": "セイキ",
-        "meaning": "century, era, of the century (e.g. fight of the century)"
+        "meaning": {
+          "vi": "thế kỷ, thời đại, của thế kỷ (ví dụ: trận chiến của thế kỷ)",
+          "en": "century, era, of the century (e.g. fight of the century)"
+        },
+        "hanViet": [
+          "thế",
+          "kỉ"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 紀 (kỉ: gỡ mối rối) → thế kỷ, thời đại, của thế kỷ (ví dụ: trận chiến của thế kỷ)",
+          "en": "世 (century: life, in the world) + 紀 (century: untangle) → century, era, of the century (for example: battle of the century)"
+        },
+        "romaji": "seiki"
       },
       {
         "example": "夜店",
         "reading": "ヨミセ",
-        "meaning": "night stall, night shop, night fair"
+        "meaning": {
+          "vi": "quán đêm, quán đêm, hội chợ đêm",
+          "en": "night stall, night shop, night fair"
+        },
+        "hanViet": [
+          "dạ",
+          "điếm"
+        ],
+        "hanVietExplain": {
+          "vi": "夜 (dạ: ban đêm) + 店 (điếm: quán trọ, tiệm hàng) → quán đêm, quán đêm, hội chợ đêm",
+          "en": "夜 (da: night) + 店 (whore: inn, shop) → night shop, night shop, night fair"
+        },
+        "romaji": "yomise"
       },
       {
         "example": "救世",
         "reading": "キュウセイ",
-        "meaning": "salvation"
+        "meaning": {
+          "vi": "sự cứu rỗi",
+          "en": "salvation"
+        },
+        "hanViet": [
+          "cứu",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "救 (cứu: cứu giúp) + 世 (thế: đời, trên đời) → sự cứu rỗi",
+          "en": "救 (save: to help) + 世 (so: life, in the world) → salvation"
+        },
+        "romaji": "kyuusei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "世",
         "reading": "よ",
-        "meaning": "world, society, public, life, lifetime, age, era, period, epoch, generation, reign, rule, the times, world (of existence)"
+        "meaning": {
+          "vi": "thế giới, xã hội, công cộng, cuộc sống, cuộc đời, tuổi tác, thời đại, thời kỳ, kỷ nguyên, thế hệ, triều đại, quy tắc, thời đại, thế giới (tồn tại)",
+          "en": "world, society, public, life, lifetime, age, era, period, epoch, generation, reign, rule, the times, world (of existence)"
+        },
+        "hanViet": [
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "thế: đời, trên đời, nối đời nhau, chỗ quen biết cũ",
+          "en": "so: life, in the world, life after life, place of old acquaintances"
+        },
+        "romaji": "yo"
       },
       {
         "example": "世の中",
         "reading": "よのなか",
-        "meaning": "society, the world, the times"
+        "meaning": {
+          "vi": "xã hội, thế giới, thời đại",
+          "en": "society, the world, the times"
+        },
+        "hanViet": [
+          "thế",
+          "trung"
+        ],
+        "hanVietExplain": {
+          "vi": "世 (thế: đời, trên đời) + 中 (trung: ở giữa) → xã hội, thế giới, thời đại",
+          "en": "世 (so: life, in the world) + 中 (middle: in the middle) → society, world, era"
+        },
+        "romaji": "yononaka"
       },
       {
         "example": "千代",
         "reading": "ちよ",
-        "meaning": "thousand years, very long period, forever"
+        "meaning": {
+          "vi": "ngàn năm, khoảng thời gian rất dài, mãi mãi",
+          "en": "thousand years, very long period, forever"
+        },
+        "hanViet": [
+          "thiên",
+          "đại"
+        ],
+        "hanVietExplain": {
+          "vi": "千 (thiên: nghìn, 1000) + 代 (đại: triều đại) → ngàn năm, khoảng thời gian rất dài, mãi mãi",
+          "en": "千 (thien: thousand, 1000) + 代 (dynasty: dynasty) → thousand years, a very long period of time, forever"
+        },
+        "romaji": "chiyo"
       },
       {
         "example": "君が代",
         "reading": "きみがよ",
-        "meaning": "Imperial reign, Kimigayo (Japanese national anthem)"
+        "meaning": {
+          "vi": "triều đại hoàng gia, kimigayo (quốc ca nhật bản)",
+          "en": "Imperial reign, Kimigayo (Japanese national anthem)"
+        },
+        "hanViet": [
+          "quân",
+          "đại"
+        ],
+        "hanVietExplain": {
+          "vi": "君 (quân: chỉ người con trai) + 代 (đại: triều đại) → triều đại hoàng gia, kimigayo (quốc ca nhật bản)",
+          "en": "君 (quan: refers to a son) + 代 (dynasty: dynasty) → imperial dynasty, kimigayo (national anthem of japan)"
+        },
+        "romaji": "kimigayo"
       }
     ],
     "radical": {
@@ -436,5 +666,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e16.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e16.gif",
     "uri": "https://jisho.org/search/%E4%B8%96%23kanji"
+  },
+  "hanViet": [
+    "thế"
+  ],
+  "hanVietExplain": {
+    "vi": "thế: đời, trên đời, nối đời nhau, chỗ quen biết cũ",
+    "en": "so: life, in the world, life after life, place of old acquaintances"
+  },
+  "meaning": {
+    "vi": "thế giới, thời đại",
+    "en": "world, era"
   }
 }

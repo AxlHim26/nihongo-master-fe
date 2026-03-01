@@ -18,49 +18,76 @@
       {
         "example": "蛙声",
         "reading": "アセイ",
-        "meaning": "sound of frogs croaking"
+        "meaning": {
+          "en": "sound of frogs croaking"
+        },
+        "romaji": "asei"
       },
       {
         "example": "蛙黽",
         "reading": "アボウ",
-        "meaning": "tree frog (toad)"
+        "meaning": {
+          "en": "tree frog (toad)"
+        },
+        "romaji": "abou"
       },
       {
         "example": "井蛙",
         "reading": "セイア",
-        "meaning": "frog in a well, someone with a narrow perspective"
+        "meaning": {
+          "vi": "frog in a well, someone with a narrow perspective"
+        },
+        "romaji": "seia"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛙",
         "reading": "かえる",
-        "meaning": "frog, kajika frog (Buergeria buergeri)"
+        "meaning": {
+          "en": "frog, kajika frog (Buergeria buergeri)"
+        },
+        "romaji": "kaeru"
       },
       {
         "example": "蛙鮟鱇",
         "reading": "かえるあんこう",
-        "meaning": "frogfish (any fish of family Antennariidae, esp. the striated frogfish, Antennarius striatus)"
+        "meaning": {
+          "vi": "frogfish (any fish of family Antennariidae, esp. the striated frogfish, Antennarius striatus)"
+        },
+        "romaji": "kaeruankou"
       },
       {
         "example": "蛙の子は蛙",
         "reading": "かえるのこはかえる",
-        "meaning": "like father, like son, the apple doesn't fall far from the tree, the child of a frog is a frog"
+        "meaning": {
+          "vi": "like father, like son, the apple doesn't fall far from the tree, the child of a frog is a frog"
+        },
+        "romaji": "kaerunokohakaeru"
       },
       {
         "example": "蛙",
         "reading": "かえる",
-        "meaning": "frog, kajika frog (Buergeria buergeri)"
+        "meaning": {
+          "en": "frog, kajika frog (Buergeria buergeri)"
+        },
+        "romaji": "kaeru"
       },
       {
         "example": "蛙狩神事",
         "reading": "かわずがりしんじ",
-        "meaning": "frog hunting ritual"
+        "meaning": {
+          "en": "frog hunting ritual"
+        },
+        "romaji": "kawazugarishinji"
       },
       {
         "example": "井の中の蛙",
         "reading": "いのなかのかわず",
-        "meaning": "person who is ignorant of the real world, frog in a well"
+        "meaning": {
+          "vi": "person who is ignorant of the real world, frog in a well"
+        },
+        "romaji": "inonakanokawazu"
       }
     ],
     "radical": {
@@ -75,5 +102,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86d9.gif",
     "uri": "https://jisho.org/search/%E8%9B%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "oa"
+  ]
 }

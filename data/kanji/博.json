@@ -299,42 +299,66 @@
       {
         "example": "博",
         "reading": "ハク",
-        "meaning": "doctor, PhD, exposition, fair, exhibition"
+        "meaning": {
+          "vi": "doctor, PhD, exposition, fair, exhibition"
+        },
+        "romaji": "haku"
       },
       {
         "example": "博物",
         "reading": "ハクブツ",
-        "meaning": "natural history, wide learning, broad area of learning"
+        "meaning": {
+          "en": "natural history, wide learning, broad area of learning"
+        },
+        "romaji": "hakubutsu"
       },
       {
         "example": "文博",
         "reading": "ブンハク",
-        "meaning": "doctor of literature"
+        "meaning": {
+          "en": "doctor of literature"
+        },
+        "romaji": "bunhaku"
       },
       {
         "example": "医博",
         "reading": "イハク",
-        "meaning": "doctor of medicine, MD"
+        "meaning": {
+          "en": "doctor of medicine, MD"
+        },
+        "romaji": "ihaku"
       },
       {
         "example": "博",
         "reading": "ハク",
-        "meaning": "doctor, PhD, exposition, fair, exhibition"
+        "meaning": {
+          "vi": "doctor, PhD, exposition, fair, exhibition"
+        },
+        "romaji": "haku"
       },
       {
         "example": "博徒",
         "reading": "バクト",
-        "meaning": "gambler"
+        "meaning": {
+          "en": "gambler"
+        },
+        "romaji": "bakuto"
       },
       {
         "example": "賭博",
         "reading": "トバク",
-        "meaning": "gambling"
+        "meaning": {
+          "en": "gambling"
+        },
+        "romaji": "tobaku"
       },
       {
         "example": "伝助賭博",
         "reading": "デンスケトバク",
-        "meaning": "deceptive betting game (such as the shell game), street fraud, trickery, densuke, roulette-like deceptive street gambling"
+        "meaning": {
+          "vi": "deceptive betting game (such as the shell game), street fraud, trickery, densuke, roulette-like deceptive street gambling"
+        },
+        "romaji": "densuketobaku"
       }
     ],
     "kunyomiExamples": [],
@@ -352,5 +376,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0535a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/535a.gif",
     "uri": "https://jisho.org/search/%E5%8D%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bác"
+  ]
 }

@@ -296,22 +296,34 @@
       {
         "example": "臓",
         "reading": "ゾウ",
-        "meaning": "viscera, bowels"
+        "meaning": {
+          "en": "viscera, bowels"
+        },
+        "romaji": "zou"
       },
       {
         "example": "臓器",
         "reading": "ゾウキ",
-        "meaning": "internal organs, viscera"
+        "meaning": {
+          "en": "internal organs, viscera"
+        },
+        "romaji": "zouki"
       },
       {
         "example": "膵臓",
         "reading": "スイゾウ",
-        "meaning": "pancreas"
+        "meaning": {
+          "vi": "pancreas"
+        },
+        "romaji": "suizou"
       },
       {
         "example": "肝膵臓",
         "reading": "カンスイゾウ",
-        "meaning": "hepatopancreas"
+        "meaning": {
+          "vi": "hepatopancreas"
+        },
+        "romaji": "kansuizou"
       }
     ],
     "kunyomiExamples": [],
@@ -334,5 +346,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d3.gif",
     "uri": "https://jisho.org/search/%E8%87%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "tạng"
+  ]
 }

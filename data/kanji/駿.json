@@ -19,27 +19,42 @@
       {
         "example": "俊足",
         "reading": "シュンソク",
-        "meaning": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
+        "meaning": {
+          "vi": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
+        },
+        "romaji": "shunsoku"
       },
       {
         "example": "俊才",
         "reading": "シュンサイ",
-        "meaning": "prodigy, talented person, person of exceptional talent, genius"
+        "meaning": {
+          "vi": "prodigy, talented person, person of exceptional talent, genius"
+        },
+        "romaji": "shunsai"
       },
       {
         "example": "優駿",
         "reading": "ユウシュン",
-        "meaning": "fine racehorse"
+        "meaning": {
+          "en": "fine racehorse"
+        },
+        "romaji": "yuushun"
       },
       {
         "example": "駿豆",
         "reading": "スンズ",
-        "meaning": "Suruga and Izu (provinces)"
+        "meaning": {
+          "vi": "Suruga and Izu (provinces)"
+        },
+        "romaji": "sunzu"
       },
       {
         "example": "駿台電子情報専門学校",
         "reading": "スンダイデンシジョウホウセンモンガッコウ",
-        "meaning": "Sundai Computer College"
+        "meaning": {
+          "vi": "Sundai Computer College"
+        },
+        "romaji": "sundaidenshijouhousenmongakkou"
       }
     ],
     "kunyomiExamples": [],
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ff.gif",
     "uri": "https://jisho.org/search/%E9%A7%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuấn"
+  ]
 }

@@ -351,34 +351,52 @@
       {
         "example": "小",
         "reading": "ショウ",
-        "meaning": "smallness, small item, short month (i.e. having fewer than 31 days), elementary school, smaller (of two things, places, etc. with the same name), inferior, younger (of two people with the same name), junior, unit of field area (approx. 400 sq m)"
+        "meaning": {
+          "vi": "smallness, small item, short month (i.e. having fewer than 31 days), elementary school, smaller (of two things, places, etc. with the same name), inferior, younger (of two people with the same name), junior, unit of field area (approx. 400 sq m)"
+        },
+        "romaji": "shou"
       },
       {
         "example": "小雨",
         "reading": "コサメ",
-        "meaning": "light rain, drizzle"
+        "meaning": {
+          "en": "light rain, drizzle"
+        },
+        "romaji": "kosame"
       },
       {
         "example": "微小",
         "reading": "ビショウ",
-        "meaning": "microscopic"
+        "meaning": {
+          "vi": "microscopic"
+        },
+        "romaji": "bishou"
       },
       {
         "example": "中小",
         "reading": "チュウショウ",
-        "meaning": "small and medium"
+        "meaning": {
+          "en": "small and medium"
+        },
+        "romaji": "chuushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "小さい",
         "reading": "ちいさい",
-        "meaning": "small, little, tiny, slight, below average (in degree, amount, etc.), minor, small, low (e.g. sound), soft (e.g. voice), unimportant, petty, insignificant, trifling, trivial, young, juvenile"
+        "meaning": {
+          "vi": "small, little, tiny, slight, below average (in degree, amount, etc.), minor, small, low (e.g. sound), soft (e.g. voice), unimportant, petty, insignificant, trifling, trivial, young, juvenile"
+        },
+        "romaji": "chiisai"
       },
       {
         "example": "小さい頃",
         "reading": "ちいさいころ",
-        "meaning": "as a child, when one was a child"
+        "meaning": {
+          "en": "as a child, when one was a child"
+        },
+        "romaji": "chiisaikoro"
       }
     ],
     "radical": {
@@ -392,5 +410,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0f.gif",
     "uri": "https://jisho.org/search/%E5%B0%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiểu"
+  ]
 }

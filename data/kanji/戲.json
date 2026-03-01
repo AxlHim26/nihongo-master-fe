@@ -18,7 +18,10 @@
       {
         "example": "戯言",
         "reading": "ギゲン",
-        "meaning": "joke, jest"
+        "meaning": {
+          "en": "joke, jest"
+        },
+        "romaji": "gigen"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06232.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6232.gif",
     "uri": "https://jisho.org/search/%E6%88%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hi",
+    "huy",
+    "hí",
+    "hô",
+    "hý"
+  ]
 }

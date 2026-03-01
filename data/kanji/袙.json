@@ -18,7 +18,10 @@
       {
         "example": "衵",
         "reading": "あこめ",
-        "meaning": "layer of clothing worn by nobles (worn beneath the robe but over the undergarments)"
+        "meaning": {
+          "en": "layer of clothing worn by nobles (worn beneath the robe but over the undergarments)"
+        },
+        "romaji": "akome"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08899.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8899.gif",
     "uri": "https://jisho.org/search/%E8%A2%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạt"
+  ]
 }

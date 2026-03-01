@@ -19,29 +19,44 @@
       {
         "example": "邦楽",
         "reading": "ホウガク",
-        "meaning": "Japanese music (esp. traditional Japanese music)"
+        "meaning": {
+          "vi": "Japanese music (esp. traditional Japanese music)"
+        },
+        "romaji": "hougaku"
       },
       {
         "example": "邦画",
         "reading": "ホウガ",
-        "meaning": "Japanese film, Japanese painting"
+        "meaning": {
+          "vi": "Japanese film, Japanese painting"
+        },
+        "romaji": "houga"
       },
       {
         "example": "東邦",
         "reading": "トウホウ",
-        "meaning": "Oriental country, the Orient"
+        "meaning": {
+          "en": "Oriental country, the Orient"
+        },
+        "romaji": "touhou"
       },
       {
         "example": "友邦",
         "reading": "ユウホウ",
-        "meaning": "friendly nation"
+        "meaning": {
+          "en": "friendly nation"
+        },
+        "romaji": "yuuhou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "国",
         "reading": "くに",
-        "meaning": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"
+        "meaning": {
+          "vi": "country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth"
+        },
+        "romaji": "kuni"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90a6.gif",
     "uri": "https://jisho.org/search/%E9%82%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "bang"
+  ]
 }

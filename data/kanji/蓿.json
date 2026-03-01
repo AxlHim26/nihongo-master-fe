@@ -14,7 +14,10 @@
       {
         "example": "馬肥やし",
         "reading": "ウマゴヤシ",
-        "meaning": "toothed medick (Medicago polymorpha), hairy medick, bur clover, white clover (Trifolium repens)"
+        "meaning": {
+          "vi": "toothed medick (Medicago polymorpha), hairy medick, bur clover, white clover (Trifolium repens)"
+        },
+        "romaji": "umagoyashi"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ff.gif",
     "uri": "https://jisho.org/search/%E8%93%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "túc"
+  ]
 }

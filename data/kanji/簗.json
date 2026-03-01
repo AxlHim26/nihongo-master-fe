@@ -18,7 +18,10 @@
       {
         "example": "梁",
         "reading": "やな",
-        "meaning": "(fish) weir, fish trap"
+        "meaning": {
+          "vi": "(fish) weir, fish trap"
+        },
+        "romaji": "yana"
       }
     ],
     "radical": {
@@ -40,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c17.gif",
     "uri": "https://jisho.org/search/%E7%B0%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "trúc"
+  ]
 }

@@ -16,7 +16,10 @@
       {
         "example": "隗より始めよ",
         "reading": "カイヨリハジメヨ",
-        "meaning": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
+        "meaning": {
+          "vi": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
+        },
+        "romaji": "kaiyorihajimeyo"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09697.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9697.gif",
     "uri": "https://jisho.org/search/%E9%9A%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngôi",
+    "ngỗi"
+  ]
 }

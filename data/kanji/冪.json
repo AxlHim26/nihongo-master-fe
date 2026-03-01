@@ -14,22 +14,34 @@
       {
         "example": "冪",
         "reading": "ベキ",
-        "meaning": "exponent, power"
+        "meaning": {
+          "vi": "exponent, power"
+        },
+        "romaji": "beki"
       },
       {
         "example": "べき級数",
         "reading": "ベキキュウスウ",
-        "meaning": "power series"
+        "meaning": {
+          "vi": "power series"
+        },
+        "romaji": "bekikyuusuu"
       },
       {
         "example": "降冪",
         "reading": "コウベキ",
-        "meaning": "descending powers"
+        "meaning": {
+          "vi": "descending powers"
+        },
+        "romaji": "koubeki"
       },
       {
         "example": "昇冪",
         "reading": "ショウベキ",
-        "meaning": "ascending powers"
+        "meaning": {
+          "vi": "ascending powers"
+        },
+        "romaji": "shoubeki"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51aa.gif",
     "uri": "https://jisho.org/search/%E5%86%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạc",
+    "mịch"
+  ]
 }

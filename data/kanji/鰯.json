@@ -15,22 +15,34 @@
       {
         "example": "鰯",
         "reading": "いわし",
-        "meaning": "pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine"
+        "meaning": {
+          "vi": "pilchard (esp. Japanese pilchard, Sardinops melanostictus), sardine"
+        },
+        "romaji": "iwashi"
       },
       {
         "example": "鰯滓",
         "reading": "いわしかす",
-        "meaning": "fish cake (made from sardines, used as a fertilizer), sardine meal"
+        "meaning": {
+          "en": "fish cake (made from sardines, used as a fertilizer), sardine meal"
+        },
+        "romaji": "iwashikasu"
       },
       {
         "example": "藤五郎鰯",
         "reading": "とうごろういわし",
-        "meaning": "flathead silverside (Hypoatherina valenciennei)"
+        "meaning": {
+          "vi": "flathead silverside (Hypoatherina valenciennei)"
+        },
+        "romaji": "tougorouiwashi"
       },
       {
         "example": "赤鰯",
         "reading": "あかいわし",
-        "meaning": "pickled sardines, dried sardines, red sardines, rusty and blunt sword"
+        "meaning": {
+          "vi": "pickled sardines, dried sardines, red sardines, rusty and blunt sword"
+        },
+        "romaji": "akaiwashi"
       }
     ],
     "radical": {
@@ -48,5 +60,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c2f.gif",
     "uri": "https://jisho.org/search/%E9%B0%AF%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

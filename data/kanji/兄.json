@@ -275,54 +275,84 @@
       {
         "example": "兄",
         "reading": "ケイ",
-        "meaning": "you, Mr, Mister, older brother, elder brother"
+        "meaning": {
+          "en": "you, Mr, Mister, older brother, elder brother"
+        },
+        "romaji": "kei"
       },
       {
         "example": "兄弟",
         "reading": "キョウダイ",
-        "meaning": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+        "meaning": {
+          "en": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+        },
+        "romaji": "kyoudai"
       },
       {
         "example": "実兄",
         "reading": "ジッケイ",
-        "meaning": "biological older brother"
+        "meaning": {
+          "en": "biological older brother"
+        },
+        "romaji": "jikkei"
       },
       {
         "example": "父兄",
         "reading": "フケイ",
-        "meaning": "guardians, parents, father and older brother"
+        "meaning": {
+          "vi": "guardians, parents, father and older brother"
+        },
+        "romaji": "fukei"
       },
       {
         "example": "兄弟",
         "reading": "キョウダイ",
-        "meaning": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+        "meaning": {
+          "en": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+        },
+        "romaji": "kyoudai"
       },
       {
         "example": "兄姉",
         "reading": "ケイシ",
-        "meaning": "older brother and older sister"
+        "meaning": {
+          "en": "older brother and older sister"
+        },
+        "romaji": "keishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兄",
         "reading": "あに",
-        "meaning": "older brother, elder brother, brother-in-law (spouse's older brother or older sister's husband)"
+        "meaning": {
+          "vi": "older brother, elder brother, brother-in-law (spouse's older brother or older sister's husband)"
+        },
+        "romaji": "ani"
       },
       {
         "example": "兄貴",
         "reading": "あにき",
-        "meaning": "elder brother, one's senior, older man, man older than oneself"
+        "meaning": {
+          "en": "elder brother, one's senior, older man, man older than oneself"
+        },
+        "romaji": "aniki"
       },
       {
         "example": "中の兄",
         "reading": "なかのあに",
-        "meaning": "middle brother"
+        "meaning": {
+          "en": "middle brother"
+        },
+        "romaji": "nakanoani"
       },
       {
         "example": "義理の兄",
         "reading": "ぎりのあに",
-        "meaning": "one's brother-in-law, stepbrother (elder)"
+        "meaning": {
+          "vi": "one's brother-in-law, stepbrother (elder)"
+        },
+        "romaji": "girinoani"
       }
     ],
     "radical": {
@@ -337,5 +367,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05144.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5144.gif",
     "uri": "https://jisho.org/search/%E5%85%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "huynh",
+    "huống"
+  ]
 }

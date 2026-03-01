@@ -305,54 +305,84 @@
       {
         "example": "壊滅",
         "reading": "カイメツ",
-        "meaning": "(complete) destruction, annihilation, devastation"
+        "meaning": {
+          "vi": "(complete) destruction, annihilation, devastation"
+        },
+        "romaji": "kaimetsu"
       },
       {
         "example": "壊血病",
         "reading": "カイケツビョウ",
-        "meaning": "scurvy"
+        "meaning": {
+          "en": "scurvy"
+        },
+        "romaji": "kaiketsubyou"
       },
       {
         "example": "損壊",
         "reading": "ソンカイ",
-        "meaning": "damage, destruction"
+        "meaning": {
+          "en": "damage, destruction"
+        },
+        "romaji": "sonkai"
       },
       {
         "example": "全壊",
         "reading": "ゼンカイ",
-        "meaning": "complete destruction"
+        "meaning": {
+          "vi": "complete destruction"
+        },
+        "romaji": "zenkai"
       },
       {
         "example": "壊死",
         "reading": "エシ",
-        "meaning": "necrosis"
+        "meaning": {
+          "en": "necrosis"
+        },
+        "romaji": "eshi"
       },
       {
         "example": "壊劫",
         "reading": "エコウ",
-        "meaning": "the kalpa of destruction (the third aeon of the universe)"
+        "meaning": {
+          "vi": "the kalpa of destruction (the third aeon of the universe)"
+        },
+        "romaji": "ekou"
       },
       {
         "example": "不壊",
         "reading": "フエ",
-        "meaning": "indestructibility"
+        "meaning": {
+          "en": "indestructibility"
+        },
+        "romaji": "fue"
       },
       {
         "example": "金剛不壊",
         "reading": "コンゴウフエ",
-        "meaning": "firm and solid, sturdy and indestructible, unshakable, adamantine"
+        "meaning": {
+          "en": "firm and solid, sturdy and indestructible, unshakable, adamantine"
+        },
+        "romaji": "kongoufue"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "壊す",
         "reading": "こわす",
-        "meaning": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+        "meaning": {
+          "vi": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+        },
+        "romaji": "kowasu"
       },
       {
         "example": "壊れる",
         "reading": "こわれる",
-        "meaning": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"
+        "meaning": {
+          "vi": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"
+        },
+        "romaji": "kowareru"
       }
     ],
     "radical": {
@@ -370,5 +400,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ca.gif",
     "uri": "https://jisho.org/search/%E5%A3%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bôi",
+    "bùi",
+    "hoại",
+    "khôi",
+    "nhưỡng",
+    "phôi"
+  ]
 }

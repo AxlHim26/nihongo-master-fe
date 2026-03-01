@@ -405,89 +405,140 @@
       {
         "example": "子",
         "reading": "シ",
-        "meaning": "con (nhất là con trai), tước tử, người sáng lập trường phái (như Khổng Tử), thầy, bạn, -er (người chuyên làm...)"
+        "meaning": {
+          "vi": "con (nhất là con trai), tước tử, người sáng lập trường phái (như Khổng Tử), thầy, bạn, -er (người chuyên làm...)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "子宮",
         "reading": "シキュウ",
-        "meaning": "tử cung"
+        "meaning": {
+          "vi": "tử cung"
+        },
+        "romaji": "shikyuu"
       },
       {
         "example": "中性子",
         "reading": "チュウセイシ",
-        "meaning": "nơtron"
+        "meaning": {
+          "vi": "nơtron"
+        },
+        "romaji": "chuuseishi"
       },
       {
         "example": "精子",
         "reading": "セイシ",
-        "meaning": "tinh trùng"
+        "meaning": {
+          "vi": "tinh trùng"
+        },
+        "romaji": "seishi"
       },
       {
         "example": "主",
         "reading": "ス",
-        "meaning": "hậu tố kính trọng hoặc thân mật sau tên"
+        "meaning": {
+          "vi": "hậu tố kính trọng hoặc thân mật sau tên"
+        },
+        "romaji": "su"
       },
       {
         "example": "恵比寿",
         "reading": "エビス",
-        "meaning": "Ebisu, thần câu cá và thương mại"
+        "meaning": {
+          "vi": "Ebisu, thần câu cá và thương mại"
+        },
+        "romaji": "ebisu"
       },
       {
         "example": "久留子",
         "reading": "クルス",
-        "meaning": "dấu thập"
+        "meaning": {
+          "vi": "dấu thập"
+        },
+        "romaji": "kurusu"
       },
       {
         "example": "対子",
         "reading": "トイツ",
-        "meaning": "đôi, cặp mắt (trong mạt chược)"
+        "meaning": {
+          "vi": "đôi, cặp mắt (trong mạt chược)"
+        },
+        "romaji": "toitsu"
       },
       {
         "example": "七対子",
         "reading": "チートイツ",
-        "meaning": "bảy đôi, bài thắng gồm bảy cặp"
+        "meaning": {
+          "vi": "bảy đôi, bài thắng gồm bảy cặp"
+        },
+        "romaji": "chiitoitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "子",
         "reading": "こ",
-        "meaning": "con, trẻ em, thanh thiếu niên, con cái, con non, chồi non, lãi, cổ phần mới, người chơi không phải nhà cái, geisha trẻ, trứng chim, -er (thường chỉ phụ nữ trẻ)"
+        "meaning": {
+          "vi": "con, trẻ em, thanh thiếu niên, con cái, con non, chồi non, lãi, cổ phần mới, người chơi không phải nhà cái, geisha trẻ, trứng chim, -er (thường chỉ phụ nữ trẻ)"
+        },
+        "romaji": "ko"
       },
       {
         "example": "子",
         "reading": "こう",
-        "meaning": "con, lãi"
+        "meaning": {
+          "vi": "con, lãi"
+        },
+        "romaji": "kou"
       },
       {
         "example": "根っこ",
         "reading": "ねっこ",
-        "meaning": "rễ cây, gốc cây, gốc rễ (vấn đề), nền tảng, nguồn gốc"
+        "meaning": {
+          "vi": "rễ cây, gốc cây, gốc rễ (vấn đề), nền tảng, nguồn gốc"
+        },
+        "romaji": "nekko"
       },
       {
         "example": "江戸っ子",
         "reading": "えどっこ",
-        "meaning": "người Tokyo chính gốc, dân Edo"
+        "meaning": {
+          "vi": "người Tokyo chính gốc, dân Edo"
+        },
+        "romaji": "edokko"
       },
       {
         "example": "子",
         "reading": "ね",
-        "meaning": "chi Tý (con giáp đầu), giờ Tý (khoảng nửa đêm), hướng bắc, tháng 11 âm lịch"
+        "meaning": {
+          "vi": "chi Tý (con giáp đầu), giờ Tý (khoảng nửa đêm), hướng bắc, tháng 11 âm lịch"
+        },
+        "romaji": "ne"
       },
       {
         "example": "子忌み",
         "reading": "ねいみ",
-        "meaning": "hái thuốc và nhổ thông non (sự kiện hàng năm vào ngày Tý đầu năm)"
+        "meaning": {
+          "vi": "hái thuốc và nhổ thông non (sự kiện hàng năm vào ngày Tý đầu năm)"
+        },
+        "romaji": "neimi"
       },
       {
         "example": "庚子",
         "reading": "かのえね",
-        "meaning": "Canh Tý (chi thứ 37 trong lục thập hoa giáp, ví dụ 1960, 2020, 2080)"
+        "meaning": {
+          "vi": "Canh Tý (chi thứ 37 trong lục thập hoa giáp, ví dụ 1960, 2020, 2080)"
+        },
+        "romaji": "kanoene"
       },
       {
         "example": "甲子",
         "reading": "きのえね",
-        "meaning": "Giáp Tý (chi thứ nhất trong lục thập hoa giáp, ví dụ 1924, 1984, 2044)"
+        "meaning": {
+          "vi": "Giáp Tý (chi thứ nhất trong lục thập hoa giáp, ví dụ 1924, 1984, 2044)"
+        },
+        "romaji": "kinoene"
       }
     ],
     "radical": {
@@ -501,5 +552,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b50.gif",
     "uri": "https://jisho.org/search/%E5%AD%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "tí",
+    "tý",
+    "tử"
+  ]
 }

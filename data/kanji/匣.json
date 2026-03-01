@@ -16,24 +16,36 @@
       {
         "example": "鏡匣",
         "reading": "キョウコウ",
-        "meaning": "mirror case"
+        "meaning": {
+          "en": "mirror case"
+        },
+        "romaji": "kyoukou"
       },
       {
         "example": "印箱",
         "reading": "インバコ",
-        "meaning": "seal (stamp) box"
+        "meaning": {
+          "vi": "seal (stamp) box"
+        },
+        "romaji": "inbako"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "箱",
         "reading": "はこ",
-        "meaning": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        "meaning": {
+          "vi": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        },
+        "romaji": "hako"
       },
       {
         "example": "パンドラの箱",
         "reading": "パンドラのはこ",
-        "meaning": "Pandora's box"
+        "meaning": {
+          "vi": "Pandora's box"
+        },
+        "romaji": "pandoranohako"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05323.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5323.gif",
     "uri": "https://jisho.org/search/%E5%8C%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạp"
+  ]
 }

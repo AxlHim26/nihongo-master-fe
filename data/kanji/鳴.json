@@ -324,49 +324,76 @@
       {
         "example": "鳴管",
         "reading": "メイカン",
-        "meaning": "syrinx (part of a bird), lower larynx"
+        "meaning": {
+          "vi": "syrinx (part of a bird), lower larynx"
+        },
+        "romaji": "meikan"
       },
       {
         "example": "鳴禽",
         "reading": "メイキン",
-        "meaning": "songbird, oscine"
+        "meaning": {
+          "en": "songbird, oscine"
+        },
+        "romaji": "meikin"
       },
       {
         "example": "百家争鳴",
         "reading": "ヒャッカソウメイ",
-        "meaning": "let a hundred schools of thought contend"
+        "meaning": {
+          "en": "let a hundred schools of thought contend"
+        },
+        "romaji": "hyakkasoumei"
       },
       {
         "example": "蛙鳴",
         "reading": "アメイ",
-        "meaning": "frog calling"
+        "meaning": {
+          "en": "frog calling"
+        },
+        "romaji": "amei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳴く",
         "reading": "なく",
-        "meaning": "to make sound (of an animal), to call, to cry, to whine, to sing, to chirp, to make a meld call (e.g. pung, kong)"
+        "meaning": {
+          "vi": "to make sound (of an animal), to call, to cry, to whine, to sing, to chirp, to make a meld call (e.g. pung, kong)"
+        },
+        "romaji": "naku"
       },
       {
         "example": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
         "reading": "なくせみよりもなかぬほたるがみをこがす",
-        "meaning": "empty vessels make the most noise, the silent firefly burns with more passion than the crying cicada"
+        "meaning": {
+          "vi": "empty vessels make the most noise, the silent firefly burns with more passion than the crying cicada"
+        },
+        "romaji": "nakusemiyorimonakanuhotarugamiwokogasu"
       },
       {
         "example": "鳴る",
         "reading": "なる",
-        "meaning": "to sound, to ring, to resound, to echo, to roar, to rumble"
+        "meaning": {
+          "en": "to sound, to ring, to resound, to echo, to roar, to rumble"
+        },
+        "romaji": "naru"
       },
       {
         "example": "鳴門",
         "reading": "なると",
-        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        "meaning": {
+          "vi": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        },
+        "romaji": "naruto"
       },
       {
         "example": "鳴らす",
         "reading": "ならす",
-        "meaning": "to ring, to sound, to chime, to beat, to snort (nose), to snap (fingers), to crack (joints), to be popular, to be esteemed, to be reputed, to state, to insist, to complain, to fart (loudly)"
+        "meaning": {
+          "vi": "to ring, to sound, to chime, to beat, to snort (nose), to snap (fingers), to crack (joints), to be popular, to be esteemed, to be reputed, to state, to insist, to complain, to fart (loudly)"
+        },
+        "romaji": "narasu"
       }
     ],
     "radical": {
@@ -382,5 +409,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf4.gif",
     "uri": "https://jisho.org/search/%E9%B3%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "minh",
+    "ô"
+  ]
 }

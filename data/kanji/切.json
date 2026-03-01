@@ -395,79 +395,124 @@
       {
         "example": "切",
         "reading": "セツ",
-        "meaning": "tha thiết, nhiệt thành, tử tế, sắc sảo, TẮT (công tắc)"
+        "meaning": {
+          "vi": "tha thiết, nhiệt thành, tử tế, sắc sảo, TẮT (công tắc)"
+        },
+        "romaji": "setsu"
       },
       {
         "example": "切実",
         "reading": "セツジツ",
-        "meaning": "chân thành, khẩn thiết, nghiêm trọng, thích đáng"
+        "meaning": {
+          "vi": "chân thành, khẩn thiết, nghiêm trọng, thích đáng"
+        },
+        "romaji": "setsujitsu"
       },
       {
         "example": "懇切",
         "reading": "コンセツ",
-        "meaning": "tử tế, cẩn thận, chu đáo, chi tiết"
+        "meaning": {
+          "vi": "tử tế, cẩn thận, chu đáo, chi tiết"
+        },
+        "romaji": "konsetsu"
       },
       {
         "example": "哀切",
         "reading": "アイセツ",
-        "meaning": "bi thương, ai oán"
+        "meaning": {
+          "vi": "bi thương, ai oán"
+        },
+        "romaji": "aisetsu"
       },
       {
         "example": "家財一切",
         "reading": "カザイイッサイ",
-        "meaning": "toàn bộ đồ gia dụng"
+        "meaning": {
+          "vi": "toàn bộ đồ gia dụng"
+        },
+        "romaji": "kazaiissai"
       },
       {
         "example": "費用一切",
         "reading": "ヒヨウイッサイ",
-        "meaning": "tất cả chi phí"
+        "meaning": {
+          "vi": "tất cả chi phí"
+        },
+        "romaji": "hiyouissai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "切る",
         "reading": "きる",
-        "meaning": "cắt, cắt đứt, tắt (đèn), ngắt (cuộc gọi), đấm vé, giảm giá, phê bình sắc, quyết đoán, xào bài, sa thải, làm hoàn toàn"
+        "meaning": {
+          "vi": "cắt, cắt đứt, tắt (đèn), ngắt (cuộc gọi), đấm vé, giảm giá, phê bình sắc, quyết đoán, xào bài, sa thải, làm hoàn toàn"
+        },
+        "romaji": "kiru"
       },
       {
         "example": "切り",
         "reading": "きり",
-        "meaning": "kết thúc, giới hạn, hạn giao, lá bài chủ, đếm lát (cá, thịt), chỉ, từ khi, còn lại"
+        "meaning": {
+          "vi": "kết thúc, giới hạn, hạn giao, lá bài chủ, đếm lát (cá, thịt), chỉ, từ khi, còn lại"
+        },
+        "romaji": "kiri"
       },
       {
         "example": "切り替え",
         "reading": "きりかえ",
-        "meaning": "đổi, chuyển đổi, thay thế"
+        "meaning": {
+          "vi": "đổi, chuyển đổi, thay thế"
+        },
+        "romaji": "kirikae"
       },
       {
         "example": "爪切り",
         "reading": "つめきり",
-        "meaning": "kéo cắt móng"
+        "meaning": {
+          "vi": "kéo cắt móng"
+        },
+        "romaji": "tsumekiri"
       },
       {
         "example": "押し切り",
         "reading": "おしきり",
-        "meaning": "máy cắt rơm, bờm ngắn"
+        "meaning": {
+          "vi": "máy cắt rơm, bờm ngắn"
+        },
+        "romaji": "oshikiri"
       },
       {
         "example": "切れる",
         "reading": "きれる",
-        "meaning": "đứt, vỡ, hết hạn, hết hàng, cắt đứt quan hệ, sắc, thông minh, thiếu, phá kỷ lục, tức giận, làm hoàn toàn"
+        "meaning": {
+          "vi": "đứt, vỡ, hết hạn, hết hàng, cắt đứt quan hệ, sắc, thông minh, thiếu, phá kỷ lục, tức giận, làm hoàn toàn"
+        },
+        "romaji": "kireru"
       },
       {
         "example": "切れ",
         "reading": "きれ",
-        "meaning": "miếng, lát, vải, độ sắc, đếm miếng"
+        "meaning": {
+          "vi": "miếng, lát, vải, độ sắc, đếm miếng"
+        },
+        "romaji": "kire"
       },
       {
         "example": "切れ味",
         "reading": "きれあじ",
-        "meaning": "độ sắc, sự nhanh trí, kỹ năng"
+        "meaning": {
+          "vi": "độ sắc, sự nhanh trí, kỹ năng"
+        },
+        "romaji": "kireaji"
       },
       {
         "example": "布切れ",
         "reading": "ぬのきれ",
-        "meaning": "miếng vải"
+        "meaning": {
+          "vi": "miếng vải"
+        },
+        "romaji": "nunokire"
       }
     ],
     "radical": {
@@ -485,5 +530,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05207.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5207.gif",
     "uri": "https://jisho.org/search/%E5%88%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiết",
+    "thế"
+  ]
 }

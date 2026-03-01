@@ -17,22 +17,34 @@
       {
         "example": "寡",
         "reading": "カ",
-        "meaning": "minority, small numbers, unmarried person, widow, widower"
+        "meaning": {
+          "vi": "minority, small numbers, unmarried person, widow, widower"
+        },
+        "romaji": "ka"
       },
       {
         "example": "寡婦",
         "reading": "カフ",
-        "meaning": "widow, divorced woman not remarried, unmarried woman"
+        "meaning": {
+          "en": "widow, divorced woman not remarried, unmarried woman"
+        },
+        "romaji": "kafu"
       },
       {
         "example": "多寡",
         "reading": "タカ",
-        "meaning": "degree (of something), greatness or smallness (of something), quantity, number, amount, size"
+        "meaning": {
+          "en": "degree (of something), greatness or smallness (of something), quantity, number, amount, size"
+        },
+        "romaji": "taka"
       },
       {
         "example": "鰥寡",
         "reading": "カンカ",
-        "meaning": "widow and widower, lonely people"
+        "meaning": {
+          "vi": "widow and widower, lonely people"
+        },
+        "romaji": "kanka"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be1.gif",
     "uri": "https://jisho.org/search/%E5%AF%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "quả"
+  ]
 }

@@ -22,54 +22,84 @@
       {
         "example": "採餌",
         "reading": "サイジ",
-        "meaning": "feeding (by animals), food getting"
+        "meaning": {
+          "en": "feeding (by animals), food getting"
+        },
+        "romaji": "saiji"
       },
       {
         "example": "好餌",
         "reading": "コウジ",
-        "meaning": "bait, decoy, lure, easy prey, easy victim, sucker"
+        "meaning": {
+          "vi": "bait, decoy, lure, easy prey, easy victim, sucker"
+        },
+        "romaji": "kouji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "餌",
         "reading": "えさ",
-        "meaning": "(animal) feed, fodder, pet food, bait, lure, enticement"
+        "meaning": {
+          "vi": "(animal) feed, fodder, pet food, bait, lure, enticement"
+        },
+        "romaji": "esa"
       },
       {
         "example": "餌場",
         "reading": "えさば",
-        "meaning": "feeding ground"
+        "meaning": {
+          "en": "feeding ground"
+        },
+        "romaji": "esaba"
       },
       {
         "example": "撒き餌",
         "reading": "まきえ",
-        "meaning": "scattered animal feed, ground bait"
+        "meaning": {
+          "en": "scattered animal feed, ground bait"
+        },
+        "romaji": "makie"
       },
       {
         "example": "毒餌",
         "reading": "どくえ",
-        "meaning": "poisonous bait"
+        "meaning": {
+          "vi": "poisonous bait"
+        },
+        "romaji": "dokue"
       },
       {
         "example": "餌",
         "reading": "えさ",
-        "meaning": "(animal) feed, fodder, pet food, bait, lure, enticement"
+        "meaning": {
+          "vi": "(animal) feed, fodder, pet food, bait, lure, enticement"
+        },
+        "romaji": "esa"
       },
       {
         "example": "餌場",
         "reading": "えさば",
-        "meaning": "feeding ground"
+        "meaning": {
+          "en": "feeding ground"
+        },
+        "romaji": "esaba"
       },
       {
         "example": "釣り餌",
         "reading": "つりえ",
-        "meaning": "bait (for fishing)"
+        "meaning": {
+          "en": "bait (for fishing)"
+        },
+        "romaji": "tsurie"
       },
       {
         "example": "練り餌",
         "reading": "ねりえ",
-        "meaning": "paste bird feed, paste fishing bait"
+        "meaning": {
+          "vi": "paste bird feed, paste fishing bait"
+        },
+        "romaji": "nerie"
       }
     ],
     "radical": {
@@ -88,5 +118,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0990c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/990c.gif",
     "uri": "https://jisho.org/search/%E9%A4%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhĩ",
+    "nhị"
+  ]
 }

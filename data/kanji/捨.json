@@ -267,34 +267,52 @@
       {
         "example": "捨",
         "reading": "シャ",
-        "meaning": "equanimity, upeksa, upekkha"
+        "meaning": {
+          "vi": "equanimity, upeksa, upekkha"
+        },
+        "romaji": "sha"
       },
       {
         "example": "捨象",
         "reading": "シャショウ",
-        "meaning": "abstraction"
+        "meaning": {
+          "en": "abstraction"
+        },
+        "romaji": "shashou"
       },
       {
         "example": "取捨",
         "reading": "シュシャ",
-        "meaning": "adoption or rejection, selection, choice, option"
+        "meaning": {
+          "vi": "adoption or rejection, selection, choice, option"
+        },
+        "romaji": "shusha"
       },
       {
         "example": "用捨",
         "reading": "ヨウシャ",
-        "meaning": "adoption or rejection, selection, choice, leniency, mercy, going easy (on someone)"
+        "meaning": {
+          "vi": "adoption or rejection, selection, choice, leniency, mercy, going easy (on someone)"
+        },
+        "romaji": "yousha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "捨てる",
         "reading": "すてる",
-        "meaning": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"
+        "meaning": {
+          "vi": "to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign"
+        },
+        "romaji": "suteru"
       },
       {
         "example": "捨てる神あれば拾う神あり",
         "reading": "すてるかみあればひろうかみあり",
-        "meaning": "when one door is shut, another is open, the world is as kind as it is cruel, there are gods that will abandon you and there are gods that will pick you up"
+        "meaning": {
+          "vi": "when one door is shut, another is open, the world is as kind as it is cruel, there are gods that will abandon you and there are gods that will pick you up"
+        },
+        "romaji": "suterukamiarebahiroukamiari"
       }
     ],
     "radical": {
@@ -314,5 +332,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06368.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6368.gif",
     "uri": "https://jisho.org/search/%E6%8D%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "xả"
+  ]
 }

@@ -23,44 +23,86 @@
       {
         "example": "乃至",
         "reading": "ナイシ",
-        "meaning": "from ... to, between ... and, or"
+        "meaning": {
+          "en": "from ... to, between ... and, or"
+        },
+        "meaningVN": "từ ... đến, giữa ... và, hoặc",
+        "hanViet": "nãi chí",
+        "hanVietExplain": "乃 (nãi: bèn (trợ từ)) + 至 (chí: đến, tới) → từ ... đến, giữa ... và, hoặc",
+        "romaji": "naishi"
       },
       {
         "example": "乃公",
         "reading": "ダイコウ",
-        "meaning": "I, me"
+        "meaning": {
+          "en": "I, me"
+        },
+        "meaningVN": "tôi, tôi",
+        "hanViet": "nãi công",
+        "hanVietExplain": "乃 (nãi: bèn (trợ từ)) + 公 (công: cân bằng) → tôi, tôi",
+        "romaji": "daikou"
       },
       {
         "example": "乃公出でずんば",
         "reading": "ダイコウイデズンバ",
-        "meaning": "what will happen to everyone else if I am not the one who goes?"
+        "meaning": {
+          "vi": "what will happen to everyone else if I am not the one who goes?"
+        },
+        "meaningVN": "điều gì sẽ xảy ra với những người khác nếu tôi không phải là người đi?",
+        "hanViet": "nãi công xuý で ず ん ば",
+        "hanVietExplain": "乃 (nãi: bèn (trợ từ)) + 公 (công: cân bằng) + 出 (xuý: ra ngoài, đi ra) → điều gì sẽ xảy ra với những người khác nếu tôi không phải là người đi?",
+        "romaji": "daikouidezunba"
       },
       {
         "example": "【ノ】",
         "reading": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question",
-        "meaning": ""
+        "meaning": "",
+        "hanViet": "【 ノ 】",
+        "hanVietExplain": null,
+        "romaji": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question"
       },
       {
         "example": "乃",
         "reading": "ノ",
-        "meaning": "'s, of, belonging to"
+        "meaning": {
+          "en": "'s, of, belonging to"
+        },
+        "meaningVN": "của, của, thuộc về",
+        "hanViet": "nãi",
+        "hanVietExplain": "nãi: bèn (trợ từ)",
+        "romaji": "no"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【の】",
         "reading": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question",
-        "meaning": ""
+        "meaning": "",
+        "hanViet": "【 の 】",
+        "hanVietExplain": null,
+        "romaji": "indicates possessive, nominalizes verbs and adjectives, substitutes for &quot;ga&quot; in subordinate phrases, indicates a confident conclusion, indicates emotional emphasis, indicates question"
       },
       {
         "example": "乃",
         "reading": "の",
-        "meaning": "'s, of, belonging to"
+        "meaning": {
+          "en": "'s, of, belonging to"
+        },
+        "meaningVN": "của, của, thuộc về",
+        "hanViet": "nãi",
+        "hanVietExplain": "nãi: bèn (trợ từ)",
+        "romaji": "no"
       },
       {
         "example": "即ち",
         "reading": "すなわち",
-        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        "meaning": {
+          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        },
+        "meaningVN": "đó là (để nói), cụ thể là, tức là, chính xác, chính xác, chỉ, không có gì ngoài, không hơn không kém, (và) sau đó",
+        "hanViet": "tức ち",
+        "hanVietExplain": "tức: tới gần, ngay, tức thì, chính là",
+        "romaji": "sunawachi"
       }
     ],
     "radical": {
@@ -77,5 +119,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e43.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e43.gif",
     "uri": "https://jisho.org/search/%E4%B9%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "nãi",
+    "ái"
+  ],
+  "meaningVN": "từ, hạt sở hữu, do đó, theo đó",
+  "hanVietExplain": "nãi: bèn (trợ từ)"
 }

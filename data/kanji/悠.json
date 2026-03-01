@@ -17,12 +17,18 @@
       {
         "example": "悠",
         "reading": "ユウ",
-        "meaning": "quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal"
+        "meaning": {
+          "vi": "quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "悠々",
         "reading": "ユウユウ",
-        "meaning": "quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal"
+        "meaning": {
+          "vi": "quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal"
+        },
+        "romaji": "yuuyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a0.gif",
     "uri": "https://jisho.org/search/%E6%82%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "du"
+  ]
 }

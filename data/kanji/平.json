@@ -400,89 +400,140 @@
       {
         "example": "平",
         "reading": "ヘイ",
-        "meaning": "nth year in the Heisei era (1989.1.8-2019.4.30)"
+        "meaning": {
+          "en": "nth year in the Heisei era (1989.1.8-2019.4.30)"
+        },
+        "romaji": "hei"
       },
       {
         "example": "平安",
         "reading": "ヘイアン",
-        "meaning": "peace, tranquility, tranquillity, Heian period (794-1185)"
+        "meaning": {
+          "vi": "peace, tranquility, tranquillity, Heian period (794-1185)"
+        },
+        "romaji": "heian"
       },
       {
         "example": "和平",
         "reading": "ワヘイ",
-        "meaning": "peace"
+        "meaning": {
+          "vi": "peace"
+        },
+        "romaji": "wahei"
       },
       {
         "example": "公平",
         "reading": "コウヘイ",
-        "meaning": "fairness, impartiality, justice, objectivity"
+        "meaning": {
+          "vi": "fairness, impartiality, justice, objectivity"
+        },
+        "romaji": "kouhei"
       },
       {
         "example": "平等",
         "reading": "ビョウドウ",
-        "meaning": "equality, impartiality, evenness"
+        "meaning": {
+          "vi": "equality, impartiality, evenness"
+        },
+        "romaji": "byoudou"
       },
       {
         "example": "平常心",
         "reading": "ビョウジョウシン",
-        "meaning": "everyday feelings, usual feelings"
+        "meaning": {
+          "en": "everyday feelings, usual feelings"
+        },
+        "romaji": "byoujoushin"
       },
       {
         "example": "寛平",
         "reading": "カンピョウ",
-        "meaning": "Kanpyō era (889.4.27-898.4.26), Kanbyō era"
+        "meaning": {
+          "vi": "Kanpyō era (889.4.27-898.4.26), Kanbyō era"
+        },
+        "romaji": "kanpyou"
       },
       {
         "example": "天平",
         "reading": "テンピョウ",
-        "meaning": "Tenpyō era (729.8.5-749.4.14), Tenbyō era, Tenhei era"
+        "meaning": {
+          "vi": "Tenpyō era (729.8.5-749.4.14), Tenbyō era, Tenhei era"
+        },
+        "romaji": "tenpyou"
       },
       {
         "example": "平韻",
         "reading": "ヒョウイン",
-        "meaning": "level-tone rhyme (of Chinese)"
+        "meaning": {
+          "en": "level-tone rhyme (of Chinese)"
+        },
+        "romaji": "hyouin"
       },
       {
         "example": "平声",
         "reading": "ヒョウショウ",
-        "meaning": "first tone in old Chinese phonetics, level tone, (of a Japanese accent) having a low, flat tone"
+        "meaning": {
+          "vi": "first tone in old Chinese phonetics, level tone, (of a Japanese accent) having a low, flat tone"
+        },
+        "romaji": "hyoushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "平ら",
         "reading": "たいら",
-        "meaning": "flat, level, even, smooth, calm, tranquil, placid, composed, stable, relaxed (sitting posture), comfortable, plateau, tableland, plain"
+        "meaning": {
+          "vi": "flat, level, even, smooth, calm, tranquil, placid, composed, stable, relaxed (sitting posture), comfortable, plateau, tableland, plain"
+        },
+        "romaji": "taira"
       },
       {
         "example": "平らか",
         "reading": "たいらか",
-        "meaning": "level, just, peaceful"
+        "meaning": {
+          "vi": "level, just, peaceful"
+        },
+        "romaji": "tairaka"
       },
       {
         "example": "平らげる",
         "reading": "たいらげる",
-        "meaning": "to eat up (completely), to put down (a rebellion), to suppress, to subjugate, to make flat, to level out"
+        "meaning": {
+          "vi": "to eat up (completely), to put down (a rebellion), to suppress, to subjugate, to make flat, to level out"
+        },
+        "romaji": "tairageru"
       },
       {
         "example": "平",
         "reading": "ひら",
-        "meaning": "something broad and flat, common, ordinary, plain, rank-and-file, low-ranking employee, freshman, novice, private"
+        "meaning": {
+          "vi": "something broad and flat, common, ordinary, plain, rank-and-file, low-ranking employee, freshman, novice, private"
+        },
+        "romaji": "hira"
       },
       {
         "example": "平泳ぎ",
         "reading": "ひらおよぎ",
-        "meaning": "breaststroke (swimming)"
+        "meaning": {
+          "en": "breaststroke (swimming)"
+        },
+        "romaji": "hiraoyogi"
       },
       {
         "example": "嘉平次平",
         "reading": "かへいじひら",
-        "meaning": "hakama fabric made from meisen silk"
+        "meaning": {
+          "en": "hakama fabric made from meisen silk"
+        },
+        "romaji": "kaheijihira"
       },
       {
         "example": "金平",
         "reading": "かねひら",
-        "meaning": "Acheilognathus rhombeus (species of cyprinid)"
+        "meaning": {
+          "vi": "Acheilognathus rhombeus (species of cyprinid)"
+        },
+        "romaji": "kanehira"
       }
     ],
     "radical": {
@@ -497,5 +548,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e73.gif",
     "uri": "https://jisho.org/search/%E5%B9%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "biền",
+    "bình"
+  ]
 }

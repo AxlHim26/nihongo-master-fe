@@ -16,39 +16,60 @@
       {
         "example": "藪沢",
         "reading": "ソウタク",
-        "meaning": "wetland with abundant vegetation, place where things are gathered"
+        "meaning": {
+          "vi": "wetland with abundant vegetation, place where things are gathered"
+        },
+        "romaji": "soutaku"
       },
       {
         "example": "淵叢",
         "reading": "エンソウ",
-        "meaning": "gathering spot, center, centre"
+        "meaning": {
+          "vi": "gathering spot, center, centre"
+        },
+        "romaji": "ensou"
       },
       {
         "example": "談叢",
         "reading": "ダンソウ",
-        "meaning": "a number of interesting stories, book containing a number of interesting stories"
+        "meaning": {
+          "en": "a number of interesting stories, book containing a number of interesting stories"
+        },
+        "romaji": "dansou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "藪",
         "reading": "やぶ",
-        "meaning": "thicket, bush, grove, scrub, (medical) quack"
+        "meaning": {
+          "en": "thicket, bush, grove, scrub, (medical) quack"
+        },
+        "romaji": "yabu"
       },
       {
         "example": "藪医",
         "reading": "やぶい",
-        "meaning": "(medical) quack"
+        "meaning": {
+          "en": "(medical) quack"
+        },
+        "romaji": "yabui"
       },
       {
         "example": "竹やぶ",
         "reading": "たけやぶ",
-        "meaning": "bamboo grove"
+        "meaning": {
+          "en": "bamboo grove"
+        },
+        "romaji": "takeyabu"
       },
       {
         "example": "草薮",
         "reading": "くさやぶ",
-        "meaning": "thicket, bush, clump of bushes"
+        "meaning": {
+          "vi": "thicket, bush, clump of bushes"
+        },
+        "romaji": "kusayabu"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ea.gif",
     "uri": "https://jisho.org/search/%E8%97%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tẩu"
+  ]
 }

@@ -18,29 +18,44 @@
       {
         "example": "醒覚",
         "reading": "セイカク",
-        "meaning": "awakening, waking up, opening one's eyes"
+        "meaning": {
+          "vi": "awakening, waking up, opening one's eyes"
+        },
+        "romaji": "seikaku"
       },
       {
         "example": "警醒",
         "reading": "ケイセイ",
-        "meaning": "warning"
+        "meaning": {
+          "en": "warning"
+        },
+        "romaji": "keisei"
       },
       {
         "example": "大覚醒",
         "reading": "ダイカクセイ",
-        "meaning": "Great Awakening (18th century American Christian revival movement)"
+        "meaning": {
+          "en": "Great Awakening (18th century American Christian revival movement)"
+        },
+        "romaji": "daikakusei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "覚ます",
         "reading": "さます",
-        "meaning": "to awaken, to arouse from sleep, to bring to one's senses, to disabuse (someone of), to sober up, to dampen, to throw a damper on, to spoil"
+        "meaning": {
+          "vi": "to awaken, to arouse from sleep, to bring to one's senses, to disabuse (someone of), to sober up, to dampen, to throw a damper on, to spoil"
+        },
+        "romaji": "samasu"
       },
       {
         "example": "覚める",
         "reading": "さめる",
-        "meaning": "to wake, to wake up, to become sober, to sober up, to regain consciousness (e.g. after anaesthesia), to come to one's senses, to be disillusioned"
+        "meaning": {
+          "vi": "to wake, to wake up, to become sober, to sober up, to regain consciousness (e.g. after anaesthesia), to come to one's senses, to be disillusioned"
+        },
+        "romaji": "sameru"
       }
     ],
     "radical": {
@@ -56,5 +71,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09192.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9192.gif",
     "uri": "https://jisho.org/search/%E9%86%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tinh",
+    "tỉnh"
+  ]
 }

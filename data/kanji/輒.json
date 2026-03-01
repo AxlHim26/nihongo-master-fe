@@ -18,7 +18,10 @@
       {
         "example": "即ち",
         "reading": "すなわち",
-        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        "meaning": {
+          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        },
+        "romaji": "sunawachi"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f12.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f12.gif",
     "uri": "https://jisho.org/search/%E8%BC%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "triếp"
+  ]
 }

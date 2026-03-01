@@ -19,44 +19,68 @@
       {
         "example": "辰砂",
         "reading": "シンシャ",
-        "meaning": "cinnabar, cinnabarite, cinnabar lacquer, cinnabar lacquerware"
+        "meaning": {
+          "en": "cinnabar, cinnabarite, cinnabar lacquer, cinnabar lacquerware"
+        },
+        "romaji": "shinsha"
       },
       {
         "example": "辰星",
         "reading": "シンセイ",
-        "meaning": "celestial bodies, stars, bright star used for timekeeping (e.g. Sirius), Mercury (in ancient Chinese astronomy), Chinese \"room\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "celestial bodies, stars, bright star used for timekeeping (e.g. Sirius), Mercury (in ancient Chinese astronomy), Chinese \"room\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "shinsei"
       },
       {
         "example": "星辰",
         "reading": "セイシン",
-        "meaning": "celestial bodies, stars"
+        "meaning": {
+          "en": "celestial bodies, stars"
+        },
+        "romaji": "seishin"
       },
       {
         "example": "日月星辰",
         "reading": "ジツゲツセイシン",
-        "meaning": "the Sun, the Moon and the stars, the heavenly bodies"
+        "meaning": {
+          "en": "the Sun, the Moon and the stars, the heavenly bodies"
+        },
+        "romaji": "jitsugetsuseishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辰",
         "reading": "たつ",
-        "meaning": "the Dragon (fifth sign of the Chinese zodiac), hour of the Dragon (around 8am, 7-9am, or 8-10am), east-southeast, third month of the lunar calendar"
+        "meaning": {
+          "en": "the Dragon (fifth sign of the Chinese zodiac), hour of the Dragon (around 8am, 7-9am, or 8-10am), east-southeast, third month of the lunar calendar"
+        },
+        "romaji": "tatsu"
       },
       {
         "example": "辰年",
         "reading": "たつどし",
-        "meaning": "year of the Dragon"
+        "meaning": {
+          "en": "year of the Dragon"
+        },
+        "romaji": "tatsudoshi"
       },
       {
         "example": "庚辰",
         "reading": "かのえたつ",
-        "meaning": "Metal Dragon (17th term of the sexagenary cycle, e.g. 1940, 2000, 2060)"
+        "meaning": {
+          "en": "Metal Dragon (17th term of the sexagenary cycle, e.g. 1940, 2000, 2060)"
+        },
+        "romaji": "kanoetatsu"
       },
       {
         "example": "甲辰",
         "reading": "きのえたつ",
-        "meaning": "Wood Dragon (41st term of the sexagenary cycle, e.g. 1964, 2024, 2084)"
+        "meaning": {
+          "en": "Wood Dragon (41st term of the sexagenary cycle, e.g. 1964, 2024, 2084)"
+        },
+        "romaji": "kinoetatsu"
       }
     ],
     "radical": {
@@ -72,5 +96,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fb0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fb0.gif",
     "uri": "https://jisho.org/search/%E8%BE%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thìn",
+    "thần"
+  ]
 }

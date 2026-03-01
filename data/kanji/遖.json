@@ -15,7 +15,10 @@
       {
         "example": "天晴れ",
         "reading": "あっぱれ",
-        "meaning": "splendid, praiseworthy, admirable, brilliant, well done!, bravo!"
+        "meaning": {
+          "vi": "splendid, praiseworthy, admirable, brilliant, well done!, bravo!"
+        },
+        "romaji": "appare"
       }
     ],
     "radical": {
@@ -38,5 +41,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09056.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9056.gif",
     "uri": "https://jisho.org/search/%E9%81%96%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

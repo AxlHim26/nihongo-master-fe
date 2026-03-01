@@ -16,24 +16,36 @@
       {
         "example": "滔々",
         "reading": "トウトウ",
-        "meaning": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        "meaning": {
+          "vi": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        },
+        "romaji": "toutou"
       },
       {
         "example": "怒涛",
         "reading": "ドトウ",
-        "meaning": "surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"
+        "meaning": {
+          "vi": "surging waves, raging billows, turbulent, tempestuous, tumultuous, chaotic"
+        },
+        "romaji": "dotou"
       },
       {
         "example": "滔々",
         "reading": "トウトウ",
-        "meaning": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        "meaning": {
+          "vi": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        },
+        "romaji": "toutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "波",
         "reading": "なみ",
-        "meaning": "wave, ups and downs"
+        "meaning": {
+          "vi": "wave, ups and downs"
+        },
+        "romaji": "nami"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fe4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fe4.gif",
     "uri": "https://jisho.org/search/%E6%BF%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "đào"
+  ]
 }

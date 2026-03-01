@@ -19,39 +19,60 @@
       {
         "example": "粋",
         "reading": "スイ",
-        "meaning": "essence, the best, cream, chic, smart, stylish, tasteful, refined, sophisticated, considerate, understanding, thoughtful, tactful, familiar with worldly pleasures (esp. sexual relations, geisha districts and red-light districts)"
+        "meaning": {
+          "vi": "essence, the best, cream, chic, smart, stylish, tasteful, refined, sophisticated, considerate, understanding, thoughtful, tactful, familiar with worldly pleasures (esp. sexual relations, geisha districts and red-light districts)"
+        },
+        "romaji": "sui"
       },
       {
         "example": "粋が身を食う",
         "reading": "スイガミヲクウ",
-        "meaning": "too much pleasure ruins a man (esp. in reference to spending too much time with geisha and prostitutes), playing the dandy ruins a man"
+        "meaning": {
+          "vi": "too much pleasure ruins a man (esp. in reference to spending too much time with geisha and prostitutes), playing the dandy ruins a man"
+        },
+        "romaji": "suigamiwokuu"
       },
       {
         "example": "国粋",
         "reading": "コクスイ",
-        "meaning": "national characteristics"
+        "meaning": {
+          "en": "national characteristics"
+        },
+        "romaji": "kokusui"
       },
       {
         "example": "清粋",
         "reading": "セイスイ",
-        "meaning": "elegance"
+        "meaning": {
+          "en": "elegance"
+        },
+        "romaji": "seisui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粋",
         "reading": "いき",
-        "meaning": "chic, smart, stylish, tasteful, refined, sophisticated, understanding, considerate, thoughtful, sensible, familiar with worldly pleasures (esp. sexual relations, geisha districts and red-light districts)"
+        "meaning": {
+          "vi": "chic, smart, stylish, tasteful, refined, sophisticated, understanding, considerate, thoughtful, sensible, familiar with worldly pleasures (esp. sexual relations, geisha districts and red-light districts)"
+        },
+        "romaji": "iki"
       },
       {
         "example": "粋がる",
         "reading": "いきがる",
-        "meaning": "to be pretentious, to put on airs, to try to appear smart, to act brave, to try to look cool"
+        "meaning": {
+          "vi": "to be pretentious, to put on airs, to try to appear smart, to act brave, to try to look cool"
+        },
+        "romaji": "ikigaru"
       },
       {
         "example": "不意気",
         "reading": "ぶいき",
-        "meaning": "vulgar, unrefined"
+        "meaning": {
+          "en": "vulgar, unrefined"
+        },
+        "romaji": "buiki"
       }
     ],
     "radical": {
@@ -67,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c8b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c8b.gif",
     "uri": "https://jisho.org/search/%E7%B2%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuý"
+  ]
 }

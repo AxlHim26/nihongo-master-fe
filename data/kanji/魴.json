@@ -18,7 +18,10 @@
       {
         "example": "魴鮄",
         "reading": "ホウボウ",
-        "meaning": "red gurnard (Chelidonichthys spinosus), gurnet, sea robin"
+        "meaning": {
+          "vi": "red gurnard (Chelidonichthys spinosus), gurnet, sea robin"
+        },
+        "romaji": "houbou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b74.gif",
     "uri": "https://jisho.org/search/%E9%AD%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "phường"
+  ]
 }

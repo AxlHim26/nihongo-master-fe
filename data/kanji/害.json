@@ -335,22 +335,34 @@
       {
         "example": "害",
         "reading": "ガイ",
-        "meaning": "injury, harm, evil influence, damage"
+        "meaning": {
+          "en": "injury, harm, evil influence, damage"
+        },
+        "romaji": "gai"
       },
       {
         "example": "害虫",
         "reading": "ガイチュウ",
-        "meaning": "harmful insect, noxious insect, pest, vermin"
+        "meaning": {
+          "vi": "harmful insect, noxious insect, pest, vermin"
+        },
+        "romaji": "gaichuu"
       },
       {
         "example": "薬害",
         "reading": "ヤクガイ",
-        "meaning": "harmful side effects of a medicine or drug"
+        "meaning": {
+          "en": "harmful side effects of a medicine or drug"
+        },
+        "romaji": "yakugai"
       },
       {
         "example": "傷害",
         "reading": "ショウガイ",
-        "meaning": "injury, inflicting bodily injury"
+        "meaning": {
+          "en": "injury, inflicting bodily injury"
+        },
+        "romaji": "shougai"
       }
     ],
     "kunyomiExamples": [],
@@ -369,5 +381,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb3.gif",
     "uri": "https://jisho.org/search/%E5%AE%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hại",
+    "hạt"
+  ]
 }

@@ -321,44 +321,68 @@
       {
         "example": "震",
         "reading": "シン",
-        "meaning": "zhen (one of the trigrams of the I Ching: thunder, east)"
+        "meaning": {
+          "en": "zhen (one of the trigrams of the I Ching: thunder, east)"
+        },
+        "romaji": "shin"
       },
       {
         "example": "震源",
         "reading": "シンゲン",
-        "meaning": "hypocentre (of an earthquake), hypocenter, focus"
+        "meaning": {
+          "vi": "hypocentre (of an earthquake), hypocenter, focus"
+        },
+        "romaji": "shingen"
       },
       {
         "example": "微震",
         "reading": "ビシン",
-        "meaning": "slight earthquake"
+        "meaning": {
+          "en": "slight earthquake"
+        },
+        "romaji": "bishin"
       },
       {
         "example": "軽震",
         "reading": "ケイシン",
-        "meaning": "weak earthquake"
+        "meaning": {
+          "en": "weak earthquake"
+        },
+        "romaji": "keishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "震う",
         "reading": "ふるう",
-        "meaning": "to shake, to tremble, to vibrate"
+        "meaning": {
+          "en": "to shake, to tremble, to vibrate"
+        },
+        "romaji": "furuu"
       },
       {
         "example": "震える",
         "reading": "ふるえる",
-        "meaning": "to shiver, to shake, to quake, to tremble, to quaver, to quiver"
+        "meaning": {
+          "en": "to shiver, to shake, to quake, to tremble, to quaver, to quiver"
+        },
+        "romaji": "furueru"
       },
       {
         "example": "震わせる",
         "reading": "ふるわせる",
-        "meaning": "to (make something) quiver, to shake, to tremble, to vibrate"
+        "meaning": {
+          "en": "to (make something) quiver, to shake, to tremble, to vibrate"
+        },
+        "romaji": "furuwaseru"
       },
       {
         "example": "震わす",
         "reading": "ふるわす",
-        "meaning": "to (make something) quiver, to shake, to tremble, to vibrate"
+        "meaning": {
+          "en": "to (make something) quiver, to shake, to tremble, to vibrate"
+        },
+        "romaji": "furuwasu"
       }
     ],
     "radical": {
@@ -375,5 +399,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09707.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9707.gif",
     "uri": "https://jisho.org/search/%E9%9C%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "chấn",
+    "thần"
+  ]
 }

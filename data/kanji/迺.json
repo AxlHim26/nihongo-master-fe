@@ -20,7 +20,10 @@
       {
         "example": "乃公",
         "reading": "ダイコウ",
-        "meaning": "I, me"
+        "meaning": {
+          "en": "I, me"
+        },
+        "romaji": "daikou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ffa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ffa.gif",
     "uri": "https://jisho.org/search/%E8%BF%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "nãi"
+  ]
 }

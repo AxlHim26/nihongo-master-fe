@@ -17,22 +17,34 @@
       {
         "example": "鶸",
         "reading": "ひわ",
-        "meaning": "cardueline finch (any finch of subfamily Carduelinae, esp. the Eurasian siskin, Carduelis spinus)"
+        "meaning": {
+          "vi": "cardueline finch (any finch of subfamily Carduelinae, esp. the Eurasian siskin, Carduelis spinus)"
+        },
+        "romaji": "hiwa"
       },
       {
         "example": "鶸色",
         "reading": "ひわいろ",
-        "meaning": "muted greenish yellow"
+        "meaning": {
+          "en": "muted greenish yellow"
+        },
+        "romaji": "hiwairo"
       },
       {
         "example": "胸赤鶸",
         "reading": "むねあかひわ",
-        "meaning": "Eurasian linnet (Carduelis cannabina)"
+        "meaning": {
+          "en": "Eurasian linnet (Carduelis cannabina)"
+        },
+        "romaji": "muneakahiwa"
       },
       {
         "example": "五色鶸",
         "reading": "ごしきひわ",
-        "meaning": "European goldfinch (Carduelis carduelis)"
+        "meaning": {
+          "vi": "European goldfinch (Carduelis carduelis)"
+        },
+        "romaji": "goshikihiwa"
       }
     ],
     "radical": {
@@ -49,5 +61,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09db8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9db8.gif",
     "uri": "https://jisho.org/search/%E9%B6%B8%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

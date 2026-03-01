@@ -352,49 +352,76 @@
       {
         "example": "卒爾",
         "reading": "ソツジ",
-        "meaning": "abrupt, sudden"
+        "meaning": {
+          "vi": "abrupt, sudden"
+        },
+        "romaji": "sotsuji"
       },
       {
         "example": "卒然",
         "reading": "ソツゼン",
-        "meaning": "sudden, unexpected, unannounced, abrupt"
+        "meaning": {
+          "vi": "sudden, unexpected, unannounced, abrupt"
+        },
+        "romaji": "sotsuzen"
       },
       {
         "example": "短慮軽率",
         "reading": "タンリョケイソツ",
-        "meaning": "impulsive and imprudent, rash and unthinking"
+        "meaning": {
+          "vi": "impulsive and imprudent, rash and unthinking"
+        },
+        "romaji": "tanryokeisotsu"
       },
       {
         "example": "兜率",
         "reading": "トソツ",
-        "meaning": "Tusita (heaven, pure land)"
+        "meaning": {
+          "vi": "Tusita (heaven, pure land)"
+        },
+        "romaji": "tosotsu"
       },
       {
         "example": "率",
         "reading": "リツ",
-        "meaning": "rate, ratio, proportion, percentage"
+        "meaning": {
+          "vi": "rate, ratio, proportion, percentage"
+        },
+        "romaji": "ritsu"
       },
       {
         "example": "率を定める",
         "reading": "リツヲサダメル",
-        "meaning": "to fix the rate"
+        "meaning": {
+          "en": "to fix the rate"
+        },
+        "romaji": "ritsuwosadameru"
       },
       {
         "example": "倍率",
         "reading": "バイリツ",
-        "meaning": "magnification, leverage, amplification, scaling factor, scale factor, competitiveness rating (e.g. for university entrance), applicant-to-acceptance ratio"
+        "meaning": {
+          "vi": "magnification, leverage, amplification, scaling factor, scale factor, competitiveness rating (e.g. for university entrance), applicant-to-acceptance ratio"
+        },
+        "romaji": "bairitsu"
       },
       {
         "example": "定率",
         "reading": "テイリツ",
-        "meaning": "fixed rate"
+        "meaning": {
+          "en": "fixed rate"
+        },
+        "romaji": "teiritsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "率いる",
         "reading": "ひきいる",
-        "meaning": "to lead, to spearhead (a group), to command (troops)"
+        "meaning": {
+          "vi": "to lead, to spearhead (a group), to command (troops)"
+        },
+        "romaji": "hikiiru"
       }
     ],
     "radical": {
@@ -412,5 +439,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07387.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7387.gif",
     "uri": "https://jisho.org/search/%E7%8E%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "luật",
+    "lô",
+    "soát",
+    "suý",
+    "suất"
+  ]
 }

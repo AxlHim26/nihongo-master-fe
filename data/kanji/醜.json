@@ -20,44 +20,68 @@
       {
         "example": "醜",
         "reading": "シュウ",
-        "meaning": "ugliness, shame, disgrace"
+        "meaning": {
+          "en": "ugliness, shame, disgrace"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "醜女",
         "reading": "シュウジョ",
-        "meaning": "ugly woman, unattractive woman, female demon"
+        "meaning": {
+          "en": "ugly woman, unattractive woman, female demon"
+        },
+        "romaji": "shuujo"
       },
       {
         "example": "老醜",
         "reading": "ロウシュウ",
-        "meaning": "ugliness of old age"
+        "meaning": {
+          "en": "ugliness of old age"
+        },
+        "romaji": "roushuu"
       },
       {
         "example": "美醜",
         "reading": "ビシュウ",
-        "meaning": "beauty or ugliness, personal appearance, looks"
+        "meaning": {
+          "vi": "beauty or ugliness, personal appearance, looks"
+        },
+        "romaji": "bishuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "醜い",
         "reading": "みにくい",
-        "meaning": "ugly, unattractive, bad-looking, unsightly, unseemly, disgraceful, shameful, dishonorable"
+        "meaning": {
+          "en": "ugly, unattractive, bad-looking, unsightly, unseemly, disgraceful, shameful, dishonorable"
+        },
+        "romaji": "minikui"
       },
       {
         "example": "みにくいアヒルの子",
         "reading": "みにくいあひるのこ",
-        "meaning": "ugly duckling"
+        "meaning": {
+          "en": "ugly duckling"
+        },
+        "romaji": "minikuiahirunoko"
       },
       {
         "example": "醜",
         "reading": "しこ",
-        "meaning": "ugly, repulsive, detestable, contemptible, unworthy, insignificant, humble, strong and frightening thing"
+        "meaning": {
+          "vi": "ugly, repulsive, detestable, contemptible, unworthy, insignificant, humble, strong and frightening thing"
+        },
+        "romaji": "shiko"
       },
       {
         "example": "醜女",
         "reading": "しゅうじょ",
-        "meaning": "ugly woman, unattractive woman, female demon"
+        "meaning": {
+          "en": "ugly woman, unattractive woman, female demon"
+        },
+        "romaji": "shuujo"
       }
     ],
     "radical": {
@@ -76,5 +100,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0919c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/919c.gif",
     "uri": "https://jisho.org/search/%E9%86%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "xú"
+  ]
 }

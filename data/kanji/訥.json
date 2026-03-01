@@ -16,22 +16,34 @@
       {
         "example": "訥々",
         "reading": "トツトツ",
-        "meaning": "halting (speech), faltering, stammering"
+        "meaning": {
+          "vi": "halting (speech), faltering, stammering"
+        },
+        "romaji": "totsutotsu"
       },
       {
         "example": "訥弁",
         "reading": "トツベン",
-        "meaning": "slowness of speech, awkwardness of speech"
+        "meaning": {
+          "vi": "slowness of speech, awkwardness of speech"
+        },
+        "romaji": "totsuben"
       },
       {
         "example": "朴訥",
         "reading": "ボクトツ",
-        "meaning": "unsophisticated, ruggedly honest, artless, unaffected, simple, naive"
+        "meaning": {
+          "vi": "unsophisticated, ruggedly honest, artless, unaffected, simple, naive"
+        },
+        "romaji": "bokutotsu"
       },
       {
         "example": "訥々",
         "reading": "トツトツ",
-        "meaning": "halting (speech), faltering, stammering"
+        "meaning": {
+          "vi": "halting (speech), faltering, stammering"
+        },
+        "romaji": "totsutotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a25.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a25.gif",
     "uri": "https://jisho.org/search/%E8%A8%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "nột"
+  ]
 }

@@ -16,22 +16,34 @@
       {
         "example": "謁",
         "reading": "エツ",
-        "meaning": "audience (with a superior, e.g. nobility), visiting card, name card"
+        "meaning": {
+          "vi": "audience (with a superior, e.g. nobility), visiting card, name card"
+        },
+        "romaji": "etsu"
       },
       {
         "example": "謁を賜わる",
         "reading": "エツヲタマワル",
-        "meaning": "to be granted an audience"
+        "meaning": {
+          "en": "to be granted an audience"
+        },
+        "romaji": "etsuwotamawaru"
       },
       {
         "example": "請謁",
         "reading": "セイエツ",
-        "meaning": "beseeching, requesting (an audience)"
+        "meaning": {
+          "en": "beseeching, requesting (an audience)"
+        },
+        "romaji": "seietsu"
       },
       {
         "example": "内謁",
         "reading": "ナイエツ",
-        "meaning": "private audience"
+        "meaning": {
+          "vi": "private audience"
+        },
+        "romaji": "naietsu"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b01.gif",
     "uri": "https://jisho.org/search/%E8%AC%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "yết"
+  ]
 }

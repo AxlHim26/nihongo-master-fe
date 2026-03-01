@@ -21,34 +21,52 @@
       {
         "example": "寛",
         "reading": "カン",
-        "meaning": "lenient, gentle"
+        "meaning": {
+          "en": "lenient, gentle"
+        },
+        "romaji": "kan"
       },
       {
         "example": "寛大",
         "reading": "カンダイ",
-        "meaning": "tolerant, generous, lenient, broad-minded, magnanimous"
+        "meaning": {
+          "en": "tolerant, generous, lenient, broad-minded, magnanimous"
+        },
+        "romaji": "kandai"
       },
       {
         "example": "長寛",
         "reading": "チョウカン",
-        "meaning": "Chōkan era (1163.3.29-1165.6.5)"
+        "meaning": {
+          "en": "Chōkan era (1163.3.29-1165.6.5)"
+        },
+        "romaji": "choukan"
       },
       {
         "example": "寛緩",
         "reading": "カンカン",
-        "meaning": "looking cool and collect, with an air of perfect composure"
+        "meaning": {
+          "vi": "looking cool and collect, with an air of perfect composure"
+        },
+        "romaji": "kankan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寛ぐ",
         "reading": "くつろぐ",
-        "meaning": "to relax, to feel at home"
+        "meaning": {
+          "en": "to relax, to feel at home"
+        },
+        "romaji": "kutsurogu"
       },
       {
         "example": "寛い",
         "reading": "ひろい",
-        "meaning": "broadminded"
+        "meaning": {
+          "en": "broadminded"
+        },
+        "romaji": "hiroi"
       }
     ],
     "radical": {
@@ -64,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdb.gif",
     "uri": "https://jisho.org/search/%E5%AF%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoan"
+  ]
 }

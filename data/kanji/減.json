@@ -341,39 +341,60 @@
       {
         "example": "減",
         "reading": "ゲン",
-        "meaning": "reduction, decrease, subtraction, reduction of penalty (under the ritsuryō codes)"
+        "meaning": {
+          "vi": "reduction, decrease, subtraction, reduction of penalty (under the ritsuryō codes)"
+        },
+        "romaji": "gen"
       },
       {
         "example": "減員",
         "reading": "ゲンイン",
-        "meaning": "reduction of staff"
+        "meaning": {
+          "en": "reduction of staff"
+        },
+        "romaji": "gen'in"
       },
       {
         "example": "増減",
         "reading": "ゾウゲン",
-        "meaning": "increase and decrease, fluctuation"
+        "meaning": {
+          "en": "increase and decrease, fluctuation"
+        },
+        "romaji": "zougen"
       },
       {
         "example": "軽減",
         "reading": "ケイゲン",
-        "meaning": "abatement, reduction"
+        "meaning": {
+          "en": "abatement, reduction"
+        },
+        "romaji": "keigen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "減る",
         "reading": "へる",
-        "meaning": "to decrease (in size or number), to diminish, to abate"
+        "meaning": {
+          "en": "to decrease (in size or number), to diminish, to abate"
+        },
+        "romaji": "heru"
       },
       {
         "example": "減るもんじゃない",
         "reading": "へるもんじゃない",
-        "meaning": "it's no big deal, it's nothing to fret about, it's not like it's the end of the world"
+        "meaning": {
+          "en": "it's no big deal, it's nothing to fret about, it's not like it's the end of the world"
+        },
+        "romaji": "herumonjanai"
       },
       {
         "example": "減らす",
         "reading": "へらす",
-        "meaning": "to abate, to decrease, to diminish, to shorten"
+        "meaning": {
+          "en": "to abate, to decrease, to diminish, to shorten"
+        },
+        "romaji": "herasu"
       }
     ],
     "radical": {
@@ -394,5 +415,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e1b.gif",
     "uri": "https://jisho.org/search/%E6%B8%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "giảm"
+  ]
 }

@@ -238,34 +238,52 @@
       {
         "example": "俵",
         "reading": "タワラ",
-        "meaning": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+        "meaning": {
+          "vi": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+        },
+        "romaji": "tawara"
       },
       {
         "example": "俵数",
         "reading": "ヒョウスウ",
-        "meaning": "number of straw bags"
+        "meaning": {
+          "en": "number of straw bags"
+        },
+        "romaji": "hyousuu"
       },
       {
         "example": "土俵",
         "reading": "ドヒョウ",
-        "meaning": "(wrestling) ring, forum (e.g. for discussion), sandbag, gabion"
+        "meaning": {
+          "en": "(wrestling) ring, forum (e.g. for discussion), sandbag, gabion"
+        },
+        "romaji": "dohyou"
       },
       {
         "example": "初土俵",
         "reading": "ハツドヒョウ",
-        "meaning": "first tournament for a wrestler"
+        "meaning": {
+          "en": "first tournament for a wrestler"
+        },
+        "romaji": "hatsudohyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "俵",
         "reading": "たわら",
-        "meaning": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+        "meaning": {
+          "vi": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+        },
+        "romaji": "tawara"
       },
       {
         "example": "俵編",
         "reading": "たわらあみ",
-        "meaning": "making bags out of this year's straw (during autumn)"
+        "meaning": {
+          "en": "making bags out of this year's straw (during autumn)"
+        },
+        "romaji": "tawaraami"
       }
     ],
     "radical": {
@@ -287,5 +305,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff5.gif",
     "uri": "https://jisho.org/search/%E4%BF%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "biểu"
+  ]
 }

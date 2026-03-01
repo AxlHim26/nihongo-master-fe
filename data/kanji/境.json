@@ -360,49 +360,76 @@
       {
         "example": "境",
         "reading": "サカイ",
-        "meaning": "biên giới, ranh giới, bước ngoặt, lưu vực, khu vực, vùng, điểm, không gian, môi trường, trạng thái tâm lý"
+        "meaning": {
+          "vi": "biên giới, ranh giới, bước ngoặt, lưu vực, khu vực, vùng, điểm, không gian, môi trường, trạng thái tâm lý"
+        },
+        "romaji": "sakai"
       },
       {
         "example": "境界",
         "reading": "キョウカイ",
-        "meaning": "ranh giới, biên giới, giới hạn"
+        "meaning": {
+          "vi": "ranh giới, biên giới, giới hạn"
+        },
+        "romaji": "kyoukai"
       },
       {
         "example": "越境",
         "reading": "エッキョウ",
-        "meaning": "vượt biên (bất hợp pháp), vi phạm biên giới"
+        "meaning": {
+          "vi": "vượt biên (bất hợp pháp), vi phạm biên giới"
+        },
+        "romaji": "ekkyou"
       },
       {
         "example": "推奨環境",
         "reading": "スイショウカンキョウ",
-        "meaning": "yêu cầu hệ thống (phần cứng, phần mềm khuyến nghị)"
+        "meaning": {
+          "vi": "yêu cầu hệ thống (phần cứng, phần mềm khuyến nghị)"
+        },
+        "romaji": "suishoukankyou"
       },
       {
         "example": "境内",
         "reading": "ケイダイ",
-        "meaning": "khuôn viên (đền, chùa), sân"
+        "meaning": {
+          "vi": "khuôn viên (đền, chùa), sân"
+        },
+        "romaji": "keidai"
       },
       {
         "example": "境界",
         "reading": "ケイカイ",
-        "meaning": "ranh giới đất, biên giới (giữa các bất động sản)"
+        "meaning": {
+          "vi": "ranh giới đất, biên giới (giữa các bất động sản)"
+        },
+        "romaji": "keikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "境",
         "reading": "さかい",
-        "meaning": "biên giới, ranh giới, bước ngoặt, lưu vực, khu vực, vùng, điểm, không gian, môi trường, trạng thái tâm lý"
+        "meaning": {
+          "vi": "biên giới, ranh giới, bước ngoặt, lưu vực, khu vực, vùng, điểm, không gian, môi trường, trạng thái tâm lý"
+        },
+        "romaji": "sakai"
       },
       {
         "example": "境目",
         "reading": "さかいめ",
-        "meaning": "ranh giới"
+        "meaning": {
+          "vi": "ranh giới"
+        },
+        "romaji": "sakaime"
       },
       {
         "example": "生死の境",
         "reading": "せいしのさかい",
-        "meaning": "giữa sự sống và cái chết"
+        "meaning": {
+          "vi": "giữa sự sống và cái chết"
+        },
+        "romaji": "seishinosakai"
       }
     ],
     "radical": {
@@ -420,5 +447,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05883.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5883.gif",
     "uri": "https://jisho.org/search/%E5%A2%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảnh"
+  ]
 }

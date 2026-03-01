@@ -22,59 +22,92 @@
       {
         "example": "竜",
         "reading": "リュウ",
-        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        "meaning": {
+          "vi": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "竜王",
         "reading": "リュウオウ",
-        "meaning": "Dragon King, promoted rook"
+        "meaning": {
+          "vi": "Dragon King, promoted rook"
+        },
+        "romaji": "ryuuou"
       },
       {
         "example": "鎧竜",
         "reading": "ガイリュウ",
-        "meaning": "ankylosaur (any dinosaur of infraorder Ankylosauria)"
+        "meaning": {
+          "en": "ankylosaur (any dinosaur of infraorder Ankylosauria)"
+        },
+        "romaji": "gairyuu"
       },
       {
         "example": "青龍",
         "reading": "セイリョウ",
-        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        "meaning": {
+          "vi": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        },
+        "romaji": "seiryou"
       },
       {
         "example": "竜",
         "reading": "リュウ",
-        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        "meaning": {
+          "vi": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "竜駕",
         "reading": "リョウガ",
-        "meaning": "imperial carriage"
+        "meaning": {
+          "vi": "imperial carriage"
+        },
+        "romaji": "ryouga"
       },
       {
         "example": "青龍",
         "reading": "セイリョウ",
-        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        "meaning": {
+          "vi": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        },
+        "romaji": "seiryou"
       },
       {
         "example": "蛟竜",
         "reading": "コウリョウ",
-        "meaning": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+        "meaning": {
+          "vi": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+        },
+        "romaji": "kouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "竜",
         "reading": "りゅう",
-        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        "meaning": {
+          "vi": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "竜巻",
         "reading": "たつまき",
-        "meaning": "tornado, whirlwind, waterspout, twister"
+        "meaning": {
+          "vi": "tornado, whirlwind, waterspout, twister"
+        },
+        "romaji": "tatsumaki"
       },
       {
         "example": "伊勢海老",
         "reading": "いせえび",
-        "meaning": "spiny lobster (esp. Japanese spiny lobster, Panulirus japonicus)"
+        "meaning": {
+          "vi": "spiny lobster (esp. Japanese spiny lobster, Panulirus japonicus)"
+        },
+        "romaji": "iseebi"
       }
     ],
     "radical": {
@@ -91,5 +124,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07adc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7adc.gif",
     "uri": "https://jisho.org/search/%E7%AB%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "long"
+  ]
 }

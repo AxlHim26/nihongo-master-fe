@@ -14,7 +14,10 @@
       {
         "example": "溌剌",
         "reading": "ハツラツ",
-        "meaning": "lively, vigorous, sprightly, animated, vivid"
+        "meaning": {
+          "vi": "lively, vigorous, sprightly, animated, vivid"
+        },
+        "romaji": "hatsuratsu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e82.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e82.gif",
     "uri": "https://jisho.org/search/%E6%BA%82%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

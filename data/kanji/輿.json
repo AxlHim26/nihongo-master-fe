@@ -17,44 +17,68 @@
       {
         "example": "世論",
         "reading": "ヨロン",
-        "meaning": "public opinion, popular voice, public sentiment, consensus"
+        "meaning": {
+          "vi": "public opinion, popular voice, public sentiment, consensus"
+        },
+        "romaji": "yoron"
       },
       {
         "example": "輿地",
         "reading": "ヨチ",
-        "meaning": "earth, world"
+        "meaning": {
+          "en": "earth, world"
+        },
+        "romaji": "yochi"
       },
       {
         "example": "神輿",
         "reading": "ミコシ",
-        "meaning": "mikoshi, portable Shinto shrine carried through the streets during festivals, palanquin, litter, lower back, waist, hips"
+        "meaning": {
+          "vi": "mikoshi, portable Shinto shrine carried through the streets during festivals, palanquin, litter, lower back, waist, hips"
+        },
+        "romaji": "mikoshi"
       },
       {
         "example": "坤輿",
         "reading": "コンヨ",
-        "meaning": "Earth, the world"
+        "meaning": {
+          "en": "Earth, the world"
+        },
+        "romaji": "kon'yo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輿",
         "reading": "こし",
-        "meaning": "palanquin, litter, bier, portable shrine"
+        "meaning": {
+          "vi": "palanquin, litter, bier, portable shrine"
+        },
+        "romaji": "koshi"
       },
       {
         "example": "輿入れ",
         "reading": "こしいれ",
-        "meaning": "wedding, bridal procession, marriage into a family"
+        "meaning": {
+          "vi": "wedding, bridal procession, marriage into a family"
+        },
+        "romaji": "koshiire"
       },
       {
         "example": "お神輿",
         "reading": "おみこし",
-        "meaning": "mikoshi, portable Shinto shrine carried through the streets during festivals, lower back, waist, hips"
+        "meaning": {
+          "vi": "mikoshi, portable Shinto shrine carried through the streets during festivals, lower back, waist, hips"
+        },
+        "romaji": "omikoshi"
       },
       {
         "example": "神輿",
         "reading": "みこし",
-        "meaning": "mikoshi, portable Shinto shrine carried through the streets during festivals, palanquin, litter, lower back, waist, hips"
+        "meaning": {
+          "vi": "mikoshi, portable Shinto shrine carried through the streets during festivals, palanquin, litter, lower back, waist, hips"
+        },
+        "romaji": "mikoshi"
       }
     ],
     "radical": {
@@ -70,5 +94,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3f.gif",
     "uri": "https://jisho.org/search/%E8%BC%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "dư"
+  ]
 }

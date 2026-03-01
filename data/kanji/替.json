@@ -323,24 +323,36 @@
       {
         "example": "移替",
         "reading": "イタイ",
-        "meaning": "thay đổi (người phụ trách), chuyển"
+        "meaning": {
+          "vi": "thay đổi (người phụ trách), chuyển"
+        },
+        "romaji": "itai"
       },
       {
         "example": "衰替",
         "reading": "スイタイ",
-        "meaning": "suy yếu, suy giảm"
+        "meaning": {
+          "vi": "suy yếu, suy giảm"
+        },
+        "romaji": "suitai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "替える",
         "reading": "かえる",
-        "meaning": "thay thế, đổi, chuyển đổi, đổi mới"
+        "meaning": {
+          "vi": "thay thế, đổi, chuyển đổi, đổi mới"
+        },
+        "romaji": "kaeru"
       },
       {
         "example": "替わる",
         "reading": "かわる",
-        "meaning": "kế tục, thay thế, đổi chỗ, chuyển"
+        "meaning": {
+          "vi": "kế tục, thay thế, đổi chỗ, chuyển"
+        },
+        "romaji": "kawaru"
       }
     ],
     "radical": {
@@ -358,5 +370,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ff.gif",
     "uri": "https://jisho.org/search/%E6%9B%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thế"
+  ]
 }

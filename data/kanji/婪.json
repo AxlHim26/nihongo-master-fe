@@ -16,7 +16,10 @@
       {
         "example": "貪婪",
         "reading": "ドンラン",
-        "meaning": "avarice, greed"
+        "meaning": {
+          "en": "avarice, greed"
+        },
+        "romaji": "donran"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a6a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a6a.gif",
     "uri": "https://jisho.org/search/%E5%A9%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "lam"
+  ]
 }

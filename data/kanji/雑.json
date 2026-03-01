@@ -385,44 +385,68 @@
       {
         "example": "雑",
         "reading": "ザツ",
-        "meaning": "rough, crude, sloppy, messy, miscellaneous"
+        "meaning": {
+          "vi": "rough, crude, sloppy, messy, miscellaneous"
+        },
+        "romaji": "zatsu"
       },
       {
         "example": "雑音",
         "reading": "ザツオン",
-        "meaning": "noise (usu. unpleasant), interference (e.g. radio), static, noise, gossip, irresponsible criticism"
+        "meaning": {
+          "vi": "noise (usu. unpleasant), interference (e.g. radio), static, noise, gossip, irresponsible criticism"
+        },
+        "romaji": "zatsuon"
       },
       {
         "example": "猥雑",
         "reading": "ワイザツ",
-        "meaning": "vulgar, indecent, crude, sordid, jumbled (of a place), disorderly, chaotic, messy"
+        "meaning": {
+          "vi": "vulgar, indecent, crude, sordid, jumbled (of a place), disorderly, chaotic, messy"
+        },
+        "romaji": "waizatsu"
       },
       {
         "example": "交雑",
         "reading": "コウザツ",
-        "meaning": "hybridization, crossing, mixing"
+        "meaning": {
+          "en": "hybridization, crossing, mixing"
+        },
+        "romaji": "kouzatsu"
       },
       {
         "example": "雑",
         "reading": "ゾウ",
-        "meaning": "miscellany (classification of Japanese poetry unrelated to the seasons or to love)"
+        "meaning": {
+          "vi": "miscellany (classification of Japanese poetry unrelated to the seasons or to love)"
+        },
+        "romaji": "zou"
       },
       {
         "example": "雑木林",
         "reading": "ゾウキバヤシ",
-        "meaning": "grove of miscellaneous trees, copse, coppice, thicket"
+        "meaning": {
+          "vi": "grove of miscellaneous trees, copse, coppice, thicket"
+        },
+        "romaji": "zoukibayashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "交える",
         "reading": "まじえる",
-        "meaning": "to mix, to combine, to include, to exchange (words, fire, etc.), to cross (e.g. swords), to join together"
+        "meaning": {
+          "en": "to mix, to combine, to include, to exchange (words, fire, etc.), to cross (e.g. swords), to join together"
+        },
+        "romaji": "majieru"
       },
       {
         "example": "混じる",
         "reading": "まじる",
-        "meaning": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        "meaning": {
+          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+        },
+        "romaji": "majiru"
       }
     ],
     "radical": {
@@ -438,5 +462,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96d1.gif",
     "uri": "https://jisho.org/search/%E9%9B%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "tạp"
+  ]
 }

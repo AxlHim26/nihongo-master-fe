@@ -14,7 +14,10 @@
       {
         "example": "駘蕩",
         "reading": "タイトウ",
-        "meaning": "large and wide, peaceful and calm"
+        "meaning": {
+          "vi": "large and wide, peaceful and calm"
+        },
+        "romaji": "taitou"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d8.gif",
     "uri": "https://jisho.org/search/%E9%A7%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "thai",
+    "đài",
+    "đãi"
+  ]
 }

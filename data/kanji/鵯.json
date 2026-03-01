@@ -17,29 +17,44 @@
       {
         "example": "鵯",
         "reading": "ヒヨドリ",
-        "meaning": "brown-eared bulbul (Hypsipetes amaurotis)"
+        "meaning": {
+          "vi": "brown-eared bulbul (Hypsipetes amaurotis)"
+        },
+        "romaji": "hiyodori"
       },
       {
         "example": "鵯上戸",
         "reading": "ヒヨドリジョウゴ",
-        "meaning": "Solanum lyratum (species of nightshade)"
+        "meaning": {
+          "vi": "Solanum lyratum (species of nightshade)"
+        },
+        "romaji": "hiyodorijougo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鵯",
         "reading": "ひよどり",
-        "meaning": "brown-eared bulbul (Hypsipetes amaurotis)"
+        "meaning": {
+          "vi": "brown-eared bulbul (Hypsipetes amaurotis)"
+        },
+        "romaji": "hiyodori"
       },
       {
         "example": "鵯上戸",
         "reading": "ひよどりじょうご",
-        "meaning": "Solanum lyratum (species of nightshade)"
+        "meaning": {
+          "vi": "Solanum lyratum (species of nightshade)"
+        },
+        "romaji": "hiyodorijougo"
       },
       {
         "example": "磯鵯",
         "reading": "いそひよどり",
-        "meaning": "blue rock-thrush (Monticola solitarius)"
+        "meaning": {
+          "en": "blue rock-thrush (Monticola solitarius)"
+        },
+        "romaji": "isohiyodori"
       }
     ],
     "radical": {
@@ -56,5 +71,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d6f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d6f.gif",
     "uri": "https://jisho.org/search/%E9%B5%AF%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

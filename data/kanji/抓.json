@@ -20,22 +20,34 @@
       {
         "example": "抓る",
         "reading": "つねる",
-        "meaning": "to pinch, to nip"
+        "meaning": {
+          "vi": "to pinch, to nip"
+        },
+        "romaji": "tsuneru"
       },
       {
         "example": "抓る",
         "reading": "つねる",
-        "meaning": "to pinch, to nip"
+        "meaning": {
+          "vi": "to pinch, to nip"
+        },
+        "romaji": "tsuneru"
       },
       {
         "example": "抓る",
         "reading": "つねる",
-        "meaning": "to pinch, to nip"
+        "meaning": {
+          "vi": "to pinch, to nip"
+        },
+        "romaji": "tsuneru"
       },
       {
         "example": "摘む",
         "reading": "つまむ",
-        "meaning": "to pinch, to hold (between one's fingers), to pick up (with chopsticks, tweezers, etc.), to pick up and eat, to snack on, to pick out (the main point), to summarize, to sum up, to bewitch, to possess, to fascinate"
+        "meaning": {
+          "vi": "to pinch, to hold (between one's fingers), to pick up (with chopsticks, tweezers, etc.), to pick up and eat, to snack on, to pick out (the main point), to summarize, to sum up, to bewitch, to possess, to fascinate"
+        },
+        "romaji": "tsumamu"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06293.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6293.gif",
     "uri": "https://jisho.org/search/%E6%8A%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "trao",
+    "trảo"
+  ]
 }

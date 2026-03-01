@@ -409,99 +409,156 @@
       {
         "example": "家",
         "reading": "カ",
-        "meaning": "-ist, -er"
+        "meaning": {
+          "en": "-ist, -er"
+        },
+        "romaji": "ka"
       },
       {
         "example": "家屋",
         "reading": "カオク",
-        "meaning": "house, building"
+        "meaning": {
+          "en": "house, building"
+        },
+        "romaji": "kaoku"
       },
       {
         "example": "研究家",
         "reading": "ケンキュウカ",
-        "meaning": "researcher, student (of)"
+        "meaning": {
+          "en": "researcher, student (of)"
+        },
+        "romaji": "kenkyuuka"
       },
       {
         "example": "活動家",
         "reading": "カツドウカ",
-        "meaning": "activist"
+        "meaning": {
+          "en": "activist"
+        },
+        "romaji": "katsudouka"
       },
       {
         "example": "家",
         "reading": "ケ",
-        "meaning": "house, family"
+        "meaning": {
+          "en": "house, family"
+        },
+        "romaji": "ke"
       },
       {
         "example": "家来",
         "reading": "ケライ",
-        "meaning": "retainer, vassal, follower"
+        "meaning": {
+          "en": "retainer, vassal, follower"
+        },
+        "romaji": "kerai"
       },
       {
         "example": "本家",
         "reading": "ホンケ",
-        "meaning": "head house, main family, founder (of a certain school, style, etc.), originator, birthplace"
+        "meaning": {
+          "vi": "head house, main family, founder (of a certain school, style, etc.), originator, birthplace"
+        },
+        "romaji": "honke"
       },
       {
         "example": "公家",
         "reading": "クゲ",
-        "meaning": "court noble, nobility, kuge, Imperial Court"
+        "meaning": {
+          "vi": "court noble, nobility, kuge, Imperial Court"
+        },
+        "romaji": "kuge"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "家",
         "reading": "いえ",
-        "meaning": "house, residence, dwelling, family, household, lineage, family name"
+        "meaning": {
+          "en": "house, residence, dwelling, family, household, lineage, family name"
+        },
+        "romaji": "ie"
       },
       {
         "example": "家主",
         "reading": "やぬし",
-        "meaning": "landlord, landlady, house owner, home owner, head of the household"
+        "meaning": {
+          "en": "landlord, landlady, house owner, home owner, head of the household"
+        },
+        "romaji": "yanushi"
       },
       {
         "example": "小家",
         "reading": "こいえ",
-        "meaning": "small and simple home"
+        "meaning": {
+          "vi": "small and simple home"
+        },
+        "romaji": "koie"
       },
       {
         "example": "建ち家",
         "reading": "たちいえ",
-        "meaning": "house, building"
+        "meaning": {
+          "en": "house, building"
+        },
+        "romaji": "tachiie"
       },
       {
         "example": "屋",
         "reading": "や",
-        "meaning": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof"
+        "meaning": {
+          "vi": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof"
+        },
+        "romaji": "ya"
       },
       {
         "example": "家内",
         "reading": "かない",
-        "meaning": "(my) wife, inside the home, one's family"
+        "meaning": {
+          "en": "(my) wife, inside the home, one's family"
+        },
+        "romaji": "kanai"
       },
       {
         "example": "長屋",
         "reading": "ながや",
-        "meaning": "tenement house, row house"
+        "meaning": {
+          "en": "tenement house, row house"
+        },
+        "romaji": "nagaya"
       },
       {
         "example": "町家",
         "reading": "まちや",
-        "meaning": "machiya, traditional wooden townhouse, tradesman's house (esp. a home with a shop in front), merchant's house, merchant's family"
+        "meaning": {
+          "vi": "machiya, traditional wooden townhouse, tradesman's house (esp. a home with a shop in front), merchant's house, merchant's family"
+        },
+        "romaji": "machiya"
       },
       {
         "example": "家",
         "reading": "うち",
-        "meaning": "one's house, one's home, one's family, one's household, house"
+        "meaning": {
+          "en": "one's house, one's home, one's family, one's household, house"
+        },
+        "romaji": "uchi"
       },
       {
         "example": "内",
         "reading": "うち",
-        "meaning": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        "meaning": {
+          "vi": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        },
+        "romaji": "uchi"
       },
       {
         "example": "お家",
         "reading": "おうち",
-        "meaning": "your home, your family, their home, their family, (my) home"
+        "meaning": {
+          "en": "your home, your family, their home, their family, (my) home"
+        },
+        "romaji": "ouchi"
       }
     ],
     "radical": {
@@ -516,5 +573,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb6.gif",
     "uri": "https://jisho.org/search/%E5%AE%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "cô",
+    "gia"
+  ]
 }

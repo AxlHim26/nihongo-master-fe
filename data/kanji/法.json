@@ -325,64 +325,100 @@
       {
         "example": "法",
         "reading": "ホウ",
-        "meaning": "law, act, principle, method, mood, dharma, law"
+        "meaning": {
+          "vi": "law, act, principle, method, mood, dharma, law"
+        },
+        "romaji": "hou"
       },
       {
         "example": "法案",
         "reading": "ホウアン",
-        "meaning": "bill (law), measure"
+        "meaning": {
+          "en": "bill (law), measure"
+        },
+        "romaji": "houan"
       },
       {
         "example": "航法",
         "reading": "コウホウ",
-        "meaning": "sailing, navigation"
+        "meaning": {
+          "en": "sailing, navigation"
+        },
+        "romaji": "kouhou"
       },
       {
         "example": "会社更生法",
         "reading": "カイシャコウセイホウ",
-        "meaning": "Corporate Reorganization Act"
+        "meaning": {
+          "vi": "Corporate Reorganization Act"
+        },
+        "romaji": "kaishakouseihou"
       },
       {
         "example": "法被",
         "reading": "ハッピ",
-        "meaning": "happi coat, happy coat, workman's livery coat, traditional Japanese straight-sleeved coat"
+        "meaning": {
+          "vi": "happi coat, happy coat, workman's livery coat, traditional Japanese straight-sleeved coat"
+        },
+        "romaji": "happi"
       },
       {
         "example": "法度",
         "reading": "ハット",
-        "meaning": "ban, prohibition, taboo, something forbidden, law, ordinance (esp. in the middle ages)"
+        "meaning": {
+          "vi": "ban, prohibition, taboo, something forbidden, law, ordinance (esp. in the middle ages)"
+        },
+        "romaji": "hatto"
       },
       {
         "example": "法師",
         "reading": "ホウシ",
-        "meaning": "Buddhist priest, bonze, layman dressed like a priest, person"
+        "meaning": {
+          "vi": "Buddhist priest, bonze, layman dressed like a priest, person"
+        },
+        "romaji": "houshi"
       },
       {
         "example": "法華経",
         "reading": "ホケキョウ",
-        "meaning": "Lotus Sutra"
+        "meaning": {
+          "en": "Lotus Sutra"
+        },
+        "romaji": "hokekyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "法",
         "reading": "のり",
-        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        "meaning": {
+          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        },
+        "romaji": "nori"
       },
       {
         "example": "法の筵",
         "reading": "のりのむしろ",
-        "meaning": "preaching place"
+        "meaning": {
+          "vi": "preaching place"
+        },
+        "romaji": "norinomushiro"
       },
       {
         "example": "内法",
         "reading": "うちのり",
-        "meaning": "inside measure"
+        "meaning": {
+          "en": "inside measure"
+        },
+        "romaji": "uchinori"
       },
       {
         "example": "外法",
         "reading": "そとのり",
-        "meaning": "outside measurements"
+        "meaning": {
+          "en": "outside measurements"
+        },
+        "romaji": "sotonori"
       }
     ],
     "radical": {
@@ -402,5 +438,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cd5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cd5.gif",
     "uri": "https://jisho.org/search/%E6%B3%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "pháp"
+  ]
 }

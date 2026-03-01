@@ -358,39 +358,60 @@
       {
         "example": "要",
         "reading": "ヨウ",
-        "meaning": "main point, essential point, important thing, necessity, need, requirement"
+        "meaning": {
+          "vi": "main point, essential point, important thing, necessity, need, requirement"
+        },
+        "romaji": "you"
       },
       {
         "example": "要因",
         "reading": "ヨウイン",
-        "meaning": "main cause, primary factor"
+        "meaning": {
+          "vi": "main cause, primary factor"
+        },
+        "romaji": "youin"
       },
       {
         "example": "所要",
         "reading": "ショヨウ",
-        "meaning": "required, needed, necessary"
+        "meaning": {
+          "en": "required, needed, necessary"
+        },
+        "romaji": "shoyou"
       },
       {
         "example": "法要",
         "reading": "ホウヨウ",
-        "meaning": "Buddhist memorial service"
+        "meaning": {
+          "en": "Buddhist memorial service"
+        },
+        "romaji": "houyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "要る",
         "reading": "いる",
-        "meaning": "to be needed, to be necessary, to be required, to be wanted, to need, to want"
+        "meaning": {
+          "en": "to be needed, to be necessary, to be required, to be wanted, to need, to want"
+        },
+        "romaji": "iru"
       },
       {
         "example": "要",
         "reading": "かなめ",
-        "meaning": "pivot, vital point, cornerstone, keystone, Japanese photinia"
+        "meaning": {
+          "vi": "pivot, vital point, cornerstone, keystone, Japanese photinia"
+        },
+        "romaji": "kaname"
       },
       {
         "example": "要石",
         "reading": "かなめいし",
-        "meaning": "keystone"
+        "meaning": {
+          "en": "keystone"
+        },
+        "romaji": "kanameishi"
       }
     ],
     "radical": {
@@ -409,5 +430,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08981.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8981.gif",
     "uri": "https://jisho.org/search/%E8%A6%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "yêu",
+    "yếu"
+  ]
 }

@@ -21,64 +21,100 @@
       {
         "example": "恵雨",
         "reading": "ケイウ",
-        "meaning": "welcome rain"
+        "meaning": {
+          "en": "welcome rain"
+        },
+        "romaji": "keiu"
       },
       {
         "example": "恵泉女学園大学",
         "reading": "ケイセンジョガクエンダイガク",
-        "meaning": "Keisen University"
+        "meaning": {
+          "en": "Keisen University"
+        },
+        "romaji": "keisenjogakuendaigaku"
       },
       {
         "example": "互恵",
         "reading": "ゴケイ",
-        "meaning": "reciprocity, mutual benefit"
+        "meaning": {
+          "vi": "reciprocity, mutual benefit"
+        },
+        "romaji": "gokei"
       },
       {
         "example": "慈恵",
         "reading": "ジケイ",
-        "meaning": "mercy and love"
+        "meaning": {
+          "en": "mercy and love"
+        },
+        "romaji": "jikei"
       },
       {
         "example": "恵",
         "reading": "エ",
-        "meaning": "wisdom, enlightenment, prajñā (one of the three divisions of the noble eightfold path), wisdom"
+        "meaning": {
+          "vi": "wisdom, enlightenment, prajñā (one of the three divisions of the noble eightfold path), wisdom"
+        },
+        "romaji": "e"
       },
       {
         "example": "恵比寿",
         "reading": "エビス",
-        "meaning": "Ebisu, god of fishing and commerce"
+        "meaning": {
+          "en": "Ebisu, god of fishing and commerce"
+        },
+        "romaji": "ebisu"
       },
       {
         "example": "悪知恵",
         "reading": "ワルヂエ",
-        "meaning": "cunning, craft, guile, slyness"
+        "meaning": {
+          "en": "cunning, craft, guile, slyness"
+        },
+        "romaji": "warujie"
       },
       {
         "example": "付け知恵",
         "reading": "ツケヂエ",
-        "meaning": "hint, suggestion"
+        "meaning": {
+          "en": "hint, suggestion"
+        },
+        "romaji": "tsukejie"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恵む",
         "reading": "めぐむ",
-        "meaning": "to bless, to show mercy to, to give (money, etc.)"
+        "meaning": {
+          "en": "to bless, to show mercy to, to give (money, etc.)"
+        },
+        "romaji": "megumu"
       },
       {
         "example": "恵み",
         "reading": "めぐみ",
-        "meaning": "blessing, grace"
+        "meaning": {
+          "en": "blessing, grace"
+        },
+        "romaji": "megumi"
       },
       {
         "example": "恵みの雨",
         "reading": "めぐみのあめ",
-        "meaning": "welcome rain, merciful rain, blessed rain, rain after a long dry period"
+        "meaning": {
+          "vi": "welcome rain, merciful rain, blessed rain, rain after a long dry period"
+        },
+        "romaji": "meguminoame"
       },
       {
         "example": "天の恵み",
         "reading": "てんのめぐみ",
-        "meaning": "God's gift, God's blessing, grace of God, godsend"
+        "meaning": {
+          "en": "God's gift, God's blessing, grace of God, godsend"
+        },
+        "romaji": "tennomegumi"
       }
     ],
     "radical": {
@@ -98,5 +134,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06075.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6075.gif",
     "uri": "https://jisho.org/search/%E6%81%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "huệ"
+  ]
 }

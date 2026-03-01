@@ -344,69 +344,108 @@
       {
         "example": "曲折",
         "reading": "キョクセツ",
-        "meaning": "bending, winding, meandering, zigzagging, ups and downs, twists and turns, complications, difficulties, vicissitudes"
+        "meaning": {
+          "vi": "bending, winding, meandering, zigzagging, ups and downs, twists and turns, complications, difficulties, vicissitudes"
+        },
+        "romaji": "kyokusetsu"
       },
       {
         "example": "屈折",
         "reading": "クッセツ",
-        "meaning": "bending, curving, twisting, turning, winding, warping (of feelings, logic, etc.), distortion, twisting, refraction, inflection"
+        "meaning": {
+          "vi": "bending, curving, twisting, turning, winding, warping (of feelings, logic, etc.), distortion, twisting, refraction, inflection"
+        },
+        "romaji": "kussetsu"
       },
       {
         "example": "折伏",
         "reading": "シャクブク",
-        "meaning": "preaching down, breaking down someone's false beliefs through confrontation (in order to convert them to the right faith)"
+        "meaning": {
+          "vi": "preaching down, breaking down someone's false beliefs through confrontation (in order to convert them to the right faith)"
+        },
+        "romaji": "shakubuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "折る",
         "reading": "おる",
-        "meaning": "to break, to fracture, to break off, to snap off, to pick (e.g. flowers), to fold, to bend, to make (origami), to interrupt, to end"
+        "meaning": {
+          "vi": "to break, to fracture, to break off, to snap off, to pick (e.g. flowers), to fold, to bend, to make (origami), to interrupt, to end"
+        },
+        "romaji": "oru"
       },
       {
         "example": "折",
         "reading": "おり",
-        "meaning": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako"
+        "meaning": {
+          "vi": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako"
+        },
+        "romaji": "ori"
       },
       {
         "example": "折り合い",
         "reading": "おりあい",
-        "meaning": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms"
+        "meaning": {
+          "vi": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms"
+        },
+        "romaji": "oriai"
       },
       {
         "example": "折々",
         "reading": "おりおり",
-        "meaning": "occasionally, now and then, from time to time"
+        "meaning": {
+          "en": "occasionally, now and then, from time to time"
+        },
+        "romaji": "oriori"
       },
       {
         "example": "指折り",
         "reading": "ゆびおり",
-        "meaning": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers"
+        "meaning": {
+          "vi": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers"
+        },
+        "romaji": "yubiori"
       },
       {
         "example": "折",
         "reading": "おり",
-        "meaning": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako"
+        "meaning": {
+          "vi": "opportunity, chance, occasion, time, folding, fold, pleat, crease, small food box (wooden or cardboard), folding in ... (two, three, etc.), counter for folded items, counter for items (esp. food) packed in an oribako"
+        },
+        "romaji": "ori"
       },
       {
         "example": "折り合い",
         "reading": "おりあい",
-        "meaning": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms"
+        "meaning": {
+          "vi": "agreement (e.g. business, dispute), understanding, compromise, settlement, relationship, relation, (good, bad, etc.) terms"
+        },
+        "romaji": "oriai"
       },
       {
         "example": "折々",
         "reading": "おりおり",
-        "meaning": "occasionally, now and then, from time to time"
+        "meaning": {
+          "en": "occasionally, now and then, from time to time"
+        },
+        "romaji": "oriori"
       },
       {
         "example": "指折り",
         "reading": "ゆびおり",
-        "meaning": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers"
+        "meaning": {
+          "vi": "leading, prominent, eminent, foremost, distinguished, counting on one's fingers"
+        },
+        "romaji": "yubiori"
       },
       {
         "example": "折れる",
         "reading": "おれる",
-        "meaning": "to break, to be broken, to snap, to fracture, to be folded, to give in, to back down, to yield, to submit, to turn (a corner)"
+        "meaning": {
+          "vi": "to break, to be broken, to snap, to fracture, to be folded, to give in, to back down, to yield, to submit, to turn (a corner)"
+        },
+        "romaji": "oreru"
       }
     ],
     "radical": {
@@ -424,5 +463,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06298.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6298.gif",
     "uri": "https://jisho.org/search/%E6%8A%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiết",
+    "đề"
+  ]
 }

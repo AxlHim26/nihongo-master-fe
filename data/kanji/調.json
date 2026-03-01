@@ -403,54 +403,84 @@
       {
         "example": "調",
         "reading": "チョウ",
-        "meaning": "key, mode (in gagaku), time, tempo, rhythm, meter (of a poem), metre, style, form, mood, pattern, tax in kind (paid with locally produced goods; under the ritsuryō system)"
+        "meaning": {
+          "vi": "key, mode (in gagaku), time, tempo, rhythm, meter (of a poem), metre, style, form, mood, pattern, tax in kind (paid with locally produced goods; under the ritsuryō system)"
+        },
+        "romaji": "chou"
       },
       {
         "example": "調印",
         "reading": "チョウイン",
-        "meaning": "signature, signing, sealing"
+        "meaning": {
+          "en": "signature, signing, sealing"
+        },
+        "romaji": "chouin"
       },
       {
         "example": "長調",
         "reading": "チョウチョウ",
-        "meaning": "major key"
+        "meaning": {
+          "en": "major key"
+        },
+        "romaji": "chouchou"
       },
       {
         "example": "空調",
         "reading": "クウチョウ",
-        "meaning": "air conditioning"
+        "meaning": {
+          "en": "air conditioning"
+        },
+        "romaji": "kuuchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "調べる",
         "reading": "しらべる",
-        "meaning": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+        "meaning": {
+          "vi": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+        },
+        "romaji": "shiraberu"
       },
       {
         "example": "調べ",
         "reading": "しらべ",
-        "meaning": "investigation, inspection, examination, tune, note, melody"
+        "meaning": {
+          "vi": "investigation, inspection, examination, tune, note, melody"
+        },
+        "romaji": "shirabe"
       },
       {
         "example": "調べる",
         "reading": "しらべる",
-        "meaning": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+        "meaning": {
+          "vi": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search"
+        },
+        "romaji": "shiraberu"
       },
       {
         "example": "取り調べ",
         "reading": "とりしらべ",
-        "meaning": "investigation (e.g. by police or prosecutors), examination, inquiry, enquiry"
+        "meaning": {
+          "vi": "investigation (e.g. by police or prosecutors), examination, inquiry, enquiry"
+        },
+        "romaji": "torishirabe"
       },
       {
         "example": "整う",
         "reading": "ととのう",
-        "meaning": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed"
+        "meaning": {
+          "vi": "to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face), to be settled (e.g. treaty, contract), to be completed"
+        },
+        "romaji": "totonou"
       },
       {
         "example": "整える",
         "reading": "ととのえる",
-        "meaning": "to put in order, to arrange, to tidy up, to fix, to straighten, to get ready, to prepare, to arrange, to supply, to assemble, to buy, to adjust, to regulate (e.g. rhythm, tune, one's breathing), to work out (e.g. business deal), to arrange (e.g. marriage), to settle"
+        "meaning": {
+          "vi": "to put in order, to arrange, to tidy up, to fix, to straighten, to get ready, to prepare, to arrange, to supply, to assemble, to buy, to adjust, to regulate (e.g. rhythm, tune, one's breathing), to work out (e.g. business deal), to arrange (e.g. marriage), to settle"
+        },
+        "romaji": "totonoeru"
       }
     ],
     "radical": {
@@ -470,5 +500,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08abf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8abf.gif",
     "uri": "https://jisho.org/search/%E8%AA%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "điều",
+    "điệu"
+  ]
 }

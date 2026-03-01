@@ -17,19 +17,28 @@
       {
         "example": "暗記",
         "reading": "アンキ",
-        "meaning": "memorization, memorisation, learning by heart"
+        "meaning": {
+          "en": "memorization, memorisation, learning by heart"
+        },
+        "romaji": "anki"
       },
       {
         "example": "諳厄利亜",
         "reading": "アンゲリア",
-        "meaning": "United Kingdom, Britain, England"
+        "meaning": {
+          "en": "United Kingdom, Britain, England"
+        },
+        "romaji": "angeria"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "諳んじる",
         "reading": "そらんじる",
-        "meaning": "to memorize, to memorise, to recite from memory"
+        "meaning": {
+          "en": "to memorize, to memorise, to recite from memory"
+        },
+        "romaji": "soranjiru"
       }
     ],
     "radical": {
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08af3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8af3.gif",
     "uri": "https://jisho.org/search/%E8%AB%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "am"
+  ]
 }

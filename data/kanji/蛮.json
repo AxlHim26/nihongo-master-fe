@@ -19,22 +19,34 @@
       {
         "example": "蛮勇",
         "reading": "バンユウ",
-        "meaning": "foolhardiness, recklessness, savage valour, savage valor, brute courage"
+        "meaning": {
+          "en": "foolhardiness, recklessness, savage valour, savage valor, brute courage"
+        },
+        "romaji": "ban'yuu"
       },
       {
         "example": "蛮行",
         "reading": "バンコウ",
-        "meaning": "act of barbarity, barbarism, brutality, savagery"
+        "meaning": {
+          "en": "act of barbarity, barbarism, brutality, savagery"
+        },
+        "romaji": "bankou"
       },
       {
         "example": "南蛮",
         "reading": "ナンバン",
-        "meaning": "southern barbarians (name used in ancient China for non-Chinese ethnic groups to the south), South-East Asian countries (in the late-Muromachi and Edo periods), Western Europe (esp. Spain and Portugal and their South-East Asian colonies; late-Muromachi and Edo periods), foreign (of goods from South-East Asia and Western Europe), exotic (esp. in a Western European or South-East Asian style), chili pepper, nanban, dish prepared using chili peppers and Welsh onions, thrusting the right foot and right arm forward at the same time (or left foot and left arm; in kabuki, dance, puppetry, etc.)"
+        "meaning": {
+          "vi": "southern barbarians (name used in ancient China for non-Chinese ethnic groups to the south), South-East Asian countries (in the late-Muromachi and Edo periods), Western Europe (esp. Spain and Portugal and their South-East Asian colonies; late-Muromachi and Edo periods), foreign (of goods from South-East Asia and Western Europe), exotic (esp. in a Western European or South-East Asian style), chili pepper, nanban, dish prepared using chili peppers and Welsh onions, thrusting the right foot and right arm forward at the same time (or left foot and left arm; in kabuki, dance, puppetry, etc.)"
+        },
+        "romaji": "nanban"
       },
       {
         "example": "生蕃",
         "reading": "セイバン",
-        "meaning": "unconquered savage, uncivilized aboriginal, aboriginal Taiwanese tribes outside Qing China's jurisdiction"
+        "meaning": {
+          "en": "unconquered savage, uncivilized aboriginal, aboriginal Taiwanese tribes outside Qing China's jurisdiction"
+        },
+        "romaji": "seiban"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ee.gif",
     "uri": "https://jisho.org/search/%E8%9B%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "man"
+  ]
 }

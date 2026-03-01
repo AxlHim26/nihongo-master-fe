@@ -18,29 +18,44 @@
       {
         "example": "撫育",
         "reading": "ブイク",
-        "meaning": "care, tending"
+        "meaning": {
+          "en": "care, tending"
+        },
+        "romaji": "buiku"
       },
       {
         "example": "撫する",
         "reading": "ブスル",
-        "meaning": "to stroke, to caress"
+        "meaning": {
+          "en": "to stroke, to caress"
+        },
+        "romaji": "busuru"
       },
       {
         "example": "慰撫",
         "reading": "イブ",
-        "meaning": "pacification, soothing"
+        "meaning": {
+          "vi": "pacification, soothing"
+        },
+        "romaji": "ibu"
       },
       {
         "example": "綏撫",
         "reading": "スイブ",
-        "meaning": "lulled into peacefulness, comforted and consoled"
+        "meaning": {
+          "vi": "lulled into peacefulness, comforted and consoled"
+        },
+        "romaji": "suibu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撫でる",
         "reading": "なでる",
-        "meaning": "to stroke, to caress, to brush gently, to pat, to rub, to comb (hair), to smooth down"
+        "meaning": {
+          "vi": "to stroke, to caress, to brush gently, to pat, to rub, to comb (hair), to smooth down"
+        },
+        "romaji": "naderu"
       }
     ],
     "radical": {
@@ -63,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ab.gif",
     "uri": "https://jisho.org/search/%E6%92%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô",
+    "phủ"
+  ]
 }

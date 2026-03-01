@@ -295,29 +295,44 @@
       {
         "example": "吸収",
         "reading": "キュウシュウ",
-        "meaning": "absorption, suction, attraction"
+        "meaning": {
+          "vi": "absorption, suction, attraction"
+        },
+        "romaji": "kyuushuu"
       },
       {
         "example": "吸血鬼",
         "reading": "キュウケツキ",
-        "meaning": "vampire, bloodsucker"
+        "meaning": {
+          "vi": "vampire, bloodsucker"
+        },
+        "romaji": "kyuuketsuki"
       },
       {
         "example": "腹式呼吸",
         "reading": "フクシキコキュウ",
-        "meaning": "diaphragmatic breathing, abdominal breathing"
+        "meaning": {
+          "vi": "diaphragmatic breathing, abdominal breathing"
+        },
+        "romaji": "fukushikikokyuu"
       },
       {
         "example": "外呼吸",
         "reading": "ガイコキュウ",
-        "meaning": "external respiration"
+        "meaning": {
+          "vi": "external respiration"
+        },
+        "romaji": "gaikokyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吸う",
         "reading": "すう",
-        "meaning": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss"
+        "meaning": {
+          "vi": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss"
+        },
+        "romaji": "suu"
       }
     ],
     "radical": {
@@ -333,5 +348,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05438.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5438.gif",
     "uri": "https://jisho.org/search/%E5%90%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hấp"
+  ]
 }

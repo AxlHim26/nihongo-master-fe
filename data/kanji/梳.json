@@ -20,39 +20,60 @@
       {
         "example": "梳綿機",
         "reading": "ソメンキ",
-        "meaning": "carding machine"
+        "meaning": {
+          "en": "carding machine"
+        },
+        "romaji": "somenki"
       },
       {
         "example": "梳毛",
         "reading": "ソモウ",
-        "meaning": "combed wool (yarn)"
+        "meaning": {
+          "en": "combed wool (yarn)"
+        },
+        "romaji": "somou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "解く",
         "reading": "とく",
-        "meaning": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)"
+        "meaning": {
+          "vi": "to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (misunderstanding, etc.), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)"
+        },
+        "romaji": "toku"
       },
       {
         "example": "梳かす",
         "reading": "とかす",
-        "meaning": "to comb out, to brush, to untangle, to unravel"
+        "meaning": {
+          "en": "to comb out, to brush, to untangle, to unravel"
+        },
+        "romaji": "tokasu"
       },
       {
         "example": "梳く",
         "reading": "すく",
-        "meaning": "to comb (out), to card, to untangle (hair), to thin (hair), to reduce in volume"
+        "meaning": {
+          "en": "to comb (out), to card, to untangle (hair), to thin (hair), to reduce in volume"
+        },
+        "romaji": "suku"
       },
       {
         "example": "梳る",
         "reading": "くしけずる",
-        "meaning": "to comb"
+        "meaning": {
+          "en": "to comb"
+        },
+        "romaji": "kushikezuru"
       },
       {
         "example": "梳る",
         "reading": "くしけずる",
-        "meaning": "to comb"
+        "meaning": {
+          "en": "to comb"
+        },
+        "romaji": "kushikezuru"
       }
     ],
     "radical": {
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b3.gif",
     "uri": "https://jisho.org/search/%E6%A2%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "sơ"
+  ]
 }

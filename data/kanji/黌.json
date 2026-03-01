@@ -15,7 +15,10 @@
       {
         "example": "藩校",
         "reading": "ハンコウ",
-        "meaning": "trường han, trường do daimyo lập để giáo dục con em gia thần"
+        "meaning": {
+          "vi": "trường han, trường do daimyo lập để giáo dục con em gia thần"
+        },
+        "romaji": "hankou"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ecc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ecc.gif",
     "uri": "https://jisho.org/search/%E9%BB%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "huỳnh"
+  ]
 }

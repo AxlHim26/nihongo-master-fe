@@ -18,34 +18,52 @@
       {
         "example": "賛",
         "reading": "サン",
-        "meaning": "khen ngợi, đề từ (trên tranh)"
+        "meaning": {
+          "vi": "khen ngợi, đề từ (trên tranh)"
+        },
+        "romaji": "san"
       },
       {
         "example": "賛歌",
         "reading": "サンカ",
-        "meaning": "bài ca tán tụng"
+        "meaning": {
+          "vi": "bài ca tán tụng"
+        },
+        "romaji": "sanka"
       },
       {
         "example": "絶賛",
         "reading": "ゼッサン",
-        "meaning": "ca ngợi nhiệt liệt, đang, hiện tại"
+        "meaning": {
+          "vi": "ca ngợi nhiệt liệt, đang, hiện tại"
+        },
+        "romaji": "zessan"
       },
       {
         "example": "礼賛",
         "reading": "ライサン",
-        "meaning": "tán tụng, thờ phụng"
+        "meaning": {
+          "vi": "tán tụng, thờ phụng"
+        },
+        "romaji": "raisan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "褒める",
         "reading": "ほめる",
-        "meaning": "khen ngợi, tán dương"
+        "meaning": {
+          "vi": "khen ngợi, tán dương"
+        },
+        "romaji": "homeru"
       },
       {
         "example": "称える",
         "reading": "たたえる",
-        "meaning": "khen ngợi, ca tụng"
+        "meaning": {
+          "vi": "khen ngợi, ca tụng"
+        },
+        "romaji": "tataeru"
       }
     ],
     "radical": {
@@ -69,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b83.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b83.gif",
     "uri": "https://jisho.org/search/%E8%AE%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "tán"
+  ]
 }

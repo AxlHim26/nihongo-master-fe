@@ -17,12 +17,18 @@
       {
         "example": "公廨",
         "reading": "クガイ",
-        "meaning": "government office"
+        "meaning": {
+          "en": "government office"
+        },
+        "romaji": "kugai"
       },
       {
         "example": "官廨",
         "reading": "カンカイ",
-        "meaning": "government office, government agency"
+        "meaning": {
+          "en": "government office, government agency"
+        },
+        "romaji": "kankai"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee8.gif",
     "uri": "https://jisho.org/search/%E5%BB%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "giải",
+    "giới"
+  ]
 }

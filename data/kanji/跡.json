@@ -310,39 +310,60 @@
       {
         "example": "跡",
         "reading": "セキ",
-        "meaning": "trace"
+        "meaning": {
+          "en": "trace"
+        },
+        "romaji": "seki"
       },
       {
         "example": "史跡",
         "reading": "シセキ",
-        "meaning": "historic landmark, historic site, historic remains"
+        "meaning": {
+          "en": "historic landmark, historic site, historic remains"
+        },
+        "romaji": "shiseki"
       },
       {
         "example": "軌跡",
         "reading": "キセキ",
-        "meaning": "tire track, traces of a person or thing, path one has taken, locus"
+        "meaning": {
+          "vi": "tire track, traces of a person or thing, path one has taken, locus"
+        },
+        "romaji": "kiseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "跡",
         "reading": "あと",
-        "meaning": "trace, tracks, mark, sign, site, remains, ruins, scar"
+        "meaning": {
+          "en": "trace, tracks, mark, sign, site, remains, ruins, scar"
+        },
+        "romaji": "ato"
       },
       {
         "example": "後始末",
         "reading": "あとしまつ",
-        "meaning": "settlement (of a matter), sorting out, winding up (affairs), dealing with the aftermath, cleaning up afterwards, tidying up (when finished)"
+        "meaning": {
+          "vi": "settlement (of a matter), sorting out, winding up (affairs), dealing with the aftermath, cleaning up afterwards, tidying up (when finished)"
+        },
+        "romaji": "atoshimatsu"
       },
       {
         "example": "焼け跡",
         "reading": "やけあと",
-        "meaning": "ruins of a fire, fire-devastated area"
+        "meaning": {
+          "en": "ruins of a fire, fire-devastated area"
+        },
+        "romaji": "yakeato"
       },
       {
         "example": "後々",
         "reading": "あとあと",
-        "meaning": "future, distant future"
+        "meaning": {
+          "en": "future, distant future"
+        },
+        "romaji": "atoato"
       }
     ],
     "radical": {
@@ -363,5 +384,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08de1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8de1.gif",
     "uri": "https://jisho.org/search/%E8%B7%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích"
+  ]
 }

@@ -15,22 +15,34 @@
       {
         "example": "炬燵",
         "reading": "コタツ",
-        "meaning": "kotatsu, table over an electric heater, with a hanging quilt to retain heat (orig. over a charcoal brazier in a floor well)"
+        "meaning": {
+          "en": "kotatsu, table over an electric heater, with a hanging quilt to retain heat (orig. over a charcoal brazier in a floor well)"
+        },
+        "romaji": "kotatsu"
       },
       {
         "example": "炬火",
         "reading": "キョカ",
-        "meaning": "pine torch, torchlight, firebrand, bonfire"
+        "meaning": {
+          "vi": "pine torch, torchlight, firebrand, bonfire"
+        },
+        "romaji": "kyoka"
       },
       {
         "example": "炬",
         "reading": "キョ",
-        "meaning": "torch"
+        "meaning": {
+          "en": "torch"
+        },
+        "romaji": "kyo"
       },
       {
         "example": "炬火",
         "reading": "キョカ",
-        "meaning": "pine torch, torchlight, firebrand, bonfire"
+        "meaning": {
+          "vi": "pine torch, torchlight, firebrand, bonfire"
+        },
+        "romaji": "kyoka"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70ac.gif",
     "uri": "https://jisho.org/search/%E7%82%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cự"
+  ]
 }

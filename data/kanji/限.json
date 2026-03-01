@@ -311,49 +311,76 @@
       {
         "example": "限定",
         "reading": "ゲンテイ",
-        "meaning": "limit, restriction"
+        "meaning": {
+          "en": "limit, restriction"
+        },
+        "romaji": "gentei"
       },
       {
         "example": "限界",
         "reading": "ゲンカイ",
-        "meaning": "limit, bound"
+        "meaning": {
+          "en": "limit, bound"
+        },
+        "romaji": "genkai"
       },
       {
         "example": "上限",
         "reading": "ジョウゲン",
-        "meaning": "upper limit, supremum"
+        "meaning": {
+          "vi": "upper limit, supremum"
+        },
+        "romaji": "jougen"
       },
       {
         "example": "有限",
         "reading": "ユウゲン",
-        "meaning": "finite, limited"
+        "meaning": {
+          "en": "finite, limited"
+        },
+        "romaji": "yuugen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "限る",
         "reading": "かぎる",
-        "meaning": "to restrict, to limit, to confine, to be restricted to, to be limited to, to be confined to, to be best (for), to be the best plan, to be the only way (to)"
+        "meaning": {
+          "vi": "to restrict, to limit, to confine, to be restricted to, to be limited to, to be confined to, to be best (for), to be the best plan, to be the only way (to)"
+        },
+        "romaji": "kagiru"
       },
       {
         "example": "限り",
         "reading": "かぎり",
-        "meaning": "limit, limits, bounds, degree, extent, scope, the end, the last, as long as ..., as far as ..., as much as ..., to the limits of ..., all of ..., unless ..., (not) included in ..., (not) part of ..., being very much (in a certain state), extreme amount (of a feeling, etc.), ... only (e.g. \"one time only\", \"today only\"), end of one's life, final moments, death, funeral, burial"
+        "meaning": {
+          "vi": "limit, limits, bounds, degree, extent, scope, the end, the last, as long as ..., as far as ..., as much as ..., to the limits of ..., all of ..., unless ..., (not) included in ..., (not) part of ..., being very much (in a certain state), extreme amount (of a feeling, etc.), ... only (e.g. \"one time only\", \"today only\"), end of one's life, final moments, death, funeral, burial"
+        },
+        "romaji": "kagiri"
       },
       {
         "example": "限りない",
         "reading": "かぎりない",
-        "meaning": "unlimited, endless, boundless, infinite"
+        "meaning": {
+          "en": "unlimited, endless, boundless, infinite"
+        },
+        "romaji": "kagirinai"
       },
       {
         "example": "中限",
         "reading": "なかぎり",
-        "meaning": "next-month delivery"
+        "meaning": {
+          "en": "next-month delivery"
+        },
+        "romaji": "nakagiri"
       },
       {
         "example": "お見限り",
         "reading": "おみかぎり",
-        "meaning": "ceased patronage (of a client, customer, etc.), discontinued attendance"
+        "meaning": {
+          "vi": "ceased patronage (of a client, customer, etc.), discontinued attendance"
+        },
+        "romaji": "omikagiri"
       }
     ],
     "radical": {
@@ -371,5 +398,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09650.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9650.gif",
     "uri": "https://jisho.org/search/%E9%99%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạn"
+  ]
 }

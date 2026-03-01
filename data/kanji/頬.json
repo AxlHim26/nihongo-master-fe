@@ -18,44 +18,68 @@
       {
         "example": "頬筋",
         "reading": "キョウキン",
-        "meaning": "buccinator muscle"
+        "meaning": {
+          "en": "buccinator muscle"
+        },
+        "romaji": "kyoukin"
       },
       {
         "example": "頬骨",
         "reading": "ホオボネ",
-        "meaning": "cheekbone, zygomatic bone, malar bone"
+        "meaning": {
+          "en": "cheekbone, zygomatic bone, malar bone"
+        },
+        "romaji": "hoobone"
       },
       {
         "example": "双頬",
         "reading": "ソウキョウ",
-        "meaning": "both cheeks"
+        "meaning": {
+          "en": "both cheeks"
+        },
+        "romaji": "soukyou"
       },
       {
         "example": "豊頬",
         "reading": "ホウキョウ",
-        "meaning": "plump cheeks, attractive cheeks"
+        "meaning": {
+          "vi": "plump cheeks, attractive cheeks"
+        },
+        "romaji": "houkyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頬",
         "reading": "ほお",
-        "meaning": "cheek (of the face)"
+        "meaning": {
+          "en": "cheek (of the face)"
+        },
+        "romaji": "hoo"
       },
       {
         "example": "微笑む",
         "reading": "ほほえむ",
-        "meaning": "to smile"
+        "meaning": {
+          "en": "to smile"
+        },
+        "romaji": "hohoemu"
       },
       {
         "example": "頬",
         "reading": "ほお",
-        "meaning": "cheek (of the face)"
+        "meaning": {
+          "en": "cheek (of the face)"
+        },
+        "romaji": "hoo"
       },
       {
         "example": "微笑む",
         "reading": "ほほえむ",
-        "meaning": "to smile"
+        "meaning": {
+          "en": "to smile"
+        },
+        "romaji": "hohoemu"
       }
     ],
     "radical": {
@@ -76,5 +100,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0982c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/982c.gif",
     "uri": "https://jisho.org/search/%E9%A0%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "giáp"
+  ]
 }

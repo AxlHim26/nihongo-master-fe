@@ -16,19 +16,28 @@
       {
         "example": "擂潰",
         "reading": "ライカイ",
-        "meaning": "grinding"
+        "meaning": {
+          "en": "grinding"
+        },
+        "romaji": "raikai"
       },
       {
         "example": "擂盆",
         "reading": "ライボン",
-        "meaning": "mortar (for grinding), mortar-shaped container"
+        "meaning": {
+          "vi": "mortar (for grinding), mortar-shaped container"
+        },
+        "romaji": "raibon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "擦る",
         "reading": "する",
-        "meaning": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+        "meaning": {
+          "en": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+        },
+        "romaji": "suru"
       }
     ],
     "radical": {
@@ -47,5 +56,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064c2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64c2.gif",
     "uri": "https://jisho.org/search/%E6%93%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "luỵ",
+    "lôi"
+  ]
 }

@@ -356,44 +356,68 @@
       {
         "example": "残",
         "reading": "ザン",
-        "meaning": "remainder, the rest, what is left"
+        "meaning": {
+          "en": "remainder, the rest, what is left"
+        },
+        "romaji": "zan"
       },
       {
         "example": "残虐",
         "reading": "ザンギャク",
-        "meaning": "cruel, brutal, savage, barbarous"
+        "meaning": {
+          "en": "cruel, brutal, savage, barbarous"
+        },
+        "romaji": "zangyaku"
       },
       {
         "example": "敗残",
         "reading": "ハイザン",
-        "meaning": "survival after defeat, decline (of a person, business, etc.), ruin"
+        "meaning": {
+          "vi": "survival after defeat, decline (of a person, business, etc.), ruin"
+        },
+        "romaji": "haizan"
       },
       {
         "example": "遺残",
         "reading": "イザン",
-        "meaning": "persistence, vestigial remnant"
+        "meaning": {
+          "vi": "persistence, vestigial remnant"
+        },
+        "romaji": "izan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "残る",
         "reading": "のこる",
-        "meaning": "to remain, to be left"
+        "meaning": {
+          "en": "to remain, to be left"
+        },
+        "romaji": "nokoru"
       },
       {
         "example": "残す",
         "reading": "のこす",
-        "meaning": "to leave (behind), to leave (undone), to not finish, to save, to set aside, to reserve, to leave (to someone, esp. after one's death), to bequeath, to stay (in the ring), to hold on"
+        "meaning": {
+          "vi": "to leave (behind), to leave (undone), to not finish, to save, to set aside, to reserve, to leave (to someone, esp. after one's death), to bequeath, to stay (in the ring), to hold on"
+        },
+        "romaji": "nokosu"
       },
       {
         "example": "残り",
         "reading": "のこり",
-        "meaning": "remainder, remnant, the rest, what is left, balance, leftovers"
+        "meaning": {
+          "en": "remainder, remnant, the rest, what is left, balance, leftovers"
+        },
+        "romaji": "nokori"
       },
       {
         "example": "残り惜しい",
         "reading": "のこりおしい",
-        "meaning": "regrettable, reluctant"
+        "meaning": {
+          "en": "regrettable, reluctant"
+        },
+        "romaji": "nokorioshii"
       }
     ],
     "radical": {
@@ -412,5 +436,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b8b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b8b.gif",
     "uri": "https://jisho.org/search/%E6%AE%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tàn"
+  ]
 }

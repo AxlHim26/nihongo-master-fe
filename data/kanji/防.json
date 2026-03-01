@@ -333,29 +333,44 @@
       {
         "example": "防衛施設庁",
         "reading": "ボウエイシセツチョウ",
-        "meaning": "(Japanese) Defense Facilities Administration Agency (Defence)"
+        "meaning": {
+          "vi": "(Japanese) Defense Facilities Administration Agency (Defence)"
+        },
+        "romaji": "boueishisetsuchou"
       },
       {
         "example": "防衛",
         "reading": "ボウエイ",
-        "meaning": "defense, defence, protection"
+        "meaning": {
+          "vi": "defense, defence, protection"
+        },
+        "romaji": "bouei"
       },
       {
         "example": "砂防",
         "reading": "サボウ",
-        "meaning": "erosion control"
+        "meaning": {
+          "en": "erosion control"
+        },
+        "romaji": "sabou"
       },
       {
         "example": "攻防",
         "reading": "コウボウ",
-        "meaning": "offense and defense, offence and defence"
+        "meaning": {
+          "en": "offense and defense, offence and defence"
+        },
+        "romaji": "koubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "防ぐ",
         "reading": "ふせぐ",
-        "meaning": "to defend against, to protect against, to prevent, to avert, to avoid"
+        "meaning": {
+          "vi": "to defend against, to protect against, to prevent, to avert, to avoid"
+        },
+        "romaji": "fusegu"
       }
     ],
     "radical": {
@@ -373,5 +388,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09632.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9632.gif",
     "uri": "https://jisho.org/search/%E9%98%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "phòng"
+  ]
 }

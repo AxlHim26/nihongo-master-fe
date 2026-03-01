@@ -253,22 +253,34 @@
       {
         "example": "章",
         "reading": "ショウ",
-        "meaning": "chapter, section, medal, badge, insignia"
+        "meaning": {
+          "vi": "chapter, section, medal, badge, insignia"
+        },
+        "romaji": "shou"
       },
       {
         "example": "章句",
         "reading": "ショウク",
-        "meaning": "chapter and verse, paragraph, passage"
+        "meaning": {
+          "vi": "chapter and verse, paragraph, passage"
+        },
+        "romaji": "shouku"
       },
       {
         "example": "受章",
         "reading": "ジュショウ",
-        "meaning": "reception of a decoration, reception of an order"
+        "meaning": {
+          "vi": "reception of a decoration, reception of an order"
+        },
+        "romaji": "jushou"
       },
       {
         "example": "楽章",
         "reading": "ガクショウ",
-        "meaning": "movement"
+        "meaning": {
+          "en": "movement"
+        },
+        "romaji": "gakushou"
       }
     ],
     "kunyomiExamples": [],
@@ -286,5 +298,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ae0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ae0.gif",
     "uri": "https://jisho.org/search/%E7%AB%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "chương"
+  ]
 }

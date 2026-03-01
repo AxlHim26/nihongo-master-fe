@@ -17,17 +17,26 @@
       {
         "example": "舎人",
         "reading": "シャジン",
-        "meaning": "servant, valet, footman, someone who works in close quarters with the emperor or imperial family, low-ranking official who works for the imperial family or nobility (under the ritsuryō system), ox-tender for oxcarts, horse boy, honorary junior official of the Imperial Household Department's Board of Ceremonies involved in miscellaneous duties related to ceremonies"
+        "meaning": {
+          "vi": "servant, valet, footman, someone who works in close quarters with the emperor or imperial family, low-ranking official who works for the imperial family or nobility (under the ritsuryō system), ox-tender for oxcarts, horse boy, honorary junior official of the Imperial Household Department's Board of Ceremonies involved in miscellaneous duties related to ceremonies"
+        },
+        "romaji": "shajin"
       },
       {
         "example": "公舎",
         "reading": "コウシャ",
-        "meaning": "official residence"
+        "meaning": {
+          "en": "official residence"
+        },
+        "romaji": "kousha"
       },
       {
         "example": "官舎",
         "reading": "カンシャ",
-        "meaning": "official residence"
+        "meaning": {
+          "en": "official residence"
+        },
+        "romaji": "kansha"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0820d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/820d.gif",
     "uri": "https://jisho.org/search/%E8%88%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "xá",
+    "xả"
+  ]
 }

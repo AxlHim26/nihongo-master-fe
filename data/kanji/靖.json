@@ -19,17 +19,26 @@
       {
         "example": "靖国",
         "reading": "セイコク",
-        "meaning": "pacifying the nation"
+        "meaning": {
+          "vi": "pacifying the nation"
+        },
+        "romaji": "seikoku"
       },
       {
         "example": "静寧",
         "reading": "セイネイ",
-        "meaning": "peace, calm, tranquility"
+        "meaning": {
+          "vi": "peace, calm, tranquility"
+        },
+        "romaji": "seinei"
       },
       {
         "example": "閑靖",
         "reading": "カンセイ",
-        "meaning": "tranquillity, quiet"
+        "meaning": {
+          "en": "tranquillity, quiet"
+        },
+        "romaji": "kansei"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09756.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9756.gif",
     "uri": "https://jisho.org/search/%E9%9D%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "tĩnh",
+    "tịnh"
+  ]
 }

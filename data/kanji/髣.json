@@ -14,7 +14,10 @@
       {
         "example": "彷彿",
         "reading": "ホウフツ",
-        "meaning": "(bearing a) close resemblance, vivid reminder (e.g. of the past), dim, faint, vague, blurred"
+        "meaning": {
+          "vi": "(bearing a) close resemblance, vivid reminder (e.g. of the past), dim, faint, vague, blurred"
+        },
+        "romaji": "houfutsu"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ae3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ae3.gif",
     "uri": "https://jisho.org/search/%E9%AB%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "phảng"
+  ]
 }

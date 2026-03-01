@@ -312,54 +312,84 @@
       {
         "example": "恋愛",
         "reading": "レンアイ",
-        "meaning": "love, love-making, passion, emotion, affections"
+        "meaning": {
+          "vi": "love, love-making, passion, emotion, affections"
+        },
+        "romaji": "ren'ai"
       },
       {
         "example": "恋歌",
         "reading": "コイウタ",
-        "meaning": "love song, love poem"
+        "meaning": {
+          "vi": "love song, love poem"
+        },
+        "romaji": "koiuta"
       },
       {
         "example": "悲恋",
         "reading": "ヒレン",
-        "meaning": "blighted love, disappointed love"
+        "meaning": {
+          "vi": "blighted love, disappointed love"
+        },
+        "romaji": "hiren"
       },
       {
         "example": "狂恋",
         "reading": "キョウレン",
-        "meaning": "mad love, excessive infatuation"
+        "meaning": {
+          "en": "mad love, excessive infatuation"
+        },
+        "romaji": "kyouren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恋う",
         "reading": "こう",
-        "meaning": "to love"
+        "meaning": {
+          "en": "to love"
+        },
+        "romaji": "kou"
       },
       {
         "example": "恋",
         "reading": "こい",
-        "meaning": "(romantic) love"
+        "meaning": {
+          "en": "(romantic) love"
+        },
+        "romaji": "koi"
       },
       {
         "example": "恋人",
         "reading": "こいびと",
-        "meaning": "lover, sweetheart, boyfriend, girlfriend"
+        "meaning": {
+          "en": "lover, sweetheart, boyfriend, girlfriend"
+        },
+        "romaji": "koibito"
       },
       {
         "example": "リア恋",
         "reading": "リアこい",
-        "meaning": "being in love with an idol, actor, etc., fan who is in love with an idol, actor, etc."
+        "meaning": {
+          "en": "being in love with an idol, actor, etc., fan who is in love with an idol, actor, etc."
+        },
+        "romaji": "riakoi"
       },
       {
         "example": "片恋",
         "reading": "かたこい",
-        "meaning": "unrequited love, one-sided love"
+        "meaning": {
+          "en": "unrequited love, one-sided love"
+        },
+        "romaji": "katakoi"
       },
       {
         "example": "恋しい",
         "reading": "こいしい",
-        "meaning": "yearned for, longed for, missed"
+        "meaning": {
+          "en": "yearned for, longed for, missed"
+        },
+        "romaji": "koishii"
       }
     ],
     "radical": {
@@ -379,5 +409,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0604b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/604b.gif",
     "uri": "https://jisho.org/search/%E6%81%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "luyến"
+  ]
 }

@@ -18,7 +18,10 @@
       {
         "example": "蔕",
         "reading": "へた",
-        "meaning": "calyx"
+        "meaning": {
+          "en": "calyx"
+        },
+        "romaji": "heta"
       }
     ],
     "radical": {
@@ -40,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08515.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8515.gif",
     "uri": "https://jisho.org/search/%E8%94%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "đế"
+  ]
 }

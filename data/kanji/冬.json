@@ -316,44 +316,68 @@
       {
         "example": "冬季",
         "reading": "トウキ",
-        "meaning": "winter season, winter"
+        "meaning": {
+          "en": "winter season, winter"
+        },
+        "romaji": "touki"
       },
       {
         "example": "冬期",
         "reading": "トウキ",
-        "meaning": "winter, wintertime, winter term"
+        "meaning": {
+          "en": "winter, wintertime, winter term"
+        },
+        "romaji": "touki"
       },
       {
         "example": "越冬",
         "reading": "エットウ",
-        "meaning": "passing the winter, hibernation"
+        "meaning": {
+          "vi": "passing the winter, hibernation"
+        },
+        "romaji": "ettou"
       },
       {
         "example": "春夏秋冬",
         "reading": "シュンカシュウトウ",
-        "meaning": "spring, summer, autumn (fall) and winter, the four seasons"
+        "meaning": {
+          "vi": "spring, summer, autumn (fall) and winter, the four seasons"
+        },
+        "romaji": "shunkashuutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "冬",
         "reading": "ふゆ",
-        "meaning": "winter"
+        "meaning": {
+          "en": "winter"
+        },
+        "romaji": "fuyu"
       },
       {
         "example": "冬場",
         "reading": "ふゆば",
-        "meaning": "wintertime, winter season"
+        "meaning": {
+          "en": "wintertime, winter season"
+        },
+        "romaji": "fuyuba"
       },
       {
         "example": "初冬",
         "reading": "しょとう",
-        "meaning": "early winter, tenth month of the lunar calendar"
+        "meaning": {
+          "en": "early winter, tenth month of the lunar calendar"
+        },
+        "romaji": "shotou"
       },
       {
         "example": "毎冬",
         "reading": "まいふゆ",
-        "meaning": "every winter"
+        "meaning": {
+          "en": "every winter"
+        },
+        "romaji": "maifuyu"
       }
     ],
     "radical": {
@@ -369,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51ac.gif",
     "uri": "https://jisho.org/search/%E5%86%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "đông"
+  ]
 }

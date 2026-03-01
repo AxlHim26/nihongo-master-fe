@@ -19,39 +19,81 @@
       {
         "example": "些細",
         "reading": "ササイ",
-        "meaning": "trivial, trifling, slight, insignificant"
+        "meaning": {
+          "en": "trivial, trifling, slight, insignificant"
+        },
+        "meaningVN": "tầm thường, tầm thường, tầm thường, tầm thường",
+        "hanViet": "ta tế",
+        "hanVietExplain": "些 (ta: ít ỏi) + 細 (tế: nhỏ bé) → tầm thường, tầm thường, tầm thường, tầm thường",
+        "romaji": "sasai"
       },
       {
         "example": "瑣末",
         "reading": "サマツ",
-        "meaning": "trivial, trifling"
+        "meaning": {
+          "en": "trivial, trifling"
+        },
+        "meaningVN": "tầm thường, tầm thường",
+        "hanViet": "toả mạt",
+        "hanVietExplain": "瑣 (toả: vụn vặt, lặt vặt) + 末 (mạt: cuối cùng) → tầm thường, tầm thường",
+        "romaji": "samatsu"
       },
       {
         "example": "些些",
         "reading": "ササ",
-        "meaning": "trifling, trivial, slight"
+        "meaning": {
+          "en": "trifling, trivial, slight"
+        },
+        "meaningVN": "tầm thường, tầm thường, nhẹ nhàng",
+        "hanViet": "ta ta",
+        "hanVietExplain": "些 (ta: ít ỏi) + 些 (ta: ít ỏi) → tầm thường, tầm thường, nhẹ nhàng",
+        "romaji": "sasa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "些と",
         "reading": "ちっと",
-        "meaning": "a little bit, a little while"
+        "meaning": {
+          "en": "a little bit, a little while"
+        },
+        "meaningVN": "một chút, một chút",
+        "hanViet": "ta と",
+        "hanVietExplain": "ta: ít ỏi",
+        "romaji": "chitto"
       },
       {
         "example": "些と",
         "reading": "ちっと",
-        "meaning": "a little bit, a little while"
+        "meaning": {
+          "en": "a little bit, a little while"
+        },
+        "meaningVN": "một chút, một chút",
+        "hanViet": "ta と",
+        "hanVietExplain": "ta: ít ỏi",
+        "romaji": "chitto"
       },
       {
         "example": "些とも",
         "reading": "ちっとも",
-        "meaning": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+        "meaning": {
+          "en": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+        },
+        "meaningVN": "(không) chút nào, (không) một chút, (không) chút nào, (không) chút nào",
+        "hanViet": "ta と も",
+        "hanVietExplain": "ta: ít ỏi",
+        "romaji": "chittomo"
       },
       {
         "example": "些か",
         "reading": "いささか",
-        "meaning": "a little, a bit, somewhat, slightly, rather"
+        "meaning": {
+          "en": "a little, a bit, somewhat, slightly, rather"
+        },
+        "meaningVN": "một chút, một chút, hơi, hơi, đúng hơn",
+        "hanViet": "ta か",
+        "hanVietExplain": "ta: ít ỏi",
+        "romaji": "isasaka"
       }
     ],
     "radical": {
@@ -67,5 +109,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e9b.gif",
     "uri": "https://jisho.org/search/%E4%BA%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ta",
+    "tá"
+  ],
+  "meaningVN": "một chút, đôi khi",
+  "hanVietExplain": "ta: ít ỏi"
 }

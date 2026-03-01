@@ -18,34 +18,52 @@
       {
         "example": "閃亜鉛鉱",
         "reading": "センアエンコウ",
-        "meaning": "sphalerite, zinc blende"
+        "meaning": {
+          "vi": "sphalerite, zinc blende"
+        },
+        "romaji": "sen'aenkou"
       },
       {
         "example": "閃ウラン鉱",
         "reading": "センウランコウ",
-        "meaning": "uraninite"
+        "meaning": {
+          "en": "uraninite"
+        },
+        "romaji": "sen'urankou"
       },
       {
         "example": "一閃",
         "reading": "イッセン",
-        "meaning": "flash (of light), glint"
+        "meaning": {
+          "en": "flash (of light), glint"
+        },
+        "romaji": "issen"
       },
       {
         "example": "電光一閃",
         "reading": "デンコウイッセン",
-        "meaning": "flash of lightning"
+        "meaning": {
+          "en": "flash of lightning"
+        },
+        "romaji": "denkouissen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "閃く",
         "reading": "ひらめく",
-        "meaning": "to flash (e.g. lightning), to flicker, to glitter, to sparkle, to gleam, to flutter (e.g. flag), to wave, to undulate, to flash into one's mind (e.g. an idea), to come to one suddenly"
+        "meaning": {
+          "vi": "to flash (e.g. lightning), to flicker, to glitter, to sparkle, to gleam, to flutter (e.g. flag), to wave, to undulate, to flash into one's mind (e.g. an idea), to come to one suddenly"
+        },
+        "romaji": "hirameku"
       },
       {
         "example": "閃き",
         "reading": "ひらめき",
-        "meaning": "flair, flash, insight, flash (of inspiration, wit, etc.), waving (e.g. of a flag in the wind)"
+        "meaning": {
+          "vi": "flair, flash, insight, flash (of inspiration, wit, etc.), waving (e.g. of a flag in the wind)"
+        },
+        "romaji": "hirameki"
       }
     ],
     "radical": {
@@ -60,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09583.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9583.gif",
     "uri": "https://jisho.org/search/%E9%96%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "siểm",
+    "thiểm"
+  ]
 }

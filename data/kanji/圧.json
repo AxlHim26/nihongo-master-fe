@@ -311,49 +311,76 @@
       {
         "example": "圧",
         "reading": "アツ",
-        "meaning": "pressure, force"
+        "meaning": {
+          "vi": "pressure, force"
+        },
+        "romaji": "atsu"
       },
       {
         "example": "圧力",
         "reading": "アツリョク",
-        "meaning": "pressure, stress, pressure (e.g. political), coercion, arm-twisting"
+        "meaning": {
+          "vi": "pressure, stress, pressure (e.g. political), coercion, arm-twisting"
+        },
+        "romaji": "atsuryoku"
       },
       {
         "example": "高圧",
         "reading": "コウアツ",
-        "meaning": "high voltage, high pressure"
+        "meaning": {
+          "vi": "high voltage, high pressure"
+        },
+        "romaji": "kouatsu"
       },
       {
         "example": "外圧",
         "reading": "ガイアツ",
-        "meaning": "external pressure, outside pressure, foreign pressure"
+        "meaning": {
+          "vi": "external pressure, outside pressure, foreign pressure"
+        },
+        "romaji": "gaiatsu"
       },
       {
         "example": "圧状",
         "reading": "オウジョウ",
-        "meaning": "document written under duress, coercion"
+        "meaning": {
+          "en": "document written under duress, coercion"
+        },
+        "romaji": "oujou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "押す",
         "reading": "おす",
-        "meaning": "to push, to thrust, to shove, to press (down), to push (e.g. a button), to exert pressure on, to stamp (e.g. one's name), to affix (a seal), to affix (e.g. gold leaf), to push (someone for something), to press, to put pressure on (someone), to overwhelm, to overpower, to put (someone) under pressure, to be superior to, to push ahead (with a policy, plan, etc.), to proceed, to stick to, to do ... in spite of ..., to defy, to brave, to push aside, to make sure, to fall behind schedule"
+        "meaning": {
+          "vi": "to push, to thrust, to shove, to press (down), to push (e.g. a button), to exert pressure on, to stamp (e.g. one's name), to affix (a seal), to affix (e.g. gold leaf), to push (someone for something), to press, to put pressure on (someone), to overwhelm, to overpower, to put (someone) under pressure, to be superior to, to push ahead (with a policy, plan, etc.), to proceed, to stick to, to do ... in spite of ..., to defy, to brave, to push aside, to make sure, to fall behind schedule"
+        },
+        "romaji": "osu"
       },
       {
         "example": "圧す",
         "reading": "へす",
-        "meaning": "to dent, to press, to push"
+        "meaning": {
+          "vi": "to dent, to press, to push"
+        },
+        "romaji": "hesu"
       },
       {
         "example": "押さえる",
         "reading": "おさえる",
-        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        "meaning": {
+          "vi": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        },
+        "romaji": "osaeru"
       },
       {
         "example": "押さえる",
         "reading": "おさえる",
-        "meaning": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        "meaning": {
+          "vi": "to pin down, to hold down, to press down, to hold in place, to hold steady, to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part), to get a hold of, to obtain, to seize, to catch, to arrest, to grasp (a point), to comprehend, to quell, to subdue, to suppress, to repress, to hold back, to check, to curb, to contain"
+        },
+        "romaji": "osaeru"
       }
     ],
     "radical": {
@@ -368,5 +395,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05727.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5727.gif",
     "uri": "https://jisho.org/search/%E5%9C%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "áp",
+    "yểm",
+    "yếp"
+  ]
 }

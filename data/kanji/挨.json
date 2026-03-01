@@ -18,12 +18,18 @@
       {
         "example": "挨拶",
         "reading": "アイサツ",
-        "meaning": "greeting, greetings, salutation, salute, polite set phrase used when meeting or parting from someone, speech (congratulatory or appreciative), address, reply, response, courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.), revenge, retaliation, a fine thing to say, dialoging (with another Zen practitioner to ascertain their level of enlightenment), relationship (between people), connection, intervention, mediation, mediator"
+        "meaning": {
+          "vi": "greeting, greetings, salutation, salute, polite set phrase used when meeting or parting from someone, speech (congratulatory or appreciative), address, reply, response, courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.), revenge, retaliation, a fine thing to say, dialoging (with another Zen practitioner to ascertain their level of enlightenment), relationship (between people), connection, intervention, mediation, mediator"
+        },
+        "romaji": "aisatsu"
       },
       {
         "example": "挨拶代わり",
         "reading": "アイサツガワリ",
-        "meaning": "substitute for a proper greeting (e.g. gift)"
+        "meaning": {
+          "vi": "substitute for a proper greeting (e.g. gift)"
+        },
+        "romaji": "aisatsugawari"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06328.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6328.gif",
     "uri": "https://jisho.org/search/%E6%8C%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "ai",
+    "ải"
+  ]
 }

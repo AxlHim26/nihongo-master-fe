@@ -353,44 +353,68 @@
       {
         "example": "市",
         "reading": "シ",
-        "meaning": "city"
+        "meaning": {
+          "en": "city"
+        },
+        "romaji": "shi"
       },
       {
         "example": "市営",
         "reading": "シエイ",
-        "meaning": "(under) municipal management (transport, housing, etc.), city facility management"
+        "meaning": {
+          "vi": "(under) municipal management (transport, housing, etc.), city facility management"
+        },
+        "romaji": "shiei"
       },
       {
         "example": "同市",
         "reading": "ドウシ",
-        "meaning": "same city"
+        "meaning": {
+          "en": "same city"
+        },
+        "romaji": "doushi"
       },
       {
         "example": "田園都市",
         "reading": "デンエントシ",
-        "meaning": "garden city"
+        "meaning": {
+          "en": "garden city"
+        },
+        "romaji": "den'entoshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "市",
         "reading": "いち",
-        "meaning": "market, fair"
+        "meaning": {
+          "en": "market, fair"
+        },
+        "romaji": "ichi"
       },
       {
         "example": "市中",
         "reading": "しちゅう",
-        "meaning": "in the city, in the community"
+        "meaning": {
+          "en": "in the city, in the community"
+        },
+        "romaji": "shichuu"
       },
       {
         "example": "骨董市",
         "reading": "こっとういち",
-        "meaning": "antique market, flea market"
+        "meaning": {
+          "en": "antique market, flea market"
+        },
+        "romaji": "kottouichi"
       },
       {
         "example": "草市",
         "reading": "くさいち",
-        "meaning": "flower market during Obon, fair of plants and flowers (as offerings)"
+        "meaning": {
+          "vi": "flower market during Obon, fair of plants and flowers (as offerings)"
+        },
+        "romaji": "kusaichi"
       }
     ],
     "radical": {
@@ -405,5 +429,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e02.gif",
     "uri": "https://jisho.org/search/%E5%B8%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "thị"
+  ]
 }

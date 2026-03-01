@@ -18,29 +18,44 @@
       {
         "example": "遥遠",
         "reading": "ヨウエン",
-        "meaning": "far away, very far off, remote"
+        "meaning": {
+          "en": "far away, very far off, remote"
+        },
+        "romaji": "youen"
       },
       {
         "example": "遥任",
         "reading": "ヨウニン",
-        "meaning": "absentee appointment to a distant administrative post (Nara and Heian periods)"
+        "meaning": {
+          "vi": "absentee appointment to a distant administrative post (Nara and Heian periods)"
+        },
+        "romaji": "younin"
       },
       {
         "example": "逍遥",
         "reading": "ショウヨウ",
-        "meaning": "ramble, saunter, walk, wander, stroll"
+        "meaning": {
+          "en": "ramble, saunter, walk, wander, stroll"
+        },
+        "romaji": "shouyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遥か",
         "reading": "はるか",
-        "meaning": "far away, far off, far, distant, in the distance, long ago, long before"
+        "meaning": {
+          "en": "far away, far off, far, distant, in the distance, long ago, long before"
+        },
+        "romaji": "haruka"
       },
       {
         "example": "遥か彼方",
         "reading": "はるかかなた",
-        "meaning": "faraway, far-off"
+        "meaning": {
+          "en": "faraway, far-off"
+        },
+        "romaji": "harukakanata"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09065.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9065.gif",
     "uri": "https://jisho.org/search/%E9%81%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao",
+    "diêu"
+  ]
 }

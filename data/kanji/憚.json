@@ -17,14 +17,20 @@
       {
         "example": "忌憚",
         "reading": "キタン",
-        "meaning": "reserve, modesty, hesitation, restraint, abhorrence, repugnance, loathing, dislike"
+        "meaning": {
+          "vi": "reserve, modesty, hesitation, restraint, abhorrence, repugnance, loathing, dislike"
+        },
+        "romaji": "kitan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憚る",
         "reading": "はばかる",
-        "meaning": "to hesitate, to have scruples, to be afraid of what others may think, to lord it over, to have great influence"
+        "meaning": {
+          "vi": "to hesitate, to have scruples, to be afraid of what others may think, to lord it over, to have great influence"
+        },
+        "romaji": "habakaru"
       }
     ],
     "radical": {
@@ -46,5 +52,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0619a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/619a.gif",
     "uri": "https://jisho.org/search/%E6%86%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "đát",
+    "đạn"
+  ]
 }

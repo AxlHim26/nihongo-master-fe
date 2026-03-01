@@ -310,54 +310,84 @@
       {
         "example": "総",
         "reading": "ソウ",
-        "meaning": "whole, total, gross, entire, overall, general (election, manager, etc.)"
+        "meaning": {
+          "en": "whole, total, gross, entire, overall, general (election, manager, etc.)"
+        },
+        "romaji": "sou"
       },
       {
         "example": "総当たり",
         "reading": "ソウアタリ",
-        "meaning": "round robin, having no losing tickets (of a lottery), brute force (in cryptography), using all combinations"
+        "meaning": {
+          "vi": "round robin, having no losing tickets (of a lottery), brute force (in cryptography), using all combinations"
+        },
+        "romaji": "souatari"
       },
       {
         "example": "海総",
         "reading": "カイソウ",
-        "meaning": "imperial navy order"
+        "meaning": {
+          "vi": "imperial navy order"
+        },
+        "romaji": "kaisou"
       },
       {
         "example": "全総",
         "reading": "ゼンソウ",
-        "meaning": "Comprehensive National Development Plan (1962-)"
+        "meaning": {
+          "vi": "Comprehensive National Development Plan (1962-)"
+        },
+        "romaji": "zensou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "全て",
         "reading": "すべて",
-        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+        "meaning": {
+          "vi": "everything, all, the whole, entirely, completely, wholly, all"
+        },
+        "romaji": "subete"
       },
       {
         "example": "すべての道はローマに通ず",
         "reading": "すべてのみちはローマにつうず",
-        "meaning": "all roads lead to Rome"
+        "meaning": {
+          "en": "all roads lead to Rome"
+        },
+        "romaji": "subetenomichiharoomanitsuuzu"
       },
       {
         "example": "全て",
         "reading": "すべて",
-        "meaning": "everything, all, the whole, entirely, completely, wholly, all"
+        "meaning": {
+          "vi": "everything, all, the whole, entirely, completely, wholly, all"
+        },
+        "romaji": "subete"
       },
       {
         "example": "すべての道はローマに通ず",
         "reading": "すべてのみちはローマにつうず",
-        "meaning": "all roads lead to Rome"
+        "meaning": {
+          "en": "all roads lead to Rome"
+        },
+        "romaji": "subetenomichiharoomanitsuuzu"
       },
       {
         "example": "房",
         "reading": "ふさ",
-        "meaning": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"
+        "meaning": {
+          "vi": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"
+        },
+        "romaji": "fusa"
       },
       {
         "example": "総国",
         "reading": "ふさのくに",
-        "meaning": "Fusa (former province located in present-day Chiba and Ibaraki prefectures)"
+        "meaning": {
+          "vi": "Fusa (former province located in present-day Chiba and Ibaraki prefectures)"
+        },
+        "romaji": "fusanokuni"
       }
     ],
     "radical": {
@@ -379,5 +409,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dcf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dcf.gif",
     "uri": "https://jisho.org/search/%E7%B7%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tổng"
+  ]
 }

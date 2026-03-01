@@ -20,39 +20,60 @@
       {
         "example": "薪炭",
         "reading": "シンタン",
-        "meaning": "wood and charcoal, fuel"
+        "meaning": {
+          "en": "wood and charcoal, fuel"
+        },
+        "romaji": "shintan"
       },
       {
         "example": "薪水",
         "reading": "シンスイ",
-        "meaning": "fuel and water, firewood and water, gathering firewood and drawing water, kitchen work, housework"
+        "meaning": {
+          "en": "fuel and water, firewood and water, gathering firewood and drawing water, kitchen work, housework"
+        },
+        "romaji": "shinsui"
       },
       {
         "example": "柴薪",
         "reading": "サイシン",
-        "meaning": "brushwood and firewood"
+        "meaning": {
+          "en": "brushwood and firewood"
+        },
+        "romaji": "saishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "薪",
         "reading": "まき",
-        "meaning": "piece(s) of firewood (esp. chopped or split from logs), kindling (twigs, branches, etc.), firewood"
+        "meaning": {
+          "vi": "piece(s) of firewood (esp. chopped or split from logs), kindling (twigs, branches, etc.), firewood"
+        },
+        "romaji": "maki"
       },
       {
         "example": "薪入れ",
         "reading": "たきぎいれ",
-        "meaning": "wood basket, firewood bucket, log holder"
+        "meaning": {
+          "en": "wood basket, firewood bucket, log holder"
+        },
+        "romaji": "takigiire"
       },
       {
         "example": "薪",
         "reading": "まき",
-        "meaning": "piece(s) of firewood (esp. chopped or split from logs), kindling (twigs, branches, etc.), firewood"
+        "meaning": {
+          "vi": "piece(s) of firewood (esp. chopped or split from logs), kindling (twigs, branches, etc.), firewood"
+        },
+        "romaji": "maki"
       },
       {
         "example": "薪小屋",
         "reading": "まきごや",
-        "meaning": "woodshed"
+        "meaning": {
+          "en": "woodshed"
+        },
+        "romaji": "makigoya"
       }
     ],
     "radical": {
@@ -75,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85aa.gif",
     "uri": "https://jisho.org/search/%E8%96%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tân"
+  ]
 }

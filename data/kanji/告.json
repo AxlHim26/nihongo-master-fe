@@ -326,29 +326,44 @@
       {
         "example": "告訴",
         "reading": "コクソ",
-        "meaning": "accusation, complaint, charge, suit, legal action, legal proceedings"
+        "meaning": {
+          "vi": "accusation, complaint, charge, suit, legal action, legal proceedings"
+        },
+        "romaji": "kokuso"
       },
       {
         "example": "告示",
         "reading": "コクジ",
-        "meaning": "notice, bulletin"
+        "meaning": {
+          "en": "notice, bulletin"
+        },
+        "romaji": "kokuji"
       },
       {
         "example": "抗告",
         "reading": "コウコク",
-        "meaning": "appeal, protest, complaint"
+        "meaning": {
+          "vi": "appeal, protest, complaint"
+        },
+        "romaji": "koukoku"
       },
       {
         "example": "戒告",
         "reading": "カイコク",
-        "meaning": "admonition, warning, caution"
+        "meaning": {
+          "en": "admonition, warning, caution"
+        },
+        "romaji": "kaikoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "告げる",
         "reading": "つげる",
-        "meaning": "to tell, to inform, to announce, to indicate, to signal, to mark"
+        "meaning": {
+          "en": "to tell, to inform, to announce, to indicate, to signal, to mark"
+        },
+        "romaji": "tsugeru"
       }
     ],
     "radical": {
@@ -364,5 +379,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0544a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/544a.gif",
     "uri": "https://jisho.org/search/%E5%91%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "cáo",
+    "cốc"
+  ]
 }

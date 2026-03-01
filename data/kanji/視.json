@@ -349,29 +349,44 @@
       {
         "example": "視",
         "reading": "シ",
-        "meaning": "viewing as ..., seeing as ..., treating as ..., regarding as ..."
+        "meaning": {
+          "en": "viewing as ..., seeing as ..., treating as ..., regarding as ..."
+        },
+        "romaji": "shi"
       },
       {
         "example": "視界",
         "reading": "シカイ",
-        "meaning": "field of vision, visibility, view, visual field, (one's) ken"
+        "meaning": {
+          "en": "field of vision, visibility, view, visual field, (one's) ken"
+        },
+        "romaji": "shikai"
       },
       {
         "example": "検視",
         "reading": "ケンシ",
-        "meaning": "examination of a body to determine if a crime has been committed, investigation (e.g. of a crime scene)"
+        "meaning": {
+          "en": "examination of a body to determine if a crime has been committed, investigation (e.g. of a crime scene)"
+        },
+        "romaji": "kenshi"
       },
       {
         "example": "警視",
         "reading": "ケイシ",
-        "meaning": "police superintendent"
+        "meaning": {
+          "vi": "police superintendent"
+        },
+        "romaji": "keishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": {
+          "vi": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        },
+        "romaji": "miru"
       }
     ],
     "radical": {
@@ -386,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08996.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8996.gif",
     "uri": "https://jisho.org/search/%E8%A6%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thị"
+  ]
 }

@@ -348,54 +348,84 @@
       {
         "example": "傷跡",
         "reading": "キズアト",
-        "meaning": "scar"
+        "meaning": {
+          "en": "scar"
+        },
+        "romaji": "kizuato"
       },
       {
         "example": "傷害",
         "reading": "ショウガイ",
-        "meaning": "injury, inflicting bodily injury"
+        "meaning": {
+          "en": "injury, inflicting bodily injury"
+        },
+        "romaji": "shougai"
       },
       {
         "example": "殺傷",
         "reading": "サッショウ",
-        "meaning": "killing and wounding, bloodshed"
+        "meaning": {
+          "en": "killing and wounding, bloodshed"
+        },
+        "romaji": "sasshou"
       },
       {
         "example": "脳挫傷",
         "reading": "ノウザショウ",
-        "meaning": "cerebral contusion"
+        "meaning": {
+          "en": "cerebral contusion"
+        },
+        "romaji": "nouzashou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "傷",
         "reading": "きず",
-        "meaning": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+        "meaning": {
+          "vi": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+        },
+        "romaji": "kizu"
       },
       {
         "example": "傷跡",
         "reading": "きずあと",
-        "meaning": "scar"
+        "meaning": {
+          "en": "scar"
+        },
+        "romaji": "kizuato"
       },
       {
         "example": "無傷",
         "reading": "むきず",
-        "meaning": "unhurt, uninjured, unwounded, unscathed, unharmed, flawless (e.g. gem), unblemished, undamaged, perfect (condition), spotless (e.g. reputation), faultless (e.g. performance), perfect (record), without failure, without defeat"
+        "meaning": {
+          "vi": "unhurt, uninjured, unwounded, unscathed, unharmed, flawless (e.g. gem), unblemished, undamaged, perfect (condition), spotless (e.g. reputation), faultless (e.g. performance), perfect (record), without failure, without defeat"
+        },
+        "romaji": "mukizu"
       },
       {
         "example": "古傷",
         "reading": "ふるきず",
-        "meaning": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+        "meaning": {
+          "vi": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+        },
+        "romaji": "furukizu"
       },
       {
         "example": "痛む",
         "reading": "いたむ",
-        "meaning": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+        "meaning": {
+          "vi": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+        },
+        "romaji": "itamu"
       },
       {
         "example": "痛める",
         "reading": "いためる",
-        "meaning": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+        "meaning": {
+          "vi": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+        },
+        "romaji": "itameru"
       }
     ],
     "radical": {
@@ -419,5 +449,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b7.gif",
     "uri": "https://jisho.org/search/%E5%82%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "thương"
+  ]
 }

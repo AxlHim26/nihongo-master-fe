@@ -22,49 +22,76 @@
       {
         "example": "偽",
         "reading": "ギ",
-        "meaning": "falseness, falsehood"
+        "meaning": {
+          "en": "falseness, falsehood"
+        },
+        "romaji": "gi"
       },
       {
         "example": "偽証",
         "reading": "ギショウ",
-        "meaning": "false evidence, perjury, false testimony"
+        "meaning": {
+          "vi": "false evidence, perjury, false testimony"
+        },
+        "romaji": "gishou"
       },
       {
         "example": "真偽",
         "reading": "シンギ",
-        "meaning": "truth or falsehood, genuineness, authenticity, veracity"
+        "meaning": {
+          "en": "truth or falsehood, genuineness, authenticity, veracity"
+        },
+        "romaji": "shingi"
       },
       {
         "example": "詐偽",
         "reading": "サギ",
-        "meaning": "lie, untruth, prevarication"
+        "meaning": {
+          "vi": "lie, untruth, prevarication"
+        },
+        "romaji": "sagi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偽る",
         "reading": "いつわる",
-        "meaning": "to lie, to pretend, to feign, to falsify, to deceive, to trick"
+        "meaning": {
+          "vi": "to lie, to pretend, to feign, to falsify, to deceive, to trick"
+        },
+        "romaji": "itsuwaru"
       },
       {
         "example": "偽",
         "reading": "にせ",
-        "meaning": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-"
+        "meaning": {
+          "vi": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-"
+        },
+        "romaji": "nise"
       },
       {
         "example": "偽物",
         "reading": "にせもの",
-        "meaning": "spurious article, forgery, counterfeit, imitation, sham"
+        "meaning": {
+          "vi": "spurious article, forgery, counterfeit, imitation, sham"
+        },
+        "romaji": "nisemono"
       },
       {
         "example": "偽り",
         "reading": "いつわり",
-        "meaning": "lie, falsehood, fiction, fabrication"
+        "meaning": {
+          "en": "lie, falsehood, fiction, fabrication"
+        },
+        "romaji": "itsuwari"
       },
       {
         "example": "偽り語る",
         "reading": "いつわりかたる",
-        "meaning": "to speak falsely"
+        "meaning": {
+          "vi": "to speak falsely"
+        },
+        "romaji": "itsuwarikataru"
       }
     ],
     "radical": {
@@ -87,5 +114,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0507d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/507d.gif",
     "uri": "https://jisho.org/search/%E5%81%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguỵ"
+  ]
 }

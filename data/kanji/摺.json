@@ -19,19 +19,28 @@
       {
         "example": "摺本",
         "reading": "ショウホン",
-        "meaning": "folded book"
+        "meaning": {
+          "en": "folded book"
+        },
+        "romaji": "shouhon"
       },
       {
         "example": "摺動",
         "reading": "シュウドウ",
-        "meaning": "sliding or moving along a smooth surface with continuous contact on that surface"
+        "meaning": {
+          "en": "sliding or moving along a smooth surface with continuous contact on that surface"
+        },
+        "romaji": "shuudou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刷る",
         "reading": "する",
-        "meaning": "to print, to color or pattern fabric using a wooden mold"
+        "meaning": {
+          "vi": "to print, to color or pattern fabric using a wooden mold"
+        },
+        "romaji": "suru"
       }
     ],
     "radical": {
@@ -51,5 +60,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0647a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/647a.gif",
     "uri": "https://jisho.org/search/%E6%91%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiếp",
+    "chiệp",
+    "lạp",
+    "triệp"
+  ]
 }

@@ -334,64 +334,100 @@
       {
         "example": "散骨",
         "reading": "サンコツ",
-        "meaning": "scattering of ashes (cremated remains)"
+        "meaning": {
+          "en": "scattering of ashes (cremated remains)"
+        },
+        "romaji": "sankotsu"
       },
       {
         "example": "散会",
         "reading": "サンカイ",
-        "meaning": "adjournment"
+        "meaning": {
+          "en": "adjournment"
+        },
+        "romaji": "sankai"
       },
       {
         "example": "離散",
         "reading": "リサン",
-        "meaning": "dispersion, separation, scattering, breakup"
+        "meaning": {
+          "vi": "dispersion, separation, scattering, breakup"
+        },
+        "romaji": "risan"
       },
       {
         "example": "集散",
         "reading": "シュウサン",
-        "meaning": "collection (gathering) and distribution"
+        "meaning": {
+          "en": "collection (gathering) and distribution"
+        },
+        "romaji": "shuusan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "散る",
         "reading": "ちる",
-        "meaning": "to fall (e.g. blossoms, leaves), to scatter, to be dispersed, to disappear, to dissolve, to break up, to spread, to run, to blur, to die a noble death"
+        "meaning": {
+          "vi": "to fall (e.g. blossoms, leaves), to scatter, to be dispersed, to disappear, to dissolve, to break up, to spread, to run, to blur, to die a noble death"
+        },
+        "romaji": "chiru"
       },
       {
         "example": "散らす",
         "reading": "ちらす",
-        "meaning": "to scatter, to cause a shower of, to disperse, to distribute, to spread, to resolve (a symptom, condition, etc.), to relieve, to get rid of, to cure, to distract, to divert, to do ... wildly (i.e. disorderly or frequently), to do ... all over the place"
+        "meaning": {
+          "vi": "to scatter, to cause a shower of, to disperse, to distribute, to spread, to resolve (a symptom, condition, etc.), to relieve, to get rid of, to cure, to distract, to divert, to do ... wildly (i.e. disorderly or frequently), to do ... all over the place"
+        },
+        "romaji": "chirasu"
       },
       {
         "example": "散らかす",
         "reading": "ちらかす",
-        "meaning": "to scatter around, to leave untidy, to make a mess"
+        "meaning": {
+          "en": "to scatter around, to leave untidy, to make a mess"
+        },
+        "romaji": "chirakasu"
       },
       {
         "example": "散らかる",
         "reading": "ちらかる",
-        "meaning": "to be in disorder, to lie scattered around"
+        "meaning": {
+          "en": "to be in disorder, to lie scattered around"
+        },
+        "romaji": "chirakaru"
       },
       {
         "example": "散らばる",
         "reading": "ちらばる",
-        "meaning": "to be scattered about, to disperse, to be littered (with)"
+        "meaning": {
+          "vi": "to be scattered about, to disperse, to be littered (with)"
+        },
+        "romaji": "chirabaru"
       },
       {
         "example": "散",
         "reading": "ばら",
-        "meaning": "loose articles (not packaged with other things), bulk items, individual items, coins, small change"
+        "meaning": {
+          "vi": "loose articles (not packaged with other things), bulk items, individual items, coins, small change"
+        },
+        "romaji": "bara"
       },
       {
         "example": "ばら撒く",
         "reading": "ばらまく",
-        "meaning": "to scatter, to disseminate (e.g. a rumor), to spread (e.g. germs), to broadcast, to distribute widely (e.g. leaflets), to hand out freely, to spend recklessly"
+        "meaning": {
+          "vi": "to scatter, to disseminate (e.g. a rumor), to spread (e.g. germs), to broadcast, to distribute widely (e.g. leaflets), to hand out freely, to spend recklessly"
+        },
+        "romaji": "baramaku"
       },
       {
         "example": "散ける",
         "reading": "ばらける",
-        "meaning": "to come apart, to unravel, to come loose, to become disarrayed (e.g. of hair)"
+        "meaning": {
+          "vi": "to come apart, to unravel, to come loose, to become disarrayed (e.g. of hair)"
+        },
+        "romaji": "barakeru"
       }
     ],
     "radical": {
@@ -412,5 +448,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06563.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6563.gif",
     "uri": "https://jisho.org/search/%E6%95%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tán",
+    "tản"
+  ]
 }

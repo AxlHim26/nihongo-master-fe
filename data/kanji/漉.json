@@ -19,22 +19,34 @@
       {
         "example": "漉油",
         "reading": "こしあぶら",
-        "meaning": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+        "meaning": {
+          "vi": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+        },
+        "romaji": "koshiabura"
       },
       {
         "example": "漉油の木",
         "reading": "こしあぶらのき",
-        "meaning": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+        "meaning": {
+          "vi": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+        },
+        "romaji": "koshiaburanoki"
       },
       {
         "example": "漉す",
         "reading": "こす",
-        "meaning": "to filter, to strain"
+        "meaning": {
+          "en": "to filter, to strain"
+        },
+        "romaji": "kosu"
       },
       {
         "example": "漉く",
         "reading": "すく",
-        "meaning": "to make something (e.g. paper) from wet, pulpy material by spreading it thin and drying it"
+        "meaning": {
+          "vi": "to make something (e.g. paper) from wet, pulpy material by spreading it thin and drying it"
+        },
+        "romaji": "suku"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f09.gif",
     "uri": "https://jisho.org/search/%E6%BC%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "lộc"
+  ]
 }

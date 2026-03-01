@@ -16,19 +16,28 @@
       {
         "example": "誄",
         "reading": "ルイ",
-        "meaning": "message of condolence, memorial address"
+        "meaning": {
+          "en": "message of condolence, memorial address"
+        },
+        "romaji": "rui"
       },
       {
         "example": "誄詞",
         "reading": "ルイシ",
-        "meaning": "funeral eulogy, memorial speech"
+        "meaning": {
+          "vi": "funeral eulogy, memorial speech"
+        },
+        "romaji": "ruishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誄",
         "reading": "るい",
-        "meaning": "message of condolence, memorial address"
+        "meaning": {
+          "en": "message of condolence, memorial address"
+        },
+        "romaji": "rui"
       }
     ],
     "radical": {
@@ -50,5 +59,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a84.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a84.gif",
     "uri": "https://jisho.org/search/%E8%AA%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "luỵ",
+    "lỗi"
+  ]
 }

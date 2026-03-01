@@ -339,64 +339,100 @@
       {
         "example": "木刀",
         "reading": "ボクトウ",
-        "meaning": "kiếm gỗ"
+        "meaning": {
+          "vi": "kiếm gỗ"
+        },
+        "romaji": "bokutou"
       },
       {
         "example": "木偶",
         "reading": "デク",
-        "meaning": "búp bê gỗ, hình gỗ, con rối, đồ ngốc"
+        "meaning": {
+          "vi": "búp bê gỗ, hình gỗ, con rối, đồ ngốc"
+        },
+        "romaji": "deku"
       },
       {
         "example": "土木",
         "reading": "ドボク",
-        "meaning": "công trình xây dựng, xây dựng dân dụng"
+        "meaning": {
+          "vi": "công trình xây dựng, xây dựng dân dụng"
+        },
+        "romaji": "doboku"
       },
       {
         "example": "名木",
         "reading": "メイボク",
-        "meaning": "cây cổ có giá trị lịch sử, gỗ quý"
+        "meaning": {
+          "vi": "cây cổ có giá trị lịch sử, gỗ quý"
+        },
+        "romaji": "meiboku"
       },
       {
         "example": "木",
         "reading": "モク",
-        "meaning": "thứ Năm, hành Mộc (ngũ hành)"
+        "meaning": {
+          "vi": "thứ Năm, hành Mộc (ngũ hành)"
+        },
+        "romaji": "moku"
       },
       {
         "example": "木材",
         "reading": "モクザイ",
-        "meaning": "gỗ xẻ, gỗ"
+        "meaning": {
+          "vi": "gỗ xẻ, gỗ"
+        },
+        "romaji": "mokuzai"
       },
       {
         "example": "水木",
         "reading": "スイモク",
-        "meaning": "thứ Tư và thứ Năm"
+        "meaning": {
+          "vi": "thứ Tư và thứ Năm"
+        },
+        "romaji": "suimoku"
       },
       {
         "example": "火水木",
         "reading": "カスイモク",
-        "meaning": "thứ Ba, thứ Tư và thứ Năm"
+        "meaning": {
+          "vi": "thứ Ba, thứ Tư và thứ Năm"
+        },
+        "romaji": "kasuimoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "木",
         "reading": "き",
-        "meaning": "cây, bụi cây, gỗ, gỗ xẻ, mõ gỗ (báo hiệu đầu/cuối buổi diễn)"
+        "meaning": {
+          "vi": "cây, bụi cây, gỗ, gỗ xẻ, mõ gỗ (báo hiệu đầu/cuối buổi diễn)"
+        },
+        "romaji": "ki"
       },
       {
         "example": "木々",
         "reading": "きぎ",
-        "meaning": "nhiều cây, mọi cây, đủ loại cây"
+        "meaning": {
+          "vi": "nhiều cây, mọi cây, đủ loại cây"
+        },
+        "romaji": "kigi"
       },
       {
         "example": "本木",
         "reading": "もとき",
-        "meaning": "gốc gác, nguồn gốc"
+        "meaning": {
+          "vi": "gốc gác, nguồn gốc"
+        },
+        "romaji": "motoki"
       },
       {
         "example": "青木",
         "reading": "あおき",
-        "meaning": "cây thường xuân Nhật, cây xanh tươi"
+        "meaning": {
+          "vi": "cây thường xuân Nhật, cây xanh tươi"
+        },
+        "romaji": "aoki"
       }
     ],
     "radical": {
@@ -410,5 +446,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06728.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6728.gif",
     "uri": "https://jisho.org/search/%E6%9C%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộc"
+  ]
 }

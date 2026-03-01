@@ -17,22 +17,34 @@
       {
         "example": "顱骨",
         "reading": "ロコツ",
-        "meaning": "skull"
+        "meaning": {
+          "en": "skull"
+        },
+        "romaji": "rokotsu"
       },
       {
         "example": "顱頂",
         "reading": "ロチョウ",
-        "meaning": "top of the head, vertex, parietal"
+        "meaning": {
+          "vi": "top of the head, vertex, parietal"
+        },
+        "romaji": "rochou"
       },
       {
         "example": "頭顱",
         "reading": "トウロ",
-        "meaning": "head, skull"
+        "meaning": {
+          "en": "head, skull"
+        },
+        "romaji": "touro"
       },
       {
         "example": "円顱",
         "reading": "エンロ",
-        "meaning": "tonsure, shaven head"
+        "meaning": {
+          "en": "tonsure, shaven head"
+        },
+        "romaji": "enro"
       }
     ],
     "kunyomiExamples": [],
@@ -56,5 +68,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09871.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9871.gif",
     "uri": "https://jisho.org/search/%E9%A1%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô",
+    "lư"
+  ]
 }

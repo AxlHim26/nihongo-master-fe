@@ -16,24 +16,36 @@
       {
         "example": "驕傲",
         "reading": "キョウゴウ",
-        "meaning": "pride, arrogance"
+        "meaning": {
+          "vi": "pride, arrogance"
+        },
+        "romaji": "kyougou"
       },
       {
         "example": "驕恣",
         "reading": "キョウシ",
-        "meaning": "being proud and self-willed"
+        "meaning": {
+          "vi": "being proud and self-willed"
+        },
+        "romaji": "kyoushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "驕る",
         "reading": "おごる",
-        "meaning": "to be proud, to be haughty, to be arrogant, to be conceited, to brag, to show off"
+        "meaning": {
+          "vi": "to be proud, to be haughty, to be arrogant, to be conceited, to brag, to show off"
+        },
+        "romaji": "ogoru"
       },
       {
         "example": "おごる平家は久しからず",
         "reading": "おごるへいけはひさしからず",
-        "meaning": "pride goes before a fall, pride comes before a fall, the proud Heike family does not last long"
+        "meaning": {
+          "vi": "pride goes before a fall, pride comes before a fall, the proud Heike family does not last long"
+        },
+        "romaji": "ogoruheikehahisashikarazu"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a55.gif",
     "uri": "https://jisho.org/search/%E9%A9%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiêu"
+  ]
 }

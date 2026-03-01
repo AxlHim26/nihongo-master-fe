@@ -17,22 +17,34 @@
       {
         "example": "伯",
         "reading": "ハク",
-        "meaning": "count, earl, chief official of the Department of Worship (under the ritsuryō system), Brazil"
+        "meaning": {
+          "vi": "count, earl, chief official of the Department of Worship (under the ritsuryō system), Brazil"
+        },
+        "romaji": "haku"
       },
       {
         "example": "伯爵",
         "reading": "ハクシャク",
-        "meaning": "count, earl"
+        "meaning": {
+          "en": "count, earl"
+        },
+        "romaji": "hakushaku"
       },
       {
         "example": "画伯",
         "reading": "ガハク",
-        "meaning": "master painter, great artist, painter, artist"
+        "meaning": {
+          "vi": "master painter, great artist, painter, artist"
+        },
+        "romaji": "gahaku"
       },
       {
         "example": "医伯",
         "reading": "イハク",
-        "meaning": "doctor"
+        "meaning": {
+          "en": "doctor"
+        },
+        "romaji": "ihaku"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f2f.gif",
     "uri": "https://jisho.org/search/%E4%BC%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "bá",
+    "bách"
+  ]
 }

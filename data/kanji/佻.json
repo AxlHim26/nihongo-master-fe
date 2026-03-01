@@ -18,7 +18,10 @@
       {
         "example": "軽佻",
         "reading": "ケイチョウ",
-        "meaning": "bất cẩn, phù phiếm, thiếu suy nghĩ, cẩu thả"
+        "meaning": {
+          "vi": "bất cẩn, phù phiếm, thiếu suy nghĩ, cẩu thả"
+        },
+        "romaji": "keichou"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f7b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f7b.gif",
     "uri": "https://jisho.org/search/%E4%BD%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao",
+    "diêu",
+    "khiêu",
+    "thiêu",
+    "điêu",
+    "điểu",
+    "điệu"
+  ]
 }

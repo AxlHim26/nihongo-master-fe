@@ -16,22 +16,34 @@
       {
         "example": "蕉風",
         "reading": "ショウフウ",
-        "meaning": "correct style in a haiku (like Basho's)"
+        "meaning": {
+          "en": "correct style in a haiku (like Basho's)"
+        },
+        "romaji": "shoufuu"
       },
       {
         "example": "蕉門",
         "reading": "ショウモン",
-        "meaning": "disciple of Basho"
+        "meaning": {
+          "vi": "disciple of Basho"
+        },
+        "romaji": "shoumon"
       },
       {
         "example": "蓬莱蕉",
         "reading": "ホウライショウ",
-        "meaning": "Swiss cheese plant (Monstera deliciosa), split-leaf philodendron, cerimen, Mexican breadfruit, fruit salad plant"
+        "meaning": {
+          "vi": "Swiss cheese plant (Monstera deliciosa), split-leaf philodendron, cerimen, Mexican breadfruit, fruit salad plant"
+        },
+        "romaji": "houraishou"
       },
       {
         "example": "香蕉",
         "reading": "コウショウ",
-        "meaning": "banana"
+        "meaning": {
+          "en": "banana"
+        },
+        "romaji": "koushou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08549.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8549.gif",
     "uri": "https://jisho.org/search/%E8%95%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiêu"
+  ]
 }

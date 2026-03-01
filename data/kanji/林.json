@@ -304,34 +304,52 @@
       {
         "example": "林道",
         "reading": "リンドウ",
-        "meaning": "path through forest, woodland path, logging road"
+        "meaning": {
+          "vi": "path through forest, woodland path, logging road"
+        },
+        "romaji": "rindou"
       },
       {
         "example": "林業",
         "reading": "リンギョウ",
-        "meaning": "forestry"
+        "meaning": {
+          "en": "forestry"
+        },
+        "romaji": "ringyou"
       },
       {
         "example": "雑木林",
         "reading": "ゾウキバヤシ",
-        "meaning": "grove of miscellaneous trees, copse, coppice, thicket"
+        "meaning": {
+          "vi": "grove of miscellaneous trees, copse, coppice, thicket"
+        },
+        "romaji": "zoukibayashi"
       },
       {
         "example": "農林",
         "reading": "ノウリン",
-        "meaning": "agriculture and forestry"
+        "meaning": {
+          "en": "agriculture and forestry"
+        },
+        "romaji": "nourin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "林",
         "reading": "はやし",
-        "meaning": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection"
+        "meaning": {
+          "vi": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection"
+        },
+        "romaji": "hayashi"
       },
       {
         "example": "林原美術館",
         "reading": "はやしばらびじゅつかん",
-        "meaning": "Hayashibara Museum of Art"
+        "meaning": {
+          "en": "Hayashibara Museum of Art"
+        },
+        "romaji": "hayashibarabijutsukan"
       }
     ],
     "radical": {
@@ -345,5 +363,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06797.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6797.gif",
     "uri": "https://jisho.org/search/%E6%9E%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "lâm"
+  ]
 }

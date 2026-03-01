@@ -18,7 +18,10 @@
       {
         "example": "鍔",
         "reading": "つば",
-        "meaning": "guard (on a sword), brim (of a hat), visor, peak, brim (of a pot), flange, collar"
+        "meaning": {
+          "vi": "guard (on a sword), brim (of a hat), visor, peak, brim (of a pot), flange, collar"
+        },
+        "romaji": "tsuba"
       }
     ],
     "radical": {
@@ -39,5 +42,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09414.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9414.gif",
     "uri": "https://jisho.org/search/%E9%90%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiền",
+    "tầm",
+    "đàm"
+  ]
 }

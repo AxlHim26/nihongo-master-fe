@@ -268,44 +268,68 @@
       {
         "example": "姿勢",
         "reading": "シセイ",
-        "meaning": "posture, pose, position, stance, carriage (of the body), attitude, approach, stance"
+        "meaning": {
+          "vi": "posture, pose, position, stance, carriage (of the body), attitude, approach, stance"
+        },
+        "romaji": "shisei"
       },
       {
         "example": "姿勢制御",
         "reading": "シセイセイギョ",
-        "meaning": "attitude control, postural control"
+        "meaning": {
+          "vi": "attitude control, postural control"
+        },
+        "romaji": "shiseiseigyo"
       },
       {
         "example": "雄姿",
         "reading": "ユウシ",
-        "meaning": "majestic figure, imposing figure, impressive appearance, magnificent appearance"
+        "meaning": {
+          "vi": "majestic figure, imposing figure, impressive appearance, magnificent appearance"
+        },
+        "romaji": "yuushi"
       },
       {
         "example": "英姿",
         "reading": "エイシ",
-        "meaning": "gallant figure, impressive figure, noble appearance"
+        "meaning": {
+          "vi": "gallant figure, impressive figure, noble appearance"
+        },
+        "romaji": "eishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姿",
         "reading": "すがた",
-        "meaning": "figure, form, shape, appearance, dress, guise, state, condition, picture, image, form (of a waka), dressed in ..., wearing ..."
+        "meaning": {
+          "vi": "figure, form, shape, appearance, dress, guise, state, condition, picture, image, form (of a waka), dressed in ..., wearing ..."
+        },
+        "romaji": "sugata"
       },
       {
         "example": "姿絵",
         "reading": "すがたえ",
-        "meaning": "portrait"
+        "meaning": {
+          "vi": "portrait"
+        },
+        "romaji": "sugatae"
       },
       {
         "example": "晴れ姿",
         "reading": "はれすがた",
-        "meaning": "appearing in one's finest clothes, appearing in one's hour of triumph"
+        "meaning": {
+          "vi": "appearing in one's finest clothes, appearing in one's hour of triumph"
+        },
+        "romaji": "haresugata"
       },
       {
         "example": "舞姿",
         "reading": "まいすがた",
-        "meaning": "dancing figure, one's appearance when dancing, dancing posture"
+        "meaning": {
+          "vi": "dancing figure, one's appearance when dancing, dancing posture"
+        },
+        "romaji": "maisugata"
       }
     ],
     "radical": {
@@ -321,5 +345,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59ff.gif",
     "uri": "https://jisho.org/search/%E5%A7%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

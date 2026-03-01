@@ -16,22 +16,34 @@
       {
         "example": "恟々",
         "reading": "キョウキョウ",
-        "meaning": "scared, afraid, trembling with fear"
+        "meaning": {
+          "en": "scared, afraid, trembling with fear"
+        },
+        "romaji": "kyoukyou"
       },
       {
         "example": "恟然",
         "reading": "キョウゼン",
-        "meaning": "terrified, panicked, horrified"
+        "meaning": {
+          "vi": "terrified, panicked, horrified"
+        },
+        "romaji": "kyouzen"
       },
       {
         "example": "恟々",
         "reading": "キョウキョウ",
-        "meaning": "scared, afraid, trembling with fear"
+        "meaning": {
+          "en": "scared, afraid, trembling with fear"
+        },
+        "romaji": "kyoukyou"
       },
       {
         "example": "人心恟々",
         "reading": "ジンシンキョウキョウ",
-        "meaning": "panic-stricken (people), frightened (masses), alarmed"
+        "meaning": {
+          "vi": "panic-stricken (people), frightened (masses), alarmed"
+        },
+        "romaji": "jinshinkyoukyou"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0605f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/605f.gif",
     "uri": "https://jisho.org/search/%E6%81%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "hung"
+  ]
 }

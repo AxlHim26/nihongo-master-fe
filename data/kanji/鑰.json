@@ -16,19 +16,28 @@
       {
         "example": "秘鑰",
         "reading": "ヒヤク",
-        "meaning": "secret key"
+        "meaning": {
+          "en": "secret key"
+        },
+        "romaji": "hiyaku"
       },
       {
         "example": "管鑰",
         "reading": "カンヤク",
-        "meaning": "key, flute constructed of bamboo"
+        "meaning": {
+          "en": "key, flute constructed of bamboo"
+        },
+        "romaji": "kan'yaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鍵",
         "reading": "かぎ",
-        "meaning": "key, lock, key (to a problem, success, etc.), clue"
+        "meaning": {
+          "vi": "key, lock, key (to a problem, success, etc.), clue"
+        },
+        "romaji": "kagi"
       }
     ],
     "radical": {
@@ -53,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09470.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9470.gif",
     "uri": "https://jisho.org/search/%E9%91%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "dược",
+    "thược"
+  ]
 }

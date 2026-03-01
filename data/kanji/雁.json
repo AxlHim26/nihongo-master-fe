@@ -18,44 +18,68 @@
       {
         "example": "雁",
         "reading": "ガン",
-        "meaning": "wild goose"
+        "meaning": {
+          "en": "wild goose"
+        },
+        "romaji": "gan"
       },
       {
         "example": "雁",
         "reading": "ガン",
-        "meaning": "Gan, The Wild Geese (1913 novel by Mori Ōgai)"
+        "meaning": {
+          "en": "Gan, The Wild Geese (1913 novel by Mori Ōgai)"
+        },
+        "romaji": "gan"
       },
       {
         "example": "ハワイ雁",
         "reading": "ハワイガン",
-        "meaning": "Hawaiian goose (Branta sandvicensis), nene"
+        "meaning": {
+          "en": "Hawaiian goose (Branta sandvicensis), nene"
+        },
+        "romaji": "hawaigan"
       },
       {
         "example": "鴻雁",
         "reading": "コウガン",
-        "meaning": "wild geese, large geese and small geese"
+        "meaning": {
+          "en": "wild geese, large geese and small geese"
+        },
+        "romaji": "kougan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雁",
         "reading": "かり",
-        "meaning": "wild goose, glans, head of a penis"
+        "meaning": {
+          "vi": "wild goose, glans, head of a penis"
+        },
+        "romaji": "kari"
       },
       {
         "example": "雁が音",
         "reading": "かりがね",
-        "meaning": "call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"
+        "meaning": {
+          "vi": "call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"
+        },
+        "romaji": "karigane"
       },
       {
         "example": "雁が音",
         "reading": "かりがね",
-        "meaning": "call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"
+        "meaning": {
+          "vi": "call of a wild goose, wild goose (esp. a lesser white-fronted goose, Anser erythropus), tea made from twigs of high-quality tea plants (esp. gyokuro), high-grade kukicha (esp. from gyokuro)"
+        },
+        "romaji": "karigane"
       },
       {
         "example": "雁金草",
         "reading": "かりがねそう",
-        "meaning": "blue spirea (Caryopteris divaricata), blue mist shrub"
+        "meaning": {
+          "vi": "blue spirea (Caryopteris divaricata), blue mist shrub"
+        },
+        "romaji": "kariganesou"
       }
     ],
     "radical": {
@@ -71,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c1.gif",
     "uri": "https://jisho.org/search/%E9%9B%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhạn"
+  ]
 }

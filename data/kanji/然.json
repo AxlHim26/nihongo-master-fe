@@ -344,74 +344,116 @@
       {
         "example": "然",
         "reading": "ゼン",
-        "meaning": "-like"
+        "meaning": {
+          "en": "-like"
+        },
+        "romaji": "zen"
       },
       {
         "example": "然諾",
         "reading": "ゼンダク",
-        "meaning": "consent, saying yes"
+        "meaning": {
+          "en": "consent, saying yes"
+        },
+        "romaji": "zendaku"
       },
       {
         "example": "必然",
         "reading": "ヒツゼン",
-        "meaning": "inevitable, necessary, certain, sure, inevitability, necessity"
+        "meaning": {
+          "en": "inevitable, necessary, certain, sure, inevitability, necessity"
+        },
+        "romaji": "hitsuzen"
       },
       {
         "example": "漠然",
         "reading": "バクゼン",
-        "meaning": "vague, obscure, indistinct, hazy, ambiguous"
+        "meaning": {
+          "en": "vague, obscure, indistinct, hazy, ambiguous"
+        },
+        "romaji": "bakuzen"
       },
       {
         "example": "寂然",
         "reading": "セキゼン",
-        "meaning": "lonely, desolate, forlornness, desolation"
+        "meaning": {
+          "en": "lonely, desolate, forlornness, desolation"
+        },
+        "romaji": "sekizen"
       },
       {
         "example": "自然",
         "reading": "ジネン",
-        "meaning": "occurring naturally (without human influence)"
+        "meaning": {
+          "en": "occurring naturally (without human influence)"
+        },
+        "romaji": "jinen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "然",
         "reading": "しか",
-        "meaning": "like that, as such, yeah, uh-huh"
+        "meaning": {
+          "en": "like that, as such, yeah, uh-huh"
+        },
+        "romaji": "shika"
       },
       {
         "example": "然し",
         "reading": "しかし",
-        "meaning": "however, but"
+        "meaning": {
+          "en": "however, but"
+        },
+        "romaji": "shikashi"
       },
       {
         "example": "然り",
         "reading": "しかり",
-        "meaning": "yes, yea, aye, affirmative, to be so"
+        "meaning": {
+          "en": "yes, yea, aye, affirmative, to be so"
+        },
+        "romaji": "shikari"
       },
       {
         "example": "然し",
         "reading": "しかし",
-        "meaning": "however, but"
+        "meaning": {
+          "en": "however, but"
+        },
+        "romaji": "shikashi"
       },
       {
         "example": "而して",
         "reading": "そして",
-        "meaning": "and, and then, thus, and now, and finally"
+        "meaning": {
+          "en": "and, and then, thus, and now, and finally"
+        },
+        "romaji": "soshite"
       },
       {
         "example": "然",
         "reading": "さ",
-        "meaning": "so, like that, in that way"
+        "meaning": {
+          "en": "so, like that, in that way"
+        },
+        "romaji": "sa"
       },
       {
         "example": "然らば",
         "reading": "さらば",
-        "meaning": "farewell, goodbye, adieu, if so, in that case, then, and (then)"
+        "meaning": {
+          "en": "farewell, goodbye, adieu, if so, in that case, then, and (then)"
+        },
+        "romaji": "saraba"
       },
       {
         "example": "然然",
         "reading": "ささ",
-        "meaning": "such and such"
+        "meaning": {
+          "en": "such and such"
+        },
+        "romaji": "sasa"
       }
     ],
     "radical": {
@@ -430,5 +472,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07136.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7136.gif",
     "uri": "https://jisho.org/search/%E7%84%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhiên"
+  ]
 }

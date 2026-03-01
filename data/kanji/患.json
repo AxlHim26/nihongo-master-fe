@@ -257,29 +257,44 @@
       {
         "example": "患者",
         "reading": "カンジャ",
-        "meaning": "patient"
+        "meaning": {
+          "vi": "patient"
+        },
+        "romaji": "kanja"
       },
       {
         "example": "患部",
         "reading": "カンブ",
-        "meaning": "affected part, diseased part, wound"
+        "meaning": {
+          "vi": "affected part, diseased part, wound"
+        },
+        "romaji": "kanbu"
       },
       {
         "example": "疾患",
         "reading": "シッカン",
-        "meaning": "disease, illness, disorder, condition, ailment"
+        "meaning": {
+          "en": "disease, illness, disorder, condition, ailment"
+        },
+        "romaji": "shikkan"
       },
       {
         "example": "病患",
         "reading": "ビョウカン",
-        "meaning": "sickness, disease"
+        "meaning": {
+          "en": "sickness, disease"
+        },
+        "romaji": "byoukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "患う",
         "reading": "わずらう",
-        "meaning": "to be ill, to suffer from"
+        "meaning": {
+          "en": "to be ill, to suffer from"
+        },
+        "romaji": "wazurau"
       }
     ],
     "radical": {
@@ -299,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a3.gif",
     "uri": "https://jisho.org/search/%E6%82%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạn"
+  ]
 }

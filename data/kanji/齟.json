@@ -18,7 +18,10 @@
       {
         "example": "齟齬",
         "reading": "ソゴ",
-        "meaning": "không nhất quán, bất hòa, xung đột, mâu thuẫn, thất bại, bực bội"
+        "meaning": {
+          "vi": "không nhất quán, bất hòa, xung đột, mâu thuẫn, thất bại, bực bội"
+        },
+        "romaji": "sogo"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f5f.gif",
     "uri": "https://jisho.org/search/%E9%BD%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thư",
+    "trở"
+  ]
 }

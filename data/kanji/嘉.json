@@ -19,24 +19,36 @@
       {
         "example": "歌留多",
         "reading": "カルタ",
-        "meaning": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+        "meaning": {
+          "vi": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+        },
+        "romaji": "karuta"
       },
       {
         "example": "嘉納",
         "reading": "カノウ",
-        "meaning": "accepting with pleasure"
+        "meaning": {
+          "vi": "accepting with pleasure"
+        },
+        "romaji": "kanou"
       },
       {
         "example": "正嘉",
         "reading": "ショウカ",
-        "meaning": "Shōka era (1257.3.14-1259.3.26)"
+        "meaning": {
+          "en": "Shōka era (1257.3.14-1259.3.26)"
+        },
+        "romaji": "shouka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嘉する",
         "reading": "よみする",
-        "meaning": "to praise (someone of lower status), to extol, to applaud, to esteem"
+        "meaning": {
+          "vi": "to praise (someone of lower status), to extol, to applaud, to esteem"
+        },
+        "romaji": "yomisuru"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05609.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5609.gif",
     "uri": "https://jisho.org/search/%E5%98%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "gia"
+  ]
 }

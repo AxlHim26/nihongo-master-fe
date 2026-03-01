@@ -359,39 +359,60 @@
       {
         "example": "逃亡",
         "reading": "トウボウ",
-        "meaning": "escape, flight, running away, elopement, fleeing"
+        "meaning": {
+          "vi": "escape, flight, running away, elopement, fleeing"
+        },
+        "romaji": "toubou"
       },
       {
         "example": "逃走",
         "reading": "トウソウ",
-        "meaning": "flight, desertion, escape"
+        "meaning": {
+          "vi": "flight, desertion, escape"
+        },
+        "romaji": "tousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "逃げる",
         "reading": "にげる",
-        "meaning": "to run away, to flee, to get away (e.g. from danger), to escape, to break out, to leave (e.g. one's spouse), to avoid (a question, responsibility, etc.), to evade, to dodge, to shirk, to back away, to win without being overtaken, to hold off the other contenders (until the finish), to keep the lead (and win), to escape (of heat, a gas, etc.), to leak out (e.g. of a scent), to be lost (e.g. of flavor), to fail to hold an ideal posture"
+        "meaning": {
+          "vi": "to run away, to flee, to get away (e.g. from danger), to escape, to break out, to leave (e.g. one's spouse), to avoid (a question, responsibility, etc.), to evade, to dodge, to shirk, to back away, to win without being overtaken, to hold off the other contenders (until the finish), to keep the lead (and win), to escape (of heat, a gas, etc.), to leak out (e.g. of a scent), to be lost (e.g. of flavor), to fail to hold an ideal posture"
+        },
+        "romaji": "nigeru"
       },
       {
         "example": "逃げるが勝ち",
         "reading": "にげるがかち",
-        "meaning": "he that fights and runs away may live to fight another day, discretion is the better part of valor, fleeing is winning"
+        "meaning": {
+          "vi": "he that fights and runs away may live to fight another day, discretion is the better part of valor, fleeing is winning"
+        },
+        "romaji": "nigerugakachi"
       },
       {
         "example": "逃がす",
         "reading": "にがす",
-        "meaning": "to set free, to let go, to release, to miss (e.g. a chance), to lose, to let get away, to fail to catch"
+        "meaning": {
+          "en": "to set free, to let go, to release, to miss (e.g. a chance), to lose, to let get away, to fail to catch"
+        },
+        "romaji": "nigasu"
       },
       {
         "example": "逃す",
         "reading": "のがす",
-        "meaning": "to miss (e.g. a chance), to lose, to let get away, to set free, to let go, to fail to ..."
+        "meaning": {
+          "en": "to miss (e.g. a chance), to lose, to let get away, to set free, to let go, to fail to ..."
+        },
+        "romaji": "nogasu"
       },
       {
         "example": "逃れる",
         "reading": "のがれる",
-        "meaning": "to escape"
+        "meaning": {
+          "vi": "to escape"
+        },
+        "romaji": "nogareru"
       }
     ],
     "radical": {
@@ -412,5 +433,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09003.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9003.gif",
     "uri": "https://jisho.org/search/%E9%80%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "đào"
+  ]
 }

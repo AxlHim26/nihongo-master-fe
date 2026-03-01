@@ -20,34 +20,52 @@
       {
         "example": "舞姫",
         "reading": "マイヒメ",
-        "meaning": "female dancer, dancing girl, danseuse"
+        "meaning": {
+          "en": "female dancer, dancing girl, danseuse"
+        },
+        "romaji": "maihime"
       },
       {
         "example": "寵姫",
         "reading": "チョウキ",
-        "meaning": "one's favorite mistress, one's favourite mistress"
+        "meaning": {
+          "en": "one's favorite mistress, one's favourite mistress"
+        },
+        "romaji": "chouki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姫",
         "reading": "ひめ",
-        "meaning": "young lady of noble birth, princess (esp. in Western contexts, tales, etc.), girl, small, cute, lesser (in names of species), prostitute"
+        "meaning": {
+          "vi": "young lady of noble birth, princess (esp. in Western contexts, tales, etc.), girl, small, cute, lesser (in names of species), prostitute"
+        },
+        "romaji": "hime"
       },
       {
         "example": "姫君",
         "reading": "ひめぎみ",
-        "meaning": "daughter of a person of high rank (esp. eldest daughter)"
+        "meaning": {
+          "vi": "daughter of a person of high rank (esp. eldest daughter)"
+        },
+        "romaji": "himegimi"
       },
       {
         "example": "歌姫",
         "reading": "うたひめ",
-        "meaning": "songstress, diva"
+        "meaning": {
+          "en": "songstress, diva"
+        },
+        "romaji": "utahime"
       },
       {
         "example": "舞姫",
         "reading": "まいひめ",
-        "meaning": "female dancer, dancing girl, danseuse"
+        "meaning": {
+          "en": "female dancer, dancing girl, danseuse"
+        },
+        "romaji": "maihime"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59eb.gif",
     "uri": "https://jisho.org/search/%E5%A7%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ"
+  ]
 }

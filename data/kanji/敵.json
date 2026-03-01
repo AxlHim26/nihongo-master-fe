@@ -314,49 +314,76 @@
       {
         "example": "敵",
         "reading": "テキ",
-        "meaning": "opponent, rival, adversary, menace, danger, threat, enemy"
+        "meaning": {
+          "vi": "opponent, rival, adversary, menace, danger, threat, enemy"
+        },
+        "romaji": "teki"
       },
       {
         "example": "敵意",
         "reading": "テキイ",
-        "meaning": "hostility, animosity, enmity"
+        "meaning": {
+          "en": "hostility, animosity, enmity"
+        },
+        "romaji": "tekii"
       },
       {
         "example": "強敵",
         "reading": "キョウテキ",
-        "meaning": "formidable enemy, strong enemy, tough enemy"
+        "meaning": {
+          "en": "formidable enemy, strong enemy, tough enemy"
+        },
+        "romaji": "kyouteki"
       },
       {
         "example": "無敵",
         "reading": "ムテキ",
-        "meaning": "invincible, unrivaled, unrivalled, matchless, unbeatable, undefeatable"
+        "meaning": {
+          "en": "invincible, unrivaled, unrivalled, matchless, unbeatable, undefeatable"
+        },
+        "romaji": "muteki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敵",
         "reading": "かたき",
-        "meaning": "rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe, revenge, spouse"
+        "meaning": {
+          "vi": "rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe, revenge, spouse"
+        },
+        "romaji": "kataki"
       },
       {
         "example": "敵討ち",
         "reading": "かたきうち",
-        "meaning": "vengeance, revenge, retaliation"
+        "meaning": {
+          "en": "vengeance, revenge, retaliation"
+        },
+        "romaji": "katakiuchi"
       },
       {
         "example": "目の敵",
         "reading": "めのかたき",
-        "meaning": "enemy"
+        "meaning": {
+          "en": "enemy"
+        },
+        "romaji": "menokataki"
       },
       {
         "example": "仇を討つ",
         "reading": "かたきをうつ",
-        "meaning": "to avenge (someone) by striking down their killer"
+        "meaning": {
+          "en": "to avenge (someone) by striking down their killer"
+        },
+        "romaji": "katakiwoutsu"
       },
       {
         "example": "叶う",
         "reading": "かなう",
-        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        "meaning": {
+          "vi": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        },
+        "romaji": "kanau"
       }
     ],
     "radical": {
@@ -381,5 +408,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06575.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6575.gif",
     "uri": "https://jisho.org/search/%E6%95%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "địch"
+  ]
 }

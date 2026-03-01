@@ -260,42 +260,66 @@
       {
         "example": "皇后",
         "reading": "コウゴウ",
-        "meaning": "hoàng hậu"
+        "meaning": {
+          "vi": "hoàng hậu"
+        },
+        "romaji": "kougou"
       },
       {
         "example": "皇居",
         "reading": "コウキョ",
-        "meaning": "Hoàng cung (Nhật Bản), nơi ở của hoàng gia"
+        "meaning": {
+          "vi": "Hoàng cung (Nhật Bản), nơi ở của hoàng gia"
+        },
+        "romaji": "koukyo"
       },
       {
         "example": "倉皇",
         "reading": "ソウコウ",
-        "meaning": "vội vã, hấp tấp"
+        "meaning": {
+          "vi": "vội vã, hấp tấp"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "教皇",
         "reading": "キョウコウ",
-        "meaning": "Giáo hoàng"
+        "meaning": {
+          "vi": "Giáo hoàng"
+        },
+        "romaji": "kyoukou"
       },
       {
         "example": "皇子",
         "reading": "オウジ",
-        "meaning": "hoàng tử"
+        "meaning": {
+          "vi": "hoàng tử"
+        },
+        "romaji": "ouji"
       },
       {
         "example": "皇女",
         "reading": "コウジョ",
-        "meaning": "công chúa"
+        "meaning": {
+          "vi": "công chúa"
+        },
+        "romaji": "koujo"
       },
       {
         "example": "法皇",
         "reading": "ホウオウ",
-        "meaning": "thái thượng hoàng, cựu hoàng đế đi tu"
+        "meaning": {
+          "vi": "thái thượng hoàng, cựu hoàng đế đi tu"
+        },
+        "romaji": "houou"
       },
       {
         "example": "太上法皇",
         "reading": "ダイジョウホウオウ",
-        "meaning": "thái thượng hoàng, cựu hoàng đế đi tu"
+        "meaning": {
+          "vi": "thái thượng hoàng, cựu hoàng đế đi tu"
+        },
+        "romaji": "daijouhouou"
       }
     ],
     "kunyomiExamples": [],
@@ -311,5 +335,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07687.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7687.gif",
     "uri": "https://jisho.org/search/%E7%9A%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàng"
+  ]
 }

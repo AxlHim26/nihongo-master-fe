@@ -18,7 +18,10 @@
       {
         "example": "無",
         "reading": "ム",
-        "meaning": "nothing, naught, nought, nil, zero, un-, non-"
+        "meaning": {
+          "en": "nothing, naught, nought, nil, zero, un-, non-"
+        },
+        "romaji": "mu"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e0.gif",
     "uri": "https://jisho.org/search/%E6%97%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô",
+    "vô"
+  ]
 }

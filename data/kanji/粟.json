@@ -20,44 +20,68 @@
       {
         "example": "粟",
         "reading": "ゾク",
-        "meaning": "millet, grain, stipend in rice, 10,000th of a shaku"
+        "meaning": {
+          "vi": "millet, grain, stipend in rice, 10,000th of a shaku"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "粟粒",
         "reading": "アワツブ",
-        "meaning": "millet grain, something extremely tiny"
+        "meaning": {
+          "en": "millet grain, something extremely tiny"
+        },
+        "romaji": "awatsubu"
       },
       {
         "example": "稲粟",
         "reading": "トウゾク",
-        "meaning": "rice and millet"
+        "meaning": {
+          "en": "rice and millet"
+        },
+        "romaji": "touzoku"
       },
       {
         "example": "滄海の一粟",
         "reading": "ソウカイノイチゾク",
-        "meaning": "drop in the bucket, drop in the ocean, one grain of millet in a vast ocean"
+        "meaning": {
+          "vi": "drop in the bucket, drop in the ocean, one grain of millet in a vast ocean"
+        },
+        "romaji": "soukainoichizoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粟",
         "reading": "あわ",
-        "meaning": "foxtail millet (Setaria italica), Italian millet (also Hungarian, German)"
+        "meaning": {
+          "en": "foxtail millet (Setaria italica), Italian millet (also Hungarian, German)"
+        },
+        "romaji": "awa"
       },
       {
         "example": "粟おこし",
         "reading": "あわおこし",
-        "meaning": "millet brittle"
+        "meaning": {
+          "en": "millet brittle"
+        },
+        "romaji": "awaokoshi"
       },
       {
         "example": "糯粟",
         "reading": "もちあわ",
-        "meaning": "glutinous millet (for making mochi and certain types of alcohol)"
+        "meaning": {
+          "vi": "glutinous millet (for making mochi and certain types of alcohol)"
+        },
+        "romaji": "mochiawa"
       },
       {
         "example": "濡れ手で粟",
         "reading": "ぬれてであわ",
-        "meaning": "easy profit"
+        "meaning": {
+          "vi": "easy profit"
+        },
+        "romaji": "nuretedeawa"
       }
     ],
     "radical": {
@@ -72,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c9f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c9f.gif",
     "uri": "https://jisho.org/search/%E7%B2%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "túc"
+  ]
 }

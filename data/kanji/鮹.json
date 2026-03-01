@@ -18,7 +18,10 @@
       {
         "example": "蛸",
         "reading": "たこ",
-        "meaning": "octopus, fool, idiot"
+        "meaning": {
+          "vi": "octopus, fool, idiot"
+        },
+        "romaji": "tako"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bb9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bb9.gif",
     "uri": "https://jisho.org/search/%E9%AE%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "sao"
+  ]
 }

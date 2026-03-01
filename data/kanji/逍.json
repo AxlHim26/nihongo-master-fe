@@ -14,12 +14,18 @@
       {
         "example": "逍遥",
         "reading": "ショウヨウ",
-        "meaning": "ramble, saunter, walk, wander, stroll"
+        "meaning": {
+          "en": "ramble, saunter, walk, wander, stroll"
+        },
+        "romaji": "shouyou"
       },
       {
         "example": "逍遥学派",
         "reading": "ショウヨウガクハ",
-        "meaning": "Peripatetic school"
+        "meaning": {
+          "vi": "Peripatetic school"
+        },
+        "romaji": "shouyougakuha"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0900d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/900d.gif",
     "uri": "https://jisho.org/search/%E9%80%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiêu"
+  ]
 }

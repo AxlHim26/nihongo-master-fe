@@ -19,44 +19,68 @@
       {
         "example": "桃花",
         "reading": "トウカ",
-        "meaning": "peach blossom"
+        "meaning": {
+          "vi": "peach blossom"
+        },
+        "romaji": "touka"
       },
       {
         "example": "桃源",
         "reading": "トウゲン",
-        "meaning": "earthly paradise, Shangri-la"
+        "meaning": {
+          "vi": "earthly paradise, Shangri-la"
+        },
+        "romaji": "tougen"
       },
       {
         "example": "寿星桃",
         "reading": "ジュセイトウ",
-        "meaning": "Prunus persica var. densa (Chinese variety of peach)"
+        "meaning": {
+          "vi": "Prunus persica var. densa (Chinese variety of peach)"
+        },
+        "romaji": "juseitou"
       },
       {
         "example": "黄桃",
         "reading": "オウトウ",
-        "meaning": "yellow peach"
+        "meaning": {
+          "vi": "yellow peach"
+        },
+        "romaji": "outou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "桃",
         "reading": "もも",
-        "meaning": "peach (Prunus persica)"
+        "meaning": {
+          "vi": "peach (Prunus persica)"
+        },
+        "romaji": "momo"
       },
       {
         "example": "桃色",
         "reading": "ももいろ",
-        "meaning": "pink (colour, color), peach"
+        "meaning": {
+          "vi": "pink (colour, color), peach"
+        },
+        "romaji": "momoiro"
       },
       {
         "example": "椿桃",
         "reading": "つばいもも",
-        "meaning": "nectarine"
+        "meaning": {
+          "en": "nectarine"
+        },
+        "romaji": "tsubaimomo"
       },
       {
         "example": "苔桃",
         "reading": "こけもも",
-        "meaning": "lingonberry (Vaccinium vitis-idaea), cowberry"
+        "meaning": {
+          "en": "lingonberry (Vaccinium vitis-idaea), cowberry"
+        },
+        "romaji": "kokemomo"
       }
     ],
     "radical": {
@@ -72,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06843.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6843.gif",
     "uri": "https://jisho.org/search/%E6%A1%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "đào"
+  ]
 }

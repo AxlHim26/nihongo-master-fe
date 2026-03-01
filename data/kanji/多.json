@@ -314,34 +314,52 @@
       {
         "example": "多",
         "reading": "タ",
-        "meaning": "đa-"
+        "meaning": {
+          "vi": "đa-"
+        },
+        "romaji": "ta"
       },
       {
         "example": "多角",
         "reading": "タカク",
-        "meaning": "đa phương, đa năng, đa giác, đa dạng hóa"
+        "meaning": {
+          "vi": "đa phương, đa năng, đa giác, đa dạng hóa"
+        },
+        "romaji": "takaku"
       },
       {
         "example": "過多",
         "reading": "カタ",
-        "meaning": "thừa, dư thừa"
+        "meaning": {
+          "vi": "thừa, dư thừa"
+        },
+        "romaji": "kata"
       },
       {
         "example": "最多",
         "reading": "サイタ",
-        "meaning": "nhiều nhất, số lượng lớn nhất"
+        "meaning": {
+          "vi": "nhiều nhất, số lượng lớn nhất"
+        },
+        "romaji": "saita"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "多い",
         "reading": "おおい",
-        "meaning": "nhiều, đông đảo, số lượng lớn, thường xuyên, phổ biến"
+        "meaning": {
+          "vi": "nhiều, đông đảo, số lượng lớn, thường xuyên, phổ biến"
+        },
+        "romaji": "ooi"
       },
       {
         "example": "大いに",
         "reading": "おおいに",
-        "meaning": "rất, rất nhiều, đáng kể, cao độ, hết sức"
+        "meaning": {
+          "vi": "rất, rất nhiều, đáng kể, cao độ, hết sức"
+        },
+        "romaji": "ooini"
       }
     ],
     "radical": {
@@ -355,5 +373,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0591a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/591a.gif",
     "uri": "https://jisho.org/search/%E5%A4%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "đa"
+  ]
 }

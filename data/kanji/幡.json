@@ -20,39 +20,60 @@
       {
         "example": "八幡",
         "reading": "ハチマン",
-        "meaning": "Hachiman (god of war), Hachiman shrine, certainly"
+        "meaning": {
+          "en": "Hachiman (god of war), Hachiman shrine, certainly"
+        },
+        "romaji": "hachiman"
       },
       {
         "example": "南無八幡",
         "reading": "ナムハチマン",
-        "meaning": "O Great God of Arms, I beseech your aid against my enemy"
+        "meaning": {
+          "en": "O Great God of Arms, I beseech your aid against my enemy"
+        },
+        "romaji": "namuhachiman"
       },
       {
         "example": "幡",
         "reading": "バン",
-        "meaning": "pataka (banner)"
+        "meaning": {
+          "vi": "pataka (banner)"
+        },
+        "romaji": "ban"
       },
       {
         "example": "黄幡",
         "reading": "オウバン",
-        "meaning": "Ōban, one of the eight gods of the traditional calendar"
+        "meaning": {
+          "en": "Ōban, one of the eight gods of the traditional calendar"
+        },
+        "romaji": "ouban"
       },
       {
         "example": "幢幡",
         "reading": "ドウバン",
-        "meaning": "hanging-banner used as ornament in Buddhist temples"
+        "meaning": {
+          "vi": "hanging-banner used as ornament in Buddhist temples"
+        },
+        "romaji": "douban"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旗",
         "reading": "はた",
-        "meaning": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+        "meaning": {
+          "vi": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+        },
+        "romaji": "hata"
       },
       {
         "example": "幢",
         "reading": "はたほこ",
-        "meaning": "long-handled Chinese spear bearing a small flag, banner, hanging"
+        "meaning": {
+          "vi": "long-handled Chinese spear bearing a small flag, banner, hanging"
+        },
+        "romaji": "hatahoko"
       }
     ],
     "radical": {
@@ -69,5 +90,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e61.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e61.gif",
     "uri": "https://jisho.org/search/%E5%B9%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "phan",
+    "phiên"
+  ]
 }

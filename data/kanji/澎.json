@@ -15,7 +15,10 @@
       {
         "example": "澎湃",
         "reading": "ホウハイ",
-        "meaning": "as the sound of surging water, vigorous, surging, welling"
+        "meaning": {
+          "en": "as the sound of surging water, vigorous, surging, welling"
+        },
+        "romaji": "houhai"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f8e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f8e.gif",
     "uri": "https://jisho.org/search/%E6%BE%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "bành"
+  ]
 }

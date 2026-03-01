@@ -356,64 +356,100 @@
       {
         "example": "口",
         "reading": "ク",
-        "meaning": "mouth, speech, counter for people or implements"
+        "meaning": {
+          "vi": "mouth, speech, counter for people or implements"
+        },
+        "romaji": "ku"
       },
       {
         "example": "口径",
         "reading": "コウケイ",
-        "meaning": "aperture, bore, calibre, caliber"
+        "meaning": {
+          "vi": "aperture, bore, calibre, caliber"
+        },
+        "romaji": "koukei"
       },
       {
         "example": "開口",
         "reading": "カイコウ",
-        "meaning": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad"
+        "meaning": {
+          "vi": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad"
+        },
+        "romaji": "kaikou"
       },
       {
         "example": "悪口",
         "reading": "アッコウ",
-        "meaning": "(verbal) abuse, name-calling, abusive language, insulting remarks"
+        "meaning": {
+          "en": "(verbal) abuse, name-calling, abusive language, insulting remarks"
+        },
+        "romaji": "akkou"
       },
       {
         "example": "口",
         "reading": "ク",
-        "meaning": "mouth, speech, counter for people or implements"
+        "meaning": {
+          "vi": "mouth, speech, counter for people or implements"
+        },
+        "romaji": "ku"
       },
       {
         "example": "口",
         "reading": "クチ",
-        "meaning": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+        "meaning": {
+          "vi": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+        },
+        "romaji": "kuchi"
       },
       {
         "example": "猪口",
         "reading": "チョコ",
-        "meaning": "sake cup, small deep porcelain bowl for serving food"
+        "meaning": {
+          "vi": "sake cup, small deep porcelain bowl for serving food"
+        },
+        "romaji": "choko"
       },
       {
         "example": "赤口",
         "reading": "シャッコウ",
-        "meaning": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
+        "meaning": {
+          "vi": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
+        },
+        "romaji": "shakkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "口",
         "reading": "くち",
-        "meaning": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+        "meaning": {
+          "vi": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+        },
+        "romaji": "kuchi"
       },
       {
         "example": "口利き",
         "reading": "くちきき",
-        "meaning": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking"
+        "meaning": {
+          "vi": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking"
+        },
+        "romaji": "kuchikiki"
       },
       {
         "example": "切り口",
         "reading": "きりくち",
-        "meaning": "cut end, section, opening, slit, point of view, (different) perspective, new approach"
+        "meaning": {
+          "vi": "cut end, section, opening, slit, point of view, (different) perspective, new approach"
+        },
+        "romaji": "kirikuchi"
       },
       {
         "example": "大口",
         "reading": "おおぐち",
-        "meaning": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity"
+        "meaning": {
+          "vi": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity"
+        },
+        "romaji": "ooguchi"
       }
     ],
     "radical": {
@@ -428,5 +464,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e3.gif",
     "uri": "https://jisho.org/search/%E5%8F%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "khẩu"
+  ]
 }

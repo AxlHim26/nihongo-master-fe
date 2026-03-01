@@ -19,17 +19,26 @@
       {
         "example": "幌",
         "reading": "ほろ",
-        "meaning": "canopy (esp. the cloth or canvas used for it), awning, top (of a convertible), hood, helmet cape, cloth covering one's back to protect against arrows during battle"
+        "meaning": {
+          "vi": "canopy (esp. the cloth or canvas used for it), awning, top (of a convertible), hood, helmet cape, cloth covering one's back to protect against arrows during battle"
+        },
+        "romaji": "horo"
       },
       {
         "example": "幌蚊帳",
         "reading": "ほろがや",
-        "meaning": "tent-shaped mosquito net (often used to protect infants)"
+        "meaning": {
+          "vi": "tent-shaped mosquito net (often used to protect infants)"
+        },
+        "romaji": "horogaya"
       },
       {
         "example": "帳",
         "reading": "とばり",
-        "meaning": "curtain, hanging, bunting"
+        "meaning": {
+          "en": "curtain, hanging, bunting"
+        },
+        "romaji": "tobari"
       }
     ],
     "radical": {
@@ -46,5 +55,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e4c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e4c.gif",
     "uri": "https://jisho.org/search/%E5%B9%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoảng"
+  ]
 }

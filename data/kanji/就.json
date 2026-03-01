@@ -322,44 +322,68 @@
       {
         "example": "就業",
         "reading": "シュウギョウ",
-        "meaning": "employment, starting work"
+        "meaning": {
+          "vi": "employment, starting work"
+        },
+        "romaji": "shuugyou"
       },
       {
         "example": "就学",
         "reading": "シュウガク",
-        "meaning": "entering school, school attendance"
+        "meaning": {
+          "en": "entering school, school attendance"
+        },
+        "romaji": "shuugaku"
       },
       {
         "example": "去就",
         "reading": "キョシュウ",
-        "meaning": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+        "meaning": {
+          "vi": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+        },
+        "romaji": "kyoshuu"
       },
       {
         "example": "進退去就",
         "reading": "シンタイキョシュウ",
-        "meaning": "one's course of action, deciding what to do with oneself, whether staying in the present position or leaving it"
+        "meaning": {
+          "vi": "one's course of action, deciding what to do with oneself, whether staying in the present position or leaving it"
+        },
+        "romaji": "shintaikyoshuu"
       },
       {
         "example": "本懐成就",
         "reading": "ホンカイジョウジュ",
-        "meaning": "realization of a great ambition, attainment of one's most cherished desire, one's earnest prayer being answered"
+        "meaning": {
+          "vi": "realization of a great ambition, attainment of one's most cherished desire, one's earnest prayer being answered"
+        },
+        "romaji": "honkaijouju"
       },
       {
         "example": "不空成就",
         "reading": "フクウジョウジュ",
-        "meaning": "Amoghasiddhi, Infallible Magic (a dhyani-Buddha)"
+        "meaning": {
+          "en": "Amoghasiddhi, Infallible Magic (a dhyani-Buddha)"
+        },
+        "romaji": "fukuujouju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "就く",
         "reading": "つく",
-        "meaning": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+        "meaning": {
+          "vi": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+        },
+        "romaji": "tsuku"
       },
       {
         "example": "就ける",
         "reading": "つける",
-        "meaning": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+        "meaning": {
+          "vi": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+        },
+        "romaji": "tsukeru"
       }
     ],
     "radical": {
@@ -381,5 +405,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c31.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c31.gif",
     "uri": "https://jisho.org/search/%E5%B0%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "tựu"
+  ]
 }

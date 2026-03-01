@@ -392,39 +392,60 @@
       {
         "example": "者",
         "reading": "シャ",
-        "meaning": "person, -er, expert, geisha, prostitute"
+        "meaning": {
+          "vi": "person, -er, expert, geisha, prostitute"
+        },
+        "romaji": "sha"
       },
       {
         "example": "芸者",
         "reading": "ゲイシャ",
-        "meaning": "geisha, professional female entertainer, usu. at traditional banquets"
+        "meaning": {
+          "vi": "geisha, professional female entertainer, usu. at traditional banquets"
+        },
+        "romaji": "geisha"
       },
       {
         "example": "加害者",
         "reading": "カガイシャ",
-        "meaning": "perpetrator, wrong-doer, aggressor, assailant, offender"
+        "meaning": {
+          "vi": "perpetrator, wrong-doer, aggressor, assailant, offender"
+        },
+        "romaji": "kagaisha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "者",
         "reading": "もの",
-        "meaning": "person"
+        "meaning": {
+          "vi": "person"
+        },
+        "romaji": "mono"
       },
       {
         "example": "者ども",
         "reading": "ものども",
-        "meaning": "you, people"
+        "meaning": {
+          "vi": "you, people"
+        },
+        "romaji": "monodomo"
       },
       {
         "example": "弱き者",
         "reading": "よわきもの",
-        "meaning": "weak person, the weak"
+        "meaning": {
+          "vi": "weak person, the weak"
+        },
+        "romaji": "yowakimono"
       },
       {
         "example": "若い者",
         "reading": "わかいもの",
-        "meaning": "young person, young people, youth, youngsters, young employee, young manservant, young follower"
+        "meaning": {
+          "vi": "young person, young people, youth, youngsters, young employee, young manservant, young follower"
+        },
+        "romaji": "wakaimono"
       }
     ],
     "radical": {
@@ -442,5 +463,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08005.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8005.gif",
     "uri": "https://jisho.org/search/%E8%80%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "giả"
+  ]
 }

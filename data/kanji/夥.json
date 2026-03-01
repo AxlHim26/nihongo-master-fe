@@ -17,14 +17,20 @@
       {
         "example": "夥多",
         "reading": "カタ",
-        "meaning": "many, plentiful"
+        "meaning": {
+          "vi": "many, plentiful"
+        },
+        "romaji": "kata"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夥しい",
         "reading": "おびただしい",
-        "meaning": "large number, innumerable, great many, immense, vast, abundant"
+        "meaning": {
+          "en": "large number, innumerable, great many, immense, vast, abundant"
+        },
+        "romaji": "obitadashii"
       }
     ],
     "radical": {
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05925.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5925.gif",
     "uri": "https://jisho.org/search/%E5%A4%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoả",
+    "khoã",
+    "khoả"
+  ]
 }

@@ -16,7 +16,10 @@
       {
         "example": "旧墟",
         "reading": "キュウキョ",
-        "meaning": "ruins, remains"
+        "meaning": {
+          "en": "ruins, remains"
+        },
+        "romaji": "kyuukyo"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0589f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/589f.gif",
     "uri": "https://jisho.org/search/%E5%A2%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "hư",
+    "khư"
+  ]
 }

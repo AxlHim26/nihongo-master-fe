@@ -19,17 +19,26 @@
       {
         "example": "柊",
         "reading": "ひいらぎ",
-        "meaning": "holly olive (Osmanthus heterophyllus), false holly, holly, spotnape ponyfish (Leiognathus nuchalis)"
+        "meaning": {
+          "vi": "holly olive (Osmanthus heterophyllus), false holly, holly, spotnape ponyfish (Leiognathus nuchalis)"
+        },
+        "romaji": "hiiragi"
       },
       {
         "example": "柊鰯",
         "reading": "ひいらぎいわし",
-        "meaning": "sardine and holly charm, sardine head and holly branch placed next to the front door during setsubun to ward off demons"
+        "meaning": {
+          "vi": "sardine and holly charm, sardine head and holly branch placed next to the front door during setsubun to ward off demons"
+        },
+        "romaji": "hiiragiiwashi"
       },
       {
         "example": "西洋柊",
         "reading": "せいようひいらぎ",
-        "meaning": "English holly (Ilex aquifolium)"
+        "meaning": {
+          "en": "English holly (Ilex aquifolium)"
+        },
+        "romaji": "seiyouhiiragi"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67ca.gif",
     "uri": "https://jisho.org/search/%E6%9F%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "chung"
+  ]
 }

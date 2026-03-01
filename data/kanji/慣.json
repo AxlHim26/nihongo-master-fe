@@ -290,34 +290,52 @@
       {
         "example": "慣習",
         "reading": "カンシュウ",
-        "meaning": "custom, convention, common practice, becoming accustomed (to)"
+        "meaning": {
+          "vi": "custom, convention, common practice, becoming accustomed (to)"
+        },
+        "romaji": "kanshuu"
       },
       {
         "example": "慣行",
         "reading": "カンコウ",
-        "meaning": "customary practice, habit, traditional event"
+        "meaning": {
+          "vi": "customary practice, habit, traditional event"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "旧慣",
         "reading": "キュウカン",
-        "meaning": "old customs"
+        "meaning": {
+          "en": "old customs"
+        },
+        "romaji": "kyuukan"
       },
       {
         "example": "購買習慣",
         "reading": "コウバイシュウカン",
-        "meaning": "buying habit"
+        "meaning": {
+          "en": "buying habit"
+        },
+        "romaji": "koubaishuukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慣れる",
         "reading": "なれる",
-        "meaning": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"
+        "meaning": {
+          "vi": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"
+        },
+        "romaji": "nareru"
       },
       {
         "example": "慣らす",
         "reading": "ならす",
-        "meaning": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"
+        "meaning": {
+          "en": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"
+        },
+        "romaji": "narasu"
       }
     ],
     "radical": {
@@ -340,5 +358,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06163.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6163.gif",
     "uri": "https://jisho.org/search/%E6%85%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "quán"
+  ]
 }

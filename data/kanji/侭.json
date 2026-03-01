@@ -18,17 +18,26 @@
       {
         "example": "儘",
         "reading": "まま",
-        "meaning": "as (it is), remaining (in a state), keeping (the same), leaving (unchanged), with (e.g. one's eyes closed, the light on), while (e.g. standing, alive), as, as (one pleases, one is told, etc.), according to, sic"
+        "meaning": {
+          "vi": "as (it is), remaining (in a state), keeping (the same), leaving (unchanged), with (e.g. one's eyes closed, the light on), while (e.g. standing, alive), as, as (one pleases, one is told, etc.), according to, sic"
+        },
+        "romaji": "mama"
       },
       {
         "example": "儘ならない",
         "reading": "ままならない",
-        "meaning": "unable to do (as one wishes), able to do only with great effort, almost impossible to do, beyond one's control, not always turning out as one wishes, not going the way one wants it to"
+        "meaning": {
+          "vi": "unable to do (as one wishes), able to do only with great effort, almost impossible to do, beyond one's control, not always turning out as one wishes, not going the way one wants it to"
+        },
+        "romaji": "mamanaranai"
       },
       {
         "example": "気まま",
         "reading": "きまま",
-        "meaning": "willful, wilful, selfish, self-centered, egoistic, carefree, do-as-you-please, freewheeling, free spirited"
+        "meaning": {
+          "vi": "willful, wilful, selfish, self-centered, egoistic, carefree, do-as-you-please, freewheeling, free spirited"
+        },
+        "romaji": "kimama"
       }
     ],
     "radical": {
@@ -47,5 +56,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fad.gif",
     "uri": "https://jisho.org/search/%E4%BE%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tẫn",
+    "tận"
+  ]
 }

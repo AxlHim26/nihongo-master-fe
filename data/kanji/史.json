@@ -305,22 +305,34 @@
       {
         "example": "史",
         "reading": "シ",
-        "meaning": "history"
+        "meaning": {
+          "en": "history"
+        },
+        "romaji": "shi"
       },
       {
         "example": "史家",
         "reading": "シカ",
-        "meaning": "historian"
+        "meaning": {
+          "en": "historian"
+        },
+        "romaji": "shika"
       },
       {
         "example": "通史",
         "reading": "ツウシ",
-        "meaning": "overview of history"
+        "meaning": {
+          "en": "overview of history"
+        },
+        "romaji": "tsuushi"
       },
       {
         "example": "正史",
         "reading": "セイシ",
-        "meaning": "official history, authorized history"
+        "meaning": {
+          "en": "official history, authorized history"
+        },
+        "romaji": "seishi"
       }
     ],
     "kunyomiExamples": [],
@@ -336,5 +348,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f2.gif",
     "uri": "https://jisho.org/search/%E5%8F%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "sử"
+  ]
 }

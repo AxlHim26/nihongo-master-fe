@@ -19,17 +19,26 @@
       {
         "example": "哺",
         "reading": "ホ",
-        "meaning": "ngậm thức ăn trong miệng"
+        "meaning": {
+          "vi": "ngậm thức ăn trong miệng"
+        },
+        "romaji": "ho"
       },
       {
         "example": "哺乳",
         "reading": "ホニュウ",
-        "meaning": "cho bú, tiết sữa"
+        "meaning": {
+          "vi": "cho bú, tiết sữa"
+        },
+        "romaji": "honyuu"
       },
       {
         "example": "握髪吐哺",
         "reading": "アクハツトホ",
-        "meaning": "cầu hiền đãi sĩ (nhà chính trị ra sức tìm người tài)"
+        "meaning": {
+          "vi": "cầu hiền đãi sĩ (nhà chính trị ra sức tìm người tài)"
+        },
+        "romaji": "akuhatsutoho"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54fa.gif",
     "uri": "https://jisho.org/search/%E5%93%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "bu",
+    "bô",
+    "bộ"
+  ]
 }

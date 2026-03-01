@@ -17,24 +17,36 @@
       {
         "example": "咄々",
         "reading": "トツトツ",
-        "meaning": "clicking (of the tongue), in surprise, angrily, frustratedly"
+        "meaning": {
+          "vi": "clicking (of the tongue), in surprise, angrily, frustratedly"
+        },
+        "romaji": "totsutotsu"
       },
       {
         "example": "咄々",
         "reading": "トツトツ",
-        "meaning": "clicking (of the tongue), in surprise, angrily, frustratedly"
+        "meaning": {
+          "vi": "clicking (of the tongue), in surprise, angrily, frustratedly"
+        },
+        "romaji": "totsutotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "話",
         "reading": "はなし",
-        "meaning": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"
+        "meaning": {
+          "vi": "talk, speech, chat, conversation, topic, subject, discussions, negotiation, argument, rumor, talk, hearsay, tale, story, fable, circumstances, particulars"
+        },
+        "romaji": "hanashi"
       },
       {
         "example": "噺家",
         "reading": "はなしか",
-        "meaning": "professional comic (rakugo) storyteller"
+        "meaning": {
+          "vi": "professional comic (rakugo) storyteller"
+        },
+        "romaji": "hanashika"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05484.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5484.gif",
     "uri": "https://jisho.org/search/%E5%92%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "đoát",
+    "đốt"
+  ]
 }

@@ -18,12 +18,18 @@
       {
         "example": "伶官",
         "reading": "レイカン",
-        "meaning": "court musician"
+        "meaning": {
+          "en": "court musician"
+        },
+        "romaji": "reikan"
       },
       {
         "example": "伶人",
         "reading": "レイジン",
-        "meaning": "court musician, minstrel"
+        "meaning": {
+          "en": "court musician, minstrel"
+        },
+        "romaji": "reijin"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f36.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f36.gif",
     "uri": "https://jisho.org/search/%E4%BC%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "linh"
+  ]
 }

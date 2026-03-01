@@ -19,29 +19,44 @@
       {
         "example": "彩色",
         "reading": "サイシキ",
-        "meaning": "colouring, coloring, colouration, coloration, painting"
+        "meaning": {
+          "vi": "colouring, coloring, colouration, coloration, painting"
+        },
+        "romaji": "saishiki"
       },
       {
         "example": "彩雲",
         "reading": "サイウン",
-        "meaning": "iridescent clouds, glowing clouds"
+        "meaning": {
+          "en": "iridescent clouds, glowing clouds"
+        },
+        "romaji": "saiun"
       },
       {
         "example": "油彩",
         "reading": "ユサイ",
-        "meaning": "oil painting"
+        "meaning": {
+          "vi": "oil painting"
+        },
+        "romaji": "yusai"
       },
       {
         "example": "光彩",
         "reading": "コウサイ",
-        "meaning": "brilliance, splendour, splendor, lustre, luster"
+        "meaning": {
+          "vi": "brilliance, splendour, splendor, lustre, luster"
+        },
+        "romaji": "kousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "彩る",
         "reading": "いろどる",
-        "meaning": "to colour, to color, to paint, to apply make-up, to decorate, to garnish, to adorn, to add flair"
+        "meaning": {
+          "vi": "to colour, to color, to paint, to apply make-up, to decorate, to garnish, to adorn, to add flair"
+        },
+        "romaji": "irodoru"
       }
     ],
     "radical": {
@@ -57,5 +72,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f69.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f69.gif",
     "uri": "https://jisho.org/search/%E5%BD%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái",
+    "thải",
+    "thể"
+  ]
 }

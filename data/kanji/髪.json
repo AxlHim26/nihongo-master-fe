@@ -342,39 +342,60 @@
       {
         "example": "髪",
         "reading": "ハツ",
-        "meaning": "(a) hair"
+        "meaning": {
+          "en": "(a) hair"
+        },
+        "romaji": "hatsu"
       },
       {
         "example": "理髪",
         "reading": "リハツ",
-        "meaning": "haircut"
+        "meaning": {
+          "en": "haircut"
+        },
+        "romaji": "rihatsu"
       },
       {
         "example": "毛髪",
         "reading": "モウハツ",
-        "meaning": "hair"
+        "meaning": {
+          "en": "hair"
+        },
+        "romaji": "mouhatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "髪",
         "reading": "かみ",
-        "meaning": "hair (on the head)"
+        "meaning": {
+          "en": "hair (on the head)"
+        },
+        "romaji": "kami"
       },
       {
         "example": "髪型",
         "reading": "かみがた",
-        "meaning": "hair style, coiffure, hairdo"
+        "meaning": {
+          "en": "hair style, coiffure, hairdo"
+        },
+        "romaji": "kamigata"
       },
       {
         "example": "黒髪",
         "reading": "くろかみ",
-        "meaning": "black hair"
+        "meaning": {
+          "en": "black hair"
+        },
+        "romaji": "kurokami"
       },
       {
         "example": "波打つ髪",
         "reading": "なみうつかみ",
-        "meaning": "wavy hair"
+        "meaning": {
+          "en": "wavy hair"
+        },
+        "romaji": "namiutsukami"
       }
     ],
     "radical": {
@@ -392,5 +413,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aea.gif",
     "uri": "https://jisho.org/search/%E9%AB%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "phát"
+  ]
 }

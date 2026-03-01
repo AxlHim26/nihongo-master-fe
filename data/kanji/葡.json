@@ -15,12 +15,18 @@
       {
         "example": "葡萄",
         "reading": "ブドウ",
-        "meaning": "grape, grapevine"
+        "meaning": {
+          "vi": "grape, grapevine"
+        },
+        "romaji": "budou"
       },
       {
         "example": "ぶどう色",
         "reading": "ブドウイロ",
-        "meaning": "dark purple, grape"
+        "meaning": {
+          "vi": "dark purple, grape"
+        },
+        "romaji": "budouiro"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08461.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8461.gif",
     "uri": "https://jisho.org/search/%E8%91%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "bồ"
+  ]
 }

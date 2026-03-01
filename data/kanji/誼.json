@@ -18,24 +18,36 @@
       {
         "example": "誼",
         "reading": "ヨシミ",
-        "meaning": "friendship, friendly relations, connection, relation, intimacy"
+        "meaning": {
+          "vi": "friendship, friendly relations, connection, relation, intimacy"
+        },
+        "romaji": "yoshimi"
       },
       {
         "example": "友誼",
         "reading": "ユウギ",
-        "meaning": "friendship, friendly relations, fellowship"
+        "meaning": {
+          "vi": "friendship, friendly relations, fellowship"
+        },
+        "romaji": "yuugi"
       },
       {
         "example": "高誼",
         "reading": "コウギ",
-        "meaning": "(your) kindness, favours (conferred on one)"
+        "meaning": {
+          "en": "(your) kindness, favours (conferred on one)"
+        },
+        "romaji": "kougi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誼",
         "reading": "よしみ",
-        "meaning": "friendship, friendly relations, connection, relation, intimacy"
+        "meaning": {
+          "vi": "friendship, friendly relations, connection, relation, intimacy"
+        },
+        "romaji": "yoshimi"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08abc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8abc.gif",
     "uri": "https://jisho.org/search/%E8%AA%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghị"
+  ]
 }

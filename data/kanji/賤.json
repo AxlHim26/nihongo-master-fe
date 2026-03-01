@@ -20,49 +20,76 @@
       {
         "example": "賤",
         "reading": "シズ",
-        "meaning": "kẻ hèn, thấp hèn, tôi"
+        "meaning": {
+          "vi": "kẻ hèn, thấp hèn, tôi"
+        },
+        "romaji": "shizu"
       },
       {
         "example": "賎業婦",
         "reading": "センギョウフ",
-        "meaning": "gái điếm"
+        "meaning": {
+          "vi": "gái điếm"
+        },
+        "romaji": "sengyoufu"
       },
       {
         "example": "貧富貴賤",
         "reading": "ヒンプキセン",
-        "meaning": "giàu nghèo, sang hèn, mọi tầng lớp"
+        "meaning": {
+          "vi": "giàu nghèo, sang hèn, mọi tầng lớp"
+        },
+        "romaji": "hinpukisen"
       },
       {
         "example": "下賎",
         "reading": "ゲセン",
-        "meaning": "xuất thân thấp, hèn mọn, thô tục"
+        "meaning": {
+          "vi": "xuất thân thấp, hèn mọn, thô tục"
+        },
+        "romaji": "gesen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "卑しい",
         "reading": "いやしい",
-        "meaning": "thấp hèn, khiêm tốn, thô tục, đê tiện, tham lam"
+        "meaning": {
+          "vi": "thấp hèn, khiêm tốn, thô tục, đê tiện, tham lam"
+        },
+        "romaji": "iyashii"
       },
       {
         "example": "卑しむ",
         "reading": "いやしむ",
-        "meaning": "khinh thường, coi thường"
+        "meaning": {
+          "vi": "khinh thường, coi thường"
+        },
+        "romaji": "iyashimu"
       },
       {
         "example": "卑しむべき",
         "reading": "いやしむべき",
-        "meaning": "đáng khinh"
+        "meaning": {
+          "vi": "đáng khinh"
+        },
+        "romaji": "iyashimubeki"
       },
       {
         "example": "賤",
         "reading": "しず",
-        "meaning": "kẻ hèn, thấp hèn, tôi"
+        "meaning": {
+          "vi": "kẻ hèn, thấp hèn, tôi"
+        },
+        "romaji": "shizu"
       },
       {
         "example": "賤鳥",
         "reading": "しずとり",
-        "meaning": "chim cu nhỏ (Cuculus poliocephalus)"
+        "meaning": {
+          "vi": "chim cu nhỏ (Cuculus poliocephalus)"
+        },
+        "romaji": "shizutori"
       }
     ],
     "radical": {
@@ -79,5 +106,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ce4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ce4.gif",
     "uri": "https://jisho.org/search/%E8%B3%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiện"
+  ]
 }

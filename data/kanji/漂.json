@@ -19,29 +19,44 @@
       {
         "example": "漂流",
         "reading": "ヒョウリュウ",
-        "meaning": "drifting, drift, being adrift"
+        "meaning": {
+          "en": "drifting, drift, being adrift"
+        },
+        "romaji": "hyouryuu"
       },
       {
         "example": "漂白",
         "reading": "ヒョウハク",
-        "meaning": "blanching, bleaching"
+        "meaning": {
+          "en": "blanching, bleaching"
+        },
+        "romaji": "hyouhaku"
       },
       {
         "example": "漂々",
         "reading": "ヒョウヒョウ",
-        "meaning": "buoyantly, airily, with a light heart"
+        "meaning": {
+          "en": "buoyantly, airily, with a light heart"
+        },
+        "romaji": "hyouhyou"
       },
       {
         "example": "浮漂",
         "reading": "フヒョウ",
-        "meaning": "floating"
+        "meaning": {
+          "en": "floating"
+        },
+        "romaji": "fuhyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漂う",
         "reading": "ただよう",
-        "meaning": "to drift, to float, to waft (e.g. a scent), to hang in the air, to be in the air (e.g. a feeling or mood), to wander, to walk around aimlessly, to be unsteady, to be unstable, to falter, to flinch, to wince, to live in unreliable circumstances"
+        "meaning": {
+          "en": "to drift, to float, to waft (e.g. a scent), to hang in the air, to be in the air (e.g. a feeling or mood), to wander, to walk around aimlessly, to be unsteady, to be unstable, to falter, to flinch, to wince, to live in unreliable circumstances"
+        },
+        "romaji": "tadayou"
       }
     ],
     "radical": {
@@ -63,5 +78,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f02.gif",
     "uri": "https://jisho.org/search/%E6%BC%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiêu",
+    "phiếu",
+    "xiếu"
+  ]
 }

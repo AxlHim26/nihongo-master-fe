@@ -385,22 +385,34 @@
       {
         "example": "部",
         "reading": "ブ",
-        "meaning": "department (in an organization, company, etc.), division, bureau, faculty, club (at a school, university, etc.), team, part, portion, region, area, category, class, division, section, heading, counter for copies of a newspaper, magazine, book, etc."
+        "meaning": {
+          "vi": "department (in an organization, company, etc.), division, bureau, faculty, club (at a school, university, etc.), team, part, portion, region, area, category, class, division, section, heading, counter for copies of a newspaper, magazine, book, etc."
+        },
+        "romaji": "bu"
       },
       {
         "example": "部位",
         "reading": "ブイ",
-        "meaning": "part (esp. of the body), region, site, cut (of meat)"
+        "meaning": {
+          "vi": "part (esp. of the body), region, site, cut (of meat)"
+        },
+        "romaji": "bui"
       },
       {
         "example": "情報部",
         "reading": "ジョウホウブ",
-        "meaning": "information bureau, intelligence department"
+        "meaning": {
+          "vi": "information bureau, intelligence department"
+        },
+        "romaji": "jouhoubu"
       },
       {
         "example": "首脳部",
         "reading": "シュノウブ",
-        "meaning": "executives, top management, governing body"
+        "meaning": {
+          "vi": "executives, top management, governing body"
+        },
+        "romaji": "shunoubu"
       }
     ],
     "kunyomiExamples": [],
@@ -420,5 +432,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90e8.gif",
     "uri": "https://jisho.org/search/%E9%83%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "bẫu",
+    "bộ"
+  ]
 }

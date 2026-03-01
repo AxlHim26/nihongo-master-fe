@@ -18,19 +18,28 @@
       {
         "example": "山麓",
         "reading": "サンロク",
-        "meaning": "chân núi, nền núi"
+        "meaning": {
+          "vi": "chân núi, nền núi"
+        },
+        "romaji": "sanroku"
       },
       {
         "example": "西麓",
         "reading": "セイロク",
-        "meaning": "chân phía tây (của núi)"
+        "meaning": {
+          "vi": "chân phía tây (của núi)"
+        },
+        "romaji": "seiroku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "麓",
         "reading": "ふもと",
-        "meaning": "chân (núi hoặc đồi), đáy, nền"
+        "meaning": {
+          "vi": "chân (núi hoặc đồi), đáy, nền"
+        },
+        "romaji": "fumoto"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e93.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e93.gif",
     "uri": "https://jisho.org/search/%E9%BA%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "lộc"
+  ]
 }

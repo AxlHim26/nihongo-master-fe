@@ -17,24 +17,36 @@
       {
         "example": "刎頚",
         "reading": "フンケイ",
-        "meaning": "decapitation"
+        "meaning": {
+          "vi": "decapitation"
+        },
+        "romaji": "funkei"
       },
       {
         "example": "刎頚の友",
         "reading": "フンケイノトモ",
-        "meaning": "inseparable friend, sworn friend"
+        "meaning": {
+          "vi": "inseparable friend, sworn friend"
+        },
+        "romaji": "funkeinotomo"
       },
       {
         "example": "自刎",
         "reading": "ジフン",
-        "meaning": "committing suicide by slitting one's throat"
+        "meaning": {
+          "en": "committing suicide by slitting one's throat"
+        },
+        "romaji": "jifun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刎ねる",
         "reading": "はねる",
-        "meaning": "to cut off (someone's head), to behead, to decapitate"
+        "meaning": {
+          "vi": "to cut off (someone's head), to behead, to decapitate"
+        },
+        "romaji": "haneru"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0520e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/520e.gif",
     "uri": "https://jisho.org/search/%E5%88%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "vẫn"
+  ]
 }

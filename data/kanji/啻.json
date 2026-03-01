@@ -18,12 +18,18 @@
       {
         "example": "徒ならぬ",
         "reading": "ただならぬ",
-        "meaning": "unusual, uncommon, extraordinary, out of the ordinary, incomparable, serious, alarming"
+        "meaning": {
+          "vi": "unusual, uncommon, extraordinary, out of the ordinary, incomparable, serious, alarming"
+        },
+        "romaji": "tadanaranu"
       },
       {
         "example": "唯に",
         "reading": "ただに",
-        "meaning": "merely, only, simply"
+        "meaning": {
+          "vi": "merely, only, simply"
+        },
+        "romaji": "tadani"
       }
     ],
     "radical": {
@@ -42,5 +48,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0557b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/557b.gif",
     "uri": "https://jisho.org/search/%E5%95%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "sí",
+    "thí",
+    "thỉ",
+    "xí"
+  ]
 }

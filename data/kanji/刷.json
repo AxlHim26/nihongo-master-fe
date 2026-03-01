@@ -245,34 +245,52 @@
       {
         "example": "刷",
         "reading": "サツ",
-        "meaning": "printing, impression, issue"
+        "meaning": {
+          "vi": "printing, impression, issue"
+        },
+        "romaji": "satsu"
       },
       {
         "example": "刷数",
         "reading": "サツスウ",
-        "meaning": "number (of books) printed"
+        "meaning": {
+          "vi": "number (of books) printed"
+        },
+        "romaji": "satsusuu"
       },
       {
         "example": "凸版印刷",
         "reading": "トッパンインサツ",
-        "meaning": "letterpress, relief printing"
+        "meaning": {
+          "vi": "letterpress, relief printing"
+        },
+        "romaji": "toppan'insatsu"
       },
       {
         "example": "増刷",
         "reading": "ゾウサツ",
-        "meaning": "additional printing (esp. of books, etc.), additional run"
+        "meaning": {
+          "vi": "additional printing (esp. of books, etc.), additional run"
+        },
+        "romaji": "zousatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刷る",
         "reading": "する",
-        "meaning": "to print, to color or pattern fabric using a wooden mold"
+        "meaning": {
+          "vi": "to print, to color or pattern fabric using a wooden mold"
+        },
+        "romaji": "suru"
       },
       {
         "example": "刷く",
         "reading": "はく",
-        "meaning": "to daub, to brush, to touch up"
+        "meaning": {
+          "vi": "to daub, to brush, to touch up"
+        },
+        "romaji": "haku"
       }
     ],
     "radical": {
@@ -291,5 +309,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05237.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5237.gif",
     "uri": "https://jisho.org/search/%E5%88%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "loát",
+    "xoát"
+  ]
 }

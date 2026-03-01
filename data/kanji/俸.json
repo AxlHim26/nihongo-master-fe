@@ -17,22 +17,34 @@
       {
         "example": "俸",
         "reading": "ホウ",
-        "meaning": "salary"
+        "meaning": {
+          "en": "salary"
+        },
+        "romaji": "hou"
       },
       {
         "example": "俸給",
         "reading": "ホウキュウ",
-        "meaning": "salary (esp. public employees), wages, pay"
+        "meaning": {
+          "vi": "salary (esp. public employees), wages, pay"
+        },
+        "romaji": "houkyuu"
       },
       {
         "example": "号俸",
         "reading": "ゴウホウ",
-        "meaning": "gradational salary"
+        "meaning": {
+          "en": "gradational salary"
+        },
+        "romaji": "gouhou"
       },
       {
         "example": "増俸",
         "reading": "ゾウホウ",
-        "meaning": "salary increase, raise"
+        "meaning": {
+          "en": "salary increase, raise"
+        },
+        "romaji": "zouhou"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff8.gif",
     "uri": "https://jisho.org/search/%E4%BF%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "bổng"
+  ]
 }

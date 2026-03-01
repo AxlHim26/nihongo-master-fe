@@ -17,39 +17,60 @@
       {
         "example": "巫山戯る",
         "reading": "フザケル",
-        "meaning": "to joke, to jest, to kid, to josh, to make fun of, to laugh at, to play a prank, to romp, to gambol, to frolic, to frisk, to mess around, to fool around, to screw around, to neck, to make out"
+        "meaning": {
+          "vi": "to joke, to jest, to kid, to josh, to make fun of, to laugh at, to play a prank, to romp, to gambol, to frolic, to frisk, to mess around, to fool around, to screw around, to neck, to make out"
+        },
+        "romaji": "fuzakeru"
       },
       {
         "example": "巫女",
         "reading": "ミコ",
-        "meaning": "miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"
+        "meaning": {
+          "vi": "miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"
+        },
+        "romaji": "miko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巫女",
         "reading": "みこ",
-        "meaning": "miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"
+        "meaning": {
+          "vi": "miko, shrine maiden, young girl or woman (trad. an unmarried virgin) who assists priests at shrines, medium, sorceress, shamaness"
+        },
+        "romaji": "miko"
       },
       {
         "example": "巫女舞",
         "reading": "みこまい",
-        "meaning": "shrine maiden's ceremonial dance (in kagura)"
+        "meaning": {
+          "en": "shrine maiden's ceremonial dance (in kagura)"
+        },
+        "romaji": "mikomai"
       },
       {
         "example": "梓巫女",
         "reading": "あずさみこ",
-        "meaning": "female medium who summons spirits by sounding the string of a catalpa bow"
+        "meaning": {
+          "vi": "female medium who summons spirits by sounding the string of a catalpa bow"
+        },
+        "romaji": "azusamiko"
       },
       {
         "example": "女神子",
         "reading": "おんなみこ",
-        "meaning": "medium, sorceress"
+        "meaning": {
+          "en": "medium, sorceress"
+        },
+        "romaji": "onnamiko"
       },
       {
         "example": "巫",
         "reading": "かんなぎ",
-        "meaning": "medium, diviner, shaman, oracle"
+        "meaning": {
+          "en": "medium, diviner, shaman, oracle"
+        },
+        "romaji": "kannagi"
       }
     ],
     "radical": {
@@ -64,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05deb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5deb.gif",
     "uri": "https://jisho.org/search/%E5%B7%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "vu"
+  ]
 }

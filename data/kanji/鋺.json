@@ -17,7 +17,10 @@
       {
         "example": "金椀",
         "reading": "かなまり",
-        "meaning": "small metal bowl"
+        "meaning": {
+          "en": "small metal bowl"
+        },
+        "romaji": "kanamari"
       }
     ],
     "radical": {
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92fa.gif",
     "uri": "https://jisho.org/search/%E9%8B%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "oan",
+    "uyển"
+  ]
 }

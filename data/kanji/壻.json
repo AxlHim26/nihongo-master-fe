@@ -16,24 +16,36 @@
       {
         "example": "女婿",
         "reading": "ジョセイ",
-        "meaning": "son-in-law"
+        "meaning": {
+          "en": "son-in-law"
+        },
+        "romaji": "josei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "婿",
         "reading": "むこ",
-        "meaning": "husband, groom, (one's) son-in-law"
+        "meaning": {
+          "en": "husband, groom, (one's) son-in-law"
+        },
+        "romaji": "muko"
       },
       {
         "example": "花婿",
         "reading": "はなむこ",
-        "meaning": "bridegroom"
+        "meaning": {
+          "en": "bridegroom"
+        },
+        "romaji": "hanamuko"
       },
       {
         "example": "入り婿",
         "reading": "いりむこ",
-        "meaning": "man who takes his wife's family name and marries into her family, man who is adopted by his wife's family"
+        "meaning": {
+          "vi": "man who takes his wife's family name and marries into her family, man who is adopted by his wife's family"
+        },
+        "romaji": "irimuko"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fb.gif",
     "uri": "https://jisho.org/search/%E5%A3%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế"
+  ]
 }

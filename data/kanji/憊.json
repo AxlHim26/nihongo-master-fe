@@ -17,12 +17,18 @@
       {
         "example": "疲憊",
         "reading": "ヒハイ",
-        "meaning": "exhaustion"
+        "meaning": {
+          "en": "exhaustion"
+        },
+        "romaji": "hihai"
       },
       {
         "example": "熱疲憊",
         "reading": "ネツヒハイ",
-        "meaning": "heat exhaustion"
+        "meaning": {
+          "en": "heat exhaustion"
+        },
+        "romaji": "netsuhihai"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0618a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/618a.gif",
     "uri": "https://jisho.org/search/%E6%86%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bại",
+    "bị"
+  ]
 }

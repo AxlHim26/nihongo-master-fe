@@ -20,54 +20,84 @@
       {
         "example": "茎節",
         "reading": "ケイセツ",
-        "meaning": "cladode, leaf-like stem"
+        "meaning": {
+          "en": "cladode, leaf-like stem"
+        },
+        "romaji": "keisetsu"
       },
       {
         "example": "茎頂",
         "reading": "ケイチョウ",
-        "meaning": "tip of a stem (of a plant)"
+        "meaning": {
+          "vi": "tip of a stem (of a plant)"
+        },
+        "romaji": "keichou"
       },
       {
         "example": "塊茎",
         "reading": "カイケイ",
-        "meaning": "tuber"
+        "meaning": {
+          "en": "tuber"
+        },
+        "romaji": "kaikei"
       },
       {
         "example": "包茎",
         "reading": "ホウケイ",
-        "meaning": "phimosis"
+        "meaning": {
+          "vi": "phimosis"
+        },
+        "romaji": "houkei"
       },
       {
         "example": "包茎",
         "reading": "ホウケイ",
-        "meaning": "phimosis"
+        "meaning": {
+          "vi": "phimosis"
+        },
+        "romaji": "houkei"
       },
       {
         "example": "陰茎",
         "reading": "インケイ",
-        "meaning": "penis"
+        "meaning": {
+          "vi": "penis"
+        },
+        "romaji": "inkei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "茎",
         "reading": "くき",
-        "meaning": "stalk, stem"
+        "meaning": {
+          "en": "stalk, stem"
+        },
+        "romaji": "kuki"
       },
       {
         "example": "茎茶",
         "reading": "くきちゃ",
-        "meaning": "twig tea, stem tea, kukicha, tea made from twigs pruned from the tea plant during its dormant season"
+        "meaning": {
+          "vi": "twig tea, stem tea, kukicha, tea made from twigs pruned from the tea plant during its dormant season"
+        },
+        "romaji": "kukicha"
       },
       {
         "example": "水茎",
         "reading": "みずぐき",
-        "meaning": "writing brush, writing, handwriting"
+        "meaning": {
+          "en": "writing brush, writing, handwriting"
+        },
+        "romaji": "mizuguki"
       },
       {
         "example": "一茎",
         "reading": "ひとくき",
-        "meaning": "one stem"
+        "meaning": {
+          "en": "one stem"
+        },
+        "romaji": "hitokuki"
       }
     ],
     "radical": {
@@ -86,5 +116,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0830e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/830e.gif",
     "uri": "https://jisho.org/search/%E8%8C%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hành"
+  ]
 }

@@ -266,22 +266,34 @@
       {
         "example": "査証",
         "reading": "サショウ",
-        "meaning": "visa, endorsing (e.g. a passport), stamping"
+        "meaning": {
+          "vi": "visa, endorsing (e.g. a passport), stamping"
+        },
+        "romaji": "sashou"
       },
       {
         "example": "査察",
         "reading": "ササツ",
-        "meaning": "inspection (for compliance), investigation (tax, etc.)"
+        "meaning": {
+          "vi": "inspection (for compliance), investigation (tax, etc.)"
+        },
+        "romaji": "sasatsu"
       },
       {
         "example": "主査",
         "reading": "シュサ",
-        "meaning": "chief examiner or investigator"
+        "meaning": {
+          "en": "chief examiner or investigator"
+        },
+        "romaji": "shusa"
       },
       {
         "example": "実態調査",
         "reading": "ジッタイチョウサ",
-        "meaning": "fact-finding investigation, investigation into actual conditions, fact-finding survey"
+        "meaning": {
+          "en": "fact-finding investigation, investigation into actual conditions, fact-finding survey"
+        },
+        "romaji": "jittaichousa"
       }
     ],
     "kunyomiExamples": [],
@@ -298,5 +310,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67fb.gif",
     "uri": "https://jisho.org/search/%E6%9F%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tra"
+  ]
 }

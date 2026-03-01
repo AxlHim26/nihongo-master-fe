@@ -15,22 +15,34 @@
       {
         "example": "洛",
         "reading": "ラク",
-        "meaning": "the capital (esp. Kyoto)"
+        "meaning": {
+          "vi": "the capital (esp. Kyoto)"
+        },
+        "romaji": "raku"
       },
       {
         "example": "洛外",
         "reading": "ラクガイ",
-        "meaning": "outside Kyoto or the capital"
+        "meaning": {
+          "vi": "outside Kyoto or the capital"
+        },
+        "romaji": "rakugai"
       },
       {
         "example": "京洛",
         "reading": "キョウラク",
-        "meaning": "capital (esp. Kyoto)"
+        "meaning": {
+          "vi": "capital (esp. Kyoto)"
+        },
+        "romaji": "kyouraku"
       },
       {
         "example": "入洛",
         "reading": "ジュラク",
-        "meaning": "proceeding to Kyoto, entering Kyoto"
+        "meaning": {
+          "vi": "proceeding to Kyoto, entering Kyoto"
+        },
+        "romaji": "juraku"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d1b.gif",
     "uri": "https://jisho.org/search/%E6%B4%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc"
+  ]
 }

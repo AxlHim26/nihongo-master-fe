@@ -294,44 +294,66 @@
       {
         "example": "児",
         "reading": "ジ",
-        "meaning": "child, boy, I, me"
+        "meaning": {
+          "en": "child, boy, I, me"
+        },
+        "romaji": "ji"
       },
       {
         "example": "児童",
         "reading": "ジドウ",
-        "meaning": "children, juvenile"
+        "meaning": {
+          "en": "children, juvenile"
+        },
+        "romaji": "jidou"
       },
       {
         "example": "新生児",
         "reading": "シンセイジ",
-        "meaning": "newborn baby"
+        "meaning": {
+          "en": "newborn baby"
+        },
+        "romaji": "shinseiji"
       },
       {
         "example": "遺児",
         "reading": "イジ",
-        "meaning": "orphan, child left by the deceased, abandoned child"
+        "meaning": {
+          "vi": "orphan, child left by the deceased, abandoned child"
+        },
+        "romaji": "iji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "子",
         "reading": "こ",
-        "meaning": "child, kid, teenager, youngster, young (non-adult) person, (one's) child, offspring, young woman, young (animal), offshoot, interest, new share, player who is not a dealer, young geisha, young prostitute, bird egg, -er (often of young women)"
+        "meaning": {
+          "vi": "child, kid, teenager, youngster, young (non-adult) person, (one's) child, offspring, young woman, young (animal), offshoot, interest, new share, player who is not a dealer, young geisha, young prostitute, bird egg, -er (often of young women)"
+        },
+        "romaji": "ko"
       },
       {
         "example": "【コククジラ】",
         "reading": "gray whale (Eschrichtius robustus), grey whale",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "gray whale (Eschrichtius robustus), grey whale"
       },
       {
         "example": "恵比寿",
         "reading": "えびす",
-        "meaning": "Ebisu, god of fishing and commerce"
+        "meaning": {
+          "en": "Ebisu, god of fishing and commerce"
+        },
+        "romaji": "ebisu"
       },
       {
         "example": "江戸っ子",
         "reading": "えどっこ",
-        "meaning": "(true) Tokyoite, Edoite, Tokyo native, Edokko"
+        "meaning": {
+          "en": "(true) Tokyoite, Edoite, Tokyo native, Edokko"
+        },
+        "romaji": "edokko"
       }
     ],
     "radical": {
@@ -347,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05150.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5150.gif",
     "uri": "https://jisho.org/search/%E5%85%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhi"
+  ]
 }

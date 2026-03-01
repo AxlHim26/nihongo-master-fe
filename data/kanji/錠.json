@@ -17,22 +17,34 @@
       {
         "example": "錠",
         "reading": "ジョウ",
-        "meaning": "lock, padlock, tablet, pill"
+        "meaning": {
+          "vi": "lock, padlock, tablet, pill"
+        },
+        "romaji": "jou"
       },
       {
         "example": "錠剤",
         "reading": "ジョウザイ",
-        "meaning": "pill, lozenge, tablet"
+        "meaning": {
+          "vi": "pill, lozenge, tablet"
+        },
+        "romaji": "jouzai"
       },
       {
         "example": "糖衣錠",
         "reading": "トウイジョウ",
-        "meaning": "sugar-coated pill"
+        "meaning": {
+          "vi": "sugar-coated pill"
+        },
+        "romaji": "touijou"
       },
       {
         "example": "開錠",
         "reading": "カイジョウ",
-        "meaning": "unlocking"
+        "meaning": {
+          "en": "unlocking"
+        },
+        "romaji": "kaijou"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09320.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9320.gif",
     "uri": "https://jisho.org/search/%E9%8C%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "đĩnh"
+  ]
 }

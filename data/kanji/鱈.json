@@ -17,22 +17,34 @@
       {
         "example": "鱈",
         "reading": "たら",
-        "meaning": "gadid (any fish of the family Gadidae, incl. cod, haddock, whiting and pollack), Pacific cod (Gadus macrocephalus)"
+        "meaning": {
+          "vi": "gadid (any fish of the family Gadidae, incl. cod, haddock, whiting and pollack), Pacific cod (Gadus macrocephalus)"
+        },
+        "romaji": "tara"
       },
       {
         "example": "たら子",
         "reading": "たらこ",
-        "meaning": "cod roe (roe of any fish from family Gadidae, esp. salted walleye pollack roe)"
+        "meaning": {
+          "vi": "cod roe (roe of any fish from family Gadidae, esp. salted walleye pollack roe)"
+        },
+        "romaji": "tarako"
       },
       {
         "example": "大西洋鱈",
         "reading": "たいせいようたら",
-        "meaning": "Atlantic cod (Gadus morhua)"
+        "meaning": {
+          "en": "Atlantic cod (Gadus morhua)"
+        },
+        "romaji": "taiseiyoutara"
       },
       {
         "example": "チーズ鱈",
         "reading": "チーズたら",
-        "meaning": "cheese tara, stick of cheese sandwiched between two thin strips of dried fish paste"
+        "meaning": {
+          "vi": "cheese tara, stick of cheese sandwiched between two thin strips of dried fish paste"
+        },
+        "romaji": "chiizutara"
       }
     ],
     "radical": {
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c48.gif",
     "uri": "https://jisho.org/search/%E9%B1%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuyết"
+  ]
 }

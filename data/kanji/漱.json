@@ -23,34 +23,52 @@
       {
         "example": "漱石枕流",
         "reading": "ソウセキチンリュウ",
-        "meaning": "sore loser who stubbornly refuses to admit being wrong"
+        "meaning": {
+          "en": "sore loser who stubbornly refuses to admit being wrong"
+        },
+        "romaji": "sousekichinryuu"
       },
       {
         "example": "盥漱",
         "reading": "カンソウ",
-        "meaning": "washing one's hands and rinsing one's mouth"
+        "meaning": {
+          "en": "washing one's hands and rinsing one's mouth"
+        },
+        "romaji": "kansou"
       },
       {
         "example": "漱ぐ",
         "reading": "ススグ",
-        "meaning": "to rinse (one's mouth), to gargle"
+        "meaning": {
+          "en": "to rinse (one's mouth), to gargle"
+        },
+        "romaji": "susugu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漱ぐ",
         "reading": "くちすすぐ",
-        "meaning": "to gargle, to rinse (the mouth)"
+        "meaning": {
+          "en": "to gargle, to rinse (the mouth)"
+        },
+        "romaji": "kuchisusugu"
       },
       {
         "example": "嗽",
         "reading": "うがい",
-        "meaning": "gargling, rinsing one's mouth"
+        "meaning": {
+          "en": "gargling, rinsing one's mouth"
+        },
+        "romaji": "ugai"
       },
       {
         "example": "漱ぐ",
         "reading": "すすぐ",
-        "meaning": "to rinse (one's mouth), to gargle"
+        "meaning": {
+          "en": "to rinse (one's mouth), to gargle"
+        },
+        "romaji": "susugu"
       }
     ],
     "radical": {
@@ -71,5 +89,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f31.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f31.gif",
     "uri": "https://jisho.org/search/%E6%BC%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "sấu",
+    "thấu",
+    "tâu"
+  ]
 }

@@ -18,12 +18,18 @@
       {
         "example": "刺す",
         "reading": "さす",
-        "meaning": "to pierce, to stab, to prick, to stick, to thrust, to sting, to bite, to sew, to stitch, to embroider, to pole (a boat), to catch (with a limed pole), to put (a runner) out, to pick off"
+        "meaning": {
+          "vi": "to pierce, to stab, to prick, to stick, to thrust, to sting, to bite, to sew, to stitch, to embroider, to pole (a boat), to catch (with a limed pole), to put (a runner) out, to pick off"
+        },
+        "romaji": "sasu"
       },
       {
         "example": "螫す",
         "reading": "さす",
-        "meaning": "to sting (i.e. bee, wasp, etc.)"
+        "meaning": {
+          "vi": "to sting (i.e. bee, wasp, etc.)"
+        },
+        "romaji": "sasu"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ab.gif",
     "uri": "https://jisho.org/search/%E8%9E%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "thích"
+  ]
 }

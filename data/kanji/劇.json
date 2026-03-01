@@ -326,22 +326,34 @@
       {
         "example": "劇",
         "reading": "ゲキ",
-        "meaning": "drama, play, powerful drug"
+        "meaning": {
+          "vi": "drama, play, powerful drug"
+        },
+        "romaji": "geki"
       },
       {
         "example": "劇画",
         "reading": "ゲキガ",
-        "meaning": "comic strip with dramatic story"
+        "meaning": {
+          "vi": "comic strip with dramatic story"
+        },
+        "romaji": "gekiga"
       },
       {
         "example": "新劇",
         "reading": "シンゲキ",
-        "meaning": "shingeki, new drama (movement), form of Japanese theater developed towards the end of the Meiji period inspired by modern Western theater"
+        "meaning": {
+          "vi": "shingeki, new drama (movement), form of Japanese theater developed towards the end of the Meiji period inspired by modern Western theater"
+        },
+        "romaji": "shingeki"
       },
       {
         "example": "京劇",
         "reading": "キョウゲキ",
-        "meaning": "classical Chinese opera"
+        "meaning": {
+          "vi": "classical Chinese opera"
+        },
+        "romaji": "kyougeki"
       }
     ],
     "kunyomiExamples": [],
@@ -364,5 +376,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05287.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5287.gif",
     "uri": "https://jisho.org/search/%E5%8A%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "kịch"
+  ]
 }

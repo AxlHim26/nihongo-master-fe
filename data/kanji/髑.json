@@ -15,12 +15,18 @@
       {
         "example": "髑髏",
         "reading": "ドクロ",
-        "meaning": "skull (esp. weatherbeaten, used as symbol of death), death's head, cranium"
+        "meaning": {
+          "vi": "skull (esp. weatherbeaten, used as symbol of death), death's head, cranium"
+        },
+        "romaji": "dokuro"
       },
       {
         "example": "どくろ杯",
         "reading": "ドクロハイ",
-        "meaning": "skull cup"
+        "meaning": {
+          "vi": "skull cup"
+        },
+        "romaji": "dokurohai"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ad1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ad1.gif",
     "uri": "https://jisho.org/search/%E9%AB%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "độc"
+  ]
 }

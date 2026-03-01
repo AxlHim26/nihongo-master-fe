@@ -364,64 +364,98 @@
       {
         "example": "名",
         "reading": "メイ",
-        "meaning": "counter for people (usu. seating, reservations and such), first name, famous, great, name, noun"
+        "meaning": {
+          "vi": "counter for people (usu. seating, reservations and such), first name, famous, great, name, noun"
+        },
+        "romaji": "mei"
       },
       {
         "example": "名画",
         "reading": "メイガ",
-        "meaning": "famous picture, masterpiece (painting), excellent film, film classic"
+        "meaning": {
+          "vi": "famous picture, masterpiece (painting), excellent film, film classic"
+        },
+        "romaji": "meiga"
       },
       {
         "example": "同名",
         "reading": "ドウメイ",
-        "meaning": "same name, homonym"
+        "meaning": {
+          "en": "same name, homonym"
+        },
+        "romaji": "doumei"
       },
       {
         "example": "芸名",
         "reading": "ゲイメイ",
-        "meaning": "stage name"
+        "meaning": {
+          "en": "stage name"
+        },
+        "romaji": "geimei"
       },
       {
         "example": "名目",
         "reading": "メイモク",
-        "meaning": "name, title, appellation, (something) nominal, (under the) pretext (of), pretense"
+        "meaning": {
+          "vi": "name, title, appellation, (something) nominal, (under the) pretext (of), pretense"
+        },
+        "romaji": "meimoku"
       },
       {
         "example": "苗字",
         "reading": "ミョウジ",
-        "meaning": "surname, family name, last name"
+        "meaning": {
+          "en": "surname, family name, last name"
+        },
+        "romaji": "myouji"
       },
       {
         "example": "仮名",
         "reading": "カメイ",
-        "meaning": "alias, pseudonym, pen name, nom de plume"
+        "meaning": {
+          "vi": "alias, pseudonym, pen name, nom de plume"
+        },
+        "romaji": "kamei"
       },
       {
         "example": "同名",
         "reading": "ドウメイ",
-        "meaning": "same name, homonym"
+        "meaning": {
+          "en": "same name, homonym"
+        },
+        "romaji": "doumei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "名",
         "reading": "な",
-        "meaning": "name, given name, title, fame, renown, reputation, pretext, pretense, justification, appearance"
+        "meaning": {
+          "vi": "name, given name, title, fame, renown, reputation, pretext, pretense, justification, appearance"
+        },
+        "romaji": "na"
       },
       {
         "example": "名残",
         "reading": "なごり",
-        "meaning": "remains, traces, vestiges, relics, (the sorrow of) parting, end"
+        "meaning": {
+          "vi": "remains, traces, vestiges, relics, (the sorrow of) parting, end"
+        },
+        "romaji": "nagori"
       },
       {
         "example": "仮名",
         "reading": "かめい",
-        "meaning": "alias, pseudonym, pen name, nom de plume"
+        "meaning": {
+          "vi": "alias, pseudonym, pen name, nom de plume"
+        },
+        "romaji": "kamei"
       },
       {
         "example": "【カタカナ】",
         "reading": "katakana, angular Japanese syllabary used primarily for loanwords",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "katakana, angular Japanese syllabary used primarily for loanwords"
       }
     ],
     "radical": {
@@ -436,5 +470,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540d.gif",
     "uri": "https://jisho.org/search/%E5%90%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "danh"
+  ]
 }

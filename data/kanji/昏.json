@@ -17,29 +17,44 @@
       {
         "example": "昏睡",
         "reading": "コンスイ",
-        "meaning": "coma, deep sleep, falling fast asleep"
+        "meaning": {
+          "vi": "coma, deep sleep, falling fast asleep"
+        },
+        "romaji": "konsui"
       },
       {
         "example": "昏々",
         "reading": "コンコン",
-        "meaning": "fast asleep, dead to the world"
+        "meaning": {
+          "vi": "fast asleep, dead to the world"
+        },
+        "romaji": "konkon"
       },
       {
         "example": "昏々",
         "reading": "コンコン",
-        "meaning": "fast asleep, dead to the world"
+        "meaning": {
+          "vi": "fast asleep, dead to the world"
+        },
+        "romaji": "konkon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暗い",
         "reading": "くらい",
-        "meaning": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+        "meaning": {
+          "vi": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+        },
+        "romaji": "kurai"
       },
       {
         "example": "暮れる",
         "reading": "くれる",
-        "meaning": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        "meaning": {
+          "vi": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        },
+        "romaji": "kureru"
       }
     ],
     "radical": {
@@ -54,5 +69,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0660f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/660f.gif",
     "uri": "https://jisho.org/search/%E6%98%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "hôn",
+    "mẫn"
+  ]
 }

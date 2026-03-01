@@ -350,54 +350,84 @@
       {
         "example": "増",
         "reading": "ゾウ",
-        "meaning": "increase"
+        "meaning": {
+          "en": "increase"
+        },
+        "romaji": "zou"
       },
       {
         "example": "増員",
         "reading": "ゾウイン",
-        "meaning": "increasing the number of staff, hiring more people"
+        "meaning": {
+          "vi": "increasing the number of staff, hiring more people"
+        },
+        "romaji": "zouin"
       },
       {
         "example": "激増",
         "reading": "ゲキゾウ",
-        "meaning": "sharp increase, sudden rise"
+        "meaning": {
+          "vi": "sharp increase, sudden rise"
+        },
+        "romaji": "gekizou"
       },
       {
         "example": "累増",
         "reading": "ルイゾウ",
-        "meaning": "successive or progressive increases, cumulative increase"
+        "meaning": {
+          "vi": "successive or progressive increases, cumulative increase"
+        },
+        "romaji": "ruizou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "増す",
         "reading": "ます",
-        "meaning": "to increase, to grow"
+        "meaning": {
+          "en": "to increase, to grow"
+        },
+        "romaji": "masu"
       },
       {
         "example": "益々",
         "reading": "ますます",
-        "meaning": "increasingly, more and more, decreasingly (when declining), less and less"
+        "meaning": {
+          "en": "increasingly, more and more, decreasingly (when declining), less and less"
+        },
+        "romaji": "masumasu"
       },
       {
         "example": "増し",
         "reading": "まし",
-        "meaning": "better, preferable, less objectionable, least-worst, more, increase, extra, increase, growth"
+        "meaning": {
+          "vi": "better, preferable, less objectionable, least-worst, more, increase, extra, increase, growth"
+        },
+        "romaji": "mashi"
       },
       {
         "example": "況して",
         "reading": "まして",
-        "meaning": "still more, to say nothing of, not to mention, still less"
+        "meaning": {
+          "en": "still more, to say nothing of, not to mention, still less"
+        },
+        "romaji": "mashite"
       },
       {
         "example": "増える",
         "reading": "ふえる",
-        "meaning": "to increase, to multiply"
+        "meaning": {
+          "vi": "to increase, to multiply"
+        },
+        "romaji": "fueru"
       },
       {
         "example": "増やす",
         "reading": "ふやす",
-        "meaning": "to increase, to add to, to augment"
+        "meaning": {
+          "en": "to increase, to add to, to augment"
+        },
+        "romaji": "fuyasu"
       }
     ],
     "radical": {
@@ -414,5 +444,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05897.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5897.gif",
     "uri": "https://jisho.org/search/%E5%A2%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tăng"
+  ]
 }

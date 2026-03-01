@@ -16,24 +16,36 @@
       {
         "example": "眈々",
         "reading": "タンタン",
-        "meaning": "(glaring) covetously, (watching) eagerly (for a chance)"
+        "meaning": {
+          "en": "(glaring) covetously, (watching) eagerly (for a chance)"
+        },
+        "romaji": "tantan"
       },
       {
         "example": "耽溺",
         "reading": "タンデキ",
-        "meaning": "indulgence (in alcohol, women, etc.), debauchery, dissipation"
+        "meaning": {
+          "vi": "indulgence (in alcohol, women, etc.), debauchery, dissipation"
+        },
+        "romaji": "tandeki"
       },
       {
         "example": "眈々",
         "reading": "タンタン",
-        "meaning": "(glaring) covetously, (watching) eagerly (for a chance)"
+        "meaning": {
+          "en": "(glaring) covetously, (watching) eagerly (for a chance)"
+        },
+        "romaji": "tantan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "耽る",
         "reading": "ふける",
-        "meaning": "to indulge in, to give oneself up to, to be obsessed by, to be engrossed in, to be lost in, to be absorbed in"
+        "meaning": {
+          "vi": "to indulge in, to give oneself up to, to be obsessed by, to be engrossed in, to be lost in, to be absorbed in"
+        },
+        "romaji": "fukeru"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0803d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/803d.gif",
     "uri": "https://jisho.org/search/%E8%80%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "đam"
+  ]
 }

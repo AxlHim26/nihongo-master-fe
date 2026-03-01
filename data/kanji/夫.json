@@ -321,89 +321,140 @@
       {
         "example": "夫妻",
         "reading": "フサイ",
-        "meaning": "husband and wife, married couple"
+        "meaning": {
+          "vi": "husband and wife, married couple"
+        },
+        "romaji": "fusai"
       },
       {
         "example": "夫婦",
         "reading": "フウフ",
-        "meaning": "married couple, husband and wife, man and wife"
+        "meaning": {
+          "vi": "married couple, husband and wife, man and wife"
+        },
+        "romaji": "fuufu"
       },
       {
         "example": "継夫",
         "reading": "ケイフ",
-        "meaning": "second husband"
+        "meaning": {
+          "en": "second husband"
+        },
+        "romaji": "keifu"
       },
       {
         "example": "炊夫",
         "reading": "スイフ",
-        "meaning": "male cook"
+        "meaning": {
+          "en": "male cook"
+        },
+        "romaji": "suifu"
       },
       {
         "example": "夫婦",
         "reading": "フウフ",
-        "meaning": "married couple, husband and wife, man and wife"
+        "meaning": {
+          "vi": "married couple, husband and wife, man and wife"
+        },
+        "romaji": "fuufu"
       },
       {
         "example": "夫子",
         "reading": "フウシ",
-        "meaning": "teacher, wise man, sage, master, Confucius, the person concerned, you, he, she"
+        "meaning": {
+          "vi": "teacher, wise man, sage, master, Confucius, the person concerned, you, he, she"
+        },
+        "romaji": "fuushi"
       },
       {
         "example": "一工夫",
         "reading": "ヒトクフウ",
-        "meaning": "a bit of contrivance, some fiddling, a little ingenuity"
+        "meaning": {
+          "en": "a bit of contrivance, some fiddling, a little ingenuity"
+        },
+        "romaji": "hitokufuu"
       },
       {
         "example": "創意工夫",
         "reading": "ソウイクフウ",
-        "meaning": "ingenuity, inventiveness, creative originality"
+        "meaning": {
+          "en": "ingenuity, inventiveness, creative originality"
+        },
+        "romaji": "souikufuu"
       },
       {
         "example": "夫人",
         "reading": "フジン",
-        "meaning": "wife, Mrs, madam, wife of a nobleman (aristocrat, etc.), consort of the emperor"
+        "meaning": {
+          "vi": "wife, Mrs, madam, wife of a nobleman (aristocrat, etc.), consort of the emperor"
+        },
+        "romaji": "fujin"
       },
       {
         "example": "賦役",
         "reading": "フエキ",
-        "meaning": "slave labour, slave labor, compulsory service, forced labour, forced labor, exacted service"
+        "meaning": {
+          "vi": "slave labour, slave labor, compulsory service, forced labour, forced labor, exacted service"
+        },
+        "romaji": "fueki"
       },
       {
         "example": "大夫",
         "reading": "ダイブ",
-        "meaning": "high steward, grand master"
+        "meaning": {
+          "en": "high steward, grand master"
+        },
+        "romaji": "daibu"
       },
       {
         "example": "右京大夫",
         "reading": "ウキョウノダイブ",
-        "meaning": "Ukyō no Daibu (title under the ritsuryō system), high steward"
+        "meaning": {
+          "en": "Ukyō no Daibu (title under the ritsuryō system), high steward"
+        },
+        "romaji": "ukyounodaibu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夫",
         "reading": "おっと",
-        "meaning": "husband"
+        "meaning": {
+          "en": "husband"
+        },
+        "romaji": "otto"
       },
       {
         "example": "夫選び",
         "reading": "おっとえらび",
-        "meaning": "choosing a husband"
+        "meaning": {
+          "en": "choosing a husband"
+        },
+        "romaji": "ottoerabi"
       },
       {
         "example": "ＤＶ夫",
         "reading": "ディーブイおっと",
-        "meaning": "(physically) abusive husband, wife beater"
+        "meaning": {
+          "vi": "(physically) abusive husband, wife beater"
+        },
+        "romaji": "deiibuiotto"
       },
       {
         "example": "元夫",
         "reading": "もとおっと",
-        "meaning": "ex-husband, former husband"
+        "meaning": {
+          "en": "ex-husband, former husband"
+        },
+        "romaji": "motootto"
       },
       {
         "example": "其れ其れ",
         "reading": "それぞれ",
-        "meaning": "each, respectively"
+        "meaning": {
+          "vi": "each, respectively"
+        },
+        "romaji": "sorezore"
       }
     ],
     "radical": {
@@ -420,5 +471,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592b.gif",
     "uri": "https://jisho.org/search/%E5%A4%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "phu",
+    "phù"
+  ]
 }

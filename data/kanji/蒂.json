@@ -17,7 +17,10 @@
       {
         "example": "瓜蒂",
         "reading": "カテイ",
-        "meaning": "stem and calyx of muskmelon (used in traditional Chinese medicine)"
+        "meaning": {
+          "en": "stem and calyx of muskmelon (used in traditional Chinese medicine)"
+        },
+        "romaji": "katei"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08482.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8482.gif",
     "uri": "https://jisho.org/search/%E8%92%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "đế"
+  ]
 }

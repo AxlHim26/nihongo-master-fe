@@ -299,44 +299,68 @@
       {
         "example": "筋",
         "reading": "キン",
-        "meaning": "muscle"
+        "meaning": {
+          "en": "muscle"
+        },
+        "romaji": "kin"
       },
       {
         "example": "筋肉",
         "reading": "キンニク",
-        "meaning": "muscle"
+        "meaning": {
+          "en": "muscle"
+        },
+        "romaji": "kinniku"
       },
       {
         "example": "心筋",
         "reading": "シンキン",
-        "meaning": "heart muscle, cardiac muscle, myocardium"
+        "meaning": {
+          "en": "heart muscle, cardiac muscle, myocardium"
+        },
+        "romaji": "shinkin"
       },
       {
         "example": "鉄筋",
         "reading": "テッキン",
-        "meaning": "rebar, (iron) reinforcing bar, reinforcing steel, reinforced concrete"
+        "meaning": {
+          "en": "rebar, (iron) reinforcing bar, reinforcing steel, reinforced concrete"
+        },
+        "romaji": "tekkin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "筋",
         "reading": "すじ",
-        "meaning": "muscle, tendon, sinew, vein, artery, fiber, fibre, string, line, stripe, streak, reason, logic, plot, storyline, lineage, descent, school (e.g. of scholarship or arts), aptitude, talent, source (of information, etc.), circle, channel, well-informed person (in a transaction), logical move (in go, shogi, etc.), ninth vertical line, seam on a helmet, gristly fish paste (made of muscle, tendons, skin, etc.), social position, status, on (a river, road, etc.), along, counter for long thin things, counter for roads or blocks when giving directions, street (in Osaka), (Edo period) counter for hundreds of mon (obsolete unit of currency)"
+        "meaning": {
+          "vi": "muscle, tendon, sinew, vein, artery, fiber, fibre, string, line, stripe, streak, reason, logic, plot, storyline, lineage, descent, school (e.g. of scholarship or arts), aptitude, talent, source (of information, etc.), circle, channel, well-informed person (in a transaction), logical move (in go, shogi, etc.), ninth vertical line, seam on a helmet, gristly fish paste (made of muscle, tendons, skin, etc.), social position, status, on (a river, road, etc.), along, counter for long thin things, counter for roads or blocks when giving directions, street (in Osaka), (Edo period) counter for hundreds of mon (obsolete unit of currency)"
+        },
+        "romaji": "suji"
       },
       {
         "example": "筋書き",
         "reading": "すじがき",
-        "meaning": "synopsis, outline, plot"
+        "meaning": {
+          "vi": "synopsis, outline, plot"
+        },
+        "romaji": "sujigaki"
       },
       {
         "example": "粗筋",
         "reading": "あらすじ",
-        "meaning": "outline, summary, argument"
+        "meaning": {
+          "en": "outline, summary, argument"
+        },
+        "romaji": "arasuji"
       },
       {
         "example": "売れ筋",
         "reading": "うれすじ",
-        "meaning": "popular line (of products), best-selling line, hot sellers"
+        "meaning": {
+          "vi": "popular line (of products), best-selling line, hot sellers"
+        },
+        "romaji": "uresuji"
       }
     ],
     "radical": {
@@ -356,5 +380,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b4b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b4b.gif",
     "uri": "https://jisho.org/search/%E7%AD%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cân"
+  ]
 }

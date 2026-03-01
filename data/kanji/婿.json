@@ -19,34 +19,52 @@
       {
         "example": "女婿",
         "reading": "ジョセイ",
-        "meaning": "son-in-law"
+        "meaning": {
+          "en": "son-in-law"
+        },
+        "romaji": "josei"
       },
       {
         "example": "愛婿",
         "reading": "アイセイ",
-        "meaning": "one's favorite son-in-law, one's favourite son-in-law"
+        "meaning": {
+          "en": "one's favorite son-in-law, one's favourite son-in-law"
+        },
+        "romaji": "aisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "婿",
         "reading": "むこ",
-        "meaning": "husband, groom, (one's) son-in-law"
+        "meaning": {
+          "en": "husband, groom, (one's) son-in-law"
+        },
+        "romaji": "muko"
       },
       {
         "example": "婿入り",
         "reading": "むこいり",
-        "meaning": "being adopted into the family of one's bride"
+        "meaning": {
+          "vi": "being adopted into the family of one's bride"
+        },
+        "romaji": "mukoiri"
       },
       {
         "example": "花婿",
         "reading": "はなむこ",
-        "meaning": "bridegroom"
+        "meaning": {
+          "en": "bridegroom"
+        },
+        "romaji": "hanamuko"
       },
       {
         "example": "相婿",
         "reading": "あいむこ",
-        "meaning": "brother-in-law"
+        "meaning": {
+          "en": "brother-in-law"
+        },
+        "romaji": "aimuko"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a7f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a7f.gif",
     "uri": "https://jisho.org/search/%E5%A9%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế"
+  ]
 }

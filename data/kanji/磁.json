@@ -270,22 +270,34 @@
       {
         "example": "磁石",
         "reading": "ジシャク",
-        "meaning": "magnet, compass"
+        "meaning": {
+          "vi": "magnet, compass"
+        },
+        "romaji": "jishaku"
       },
       {
         "example": "磁気",
         "reading": "ジキ",
-        "meaning": "magnetism"
+        "meaning": {
+          "en": "magnetism"
+        },
+        "romaji": "jiki"
       },
       {
         "example": "電磁",
         "reading": "デンジ",
-        "meaning": "electromagnetic"
+        "meaning": {
+          "en": "electromagnetic"
+        },
+        "romaji": "denji"
       },
       {
         "example": "陶磁",
         "reading": "トウジ",
-        "meaning": "clay"
+        "meaning": {
+          "en": "clay"
+        },
+        "romaji": "touji"
       }
     ],
     "kunyomiExamples": [],
@@ -304,5 +316,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/078c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/78c1.gif",
     "uri": "https://jisho.org/search/%E7%A3%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "từ"
+  ]
 }

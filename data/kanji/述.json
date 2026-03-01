@@ -310,29 +310,44 @@
       {
         "example": "述",
         "reading": "ジュツ",
-        "meaning": "dictation, verbal statement"
+        "meaning": {
+          "en": "dictation, verbal statement"
+        },
+        "romaji": "jutsu"
       },
       {
         "example": "述語",
         "reading": "ジュツゴ",
-        "meaning": "predicate, predicate"
+        "meaning": {
+          "vi": "predicate, predicate"
+        },
+        "romaji": "jutsugo"
       },
       {
         "example": "詳述",
         "reading": "ショウジュツ",
-        "meaning": "detailed explanation"
+        "meaning": {
+          "vi": "detailed explanation"
+        },
+        "romaji": "shoujutsu"
       },
       {
         "example": "公述",
         "reading": "コウジュツ",
-        "meaning": "speaking at a public hearing"
+        "meaning": {
+          "vi": "speaking at a public hearing"
+        },
+        "romaji": "koujutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "述べる",
         "reading": "のべる",
-        "meaning": "to state, to express, to say, to tell, to mention"
+        "meaning": {
+          "vi": "to state, to express, to say, to tell, to mention"
+        },
+        "romaji": "noberu"
       }
     ],
     "radical": {
@@ -354,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ff0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ff0.gif",
     "uri": "https://jisho.org/search/%E8%BF%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuật"
+  ]
 }

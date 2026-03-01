@@ -19,34 +19,52 @@
       {
         "example": "飛沫",
         "reading": "ヒマツ",
-        "meaning": "splash, spray, droplet"
+        "meaning": {
+          "vi": "splash, spray, droplet"
+        },
+        "romaji": "himatsu"
       },
       {
         "example": "泡沫",
         "reading": "ウタカタ",
-        "meaning": "bubble on surface of liquid, ephemeral, transient"
+        "meaning": {
+          "vi": "bubble on surface of liquid, ephemeral, transient"
+        },
+        "romaji": "utakata"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泡",
         "reading": "あわ",
-        "meaning": "bubble, foam, froth, suds, lather, head (on beer)"
+        "meaning": {
+          "en": "bubble, foam, froth, suds, lather, head (on beer)"
+        },
+        "romaji": "awa"
       },
       {
         "example": "淡雪",
         "reading": "あわゆき",
-        "meaning": "light snow, light snowfall, thin layer of snow, jellied dessert made of beaten egg white, agar and sugar"
+        "meaning": {
+          "en": "light snow, light snowfall, thin layer of snow, jellied dessert made of beaten egg white, agar and sugar"
+        },
+        "romaji": "awayuki"
       },
       {
         "example": "血飛沫",
         "reading": "ちしぶき",
-        "meaning": "blood spray (caused by a weapon), fountain of blood"
+        "meaning": {
+          "vi": "blood spray (caused by a weapon), fountain of blood"
+        },
+        "romaji": "chishibuki"
       },
       {
         "example": "波しぶき",
         "reading": "なみしぶき",
-        "meaning": "sea spray, spindrift"
+        "meaning": {
+          "vi": "sea spray, spindrift"
+        },
+        "romaji": "namishibuki"
       }
     ],
     "radical": {
@@ -69,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cab.gif",
     "uri": "https://jisho.org/search/%E6%B2%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạt"
+  ]
 }

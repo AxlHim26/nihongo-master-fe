@@ -352,44 +352,68 @@
       {
         "example": "仕",
         "reading": "シ",
-        "meaning": "official, civil service"
+        "meaning": {
+          "en": "official, civil service"
+        },
+        "romaji": "shi"
       },
       {
         "example": "試合",
         "reading": "シアイ",
-        "meaning": "match, game, bout, contest"
+        "meaning": {
+          "en": "match, game, bout, contest"
+        },
+        "romaji": "shiai"
       },
       {
         "example": "勤労奉仕",
         "reading": "キンロウホウシ",
-        "meaning": "labor service, labour service"
+        "meaning": {
+          "en": "labor service, labour service"
+        },
+        "romaji": "kinrouhoushi"
       },
       {
         "example": "中仕",
         "reading": "ナカシ",
-        "meaning": "longshoreman, baggageman"
+        "meaning": {
+          "en": "longshoreman, baggageman"
+        },
+        "romaji": "nakashi"
       },
       {
         "example": "仕込み",
         "reading": "ジコミ",
-        "meaning": "learned at ..., acquired at ..."
+        "meaning": {
+          "en": "learned at ..., acquired at ..."
+        },
+        "romaji": "jikomi"
       },
       {
         "example": "仕丁",
         "reading": "シチョウ",
-        "meaning": "men pressed into forced labor (ritsuryō system), palanquin bearer (Edo period)"
+        "meaning": {
+          "vi": "men pressed into forced labor (ritsuryō system), palanquin bearer (Edo period)"
+        },
+        "romaji": "shichou"
       },
       {
         "example": "致仕",
         "reading": "チシ",
-        "meaning": "resignation, seventy years of age"
+        "meaning": {
+          "en": "resignation, seventy years of age"
+        },
+        "romaji": "chishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仕える",
         "reading": "つかえる",
-        "meaning": "to serve, to work for, to attend"
+        "meaning": {
+          "en": "to serve, to work for, to attend"
+        },
+        "romaji": "tsukaeru"
       }
     ],
     "radical": {
@@ -407,5 +431,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ed5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ed5.gif",
     "uri": "https://jisho.org/search/%E4%BB%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "sĩ"
+  ]
 }

@@ -280,34 +280,52 @@
       {
         "example": "堅",
         "reading": "ケン",
-        "meaning": "strength, solidity, firmness, armour, armor"
+        "meaning": {
+          "en": "strength, solidity, firmness, armour, armor"
+        },
+        "romaji": "ken"
       },
       {
         "example": "堅持",
         "reading": "ケンジ",
-        "meaning": "holding on to, sticking to"
+        "meaning": {
+          "en": "holding on to, sticking to"
+        },
+        "romaji": "kenji"
       },
       {
         "example": "中堅",
         "reading": "チュウケン",
-        "meaning": "nucleus, backbone, mainstay, key figure, medium-level, mid-level, middle-ranking, midsize, main body (of troops), crack troops, select troops, center field, centre field, center fielder, centre fielder, athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"
+        "meaning": {
+          "vi": "nucleus, backbone, mainstay, key figure, medium-level, mid-level, middle-ranking, midsize, main body (of troops), crack troops, select troops, center field, centre field, center fielder, centre fielder, athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"
+        },
+        "romaji": "chuuken"
       },
       {
         "example": "米利堅",
         "reading": "メリケン",
-        "meaning": "America, American, fist"
+        "meaning": {
+          "en": "America, American, fist"
+        },
+        "romaji": "meriken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "硬い",
         "reading": "かたい",
-        "meaning": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
+        "meaning": {
+          "vi": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
+        },
+        "romaji": "katai"
       },
       {
         "example": "堅い商売",
         "reading": "かたいしょうばい",
-        "meaning": "sound business"
+        "meaning": {
+          "en": "sound business"
+        },
+        "romaji": "kataishoubai"
       }
     ],
     "radical": {
@@ -323,5 +341,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05805.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5805.gif",
     "uri": "https://jisho.org/search/%E5%A0%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiên"
+  ]
 }

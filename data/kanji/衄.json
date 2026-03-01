@@ -16,7 +16,10 @@
       {
         "example": "敗衄",
         "reading": "ハイジク",
-        "meaning": "being defeated, to be defeated"
+        "meaning": {
+          "en": "being defeated, to be defeated"
+        },
+        "romaji": "haijiku"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08844.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8844.gif",
     "uri": "https://jisho.org/search/%E8%A1%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "nục"
+  ]
 }

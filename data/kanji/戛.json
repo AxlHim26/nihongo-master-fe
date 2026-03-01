@@ -16,12 +16,18 @@
       {
         "example": "戛戛",
         "reading": "カツカツ",
-        "meaning": "clicking, clopping, clacking"
+        "meaning": {
+          "vi": "clicking, clopping, clacking"
+        },
+        "romaji": "katsukatsu"
       },
       {
         "example": "戛然",
         "reading": "カツゼン",
-        "meaning": "with a clang"
+        "meaning": {
+          "en": "with a clang"
+        },
+        "romaji": "katsuzen"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621b.gif",
     "uri": "https://jisho.org/search/%E6%88%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiết"
+  ]
 }

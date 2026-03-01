@@ -17,39 +17,60 @@
       {
         "example": "箋",
         "reading": "セン",
-        "meaning": "slip (of paper), tag (usu. bamboo, wood, ivory, etc.), label"
+        "meaning": {
+          "vi": "slip (of paper), tag (usu. bamboo, wood, ivory, etc.), label"
+        },
+        "romaji": "sen"
       },
       {
         "example": "抽選",
         "reading": "チュウセン",
-        "meaning": "lottery, raffle, drawing (of lots)"
+        "meaning": {
+          "en": "lottery, raffle, drawing (of lots)"
+        },
+        "romaji": "chuusen"
       },
       {
         "example": "当せん",
         "reading": "トウセン",
-        "meaning": "winning a prize (in a lottery, raffle, etc.)"
+        "meaning": {
+          "vi": "winning a prize (in a lottery, raffle, etc.)"
+        },
+        "romaji": "tousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "籤",
         "reading": "くじ",
-        "meaning": "lottery, lot, raffle, draw"
+        "meaning": {
+          "en": "lottery, lot, raffle, draw"
+        },
+        "romaji": "kuji"
       },
       {
         "example": "くじ引き",
         "reading": "くじびき",
-        "meaning": "lottery, drawn lot"
+        "meaning": {
+          "en": "lottery, drawn lot"
+        },
+        "romaji": "kujibiki"
       },
       {
         "example": "御神籤",
         "reading": "おみくじ",
-        "meaning": "fortune slip (usu. bought at a shrine)"
+        "meaning": {
+          "vi": "fortune slip (usu. bought at a shrine)"
+        },
+        "romaji": "omikuji"
       },
       {
         "example": "貧乏くじ",
         "reading": "びんぼうくじ",
-        "meaning": "short end of the stick, short straw, unlucky number, blank, bad bargain"
+        "meaning": {
+          "en": "short end of the stick, short straw, unlucky number, blank, bad bargain"
+        },
+        "romaji": "binboukuji"
       }
     ],
     "radical": {
@@ -70,5 +91,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c64.gif",
     "uri": "https://jisho.org/search/%E7%B1%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiêm",
+    "tiêm"
+  ]
 }

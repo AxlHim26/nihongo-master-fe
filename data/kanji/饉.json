@@ -16,12 +16,18 @@
       {
         "example": "大飢饉",
         "reading": "ダイキキン",
-        "meaning": "great famine, severe famine"
+        "meaning": {
+          "en": "great famine, severe famine"
+        },
+        "romaji": "daikikin"
       },
       {
         "example": "天保の大飢饉",
         "reading": "テンポウノダイキキン",
-        "meaning": "Great Tempo Famine"
+        "meaning": {
+          "vi": "Great Tempo Famine"
+        },
+        "romaji": "tenpounodaikikin"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09949.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9949.gif",
     "uri": "https://jisho.org/search/%E9%A5%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "cận"
+  ]
 }

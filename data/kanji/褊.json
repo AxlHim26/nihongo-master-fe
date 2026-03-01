@@ -16,7 +16,10 @@
       {
         "example": "偏狭",
         "reading": "ヘンキョウ",
-        "meaning": "narrow-mindedness, intolerance, illiberality, narrowness"
+        "meaning": {
+          "en": "narrow-mindedness, intolerance, illiberality, narrowness"
+        },
+        "romaji": "henkyou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0890a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/890a.gif",
     "uri": "https://jisho.org/search/%E8%A4%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "biền",
+    "biển"
+  ]
 }

@@ -345,49 +345,76 @@
       {
         "example": "放火",
         "reading": "ホウカ",
-        "meaning": "arson, setting fire"
+        "meaning": {
+          "en": "arson, setting fire"
+        },
+        "romaji": "houka"
       },
       {
         "example": "放映",
         "reading": "ホウエイ",
-        "meaning": "televising, broadcasting, airing"
+        "meaning": {
+          "en": "televising, broadcasting, airing"
+        },
+        "romaji": "houei"
       },
       {
         "example": "豪放",
         "reading": "ゴウホウ",
-        "meaning": "largehearted, frank, unaffected"
+        "meaning": {
+          "en": "largehearted, frank, unaffected"
+        },
+        "romaji": "gouhou"
       },
       {
         "example": "性解放",
         "reading": "セイカイホウ",
-        "meaning": "sexual liberation, emancipation from gender restrictions"
+        "meaning": {
+          "vi": "sexual liberation, emancipation from gender restrictions"
+        },
+        "romaji": "seikaihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "放す",
         "reading": "はなす",
-        "meaning": "to release, to let go, to free, to set free, to let loose, to turn loose, to add (pieces of eggplant, potato, etc.) to water, broth, etc."
+        "meaning": {
+          "vi": "to release, to let go, to free, to set free, to let loose, to turn loose, to add (pieces of eggplant, potato, etc.) to water, broth, etc."
+        },
+        "romaji": "hanasu"
       },
       {
         "example": "放つ",
         "reading": "はなつ",
-        "meaning": "to fire (gun, arrow, questions, etc.), to shoot, to hit (e.g. baseball), to break wind, to set free, to release, to let loose, to emit (e.g. light), to give off (e.g. a scent), to send out (a person to carry out a duty), to set fire to"
+        "meaning": {
+          "vi": "to fire (gun, arrow, questions, etc.), to shoot, to hit (e.g. baseball), to break wind, to set free, to release, to let loose, to emit (e.g. light), to give off (e.g. a scent), to send out (a person to carry out a duty), to set fire to"
+        },
+        "romaji": "hanatsu"
       },
       {
         "example": "放れる",
         "reading": "はなれる",
-        "meaning": "to get free (from), to be freed, to be released"
+        "meaning": {
+          "en": "to get free (from), to be freed, to be released"
+        },
+        "romaji": "hanareru"
       },
       {
         "example": "放く",
         "reading": "こく",
-        "meaning": "to expel (from the body), to let off (a fart), to let out, to utter (a lie, nonsense, etc.), to say, to spout (bullshit), to do"
+        "meaning": {
+          "vi": "to expel (from the body), to let off (a fart), to let out, to utter (a lie, nonsense, etc.), to say, to spout (bullshit), to do"
+        },
+        "romaji": "koku"
       },
       {
         "example": "放る",
         "reading": "ほうる",
-        "meaning": "to throw, to fling, to hurl, to toss, to neglect, to abandon, to leave alone, to give up on, to leave undone, to leave unfinished"
+        "meaning": {
+          "vi": "to throw, to fling, to hurl, to toss, to neglect, to abandon, to leave alone, to give up on, to leave undone, to leave unfinished"
+        },
+        "romaji": "houru"
       }
     ],
     "radical": {
@@ -406,5 +433,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0653e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/653e.gif",
     "uri": "https://jisho.org/search/%E6%94%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phóng",
+    "phương",
+    "phỏng"
+  ]
 }

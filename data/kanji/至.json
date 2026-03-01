@@ -290,34 +290,52 @@
       {
         "example": "至",
         "reading": "シ",
-        "meaning": "to (a place), until (a time)"
+        "meaning": {
+          "vi": "to (a place), until (a time)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "至上",
         "reading": "シジョウ",
-        "meaning": "supremacy"
+        "meaning": {
+          "vi": "supremacy"
+        },
+        "romaji": "shijou"
       },
       {
         "example": "必至",
         "reading": "ヒッシ",
-        "meaning": "inevitable, necessary, foregone, brinkmate (inevitable checkmate)"
+        "meaning": {
+          "en": "inevitable, necessary, foregone, brinkmate (inevitable checkmate)"
+        },
+        "romaji": "hisshi"
       },
       {
         "example": "夏至",
         "reading": "ゲシ",
-        "meaning": "summer solstice"
+        "meaning": {
+          "en": "summer solstice"
+        },
+        "romaji": "geshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "至る",
         "reading": "いたる",
-        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+        "meaning": {
+          "vi": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+        },
+        "romaji": "itaru"
       },
       {
         "example": "至る所",
         "reading": "いたるところ",
-        "meaning": "everywhere, all over, throughout"
+        "meaning": {
+          "en": "everywhere, all over, throughout"
+        },
+        "romaji": "itarutokoro"
       }
     ],
     "radical": {
@@ -334,5 +352,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81f3.gif",
     "uri": "https://jisho.org/search/%E8%87%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí"
+  ]
 }

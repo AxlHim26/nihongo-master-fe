@@ -17,24 +17,36 @@
       {
         "example": "希望",
         "reading": "キボウ",
-        "meaning": "hope, wish, aspiration, (bright) prospects, expectation"
+        "meaning": {
+          "vi": "hope, wish, aspiration, (bright) prospects, expectation"
+        },
+        "romaji": "kibou"
       },
       {
         "example": "希求",
         "reading": "キキュウ",
-        "meaning": "longing, great desire, aspiration"
+        "meaning": {
+          "vi": "longing, great desire, aspiration"
+        },
+        "romaji": "kikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "希う",
         "reading": "こいねがう",
-        "meaning": "to beg, to request, to beseech, to implore, to entreat"
+        "meaning": {
+          "vi": "to beg, to request, to beseech, to implore, to entreat"
+        },
+        "romaji": "koinegau"
       },
       {
         "example": "乞い願わくは",
         "reading": "こいねがわくは",
-        "meaning": "I pray in earnest that, I beg that, I yearn that"
+        "meaning": {
+          "vi": "I pray in earnest that, I beg that, I yearn that"
+        },
+        "romaji": "koinegawakuha"
       }
     ],
     "radical": {
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05180.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5180.gif",
     "uri": "https://jisho.org/search/%E5%86%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "kí",
+    "ký"
+  ]
 }

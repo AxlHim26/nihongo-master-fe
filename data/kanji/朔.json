@@ -18,29 +18,44 @@
       {
         "example": "朔",
         "reading": "サク",
-        "meaning": "new moon, first day of the lunar month, next year's calendar and decrees (in ancient China; distributed by the Emperor at year's end)"
+        "meaning": {
+          "vi": "new moon, first day of the lunar month, next year's calendar and decrees (in ancient China; distributed by the Emperor at year's end)"
+        },
+        "romaji": "saku"
       },
       {
         "example": "朔日",
         "reading": "サクジツ",
-        "meaning": "first day of the month (in the lunar calendar)"
+        "meaning": {
+          "en": "first day of the month (in the lunar calendar)"
+        },
+        "romaji": "sakujitsu"
       },
       {
         "example": "晦朔",
         "reading": "カイサク",
-        "meaning": "last and first days of the month"
+        "meaning": {
+          "en": "last and first days of the month"
+        },
+        "romaji": "kaisaku"
       },
       {
         "example": "正朔",
         "reading": "セイサク",
-        "meaning": "beginning of the month or the year, New Year's Day, the calendar"
+        "meaning": {
+          "en": "beginning of the month or the year, New Year's Day, the calendar"
+        },
+        "romaji": "seisaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "１日",
         "reading": "ついたち",
-        "meaning": "first day of the month"
+        "meaning": {
+          "en": "first day of the month"
+        },
+        "romaji": "tsuitachi"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06714.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6714.gif",
     "uri": "https://jisho.org/search/%E6%9C%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "sóc"
+  ]
 }

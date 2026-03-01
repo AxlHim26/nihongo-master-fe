@@ -16,17 +16,26 @@
       {
         "example": "竺学",
         "reading": "ジクガク",
-        "meaning": "Indian studies, Buddhist studies"
+        "meaning": {
+          "en": "Indian studies, Buddhist studies"
+        },
+        "romaji": "jikugaku"
       },
       {
         "example": "天竺",
         "reading": "テンジク",
-        "meaning": "India, cotton sheeting, foreign, imported, ultra-spicy, extra hot"
+        "meaning": {
+          "vi": "India, cotton sheeting, foreign, imported, ultra-spicy, extra hot"
+        },
+        "romaji": "tenjiku"
       },
       {
         "example": "唐天竺",
         "reading": "カラテンジク",
-        "meaning": "China and India, far away"
+        "meaning": {
+          "en": "China and India, far away"
+        },
+        "romaji": "karatenjiku"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07afa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7afa.gif",
     "uri": "https://jisho.org/search/%E7%AB%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "trúc",
+    "đốc"
+  ]
 }

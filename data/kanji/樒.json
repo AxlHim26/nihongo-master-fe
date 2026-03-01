@@ -18,17 +18,26 @@
       {
         "example": "樒",
         "reading": "しきみ",
-        "meaning": "Japanese star anise (Illicium anisatum)"
+        "meaning": {
+          "vi": "Japanese star anise (Illicium anisatum)"
+        },
+        "romaji": "shikimi"
       },
       {
         "example": "唐樒",
         "reading": "とうしきみ",
-        "meaning": "star anise (Illicium verum)"
+        "meaning": {
+          "en": "star anise (Illicium verum)"
+        },
+        "romaji": "toushikimi"
       },
       {
         "example": "深山樒",
         "reading": "みやましきみ",
-        "meaning": "Japanese skimmia (Skimmia japonica, esp. S. j. var. japonica)"
+        "meaning": {
+          "vi": "Japanese skimmia (Skimmia japonica, esp. S. j. var. japonica)"
+        },
+        "romaji": "miyamashikimi"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a12.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a12.gif",
     "uri": "https://jisho.org/search/%E6%A8%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "mật"
+  ]
 }

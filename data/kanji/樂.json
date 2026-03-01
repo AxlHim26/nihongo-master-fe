@@ -20,17 +20,26 @@
       {
         "example": "楽員",
         "reading": "ガクイン",
-        "meaning": "bandsman"
+        "meaning": {
+          "en": "bandsman"
+        },
+        "romaji": "gakuin"
       },
       {
         "example": "楽園",
         "reading": "ラクエン",
-        "meaning": "paradise, Eden"
+        "meaning": {
+          "vi": "paradise, Eden"
+        },
+        "romaji": "rakuen"
       },
       {
         "example": "千秋楽",
         "reading": "センシュウラク",
-        "meaning": "final day of a performance, closing date, final show, final day of a tournament"
+        "meaning": {
+          "vi": "final day of a performance, closing date, final show, final day of a tournament"
+        },
+        "romaji": "senshuuraku"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a02.gif",
     "uri": "https://jisho.org/search/%E6%A8%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc",
+    "nhạc",
+    "nhạo"
+  ]
 }

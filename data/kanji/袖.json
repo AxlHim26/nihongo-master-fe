@@ -18,39 +18,60 @@
       {
         "example": "袖手傍観",
         "reading": "シュウシュボウカン",
-        "meaning": "looking on with folded arms (with one's hands in one's sleeves), remaining a passive onlooker"
+        "meaning": {
+          "vi": "looking on with folded arms (with one's hands in one's sleeves), remaining a passive onlooker"
+        },
+        "romaji": "shuushuboukan"
       },
       {
         "example": "袖珍",
         "reading": "シュウチン",
-        "meaning": "pocket size"
+        "meaning": {
+          "vi": "pocket size"
+        },
+        "romaji": "shuuchin"
       },
       {
         "example": "領袖",
         "reading": "リョウシュウ",
-        "meaning": "leader, chief, boss"
+        "meaning": {
+          "en": "leader, chief, boss"
+        },
+        "romaji": "ryoushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "袖",
         "reading": "そで",
-        "meaning": "sleeve, wing (of a stage, desk, gate, etc.), flap (of a dust jacket)"
+        "meaning": {
+          "vi": "sleeve, wing (of a stage, desk, gate, etc.), flap (of a dust jacket)"
+        },
+        "romaji": "sode"
       },
       {
         "example": "袖裏",
         "reading": "そでうら",
-        "meaning": "lining of a sleeve, sleeve lining"
+        "meaning": {
+          "en": "lining of a sleeve, sleeve lining"
+        },
+        "romaji": "sodeura"
       },
       {
         "example": "小袖",
         "reading": "こそで",
-        "meaning": "short sleeved kimono (worn as an undergarment during the Heian period), padded silk garment"
+        "meaning": {
+          "vi": "short sleeved kimono (worn as an undergarment during the Heian period), padded silk garment"
+        },
+        "romaji": "kosode"
       },
       {
         "example": "舞台袖",
         "reading": "ぶたいそで",
-        "meaning": "wings of a stage, side stage, coulisse"
+        "meaning": {
+          "en": "wings of a stage, side stage, coulisse"
+        },
+        "romaji": "butaisode"
       }
     ],
     "radical": {
@@ -70,5 +91,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08896.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8896.gif",
     "uri": "https://jisho.org/search/%E8%A2%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "tụ"
+  ]
 }

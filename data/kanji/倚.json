@@ -18,34 +18,52 @@
       {
         "example": "椅子",
         "reading": "イス",
-        "meaning": "ghế, chỗ ngồi, ghế đẩu, băng, vị trí, chức vụ"
+        "meaning": {
+          "vi": "ghế, chỗ ngồi, ghế đẩu, băng, vị trí, chức vụ"
+        },
+        "romaji": "isu"
       },
       {
         "example": "倚音",
         "reading": "イオン",
-        "meaning": "nốt láy (âm nhạc)"
+        "meaning": {
+          "vi": "nốt láy (âm nhạc)"
+        },
+        "romaji": "ion"
       },
       {
         "example": "信倚",
         "reading": "シンイ",
-        "meaning": "tin tưởng, niềm tin"
+        "meaning": {
+          "vi": "tin tưởng, niềm tin"
+        },
+        "romaji": "shin'i"
       },
       {
         "example": "偏倚",
         "reading": "ヘンイ",
-        "meaning": "lệch, thiên kiến"
+        "meaning": {
+          "vi": "lệch, thiên kiến"
+        },
+        "romaji": "hen'i"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寄る",
         "reading": "よる",
-        "meaning": "tới gần, tụ tập, ghé qua, già đi, dựa vào"
+        "meaning": {
+          "vi": "tới gần, tụ tập, ghé qua, già đi, dựa vào"
+        },
+        "romaji": "yoru"
       },
       {
         "example": "倚る",
         "reading": "よる",
-        "meaning": "dựa vào, tựa vào"
+        "meaning": {
+          "vi": "dựa vào, tựa vào"
+        },
+        "romaji": "yoru"
       }
     ],
     "radical": {
@@ -66,5 +84,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0501a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/501a.gif",
     "uri": "https://jisho.org/search/%E5%80%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "kỳ",
+    "ỷ"
+  ]
 }

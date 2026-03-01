@@ -319,39 +319,60 @@
       {
         "example": "怒鳴り込む",
         "reading": "ドナリコム",
-        "meaning": "to storm in with a yell"
+        "meaning": {
+          "en": "to storm in with a yell"
+        },
+        "romaji": "donarikomu"
       },
       {
         "example": "怒鳴る",
         "reading": "ドナル",
-        "meaning": "to shout (in anger), to yell"
+        "meaning": {
+          "en": "to shout (in anger), to yell"
+        },
+        "romaji": "donaru"
       },
       {
         "example": "喜怒",
         "reading": "キド",
-        "meaning": "joy and anger, human emotions"
+        "meaning": {
+          "en": "joy and anger, human emotions"
+        },
+        "romaji": "kido"
       },
       {
         "example": "嚇怒",
         "reading": "カクド",
-        "meaning": "greatly enraged, furious"
+        "meaning": {
+          "en": "greatly enraged, furious"
+        },
+        "romaji": "kakudo"
       },
       {
         "example": "憤怒",
         "reading": "フンヌ",
-        "meaning": "anger, rage, resentment, indignation, exasperation"
+        "meaning": {
+          "vi": "anger, rage, resentment, indignation, exasperation"
+        },
+        "romaji": "funnu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "怒る",
         "reading": "いかる",
-        "meaning": "to get angry, to get mad, to be angular, to be square"
+        "meaning": {
+          "en": "to get angry, to get mad, to be angular, to be square"
+        },
+        "romaji": "ikaru"
       },
       {
         "example": "怒る",
         "reading": "おこる",
-        "meaning": "to get angry, to get mad, to lose one's temper, to scold, to tell (someone) off"
+        "meaning": {
+          "vi": "to get angry, to get mad, to lose one's temper, to scold, to tell (someone) off"
+        },
+        "romaji": "okoru"
       }
     ],
     "radical": {
@@ -371,5 +392,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06012.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6012.gif",
     "uri": "https://jisho.org/search/%E6%80%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "nộ"
+  ]
 }

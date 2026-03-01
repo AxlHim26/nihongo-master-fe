@@ -381,39 +381,60 @@
       {
         "example": "語",
         "reading": "ゴ",
-        "meaning": "word, term, language, speech"
+        "meaning": {
+          "vi": "word, term, language, speech"
+        },
+        "romaji": "go"
       },
       {
         "example": "語学",
         "reading": "ゴガク",
-        "meaning": "study of foreign languages, linguistics"
+        "meaning": {
+          "en": "study of foreign languages, linguistics"
+        },
+        "romaji": "gogaku"
       },
       {
         "example": "標語",
         "reading": "ヒョウゴ",
-        "meaning": "motto, slogan, catchword"
+        "meaning": {
+          "en": "motto, slogan, catchword"
+        },
+        "romaji": "hyougo"
       },
       {
         "example": "造語",
         "reading": "ゾウゴ",
-        "meaning": "coinage, invention of a new word, coined word"
+        "meaning": {
+          "en": "coinage, invention of a new word, coined word"
+        },
+        "romaji": "zougo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "語る",
         "reading": "かたる",
-        "meaning": "to talk about, to speak of, to tell, to narrate, to recite, to chant, to indicate, to show"
+        "meaning": {
+          "vi": "to talk about, to speak of, to tell, to narrate, to recite, to chant, to indicate, to show"
+        },
+        "romaji": "kataru"
       },
       {
         "example": "語るに落ちる",
         "reading": "かたるにおちる",
-        "meaning": "to let slip a secret, to let the cat out of the bag"
+        "meaning": {
+          "vi": "to let slip a secret, to let the cat out of the bag"
+        },
+        "romaji": "kataruniochiru"
       },
       {
         "example": "語らう",
         "reading": "かたらう",
-        "meaning": "to talk, to tell, to recite, to pledge, to conspire with"
+        "meaning": {
+          "vi": "to talk, to tell, to recite, to pledge, to conspire with"
+        },
+        "romaji": "katarau"
       }
     ],
     "radical": {
@@ -432,5 +453,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a9e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a9e.gif",
     "uri": "https://jisho.org/search/%E8%AA%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngứ",
+    "ngữ",
+    "ngự"
+  ]
 }

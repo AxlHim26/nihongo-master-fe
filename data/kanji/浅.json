@@ -288,29 +288,44 @@
       {
         "example": "浅見",
         "reading": "センケン",
-        "meaning": "shallow view, superficial idea, (one's) view, (one's) humble opinion"
+        "meaning": {
+          "vi": "shallow view, superficial idea, (one's) view, (one's) humble opinion"
+        },
+        "romaji": "senken"
       },
       {
         "example": "浅海",
         "reading": "センカイ",
-        "meaning": "shallow sea"
+        "meaning": {
+          "en": "shallow sea"
+        },
+        "romaji": "senkai"
       },
       {
         "example": "深浅",
         "reading": "シンセン",
-        "meaning": "depth, shade (of color, colour)"
+        "meaning": {
+          "vi": "depth, shade (of color, colour)"
+        },
+        "romaji": "shinsen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浅い",
         "reading": "あさい",
-        "meaning": "shallow, superficial, slight (wound), light (sleep), pale (colour), inadequate (knowledge), short (time), early, young"
+        "meaning": {
+          "vi": "shallow, superficial, slight (wound), light (sleep), pale (colour), inadequate (knowledge), short (time), early, young"
+        },
+        "romaji": "asai"
       },
       {
         "example": "浅煎り",
         "reading": "あさいり",
-        "meaning": "light roast (coffee)"
+        "meaning": {
+          "en": "light roast (coffee)"
+        },
+        "romaji": "asairi"
       }
     ],
     "radical": {
@@ -330,5 +345,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d45.gif",
     "uri": "https://jisho.org/search/%E6%B5%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiển",
+    "tiên"
+  ]
 }

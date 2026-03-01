@@ -357,29 +357,44 @@
       {
         "example": "量",
         "reading": "リョウ",
-        "meaning": "số lượng, lượng, thể tích, dung tích, phần (thức ăn), rộng lượng, khoan dung, pramana (tri thức trong triết học Ấn Độ)"
+        "meaning": {
+          "vi": "số lượng, lượng, thể tích, dung tích, phần (thức ăn), rộng lượng, khoan dung, pramana (tri thức trong triết học Ấn Độ)"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "量刑",
         "reading": "リョウケイ",
-        "meaning": "án quyết của thẩm phán, đánh giá vụ án"
+        "meaning": {
+          "vi": "án quyết của thẩm phán, đánh giá vụ án"
+        },
+        "romaji": "ryoukei"
       },
       {
         "example": "裁量",
         "reading": "サイリョウ",
-        "meaning": "quyền quyết định, phán đoán"
+        "meaning": {
+          "vi": "quyền quyết định, phán đoán"
+        },
+        "romaji": "sairyou"
       },
       {
         "example": "軽量",
         "reading": "ケイリョウ",
-        "meaning": "trọng lượng nhẹ"
+        "meaning": {
+          "vi": "trọng lượng nhẹ"
+        },
+        "romaji": "keiryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "計る",
         "reading": "はかる",
-        "meaning": "đo, cân, khảo sát, ước lượng, suy đoán"
+        "meaning": {
+          "vi": "đo, cân, khảo sát, ước lượng, suy đoán"
+        },
+        "romaji": "hakaru"
       }
     ],
     "radical": {
@@ -395,5 +410,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cf.gif",
     "uri": "https://jisho.org/search/%E9%87%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "lương",
+    "lường",
+    "lượng"
+  ]
 }

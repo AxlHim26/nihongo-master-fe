@@ -22,39 +22,60 @@
       {
         "example": "奇",
         "reading": "キ",
-        "meaning": "strange, unconventional, eccentric, novel, odd, odd number"
+        "meaning": {
+          "en": "strange, unconventional, eccentric, novel, odd, odd number"
+        },
+        "romaji": "ki"
       },
       {
         "example": "奇異",
         "reading": "キイ",
-        "meaning": "odd, strange, queer, peculiar"
+        "meaning": {
+          "vi": "odd, strange, queer, peculiar"
+        },
+        "romaji": "kii"
       },
       {
         "example": "物好き",
         "reading": "モノズキ",
-        "meaning": "(idle) curiosity, fancifulness, whimsy, (having) strange tastes"
+        "meaning": {
+          "en": "(idle) curiosity, fancifulness, whimsy, (having) strange tastes"
+        },
+        "romaji": "monozuki"
       },
       {
         "example": "怪奇",
         "reading": "カイキ",
-        "meaning": "bizarre, strange, weird, mysterious, grotesque"
+        "meaning": {
+          "en": "bizarre, strange, weird, mysterious, grotesque"
+        },
+        "romaji": "kaiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奇しき",
         "reading": "くしき",
-        "meaning": "strange, mysterious, queer"
+        "meaning": {
+          "en": "strange, mysterious, queer"
+        },
+        "romaji": "kushiki"
       },
       {
         "example": "奇しき",
         "reading": "くしき",
-        "meaning": "strange, mysterious, queer"
+        "meaning": {
+          "en": "strange, mysterious, queer"
+        },
+        "romaji": "kushiki"
       },
       {
         "example": "奇しくも",
         "reading": "くしくも",
-        "meaning": "strangely, oddly, miraculously, mysteriously"
+        "meaning": {
+          "en": "strangely, oddly, miraculously, mysteriously"
+        },
+        "romaji": "kushikumo"
       }
     ],
     "radical": {
@@ -71,5 +92,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05947.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5947.gif",
     "uri": "https://jisho.org/search/%E5%A5%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "kì",
+    "kỳ"
+  ]
 }

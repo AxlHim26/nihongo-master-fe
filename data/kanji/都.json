@@ -401,54 +401,84 @@
       {
         "example": "都",
         "reading": "ト",
-        "meaning": "Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture, counter for cities and towns, capital"
+        "meaning": {
+          "vi": "Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture, counter for cities and towns, capital"
+        },
+        "romaji": "to"
       },
       {
         "example": "都営",
         "reading": "トエイ",
-        "meaning": "(under) metropolitan government management"
+        "meaning": {
+          "vi": "(under) metropolitan government management"
+        },
+        "romaji": "toei"
       },
       {
         "example": "遷都",
         "reading": "セント",
-        "meaning": "relocation of the capital, transfer of the capital"
+        "meaning": {
+          "vi": "relocation of the capital, transfer of the capital"
+        },
+        "romaji": "sento"
       },
       {
         "example": "東都",
         "reading": "トウト",
-        "meaning": "the Eastern Capital (now Tokyo), Yedo, Edo"
+        "meaning": {
+          "vi": "the Eastern Capital (now Tokyo), Yedo, Edo"
+        },
+        "romaji": "touto"
       },
       {
         "example": "都度",
         "reading": "ツド",
-        "meaning": "each (every) time, whenever"
+        "meaning": {
+          "en": "each (every) time, whenever"
+        },
+        "romaji": "tsudo"
       },
       {
         "example": "都合",
         "reading": "ツゴウ",
-        "meaning": "circumstances, condition, convenience, arranging, managing, lending money, raising money, in all, in total, all told"
+        "meaning": {
+          "en": "circumstances, condition, convenience, arranging, managing, lending money, raising money, in all, in total, all told"
+        },
+        "romaji": "tsugou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "都",
         "reading": "みやこ",
-        "meaning": "capital (esp. Kyoto, Japan's former capital), seat of government, capital (of music, fashion, etc.), city (e.g. of light), location of the Imperial Palace"
+        "meaning": {
+          "vi": "capital (esp. Kyoto, Japan's former capital), seat of government, capital (of music, fashion, etc.), city (e.g. of light), location of the Imperial Palace"
+        },
+        "romaji": "miyako"
       },
       {
         "example": "都入り",
         "reading": "みやこいり",
-        "meaning": "arriving in the capital"
+        "meaning": {
+          "vi": "arriving in the capital"
+        },
+        "romaji": "miyakoiri"
       },
       {
         "example": "京の都",
         "reading": "きょうのみやこ",
-        "meaning": "Kyoto"
+        "meaning": {
+          "en": "Kyoto"
+        },
+        "romaji": "kyounomiyako"
       },
       {
         "example": "花の都",
         "reading": "はなのみやこ",
-        "meaning": "City of Flowers (nickname for various cities, esp. Paris and Florence)"
+        "meaning": {
+          "vi": "City of Flowers (nickname for various cities, esp. Paris and Florence)"
+        },
+        "romaji": "hananomiyako"
       }
     ],
     "radical": {
@@ -467,5 +497,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90fd.gif",
     "uri": "https://jisho.org/search/%E9%83%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "đô"
+  ]
 }

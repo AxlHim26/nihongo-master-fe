@@ -18,12 +18,18 @@
       {
         "example": "怪鳥",
         "reading": "カイチョウ",
-        "meaning": "mysterious bird, strange bird, eerie bird, monster that has taken the form of a bird"
+        "meaning": {
+          "en": "mysterious bird, strange bird, eerie bird, monster that has taken the form of a bird"
+        },
+        "romaji": "kaichou"
       },
       {
         "example": "怪鳥",
         "reading": "カイチョウ",
-        "meaning": "mysterious bird, strange bird, eerie bird, monster that has taken the form of a bird"
+        "meaning": {
+          "en": "mysterious bird, strange bird, eerie bird, monster that has taken the form of a bird"
+        },
+        "romaji": "kaichou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06060.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6060.gif",
     "uri": "https://jisho.org/search/%E6%81%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "quái"
+  ]
 }

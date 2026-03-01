@@ -14,12 +14,18 @@
       {
         "example": "台風",
         "reading": "タイフウ",
-        "meaning": "typhoon, hurricane"
+        "meaning": {
+          "vi": "typhoon, hurricane"
+        },
+        "romaji": "taifuu"
       },
       {
         "example": "台風一過",
         "reading": "タイフウイッカ",
-        "meaning": "clear weather after a typhoon has passed"
+        "meaning": {
+          "vi": "clear weather after a typhoon has passed"
+        },
+        "romaji": "taifuuikka"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098b1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98b1.gif",
     "uri": "https://jisho.org/search/%E9%A2%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "thai",
+    "đài"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "庸",
         "reading": "ヨウ",
-        "meaning": "tax paid to avoid forced labor (ritsuryō period), tax in kind, mediocrity"
+        "meaning": {
+          "vi": "tax paid to avoid forced labor (ritsuryō period), tax in kind, mediocrity"
+        },
+        "romaji": "you"
       },
       {
         "example": "庸君",
         "reading": "ヨウクン",
-        "meaning": "stupid ruler"
+        "meaning": {
+          "vi": "stupid ruler"
+        },
+        "romaji": "youkun"
       },
       {
         "example": "登用",
         "reading": "トウヨウ",
-        "meaning": "appointment, assignment, promotion"
+        "meaning": {
+          "vi": "appointment, assignment, promotion"
+        },
+        "romaji": "touyou"
       },
       {
         "example": "凡庸",
         "reading": "ボンヨウ",
-        "meaning": "mediocre, ordinary, commonplace, banal"
+        "meaning": {
+          "vi": "mediocre, ordinary, commonplace, banal"
+        },
+        "romaji": "bon'you"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eb8.gif",
     "uri": "https://jisho.org/search/%E5%BA%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "dong",
+    "dung"
+  ]
 }

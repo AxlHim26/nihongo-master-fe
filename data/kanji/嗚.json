@@ -17,19 +17,26 @@
       {
         "example": "嗚咽",
         "reading": "オエツ",
-        "meaning": "sobbing, weeping, fit of crying"
+        "meaning": {
+          "vi": "sobbing, weeping, fit of crying"
+        },
+        "romaji": "oetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ああ】",
         "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"
       },
       {
         "example": "嗚呼嗚呼",
         "reading": "ああああ",
-        "meaning": "aaah!, oooh!, oh no!, oh boy!"
+        "meaning": {
+          "en": "aaah!, oooh!, oh no!, oh boy!"
+        },
+        "romaji": "aaaa"
       }
     ],
     "radical": {
@@ -45,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55da.gif",
     "uri": "https://jisho.org/search/%E5%97%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "ô"
+  ]
 }

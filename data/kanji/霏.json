@@ -16,12 +16,18 @@
       {
         "example": "霏々",
         "reading": "ヒヒ",
-        "meaning": "incessant falling (e.g. rain, snow), prolonged continuation (of something)"
+        "meaning": {
+          "vi": "incessant falling (e.g. rain, snow), prolonged continuation (of something)"
+        },
+        "romaji": "hihi"
       },
       {
         "example": "霏々",
         "reading": "ヒヒ",
-        "meaning": "incessant falling (e.g. rain, snow), prolonged continuation (of something)"
+        "meaning": {
+          "vi": "incessant falling (e.g. rain, snow), prolonged continuation (of something)"
+        },
+        "romaji": "hihi"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0970f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/970f.gif",
     "uri": "https://jisho.org/search/%E9%9C%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi"
+  ]
 }

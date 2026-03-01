@@ -19,44 +19,68 @@
       {
         "example": "虎列刺",
         "reading": "コレラ",
-        "meaning": "cholera"
+        "meaning": {
+          "en": "cholera"
+        },
+        "romaji": "korera"
       },
       {
         "example": "虎疫",
         "reading": "コエキ",
-        "meaning": "cholera"
+        "meaning": {
+          "en": "cholera"
+        },
+        "romaji": "koeki"
       },
       {
         "example": "猛虎",
         "reading": "モウコ",
-        "meaning": "fierce tiger, ferocious tiger, Hanshin Tigers (baseball team)"
+        "meaning": {
+          "en": "fierce tiger, ferocious tiger, Hanshin Tigers (baseball team)"
+        },
+        "romaji": "mouko"
       },
       {
         "example": "竜虎",
         "reading": "リュウコ",
-        "meaning": "dragon and tiger, two mighty rivals"
+        "meaning": {
+          "en": "dragon and tiger, two mighty rivals"
+        },
+        "romaji": "ryuuko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虎",
         "reading": "とら",
-        "meaning": "tiger (Panthera tigris), drunkard, drunk, sot"
+        "meaning": {
+          "vi": "tiger (Panthera tigris), drunkard, drunk, sot"
+        },
+        "romaji": "tora"
       },
       {
         "example": "虎葦毛",
         "reading": "とらあしげ",
-        "meaning": "dapple gray (horse coat color), dapple grey"
+        "meaning": {
+          "vi": "dapple gray (horse coat color), dapple grey"
+        },
+        "romaji": "toraashige"
       },
       {
         "example": "大虎",
         "reading": "おおとら",
-        "meaning": "big tiger, drinker, staggering drunkard"
+        "meaning": {
+          "en": "big tiger, drinker, staggering drunkard"
+        },
+        "romaji": "ootora"
       },
       {
         "example": "小虎",
         "reading": "ことら",
-        "meaning": "small tiger, light drinker, occasional drinker"
+        "meaning": {
+          "en": "small tiger, light drinker, occasional drinker"
+        },
+        "romaji": "kotora"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0864e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/864e.gif",
     "uri": "https://jisho.org/search/%E8%99%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hổ"
+  ]
 }

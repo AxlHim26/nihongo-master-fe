@@ -358,54 +358,84 @@
       {
         "example": "建国",
         "reading": "ケンコク",
-        "meaning": "founding of a nation"
+        "meaning": {
+          "en": "founding of a nation"
+        },
+        "romaji": "kenkoku"
       },
       {
         "example": "建議",
         "reading": "ケンギ",
-        "meaning": "proposition, motion, proposal, suggestion"
+        "meaning": {
+          "vi": "proposition, motion, proposal, suggestion"
+        },
+        "romaji": "kengi"
       },
       {
         "example": "経営再建",
         "reading": "ケイエイサイケン",
-        "meaning": "management reorganization, management reorganisation"
+        "meaning": {
+          "en": "management reorganization, management reorganisation"
+        },
+        "romaji": "keieisaiken"
       },
       {
         "example": "財政再建",
         "reading": "ザイセイサイケン",
-        "meaning": "finance reform, fiscal reconstruction"
+        "meaning": {
+          "en": "finance reform, fiscal reconstruction"
+        },
+        "romaji": "zaiseisaiken"
       },
       {
         "example": "建立",
         "reading": "コンリュウ",
-        "meaning": "(act of) building (temple, monument, etc.), erection"
+        "meaning": {
+          "vi": "(act of) building (temple, monument, etc.), erection"
+        },
+        "romaji": "konryuu"
       },
       {
         "example": "再建",
         "reading": "サイコン",
-        "meaning": "(temple or shrine) rebuilding"
+        "meaning": {
+          "vi": "(temple or shrine) rebuilding"
+        },
+        "romaji": "saikon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "建てる",
         "reading": "たてる",
-        "meaning": "to build, to construct"
+        "meaning": {
+          "en": "to build, to construct"
+        },
+        "romaji": "tateru"
       },
       {
         "example": "建て",
         "reading": "たて",
-        "meaning": "contract, commitment"
+        "meaning": {
+          "en": "contract, commitment"
+        },
+        "romaji": "tate"
       },
       {
         "example": "建前",
         "reading": "たてまえ",
-        "meaning": "face, official stance, public position or attitude (as opposed to private thoughts), ceremony for the erection of the framework of a house"
+        "meaning": {
+          "vi": "face, official stance, public position or attitude (as opposed to private thoughts), ceremony for the erection of the framework of a house"
+        },
+        "romaji": "tatemae"
       },
       {
         "example": "建つ",
         "reading": "たつ",
-        "meaning": "to be erected, to be built"
+        "meaning": {
+          "en": "to be erected, to be built"
+        },
+        "romaji": "tatsu"
       }
     ],
     "radical": {
@@ -420,5 +450,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05efa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5efa.gif",
     "uri": "https://jisho.org/search/%E5%BB%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiến",
+    "kiển"
+  ]
 }

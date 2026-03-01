@@ -369,94 +369,148 @@
       {
         "example": "直",
         "reading": "チョク",
-        "meaning": "direct, honest, frank, straightforward, candid, easygoing, lighthearted, friendly, night duty, night watch, being on duty (in a factory), shift"
+        "meaning": {
+          "en": "direct, honest, frank, straightforward, candid, easygoing, lighthearted, friendly, night duty, night watch, being on duty (in a factory), shift"
+        },
+        "romaji": "choku"
       },
       {
         "example": "直営",
         "reading": "チョクエイ",
-        "meaning": "direct management"
+        "meaning": {
+          "en": "direct management"
+        },
+        "romaji": "chokuei"
       },
       {
         "example": "司直",
         "reading": "シチョク",
-        "meaning": "judge, judiciary, administration of justice, judicial authorities"
+        "meaning": {
+          "en": "judge, judiciary, administration of justice, judicial authorities"
+        },
+        "romaji": "shichoku"
       },
       {
         "example": "愚直",
         "reading": "グチョク",
-        "meaning": "simple honesty, tactless frankness"
+        "meaning": {
+          "vi": "simple honesty, tactless frankness"
+        },
+        "romaji": "guchoku"
       },
       {
         "example": "直",
         "reading": "ジキ",
-        "meaning": "soon, in a moment, before long, shortly, nearby, close, direct, spot transaction, cash transaction"
+        "meaning": {
+          "vi": "soon, in a moment, before long, shortly, nearby, close, direct, spot transaction, cash transaction"
+        },
+        "romaji": "jiki"
       },
       {
         "example": "直に",
         "reading": "ジキニ",
-        "meaning": "immediately, right away, at once, soon, shortly, in a moment, before long, easily, readily"
+        "meaning": {
+          "en": "immediately, right away, at once, soon, shortly, in a moment, before long, easily, readily"
+        },
+        "romaji": "jikini"
       },
       {
         "example": "高直",
         "reading": "コウジキ",
-        "meaning": "expensive, valuable"
+        "meaning": {
+          "vi": "expensive, valuable"
+        },
+        "romaji": "koujiki"
       },
       {
         "example": "バカ正直",
         "reading": "バカショウジキ",
-        "meaning": "honest to a fault, foolishly honest, naively honest"
+        "meaning": {
+          "en": "honest to a fault, foolishly honest, naively honest"
+        },
+        "romaji": "bakashoujiki"
       },
       {
         "example": "直",
         "reading": "ジカ",
-        "meaning": "direct"
+        "meaning": {
+          "en": "direct"
+        },
+        "romaji": "jika"
       },
       {
         "example": "直に",
         "reading": "ジカニ",
-        "meaning": "directly, in person, firsthand"
+        "meaning": {
+          "vi": "directly, in person, firsthand"
+        },
+        "romaji": "jikani"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "直ちに",
         "reading": "ただちに",
-        "meaning": "at once, immediately, right away, without delay, directly (face, lead to, etc.), automatically (mean, result in, etc.)"
+        "meaning": {
+          "en": "at once, immediately, right away, without delay, directly (face, lead to, etc.), automatically (mean, result in, etc.)"
+        },
+        "romaji": "tadachini"
       },
       {
         "example": "直す",
         "reading": "なおす",
-        "meaning": "to repair, to mend, to fix, to correct (a mistake, bad habit, etc.), to put right, to restore, to straighten (e.g. a tie), to tidy up (one's hair, make-up, etc.), to revive (one's spirits), to change, to alter, to convert, to translate, to put back, to put away, to cure, to heal, to move up, to promote, to do over again, to redo"
+        "meaning": {
+          "vi": "to repair, to mend, to fix, to correct (a mistake, bad habit, etc.), to put right, to restore, to straighten (e.g. a tie), to tidy up (one's hair, make-up, etc.), to revive (one's spirits), to change, to alter, to convert, to translate, to put back, to put away, to cure, to heal, to move up, to promote, to do over again, to redo"
+        },
+        "romaji": "naosu"
       },
       {
         "example": "直る",
         "reading": "なおる",
-        "meaning": "to get mended, to be repaired, to be fixed, to return to normal, to recover (e.g. one's temper), to be restored, to improve, to rally, to come right, to be corrected, to get put right, to be rectified, to come right, to cure (itself), to get cured, to sit properly, to be promoted, to rise, to have one's crimes forgiven"
+        "meaning": {
+          "vi": "to get mended, to be repaired, to be fixed, to return to normal, to recover (e.g. one's temper), to be restored, to improve, to rally, to come right, to be corrected, to get put right, to be rectified, to come right, to cure (itself), to get cured, to sit properly, to be promoted, to rise, to have one's crimes forgiven"
+        },
+        "romaji": "naoru"
       },
       {
         "example": "直き",
         "reading": "なおき",
-        "meaning": "straight, upright"
+        "meaning": {
+          "vi": "straight, upright"
+        },
+        "romaji": "naoki"
       },
       {
         "example": "直木三十五賞",
         "reading": "なおきさんじゅうごしょう",
-        "meaning": "Naoki Prize (literary award)"
+        "meaning": {
+          "vi": "Naoki Prize (literary award)"
+        },
+        "romaji": "naokisanjuugoshou"
       },
       {
         "example": "直ぐ",
         "reading": "すぐ",
-        "meaning": "immediately, at once, right away, directly, soon, before long, shortly, easily, readily, without difficulty, right (near), nearby, just (handy), honest, upright, frank, straightforward"
+        "meaning": {
+          "vi": "immediately, at once, right away, directly, soon, before long, shortly, easily, readily, without difficulty, right (near), nearby, just (handy), honest, upright, frank, straightforward"
+        },
+        "romaji": "sugu"
       },
       {
         "example": "直ぐさま",
         "reading": "すぐさま",
-        "meaning": "immediately, promptly"
+        "meaning": {
+          "vi": "immediately, promptly"
+        },
+        "romaji": "sugusama"
       },
       {
         "example": "真直ぐ",
         "reading": "ますぐ",
-        "meaning": "straight (ahead), direct, upright, erect, straightforward, honest, frank"
+        "meaning": {
+          "vi": "straight (ahead), direct, upright, erect, straightforward, honest, frank"
+        },
+        "romaji": "masugu"
       }
     ],
     "radical": {
@@ -473,5 +527,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76f4.gif",
     "uri": "https://jisho.org/search/%E7%9B%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "trị",
+    "trực"
+  ]
 }

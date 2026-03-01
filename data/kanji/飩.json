@@ -15,22 +15,34 @@
       {
         "example": "讃岐うどん",
         "reading": "サヌキウドン",
-        "meaning": "Sanuki udon, thick udon from Kagawa prefecture"
+        "meaning": {
+          "vi": "Sanuki udon, thick udon from Kagawa prefecture"
+        },
+        "romaji": "sanukiudon"
       },
       {
         "example": "焼きうどん",
         "reading": "ヤキウドン",
-        "meaning": "fried udon"
+        "meaning": {
+          "en": "fried udon"
+        },
+        "romaji": "yakiudon"
       },
       {
         "example": "橘飩",
         "reading": "キットン",
-        "meaning": "mashed sweet potatoes (incl. sweetened chestnuts or beans)"
+        "meaning": {
+          "vi": "mashed sweet potatoes (incl. sweetened chestnuts or beans)"
+        },
+        "romaji": "kitton"
       },
       {
         "example": "餛飩",
         "reading": "コントン",
-        "meaning": "steamed manjū, steamed mochi"
+        "meaning": {
+          "en": "steamed manjū, steamed mochi"
+        },
+        "romaji": "konton"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e9.gif",
     "uri": "https://jisho.org/search/%E9%A3%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồn"
+  ]
 }

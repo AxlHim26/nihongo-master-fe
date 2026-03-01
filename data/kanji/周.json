@@ -326,34 +326,52 @@
       {
         "example": "周",
         "reading": "シュウ",
-        "meaning": "counter for laps or circuits, perimeter, Zhou dynasty (of China; approx. 1046-256 BCE), Chou dynasty"
+        "meaning": {
+          "vi": "counter for laps or circuits, perimeter, Zhou dynasty (of China; approx. 1046-256 BCE), Chou dynasty"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "周囲",
         "reading": "シュウイ",
-        "meaning": "surroundings, environs, circumference"
+        "meaning": {
+          "en": "surroundings, environs, circumference"
+        },
+        "romaji": "shuui"
       },
       {
         "example": "円周",
         "reading": "エンシュウ",
-        "meaning": "circumference"
+        "meaning": {
+          "en": "circumference"
+        },
+        "romaji": "enshuu"
       },
       {
         "example": "外周",
         "reading": "ガイシュウ",
-        "meaning": "outer circumference, perimeter, outskirts, periphery"
+        "meaning": {
+          "vi": "outer circumference, perimeter, outskirts, periphery"
+        },
+        "romaji": "gaishuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "周り",
         "reading": "まわり",
-        "meaning": "circumference, girth, surroundings, neighbourhood, neighborhood, vicinity, people surrounding oneself, surrounding circumstances"
+        "meaning": {
+          "vi": "circumference, girth, surroundings, neighbourhood, neighborhood, vicinity, people surrounding oneself, surrounding circumstances"
+        },
+        "romaji": "mawari"
       },
       {
         "example": "回りくどい",
         "reading": "まわりくどい",
-        "meaning": "circuitous, roundabout, indirect"
+        "meaning": {
+          "en": "circuitous, roundabout, indirect"
+        },
+        "romaji": "mawarikudoi"
       }
     ],
     "radical": {
@@ -369,5 +387,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05468.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5468.gif",
     "uri": "https://jisho.org/search/%E5%91%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "chu",
+    "châu"
+  ]
 }

@@ -278,29 +278,44 @@
       {
         "example": "賢",
         "reading": "ケン",
-        "meaning": "intelligence, genius, scholarship, virtue"
+        "meaning": {
+          "vi": "intelligence, genius, scholarship, virtue"
+        },
+        "romaji": "ken"
       },
       {
         "example": "賢人",
         "reading": "ケンジン",
-        "meaning": "wise person, virtuous person, sage, unrefined sake"
+        "meaning": {
+          "vi": "wise person, virtuous person, sage, unrefined sake"
+        },
+        "romaji": "kenjin"
       },
       {
         "example": "遺賢",
         "reading": "イケン",
-        "meaning": "able men left out of office"
+        "meaning": {
+          "en": "able men left out of office"
+        },
+        "romaji": "iken"
       },
       {
         "example": "聖賢",
         "reading": "セイケン",
-        "meaning": "saints and sages"
+        "meaning": {
+          "en": "saints and sages"
+        },
+        "romaji": "seiken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "賢い",
         "reading": "かしこい",
-        "meaning": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good"
+        "meaning": {
+          "vi": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good"
+        },
+        "romaji": "kashikoi"
       }
     ],
     "radical": {
@@ -318,5 +333,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ce2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ce2.gif",
     "uri": "https://jisho.org/search/%E8%B3%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiền",
+    "hiện"
+  ]
 }

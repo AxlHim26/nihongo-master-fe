@@ -18,12 +18,18 @@
       {
         "example": "坏",
         "reading": "つき",
-        "meaning": "shallow bowl"
+        "meaning": {
+          "en": "shallow bowl"
+        },
+        "romaji": "tsuki"
       },
       {
         "example": "高坏",
         "reading": "たかつき",
-        "meaning": "serving table"
+        "meaning": {
+          "en": "serving table"
+        },
+        "romaji": "takatsuki"
       }
     ],
     "radical": {
@@ -41,5 +47,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0574f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/574f.gif",
     "uri": "https://jisho.org/search/%E5%9D%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "bôi",
+    "bùi",
+    "hoài",
+    "hoại",
+    "khôi",
+    "nhưỡng",
+    "phôi"
+  ]
 }

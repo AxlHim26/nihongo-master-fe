@@ -313,54 +313,84 @@
       {
         "example": "係争",
         "reading": "ケイソウ",
-        "meaning": "dispute, contention, conflict, controversy"
+        "meaning": {
+          "vi": "dispute, contention, conflict, controversy"
+        },
+        "romaji": "keisou"
       },
       {
         "example": "係数",
         "reading": "ケイスウ",
-        "meaning": "coefficient, factor, proportional constant"
+        "meaning": {
+          "vi": "coefficient, factor, proportional constant"
+        },
+        "romaji": "keisuu"
       },
       {
         "example": "相関関係",
         "reading": "ソウカンカンケイ",
-        "meaning": "correlation, interrelation, intertwining"
+        "meaning": {
+          "en": "correlation, interrelation, intertwining"
+        },
+        "romaji": "soukankankei"
       },
       {
         "example": "三角関係",
         "reading": "サンカクカンケイ",
-        "meaning": "love triangle, eternal triangle"
+        "meaning": {
+          "en": "love triangle, eternal triangle"
+        },
+        "romaji": "sankakukankei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "係る",
         "reading": "かかる",
-        "meaning": "to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to"
+        "meaning": {
+          "en": "to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to"
+        },
+        "romaji": "kakaru"
       },
       {
         "example": "係",
         "reading": "かかり",
-        "meaning": "charge, duty, person in charge, official, clerk, connection, linking"
+        "meaning": {
+          "vi": "charge, duty, person in charge, official, clerk, connection, linking"
+        },
+        "romaji": "kakari"
       },
       {
         "example": "係員",
         "reading": "かかりいん",
-        "meaning": "person in charge, official, attendant"
+        "meaning": {
+          "vi": "person in charge, official, attendant"
+        },
+        "romaji": "kakariin"
       },
       {
         "example": "口座係",
         "reading": "こうざかかり",
-        "meaning": "teller (in bank)"
+        "meaning": {
+          "en": "teller (in bank)"
+        },
+        "romaji": "kouzakakari"
       },
       {
         "example": "応接係",
         "reading": "おうせつかかり",
-        "meaning": "receptionist, desk clerk"
+        "meaning": {
+          "vi": "receptionist, desk clerk"
+        },
+        "romaji": "ousetsukakari"
       },
       {
         "example": "関わる",
         "reading": "かかわる",
-        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+        "meaning": {
+          "vi": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+        },
+        "romaji": "kakawaru"
       }
     ],
     "radical": {
@@ -381,5 +411,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fc2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fc2.gif",
     "uri": "https://jisho.org/search/%E4%BF%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "hệ"
+  ]
 }

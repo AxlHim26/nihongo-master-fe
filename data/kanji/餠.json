@@ -18,34 +18,52 @@
       {
         "example": "供餅",
         "reading": "クモチ",
-        "meaning": "mochi rice cakes used as offering"
+        "meaning": {
+          "en": "mochi rice cakes used as offering"
+        },
+        "romaji": "kumochi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "餅",
         "reading": "もち",
-        "meaning": "mochi, small rice cake made from glutinous rice"
+        "meaning": {
+          "en": "mochi, small rice cake made from glutinous rice"
+        },
+        "romaji": "mochi"
       },
       {
         "example": "餅網",
         "reading": "もちあみ",
-        "meaning": "grill or grate for toasting rice cakes"
+        "meaning": {
+          "en": "grill or grate for toasting rice cakes"
+        },
+        "romaji": "mochiami"
       },
       {
         "example": "五平餅",
         "reading": "ごへいもち",
-        "meaning": "skewered sweet rice cakes served with soy sauce and miso"
+        "meaning": {
+          "en": "skewered sweet rice cakes served with soy sauce and miso"
+        },
+        "romaji": "goheimochi"
       },
       {
         "example": "高麗餠",
         "reading": "こうらいもち",
-        "meaning": "Kagoshima mochi made from a mixture of rice flour and sweet bean paste, koraimochi"
+        "meaning": {
+          "vi": "Kagoshima mochi made from a mixture of rice flour and sweet bean paste, koraimochi"
+        },
+        "romaji": "kouraimochi"
       },
       {
         "example": "三日の餅",
         "reading": "みかのもちい",
-        "meaning": "Heian-period ceremony where a newlywed groom and bride eat a rice-cake on the third night after the wedding ceremony"
+        "meaning": {
+          "vi": "Heian-period ceremony where a newlywed groom and bride eat a rice-cake on the third night after the wedding ceremony"
+        },
+        "romaji": "mikanomochii"
       }
     ],
     "radical": {
@@ -64,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09920.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9920.gif",
     "uri": "https://jisho.org/search/%E9%A4%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "bính"
+  ]
 }

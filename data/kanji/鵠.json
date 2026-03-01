@@ -19,34 +19,52 @@
       {
         "example": "鵠",
         "reading": "コク",
-        "meaning": "swan, bullseye"
+        "meaning": {
+          "en": "swan, bullseye"
+        },
+        "romaji": "koku"
       },
       {
         "example": "正鵠",
         "reading": "セイコク",
-        "meaning": "bull's-eye, mark, point"
+        "meaning": {
+          "vi": "bull's-eye, mark, point"
+        },
+        "romaji": "seikoku"
       },
       {
         "example": "鴻鵠",
         "reading": "コウコク",
-        "meaning": "large bird, great person, magnanimous person, hero"
+        "meaning": {
+          "vi": "large bird, great person, magnanimous person, hero"
+        },
+        "romaji": "koukoku"
       },
       {
         "example": "鵠",
         "reading": "コク",
-        "meaning": "swan, bullseye"
+        "meaning": {
+          "en": "swan, bullseye"
+        },
+        "romaji": "koku"
       },
       {
         "example": "正鵠",
         "reading": "セイコク",
-        "meaning": "bull's-eye, mark, point"
+        "meaning": {
+          "vi": "bull's-eye, mark, point"
+        },
+        "romaji": "seikoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鵠",
         "reading": "くぐい",
-        "meaning": "swan"
+        "meaning": {
+          "en": "swan"
+        },
+        "romaji": "kugui"
       }
     ],
     "radical": {
@@ -64,5 +82,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d60.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d60.gif",
     "uri": "https://jisho.org/search/%E9%B5%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "cốc",
+    "hộc"
+  ]
 }

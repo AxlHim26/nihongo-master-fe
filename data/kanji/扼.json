@@ -17,17 +17,26 @@
       {
         "example": "扼殺",
         "reading": "ヤクサツ",
-        "meaning": "strangulation (with the hands or arms)"
+        "meaning": {
+          "en": "strangulation (with the hands or arms)"
+        },
+        "romaji": "yakusatsu"
       },
       {
         "example": "扼す",
         "reading": "ヤクス",
-        "meaning": "to command, to dominate, to prevent, to obstruct, to grip, to hold"
+        "meaning": {
+          "vi": "to command, to dominate, to prevent, to obstruct, to grip, to hold"
+        },
+        "romaji": "yakusu"
       },
       {
         "example": "絞扼",
         "reading": "コウヤク",
-        "meaning": "strangulation, constriction, entrapment"
+        "meaning": {
+          "vi": "strangulation, constriction, entrapment"
+        },
+        "romaji": "kouyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0627c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/627c.gif",
     "uri": "https://jisho.org/search/%E6%89%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "ách"
+  ]
 }

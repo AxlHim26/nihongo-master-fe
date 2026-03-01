@@ -18,7 +18,10 @@
       {
         "example": "帯",
         "reading": "おび",
-        "meaning": "obi (kimono sash), obi (strip of paper looped around a book, CD, etc. containing information about the product), band, belt, strip, cingulum, radio or television program broadcast in the same time slot on all or most days"
+        "meaning": {
+          "vi": "obi (kimono sash), obi (strip of paper looped around a book, CD, etc. containing information about the product), band, belt, strip, cingulum, radio or television program broadcast in the same time slot on all or most days"
+        },
+        "romaji": "obi"
       }
     ],
     "radical": {
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e36.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e36.gif",
     "uri": "https://jisho.org/search/%E5%B8%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "đái",
+    "đới"
+  ]
 }

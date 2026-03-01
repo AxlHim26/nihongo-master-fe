@@ -16,7 +16,10 @@
       {
         "example": "涵養",
         "reading": "カンヨウ",
-        "meaning": "cultivation (of character, virtue, etc.), fostering, development (e.g. of a skill), (groundwater) recharge"
+        "meaning": {
+          "vi": "cultivation (of character, virtue, etc.), fostering, development (e.g. of a skill), (groundwater) recharge"
+        },
+        "romaji": "kan'you"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06db5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6db5.gif",
     "uri": "https://jisho.org/search/%E6%B6%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàm",
+    "hám"
+  ]
 }

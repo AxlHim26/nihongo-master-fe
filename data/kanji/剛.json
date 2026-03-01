@@ -17,22 +17,34 @@
       {
         "example": "剛",
         "reading": "ゴウ",
-        "meaning": "strength, toughness, bravery, boldness"
+        "meaning": {
+          "en": "strength, toughness, bravery, boldness"
+        },
+        "romaji": "gou"
       },
       {
         "example": "強情",
         "reading": "ゴウジョウ",
-        "meaning": "obstinate, stubborn, headstrong"
+        "meaning": {
+          "en": "obstinate, stubborn, headstrong"
+        },
+        "romaji": "goujou"
       },
       {
         "example": "強豪",
         "reading": "キョウゴウ",
-        "meaning": "overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team"
+        "meaning": {
+          "vi": "overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team"
+        },
+        "romaji": "kyougou"
       },
       {
         "example": "金剛",
         "reading": "コンゴウ",
-        "meaning": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
+        "meaning": {
+          "vi": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
+        },
+        "romaji": "kongou"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0525b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/525b.gif",
     "uri": "https://jisho.org/search/%E5%89%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cang",
+    "cương"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "妨害",
         "reading": "ボウガイ",
-        "meaning": "obstruction, hindrance, blocking, disturbance, interference, interruption, sabotage, jamming (a signal)"
+        "meaning": {
+          "vi": "obstruction, hindrance, blocking, disturbance, interference, interruption, sabotage, jamming (a signal)"
+        },
+        "romaji": "bougai"
       },
       {
         "example": "妨害機",
         "reading": "ボウガイキ",
-        "meaning": "jammer (e.g. radio signals), interceptor (aircraft)"
+        "meaning": {
+          "vi": "jammer (e.g. radio signals), interceptor (aircraft)"
+        },
+        "romaji": "bougaiki"
       },
       {
         "example": "公妨",
         "reading": "コウボウ",
-        "meaning": "interference with a public servant in the execution of his or her duties"
+        "meaning": {
+          "vi": "interference with a public servant in the execution of his or her duties"
+        },
+        "romaji": "koubou"
       },
       {
         "example": "転び公妨",
         "reading": "コロビコウボウ",
-        "meaning": "falsely provoked arrest for obstruction, police pretending to be knocked down so as to have grounds for an arrest"
+        "meaning": {
+          "vi": "falsely provoked arrest for obstruction, police pretending to be knocked down so as to have grounds for an arrest"
+        },
+        "romaji": "korobikoubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妨げる",
         "reading": "さまたげる",
-        "meaning": "to disturb, to prevent, to obstruct, to hinder"
+        "meaning": {
+          "vi": "to disturb, to prevent, to obstruct, to hinder"
+        },
+        "romaji": "samatageru"
       }
     ],
     "radical": {
@@ -56,5 +71,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a8.gif",
     "uri": "https://jisho.org/search/%E5%A6%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "phương",
+    "phướng"
+  ]
 }

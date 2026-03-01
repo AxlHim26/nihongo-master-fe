@@ -21,29 +21,44 @@
       {
         "example": "椎間板",
         "reading": "ツイカンバン",
-        "meaning": "intervertebral disk"
+        "meaning": {
+          "en": "intervertebral disk"
+        },
+        "romaji": "tsuikanban"
       },
       {
         "example": "椎間孔狭窄",
         "reading": "ツイカンコウキョウサク",
-        "meaning": "vertebral canal stenosis"
+        "meaning": {
+          "en": "vertebral canal stenosis"
+        },
+        "romaji": "tsuikankoukyousaku"
       },
       {
         "example": "脊椎",
         "reading": "セキツイ",
-        "meaning": "spine, vertebral column"
+        "meaning": {
+          "vi": "spine, vertebral column"
+        },
+        "romaji": "sekitsui"
       },
       {
         "example": "腰椎",
         "reading": "ヨウツイ",
-        "meaning": "lumbar vertebra, lumbar vertebrae"
+        "meaning": {
+          "en": "lumbar vertebra, lumbar vertebrae"
+        },
+        "romaji": "youtsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "槌",
         "reading": "つち",
-        "meaning": "hammer, mallet, sledgehammer, gavel"
+        "meaning": {
+          "en": "hammer, mallet, sledgehammer, gavel"
+        },
+        "romaji": "tsuchi"
       }
     ],
     "radical": {
@@ -58,5 +73,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690e.gif",
     "uri": "https://jisho.org/search/%E6%A4%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuy",
+    "chuỳ",
+    "truỳ"
+  ]
 }

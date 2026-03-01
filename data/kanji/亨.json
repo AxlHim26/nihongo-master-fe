@@ -20,17 +20,26 @@
       {
         "example": "亨運",
         "reading": "コウウン",
-        "meaning": "good fortune"
+        "meaning": {
+          "en": "good fortune"
+        },
+        "romaji": "kouun"
       },
       {
         "example": "亨通",
         "reading": "コウツウ",
-        "meaning": "doing well, prosperous"
+        "meaning": {
+          "vi": "doing well, prosperous"
+        },
+        "romaji": "koutsuu"
       },
       {
         "example": "元亨",
         "reading": "ゲンコウ",
-        "meaning": "Genkō era (1321.2.23-1324.12.9)"
+        "meaning": {
+          "en": "Genkō era (1321.2.23-1324.12.9)"
+        },
+        "romaji": "genkou"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +57,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ea8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ea8.gif",
     "uri": "https://jisho.org/search/%E4%BA%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hanh",
+    "hưởng",
+    "phanh"
+  ]
 }

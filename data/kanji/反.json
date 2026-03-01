@@ -385,84 +385,132 @@
       {
         "example": "反",
         "reading": "ハン",
-        "meaning": "anti-, antithesis, fanqie, traditional Chinese spelling system in which two characters are used: the first one for the onset, the second one for rhyme and tone"
+        "meaning": {
+          "vi": "anti-, antithesis, fanqie, traditional Chinese spelling system in which two characters are used: the first one for the onset, the second one for rhyme and tone"
+        },
+        "romaji": "han"
       },
       {
         "example": "反映",
         "reading": "ハンエイ",
-        "meaning": "reflection (of light), reflection (of society, attitudes, etc.), application (of an update, changes, etc.), taking effect"
+        "meaning": {
+          "vi": "reflection (of light), reflection (of society, attitudes, etc.), application (of an update, changes, etc.), taking effect"
+        },
+        "romaji": "han'ei"
       },
       {
         "example": "離反",
         "reading": "リハン",
-        "meaning": "estrangement, alienation, disaffection, desertion, defection, breakaway"
+        "meaning": {
+          "en": "estrangement, alienation, disaffection, desertion, defection, breakaway"
+        },
+        "romaji": "rihan"
       },
       {
         "example": "造反",
         "reading": "ゾウハン",
-        "meaning": "rebellion"
+        "meaning": {
+          "en": "rebellion"
+        },
+        "romaji": "zouhan"
       },
       {
         "example": "反故",
         "reading": "ホゴ",
-        "meaning": "wastepaper, scrap paper"
+        "meaning": {
+          "vi": "wastepaper, scrap paper"
+        },
+        "romaji": "hogo"
       },
       {
         "example": "謀反",
         "reading": "ムホン",
-        "meaning": "rebellion, revolt, insurrection, treason"
+        "meaning": {
+          "en": "rebellion, revolt, insurrection, treason"
+        },
+        "romaji": "muhon"
       },
       {
         "example": "反",
         "reading": "タン",
-        "meaning": "variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length, 300 tsubo (991.74 meters square, 0.24506 acres), six ken (10.91 m)"
+        "meaning": {
+          "en": "variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length, 300 tsubo (991.74 meters square, 0.24506 acres), six ken (10.91 m)"
+        },
+        "romaji": "tan"
       },
       {
         "example": "反物",
         "reading": "タンモノ",
-        "meaning": "fabric, cloth, textiles, drapery, dry-goods, piece goods, measure of kimono material"
+        "meaning": {
+          "vi": "fabric, cloth, textiles, drapery, dry-goods, piece goods, measure of kimono material"
+        },
+        "romaji": "tanmono"
       },
       {
         "example": "減反",
         "reading": "ゲンタン",
-        "meaning": "reduction (of crop size), reduction of acreage (under cultivation)"
+        "meaning": {
+          "vi": "reduction (of crop size), reduction of acreage (under cultivation)"
+        },
+        "romaji": "gentan"
       },
       {
         "example": "一反",
         "reading": "イッタン",
-        "meaning": "one-tenth hectare"
+        "meaning": {
+          "en": "one-tenth hectare"
+        },
+        "romaji": "ittan"
       },
       {
         "example": "反故",
         "reading": "ホゴ",
-        "meaning": "wastepaper, scrap paper"
+        "meaning": {
+          "vi": "wastepaper, scrap paper"
+        },
+        "romaji": "hogo"
       },
       {
         "example": "反古籠",
         "reading": "ホグカゴ",
-        "meaning": "wastebasket"
+        "meaning": {
+          "en": "wastebasket"
+        },
+        "romaji": "hogukago"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "反る",
         "reading": "そる",
-        "meaning": "to warp, to curve, to arch, to bend, to bend backward (body or body part, e.g. fingers)"
+        "meaning": {
+          "vi": "to warp, to curve, to arch, to bend, to bend backward (body or body part, e.g. fingers)"
+        },
+        "romaji": "soru"
       },
       {
         "example": "反らす",
         "reading": "そらす",
-        "meaning": "to bend, to warp, to curve"
+        "meaning": {
+          "vi": "to bend, to warp, to curve"
+        },
+        "romaji": "sorasu"
       },
       {
         "example": "返す",
         "reading": "かえす",
-        "meaning": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly"
+        "meaning": {
+          "vi": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly"
+        },
+        "romaji": "kaesu"
       },
       {
         "example": "返る",
         "reading": "かえる",
-        "meaning": "to return, to come back, to go back, to turn over, to become extremely, to become completely"
+        "meaning": {
+          "vi": "to return, to come back, to go back, to turn over, to become extremely, to become completely"
+        },
+        "romaji": "kaeru"
       }
     ],
     "radical": {
@@ -477,5 +525,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53cd.gif",
     "uri": "https://jisho.org/search/%E5%8F%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiên",
+    "phiến",
+    "phản"
+  ]
 }

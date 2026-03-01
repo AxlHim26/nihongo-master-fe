@@ -18,39 +18,60 @@
       {
         "example": "函蓋",
         "reading": "カンガイ",
-        "meaning": "box and cover"
+        "meaning": {
+          "en": "box and cover"
+        },
+        "romaji": "kangai"
       },
       {
         "example": "函渠",
         "reading": "カンキョ",
-        "meaning": "drain with an oblong cross-section"
+        "meaning": {
+          "en": "drain with an oblong cross-section"
+        },
+        "romaji": "kankyo"
       },
       {
         "example": "製函",
         "reading": "セイカン",
-        "meaning": "(cardboard) box manufacture"
+        "meaning": {
+          "en": "(cardboard) box manufacture"
+        },
+        "romaji": "seikan"
       },
       {
         "example": "経函",
         "reading": "キョウカン",
-        "meaning": "sutra box"
+        "meaning": {
+          "en": "sutra box"
+        },
+        "romaji": "kyoukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "箱",
         "reading": "はこ",
-        "meaning": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        "meaning": {
+          "vi": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        },
+        "romaji": "hako"
       },
       {
         "example": "函館",
         "reading": "はこだて",
-        "meaning": "Hakodate (city in Hokkaido)"
+        "meaning": {
+          "en": "Hakodate (city in Hokkaido)"
+        },
+        "romaji": "hakodate"
       },
       {
         "example": "入れる",
         "reading": "いれる",
-        "meaning": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+        "meaning": {
+          "vi": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+        },
+        "romaji": "ireru"
       }
     ],
     "radical": {
@@ -66,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51fd.gif",
     "uri": "https://jisho.org/search/%E5%87%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàm"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "牝馬",
         "reading": "ヒンバ",
-        "meaning": "mare, filly"
+        "meaning": {
+          "en": "mare, filly"
+        },
+        "romaji": "hinba"
       },
       {
         "example": "牝鷄",
         "reading": "ヒンケイ",
-        "meaning": "hen"
+        "meaning": {
+          "en": "hen"
+        },
+        "romaji": "hinkei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雌",
         "reading": "めす",
-        "meaning": "female (animal, plant)"
+        "meaning": {
+          "vi": "female (animal, plant)"
+        },
+        "romaji": "mesu"
       },
       {
         "example": "メス犬",
         "reading": "メスいぬ",
-        "meaning": "bitch, female dog"
+        "meaning": {
+          "en": "bitch, female dog"
+        },
+        "romaji": "mesuinu"
       },
       {
         "example": "雌",
         "reading": "めす",
-        "meaning": "female (animal, plant)"
+        "meaning": {
+          "vi": "female (animal, plant)"
+        },
+        "romaji": "mesu"
       }
     ],
     "radical": {
@@ -59,5 +74,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0725d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/725d.gif",
     "uri": "https://jisho.org/search/%E7%89%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bẫn",
+    "tẫn"
+  ]
 }

@@ -26,54 +26,84 @@
       {
         "example": "揺曳",
         "reading": "ヨウエイ",
-        "meaning": "flutter, linger"
+        "meaning": {
+          "en": "flutter, linger"
+        },
+        "romaji": "youei"
       },
       {
         "example": "揺蕩",
         "reading": "ヨウトウ",
-        "meaning": "shaking, swaying"
+        "meaning": {
+          "en": "shaking, swaying"
+        },
+        "romaji": "youtou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "揺れる",
         "reading": "ゆれる",
-        "meaning": "to shake, to sway, to rock, to swing, to tremble, to jolt, to pitch, to roll, to flicker, to become unstable, to become unsettled, to be shaken, to waver"
+        "meaning": {
+          "vi": "to shake, to sway, to rock, to swing, to tremble, to jolt, to pitch, to roll, to flicker, to become unstable, to become unsettled, to be shaken, to waver"
+        },
+        "romaji": "yureru"
       },
       {
         "example": "揺る",
         "reading": "ゆる",
-        "meaning": "to shake, to jolt, to rock (cradle), to swing"
+        "meaning": {
+          "en": "to shake, to jolt, to rock (cradle), to swing"
+        },
+        "romaji": "yuru"
       },
       {
         "example": "揺るがす",
         "reading": "ゆるがす",
-        "meaning": "to shake, to swing, to sway, to shock"
+        "meaning": {
+          "en": "to shake, to swing, to sway, to shock"
+        },
+        "romaji": "yurugasu"
       },
       {
         "example": "揺らぐ",
         "reading": "ゆらぐ",
-        "meaning": "to swing, to sway, to shake, to tremble, to waver, to feel shaken, to become unstable"
+        "meaning": {
+          "en": "to swing, to sway, to shake, to tremble, to waver, to feel shaken, to become unstable"
+        },
+        "romaji": "yuragu"
       },
       {
         "example": "揺るぐ",
         "reading": "ゆるぐ",
-        "meaning": "to shake, to waver, to tremble"
+        "meaning": {
+          "en": "to shake, to waver, to tremble"
+        },
+        "romaji": "yurugu"
       },
       {
         "example": "揺する",
         "reading": "ゆする",
-        "meaning": "to shake, to jolt, to rock (cradle), to swing, to blackmail, to extort, to shake down"
+        "meaning": {
+          "en": "to shake, to jolt, to rock (cradle), to swing, to blackmail, to extort, to shake down"
+        },
+        "romaji": "yusuru"
       },
       {
         "example": "揺さぶる",
         "reading": "ゆさぶる",
-        "meaning": "to shake, to jolt, to rock, to swing, to sway, to shake (e.g. the political world), to disturb, to shock, to upset, to put off a batter (by varying one's type of pitch)"
+        "meaning": {
+          "vi": "to shake, to jolt, to rock, to swing, to sway, to shake (e.g. the political world), to disturb, to shock, to upset, to put off a batter (by varying one's type of pitch)"
+        },
+        "romaji": "yusaburu"
       },
       {
         "example": "揺すぶる",
         "reading": "ゆすぶる",
-        "meaning": "to shake, to jolt, to rock, to swing"
+        "meaning": {
+          "en": "to shake, to jolt, to rock, to swing"
+        },
+        "romaji": "yusuburu"
       }
     ],
     "radical": {
@@ -93,5 +123,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63fa.gif",
     "uri": "https://jisho.org/search/%E6%8F%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao",
+    "diêu"
+  ]
 }

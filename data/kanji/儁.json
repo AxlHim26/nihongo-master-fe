@@ -16,12 +16,18 @@
       {
         "example": "俊",
         "reading": "シュン",
-        "meaning": "excellence, genius"
+        "meaning": {
+          "en": "excellence, genius"
+        },
+        "romaji": "shun"
       },
       {
         "example": "俊才",
         "reading": "シュンサイ",
-        "meaning": "prodigy, talented person, person of exceptional talent, genius"
+        "meaning": {
+          "vi": "prodigy, talented person, person of exceptional talent, genius"
+        },
+        "romaji": "shunsai"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05101.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5101.gif",
     "uri": "https://jisho.org/search/%E5%84%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuấn"
+  ]
 }

@@ -308,44 +308,68 @@
       {
         "example": "深刻",
         "reading": "シンコク",
-        "meaning": "serious, severe, grave, acute"
+        "meaning": {
+          "en": "serious, severe, grave, acute"
+        },
+        "romaji": "shinkoku"
       },
       {
         "example": "深海",
         "reading": "シンカイ",
-        "meaning": "deep sea, depths of the sea, ocean depths"
+        "meaning": {
+          "vi": "deep sea, depths of the sea, ocean depths"
+        },
+        "romaji": "shinkai"
       },
       {
         "example": "以深",
         "reading": "イシン",
-        "meaning": "... or deeper, ... and below"
+        "meaning": {
+          "vi": "... or deeper, ... and below"
+        },
+        "romaji": "ishin"
       },
       {
         "example": "海深",
         "reading": "カイシン",
-        "meaning": "depth of the sea"
+        "meaning": {
+          "vi": "depth of the sea"
+        },
+        "romaji": "kaishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "深い",
         "reading": "ふかい",
-        "meaning": "deep, profound, dense, thick, close (relationship), intense, strong, late"
+        "meaning": {
+          "vi": "deep, profound, dense, thick, close (relationship), intense, strong, late"
+        },
+        "romaji": "fukai"
       },
       {
         "example": "深入り",
         "reading": "ふかいり",
-        "meaning": "getting deeply involved, going deeply into, going too far (into something)"
+        "meaning": {
+          "vi": "getting deeply involved, going deeply into, going too far (into something)"
+        },
+        "romaji": "fukairi"
       },
       {
         "example": "深まる",
         "reading": "ふかまる",
-        "meaning": "to deepen, to heighten, to intensify"
+        "meaning": {
+          "vi": "to deepen, to heighten, to intensify"
+        },
+        "romaji": "fukamaru"
       },
       {
         "example": "深める",
         "reading": "ふかめる",
-        "meaning": "to deepen, to heighten, to intensify"
+        "meaning": {
+          "vi": "to deepen, to heighten, to intensify"
+        },
+        "romaji": "fukameru"
       }
     ],
     "radical": {
@@ -366,5 +390,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06df1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6df1.gif",
     "uri": "https://jisho.org/search/%E6%B7%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thâm"
+  ]
 }

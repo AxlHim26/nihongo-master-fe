@@ -17,17 +17,26 @@
       {
         "example": "昆虫",
         "reading": "コンチュウ",
-        "meaning": "insect, bug"
+        "meaning": {
+          "en": "insect, bug"
+        },
+        "romaji": "konchuu"
       },
       {
         "example": "昆布",
         "reading": "コンブ",
-        "meaning": "kombu (usu. Saccharina japonica), konbu, kelp, any edible species from the family Laminariaceae"
+        "meaning": {
+          "vi": "kombu (usu. Saccharina japonica), konbu, kelp, any edible species from the family Laminariaceae"
+        },
+        "romaji": "konbu"
       },
       {
         "example": "後昆",
         "reading": "コウコン",
-        "meaning": "grandchildren, posterity"
+        "meaning": {
+          "vi": "grandchildren, posterity"
+        },
+        "romaji": "koukon"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06606.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6606.gif",
     "uri": "https://jisho.org/search/%E6%98%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "côn"
+  ]
 }

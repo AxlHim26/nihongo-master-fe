@@ -20,54 +20,84 @@
       {
         "example": "霊",
         "reading": "レイ",
-        "meaning": "soul, spirit, departed soul, ghost"
+        "meaning": {
+          "vi": "soul, spirit, departed soul, ghost"
+        },
+        "romaji": "rei"
       },
       {
         "example": "霊園",
         "reading": "レイエン",
-        "meaning": "(garden) cemetery, park-style cemetery, memorial park"
+        "meaning": {
+          "vi": "(garden) cemetery, park-style cemetery, memorial park"
+        },
+        "romaji": "reien"
       },
       {
         "example": "心霊",
         "reading": "シンレイ",
-        "meaning": "spirit (e.g. human spirit), soul, spirit, ghost, ethereal being"
+        "meaning": {
+          "vi": "spirit (e.g. human spirit), soul, spirit, ghost, ethereal being"
+        },
+        "romaji": "shinrei"
       },
       {
         "example": "英霊",
         "reading": "エイレイ",
-        "meaning": "spirits of war dead, person of great ability, soul of a talented person"
+        "meaning": {
+          "vi": "spirits of war dead, person of great ability, soul of a talented person"
+        },
+        "romaji": "eirei"
       },
       {
         "example": "霊",
         "reading": "リョウ",
-        "meaning": "vengeful spirit, revengeful ghost"
+        "meaning": {
+          "vi": "vengeful spirit, revengeful ghost"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "霊異",
         "reading": "レイイ",
-        "meaning": "miracle, wonder, wondrous thing"
+        "meaning": {
+          "en": "miracle, wonder, wondrous thing"
+        },
+        "romaji": "reii"
       },
       {
         "example": "怨霊",
         "reading": "オンリョウ",
-        "meaning": "revengeful ghost, apparition"
+        "meaning": {
+          "vi": "revengeful ghost, apparition"
+        },
+        "romaji": "onryou"
       },
       {
         "example": "新精霊",
         "reading": "アラショウリョウ",
-        "meaning": "spirit of someone on the first Obon after their death"
+        "meaning": {
+          "vi": "spirit of someone on the first Obon after their death"
+        },
+        "romaji": "arashouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魂",
         "reading": "たましい",
-        "meaning": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        "meaning": {
+          "vi": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        },
+        "romaji": "tamashii"
       },
       {
         "example": "魂送り",
         "reading": "たまおくり",
-        "meaning": "sending off the spirits of the dead"
+        "meaning": {
+          "vi": "sending off the spirits of the dead"
+        },
+        "romaji": "tamaokuri"
       }
     ],
     "radical": {
@@ -84,5 +114,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0970a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/970a.gif",
     "uri": "https://jisho.org/search/%E9%9C%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "linh"
+  ]
 }

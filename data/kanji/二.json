@@ -21,7 +21,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_a.mp3"
-        }
+        },
+        "meaningVN": "hai giờ",
+        "hanViet": "nhị thì gian",
+        "hanVietExplain": "二 (nhị: hai, 2) + 時 (thì: lúc) + 間 (gian: khoảng không gian) → hai giờ"
       },
       {
         "japanese": "二月（にがつ）",
@@ -34,7 +37,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_b.mp3"
-        }
+        },
+        "meaningVN": "tháng hai",
+        "hanViet": "nhị nguyệt",
+        "hanVietExplain": "二 (nhị: hai, 2) + 月 (nguyệt: Mặt Trăng) → tháng hai"
       },
       {
         "japanese": "二枚目（にまいめ）",
@@ -47,7 +53,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_c.mp3"
-        }
+        },
+        "meaningVN": "thứ hai (vật phẳng)",
+        "hanViet": "nhị mai mục",
+        "hanVietExplain": "二 (nhị: hai, 2) + 枚 (mai: cây, quả, trái) + 目 (mục: mắt) → thứ hai (vật phẳng)"
       },
       {
         "japanese": "二つ（ふたつ）",
@@ -60,7 +69,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_d.mp3"
-        }
+        },
+        "meaningVN": "hai (miếng)",
+        "hanViet": "nhị つ",
+        "hanVietExplain": "nhị: hai, 2"
       },
       {
         "japanese": "二人（ふたり）",
@@ -73,7 +85,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/2_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/2_06_e.mp3"
-        }
+        },
+        "meaningVN": "hai người",
+        "hanViet": "nhị nhân",
+        "hanVietExplain": "二 (nhị: hai, 2) + 人 (nhân: người) → hai người"
       }
     ],
     "kunyomi_ja": "ふた、ふたつ、ふたり",
@@ -307,69 +322,147 @@
       {
         "example": "二",
         "reading": "ニ",
-        "meaning": "hai, 2"
+        "meaning": {
+          "en": "hai, 2"
+        },
+        "meaningVN": "hai, 2",
+        "hanViet": "nhị",
+        "hanVietExplain": "nhị: hai, 2",
+        "romaji": "ni"
       },
       {
         "example": "二院",
         "reading": "ニイン",
-        "meaning": "lưỡng viện (hai viện lập pháp)"
+        "meaning": {
+          "vi": "lưỡng viện (hai viện lập pháp)"
+        },
+        "meaningVN": "lưỡng viện (hai viện lập pháp)",
+        "hanViet": "nhị viện",
+        "hanVietExplain": "二 (nhị: hai, 2) + 院 (viện: tường bao chung quanh) → lưỡng viện (hai viện lập pháp)",
+        "romaji": "niin"
       },
       {
         "example": "一二",
         "reading": "イチニ",
-        "meaning": "thứ nhất và thứ hai, vài"
+        "meaning": {
+          "vi": "thứ nhất và thứ hai, vài"
+        },
+        "meaningVN": "thứ nhất và thứ hai, vài",
+        "hanViet": "nhất nhị",
+        "hanVietExplain": "一 (nhất: một, 1) + 二 (nhị: hai, 2) → thứ nhất và thứ hai, vài",
+        "romaji": "ichini"
       },
       {
         "example": "十二",
         "reading": "ジュウニ",
-        "meaning": "mười hai, 12"
+        "meaning": {
+          "vi": "mười hai, 12"
+        },
+        "meaningVN": "mười hai, 12",
+        "hanViet": "thập nhị",
+        "hanVietExplain": "十 (thập: mười, 10) + 二 (nhị: hai, 2) → mười hai, 12",
+        "romaji": "juuni"
       },
       {
         "example": "次男",
         "reading": "ジナン",
-        "meaning": "con trai thứ hai"
+        "meaning": {
+          "vi": "con trai thứ hai"
+        },
+        "meaningVN": "con trai thứ hai",
+        "hanViet": "thứ nam",
+        "hanVietExplain": "次 (thứ: sau (không phải đầu tiên), tiếp theo) + 男 (nam: đàn ông, con trai) → con trai thứ hai",
+        "romaji": "jinan"
       },
       {
         "example": "二黒",
         "reading": "ジコク",
-        "meaning": "sao thứ hai trong chín cung (tương ứng Thổ tinh, hướng tây nam)"
+        "meaning": {
+          "vi": "sao thứ hai trong chín cung (tương ứng Thổ tinh, hướng tây nam)"
+        },
+        "meaningVN": "sao thứ hai trong chín cung (tương ứng thổ tinh, hướng tây nam)",
+        "hanViet": "nhị hắc",
+        "hanVietExplain": "二 (nhị: hai, 2) + 黒 (hắc: ?) → sao thứ hai trong chín cung (tương ứng thổ tinh, hướng tây nam)",
+        "romaji": "jikoku"
       },
       {
         "example": "不二",
         "reading": "フジ",
-        "meaning": "hai mặt của một đồng xu, giống nhau (trông khác), vô song, không ai sánh bằng"
+        "meaning": {
+          "vi": "hai mặt của một đồng xu, giống nhau (trông khác), vô song, không ai sánh bằng"
+        },
+        "meaningVN": "hai mặt của một đồng xu, giống nhau (trông khác), vô song, không ai sánh bằng",
+        "hanViet": "bưu nhị",
+        "hanVietExplain": "不 (bưu: không, chẳng) + 二 (nhị: hai, 2) → hai mặt của một đồng xu, giống nhau (trông khác), vô song, không ai sánh bằng",
+        "romaji": "fuji"
       },
       {
         "example": "唯一不二",
         "reading": "ユイイツフジ",
-        "meaning": "duy nhất, độc nhất"
+        "meaning": {
+          "vi": "duy nhất, độc nhất"
+        },
+        "meaningVN": "duy nhất, độc nhất",
+        "hanViet": "duy nhất bưu nhị",
+        "hanVietExplain": "唯 (duy: chỉ có) + 一 (nhất: một, 1) + 不 (bưu: không, chẳng) + 二 (nhị: hai, 2) → duy nhất, độc nhất",
+        "romaji": "yuiitsufuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "二",
         "reading": "に",
-        "meaning": "hai, 2"
+        "meaning": {
+          "en": "hai, 2"
+        },
+        "meaningVN": "hai, 2",
+        "hanViet": "nhị",
+        "hanVietExplain": "nhị: hai, 2",
+        "romaji": "ni"
       },
       {
         "example": "二重",
         "reading": "にじゅう",
-        "meaning": "đôi, gấp đôi, hai lớp, mắt hai mí"
+        "meaning": {
+          "vi": "đôi, gấp đôi, hai lớp, mắt hai mí"
+        },
+        "meaningVN": "đôi, gấp đôi, hai lớp, mắt hai mí",
+        "hanViet": "nhị trùng",
+        "hanVietExplain": "二 (nhị: hai, 2) + 重 (trùng: trùng, lặp lại) → đôi, gấp đôi, hai lớp, mắt hai mí",
+        "romaji": "nijuu"
       },
       {
         "example": "二つ",
         "reading": "ふたつ",
-        "meaning": "hai"
+        "meaning": {
+          "en": "hai"
+        },
+        "meaningVN": "hai",
+        "hanViet": "nhị つ",
+        "hanVietExplain": "nhị: hai, 2",
+        "romaji": "futatsu"
       },
       {
         "example": "二つ目",
         "reading": "ふたつめ",
-        "meaning": "thứ hai (trong chuỗi)"
+        "meaning": {
+          "vi": "thứ hai (trong chuỗi)"
+        },
+        "meaningVN": "thứ hai (trong chuỗi)",
+        "hanViet": "nhị つ mục",
+        "hanVietExplain": "二 (nhị: hai, 2) + 目 (mục: mắt) → thứ hai (trong chuỗi)",
+        "romaji": "futatsume"
       },
       {
         "example": "再び",
         "reading": "ふたたび",
-        "meaning": "lại, một lần nữa"
+        "meaning": {
+          "vi": "lại, một lần nữa"
+        },
+        "meaningVN": "lại, một lần nữa",
+        "hanViet": "tái び",
+        "hanVietExplain": "tái: lại, lần nữa, làm lại",
+        "romaji": "futatabi"
       }
     ],
     "radical": {
@@ -383,5 +476,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e8c.gif",
     "uri": "https://jisho.org/search/%E4%BA%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhị"
+  ],
+  "meaningVN": "hai",
+  "hanVietExplain": "nhị: hai, 2"
 }

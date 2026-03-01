@@ -336,29 +336,44 @@
       {
         "example": "形",
         "reading": "カタチ",
-        "meaning": "form, shape, figure, visage"
+        "meaning": {
+          "vi": "form, shape, figure, visage"
+        },
+        "romaji": "katachi"
       },
       {
         "example": "容易",
         "reading": "ヨウイ",
-        "meaning": "easy, simple, plain"
+        "meaning": {
+          "vi": "easy, simple, plain"
+        },
+        "romaji": "youi"
       },
       {
         "example": "陣容",
         "reading": "ジンヨウ",
-        "meaning": "battle formation, battle array, lineup (of a team, etc.), cast, staff, team structure"
+        "meaning": {
+          "vi": "battle formation, battle array, lineup (of a team, etc.), cast, staff, team structure"
+        },
+        "romaji": "jin'you"
       },
       {
         "example": "受容",
         "reading": "ジュヨウ",
-        "meaning": "reception"
+        "meaning": {
+          "vi": "reception"
+        },
+        "romaji": "juyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "入れる",
         "reading": "いれる",
-        "meaning": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+        "meaning": {
+          "vi": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+        },
+        "romaji": "ireru"
       }
     ],
     "radical": {
@@ -377,5 +392,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb9.gif",
     "uri": "https://jisho.org/search/%E5%AE%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "dong",
+    "dung"
+  ]
 }

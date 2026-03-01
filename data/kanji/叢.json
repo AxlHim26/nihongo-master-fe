@@ -20,54 +20,84 @@
       {
         "example": "叢",
         "reading": "ソウ",
-        "meaning": "plexus, rete"
+        "meaning": {
+          "vi": "plexus, rete"
+        },
+        "romaji": "sou"
       },
       {
         "example": "叢書",
         "reading": "ソウショ",
-        "meaning": "series (of publications), library (set of books)"
+        "meaning": {
+          "vi": "series (of publications), library (set of books)"
+        },
+        "romaji": "sousho"
       },
       {
         "example": "神経叢",
         "reading": "シンケイソウ",
-        "meaning": "nerve plexus"
+        "meaning": {
+          "vi": "nerve plexus"
+        },
+        "romaji": "shinkeisou"
       },
       {
         "example": "頚神経叢",
         "reading": "ケイシンケイソウ",
-        "meaning": "cervical plexus"
+        "meaning": {
+          "vi": "cervical plexus"
+        },
+        "romaji": "keishinkeisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "草むら",
         "reading": "くさむら",
-        "meaning": "the grass, grassy place (esp. with long dense grass)"
+        "meaning": {
+          "vi": "the grass, grassy place (esp. with long dense grass)"
+        },
+        "romaji": "kusamura"
       },
       {
         "example": "群がる",
         "reading": "むらがる",
-        "meaning": "to swarm, to gather"
+        "meaning": {
+          "en": "to swarm, to gather"
+        },
+        "romaji": "muragaru"
       },
       {
         "example": "群",
         "reading": "むら",
-        "meaning": "gathering"
+        "meaning": {
+          "en": "gathering"
+        },
+        "romaji": "mura"
       },
       {
         "example": "群がる",
         "reading": "むらがる",
-        "meaning": "to swarm, to gather"
+        "meaning": {
+          "en": "to swarm, to gather"
+        },
+        "romaji": "muragaru"
       },
       {
         "example": "竹叢",
         "reading": "たかむら",
-        "meaning": "bamboo grove"
+        "meaning": {
+          "en": "bamboo grove"
+        },
+        "romaji": "takamura"
       },
       {
         "example": "杉叢",
         "reading": "すぎむら",
-        "meaning": "thicket of cedar trees"
+        "meaning": {
+          "en": "thicket of cedar trees"
+        },
+        "romaji": "sugimura"
       }
     ],
     "radical": {
@@ -85,5 +115,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e2.gif",
     "uri": "https://jisho.org/search/%E5%8F%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tùng"
+  ]
 }

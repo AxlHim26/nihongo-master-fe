@@ -16,12 +16,18 @@
       {
         "example": "凄惨",
         "reading": "セイサン",
-        "meaning": "rùng rợn, kinh hoàng"
+        "meaning": {
+          "vi": "rùng rợn, kinh hoàng"
+        },
+        "romaji": "seisan"
       },
       {
         "example": "凄絶",
         "reading": "セイゼツ",
-        "meaning": "cực kỳ rùng rợn, bạo lực, đẫm máu, dữ dội"
+        "meaning": {
+          "vi": "cực kỳ rùng rợn, bạo lực, đẫm máu, dữ dội"
+        },
+        "romaji": "seizetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060bd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60bd.gif",
     "uri": "https://jisho.org/search/%E6%82%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "thê"
+  ]
 }

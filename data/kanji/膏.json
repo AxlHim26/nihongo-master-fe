@@ -16,34 +16,52 @@
       {
         "example": "膏血",
         "reading": "コウケツ",
-        "meaning": "(hard-earned rewards of) sweat and blood"
+        "meaning": {
+          "en": "(hard-earned rewards of) sweat and blood"
+        },
+        "romaji": "kouketsu"
       },
       {
         "example": "膏肓",
         "reading": "コウコウ",
-        "meaning": "innermost part of the body (where a disease cannot be treated)"
+        "meaning": {
+          "vi": "innermost part of the body (where a disease cannot be treated)"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "硬膏",
         "reading": "コウコウ",
-        "meaning": "plaster (type of bandage)"
+        "meaning": {
+          "vi": "plaster (type of bandage)"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "石膏",
         "reading": "セッコウ",
-        "meaning": "plaster, gypsum, calcium sulphate (sulfate)"
+        "meaning": {
+          "vi": "plaster, gypsum, calcium sulphate (sulfate)"
+        },
+        "romaji": "sekkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脂",
         "reading": "あぶら",
-        "meaning": "fat, tallow, lard, grease"
+        "meaning": {
+          "en": "fat, tallow, lard, grease"
+        },
+        "romaji": "abura"
       },
       {
         "example": "脂汗",
         "reading": "あぶらあせ",
-        "meaning": "cold sweat, greasy sweat"
+        "meaning": {
+          "en": "cold sweat, greasy sweat"
+        },
+        "romaji": "aburaase"
       }
     ],
     "radical": {
@@ -64,5 +82,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0818f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/818f.gif",
     "uri": "https://jisho.org/search/%E8%86%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cao",
+    "cáo"
+  ]
 }

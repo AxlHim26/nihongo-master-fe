@@ -21,12 +21,18 @@
       {
         "example": "嫉む",
         "reading": "そねむ",
-        "meaning": "ghen tị, đố kỵ, bực bội"
+        "meaning": {
+          "vi": "ghen tị, đố kỵ, bực bội"
+        },
+        "romaji": "sonemu"
       },
       {
         "example": "妬む",
         "reading": "ねたむ",
-        "meaning": "ghen tị, đố kỵ, bực bội"
+        "meaning": {
+          "vi": "ghen tị, đố kỵ, bực bội"
+        },
+        "romaji": "netamu"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac9.gif",
     "uri": "https://jisho.org/search/%E5%AB%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tật"
+  ]
 }

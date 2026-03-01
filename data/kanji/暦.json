@@ -20,54 +20,84 @@
       {
         "example": "暦",
         "reading": "コヨミ",
-        "meaning": "calendar, almanac"
+        "meaning": {
+          "en": "calendar, almanac"
+        },
+        "romaji": "koyomi"
       },
       {
         "example": "暦年",
         "reading": "レキネン",
-        "meaning": "calendar year, civil year, time, year after year"
+        "meaning": {
+          "en": "calendar year, civil year, time, year after year"
+        },
+        "romaji": "rekinen"
       },
       {
         "example": "還暦",
         "reading": "カンレキ",
-        "meaning": "kanreki, one's 60th birthday (or 61st in the traditional age reckoning system) when one has lived through a full sexagenary cycle"
+        "meaning": {
+          "en": "kanreki, one's 60th birthday (or 61st in the traditional age reckoning system) when one has lived through a full sexagenary cycle"
+        },
+        "romaji": "kanreki"
       },
       {
         "example": "永暦",
         "reading": "エイレキ",
-        "meaning": "Yongli era (of emperor Yongli of Southern Ming; 1646-1662)"
+        "meaning": {
+          "vi": "Yongli era (of emperor Yongli of Southern Ming; 1646-1662)"
+        },
+        "romaji": "eireki"
       },
       {
         "example": "暦応",
         "reading": "リャクオウ",
-        "meaning": "Ryakuō era (of the Northern Court; 1338.8.28-1342.4.27), Rekiō era"
+        "meaning": {
+          "en": "Ryakuō era (of the Northern Court; 1338.8.28-1342.4.27), Rekiō era"
+        },
+        "romaji": "ryakuou"
       },
       {
         "example": "暦仁",
         "reading": "リャクニン",
-        "meaning": "Ryakunin era (1238.11.23-1239.2.7)"
+        "meaning": {
+          "en": "Ryakunin era (1238.11.23-1239.2.7)"
+        },
+        "romaji": "ryakunin"
       },
       {
         "example": "永暦",
         "reading": "エイリャク",
-        "meaning": "Eiryaku era (1160.1.10-1161.9.4)"
+        "meaning": {
+          "en": "Eiryaku era (1160.1.10-1161.9.4)"
+        },
+        "romaji": "eiryaku"
       },
       {
         "example": "康暦",
         "reading": "コウリャク",
-        "meaning": "Kōryaku era (of the Northern Court; 1379.3.22-1381.2.24)"
+        "meaning": {
+          "en": "Kōryaku era (of the Northern Court; 1379.3.22-1381.2.24)"
+        },
+        "romaji": "kouryaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暦",
         "reading": "こよみ",
-        "meaning": "calendar, almanac"
+        "meaning": {
+          "en": "calendar, almanac"
+        },
+        "romaji": "koyomi"
       },
       {
         "example": "暦改正",
         "reading": "こよみかいせい",
-        "meaning": "calendar reform"
+        "meaning": {
+          "en": "calendar reform"
+        },
+        "romaji": "koyomikaisei"
       }
     ],
     "radical": {
@@ -85,5 +115,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66a6.gif",
     "uri": "https://jisho.org/search/%E6%9A%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "lịch"
+  ]
 }

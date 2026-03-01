@@ -19,54 +19,84 @@
       {
         "example": "竜",
         "reading": "リュウ",
-        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        "meaning": {
+          "vi": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "竜王",
         "reading": "リュウオウ",
-        "meaning": "Dragon King, promoted rook"
+        "meaning": {
+          "vi": "Dragon King, promoted rook"
+        },
+        "romaji": "ryuuou"
       },
       {
         "example": "青龍",
         "reading": "セイリョウ",
-        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        "meaning": {
+          "vi": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        },
+        "romaji": "seiryou"
       },
       {
         "example": "応竜",
         "reading": "オウリュウ",
-        "meaning": "Yinglong, dragon and rain deity in Chinese mythology"
+        "meaning": {
+          "en": "Yinglong, dragon and rain deity in Chinese mythology"
+        },
+        "romaji": "ouryuu"
       },
       {
         "example": "竜",
         "reading": "リュウ",
-        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        "meaning": {
+          "vi": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "竜駕",
         "reading": "リョウガ",
-        "meaning": "imperial carriage"
+        "meaning": {
+          "vi": "imperial carriage"
+        },
+        "romaji": "ryouga"
       },
       {
         "example": "青龍",
         "reading": "セイリョウ",
-        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        "meaning": {
+          "vi": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        },
+        "romaji": "seiryou"
       },
       {
         "example": "蛟竜",
         "reading": "コウリョウ",
-        "meaning": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+        "meaning": {
+          "vi": "mizuchi, aquatic, dragon-like beast with four feet, horns and poisonous breath, unfulfilled genius, dormant talent"
+        },
+        "romaji": "kouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "竜",
         "reading": "りゅう",
-        "meaning": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        "meaning": {
+          "vi": "dragon (esp. a Chinese dragon), naga, semi-divine human-cobra chimera in Hindu and Buddhist mythology, promoted rook"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "竜巻",
         "reading": "たつまき",
-        "meaning": "tornado, whirlwind, waterspout, twister"
+        "meaning": {
+          "vi": "tornado, whirlwind, waterspout, twister"
+        },
+        "romaji": "tatsumaki"
       }
     ],
     "radical": {
@@ -81,5 +111,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f8d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f8d.gif",
     "uri": "https://jisho.org/search/%E9%BE%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "long",
+    "lũng",
+    "sủng"
+  ]
 }

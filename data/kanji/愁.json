@@ -20,39 +20,60 @@
       {
         "example": "愁傷",
         "reading": "シュウショウ",
-        "meaning": "grief, sorrow"
+        "meaning": {
+          "en": "grief, sorrow"
+        },
+        "romaji": "shuushou"
       },
       {
         "example": "愁色",
         "reading": "シュウショク",
-        "meaning": "worried look"
+        "meaning": {
+          "en": "worried look"
+        },
+        "romaji": "shuushoku"
       },
       {
         "example": "哀愁",
         "reading": "アイシュウ",
-        "meaning": "pathos, sorrow, grief"
+        "meaning": {
+          "vi": "pathos, sorrow, grief"
+        },
+        "romaji": "aishuu"
       },
       {
         "example": "幽愁",
         "reading": "ユウシュウ",
-        "meaning": "deep contemplation, melancholy, gloom"
+        "meaning": {
+          "vi": "deep contemplation, melancholy, gloom"
+        },
+        "romaji": "yuushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憂える",
         "reading": "うれえる",
-        "meaning": "to worry about, to be anxious about, to be concerned about, to lament, to grieve, to feel sorrow for"
+        "meaning": {
+          "en": "to worry about, to be anxious about, to be concerned about, to lament, to grieve, to feel sorrow for"
+        },
+        "romaji": "ureeru"
       },
       {
         "example": "憂い",
         "reading": "うれい",
-        "meaning": "sorrow, grief, anguish, distress, anxiety, worry, trouble, affliction, fear, misgivings"
+        "meaning": {
+          "en": "sorrow, grief, anguish, distress, anxiety, worry, trouble, affliction, fear, misgivings"
+        },
+        "romaji": "urei"
       },
       {
         "example": "憂い顔",
         "reading": "うれいがお",
-        "meaning": "sad face, sorrowful face, anxious look, sad countenance"
+        "meaning": {
+          "en": "sad face, sorrowful face, anxious look, sad countenance"
+        },
+        "romaji": "ureigao"
       }
     ],
     "radical": {
@@ -72,5 +93,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06101.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6101.gif",
     "uri": "https://jisho.org/search/%E6%84%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "sầu"
+  ]
 }

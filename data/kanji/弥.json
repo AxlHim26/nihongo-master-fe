@@ -23,64 +23,100 @@
       {
         "example": "弥撒",
         "reading": "ミサ",
-        "meaning": "(Catholic) Mass"
+        "meaning": {
+          "en": "(Catholic) Mass"
+        },
+        "romaji": "misa"
       },
       {
         "example": "弥勒",
         "reading": "ミロク",
-        "meaning": "Maitreya (Bodhisattva), Miroku"
+        "meaning": {
+          "en": "Maitreya (Bodhisattva), Miroku"
+        },
+        "romaji": "miroku"
       },
       {
         "example": "沙弥",
         "reading": "シャミ",
-        "meaning": "male Buddhist novice"
+        "meaning": {
+          "en": "male Buddhist novice"
+        },
+        "romaji": "shami"
       },
       {
         "example": "伊邪那美",
         "reading": "イザナミ",
-        "meaning": "Izanami (Shinto goddess)"
+        "meaning": {
+          "en": "Izanami (Shinto goddess)"
+        },
+        "romaji": "izanami"
       },
       {
         "example": "弥久",
         "reading": "ビキュウ",
-        "meaning": "extending over a long time"
+        "meaning": {
+          "en": "extending over a long time"
+        },
+        "romaji": "bikyuu"
       },
       {
         "example": "弥縫",
         "reading": "ビホウ",
-        "meaning": "patching up"
+        "meaning": {
+          "vi": "patching up"
+        },
+        "romaji": "bihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弥生",
         "reading": "やよい",
-        "meaning": "third month of the lunar calendar, Yayoi period (ca. 300 BCE-300 CE), Yayoi culture, thick growth (of grass, etc.)"
+        "meaning": {
+          "vi": "third month of the lunar calendar, Yayoi period (ca. 300 BCE-300 CE), Yayoi culture, thick growth (of grass, etc.)"
+        },
+        "romaji": "yayoi"
       },
       {
         "example": "弥栄",
         "reading": "いやさか",
-        "meaning": "prosperity, prospering, flourishing, best of luck, all the best, hurray, hoorah"
+        "meaning": {
+          "vi": "prosperity, prospering, flourishing, best of luck, all the best, hurray, hoorah"
+        },
+        "romaji": "iyasaka"
       },
       {
         "example": "弥",
         "reading": "いや",
-        "meaning": "more and more, increasingly, extremely, very"
+        "meaning": {
+          "en": "more and more, increasingly, extremely, very"
+        },
+        "romaji": "iya"
       },
       {
         "example": "弥生",
         "reading": "やよい",
-        "meaning": "third month of the lunar calendar, Yayoi period (ca. 300 BCE-300 CE), Yayoi culture, thick growth (of grass, etc.)"
+        "meaning": {
+          "vi": "third month of the lunar calendar, Yayoi period (ca. 300 BCE-300 CE), Yayoi culture, thick growth (of grass, etc.)"
+        },
+        "romaji": "yayoi"
       },
       {
         "example": "愈",
         "reading": "いよいよ",
-        "meaning": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time"
+        "meaning": {
+          "vi": "more and more, all the more, increasingly, at last, finally, beyond doubt, (at the) last moment, worst possible time"
+        },
+        "romaji": "iyoiyo"
       },
       {
         "example": "渡る",
         "reading": "わたる",
-        "meaning": "to cross over, to go across, to extend, to cover, to range, to span"
+        "meaning": {
+          "vi": "to cross over, to go across, to extend, to cover, to range, to span"
+        },
+        "romaji": "wataru"
       }
     ],
     "radical": {
@@ -98,5 +134,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f25.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f25.gif",
     "uri": "https://jisho.org/search/%E5%BC%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "my"
+  ]
 }

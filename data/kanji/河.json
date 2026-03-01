@@ -302,44 +302,68 @@
       {
         "example": "河",
         "reading": "ホー",
-        "meaning": "discarded tiles, discards"
+        "meaning": {
+          "en": "discarded tiles, discards"
+        },
+        "romaji": "hoo"
       },
       {
         "example": "川",
         "reading": "カワ",
-        "meaning": "sông, suối"
+        "meaning": {
+          "vi": "sông, suối"
+        },
+        "romaji": "kawa"
       },
       {
         "example": "星河",
         "reading": "セイガ",
-        "meaning": "Ngân Hà"
+        "meaning": {
+          "vi": "Ngân Hà"
+        },
+        "romaji": "seiga"
       },
       {
         "example": "暴虎馮河",
         "reading": "ボウコヒョウガ",
-        "meaning": "dũng cảm liều lĩnh"
+        "meaning": {
+          "vi": "dũng cảm liều lĩnh"
+        },
+        "romaji": "boukohyouga"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "川",
         "reading": "かわ",
-        "meaning": "sông, suối"
+        "meaning": {
+          "vi": "sông, suối"
+        },
+        "romaji": "kawa"
       },
       {
         "example": "河",
         "reading": "ホー",
-        "meaning": "discarded tiles, discards"
+        "meaning": {
+          "en": "discarded tiles, discards"
+        },
+        "romaji": "hoo"
       },
       {
         "example": "追河",
         "reading": "おいかわ",
-        "meaning": "cá chép nhỏ, cá nước ngọt"
+        "meaning": {
+          "vi": "cá chép nhỏ, cá nước ngọt"
+        },
+        "romaji": "oikawa"
       },
       {
         "example": "恋河",
         "reading": "こいかわ",
-        "meaning": "tình yêu bao la"
+        "meaning": {
+          "vi": "tình yêu bao la"
+        },
+        "romaji": "koikawa"
       }
     ],
     "radical": {
@@ -360,5 +384,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cb3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cb3.gif",
     "uri": "https://jisho.org/search/%E6%B2%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hà"
+  ]
 }

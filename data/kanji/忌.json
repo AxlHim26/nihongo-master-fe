@@ -21,59 +21,92 @@
       {
         "example": "忌",
         "reading": "キ",
-        "meaning": "mourning, mourning period, anniversary of one's death"
+        "meaning": {
+          "vi": "mourning, mourning period, anniversary of one's death"
+        },
+        "romaji": "ki"
       },
       {
         "example": "忌避",
         "reading": "キヒ",
-        "meaning": "evasion, avoidance, shirking, recusation (of a judge), taking exception (to a judge), challenge"
+        "meaning": {
+          "vi": "evasion, avoidance, shirking, recusation (of a judge), taking exception (to a judge), challenge"
+        },
+        "romaji": "kihi"
       },
       {
         "example": "回忌",
         "reading": "カイキ",
-        "meaning": "death anniversary, anniversary of a person's death"
+        "meaning": {
+          "vi": "death anniversary, anniversary of a person's death"
+        },
+        "romaji": "kaiki"
       },
       {
         "example": "七回忌",
         "reading": "シチカイキ",
-        "meaning": "sixth anniversary of a death"
+        "meaning": {
+          "en": "sixth anniversary of a death"
+        },
+        "romaji": "shichikaiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "忌む",
         "reading": "いむ",
-        "meaning": "to avoid, to refrain from, to shun, to detest"
+        "meaning": {
+          "en": "to avoid, to refrain from, to shun, to detest"
+        },
+        "romaji": "imu"
       },
       {
         "example": "忌むべき",
         "reading": "いむべき",
-        "meaning": "abominable, detestable"
+        "meaning": {
+          "en": "abominable, detestable"
+        },
+        "romaji": "imubeki"
       },
       {
         "example": "忌み",
         "reading": "いみ",
-        "meaning": "mourning, abstinence, taboo, religious purification, pure, holy"
+        "meaning": {
+          "vi": "mourning, abstinence, taboo, religious purification, pure, holy"
+        },
+        "romaji": "imi"
       },
       {
         "example": "忌明け",
         "reading": "いみあけ",
-        "meaning": "end of mourning period (usu. 49 days)"
+        "meaning": {
+          "vi": "end of mourning period (usu. 49 days)"
+        },
+        "romaji": "imiake"
       },
       {
         "example": "子忌み",
         "reading": "ねいみ",
-        "meaning": "collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the Rat of the New Year)"
+        "meaning": {
+          "vi": "collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the Rat of the New Year)"
+        },
+        "romaji": "neimi"
       },
       {
         "example": "物忌み",
         "reading": "ものいみ",
-        "meaning": "purification through fasting and abstinence, confinement to one's house on inauspicious days to avoid misfortune (Onmyōdō practice)"
+        "meaning": {
+          "vi": "purification through fasting and abstinence, confinement to one's house on inauspicious days to avoid misfortune (Onmyōdō practice)"
+        },
+        "romaji": "monoimi"
       },
       {
         "example": "忌まわしい",
         "reading": "いまわしい",
-        "meaning": "abhorrent, abominable, detestable, disgusting, horrid, repugnant, ominous, inauspicious, unlucky"
+        "meaning": {
+          "vi": "abhorrent, abominable, detestable, disgusting, horrid, repugnant, ominous, inauspicious, unlucky"
+        },
+        "romaji": "imawashii"
       }
     ],
     "radical": {
@@ -92,5 +125,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcc.gif",
     "uri": "https://jisho.org/search/%E5%BF%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "kí",
+    "ký",
+    "kị",
+    "kỵ"
+  ]
 }

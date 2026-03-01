@@ -315,54 +315,84 @@
       {
         "example": "栄",
         "reading": "エイ",
-        "meaning": "honor, honour, glory, prosperity"
+        "meaning": {
+          "vi": "honor, honour, glory, prosperity"
+        },
+        "romaji": "ei"
       },
       {
         "example": "栄冠",
         "reading": "エイカン",
-        "meaning": "laurels, garland"
+        "meaning": {
+          "en": "laurels, garland"
+        },
+        "romaji": "eikan"
       },
       {
         "example": "共栄",
         "reading": "キョウエイ",
-        "meaning": "mutual prosperity"
+        "meaning": {
+          "vi": "mutual prosperity"
+        },
+        "romaji": "kyouei"
       },
       {
         "example": "虚栄",
         "reading": "キョエイ",
-        "meaning": "vanity, vainglory"
+        "meaning": {
+          "en": "vanity, vainglory"
+        },
+        "romaji": "kyoei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "栄える",
         "reading": "さかえる",
-        "meaning": "to prosper, to flourish"
+        "meaning": {
+          "vi": "to prosper, to flourish"
+        },
+        "romaji": "sakaeru"
       },
       {
         "example": "栄え",
         "reading": "はえ",
-        "meaning": "glory, splendour, honour"
+        "meaning": {
+          "vi": "glory, splendour, honour"
+        },
+        "romaji": "hae"
       },
       {
         "example": "映える",
         "reading": "はえる",
-        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        "meaning": {
+          "en": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        },
+        "romaji": "haeru"
       },
       {
         "example": "映える",
         "reading": "はえる",
-        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        "meaning": {
+          "en": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        },
+        "romaji": "haeru"
       },
       {
         "example": "栄",
         "reading": "えい",
-        "meaning": "honor, honour, glory, prosperity"
+        "meaning": {
+          "vi": "honor, honour, glory, prosperity"
+        },
+        "romaji": "ei"
       },
       {
         "example": "栄冠",
         "reading": "えいかん",
-        "meaning": "laurels, garland"
+        "meaning": {
+          "en": "laurels, garland"
+        },
+        "romaji": "eikan"
       }
     ],
     "radical": {
@@ -378,5 +408,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06804.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6804.gif",
     "uri": "https://jisho.org/search/%E6%A0%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "vinh"
+  ]
 }

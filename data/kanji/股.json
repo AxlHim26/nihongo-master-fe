@@ -19,64 +19,100 @@
       {
         "example": "股間",
         "reading": "コカン",
-        "meaning": "crotch, groin, area between the thighs"
+        "meaning": {
+          "en": "crotch, groin, area between the thighs"
+        },
+        "romaji": "kokan"
       },
       {
         "example": "股関節",
         "reading": "コカンセツ",
-        "meaning": "hip joint, coxa"
+        "meaning": {
+          "vi": "hip joint, coxa"
+        },
+        "romaji": "kokansetsu"
       },
       {
         "example": "控股",
         "reading": "コウコ",
-        "meaning": "holdings, holding company"
+        "meaning": {
+          "vi": "holdings, holding company"
+        },
+        "romaji": "kouko"
       },
       {
         "example": "四股",
         "reading": "シコ",
-        "meaning": "wrestler's ceremonial leg raising and stomping"
+        "meaning": {
+          "vi": "wrestler's ceremonial leg raising and stomping"
+        },
+        "romaji": "shiko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "股",
         "reading": "また",
-        "meaning": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+        "meaning": {
+          "en": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+        },
+        "romaji": "mata"
       },
       {
         "example": "跨る",
         "reading": "またがる",
-        "meaning": "to straddle, to sit astride, to mount, to extend over, to spread over, to span, to extend into"
+        "meaning": {
+          "vi": "to straddle, to sit astride, to mount, to extend over, to spread over, to span, to extend into"
+        },
+        "romaji": "matagaru"
       },
       {
         "example": "お股",
         "reading": "おまた",
-        "meaning": "vulva, female genitals, female genital area"
+        "meaning": {
+          "en": "vulva, female genitals, female genital area"
+        },
+        "romaji": "omata"
       },
       {
         "example": "小股",
         "reading": "こまた",
-        "meaning": "short steps, mincing stride, crotch, groin, thigh"
+        "meaning": {
+          "vi": "short steps, mincing stride, crotch, groin, thigh"
+        },
+        "romaji": "komata"
       },
       {
         "example": "腿",
         "reading": "もも",
-        "meaning": "thigh"
+        "meaning": {
+          "en": "thigh"
+        },
+        "romaji": "momo"
       },
       {
         "example": "股白蝙蝠",
         "reading": "ももじろこうもり",
-        "meaning": "big-footed myotis (Myotis macrodactylus), eastern long-fingered bat, Japanese large-footed bat"
+        "meaning": {
+          "vi": "big-footed myotis (Myotis macrodactylus), eastern long-fingered bat, Japanese large-footed bat"
+        },
+        "romaji": "momojirokoumori"
       },
       {
         "example": "太もも",
         "reading": "ふともも",
-        "meaning": "thigh, buttocks, arse, ass, butt"
+        "meaning": {
+          "en": "thigh, buttocks, arse, ass, butt"
+        },
+        "romaji": "futomomo"
       },
       {
         "example": "外股",
         "reading": "そともも",
-        "meaning": "outer thigh"
+        "meaning": {
+          "en": "outer thigh"
+        },
+        "romaji": "sotomomo"
       }
     ],
     "radical": {
@@ -96,5 +132,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080a1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80a1.gif",
     "uri": "https://jisho.org/search/%E8%82%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "cổ"
+  ]
 }

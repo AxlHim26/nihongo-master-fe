@@ -17,12 +17,18 @@
       {
         "example": "笑窪",
         "reading": "えくぼ",
-        "meaning": "dimple"
+        "meaning": {
+          "vi": "dimple"
+        },
+        "romaji": "ekubo"
       },
       {
         "example": "片えくぼ",
         "reading": "かたえくぼ",
-        "meaning": "dimple on one cheek"
+        "meaning": {
+          "vi": "dimple on one cheek"
+        },
+        "romaji": "kataekubo"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09768.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9768.gif",
     "uri": "https://jisho.org/search/%E9%9D%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "yếp",
+    "yểm"
+  ]
 }

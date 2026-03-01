@@ -18,7 +18,10 @@
       {
         "example": "兎",
         "reading": "うさぎ",
-        "meaning": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+        "meaning": {
+          "vi": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+        },
+        "romaji": "usagi"
       }
     ],
     "radical": {
@@ -40,5 +43,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83df.gif",
     "uri": "https://jisho.org/search/%E8%8F%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thỏ",
+    "thố",
+    "đồ"
+  ]
 }

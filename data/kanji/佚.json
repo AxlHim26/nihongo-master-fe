@@ -18,22 +18,34 @@
       {
         "example": "佚",
         "reading": "イツ",
-        "meaning": "being comfortable, relaxing"
+        "meaning": {
+          "en": "being comfortable, relaxing"
+        },
+        "romaji": "itsu"
       },
       {
         "example": "逸文",
         "reading": "イツブン",
-        "meaning": "lost work, lost writings, partially lost work, literary fragment, work that survives through quotations, work of a superior quality"
+        "meaning": {
+          "vi": "lost work, lost writings, partially lost work, literary fragment, work that survives through quotations, work of a superior quality"
+        },
+        "romaji": "itsubun"
       },
       {
         "example": "散逸",
         "reading": "サンイツ",
-        "meaning": "being scattered and ultimately lost, dissipation"
+        "meaning": {
+          "vi": "being scattered and ultimately lost, dissipation"
+        },
+        "romaji": "san'itsu"
       },
       {
         "example": "放逸",
         "reading": "ホウイツ",
-        "meaning": "self-indulgence, looseness, dissoluteness"
+        "meaning": {
+          "en": "self-indulgence, looseness, dissoluteness"
+        },
+        "romaji": "houitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5a.gif",
     "uri": "https://jisho.org/search/%E4%BD%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "dật",
+    "điệt"
+  ]
 }

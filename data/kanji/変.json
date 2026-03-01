@@ -369,44 +369,68 @@
       {
         "example": "変",
         "reading": "ヘン",
-        "meaning": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, emergency, flat"
+        "meaning": {
+          "vi": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, emergency, flat"
+        },
+        "romaji": "hen"
       },
       {
         "example": "変化",
         "reading": "ヘンカ",
-        "meaning": "change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis, variety, diversity, inflection, declension, conjugation, sidestepping"
+        "meaning": {
+          "vi": "change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis, variety, diversity, inflection, declension, conjugation, sidestepping"
+        },
+        "romaji": "henka"
       },
       {
         "example": "政変",
         "reading": "セイヘン",
-        "meaning": "political disturbance, political change, change of government, political upheaval, overthrowing of a government, coup d'état, coup, revolution"
+        "meaning": {
+          "vi": "political disturbance, political change, change of government, political upheaval, overthrowing of a government, coup d'état, coup, revolution"
+        },
+        "romaji": "seihen"
       },
       {
         "example": "異変",
         "reading": "イヘン",
-        "meaning": "unusual event, strange occurrence, strange phenomenon, something abnormal, change (for the worse), accident, disaster"
+        "meaning": {
+          "vi": "unusual event, strange occurrence, strange phenomenon, something abnormal, change (for the worse), accident, disaster"
+        },
+        "romaji": "ihen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "変わる",
         "reading": "かわる",
-        "meaning": "to change, to be transformed, to be altered, to vary, to move to, to be different, to be uncommon, to be unusual"
+        "meaning": {
+          "en": "to change, to be transformed, to be altered, to vary, to move to, to be different, to be uncommon, to be unusual"
+        },
+        "romaji": "kawaru"
       },
       {
         "example": "変わり",
         "reading": "かわり",
-        "meaning": "change, alteration, difference, distinction, something wrong, abnormality, unusual event, accident, incident"
+        "meaning": {
+          "en": "change, alteration, difference, distinction, something wrong, abnormality, unusual event, accident, incident"
+        },
+        "romaji": "kawari"
       },
       {
         "example": "変わり種",
         "reading": "かわりだね",
-        "meaning": "something out of the ordinary, variant, variety, exception, novelty, person with an unusual character or background, unique figure, exceptional type, eccentric, oddball"
+        "meaning": {
+          "vi": "something out of the ordinary, variant, variety, exception, novelty, person with an unusual character or background, unique figure, exceptional type, eccentric, oddball"
+        },
+        "romaji": "kawaridane"
       },
       {
         "example": "変える",
         "reading": "かえる",
-        "meaning": "to change, to alter, to transform, to convert, to turn, to vary, to reform, to revise, to amend"
+        "meaning": {
+          "en": "to change, to alter, to transform, to convert, to turn, to vary, to reform, to revise, to amend"
+        },
+        "romaji": "kaeru"
       }
     ],
     "radical": {
@@ -421,5 +445,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05909.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5909.gif",
     "uri": "https://jisho.org/search/%E5%A4%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "biến"
+  ]
 }

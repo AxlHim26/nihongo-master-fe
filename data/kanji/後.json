@@ -402,109 +402,172 @@
       {
         "example": "後",
         "reading": "ゴ",
-        "meaning": "after"
+        "meaning": {
+          "en": "after"
+        },
+        "romaji": "go"
       },
       {
         "example": "後日",
         "reading": "ゴジツ",
-        "meaning": "in the future, another day, later"
+        "meaning": {
+          "en": "in the future, another day, later"
+        },
+        "romaji": "gojitsu"
       },
       {
         "example": "越後",
         "reading": "エチゴ",
-        "meaning": "Echigo (former province located in present-day Niigata Prefecture)"
+        "meaning": {
+          "vi": "Echigo (former province located in present-day Niigata Prefecture)"
+        },
+        "romaji": "echigo"
       },
       {
         "example": "終了後",
         "reading": "シュウリョウゴ",
-        "meaning": "after the end (of something), post-"
+        "meaning": {
+          "vi": "after the end (of something), post-"
+        },
+        "romaji": "shuuryougo"
       },
       {
         "example": "後援",
         "reading": "コウエン",
-        "meaning": "support, backing"
+        "meaning": {
+          "vi": "support, backing"
+        },
+        "romaji": "kouen"
       },
       {
         "example": "後遺症",
         "reading": "コウイショウ",
-        "meaning": "prognostic symptoms, after-effect, sequela"
+        "meaning": {
+          "vi": "prognostic symptoms, after-effect, sequela"
+        },
+        "romaji": "kouishou"
       },
       {
         "example": "向後",
         "reading": "コウゴ",
-        "meaning": "hereafter"
+        "meaning": {
+          "en": "hereafter"
+        },
+        "romaji": "kougo"
       },
       {
         "example": "先後",
         "reading": "センゴ",
-        "meaning": "before and after, earlier and later, order, sequence, occurring almost simultaneously, inversion (of order), black and white"
+        "meaning": {
+          "en": "before and after, earlier and later, order, sequence, occurring almost simultaneously, inversion (of order), black and white"
+        },
+        "romaji": "sengo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "後",
         "reading": "のち",
-        "meaning": "later, afterwards, future, after one's death, descendant"
+        "meaning": {
+          "en": "later, afterwards, future, after one's death, descendant"
+        },
+        "romaji": "nochi"
       },
       {
         "example": "後々",
         "reading": "のちのち",
-        "meaning": "future, distant future"
+        "meaning": {
+          "en": "future, distant future"
+        },
+        "romaji": "nochinochi"
       },
       {
         "example": "後々",
         "reading": "のちのち",
-        "meaning": "future, distant future"
+        "meaning": {
+          "en": "future, distant future"
+        },
+        "romaji": "nochinochi"
       },
       {
         "example": "この後",
         "reading": "このあと",
-        "meaning": "after this, henceforth, henceforward, from now on"
+        "meaning": {
+          "en": "after this, henceforth, henceforward, from now on"
+        },
+        "romaji": "konoato"
       },
       {
         "example": "後ろ",
         "reading": "うしろ",
-        "meaning": "back, behind, rear"
+        "meaning": {
+          "en": "back, behind, rear"
+        },
+        "romaji": "ushiro"
       },
       {
         "example": "後ろ姿",
         "reading": "うしろすがた",
-        "meaning": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
+        "meaning": {
+          "vi": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
+        },
+        "romaji": "ushirosugata"
       },
       {
         "example": "後ろ",
         "reading": "うしろ",
-        "meaning": "back, behind, rear"
+        "meaning": {
+          "en": "back, behind, rear"
+        },
+        "romaji": "ushiro"
       },
       {
         "example": "後ろ姿",
         "reading": "うしろすがた",
-        "meaning": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
+        "meaning": {
+          "vi": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
+        },
+        "romaji": "ushirosugata"
       },
       {
         "example": "後",
         "reading": "あと",
-        "meaning": "behind, rear, after, later, remainder, the rest, more (e.g. five more minutes), left, also, in addition, descendant, successor, heir, after one's death, past, previous"
+        "meaning": {
+          "vi": "behind, rear, after, later, remainder, the rest, more (e.g. five more minutes), left, also, in addition, descendant, successor, heir, after one's death, past, previous"
+        },
+        "romaji": "ato"
       },
       {
         "example": "後押し",
         "reading": "あとおし",
-        "meaning": "pushing, support, backing, supporter, backer, pushing from behind (a cart, etc.), pusher"
+        "meaning": {
+          "vi": "pushing, support, backing, supporter, backer, pushing from behind (a cart, etc.), pusher"
+        },
+        "romaji": "atooshi"
       },
       {
         "example": "亡き後",
         "reading": "なきあと",
-        "meaning": "after one's death"
+        "meaning": {
+          "en": "after one's death"
+        },
+        "romaji": "nakiato"
       },
       {
         "example": "後々",
         "reading": "あとあと",
-        "meaning": "future, distant future"
+        "meaning": {
+          "en": "future, distant future"
+        },
+        "romaji": "atoato"
       },
       {
         "example": "遅れる",
         "reading": "おくれる",
-        "meaning": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
+        "meaning": {
+          "vi": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
+        },
+        "romaji": "okureru"
       }
     ],
     "radical": {
@@ -520,5 +583,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f8c.gif",
     "uri": "https://jisho.org/search/%E5%BE%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hấu",
+    "hậu"
+  ]
 }

@@ -233,34 +233,52 @@
       {
         "example": "企画室",
         "reading": "キカクシツ",
-        "meaning": "planning office"
+        "meaning": {
+          "vi": "planning office"
+        },
+        "romaji": "kikakushitsu"
       },
       {
         "example": "企画",
         "reading": "キカク",
-        "meaning": "planning, plan, project, arrangements"
+        "meaning": {
+          "vi": "planning, plan, project, arrangements"
+        },
+        "romaji": "kikaku"
       },
       {
         "example": "経企",
         "reading": "ケイキ",
-        "meaning": "corporate planning (department, etc.)"
+        "meaning": {
+          "vi": "corporate planning (department, etc.)"
+        },
+        "romaji": "keiki"
       },
       {
         "example": "投企",
         "reading": "トウキ",
-        "meaning": "projection, project, philosophical concept introduced by Heidegger (Entwurf)"
+        "meaning": {
+          "vi": "projection, project, philosophical concept introduced by Heidegger (Entwurf)"
+        },
+        "romaji": "touki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "企てる",
         "reading": "くわだてる",
-        "meaning": "to plan, to plot, to propose, to design, to intend, to contemplate, to attempt (e.g. suicide, murder), to undertake (e.g. business), to stand on tip-toes"
+        "meaning": {
+          "vi": "to plan, to plot, to propose, to design, to intend, to contemplate, to attempt (e.g. suicide, murder), to undertake (e.g. business), to stand on tip-toes"
+        },
+        "romaji": "kuwadateru"
       },
       {
         "example": "企む",
         "reading": "たくらむ",
-        "meaning": "to scheme, to plan, to play a trick, to invent, to conspire, to frame up"
+        "meaning": {
+          "vi": "to scheme, to plan, to play a trick, to invent, to conspire, to frame up"
+        },
+        "romaji": "takuramu"
       }
     ],
     "radical": {
@@ -278,5 +296,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f01.gif",
     "uri": "https://jisho.org/search/%E4%BC%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "xí"
+  ]
 }

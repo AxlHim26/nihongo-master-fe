@@ -18,44 +18,68 @@
       {
         "example": "歌留多",
         "reading": "カルタ",
-        "meaning": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+        "meaning": {
+          "vi": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+        },
+        "romaji": "karuta"
       },
       {
         "example": "哥老会",
         "reading": "カロウカイ",
-        "meaning": "Gelaohui (secret Chinese society of the late Qing dynasty)"
+        "meaning": {
+          "en": "Gelaohui (secret Chinese society of the late Qing dynasty)"
+        },
+        "romaji": "karoukai"
       },
       {
         "example": "インド八哥",
         "reading": "インドハッカ",
-        "meaning": "common myna (Acridotheres tristis), Indian myna, common mynah, Indian mynah"
+        "meaning": {
+          "en": "common myna (Acridotheres tristis), Indian myna, common mynah, Indian mynah"
+        },
+        "romaji": "indohakka"
       },
       {
         "example": "哥倫比亜",
         "reading": "コロンビア",
-        "meaning": "Colombia"
+        "meaning": {
+          "en": "Colombia"
+        },
+        "romaji": "koronbia"
       },
       {
         "example": "摩納哥",
         "reading": "モナコ",
-        "meaning": "Monaco"
+        "meaning": {
+          "en": "Monaco"
+        },
+        "romaji": "monako"
       },
       {
         "example": "五色青海鸚哥",
         "reading": "ゴシキゼイガイインコ",
-        "meaning": "rainbow lorikeet (Trichoglossus haematodus), rainbow lory"
+        "meaning": {
+          "en": "rainbow lorikeet (Trichoglossus haematodus), rainbow lory"
+        },
+        "romaji": "goshikizeigaiinko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "うた沢",
         "reading": "うたざわ",
-        "meaning": "slow-paced style of shamisen music with vocal accompaniment (popular during the late Edo period)"
+        "meaning": {
+          "vi": "slow-paced style of shamisen music with vocal accompaniment (popular during the late Edo period)"
+        },
+        "romaji": "utazawa"
       },
       {
         "example": "うた沢節",
         "reading": "うたざわぶし",
-        "meaning": "slow-paced style of shamisen music with vocal accompaniment (popular during the late Edo period)"
+        "meaning": {
+          "vi": "slow-paced style of shamisen music with vocal accompaniment (popular during the late Edo period)"
+        },
+        "romaji": "utazawabushi"
       }
     ],
     "radical": {
@@ -71,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54e5.gif",
     "uri": "https://jisho.org/search/%E5%93%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "ca"
+  ]
 }

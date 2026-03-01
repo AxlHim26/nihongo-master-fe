@@ -296,74 +296,116 @@
       {
         "example": "緒",
         "reading": "ショ",
-        "meaning": "beginning, inception"
+        "meaning": {
+          "vi": "beginning, inception"
+        },
+        "romaji": "sho"
       },
       {
         "example": "緒戦",
         "reading": "ショセン",
-        "meaning": "beginning of hostilities, beginning of competition, first match (in a series)"
+        "meaning": {
+          "vi": "beginning of hostilities, beginning of competition, first match (in a series)"
+        },
+        "romaji": "shosen"
       },
       {
         "example": "端緒",
         "reading": "タンショ",
-        "meaning": "start, beginning, first step, clue"
+        "meaning": {
+          "vi": "start, beginning, first step, clue"
+        },
+        "romaji": "tansho"
       },
       {
         "example": "由緒",
         "reading": "ユイショ",
-        "meaning": "history, pedigree, lineage"
+        "meaning": {
+          "vi": "history, pedigree, lineage"
+        },
+        "romaji": "yuisho"
       },
       {
         "example": "緒",
         "reading": "ショ",
-        "meaning": "beginning, inception"
+        "meaning": {
+          "vi": "beginning, inception"
+        },
+        "romaji": "sho"
       },
       {
         "example": "緒戦",
         "reading": "ショセン",
-        "meaning": "beginning of hostilities, beginning of competition, first match (in a series)"
+        "meaning": {
+          "vi": "beginning of hostilities, beginning of competition, first match (in a series)"
+        },
+        "romaji": "shosen"
       },
       {
         "example": "端緒",
         "reading": "タンショ",
-        "meaning": "start, beginning, first step, clue"
+        "meaning": {
+          "vi": "start, beginning, first step, clue"
+        },
+        "romaji": "tansho"
       },
       {
         "example": "光緒",
         "reading": "コウショ",
-        "meaning": "Guangxu era (of emperor Dezong of Qing; 1875-1908)"
+        "meaning": {
+          "vi": "Guangxu era (of emperor Dezong of Qing; 1875-1908)"
+        },
+        "romaji": "kousho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "緒",
         "reading": "お",
-        "meaning": "cord, strap, thong, string (of a musical instrument, bow, etc.)"
+        "meaning": {
+          "vi": "cord, strap, thong, string (of a musical instrument, bow, etc.)"
+        },
+        "romaji": "o"
       },
       {
         "example": "緒締め",
         "reading": "おじめ",
-        "meaning": "string-fastener, drawstring on pouch or purse (handbag)"
+        "meaning": {
+          "vi": "string-fastener, drawstring on pouch or purse (handbag)"
+        },
+        "romaji": "ojime"
       },
       {
         "example": "下緒",
         "reading": "さげお",
-        "meaning": "cord for attaching a sword scabbard tightly to the obi, sword strap, sword knot"
+        "meaning": {
+          "vi": "cord for attaching a sword scabbard tightly to the obi, sword strap, sword knot"
+        },
+        "romaji": "sageo"
       },
       {
         "example": "筈緒",
         "reading": "はずお",
-        "meaning": "hemp rope fastened from the bow of a Japanese ship to the tip of the mast"
+        "meaning": {
+          "vi": "hemp rope fastened from the bow of a Japanese ship to the tip of the mast"
+        },
+        "romaji": "hazuo"
       },
       {
         "example": "糸口",
         "reading": "いとぐち",
-        "meaning": "beginning, start, first step, clue, lead, hint, thread end"
+        "meaning": {
+          "vi": "beginning, start, first step, clue, lead, hint, thread end"
+        },
+        "romaji": "itoguchi"
       },
       {
         "example": "糸口を開く",
         "reading": "いとぐちをひらく",
-        "meaning": "to find a clue, to make a beginning"
+        "meaning": {
+          "en": "to find a clue, to make a beginning"
+        },
+        "romaji": "itoguchiwohiraku"
       }
     ],
     "radical": {
@@ -384,5 +426,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dd2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dd2.gif",
     "uri": "https://jisho.org/search/%E7%B7%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tự"
+  ]
 }

@@ -327,49 +327,76 @@
       {
         "example": "起源",
         "reading": "キゲン",
-        "meaning": "origin, beginning, source, rise"
+        "meaning": {
+          "en": "origin, beginning, source, rise"
+        },
+        "romaji": "kigen"
       },
       {
         "example": "起因",
         "reading": "キイン",
-        "meaning": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+        "meaning": {
+          "en": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+        },
+        "romaji": "kiin"
       },
       {
         "example": "突起",
         "reading": "トッキ",
-        "meaning": "protuberance, projection, prominence, protrusion, bump, boss, process, apophysis"
+        "meaning": {
+          "vi": "protuberance, projection, prominence, protrusion, bump, boss, process, apophysis"
+        },
+        "romaji": "tokki"
       },
       {
         "example": "決起",
         "reading": "ケッキ",
-        "meaning": "rising to action, standing up against, jumping to one's feet"
+        "meaning": {
+          "vi": "rising to action, standing up against, jumping to one's feet"
+        },
+        "romaji": "kekki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "起きる",
         "reading": "おきる",
-        "meaning": "to get up, to rise, to blaze up (fire), to wake up, to be awake, to stay awake, to occur (usu. of unfavourable incidents), to happen, to take place"
+        "meaning": {
+          "vi": "to get up, to rise, to blaze up (fire), to wake up, to be awake, to stay awake, to occur (usu. of unfavourable incidents), to happen, to take place"
+        },
+        "romaji": "okiru"
       },
       {
         "example": "起こる",
         "reading": "おこる",
-        "meaning": "to occur, to happen"
+        "meaning": {
+          "vi": "to occur, to happen"
+        },
+        "romaji": "okoru"
       },
       {
         "example": "起こす",
         "reading": "おこす",
-        "meaning": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card)"
+        "meaning": {
+          "vi": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card)"
+        },
+        "romaji": "okosu"
       },
       {
         "example": "起こす",
         "reading": "おこす",
-        "meaning": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card)"
+        "meaning": {
+          "vi": "to raise, to raise up, to set up, to pick up, to wake, to wake up, to waken, to awaken, to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce, to start, to begin, to launch, to establish, to found, to set up, to open, to plough, to plow, to till, to fall ill with, to transcribe, to write down (what is spoken), to turn over (a card)"
+        },
+        "romaji": "okosu"
       },
       {
         "example": "起つ",
         "reading": "たつ",
-        "meaning": "to take action, to act, to rise (up), to rouse oneself"
+        "meaning": {
+          "vi": "to take action, to act, to rise (up), to rouse oneself"
+        },
+        "romaji": "tatsu"
       }
     ],
     "radical": {
@@ -388,5 +415,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d77.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d77.gif",
     "uri": "https://jisho.org/search/%E8%B5%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "khỉ",
+    "khởi"
+  ]
 }

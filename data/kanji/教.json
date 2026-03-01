@@ -403,34 +403,52 @@
       {
         "example": "教育委員会",
         "reading": "キョウイクイインカイ",
-        "meaning": "Board of Education"
+        "meaning": {
+          "en": "Board of Education"
+        },
+        "romaji": "kyouikuiinkai"
       },
       {
         "example": "教育",
         "reading": "キョウイク",
-        "meaning": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education"
+        "meaning": {
+          "vi": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education"
+        },
+        "romaji": "kyouiku"
       },
       {
         "example": "政教",
         "reading": "セイキョウ",
-        "meaning": "religion and politics, church and state"
+        "meaning": {
+          "vi": "religion and politics, church and state"
+        },
+        "romaji": "seikyou"
       },
       {
         "example": "正教",
         "reading": "セイキョウ",
-        "meaning": "orthodoxy, (Greek) orthodox church"
+        "meaning": {
+          "en": "orthodoxy, (Greek) orthodox church"
+        },
+        "romaji": "seikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "教える",
         "reading": "おしえる",
-        "meaning": "to teach, to instruct, to tell, to inform, to show, to preach"
+        "meaning": {
+          "vi": "to teach, to instruct, to tell, to inform, to show, to preach"
+        },
+        "romaji": "oshieru"
       },
       {
         "example": "教わる",
         "reading": "おそわる",
-        "meaning": "to be taught, to learn, to take lessons in"
+        "meaning": {
+          "en": "to be taught, to learn, to take lessons in"
+        },
+        "romaji": "osowaru"
       }
     ],
     "radical": {
@@ -450,5 +468,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06559.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6559.gif",
     "uri": "https://jisho.org/search/%E6%95%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "giao",
+    "giáo"
+  ]
 }

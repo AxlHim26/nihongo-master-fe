@@ -247,29 +247,44 @@
       {
         "example": "抗",
         "reading": "コウ",
-        "meaning": "anti-"
+        "meaning": {
+          "en": "anti-"
+        },
+        "romaji": "kou"
       },
       {
         "example": "抗菌",
         "reading": "コウキン",
-        "meaning": "antibacterial, antimicrobial"
+        "meaning": {
+          "en": "antibacterial, antimicrobial"
+        },
+        "romaji": "koukin"
       },
       {
         "example": "拮抗",
         "reading": "キッコウ",
-        "meaning": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        "meaning": {
+          "vi": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        },
+        "romaji": "kikkou"
       },
       {
         "example": "無抵抗",
         "reading": "ムテイコウ",
-        "meaning": "nonresistance"
+        "meaning": {
+          "en": "nonresistance"
+        },
+        "romaji": "muteikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抗う",
         "reading": "あらがう",
-        "meaning": "to go against, to fight against, to oppose, to resist, to deny"
+        "meaning": {
+          "vi": "to go against, to fight against, to oppose, to resist, to deny"
+        },
+        "romaji": "aragau"
       }
     ],
     "radical": {
@@ -288,5 +303,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06297.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6297.gif",
     "uri": "https://jisho.org/search/%E6%8A%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "kháng"
+  ]
 }

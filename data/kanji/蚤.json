@@ -18,22 +18,34 @@
       {
         "example": "蚤",
         "reading": "のみ",
-        "meaning": "flea"
+        "meaning": {
+          "en": "flea"
+        },
+        "romaji": "nomi"
       },
       {
         "example": "ノミ取り",
         "reading": "ノミとり",
-        "meaning": "flea powder, flea medicine, flea medication, getting rid of fleas, killing fleas"
+        "meaning": {
+          "vi": "flea powder, flea medicine, flea medication, getting rid of fleas, killing fleas"
+        },
+        "romaji": "nomitori"
       },
       {
         "example": "猫蚤",
         "reading": "ねこのみ",
-        "meaning": "cat flea (Ctenocephalides felis)"
+        "meaning": {
+          "vi": "cat flea (Ctenocephalides felis)"
+        },
+        "romaji": "nekonomi"
       },
       {
         "example": "砂蚤",
         "reading": "すなのみ",
-        "meaning": "chigoe, sand flea, chigger (Tunga penetrans)"
+        "meaning": {
+          "vi": "chigoe, sand flea, chigger (Tunga penetrans)"
+        },
+        "romaji": "sunanomi"
       }
     ],
     "radical": {
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086a4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86a4.gif",
     "uri": "https://jisho.org/search/%E8%9A%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "tảo"
+  ]
 }

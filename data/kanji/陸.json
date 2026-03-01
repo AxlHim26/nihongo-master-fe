@@ -304,54 +304,84 @@
       {
         "example": "陸",
         "reading": "リク",
-        "meaning": "land, shore"
+        "meaning": {
+          "en": "land, shore"
+        },
+        "romaji": "riku"
       },
       {
         "example": "陸海",
         "reading": "リクカイ",
-        "meaning": "land and sea, army and navy"
+        "meaning": {
+          "en": "land and sea, army and navy"
+        },
+        "romaji": "rikukai"
       },
       {
         "example": "北陸",
         "reading": "ホクリク",
-        "meaning": "Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"
+        "meaning": {
+          "vi": "Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"
+        },
+        "romaji": "hokuriku"
       },
       {
         "example": "内陸",
         "reading": "ナイリク",
-        "meaning": "inland"
+        "meaning": {
+          "en": "inland"
+        },
+        "romaji": "nairiku"
       },
       {
         "example": "六",
         "reading": "ロク",
-        "meaning": "six, 6"
+        "meaning": {
+          "en": "six, 6"
+        },
+        "romaji": "roku"
       },
       {
         "example": "碌",
         "reading": "ロク",
-        "meaning": "satisfactory, decent, good, proper, worthy"
+        "meaning": {
+          "vi": "satisfactory, decent, good, proper, worthy"
+        },
+        "romaji": "roku"
       },
       {
         "example": "碌々",
         "reading": "ロクロク",
-        "meaning": "(not) well, (not) properly, (not) enough, (not) sufficiently"
+        "meaning": {
+          "vi": "(not) well, (not) properly, (not) enough, (not) sufficiently"
+        },
+        "romaji": "rokuroku"
       },
       {
         "example": "双六",
         "reading": "スゴロク",
-        "meaning": "race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"
+        "meaning": {
+          "vi": "race game (board game played with dice in which the object is to reach the end of a track), ban-sugoroku, sugoroku, traditional Japanese board game similar to backgammon"
+        },
+        "romaji": "sugoroku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陸",
         "reading": "りく",
-        "meaning": "land, shore"
+        "meaning": {
+          "en": "land, shore"
+        },
+        "romaji": "riku"
       },
       {
         "example": "丘",
         "reading": "おか",
-        "meaning": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+        "meaning": {
+          "vi": "hill, height, knoll, rising ground, bonus points awarded to the winner at the end of a game"
+        },
+        "romaji": "oka"
       }
     ],
     "radical": {
@@ -370,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09678.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9678.gif",
     "uri": "https://jisho.org/search/%E9%99%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "lục"
+  ]
 }

@@ -18,14 +18,20 @@
       {
         "example": "颯々",
         "reading": "サッサツ",
-        "meaning": "rustling (of wind), murmuring, whistling, soughing"
+        "meaning": {
+          "en": "rustling (of wind), murmuring, whistling, soughing"
+        },
+        "romaji": "sassatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "颯と",
         "reading": "さっと",
-        "meaning": "quickly (esp. actions), suddenly (esp. wind, rain, etc.)"
+        "meaning": {
+          "vi": "quickly (esp. actions), suddenly (esp. wind, rain, etc.)"
+        },
+        "romaji": "satto"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98af.gif",
     "uri": "https://jisho.org/search/%E9%A2%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "táp"
+  ]
 }

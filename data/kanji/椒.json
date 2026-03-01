@@ -16,19 +16,28 @@
       {
         "example": "花椒",
         "reading": "カショウ",
-        "meaning": "Chinese prickly-ash (Zanthoxylum bungeanum), Sichuan pepper (spice), Szechuan peppercorn"
+        "meaning": {
+          "vi": "Chinese prickly-ash (Zanthoxylum bungeanum), Sichuan pepper (spice), Szechuan peppercorn"
+        },
+        "romaji": "kashou"
       },
       {
         "example": "塩コショウ",
         "reading": "シオコショウ",
-        "meaning": "salt and pepper, seasoning with salt and pepper"
+        "meaning": {
+          "vi": "salt and pepper, seasoning with salt and pepper"
+        },
+        "romaji": "shiokoshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "薑",
         "reading": "はじかみ",
-        "meaning": "ginger (Zingiber officinale), Japanese pepper (Zanthoxylum piperitum)"
+        "meaning": {
+          "vi": "ginger (Zingiber officinale), Japanese pepper (Zanthoxylum piperitum)"
+        },
+        "romaji": "hajikami"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06912.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6912.gif",
     "uri": "https://jisho.org/search/%E6%A4%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiêu"
+  ]
 }

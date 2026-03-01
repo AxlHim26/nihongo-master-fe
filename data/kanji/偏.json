@@ -322,29 +322,44 @@
       {
         "example": "偏",
         "reading": "ヘン",
-        "meaning": "left-hand radical of a character"
+        "meaning": {
+          "en": "left-hand radical of a character"
+        },
+        "romaji": "hen"
       },
       {
         "example": "偏見",
         "reading": "ヘンケン",
-        "meaning": "prejudice, bias, distorted view"
+        "meaning": {
+          "vi": "prejudice, bias, distorted view"
+        },
+        "romaji": "henken"
       },
       {
         "example": "普遍",
         "reading": "フヘン",
-        "meaning": "universal, general, ubiquitous, omnipresent"
+        "meaning": {
+          "vi": "universal, general, ubiquitous, omnipresent"
+        },
+        "romaji": "fuhen"
       },
       {
         "example": "貝偏",
         "reading": "カイヘン",
-        "meaning": "kanji \"shell\" radical at left"
+        "meaning": {
+          "en": "kanji \"shell\" radical at left"
+        },
+        "romaji": "kaihen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偏る",
         "reading": "かたよる",
-        "meaning": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced"
+        "meaning": {
+          "vi": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced"
+        },
+        "romaji": "katayoru"
       }
     ],
     "radical": {
@@ -368,5 +383,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0504f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/504f.gif",
     "uri": "https://jisho.org/search/%E5%81%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiên"
+  ]
 }

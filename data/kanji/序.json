@@ -262,44 +262,68 @@
       {
         "example": "序",
         "reading": "ジョ",
-        "meaning": "thứ tự, mở đầu, lời tựa, giới thiệu, khúc mở đầu (gagaku hoặc noh)"
+        "meaning": {
+          "vi": "thứ tự, mở đầu, lời tựa, giới thiệu, khúc mở đầu (gagaku hoặc noh)"
+        },
+        "romaji": "jo"
       },
       {
         "example": "序盤",
         "reading": "ジョバン",
-        "meaning": "khai cuộc (cờ vây, cờ vua), giai đoạn đầu, bắt đầu"
+        "meaning": {
+          "vi": "khai cuộc (cờ vây, cờ vua), giai đoạn đầu, bắt đầu"
+        },
+        "romaji": "joban"
       },
       {
         "example": "公序",
         "reading": "コウジョ",
-        "meaning": "trật tự công cộng, chính sách công"
+        "meaning": {
+          "vi": "trật tự công cộng, chính sách công"
+        },
+        "romaji": "koujo"
       },
       {
         "example": "西序",
         "reading": "セイジョ",
-        "meaning": "nghi lễ tưởng niệm liên quan tới tây điện"
+        "meaning": {
+          "vi": "nghi lễ tưởng niệm liên quan tới tây điện"
+        },
+        "romaji": "seijo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "序で",
         "reading": "ついで",
-        "meaning": "cơ hội, dịp, thứ tự, trình tự, người kế vị"
+        "meaning": {
+          "vi": "cơ hội, dịp, thứ tự, trình tự, người kế vị"
+        },
+        "romaji": "tsuide"
       },
       {
         "example": "序でに",
         "reading": "ついでに",
-        "meaning": "nhân tiện, khi, nhân dịp, đồng thời, trên đường đi, nhân thể"
+        "meaning": {
+          "vi": "nhân tiện, khi, nhân dịp, đồng thời, trên đường đi, nhân thể"
+        },
+        "romaji": "tsuideni"
       },
       {
         "example": "序で",
         "reading": "ついで",
-        "meaning": "cơ hội, dịp, thứ tự, trình tự, người kế vị"
+        "meaning": {
+          "vi": "cơ hội, dịp, thứ tự, trình tự, người kế vị"
+        },
+        "romaji": "tsuide"
       },
       {
         "example": "序でに",
         "reading": "ついでに",
-        "meaning": "nhân tiện, khi, nhân dịp, đồng thời, trên đường đi, nhân thể"
+        "meaning": {
+          "vi": "nhân tiện, khi, nhân dịp, đồng thời, trên đường đi, nhân thể"
+        },
+        "romaji": "tsuideni"
       }
     ],
     "radical": {
@@ -317,5 +341,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e8f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e8f.gif",
     "uri": "https://jisho.org/search/%E5%BA%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tự"
+  ]
 }

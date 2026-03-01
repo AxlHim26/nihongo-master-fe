@@ -325,39 +325,60 @@
       {
         "example": "休館",
         "reading": "キュウカン",
-        "meaning": "closure (of a library, museum, etc.)"
+        "meaning": {
+          "en": "closure (of a library, museum, etc.)"
+        },
+        "romaji": "kyuukan"
       },
       {
         "example": "休暇",
         "reading": "キュウカ",
-        "meaning": "holiday, vacation, day off, time off, leave, furlough"
+        "meaning": {
+          "en": "holiday, vacation, day off, time off, leave, furlough"
+        },
+        "romaji": "kyuuka"
       },
       {
         "example": "帰休",
         "reading": "キキュウ",
-        "meaning": "leave, furlough, temporary layoff"
+        "meaning": {
+          "vi": "leave, furlough, temporary layoff"
+        },
+        "romaji": "kikyuu"
       },
       {
         "example": "定休",
         "reading": "テイキュウ",
-        "meaning": "regular holiday, fixed day off, regular closing day"
+        "meaning": {
+          "en": "regular holiday, fixed day off, regular closing day"
+        },
+        "romaji": "teikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "休む",
         "reading": "やすむ",
-        "meaning": "to be absent, to take a day off, to rest, to have a break, to go to bed, to (lie down to) sleep, to turn in, to retire, to stop doing some ongoing activity for a time, to suspend business"
+        "meaning": {
+          "vi": "to be absent, to take a day off, to rest, to have a break, to go to bed, to (lie down to) sleep, to turn in, to retire, to stop doing some ongoing activity for a time, to suspend business"
+        },
+        "romaji": "yasumu"
       },
       {
         "example": "休まる",
         "reading": "やすまる",
-        "meaning": "to be rested, to feel at ease, to repose, to be relieved"
+        "meaning": {
+          "vi": "to be rested, to feel at ease, to repose, to be relieved"
+        },
+        "romaji": "yasumaru"
       },
       {
         "example": "休める",
         "reading": "やすめる",
-        "meaning": "to rest, to suspend, to give relief"
+        "meaning": {
+          "vi": "to rest, to suspend, to give relief"
+        },
+        "romaji": "yasumeru"
       }
     ],
     "radical": {
@@ -375,5 +396,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f11.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f11.gif",
     "uri": "https://jisho.org/search/%E4%BC%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "hu",
+    "hưu"
+  ]
 }

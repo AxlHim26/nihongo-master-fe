@@ -17,17 +17,26 @@
       {
         "example": "回復",
         "reading": "カイフク",
-        "meaning": "restoration, recovery, rehabilitation, return, improvement, recovery (from an illness), recuperation, convalescence"
+        "meaning": {
+          "vi": "restoration, recovery, rehabilitation, return, improvement, recovery (from an illness), recuperation, convalescence"
+        },
+        "romaji": "kaifuku"
       },
       {
         "example": "恢弘",
         "reading": "カイコウ",
-        "meaning": "propagation, spreading out, extending"
+        "meaning": {
+          "vi": "propagation, spreading out, extending"
+        },
+        "romaji": "kaikou"
       },
       {
         "example": "天網恢々",
         "reading": "テンモウカイカイ",
-        "meaning": "heaven's vengeance is slow but sure, heaven's net is wide and coarse, yet nothing slips through"
+        "meaning": {
+          "vi": "heaven's vengeance is slow but sure, heaven's net is wide and coarse, yet nothing slips through"
+        },
+        "romaji": "tenmoukaikai"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06062.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6062.gif",
     "uri": "https://jisho.org/search/%E6%81%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "khôi"
+  ]
 }

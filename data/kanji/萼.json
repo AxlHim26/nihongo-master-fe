@@ -16,19 +16,28 @@
       {
         "example": "萼",
         "reading": "ガク",
-        "meaning": "calyx"
+        "meaning": {
+          "en": "calyx"
+        },
+        "romaji": "gaku"
       },
       {
         "example": "萼片",
         "reading": "ガクヘン",
-        "meaning": "sepal"
+        "meaning": {
+          "vi": "sepal"
+        },
+        "romaji": "gakuhen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "萼",
         "reading": "がく",
-        "meaning": "calyx"
+        "meaning": {
+          "en": "calyx"
+        },
+        "romaji": "gaku"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0843c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/843c.gif",
     "uri": "https://jisho.org/search/%E8%90%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạc"
+  ]
 }

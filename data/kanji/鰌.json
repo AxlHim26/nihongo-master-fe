@@ -18,17 +18,26 @@
       {
         "example": "泥鰌",
         "reading": "どじょう",
-        "meaning": "loach (any fish of family Cobitidae), weather loach (Misgurnus anguillicaudatus), pond loach"
+        "meaning": {
+          "vi": "loach (any fish of family Cobitidae), weather loach (Misgurnus anguillicaudatus), pond loach"
+        },
+        "romaji": "dojou"
       },
       {
         "example": "仏泥鰌",
         "reading": "ほとけどじょう",
-        "meaning": "Japanese eight-barbel loach (Lefua echigonia)"
+        "meaning": {
+          "vi": "Japanese eight-barbel loach (Lefua echigonia)"
+        },
+        "romaji": "hotokedojou"
       },
       {
         "example": "石泥鰌",
         "reading": "いしどじょう",
-        "meaning": "Cobitis takatsuensis (species of loach)"
+        "meaning": {
+          "vi": "Cobitis takatsuensis (species of loach)"
+        },
+        "romaji": "ishidojou"
       }
     ],
     "radical": {
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c0c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c0c.gif",
     "uri": "https://jisho.org/search/%E9%B0%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "thu",
+    "tù"
+  ]
 }

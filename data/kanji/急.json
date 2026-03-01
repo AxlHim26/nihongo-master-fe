@@ -358,44 +358,68 @@
       {
         "example": "急",
         "reading": "キュウ",
-        "meaning": "sudden, abrupt, unexpected, urgent, pressing, steep, sharp, precipitous, rapid, swift, fast, emergency, crisis, danger, urgency, hurrying, haste, (in gagaku or noh) end of a song"
+        "meaning": {
+          "vi": "sudden, abrupt, unexpected, urgent, pressing, steep, sharp, precipitous, rapid, swift, fast, emergency, crisis, danger, urgency, hurrying, haste, (in gagaku or noh) end of a song"
+        },
+        "romaji": "kyuu"
       },
       {
         "example": "急遽",
         "reading": "キュウキョ",
-        "meaning": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        "meaning": {
+          "vi": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        },
+        "romaji": "kyuukyo"
       },
       {
         "example": "準急",
         "reading": "ジュンキュウ",
-        "meaning": "semi-express train, local express train, sub-express train"
+        "meaning": {
+          "vi": "semi-express train, local express train, sub-express train"
+        },
+        "romaji": "junkyuu"
       },
       {
         "example": "快急",
         "reading": "カイキュウ",
-        "meaning": "rapid express (train)"
+        "meaning": {
+          "vi": "rapid express (train)"
+        },
+        "romaji": "kaikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "急ぐ",
         "reading": "いそぐ",
-        "meaning": "to hurry, to rush, to hasten, to make something happen sooner"
+        "meaning": {
+          "vi": "to hurry, to rush, to hasten, to make something happen sooner"
+        },
+        "romaji": "isogu"
       },
       {
         "example": "急ぎ",
         "reading": "いそぎ",
-        "meaning": "haste, hurry, expedition, speed, dispatch"
+        "meaning": {
+          "vi": "haste, hurry, expedition, speed, dispatch"
+        },
+        "romaji": "isogi"
       },
       {
         "example": "急ぎ足",
         "reading": "いそぎあし",
-        "meaning": "fast pace, quick pace"
+        "meaning": {
+          "vi": "fast pace, quick pace"
+        },
+        "romaji": "isogiashi"
       },
       {
         "example": "急く",
         "reading": "せく",
-        "meaning": "to hurry, to rush"
+        "meaning": {
+          "en": "to hurry, to rush"
+        },
+        "romaji": "seku"
       }
     ],
     "radical": {
@@ -415,5 +439,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06025.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6025.gif",
     "uri": "https://jisho.org/search/%E6%80%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấp"
+  ]
 }

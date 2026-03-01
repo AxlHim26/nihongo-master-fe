@@ -254,54 +254,84 @@
       {
         "example": "頃",
         "reading": "ケイ",
-        "meaning": "qing (Chinese unit of land area equal to 100 mu)"
+        "meaning": {
+          "en": "qing (Chinese unit of land area equal to 100 mu)"
+        },
+        "romaji": "kei"
       },
       {
         "example": "頃刻",
         "reading": "ケイコク",
-        "meaning": "short period"
+        "meaning": {
+          "vi": "short period"
+        },
+        "romaji": "keikoku"
       },
       {
         "example": "万頃",
         "reading": "バンケイ",
-        "meaning": "vast expanse"
+        "meaning": {
+          "vi": "vast expanse"
+        },
+        "romaji": "bankei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頃",
         "reading": "ころ",
-        "meaning": "(approximate) time, around, about, toward, suitable time (or condition), time of year, season"
+        "meaning": {
+          "vi": "(approximate) time, around, about, toward, suitable time (or condition), time of year, season"
+        },
+        "romaji": "koro"
       },
       {
         "example": "頃おい",
         "reading": "ころおい",
-        "meaning": "time, period, days"
+        "meaning": {
+          "vi": "time, period, days"
+        },
+        "romaji": "korooi"
       },
       {
         "example": "幼い頃",
         "reading": "おさないころ",
-        "meaning": "when one was a very young child, very early in one's life"
+        "meaning": {
+          "en": "when one was a very young child, very early in one's life"
+        },
+        "romaji": "osanaikoro"
       },
       {
         "example": "間もない頃",
         "reading": "まもないころ",
-        "meaning": "in the early period (of something), at the beginning"
+        "meaning": {
+          "vi": "in the early period (of something), at the beginning"
+        },
+        "romaji": "mamonaikoro"
       },
       {
         "example": "頃",
         "reading": "ころ",
-        "meaning": "(approximate) time, around, about, toward, suitable time (or condition), time of year, season"
+        "meaning": {
+          "vi": "(approximate) time, around, about, toward, suitable time (or condition), time of year, season"
+        },
+        "romaji": "koro"
       },
       {
         "example": "今頃",
         "reading": "いまごろ",
-        "meaning": "about this time, about now"
+        "meaning": {
+          "en": "about this time, about now"
+        },
+        "romaji": "imagoro"
       },
       {
         "example": "今日この頃",
         "reading": "きょうこのごろ",
-        "meaning": "these days, nowadays, recently"
+        "meaning": {
+          "en": "these days, nowadays, recently"
+        },
+        "romaji": "kyoukonogoro"
       }
     ],
     "radical": {
@@ -319,5 +349,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09803.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9803.gif",
     "uri": "https://jisho.org/search/%E9%A0%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoảnh",
+    "khuynh",
+    "khuể"
+  ]
 }

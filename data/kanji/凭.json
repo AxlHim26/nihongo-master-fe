@@ -19,17 +19,26 @@
       {
         "example": "凭れる",
         "reading": "もたれる",
-        "meaning": "dựa vào, nằm dựa, đè nặng (bụng), khó tiêu"
+        "meaning": {
+          "vi": "dựa vào, nằm dựa, đè nặng (bụng), khó tiêu"
+        },
+        "romaji": "motareru"
       },
       {
         "example": "寄る",
         "reading": "よる",
-        "meaning": "đến gần, tụ tập, ghé qua, dựa vào, nhượng bộ"
+        "meaning": {
+          "vi": "đến gần, tụ tập, ghé qua, dựa vào, nhượng bộ"
+        },
+        "romaji": "yoru"
       },
       {
         "example": "倚る",
         "reading": "よる",
-        "meaning": "dựa vào, tựa vào"
+        "meaning": {
+          "vi": "dựa vào, tựa vào"
+        },
+        "romaji": "yoru"
       }
     ],
     "radical": {
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51ed.gif",
     "uri": "https://jisho.org/search/%E5%87%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "bằng",
+    "bẵng"
+  ]
 }

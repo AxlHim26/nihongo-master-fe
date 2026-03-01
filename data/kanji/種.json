@@ -304,44 +304,68 @@
       {
         "example": "種",
         "reading": "シュ",
-        "meaning": "kind, variety, (biological) species, (logical) species"
+        "meaning": {
+          "vi": "kind, variety, (biological) species, (logical) species"
+        },
+        "romaji": "shu"
       },
       {
         "example": "種子",
         "reading": "シュシ",
-        "meaning": "seed, pit"
+        "meaning": {
+          "vi": "seed, pit"
+        },
+        "romaji": "shushi"
       },
       {
         "example": "職種",
         "reading": "ショクシュ",
-        "meaning": "type of occupation, occupational category"
+        "meaning": {
+          "vi": "type of occupation, occupational category"
+        },
+        "romaji": "shokushu"
       },
       {
         "example": "業種",
         "reading": "ギョウシュ",
-        "meaning": "type of industry"
+        "meaning": {
+          "vi": "type of industry"
+        },
+        "romaji": "gyoushu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "種",
         "reading": "たね",
-        "meaning": "seed (e.g. of a plant), pip, kernel, stone (e.g. of a peach), progeny, offspring, issue, breed, paternal blood, lineage, sperm, semen, seed, cause, source, seed, origin, material (e.g. for an article), matter (e.g. of a story), subject (of discussion), theme, (news) copy, source (of a story), ingredient, main ingredient (of a piece of sushi), leaven, mechanism (of a magic trick, etc.), secret, trickery, 10-point card, tane, animal card"
+        "meaning": {
+          "vi": "seed (e.g. of a plant), pip, kernel, stone (e.g. of a peach), progeny, offspring, issue, breed, paternal blood, lineage, sperm, semen, seed, cause, source, seed, origin, material (e.g. for an article), matter (e.g. of a story), subject (of discussion), theme, (news) copy, source (of a story), ingredient, main ingredient (of a piece of sushi), leaven, mechanism (of a magic trick, etc.), secret, trickery, 10-point card, tane, animal card"
+        },
+        "romaji": "tane"
       },
       {
         "example": "種馬",
         "reading": "たねうま",
-        "meaning": "studhorse, stallion, breeding horse"
+        "meaning": {
+          "en": "studhorse, stallion, breeding horse"
+        },
+        "romaji": "taneuma"
       },
       {
         "example": "菜種",
         "reading": "なたね",
-        "meaning": "rapeseed, coleseed"
+        "meaning": {
+          "vi": "rapeseed, coleseed"
+        },
+        "romaji": "natane"
       },
       {
         "example": "麻種",
         "reading": "あさたね",
-        "meaning": "hemp seed"
+        "meaning": {
+          "vi": "hemp seed"
+        },
+        "romaji": "asatane"
       }
     ],
     "radical": {
@@ -359,5 +383,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a2e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a2e.gif",
     "uri": "https://jisho.org/search/%E7%A8%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "chúng",
+    "chủng"
+  ]
 }

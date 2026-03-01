@@ -14,22 +14,34 @@
       {
         "example": "肛門",
         "reading": "コウモン",
-        "meaning": "anus"
+        "meaning": {
+          "en": "anus"
+        },
+        "romaji": "koumon"
       },
       {
         "example": "肛後腸",
         "reading": "コウコウチョウ",
-        "meaning": "postanal gut, post-anal gut, postcloacal gut"
+        "meaning": {
+          "vi": "postanal gut, post-anal gut, postcloacal gut"
+        },
+        "romaji": "koukouchou"
       },
       {
         "example": "脱肛",
         "reading": "ダッコウ",
-        "meaning": "anal prolapse"
+        "meaning": {
+          "vi": "anal prolapse"
+        },
+        "romaji": "dakkou"
       },
       {
         "example": "裂肛",
         "reading": "レッコウ",
-        "meaning": "anal fissure"
+        "meaning": {
+          "en": "anal fissure"
+        },
+        "romaji": "rekkou"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809b.gif",
     "uri": "https://jisho.org/search/%E8%82%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cương",
+    "giang",
+    "khang",
+    "soang",
+    "xoang"
+  ]
 }

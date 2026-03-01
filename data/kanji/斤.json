@@ -16,22 +16,34 @@
       {
         "example": "斤",
         "reading": "キン",
-        "meaning": "kin, catty, traditional unit of weight, 600g, pound (unit of weight), loaf (of bread)"
+        "meaning": {
+          "vi": "kin, catty, traditional unit of weight, 600g, pound (unit of weight), loaf (of bread)"
+        },
+        "romaji": "kin"
       },
       {
         "example": "斤目",
         "reading": "キンメ",
-        "meaning": "weight"
+        "meaning": {
+          "en": "weight"
+        },
+        "romaji": "kinme"
       },
       {
         "example": "英斤",
         "reading": "エイキン",
-        "meaning": "pound (unit of weight)"
+        "meaning": {
+          "vi": "pound (unit of weight)"
+        },
+        "romaji": "eikin"
       },
       {
         "example": "一斤",
         "reading": "イッキン",
-        "meaning": "1 kin (approx. 0.6 kg), 1 loaf of bread"
+        "meaning": {
+          "vi": "1 kin (approx. 0.6 kg), 1 loaf of bread"
+        },
+        "romaji": "ikkin"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065a4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65a4.gif",
     "uri": "https://jisho.org/search/%E6%96%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "cân",
+    "cấn"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "鯰",
         "reading": "なまず",
-        "meaning": "catfish (esp. the Amur catfish, Silurus asotus), earthquake"
+        "meaning": {
+          "vi": "catfish (esp. the Amur catfish, Silurus asotus), earthquake"
+        },
+        "romaji": "namazu"
       },
       {
         "example": "鯰絵",
         "reading": "なまずえ",
-        "meaning": "woodblock print depicting a giant catfish (popular in Edo after the 1855 earthquake)"
+        "meaning": {
+          "vi": "woodblock print depicting a giant catfish (popular in Edo after the 1855 earthquake)"
+        },
+        "romaji": "namazue"
       },
       {
         "example": "大ナマズ",
         "reading": "だいナマズ",
-        "meaning": "giant catfish (mythological being thought to cause earthquakes)"
+        "meaning": {
+          "en": "giant catfish (mythological being thought to cause earthquakes)"
+        },
+        "romaji": "dainamazu"
       },
       {
         "example": "琵琶湖大鯰",
         "reading": "びわこおおなまず",
-        "meaning": "Lake Biwa catfish (Silurus biwaensis)"
+        "meaning": {
+          "en": "Lake Biwa catfish (Silurus biwaensis)"
+        },
+        "romaji": "biwakooonamazu"
       }
     ],
     "radical": {
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bf0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bf0.gif",
     "uri": "https://jisho.org/search/%E9%AF%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "niêm",
+    "niềm"
+  ]
 }

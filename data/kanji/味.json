@@ -351,49 +351,74 @@
       {
         "example": "味",
         "reading": "ミ",
-        "meaning": "(sense of) taste, counter for kinds of food, drink or medicine"
+        "meaning": {
+          "en": "(sense of) taste, counter for kinds of food, drink or medicine"
+        },
+        "romaji": "mi"
       },
       {
         "example": "【ミ】",
         "reading": "-ness (as in &quot;sweetness&quot;), -th (as in &quot;warmth&quot;), a touch of, a tinge of, place, alternating between ... and ..., sometimes ... and sometimes ...",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "-ness (as in &quot;sweetness&quot;), -th (as in &quot;warmth&quot;), a touch of, a tinge of, place, alternating between ... and ..., sometimes ... and sometimes ..."
       },
       {
         "example": "厚み",
         "reading": "アツミ",
-        "meaning": "thickness, profundity, depth"
+        "meaning": {
+          "vi": "thickness, profundity, depth"
+        },
+        "romaji": "atsumi"
       },
       {
         "example": "加味",
         "reading": "カミ",
-        "meaning": "seasoning, flavoring, flavouring, addition, inclusion, taking into account"
+        "meaning": {
+          "en": "seasoning, flavoring, flavouring, addition, inclusion, taking into account"
+        },
+        "romaji": "kami"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "味",
         "reading": "あじ",
-        "meaning": "flavor, flavour, taste, charm, appeal, uniqueness, attractiveness, experience, taste (e.g. of victory), smart, clever, witty, strange"
+        "meaning": {
+          "vi": "flavor, flavour, taste, charm, appeal, uniqueness, attractiveness, experience, taste (e.g. of victory), smart, clever, witty, strange"
+        },
+        "romaji": "aji"
       },
       {
         "example": "味付け",
         "reading": "あじつけ",
-        "meaning": "seasoning, flavour, flavor"
+        "meaning": {
+          "en": "seasoning, flavour, flavor"
+        },
+        "romaji": "ajitsuke"
       },
       {
         "example": "切れ味",
         "reading": "きれあじ",
-        "meaning": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball)"
+        "meaning": {
+          "vi": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball)"
+        },
+        "romaji": "kireaji"
       },
       {
         "example": "下味",
         "reading": "したあじ",
-        "meaning": "seasoning of food"
+        "meaning": {
+          "en": "seasoning of food"
+        },
+        "romaji": "shitaaji"
       },
       {
         "example": "味わう",
         "reading": "あじわう",
-        "meaning": "to taste, to savor, to savour, to relish, to appreciate, to enjoy, to relish, to digest, to experience, to go through, to taste (e.g. victory), to know (e.g. pain)"
+        "meaning": {
+          "vi": "to taste, to savor, to savour, to relish, to appreciate, to enjoy, to relish, to digest, to experience, to go through, to taste (e.g. victory), to know (e.g. pain)"
+        },
+        "romaji": "ajiwau"
       }
     ],
     "radical": {
@@ -412,5 +437,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05473.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5473.gif",
     "uri": "https://jisho.org/search/%E5%91%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "vị"
+  ]
 }

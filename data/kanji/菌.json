@@ -17,22 +17,34 @@
       {
         "example": "菌",
         "reading": "キン",
-        "meaning": "fungus, germ, bacterium, bacillus"
+        "meaning": {
+          "en": "fungus, germ, bacterium, bacillus"
+        },
+        "romaji": "kin"
       },
       {
         "example": "菌類",
         "reading": "キンルイ",
-        "meaning": "fungus, fungi"
+        "meaning": {
+          "en": "fungus, fungi"
+        },
+        "romaji": "kinrui"
       },
       {
         "example": "球菌",
         "reading": "キュウキン",
-        "meaning": "coccus"
+        "meaning": {
+          "en": "coccus"
+        },
+        "romaji": "kyuukin"
       },
       {
         "example": "抗菌",
         "reading": "コウキン",
-        "meaning": "antibacterial, antimicrobial"
+        "meaning": {
+          "en": "antibacterial, antimicrobial"
+        },
+        "romaji": "koukin"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83cc.gif",
     "uri": "https://jisho.org/search/%E8%8F%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuẩn"
+  ]
 }

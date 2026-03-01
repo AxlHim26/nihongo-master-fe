@@ -17,22 +17,34 @@
       {
         "example": "蜜",
         "reading": "ミツ",
-        "meaning": "nectar, honey, honeydew, treacle, molasses, sorbitol (when visible as dark patches inside an apple)"
+        "meaning": {
+          "vi": "nectar, honey, honeydew, treacle, molasses, sorbitol (when visible as dark patches inside an apple)"
+        },
+        "romaji": "mitsu"
       },
       {
         "example": "蜜月",
         "reading": "ミツゲツ",
-        "meaning": "honeymoon, being in an intimate relationship, honeymoon (period)"
+        "meaning": {
+          "vi": "honeymoon, being in an intimate relationship, honeymoon (period)"
+        },
+        "romaji": "mitsugetsu"
       },
       {
         "example": "水蜜",
         "reading": "スイミツ",
-        "meaning": "white peach"
+        "meaning": {
+          "vi": "white peach"
+        },
+        "romaji": "suimitsu"
       },
       {
         "example": "糖蜜",
         "reading": "トウミツ",
-        "meaning": "molasses, black treacle, (sugar) syrup"
+        "meaning": {
+          "vi": "molasses, black treacle, (sugar) syrup"
+        },
+        "romaji": "toumitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0871c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/871c.gif",
     "uri": "https://jisho.org/search/%E8%9C%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "mật"
+  ]
 }

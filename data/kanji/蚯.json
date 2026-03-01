@@ -16,19 +16,26 @@
       {
         "example": "蚯蚓",
         "reading": "キュウイン",
-        "meaning": "earthworm"
+        "meaning": {
+          "en": "earthworm"
+        },
+        "romaji": "kyuuin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ミミズ】",
         "reading": "earthworm, worm",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "earthworm, worm"
       },
       {
         "example": "蚯蚓蜥蜴",
         "reading": "みみずとかげ",
-        "meaning": "worm lizard, amphisbaenian"
+        "meaning": {
+          "vi": "worm lizard, amphisbaenian"
+        },
+        "romaji": "mimizutokage"
       }
     ],
     "radical": {
@@ -44,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86af.gif",
     "uri": "https://jisho.org/search/%E8%9A%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "khâu",
+    "khưu"
+  ]
 }

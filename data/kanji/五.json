@@ -21,7 +21,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_a.mp3"
-        }
+        },
+        "meaningVN": "có thể",
+        "hanViet": "ngũ nguyệt",
+        "hanVietExplain": "五 (ngũ: năm, 5) + 月 (nguyệt: Mặt Trăng) → có thể"
       },
       {
         "japanese": "五時間（ごじかん）",
@@ -34,7 +37,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_b.mp3"
-        }
+        },
+        "meaningVN": "5 giờ",
+        "hanViet": "ngũ thì gian",
+        "hanVietExplain": "五 (ngũ: năm, 5) + 時 (thì: lúc) + 間 (gian: khoảng không gian) → 5 giờ"
       },
       {
         "japanese": "五階（ごかい）",
@@ -47,7 +53,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_c.mp3"
-        }
+        },
+        "meaningVN": "tầng 5",
+        "hanViet": "ngũ giai",
+        "hanVietExplain": "五 (ngũ: năm, 5) + 階 (giai: cấp bậc) → tầng 5"
       },
       {
         "japanese": "五人（ごにん）",
@@ -60,7 +69,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_d.mp3"
-        }
+        },
+        "meaningVN": "5 người",
+        "hanViet": "ngũ nhân",
+        "hanVietExplain": "五 (ngũ: năm, 5) + 人 (nhân: người) → 5 người"
       },
       {
         "japanese": "五つ（いつつ）",
@@ -73,7 +85,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_e.mp3"
-        }
+        },
+        "meaningVN": "5 (đối tượng)",
+        "hanViet": "ngũ つ",
+        "hanVietExplain": "ngũ: năm, 5"
       },
       {
         "japanese": "五日（いつか）",
@@ -86,7 +101,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/5_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/5_06_f.mp3"
-        }
+        },
+        "meaningVN": "5 ngày, ngày 5 hàng tháng",
+        "hanViet": "ngũ nhật",
+        "hanVietExplain": "五 (ngũ: năm, 5) + 日 (nhật: Mặt Trời) → 5 ngày, ngày 5 hàng tháng"
       }
     ],
     "kunyomi_ja": "いつ、いつつ",
@@ -308,44 +326,92 @@
       {
         "example": "五",
         "reading": "ゴ",
-        "meaning": "five, 5"
+        "meaning": {
+          "en": "five, 5"
+        },
+        "meaningVN": "năm, 5",
+        "hanViet": "ngũ",
+        "hanVietExplain": "ngũ: năm, 5",
+        "romaji": "go"
       },
       {
         "example": "５月",
         "reading": "ゴガツ",
-        "meaning": "May, fifth month of the lunar calendar"
+        "meaning": {
+          "en": "May, fifth month of the lunar calendar"
+        },
+        "meaningVN": "tháng năm, tháng năm âm lịch",
+        "hanViet": "５ nguyệt",
+        "hanVietExplain": "nguyệt: Mặt Trăng, tháng",
+        "romaji": "gogatsu"
       },
       {
         "example": "端午",
         "reading": "タンゴ",
-        "meaning": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+        "meaning": {
+          "en": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+        },
+        "meaningVN": "lễ kỷ niệm ngày bé trai (5/5), lễ hội thuyền rồng (trung quốc)",
+        "hanViet": "đoan ngọ",
+        "hanVietExplain": "端 (đoan: đầu, mối) + 午 (ngọ: buổi trưa) → lễ kỷ niệm ngày bé trai (5/5), lễ hội thuyền rồng (trung quốc)",
+        "romaji": "tango"
       },
       {
         "example": "第五",
         "reading": "ダイゴ",
-        "meaning": "fifth"
+        "meaning": {
+          "en": "fifth"
+        },
+        "meaningVN": "thứ năm",
+        "hanViet": "đệ ngũ",
+        "hanVietExplain": "第 (đệ: thứ bậc) + 五 (ngũ: năm, 5) → thứ năm",
+        "romaji": "daigo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "五",
         "reading": "ご",
-        "meaning": "five, 5"
+        "meaning": {
+          "en": "five, 5"
+        },
+        "meaningVN": "năm, 5",
+        "hanViet": "ngũ",
+        "hanVietExplain": "ngũ: năm, 5",
+        "romaji": "go"
       },
       {
         "example": "五つ",
         "reading": "いつつ",
-        "meaning": "five, five years of age, eight o'clock (old time system)"
+        "meaning": {
+          "en": "five, five years of age, eight o'clock (old time system)"
+        },
+        "meaningVN": "năm, năm tuổi, tám giờ (hệ thống thời gian cũ)",
+        "hanViet": "ngũ つ",
+        "hanVietExplain": "ngũ: năm, 5",
+        "romaji": "itsutsu"
       },
       {
         "example": "五つ",
         "reading": "いつつ",
-        "meaning": "five, five years of age, eight o'clock (old time system)"
+        "meaning": {
+          "en": "five, five years of age, eight o'clock (old time system)"
+        },
+        "meaningVN": "năm, năm tuổi, tám giờ (hệ thống thời gian cũ)",
+        "hanViet": "ngũ つ",
+        "hanVietExplain": "ngũ: năm, 5",
+        "romaji": "itsutsu"
       },
       {
         "example": "五つ子",
         "reading": "いつつご",
-        "meaning": "quintuplets"
+        "meaning": {
+          "vi": "quintuplets"
+        },
+        "meaningVN": "năm đứa con",
+        "hanViet": "ngũ つ tí",
+        "hanVietExplain": "五 (ngũ: năm, 5) + 子 (tí: Tý (ngôi thứ nhất hàng Chi)) → năm đứa con",
+        "romaji": "itsutsugo"
       }
     ],
     "radical": {
@@ -359,5 +425,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e94.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e94.gif",
     "uri": "https://jisho.org/search/%E4%BA%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngũ"
+  ],
+  "meaningVN": "năm",
+  "hanVietExplain": "ngũ: năm, 5"
 }

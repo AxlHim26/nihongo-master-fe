@@ -16,17 +16,26 @@
       {
         "example": "宸翰",
         "reading": "シンカン",
-        "meaning": "Imperial letter"
+        "meaning": {
+          "vi": "Imperial letter"
+        },
+        "romaji": "shinkan"
       },
       {
         "example": "宸襟",
         "reading": "シンキン",
-        "meaning": "mind of the emperor, inner feelings of the emperor"
+        "meaning": {
+          "vi": "mind of the emperor, inner feelings of the emperor"
+        },
+        "romaji": "shinkin"
       },
       {
         "example": "儀宸",
         "reading": "ギシン",
-        "meaning": "empress dowager's home"
+        "meaning": {
+          "vi": "empress dowager's home"
+        },
+        "romaji": "gishin"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb8.gif",
     "uri": "https://jisho.org/search/%E5%AE%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thần"
+  ]
 }

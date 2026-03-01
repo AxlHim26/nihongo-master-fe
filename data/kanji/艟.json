@@ -18,7 +18,10 @@
       {
         "example": "艨艟",
         "reading": "モウドウ",
-        "meaning": "warship"
+        "meaning": {
+          "vi": "warship"
+        },
+        "romaji": "moudou"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0825f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/825f.gif",
     "uri": "https://jisho.org/search/%E8%89%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồng"
+  ]
 }

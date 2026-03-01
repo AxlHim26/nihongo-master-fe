@@ -18,7 +18,10 @@
       {
         "example": "恁麼",
         "reading": "インモ",
-        "meaning": "kiểu này, cách này, kiểu gì, loại gì"
+        "meaning": {
+          "vi": "kiểu này, cách này, kiểu gì, loại gì"
+        },
+        "romaji": "inmo"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebc.gif",
     "uri": "https://jisho.org/search/%E9%BA%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "ma"
+  ]
 }

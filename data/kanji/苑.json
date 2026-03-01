@@ -20,39 +20,60 @@
       {
         "example": "園",
         "reading": "エン",
-        "meaning": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
+        "meaning": {
+          "vi": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
+        },
+        "romaji": "en"
       },
       {
         "example": "園内",
         "reading": "エンナイ",
-        "meaning": "inside the kindergarten, inside the zoo, inside the garden, inside the park"
+        "meaning": {
+          "vi": "inside the kindergarten, inside the zoo, inside the garden, inside the park"
+        },
+        "romaji": "ennai"
       },
       {
         "example": "霊園",
         "reading": "レイエン",
-        "meaning": "(garden) cemetery, park-style cemetery, memorial park"
+        "meaning": {
+          "vi": "(garden) cemetery, park-style cemetery, memorial park"
+        },
+        "romaji": "reien"
       },
       {
         "example": "外苑",
         "reading": "ガイエン",
-        "meaning": "outer garden"
+        "meaning": {
+          "en": "outer garden"
+        },
+        "romaji": "gaien"
       },
       {
         "example": "紫苑",
         "reading": "シオン",
-        "meaning": "aster (Aster tataricus), Tartarian aster, Michaelmas daisy"
+        "meaning": {
+          "en": "aster (Aster tataricus), Tartarian aster, Michaelmas daisy"
+        },
+        "romaji": "shion"
       },
       {
         "example": "鹿野苑",
         "reading": "ロクヤオン",
-        "meaning": "Magadaava (where Buddha delivered his first sermon), The Deer Park"
+        "meaning": {
+          "vi": "Magadaava (where Buddha delivered his first sermon), The Deer Park"
+        },
+        "romaji": "rokuyaon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "園",
         "reading": "その",
-        "meaning": "garden, orchard, park, place, world, environment"
+        "meaning": {
+          "vi": "garden, orchard, park, place, world, environment"
+        },
+        "romaji": "sono"
       }
     ],
     "radical": {
@@ -71,5 +92,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d1.gif",
     "uri": "https://jisho.org/search/%E8%8B%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "uyển",
+    "uân",
+    "uất",
+    "uẩn"
+  ]
 }

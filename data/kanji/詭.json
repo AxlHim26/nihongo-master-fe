@@ -16,12 +16,18 @@
       {
         "example": "詭弁",
         "reading": "キベン",
-        "meaning": "ngụy biện"
+        "meaning": {
+          "vi": "ngụy biện"
+        },
+        "romaji": "kiben"
       },
       {
         "example": "詭計",
         "reading": "キケイ",
-        "meaning": "mưu mẹo, thủ đoạn"
+        "meaning": {
+          "vi": "mưu mẹo, thủ đoạn"
+        },
+        "romaji": "kikei"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a6d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a6d.gif",
     "uri": "https://jisho.org/search/%E8%A9%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguỵ",
+    "quỷ"
+  ]
 }

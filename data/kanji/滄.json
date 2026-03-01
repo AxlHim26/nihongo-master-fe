@@ -14,12 +14,18 @@
       {
         "example": "滄海",
         "reading": "ソウカイ",
-        "meaning": "the blue sea, blue waters"
+        "meaning": {
+          "en": "the blue sea, blue waters"
+        },
+        "romaji": "soukai"
       },
       {
         "example": "滄海一滴",
         "reading": "ソウカイイッテキ",
-        "meaning": "a drop in the ocean (bucket)"
+        "meaning": {
+          "vi": "a drop in the ocean (bucket)"
+        },
+        "romaji": "soukaiitteki"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec4.gif",
     "uri": "https://jisho.org/search/%E6%BB%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "thương"
+  ]
 }

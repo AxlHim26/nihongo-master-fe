@@ -361,57 +361,90 @@
       {
         "example": "格",
         "reading": "カク",
-        "meaning": "status, position, rank, method, way, style, rule, regulation, law, case, figure (form of a syllogism)"
+        "meaning": {
+          "vi": "status, position, rank, method, way, style, rule, regulation, law, case, figure (form of a syllogism)"
+        },
+        "romaji": "kaku"
       },
       {
         "example": "格上げ",
         "reading": "カクアゲ",
-        "meaning": "status elevation, upgrading, promotion"
+        "meaning": {
+          "vi": "status elevation, upgrading, promotion"
+        },
+        "romaji": "kakuage"
       },
       {
         "example": "規格",
         "reading": "キカク",
-        "meaning": "standard, norm"
+        "meaning": {
+          "en": "standard, norm"
+        },
+        "romaji": "kikaku"
       },
       {
         "example": "低価格",
         "reading": "テイカカク",
-        "meaning": "low price"
+        "meaning": {
+          "vi": "low price"
+        },
+        "romaji": "teikakaku"
       },
       {
         "example": "格子",
         "reading": "コウシ",
-        "meaning": "lattice, latticework, window bars, grid, grating, trellis, lattice door, check(ed) pattern, plaid"
+        "meaning": {
+          "vi": "lattice, latticework, window bars, grid, grating, trellis, lattice door, check(ed) pattern, plaid"
+        },
+        "romaji": "koushi"
       },
       {
         "example": "格子柄",
         "reading": "コウシガラ",
-        "meaning": "check pattern, checked pattern, checkered pattern, plaid, lattice design"
+        "meaning": {
+          "vi": "check pattern, checked pattern, checkered pattern, plaid, lattice design"
+        },
+        "romaji": "koushigara"
       },
       {
         "example": "格",
         "reading": "キャク",
-        "meaning": "amendment (to ritsuryō)"
+        "meaning": {
+          "en": "amendment (to ritsuryō)"
+        },
+        "romaji": "kyaku"
       },
       {
         "example": "格式",
         "reading": "カクシキ",
-        "meaning": "formality, social rules, social status, social standing, amendments and enforcement regulations (of the ritsuryō)"
+        "meaning": {
+          "en": "formality, social rules, social status, social standing, amendments and enforcement regulations (of the ritsuryō)"
+        },
+        "romaji": "kakushiki"
       },
       {
         "example": "弘仁格",
         "reading": "コウニンキャク",
-        "meaning": "Ordinance of the Konin Era"
+        "meaning": {
+          "en": "Ordinance of the Konin Era"
+        },
+        "romaji": "kouninkyaku"
       },
       {
         "example": "格組",
         "reading": "ゴウグミ",
-        "meaning": "wooden framework"
+        "meaning": {
+          "en": "wooden framework"
+        },
+        "romaji": "gougumi"
       },
       {
         "example": "格天井",
         "reading": "ゴウテンジョウ",
-        "meaning": "coffered ceiling"
+        "meaning": {
+          "en": "coffered ceiling"
+        },
+        "romaji": "goutenjou"
       }
     ],
     "kunyomiExamples": [],
@@ -428,5 +461,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0683c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/683c.gif",
     "uri": "https://jisho.org/search/%E6%A0%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "các",
+    "cách"
+  ]
 }

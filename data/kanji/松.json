@@ -243,44 +243,68 @@
       {
         "example": "松竹梅",
         "reading": "ショウチクバイ",
-        "meaning": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)"
+        "meaning": {
+          "vi": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)"
+        },
+        "romaji": "shouchikubai"
       },
       {
         "example": "鰹",
         "reading": "カツオ",
-        "meaning": "skipjack tuna (Katsuwonus pelamis), oceanic bonito, victorfish"
+        "meaning": {
+          "vi": "skipjack tuna (Katsuwonus pelamis), oceanic bonito, victorfish"
+        },
+        "romaji": "katsuo"
       },
       {
         "example": "老松",
         "reading": "ロウショウ",
-        "meaning": "old pine tree"
+        "meaning": {
+          "vi": "old pine tree"
+        },
+        "romaji": "roushou"
       },
       {
         "example": "翠松",
         "reading": "スイショウ",
-        "meaning": "verdant pine, green pine"
+        "meaning": {
+          "vi": "verdant pine, green pine"
+        },
+        "romaji": "suishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "松",
         "reading": "まつ",
-        "meaning": "pine tree (Pinus spp.), highest (of a three-tier ranking system)"
+        "meaning": {
+          "vi": "pine tree (Pinus spp.), highest (of a three-tier ranking system)"
+        },
+        "romaji": "matsu"
       },
       {
         "example": "松下電工",
         "reading": "まつしたでんこう",
-        "meaning": "Matsushita Electric Works"
+        "meaning": {
+          "en": "Matsushita Electric Works"
+        },
+        "romaji": "matsushitadenkou"
       },
       {
         "example": "赤松",
         "reading": "あかまつ",
-        "meaning": "Japanese red pine (Pinus densiflora), Japanese umbrella pine, tanyosho pine"
+        "meaning": {
+          "vi": "Japanese red pine (Pinus densiflora), Japanese umbrella pine, tanyosho pine"
+        },
+        "romaji": "akamatsu"
       },
       {
         "example": "浜松",
         "reading": "はままつ",
-        "meaning": "Hamamatsu (city)"
+        "meaning": {
+          "en": "Hamamatsu (city)"
+        },
+        "romaji": "hamamatsu"
       }
     ],
     "radical": {
@@ -296,5 +320,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0677e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/677e.gif",
     "uri": "https://jisho.org/search/%E6%9D%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "tung",
+    "tông",
+    "tùng"
+  ]
 }

@@ -18,64 +18,100 @@
       {
         "example": "垢衣",
         "reading": "コウイ",
-        "meaning": "dirty clothes, grimy clothes"
+        "meaning": {
+          "en": "dirty clothes, grimy clothes"
+        },
+        "romaji": "koui"
       },
       {
         "example": "垢膩",
         "reading": "コウジ",
-        "meaning": "dirt and grease, filth, grime"
+        "meaning": {
+          "en": "dirt and grease, filth, grime"
+        },
+        "romaji": "kouji"
       },
       {
         "example": "恥垢",
         "reading": "チコウ",
-        "meaning": "smegma"
+        "meaning": {
+          "en": "smegma"
+        },
+        "romaji": "chikou"
       },
       {
         "example": "膣垢",
         "reading": "チツコウ",
-        "meaning": "vaginal smear"
+        "meaning": {
+          "en": "vaginal smear"
+        },
+        "romaji": "chitsukou"
       },
       {
         "example": "垢",
         "reading": "ク",
-        "meaning": "klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"
+        "meaning": {
+          "vi": "klesha (polluting thoughts such as greed, hatred and delusion, which result in suffering)"
+        },
+        "romaji": "ku"
       },
       {
         "example": "垢膩",
         "reading": "コウジ",
-        "meaning": "dirt and grease, filth, grime"
+        "meaning": {
+          "en": "dirt and grease, filth, grime"
+        },
+        "romaji": "kouji"
       },
       {
         "example": "無垢",
         "reading": "ムク",
-        "meaning": "pure, innocent, spotless, immaculate, unspoiled, pure, unmixed, unadulterated, long kimono made from the same plain-coloured cloth"
+        "meaning": {
+          "vi": "pure, innocent, spotless, immaculate, unspoiled, pure, unmixed, unadulterated, long kimono made from the same plain-coloured cloth"
+        },
+        "romaji": "muku"
       },
       {
         "example": "純粋無垢",
         "reading": "ジュンスイムク",
-        "meaning": "pure and innocent, immaculate"
+        "meaning": {
+          "vi": "pure and innocent, immaculate"
+        },
+        "romaji": "junsuimuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "垢",
         "reading": "あか",
-        "meaning": "dirt, filth, grime"
+        "meaning": {
+          "en": "dirt, filth, grime"
+        },
+        "romaji": "aka"
       },
       {
         "example": "垢",
         "reading": "アカ",
-        "meaning": "account (e.g. for an online service)"
+        "meaning": {
+          "en": "account (e.g. for an online service)"
+        },
+        "romaji": "aka"
       },
       {
         "example": "廃垢",
         "reading": "はいアカ",
-        "meaning": "abandoned account (on social media, etc.), unused account, old account"
+        "meaning": {
+          "en": "abandoned account (on social media, etc.), unused account, old account"
+        },
+        "romaji": "haiaka"
       },
       {
         "example": "鍵垢",
         "reading": "かぎアカ",
-        "meaning": "private account (on social media, esp. Twitter), account that can only be viewed by approved followers"
+        "meaning": {
+          "vi": "private account (on social media, esp. Twitter), account that can only be viewed by approved followers"
+        },
+        "romaji": "kagiaka"
       }
     ],
     "radical": {
@@ -94,5 +130,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a2.gif",
     "uri": "https://jisho.org/search/%E5%9E%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấu"
+  ]
 }

@@ -367,34 +367,52 @@
       {
         "example": "観",
         "reading": "カン",
-        "meaning": "look, appearance, spectacle, sight, observation meditation, outlook on ..., view of ..."
+        "meaning": {
+          "vi": "look, appearance, spectacle, sight, observation meditation, outlook on ..., view of ..."
+        },
+        "romaji": "kan"
       },
       {
         "example": "看過",
         "reading": "カンカ",
-        "meaning": "overlooking, turning a blind eye"
+        "meaning": {
+          "en": "overlooking, turning a blind eye"
+        },
+        "romaji": "kanka"
       },
       {
         "example": "客観",
         "reading": "キャッカン",
-        "meaning": "objectivity, objective, object (philosophical)"
+        "meaning": {
+          "vi": "objectivity, objective, object (philosophical)"
+        },
+        "romaji": "kyakkan"
       },
       {
         "example": "静観",
         "reading": "セイカン",
-        "meaning": "watchful waiting, careful supervision"
+        "meaning": {
+          "vi": "watchful waiting, careful supervision"
+        },
+        "romaji": "seikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": {
+          "vi": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        },
+        "romaji": "miru"
       },
       {
         "example": "観る将",
         "reading": "みるしょう",
-        "meaning": "shogi spectator, shogi fan who enjoys watching matches but does not play"
+        "meaning": {
+          "vi": "shogi spectator, shogi fan who enjoys watching matches but does not play"
+        },
+        "romaji": "mirushou"
       }
     ],
     "radical": {
@@ -411,5 +429,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89b3.gif",
     "uri": "https://jisho.org/search/%E8%A6%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "quan",
+    "quán"
+  ]
 }

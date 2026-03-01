@@ -298,22 +298,34 @@
       {
         "example": "賃",
         "reading": "チン",
-        "meaning": "hire (charge), rent, charge, fare, fee, freight, wages, payment"
+        "meaning": {
+          "vi": "hire (charge), rent, charge, fare, fee, freight, wages, payment"
+        },
+        "romaji": "chin"
       },
       {
         "example": "賃上げ",
         "reading": "チンアゲ",
-        "meaning": "wage increase, pay rise"
+        "meaning": {
+          "vi": "wage increase, pay rise"
+        },
+        "romaji": "chin'age"
       },
       {
         "example": "労賃",
         "reading": "ロウチン",
-        "meaning": "wages"
+        "meaning": {
+          "en": "wages"
+        },
+        "romaji": "rouchin"
       },
       {
         "example": "工賃",
         "reading": "コウチン",
-        "meaning": "labor cost, charge, wages, pay"
+        "meaning": {
+          "vi": "labor cost, charge, wages, pay"
+        },
+        "romaji": "kouchin"
       }
     ],
     "kunyomiExamples": [],
@@ -332,5 +344,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc3.gif",
     "uri": "https://jisho.org/search/%E8%B3%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhấm",
+    "nhẫm"
+  ]
 }

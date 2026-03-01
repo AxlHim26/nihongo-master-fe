@@ -17,22 +17,34 @@
       {
         "example": "凛",
         "reading": "リン",
-        "meaning": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
+        "meaning": {
+          "vi": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
+        },
+        "romaji": "rin"
       },
       {
         "example": "凛乎",
         "reading": "リンコ",
-        "meaning": "commanding, awe-inspiring"
+        "meaning": {
+          "vi": "commanding, awe-inspiring"
+        },
+        "romaji": "rinko"
       },
       {
         "example": "凛々",
         "reading": "リンリン",
-        "meaning": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
+        "meaning": {
+          "vi": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
+        },
+        "romaji": "rinrin"
       },
       {
         "example": "勇気凛凛",
         "reading": "ユウキリンリン",
-        "meaning": "full of spirit, brimming with courage, high-spirited, mettlesome"
+        "meaning": {
+          "vi": "full of spirit, brimming with courage, high-spirited, mettlesome"
+        },
+        "romaji": "yuukirinrin"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51dc.gif",
     "uri": "https://jisho.org/search/%E5%87%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "lẫm"
+  ]
 }

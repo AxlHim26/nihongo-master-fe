@@ -18,24 +18,36 @@
       {
         "example": "黛青",
         "reading": "タイセイ",
-        "meaning": "xanh đen"
+        "meaning": {
+          "vi": "xanh đen"
+        },
+        "romaji": "taisei"
       },
       {
         "example": "翠黛",
         "reading": "スイタイ",
-        "meaning": "bút kẻ mày xanh, lông mày xanh, xanh mờ (núi xa)"
+        "meaning": {
+          "vi": "bút kẻ mày xanh, lông mày xanh, xanh mờ (núi xa)"
+        },
+        "romaji": "suitai"
       },
       {
         "example": "青黛",
         "reading": "セイタイ",
-        "meaning": "bút kẻ mày xanh, lông mày xanh, xanh đậm, xanh thẫm"
+        "meaning": {
+          "vi": "bút kẻ mày xanh, lông mày xanh, xanh đậm, xanh thẫm"
+        },
+        "romaji": "seitai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "眉墨",
         "reading": "まゆずみ",
-        "meaning": "bút kẻ mày, lông mày nhuộm đen, (ẩn dụ) dãy núi xa"
+        "meaning": {
+          "vi": "bút kẻ mày, lông mày nhuộm đen, (ẩn dụ) dãy núi xa"
+        },
+        "romaji": "mayuzumi"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edb.gif",
     "uri": "https://jisho.org/search/%E9%BB%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "đại"
+  ]
 }

@@ -21,34 +21,52 @@
       {
         "example": "惟神",
         "reading": "カンナガラ",
-        "meaning": "as a god, as was done in the age of the gods"
+        "meaning": {
+          "en": "as a god, as was done in the age of the gods"
+        },
+        "romaji": "kannagara"
       },
       {
         "example": "思惟",
         "reading": "シイ",
-        "meaning": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting"
+        "meaning": {
+          "vi": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting"
+        },
+        "romaji": "shii"
       },
       {
         "example": "思惟",
         "reading": "シイ",
-        "meaning": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting"
+        "meaning": {
+          "vi": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting"
+        },
+        "romaji": "shii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "思い見る",
         "reading": "おもいみる",
-        "meaning": "to reflect carefully"
+        "meaning": {
+          "en": "to reflect carefully"
+        },
+        "romaji": "omoimiru"
       },
       {
         "example": "此れ",
         "reading": "これ",
-        "meaning": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
+        "meaning": {
+          "vi": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
+        },
+        "romaji": "kore"
       },
       {
         "example": "思うに",
         "reading": "おもうに",
-        "meaning": "presumably, conceivably, in my opinion, in my view, I think (that), upon thought, upon reflection"
+        "meaning": {
+          "vi": "presumably, conceivably, in my opinion, in my view, I think (that), upon thought, upon reflection"
+        },
+        "romaji": "omouni"
       }
     ],
     "radical": {
@@ -67,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60df.gif",
     "uri": "https://jisho.org/search/%E6%83%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "duy"
+  ]
 }

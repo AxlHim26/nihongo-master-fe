@@ -21,49 +21,76 @@
       {
         "example": "斯界",
         "reading": "シカイ",
-        "meaning": "this field, this subject"
+        "meaning": {
+          "en": "this field, this subject"
+        },
+        "romaji": "shikai"
       },
       {
         "example": "斯学",
         "reading": "シガク",
-        "meaning": "this academic subject"
+        "meaning": {
+          "en": "this academic subject"
+        },
+        "romaji": "shigaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "斯かる",
         "reading": "かかる",
-        "meaning": "such, like this"
+        "meaning": {
+          "en": "such, like this"
+        },
+        "romaji": "kakaru"
       },
       {
         "example": "斯かる程に",
         "reading": "かかるほどに",
-        "meaning": "even now"
+        "meaning": {
+          "en": "even now"
+        },
+        "romaji": "kakaruhodoni"
       },
       {
         "example": "斯う",
         "reading": "こう",
-        "meaning": "in this way, like this, so, thus, this (much), so, uh, er, mm, well"
+        "meaning": {
+          "en": "in this way, like this, so, thus, this (much), so, uh, er, mm, well"
+        },
+        "romaji": "kou"
       },
       {
         "example": "斯う斯う",
         "reading": "こうこう",
-        "meaning": "so and so, such and such"
+        "meaning": {
+          "en": "so and so, such and such"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "斯く",
         "reading": "かく",
-        "meaning": "like this, such, thus, in this way"
+        "meaning": {
+          "en": "like this, such, thus, in this way"
+        },
+        "romaji": "kaku"
       },
       {
         "example": "かく言う",
         "reading": "かくいう",
-        "meaning": "in this way, along these lines, similarly"
+        "meaning": {
+          "en": "in this way, along these lines, similarly"
+        },
+        "romaji": "kakuiu"
       },
       {
         "example": "此の",
         "reading": "この",
-        "meaning": "this, last (couple of years, etc.), these, past, this, you (as in \"you liar\")"
+        "meaning": {
+          "vi": "this, last (couple of years, etc.), these, past, this, you (as in \"you liar\")"
+        },
+        "romaji": "kono"
       }
     ],
     "radical": {
@@ -79,5 +106,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65af.gif",
     "uri": "https://jisho.org/search/%E6%96%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

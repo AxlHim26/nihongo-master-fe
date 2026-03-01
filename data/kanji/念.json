@@ -314,22 +314,34 @@
       {
         "example": "念",
         "reading": "ネン",
-        "meaning": "sense, idea, thought, feeling, desire, concern, attention, care"
+        "meaning": {
+          "en": "sense, idea, thought, feeling, desire, concern, attention, care"
+        },
+        "romaji": "nen"
       },
       {
         "example": "念願",
         "reading": "ネンガン",
-        "meaning": "one's heart's desire, one's dearest wish"
+        "meaning": {
+          "en": "one's heart's desire, one's dearest wish"
+        },
+        "romaji": "nengan"
       },
       {
         "example": "執念",
         "reading": "シュウネン",
-        "meaning": "tenacity, persistence, obsession, implacability"
+        "meaning": {
+          "vi": "tenacity, persistence, obsession, implacability"
+        },
+        "romaji": "shuunen"
       },
       {
         "example": "通念",
         "reading": "ツウネン",
-        "meaning": "common idea, common wisdom, generally accepted idea"
+        "meaning": {
+          "vi": "common idea, common wisdom, generally accepted idea"
+        },
+        "romaji": "tsuunen"
       }
     ],
     "kunyomiExamples": [],
@@ -351,5 +363,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ff5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ff5.gif",
     "uri": "https://jisho.org/search/%E5%BF%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "niệm"
+  ]
 }

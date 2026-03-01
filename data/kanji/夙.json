@@ -17,19 +17,28 @@
       {
         "example": "夙",
         "reading": "シュク",
-        "meaning": "nhóm người bị khinh rẻ quanh vùng Kyoto từ thời Kamakura đến Edo"
+        "meaning": {
+          "vi": "nhóm người bị khinh rẻ quanh vùng Kyoto từ thời Kamakura đến Edo"
+        },
+        "romaji": "shuku"
       },
       {
         "example": "夙志",
         "reading": "シュクシ",
-        "meaning": "ước nguyện ấp ủ từ lâu"
+        "meaning": {
+          "vi": "ước nguyện ấp ủ từ lâu"
+        },
+        "romaji": "shukushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夙に",
         "reading": "つとに",
-        "meaning": "từ lâu, từ thuở nhỏ, sớm tinh mơ, sáng sớm"
+        "meaning": {
+          "vi": "từ lâu, từ thuở nhỏ, sớm tinh mơ, sáng sớm"
+        },
+        "romaji": "tsutoni"
       }
     ],
     "radical": {
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05919.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5919.gif",
     "uri": "https://jisho.org/search/%E5%A4%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "túc"
+  ]
 }

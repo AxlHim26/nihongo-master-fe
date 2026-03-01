@@ -17,12 +17,18 @@
       {
         "example": "墺",
         "reading": "オウ",
-        "meaning": "Austria"
+        "meaning": {
+          "en": "Austria"
+        },
+        "romaji": "ou"
       },
       {
         "example": "独墺",
         "reading": "ドクオウ",
-        "meaning": "Germany-Austria"
+        "meaning": {
+          "en": "Germany-Austria"
+        },
+        "romaji": "dokuou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ba.gif",
     "uri": "https://jisho.org/search/%E5%A2%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "áo",
+    "úc"
+  ]
 }

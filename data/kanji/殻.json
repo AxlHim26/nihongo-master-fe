@@ -22,69 +22,108 @@
       {
         "example": "殻",
         "reading": "カク",
-        "meaning": "shell (e.g. electron shell)"
+        "meaning": {
+          "en": "shell (e.g. electron shell)"
+        },
+        "romaji": "kaku"
       },
       {
         "example": "殻果",
         "reading": "カクカ",
-        "meaning": "hard-shelled nut (e.g. walnut, pecan, almond)"
+        "meaning": {
+          "vi": "hard-shelled nut (e.g. walnut, pecan, almond)"
+        },
+        "romaji": "kakuka"
       },
       {
         "example": "地殻",
         "reading": "チカク",
-        "meaning": "(Earth's) crust"
+        "meaning": {
+          "en": "(Earth's) crust"
+        },
+        "romaji": "chikaku"
       },
       {
         "example": "介殻",
         "reading": "カイカク",
-        "meaning": "sea shell"
+        "meaning": {
+          "en": "sea shell"
+        },
+        "romaji": "kaikaku"
       },
       {
         "example": "枸橘",
         "reading": "カラタチ",
-        "meaning": "trifoliate orange (Poncirus trifoliata), hardy orange"
+        "meaning": {
+          "vi": "trifoliate orange (Poncirus trifoliata), hardy orange"
+        },
+        "romaji": "karatachi"
       },
       {
         "example": "船殻",
         "reading": "センコク",
-        "meaning": "hull"
+        "meaning": {
+          "en": "hull"
+        },
+        "romaji": "senkoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "殻",
         "reading": "から",
-        "meaning": "shell, husk, hull, pod, chaff"
+        "meaning": {
+          "vi": "shell, husk, hull, pod, chaff"
+        },
+        "romaji": "kara"
       },
       {
         "example": "殻竿",
         "reading": "からざお",
-        "meaning": "flail (for threshing grain)"
+        "meaning": {
+          "en": "flail (for threshing grain)"
+        },
+        "romaji": "karazao"
       },
       {
         "example": "雪花菜",
         "reading": "おから",
-        "meaning": "okara, soy pulp, tofu dregs, edible pulp separated from soybean milk in the production of tofu"
+        "meaning": {
+          "vi": "okara, soy pulp, tofu dregs, edible pulp separated from soybean milk in the production of tofu"
+        },
+        "romaji": "okara"
       },
       {
         "example": "もぬけの殻",
         "reading": "もぬけのから",
-        "meaning": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+        "meaning": {
+          "vi": "completely empty (of a residence, etc.), vacant, deserted, body from which the soul has left, corpse, shed skin (of a snake, insect, etc.)"
+        },
+        "romaji": "monukenokara"
       },
       {
         "example": "殻",
         "reading": "がら",
-        "meaning": "chicken bones (e.g. for soup), chicken carcass, poor-quality coke (coal), left-overs, remnants"
+        "meaning": {
+          "vi": "chicken bones (e.g. for soup), chicken carcass, poor-quality coke (coal), left-overs, remnants"
+        },
+        "romaji": "gara"
       },
       {
         "example": "灰殻",
         "reading": "はいがら",
-        "meaning": "ashes"
+        "meaning": {
+          "en": "ashes"
+        },
+        "romaji": "haigara"
       },
       {
         "example": "燃え殻",
         "reading": "もえがら",
-        "meaning": "embers, cinders, burnt residue, combustion residue"
+        "meaning": {
+          "en": "embers, cinders, burnt residue, combustion residue"
+        },
+        "romaji": "moegara"
       }
     ],
     "radical": {
@@ -102,5 +141,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bbb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bbb.gif",
     "uri": "https://jisho.org/search/%E6%AE%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "xác"
+  ]
 }

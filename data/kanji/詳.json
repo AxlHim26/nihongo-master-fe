@@ -233,39 +233,60 @@
       {
         "example": "詳報",
         "reading": "ショウホウ",
-        "meaning": "detailed report, full report, details, particulars"
+        "meaning": {
+          "vi": "detailed report, full report, details, particulars"
+        },
+        "romaji": "shouhou"
       },
       {
         "example": "詳細",
         "reading": "ショウサイ",
-        "meaning": "details, particulars, specifics, detailed, specific, minute, close-up view (of a digitally displayed map), zoomed-in view"
+        "meaning": {
+          "vi": "details, particulars, specifics, detailed, specific, minute, close-up view (of a digitally displayed map), zoomed-in view"
+        },
+        "romaji": "shousai"
       },
       {
         "example": "不詳",
         "reading": "フショウ",
-        "meaning": "unknown, unidentified, unspecified"
+        "meaning": {
+          "vi": "unknown, unidentified, unspecified"
+        },
+        "romaji": "fushou"
       },
       {
         "example": "姓名不詳",
         "reading": "セイメイフショウ",
-        "meaning": "unidentified, name unknown"
+        "meaning": {
+          "en": "unidentified, name unknown"
+        },
+        "romaji": "seimeifushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詳しい",
         "reading": "くわしい",
-        "meaning": "detailed, full, minute, knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)"
+        "meaning": {
+          "en": "detailed, full, minute, knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)"
+        },
+        "romaji": "kuwashii"
       },
       {
         "example": "詳らか",
         "reading": "つまびらか",
-        "meaning": "detailed, clear"
+        "meaning": {
+          "en": "detailed, clear"
+        },
+        "romaji": "tsumabiraka"
       },
       {
         "example": "詳らかでない",
         "reading": "つまびらかでない",
-        "meaning": "unknown"
+        "meaning": {
+          "en": "unknown"
+        },
+        "romaji": "tsumabirakadenai"
       }
     ],
     "radical": {
@@ -285,5 +306,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a73.gif",
     "uri": "https://jisho.org/search/%E8%A9%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "dương",
+    "tường"
+  ]
 }

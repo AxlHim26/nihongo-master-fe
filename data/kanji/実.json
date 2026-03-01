@@ -349,84 +349,132 @@
       {
         "example": "実",
         "reading": "ジツ",
-        "meaning": "truth, reality, sincerity, honesty, fidelity, content, substance, (good) result"
+        "meaning": {
+          "en": "truth, reality, sincerity, honesty, fidelity, content, substance, (good) result"
+        },
+        "romaji": "jitsu"
       },
       {
         "example": "実演",
         "reading": "ジツエン",
-        "meaning": "demonstration, presentation, stage show, performance"
+        "meaning": {
+          "vi": "demonstration, presentation, stage show, performance"
+        },
+        "romaji": "jitsuen"
       },
       {
         "example": "名実",
         "reading": "メイジツ",
-        "meaning": "in name and in reality, nominally and virtually, form and contents"
+        "meaning": {
+          "en": "in name and in reality, nominally and virtually, form and contents"
+        },
+        "romaji": "meijitsu"
       },
       {
         "example": "内実",
         "reading": "ナイジツ",
-        "meaning": "the facts, the truth, the true state of affairs, in truth, in fact, in reality, actually"
+        "meaning": {
+          "en": "the facts, the truth, the true state of affairs, in truth, in fact, in reality, actually"
+        },
+        "romaji": "naijitsu"
       },
       {
         "example": "故実",
         "reading": "コジツ",
-        "meaning": "ancient practices, old customs"
+        "meaning": {
+          "vi": "ancient practices, old customs"
+        },
+        "romaji": "kojitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "実",
         "reading": "み",
-        "meaning": "fruit, nut, seed, (in broth) pieces of meat, vegetable, etc., content, substance"
+        "meaning": {
+          "vi": "fruit, nut, seed, (in broth) pieces of meat, vegetable, etc., content, substance"
+        },
+        "romaji": "mi"
       },
       {
         "example": "実り",
         "reading": "みのり",
-        "meaning": "ripening (of a crop), crop, harvest"
+        "meaning": {
+          "vi": "ripening (of a crop), crop, harvest"
+        },
+        "romaji": "minori"
       },
       {
         "example": "浮き実",
         "reading": "うきみ",
-        "meaning": "soup garnish"
+        "meaning": {
+          "vi": "soup garnish"
+        },
+        "romaji": "ukimi"
       },
       {
         "example": "桷",
         "reading": "ずみ",
-        "meaning": "Toringo crabapple (Malus sieboldii)"
+        "meaning": {
+          "vi": "Toringo crabapple (Malus sieboldii)"
+        },
+        "romaji": "zumi"
       },
       {
         "example": "実る",
         "reading": "みのる",
-        "meaning": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit"
+        "meaning": {
+          "vi": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit"
+        },
+        "romaji": "minoru"
       },
       {
         "example": "実るほど頭の下がる稲穂かな",
         "reading": "みのるほどあたまのさがるいなほかな",
-        "meaning": "the more learned, the more humble, the boughs bearing the most hang lowest"
+        "meaning": {
+          "en": "the more learned, the more humble, the boughs bearing the most hang lowest"
+        },
+        "romaji": "minoruhodoatamanosagaruinahokana"
       },
       {
         "example": "誠",
         "reading": "まこと",
-        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "makoto"
       },
       {
         "example": "実に",
         "reading": "じつに",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "jitsuni"
       },
       {
         "example": "嘘から出たまこと",
         "reading": "うそからでたまこと",
-        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        "meaning": {
+          "vi": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        },
+        "romaji": "usokaradetamakoto"
       },
       {
         "example": "実り",
         "reading": "みのり",
-        "meaning": "ripening (of a crop), crop, harvest"
+        "meaning": {
+          "vi": "ripening (of a crop), crop, harvest"
+        },
+        "romaji": "minori"
       },
       {
         "example": "実る",
         "reading": "みのる",
-        "meaning": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit"
+        "meaning": {
+          "vi": "to bear fruit, to ripen, to produce (good) results, to show results, to bear fruit"
+        },
+        "romaji": "minoru"
       }
     ],
     "radical": {
@@ -442,5 +490,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9f.gif",
     "uri": "https://jisho.org/search/%E5%AE%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí",
+    "thật",
+    "thực"
+  ]
 }

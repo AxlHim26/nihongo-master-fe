@@ -310,54 +310,84 @@
       {
         "example": "煙突",
         "reading": "エントツ",
-        "meaning": "chimney, smokestack, funnel (of a ship), stovepipe, carrying a passenger without turning on the taximeter"
+        "meaning": {
+          "vi": "chimney, smokestack, funnel (of a ship), stovepipe, carrying a passenger without turning on the taximeter"
+        },
+        "romaji": "entotsu"
       },
       {
         "example": "煙幕",
         "reading": "エンマク",
-        "meaning": "smokescreen"
+        "meaning": {
+          "en": "smokescreen"
+        },
+        "romaji": "enmaku"
       },
       {
         "example": "噴煙",
         "reading": "フンエン",
-        "meaning": "(eruption of) smoke"
+        "meaning": {
+          "vi": "(eruption of) smoke"
+        },
+        "romaji": "fun'en"
       },
       {
         "example": "黒煙",
         "reading": "コクエン",
-        "meaning": "black smoke"
+        "meaning": {
+          "en": "black smoke"
+        },
+        "romaji": "kokuen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "煙る",
         "reading": "けむる",
-        "meaning": "to smoke (e.g. fire), to billow smoke, to smoulder, to smolder, to be hazy, to look dim"
+        "meaning": {
+          "en": "to smoke (e.g. fire), to billow smoke, to smoulder, to smolder, to be hazy, to look dim"
+        },
+        "romaji": "kemuru"
       },
       {
         "example": "煙",
         "reading": "けむり",
-        "meaning": "smoke, fumes"
+        "meaning": {
+          "en": "smoke, fumes"
+        },
+        "romaji": "kemuri"
       },
       {
         "example": "煙感知器",
         "reading": "けむりかんちき",
-        "meaning": "smoke detector"
+        "meaning": {
+          "en": "smoke detector"
+        },
+        "romaji": "kemurikanchiki"
       },
       {
         "example": "黒煙",
         "reading": "こくえん",
-        "meaning": "black smoke"
+        "meaning": {
+          "en": "black smoke"
+        },
+        "romaji": "kokuen"
       },
       {
         "example": "砂煙",
         "reading": "すなけむり",
-        "meaning": "cloud of sand (dust, etc.)"
+        "meaning": {
+          "en": "cloud of sand (dust, etc.)"
+        },
+        "romaji": "sunakemuri"
       },
       {
         "example": "煙い",
         "reading": "けむい",
-        "meaning": "smoky"
+        "meaning": {
+          "en": "smoky"
+        },
+        "romaji": "kemui"
       }
     ],
     "radical": {
@@ -376,5 +406,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07159.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7159.gif",
     "uri": "https://jisho.org/search/%E7%85%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "yên"
+  ]
 }

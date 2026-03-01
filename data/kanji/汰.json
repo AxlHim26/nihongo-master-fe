@@ -21,12 +21,18 @@
       {
         "example": "自然淘汰",
         "reading": "シゼントウタ",
-        "meaning": "natural selection"
+        "meaning": {
+          "en": "natural selection"
+        },
+        "romaji": "shizentouta"
       },
       {
         "example": "淘汰",
         "reading": "トウタ",
-        "meaning": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection"
+        "meaning": {
+          "vi": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection"
+        },
+        "romaji": "touta"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c70.gif",
     "uri": "https://jisho.org/search/%E6%B1%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái",
+    "thải"
+  ]
 }

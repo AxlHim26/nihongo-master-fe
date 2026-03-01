@@ -17,14 +17,20 @@
       {
         "example": "国界",
         "reading": "コッカイ",
-        "meaning": "border (between countries), national border"
+        "meaning": {
+          "en": "border (between countries), national border"
+        },
+        "romaji": "kokkai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "堺流",
         "reading": "さかいりゅう",
-        "meaning": "Sakai school of tea ceremony, Sakai school of calligraphy"
+        "meaning": {
+          "vi": "Sakai school of tea ceremony, Sakai school of calligraphy"
+        },
+        "romaji": "sakairyuu"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0583a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/583a.gif",
     "uri": "https://jisho.org/search/%E5%A0%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

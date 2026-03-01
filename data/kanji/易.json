@@ -279,59 +279,92 @@
       {
         "example": "易",
         "reading": "エキ",
-        "meaning": "type of cleromancy divination (described in the Book of Changes) performed with long sticks, The Book of Changes, Yijing, I Ching"
+        "meaning": {
+          "vi": "type of cleromancy divination (described in the Book of Changes) performed with long sticks, The Book of Changes, Yijing, I Ching"
+        },
+        "romaji": "eki"
       },
       {
         "example": "易学",
         "reading": "エキガク",
-        "meaning": "study of divination"
+        "meaning": {
+          "en": "study of divination"
+        },
+        "romaji": "ekigaku"
       },
       {
         "example": "改易",
         "reading": "カイエキ",
-        "meaning": "loss of samurai status and confiscation of territory and property (Edo-period punishment)"
+        "meaning": {
+          "vi": "loss of samurai status and confiscation of territory and property (Edo-period punishment)"
+        },
+        "romaji": "kaieki"
       },
       {
         "example": "加工交易",
         "reading": "カコウコウエキ",
-        "meaning": "processing trade (importing all or part of raw and auxiliary materials, parts, components, accessories, and packaging materials in bond from a foreign company, and re-exporting the finished products after processing or assembly for distribution and sale by that foreign company)"
+        "meaning": {
+          "vi": "processing trade (importing all or part of raw and auxiliary materials, parts, components, accessories, and packaging materials in bond from a foreign company, and re-exporting the finished products after processing or assembly for distribution and sale by that foreign company)"
+        },
+        "romaji": "kakoukoueki"
       },
       {
         "example": "易",
         "reading": "イ",
-        "meaning": "easiness"
+        "meaning": {
+          "en": "easiness"
+        },
+        "romaji": "i"
       },
       {
         "example": "易々",
         "reading": "イイ",
-        "meaning": "easy, simple, plain"
+        "meaning": {
+          "vi": "easy, simple, plain"
+        },
+        "romaji": "ii"
       },
       {
         "example": "簡易",
         "reading": "カンイ",
-        "meaning": "simple, simplified, easy, plain"
+        "meaning": {
+          "vi": "simple, simplified, easy, plain"
+        },
+        "romaji": "kan'i"
       },
       {
         "example": "難易",
         "reading": "ナンイ",
-        "meaning": "(relative) difficulty"
+        "meaning": {
+          "en": "(relative) difficulty"
+        },
+        "romaji": "nan'i"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "易しい",
         "reading": "やさしい",
-        "meaning": "easy, plain, simple"
+        "meaning": {
+          "vi": "easy, plain, simple"
+        },
+        "romaji": "yasashii"
       },
       {
         "example": "やさしい日本語",
         "reading": "やさしいにほんご",
-        "meaning": "easy Japanese (that is easily understood by non-native speakers, children, etc.)"
+        "meaning": {
+          "vi": "easy Japanese (that is easily understood by non-native speakers, children, etc.)"
+        },
+        "romaji": "yasashiinihongo"
       },
       {
         "example": "易い",
         "reading": "やすい",
-        "meaning": "easy, likely to ..., have a tendency to ..., easy to ..."
+        "meaning": {
+          "en": "easy, likely to ..., have a tendency to ..., easy to ..."
+        },
+        "romaji": "yasui"
       }
     ],
     "radical": {
@@ -348,5 +381,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06613.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6613.gif",
     "uri": "https://jisho.org/search/%E6%98%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "dị",
+    "dịch"
+  ]
 }

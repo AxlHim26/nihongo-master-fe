@@ -273,44 +273,68 @@
       {
         "example": "麦芽",
         "reading": "バクガ",
-        "meaning": "malt"
+        "meaning": {
+          "en": "malt"
+        },
+        "romaji": "bakuga"
       },
       {
         "example": "麦価",
         "reading": "バクカ",
-        "meaning": "price of wheat"
+        "meaning": {
+          "vi": "price of wheat"
+        },
+        "romaji": "bakuka"
       },
       {
         "example": "精麦",
         "reading": "セイバク",
-        "meaning": "barley cleaning, wheat cleaning, cleaned barley, cleaned wheat"
+        "meaning": {
+          "en": "barley cleaning, wheat cleaning, cleaned barley, cleaned wheat"
+        },
+        "romaji": "seibaku"
       },
       {
         "example": "米麦",
         "reading": "ベイバク",
-        "meaning": "rice and barley, corn"
+        "meaning": {
+          "en": "rice and barley, corn"
+        },
+        "romaji": "beibaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "麦",
         "reading": "むぎ",
-        "meaning": "wheat, barley, oat (oats)"
+        "meaning": {
+          "en": "wheat, barley, oat (oats)"
+        },
+        "romaji": "mugi"
       },
       {
         "example": "麦茶",
         "reading": "むぎちゃ",
-        "meaning": "barley tea"
+        "meaning": {
+          "en": "barley tea"
+        },
+        "romaji": "mugicha"
       },
       {
         "example": "はだか麦",
         "reading": "はだかむぎ",
-        "meaning": "naked barley (Hordeum vulgare var. nudum)"
+        "meaning": {
+          "en": "naked barley (Hordeum vulgare var. nudum)"
+        },
+        "romaji": "hadakamugi"
       },
       {
         "example": "毒麦",
         "reading": "どくむぎ",
-        "meaning": "darnel (Lolium temulentum)"
+        "meaning": {
+          "en": "darnel (Lolium temulentum)"
+        },
+        "romaji": "dokumugi"
       }
     ],
     "radical": {
@@ -328,5 +352,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ea6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ea6.gif",
     "uri": "https://jisho.org/search/%E9%BA%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạch"
+  ]
 }

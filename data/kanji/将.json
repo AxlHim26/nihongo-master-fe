@@ -264,49 +264,76 @@
       {
         "example": "将",
         "reading": "ショウ",
-        "meaning": "commander, general, leader"
+        "meaning": {
+          "en": "commander, general, leader"
+        },
+        "romaji": "shou"
       },
       {
         "example": "将棋",
         "reading": "ショウギ",
-        "meaning": "shogi, Japanese chess"
+        "meaning": {
+          "vi": "shogi, Japanese chess"
+        },
+        "romaji": "shougi"
       },
       {
         "example": "少将",
         "reading": "ショウショウ",
-        "meaning": "major general, rear admiral, air commodore"
+        "meaning": {
+          "en": "major general, rear admiral, air commodore"
+        },
+        "romaji": "shoushou"
       },
       {
         "example": "王将",
         "reading": "オウショウ",
-        "meaning": "king (of the senior player), Ōshō (one of the eight major titles in professional shogi)"
+        "meaning": {
+          "vi": "king (of the senior player), Ōshō (one of the eight major titles in professional shogi)"
+        },
+        "romaji": "oushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "将に",
         "reading": "まさに",
-        "meaning": "just (about to), on the point of, on the verge of, on the brink of"
+        "meaning": {
+          "vi": "just (about to), on the point of, on the verge of, on the brink of"
+        },
+        "romaji": "masani"
       },
       {
         "example": "将",
         "reading": "はた",
-        "meaning": "or, otherwise, furthermore, also, perhaps, by some chance, possibly, that being said, be that as it may, however, but, not to mention, needless to say, as expected, sure enough, really, at all"
+        "meaning": {
+          "vi": "or, otherwise, furthermore, also, perhaps, by some chance, possibly, that being said, be that as it may, however, but, not to mention, needless to say, as expected, sure enough, really, at all"
+        },
+        "romaji": "hata"
       },
       {
         "example": "将又",
         "reading": "はたまた",
-        "meaning": "or"
+        "meaning": {
+          "en": "or"
+        },
+        "romaji": "hatamata"
       },
       {
         "example": "将門記",
         "reading": "しょうもんき",
-        "meaning": "Shōmonki (chronicle of the Taira-no-Masakado Rebellion, ca 940CE)"
+        "meaning": {
+          "en": "Shōmonki (chronicle of the Taira-no-Masakado Rebellion, ca 940CE)"
+        },
+        "romaji": "shoumonki"
       },
       {
         "example": "将に",
         "reading": "まさに",
-        "meaning": "just (about to), on the point of, on the verge of, on the brink of"
+        "meaning": {
+          "vi": "just (about to), on the point of, on the verge of, on the brink of"
+        },
+        "romaji": "masani"
       }
     ],
     "radical": {
@@ -322,5 +349,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c06.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c06.gif",
     "uri": "https://jisho.org/search/%E5%B0%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "thương",
+    "tương",
+    "tướng"
+  ]
 }

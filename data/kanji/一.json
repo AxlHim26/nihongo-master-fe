@@ -12,107 +12,170 @@
     "examples": [
       {
         "japanese": "一年生（いちねんせい）",
-        "meaning": "Lớp một",
+        "meaning": {
+          "vi": "lớp một",
+          "en": "Lớp một"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_a.mp3"
-        }
-      },
-      {
-        "japanese": "一番（いちばん）",
-        "meaning": "Nhất",
-        "audio": {
-          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_b.opus",
-          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_b.aac",
-          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_b.ogg",
-          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_b.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "niên",
+          "sanh"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 年 (niên: năm) + 生 (sanh: sinh đẻ) → lớp một",
+          "en": "一 (first: one, 1) + 年 (year: year) + 生 (birth: giving birth) → first grade"
         }
       },
       {
         "japanese": "一度（いちど）",
-        "meaning": "Một lần",
+        "meaning": {
+          "vi": "lần",
+          "en": "Một lần"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_c.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "đạc"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 度 (đạc: đo lường) → lần",
+          "en": "一 (most: one, 1) + 度 (dac: measure) → times"
         }
       },
       {
         "japanese": "一杯（いっぱい）",
-        "meaning": "Đầy",
+        "meaning": {
+          "vi": "đầy đủ",
+          "en": "Đầy"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_d.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "bôi"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 杯 (bôi: cái cốc, cái chén) → đầy đủ",
+          "en": "一 (one: one, 1) + 杯 (mu: cup, cup) → full"
         }
       },
       {
         "japanese": "一緒（いっしょ）",
         "meaning": {
-          "english": "together",
-          "vietnamese": "cùng nhau"
+          "vi": "cùng nhau",
+          "en": "together"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_e.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "tự"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 緒 (tự: đầu dây, đầu mối) → cùng nhau",
+          "en": "一 (one: one, 1) + 緒 (self: end of line, clue) → together"
         }
       },
       {
         "japanese": "一分（いっぷん）",
         "meaning": {
-          "english": "one minute",
-          "vietnamese": "một phút"
+          "vi": "một phút",
+          "en": "one minute"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_f.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "phân"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 分 (phân: phân chia) → một phút",
+          "en": "一 (one: one, 1) + 分 (divider: division) → one minute"
         }
       },
       {
         "japanese": "一枚（いちまい）",
         "meaning": {
-          "english": "one (flat object) ",
-          "vietnamese": "một (đồ vật dẹt)"
+          "vi": "một (vật phẳng)",
+          "en": "one (flat object) "
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_g.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "mai"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 枚 (mai: cây, quả, trái) → một (vật phẳng)",
+          "en": "一 (one: one, 1) + 枚 (mai: tree, fruit, fruit) → one (flat object)"
         }
       },
       {
         "japanese": "一つ（ひとつ）",
         "meaning": {
-          "english": "one (object) ",
-          "vietnamese": "một (đồ vật)"
+          "vi": "một (đối tượng)",
+          "en": "one (object) "
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_h.mp3"
+        },
+        "hanViet": [
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "nhất: một, 1, bộ nhất",
+          "en": "most: one, 1, most"
         }
       },
       {
         "japanese": "一人（ひとり）",
         "meaning": {
-          "english": "one person",
-          "vietnamese": "một người"
+          "vi": "một người",
+          "en": "one person"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/1_06_i.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/1_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/1_06_i.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "nhân"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 人 (nhân: người) → một người",
+          "en": "一 (most: one, 1) + 人 (human: person) → one person"
         }
       }
     ],
@@ -349,54 +412,169 @@
       {
         "example": "一",
         "reading": "イチ",
-        "meaning": "một, 1, tốt nhất, đầu tiên, khởi đầu, bắt đầu, một (đơn), một (trong nhiều), át chủ bài"
+        "meaning": {
+          "vi": "một, 1, tốt nhất, đầu tiên, khởi đầu, bắt đầu, một (đơn), một (trong nhiều), át chủ bài",
+          "en": "một, 1, tốt nhất, đầu tiên, khởi đầu, bắt đầu, một (đơn), một (trong nhiều), át chủ bài"
+        },
+        "hanViet": [
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "nhất: một, 1, bộ nhất",
+          "en": "most: one, 1, most"
+        },
+        "romaji": "ichi"
       },
       {
         "example": "一位",
         "reading": "イチイ",
-        "meaning": "vị trí thứ nhất, hạng nhất, hàng đơn vị"
+        "meaning": {
+          "vi": "vị trí thứ nhất, hạng nhất, hàng đơn vị",
+          "en": "vị trí thứ nhất, hạng nhất, hàng đơn vị"
+        },
+        "hanViet": [
+          "nhất",
+          "vị"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 位 (vị: vị trí) → vị trí thứ nhất, hạng nhất, hàng đơn vị",
+          "en": "一 (first: one, 1) + 位 (position: position) → first position, first place, units place"
+        },
+        "romaji": "ichii"
       },
       {
         "example": "十一",
         "reading": "ジュウイチ",
-        "meaning": "mười một, 11"
+        "meaning": {
+          "vi": "mười một, 11",
+          "en": "mười một, 11"
+        },
+        "hanViet": [
+          "thập",
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "十 (thập: mười, 10) + 一 (nhất: một, 1) → mười một, 11",
+          "en": "十 (ten: ten, 10) + 一 (one: one, 1) → eleven, 11"
+        },
+        "romaji": "juuichi"
       },
       {
         "example": "１対１",
         "reading": "イチタイイチ",
-        "meaning": "một đối một"
+        "meaning": {
+          "vi": "một đối một",
+          "en": "một đối một"
+        },
+        "hanViet": [
+          "đối"
+        ],
+        "hanVietExplain": {
+          "vi": "đối:",
+          "en": "opposite to:"
+        },
+        "romaji": "ichitaiichi"
       },
       {
         "example": "一",
         "reading": "イツ",
-        "meaning": "một, cùng (ý, đường, v.v.)"
+        "meaning": {
+          "vi": "một, cùng (ý, đường, v.v.)",
+          "en": "một, cùng (ý, đường, v.v.)"
+        },
+        "hanViet": [
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "nhất: một, 1, bộ nhất",
+          "en": "most: one, 1, most"
+        },
+        "romaji": "itsu"
       },
       {
         "example": "一に",
         "reading": "イツニ",
-        "meaning": "chỉ, hoàn toàn, chỉ có, hoặc"
+        "meaning": {
+          "vi": "chỉ, hoàn toàn, chỉ có, hoặc",
+          "en": "chỉ, hoàn toàn, chỉ có, hoặc"
+        },
+        "hanViet": [
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "nhất: một, 1, bộ nhất",
+          "en": "most: one, 1, most"
+        },
+        "romaji": "itsuni"
       },
       {
         "example": "均一",
         "reading": "キンイツ",
-        "meaning": "đồng nhất, bình đẳng"
+        "meaning": {
+          "vi": "đồng nhất, bình đẳng",
+          "en": "đồng nhất, bình đẳng"
+        },
+        "hanViet": [
+          "quân",
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "均 (quân: đều, bằng nhau) + 一 (nhất: một, 1) → đồng nhất, bình đẳng",
+          "en": "均 (quan: even, equal) + 一 (one: one, 1) → uniform, equal"
+        },
+        "romaji": "kin'itsu"
       },
       {
         "example": "画一",
         "reading": "カクイツ",
-        "meaning": "đồng nhất, chuẩn hóa"
+        "meaning": {
+          "vi": "đồng nhất, chuẩn hóa",
+          "en": "đồng nhất, chuẩn hóa"
+        },
+        "hanViet": [
+          "hoạ",
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "画 (hoạ: vẽ) + 一 (nhất: một, 1) → đồng nhất, chuẩn hóa",
+          "en": "画 (drawing: drawing) + 一 (one: one, 1) → uniform, standardize"
+        },
+        "romaji": "kakuitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "一つ",
         "reading": "ひとつ",
-        "meaning": "một, một điều, chỉ, thậm chí (không), chỉ (ví dụ \"cứ thử đi\"), loại nào đó, một loại"
+        "meaning": {
+          "vi": "một, một điều, chỉ, thậm chí (không), chỉ (ví dụ \"cứ thử đi\"), loại nào đó, một loại",
+          "en": "một, một điều, chỉ, thậm chí (không), chỉ (ví dụ \"cứ thử đi\"), loại nào đó, một loại"
+        },
+        "hanViet": [
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "nhất: một, 1, bộ nhất",
+          "en": "most: one, 1, most"
+        },
+        "romaji": "hitotsu"
       },
       {
         "example": "一つ一つ",
         "reading": "ひとつひとつ",
-        "meaning": "từng cái một, riêng biệt, chi tiết"
+        "meaning": {
+          "vi": "từng cái một, riêng biệt, chi tiết",
+          "en": "từng cái một, riêng biệt, chi tiết"
+        },
+        "hanViet": [
+          "nhất",
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 一 (nhất: một, 1) → từng cái một, riêng biệt, chi tiết",
+          "en": "一 (most: one, 1) + 一 (most: one, 1) → one by one, separately, in detail"
+        },
+        "romaji": "hitotsuhitotsu"
       }
     ],
     "radical": {
@@ -410,5 +588,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e00.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e00.gif",
     "uri": "https://jisho.org/search/%E4%B8%80%23kanji"
+  },
+  "hanViet": [
+    "nhất"
+  ],
+  "hanVietExplain": {
+    "vi": "nhất: một, 1, bộ nhất",
+    "en": "most: one, 1, most"
+  },
+  "meaning": {
+    "vi": "một",
+    "en": "one"
   }
 }

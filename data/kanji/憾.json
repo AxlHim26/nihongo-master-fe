@@ -20,12 +20,18 @@
       {
         "example": "憾む",
         "reading": "うらむ",
-        "meaning": "to regret"
+        "meaning": {
+          "en": "to regret"
+        },
+        "romaji": "uramu"
       },
       {
         "example": "恨むらくは",
         "reading": "うらむらくは",
-        "meaning": "I regret that, I feel terrible but, I'm sorry but"
+        "meaning": {
+          "en": "I regret that, I feel terrible but, I'm sorry but"
+        },
+        "romaji": "uramurakuha"
       }
     ],
     "radical": {
@@ -47,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061be.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61be.gif",
     "uri": "https://jisho.org/search/%E6%86%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hám",
+    "đảm"
+  ]
 }

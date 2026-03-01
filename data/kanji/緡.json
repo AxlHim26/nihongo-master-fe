@@ -21,19 +21,28 @@
       {
         "example": "緡",
         "reading": "サシ",
-        "meaning": "slender rope that goes through the hole in a coin, string of coins (usu. 100 mon)"
+        "meaning": {
+          "vi": "slender rope that goes through the hole in a coin, string of coins (usu. 100 mon)"
+        },
+        "romaji": "sashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "緡",
         "reading": "さし",
-        "meaning": "slender rope that goes through the hole in a coin, string of coins (usu. 100 mon)"
+        "meaning": {
+          "vi": "slender rope that goes through the hole in a coin, string of coins (usu. 100 mon)"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "緡縄",
         "reading": "さしなわ",
-        "meaning": "slender rope that goes through the hole in a coin"
+        "meaning": {
+          "vi": "slender rope that goes through the hole in a coin"
+        },
+        "romaji": "sashinawa"
       }
     ],
     "radical": {
@@ -56,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07de1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7de1.gif",
     "uri": "https://jisho.org/search/%E7%B7%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "mân",
+    "mẫn"
+  ]
 }

@@ -19,59 +19,92 @@
       {
         "example": "鉤状",
         "reading": "コウジョウ",
-        "meaning": "hooklike, hook-shaped, unciform"
+        "meaning": {
+          "vi": "hooklike, hook-shaped, unciform"
+        },
+        "romaji": "koujou"
       },
       {
         "example": "鉤虫",
         "reading": "コウチュウ",
-        "meaning": "hookworm"
+        "meaning": {
+          "en": "hookworm"
+        },
+        "romaji": "kouchuu"
       },
       {
         "example": "符鉤",
         "reading": "フコウ",
-        "meaning": "tail (of a note)"
+        "meaning": {
+          "en": "tail (of a note)"
+        },
+        "romaji": "fukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鉤",
         "reading": "かぎ",
-        "meaning": "hook, hook bracket (Japanese quotation mark)"
+        "meaning": {
+          "vi": "hook, hook bracket (Japanese quotation mark)"
+        },
+        "romaji": "kagi"
       },
       {
         "example": "かぎ括弧",
         "reading": "かぎかっこ",
-        "meaning": "square bracket, Japanese-style quotation marks"
+        "meaning": {
+          "vi": "square bracket, Japanese-style quotation marks"
+        },
+        "romaji": "kagikakko"
       },
       {
         "example": "自在鉤",
         "reading": "じざいかぎ",
-        "meaning": "pothook (for hanging a pot, etc. over a fire)"
+        "meaning": {
+          "vi": "pothook (for hanging a pot, etc. over a fire)"
+        },
+        "romaji": "jizaikagi"
       },
       {
         "example": "ひっかけ鉤",
         "reading": "ひっかけかぎ",
-        "meaning": "grappling hook, grappling iron"
+        "meaning": {
+          "vi": "grappling hook, grappling iron"
+        },
+        "romaji": "hikkakekagi"
       },
       {
         "example": "針",
         "reading": "はり",
-        "meaning": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"
+        "meaning": {
+          "vi": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"
+        },
+        "romaji": "hari"
       },
       {
         "example": "鉤素",
         "reading": "はりす",
-        "meaning": "snell (fishing), leader, trace, cast"
+        "meaning": {
+          "en": "snell (fishing), leader, trace, cast"
+        },
+        "romaji": "harisu"
       },
       {
         "example": "蚊針",
         "reading": "かばり",
-        "meaning": "fishing fly"
+        "meaning": {
+          "en": "fishing fly"
+        },
+        "romaji": "kabari"
       },
       {
         "example": "毛鉤",
         "reading": "けばり",
-        "meaning": "(artificial) fly, fly lure"
+        "meaning": {
+          "en": "(artificial) fly, fly lure"
+        },
+        "romaji": "kebari"
       }
     ],
     "radical": {
@@ -90,5 +123,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09264.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9264.gif",
     "uri": "https://jisho.org/search/%E9%89%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "câu"
+  ]
 }

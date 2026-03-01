@@ -259,74 +259,116 @@
       {
         "example": "衣",
         "reading": "キヌ",
-        "meaning": "clothing, garment, dress"
+        "meaning": {
+          "en": "clothing, garment, dress"
+        },
+        "romaji": "kinu"
       },
       {
         "example": "衣装",
         "reading": "イショウ",
-        "meaning": "clothing, costume, outfit, garment, dress"
+        "meaning": {
+          "en": "clothing, costume, outfit, garment, dress"
+        },
+        "romaji": "ishou"
       },
       {
         "example": "着衣",
         "reading": "チャクイ",
-        "meaning": "clothes (that one is wearing), wearing clothes"
+        "meaning": {
+          "en": "clothes (that one is wearing), wearing clothes"
+        },
+        "romaji": "chakui"
       },
       {
         "example": "脱衣",
         "reading": "ダツイ",
-        "meaning": "undressing, taking off one's clothes, stripping"
+        "meaning": {
+          "vi": "undressing, taking off one's clothes, stripping"
+        },
+        "romaji": "datsui"
       },
       {
         "example": "衣鉢",
         "reading": "イハツ",
-        "meaning": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+        "meaning": {
+          "vi": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+        },
+        "romaji": "ihatsu"
       },
       {
         "example": "衣紋",
         "reading": "エモン",
-        "meaning": "dress, clothes, drapery"
+        "meaning": {
+          "vi": "dress, clothes, drapery"
+        },
+        "romaji": "emon"
       },
       {
         "example": "着衣",
         "reading": "チャクイ",
-        "meaning": "clothes (that one is wearing), wearing clothes"
+        "meaning": {
+          "en": "clothes (that one is wearing), wearing clothes"
+        },
+        "romaji": "chakui"
       },
       {
         "example": "脱衣",
         "reading": "ダツイ",
-        "meaning": "undressing, taking off one's clothes, stripping"
+        "meaning": {
+          "vi": "undressing, taking off one's clothes, stripping"
+        },
+        "romaji": "datsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "衣",
         "reading": "ころも",
-        "meaning": "clothes, garment, gown, robe, coating (e.g. glaze, batter, icing)"
+        "meaning": {
+          "en": "clothes, garment, gown, robe, coating (e.g. glaze, batter, icing)"
+        },
+        "romaji": "koromo"
       },
       {
         "example": "衣替え",
         "reading": "ころもがえ",
-        "meaning": "seasonal change of clothing, changing one's dress for the season, renovation, facelift, redesign, redecoration, new appearance, fresh look"
+        "meaning": {
+          "vi": "seasonal change of clothing, changing one's dress for the season, renovation, facelift, redesign, redecoration, new appearance, fresh look"
+        },
+        "romaji": "koromogae"
       },
       {
         "example": "砂糖の衣",
         "reading": "さとうのころも",
-        "meaning": "frosting (e.g. on a cake), icing"
+        "meaning": {
+          "en": "frosting (e.g. on a cake), icing"
+        },
+        "romaji": "satounokoromo"
       },
       {
         "example": "紅葉の衣",
         "reading": "もみじのころも",
-        "meaning": "comparing beautiful autumn leaves to a garment"
+        "meaning": {
+          "vi": "comparing beautiful autumn leaves to a garment"
+        },
+        "romaji": "momijinokoromo"
       },
       {
         "example": "衣",
         "reading": "きぬ",
-        "meaning": "clothing, garment, dress"
+        "meaning": {
+          "en": "clothing, garment, dress"
+        },
+        "romaji": "kinu"
       },
       {
         "example": "如月",
         "reading": "きさらぎ",
-        "meaning": "second month of the lunar calendar, February"
+        "meaning": {
+          "en": "second month of the lunar calendar, February"
+        },
+        "romaji": "kisaragi"
       }
     ],
     "radical": {
@@ -344,5 +386,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08863.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8863.gif",
     "uri": "https://jisho.org/search/%E8%A1%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "y",
+    "ý"
+  ]
 }

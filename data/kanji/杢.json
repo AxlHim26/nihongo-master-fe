@@ -15,12 +15,18 @@
       {
         "example": "杢",
         "reading": "もく",
-        "meaning": "figure (pattern in wood)"
+        "meaning": {
+          "vi": "figure (pattern in wood)"
+        },
+        "romaji": "moku"
       },
       {
         "example": "木目",
         "reading": "もくめ",
-        "meaning": "grain (of wood)"
+        "meaning": {
+          "en": "grain (of wood)"
+        },
+        "romaji": "mokume"
       }
     ],
     "radical": {
@@ -35,5 +41,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06762.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6762.gif",
     "uri": "https://jisho.org/search/%E6%9D%A2%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

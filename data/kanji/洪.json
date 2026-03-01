@@ -17,12 +17,18 @@
       {
         "example": "洪",
         "reading": "コウ",
-        "meaning": "Hungary"
+        "meaning": {
+          "en": "Hungary"
+        },
+        "romaji": "kou"
       },
       {
         "example": "洪水",
         "reading": "コウズイ",
-        "meaning": "lũ, ngập lụt"
+        "meaning": {
+          "vi": "lũ, ngập lụt"
+        },
+        "romaji": "kouzui"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d2a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d2a.gif",
     "uri": "https://jisho.org/search/%E6%B4%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồng"
+  ]
 }

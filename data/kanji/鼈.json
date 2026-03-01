@@ -17,24 +17,36 @@
       {
         "example": "鼈",
         "reading": "スッポン",
-        "meaning": "rùa mai mềm Trung Quốc, rùa mai mềm, cửa sập, máy bơm"
+        "meaning": {
+          "vi": "rùa mai mềm Trung Quốc, rùa mai mềm, cửa sập, máy bơm"
+        },
+        "romaji": "suppon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鼈",
         "reading": "すっぽん",
-        "meaning": "rùa mai mềm Trung Quốc, rùa mai mềm, cửa sập, máy bơm"
+        "meaning": {
+          "vi": "rùa mai mềm Trung Quốc, rùa mai mềm, cửa sập, máy bơm"
+        },
+        "romaji": "suppon"
       },
       {
         "example": "鼈茸",
         "reading": "すっぽんたけ",
-        "meaning": "nấm stinkhorn thường"
+        "meaning": {
+          "vi": "nấm stinkhorn thường"
+        },
+        "romaji": "suppontake"
       },
       {
         "example": "月とスッポン",
         "reading": "つきとすっぽん",
-        "meaning": "hai thứ trông giống nhưng hoàn toàn khác nhau, trăng với rùa"
+        "meaning": {
+          "vi": "hai thứ trông giống nhưng hoàn toàn khác nhau, trăng với rùa"
+        },
+        "romaji": "tsukitosuppon"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f08.gif",
     "uri": "https://jisho.org/search/%E9%BC%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "biết",
+    "miết"
+  ]
 }

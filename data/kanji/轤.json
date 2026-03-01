@@ -14,12 +14,18 @@
       {
         "example": "轆轤",
         "reading": "ロクロ",
-        "meaning": "potter's wheel, lathe, pulley, windlass"
+        "meaning": {
+          "vi": "potter's wheel, lathe, pulley, windlass"
+        },
+        "romaji": "rokuro"
       },
       {
         "example": "手ろくろ",
         "reading": "テロクロ",
-        "meaning": "hand wheel, hand-powered potter's wheel"
+        "meaning": {
+          "vi": "hand wheel, hand-powered potter's wheel"
+        },
+        "romaji": "terokuro"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f64.gif",
     "uri": "https://jisho.org/search/%E8%BD%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô",
+    "lư"
+  ]
 }

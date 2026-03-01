@@ -19,24 +19,36 @@
       {
         "example": "乱発",
         "reading": "ランパツ",
-        "meaning": "random firing, reckless firing, excessive issue"
+        "meaning": {
+          "en": "random firing, reckless firing, excessive issue"
+        },
+        "romaji": "ranpatsu"
       },
       {
         "example": "乱獲",
         "reading": "ランカク",
-        "meaning": "overfishing, overhunting, indiscriminate fishing, indiscriminate hunting"
+        "meaning": {
+          "en": "overfishing, overhunting, indiscriminate fishing, indiscriminate hunting"
+        },
+        "romaji": "rankaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妄りに",
         "reading": "みだりに",
-        "meaning": "without authority, without reason, unnecessarily, recklessly, indiscriminately, arbitrarily"
+        "meaning": {
+          "en": "without authority, without reason, unnecessarily, recklessly, indiscriminately, arbitrarily"
+        },
+        "romaji": "midarini"
       },
       {
         "example": "濫りがましい",
         "reading": "みだりがましい",
-        "meaning": "morally corrupt"
+        "meaning": {
+          "vi": "morally corrupt"
+        },
+        "romaji": "midarigamashii"
       }
     ],
     "radical": {
@@ -59,5 +71,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06feb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6feb.gif",
     "uri": "https://jisho.org/search/%E6%BF%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "cãm",
+    "hạm",
+    "lam",
+    "lãm",
+    "lạm"
+  ]
 }

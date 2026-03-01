@@ -17,44 +17,68 @@
       {
         "example": "鬚髯",
         "reading": "シュゼン",
-        "meaning": "mustache and beard"
+        "meaning": {
+          "en": "mustache and beard"
+        },
+        "romaji": "shuzen"
       },
       {
         "example": "鯨鬚",
         "reading": "クジラヒゲ",
-        "meaning": "whalebone, baleen"
+        "meaning": {
+          "en": "whalebone, baleen"
+        },
+        "romaji": "kujirahige"
       },
       {
         "example": "脚鬚",
         "reading": "キャクシュ",
-        "meaning": "pedipalp"
+        "meaning": {
+          "vi": "pedipalp"
+        },
+        "romaji": "kyakushu"
       },
       {
         "example": "鯨鬚",
         "reading": "クジラヒゲ",
-        "meaning": "whalebone, baleen"
+        "meaning": {
+          "en": "whalebone, baleen"
+        },
+        "romaji": "kujirahige"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "髭",
         "reading": "ひげ",
-        "meaning": "moustache, mustache, beard, whiskers, sideburns, whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft, shadow (on a candlestick chart)"
+        "meaning": {
+          "en": "moustache, mustache, beard, whiskers, sideburns, whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft, shadow (on a candlestick chart)"
+        },
+        "romaji": "hige"
       },
       {
         "example": "鬚鯨",
         "reading": "ひげくじら",
-        "meaning": "baleen whale, whalebone whale, mysticete"
+        "meaning": {
+          "en": "baleen whale, whalebone whale, mysticete"
+        },
+        "romaji": "higekujira"
       },
       {
         "example": "青ひげ",
         "reading": "あおひげ",
-        "meaning": "use of blue eyebrow pencil to indicate a character has shaved his cheeks"
+        "meaning": {
+          "vi": "use of blue eyebrow pencil to indicate a character has shaved his cheeks"
+        },
+        "romaji": "aohige"
       },
       {
         "example": "大髭",
         "reading": "おおひげ",
-        "meaning": "long and abundant moustache"
+        "meaning": {
+          "en": "long and abundant moustache"
+        },
+        "romaji": "oohige"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b1a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b1a.gif",
     "uri": "https://jisho.org/search/%E9%AC%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tu"
+  ]
 }

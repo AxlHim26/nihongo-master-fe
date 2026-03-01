@@ -19,19 +19,28 @@
       {
         "example": "際涯",
         "reading": "サイガイ",
-        "meaning": "giới hạn, ranh giới, cuối"
+        "meaning": {
+          "vi": "giới hạn, ranh giới, cuối"
+        },
+        "romaji": "saigai"
       },
       {
         "example": "水涯",
         "reading": "スイガイ",
-        "meaning": "bờ nước"
+        "meaning": {
+          "vi": "bờ nước"
+        },
+        "romaji": "suigai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涯",
         "reading": "はて",
-        "meaning": "chân trời"
+        "meaning": {
+          "vi": "chân trời"
+        },
+        "romaji": "hate"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06daf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6daf.gif",
     "uri": "https://jisho.org/search/%E6%B6%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhai"
+  ]
 }

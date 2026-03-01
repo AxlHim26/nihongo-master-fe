@@ -261,22 +261,34 @@
       {
         "example": "貝",
         "reading": "カイ",
-        "meaning": "shellfish, seashell, shell"
+        "meaning": {
+          "en": "shellfish, seashell, shell"
+        },
+        "romaji": "kai"
       },
       {
         "example": "介護",
         "reading": "カイゴ",
-        "meaning": "nursing, care, caregiving, caring"
+        "meaning": {
+          "en": "nursing, care, caregiving, caring"
+        },
+        "romaji": "kaigo"
       },
       {
         "example": "魚介",
         "reading": "ギョカイ",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": {
+          "vi": "marine products, seafood, fish and shellfish"
+        },
+        "romaji": "gyokai"
       },
       {
         "example": "無媒介",
         "reading": "ムバイカイ",
-        "meaning": "immediacy"
+        "meaning": {
+          "en": "immediacy"
+        },
+        "romaji": "mubaikai"
       }
     ],
     "kunyomiExamples": [],
@@ -295,5 +307,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ecb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ecb.gif",
     "uri": "https://jisho.org/search/%E4%BB%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

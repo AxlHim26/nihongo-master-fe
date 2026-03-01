@@ -16,7 +16,10 @@
       {
         "example": "面晤",
         "reading": "メンゴ",
-        "meaning": "face-to-face conversation, interview"
+        "meaning": {
+          "en": "face-to-face conversation, interview"
+        },
+        "romaji": "mengo"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06664.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6664.gif",
     "uri": "https://jisho.org/search/%E6%99%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngộ"
+  ]
 }

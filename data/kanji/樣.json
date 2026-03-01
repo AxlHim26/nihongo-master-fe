@@ -18,7 +18,10 @@
       {
         "example": "此様",
         "reading": "こなさま",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "konasama"
       }
     ],
     "radical": {
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a23.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a23.gif",
     "uri": "https://jisho.org/search/%E6%A8%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "dạng"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "嬢",
         "reading": "ジョウ",
-        "meaning": "unmarried woman, Miss, -ess, -ette"
+        "meaning": {
+          "en": "unmarried woman, Miss, -ess, -ette"
+        },
+        "romaji": "jou"
       },
       {
         "example": "娘核",
         "reading": "ジョウカク",
-        "meaning": "daughter nucleus"
+        "meaning": {
+          "en": "daughter nucleus"
+        },
+        "romaji": "joukaku"
       },
       {
         "example": "令嬢",
         "reading": "レイジョウ",
-        "meaning": "(your) daughter, young woman, daughter of a good family"
+        "meaning": {
+          "en": "(your) daughter, young woman, daughter of a good family"
+        },
+        "romaji": "reijou"
       },
       {
         "example": "愛嬢",
         "reading": "アイジョウ",
-        "meaning": "one's beloved daughter"
+        "meaning": {
+          "en": "one's beloved daughter"
+        },
+        "romaji": "aijou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "娘細胞",
         "reading": "じょうさいぼう",
-        "meaning": "daughter cell"
+        "meaning": {
+          "en": "daughter cell"
+        },
+        "romaji": "jousaibou"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b22.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b22.gif",
     "uri": "https://jisho.org/search/%E5%AC%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "nương"
+  ]
 }

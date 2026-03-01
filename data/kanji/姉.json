@@ -268,39 +268,60 @@
       {
         "example": "姉",
         "reading": "シ",
-        "meaning": "honorific suffix used after the name of a woman of equal or higher status"
+        "meaning": {
+          "en": "honorific suffix used after the name of a woman of equal or higher status"
+        },
+        "romaji": "shi"
       },
       {
         "example": "姉妹",
         "reading": "シマイ",
-        "meaning": "sisters"
+        "meaning": {
+          "en": "sisters"
+        },
+        "romaji": "shimai"
       },
       {
         "example": "実姉",
         "reading": "ジッシ",
-        "meaning": "biological older sister, real elder sister"
+        "meaning": {
+          "en": "biological older sister, real elder sister"
+        },
+        "romaji": "jisshi"
       },
       {
         "example": "兄姉",
         "reading": "ケイシ",
-        "meaning": "older brother and older sister"
+        "meaning": {
+          "en": "older brother and older sister"
+        },
+        "romaji": "keishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姉",
         "reading": "あね",
-        "meaning": "older sister, elder sister"
+        "meaning": {
+          "en": "older sister, elder sister"
+        },
+        "romaji": "ane"
       },
       {
         "example": "姉さん",
         "reading": "ねえさん",
-        "meaning": "older sister, elder sister, young lady, miss, ma'am"
+        "meaning": {
+          "en": "older sister, elder sister, young lady, miss, ma'am"
+        },
+        "romaji": "neesan"
       },
       {
         "example": "大姉",
         "reading": "おおあね",
-        "meaning": "eldest sister"
+        "meaning": {
+          "en": "eldest sister"
+        },
+        "romaji": "ooane"
       }
     ],
     "radical": {
@@ -316,5 +337,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59c9.gif",
     "uri": "https://jisho.org/search/%E5%A7%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tỷ"
+  ]
 }

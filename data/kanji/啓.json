@@ -20,29 +20,44 @@
       {
         "example": "啓発",
         "reading": "ケイハツ",
-        "meaning": "enlightenment, development, edification, public awareness, illumination, education, inspiration"
+        "meaning": {
+          "vi": "enlightenment, development, edification, public awareness, illumination, education, inspiration"
+        },
+        "romaji": "keihatsu"
       },
       {
         "example": "啓蒙",
         "reading": "ケイモウ",
-        "meaning": "enlightenment, illumination"
+        "meaning": {
+          "en": "enlightenment, illumination"
+        },
+        "romaji": "keimou"
       },
       {
         "example": "拝啓",
         "reading": "ハイケイ",
-        "meaning": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"
+        "meaning": {
+          "en": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"
+        },
+        "romaji": "haikei"
       },
       {
         "example": "敬啓",
         "reading": "ケイケイ",
-        "meaning": "salutation at the end of a formal letter"
+        "meaning": {
+          "en": "salutation at the end of a formal letter"
+        },
+        "romaji": "keikei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "啓く",
         "reading": "ひらく",
-        "meaning": "to enlighten, to edify"
+        "meaning": {
+          "en": "to enlighten, to edify"
+        },
+        "romaji": "hiraku"
       }
     ],
     "radical": {
@@ -61,5 +76,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05553.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5553.gif",
     "uri": "https://jisho.org/search/%E5%95%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "khải",
+    "khởi"
+  ]
 }

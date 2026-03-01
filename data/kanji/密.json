@@ -326,29 +326,44 @@
       {
         "example": "密",
         "reading": "ミツ",
-        "meaning": "dense, thick, crowded, close (relationship), intimate, minute, fine, careful, secret, esoteric Buddhism, secret Buddhist teachings"
+        "meaning": {
+          "vi": "dense, thick, crowded, close (relationship), intimate, minute, fine, careful, secret, esoteric Buddhism, secret Buddhist teachings"
+        },
+        "romaji": "mitsu"
       },
       {
         "example": "密度",
         "reading": "ミツド",
-        "meaning": "density"
+        "meaning": {
+          "en": "density"
+        },
+        "romaji": "mitsudo"
       },
       {
         "example": "濃密",
         "reading": "ノウミツ",
-        "meaning": "dense, thick, rich (flavour, colour, etc.), deep, strong (smell), heavy, detailed (description), close (relationship), intimate"
+        "meaning": {
+          "vi": "dense, thick, rich (flavour, colour, etc.), deep, strong (smell), heavy, detailed (description), close (relationship), intimate"
+        },
+        "romaji": "noumitsu"
       },
       {
         "example": "細密",
         "reading": "サイミツ",
-        "meaning": "detailed knowledge, finely detailed"
+        "meaning": {
+          "en": "detailed knowledge, finely detailed"
+        },
+        "romaji": "saimitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "密か",
         "reading": "ひそか",
-        "meaning": "secret, private, surreptitious"
+        "meaning": {
+          "vi": "secret, private, surreptitious"
+        },
+        "romaji": "hisoka"
       }
     ],
     "radical": {
@@ -366,5 +381,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc6.gif",
     "uri": "https://jisho.org/search/%E5%AF%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "mật"
+  ]
 }

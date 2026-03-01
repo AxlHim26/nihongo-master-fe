@@ -22,39 +22,60 @@
       {
         "example": "隙",
         "reading": "ゲキ",
-        "meaning": "gap, opening, space, opportunity (to take advantage of), chance, discord, disagreement"
+        "meaning": {
+          "vi": "gap, opening, space, opportunity (to take advantage of), chance, discord, disagreement"
+        },
+        "romaji": "geki"
       },
       {
         "example": "細隙",
         "reading": "サイゲキ",
-        "meaning": "slit, interstice, narrow aperture"
+        "meaning": {
+          "vi": "slit, interstice, narrow aperture"
+        },
+        "romaji": "saigeki"
       },
       {
         "example": "空隙",
         "reading": "クウゲキ",
-        "meaning": "vacant space, aperture, gap, opening"
+        "meaning": {
+          "vi": "vacant space, aperture, gap, opening"
+        },
+        "romaji": "kuugeki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "隙",
         "reading": "すき",
-        "meaning": "gap, opening, room, space, break, interval, spare moment, spare time, unguarded moment, carelessness, weak spot, chink in one's armor, flaw, fault, chance, opportunity"
+        "meaning": {
+          "vi": "gap, opening, room, space, break, interval, spare moment, spare time, unguarded moment, carelessness, weak spot, chink in one's armor, flaw, fault, chance, opportunity"
+        },
+        "romaji": "suki"
       },
       {
         "example": "隙間",
         "reading": "すきま",
-        "meaning": "gap, opening, aperture, crevice, crack, chink, space, spare moment, interval, break, unguarded moment, carelessness, chink in one's armor, weak spot"
+        "meaning": {
+          "vi": "gap, opening, aperture, crevice, crack, chink, space, spare moment, interval, break, unguarded moment, carelessness, chink in one's armor, weak spot"
+        },
+        "romaji": "sukima"
       },
       {
         "example": "隙",
         "reading": "ひま",
-        "meaning": "gap, opening, space"
+        "meaning": {
+          "vi": "gap, opening, space"
+        },
+        "romaji": "hima"
       },
       {
         "example": "暇人",
         "reading": "ひまじん",
-        "meaning": "person with a lot of free time on their hands, person of leisure, idler, loafer"
+        "meaning": {
+          "vi": "person with a lot of free time on their hands, person of leisure, idler, loafer"
+        },
+        "romaji": "himajin"
       }
     ],
     "radical": {
@@ -73,5 +94,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09699.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9699.gif",
     "uri": "https://jisho.org/search/%E9%9A%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "khích"
+  ]
 }

@@ -326,74 +326,116 @@
       {
         "example": "青果",
         "reading": "セイカ",
-        "meaning": "fruits and vegetables, produce"
+        "meaning": {
+          "vi": "fruits and vegetables, produce"
+        },
+        "romaji": "seika"
       },
       {
         "example": "青雲",
         "reading": "セイウン",
-        "meaning": "blue sky, erudition, detachment from the world, high rank"
+        "meaning": {
+          "en": "blue sky, erudition, detachment from the world, high rank"
+        },
+        "romaji": "seiun"
       },
       {
         "example": "回青",
         "reading": "カイセイ",
-        "meaning": "Mohammedan blue (pigment used in porcelain painting)"
+        "meaning": {
+          "vi": "Mohammedan blue (pigment used in porcelain painting)"
+        },
+        "romaji": "kaisei"
       },
       {
         "example": "黛青",
         "reading": "タイセイ",
-        "meaning": "blackish blue"
+        "meaning": {
+          "en": "blackish blue"
+        },
+        "romaji": "taisei"
       },
       {
         "example": "青面金剛",
         "reading": "ショウメンコンゴウ",
-        "meaning": "Shōmen Kongō, Blue-Faced Vajra, blue-skinned deity depicted with two, four or six arms; originally associated with esoteric Buddhism, thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period"
+        "meaning": {
+          "vi": "Shōmen Kongō, Blue-Faced Vajra, blue-skinned deity depicted with two, four or six arms; originally associated with esoteric Buddhism, thought to bring sickness; revered as part of kōshin-machi beliefs during the Edo period"
+        },
+        "romaji": "shoumenkongou"
       },
       {
         "example": "青龍",
         "reading": "セイリョウ",
-        "meaning": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        "meaning": {
+          "vi": "blue dragon (an auspicious creature in Chinese mythology), Azure Dragon (god said to rule over the eastern heavens)"
+        },
+        "romaji": "seiryou"
       },
       {
         "example": "緑青",
         "reading": "ロクショウ",
-        "meaning": "verdigris, green rust, copper rust"
+        "meaning": {
+          "vi": "verdigris, green rust, copper rust"
+        },
+        "romaji": "rokushou"
       },
       {
         "example": "花緑青",
         "reading": "ハナロクショウ",
-        "meaning": "Paris green, emerald green"
+        "meaning": {
+          "vi": "Paris green, emerald green"
+        },
+        "romaji": "hanarokushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "青",
         "reading": "あお",
-        "meaning": "blue, azure, green, green light (traffic), black (horse coat color), blue 5-point card, immature, unripe, young"
+        "meaning": {
+          "vi": "blue, azure, green, green light (traffic), black (horse coat color), blue 5-point card, immature, unripe, young"
+        },
+        "romaji": "ao"
       },
       {
         "example": "青梅",
         "reading": "あおうめ",
-        "meaning": "unripe plum"
+        "meaning": {
+          "vi": "unripe plum"
+        },
+        "romaji": "aoume"
       },
       {
         "example": "プロシア青",
         "reading": "プロシアあお",
-        "meaning": "Prussian blue"
+        "meaning": {
+          "vi": "Prussian blue"
+        },
+        "romaji": "puroshiaao"
       },
       {
         "example": "深青",
         "reading": "ふかあお",
-        "meaning": "dark blue, deep blue, navy blue"
+        "meaning": {
+          "vi": "dark blue, deep blue, navy blue"
+        },
+        "romaji": "fukaao"
       },
       {
         "example": "青い",
         "reading": "あおい",
-        "meaning": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced"
+        "meaning": {
+          "vi": "blue, azure, green, pale (facial color), gray, grey, unripe, inexperienced"
+        },
+        "romaji": "aoi"
       },
       {
         "example": "青色",
         "reading": "あおいろ",
-        "meaning": "blue"
+        "meaning": {
+          "en": "blue"
+        },
+        "romaji": "aoiro"
       }
     ],
     "radical": {
@@ -414,5 +456,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09752.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9752.gif",
     "uri": "https://jisho.org/search/%E9%9D%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "thanh"
+  ]
 }

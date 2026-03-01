@@ -348,34 +348,52 @@
       {
         "example": "独",
         "reading": "ドク",
-        "meaning": "Germany"
+        "meaning": {
+          "en": "Germany"
+        },
+        "romaji": "doku"
       },
       {
         "example": "独裁",
         "reading": "ドクサイ",
-        "meaning": "dictatorship, despotism, autocracy, running (a company, etc.) despotically"
+        "meaning": {
+          "vi": "dictatorship, despotism, autocracy, running (a company, etc.) despotically"
+        },
+        "romaji": "dokusai"
       },
       {
         "example": "西独",
         "reading": "セイドク",
-        "meaning": "West Germany (1949-1990)"
+        "meaning": {
+          "en": "West Germany (1949-1990)"
+        },
+        "romaji": "seidoku"
       },
       {
         "example": "英独",
         "reading": "エイドク",
-        "meaning": "United Kingdom and Germany, British-German, Anglo-German, English-German"
+        "meaning": {
+          "en": "United Kingdom and Germany, British-German, Anglo-German, English-German"
+        },
+        "romaji": "eidoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "一人",
         "reading": "ひとり",
-        "meaning": "one person, being alone, being by oneself, being single, being unmarried, by oneself, alone, just, only, simply"
+        "meaning": {
+          "vi": "one person, being alone, being by oneself, being single, being unmarried, by oneself, alone, just, only, simply"
+        },
+        "romaji": "hitori"
       },
       {
         "example": "一人歩き",
         "reading": "ひとりあるき",
-        "meaning": "taking on a life of its own (of a rumour, etc.), walking by oneself, taking a walk by oneself, walking unaided, being able to walk without help, standing on one's own feet, being independent, taking care of oneself"
+        "meaning": {
+          "vi": "taking on a life of its own (of a rumour, etc.), walking by oneself, taking a walk by oneself, walking unaided, being able to walk without help, standing on one's own feet, being independent, taking care of oneself"
+        },
+        "romaji": "hitoriaruki"
       }
     ],
     "radical": {
@@ -393,5 +411,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72ec.gif",
     "uri": "https://jisho.org/search/%E7%8B%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "độc"
+  ]
 }

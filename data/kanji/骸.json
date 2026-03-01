@@ -18,29 +18,44 @@
       {
         "example": "骸骨",
         "reading": "ガイコツ",
-        "meaning": "skeleton"
+        "meaning": {
+          "en": "skeleton"
+        },
+        "romaji": "gaikotsu"
       },
       {
         "example": "骸晶",
         "reading": "ガイショウ",
-        "meaning": "hopper crystal, skeleton crystal"
+        "meaning": {
+          "vi": "hopper crystal, skeleton crystal"
+        },
+        "romaji": "gaishou"
       },
       {
         "example": "死骸",
         "reading": "シガイ",
-        "meaning": "(dead) body, corpse, carcass, remains"
+        "meaning": {
+          "vi": "(dead) body, corpse, carcass, remains"
+        },
+        "romaji": "shigai"
       },
       {
         "example": "形骸",
         "reading": "ケイガイ",
-        "meaning": "(soulless) body, framework (of a building, etc.), skeleton, remains, ruin, wreck, mere shell, mere name, dead letter"
+        "meaning": {
+          "en": "(soulless) body, framework (of a building, etc.), skeleton, remains, ruin, wreck, mere shell, mere name, dead letter"
+        },
+        "romaji": "keigai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "躯",
         "reading": "むくろ",
-        "meaning": "(dead) body, corpse"
+        "meaning": {
+          "vi": "(dead) body, corpse"
+        },
+        "romaji": "mukuro"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ab8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ab8.gif",
     "uri": "https://jisho.org/search/%E9%AA%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hài"
+  ]
 }

@@ -339,34 +339,52 @@
       {
         "example": "効",
         "reading": "コウ",
-        "meaning": "efficacy, benefit, efficiency, effect, result, success"
+        "meaning": {
+          "en": "efficacy, benefit, efficiency, effect, result, success"
+        },
+        "romaji": "kou"
       },
       {
         "example": "効果",
         "reading": "コウカ",
-        "meaning": "effect, effectiveness, efficacy, result, effects (e.g. sound effects, visual effects, special effects)"
+        "meaning": {
+          "vi": "effect, effectiveness, efficacy, result, effects (e.g. sound effects, visual effects, special effects)"
+        },
+        "romaji": "kouka"
       },
       {
         "example": "実効",
         "reading": "ジッコウ",
-        "meaning": "practical effect, efficacy, efficiency"
+        "meaning": {
+          "vi": "practical effect, efficacy, efficiency"
+        },
+        "romaji": "jikkou"
       },
       {
         "example": "時効",
         "reading": "ジコウ",
-        "meaning": "statute of limitations, lapse of rights after a period of time, prescription (including acquisitive and extinctive prescription), becoming invalid or void after a set time, ageing, aging"
+        "meaning": {
+          "vi": "statute of limitations, lapse of rights after a period of time, prescription (including acquisitive and extinctive prescription), becoming invalid or void after a set time, ageing, aging"
+        },
+        "romaji": "jikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "効く",
         "reading": "きく",
-        "meaning": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try"
+        "meaning": {
+          "vi": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try"
+        },
+        "romaji": "kiku"
       },
       {
         "example": "効き目",
         "reading": "ききめ",
-        "meaning": "effect, virtue, efficacy, impression, one's dominant eye"
+        "meaning": {
+          "vi": "effect, virtue, efficacy, impression, one's dominant eye"
+        },
+        "romaji": "kikime"
       }
     ],
     "radical": {
@@ -382,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52b9.gif",
     "uri": "https://jisho.org/search/%E5%8A%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệu"
+  ]
 }

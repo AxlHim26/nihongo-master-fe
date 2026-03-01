@@ -18,7 +18,10 @@
       {
         "example": "進捗",
         "reading": "シンチョク",
-        "meaning": "progress, advance, making (good) progress"
+        "meaning": {
+          "vi": "progress, advance, making (good) progress"
+        },
+        "romaji": "shinchoku"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965f.gif",
     "uri": "https://jisho.org/search/%E9%99%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "trắc"
+  ]
 }

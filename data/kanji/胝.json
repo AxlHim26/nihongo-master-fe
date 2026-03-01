@@ -16,7 +16,10 @@
       {
         "example": "胼胝",
         "reading": "ベンチ",
-        "meaning": "callus, callosity"
+        "meaning": {
+          "en": "callus, callosity"
+        },
+        "romaji": "benchi"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80dd.gif",
     "uri": "https://jisho.org/search/%E8%83%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi",
+    "tri",
+    "đê"
+  ]
 }

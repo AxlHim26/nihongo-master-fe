@@ -330,22 +330,34 @@
       {
         "example": "府",
         "reading": "フ",
-        "meaning": "(urban) prefecture (i.e. Osaka and Kyoto), centre (e.g. of learning), center, seat, (government) office, fu (administrative unit in China, Korea and Vietnam)"
+        "meaning": {
+          "vi": "(urban) prefecture (i.e. Osaka and Kyoto), centre (e.g. of learning), center, seat, (government) office, fu (administrative unit in China, Korea and Vietnam)"
+        },
+        "romaji": "fu"
       },
       {
         "example": "府警",
         "reading": "フケイ",
-        "meaning": "prefectural police (Osaka or Kyoto)"
+        "meaning": {
+          "vi": "prefectural police (Osaka or Kyoto)"
+        },
+        "romaji": "fukei"
       },
       {
         "example": "総理府",
         "reading": "ソウリフ",
-        "meaning": "Prime Minister's office, PMO"
+        "meaning": {
+          "vi": "Prime Minister's office, PMO"
+        },
+        "romaji": "sourifu"
       },
       {
         "example": "無政府",
         "reading": "ムセイフ",
-        "meaning": "anarchy"
+        "meaning": {
+          "en": "anarchy"
+        },
+        "romaji": "museifu"
       }
     ],
     "kunyomiExamples": [],
@@ -362,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e9c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e9c.gif",
     "uri": "https://jisho.org/search/%E5%BA%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "phủ"
+  ]
 }

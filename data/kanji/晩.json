@@ -311,22 +311,34 @@
       {
         "example": "晩",
         "reading": "バン",
-        "meaning": "evening, night, dinner, evening meal, counter for nights"
+        "meaning": {
+          "en": "evening, night, dinner, evening meal, counter for nights"
+        },
+        "romaji": "ban"
       },
       {
         "example": "晩婚",
         "reading": "バンコン",
-        "meaning": "late marriage"
+        "meaning": {
+          "en": "late marriage"
+        },
+        "romaji": "bankon"
       },
       {
         "example": "歳晩",
         "reading": "サイバン",
-        "meaning": "year's end"
+        "meaning": {
+          "en": "year's end"
+        },
+        "romaji": "saiban"
       },
       {
         "example": "お晩",
         "reading": "オバン",
-        "meaning": "evening, good evening"
+        "meaning": {
+          "en": "evening, good evening"
+        },
+        "romaji": "oban"
       }
     ],
     "kunyomiExamples": [],
@@ -344,5 +356,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06669.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6669.gif",
     "uri": "https://jisho.org/search/%E6%99%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "vãn"
+  ]
 }

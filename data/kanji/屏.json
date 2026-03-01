@@ -20,39 +20,60 @@
       {
         "example": "塀",
         "reading": "ヘイ",
-        "meaning": "wall, fence"
+        "meaning": {
+          "en": "wall, fence"
+        },
+        "romaji": "hei"
       },
       {
         "example": "屏居",
         "reading": "ヘイキョ",
-        "meaning": "living in retirement"
+        "meaning": {
+          "en": "living in retirement"
+        },
+        "romaji": "heikyo"
       },
       {
         "example": "障屏",
         "reading": "ショウヘイ",
-        "meaning": "partitions in a Japanese house (e.g. screens, sliding doors, etc.)"
+        "meaning": {
+          "vi": "partitions in a Japanese house (e.g. screens, sliding doors, etc.)"
+        },
+        "romaji": "shouhei"
       },
       {
         "example": "屏風",
         "reading": "ビョウブ",
-        "meaning": "folding screen"
+        "meaning": {
+          "en": "folding screen"
+        },
+        "romaji": "byoubu"
       },
       {
         "example": "屏風岩",
         "reading": "ビョウブイワ",
-        "meaning": "sheer cliff"
+        "meaning": {
+          "en": "sheer cliff"
+        },
+        "romaji": "byoubuiwa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屏風",
         "reading": "びょうぶ",
-        "meaning": "folding screen"
+        "meaning": {
+          "en": "folding screen"
+        },
+        "romaji": "byoubu"
       },
       {
         "example": "屏風岩",
         "reading": "びょうぶいわ",
-        "meaning": "sheer cliff"
+        "meaning": {
+          "en": "sheer cliff"
+        },
+        "romaji": "byoubuiwa"
       }
     ],
     "radical": {
@@ -72,5 +93,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4f.gif",
     "uri": "https://jisho.org/search/%E5%B1%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "bình",
+    "bính",
+    "phanh"
+  ]
 }

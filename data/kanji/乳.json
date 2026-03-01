@@ -20,7 +20,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_a.mp3"
-        }
+        },
+        "meaningVN": "(bò) sữa",
+        "hanViet": "ngưu nhũ",
+        "hanVietExplain": "牛 (ngưu: con trâu) + 乳 (nhũ: sinh, đẻ) → (bò) sữa"
       },
       {
         "japanese": "母乳（ぼにゅう）",
@@ -32,7 +35,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_b.mp3"
-        }
+        },
+        "meaningVN": "sữa mẹ",
+        "hanViet": "mô nhũ",
+        "hanVietExplain": "母 (mô: mẹ) + 乳 (nhũ: sinh, đẻ) → sữa mẹ"
       },
       {
         "japanese": "乳牛（にゅうぎゅう）",
@@ -44,7 +50,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_c.mp3"
-        }
+        },
+        "meaningVN": "bò sữa",
+        "hanViet": "nhũ ngưu",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 牛 (ngưu: con trâu) → bò sữa"
       },
       {
         "japanese": "乳児（にゅうじ）",
@@ -56,7 +65,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_d.mp3"
-        }
+        },
+        "meaningVN": "trẻ sơ sinh",
+        "hanViet": "nhũ nhi",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 児 (nhi: đứa trẻ) → trẻ sơ sinh"
       },
       {
         "japanese": "乳歯（にゅうし）",
@@ -68,7 +80,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_e.mp3"
-        }
+        },
+        "meaningVN": "răng sữa (trẻ em)",
+        "hanViet": "nhũ xỉ",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 歯 (xỉ: răng) → răng sữa (trẻ em)"
       },
       {
         "japanese": "乳（ちち）",
@@ -80,7 +95,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_f.mp3"
-        }
+        },
+        "meaningVN": "sữa, vú",
+        "hanViet": "nhũ",
+        "hanVietExplain": "nhũ: sinh, đẻ, vú, sữa, con non"
       },
       {
         "japanese": "乳房（ちぶさ）",
@@ -92,7 +110,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_g.mp3"
-        }
+        },
+        "meaningVN": "nhũ hoa",
+        "hanViet": "nhũ bàng",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 房 (bàng: căn phòng) → nhũ hoa"
       }
     ],
     "kunyomi_ja": "ちち、ち",
@@ -266,64 +287,136 @@
       {
         "example": "乳製品",
         "reading": "ニュウセイヒン",
-        "meaning": "dairy products"
+        "meaning": {
+          "vi": "dairy products"
+        },
+        "meaningVN": "sản phẩm từ sữa",
+        "hanViet": "nhũ chế phẩm",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 製 (chế: làm, chế tạo) + 品 (phẩm: đồ vật) → sản phẩm từ sữa",
+        "romaji": "nyuuseihin"
       },
       {
         "example": "乳児",
         "reading": "ニュウジ",
-        "meaning": "infant (below 1 year old), suckling baby"
+        "meaning": {
+          "en": "infant (below 1 year old), suckling baby"
+        },
+        "meaningVN": "trẻ sơ sinh (dưới 1 tuổi), trẻ bú mẹ",
+        "hanViet": "nhũ nhi",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 児 (nhi: đứa trẻ) → trẻ sơ sinh (dưới 1 tuổi), trẻ bú mẹ",
+        "romaji": "nyuuji"
       },
       {
         "example": "豆乳",
         "reading": "トウニュウ",
-        "meaning": "soy milk"
+        "meaning": {
+          "en": "soy milk"
+        },
+        "meaningVN": "tôi là sữa",
+        "hanViet": "đậu nhũ",
+        "hanVietExplain": "豆 (đậu: cây đậu) + 乳 (nhũ: sinh, đẻ) → tôi là sữa",
+        "romaji": "tounyuu"
       },
       {
         "example": "生乳",
         "reading": "セイニュウ",
-        "meaning": "raw milk"
+        "meaning": {
+          "en": "raw milk"
+        },
+        "meaningVN": "sữa tươi",
+        "hanViet": "sanh nhũ",
+        "hanVietExplain": "生 (sanh: sinh đẻ) + 乳 (nhũ: sinh, đẻ) → sữa tươi",
+        "romaji": "seinyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乳",
         "reading": "ちち",
-        "meaning": "milk, breast, loop, decorative bump (on a hanging bell)"
+        "meaning": {
+          "vi": "milk, breast, loop, decorative bump (on a hanging bell)"
+        },
+        "meaningVN": "sữa, vú, vòng, vết sưng trang trí (trên chuông treo)",
+        "hanViet": "nhũ",
+        "hanVietExplain": "nhũ: sinh, đẻ, vú, sữa, con non",
+        "romaji": "chichi"
       },
       {
         "example": "乳首",
         "reading": "ちくび",
-        "meaning": "nipple, teat"
+        "meaning": {
+          "vi": "nipple, teat"
+        },
+        "meaningVN": "núm vú, núm vú",
+        "hanViet": "nhũ thú",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 首 (thú: thú tội, đầu thú) → núm vú, núm vú",
+        "romaji": "chikubi"
       },
       {
         "example": "無い乳",
         "reading": "ないちち",
-        "meaning": "very small breasts"
+        "meaning": {
+          "en": "very small breasts"
+        },
+        "meaningVN": "ngực rất nhỏ",
+        "hanViet": "mô い nhũ",
+        "hanVietExplain": "無 (mô: không có) + 乳 (nhũ: sinh, đẻ) → ngực rất nhỏ",
+        "romaji": "naichichi"
       },
       {
         "example": "もらい乳",
         "reading": "もらいぢち",
-        "meaning": "having one's baby nursed by another woman, wet-nursing, breast milk received from another woman"
+        "meaning": {
+          "en": "having one's baby nursed by another woman, wet-nursing, breast milk received from another woman"
+        },
+        "meaningVN": "cho con của mình được một người phụ nữ khác chăm sóc, cho con bú ướt, nhận sữa mẹ từ người phụ nữ khác",
+        "hanViet": "も ら い nhũ",
+        "hanVietExplain": "nhũ: sinh, đẻ, vú, sữa, con non",
+        "romaji": "moraijichi"
       },
       {
         "example": "乳",
         "reading": "ちち",
-        "meaning": "milk, breast, loop, decorative bump (on a hanging bell)"
+        "meaning": {
+          "vi": "milk, breast, loop, decorative bump (on a hanging bell)"
+        },
+        "meaningVN": "sữa, vú, vòng, vết sưng trang trí (trên chuông treo)",
+        "hanViet": "nhũ",
+        "hanVietExplain": "nhũ: sinh, đẻ, vú, sữa, con non",
+        "romaji": "chichi"
       },
       {
         "example": "乳房",
         "reading": "ちぶさ",
-        "meaning": "breast, udder"
+        "meaning": {
+          "en": "breast, udder"
+        },
+        "meaningVN": "vú, bầu vú",
+        "hanViet": "nhũ bàng",
+        "hanVietExplain": "乳 (nhũ: sinh, đẻ) + 房 (bàng: căn phòng) → vú, bầu vú",
+        "romaji": "chibusa"
       },
       {
         "example": "無い乳",
         "reading": "ないちち",
-        "meaning": "very small breasts"
+        "meaning": {
+          "en": "very small breasts"
+        },
+        "meaningVN": "ngực rất nhỏ",
+        "hanViet": "mô い nhũ",
+        "hanVietExplain": "無 (mô: không có) + 乳 (nhũ: sinh, đẻ) → ngực rất nhỏ",
+        "romaji": "naichichi"
       },
       {
         "example": "もらい乳",
         "reading": "もらいぢち",
-        "meaning": "having one's baby nursed by another woman, wet-nursing, breast milk received from another woman"
+        "meaning": {
+          "en": "having one's baby nursed by another woman, wet-nursing, breast milk received from another woman"
+        },
+        "meaningVN": "cho con của mình được một người phụ nữ khác chăm sóc, cho con bú ướt, nhận sữa mẹ từ người phụ nữ khác",
+        "hanViet": "も ら い nhũ",
+        "hanVietExplain": "nhũ: sinh, đẻ, vú, sữa, con non",
+        "romaji": "moraijichi"
       }
     ],
     "radical": {
@@ -344,5 +437,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e73.gif",
     "uri": "https://jisho.org/search/%E4%B9%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhũ"
+  ],
+  "meaningVN": "sữa",
+  "hanVietExplain": "nhũ: sinh, đẻ, vú, sữa, con non"
 }

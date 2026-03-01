@@ -276,44 +276,68 @@
       {
         "example": "池魚の殃",
         "reading": "チギョノワザワイ",
-        "meaning": "collateral damage, getting embroiled in someone else's dispute, having a fire spread to one's own house"
+        "meaning": {
+          "vi": "collateral damage, getting embroiled in someone else's dispute, having a fire spread to one's own house"
+        },
+        "romaji": "chigyonowazawai"
       },
       {
         "example": "池沼",
         "reading": "チショウ",
-        "meaning": "ponds and swamps, retard, mentally disabled person"
+        "meaning": {
+          "vi": "ponds and swamps, retard, mentally disabled person"
+        },
+        "romaji": "chishou"
       },
       {
         "example": "蓄電池",
         "reading": "チクデンチ",
-        "meaning": "storage battery"
+        "meaning": {
+          "en": "storage battery"
+        },
+        "romaji": "chikudenchi"
       },
       {
         "example": "給水池",
         "reading": "キュウスイチ",
-        "meaning": "reservoir"
+        "meaning": {
+          "en": "reservoir"
+        },
+        "romaji": "kyuusuichi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "池",
         "reading": "いけ",
-        "meaning": "pond"
+        "meaning": {
+          "vi": "pond"
+        },
+        "romaji": "ike"
       },
       {
         "example": "池様",
         "reading": "いけさま",
-        "meaning": "good-looking guy, handsome man"
+        "meaning": {
+          "en": "good-looking guy, handsome man"
+        },
+        "romaji": "ikesama"
       },
       {
         "example": "用水池",
         "reading": "ようすいいけ",
-        "meaning": "reservoir"
+        "meaning": {
+          "en": "reservoir"
+        },
+        "romaji": "yousuiike"
       },
       {
         "example": "人工池",
         "reading": "じんこういけ",
-        "meaning": "artificial pool"
+        "meaning": {
+          "vi": "artificial pool"
+        },
+        "romaji": "jinkouike"
       }
     ],
     "radical": {
@@ -332,5 +356,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c60.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c60.gif",
     "uri": "https://jisho.org/search/%E6%B1%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "trì"
+  ]
 }

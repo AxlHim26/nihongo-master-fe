@@ -22,44 +22,68 @@
       {
         "example": "沖する",
         "reading": "チュウスル",
-        "meaning": "to rise up into the air, to ascend into the sky"
+        "meaning": {
+          "vi": "to rise up into the air, to ascend into the sky"
+        },
+        "romaji": "chuusuru"
       },
       {
         "example": "沖積",
         "reading": "チュウセキ",
-        "meaning": "alluvial"
+        "meaning": {
+          "en": "alluvial"
+        },
+        "romaji": "chuuseki"
       },
       {
         "example": "在沖",
         "reading": "ザイチュウ",
-        "meaning": "staying in Okinawa, resident in Okinawa, stationed in Okinawa"
+        "meaning": {
+          "en": "staying in Okinawa, resident in Okinawa, stationed in Okinawa"
+        },
+        "romaji": "zaichuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沖",
         "reading": "おき",
-        "meaning": "open sea, Okinawa"
+        "meaning": {
+          "vi": "open sea, Okinawa"
+        },
+        "romaji": "oki"
       },
       {
         "example": "沖合",
         "reading": "おきあい",
-        "meaning": "off the coast, offshore, out at sea"
+        "meaning": {
+          "en": "off the coast, offshore, out at sea"
+        },
+        "romaji": "okiai"
       },
       {
         "example": "在沖",
         "reading": "ざいちゅう",
-        "meaning": "staying in Okinawa, resident in Okinawa, stationed in Okinawa"
+        "meaning": {
+          "en": "staying in Okinawa, resident in Okinawa, stationed in Okinawa"
+        },
+        "romaji": "zaichuu"
       },
       {
         "example": "来沖",
         "reading": "らいおき",
-        "meaning": "coming to Okinawa, visit to Okinawa"
+        "meaning": {
+          "en": "coming to Okinawa, visit to Okinawa"
+        },
+        "romaji": "raioki"
       },
       {
         "example": "沖する",
         "reading": "ちゅうする",
-        "meaning": "to rise up into the air, to ascend into the sky"
+        "meaning": {
+          "vi": "to rise up into the air, to ascend into the sky"
+        },
+        "romaji": "chuusuru"
       }
     ],
     "radical": {
@@ -79,5 +103,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c96.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c96.gif",
     "uri": "https://jisho.org/search/%E6%B2%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "trùng",
+    "xung"
+  ]
 }

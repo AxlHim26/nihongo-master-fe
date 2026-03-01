@@ -19,29 +19,44 @@
       {
         "example": "拓殖",
         "reading": "タクショク",
-        "meaning": "colonization, colonisation, development, settlement, exploitation"
+        "meaning": {
+          "vi": "colonization, colonisation, development, settlement, exploitation"
+        },
+        "romaji": "takushoku"
       },
       {
         "example": "拓銀",
         "reading": "タクギン",
-        "meaning": "Takushoku Bank"
+        "meaning": {
+          "en": "Takushoku Bank"
+        },
+        "romaji": "takugin"
       },
       {
         "example": "干拓",
         "reading": "カンタク",
-        "meaning": "land reclamation (from sea)"
+        "meaning": {
+          "en": "land reclamation (from sea)"
+        },
+        "romaji": "kantaku"
       },
       {
         "example": "未開拓",
         "reading": "ミカイタク",
-        "meaning": "undeveloped (area), unexplored (field of study), wild (areas), untapped area"
+        "meaning": {
+          "vi": "undeveloped (area), unexplored (field of study), wild (areas), untapped area"
+        },
+        "romaji": "mikaitaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拓く",
         "reading": "ひらく",
-        "meaning": "to open (e.g. path), to clear (the way), to break up (e.g. land)"
+        "meaning": {
+          "vi": "to open (e.g. path), to clear (the way), to break up (e.g. land)"
+        },
+        "romaji": "hiraku"
       }
     ],
     "radical": {
@@ -60,5 +75,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d3.gif",
     "uri": "https://jisho.org/search/%E6%8B%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "chích",
+    "thác",
+    "tháp"
+  ]
 }

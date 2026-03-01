@@ -264,34 +264,52 @@
       {
         "example": "件",
         "reading": "ケン",
-        "meaning": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)"
+        "meaning": {
+          "en": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)"
+        },
+        "romaji": "ken"
       },
       {
         "example": "件数",
         "reading": "ケンスウ",
-        "meaning": "number of cases, incidents, items, messages, accounts, etc."
+        "meaning": {
+          "en": "number of cases, incidents, items, messages, accounts, etc."
+        },
+        "romaji": "kensuu"
       },
       {
         "example": "刑事事件",
         "reading": "ケイジジケン",
-        "meaning": "criminal case"
+        "meaning": {
+          "en": "criminal case"
+        },
+        "romaji": "keijijiken"
       },
       {
         "example": "要件",
         "reading": "ヨウケン",
-        "meaning": "important matter, requirement, requisite, necessary condition, sine qua non"
+        "meaning": {
+          "vi": "important matter, requirement, requisite, necessary condition, sine qua non"
+        },
+        "romaji": "youken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "件",
         "reading": "くだん",
-        "meaning": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual"
+        "meaning": {
+          "en": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual"
+        },
+        "romaji": "kudan"
       },
       {
         "example": "件の如し",
         "reading": "くだんのごとし",
-        "meaning": "the above is hereby affirmed, such is the purpose of this document"
+        "meaning": {
+          "vi": "the above is hereby affirmed, such is the purpose of this document"
+        },
+        "romaji": "kudannogotoshi"
       }
     ],
     "radical": {
@@ -309,5 +327,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef6.gif",
     "uri": "https://jisho.org/search/%E4%BB%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiện"
+  ]
 }

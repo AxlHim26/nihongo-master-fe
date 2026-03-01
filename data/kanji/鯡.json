@@ -18,17 +18,26 @@
       {
         "example": "鰊",
         "reading": "にしん",
-        "meaning": "Pacific herring (Clupea pallasii)"
+        "meaning": {
+          "vi": "Pacific herring (Clupea pallasii)"
+        },
+        "romaji": "nishin"
       },
       {
         "example": "鰊粕",
         "reading": "にしんかす",
-        "meaning": "dried and pressed boiled herring (used as fertilizer)"
+        "meaning": {
+          "vi": "dried and pressed boiled herring (used as fertilizer)"
+        },
+        "romaji": "nishinkasu"
       },
       {
         "example": "大西洋鯡",
         "reading": "たいせいようにしん",
-        "meaning": "Atlantic herring (Clupea harengus)"
+        "meaning": {
+          "vi": "Atlantic herring (Clupea harengus)"
+        },
+        "romaji": "taiseiyounishin"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be1.gif",
     "uri": "https://jisho.org/search/%E9%AF%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi"
+  ]
 }

@@ -16,24 +16,36 @@
       {
         "example": "草冠",
         "reading": "クサカンムリ",
-        "meaning": "kanji \"grass radical\" (radical 140), grass crown"
+        "meaning": {
+          "en": "kanji \"grass radical\" (radical 140), grass crown"
+        },
+        "romaji": "kusakanmuri"
       },
       {
         "example": "艸部",
         "reading": "ソウブ",
-        "meaning": "kanji \"grass radical\" (radical 140)"
+        "meaning": {
+          "en": "kanji \"grass radical\" (radical 140)"
+        },
+        "romaji": "soubu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "草",
         "reading": "くさ",
-        "meaning": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha"
+        "meaning": {
+          "en": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha"
+        },
+        "romaji": "kusa"
       },
       {
         "example": "草冠",
         "reading": "くさかんむり",
-        "meaning": "kanji \"grass radical\" (radical 140), grass crown"
+        "meaning": {
+          "en": "kanji \"grass radical\" (radical 140), grass crown"
+        },
+        "romaji": "kusakanmuri"
       }
     ],
     "radical": {
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08278.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8278.gif",
     "uri": "https://jisho.org/search/%E8%89%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thảo"
+  ]
 }

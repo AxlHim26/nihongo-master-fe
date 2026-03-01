@@ -16,22 +16,34 @@
       {
         "example": "湾曲",
         "reading": "ワンキョク",
-        "meaning": "cong, uốn, khúc"
+        "meaning": {
+          "vi": "cong, uốn, khúc"
+        },
+        "romaji": "wankyoku"
       },
       {
         "example": "彎月",
         "reading": "ワンゲツ",
-        "meaning": "trăng lưỡi liềm"
+        "meaning": {
+          "vi": "trăng lưỡi liềm"
+        },
+        "romaji": "wangetsu"
       },
       {
         "example": "大弯",
         "reading": "ダイワン",
-        "meaning": "độ cong lớn (của dạ dày)"
+        "meaning": {
+          "vi": "độ cong lớn (của dạ dày)"
+        },
+        "romaji": "daiwan"
       },
       {
         "example": "小弯",
         "reading": "ショウワン",
-        "meaning": "độ cong nhỏ (của dạ dày)"
+        "meaning": {
+          "vi": "độ cong nhỏ (của dạ dày)"
+        },
+        "romaji": "shouwan"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f4e.gif",
     "uri": "https://jisho.org/search/%E5%BD%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "loan"
+  ]
 }

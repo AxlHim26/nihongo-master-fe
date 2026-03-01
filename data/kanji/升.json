@@ -19,29 +19,44 @@
       {
         "example": "升",
         "reading": "ショウ",
-        "meaning": "shō, traditional unit of volume, approx. 1.8 litres"
+        "meaning": {
+          "vi": "shō, traditional unit of volume, approx. 1.8 litres"
+        },
+        "romaji": "shou"
       },
       {
         "example": "升遷",
         "reading": "ショウセン",
-        "meaning": "rising up"
+        "meaning": {
+          "vi": "rising up"
+        },
+        "romaji": "shousen"
       },
       {
         "example": "一升",
         "reading": "イッショウ",
-        "meaning": "one shō (approx. 1.8 litres)"
+        "meaning": {
+          "vi": "one shō (approx. 1.8 litres)"
+        },
+        "romaji": "isshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "升",
         "reading": "ます",
-        "meaning": "measuring container, measuring box, measure, box (seating at a theatre, etc.), square on a grid, cell of a grid, square bearing block (at the top of a pillar)"
+        "meaning": {
+          "vi": "measuring container, measuring box, measure, box (seating at a theatre, etc.), square on a grid, cell of a grid, square bearing block (at the top of a pillar)"
+        },
+        "romaji": "masu"
       },
       {
         "example": "升売り",
         "reading": "ますうり",
-        "meaning": "selling by volume (esp. using a traditional wooden masu box)"
+        "meaning": {
+          "vi": "selling by volume (esp. using a traditional wooden masu box)"
+        },
+        "romaji": "masuuri"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05347.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5347.gif",
     "uri": "https://jisho.org/search/%E5%8D%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "thăng"
+  ]
 }

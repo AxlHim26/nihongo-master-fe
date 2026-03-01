@@ -393,64 +393,100 @@
       {
         "example": "楽",
         "reading": "ガク",
-        "meaning": "music, old Japanese court music, gagaku"
+        "meaning": {
+          "vi": "music, old Japanese court music, gagaku"
+        },
+        "romaji": "gaku"
       },
       {
         "example": "楽章",
         "reading": "ガクショウ",
-        "meaning": "movement"
+        "meaning": {
+          "en": "movement"
+        },
+        "romaji": "gakushou"
       },
       {
         "example": "邦楽",
         "reading": "ホウガク",
-        "meaning": "Japanese music (esp. traditional Japanese music)"
+        "meaning": {
+          "vi": "Japanese music (esp. traditional Japanese music)"
+        },
+        "romaji": "hougaku"
       },
       {
         "example": "室内楽",
         "reading": "シツナイガク",
-        "meaning": "chamber music"
+        "meaning": {
+          "en": "chamber music"
+        },
+        "romaji": "shitsunaigaku"
       },
       {
         "example": "楽",
         "reading": "ラク",
-        "meaning": "comfort, ease, relief, (at) peace, relaxation, easy, simple, without trouble, without hardships, (economically) comfortable, raku pottery, sukha (happiness)"
+        "meaning": {
+          "vi": "comfort, ease, relief, (at) peace, relaxation, easy, simple, without trouble, without hardships, (economically) comfortable, raku pottery, sukha (happiness)"
+        },
+        "romaji": "raku"
       },
       {
         "example": "楽園",
         "reading": "ラクエン",
-        "meaning": "paradise, Eden"
+        "meaning": {
+          "vi": "paradise, Eden"
+        },
+        "romaji": "rakuen"
       },
       {
         "example": "千秋楽",
         "reading": "センシュウラク",
-        "meaning": "final day of a performance, closing date, final show, final day of a tournament"
+        "meaning": {
+          "vi": "final day of a performance, closing date, final show, final day of a tournament"
+        },
+        "romaji": "senshuuraku"
       },
       {
         "example": "行楽",
         "reading": "コウラク",
-        "meaning": "outing, excursion, pleasure trip, going on a picnic"
+        "meaning": {
+          "vi": "outing, excursion, pleasure trip, going on a picnic"
+        },
+        "romaji": "kouraku"
       },
       {
         "example": "猿楽",
         "reading": "サルガク",
-        "meaning": "sarugaku (form of theatre popular in Japan during the 11th to 14th centuries), noh, fooling around"
+        "meaning": {
+          "vi": "sarugaku (form of theatre popular in Japan during the 11th to 14th centuries), noh, fooling around"
+        },
+        "romaji": "sarugaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "楽しい",
         "reading": "たのしい",
-        "meaning": "enjoyable, fun, pleasant, happy, delightful"
+        "meaning": {
+          "vi": "enjoyable, fun, pleasant, happy, delightful"
+        },
+        "romaji": "tanoshii"
       },
       {
         "example": "楽しい思い出",
         "reading": "たのしいおもいで",
-        "meaning": "happy memory, sweet memory"
+        "meaning": {
+          "vi": "happy memory, sweet memory"
+        },
+        "romaji": "tanoshiiomoide"
       },
       {
         "example": "楽しむ",
         "reading": "たのしむ",
-        "meaning": "to enjoy, to take pleasure in, to have a good time, to have fun, to amuse oneself, to look forward to"
+        "meaning": {
+          "vi": "to enjoy, to take pleasure in, to have a good time, to have fun, to amuse oneself, to look forward to"
+        },
+        "romaji": "tanoshimu"
       }
     ],
     "radical": {
@@ -466,5 +502,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0697d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/697d.gif",
     "uri": "https://jisho.org/search/%E6%A5%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc"
+  ]
 }

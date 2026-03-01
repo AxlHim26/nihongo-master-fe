@@ -19,29 +19,44 @@
       {
         "example": "詐欺",
         "reading": "サギ",
-        "meaning": "fraud, swindle, graft, cheating, trick, scam, saying you're going to do something but in the end not doing it, making promises without keeping them, flaking out"
+        "meaning": {
+          "vi": "fraud, swindle, graft, cheating, trick, scam, saying you're going to do something but in the end not doing it, making promises without keeping them, flaking out"
+        },
+        "romaji": "sagi"
       },
       {
         "example": "詐欺師",
         "reading": "サギシ",
-        "meaning": "swindler, fraudster, trickster, con man"
+        "meaning": {
+          "en": "swindler, fraudster, trickster, con man"
+        },
+        "romaji": "sagishi"
       },
       {
         "example": "欺詐",
         "reading": "ギサ",
-        "meaning": "fraud, fraudulence, dupery, hoax"
+        "meaning": {
+          "vi": "fraud, fraudulence, dupery, hoax"
+        },
+        "romaji": "gisa"
       },
       {
         "example": "譎詐",
         "reading": "キッサ",
-        "meaning": "falsehood, fabrication, dissimulation"
+        "meaning": {
+          "en": "falsehood, fabrication, dissimulation"
+        },
+        "romaji": "kissa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偽る",
         "reading": "いつわる",
-        "meaning": "to lie, to pretend, to feign, to falsify, to deceive, to trick"
+        "meaning": {
+          "vi": "to lie, to pretend, to feign, to falsify, to deceive, to trick"
+        },
+        "romaji": "itsuwaru"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a50.gif",
     "uri": "https://jisho.org/search/%E8%A9%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "trá"
+  ]
 }

@@ -21,54 +21,84 @@
       {
         "example": "威",
         "reading": "イ",
-        "meaning": "quyền lực, uy quyền, ảnh hưởng, uy nghi"
+        "meaning": {
+          "vi": "quyền lực, uy quyền, ảnh hưởng, uy nghi"
+        },
+        "romaji": "i"
       },
       {
         "example": "威嚇",
         "reading": "イカク",
-        "meaning": "đe dọa, hù dọa"
+        "meaning": {
+          "vi": "đe dọa, hù dọa"
+        },
+        "romaji": "ikaku"
       },
       {
         "example": "球威",
         "reading": "キュウイ",
-        "meaning": "sức ném (của tay ném)"
+        "meaning": {
+          "vi": "sức ném (của tay ném)"
+        },
+        "romaji": "kyuui"
       },
       {
         "example": "国威",
         "reading": "コクイ",
-        "meaning": "uy tín quốc gia"
+        "meaning": {
+          "vi": "uy tín quốc gia"
+        },
+        "romaji": "kokui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脅す",
         "reading": "おどす",
-        "meaning": "đe dọa, hù dọa"
+        "meaning": {
+          "vi": "đe dọa, hù dọa"
+        },
+        "romaji": "odosu"
       },
       {
         "example": "縅",
         "reading": "おどし",
-        "meaning": "dây da buộc các tấm áo giáp truyền thống Nhật"
+        "meaning": {
+          "vi": "dây da buộc các tấm áo giáp truyền thống Nhật"
+        },
+        "romaji": "odoshi"
       },
       {
         "example": "脅し",
         "reading": "おどし",
-        "meaning": "đe dọa, bù nhìn đuổi chim"
+        "meaning": {
+          "vi": "đe dọa, bù nhìn đuổi chim"
+        },
+        "romaji": "odoshi"
       },
       {
         "example": "糸威",
         "reading": "いとおどし",
-        "meaning": "buộc tấm bằng dây màu (áo giáp truyền thống)"
+        "meaning": {
+          "vi": "buộc tấm bằng dây màu (áo giáp truyền thống)"
+        },
+        "romaji": "itoodoshi"
       },
       {
         "example": "白糸威",
         "reading": "しろいとおどし",
-        "meaning": "buộc tấm bằng dây trắng (áo giáp truyền thống)"
+        "meaning": {
+          "vi": "buộc tấm bằng dây trắng (áo giáp truyền thống)"
+        },
+        "romaji": "shiroitoodoshi"
       },
       {
         "example": "脅かす",
         "reading": "おどかす",
-        "meaning": "đe dọa, hù dọa, làm giật mình"
+        "meaning": {
+          "vi": "đe dọa, hù dọa, làm giật mình"
+        },
+        "romaji": "odokasu"
       }
     ],
     "radical": {
@@ -85,5 +115,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a01.gif",
     "uri": "https://jisho.org/search/%E5%A8%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "oai",
+    "uy"
+  ]
 }

@@ -19,39 +19,60 @@
       {
         "example": "喪",
         "reading": "モ",
-        "meaning": "mourning, calamity, misfortune"
+        "meaning": {
+          "en": "mourning, calamity, misfortune"
+        },
+        "romaji": "mo"
       },
       {
         "example": "喪失",
         "reading": "ソウシツ",
-        "meaning": "loss, forfeit"
+        "meaning": {
+          "en": "loss, forfeit"
+        },
+        "romaji": "soushitsu"
       },
       {
         "example": "大喪",
         "reading": "タイソウ",
-        "meaning": "funeral service of a Japanese emperor, Imperial mourning"
+        "meaning": {
+          "vi": "funeral service of a Japanese emperor, Imperial mourning"
+        },
+        "romaji": "taisou"
       },
       {
         "example": "国喪",
         "reading": "コクソウ",
-        "meaning": "national mourning"
+        "meaning": {
+          "en": "national mourning"
+        },
+        "romaji": "kokusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喪",
         "reading": "も",
-        "meaning": "mourning, calamity, misfortune"
+        "meaning": {
+          "en": "mourning, calamity, misfortune"
+        },
+        "romaji": "mo"
       },
       {
         "example": "喪主",
         "reading": "もしゅ",
-        "meaning": "chief mourner"
+        "meaning": {
+          "en": "chief mourner"
+        },
+        "romaji": "moshu"
       },
       {
         "example": "服喪",
         "reading": "ふくも",
-        "meaning": "going into mourning"
+        "meaning": {
+          "en": "going into mourning"
+        },
+        "romaji": "fukumo"
       }
     ],
     "radical": {
@@ -69,5 +90,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55aa.gif",
     "uri": "https://jisho.org/search/%E5%96%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tang",
+    "táng"
+  ]
 }

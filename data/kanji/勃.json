@@ -19,22 +19,34 @@
       {
         "example": "勃",
         "reading": "ボツ",
-        "meaning": "Bulgaria, spirited, rising, energetic, sudden, abrupt"
+        "meaning": {
+          "vi": "Bulgaria, spirited, rising, energetic, sudden, abrupt"
+        },
+        "romaji": "botsu"
       },
       {
         "example": "勃然",
         "reading": "ボツゼン",
-        "meaning": "suddenly, all at once, flaring up (in anger), in a flare"
+        "meaning": {
+          "vi": "suddenly, all at once, flaring up (in anger), in a flare"
+        },
+        "romaji": "botsuzen"
       },
       {
         "example": "鬱勃",
         "reading": "ウツボツ",
-        "meaning": "pent-up (energy, enthusiasm, etc.), burning (e.g. ambition), irrepressible (e.g. desire)"
+        "meaning": {
+          "vi": "pent-up (energy, enthusiasm, etc.), burning (e.g. ambition), irrepressible (e.g. desire)"
+        },
+        "romaji": "utsubotsu"
       },
       {
         "example": "勃々",
         "reading": "ボツボツ",
-        "meaning": "spirited, rising, energetic"
+        "meaning": {
+          "vi": "spirited, rising, energetic"
+        },
+        "romaji": "botsubotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c3.gif",
     "uri": "https://jisho.org/search/%E5%8B%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "bột"
+  ]
 }

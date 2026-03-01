@@ -19,29 +19,44 @@
       {
         "example": "敏",
         "reading": "ビン",
-        "meaning": "quick, nimble, agile, sharp, smart, clever"
+        "meaning": {
+          "vi": "quick, nimble, agile, sharp, smart, clever"
+        },
+        "romaji": "bin"
       },
       {
         "example": "敏感",
         "reading": "ビンカン",
-        "meaning": "sensitive, alert, aware, susceptible"
+        "meaning": {
+          "vi": "sensitive, alert, aware, susceptible"
+        },
+        "romaji": "binkan"
       },
       {
         "example": "穎敏",
         "reading": "エイビン",
-        "meaning": "sharp (mind), keen, acute"
+        "meaning": {
+          "vi": "sharp (mind), keen, acute"
+        },
+        "romaji": "eibin"
       },
       {
         "example": "慧敏",
         "reading": "ケイビン",
-        "meaning": "clever, of quick intellect"
+        "meaning": {
+          "en": "clever, of quick intellect"
+        },
+        "romaji": "keibin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聡い",
         "reading": "さとい",
-        "meaning": "clever, smart, sharp (ear, etc.), sensitive, discerning"
+        "meaning": {
+          "vi": "clever, smart, sharp (ear, etc.), sensitive, discerning"
+        },
+        "romaji": "satoi"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0654f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/654f.gif",
     "uri": "https://jisho.org/search/%E6%95%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "mẫn"
+  ]
 }

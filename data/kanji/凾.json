@@ -18,7 +18,10 @@
       {
         "example": "箱",
         "reading": "はこ",
-        "meaning": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        "meaning": {
+          "vi": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        },
+        "romaji": "hako"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51fe.gif",
     "uri": "https://jisho.org/search/%E5%87%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàm"
+  ]
 }

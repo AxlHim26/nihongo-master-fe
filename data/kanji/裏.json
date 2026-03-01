@@ -328,44 +328,68 @@
       {
         "example": "裏",
         "reading": "リ",
-        "meaning": "in (e.g. secret), with (e.g. success)"
+        "meaning": {
+          "en": "in (e.g. secret), with (e.g. success)"
+        },
+        "romaji": "ri"
       },
       {
         "example": "裏面",
         "reading": "リメン",
-        "meaning": "back (side), reverse, the inside, background, dark side (e.g. of society), behind the scenes, beneath the surface"
+        "meaning": {
+          "en": "back (side), reverse, the inside, background, dark side (e.g. of society), behind the scenes, beneath the surface"
+        },
+        "romaji": "rimen"
       },
       {
         "example": "内裏",
         "reading": "ダイリ",
-        "meaning": "imperial palace, festival dolls representing the emperor and the empress"
+        "meaning": {
+          "vi": "imperial palace, festival dolls representing the emperor and the empress"
+        },
+        "romaji": "dairi"
       },
       {
         "example": "影裏",
         "reading": "エイリ",
-        "meaning": "shade"
+        "meaning": {
+          "en": "shade"
+        },
+        "romaji": "eiri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "裏",
         "reading": "うら",
-        "meaning": "opposite side, bottom, other side, side hidden from view, undersurface, reverse side, rear, back, behind, lining, inside, in the shadows, behind the scenes, offstage, behind (someone's) back, more (to something than meets the eye), hidden side (e.g. of one's personality), unknown circumstances, different side, proof, opposite (of a prediction, common sense, etc.), contrary, inverse (of a hypothesis, etc.), bottom (of an inning), last half (of an inning)"
+        "meaning": {
+          "vi": "opposite side, bottom, other side, side hidden from view, undersurface, reverse side, rear, back, behind, lining, inside, in the shadows, behind the scenes, offstage, behind (someone's) back, more (to something than meets the eye), hidden side (e.g. of one's personality), unknown circumstances, different side, proof, opposite (of a prediction, common sense, etc.), contrary, inverse (of a hypothesis, etc.), bottom (of an inning), last half (of an inning)"
+        },
+        "romaji": "ura"
       },
       {
         "example": "裏方",
         "reading": "うらかた",
-        "meaning": "someone working behind-the-scenes, scene shifter, lady consort (to a high personage)"
+        "meaning": {
+          "vi": "someone working behind-the-scenes, scene shifter, lady consort (to a high personage)"
+        },
+        "romaji": "urakata"
       },
       {
         "example": "舞台裏",
         "reading": "ぶたいうら",
-        "meaning": "offstage, backstage, behind the scenes"
+        "meaning": {
+          "en": "offstage, backstage, behind the scenes"
+        },
+        "romaji": "butaiura"
       },
       {
         "example": "口裏",
         "reading": "くちうら",
-        "meaning": "determining a speaker's true or hidden meaning, determining a speaker's intentions from his manner of speech, divining good or bad luck from listening to someone"
+        "meaning": {
+          "vi": "determining a speaker's true or hidden meaning, determining a speaker's intentions from his manner of speech, divining good or bad luck from listening to someone"
+        },
+        "romaji": "kuchiura"
       }
     ],
     "radical": {
@@ -384,5 +408,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88cf.gif",
     "uri": "https://jisho.org/search/%E8%A3%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "lí",
+    "lý"
+  ]
 }

@@ -18,32 +18,50 @@
       {
         "example": "取っ手",
         "reading": "トッテ",
-        "meaning": "handle, grip, knob"
+        "meaning": {
+          "vi": "handle, grip, knob"
+        },
+        "romaji": "totte"
       },
       {
         "example": "把握",
         "reading": "ハアク",
-        "meaning": "grasp (of the situation, meaning, etc.), understanding, control, hold, grip"
+        "meaning": {
+          "vi": "grasp (of the situation, meaning, etc.), understanding, control, hold, grip"
+        },
+        "romaji": "haaku"
       },
       {
         "example": "銃把",
         "reading": "ジュウハ",
-        "meaning": "grip of a gun"
+        "meaning": {
+          "vi": "grip of a gun"
+        },
+        "romaji": "juuha"
       },
       {
         "example": "握把",
         "reading": "アクハ",
-        "meaning": "holding, gripping, grip (sword, gun, etc.), hilt, handle"
+        "meaning": {
+          "vi": "holding, gripping, grip (sword, gun, etc.), hilt, handle"
+        },
+        "romaji": "akuha"
       },
       {
         "example": "把",
         "reading": "ワ",
-        "meaning": "counter for bundles"
+        "meaning": {
+          "en": "counter for bundles"
+        },
+        "romaji": "wa"
       },
       {
         "example": "一把",
         "reading": "イチワ",
-        "meaning": "bundle, bunch"
+        "meaning": {
+          "en": "bundle, bunch"
+        },
+        "romaji": "ichiwa"
       }
     ],
     "kunyomiExamples": [],
@@ -62,5 +80,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0628a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/628a.gif",
     "uri": "https://jisho.org/search/%E6%8A%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bà",
+    "bá",
+    "bả"
+  ]
 }

@@ -18,19 +18,28 @@
       {
         "example": "霽月",
         "reading": "セイゲツ",
-        "meaning": "moon shining in a rain-cleansed sky"
+        "meaning": {
+          "en": "moon shining in a rain-cleansed sky"
+        },
+        "romaji": "seigetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "晴れる",
         "reading": "はれる",
-        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        "meaning": {
+          "vi": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        },
+        "romaji": "hareru"
       },
       {
         "example": "晴らす",
         "reading": "はらす",
-        "meaning": "to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear"
+        "meaning": {
+          "vi": "to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear"
+        },
+        "romaji": "harasu"
       }
     ],
     "radical": {
@@ -49,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0973d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/973d.gif",
     "uri": "https://jisho.org/search/%E9%9C%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế",
+    "tễ"
+  ]
 }

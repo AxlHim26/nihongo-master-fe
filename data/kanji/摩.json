@@ -21,39 +21,60 @@
       {
         "example": "摩擦",
         "reading": "マサツ",
-        "meaning": "friction, rubbing, chafing, discord, friction, strife, conflict"
+        "meaning": {
+          "en": "friction, rubbing, chafing, discord, friction, strife, conflict"
+        },
+        "romaji": "masatsu"
       },
       {
         "example": "摩天楼",
         "reading": "マテンロウ",
-        "meaning": "skyscraper"
+        "meaning": {
+          "vi": "skyscraper"
+        },
+        "romaji": "matenrou"
       },
       {
         "example": "研磨",
         "reading": "ケンマ",
-        "meaning": "grinding, polishing, refining (a skill, knowledge, etc.), applying oneself (to study), disciplining oneself"
+        "meaning": {
+          "vi": "grinding, polishing, refining (a skill, knowledge, etc.), applying oneself (to study), disciplining oneself"
+        },
+        "romaji": "kenma"
       },
       {
         "example": "あん摩",
         "reading": "アンマ",
-        "meaning": "massage (esp. anma, a traditional form of Japanese massage), masseur, masseuse, massager, blind person"
+        "meaning": {
+          "vi": "massage (esp. anma, a traditional form of Japanese massage), masseur, masseuse, massager, blind person"
+        },
+        "romaji": "anma"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "摩する",
         "reading": "まする",
-        "meaning": "to rub, to scrub, to scrape, to draw near, to press"
+        "meaning": {
+          "vi": "to rub, to scrub, to scrape, to draw near, to press"
+        },
+        "romaji": "masuru"
       },
       {
         "example": "摩る",
         "reading": "さする",
-        "meaning": "to rub, to pat, to stroke, to massage"
+        "meaning": {
+          "vi": "to rub, to pat, to stroke, to massage"
+        },
+        "romaji": "sasuru"
       },
       {
         "example": "擦る",
         "reading": "する",
-        "meaning": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+        "meaning": {
+          "en": "to rub, to chafe, to strike (match), to file, to frost (glass), to lose (e.g. a match), to forfeit, to squander one's money"
+        },
+        "romaji": "suru"
       }
     ],
     "radical": {
@@ -73,5 +94,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06469.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6469.gif",
     "uri": "https://jisho.org/search/%E6%91%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "ma"
+  ]
 }

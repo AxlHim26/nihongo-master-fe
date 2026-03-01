@@ -14,12 +14,18 @@
       {
         "example": "達頼喇嘛",
         "reading": "ダライラマ",
-        "meaning": "Dalai Lama"
+        "meaning": {
+          "en": "Dalai Lama"
+        },
+        "romaji": "darairama"
       },
       {
         "example": "喇嘛",
         "reading": "ラマ",
-        "meaning": "lama (honorific title)"
+        "meaning": {
+          "en": "lama (honorific title)"
+        },
+        "romaji": "rama"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0561b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/561b.gif",
     "uri": "https://jisho.org/search/%E5%98%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ma"
+  ]
 }

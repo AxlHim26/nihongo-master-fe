@@ -17,7 +17,10 @@
       {
         "example": "回鶻",
         "reading": "カイコツ",
-        "meaning": "Uighur, Uigur, Uygur"
+        "meaning": {
+          "en": "Uighur, Uigur, Uygur"
+        },
+        "romaji": "kaikotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dbb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dbb.gif",
     "uri": "https://jisho.org/search/%E9%B6%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "cốt",
+    "hoạt"
+  ]
 }

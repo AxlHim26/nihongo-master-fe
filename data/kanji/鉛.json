@@ -19,44 +19,68 @@
       {
         "example": "鉛筆",
         "reading": "エンピツ",
-        "meaning": "pencil"
+        "meaning": {
+          "vi": "pencil"
+        },
+        "romaji": "enpitsu"
       },
       {
         "example": "鉛管",
         "reading": "エンカン",
-        "meaning": "lead pipe"
+        "meaning": {
+          "vi": "lead pipe"
+        },
+        "romaji": "enkan"
       },
       {
         "example": "黒鉛",
         "reading": "コクエン",
-        "meaning": "graphite"
+        "meaning": {
+          "vi": "graphite"
+        },
+        "romaji": "kokuen"
       },
       {
         "example": "硫化亜鉛",
         "reading": "リュウカアエン",
-        "meaning": "zinc sulfide (ZnS) (sulphide)"
+        "meaning": {
+          "vi": "zinc sulfide (ZnS) (sulphide)"
+        },
+        "romaji": "ryuukaaen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鉛",
         "reading": "なまり",
-        "meaning": "lead (Pb)"
+        "meaning": {
+          "vi": "lead (Pb)"
+        },
+        "romaji": "namari"
       },
       {
         "example": "鉛色",
         "reading": "なまりいろ",
-        "meaning": "lead colour, lead color"
+        "meaning": {
+          "en": "lead colour, lead color"
+        },
+        "romaji": "namariiro"
       },
       {
         "example": "アジ化鉛",
         "reading": "アジかなまり",
-        "meaning": "lead azide"
+        "meaning": {
+          "en": "lead azide"
+        },
+        "romaji": "ajikanamari"
       },
       {
         "example": "一酸化鉛",
         "reading": "いっさんかなまり",
-        "meaning": "lead monoxide, lead(II) oxide"
+        "meaning": {
+          "en": "lead monoxide, lead(II) oxide"
+        },
+        "romaji": "issankanamari"
       }
     ],
     "radical": {
@@ -76,5 +100,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0925b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/925b.gif",
     "uri": "https://jisho.org/search/%E9%89%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên",
+    "duyên"
+  ]
 }

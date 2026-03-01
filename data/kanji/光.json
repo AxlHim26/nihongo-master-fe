@@ -359,54 +359,84 @@
       {
         "example": "光学",
         "reading": "コウガク",
-        "meaning": "optics"
+        "meaning": {
+          "vi": "optics"
+        },
+        "romaji": "kougaku"
       },
       {
         "example": "光栄",
         "reading": "コウエイ",
-        "meaning": "honour, honor, glory, privilege"
+        "meaning": {
+          "vi": "honour, honor, glory, privilege"
+        },
+        "romaji": "kouei"
       },
       {
         "example": "脚光",
         "reading": "キャッコウ",
-        "meaning": "footlight, limelight"
+        "meaning": {
+          "en": "footlight, limelight"
+        },
+        "romaji": "kyakkou"
       },
       {
         "example": "発光",
         "reading": "ハッコウ",
-        "meaning": "emission (of light), radiation (of light), luminescence"
+        "meaning": {
+          "en": "emission (of light), radiation (of light), luminescence"
+        },
+        "romaji": "hakkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "光る",
         "reading": "ひかる",
-        "meaning": "to shine, to glitter, to be bright"
+        "meaning": {
+          "en": "to shine, to glitter, to be bright"
+        },
+        "romaji": "hikaru"
       },
       {
         "example": "光る棒",
         "reading": "ひかるぼう",
-        "meaning": "glowstick, neon light stick"
+        "meaning": {
+          "en": "glowstick, neon light stick"
+        },
+        "romaji": "hikarubou"
       },
       {
         "example": "光",
         "reading": "ひかり",
-        "meaning": "light, illumination, ray, beam, gleam, glow, happiness, hope, influence, power, vision, eyesight, optical fiber, optical fibre"
+        "meaning": {
+          "vi": "light, illumination, ray, beam, gleam, glow, happiness, hope, influence, power, vision, eyesight, optical fiber, optical fibre"
+        },
+        "romaji": "hikari"
       },
       {
         "example": "光り輝く",
         "reading": "ひかりかがやく",
-        "meaning": "to shine, to glitter"
+        "meaning": {
+          "en": "to shine, to glitter"
+        },
+        "romaji": "hikarikagayaku"
       },
       {
         "example": "越光",
         "reading": "こしひかり",
-        "meaning": "Koshihikari (variety of rice)"
+        "meaning": {
+          "en": "Koshihikari (variety of rice)"
+        },
+        "romaji": "koshihikari"
       },
       {
         "example": "柔らかな光",
         "reading": "やわらかなひかり",
-        "meaning": "soft light"
+        "meaning": {
+          "en": "soft light"
+        },
+        "romaji": "yawarakanahikari"
       }
     ],
     "radical": {
@@ -422,5 +452,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05149.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5149.gif",
     "uri": "https://jisho.org/search/%E5%85%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "quang"
+  ]
 }

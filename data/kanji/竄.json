@@ -18,22 +18,34 @@
       {
         "example": "竄する",
         "reading": "ザンスル",
-        "meaning": "lưu đày, đày ải, sửa lại câu chữ"
+        "meaning": {
+          "vi": "lưu đày, đày ải, sửa lại câu chữ"
+        },
+        "romaji": "zansuru"
       },
       {
         "example": "竄匿",
         "reading": "ザントク",
-        "meaning": "ẩn náu, trốn tránh"
+        "meaning": {
+          "vi": "ẩn náu, trốn tránh"
+        },
+        "romaji": "zantoku"
       },
       {
         "example": "逃竄",
         "reading": "トウザン",
-        "meaning": "hành động chạy trốn ẩn náu"
+        "meaning": {
+          "vi": "hành động chạy trốn ẩn náu"
+        },
+        "romaji": "touzan"
       },
       {
         "example": "流竄",
         "reading": "リュウザン",
-        "meaning": "sự đày ải, lưu đày"
+        "meaning": {
+          "vi": "sự đày ải, lưu đày"
+        },
+        "romaji": "ryuuzan"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ac4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ac4.gif",
     "uri": "https://jisho.org/search/%E7%AB%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "soán",
+    "thoán"
+  ]
 }

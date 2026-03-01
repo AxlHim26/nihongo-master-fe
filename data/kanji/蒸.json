@@ -291,44 +291,68 @@
       {
         "example": "蒸気",
         "reading": "ジョウキ",
-        "meaning": "steam, vapour, vapor, steamboat, steam locomotive"
+        "meaning": {
+          "vi": "steam, vapour, vapor, steamboat, steam locomotive"
+        },
+        "romaji": "jouki"
       },
       {
         "example": "蒸発",
         "reading": "ジョウハツ",
-        "meaning": "evaporation, disappearance (of a person), vanishing without a trace"
+        "meaning": {
+          "vi": "evaporation, disappearance (of a person), vanishing without a trace"
+        },
+        "romaji": "jouhatsu"
       },
       {
         "example": "燻蒸",
         "reading": "クンジョウ",
-        "meaning": "fumigation, smoking (out)"
+        "meaning": {
+          "en": "fumigation, smoking (out)"
+        },
+        "romaji": "kunjou"
       },
       {
         "example": "蒸籠",
         "reading": "セイロ",
-        "meaning": "bamboo steamer, steaming basket, wooden frame holder with reed base used to steam food over a pot, soba served on a small wickerwork tray, wickerwork tray (for serving soba)"
+        "meaning": {
+          "vi": "bamboo steamer, steaming basket, wooden frame holder with reed base used to steam food over a pot, soba served on a small wickerwork tray, wickerwork tray (for serving soba)"
+        },
+        "romaji": "seiro"
       },
       {
         "example": "せいろ蒸し",
         "reading": "セイロムシ",
-        "meaning": "steaming (of food) using a bamboo steamer"
+        "meaning": {
+          "en": "steaming (of food) using a bamboo steamer"
+        },
+        "romaji": "seiromushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蒸す",
         "reading": "むす",
-        "meaning": "to steam (food, towel, etc.), to be hot and humid, to be sultry"
+        "meaning": {
+          "en": "to steam (food, towel, etc.), to be hot and humid, to be sultry"
+        },
+        "romaji": "musu"
       },
       {
         "example": "蒸れる",
         "reading": "むれる",
-        "meaning": "to be steamed (properly, e.g. rice), to be stuffy, to grow musty, to get close, to become sweaty, to feel sticky, to moulder"
+        "meaning": {
+          "vi": "to be steamed (properly, e.g. rice), to be stuffy, to grow musty, to get close, to become sweaty, to feel sticky, to moulder"
+        },
+        "romaji": "mureru"
       },
       {
         "example": "蒸らす",
         "reading": "むらす",
-        "meaning": "to cook by steam"
+        "meaning": {
+          "en": "to cook by steam"
+        },
+        "romaji": "murasu"
       }
     ],
     "radical": {
@@ -349,5 +373,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084b8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84b8.gif",
     "uri": "https://jisho.org/search/%E8%92%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "chưng"
+  ]
 }

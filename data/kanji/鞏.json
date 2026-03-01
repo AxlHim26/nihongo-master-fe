@@ -16,12 +16,18 @@
       {
         "example": "強固",
         "reading": "キョウコ",
-        "meaning": "firm, strong, solid, stable"
+        "meaning": {
+          "en": "firm, strong, solid, stable"
+        },
+        "romaji": "kyouko"
       },
       {
         "example": "強皮症",
         "reading": "キョウヒショウ",
-        "meaning": "scleroderma"
+        "meaning": {
+          "en": "scleroderma"
+        },
+        "romaji": "kyouhishou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0978f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/978f.gif",
     "uri": "https://jisho.org/search/%E9%9E%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "củng"
+  ]
 }

@@ -378,54 +378,84 @@
       {
         "example": "道",
         "reading": "ドウ",
-        "meaning": "road, path, street, route, way, set of practices, rules for conducting oneself, moral education, Buddhist teachings, Taoism, administrative region of Japan (Hokkaido), administrative region of Japan (Tokaido, Tosando, etc.), province (administrative region of Korea), circuit (administrative region of China), province (Tang-era administrative region of China)"
+        "meaning": {
+          "vi": "road, path, street, route, way, set of practices, rules for conducting oneself, moral education, Buddhist teachings, Taoism, administrative region of Japan (Hokkaido), administrative region of Japan (Tokaido, Tosando, etc.), province (administrative region of Korea), circuit (administrative region of China), province (Tang-era administrative region of China)"
+        },
+        "romaji": "dou"
       },
       {
         "example": "道義",
         "reading": "ドウギ",
-        "meaning": "morality, moral principles"
+        "meaning": {
+          "vi": "morality, moral principles"
+        },
+        "romaji": "dougi"
       },
       {
         "example": "正道",
         "reading": "セイドウ",
-        "meaning": "path of righteousness, path of duty, right track, correct path"
+        "meaning": {
+          "vi": "path of righteousness, path of duty, right track, correct path"
+        },
+        "romaji": "seidou"
       },
       {
         "example": "海道",
         "reading": "カイドウ",
-        "meaning": "sea route"
+        "meaning": {
+          "en": "sea route"
+        },
+        "romaji": "kaidou"
       },
       {
         "example": "有道",
         "reading": "ユウドウ",
-        "meaning": "being good, being virtuous, virtuous person"
+        "meaning": {
+          "vi": "being good, being virtuous, virtuous person"
+        },
+        "romaji": "yuudou"
       },
       {
         "example": "不道",
         "reading": "フドウ",
-        "meaning": "inhuman, immoral, unreasonable, outrageous, wicked, barbarity (one of the eight unpardonable crimes, incl. killing three people in one family, or dismembering a corpse)"
+        "meaning": {
+          "vi": "inhuman, immoral, unreasonable, outrageous, wicked, barbarity (one of the eight unpardonable crimes, incl. killing three people in one family, or dismembering a corpse)"
+        },
+        "romaji": "fudou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        "meaning": {
+          "vi": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        },
+        "romaji": "michi"
       },
       {
         "example": "道筋",
         "reading": "みちすじ",
-        "meaning": "path, route, itinerary"
+        "meaning": {
+          "vi": "path, route, itinerary"
+        },
+        "romaji": "michisuji"
       },
       {
         "example": "花道",
         "reading": "はなみち",
-        "meaning": "elevated walkway through the audience to the stage, honourable end to a career"
+        "meaning": {
+          "en": "elevated walkway through the audience to the stage, honourable end to a career"
+        },
+        "romaji": "hanamichi"
       },
       {
         "example": "横道",
         "reading": "よこみち",
-        "meaning": "byway, side street, cross street, wrong way, digression"
+        "meaning": {
+          "en": "byway, side street, cross street, wrong way, digression"
+        },
+        "romaji": "yokomichi"
       }
     ],
     "radical": {
@@ -447,5 +477,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09053.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9053.gif",
     "uri": "https://jisho.org/search/%E9%81%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "đáo",
+    "đạo"
+  ]
 }

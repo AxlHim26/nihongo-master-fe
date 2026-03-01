@@ -357,34 +357,52 @@
       {
         "example": "離",
         "reading": "リ",
-        "meaning": "li (one of the trigrams of the I Ching: fire, south)"
+        "meaning": {
+          "en": "li (one of the trigrams of the I Ching: fire, south)"
+        },
+        "romaji": "ri"
       },
       {
         "example": "離宮",
         "reading": "リキュウ",
-        "meaning": "imperial villa, royal villa, detached palace"
+        "meaning": {
+          "vi": "imperial villa, royal villa, detached palace"
+        },
+        "romaji": "rikyuu"
       },
       {
         "example": "短距離",
         "reading": "タンキョリ",
-        "meaning": "short distance, short range, short-haul"
+        "meaning": {
+          "en": "short distance, short range, short-haul"
+        },
+        "romaji": "tankyori"
       },
       {
         "example": "近距離",
         "reading": "キンキョリ",
-        "meaning": "short distance"
+        "meaning": {
+          "en": "short distance"
+        },
+        "romaji": "kinkyori"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "離れる",
         "reading": "はなれる",
-        "meaning": "to be separated, to be apart, to be distant, to leave, to go away, to leave (a job, etc.), to quit, to give up, to lose connection with, to drift away from"
+        "meaning": {
+          "vi": "to be separated, to be apart, to be distant, to leave, to go away, to leave (a job, etc.), to quit, to give up, to lose connection with, to drift away from"
+        },
+        "romaji": "hanareru"
       },
       {
         "example": "離す",
         "reading": "はなす",
-        "meaning": "to separate, to part, to divide, to keep apart"
+        "meaning": {
+          "vi": "to separate, to part, to divide, to keep apart"
+        },
+        "romaji": "hanasu"
       }
     ],
     "radical": {
@@ -401,5 +419,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96e2.gif",
     "uri": "https://jisho.org/search/%E9%9B%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "li",
+    "ly",
+    "lệ"
+  ]
 }

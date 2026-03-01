@@ -313,49 +313,76 @@
       {
         "example": "貴",
         "reading": "キ",
-        "meaning": "your, indicates high rank or status, indicates love and respect (usu. for an older person)"
+        "meaning": {
+          "vi": "your, indicates high rank or status, indicates love and respect (usu. for an older person)"
+        },
+        "romaji": "ki"
       },
       {
         "example": "貴金属",
         "reading": "キキンゾク",
-        "meaning": "precious metal"
+        "meaning": {
+          "vi": "precious metal"
+        },
+        "romaji": "kikinzoku"
       },
       {
         "example": "騰貴",
         "reading": "トウキ",
-        "meaning": "rise (in price or value), appreciation, advance"
+        "meaning": {
+          "vi": "rise (in price or value), appreciation, advance"
+        },
+        "romaji": "touki"
       },
       {
         "example": "富貴",
         "reading": "フウキ",
-        "meaning": "riches and honours (honors), wealth and rank"
+        "meaning": {
+          "en": "riches and honours (honors), wealth and rank"
+        },
+        "romaji": "fuuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": {
+          "vi": "precious, valuable, priceless, noble, exalted, sacred"
+        },
+        "romaji": "toutoi"
       },
       {
         "example": "貴い家柄",
         "reading": "たっといいえがら",
-        "meaning": "noble birth"
+        "meaning": {
+          "en": "noble birth"
+        },
+        "romaji": "tattoiiegara"
       },
       {
         "example": "尊い",
         "reading": "とうとい",
-        "meaning": "precious, valuable, priceless, noble, exalted, sacred"
+        "meaning": {
+          "vi": "precious, valuable, priceless, noble, exalted, sacred"
+        },
+        "romaji": "toutoi"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": {
+          "vi": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        },
+        "romaji": "toutobu"
       },
       {
         "example": "尊ぶ",
         "reading": "とうとぶ",
-        "meaning": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        "meaning": {
+          "vi": "to value, to prize, to esteem, to respect, to honour, to honor, to revere, to look up to"
+        },
+        "romaji": "toutobu"
       }
     ],
     "radical": {
@@ -374,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb4.gif",
     "uri": "https://jisho.org/search/%E8%B2%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "quý"
+  ]
 }

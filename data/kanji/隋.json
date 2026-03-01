@@ -17,12 +17,18 @@
       {
         "example": "隋",
         "reading": "ズイ",
-        "meaning": "triều Tùy (Trung Quốc; 581-618)"
+        "meaning": {
+          "vi": "triều Tùy (Trung Quốc; 581-618)"
+        },
+        "romaji": "zui"
       },
       {
         "example": "隋書",
         "reading": "ズイショ",
-        "meaning": "Tùy thư"
+        "meaning": {
+          "vi": "Tùy thư"
+        },
+        "romaji": "zuisho"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968b.gif",
     "uri": "https://jisho.org/search/%E9%9A%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuỳ",
+    "đoạ"
+  ]
 }

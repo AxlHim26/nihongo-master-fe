@@ -18,17 +18,26 @@
       {
         "example": "榎",
         "reading": "えのき",
-        "meaning": "Japanese hackberry (Celtis sinensis var. japonica), Chinese nettle tree, enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+        "meaning": {
+          "vi": "Japanese hackberry (Celtis sinensis var. japonica), Chinese nettle tree, enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+        },
+        "romaji": "enoki"
       },
       {
         "example": "えのき茸",
         "reading": "えのきたけ",
-        "meaning": "enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+        "meaning": {
+          "vi": "enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+        },
+        "romaji": "enokitake"
       },
       {
         "example": "蝦夷榎",
         "reading": "えぞえのき",
-        "meaning": "Japanese hackberry (Celtis jessoensis), Jesso hackberry"
+        "meaning": {
+          "vi": "Japanese hackberry (Celtis jessoensis), Jesso hackberry"
+        },
+        "romaji": "ezoenoki"
       }
     ],
     "radical": {
@@ -46,5 +55,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0698e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/698e.gif",
     "uri": "https://jisho.org/search/%E6%A6%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "giả"
+  ]
 }

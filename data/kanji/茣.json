@@ -14,12 +14,18 @@
       {
         "example": "茣蓙",
         "reading": "ゴザ",
-        "meaning": "rush mat, matting, mat"
+        "meaning": {
+          "en": "rush mat, matting, mat"
+        },
+        "romaji": "goza"
       },
       {
         "example": "茣蓙目",
         "reading": "ゴザメ",
-        "meaning": "rush matting pattern (often on metal or coins)"
+        "meaning": {
+          "vi": "rush matting pattern (often on metal or coins)"
+        },
+        "romaji": "gozame"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08323.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8323.gif",
     "uri": "https://jisho.org/search/%E8%8C%A3%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

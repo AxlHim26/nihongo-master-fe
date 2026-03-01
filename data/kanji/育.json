@@ -310,49 +310,76 @@
       {
         "example": "育児",
         "reading": "イクジ",
-        "meaning": "chăm sóc trẻ, nuôi dạy con, nuôi nấng"
+        "meaning": {
+          "vi": "chăm sóc trẻ, nuôi dạy con, nuôi nấng"
+        },
+        "romaji": "ikuji"
       },
       {
         "example": "育英",
         "reading": "イクエイ",
-        "meaning": "giáo dục học sinh tài năng, học bổng, giáo dục"
+        "meaning": {
+          "vi": "giáo dục học sinh tài năng, học bổng, giáo dục"
+        },
+        "romaji": "ikuei"
       },
       {
         "example": "性教育",
         "reading": "セイキョウイク",
-        "meaning": "giáo dục giới tính"
+        "meaning": {
+          "vi": "giáo dục giới tính"
+        },
+        "romaji": "seikyouiku"
       },
       {
         "example": "社会教育",
         "reading": "シャカイキョウイク",
-        "meaning": "giáo dục xã hội"
+        "meaning": {
+          "vi": "giáo dục xã hội"
+        },
+        "romaji": "shakaikyouiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "育つ",
         "reading": "そだつ",
-        "meaning": "được nuôi dưỡng, lớn lên"
+        "meaning": {
+          "vi": "được nuôi dưỡng, lớn lên"
+        },
+        "romaji": "sodatsu"
       },
       {
         "example": "育ち",
         "reading": "そだち",
-        "meaning": "sự trưởng thành, nuôi dưỡng, lớn lên"
+        "meaning": {
+          "vi": "sự trưởng thành, nuôi dưỡng, lớn lên"
+        },
+        "romaji": "sodachi"
       },
       {
         "example": "育ち盛り",
         "reading": "そだちざかり",
-        "meaning": "tuổi đang lớn (ở trẻ em)"
+        "meaning": {
+          "vi": "tuổi đang lớn (ở trẻ em)"
+        },
+        "romaji": "sodachizakari"
       },
       {
         "example": "育てる",
         "reading": "そだてる",
-        "meaning": "nuôi, nuôi dưỡng, dạy dỗ, giáo dục, vun đắp, phát triển"
+        "meaning": {
+          "vi": "nuôi, nuôi dưỡng, dạy dỗ, giáo dục, vun đắp, phát triển"
+        },
+        "romaji": "sodateru"
       },
       {
         "example": "育む",
         "reading": "はぐくむ",
-        "meaning": "nuôi, nuôi dưỡng, vun đắp, ấp ủ"
+        "meaning": {
+          "vi": "nuôi, nuôi dưỡng, vun đắp, ấp ủ"
+        },
+        "romaji": "hagukumu"
       }
     ],
     "radical": {
@@ -371,5 +398,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80b2.gif",
     "uri": "https://jisho.org/search/%E8%82%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "dục"
+  ]
 }

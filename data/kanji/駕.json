@@ -20,39 +20,60 @@
       {
         "example": "駕籠",
         "reading": "カゴ",
-        "meaning": "palanquin, litter, bier, kago"
+        "meaning": {
+          "vi": "palanquin, litter, bier, kago"
+        },
+        "romaji": "kago"
       },
       {
         "example": "駕籠かき",
         "reading": "カゴカキ",
-        "meaning": "palanquin bearer, sedan chair bearer"
+        "meaning": {
+          "vi": "palanquin bearer, sedan chair bearer"
+        },
+        "romaji": "kagokaki"
       },
       {
         "example": "駕",
         "reading": "ガ",
-        "meaning": "vehicle, horse-drawn carriage"
+        "meaning": {
+          "en": "vehicle, horse-drawn carriage"
+        },
+        "romaji": "ga"
       },
       {
         "example": "繋駕",
         "reading": "ケイガ",
-        "meaning": "harnessing (a horse to a cart, esp. for a race)"
+        "meaning": {
+          "vi": "harnessing (a horse to a cart, esp. for a race)"
+        },
+        "romaji": "keiga"
       },
       {
         "example": "来賀",
         "reading": "ライガ",
-        "meaning": "your coming, coming with happy news, your presence"
+        "meaning": {
+          "vi": "your coming, coming with happy news, your presence"
+        },
+        "romaji": "raiga"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "駕籠",
         "reading": "かご",
-        "meaning": "palanquin, litter, bier, kago"
+        "meaning": {
+          "vi": "palanquin, litter, bier, kago"
+        },
+        "romaji": "kago"
       },
       {
         "example": "駕籠かき",
         "reading": "かごかき",
-        "meaning": "palanquin bearer, sedan chair bearer"
+        "meaning": {
+          "vi": "palanquin bearer, sedan chair bearer"
+        },
+        "romaji": "kagokaki"
       }
     ],
     "radical": {
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d5.gif",
     "uri": "https://jisho.org/search/%E9%A7%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá"
+  ]
 }

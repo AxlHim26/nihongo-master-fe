@@ -18,19 +18,28 @@
       {
         "example": "劈",
         "reading": "ヘキ",
-        "meaning": "break, tear, pierce, split, burst"
+        "meaning": {
+          "vi": "break, tear, pierce, split, burst"
+        },
+        "romaji": "heki"
       },
       {
         "example": "へき開",
         "reading": "ヘキカイ",
-        "meaning": "cleavage (in gems)"
+        "meaning": {
+          "en": "cleavage (in gems)"
+        },
+        "romaji": "hekikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "劈く",
         "reading": "つんざく",
-        "meaning": "to break, to tear, to pierce, to split, to burst"
+        "meaning": {
+          "vi": "to break, to tear, to pierce, to split, to burst"
+        },
+        "romaji": "tsunzaku"
       }
     ],
     "radical": {
@@ -52,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05288.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5288.gif",
     "uri": "https://jisho.org/search/%E5%8A%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "phách"
+  ]
 }

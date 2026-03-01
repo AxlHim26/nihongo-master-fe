@@ -17,12 +17,18 @@
       {
         "example": "猥褻",
         "reading": "ワイセツ",
-        "meaning": "obscene, indecent, dirty, improper"
+        "meaning": {
+          "vi": "obscene, indecent, dirty, improper"
+        },
+        "romaji": "waisetsu"
       },
       {
         "example": "強制わいせつ",
         "reading": "キョウセイワイセツ",
-        "meaning": "indecent assault, forcible indecency"
+        "meaning": {
+          "en": "indecent assault, forcible indecency"
+        },
+        "romaji": "kyouseiwaisetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0893b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/893b.gif",
     "uri": "https://jisho.org/search/%E8%A4%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiết",
+    "điệp"
+  ]
 }

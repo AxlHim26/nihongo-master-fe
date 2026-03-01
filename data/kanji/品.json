@@ -383,59 +383,92 @@
       {
         "example": "品",
         "reading": "ヒン",
-        "meaning": "elegance, grace, refinement, class, dignity, article, item, counter for items (of food, etc.), counter for dishes or courses (at a restaurant)"
+        "meaning": {
+          "en": "elegance, grace, refinement, class, dignity, article, item, counter for items (of food, etc.), counter for dishes or courses (at a restaurant)"
+        },
+        "romaji": "hin"
       },
       {
         "example": "品位",
         "reading": "ヒンイ",
-        "meaning": "dignity, grace, nobility, grade, quality, fineness, carat, karat"
+        "meaning": {
+          "en": "dignity, grace, nobility, grade, quality, fineness, carat, karat"
+        },
+        "romaji": "hin'i"
       },
       {
         "example": "小品",
         "reading": "ショウヒン",
-        "meaning": "short piece (of music, writing), small work (painting, sculpture, etc.), literary sketch, essay, small article, small item"
+        "meaning": {
+          "vi": "short piece (of music, writing), small work (painting, sculpture, etc.), literary sketch, essay, small article, small item"
+        },
+        "romaji": "shouhin"
       },
       {
         "example": "遺品",
         "reading": "イヒン",
-        "meaning": "things left (to one) by the deceased, inherited item, estate, memento, keepsake, lost item, lost property"
+        "meaning": {
+          "vi": "things left (to one) by the deceased, inherited item, estate, memento, keepsake, lost item, lost property"
+        },
+        "romaji": "ihin"
       },
       {
         "example": "品",
         "reading": "ホン",
-        "meaning": "court rank, level, grade, chapter, section, volume"
+        "meaning": {
+          "vi": "court rank, level, grade, chapter, section, volume"
+        },
+        "romaji": "hon"
       },
       {
         "example": "品題",
         "reading": "ホンダイ",
-        "meaning": "chapter title, section title, volume title"
+        "meaning": {
+          "vi": "chapter title, section title, volume title"
+        },
+        "romaji": "hondai"
       },
       {
         "example": "九品",
         "reading": "クホン",
-        "meaning": "nine levels of Amitabha's Pure Land, Amitabha's Pure Land, nine-tiered lotus leaf platform in Amitabha's Pure Land"
+        "meaning": {
+          "vi": "nine levels of Amitabha's Pure Land, Amitabha's Pure Land, nine-tiered lotus leaf platform in Amitabha's Pure Land"
+        },
+        "romaji": "kuhon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "品",
         "reading": "しな",
-        "meaning": "article, item, thing, goods, stock, quality, flirtatiousness, coquetry"
+        "meaning": {
+          "en": "article, item, thing, goods, stock, quality, flirtatiousness, coquetry"
+        },
+        "romaji": "shina"
       },
       {
         "example": "品目",
         "reading": "ひんもく",
-        "meaning": "item, commodity, list of articles"
+        "meaning": {
+          "en": "item, commodity, list of articles"
+        },
+        "romaji": "hinmoku"
       },
       {
         "example": "一品",
         "reading": "いっぴん",
-        "meaning": "item, article, dish, course, finest item"
+        "meaning": {
+          "en": "item, article, dish, course, finest item"
+        },
+        "romaji": "ippin"
       },
       {
         "example": "極め付きの品",
         "reading": "きわめつきのしな",
-        "meaning": "article of certified genuineness"
+        "meaning": {
+          "en": "article of certified genuineness"
+        },
+        "romaji": "kiwametsukinoshina"
       }
     ],
     "radical": {
@@ -450,5 +483,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c1.gif",
     "uri": "https://jisho.org/search/%E5%93%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "phẩm"
+  ]
 }

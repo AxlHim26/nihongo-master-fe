@@ -19,14 +19,20 @@
       {
         "example": "柘榴",
         "reading": "ザクロ",
-        "meaning": "pomegranate (Punica granatum)"
+        "meaning": {
+          "vi": "pomegranate (Punica granatum)"
+        },
+        "romaji": "zakuro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柘植",
         "reading": "つげ",
-        "meaning": "Japanese box tree (Buxus microphylla var. japonica), Japanese boxwood"
+        "meaning": {
+          "vi": "Japanese box tree (Buxus microphylla var. japonica), Japanese boxwood"
+        },
+        "romaji": "tsuge"
       }
     ],
     "radical": {
@@ -42,5 +48,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d8.gif",
     "uri": "https://jisho.org/search/%E6%9F%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "chá",
+    "chạ",
+    "giá"
+  ]
 }

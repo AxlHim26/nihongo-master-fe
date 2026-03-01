@@ -299,49 +299,76 @@
       {
         "example": "夢中",
         "reading": "ムチュウ",
-        "meaning": "absorbed in, immersed in, crazy about, obsessed with, devoted to, forgetting oneself, daze, trance, ecstasy, delirium, within a dream, while dreaming"
+        "meaning": {
+          "en": "absorbed in, immersed in, crazy about, obsessed with, devoted to, forgetting oneself, daze, trance, ecstasy, delirium, within a dream, while dreaming"
+        },
+        "romaji": "muchuu"
       },
       {
         "example": "夢想",
         "reading": "ムソウ",
-        "meaning": "dream, vision, reverie"
+        "meaning": {
+          "en": "dream, vision, reverie"
+        },
+        "romaji": "musou"
       },
       {
         "example": "同床異夢",
         "reading": "ドウショウイム",
-        "meaning": "cohabiting but living in different worlds"
+        "meaning": {
+          "en": "cohabiting but living in different worlds"
+        },
+        "romaji": "doushouimu"
       },
       {
         "example": "怪夢",
         "reading": "カイム",
-        "meaning": "strange dream"
+        "meaning": {
+          "en": "strange dream"
+        },
+        "romaji": "kaimu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夢",
         "reading": "ゆめ",
-        "meaning": "dream"
+        "meaning": {
+          "en": "dream"
+        },
+        "romaji": "yume"
       },
       {
         "example": "夢にも",
         "reading": "ゆめにも",
-        "meaning": "(not) in the slightest, (not) at all"
+        "meaning": {
+          "en": "(not) in the slightest, (not) at all"
+        },
+        "romaji": "yumenimo"
       },
       {
         "example": "初夢",
         "reading": "はつゆめ",
-        "meaning": "first dream of the New year (believed to foretell one's luck), dream on the night of setsubun"
+        "meaning": {
+          "en": "first dream of the New year (believed to foretell one's luck), dream on the night of setsubun"
+        },
+        "romaji": "hatsuyume"
       },
       {
         "example": "逆夢",
         "reading": "さかゆめ",
-        "meaning": "a dream which is contradicted by reality"
+        "meaning": {
+          "en": "a dream which is contradicted by reality"
+        },
+        "romaji": "sakayume"
       },
       {
         "example": "夢見る",
         "reading": "ゆめみる",
-        "meaning": "to dream (of)"
+        "meaning": {
+          "en": "to dream (of)"
+        },
+        "romaji": "yumemiru"
       }
     ],
     "radical": {
@@ -358,5 +385,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05922.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5922.gif",
     "uri": "https://jisho.org/search/%E5%A4%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "mông",
+    "mộng"
+  ]
 }

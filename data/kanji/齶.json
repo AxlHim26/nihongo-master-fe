@@ -17,14 +17,20 @@
       {
         "example": "顎",
         "reading": "アゴ",
-        "meaning": "hàm, cằm, mấu (lưỡi câu)"
+        "meaning": {
+          "vi": "hàm, cằm, mấu (lưỡi câu)"
+        },
+        "romaji": "ago"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "顎",
         "reading": "あご",
-        "meaning": "hàm, cằm, mấu (lưỡi câu)"
+        "meaning": {
+          "vi": "hàm, cằm, mấu (lưỡi câu)"
+        },
+        "romaji": "ago"
       }
     ],
     "radical": {
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f76.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f76.gif",
     "uri": "https://jisho.org/search/%E9%BD%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạc"
+  ]
 }

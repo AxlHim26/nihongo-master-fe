@@ -20,34 +20,52 @@
       {
         "example": "融資",
         "reading": "ユウシ",
-        "meaning": "financing, loan"
+        "meaning": {
+          "en": "financing, loan"
+        },
+        "romaji": "yuushi"
       },
       {
         "example": "融合",
         "reading": "ユウゴウ",
-        "meaning": "agglutination, adhesion, fusion, combination, blending, uniting"
+        "meaning": {
+          "en": "agglutination, adhesion, fusion, combination, blending, uniting"
+        },
+        "romaji": "yuugou"
       },
       {
         "example": "溶融",
         "reading": "ヨウユウ",
-        "meaning": "melting, fusion"
+        "meaning": {
+          "en": "melting, fusion"
+        },
+        "romaji": "youyuu"
       },
       {
         "example": "炉心溶融",
         "reading": "ロシンヨウユウ",
-        "meaning": "core meltdown, meltdown, nuclear reactor core meltdown"
+        "meaning": {
+          "en": "core meltdown, meltdown, nuclear reactor core meltdown"
+        },
+        "romaji": "roshin'youyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "溶ける",
         "reading": "とける",
-        "meaning": "to melt, to thaw, to fuse, to dissolve"
+        "meaning": {
+          "en": "to melt, to thaw, to fuse, to dissolve"
+        },
+        "romaji": "tokeru"
       },
       {
         "example": "溶かす",
         "reading": "とかす",
-        "meaning": "to dissolve, to melt"
+        "meaning": {
+          "en": "to dissolve, to melt"
+        },
+        "romaji": "tokasu"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0878d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/878d.gif",
     "uri": "https://jisho.org/search/%E8%9E%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "dong",
+    "dung"
+  ]
 }

@@ -21,59 +21,90 @@
       {
         "example": "梅雨",
         "reading": "ツユ",
-        "meaning": "mùa mưa (Đông Á, ở Nhật thường từ đầu tháng 6 đến giữa tháng 7), mưa trong mùa mưa"
+        "meaning": {
+          "vi": "mùa mưa (Đông Á, ở Nhật thường từ đầu tháng 6 đến giữa tháng 7), mưa trong mùa mưa"
+        },
+        "romaji": "tsuyu"
       },
       {
         "example": "ばい菌",
         "reading": "バイキン",
-        "meaning": "vi trùng, vi khuẩn, côn trùng, thứ bẩn hoặc có hại"
+        "meaning": {
+          "vi": "vi trùng, vi khuẩn, côn trùng, thứ bẩn hoặc có hại"
+        },
+        "romaji": "baikin"
       },
       {
         "example": "防カビ",
         "reading": "ボウカビ",
-        "meaning": "phòng nấm mốc"
+        "meaning": {
+          "vi": "phòng nấm mốc"
+        },
+        "romaji": "boukabi"
       },
       {
         "example": "防カビ",
         "reading": "ボウカビ",
-        "meaning": "phòng nấm mốc"
+        "meaning": {
+          "vi": "phòng nấm mốc"
+        },
+        "romaji": "boukabi"
       },
       {
         "example": "青カビ",
         "reading": "アオカビ",
-        "meaning": "nấm mốc xanh, penicillin"
+        "meaning": {
+          "vi": "nấm mốc xanh, penicillin"
+        },
+        "romaji": "aokabi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【カビ】",
         "reading": "mold, mould, mildew",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "mold, mould, mildew"
       },
       {
         "example": "カビが生える",
         "reading": "カビがはえる",
-        "meaning": "bị mốc, lỗi thời"
+        "meaning": {
+          "vi": "bị mốc, lỗi thời"
+        },
+        "romaji": "kabigahaeru"
       },
       {
         "example": "防カビ",
         "reading": "ぼうかび",
-        "meaning": "phòng nấm mốc"
+        "meaning": {
+          "vi": "phòng nấm mốc"
+        },
+        "romaji": "boukabi"
       },
       {
         "example": "青カビ",
         "reading": "あおかび",
-        "meaning": "nấm mốc xanh, penicillin"
+        "meaning": {
+          "vi": "nấm mốc xanh, penicillin"
+        },
+        "romaji": "aokabi"
       },
       {
         "example": "黴びる",
         "reading": "かびる",
-        "meaning": "bị mốc, ẩm mốc, lên meo"
+        "meaning": {
+          "vi": "bị mốc, ẩm mốc, lên meo"
+        },
+        "romaji": "kabiru"
       },
       {
         "example": "黴びる",
         "reading": "かびる",
-        "meaning": "bị mốc, ẩm mốc, lên meo"
+        "meaning": {
+          "vi": "bị mốc, ẩm mốc, lên meo"
+        },
+        "romaji": "kabiru"
       }
     ],
     "radical": {
@@ -93,5 +124,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ef4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ef4.gif",
     "uri": "https://jisho.org/search/%E9%BB%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "mi",
+    "my",
+    "môi",
+    "vi",
+    "vy"
+  ]
 }

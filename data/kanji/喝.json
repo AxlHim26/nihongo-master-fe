@@ -17,22 +17,34 @@
       {
         "example": "喝",
         "reading": "カツ",
-        "meaning": "tiếng hét quở trách (trong Thiền), dọa nạt"
+        "meaning": {
+          "vi": "tiếng hét quở trách (trong Thiền), dọa nạt"
+        },
+        "romaji": "katsu"
       },
       {
         "example": "カツ上げ",
         "reading": "カツアゲ",
-        "meaning": "tống tiền, ép tiền"
+        "meaning": {
+          "vi": "tống tiền, ép tiền"
+        },
+        "romaji": "katsuage"
       },
       {
         "example": "恫喝",
         "reading": "ドウカツ",
-        "meaning": "hù dọa, đe dọa"
+        "meaning": {
+          "vi": "hù dọa, đe dọa"
+        },
+        "romaji": "doukatsu"
       },
       {
         "example": "威喝",
         "reading": "イカツ",
-        "meaning": "đe dọa"
+        "meaning": {
+          "vi": "đe dọa"
+        },
+        "romaji": "ikatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0559d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/559d.gif",
     "uri": "https://jisho.org/search/%E5%96%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "hát",
+    "hạt",
+    "ái",
+    "ới"
+  ]
 }

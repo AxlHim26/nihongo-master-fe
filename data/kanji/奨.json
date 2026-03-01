@@ -249,29 +249,44 @@
       {
         "example": "奨学",
         "reading": "ショウガク",
-        "meaning": "encouragement to study"
+        "meaning": {
+          "en": "encouragement to study"
+        },
+        "romaji": "shougaku"
       },
       {
         "example": "奨学金",
         "reading": "ショウガクキン",
-        "meaning": "scholarship, stipend, bursary, grant-in-aid, student loan"
+        "meaning": {
+          "vi": "scholarship, stipend, bursary, grant-in-aid, student loan"
+        },
+        "romaji": "shougakukin"
       },
       {
         "example": "勧奨",
         "reading": "カンショウ",
-        "meaning": "encouragement, stimulation"
+        "meaning": {
+          "en": "encouragement, stimulation"
+        },
+        "romaji": "kanshou"
       },
       {
         "example": "推奨",
         "reading": "スイショウ",
-        "meaning": "recommendation, endorsement"
+        "meaning": {
+          "en": "recommendation, endorsement"
+        },
+        "romaji": "suishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勧める",
         "reading": "すすめる",
-        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+        "meaning": {
+          "vi": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+        },
+        "romaji": "susumeru"
       }
     ],
     "radical": {
@@ -288,5 +303,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05968.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5968.gif",
     "uri": "https://jisho.org/search/%E5%A5%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tưởng"
+  ]
 }

@@ -13,79 +13,129 @@
       {
         "japanese": "一万円（いちまんえん）",
         "meaning": {
-          "english": "ten thousand yen",
-          "vietnamese": "mười nghìn yên"
+          "vi": "mười nghìn yên",
+          "en": "ten thousand yen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)man_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)man_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)man_06_a.mp3"
+        },
+        "hanViet": [
+          "nhất",
+          "mặc",
+          "viên"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 万 (mặc: (tên riêng)) + 円 (viên: tròn, hình tròn) → mười nghìn yên",
+          "en": "一 (one: one, 1) + 万 (wear: (proper name)) + 円 (round: round, circular) → ten thousand yen"
         }
       },
       {
         "japanese": "万年筆（まんねんひつ）",
         "meaning": {
-          "english": "fountain pen",
-          "vietnamese": "bút máy"
+          "vi": "bút máy",
+          "en": "fountain pen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)man_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)man_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)man_06_b.mp3"
+        },
+        "hanViet": [
+          "mặc",
+          "niên",
+          "bút"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 年 (niên: năm) + 筆 (bút: cái bút (để viết)) → bút máy",
+          "en": "万 (wear: (proper name)) + 年 (year: year) + 筆 (pen: pen (to write)) → fountain pen"
         }
       },
       {
         "japanese": "万引きする（まんびきする）",
         "meaning": {
-          "english": "shoplift",
-          "vietnamese": "ăn cắp vặt"
+          "vi": "trộm đồ trong cửa hàng",
+          "en": "shoplift"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)man_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)man_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)man_06_c.mp3"
+        },
+        "hanViet": [
+          "mặc",
+          "dấn"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 引 (dấn: dương cung) → trộm đồ trong cửa hàng",
+          "en": "万 (wear: (proper name)) + 引 (dang: yang palace) → shoplifting"
         }
       },
       {
         "japanese": "万歳（ばんざい）",
         "meaning": {
-          "english": "banzai! (cheer)",
-          "vietnamese": "vạn tuế! (tiếng hô)"
+          "vi": "banzai! (reo hò)",
+          "en": "banzai! (cheer)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)man_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)man_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)man_06_d.mp3"
+        },
+        "hanViet": [
+          "mặc",
+          "tuế"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 歳 (tuế: năm) → banzai! (reo hò)",
+          "en": "万 (wear: (proper name)) + 歳 (tue: year) → banzai! (cheers)"
         }
       },
       {
         "japanese": "万能（ばんのう）",
         "meaning": {
-          "english": "all-purpose",
-          "vietnamese": "đa năng"
+          "vi": "đa năng",
+          "en": "all-purpose"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)man_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)man_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)man_06_e.mp3"
+        },
+        "hanViet": [
+          "mặc",
+          "nai"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 能 (nai: khả năng, có thể) → đa năng",
+          "en": "万 (wear: (proper name)) + 能 (nai: ability, possible) → versatile"
         }
       },
       {
         "japanese": "万事（ばんじ）",
         "meaning": {
-          "english": "everything",
-          "vietnamese": "mọi thứ"
+          "vi": "mọi thứ",
+          "en": "everything"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)man_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nan)man_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nan)man_06_f.mp3"
+        },
+        "hanViet": [
+          "mặc",
+          "sự"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 事 (sự: việc) → mọi thứ",
+          "en": "万 (wear: (proper name)) + 事 (thing: thing) → everything"
         }
       }
     ],
@@ -309,64 +359,207 @@
       {
         "example": "万",
         "reading": "マン",
-        "meaning": "10,000, ten thousand, myriad, everything, all, various"
+        "meaning": {
+          "vi": "10.000, mười nghìn, vô số, mọi thứ, tất cả, đa dạng",
+          "en": "10,000, ten thousand, myriad, everything, all, various"
+        },
+        "hanViet": [
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "mặc: (tên riêng), vạn, mười nghìn",
+          "en": "wear: (proper name), ten thousand, ten thousand"
+        },
+        "romaji": "man"
       },
       {
         "example": "万一",
         "reading": "マンイチ",
-        "meaning": "(unlikely event of) emergency, the worst(-case scenario), 10000 to 1, (if) by some chance, by some possibility, in the unlikely event that"
+        "meaning": {
+          "vi": "(sự kiện không thể xảy ra) trường hợp khẩn cấp, trường hợp xấu nhất (-trường hợp), 10000 trên 1, (nếu) tình cờ nào đó, bởi một khả năng nào đó, trong trường hợp không chắc chắn đó",
+          "en": "(unlikely event of) emergency, the worst(-case scenario), 10000 to 1, (if) by some chance, by some possibility, in the unlikely event that"
+        },
+        "hanViet": [
+          "mặc",
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 一 (nhất: một, 1) → (sự kiện không thể xảy ra) trường hợp khẩn cấp, trường hợp xấu nhất (-trường hợp), 10000 trên 1, (nếu) tình cờ nào đó, bởi một khả năng nào đó, trong trường hợp không chắc chắn đó",
+          "en": "万 (wear: (proper name)) + 一 (most: one, 1) → (impossible event) emergency, worst case (-case), 10000 to 1, (if) by some chance, by some possibility, in that unlikely event"
+        },
+        "romaji": "man'ichi"
       },
       {
         "example": "億万",
         "reading": "オクマン",
-        "meaning": "millions and millions"
+        "meaning": {
+          "vi": "hàng triệu và hàng triệu",
+          "en": "millions and millions"
+        },
+        "hanViet": [
+          "ức",
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "億 (ức: ức, mười vạn) + 万 (mặc: (tên riêng)) → hàng triệu và hàng triệu",
+          "en": "億 (mei: ten thousand) + 万 (moi: (proper name)) → millions and millions"
+        },
+        "romaji": "okuman"
       },
       {
         "example": "永万",
         "reading": "エイマン",
-        "meaning": "Eiman era (1165.6.5-1166.8.27)"
+        "meaning": {
+          "vi": "thời đại eiman (1165.6.5-1166.8.27)",
+          "en": "Eiman era (1165.6.5-1166.8.27)"
+        },
+        "hanViet": [
+          "vĩnh",
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "永 (vĩnh: lâu dài) + 万 (mặc: (tên riêng)) → thời đại eiman (1165.6.5-1166.8.27)",
+          "en": "永 (eternal: lasting) + 万 (wear: (proper name)) → eiman era (1165.6.5-1166.8.27)"
+        },
+        "romaji": "eiman"
       },
       {
         "example": "万",
         "reading": "バン",
-        "meaning": "completely, absolutely, totally"
+        "meaning": {
+          "vi": "hoàn toàn, hoàn toàn, hoàn toàn",
+          "en": "completely, absolutely, totally"
+        },
+        "hanViet": [
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "mặc: (tên riêng), vạn, mười nghìn",
+          "en": "wear: (proper name), ten thousand, ten thousand"
+        },
+        "romaji": "ban"
       },
       {
         "example": "万一",
         "reading": "マンイチ",
-        "meaning": "(unlikely event of) emergency, the worst(-case scenario), 10000 to 1, (if) by some chance, by some possibility, in the unlikely event that"
+        "meaning": {
+          "vi": "(sự kiện không thể xảy ra) trường hợp khẩn cấp, trường hợp xấu nhất (-trường hợp), 10000 trên 1, (nếu) tình cờ nào đó, bởi một khả năng nào đó, trong trường hợp không chắc chắn đó",
+          "en": "(unlikely event of) emergency, the worst(-case scenario), 10000 to 1, (if) by some chance, by some possibility, in the unlikely event that"
+        },
+        "hanViet": [
+          "mặc",
+          "nhất"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 一 (nhất: một, 1) → (sự kiện không thể xảy ra) trường hợp khẩn cấp, trường hợp xấu nhất (-trường hợp), 10000 trên 1, (nếu) tình cờ nào đó, bởi một khả năng nào đó, trong trường hợp không chắc chắn đó",
+          "en": "万 (wear: (proper name)) + 一 (most: one, 1) → (impossible event) emergency, worst case (-case), 10000 to 1, (if) by some chance, by some possibility, in that unlikely event"
+        },
+        "romaji": "man'ichi"
       },
       {
         "example": "千万",
         "reading": "センバン",
-        "meaning": "exceedingly, extremely, very many, indeed"
+        "meaning": {
+          "vi": "cực kỳ, vô cùng, rất nhiều, thực sự",
+          "en": "exceedingly, extremely, very many, indeed"
+        },
+        "hanViet": [
+          "thiên",
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "千 (thiên: nghìn, 1000) + 万 (mặc: (tên riêng)) → cực kỳ, vô cùng, rất nhiều, thực sự",
+          "en": "千 (thien: thousand, 1000) + 万 (moi: (proper name)) → extremely, extremely, very much, really"
+        },
+        "romaji": "senban"
       },
       {
         "example": "奇怪千万",
         "reading": "キカイセンバン",
-        "meaning": "very strange (mysterious, weird), bizarre, monstrous, outrageous"
+        "meaning": {
+          "vi": "rất kỳ lạ (bí ẩn, kỳ lạ), kỳ quái, quái đản, kỳ quặc",
+          "en": "very strange (mysterious, weird), bizarre, monstrous, outrageous"
+        },
+        "hanViet": [
+          "cơ",
+          "quái",
+          "thiên",
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "奇 (cơ: số lẻ (không chia hết cho 2)) + 怪 (quái: kỳ lạ) + 千 (thiên: nghìn, 1000) + 万 (mặc: (tên riêng)) → rất kỳ lạ (bí ẩn, kỳ lạ), kỳ quái, quái đản, kỳ quặc",
+          "en": "奇 (c: odd number (not divisible by 2)) + 怪 (quai: strange) + 千 (thien: thousand, 1000) + 万 (mo: (proper name)) → very strange (mysterious, strange), strange, strange, strange"
+        },
+        "romaji": "kikaisenban"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "万",
         "reading": "まん",
-        "meaning": "10,000, ten thousand, myriad, everything, all, various"
+        "meaning": {
+          "vi": "10.000, mười nghìn, vô số, mọi thứ, tất cả, đa dạng",
+          "en": "10,000, ten thousand, myriad, everything, all, various"
+        },
+        "hanViet": [
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "mặc: (tên riêng), vạn, mười nghìn",
+          "en": "wear: (proper name), ten thousand, ten thousand"
+        },
+        "romaji": "man"
       },
       {
         "example": "万年",
         "reading": "まんねん",
-        "meaning": "ten thousand years, eternity, perennial, perpetual"
+        "meaning": {
+          "vi": "vạn năm, vĩnh cửu, vĩnh viễn, vĩnh viễn",
+          "en": "ten thousand years, eternity, perennial, perpetual"
+        },
+        "hanViet": [
+          "mặc",
+          "niên"
+        ],
+        "hanVietExplain": {
+          "vi": "万 (mặc: (tên riêng)) + 年 (niên: năm) → vạn năm, vĩnh cửu, vĩnh viễn, vĩnh viễn",
+          "en": "万 (wear: (proper name)) + 年 (year: year) → ten thousand years, eternal, forever, forever"
+        },
+        "romaji": "mannen"
       },
       {
         "example": "八百万",
         "reading": "やおよろず",
-        "meaning": "myriad, countless things"
+        "meaning": {
+          "vi": "vô số, vô số thứ",
+          "en": "myriad, countless things"
+        },
+        "hanViet": [
+          "bát",
+          "bá",
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "八 (bát: tám, 8) + 百 (bá: trăm, 100) + 万 (mặc: (tên riêng)) → vô số, vô số thứ",
+          "en": "八 (ba: eight, 8) + 百 (ba: hundred, 100) + 万 (mo: (proper name)) → countless, countless things"
+        },
+        "romaji": "yaoyorozu"
       },
       {
         "example": "５００万",
         "reading": "ごひゃくまん",
-        "meaning": "5,000,000, five million, many"
+        "meaning": {
+          "vi": "5.000.000, năm triệu, nhiều lắm",
+          "en": "5,000,000, five million, many"
+        },
+        "hanViet": [
+          "mặc"
+        ],
+        "hanVietExplain": {
+          "vi": "mặc: (tên riêng), vạn, mười nghìn",
+          "en": "wear: (proper name), ten thousand, ten thousand"
+        },
+        "romaji": "gohyakuman"
       }
     ],
     "radical": {
@@ -382,5 +575,17 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e07.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e07.gif",
     "uri": "https://jisho.org/search/%E4%B8%87%23kanji"
+  },
+  "hanViet": [
+    "mặc",
+    "vạn"
+  ],
+  "hanVietExplain": {
+    "vi": "mặc: (tên riêng), vạn, mười nghìn",
+    "en": "wear: (proper name), ten thousand, ten thousand"
+  },
+  "meaning": {
+    "vi": "mười nghìn",
+    "en": "ten thousand"
   }
 }

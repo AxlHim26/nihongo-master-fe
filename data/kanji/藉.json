@@ -19,27 +19,42 @@
       {
         "example": "藉口",
         "reading": "シャコウ",
-        "meaning": "pretence, pretense"
+        "meaning": {
+          "vi": "pretence, pretense"
+        },
+        "romaji": "shakou"
       },
       {
         "example": "慰謝",
         "reading": "イシャ",
-        "meaning": "consolation"
+        "meaning": {
+          "en": "consolation"
+        },
+        "romaji": "isha"
       },
       {
         "example": "倚藉",
         "reading": "イシャ",
-        "meaning": "relying on, depending on"
+        "meaning": {
+          "vi": "relying on, depending on"
+        },
+        "romaji": "isha"
       },
       {
         "example": "枕籍",
         "reading": "チンセキ",
-        "meaning": "bedding, bed, to sleep together in the same bed, to sleep together using each other's bodies as pillow, to sleep together using books as a pillow"
+        "meaning": {
+          "vi": "bedding, bed, to sleep together in the same bed, to sleep together using each other's bodies as pillow, to sleep together using books as a pillow"
+        },
+        "romaji": "chinseki"
       },
       {
         "example": "狼藉",
         "reading": "ロウゼキ",
-        "meaning": "disorder, confusion, violence, outrage, riot"
+        "meaning": {
+          "en": "disorder, confusion, violence, outrage, riot"
+        },
+        "romaji": "rouzeki"
       }
     ],
     "kunyomiExamples": [],
@@ -65,5 +80,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85c9.gif",
     "uri": "https://jisho.org/search/%E8%97%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tá",
+    "tạ",
+    "tịch"
+  ]
 }

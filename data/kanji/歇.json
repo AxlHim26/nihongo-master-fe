@@ -18,7 +18,10 @@
       {
         "example": "間欠",
         "reading": "カンケツ",
-        "meaning": "gián đoạn, từng đợt"
+        "meaning": {
+          "vi": "gián đoạn, từng đợt"
+        },
+        "romaji": "kanketsu"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b47.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b47.gif",
     "uri": "https://jisho.org/search/%E6%AD%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiết",
+    "tiết",
+    "yết"
+  ]
 }

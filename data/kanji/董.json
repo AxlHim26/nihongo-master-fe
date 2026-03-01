@@ -16,7 +16,10 @@
       {
         "example": "書画骨董",
         "reading": "ショガコットウ",
-        "meaning": "curios and objets d'art"
+        "meaning": {
+          "en": "curios and objets d'art"
+        },
+        "romaji": "shogakottou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08463.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8463.gif",
     "uri": "https://jisho.org/search/%E8%91%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "đổng"
+  ]
 }

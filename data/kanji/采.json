@@ -19,22 +19,34 @@
       {
         "example": "采",
         "reading": "サイ",
-        "meaning": "baton (of command)"
+        "meaning": {
+          "en": "baton (of command)"
+        },
+        "romaji": "sai"
       },
       {
         "example": "賽",
         "reading": "サイ",
-        "meaning": "dice, die"
+        "meaning": {
+          "en": "dice, die"
+        },
+        "romaji": "sai"
       },
       {
         "example": "納采",
         "reading": "ノウサイ",
-        "meaning": "betrothal gift"
+        "meaning": {
+          "en": "betrothal gift"
+        },
+        "romaji": "nousai"
       },
       {
         "example": "神采",
         "reading": "シンサイ",
-        "meaning": "surpassing looks, exceptional appearance, mind and appearance"
+        "meaning": {
+          "vi": "surpassing looks, exceptional appearance, mind and appearance"
+        },
+        "romaji": "shinsai"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c7.gif",
     "uri": "https://jisho.org/search/%E9%87%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái",
+    "thải"
+  ]
 }

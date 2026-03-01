@@ -327,39 +327,60 @@
       {
         "example": "損",
         "reading": "ソン",
-        "meaning": "loss, damage, harm, unprofitable, disadvantage, handicap, drawback, unfavorable"
+        "meaning": {
+          "vi": "loss, damage, harm, unprofitable, disadvantage, handicap, drawback, unfavorable"
+        },
+        "romaji": "son"
       },
       {
         "example": "損益",
         "reading": "ソンエキ",
-        "meaning": "profit and loss, advantage and disadvantage"
+        "meaning": {
+          "vi": "profit and loss, advantage and disadvantage"
+        },
+        "romaji": "son'eki"
       },
       {
         "example": "毀損",
         "reading": "キソン",
-        "meaning": "damage, injury, defamation, harm"
+        "meaning": {
+          "en": "damage, injury, defamation, harm"
+        },
+        "romaji": "kison"
       },
       {
         "example": "海損",
         "reading": "カイソン",
-        "meaning": "sea damage, average loss"
+        "meaning": {
+          "en": "sea damage, average loss"
+        },
+        "romaji": "kaison"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "損なう",
         "reading": "そこなう",
-        "meaning": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing"
+        "meaning": {
+          "vi": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing"
+        },
+        "romaji": "sokonau"
       },
       {
         "example": "損なう",
         "reading": "そこなう",
-        "meaning": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing"
+        "meaning": {
+          "vi": "to harm, to hurt, to injure, to damage, to spoil, to mar, to ruin, to fail to do, to do amiss, to miss one's opportunity to do, to almost do, to come close to doing"
+        },
+        "romaji": "sokonau"
       },
       {
         "example": "損ねる",
         "reading": "そこねる",
-        "meaning": "to harm, to hurt, to injure, to wreck, to miss one's chance to (do something), to fail to (do what one ought to have done)"
+        "meaning": {
+          "en": "to harm, to hurt, to injure, to wreck, to miss one's chance to (do something), to fail to (do what one ought to have done)"
+        },
+        "romaji": "sokoneru"
       }
     ],
     "radical": {
@@ -380,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0640d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/640d.gif",
     "uri": "https://jisho.org/search/%E6%90%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tổn"
+  ]
 }

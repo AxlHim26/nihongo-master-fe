@@ -17,12 +17,18 @@
       {
         "example": "櫓",
         "reading": "ロ",
-        "meaning": "Japanese scull (oar attached to the rear of the boat by a traditional peg-in-hole oarlock)"
+        "meaning": {
+          "vi": "Japanese scull (oar attached to the rear of the boat by a traditional peg-in-hole oarlock)"
+        },
+        "romaji": "ro"
       },
       {
         "example": "櫓櫂",
         "reading": "ロカイ",
-        "meaning": "sculls and paddles"
+        "meaning": {
+          "vi": "sculls and paddles"
+        },
+        "romaji": "rokai"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826a.gif",
     "uri": "https://jisho.org/search/%E8%89%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "lỗ"
+  ]
 }

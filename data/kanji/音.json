@@ -379,84 +379,132 @@
       {
         "example": "音",
         "reading": "オン",
-        "meaning": "sound, noise, (speech) sound, Chinese-derived reading of a kanji"
+        "meaning": {
+          "vi": "sound, noise, (speech) sound, Chinese-derived reading of a kanji"
+        },
+        "romaji": "on"
       },
       {
         "example": "音楽",
         "reading": "オンガク",
-        "meaning": "music"
+        "meaning": {
+          "en": "music"
+        },
+        "romaji": "ongaku"
       },
       {
         "example": "爆音",
         "reading": "バクオン",
-        "meaning": "(sound of an) explosion or detonation, roar (of a machine)"
+        "meaning": {
+          "vi": "(sound of an) explosion or detonation, roar (of a machine)"
+        },
+        "romaji": "bakuon"
       },
       {
         "example": "防音",
         "reading": "ボウオン",
-        "meaning": "soundproofing"
+        "meaning": {
+          "vi": "soundproofing"
+        },
+        "romaji": "bouon"
       },
       {
         "example": "音信",
         "reading": "オンシン",
-        "meaning": "correspondence, news, letter, tidings"
+        "meaning": {
+          "vi": "correspondence, news, letter, tidings"
+        },
+        "romaji": "onshin"
       },
       {
         "example": "鸚哥",
         "reading": "インコ",
-        "meaning": "true parrot (esp. small parrots such as the parakeet, lory and conure)"
+        "meaning": {
+          "vi": "true parrot (esp. small parrots such as the parakeet, lory and conure)"
+        },
+        "romaji": "inko"
       },
       {
         "example": "玉音",
         "reading": "ギョクオン",
-        "meaning": "the Emperor's voice, beautiful voice, beautiful sound"
+        "meaning": {
+          "vi": "the Emperor's voice, beautiful voice, beautiful sound"
+        },
+        "romaji": "gyokuon"
       },
       {
         "example": "唐音",
         "reading": "トウオン",
-        "meaning": "tō-on, Tang reading, on reading of a kanji based on Song dynasty and later Chinese"
+        "meaning": {
+          "en": "tō-on, Tang reading, on reading of a kanji based on Song dynasty and later Chinese"
+        },
+        "romaji": "touon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "音",
         "reading": "おと",
-        "meaning": "sound, noise, (musical) note, fame"
+        "meaning": {
+          "en": "sound, noise, (musical) note, fame"
+        },
+        "romaji": "oto"
       },
       {
         "example": "音孔",
         "reading": "おとあな",
-        "meaning": "tone hole"
+        "meaning": {
+          "en": "tone hole"
+        },
+        "romaji": "otoana"
       },
       {
         "example": "鈍い音",
         "reading": "にぶいおと",
-        "meaning": "dull sound, muffled sound"
+        "meaning": {
+          "en": "dull sound, muffled sound"
+        },
+        "romaji": "nibuioto"
       },
       {
         "example": "風音",
         "reading": "かざおと",
-        "meaning": "sound of the wind"
+        "meaning": {
+          "en": "sound of the wind"
+        },
+        "romaji": "kazaoto"
       },
       {
         "example": "音",
         "reading": "ね",
-        "meaning": "sound, tone, note, ring, chirp"
+        "meaning": {
+          "vi": "sound, tone, note, ring, chirp"
+        },
+        "romaji": "ne"
       },
       {
         "example": "音色",
         "reading": "ねいろ",
-        "meaning": "tone color, tone colour, tone quality, timbre"
+        "meaning": {
+          "en": "tone color, tone colour, tone quality, timbre"
+        },
+        "romaji": "neiro"
       },
       {
         "example": "弱音",
         "reading": "よわね",
-        "meaning": "feeble complaint, whine"
+        "meaning": {
+          "vi": "feeble complaint, whine"
+        },
+        "romaji": "yowane"
       },
       {
         "example": "高音",
         "reading": "こうおん",
-        "meaning": "high-pitched tone, soprano"
+        "meaning": {
+          "vi": "high-pitched tone, soprano"
+        },
+        "romaji": "kouon"
       }
     ],
     "radical": {
@@ -472,5 +520,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97f3.gif",
     "uri": "https://jisho.org/search/%E9%9F%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "âm",
+    "ấm"
+  ]
 }

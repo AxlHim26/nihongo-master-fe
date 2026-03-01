@@ -20,29 +20,44 @@
       {
         "example": "蒙",
         "reading": "モウ",
-        "meaning": "ignorance, covering, concealing, Mongolia"
+        "meaning": {
+          "en": "ignorance, covering, concealing, Mongolia"
+        },
+        "romaji": "mou"
       },
       {
         "example": "蒙古",
         "reading": "モウコ",
-        "meaning": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+        "meaning": {
+          "vi": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+        },
+        "romaji": "mouko"
       },
       {
         "example": "啓蒙",
         "reading": "ケイモウ",
-        "meaning": "enlightenment, illumination"
+        "meaning": {
+          "en": "enlightenment, illumination"
+        },
+        "romaji": "keimou"
       },
       {
         "example": "内蒙",
         "reading": "ナイモウ",
-        "meaning": "Inner Mongolia"
+        "meaning": {
+          "en": "Inner Mongolia"
+        },
+        "romaji": "naimou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "被る",
         "reading": "こうむる",
-        "meaning": "to suffer, to receive (kindness, rebuke, support), to sustain (damage)"
+        "meaning": {
+          "vi": "to suffer, to receive (kindness, rebuke, support), to sustain (damage)"
+        },
+        "romaji": "koumuru"
       }
     ],
     "radical": {
@@ -61,5 +76,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08499.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8499.gif",
     "uri": "https://jisho.org/search/%E8%92%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàng",
+    "mông"
+  ]
 }

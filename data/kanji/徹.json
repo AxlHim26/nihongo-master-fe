@@ -17,22 +17,34 @@
       {
         "example": "徹夜",
         "reading": "テツヤ",
-        "meaning": "staying up all night"
+        "meaning": {
+          "vi": "staying up all night"
+        },
+        "romaji": "tetsuya"
       },
       {
         "example": "徹カラ",
         "reading": "テツカラ",
-        "meaning": "all-night karaoke"
+        "meaning": {
+          "en": "all-night karaoke"
+        },
+        "romaji": "tetsukara"
       },
       {
         "example": "冷徹",
         "reading": "レイテツ",
-        "meaning": "cool-headed, level-headed, hard-headed"
+        "meaning": {
+          "en": "cool-headed, level-headed, hard-headed"
+        },
+        "romaji": "reitetsu"
       },
       {
         "example": "透徹",
         "reading": "トウテツ",
-        "meaning": "transparency, clarity, coherence"
+        "meaning": {
+          "vi": "transparency, clarity, coherence"
+        },
+        "romaji": "toutetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fb9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fb9.gif",
     "uri": "https://jisho.org/search/%E5%BE%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "triệt"
+  ]
 }

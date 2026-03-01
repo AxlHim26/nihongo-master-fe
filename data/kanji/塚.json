@@ -20,24 +20,36 @@
       {
         "example": "陪塚",
         "reading": "バイチョウ",
-        "meaning": "subsidiary burial mound (Kofun period), satellite burial mound"
+        "meaning": {
+          "vi": "subsidiary burial mound (Kofun period), satellite burial mound"
+        },
+        "romaji": "baichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塚",
         "reading": "つか",
-        "meaning": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+        "meaning": {
+          "vi": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+        },
+        "romaji": "tsuka"
       },
       {
         "example": "塚穴",
         "reading": "つかあな",
-        "meaning": "grave"
+        "meaning": {
+          "en": "grave"
+        },
+        "romaji": "tsukaana"
       },
       {
         "example": "高塚",
         "reading": "たかつか",
-        "meaning": "tumulus, burial mound"
+        "meaning": {
+          "en": "tumulus, burial mound"
+        },
+        "romaji": "takatsuka"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585a.gif",
     "uri": "https://jisho.org/search/%E5%A1%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "trũng",
+    "trủng"
+  ]
 }

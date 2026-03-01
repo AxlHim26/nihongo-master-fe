@@ -19,29 +19,44 @@
       {
         "example": "譲歩",
         "reading": "ジョウホ",
-        "meaning": "nhượng bộ, thỏa hiệp"
+        "meaning": {
+          "vi": "nhượng bộ, thỏa hiệp"
+        },
+        "romaji": "jouho"
       },
       {
         "example": "譲渡",
         "reading": "ジョウト",
-        "meaning": "chuyển nhượng"
+        "meaning": {
+          "vi": "chuyển nhượng"
+        },
+        "romaji": "jouto"
       },
       {
         "example": "分譲",
         "reading": "ブンジョウ",
-        "meaning": "bán từng lô (bất động sản)"
+        "meaning": {
+          "vi": "bán từng lô (bất động sản)"
+        },
+        "romaji": "bunjou"
       },
       {
         "example": "移譲",
         "reading": "イジョウ",
-        "meaning": "chuyển giao (quyền, tài sản...)"
+        "meaning": {
+          "vi": "chuyển giao (quyền, tài sản...)"
+        },
+        "romaji": "ijou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "譲る",
         "reading": "ゆずる",
-        "meaning": "chuyển giao, nhường (chỗ), nhượng bộ, bán, hoãn lại"
+        "meaning": {
+          "vi": "chuyển giao, nhường (chỗ), nhượng bộ, bán, hoãn lại"
+        },
+        "romaji": "yuzuru"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b72.gif",
     "uri": "https://jisho.org/search/%E8%AD%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhượng"
+  ]
 }

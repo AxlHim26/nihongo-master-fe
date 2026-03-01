@@ -19,29 +19,44 @@
       {
         "example": "縫製",
         "reading": "ホウセイ",
-        "meaning": "may (bằng máy)"
+        "meaning": {
+          "vi": "may (bằng máy)"
+        },
+        "romaji": "housei"
       },
       {
         "example": "縫腋",
         "reading": "ホウエキ",
-        "meaning": "mép may của trang phục truyền thống Nhật, áo khoác cổ tròn có mép may, mặc bởi thiên hoàng và quan cao cấp"
+        "meaning": {
+          "vi": "mép may của trang phục truyền thống Nhật, áo khoác cổ tròn có mép may, mặc bởi thiên hoàng và quan cao cấp"
+        },
+        "romaji": "houeki"
       },
       {
         "example": "弥縫",
         "reading": "ビホウ",
-        "meaning": "vá víu, hàn gắn"
+        "meaning": {
+          "vi": "vá víu, hàn gắn"
+        },
+        "romaji": "bihou"
       },
       {
         "example": "天衣無縫",
         "reading": "テンイムホウ",
-        "meaning": "vẻ đẹp hoàn hảo không dấu vết nhân tạo, không tì vết"
+        "meaning": {
+          "vi": "vẻ đẹp hoàn hảo không dấu vết nhân tạo, không tì vết"
+        },
+        "romaji": "ten'imuhou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "縫う",
         "reading": "ぬう",
-        "meaning": "may, khâu, len lỏi (qua đám đông)"
+        "meaning": {
+          "vi": "may, khâu, len lỏi (qua đám đông)"
+        },
+        "romaji": "nuu"
       }
     ],
     "radical": {
@@ -64,5 +79,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e2b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e2b.gif",
     "uri": "https://jisho.org/search/%E7%B8%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "phùng",
+    "phúng"
+  ]
 }

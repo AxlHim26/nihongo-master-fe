@@ -21,59 +21,92 @@
       {
         "example": "暈",
         "reading": "カサ",
-        "meaning": "halo (around the Sun, Moon, etc.), ring, corona"
+        "meaning": {
+          "en": "halo (around the Sun, Moon, etc.), ring, corona"
+        },
+        "romaji": "kasa"
       },
       {
         "example": "繧繝",
         "reading": "ウンゲン",
-        "meaning": "ungen, method of dyeing in which a color repeatedly goes from dense to diffuse, diffuse to dense; used in Buddhist pictures, temple ornaments, etc., during the Nara and Heian periods"
+        "meaning": {
+          "vi": "ungen, method of dyeing in which a color repeatedly goes from dense to diffuse, diffuse to dense; used in Buddhist pictures, temple ornaments, etc., during the Nara and Heian periods"
+        },
+        "romaji": "ungen"
       },
       {
         "example": "乳暈",
         "reading": "ニュウウン",
-        "meaning": "areola mammae (circular area around nipple), areola"
+        "meaning": {
+          "vi": "areola mammae (circular area around nipple), areola"
+        },
+        "romaji": "nyuuun"
       },
       {
         "example": "日暈",
         "reading": "ヒガサ",
-        "meaning": "solar halo"
+        "meaning": {
+          "en": "solar halo"
+        },
+        "romaji": "higasa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暈す",
         "reading": "ぼかす",
-        "meaning": "to blur, to shade off, to gradate, to obscure, to make ambiguous"
+        "meaning": {
+          "en": "to blur, to shade off, to gradate, to obscure, to make ambiguous"
+        },
+        "romaji": "bokasu"
       },
       {
         "example": "暈ける",
         "reading": "ぼける",
-        "meaning": "to be faded, to be hazy, to be blurred, to be out of focus"
+        "meaning": {
+          "en": "to be faded, to be hazy, to be blurred, to be out of focus"
+        },
+        "romaji": "bokeru"
       },
       {
         "example": "暈",
         "reading": "かさ",
-        "meaning": "halo (around the Sun, Moon, etc.), ring, corona"
+        "meaning": {
+          "en": "halo (around the Sun, Moon, etc.), ring, corona"
+        },
+        "romaji": "kasa"
       },
       {
         "example": "隈",
         "reading": "くま",
-        "meaning": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles"
+        "meaning": {
+          "vi": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles"
+        },
+        "romaji": "kuma"
       },
       {
         "example": "隈取り",
         "reading": "くまどり",
-        "meaning": "shading, (colour) gradation, kumadori, style of kabuki makeup used for violent roles"
+        "meaning": {
+          "vi": "shading, (colour) gradation, kumadori, style of kabuki makeup used for violent roles"
+        },
+        "romaji": "kumadori"
       },
       {
         "example": "暈し",
         "reading": "ぼかし",
-        "meaning": "blurring (e.g. of an image), blur, gradient, gradation, shading, bokashi composting, fermented composting"
+        "meaning": {
+          "vi": "blurring (e.g. of an image), blur, gradient, gradation, shading, bokashi composting, fermented composting"
+        },
+        "romaji": "bokashi"
       },
       {
         "example": "ぼかし染め",
         "reading": "ぼかしぞめ",
-        "meaning": "gradation dyeing"
+        "meaning": {
+          "en": "gradation dyeing"
+        },
+        "romaji": "bokashizome"
       }
     ],
     "radical": {
@@ -89,5 +122,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06688.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6688.gif",
     "uri": "https://jisho.org/search/%E6%9A%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "vận",
+    "vựng"
+  ]
 }

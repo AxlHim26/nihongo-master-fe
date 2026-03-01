@@ -290,59 +290,92 @@
       {
         "example": "豆腐",
         "reading": "トウフ",
-        "meaning": "tofu, bean curd, beancurd"
+        "meaning": {
+          "en": "tofu, bean curd, beancurd"
+        },
+        "romaji": "toufu"
       },
       {
         "example": "豆乳",
         "reading": "トウニュウ",
-        "meaning": "soy milk"
+        "meaning": {
+          "en": "soy milk"
+        },
+        "romaji": "tounyuu"
       },
       {
         "example": "緑豆",
         "reading": "リョクトウ",
-        "meaning": "mung bean (Vigna radiata), green gram"
+        "meaning": {
+          "en": "mung bean (Vigna radiata), green gram"
+        },
+        "romaji": "ryokutou"
       },
       {
         "example": "菜豆",
         "reading": "サイトウ",
-        "meaning": "haricot, kidney bean"
+        "meaning": {
+          "en": "haricot, kidney bean"
+        },
+        "romaji": "saitou"
       },
       {
         "example": "豆打",
         "reading": "ズンダ",
-        "meaning": "mashed boiled green soybeans"
+        "meaning": {
+          "en": "mashed boiled green soybeans"
+        },
+        "romaji": "zunda"
       },
       {
         "example": "小豆",
         "reading": "アズキ",
-        "meaning": "adzuki bean (Vigna angularis)"
+        "meaning": {
+          "en": "adzuki bean (Vigna angularis)"
+        },
+        "romaji": "azuki"
       },
       {
         "example": "大豆",
         "reading": "ダイズ",
-        "meaning": "soya bean (Glycine max), soybean, soy"
+        "meaning": {
+          "en": "soya bean (Glycine max), soybean, soy"
+        },
+        "romaji": "daizu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "豆",
         "reading": "まめ",
-        "meaning": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+        "meaning": {
+          "vi": "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses), bean, pea, soya bean (Glycine max), soybean, soy, female genitalia (esp. the clitoris), kidney, small, miniature, baby, midget, small-scale, child"
+        },
+        "romaji": "mame"
       },
       {
         "example": "豆知識",
         "reading": "まめちしき",
-        "meaning": "trivia, snippet of knowledge"
+        "meaning": {
+          "vi": "trivia, snippet of knowledge"
+        },
+        "romaji": "mamechishiki"
       },
       {
         "example": "枝豆",
         "reading": "えだまめ",
-        "meaning": "edamame (green soybeans)"
+        "meaning": {
+          "en": "edamame (green soybeans)"
+        },
+        "romaji": "edamame"
       },
       {
         "example": "ライ豆",
         "reading": "ライまめ",
-        "meaning": "lima bean (Phaseolus lunatus), butter bean"
+        "meaning": {
+          "vi": "lima bean (Phaseolus lunatus), butter bean"
+        },
+        "romaji": "raimame"
       }
     ],
     "radical": {
@@ -358,5 +391,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c46.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c46.gif",
     "uri": "https://jisho.org/search/%E8%B1%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "đậu"
+  ]
 }

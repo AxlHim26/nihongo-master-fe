@@ -18,17 +18,26 @@
       {
         "example": "偈",
         "reading": "ゲ",
-        "meaning": "gatha (poetic verse of a scripture)"
+        "meaning": {
+          "vi": "gatha (poetic verse of a scripture)"
+        },
+        "romaji": "ge"
       },
       {
         "example": "七仏通戒偈",
         "reading": "シチブツツウカイゲ",
-        "meaning": "Verse of the Shared Morality of the Seven Buddhas"
+        "meaning": {
+          "en": "Verse of the Shared Morality of the Seven Buddhas"
+        },
+        "romaji": "shichibutsutsuukaige"
       },
       {
         "example": "回向偈",
         "reading": "エコウゲ",
-        "meaning": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+        "meaning": {
+          "en": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+        },
+        "romaji": "ekouge"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05048.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5048.gif",
     "uri": "https://jisho.org/search/%E5%81%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "khế",
+    "kệ"
+  ]
 }

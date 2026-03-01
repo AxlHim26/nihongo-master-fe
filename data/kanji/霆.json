@@ -16,7 +16,10 @@
       {
         "example": "雷霆",
         "reading": "ライテイ",
-        "meaning": "thunder"
+        "meaning": {
+          "en": "thunder"
+        },
+        "romaji": "raitei"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09706.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9706.gif",
     "uri": "https://jisho.org/search/%E9%9C%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "đình"
+  ]
 }

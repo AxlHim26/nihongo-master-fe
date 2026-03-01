@@ -17,19 +17,28 @@
       {
         "example": "喞筒",
         "reading": "ソクトウ",
-        "meaning": "pump"
+        "meaning": {
+          "vi": "pump"
+        },
+        "romaji": "sokutou"
       },
       {
         "example": "喞筒",
         "reading": "ソクトウ",
-        "meaning": "pump"
+        "meaning": {
+          "vi": "pump"
+        },
+        "romaji": "sokutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "託つ",
         "reading": "かこつ",
-        "meaning": "to complain about, to grumble about, to moan about, to bemoan"
+        "meaning": {
+          "vi": "to complain about, to grumble about, to moan about, to bemoan"
+        },
+        "romaji": "kakotsu"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0559e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/559e.gif",
     "uri": "https://jisho.org/search/%E5%96%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "tức"
+  ]
 }

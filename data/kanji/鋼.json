@@ -280,39 +280,60 @@
       {
         "example": "鋼",
         "reading": "ハガネ",
-        "meaning": "steel, sword steel, sword"
+        "meaning": {
+          "en": "steel, sword steel, sword"
+        },
+        "romaji": "hagane"
       },
       {
         "example": "鋼材",
         "reading": "コウザイ",
-        "meaning": "steel material"
+        "meaning": {
+          "en": "steel material"
+        },
+        "romaji": "kouzai"
       },
       {
         "example": "粗鋼",
         "reading": "ソコウ",
-        "meaning": "crude steel"
+        "meaning": {
+          "en": "crude steel"
+        },
+        "romaji": "sokou"
       },
       {
         "example": "製鋼",
         "reading": "セイコウ",
-        "meaning": "steel manufacture"
+        "meaning": {
+          "en": "steel manufacture"
+        },
+        "romaji": "seikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鋼",
         "reading": "はがね",
-        "meaning": "steel, sword steel, sword"
+        "meaning": {
+          "en": "steel, sword steel, sword"
+        },
+        "romaji": "hagane"
       },
       {
         "example": "鋼色",
         "reading": "はがねいろ",
-        "meaning": "steel blue"
+        "meaning": {
+          "en": "steel blue"
+        },
+        "romaji": "haganeiro"
       },
       {
         "example": "玉鋼",
         "reading": "たまはがね",
-        "meaning": "traditional Japanese steel made from iron sand (esp. for use in swords)"
+        "meaning": {
+          "vi": "traditional Japanese steel made from iron sand (esp. for use in swords)"
+        },
+        "romaji": "tamahagane"
       }
     ],
     "radical": {
@@ -333,5 +354,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92fc.gif",
     "uri": "https://jisho.org/search/%E9%8B%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cương"
+  ]
 }

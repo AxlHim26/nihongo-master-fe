@@ -18,12 +18,18 @@
       {
         "example": "椋木",
         "reading": "むくのき",
-        "meaning": "Aphananthe oriental elm (Aphananthe aspera), mukutree"
+        "meaning": {
+          "vi": "Aphananthe oriental elm (Aphananthe aspera), mukutree"
+        },
+        "romaji": "mukunoki"
       },
       {
         "example": "椋鳥",
         "reading": "むくどり",
-        "meaning": "grey starling (Sturnus cineraceus), gray starling, white-cheeked starling, starling (any bird of family Sturnidae), bumpkin, gullible person, sixty-nine (sexual position)"
+        "meaning": {
+          "vi": "grey starling (Sturnus cineraceus), gray starling, white-cheeked starling, starling (any bird of family Sturnidae), bumpkin, gullible person, sixty-nine (sexual position)"
+        },
+        "romaji": "mukudori"
       }
     ],
     "radical": {
@@ -40,5 +46,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690b.gif",
     "uri": "https://jisho.org/search/%E6%A4%8B%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -302,29 +302,44 @@
       {
         "example": "臨界",
         "reading": "リンカイ",
-        "meaning": "boundary, (nuclear) criticality, critical (mass, pressure, temperature, state, point, etc.)"
+        "meaning": {
+          "vi": "boundary, (nuclear) criticality, critical (mass, pressure, temperature, state, point, etc.)"
+        },
+        "romaji": "rinkai"
       },
       {
         "example": "臨海",
         "reading": "リンカイ",
-        "meaning": "coastal, seaside, oceanfront, maritime"
+        "meaning": {
+          "en": "coastal, seaside, oceanfront, maritime"
+        },
+        "romaji": "rinkai"
       },
       {
         "example": "意臨",
         "reading": "イリン",
-        "meaning": "copying calligraphy without sticking to the model (calligraphy), copying freely"
+        "meaning": {
+          "vi": "copying calligraphy without sticking to the model (calligraphy), copying freely"
+        },
+        "romaji": "irin"
       },
       {
         "example": "形臨",
         "reading": "ケイリン",
-        "meaning": "copying calligraphy from a model"
+        "meaning": {
+          "vi": "copying calligraphy from a model"
+        },
+        "romaji": "keirin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "臨む",
         "reading": "のぞむ",
-        "meaning": "to look out on, to overlook, to front onto, to face (a situation, crisis, etc.), to meet (e.g. death), to be confronted by, to deal with (an issue), to attend (e.g. a function), to appear (e.g. in court), to be present at, to go to (e.g. a place), to take part in, to participate, to join"
+        "meaning": {
+          "vi": "to look out on, to overlook, to front onto, to face (a situation, crisis, etc.), to meet (e.g. death), to be confronted by, to deal with (an issue), to attend (e.g. a function), to appear (e.g. in court), to be present at, to go to (e.g. a place), to take part in, to participate, to join"
+        },
+        "romaji": "nozomu"
       }
     ],
     "radical": {
@@ -344,5 +359,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81e8.gif",
     "uri": "https://jisho.org/search/%E8%87%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "lâm",
+    "lấm",
+    "lậm"
+  ]
 }

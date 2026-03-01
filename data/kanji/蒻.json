@@ -15,12 +15,18 @@
       {
         "example": "スマトラ大蒟蒻",
         "reading": "スマトラオオコンニャク",
-        "meaning": "titan arum (Amorphophallus titanum), corpse flower, carrion flower"
+        "meaning": {
+          "vi": "titan arum (Amorphophallus titanum), corpse flower, carrion flower"
+        },
+        "romaji": "sumatoraookonnyaku"
       },
       {
         "example": "蒟蒻",
         "reading": "コンニャク",
-        "meaning": "konnyaku (Amorphophallus konjac), konjac, devil's tongue, konnyaku jelly, konjac jelly, devil's tongue jelly"
+        "meaning": {
+          "vi": "konnyaku (Amorphophallus konjac), konjac, devil's tongue, konnyaku jelly, konjac jelly, devil's tongue jelly"
+        },
+        "romaji": "konnyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084bb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84bb.gif",
     "uri": "https://jisho.org/search/%E8%92%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhược"
+  ]
 }

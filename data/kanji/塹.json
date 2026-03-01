@@ -18,12 +18,18 @@
       {
         "example": "塹壕",
         "reading": "ザンゴウ",
-        "meaning": "trench, dugout"
+        "meaning": {
+          "en": "trench, dugout"
+        },
+        "romaji": "zangou"
       },
       {
         "example": "塹壕戦",
         "reading": "ザンゴウセン",
-        "meaning": "trench warfare"
+        "meaning": {
+          "en": "trench warfare"
+        },
+        "romaji": "zangousen"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05879.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5879.gif",
     "uri": "https://jisho.org/search/%E5%A1%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiệm",
+    "tạm"
+  ]
 }

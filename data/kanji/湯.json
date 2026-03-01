@@ -308,44 +308,68 @@
       {
         "example": "湯治",
         "reading": "トウジ",
-        "meaning": "hot-spring cure, taking the baths"
+        "meaning": {
+          "vi": "hot-spring cure, taking the baths"
+        },
+        "romaji": "touji"
       },
       {
         "example": "湯液",
         "reading": "トウエキ",
-        "meaning": "decoction (in Chinese medicine)"
+        "meaning": {
+          "en": "decoction (in Chinese medicine)"
+        },
+        "romaji": "toueki"
       },
       {
         "example": "銭湯",
         "reading": "セントウ",
-        "meaning": "public bath, bathhouse"
+        "meaning": {
+          "vi": "public bath, bathhouse"
+        },
+        "romaji": "sentou"
       },
       {
         "example": "給湯",
         "reading": "キュウトウ",
-        "meaning": "hot-water supply"
+        "meaning": {
+          "vi": "hot-water supply"
+        },
+        "romaji": "kyuutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湯",
         "reading": "ゆ",
-        "meaning": "hot water, hot bath, hot spring, molten iron"
+        "meaning": {
+          "vi": "hot water, hot bath, hot spring, molten iron"
+        },
+        "romaji": "yu"
       },
       {
         "example": "湯気",
         "reading": "ゆげ",
-        "meaning": "steam, vapour, vapor"
+        "meaning": {
+          "vi": "steam, vapour, vapor"
+        },
+        "romaji": "yuge"
       },
       {
         "example": "茶の湯",
         "reading": "ちゃのゆ",
-        "meaning": "tea ceremony, chanoyu"
+        "meaning": {
+          "en": "tea ceremony, chanoyu"
+        },
+        "romaji": "chanoyu"
       },
       {
         "example": "もらい湯",
         "reading": "もらいゆ",
-        "meaning": "taking a bath in another's home"
+        "meaning": {
+          "en": "taking a bath in another's home"
+        },
+        "romaji": "moraiyu"
       }
     ],
     "radical": {
@@ -367,5 +391,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e6f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e6f.gif",
     "uri": "https://jisho.org/search/%E6%B9%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "sương",
+    "thang",
+    "thãng"
+  ]
 }

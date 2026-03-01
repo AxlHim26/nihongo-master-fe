@@ -17,44 +17,68 @@
       {
         "example": "蠅頭",
         "reading": "ヨウトウ",
-        "meaning": "chữ nhỏ, chữ viết tí xíu, lợi nhuận nhỏ như đầu ruồi"
+        "meaning": {
+          "vi": "chữ nhỏ, chữ viết tí xíu, lợi nhuận nhỏ như đầu ruồi"
+        },
+        "romaji": "youtou"
       },
       {
         "example": "青蠅",
         "reading": "アオバエ",
-        "meaning": "ruồi xanh, kẻ phiền toái"
+        "meaning": {
+          "vi": "ruồi xanh, kẻ phiền toái"
+        },
+        "romaji": "aobae"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蠅",
         "reading": "はえ",
-        "meaning": "ruồi (côn trùng hạ bộ Muscomorpha), kẻ vô giá trị"
+        "meaning": {
+          "vi": "ruồi (côn trùng hạ bộ Muscomorpha), kẻ vô giá trị"
+        },
+        "romaji": "hae"
       },
       {
         "example": "はえ座",
         "reading": "はえざ",
-        "meaning": "chòm sao Musca (chòm Ruồi)"
+        "meaning": {
+          "vi": "chòm sao Musca (chòm Ruồi)"
+        },
+        "romaji": "haeza"
       },
       {
         "example": "護摩の灰",
         "reading": "ごまのはい",
-        "meaning": "kẻ trộm giả làm bạn đồng hành"
+        "meaning": {
+          "vi": "kẻ trộm giả làm bạn đồng hành"
+        },
+        "romaji": "gomanohai"
       },
       {
         "example": "蝿帳",
         "reading": "はいちょう",
-        "meaning": "tủ màn chống ruồi"
+        "meaning": {
+          "vi": "tủ màn chống ruồi"
+        },
+        "romaji": "haichou"
       },
       {
         "example": "ハエ取り",
         "reading": "はえとり",
-        "meaning": "bắt ruồi, bẫy ruồi, giấy bắt ruồi, nhện nhảy"
+        "meaning": {
+          "vi": "bắt ruồi, bẫy ruồi, giấy bắt ruồi, nhện nhảy"
+        },
+        "romaji": "haetori"
       },
       {
         "example": "護摩の灰",
         "reading": "ごまのはい",
-        "meaning": "kẻ trộm giả làm bạn đồng hành"
+        "meaning": {
+          "vi": "kẻ trộm giả làm bạn đồng hành"
+        },
+        "romaji": "gomanohai"
       }
     ],
     "radical": {
@@ -72,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0877f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/877f.gif",
     "uri": "https://jisho.org/search/%E8%9D%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "dăng"
+  ]
 }

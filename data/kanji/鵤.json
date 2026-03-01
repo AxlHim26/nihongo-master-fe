@@ -16,17 +16,24 @@
       {
         "example": "【イカル】",
         "reading": "Japanese grosbeak (Eophona personata)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Japanese grosbeak (Eophona personata)"
       },
       {
         "example": "斑鳩",
         "reading": "いかるが",
-        "meaning": "chim sẻ mỏ to Nhật Bản"
+        "meaning": {
+          "vi": "chim sẻ mỏ to Nhật Bản"
+        },
+        "romaji": "ikaruga"
       },
       {
         "example": "斑鳩",
         "reading": "いかるが",
-        "meaning": "chim sẻ mỏ to Nhật Bản"
+        "meaning": {
+          "vi": "chim sẻ mỏ to Nhật Bản"
+        },
+        "romaji": "ikaruga"
       }
     ],
     "radical": {
@@ -42,5 +49,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d64.gif",
     "uri": "https://jisho.org/search/%E9%B5%A4%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -18,39 +18,60 @@
       {
         "example": "鋏角",
         "reading": "キョウカク",
-        "meaning": "chelicera, mouthparts of chelicerates (including arachnids)"
+        "meaning": {
+          "vi": "chelicera, mouthparts of chelicerates (including arachnids)"
+        },
+        "romaji": "kyoukaku"
       },
       {
         "example": "鋏角亜門",
         "reading": "キョウカクアモン",
-        "meaning": "Chelicerata, suborder comprising arachnids, sea spiders, and horseshoe crabs"
+        "meaning": {
+          "vi": "Chelicerata, suborder comprising arachnids, sea spiders, and horseshoe crabs"
+        },
+        "romaji": "kyoukakuamon"
       },
       {
         "example": "入鋏",
         "reading": "ニュウキョウ",
-        "meaning": "(ticket) punching"
+        "meaning": {
+          "vi": "(ticket) punching"
+        },
+        "romaji": "nyuukyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鋏",
         "reading": "はさみ",
-        "meaning": "scissors, shears, clippers, hole punch"
+        "meaning": {
+          "vi": "scissors, shears, clippers, hole punch"
+        },
+        "romaji": "hasami"
       },
       {
         "example": "鋏虫",
         "reading": "はさみむし",
-        "meaning": "earwig"
+        "meaning": {
+          "en": "earwig"
+        },
+        "romaji": "hasamimushi"
       },
       {
         "example": "改札鋏",
         "reading": "かいさつはさみ",
-        "meaning": "ticket punch"
+        "meaning": {
+          "vi": "ticket punch"
+        },
+        "romaji": "kaisatsuhasami"
       },
       {
         "example": "鋏む",
         "reading": "はさむ",
-        "meaning": "to clip, to snip"
+        "meaning": {
+          "vi": "to clip, to snip"
+        },
+        "romaji": "hasamu"
       }
     ],
     "radical": {
@@ -70,5 +91,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92cf.gif",
     "uri": "https://jisho.org/search/%E9%8B%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "giáp",
+    "khiếp",
+    "kiệp"
+  ]
 }

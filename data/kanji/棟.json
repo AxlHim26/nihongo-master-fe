@@ -20,44 +20,68 @@
       {
         "example": "棟",
         "reading": "トウ",
-        "meaning": "large building, building with a long roof, counter for buildings, apartments, etc."
+        "meaning": {
+          "vi": "large building, building with a long roof, counter for buildings, apartments, etc."
+        },
+        "romaji": "tou"
       },
       {
         "example": "棟梁",
         "reading": "トウリョウ",
-        "meaning": "central figure, pillar (e.g. of the nation), mainstay, chief support, leader, chief, boss, leader, head, master carpenter, beams and ridge supports of a roof"
+        "meaning": {
+          "vi": "central figure, pillar (e.g. of the nation), mainstay, chief support, leader, chief, boss, leader, head, master carpenter, beams and ridge supports of a roof"
+        },
+        "romaji": "touryou"
       },
       {
         "example": "病棟",
         "reading": "ビョウトウ",
-        "meaning": "(hospital) ward"
+        "meaning": {
+          "vi": "(hospital) ward"
+        },
+        "romaji": "byoutou"
       },
       {
         "example": "上棟",
         "reading": "ジョウトウ",
-        "meaning": "raising the ridgepole"
+        "meaning": {
+          "vi": "raising the ridgepole"
+        },
+        "romaji": "joutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "棟",
         "reading": "むね",
-        "meaning": "ridge (of roof), back of a sword, counter for buildings, apartments, etc."
+        "meaning": {
+          "vi": "ridge (of roof), back of a sword, counter for buildings, apartments, etc."
+        },
+        "romaji": "mune"
       },
       {
         "example": "棟上げ",
         "reading": "むねあげ",
-        "meaning": "ridgepole-raising, setting up of the framework of a house"
+        "meaning": {
+          "vi": "ridgepole-raising, setting up of the framework of a house"
+        },
+        "romaji": "muneage"
       },
       {
         "example": "別棟",
         "reading": "べつむね",
-        "meaning": "separate building, outbuilding, outhouse"
+        "meaning": {
+          "vi": "separate building, outbuilding, outhouse"
+        },
+        "romaji": "betsumune"
       },
       {
         "example": "大棟",
         "reading": "おおむね",
-        "meaning": "top ridge of a roof, main ridge of a roof"
+        "meaning": {
+          "vi": "top ridge of a roof, main ridge of a roof"
+        },
+        "romaji": "oomune"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68df.gif",
     "uri": "https://jisho.org/search/%E6%A3%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "đống"
+  ]
 }

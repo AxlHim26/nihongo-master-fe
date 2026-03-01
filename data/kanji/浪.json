@@ -17,22 +17,34 @@
       {
         "example": "浪",
         "reading": "ロウ",
-        "meaning": "person who has spent X years after graduating high school attempting to get admitted to (a specific) university"
+        "meaning": {
+          "vi": "person who has spent X years after graduating high school attempting to get admitted to (a specific) university"
+        },
+        "romaji": "rou"
       },
       {
         "example": "浪人",
         "reading": "ロウニン",
-        "meaning": "ronin, masterless samurai, high school graduate waiting for another chance to enter university after having failed the yearly entrance examination, person out of work, jobless person, wanderer, drifter"
+        "meaning": {
+          "vi": "ronin, masterless samurai, high school graduate waiting for another chance to enter university after having failed the yearly entrance examination, person out of work, jobless person, wanderer, drifter"
+        },
+        "romaji": "rounin"
       },
       {
         "example": "放浪",
         "reading": "ホウロウ",
-        "meaning": "wandering, roaming, drifting"
+        "meaning": {
+          "en": "wandering, roaming, drifting"
+        },
+        "romaji": "hourou"
       },
       {
         "example": "１浪",
         "reading": "イチロウ",
-        "meaning": "failing college entrance exams and retaking them a year later"
+        "meaning": {
+          "en": "failing college entrance exams and retaking them a year later"
+        },
+        "romaji": "ichirou"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6a.gif",
     "uri": "https://jisho.org/search/%E6%B5%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "lang",
+    "lãng"
+  ]
 }

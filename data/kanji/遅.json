@@ -329,39 +329,60 @@
       {
         "example": "遅々",
         "reading": "チチ",
-        "meaning": "slow, lagging, tardy"
+        "meaning": {
+          "en": "slow, lagging, tardy"
+        },
+        "romaji": "chichi"
       },
       {
         "example": "遅延",
         "reading": "チエン",
-        "meaning": "delay, latency"
+        "meaning": {
+          "en": "delay, latency"
+        },
+        "romaji": "chien"
       },
       {
         "example": "棲遅",
         "reading": "セイチ",
-        "meaning": "living in tranquility, retiring to the countryside, retirement house"
+        "meaning": {
+          "en": "living in tranquility, retiring to the countryside, retirement house"
+        },
+        "romaji": "seichi"
       },
       {
         "example": "巧遅",
         "reading": "コウチ",
-        "meaning": "elaborate but slow execution, polished but slow work"
+        "meaning": {
+          "vi": "elaborate but slow execution, polished but slow work"
+        },
+        "romaji": "kouchi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遅れる",
         "reading": "おくれる",
-        "meaning": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
+        "meaning": {
+          "vi": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
+        },
+        "romaji": "okureru"
       },
       {
         "example": "遅らす",
         "reading": "おくらす",
-        "meaning": "to delay, to postpone, to slow down, to retard"
+        "meaning": {
+          "vi": "to delay, to postpone, to slow down, to retard"
+        },
+        "romaji": "okurasu"
       },
       {
         "example": "遅い",
         "reading": "おそい",
-        "meaning": "slow, late, too late"
+        "meaning": {
+          "en": "slow, late, too late"
+        },
+        "romaji": "osoi"
       }
     ],
     "radical": {
@@ -384,5 +405,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09045.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9045.gif",
     "uri": "https://jisho.org/search/%E9%81%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "trì"
+  ]
 }

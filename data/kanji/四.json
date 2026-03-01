@@ -12,7 +12,7 @@
     "examples": [
       {
         "japanese": "四月（しがつ）",
-"meaning": {
+        "meaning": {
           "english": "April",
           "vietnamese": "tháng Tư"
         },
@@ -25,7 +25,7 @@
       },
       {
         "japanese": "四角（しかく）",
-"meaning": {
+        "meaning": {
           "english": "square",
           "vietnamese": "hình vuông"
         },
@@ -38,7 +38,7 @@
       },
       {
         "japanese": "四国（しこく）",
-"meaning": {
+        "meaning": {
           "english": "Shikoku",
           "vietnamese": "Shikoku"
         },
@@ -51,7 +51,7 @@
       },
       {
         "japanese": "四季（しき）",
-"meaning": {
+        "meaning": {
           "english": "four seasons",
           "vietnamese": "bốn mùa"
         },
@@ -64,7 +64,7 @@
       },
       {
         "japanese": "四時（よじ）",
-"meaning": {
+        "meaning": {
           "english": "4 o'clock",
           "vietnamese": "4 giờ"
         },
@@ -77,7 +77,7 @@
       },
       {
         "japanese": "四つ角（よつかど）",
-"meaning": {
+        "meaning": {
           "english": "crossroads",
           "vietnamese": "ngã tư"
         },
@@ -90,7 +90,7 @@
       },
       {
         "japanese": "四つ（よっつ）",
-"meaning": {
+        "meaning": {
           "english": "4 (objects)",
           "vietnamese": "4 (đồ vật)"
         },
@@ -103,7 +103,7 @@
       },
       {
         "japanese": "四日（よっか）",
-"meaning": {
+        "meaning": {
           "english": "4 days, 4th of the month",
           "vietnamese": "4 ngày, ngày 4 trong tháng"
         },
@@ -116,7 +116,7 @@
       },
       {
         "japanese": "四回（よんかい）",
-"meaning": {
+        "meaning": {
           "english": "4 times",
           "vietnamese": "4 lần"
         },
@@ -359,74 +359,116 @@
       {
         "example": "四",
         "reading": "シ",
-        "meaning": "four, 4"
+        "meaning": {
+          "en": "four, 4"
+        },
+        "romaji": "shi"
       },
       {
         "example": "４月",
         "reading": "シガツ",
-        "meaning": "April, fourth month in the lunar calendar"
+        "meaning": {
+          "vi": "April, fourth month in the lunar calendar"
+        },
+        "romaji": "shigatsu"
       },
       {
         "example": "十四",
         "reading": "ジュウシ",
-        "meaning": "fourteen, 14"
+        "meaning": {
+          "en": "fourteen, 14"
+        },
+        "romaji": "juushi"
       },
       {
         "example": "炭素１４",
         "reading": "タンソジュウシ",
-        "meaning": "carbon-14"
+        "meaning": {
+          "en": "carbon-14"
+        },
+        "romaji": "tansojuushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "四",
         "reading": "し",
-        "meaning": "four, 4"
+        "meaning": {
+          "en": "four, 4"
+        },
+        "romaji": "shi"
       },
       {
         "example": "四畳半",
         "reading": "よじょうはん",
-        "meaning": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+        "meaning": {
+          "vi": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+        },
+        "romaji": "yojouhan"
       },
       {
         "example": "四つ",
         "reading": "よっつ",
-        "meaning": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+        "meaning": {
+          "vi": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+        },
+        "romaji": "yottsu"
       },
       {
         "example": "四つ角",
         "reading": "よつかど",
-        "meaning": "four corners, crossroads, intersecting street, street corner"
+        "meaning": {
+          "en": "four corners, crossroads, intersecting street, street corner"
+        },
+        "romaji": "yotsukado"
       },
       {
         "example": "四つ",
         "reading": "よっつ",
-        "meaning": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+        "meaning": {
+          "vi": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+        },
+        "romaji": "yottsu"
       },
       {
         "example": "四つの自由",
         "reading": "よっつのじゆう",
-        "meaning": "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear)"
+        "meaning": {
+          "vi": "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear)"
+        },
+        "romaji": "yottsunojiyuu"
       },
       {
         "example": "四",
         "reading": "し",
-        "meaning": "four, 4"
+        "meaning": {
+          "en": "four, 4"
+        },
+        "romaji": "shi"
       },
       {
         "example": "４０",
         "reading": "よんじゅう",
-        "meaning": "forty, 40"
+        "meaning": {
+          "en": "forty, 40"
+        },
+        "romaji": "yonjuu"
       },
       {
         "example": "十四",
         "reading": "じゅうし",
-        "meaning": "fourteen, 14"
+        "meaning": {
+          "en": "fourteen, 14"
+        },
+        "romaji": "juushi"
       },
       {
         "example": "軽四",
         "reading": "けいよん",
-        "meaning": "four-wheeled light vehicle"
+        "meaning": {
+          "en": "four-wheeled light vehicle"
+        },
+        "romaji": "keiyon"
       }
     ],
     "radical": {
@@ -441,5 +483,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56db.gif",
     "uri": "https://jisho.org/search/%E5%9B%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tứ"
+  ]
 }

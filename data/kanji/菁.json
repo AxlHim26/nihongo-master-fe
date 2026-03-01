@@ -15,12 +15,18 @@
       {
         "example": "菁莪",
         "reading": "セイガ",
-        "meaning": "(enjoying) raising prodigies, nurturing talented people"
+        "meaning": {
+          "vi": "(enjoying) raising prodigies, nurturing talented people"
+        },
+        "romaji": "seiga"
       },
       {
         "example": "芫菁",
         "reading": "ゲンセイ",
-        "meaning": "blister beetle, cantharides"
+        "meaning": {
+          "en": "blister beetle, cantharides"
+        },
+        "romaji": "gensei"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83c1.gif",
     "uri": "https://jisho.org/search/%E8%8F%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiến",
+    "tinh"
+  ]
 }

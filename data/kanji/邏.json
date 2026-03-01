@@ -16,17 +16,26 @@
       {
         "example": "邏卒",
         "reading": "ラソツ",
-        "meaning": "serviceman on patrol, policeman (early Meiji era)"
+        "meaning": {
+          "vi": "serviceman on patrol, policeman (early Meiji era)"
+        },
+        "romaji": "rasotsu"
       },
       {
         "example": "警ら",
         "reading": "ケイラ",
-        "meaning": "patrol"
+        "meaning": {
+          "vi": "patrol"
+        },
+        "romaji": "keira"
       },
       {
         "example": "巡邏",
         "reading": "ジュンラ",
-        "meaning": "patrolling, making one's rounds"
+        "meaning": {
+          "vi": "patrolling, making one's rounds"
+        },
+        "romaji": "junra"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0908f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/908f.gif",
     "uri": "https://jisho.org/search/%E9%82%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "la"
+  ]
 }

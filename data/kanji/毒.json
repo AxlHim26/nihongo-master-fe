@@ -290,22 +290,34 @@
       {
         "example": "毒",
         "reading": "ドク",
-        "meaning": "poison, toxicant, harm, evil influence, ill will, spite, malice, abusive language"
+        "meaning": {
+          "vi": "poison, toxicant, harm, evil influence, ill will, spite, malice, abusive language"
+        },
+        "romaji": "doku"
       },
       {
         "example": "毒ガス",
         "reading": "ドクガス",
-        "meaning": "poison gas"
+        "meaning": {
+          "vi": "poison gas"
+        },
+        "romaji": "dokugasu"
       },
       {
         "example": "消毒",
         "reading": "ショウドク",
-        "meaning": "disinfection, sterilization, sterilisation"
+        "meaning": {
+          "en": "disinfection, sterilization, sterilisation"
+        },
+        "romaji": "shoudoku"
       },
       {
         "example": "防毒",
         "reading": "ボウドク",
-        "meaning": "gasproofing"
+        "meaning": {
+          "vi": "gasproofing"
+        },
+        "romaji": "boudoku"
       }
     ],
     "kunyomiExamples": [],
@@ -328,5 +340,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bd2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bd2.gif",
     "uri": "https://jisho.org/search/%E6%AF%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "đại",
+    "đốc",
+    "độc"
+  ]
 }

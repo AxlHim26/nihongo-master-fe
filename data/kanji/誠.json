@@ -264,39 +264,60 @@
       {
         "example": "誠実",
         "reading": "セイジツ",
-        "meaning": "sincere, honest, faithful"
+        "meaning": {
+          "en": "sincere, honest, faithful"
+        },
+        "romaji": "seijitsu"
       },
       {
         "example": "誠意",
         "reading": "セイイ",
-        "meaning": "sincerity, good faith"
+        "meaning": {
+          "en": "sincerity, good faith"
+        },
+        "romaji": "seii"
       },
       {
         "example": "至誠",
         "reading": "シセイ",
-        "meaning": "sincerity, devotion"
+        "meaning": {
+          "en": "sincerity, devotion"
+        },
+        "romaji": "shisei"
       },
       {
         "example": "赤誠",
         "reading": "セキセイ",
-        "meaning": "sincerity, true heart, devotion"
+        "meaning": {
+          "en": "sincerity, true heart, devotion"
+        },
+        "romaji": "sekisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誠",
         "reading": "まこと",
-        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "makoto"
       },
       {
         "example": "誠に",
         "reading": "まことに",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "makotoni"
       },
       {
         "example": "嘘から出たまこと",
         "reading": "うそからでたまこと",
-        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        "meaning": {
+          "vi": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        },
+        "romaji": "usokaradetamakoto"
       }
     ],
     "radical": {
@@ -315,5 +336,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa0.gif",
     "uri": "https://jisho.org/search/%E8%AA%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thành"
+  ]
 }

@@ -16,24 +16,36 @@
       {
         "example": "蛇蠍",
         "reading": "ダカツ",
-        "meaning": "serpent (snake) and scorpion, detestation"
+        "meaning": {
+          "vi": "serpent (snake) and scorpion, detestation"
+        },
+        "romaji": "dakatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蠍",
         "reading": "さそり",
-        "meaning": "scorpion (Scorpiones spp.)"
+        "meaning": {
+          "vi": "scorpion (Scorpiones spp.)"
+        },
+        "romaji": "sasori"
       },
       {
         "example": "サソリ固め",
         "reading": "さそりがため",
-        "meaning": "sharpshooter, scorpion hold, scorpion deathlock"
+        "meaning": {
+          "vi": "sharpshooter, scorpion hold, scorpion deathlock"
+        },
+        "romaji": "sasorigatame"
       },
       {
         "example": "海蠍",
         "reading": "うみさそり",
-        "meaning": "eurypterid"
+        "meaning": {
+          "vi": "eurypterid"
+        },
+        "romaji": "umisasori"
       }
     ],
     "radical": {
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0880d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/880d.gif",
     "uri": "https://jisho.org/search/%E8%A0%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiết",
+    "yết"
+  ]
 }

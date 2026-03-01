@@ -313,29 +313,44 @@
       {
         "example": "泣訴",
         "reading": "キュウソ",
-        "meaning": "imploring with tears in one's eyes"
+        "meaning": {
+          "vi": "imploring with tears in one's eyes"
+        },
+        "romaji": "kyuuso"
       },
       {
         "example": "号泣",
         "reading": "ゴウキュウ",
-        "meaning": "crying loudly, bawling, wailing, lamentation, crying one's eyes out (without making noise), breaking into a flood of tears, crying buckets, weeping"
+        "meaning": {
+          "vi": "crying loudly, bawling, wailing, lamentation, crying one's eyes out (without making noise), breaking into a flood of tears, crying buckets, weeping"
+        },
+        "romaji": "goukyuu"
       },
       {
         "example": "哀泣",
         "reading": "アイキュウ",
-        "meaning": "crying with sadness"
+        "meaning": {
+          "en": "crying with sadness"
+        },
+        "romaji": "aikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泣く",
         "reading": "なく",
-        "meaning": "to cry, to shed tears, to weep, to sob, to suffer (from), to be troubled (by), to face hardship, to accept (an unreasonable request, loss, etc.), to do reluctantly, to make sacrifices, to be not worth worth the name, to suffer (of a reputation), to be spoiled, to be put to shame, to lament, to bemoan, to bewail"
+        "meaning": {
+          "vi": "to cry, to shed tears, to weep, to sob, to suffer (from), to be troubled (by), to face hardship, to accept (an unreasonable request, loss, etc.), to do reluctantly, to make sacrifices, to be not worth worth the name, to suffer (of a reputation), to be spoiled, to be put to shame, to lament, to bemoan, to bewail"
+        },
+        "romaji": "naku"
       },
       {
         "example": "泣く子と地頭には勝てない",
         "reading": "なくことじとうにはかてない",
-        "meaning": "you cannot win against someone who doesn't listen to reason, you can't fight City Hall"
+        "meaning": {
+          "en": "you cannot win against someone who doesn't listen to reason, you can't fight City Hall"
+        },
+        "romaji": "nakukotojitounihakatenai"
       }
     ],
     "radical": {
@@ -354,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce3.gif",
     "uri": "https://jisho.org/search/%E6%B3%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "khấp"
+  ]
 }

@@ -12,16 +12,19 @@
     "examples": [
       {
         "japanese": "乱闘（らんとう）",
-"meaning": {
-        "english": "fight, scuffle",
-        "vietnamese": "đánh nhau, ẩu đả"
-      },
+        "meaning": {
+          "english": "fight, scuffle",
+          "vietnamese": "đánh nhau, ẩu đả"
+        },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mida(su)_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_a.mp3"
-        }
+        },
+        "meaningVN": "đánh nhau, xô xát",
+        "hanViet": "loạn đấu",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 闘 (đấu: tranh đấu) → đánh nhau, xô xát"
       },
       {
         "japanese": "乱開発（らんかいはつ）",
@@ -34,7 +37,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_b.mp3"
-        }
+        },
+        "meaningVN": "phát triển gây tổn hại đến môi trường",
+        "hanViet": "loạn khai phát",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 開 (khai: mở ra) + 発 (phát: Hán văn Nhật Bản dùng như chữ 發) → phát triển gây tổn hại đến môi trường"
       },
       {
         "japanese": "乱気流（らんきりゅう）",
@@ -47,7 +53,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_c.mp3"
-        }
+        },
+        "meaningVN": "nhiễu loạn không khí",
+        "hanViet": "loạn khí lưu",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 気 (khí: khí, hơi) + 流 (lưu: dòng nước) → nhiễu loạn không khí"
       },
       {
         "japanese": "内乱（ないらん）",
@@ -60,7 +69,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_d.mp3"
-        }
+        },
+        "meaningVN": "nội chiến, nổi dậy, nổi dậy",
+        "hanViet": "nạp loạn",
+        "hanVietExplain": "内 (nạp: bên trong) + 乱 (loạn: lẫn lộn) → nội chiến, nổi dậy, nổi dậy"
       },
       {
         "japanese": "反乱（はんらん）",
@@ -73,7 +85,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_e.mp3"
-        }
+        },
+        "meaningVN": "cuộc nổi dậy, cuộc nổi loạn, cuộc nổi dậy",
+        "hanViet": "phiên loạn",
+        "hanVietExplain": "反 (phiên: ngược) + 乱 (loạn: lẫn lộn) → cuộc nổi dậy, cuộc nổi loạn, cuộc nổi dậy"
       },
       {
         "japanese": "波乱万丈（はらんばんじょう）",
@@ -86,7 +101,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_f.mp3"
-        }
+        },
+        "meaningVN": "đầy thăng trầm",
+        "hanViet": "ba loạn mặc trượng",
+        "hanVietExplain": "波 (ba: sóng nhỏ) + 乱 (loạn: lẫn lộn) + 万 (mặc: (tên riêng)) + 丈 (trượng: đơn vị đo (bằng 10 thước)) → đầy thăng trầm"
       },
       {
         "japanese": "乱雑な（らんざつな）",
@@ -99,7 +117,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_g.mp3"
-        }
+        },
+        "meaningVN": "hỗn loạn, bối rối",
+        "hanViet": "loạn tạp な",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 雑 (tạp: ?) → hỗn loạn, bối rối"
       },
       {
         "japanese": "乱暴な（らんぼうな）",
@@ -112,7 +133,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_h.mp3"
-        }
+        },
+        "meaningVN": "thô lỗ, bạo lực, thô bạo, vô luật pháp",
+        "hanViet": "loạn bão な",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 暴 (bão: giông bão) → thô lỗ, bạo lực, thô bạo, vô luật pháp"
       },
       {
         "japanese": "乱読する（らんどくする）",
@@ -125,7 +149,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_i.mp3"
-        }
+        },
+        "meaningVN": "đọc không có hệ thống",
+        "hanViet": "loạn đậu す る",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 読 (đậu: ?) → đọc không có hệ thống"
       },
       {
         "japanese": "混乱する（こんらんする）",
@@ -138,7 +165,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_j.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_j.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_j.mp3"
-        }
+        },
+        "meaningVN": "trở nên bối rối, hỗn loạn",
+        "hanViet": "côn loạn す る",
+        "hanVietExplain": "混 (côn: lẫn lộn) + 乱 (loạn: lẫn lộn) → trở nên bối rối, hỗn loạn"
       },
       {
         "japanese": "乱す（みだす）",
@@ -151,7 +181,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_k.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_k.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_k.mp3"
-        }
+        },
+        "meaningVN": "làm phiền, làm mất trật tự [v.t.]",
+        "hanViet": "loạn す",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại"
       },
       {
         "japanese": "乱れる（みだれる）",
@@ -164,7 +197,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mida(su)_06_l.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mida(su)_06_l.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mida(su)_06_l.mp3"
-        }
+        },
+        "meaningVN": "trở nên rối loạn, hỗn loạn [v.i.]",
+        "hanViet": "loạn れ る",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại"
       }
     ],
     "kunyomi_ja": "みだ、みだれる、みだす、みだれ",
@@ -355,49 +391,103 @@
       {
         "example": "乱",
         "reading": "ラン",
-        "meaning": "nổi dậy, khởi nghĩa, chiến tranh"
+        "meaning": {
+          "vi": "nổi dậy, khởi nghĩa, chiến tranh"
+        },
+        "meaningVN": "nổi dậy, khởi nghĩa, chiến tranh",
+        "hanViet": "loạn",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại",
+        "romaji": "ran"
       },
       {
         "example": "乱獲",
         "reading": "ランカク",
-        "meaning": "đánh bắt quá mức, săn bắn quá mức, đánh bắt/săn bắn bừa bãi"
+        "meaning": {
+          "vi": "đánh bắt quá mức, săn bắn quá mức, đánh bắt/săn bắn bừa bãi"
+        },
+        "meaningVN": "đánh bắt quá mức, săn bắn quá mức, đánh bắt/săn bắn bừa bãi",
+        "hanViet": "loạn hoạch",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 獲 (hoạch: bắt được, có được) → đánh bắt quá mức, săn bắn quá mức, đánh bắt/săn bắn bừa bãi",
+        "romaji": "rankaku"
       },
       {
         "example": "動乱",
         "reading": "ドウラン",
-        "meaning": "rối loạn, biến động, bất ổn, chiến tranh, bạo loạn"
+        "meaning": {
+          "vi": "rối loạn, biến động, bất ổn, chiến tranh, bạo loạn"
+        },
+        "meaningVN": "rối loạn, biến động, bất ổn, chiến tranh, bạo loạn",
+        "hanViet": "động loạn",
+        "hanVietExplain": "動 (động: động đậy, cử động, hoạt động) + 乱 (loạn: lẫn lộn) → rối loạn, biến động, bất ổn, chiến tranh, bạo loạn",
+        "romaji": "douran"
       },
       {
         "example": "騒乱",
         "reading": "ソウラン",
-        "meaning": "rối loạn, bạo loạn, hỗn loạn"
+        "meaning": {
+          "vi": "rối loạn, bạo loạn, hỗn loạn"
+        },
+        "meaningVN": "rối loạn, bạo loạn, hỗn loạn",
+        "hanViet": "tao loạn",
+        "hanVietExplain": "騒 (tao: ?) + 乱 (loạn: lẫn lộn) → rối loạn, bạo loạn, hỗn loạn",
+        "romaji": "souran"
       },
       {
         "example": "胡乱",
         "reading": "ウロン",
-        "meaning": "đáng ngờ, khả nghi"
+        "meaning": {
+          "vi": "đáng ngờ, khả nghi"
+        },
+        "meaningVN": "đáng ngờ, khả nghi",
+        "hanViet": "hồ loạn",
+        "hanVietExplain": "胡 (hồ: yếm cổ (thịt dưới cổ)) + 乱 (loạn: lẫn lộn) → đáng ngờ, khả nghi",
+        "romaji": "uron"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乱れる",
         "reading": "みだれる",
-        "meaning": "bị rối loạn, bị xáo trộn, rối bời, xù xì, bối rối, bị quấy rối, rơi vào hỗn loạn (do chiến tranh, v.v.)"
+        "meaning": {
+          "vi": "bị rối loạn, bị xáo trộn, rối bời, xù xì, bối rối, bị quấy rối, rơi vào hỗn loạn (do chiến tranh, v.v.)"
+        },
+        "meaningVN": "bị rối loạn, bị xáo trộn, rối bời, xù xì, bối rối, bị quấy rối, rơi vào hỗn loạn (do chiến tranh, v.v.)",
+        "hanViet": "loạn れ る",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại",
+        "romaji": "midareru"
       },
       {
         "example": "乱す",
         "reading": "みだす",
-        "meaning": "làm rối loạn, xáo trộn, quấy rối (trật tự, hòa bình...), làm băng hoại (đạo đức), làm xù tóc"
+        "meaning": {
+          "vi": "làm rối loạn, xáo trộn, quấy rối (trật tự, hòa bình...), làm băng hoại (đạo đức), làm xù tóc"
+        },
+        "meaningVN": "làm rối loạn, xáo trộn, quấy rối (trật tự, hòa bình...), làm băng hoại (đạo đức), làm xù tóc",
+        "hanViet": "loạn す",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại",
+        "romaji": "midasu"
       },
       {
         "example": "乱れる",
         "reading": "みだれる",
-        "meaning": "bị rối loạn, bị xáo trộn, rối bời, xù xì, bối rối, bị quấy rối, rơi vào hỗn loạn (do chiến tranh, v.v.)"
+        "meaning": {
+          "vi": "bị rối loạn, bị xáo trộn, rối bời, xù xì, bối rối, bị quấy rối, rơi vào hỗn loạn (do chiến tranh, v.v.)"
+        },
+        "meaningVN": "bị rối loạn, bị xáo trộn, rối bời, xù xì, bối rối, bị quấy rối, rơi vào hỗn loạn (do chiến tranh, v.v.)",
+        "hanViet": "loạn れ る",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại",
+        "romaji": "midareru"
       },
       {
         "example": "乱れ",
         "reading": "みだれ",
-        "meaning": "rối loạn, xáo trộn, bất ổn"
+        "meaning": {
+          "vi": "rối loạn, xáo trộn, bất ổn"
+        },
+        "meaningVN": "rối loạn, xáo trộn, bất ổn",
+        "hanViet": "loạn れ",
+        "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại",
+        "romaji": "midare"
       }
     ],
     "radical": {
@@ -418,5 +508,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e71.gif",
     "uri": "https://jisho.org/search/%E4%B9%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "loạn"
+  ],
+  "meaningVN": "hỗn loạn, náo loạn, hỗn loạn",
+  "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại"
 }

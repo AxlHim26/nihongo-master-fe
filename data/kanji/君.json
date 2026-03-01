@@ -296,44 +296,68 @@
       {
         "example": "君",
         "reading": "クン",
-        "meaning": "Mr, master, boy, Ms, miss, sir, madam"
+        "meaning": {
+          "en": "Mr, master, boy, Ms, miss, sir, madam"
+        },
+        "romaji": "kun"
       },
       {
         "example": "君子",
         "reading": "クンシ",
-        "meaning": "man of virtue, wise man, (true) gentleman, person of high rank, the four gentlemen (plum, chrysanthemum, orchid, and bamboo)"
+        "meaning": {
+          "vi": "man of virtue, wise man, (true) gentleman, person of high rank, the four gentlemen (plum, chrysanthemum, orchid, and bamboo)"
+        },
+        "romaji": "kunshi"
       },
       {
         "example": "夫君",
         "reading": "フクン",
-        "meaning": "(another's) husband"
+        "meaning": {
+          "en": "(another's) husband"
+        },
+        "romaji": "fukun"
       },
       {
         "example": "名君",
         "reading": "メイクン",
-        "meaning": "wise ruler, enlightened monarch, benevolent lord"
+        "meaning": {
+          "en": "wise ruler, enlightened monarch, benevolent lord"
+        },
+        "romaji": "meikun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "君",
         "reading": "きみ",
-        "meaning": "you, buddy, pal, monarch, ruler, sovereign, (one's) master, he, she"
+        "meaning": {
+          "vi": "you, buddy, pal, monarch, ruler, sovereign, (one's) master, he, she"
+        },
+        "romaji": "kimi"
       },
       {
         "example": "君が代",
         "reading": "きみがよ",
-        "meaning": "Imperial reign, Kimigayo (Japanese national anthem)"
+        "meaning": {
+          "vi": "Imperial reign, Kimigayo (Japanese national anthem)"
+        },
+        "romaji": "kimigayo"
       },
       {
         "example": "大君",
         "reading": "おおきみ",
-        "meaning": "emperor, prince, princess"
+        "meaning": {
+          "vi": "emperor, prince, princess"
+        },
+        "romaji": "ookimi"
       },
       {
         "example": "嫁が君",
         "reading": "よめがきみ",
-        "meaning": "mouse"
+        "meaning": {
+          "en": "mouse"
+        },
+        "romaji": "yomegakimi"
       }
     ],
     "radical": {
@@ -350,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541b.gif",
     "uri": "https://jisho.org/search/%E5%90%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "quân"
+  ]
 }

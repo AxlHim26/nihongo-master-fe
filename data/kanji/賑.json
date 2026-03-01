@@ -19,34 +19,52 @@
       {
         "example": "殷賑",
         "reading": "インシン",
-        "meaning": "prosperity"
+        "meaning": {
+          "vi": "prosperity"
+        },
+        "romaji": "inshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "賑わい",
         "reading": "にぎわい",
-        "meaning": "prosperity, bustle, activity, crowd, turnout"
+        "meaning": {
+          "vi": "prosperity, bustle, activity, crowd, turnout"
+        },
+        "romaji": "nigiwai"
       },
       {
         "example": "賑やか",
         "reading": "にぎやか",
-        "meaning": "bustling, busy, crowded, lively, prosperous, thriving, lively (party, voices, etc.), loud, noisy, merry, cheerful"
+        "meaning": {
+          "vi": "bustling, busy, crowded, lively, prosperous, thriving, lively (party, voices, etc.), loud, noisy, merry, cheerful"
+        },
+        "romaji": "nigiyaka"
       },
       {
         "example": "賑やかさ",
         "reading": "にぎやかさ",
-        "meaning": "business, liveliness"
+        "meaning": {
+          "en": "business, liveliness"
+        },
+        "romaji": "nigiyakasa"
       },
       {
         "example": "賑わす",
         "reading": "にぎわす",
-        "meaning": "to enliven, to liven up, to cause a stir in (e.g. the newspapers), to hit (the front page, headlines, etc.), to make prosperous"
+        "meaning": {
+          "vi": "to enliven, to liven up, to cause a stir in (e.g. the newspapers), to hit (the front page, headlines, etc.), to make prosperous"
+        },
+        "romaji": "nigiwasu"
       },
       {
         "example": "賑わう",
         "reading": "にぎわう",
-        "meaning": "to be crowded with people, to be bustling with, to prosper, to flourish, to do thriving business"
+        "meaning": {
+          "vi": "to be crowded with people, to be bustling with, to prosper, to flourish, to do thriving business"
+        },
+        "romaji": "nigiwau"
       }
     ],
     "radical": {
@@ -64,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cd1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cd1.gif",
     "uri": "https://jisho.org/search/%E8%B3%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "chẩn"
+  ]
 }

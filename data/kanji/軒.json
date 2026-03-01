@@ -278,34 +278,52 @@
       {
         "example": "軒",
         "reading": "ケン",
-        "meaning": "counter for buildings (esp. houses), suffix for a pen name, stage name, etc."
+        "meaning": {
+          "vi": "counter for buildings (esp. houses), suffix for a pen name, stage name, etc."
+        },
+        "romaji": "ken"
       },
       {
         "example": "軒昂",
         "reading": "ケンコウ",
-        "meaning": "high-spirited, in high spirits"
+        "meaning": {
+          "vi": "high-spirited, in high spirits"
+        },
+        "romaji": "kenkou"
       },
       {
         "example": "一軒一軒",
         "reading": "イッケンイッケン",
-        "meaning": "each house, every house, house to house, door to door"
+        "meaning": {
+          "en": "each house, every house, house to house, door to door"
+        },
+        "romaji": "ikken'ikken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "軒",
         "reading": "のき",
-        "meaning": "eaves, narrow aisle surrounding the core of a temple building"
+        "meaning": {
+          "vi": "eaves, narrow aisle surrounding the core of a temple building"
+        },
+        "romaji": "noki"
       },
       {
         "example": "軒並み",
         "reading": "のきなみ",
-        "meaning": "row of houses, every house, each house, every door, all, totally, altogether, across the board"
+        "meaning": {
+          "en": "row of houses, every house, each house, every door, all, totally, altogether, across the board"
+        },
+        "romaji": "nokinami"
       },
       {
         "example": "傍軒",
         "reading": "そばのき",
-        "meaning": "barge course"
+        "meaning": {
+          "en": "barge course"
+        },
+        "romaji": "sobanoki"
       }
     ],
     "radical": {
@@ -320,5 +338,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ed2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ed2.gif",
     "uri": "https://jisho.org/search/%E8%BB%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiên",
+    "hiến"
+  ]
 }

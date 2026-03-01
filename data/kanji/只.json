@@ -18,24 +18,36 @@
       {
         "example": "只管打坐",
         "reading": "シカンタザ",
-        "meaning": "chỉ quán đả tọa, phương pháp thiền định tập trung cao độ không hướng vào đối tượng cụ thể"
+        "meaning": {
+          "vi": "chỉ quán đả tọa, phương pháp thiền định tập trung cao độ không hướng vào đối tượng cụ thể"
+        },
+        "romaji": "shikantaza"
       },
       {
         "example": "只今",
         "reading": "シコン",
-        "meaning": "vừa mới đây"
+        "meaning": {
+          "vi": "vừa mới đây"
+        },
+        "romaji": "shikon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "只",
         "reading": "ただ",
-        "meaning": "bình thường, thông thường, miễn phí, không bị ảnh hưởng, an toàn, chỉ, đơn thuần, nhưng, tuy nhiên"
+        "meaning": {
+          "vi": "bình thường, thông thường, miễn phí, không bị ảnh hưởng, an toàn, chỉ, đơn thuần, nhưng, tuy nhiên"
+        },
+        "romaji": "tada"
       },
       {
         "example": "只今",
         "reading": "ただいま",
-        "meaning": "tôi về rồi!, bây giờ, hiện tại, vừa mới, ngay lập tức, một lát nữa, sắp"
+        "meaning": {
+          "vi": "tôi về rồi!, bây giờ, hiện tại, vừa mới, ngay lập tức, một lát nữa, sắp"
+        },
+        "romaji": "tadaima"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ea.gif",
     "uri": "https://jisho.org/search/%E5%8F%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chích",
+    "chỉ"
+  ]
 }

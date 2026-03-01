@@ -332,54 +332,84 @@
       {
         "example": "先",
         "reading": "セン",
-        "meaning": "former, previous, old, first move (in go, shogi, etc.), opening move"
+        "meaning": {
+          "vi": "former, previous, old, first move (in go, shogi, etc.), opening move"
+        },
+        "romaji": "sen"
       },
       {
         "example": "先駆",
         "reading": "センク",
-        "meaning": "forerunner, precursor, pioneer, leader, outrider, outriding"
+        "meaning": {
+          "vi": "forerunner, precursor, pioneer, leader, outrider, outriding"
+        },
+        "romaji": "senku"
       },
       {
         "example": "機先",
         "reading": "キセン",
-        "meaning": "forestall"
+        "meaning": {
+          "en": "forestall"
+        },
+        "romaji": "kisen"
       },
       {
         "example": "互先",
         "reading": "タガイセン",
-        "meaning": "even game (esp. in go)"
+        "meaning": {
+          "vi": "even game (esp. in go)"
+        },
+        "romaji": "tagaisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "先",
         "reading": "さき",
-        "meaning": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party"
+        "meaning": {
+          "vi": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party"
+        },
+        "romaji": "saki"
       },
       {
         "example": "先行き",
         "reading": "さきゆき",
-        "meaning": "the future, future prospects"
+        "meaning": {
+          "vi": "the future, future prospects"
+        },
+        "romaji": "sakiyuki"
       },
       {
         "example": "口先",
         "reading": "くちさき",
-        "meaning": "lip service, mere words, professions, lips, mouth, snout, proboscis"
+        "meaning": {
+          "vi": "lip service, mere words, professions, lips, mouth, snout, proboscis"
+        },
+        "romaji": "kuchisaki"
       },
       {
         "example": "矛先",
         "reading": "ほこさき",
-        "meaning": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+        "meaning": {
+          "vi": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+        },
+        "romaji": "hokosaki"
       },
       {
         "example": "先ず",
         "reading": "まず",
-        "meaning": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being"
+        "meaning": {
+          "vi": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being"
+        },
+        "romaji": "mazu"
       },
       {
         "example": "先ず隗より始めよ",
         "reading": "まずかいよりはじめよ",
-        "meaning": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
+        "meaning": {
+          "vi": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
+        },
+        "romaji": "mazukaiyorihajimeyo"
       }
     ],
     "radical": {
@@ -395,5 +425,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05148.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5148.gif",
     "uri": "https://jisho.org/search/%E5%85%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiên",
+    "tiến"
+  ]
 }

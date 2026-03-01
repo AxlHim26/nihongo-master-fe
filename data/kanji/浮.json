@@ -345,44 +345,68 @@
       {
         "example": "浮沈",
         "reading": "フチン",
-        "meaning": "floating and sinking, rise and fall, ebb and flow, ups and downs"
+        "meaning": {
+          "vi": "floating and sinking, rise and fall, ebb and flow, ups and downs"
+        },
+        "romaji": "fuchin"
       },
       {
         "example": "浮上",
         "reading": "フジョウ",
-        "meaning": "surfacing, rising to the surface, emerging, leaping into prominence, rising (of rank)"
+        "meaning": {
+          "vi": "surfacing, rising to the surface, emerging, leaping into prominence, rising (of rank)"
+        },
+        "romaji": "fujou"
       },
       {
         "example": "軽浮",
         "reading": "ケイフ",
-        "meaning": "fickle, frivolous"
+        "meaning": {
+          "en": "fickle, frivolous"
+        },
+        "romaji": "keifu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浮く",
         "reading": "うく",
-        "meaning": "to float, to become merry, to be cheerful, to become loose, to become unsteady, to feel out of it, to be cut off (e.g. from those around you), to feel out of place, to be frivolous, to be uncertain, to have (time, money, etc.) left over, to be saved (e.g. money), to have no basis, to be unreliable"
+        "meaning": {
+          "vi": "to float, to become merry, to be cheerful, to become loose, to become unsteady, to feel out of it, to be cut off (e.g. from those around you), to feel out of place, to be frivolous, to be uncertain, to have (time, money, etc.) left over, to be saved (e.g. money), to have no basis, to be unreliable"
+        },
+        "romaji": "uku"
       },
       {
         "example": "浮かれる",
         "reading": "うかれる",
-        "meaning": "to make merry, to be festive"
+        "meaning": {
+          "en": "to make merry, to be festive"
+        },
+        "romaji": "ukareru"
       },
       {
         "example": "浮かぶ",
         "reading": "うかぶ",
-        "meaning": "to float, to be suspended, to rise to the surface, to appear, to emerge, to show up, to loom (up), to come to mind, to have inspiration"
+        "meaning": {
+          "vi": "to float, to be suspended, to rise to the surface, to appear, to emerge, to show up, to loom (up), to come to mind, to have inspiration"
+        },
+        "romaji": "ukabu"
       },
       {
         "example": "浮かぶ瀬",
         "reading": "うかぶせ",
-        "meaning": "chance, opportunity, lucky break"
+        "meaning": {
+          "vi": "chance, opportunity, lucky break"
+        },
+        "romaji": "ukabuse"
       },
       {
         "example": "浮かべる",
         "reading": "うかべる",
-        "meaning": "to float, to set afloat, to launch, to show on one's face (smile, sadness, etc.), to recall, to call to mind, to imagine, to think of"
+        "meaning": {
+          "en": "to float, to set afloat, to launch, to show on one's face (smile, sadness, etc.), to recall, to call to mind, to imagine, to think of"
+        },
+        "romaji": "ukaberu"
       }
     ],
     "radical": {
@@ -402,5 +426,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6e.gif",
     "uri": "https://jisho.org/search/%E6%B5%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phù"
+  ]
 }

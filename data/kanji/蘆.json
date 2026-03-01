@@ -17,49 +17,76 @@
       {
         "example": "蘆薈",
         "reading": "ロカイ",
-        "meaning": "aloe"
+        "meaning": {
+          "en": "aloe"
+        },
+        "romaji": "rokai"
       },
       {
         "example": "盧溝橋",
         "reading": "ロコウキョウ",
-        "meaning": "Marco Polo Bridge (China)"
+        "meaning": {
+          "vi": "Marco Polo Bridge (China)"
+        },
+        "romaji": "rokoukyou"
       },
       {
         "example": "葫蘆",
         "reading": "コロ",
-        "meaning": "calabash (Lagenaria siceraria)"
+        "meaning": {
+          "en": "calabash (Lagenaria siceraria)"
+        },
+        "romaji": "koro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葦",
         "reading": "あし",
-        "meaning": "common reed (Phragmites australis)"
+        "meaning": {
+          "vi": "common reed (Phragmites australis)"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "芦毛",
         "reading": "あしげ",
-        "meaning": "dapple-grey (gray) (horse coat colour)"
+        "meaning": {
+          "vi": "dapple-grey (gray) (horse coat colour)"
+        },
+        "romaji": "ashige"
       },
       {
         "example": "青葦",
         "reading": "あおあし",
-        "meaning": "lush waterside reeds"
+        "meaning": {
+          "en": "lush waterside reeds"
+        },
+        "romaji": "aoashi"
       },
       {
         "example": "枯葦",
         "reading": "かれあし",
-        "meaning": "withered reeds (esp. reeds that have withered in the winter)"
+        "meaning": {
+          "vi": "withered reeds (esp. reeds that have withered in the winter)"
+        },
+        "romaji": "kareashi"
       },
       {
         "example": "葦",
         "reading": "あし",
-        "meaning": "common reed (Phragmites australis)"
+        "meaning": {
+          "vi": "common reed (Phragmites australis)"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "葦笛",
         "reading": "あしぶえ",
-        "meaning": "reed pipe, reed flute"
+        "meaning": {
+          "vi": "reed pipe, reed flute"
+        },
+        "romaji": "ashibue"
       }
     ],
     "radical": {
@@ -82,5 +109,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08606.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8606.gif",
     "uri": "https://jisho.org/search/%E8%98%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô",
+    "lư"
+  ]
 }

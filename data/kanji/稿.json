@@ -20,22 +20,34 @@
       {
         "example": "稿",
         "reading": "コウ",
-        "meaning": "manuscript, version, draft"
+        "meaning": {
+          "vi": "manuscript, version, draft"
+        },
+        "romaji": "kou"
       },
       {
         "example": "稿料",
         "reading": "コウリョウ",
-        "meaning": "manuscript fee, payment for a piece of writing"
+        "meaning": {
+          "vi": "manuscript fee, payment for a piece of writing"
+        },
+        "romaji": "kouryou"
       },
       {
         "example": "送稿",
         "reading": "ソウコウ",
-        "meaning": "document transmission"
+        "meaning": {
+          "en": "document transmission"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "遺稿",
         "reading": "イコウ",
-        "meaning": "posthumous manuscripts"
+        "meaning": {
+          "vi": "posthumous manuscripts"
+        },
+        "romaji": "ikou"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a3f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a3f.gif",
     "uri": "https://jisho.org/search/%E7%A8%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảo"
+  ]
 }

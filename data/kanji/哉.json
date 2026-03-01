@@ -18,34 +18,52 @@
       {
         "example": "快哉",
         "reading": "カイサイ",
-        "meaning": "joy, exultation"
+        "meaning": {
+          "en": "joy, exultation"
+        },
+        "romaji": "kaisai"
       },
       {
         "example": "悦哉",
         "reading": "エッサイ",
-        "meaning": "musket (male Japanese sparrowhawk)"
+        "meaning": {
+          "vi": "musket (male Japanese sparrowhawk)"
+        },
+        "romaji": "essai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "哉",
         "reading": "かな",
-        "meaning": "how!, what!, alas!"
+        "meaning": {
+          "en": "how!, what!, alas!"
+        },
+        "romaji": "kana"
       },
       {
         "example": "悲しいかな",
         "reading": "かなしいかな",
-        "meaning": "sad to say, how sad, alas"
+        "meaning": {
+          "en": "sad to say, how sad, alas"
+        },
+        "romaji": "kanashiikana"
       },
       {
         "example": "善い哉",
         "reading": "よいかな",
-        "meaning": "well done!, bravo!"
+        "meaning": {
+          "en": "well done!, bravo!"
+        },
+        "romaji": "yoikana"
       },
       {
         "example": "候哉",
         "reading": "そうろうや",
-        "meaning": "I wonder if ..."
+        "meaning": {
+          "en": "I wonder if ..."
+        },
+        "romaji": "sourouya"
       }
     ],
     "radical": {
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c9.gif",
     "uri": "https://jisho.org/search/%E5%93%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tai"
+  ]
 }

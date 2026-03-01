@@ -26,89 +26,140 @@
       {
         "example": "爾汝",
         "reading": "ジジョ",
-        "meaning": "you, thou"
+        "meaning": {
+          "en": "you, thou"
+        },
+        "romaji": "jijo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汝",
         "reading": "なんじ",
-        "meaning": "thou, you"
+        "meaning": {
+          "en": "thou, you"
+        },
+        "romaji": "nanji"
       },
       {
         "example": "汝自身を知れ",
         "reading": "なんじじしんをしれ",
-        "meaning": "Know thyself"
+        "meaning": {
+          "en": "Know thyself"
+        },
+        "romaji": "nanjijishinwoshire"
       },
       {
         "example": "汝",
         "reading": "なむち",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "namuchi"
       },
       {
         "example": "汝",
         "reading": "い",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "i"
       },
       {
         "example": "汝",
         "reading": "いまし",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "imashi"
       },
       {
         "example": "汝",
         "reading": "うぬ",
-        "meaning": "blockhead!, you"
+        "meaning": {
+          "en": "blockhead!, you"
+        },
+        "romaji": "unu"
       },
       {
         "example": "汝等",
         "reading": "うぬら",
-        "meaning": "ye, you, me, I, us, we"
+        "meaning": {
+          "en": "ye, you, me, I, us, we"
+        },
+        "romaji": "unura"
       },
       {
         "example": "汝",
         "reading": "いまし",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "imashi"
       },
       {
         "example": "其",
         "reading": "し",
-        "meaning": "that, you, oneself, themself"
+        "meaning": {
+          "en": "that, you, oneself, themself"
+        },
+        "romaji": "shi"
       },
       {
         "example": "汝",
         "reading": "い",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "i"
       },
       {
         "example": "汝",
         "reading": "い",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "i"
       },
       {
         "example": "己",
         "reading": "な",
-        "meaning": "I, you"
+        "meaning": {
+          "en": "I, you"
+        },
+        "romaji": "na"
       },
       {
         "example": "汝",
         "reading": "なむち",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "namuchi"
       },
       {
         "example": "汝",
         "reading": "なむち",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "namuchi"
       },
       {
         "example": "汝",
         "reading": "なむち",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "namuchi"
       },
       {
         "example": "汝",
         "reading": "みまし",
-        "meaning": "you"
+        "meaning": {
+          "en": "you"
+        },
+        "romaji": "mimashi"
       }
     ],
     "radical": {
@@ -127,5 +178,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c5d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c5d.gif",
     "uri": "https://jisho.org/search/%E6%B1%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhữ"
+  ]
 }

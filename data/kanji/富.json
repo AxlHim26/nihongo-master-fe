@@ -305,59 +305,92 @@
       {
         "example": "富士山",
         "reading": "フジサン",
-        "meaning": "Mount Fuji, Mt. Fuji, Fujiyama, Fuji-san"
+        "meaning": {
+          "en": "Mount Fuji, Mt. Fuji, Fujiyama, Fuji-san"
+        },
+        "romaji": "fujisan"
       },
       {
         "example": "富豪",
         "reading": "フゴウ",
-        "meaning": "wealthy person, millionaire"
+        "meaning": {
+          "vi": "wealthy person, millionaire"
+        },
+        "romaji": "fugou"
       },
       {
         "example": "種類豊富",
         "reading": "シュルイホウフ",
-        "meaning": "rich in variety, diverse, wide-ranging, multifarious"
+        "meaning": {
+          "en": "rich in variety, diverse, wide-ranging, multifarious"
+        },
+        "romaji": "shuruihoufu"
       },
       {
         "example": "知識豊富",
         "reading": "チシキホウフ",
-        "meaning": "knowledgeable"
+        "meaning": {
+          "en": "knowledgeable"
+        },
+        "romaji": "chishikihoufu"
       },
       {
         "example": "富者",
         "reading": "フシャ",
-        "meaning": "rich person, millionaire, the wealthy"
+        "meaning": {
+          "vi": "rich person, millionaire, the wealthy"
+        },
+        "romaji": "fusha"
       },
       {
         "example": "富貴",
         "reading": "フウキ",
-        "meaning": "riches and honours (honors), wealth and rank"
+        "meaning": {
+          "en": "riches and honours (honors), wealth and rank"
+        },
+        "romaji": "fuuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "富む",
         "reading": "とむ",
-        "meaning": "to be rich in, to abound in, to be abundant in, to be full of, to be rich, to be wealthy"
+        "meaning": {
+          "en": "to be rich in, to abound in, to be abundant in, to be full of, to be rich, to be wealthy"
+        },
+        "romaji": "tomu"
       },
       {
         "example": "富",
         "reading": "とみ",
-        "meaning": "riches, wealth, fortune, resources, lottery"
+        "meaning": {
+          "en": "riches, wealth, fortune, resources, lottery"
+        },
+        "romaji": "tomi"
       },
       {
         "example": "富くじ",
         "reading": "とみくじ",
-        "meaning": "lottery run by a temple or shrine"
+        "meaning": {
+          "vi": "lottery run by a temple or shrine"
+        },
+        "romaji": "tomikuji"
       },
       {
         "example": "陶朱猗頓の富",
         "reading": "とうしゅいとんのとみ",
-        "meaning": "great wealth, very wealthy person"
+        "meaning": {
+          "vi": "great wealth, very wealthy person"
+        },
+        "romaji": "toushuitonnotomi"
       },
       {
         "example": "巨万の富",
         "reading": "きょまんのとみ",
-        "meaning": "great wealth, enormous fortune"
+        "meaning": {
+          "en": "great wealth, enormous fortune"
+        },
+        "romaji": "kyomannotomi"
       }
     ],
     "radical": {
@@ -374,5 +407,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bcc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bcc.gif",
     "uri": "https://jisho.org/search/%E5%AF%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "phú"
+  ]
 }

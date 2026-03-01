@@ -18,12 +18,18 @@
       {
         "example": "鳩",
         "reading": "はと",
-        "meaning": "bồ câu"
+        "meaning": {
+          "vi": "bồ câu"
+        },
+        "romaji": "hato"
       },
       {
         "example": "土鳩",
         "reading": "どばと",
-        "meaning": "bồ câu nhà, bồ câu hoang"
+        "meaning": {
+          "vi": "bồ câu nhà, bồ câu hoang"
+        },
+        "romaji": "dobato"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3f.gif",
     "uri": "https://jisho.org/search/%E9%B4%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "cáp"
+  ]
 }

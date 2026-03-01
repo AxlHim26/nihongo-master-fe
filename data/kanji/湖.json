@@ -271,39 +271,60 @@
       {
         "example": "湖",
         "reading": "コ",
-        "meaning": "lake (in place names)"
+        "meaning": {
+          "vi": "lake (in place names)"
+        },
+        "romaji": "ko"
       },
       {
         "example": "湖沼",
         "reading": "コショウ",
-        "meaning": "lake, marsh, wetland, inland waters"
+        "meaning": {
+          "en": "lake, marsh, wetland, inland waters"
+        },
+        "romaji": "koshou"
       },
       {
         "example": "汽水湖",
         "reading": "キスイコ",
-        "meaning": "brackish lake"
+        "meaning": {
+          "en": "brackish lake"
+        },
+        "romaji": "kisuiko"
       },
       {
         "example": "塩水湖",
         "reading": "エンスイコ",
-        "meaning": "saltwater or saline lake"
+        "meaning": {
+          "en": "saltwater or saline lake"
+        },
+        "romaji": "ensuiko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湖",
         "reading": "みずうみ",
-        "meaning": "lake"
+        "meaning": {
+          "en": "lake"
+        },
+        "romaji": "mizuumi"
       },
       {
         "example": "白鳥の湖",
         "reading": "はくちょうのみずうみ",
-        "meaning": "Swan Lake (ballet)"
+        "meaning": {
+          "en": "Swan Lake (ballet)"
+        },
+        "romaji": "hakuchounomizuumi"
       },
       {
         "example": "白鳥の湖",
         "reading": "はくちょうのみずうみ",
-        "meaning": "Swan Lake (ballet)"
+        "meaning": {
+          "en": "Swan Lake (ballet)"
+        },
+        "romaji": "hakuchounomizuumi"
       }
     ],
     "radical": {
@@ -324,5 +345,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e56.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e56.gif",
     "uri": "https://jisho.org/search/%E6%B9%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ"
+  ]
 }

@@ -334,44 +334,68 @@
       {
         "example": "根",
         "reading": "コン",
-        "meaning": "stick-to-itiveness, perseverance, persistence, radical (esp. one that tends to ionize easily), root, indriya (faculty of the body having a specific function, i.e. the sensory organs)"
+        "meaning": {
+          "vi": "stick-to-itiveness, perseverance, persistence, radical (esp. one that tends to ionize easily), root, indriya (faculty of the body having a specific function, i.e. the sensory organs)"
+        },
+        "romaji": "kon"
       },
       {
         "example": "根幹",
         "reading": "コンカン",
-        "meaning": "foundation, root, basis, core, fundamentals, root and trunk"
+        "meaning": {
+          "en": "foundation, root, basis, core, fundamentals, root and trunk"
+        },
+        "romaji": "konkan"
       },
       {
         "example": "事実無根",
         "reading": "ジジツムコン",
-        "meaning": "groundless, entirely contrary to fact"
+        "meaning": {
+          "en": "groundless, entirely contrary to fact"
+        },
+        "romaji": "jijitsumukon"
       },
       {
         "example": "球根",
         "reading": "キュウコン",
-        "meaning": "(plant) bulb"
+        "meaning": {
+          "vi": "(plant) bulb"
+        },
+        "romaji": "kyuukon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "根",
         "reading": "ね",
-        "meaning": "root (of a plant), root (of a tooth, hair, etc.), center (of a pimple, etc.), root (of all evil, etc.), source, origin, cause, basis, one's true nature, (fishing) reef"
+        "meaning": {
+          "vi": "root (of a plant), root (of a tooth, hair, etc.), center (of a pimple, etc.), root (of all evil, etc.), source, origin, cause, basis, one's true nature, (fishing) reef"
+        },
+        "romaji": "ne"
       },
       {
         "example": "根ざす",
         "reading": "ねざす",
-        "meaning": "to come from, to have roots in"
+        "meaning": {
+          "en": "to come from, to have roots in"
+        },
+        "romaji": "nezasu"
       },
       {
         "example": "島根",
         "reading": "しまね",
-        "meaning": "Shimane (prefecture), island country"
+        "meaning": {
+          "vi": "Shimane (prefecture), island country"
+        },
+        "romaji": "shimane"
       },
       {
         "example": "尾根",
         "reading": "おね",
-        "meaning": "(mountain) ridge"
+        "meaning": {
+          "en": "(mountain) ridge"
+        },
+        "romaji": "one"
       }
     ],
     "radical": {
@@ -386,5 +410,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06839.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6839.gif",
     "uri": "https://jisho.org/search/%E6%A0%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "căn"
+  ]
 }

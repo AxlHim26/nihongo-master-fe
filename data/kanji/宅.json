@@ -280,22 +280,34 @@
       {
         "example": "宅",
         "reading": "タク",
-        "meaning": "house, home, one's house, one's home, one's husband"
+        "meaning": {
+          "en": "house, home, one's house, one's home, one's husband"
+        },
+        "romaji": "taku"
       },
       {
         "example": "宅地",
         "reading": "タクチ",
-        "meaning": "building lot, residential land"
+        "meaning": {
+          "en": "building lot, residential land"
+        },
+        "romaji": "takuchi"
       },
       {
         "example": "社宅",
         "reading": "シャタク",
-        "meaning": "company housing, housing provided by one's company"
+        "meaning": {
+          "vi": "company housing, housing provided by one's company"
+        },
+        "romaji": "shataku"
       },
       {
         "example": "家宅",
         "reading": "カタク",
-        "meaning": "domicile, premises"
+        "meaning": {
+          "vi": "domicile, premises"
+        },
+        "romaji": "kataku"
       }
     ],
     "kunyomiExamples": [],
@@ -313,5 +325,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b85.gif",
     "uri": "https://jisho.org/search/%E5%AE%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "trạch"
+  ]
 }

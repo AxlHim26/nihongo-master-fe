@@ -285,44 +285,68 @@
       {
         "example": "涙液",
         "reading": "ルイエキ",
-        "meaning": "lacrimal fluid, tears"
+        "meaning": {
+          "en": "lacrimal fluid, tears"
+        },
+        "romaji": "ruieki"
       },
       {
         "example": "涙活",
         "reading": "ルイカツ",
-        "meaning": "therapeutic crying for stress relief, having a good cry"
+        "meaning": {
+          "vi": "therapeutic crying for stress relief, having a good cry"
+        },
+        "romaji": "ruikatsu"
       },
       {
         "example": "催涙",
         "reading": "サイルイ",
-        "meaning": "tear-inducing"
+        "meaning": {
+          "en": "tear-inducing"
+        },
+        "romaji": "sairui"
       },
       {
         "example": "感涙",
         "reading": "カンルイ",
-        "meaning": "tears (from being deeply moved), tears of gratitude"
+        "meaning": {
+          "vi": "tears (from being deeply moved), tears of gratitude"
+        },
+        "romaji": "kanrui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涙",
         "reading": "なみだ",
-        "meaning": "tear, tears, lachrymal secretion, sympathy"
+        "meaning": {
+          "vi": "tear, tears, lachrymal secretion, sympathy"
+        },
+        "romaji": "namida"
       },
       {
         "example": "涙ぐましい",
         "reading": "なみだぐましい",
-        "meaning": "touching, moving, painful"
+        "meaning": {
+          "vi": "touching, moving, painful"
+        },
+        "romaji": "namidagumashii"
       },
       {
         "example": "悔し涙",
         "reading": "くやしなみだ",
-        "meaning": "tears of regret, bitter tears, vexation, chagrin"
+        "meaning": {
+          "en": "tears of regret, bitter tears, vexation, chagrin"
+        },
+        "romaji": "kuyashinamida"
       },
       {
         "example": "忝涙",
         "reading": "かたじけなみだ",
-        "meaning": "tears of gratitude"
+        "meaning": {
+          "en": "tears of gratitude"
+        },
+        "romaji": "katajikenamida"
       }
     ],
     "radical": {
@@ -344,5 +368,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d99.gif",
     "uri": "https://jisho.org/search/%E6%B6%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "lệ",
+    "luỵ"
+  ]
 }

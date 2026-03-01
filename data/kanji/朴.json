@@ -21,44 +21,68 @@
       {
         "example": "朴直",
         "reading": "ボクチョク",
-        "meaning": "simplicity, honesty, naivete"
+        "meaning": {
+          "vi": "simplicity, honesty, naivete"
+        },
+        "romaji": "bokuchoku"
       },
       {
         "example": "朴訥",
         "reading": "ボクトツ",
-        "meaning": "unsophisticated, ruggedly honest, artless, unaffected, simple, naive"
+        "meaning": {
+          "vi": "unsophisticated, ruggedly honest, artless, unaffected, simple, naive"
+        },
+        "romaji": "bokutotsu"
       },
       {
         "example": "純朴",
         "reading": "ジュンボク",
-        "meaning": "simple and honest, unsophisticated, simpleminded, naive, unspoiled"
+        "meaning": {
+          "vi": "simple and honest, unsophisticated, simpleminded, naive, unspoiled"
+        },
+        "romaji": "junboku"
       },
       {
         "example": "厚朴",
         "reading": "コウボク",
-        "meaning": "Japanese bigleaf magnolia bark (used in Chinese medicine)"
+        "meaning": {
+          "vi": "Japanese bigleaf magnolia bark (used in Chinese medicine)"
+        },
+        "romaji": "kouboku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朴の木",
         "reading": "ほおのき",
-        "meaning": "magnolia (Magnolia obovata), Japanese big leaf magnolia"
+        "meaning": {
+          "vi": "magnolia (Magnolia obovata), Japanese big leaf magnolia"
+        },
+        "romaji": "hoonoki"
       },
       {
         "example": "朴",
         "reading": "ほお",
-        "meaning": "Japanese bigleaf magnolia (Magnolia obovata)"
+        "meaning": {
+          "vi": "Japanese bigleaf magnolia (Magnolia obovata)"
+        },
+        "romaji": "hoo"
       },
       {
         "example": "朴の木",
         "reading": "ほおのき",
-        "meaning": "magnolia (Magnolia obovata), Japanese big leaf magnolia"
+        "meaning": {
+          "vi": "magnolia (Magnolia obovata), Japanese big leaf magnolia"
+        },
+        "romaji": "hoonoki"
       },
       {
         "example": "榎",
         "reading": "えのき",
-        "meaning": "Japanese hackberry (Celtis sinensis var. japonica), Chinese nettle tree, enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+        "meaning": {
+          "vi": "Japanese hackberry (Celtis sinensis var. japonica), Chinese nettle tree, enoki mushroom (Flammulina velutipes), winter mushroom, velvet shank, enokitake, enokidake"
+        },
+        "romaji": "enoki"
       }
     ],
     "radical": {
@@ -73,5 +97,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06734.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6734.gif",
     "uri": "https://jisho.org/search/%E6%9C%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "phu",
+    "phác"
+  ]
 }

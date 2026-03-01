@@ -20,19 +20,28 @@
       {
         "example": "頒布",
         "reading": "ハンプ",
-        "meaning": "phân phối, lưu hành"
+        "meaning": {
+          "vi": "phân phối, lưu hành"
+        },
+        "romaji": "hanpu"
       },
       {
         "example": "頒価",
         "reading": "ハンカ",
-        "meaning": "giá phân phối"
+        "meaning": {
+          "vi": "giá phân phối"
+        },
+        "romaji": "hanka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "chia (ra), tách, phân loại, chia sẻ, phân phối, phân biệt, hòa giải, hòa (trận đấu), len qua (đám đông), bán"
+        "meaning": {
+          "vi": "chia (ra), tách, phân loại, chia sẻ, phân phối, phân biệt, hòa giải, hòa (trận đấu), len qua (đám đông), bán"
+        },
+        "romaji": "wakeru"
       }
     ],
     "radical": {
@@ -50,5 +59,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09812.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9812.gif",
     "uri": "https://jisho.org/search/%E9%A0%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "ban",
+    "phân",
+    "phần"
+  ]
 }

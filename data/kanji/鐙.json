@@ -18,24 +18,36 @@
       {
         "example": "アブミ骨",
         "reading": "アブミコツ",
-        "meaning": "stirrup (bone of the ear), stapes"
+        "meaning": {
+          "vi": "stirrup (bone of the ear), stapes"
+        },
+        "romaji": "abumikotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鐙",
         "reading": "あぶみ",
-        "meaning": "stirrup"
+        "meaning": {
+          "vi": "stirrup"
+        },
+        "romaji": "abumi"
       },
       {
         "example": "鐙革",
         "reading": "あぶみがわ",
-        "meaning": "stirrup straps, stirrup leather"
+        "meaning": {
+          "vi": "stirrup straps, stirrup leather"
+        },
+        "romaji": "abumigawa"
       },
       {
         "example": "武蔵鐙",
         "reading": "むさしあぶみ",
-        "meaning": "Japanese cobra lily (Arisaema ringens)"
+        "meaning": {
+          "vi": "Japanese cobra lily (Arisaema ringens)"
+        },
+        "romaji": "musashiabumi"
       }
     ],
     "radical": {
@@ -56,5 +68,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09419.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9419.gif",
     "uri": "https://jisho.org/search/%E9%90%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "đăng",
+    "đặng"
+  ]
 }

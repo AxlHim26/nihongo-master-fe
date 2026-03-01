@@ -18,22 +18,34 @@
       {
         "example": "伊",
         "reading": "イ",
-        "meaning": "Italy"
+        "meaning": {
+          "en": "Italy"
+        },
+        "romaji": "i"
       },
       {
         "example": "伊勢丹",
         "reading": "イセタン",
-        "meaning": "Isetan (department store)"
+        "meaning": {
+          "vi": "Isetan (department store)"
+        },
+        "romaji": "isetan"
       },
       {
         "example": "駐伊",
         "reading": "チュウイ",
-        "meaning": "stationed in Italy"
+        "meaning": {
+          "en": "stationed in Italy"
+        },
+        "romaji": "chuui"
       },
       {
         "example": "紀伊",
         "reading": "キイ",
-        "meaning": "Kii (former province located in present-day Wakayama and southern Mie prefectures)"
+        "meaning": {
+          "vi": "Kii (former province located in present-day Wakayama and southern Mie prefectures)"
+        },
+        "romaji": "kii"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0a.gif",
     "uri": "https://jisho.org/search/%E4%BC%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "y"
+  ]
 }

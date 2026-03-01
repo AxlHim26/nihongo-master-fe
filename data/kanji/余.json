@@ -321,59 +321,92 @@
       {
         "example": "余",
         "reading": "ヨ",
-        "meaning": "other, another, remaining, leftover, over, more than, I, me"
+        "meaning": {
+          "en": "other, another, remaining, leftover, over, more than, I, me"
+        },
+        "romaji": "yo"
       },
       {
         "example": "余韻",
         "reading": "ヨイン",
-        "meaning": "reverberation, swelling (of a hymn), trailing note, lingering memory, aftertaste, suggestiveness (of a book, poem, etc.)"
+        "meaning": {
+          "vi": "reverberation, swelling (of a hymn), trailing note, lingering memory, aftertaste, suggestiveness (of a book, poem, etc.)"
+        },
+        "romaji": "yoin"
       },
       {
         "example": "残余",
         "reading": "ザンヨ",
-        "meaning": "remainder, the rest, residue"
+        "meaning": {
+          "en": "remainder, the rest, residue"
+        },
+        "romaji": "zan'yo"
       },
       {
         "example": "窮余",
         "reading": "キュウヨ",
-        "meaning": "extremity, desperation"
+        "meaning": {
+          "vi": "extremity, desperation"
+        },
+        "romaji": "kyuuyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "余る",
         "reading": "あまる",
-        "meaning": "to remain, to be left over, to be in excess, to be too many"
+        "meaning": {
+          "en": "to remain, to be left over, to be in excess, to be too many"
+        },
+        "romaji": "amaru"
       },
       {
         "example": "余り",
         "reading": "あまり",
-        "meaning": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over"
+        "meaning": {
+          "vi": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over"
+        },
+        "romaji": "amari"
       },
       {
         "example": "余りに",
         "reading": "あまりに",
-        "meaning": "too (much), overly, excessively"
+        "meaning": {
+          "en": "too (much), overly, excessively"
+        },
+        "romaji": "amarini"
       },
       {
         "example": "余す",
         "reading": "あます",
-        "meaning": "to save, to leave over, to spare"
+        "meaning": {
+          "vi": "to save, to leave over, to spare"
+        },
+        "romaji": "amasu"
       },
       {
         "example": "余すことなく",
         "reading": "あますことなく",
-        "meaning": "fully, thoroughly"
+        "meaning": {
+          "en": "fully, thoroughly"
+        },
+        "romaji": "amasukotonaku"
       },
       {
         "example": "余り",
         "reading": "あまり",
-        "meaning": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over"
+        "meaning": {
+          "vi": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over"
+        },
+        "romaji": "amari"
       },
       {
         "example": "余りに",
         "reading": "あまりに",
-        "meaning": "too (much), overly, excessively"
+        "meaning": {
+          "en": "too (much), overly, excessively"
+        },
+        "romaji": "amarini"
       }
     ],
     "radical": {
@@ -396,5 +429,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f59.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f59.gif",
     "uri": "https://jisho.org/search/%E4%BD%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "dư",
+    "xà"
+  ]
 }

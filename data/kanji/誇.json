@@ -278,19 +278,28 @@
       {
         "example": "誇張",
         "reading": "コチョウ",
-        "meaning": "exaggeration"
+        "meaning": {
+          "en": "exaggeration"
+        },
+        "romaji": "kochou"
       },
       {
         "example": "誇大",
         "reading": "コダイ",
-        "meaning": "exaggeration, hyperbole"
+        "meaning": {
+          "vi": "exaggeration, hyperbole"
+        },
+        "romaji": "kodai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誇る",
         "reading": "ほこる",
-        "meaning": "to boast of, to be proud of, to take pride in"
+        "meaning": {
+          "vi": "to boast of, to be proud of, to take pride in"
+        },
+        "romaji": "hokoru"
       }
     ],
     "radical": {
@@ -310,5 +319,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a87.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a87.gif",
     "uri": "https://jisho.org/search/%E8%AA%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoa",
+    "khoả"
+  ]
 }

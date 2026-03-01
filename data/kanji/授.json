@@ -309,34 +309,52 @@
       {
         "example": "授業料",
         "reading": "ジュギョウリョウ",
-        "meaning": "tuition fee, course fee"
+        "meaning": {
+          "en": "tuition fee, course fee"
+        },
+        "romaji": "jugyouryou"
       },
       {
         "example": "授業",
         "reading": "ジュギョウ",
-        "meaning": "lesson, class, teaching, instruction, classwork, schoolwork"
+        "meaning": {
+          "en": "lesson, class, teaching, instruction, classwork, schoolwork"
+        },
+        "romaji": "jugyou"
       },
       {
         "example": "授受",
         "reading": "ジュジュ",
-        "meaning": "giving and receiving, transferring, transfer, changing hands"
+        "meaning": {
+          "en": "giving and receiving, transferring, transfer, changing hands"
+        },
+        "romaji": "juju"
       },
       {
         "example": "伝授",
         "reading": "デンジュ",
-        "meaning": "(giving) instruction (esp. in the secrets of an art, discipline, etc.), initiation, teaching, passing on, imparting"
+        "meaning": {
+          "vi": "(giving) instruction (esp. in the secrets of an art, discipline, etc.), initiation, teaching, passing on, imparting"
+        },
+        "romaji": "denju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "授ける",
         "reading": "さずける",
-        "meaning": "to grant, to give, to confer, to award, to teach, to instruct, to impart (knowledge)"
+        "meaning": {
+          "vi": "to grant, to give, to confer, to award, to teach, to instruct, to impart (knowledge)"
+        },
+        "romaji": "sazukeru"
       },
       {
         "example": "授かる",
         "reading": "さずかる",
-        "meaning": "to be awarded (e.g. a prize), to be given an award, to receive (e.g. a title), to be gifted or endowed (e.g. with a talent), to be blessed (e.g. with a child), to be initiated (e.g. into a secret)"
+        "meaning": {
+          "vi": "to be awarded (e.g. a prize), to be given an award, to receive (e.g. a title), to be gifted or endowed (e.g. with a talent), to be blessed (e.g. with a child), to be initiated (e.g. into a secret)"
+        },
+        "romaji": "sazukaru"
       }
     ],
     "radical": {
@@ -356,5 +374,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06388.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6388.gif",
     "uri": "https://jisho.org/search/%E6%8E%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "thọ",
+    "thụ"
+  ]
 }

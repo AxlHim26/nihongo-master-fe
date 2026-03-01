@@ -18,7 +18,10 @@
       {
         "example": "砌",
         "reading": "みぎり",
-        "meaning": "time, age, chance, moment, occasion"
+        "meaning": {
+          "en": "time, age, chance, moment, occasion"
+        },
+        "romaji": "migiri"
       }
     ],
     "radical": {
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0780c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/780c.gif",
     "uri": "https://jisho.org/search/%E7%A0%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "thế",
+    "xế"
+  ]
 }

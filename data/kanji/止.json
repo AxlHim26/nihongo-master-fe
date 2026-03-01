@@ -340,79 +340,124 @@
       {
         "example": "止血",
         "reading": "シケツ",
-        "meaning": "stopping of bleeding, stanching, hemostasis, haemostasis"
+        "meaning": {
+          "vi": "stopping of bleeding, stanching, hemostasis, haemostasis"
+        },
+        "romaji": "shiketsu"
       },
       {
         "example": "止音器",
         "reading": "シオンキ",
-        "meaning": "(piano) damper"
+        "meaning": {
+          "vi": "(piano) damper"
+        },
+        "romaji": "shionki"
       },
       {
         "example": "抑止",
         "reading": "ヨクシ",
-        "meaning": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence"
+        "meaning": {
+          "en": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence"
+        },
+        "romaji": "yokushi"
       },
       {
         "example": "解止",
         "reading": "カイシ",
-        "meaning": "termination"
+        "meaning": {
+          "en": "termination"
+        },
+        "romaji": "kaishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "止まる",
         "reading": "とまる",
-        "meaning": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+        "meaning": {
+          "vi": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+        },
+        "romaji": "tomaru"
       },
       {
         "example": "止める",
         "reading": "とめる",
-        "meaning": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+        "meaning": {
+          "vi": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+        },
+        "romaji": "tomeru"
       },
       {
         "example": "留める",
         "reading": "とどめる",
-        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        "meaning": {
+          "vi": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        },
+        "romaji": "todomeru"
       },
       {
         "example": "止め",
         "reading": "とどめ",
-        "meaning": "finishing blow, coup de grâce"
+        "meaning": {
+          "vi": "finishing blow, coup de grâce"
+        },
+        "romaji": "todome"
       },
       {
         "example": "留める",
         "reading": "とどめる",
-        "meaning": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        "meaning": {
+          "vi": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+        },
+        "romaji": "todomeru"
       },
       {
         "example": "止まる",
         "reading": "とどまる",
-        "meaning": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for"
+        "meaning": {
+          "vi": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for"
+        },
+        "romaji": "todomaru"
       },
       {
         "example": "とどまるところを知らない",
         "reading": "とどまるところをしらない",
-        "meaning": "knowing no bounds, showing no signs of stopping or slowing down"
+        "meaning": {
+          "vi": "knowing no bounds, showing no signs of stopping or slowing down"
+        },
+        "romaji": "todomarutokorowoshiranai"
       },
       {
         "example": "止める",
         "reading": "やめる",
-        "meaning": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain"
+        "meaning": {
+          "vi": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain"
+        },
+        "romaji": "yameru"
       },
       {
         "example": "止む",
         "reading": "やむ",
-        "meaning": "to cease, to stop, to be over"
+        "meaning": {
+          "vi": "to cease, to stop, to be over"
+        },
+        "romaji": "yamu"
       },
       {
         "example": "やむを得ない",
         "reading": "やむをえない",
-        "meaning": "cannot be helped, unavoidable"
+        "meaning": {
+          "vi": "cannot be helped, unavoidable"
+        },
+        "romaji": "yamuwoenai"
       },
       {
         "example": "止す",
         "reading": "よす",
-        "meaning": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit"
+        "meaning": {
+          "vi": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit"
+        },
+        "romaji": "yosu"
       }
     ],
     "radical": {
@@ -426,5 +471,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b62.gif",
     "uri": "https://jisho.org/search/%E6%AD%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi",
+    "chỉ"
+  ]
 }

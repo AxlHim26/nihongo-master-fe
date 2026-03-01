@@ -22,34 +22,52 @@
       {
         "example": "頓",
         "reading": "トミ",
-        "meaning": "sudden, abrupt, unexpected, stupid, foolish, attaining enlightenment in one effort (without ascetic practices, etc.)"
+        "meaning": {
+          "vi": "sudden, abrupt, unexpected, stupid, foolish, attaining enlightenment in one effort (without ascetic practices, etc.)"
+        },
+        "romaji": "tomi"
       },
       {
         "example": "頓狂",
         "reading": "トンキョウ",
-        "meaning": "wild, freakish, madcap, crazy, hysterical"
+        "meaning": {
+          "vi": "wild, freakish, madcap, crazy, hysterical"
+        },
+        "romaji": "tonkyou"
       },
       {
         "example": "整理整頓",
         "reading": "セイリセイトン",
-        "meaning": "keeping things tidy and in order"
+        "meaning": {
+          "vi": "keeping things tidy and in order"
+        },
+        "romaji": "seiriseiton"
       },
       {
         "example": "停頓",
         "reading": "テイトン",
-        "meaning": "deadlock, standstill, stalemate, set-back, abeyance"
+        "meaning": {
+          "en": "deadlock, standstill, stalemate, set-back, abeyance"
+        },
+        "romaji": "teiton"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頓と",
         "reading": "とんと",
-        "meaning": "completely, not at all"
+        "meaning": {
+          "vi": "completely, not at all"
+        },
+        "romaji": "tonto"
       },
       {
         "example": "頓に",
         "reading": "とみに",
-        "meaning": "suddenly, all at once, rapidly"
+        "meaning": {
+          "vi": "suddenly, all at once, rapidly"
+        },
+        "romaji": "tomini"
       }
     ],
     "radical": {
@@ -67,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09813.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9813.gif",
     "uri": "https://jisho.org/search/%E9%A0%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "đốn"
+  ]
 }

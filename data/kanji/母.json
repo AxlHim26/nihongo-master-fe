@@ -321,64 +321,100 @@
       {
         "example": "母国",
         "reading": "ボコク",
-        "meaning": "one's home country, one's homeland"
+        "meaning": {
+          "en": "one's home country, one's homeland"
+        },
+        "romaji": "bokoku"
       },
       {
         "example": "母校",
         "reading": "ボコウ",
-        "meaning": "alma mater"
+        "meaning": {
+          "en": "alma mater"
+        },
+        "romaji": "bokou"
       },
       {
         "example": "養父母",
         "reading": "ヨウフボ",
-        "meaning": "adoptive parents"
+        "meaning": {
+          "vi": "adoptive parents"
+        },
+        "romaji": "youfubo"
       },
       {
         "example": "空母",
         "reading": "クウボ",
-        "meaning": "aircraft carrier"
+        "meaning": {
+          "en": "aircraft carrier"
+        },
+        "romaji": "kuubo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "母",
         "reading": "はは",
-        "meaning": "mother"
+        "meaning": {
+          "en": "mother"
+        },
+        "romaji": "haha"
       },
       {
         "example": "母親",
         "reading": "ははおや",
-        "meaning": "mother"
+        "meaning": {
+          "en": "mother"
+        },
+        "romaji": "hahaoya"
       },
       {
         "example": "必要は発明の母",
         "reading": "ひつようははつめいのはは",
-        "meaning": "necessity is the mother of invention"
+        "meaning": {
+          "en": "necessity is the mother of invention"
+        },
+        "romaji": "hitsuyouhahatsumeinohaha"
       },
       {
         "example": "失敗は成功の母",
         "reading": "しっぱいはせいこうのはは",
-        "meaning": "failure is the mother of success"
+        "meaning": {
+          "en": "failure is the mother of success"
+        },
+        "romaji": "shippaihaseikounohaha"
       },
       {
         "example": "母屋",
         "reading": "もや",
-        "meaning": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"
+        "meaning": {
+          "vi": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"
+        },
+        "romaji": "moya"
       },
       {
         "example": "母屋桁",
         "reading": "もやげた",
-        "meaning": "purlin (structural beam in a roof), purline"
+        "meaning": {
+          "vi": "purlin (structural beam in a roof), purline"
+        },
+        "romaji": "moyageta"
       },
       {
         "example": "雲母",
         "reading": "うんも",
-        "meaning": "mica, isinglass"
+        "meaning": {
+          "en": "mica, isinglass"
+        },
+        "romaji": "unmo"
       },
       {
         "example": "乳母",
         "reading": "うば",
-        "meaning": "wet nurse, nursing mother"
+        "meaning": {
+          "en": "wet nurse, nursing mother"
+        },
+        "romaji": "uba"
       }
     ],
     "radical": {
@@ -397,5 +433,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bcd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bcd.gif",
     "uri": "https://jisho.org/search/%E6%AF%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô",
+    "mẫu"
+  ]
 }

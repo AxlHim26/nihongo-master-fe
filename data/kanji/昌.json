@@ -18,22 +18,34 @@
       {
         "example": "昌運",
         "reading": "ショウウン",
-        "meaning": "prosperity, fortune"
+        "meaning": {
+          "vi": "prosperity, fortune"
+        },
+        "romaji": "shouun"
       },
       {
         "example": "昌泰",
         "reading": "ショウタイ",
-        "meaning": "Shōtai era (898.4.26-901.7.15)"
+        "meaning": {
+          "en": "Shōtai era (898.4.26-901.7.15)"
+        },
+        "romaji": "shoutai"
       },
       {
         "example": "隆昌",
         "reading": "リュウショウ",
-        "meaning": "prosperity"
+        "meaning": {
+          "vi": "prosperity"
+        },
+        "romaji": "ryuushou"
       },
       {
         "example": "南昌",
         "reading": "ナンショウ",
-        "meaning": "Nanchang (China)"
+        "meaning": {
+          "en": "Nanchang (China)"
+        },
+        "romaji": "nanshou"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0660c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/660c.gif",
     "uri": "https://jisho.org/search/%E6%98%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "xương"
+  ]
 }

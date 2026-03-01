@@ -19,24 +19,36 @@
       {
         "example": "括約筋",
         "reading": "カツヤクキン",
-        "meaning": "sphincter (muscle), constrictor"
+        "meaning": {
+          "vi": "sphincter (muscle), constrictor"
+        },
+        "romaji": "katsuyakukin"
       },
       {
         "example": "総括",
         "reading": "ソウカツ",
-        "meaning": "summarization, summary, generalization, review (by labour or political movements of past activities, results, etc.)"
+        "meaning": {
+          "vi": "summarization, summary, generalization, review (by labour or political movements of past activities, results, etc.)"
+        },
+        "romaji": "soukatsu"
       },
       {
         "example": "概括",
         "reading": "ガイカツ",
-        "meaning": "summary, generalization, generalisation"
+        "meaning": {
+          "en": "summary, generalization, generalisation"
+        },
+        "romaji": "gaikatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "括る",
         "reading": "くくる",
-        "meaning": "to tie up, to tie together, to bind, to bundle, to fasten, to hang (oneself), to summarize, to put (it all) together, to consolidate, to estimate, to expect, to tie-dye, to detain, to check, to restrain"
+        "meaning": {
+          "vi": "to tie up, to tie together, to bind, to bundle, to fasten, to hang (oneself), to summarize, to put (it all) together, to consolidate, to estimate, to expect, to tie-dye, to detain, to check, to restrain"
+        },
+        "romaji": "kukuru"
       }
     ],
     "radical": {
@@ -57,5 +69,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ec.gif",
     "uri": "https://jisho.org/search/%E6%8B%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạt",
+    "quát"
+  ]
 }

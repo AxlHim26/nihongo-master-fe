@@ -280,49 +280,76 @@
       {
         "example": "漁業",
         "reading": "ギョギョウ",
-        "meaning": "ngư nghiệp, đánh cá"
+        "meaning": {
+          "vi": "ngư nghiệp, đánh cá"
+        },
+        "romaji": "gyogyou"
       },
       {
         "example": "漁獲",
         "reading": "ギョカク",
-        "meaning": "đánh bắt, sản lượng"
+        "meaning": {
+          "vi": "đánh bắt, sản lượng"
+        },
+        "romaji": "gyokaku"
       },
       {
         "example": "出漁",
         "reading": "シュツリョウ",
-        "meaning": "đi đánh cá"
+        "meaning": {
+          "vi": "đi đánh cá"
+        },
+        "romaji": "shutsuryou"
       },
       {
         "example": "大漁",
         "reading": "タイリョウ",
-        "meaning": "đánh bắt được nhiều"
+        "meaning": {
+          "vi": "đánh bắt được nhiều"
+        },
+        "romaji": "tairyou"
       },
       {
         "example": "漁",
         "reading": "リョウ",
-        "meaning": "đánh cá, thu hoạch hải sản, sản lượng"
+        "meaning": {
+          "vi": "đánh cá, thu hoạch hải sản, sản lượng"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "漁師",
         "reading": "リョウシ",
-        "meaning": "ngư dân"
+        "meaning": {
+          "vi": "ngư dân"
+        },
+        "romaji": "ryoushi"
       },
       {
         "example": "大漁",
         "reading": "タイリョウ",
-        "meaning": "đánh bắt được nhiều"
+        "meaning": {
+          "vi": "đánh bắt được nhiều"
+        },
+        "romaji": "tairyou"
       },
       {
         "example": "豊漁",
         "reading": "ホウリョウ",
-        "meaning": "đánh bắt được nhiều"
+        "meaning": {
+          "vi": "đánh bắt được nhiều"
+        },
+        "romaji": "houryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漁る",
         "reading": "あさる",
-        "meaning": "đánh cá, tìm kiếm, lục lọi"
+        "meaning": {
+          "vi": "đánh cá, tìm kiếm, lục lọi"
+        },
+        "romaji": "asaru"
       }
     ],
     "radical": {
@@ -343,5 +370,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f01.gif",
     "uri": "https://jisho.org/search/%E6%BC%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngư"
+  ]
 }

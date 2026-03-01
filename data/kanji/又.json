@@ -22,22 +22,34 @@
       {
         "example": "又",
         "reading": "また",
-        "meaning": "lại, lần nữa, cũng, ngoài ra, hơn nữa, hoặc, nếu không, thực sự, (cái gì, tại sao) trên đời, lúc nào đó (trong tương lai)"
+        "meaning": {
+          "vi": "lại, lần nữa, cũng, ngoài ra, hơn nữa, hoặc, nếu không, thực sự, (cái gì, tại sao) trên đời, lúc nào đó (trong tương lai)"
+        },
+        "romaji": "mata"
       },
       {
         "example": "又は",
         "reading": "または",
-        "meaning": "hoặc, hoặc ... hoặc ..."
+        "meaning": {
+          "vi": "hoặc, hoặc ... hoặc ..."
+        },
+        "romaji": "mataha"
       },
       {
         "example": "尚又",
         "reading": "なおまた",
-        "meaning": "ngoài ra, hơn nữa, thêm vào (đó)"
+        "meaning": {
+          "vi": "ngoài ra, hơn nữa, thêm vào (đó)"
+        },
+        "romaji": "naomata"
       },
       {
         "example": "猫又",
         "reading": "ねこまた",
-        "meaning": "nekomata, yêu quái mèo hai đuôi, thú khổng lồ sống trên núi"
+        "meaning": {
+          "vi": "nekomata, yêu quái mèo hai đuôi, thú khổng lồ sống trên núi"
+        },
+        "romaji": "nekomata"
       }
     ],
     "radical": {
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c8.gif",
     "uri": "https://jisho.org/search/%E5%8F%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "hữu",
+    "hựu"
+  ]
 }

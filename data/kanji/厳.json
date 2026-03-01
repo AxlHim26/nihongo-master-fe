@@ -371,54 +371,84 @@
       {
         "example": "厳",
         "reading": "ゲン",
-        "meaning": "strict, stern"
+        "meaning": {
+          "en": "strict, stern"
+        },
+        "romaji": "gen"
       },
       {
         "example": "厳格",
         "reading": "ゲンカク",
-        "meaning": "strict, severe, stern, rigid, rigorous, tough"
+        "meaning": {
+          "en": "strict, severe, stern, rigid, rigorous, tough"
+        },
+        "romaji": "genkaku"
       },
       {
         "example": "謹厳",
         "reading": "キンゲン",
-        "meaning": "stern, grave, solemn, sobersided"
+        "meaning": {
+          "en": "stern, grave, solemn, sobersided"
+        },
+        "romaji": "kingen"
       },
       {
         "example": "冷厳",
         "reading": "レイゲン",
-        "meaning": "grim, stern, stark, heartless"
+        "meaning": {
+          "en": "grim, stern, stark, heartless"
+        },
+        "romaji": "reigen"
       },
       {
         "example": "華厳",
         "reading": "ケゴン",
-        "meaning": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism)"
+        "meaning": {
+          "vi": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism)"
+        },
+        "romaji": "kegon"
       },
       {
         "example": "荘厳",
         "reading": "ショウゴン",
-        "meaning": "decorating (a Buddhist statue or temple), adorning"
+        "meaning": {
+          "vi": "decorating (a Buddhist statue or temple), adorning"
+        },
+        "romaji": "shougon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厳か",
         "reading": "おごそか",
-        "meaning": "solemn (ceremony, atmosphere, etc.), austere, grave, majestic, dignified, stately, impressive"
+        "meaning": {
+          "vi": "solemn (ceremony, atmosphere, etc.), austere, grave, majestic, dignified, stately, impressive"
+        },
+        "romaji": "ogosoka"
       },
       {
         "example": "厳しい",
         "reading": "きびしい",
-        "meaning": "severe, strict, rigid, unsparing, relentless, hard (to do), difficult, tricky, intense (e.g. cold), harsh (weather), inclement"
+        "meaning": {
+          "vi": "severe, strict, rigid, unsparing, relentless, hard (to do), difficult, tricky, intense (e.g. cold), harsh (weather), inclement"
+        },
+        "romaji": "kibishii"
       },
       {
         "example": "厳しい暑さ",
         "reading": "きびしいあつさ",
-        "meaning": "intense heat"
+        "meaning": {
+          "en": "intense heat"
+        },
+        "romaji": "kibishiiatsusa"
       },
       {
         "example": "厳めしい",
         "reading": "いかめしい",
-        "meaning": "stern, grave, austere, imposing, dignified, formidable, solemn, majestic, strict (e.g. security), severe, firm, rigid, rigorous"
+        "meaning": {
+          "vi": "stern, grave, austere, imposing, dignified, formidable, solemn, majestic, strict (e.g. security), severe, firm, rigid, rigorous"
+        },
+        "romaji": "ikameshii"
       }
     ],
     "radical": {
@@ -436,5 +466,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53b3.gif",
     "uri": "https://jisho.org/search/%E5%8E%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghiêm"
+  ]
 }

@@ -395,22 +395,34 @@
       {
         "example": "意",
         "reading": "イ",
-        "meaning": "feelings, thoughts, meaning"
+        "meaning": {
+          "en": "feelings, thoughts, meaning"
+        },
+        "romaji": "i"
       },
       {
         "example": "意外",
         "reading": "イガイ",
-        "meaning": "unexpected, surprising"
+        "meaning": {
+          "vi": "unexpected, surprising"
+        },
+        "romaji": "igai"
       },
       {
         "example": "賛意",
         "reading": "サンイ",
-        "meaning": "approval, assent"
+        "meaning": {
+          "vi": "approval, assent"
+        },
+        "romaji": "san'i"
       },
       {
         "example": "総意",
         "reading": "ソウイ",
-        "meaning": "consensus, collective will, collective opinion"
+        "meaning": {
+          "vi": "consensus, collective will, collective opinion"
+        },
+        "romaji": "soui"
       }
     ],
     "kunyomiExamples": [],
@@ -432,5 +444,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0610f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/610f.gif",
     "uri": "https://jisho.org/search/%E6%84%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "y",
+    "ý"
+  ]
 }

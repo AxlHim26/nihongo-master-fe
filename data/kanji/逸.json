@@ -21,39 +21,60 @@
       {
         "example": "逸脱",
         "reading": "イツダツ",
-        "meaning": "lệch lạc, bỏ sót (vô ý)"
+        "meaning": {
+          "vi": "lệch lạc, bỏ sót (vô ý)"
+        },
+        "romaji": "itsudatsu"
       },
       {
         "example": "逸材",
         "reading": "イツザイ",
-        "meaning": "tài năng xuất chúng, nhân tài"
+        "meaning": {
+          "vi": "tài năng xuất chúng, nhân tài"
+        },
+        "romaji": "itsuzai"
       },
       {
         "example": "捕逸",
         "reading": "ホイツ",
-        "meaning": "bóng chạy (bóng chày)"
+        "meaning": {
+          "vi": "bóng chạy (bóng chày)"
+        },
+        "romaji": "hoitsu"
       },
       {
         "example": "秀逸",
         "reading": "シュウイツ",
-        "meaning": "xuất sắc, tuyệt vời, hạng nhất"
+        "meaning": {
+          "vi": "xuất sắc, tuyệt vời, hạng nhất"
+        },
+        "romaji": "shuuitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "逸れる",
         "reading": "それる",
-        "meaning": "lệch đi, trật đích, đi chệch (câu chuyện), lạc đề, đi lạc"
+        "meaning": {
+          "vi": "lệch đi, trật đích, đi chệch (câu chuyện), lạc đề, đi lạc"
+        },
+        "romaji": "soreru"
       },
       {
         "example": "逸らす",
         "reading": "そらす",
-        "meaning": "quay đi, đánh lạc hướng, né (câu hỏi), đổi đề tài, trật (đích, bóng)"
+        "meaning": {
+          "vi": "quay đi, đánh lạc hướng, né (câu hỏi), đổi đề tài, trật (đích, bóng)"
+        },
+        "romaji": "sorasu"
       },
       {
         "example": "逸れる",
         "reading": "はぐれる",
-        "meaning": "lạc mất (bạn), lạc đàn, lỡ (cơ hội)"
+        "meaning": {
+          "vi": "lạc mất (bạn), lạc đàn, lỡ (cơ hội)"
+        },
+        "romaji": "hagureru"
       }
     ],
     "radical": {
@@ -76,5 +97,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09038.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9038.gif",
     "uri": "https://jisho.org/search/%E9%80%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "dật"
+  ]
 }

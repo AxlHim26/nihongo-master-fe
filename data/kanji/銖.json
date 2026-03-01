@@ -14,7 +14,10 @@
       {
         "example": "銖",
         "reading": "シュ",
-        "meaning": "shu, đơn vị trọng lượng 1/24 ryō, đơn vị tiền tệ thời Edo 1/16 ryō"
+        "meaning": {
+          "vi": "shu, đơn vị trọng lượng 1/24 ryō, đơn vị tiền tệ thời Edo 1/16 ryō"
+        },
+        "romaji": "shu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09296.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9296.gif",
     "uri": "https://jisho.org/search/%E9%8A%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thù"
+  ]
 }

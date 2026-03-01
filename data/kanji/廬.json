@@ -19,34 +19,52 @@
       {
         "example": "廬",
         "reading": "ロ",
-        "meaning": "small house, thatched hut"
+        "meaning": {
+          "en": "small house, thatched hut"
+        },
+        "romaji": "ro"
       },
       {
         "example": "廬山会議",
         "reading": "ロザンカイギ",
-        "meaning": "Lushan Conference (1959 meeting of the Communist Party of China to discuss the Great Leap Forward)"
+        "meaning": {
+          "vi": "Lushan Conference (1959 meeting of the Communist Party of China to discuss the Great Leap Forward)"
+        },
+        "romaji": "rozankaigi"
       },
       {
         "example": "蝸廬",
         "reading": "カロ",
-        "meaning": "little house, my humble home, snail shell"
+        "meaning": {
+          "en": "little house, my humble home, snail shell"
+        },
+        "romaji": "karo"
       },
       {
         "example": "出廬",
         "reading": "シュツロ",
-        "meaning": "coming out of retirement"
+        "meaning": {
+          "en": "coming out of retirement"
+        },
+        "romaji": "shutsuro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "庵",
         "reading": "いおり",
-        "meaning": "hermitage, retreat"
+        "meaning": {
+          "en": "hermitage, retreat"
+        },
+        "romaji": "iori"
       },
       {
         "example": "庵",
         "reading": "いおり",
-        "meaning": "hermitage, retreat"
+        "meaning": {
+          "en": "hermitage, retreat"
+        },
+        "romaji": "iori"
       }
     ],
     "radical": {
@@ -66,5 +84,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eec.gif",
     "uri": "https://jisho.org/search/%E5%BB%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lư",
+    "lữ"
+  ]
 }

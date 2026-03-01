@@ -18,19 +18,28 @@
       {
         "example": "腕釧",
         "reading": "ワンセン",
-        "meaning": "bracelet worn by Buddhist statues"
+        "meaning": {
+          "en": "bracelet worn by Buddhist statues"
+        },
+        "romaji": "wansen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "釧",
         "reading": "くしろ",
-        "meaning": "bracelet (usu. dating from the Kofun period)"
+        "meaning": {
+          "vi": "bracelet (usu. dating from the Kofun period)"
+        },
+        "romaji": "kushiro"
       },
       {
         "example": "釧路公立大学",
         "reading": "くしろこうりつだいがく",
-        "meaning": "Kushiro Public University of Economics"
+        "meaning": {
+          "vi": "Kushiro Public University of Economics"
+        },
+        "romaji": "kushirokouritsudaigaku"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91e7.gif",
     "uri": "https://jisho.org/search/%E9%87%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "xuyến"
+  ]
 }

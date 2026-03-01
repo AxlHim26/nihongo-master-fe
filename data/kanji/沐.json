@@ -17,19 +17,28 @@
       {
         "example": "沐する",
         "reading": "モクスル",
-        "meaning": "to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"
+        "meaning": {
+          "en": "to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"
+        },
+        "romaji": "mokusuru"
       },
       {
         "example": "沐浴",
         "reading": "モクヨク",
-        "meaning": "bathing (of an infant), ablution, receiving a blessing"
+        "meaning": {
+          "en": "bathing (of an infant), ablution, receiving a blessing"
+        },
+        "romaji": "mokuyoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沐する",
         "reading": "もくする",
-        "meaning": "to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"
+        "meaning": {
+          "en": "to wash one's hair or body, to bathe in water, to receive (a favor, blessing, benefit)"
+        },
+        "romaji": "mokusuru"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c90.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c90.gif",
     "uri": "https://jisho.org/search/%E6%B2%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộc"
+  ]
 }

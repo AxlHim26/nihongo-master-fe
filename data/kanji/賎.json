@@ -21,22 +21,34 @@
       {
         "example": "賎業",
         "reading": "センギョウ",
-        "meaning": "low or mean occupation"
+        "meaning": {
+          "vi": "low or mean occupation"
+        },
+        "romaji": "sengyou"
       },
       {
         "example": "賎業婦",
         "reading": "センギョウフ",
-        "meaning": "prostitute"
+        "meaning": {
+          "vi": "prostitute"
+        },
+        "romaji": "sengyoufu"
       },
       {
         "example": "下賎",
         "reading": "ゲセン",
-        "meaning": "low birth, humble origin, lowly, base, vulgar, coarse"
+        "meaning": {
+          "en": "low birth, humble origin, lowly, base, vulgar, coarse"
+        },
+        "romaji": "gesen"
       },
       {
         "example": "卑賎",
         "reading": "ヒセン",
-        "meaning": "low class, lowly (position), humble (condition)"
+        "meaning": {
+          "vi": "low class, lowly (position), humble (condition)"
+        },
+        "romaji": "hisen"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cce.gif",
     "uri": "https://jisho.org/search/%E8%B3%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiện"
+  ]
 }

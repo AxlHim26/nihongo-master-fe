@@ -18,64 +18,100 @@
       {
         "example": "鋸歯",
         "reading": "キョシ",
-        "meaning": "teeth of a saw, serration"
+        "meaning": {
+          "en": "teeth of a saw, serration"
+        },
+        "romaji": "kyoshi"
       },
       {
         "example": "鋸屑",
         "reading": "ノコクズ",
-        "meaning": "sawdust"
+        "meaning": {
+          "en": "sawdust"
+        },
+        "romaji": "nokokuzu"
       },
       {
         "example": "胴付鋸",
         "reading": "ドウツキノコ",
-        "meaning": "saw with a spine, tenon saw, back saw"
+        "meaning": {
+          "vi": "saw with a spine, tenon saw, back saw"
+        },
+        "romaji": "doutsukinoko"
       },
       {
         "example": "縦挽き鋸",
         "reading": "タテビキノコ",
-        "meaning": "ripsaw"
+        "meaning": {
+          "vi": "ripsaw"
+        },
+        "romaji": "tatebikinoko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鋸",
         "reading": "のこぎり",
-        "meaning": "saw, musical saw"
+        "meaning": {
+          "en": "saw, musical saw"
+        },
+        "romaji": "nokogiri"
       },
       {
         "example": "鋸鱝",
         "reading": "のこぎりえい",
-        "meaning": "sawfish (Pristidae spp.)"
+        "meaning": {
+          "vi": "sawfish (Pristidae spp.)"
+        },
+        "romaji": "nokogiriei"
       },
       {
         "example": "胴付鋸",
         "reading": "どうつきのこ",
-        "meaning": "saw with a spine, tenon saw, back saw"
+        "meaning": {
+          "vi": "saw with a spine, tenon saw, back saw"
+        },
+        "romaji": "doutsukinoko"
       },
       {
         "example": "縦挽き鋸",
         "reading": "たてびきのこ",
-        "meaning": "ripsaw"
+        "meaning": {
+          "vi": "ripsaw"
+        },
+        "romaji": "tatebikinoko"
       },
       {
         "example": "鋸",
         "reading": "のこぎり",
-        "meaning": "saw, musical saw"
+        "meaning": {
+          "en": "saw, musical saw"
+        },
+        "romaji": "nokogiri"
       },
       {
         "example": "鋸鱝",
         "reading": "のこぎりえい",
-        "meaning": "sawfish (Pristidae spp.)"
+        "meaning": {
+          "vi": "sawfish (Pristidae spp.)"
+        },
+        "romaji": "nokogiriei"
       },
       {
         "example": "胴付鋸",
         "reading": "どうつきのこぎり",
-        "meaning": "saw with a spine, tenon saw, back saw"
+        "meaning": {
+          "vi": "saw with a spine, tenon saw, back saw"
+        },
+        "romaji": "doutsukinokogiri"
       },
       {
         "example": "回し引き鋸",
         "reading": "まわしびきのこぎり",
-        "meaning": "bracket saw, sabre saw, saber saw"
+        "meaning": {
+          "en": "bracket saw, sabre saw, saber saw"
+        },
+        "romaji": "mawashibikinokogiri"
       }
     ],
     "radical": {
@@ -95,5 +131,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f8.gif",
     "uri": "https://jisho.org/search/%E9%8B%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "cư",
+    "cứ"
+  ]
 }

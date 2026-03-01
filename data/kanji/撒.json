@@ -17,19 +17,28 @@
       {
         "example": "散布",
         "reading": "サンプ",
-        "meaning": "dissemination, scattering, sprinkling, spraying"
+        "meaning": {
+          "vi": "dissemination, scattering, sprinkling, spraying"
+        },
+        "romaji": "sanpu"
       },
       {
         "example": "散水",
         "reading": "サンスイ",
-        "meaning": "sprinkling water over, water sprinkling"
+        "meaning": {
+          "vi": "sprinkling water over, water sprinkling"
+        },
+        "romaji": "sansui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撒く",
         "reading": "まく",
-        "meaning": "to scatter, to sprinkle, to strew, to distribute (flyers, etc.), to give out, to hand out, to shake off (a pursuer, companion, etc.), to give the slip, to throw off, to lose, to get rid of"
+        "meaning": {
+          "vi": "to scatter, to sprinkle, to strew, to distribute (flyers, etc.), to give out, to hand out, to shake off (a pursuer, companion, etc.), to give the slip, to throw off, to lose, to get rid of"
+        },
+        "romaji": "maku"
       }
     ],
     "radical": {
@@ -53,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06492.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6492.gif",
     "uri": "https://jisho.org/search/%E6%92%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tát",
+    "tản"
+  ]
 }

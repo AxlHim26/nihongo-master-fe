@@ -17,44 +17,68 @@
       {
         "example": "頚骨",
         "reading": "ケイコツ",
-        "meaning": "neckbones"
+        "meaning": {
+          "en": "neckbones"
+        },
+        "romaji": "keikotsu"
       },
       {
         "example": "頚神経叢",
         "reading": "ケイシンケイソウ",
-        "meaning": "cervical plexus"
+        "meaning": {
+          "vi": "cervical plexus"
+        },
+        "romaji": "keishinkeisou"
       },
       {
         "example": "子宮頸",
         "reading": "シキュウケイ",
-        "meaning": "(uterine) cervix"
+        "meaning": {
+          "en": "(uterine) cervix"
+        },
+        "romaji": "shikyuukei"
       },
       {
         "example": "鼠径",
         "reading": "ソケイ",
-        "meaning": "groin, inguinal region"
+        "meaning": {
+          "en": "groin, inguinal region"
+        },
+        "romaji": "sokei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "首",
         "reading": "くび",
-        "meaning": "neck, head, dismissal (from a job), firing, sacking"
+        "meaning": {
+          "en": "neck, head, dismissal (from a job), firing, sacking"
+        },
+        "romaji": "kubi"
       },
       {
         "example": "首飾り",
         "reading": "くびかざり",
-        "meaning": "necklace, choker"
+        "meaning": {
+          "en": "necklace, choker"
+        },
+        "romaji": "kubikazari"
       },
       {
         "example": "上頸",
         "reading": "あげくび",
-        "meaning": "neckband, round upright collar (on some traditional Japanese clothing)"
+        "meaning": {
+          "vi": "neckband, round upright collar (on some traditional Japanese clothing)"
+        },
+        "romaji": "agekubi"
       },
       {
         "example": "鶴首",
         "reading": "つるくび",
-        "meaning": "item with a long slender neck (e.g. vase, bottle), long-necked person"
+        "meaning": {
+          "vi": "item with a long slender neck (e.g. vase, bottle), long-necked person"
+        },
+        "romaji": "tsurukubi"
       }
     ],
     "radical": {
@@ -73,5 +97,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0981a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/981a.gif",
     "uri": "https://jisho.org/search/%E9%A0%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảnh"
+  ]
 }

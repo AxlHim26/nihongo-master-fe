@@ -17,12 +17,18 @@
       {
         "example": "框",
         "reading": "かまち",
-        "meaning": "door frame, window frame, frame sections of the door or window that provide most of its structural integrity"
+        "meaning": {
+          "vi": "door frame, window frame, frame sections of the door or window that provide most of its structural integrity"
+        },
+        "romaji": "kamachi"
       },
       {
         "example": "上がり框",
         "reading": "あがりがまち",
-        "meaning": "piece of wood at the front edge of an entranceway floor, front portion of the floor of the genkan"
+        "meaning": {
+          "vi": "piece of wood at the front edge of an entranceway floor, front portion of the floor of the genkan"
+        },
+        "romaji": "agarigamachi"
       }
     ],
     "radical": {
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06846.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6846.gif",
     "uri": "https://jisho.org/search/%E6%A1%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuông"
+  ]
 }

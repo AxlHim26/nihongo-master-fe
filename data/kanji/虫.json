@@ -344,54 +344,84 @@
       {
         "example": "虫垂炎",
         "reading": "チュウスイエン",
-        "meaning": "appendicitis"
+        "meaning": {
+          "vi": "appendicitis"
+        },
+        "romaji": "chuusuien"
       },
       {
         "example": "虫えい",
         "reading": "チュウエイ",
-        "meaning": "gall (abnormal plant growth formed by insects)"
+        "meaning": {
+          "vi": "gall (abnormal plant growth formed by insects)"
+        },
+        "romaji": "chuuei"
       },
       {
         "example": "幼虫",
         "reading": "ヨウチュウ",
-        "meaning": "larva, grub, maggot"
+        "meaning": {
+          "en": "larva, grub, maggot"
+        },
+        "romaji": "youchuu"
       },
       {
         "example": "寄生虫",
         "reading": "キセイチュウ",
-        "meaning": "parasite"
+        "meaning": {
+          "vi": "parasite"
+        },
+        "romaji": "kiseichuu"
       },
       {
         "example": "虫部",
         "reading": "キブ",
-        "meaning": "insect radical, worm radical"
+        "meaning": {
+          "en": "insect radical, worm radical"
+        },
+        "romaji": "kibu"
       },
       {
         "example": "蟻巻",
         "reading": "アリマキ",
-        "meaning": "aphid, plant louse, plant lice"
+        "meaning": {
+          "vi": "aphid, plant louse, plant lice"
+        },
+        "romaji": "arimaki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虫",
         "reading": "むし",
-        "meaning": "insect, bug, cricket, moth, worm, roundworm, thing inside one's body believed to influence one's thoughts and feelings, (one's) unconscious, nervousness, fretfulness, person devoted to one thing, single-minded person, valve core, mushi (type of game played with a stripped deck)"
+        "meaning": {
+          "vi": "insect, bug, cricket, moth, worm, roundworm, thing inside one's body believed to influence one's thoughts and feelings, (one's) unconscious, nervousness, fretfulness, person devoted to one thing, single-minded person, valve core, mushi (type of game played with a stripped deck)"
+        },
+        "romaji": "mushi"
       },
       {
         "example": "虫歯",
         "reading": "むしば",
-        "meaning": "tooth decay, cavity, decayed tooth, dental caries"
+        "meaning": {
+          "en": "tooth decay, cavity, decayed tooth, dental caries"
+        },
+        "romaji": "mushiba"
       },
       {
         "example": "苦虫",
         "reading": "にがむし",
-        "meaning": "bitter-tasting bug"
+        "meaning": {
+          "en": "bitter-tasting bug"
+        },
+        "romaji": "nigamushi"
       },
       {
         "example": "馬追虫",
         "reading": "うまおいむし",
-        "meaning": "Hexacentrus japonicus (species of katydid), Hexacentrus unicolor (species of katydid)"
+        "meaning": {
+          "vi": "Hexacentrus japonicus (species of katydid), Hexacentrus unicolor (species of katydid)"
+        },
+        "romaji": "umaoimushi"
       }
     ],
     "radical": {
@@ -405,5 +435,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0866b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/866b.gif",
     "uri": "https://jisho.org/search/%E8%99%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "huỷ",
+    "trùng"
+  ]
 }

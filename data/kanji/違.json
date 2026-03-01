@@ -368,59 +368,92 @@
       {
         "example": "違反",
         "reading": "イハン",
-        "meaning": "violation, offense, offence, breach, transgression, infringement, contravention"
+        "meaning": {
+          "en": "violation, offense, offence, breach, transgression, infringement, contravention"
+        },
+        "romaji": "ihan"
       },
       {
         "example": "違憲",
         "reading": "イケン",
-        "meaning": "unconstitutionality"
+        "meaning": {
+          "en": "unconstitutionality"
+        },
+        "romaji": "iken"
       },
       {
         "example": "格段の相違",
         "reading": "カクダンノソウイ",
-        "meaning": "marked difference"
+        "meaning": {
+          "en": "marked difference"
+        },
+        "romaji": "kakudannosoui"
       },
       {
         "example": "非違",
         "reading": "ヒイ",
-        "meaning": "illegality, police and judicial chief (Heian and Kamakura periods)"
+        "meaning": {
+          "vi": "illegality, police and judicial chief (Heian and Kamakura periods)"
+        },
+        "romaji": "hii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "違う",
         "reading": "ちがう",
-        "meaning": "to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with), to be wrong, to be incorrect, to be mistaken, to become abnormal, to go wrong, isn't it?, wasn't it?"
+        "meaning": {
+          "en": "to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with), to be wrong, to be incorrect, to be mistaken, to become abnormal, to go wrong, isn't it?, wasn't it?"
+        },
+        "romaji": "chigau"
       },
       {
         "example": "違くて",
         "reading": "ちがくて",
-        "meaning": "different (from), not the same (as)"
+        "meaning": {
+          "en": "different (from), not the same (as)"
+        },
+        "romaji": "chigakute"
       },
       {
         "example": "違い",
         "reading": "ちがい",
-        "meaning": "difference, distinction, discrepancy, mistake, error"
+        "meaning": {
+          "vi": "difference, distinction, discrepancy, mistake, error"
+        },
+        "romaji": "chigai"
       },
       {
         "example": "違いない",
         "reading": "ちがいない",
-        "meaning": "sure, no mistaking it, for certain, without doubt"
+        "meaning": {
+          "en": "sure, no mistaking it, for certain, without doubt"
+        },
+        "romaji": "chigainai"
       },
       {
         "example": "違える",
         "reading": "ちがえる",
-        "meaning": "to change, to alter, to mistake, to make a mistake, to fail to keep (e.g. one's promise), to sprain (a muscle), to dislocate (e.g. one's neck)"
+        "meaning": {
+          "vi": "to change, to alter, to mistake, to make a mistake, to fail to keep (e.g. one's promise), to sprain (a muscle), to dislocate (e.g. one's neck)"
+        },
+        "romaji": "chigaeru"
       },
       {
         "example": "違う",
         "reading": "たがう",
-        "meaning": "to differ, to be different, to run counter to, to change (into something out of the ordinary)"
+        "meaning": {
+          "en": "to differ, to be different, to run counter to, to change (into something out of the ordinary)"
+        },
+        "romaji": "tagau"
       },
       {
         "example": "違える",
         "reading": "たがえる",
-        "meaning": "to change, to alter, to run counter to, to go against, to break (one's word), to make a mistake (in), to err"
+        "meaning": {
+          "en": "to change, to alter, to run counter to, to go against, to break (one's word), to make a mistake (in), to err"
+        },
+        "romaji": "tagaeru"
       }
     ],
     "radical": {
@@ -441,5 +474,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09055.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9055.gif",
     "uri": "https://jisho.org/search/%E9%81%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "vi",
+    "vy"
+  ]
 }

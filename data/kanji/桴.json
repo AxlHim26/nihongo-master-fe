@@ -18,17 +18,26 @@
       {
         "example": "撥",
         "reading": "ばち",
-        "meaning": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+        "meaning": {
+          "vi": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+        },
+        "romaji": "bachi"
       },
       {
         "example": "筏",
         "reading": "いかだ",
-        "meaning": "raft, forearm guard (made of thin metal plates), skewered baby-eel kabayaki"
+        "meaning": {
+          "vi": "raft, forearm guard (made of thin metal plates), skewered baby-eel kabayaki"
+        },
+        "romaji": "ikada"
       },
       {
         "example": "救命いかだ",
         "reading": "きゅうめいいかだ",
-        "meaning": "life raft, lifeboat"
+        "meaning": {
+          "en": "life raft, lifeboat"
+        },
+        "romaji": "kyuumeiikada"
       }
     ],
     "radical": {
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06874.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6874.gif",
     "uri": "https://jisho.org/search/%E6%A1%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "phu",
+    "phù"
+  ]
 }

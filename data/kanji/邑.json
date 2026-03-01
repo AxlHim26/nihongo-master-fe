@@ -18,22 +18,34 @@
       {
         "example": "悒々",
         "reading": "ユウユウ",
-        "meaning": "buồn bã, u sầu"
+        "meaning": {
+          "vi": "buồn bã, u sầu"
+        },
+        "romaji": "yuuyuu"
       },
       {
         "example": "邑落",
         "reading": "ユウラク",
-        "meaning": "xóm nhỏ"
+        "meaning": {
+          "vi": "xóm nhỏ"
+        },
+        "romaji": "yuuraku"
       },
       {
         "example": "悒々",
         "reading": "ユウユウ",
-        "meaning": "buồn bã, u sầu"
+        "meaning": {
+          "vi": "buồn bã, u sầu"
+        },
+        "romaji": "yuuyuu"
       },
       {
         "example": "郷邑",
         "reading": "キョウユウ",
-        "meaning": "xóm nhỏ, làng"
+        "meaning": {
+          "vi": "xóm nhỏ, làng"
+        },
+        "romaji": "kyouyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09091.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9091.gif",
     "uri": "https://jisho.org/search/%E9%82%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "ấp"
+  ]
 }

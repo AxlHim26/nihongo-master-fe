@@ -305,54 +305,80 @@
       {
         "example": "【シリング】",
         "reading": "shilling",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "shilling"
       },
       {
         "example": "志向",
         "reading": "シコウ",
-        "meaning": "intention, aim, preference (for), orientation (towards a goal)"
+        "meaning": {
+          "vi": "intention, aim, preference (for), orientation (towards a goal)"
+        },
+        "romaji": "shikou"
       },
       {
         "example": "遺志",
         "reading": "イシ",
-        "meaning": "wishes of a deceased person, dying wish"
+        "meaning": {
+          "vi": "wishes of a deceased person, dying wish"
+        },
+        "romaji": "ishi"
       },
       {
         "example": "立志",
         "reading": "リッシ",
-        "meaning": "fixing one's aim in life, deciding one's life goal"
+        "meaning": {
+          "en": "fixing one's aim in life, deciding one's life goal"
+        },
+        "romaji": "risshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【シリング】",
         "reading": "shilling",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "shilling"
       },
       {
         "example": "志す",
         "reading": "こころざす",
-        "meaning": "to plan, to intend, to aspire to, to set aims (sights on)"
+        "meaning": {
+          "vi": "to plan, to intend, to aspire to, to set aims (sights on)"
+        },
+        "romaji": "kokorozasu"
       },
       {
         "example": "志",
         "reading": "こころざし",
-        "meaning": "will, resolution, intention, ambition, aim, goal, kindness, goodwill, kind offer, gift (as a token of gratitude)"
+        "meaning": {
+          "en": "will, resolution, intention, ambition, aim, goal, kindness, goodwill, kind offer, gift (as a token of gratitude)"
+        },
+        "romaji": "kokorozashi"
       },
       {
         "example": "志ある者は事ついに成る",
         "reading": "こころざしあるものはことついになる",
-        "meaning": "where there's a will, there's a way, with ambition one can achieve anything"
+        "meaning": {
+          "en": "where there's a will, there's a way, with ambition one can achieve anything"
+        },
+        "romaji": "kokorozashiarumonohakototsuininaru"
       },
       {
         "example": "お志",
         "reading": "おこころざし",
-        "meaning": "kindness, courtesy"
+        "meaning": {
+          "en": "kindness, courtesy"
+        },
+        "romaji": "okokorozashi"
       },
       {
         "example": "青雲の志",
         "reading": "せいうんのこころざし",
-        "meaning": "high (lofty) ambition"
+        "meaning": {
+          "en": "high (lofty) ambition"
+        },
+        "romaji": "seiunnokokorozashi"
       }
     ],
     "radical": {
@@ -371,5 +397,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd7.gif",
     "uri": "https://jisho.org/search/%E5%BF%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí"
+  ]
 }

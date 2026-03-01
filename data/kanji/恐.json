@@ -317,64 +317,100 @@
       {
         "example": "恐慌",
         "reading": "キョウコウ",
-        "meaning": "panic, scare, alarm, panic, financial panic"
+        "meaning": {
+          "vi": "panic, scare, alarm, panic, financial panic"
+        },
+        "romaji": "kyoukou"
       },
       {
         "example": "恐喝",
         "reading": "キョウカツ",
-        "meaning": "blackmail, extortion, threat (to extort money)"
+        "meaning": {
+          "en": "blackmail, extortion, threat (to extort money)"
+        },
+        "romaji": "kyoukatsu"
       },
       {
         "example": "戦々恐々",
         "reading": "センセンキョウキョウ",
-        "meaning": "trembling with fear, in great fear, filled with trepidation, nervously, timidly"
+        "meaning": {
+          "vi": "trembling with fear, in great fear, filled with trepidation, nervously, timidly"
+        },
+        "romaji": "sensenkyoukyou"
       },
       {
         "example": "最恐",
         "reading": "サイキョウ",
-        "meaning": "scariest, most frightening"
+        "meaning": {
+          "en": "scariest, most frightening"
+        },
+        "romaji": "saikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恐れる",
         "reading": "おそれる",
-        "meaning": "to fear, to be afraid of"
+        "meaning": {
+          "en": "to fear, to be afraid of"
+        },
+        "romaji": "osoreru"
       },
       {
         "example": "恐る",
         "reading": "おそる",
-        "meaning": "to fear, to be afraid"
+        "meaning": {
+          "en": "to fear, to be afraid"
+        },
+        "romaji": "osoru"
       },
       {
         "example": "恐る恐る",
         "reading": "おそるおそる",
-        "meaning": "fearfully, timidly, nervously, cautiously, gingerly"
+        "meaning": {
+          "en": "fearfully, timidly, nervously, cautiously, gingerly"
+        },
+        "romaji": "osoruosoru"
       },
       {
         "example": "恐ろしい",
         "reading": "おそろしい",
-        "meaning": "terrible, dreadful, terrifying, frightening, surprising, startling, tremendous, amazing"
+        "meaning": {
+          "vi": "terrible, dreadful, terrifying, frightening, surprising, startling, tremendous, amazing"
+        },
+        "romaji": "osoroshii"
       },
       {
         "example": "恐ろしい思いをする",
         "reading": "おそろしいおもいをする",
-        "meaning": "to find oneself fearful, to have an awful time"
+        "meaning": {
+          "en": "to find oneself fearful, to have an awful time"
+        },
+        "romaji": "osoroshiiomoiwosuru"
       },
       {
         "example": "怖い",
         "reading": "こわい",
-        "meaning": "scary, frightening, eerie, dreadful"
+        "meaning": {
+          "en": "scary, frightening, eerie, dreadful"
+        },
+        "romaji": "kowai"
       },
       {
         "example": "怖いもの見たさ",
         "reading": "こわいものみたさ",
-        "meaning": "curiosity of fear, urge to look at something frightening, wanting to take a peek at something unpleasant"
+        "meaning": {
+          "vi": "curiosity of fear, urge to look at something frightening, wanting to take a peek at something unpleasant"
+        },
+        "romaji": "kowaimonomitasa"
       },
       {
         "example": "怖がる",
         "reading": "こわがる",
-        "meaning": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about)"
+        "meaning": {
+          "en": "to be afraid (of), to fear, to be frightened (of), to be scared (of), to worry (about)"
+        },
+        "romaji": "kowagaru"
       }
     ],
     "radical": {
@@ -395,5 +431,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06050.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6050.gif",
     "uri": "https://jisho.org/search/%E6%81%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "khúng",
+    "khủng"
+  ]
 }

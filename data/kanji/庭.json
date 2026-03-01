@@ -300,44 +300,68 @@
       {
         "example": "庭園",
         "reading": "テイエン",
-        "meaning": "garden, park"
+        "meaning": {
+          "vi": "garden, park"
+        },
+        "romaji": "teien"
       },
       {
         "example": "庭球",
         "reading": "テイキュウ",
-        "meaning": "tennis"
+        "meaning": {
+          "en": "tennis"
+        },
+        "romaji": "teikyuu"
       },
       {
         "example": "前庭",
         "reading": "ゼンテイ",
-        "meaning": "front garden, front yard, vestibule (of the ear)"
+        "meaning": {
+          "en": "front garden, front yard, vestibule (of the ear)"
+        },
+        "romaji": "zentei"
       },
       {
         "example": "営庭",
         "reading": "エイテイ",
-        "meaning": "open space within a barracks compound"
+        "meaning": {
+          "vi": "open space within a barracks compound"
+        },
+        "romaji": "eitei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "庭",
         "reading": "にわ",
-        "meaning": "garden, yard, courtyard, field (of action), area"
+        "meaning": {
+          "en": "garden, yard, courtyard, field (of action), area"
+        },
+        "romaji": "niwa"
       },
       {
         "example": "庭木",
         "reading": "にわき",
-        "meaning": "garden tree"
+        "meaning": {
+          "en": "garden tree"
+        },
+        "romaji": "niwaki"
       },
       {
         "example": "前庭",
         "reading": "ぜんてい",
-        "meaning": "front garden, front yard, vestibule (of the ear)"
+        "meaning": {
+          "en": "front garden, front yard, vestibule (of the ear)"
+        },
+        "romaji": "zentei"
       },
       {
         "example": "奥庭",
         "reading": "おくにわ",
-        "meaning": "inner garden, back yard"
+        "meaning": {
+          "en": "inner garden, back yard"
+        },
+        "romaji": "okuniwa"
       }
     ],
     "radical": {
@@ -353,5 +377,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ead.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ead.gif",
     "uri": "https://jisho.org/search/%E5%BA%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "thính",
+    "đình"
+  ]
 }

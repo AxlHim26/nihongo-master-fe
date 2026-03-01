@@ -16,12 +16,18 @@
       {
         "example": "闖入",
         "reading": "チンニュウ",
-        "meaning": "intrusion, forced entry"
+        "meaning": {
+          "en": "intrusion, forced entry"
+        },
+        "romaji": "chinnyuu"
       },
       {
         "example": "闖入者",
         "reading": "チンニュウシャ",
-        "meaning": "intruder, trespasser"
+        "meaning": {
+          "vi": "intruder, trespasser"
+        },
+        "romaji": "chinnyuusha"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d6.gif",
     "uri": "https://jisho.org/search/%E9%97%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "sấm"
+  ]
 }

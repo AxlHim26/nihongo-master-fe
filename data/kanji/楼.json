@@ -19,22 +19,34 @@
       {
         "example": "楼",
         "reading": "ロウ",
-        "meaning": "tower, tall building, belvedere, turret, lookout, watchtower, brothel"
+        "meaning": {
+          "en": "tower, tall building, belvedere, turret, lookout, watchtower, brothel"
+        },
+        "romaji": "rou"
       },
       {
         "example": "楼閣",
         "reading": "ロウカク",
-        "meaning": "multistoried building, castle, palace, shrine"
+        "meaning": {
+          "vi": "multistoried building, castle, palace, shrine"
+        },
+        "romaji": "roukaku"
       },
       {
         "example": "鐘楼",
         "reading": "ショウロウ",
-        "meaning": "belfry, bell tower"
+        "meaning": {
+          "en": "belfry, bell tower"
+        },
+        "romaji": "shourou"
       },
       {
         "example": "山水楼",
         "reading": "サンスイロウ",
-        "meaning": "Sansuiro (name of an exclusive restaurant)"
+        "meaning": {
+          "en": "Sansuiro (name of an exclusive restaurant)"
+        },
+        "romaji": "sansuirou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0697c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/697c.gif",
     "uri": "https://jisho.org/search/%E6%A5%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lâu"
+  ]
 }

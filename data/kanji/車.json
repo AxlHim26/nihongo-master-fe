@@ -322,44 +322,68 @@
       {
         "example": "車",
         "reading": "シャ",
-        "meaning": "car, vehicle, van, truck, wagon, lorry, (train) car, carriage"
+        "meaning": {
+          "en": "car, vehicle, van, truck, wagon, lorry, (train) car, carriage"
+        },
+        "romaji": "sha"
       },
       {
         "example": "車検",
         "reading": "シャケン",
-        "meaning": "vehicle inspection"
+        "meaning": {
+          "vi": "vehicle inspection"
+        },
+        "romaji": "shaken"
       },
       {
         "example": "軽自動車",
         "reading": "ケイジドウシャ",
-        "meaning": "light motor vehicle (up to 660cc and 64bhp), k-car, kei car"
+        "meaning": {
+          "vi": "light motor vehicle (up to 660cc and 64bhp), k-car, kei car"
+        },
+        "romaji": "keijidousha"
       },
       {
         "example": "台車",
         "reading": "ダイシャ",
-        "meaning": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+        "meaning": {
+          "vi": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+        },
+        "romaji": "daisha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "車",
         "reading": "くるま",
-        "meaning": "car, automobile, vehicle, wheel, castor, caster"
+        "meaning": {
+          "en": "car, automobile, vehicle, wheel, castor, caster"
+        },
+        "romaji": "kuruma"
       },
       {
         "example": "車椅子",
         "reading": "くるまいす",
-        "meaning": "wheelchair"
+        "meaning": {
+          "en": "wheelchair"
+        },
+        "romaji": "kurumaisu"
       },
       {
         "example": "火の車",
         "reading": "ひのくるま",
-        "meaning": "fiery chariot (that carries the souls of sinners into hell), desperate financial situation, dire straits"
+        "meaning": {
+          "vi": "fiery chariot (that carries the souls of sinners into hell), desperate financial situation, dire straits"
+        },
+        "romaji": "hinokuruma"
       },
       {
         "example": "お車",
         "reading": "おくるま",
-        "meaning": "car"
+        "meaning": {
+          "en": "car"
+        },
+        "romaji": "okuruma"
       }
     ],
     "radical": {
@@ -373,5 +397,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eca.gif",
     "uri": "https://jisho.org/search/%E8%BB%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "xa"
+  ]
 }

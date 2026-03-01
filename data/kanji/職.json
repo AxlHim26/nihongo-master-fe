@@ -324,32 +324,50 @@
       {
         "example": "職",
         "reading": "ショク",
-        "meaning": "job, work, employment, occupation, position, duties, trade, skill"
+        "meaning": {
+          "vi": "job, work, employment, occupation, position, duties, trade, skill"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "職員",
         "reading": "ショクイン",
-        "meaning": "staff member, employee, worker, personnel"
+        "meaning": {
+          "vi": "staff member, employee, worker, personnel"
+        },
+        "romaji": "shokuin"
       },
       {
         "example": "住職",
         "reading": "ジュウショク",
-        "meaning": "chief priest (of a Buddhist temple)"
+        "meaning": {
+          "vi": "chief priest (of a Buddhist temple)"
+        },
+        "romaji": "juushoku"
       },
       {
         "example": "休職",
         "reading": "キュウショク",
-        "meaning": "temporary retirement, leave of absence, suspension from office"
+        "meaning": {
+          "vi": "temporary retirement, leave of absence, suspension from office"
+        },
+        "romaji": "kyuushoku"
       },
       {
         "example": "職",
         "reading": "ショク",
-        "meaning": "job, work, employment, occupation, position, duties, trade, skill"
+        "meaning": {
+          "vi": "job, work, employment, occupation, position, duties, trade, skill"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "有職",
         "reading": "ユウショク",
-        "meaning": "holding a job, being employed, gainful employment, being learned, being knowledgeable, having great artistic talent, being a skilled performer, being well-versed in usages or practices of the court or military households"
+        "meaning": {
+          "vi": "holding a job, being employed, gainful employment, being learned, being knowledgeable, having great artistic talent, being a skilled performer, being well-versed in usages or practices of the court or military households"
+        },
+        "romaji": "yuushoku"
       }
     ],
     "kunyomiExamples": [],
@@ -368,5 +386,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08077.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8077.gif",
     "uri": "https://jisho.org/search/%E8%81%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "chức",
+    "dặc",
+    "xí"
+  ]
 }

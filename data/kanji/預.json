@@ -237,24 +237,36 @@
       {
         "example": "預託",
         "reading": "ヨタク",
-        "meaning": "depositing (of money, valuables, etc.), deposition"
+        "meaning": {
+          "vi": "depositing (of money, valuables, etc.), deposition"
+        },
+        "romaji": "yotaku"
       },
       {
         "example": "預金",
         "reading": "ヨキン",
-        "meaning": "deposit, bank account"
+        "meaning": {
+          "vi": "deposit, bank account"
+        },
+        "romaji": "yokin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "預ける",
         "reading": "あずける",
-        "meaning": "to leave (in someone's keeping), to put (in someone's care), to place (in someone's custody), to entrust (someone) with, to deposit, to put (someone) in charge of, to leave (a matter) in someone's hands, to let (someone) decide, to lean on, to put one's weight on"
+        "meaning": {
+          "vi": "to leave (in someone's keeping), to put (in someone's care), to place (in someone's custody), to entrust (someone) with, to deposit, to put (someone) in charge of, to leave (a matter) in someone's hands, to let (someone) decide, to lean on, to put one's weight on"
+        },
+        "romaji": "azukeru"
       },
       {
         "example": "預かる",
         "reading": "あずかる",
-        "meaning": "to look after, to take care of, to keep, to hold on to, to keep in custody, to be put in charge of, to be given responsibility for, to be entrusted with, to withhold (an announcement), to reserve (judgment), to leave undecided, to take upon oneself (to do), to settle (a matter) oneself"
+        "meaning": {
+          "vi": "to look after, to take care of, to keep, to hold on to, to keep in custody, to be put in charge of, to be given responsibility for, to be entrusted with, to withhold (an announcement), to reserve (judgment), to leave undecided, to take upon oneself (to do), to settle (a matter) oneself"
+        },
+        "romaji": "azukaru"
       }
     ],
     "radical": {
@@ -275,5 +287,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09810.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9810.gif",
     "uri": "https://jisho.org/search/%E9%A0%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "dự"
+  ]
 }

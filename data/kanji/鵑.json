@@ -14,7 +14,10 @@
       {
         "example": "杜鵑",
         "reading": "トケン",
-        "meaning": "lesser cuckoo (Cuculus poliocephalus)"
+        "meaning": {
+          "vi": "lesser cuckoo (Cuculus poliocephalus)"
+        },
+        "romaji": "token"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d51.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d51.gif",
     "uri": "https://jisho.org/search/%E9%B5%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyên"
+  ]
 }

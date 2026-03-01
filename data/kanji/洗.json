@@ -327,29 +327,44 @@
       {
         "example": "洗",
         "reading": "セン",
-        "meaning": "washing machine, (clothes) washer"
+        "meaning": {
+          "en": "washing machine, (clothes) washer"
+        },
+        "romaji": "sen"
       },
       {
         "example": "洗剤",
         "reading": "センザイ",
-        "meaning": "detergent, cleanser, cleaning agent, washing material"
+        "meaning": {
+          "en": "detergent, cleanser, cleaning agent, washing material"
+        },
+        "romaji": "senzai"
       },
       {
         "example": "水洗",
         "reading": "スイセン",
-        "meaning": "washing with water, rinsing, flushing"
+        "meaning": {
+          "en": "washing with water, rinsing, flushing"
+        },
+        "romaji": "suisen"
       },
       {
         "example": "杯洗",
         "reading": "ハイセン",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": {
+          "vi": "small vessel or bowl in which sake cups are rinsed"
+        },
+        "romaji": "haisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "洗う",
         "reading": "あらう",
-        "meaning": "to wash, to cleanse, to rinse, to inquire into, to investigate, to purify (one's heart), to lave (e.g. shore), to wash over (e.g. deck), to sweep"
+        "meaning": {
+          "vi": "to wash, to cleanse, to rinse, to inquire into, to investigate, to purify (one's heart), to lave (e.g. shore), to wash over (e.g. deck), to sweep"
+        },
+        "romaji": "arau"
       }
     ],
     "radical": {
@@ -370,5 +385,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d17.gif",
     "uri": "https://jisho.org/search/%E6%B4%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiển",
+    "tẩy"
+  ]
 }

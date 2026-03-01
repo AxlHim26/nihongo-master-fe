@@ -17,27 +17,42 @@
       {
         "example": "惻隠",
         "reading": "ソクイン",
-        "meaning": "compassion, pity"
+        "meaning": {
+          "vi": "compassion, pity"
+        },
+        "romaji": "sokuin"
       },
       {
         "example": "惻隠の情",
         "reading": "ソクインノジョウ",
-        "meaning": "compassion, pity"
+        "meaning": {
+          "vi": "compassion, pity"
+        },
+        "romaji": "sokuinnojou"
       },
       {
         "example": "惻々",
         "reading": "ソクソク",
-        "meaning": "keenly felt, heart-wrenching, heart-rending"
+        "meaning": {
+          "en": "keenly felt, heart-wrenching, heart-rending"
+        },
+        "romaji": "sokusoku"
       },
       {
         "example": "惻々",
         "reading": "ソクソク",
-        "meaning": "keenly felt, heart-wrenching, heart-rending"
+        "meaning": {
+          "en": "keenly felt, heart-wrenching, heart-rending"
+        },
+        "romaji": "sokusoku"
       },
       {
         "example": "惻々",
         "reading": "ソクソク",
-        "meaning": "keenly felt, heart-wrenching, heart-rending"
+        "meaning": {
+          "en": "keenly felt, heart-wrenching, heart-rending"
+        },
+        "romaji": "sokusoku"
       }
     ],
     "kunyomiExamples": [],
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60fb.gif",
     "uri": "https://jisho.org/search/%E6%83%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "trắc"
+  ]
 }

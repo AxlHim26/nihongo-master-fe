@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# debug logs
+api-debug.log
+
+# data helper deps & temp
+data/node_modules/
+data/package.json
+data/package-lock.json
+data/temp_dict/

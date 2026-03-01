@@ -20,39 +20,60 @@
       {
         "example": "擬",
         "reading": "ギ",
-        "meaning": "pseudo-, quasi-"
+        "meaning": {
+          "vi": "pseudo-, quasi-"
+        },
+        "romaji": "gi"
       },
       {
         "example": "疑似",
         "reading": "ギジ",
-        "meaning": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)"
+        "meaning": {
+          "vi": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)"
+        },
+        "romaji": "giji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "紛い",
         "reading": "まがい",
-        "meaning": "imitation, sham, -like"
+        "meaning": {
+          "en": "imitation, sham, -like"
+        },
+        "romaji": "magai"
       },
       {
         "example": "紛い物",
         "reading": "まがいもの",
-        "meaning": "imitation, fake, sham"
+        "meaning": {
+          "en": "imitation, fake, sham"
+        },
+        "romaji": "magaimono"
       },
       {
         "example": "擬き",
         "reading": "もどき",
-        "meaning": "-like, pseudo-, mock ..., imitation ..., in the style of ..., comical character who mocks or apes the main character (in Japanese performing arts), criticism, censure"
+        "meaning": {
+          "vi": "-like, pseudo-, mock ..., imitation ..., in the style of ..., comical character who mocks or apes the main character (in Japanese performing arts), criticism, censure"
+        },
+        "romaji": "modoki"
       },
       {
         "example": "銀竜草擬",
         "reading": "ぎんりょうそうもどき",
-        "meaning": "Indian pipe (Monotropa uniflora)"
+        "meaning": {
+          "vi": "Indian pipe (Monotropa uniflora)"
+        },
+        "romaji": "ginryousoumodoki"
       },
       {
         "example": "太平洋赤坊擬",
         "reading": "たいへいようあかぼうもどき",
-        "meaning": "Longman's beaked whale (Indopacetus pacificus), Indo-Pacific beaked whale, tropical bottlenose whale"
+        "meaning": {
+          "vi": "Longman's beaked whale (Indopacetus pacificus), Indo-Pacific beaked whale, tropical bottlenose whale"
+        },
+        "romaji": "taiheiyouakaboumodoki"
       }
     ],
     "radical": {
@@ -74,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ec.gif",
     "uri": "https://jisho.org/search/%E6%93%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghĩ"
+  ]
 }

@@ -20,34 +20,52 @@
       {
         "example": "以降",
         "reading": "イコウ",
-        "meaning": "on and after, from ... onward, since"
+        "meaning": {
+          "en": "on and after, from ... onward, since"
+        },
+        "romaji": "ikou"
       },
       {
         "example": "以下",
         "reading": "イカ",
-        "meaning": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
+        "meaning": {
+          "vi": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
+        },
+        "romaji": "ika"
       },
       {
         "example": "生滅滅已",
         "reading": "ショウメツメツイ",
-        "meaning": "going beyond life and death and entering Nirvana"
+        "meaning": {
+          "en": "going beyond life and death and entering Nirvana"
+        },
+        "romaji": "shoumetsumetsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "止む",
         "reading": "やむ",
-        "meaning": "to cease, to stop, to be over"
+        "meaning": {
+          "vi": "to cease, to stop, to be over"
+        },
+        "romaji": "yamu"
       },
       {
         "example": "やむを得ない",
         "reading": "やむをえない",
-        "meaning": "cannot be helped, unavoidable"
+        "meaning": {
+          "vi": "cannot be helped, unavoidable"
+        },
+        "romaji": "yamuwoenai"
       },
       {
         "example": "既に",
         "reading": "すでに",
-        "meaning": "already, previously, before, undeniably, unmistakably, in the first place"
+        "meaning": {
+          "vi": "already, previously, before, undeniably, unmistakably, in the first place"
+        },
+        "romaji": "sudeni"
       }
     ],
     "radical": {
@@ -66,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df2.gif",
     "uri": "https://jisho.org/search/%E5%B7%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "dĩ"
+  ]
 }

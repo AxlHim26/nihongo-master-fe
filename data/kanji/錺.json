@@ -15,7 +15,10 @@
       {
         "example": "飾り職",
         "reading": "かざりしょく",
-        "meaning": "maker of metallic ornaments"
+        "meaning": {
+          "en": "maker of metallic ornaments"
+        },
+        "romaji": "kazarishoku"
       }
     ],
     "radical": {
@@ -34,5 +37,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0933a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/933a.gif",
     "uri": "https://jisho.org/search/%E9%8C%BA%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -19,44 +19,68 @@
       {
         "example": "枕籍",
         "reading": "チンセキ",
-        "meaning": "bedding, bed, to sleep together in the same bed, to sleep together using each other's bodies as pillow, to sleep together using books as a pillow"
+        "meaning": {
+          "vi": "bedding, bed, to sleep together in the same bed, to sleep together using each other's bodies as pillow, to sleep together using books as a pillow"
+        },
+        "romaji": "chinseki"
       },
       {
         "example": "枕状溶岩",
         "reading": "マクラジョウヨウガン",
-        "meaning": "pillow lava"
+        "meaning": {
+          "vi": "pillow lava"
+        },
+        "romaji": "makurajouyougan"
       },
       {
         "example": "開枕",
         "reading": "カイチン",
-        "meaning": "bringing out the pillows and futon (in Zen Buddhism), sleeping"
+        "meaning": {
+          "vi": "bringing out the pillows and futon (in Zen Buddhism), sleeping"
+        },
+        "romaji": "kaichin"
       },
       {
         "example": "陶枕",
         "reading": "トウチン",
-        "meaning": "porcelain pillow (used in summer)"
+        "meaning": {
+          "vi": "porcelain pillow (used in summer)"
+        },
+        "romaji": "touchin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枕",
         "reading": "まくら",
-        "meaning": "pillow, bolster, introduction (e.g. to a rakugo story), lead-in"
+        "meaning": {
+          "vi": "pillow, bolster, introduction (e.g. to a rakugo story), lead-in"
+        },
+        "romaji": "makura"
       },
       {
         "example": "枕絵",
         "reading": "まくらえ",
-        "meaning": "erotic picture"
+        "meaning": {
+          "vi": "erotic picture"
+        },
+        "romaji": "makurae"
       },
       {
         "example": "新枕",
         "reading": "にいまくら",
-        "meaning": "bridal bed"
+        "meaning": {
+          "en": "bridal bed"
+        },
+        "romaji": "niimakura"
       },
       {
         "example": "高枕",
         "reading": "たかまくら",
-        "meaning": "high pillow"
+        "meaning": {
+          "vi": "high pillow"
+        },
+        "romaji": "takamakura"
       }
     ],
     "radical": {
@@ -74,5 +98,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06795.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6795.gif",
     "uri": "https://jisho.org/search/%E6%9E%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "chấm",
+    "chẩm"
+  ]
 }

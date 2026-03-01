@@ -263,22 +263,34 @@
       {
         "example": "憲章",
         "reading": "ケンショウ",
-        "meaning": "charter"
+        "meaning": {
+          "en": "charter"
+        },
+        "romaji": "kenshou"
       },
       {
         "example": "憲政",
         "reading": "ケンセイ",
-        "meaning": "constitutional government, exemplary government, excellent government"
+        "meaning": {
+          "vi": "constitutional government, exemplary government, excellent government"
+        },
+        "romaji": "kensei"
       },
       {
         "example": "違憲",
         "reading": "イケン",
-        "meaning": "unconstitutionality"
+        "meaning": {
+          "en": "unconstitutionality"
+        },
+        "romaji": "iken"
       },
       {
         "example": "改憲",
         "reading": "カイケン",
-        "meaning": "constitutional change, revising the constitution"
+        "meaning": {
+          "en": "constitutional change, revising the constitution"
+        },
+        "romaji": "kaiken"
       }
     ],
     "kunyomiExamples": [],
@@ -302,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61b2.gif",
     "uri": "https://jisho.org/search/%E6%86%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiến"
+  ]
 }

@@ -312,34 +312,52 @@
       {
         "example": "秘",
         "reading": "ヒ",
-        "meaning": "secret, mystery"
+        "meaning": {
+          "en": "secret, mystery"
+        },
+        "romaji": "hi"
       },
       {
         "example": "秘書",
         "reading": "ヒショ",
-        "meaning": "(private) secretary, treasured book, secret book"
+        "meaning": {
+          "vi": "(private) secretary, treasured book, secret book"
+        },
+        "romaji": "hisho"
       },
       {
         "example": "部外秘",
         "reading": "ブガイヒ",
-        "meaning": "restricted, confidential"
+        "meaning": {
+          "en": "restricted, confidential"
+        },
+        "romaji": "bugaihi"
       },
       {
         "example": "社外秘",
         "reading": "シャガイヒ",
-        "meaning": "company secret, information for internal use only"
+        "meaning": {
+          "vi": "company secret, information for internal use only"
+        },
+        "romaji": "shagaihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "秘める",
         "reading": "ひめる",
-        "meaning": "to hide, to keep to oneself"
+        "meaning": {
+          "vi": "to hide, to keep to oneself"
+        },
+        "romaji": "himeru"
       },
       {
         "example": "密か",
         "reading": "ひそか",
-        "meaning": "secret, private, surreptitious"
+        "meaning": {
+          "vi": "secret, private, surreptitious"
+        },
+        "romaji": "hisoka"
       }
     ],
     "radical": {
@@ -356,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79d8.gif",
     "uri": "https://jisho.org/search/%E7%A7%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "bí"
+  ]
 }

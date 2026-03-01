@@ -391,44 +391,68 @@
       {
         "example": "国益",
         "reading": "コクエキ",
-        "meaning": "lợi ích quốc gia"
+        "meaning": {
+          "vi": "lợi ích quốc gia"
+        },
+        "romaji": "kokueki"
       },
       {
         "example": "国営",
         "reading": "コクエイ",
-        "meaning": "quản lý nhà nước, quốc doanh"
+        "meaning": {
+          "vi": "quản lý nhà nước, quốc doanh"
+        },
+        "romaji": "kokuei"
       },
       {
         "example": "最恵国",
         "reading": "サイケイコク",
-        "meaning": "tối huệ quốc, MFN"
+        "meaning": {
+          "vi": "tối huệ quốc, MFN"
+        },
+        "romaji": "saikeikoku"
       },
       {
         "example": "異国",
         "reading": "イコク",
-        "meaning": "nước ngoài"
+        "meaning": {
+          "vi": "nước ngoài"
+        },
+        "romaji": "ikoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "国",
         "reading": "くに",
-        "meaning": "quốc gia, nhà nước, vùng, chính phủ trung ương, quê hương, tỉnh (Nhật), đất đai"
+        "meaning": {
+          "vi": "quốc gia, nhà nước, vùng, chính phủ trung ương, quê hương, tỉnh (Nhật), đất đai"
+        },
+        "romaji": "kuni"
       },
       {
         "example": "国人",
         "reading": "こくじん",
-        "meaning": "người bản địa, dân địa phương, lãnh chúa địa phương (thời Muromachi)"
+        "meaning": {
+          "vi": "người bản địa, dân địa phương, lãnh chúa địa phương (thời Muromachi)"
+        },
+        "romaji": "kokujin"
       },
       {
         "example": "お国",
         "reading": "おくに",
-        "meaning": "quê hương của bạn, Nhật Bản (nước tôi), nông thôn, lãnh địa (thời Edo)"
+        "meaning": {
+          "vi": "quê hương của bạn, Nhật Bản (nước tôi), nông thôn, lãnh địa (thời Edo)"
+        },
+        "romaji": "okuni"
       },
       {
         "example": "現国",
         "reading": "うつしくに",
-        "meaning": "thế giới con người, cõi đời"
+        "meaning": {
+          "vi": "thế giới con người, cõi đời"
+        },
+        "romaji": "utsushikuni"
       }
     ],
     "radical": {
@@ -444,5 +468,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56fd.gif",
     "uri": "https://jisho.org/search/%E5%9B%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "quốc"
+  ]
 }

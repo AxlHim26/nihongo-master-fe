@@ -16,24 +16,36 @@
       {
         "example": "放屁",
         "reading": "ホウヒ",
-        "meaning": "breaking wind, farting"
+        "meaning": {
+          "en": "breaking wind, farting"
+        },
+        "romaji": "houhi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屁",
         "reading": "へ",
-        "meaning": "fart, gas, wind, worthless thing, insignificant thing"
+        "meaning": {
+          "en": "fart, gas, wind, worthless thing, insignificant thing"
+        },
+        "romaji": "he"
       },
       {
         "example": "屁負い比丘尼",
         "reading": "へおいびくに",
-        "meaning": "female servant hired to take the blame for a noblewoman's farts"
+        "meaning": {
+          "en": "female servant hired to take the blame for a noblewoman's farts"
+        },
+        "romaji": "heoibikuni"
       },
       {
         "example": "河童の屁",
         "reading": "かっぱのへ",
-        "meaning": "something easy to do, cinch, a kappa's fart"
+        "meaning": {
+          "vi": "something easy to do, cinch, a kappa's fart"
+        },
+        "romaji": "kappanohe"
       }
     ],
     "radical": {
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c41.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c41.gif",
     "uri": "https://jisho.org/search/%E5%B1%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "thí"
+  ]
 }

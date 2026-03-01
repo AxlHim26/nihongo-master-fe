@@ -18,12 +18,18 @@
       {
         "example": "招聘",
         "reading": "ショウヘイ",
-        "meaning": "(courteous) invitation, call"
+        "meaning": {
+          "en": "(courteous) invitation, call"
+        },
+        "romaji": "shouhei"
       },
       {
         "example": "傭聘",
         "reading": "ヨウヘイ",
-        "meaning": "employing, employment"
+        "meaning": {
+          "vi": "employing, employment"
+        },
+        "romaji": "youhei"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08058.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8058.gif",
     "uri": "https://jisho.org/search/%E8%81%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "sính"
+  ]
 }

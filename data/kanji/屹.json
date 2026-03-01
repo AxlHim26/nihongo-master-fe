@@ -16,12 +16,18 @@
       {
         "example": "屹然",
         "reading": "キツゼン",
-        "meaning": "towering, lofty, standing out without the influence of others, in splendid isolation"
+        "meaning": {
+          "vi": "towering, lofty, standing out without the influence of others, in splendid isolation"
+        },
+        "romaji": "kitsuzen"
       },
       {
         "example": "屹立",
         "reading": "キツリツ",
-        "meaning": "standing tall, towering, soaring"
+        "meaning": {
+          "en": "standing tall, towering, soaring"
+        },
+        "romaji": "kitsuritsu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c79.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c79.gif",
     "uri": "https://jisho.org/search/%E5%B1%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngật"
+  ]
 }

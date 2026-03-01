@@ -17,12 +17,18 @@
       {
         "example": "慟哭",
         "reading": "ドウコク",
-        "meaning": "wailing, lamentation"
+        "meaning": {
+          "en": "wailing, lamentation"
+        },
+        "romaji": "doukoku"
       },
       {
         "example": "哭慟",
         "reading": "コクドウ",
-        "meaning": "wailing, lamentation"
+        "meaning": {
+          "en": "wailing, lamentation"
+        },
+        "romaji": "kokudou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0615f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/615f.gif",
     "uri": "https://jisho.org/search/%E6%85%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "đỗng",
+    "động"
+  ]
 }

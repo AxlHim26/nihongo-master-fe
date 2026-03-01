@@ -13,105 +13,170 @@
       {
         "japanese": "七時（しちじ）",
         "meaning": {
-          "english": "7 o'clock",
-          "vietnamese": "7 giờ"
+          "vi": "7 giờ",
+          "en": "7 o'clock"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_a.mp3"
+        },
+        "hanViet": [
+          "thất",
+          "thì"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 時 (thì: lúc) → 7 giờ",
+          "en": "七 (seven: seven, 7) + 時 (tense: at) → 7 o'clock"
         }
       },
       {
         "japanese": "十七（じゅうしち/じゅうなな）",
         "meaning": {
-          "english": "17",
-          "vietnamese": "17"
+          "vi": "17",
+          "en": "17"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_b.mp3"
+        },
+        "hanViet": [
+          "thập",
+          "thất"
+        ],
+        "hanVietExplain": {
+          "vi": "十 (thập: mười, 10) + 七 (thất: bảy, 7) → 17",
+          "en": "十 (ten: ten, 10) + 七 (seven: seven, 7) → 17"
         }
       },
       {
         "japanese": "七五三（しちごさん）",
         "meaning": {
-          "english": "festival for children aged 7, 5 & 3",
-          "vietnamese": "lễ hội cho trẻ 7, 5 và 3 tuổi"
+          "vi": "lễ hội dành cho trẻ em 7, 5 & 3 tuổi",
+          "en": "festival for children aged 7, 5 & 3"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_c.mp3"
+        },
+        "hanViet": [
+          "thất",
+          "ngũ",
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 五 (ngũ: năm, 5) + 三 (tam: ba, 3) → lễ hội dành cho trẻ em 7, 5 & 3 tuổi",
+          "en": "七 (seven: seven, 7) + 五 (five: five, 5) + 三 (three: three, 3) → festival for children 7, 5 & 3 years old"
         }
       },
       {
         "japanese": "七回（ななかい）",
         "meaning": {
-          "english": "7 times",
-          "vietnamese": "7 lần"
+          "vi": "7 lần",
+          "en": "7 times"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_d.mp3"
+        },
+        "hanViet": [
+          "thất",
+          "hối"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 回 (hối: về) → 7 lần",
+          "en": "七 (that: seven, 7) + 回 (hoi: return) → 7 times"
         }
       },
       {
         "japanese": "七週間（ななしゅうかん）",
         "meaning": {
-          "english": "7 weeks",
-          "vietnamese": "7 tuần"
+          "vi": "7 tuần",
+          "en": "7 weeks"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_e.mp3"
+        },
+        "hanViet": [
+          "thất",
+          "chu",
+          "gian"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 週 (chu: đi khắp nơi) + 間 (gian: khoảng không gian) → 7 tuần",
+          "en": "七 (that: seven, 7) + 週 (chu: go everywhere) + 間 (space: space) → 7 weeks"
         }
       },
       {
         "japanese": "七才（ななさい）",
         "meaning": {
-          "english": "7 years old",
-          "vietnamese": "7 tuổi"
+          "vi": "7 tuổi",
+          "en": "7 years old"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_f.mp3"
+        },
+        "hanViet": [
+          "thất",
+          "tài"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 才 (tài: tài năng) → 7 tuổi",
+          "en": "七 (seven: seven, 7) + 才 (talent: talented) → 7 years old"
         }
       },
       {
         "japanese": "七日（なのか）",
         "meaning": {
-          "english": "7 days, 7th of the month",
-          "vietnamese": "7 ngày, ngày 7"
+          "vi": "7 ngày, ngày 7 tháng",
+          "en": "7 days, 7th of the month"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_g.mp3"
+        },
+        "hanViet": [
+          "thất",
+          "nhật"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 日 (nhật: Mặt Trời) → 7 ngày, ngày 7 tháng",
+          "en": "七 (seventh: seven, 7) + 日 (sun: sun) → 7 days, 7th day of the month"
         }
       },
       {
         "japanese": "七つ（ななつ）",
         "meaning": {
-          "english": "7 (objects)",
-          "vietnamese": "7 (đồ vật)"
+          "vi": "7 (đối tượng)",
+          "en": "7 (objects)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/7_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/7_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/7_06_h.mp3"
+        },
+        "hanViet": [
+          "thất"
+        ],
+        "hanVietExplain": {
+          "vi": "thất: bảy, 7",
+          "en": "interior: seven, 7"
         }
       }
     ],
@@ -334,59 +399,176 @@
       {
         "example": "七",
         "reading": "シチ",
-        "meaning": "seven"
+        "meaning": {
+          "vi": "bảy",
+          "en": "seven"
+        },
+        "hanViet": [
+          "thất"
+        ],
+        "hanVietExplain": {
+          "vi": "thất: bảy, 7",
+          "en": "interior: seven, 7"
+        },
+        "romaji": "shichi"
       },
       {
         "example": "７月",
         "reading": "シチガツ",
-        "meaning": "July, seventh month of the lunar calendar"
+        "meaning": {
+          "vi": "tháng bảy, tháng bảy âm lịch",
+          "en": "July, seventh month of the lunar calendar"
+        },
+        "hanViet": [
+          "nguyệt"
+        ],
+        "hanVietExplain": {
+          "vi": "nguyệt: Mặt Trăng, tháng",
+          "en": "lunar: moon, month"
+        },
+        "romaji": "shichigatsu"
       },
       {
         "example": "２７",
         "reading": "ニジュウシチ",
-        "meaning": "27, twenty seven, 3am"
+        "meaning": {
+          "vi": "27, hai mươi bảy, 3 giờ sáng",
+          "en": "27, twenty seven, 3am"
+        },
+        "hanViet": [],
+        "hanVietExplain": {
+          "vi": null,
+          "en": null
+        },
+        "romaji": "nijuushichi"
       },
       {
         "example": "セシウム１３７",
         "reading": "セシウムヒャクサンジュウシチ",
-        "meaning": "cesium-137, caesium-137"
+        "meaning": {
+          "vi": "xesi-137, xesi-137",
+          "en": "cesium-137, caesium-137"
+        },
+        "hanViet": [],
+        "hanVietExplain": {
+          "vi": null,
+          "en": null
+        },
+        "romaji": "seshiumuhyakusanjuushichi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "七",
         "reading": "しち",
-        "meaning": "seven"
+        "meaning": {
+          "vi": "bảy",
+          "en": "seven"
+        },
+        "hanViet": [
+          "thất"
+        ],
+        "hanVietExplain": {
+          "vi": "thất: bảy, 7",
+          "en": "interior: seven, 7"
+        },
+        "romaji": "shichi"
       },
       {
         "example": "７月",
         "reading": "しちがつ",
-        "meaning": "July, seventh month of the lunar calendar"
+        "meaning": {
+          "vi": "tháng bảy, tháng bảy âm lịch",
+          "en": "July, seventh month of the lunar calendar"
+        },
+        "hanViet": [
+          "nguyệt"
+        ],
+        "hanVietExplain": {
+          "vi": "nguyệt: Mặt Trăng, tháng",
+          "en": "lunar: moon, month"
+        },
+        "romaji": "shichigatsu"
       },
       {
         "example": "第七",
         "reading": "だいなな",
-        "meaning": "seventh"
+        "meaning": {
+          "vi": "thứ bảy",
+          "en": "seventh"
+        },
+        "hanViet": [
+          "đệ",
+          "thất"
+        ],
+        "hanVietExplain": {
+          "vi": "第 (đệ: thứ bậc) + 七 (thất: bảy, 7) → thứ bảy",
+          "en": "第 (di: rank) + 七 (that: seven, 7) → seventh"
+        },
+        "romaji": "dainana"
       },
       {
         "example": "２７",
         "reading": "にじゅうしち",
-        "meaning": "27, twenty seven, 3am"
+        "meaning": {
+          "vi": "27, hai mươi bảy, 3 giờ sáng",
+          "en": "27, twenty seven, 3am"
+        },
+        "hanViet": [],
+        "hanVietExplain": {
+          "vi": null,
+          "en": null
+        },
+        "romaji": "nijuushichi"
       },
       {
         "example": "七つ",
         "reading": "ななつ",
-        "meaning": "seven, seven years of age, four o'clock (old time system)"
+        "meaning": {
+          "vi": "bảy, bảy tuổi, bốn giờ (hệ thống thời gian cũ)",
+          "en": "seven, seven years of age, four o'clock (old time system)"
+        },
+        "hanViet": [
+          "thất"
+        ],
+        "hanVietExplain": {
+          "vi": "thất: bảy, 7",
+          "en": "interior: seven, 7"
+        },
+        "romaji": "nanatsu"
       },
       {
         "example": "七帯アルマジロ",
         "reading": "ななつおびアルマジロ",
-        "meaning": "seven-banded armadillo (Dasypus septemcinctus)"
+        "meaning": {
+          "vi": "armadillo bảy dải (dasypus septemcinctus)",
+          "en": "seven-banded armadillo (Dasypus septemcinctus)"
+        },
+        "hanViet": [
+          "thất",
+          "đái"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 帯 (đái: đều) → armadillo bảy dải (dasypus septemcinctus)",
+          "en": "七 (seven: seven, 7) + 帯 (pee: even) → seven-banded armadillo (dasypus septemcinctus)"
+        },
+        "romaji": "nanatsuobiarumajiro"
       },
       {
         "example": "７日",
         "reading": "なのか",
-        "meaning": "7th day of the month, seven days"
+        "meaning": {
+          "vi": "ngày thứ bảy trong tháng, bảy ngày",
+          "en": "7th day of the month, seven days"
+        },
+        "hanViet": [
+          "nhật"
+        ],
+        "hanVietExplain": {
+          "vi": "nhật: Mặt Trời, ngày",
+          "en": "sun: sun, day"
+        },
+        "romaji": "nanoka"
       }
     ],
     "radical": {
@@ -402,5 +584,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e03.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e03.gif",
     "uri": "https://jisho.org/search/%E4%B8%83%23kanji"
+  },
+  "hanViet": [
+    "thất"
+  ],
+  "hanVietExplain": {
+    "vi": "thất: bảy, 7",
+    "en": "interior: seven, 7"
+  },
+  "meaning": {
+    "vi": "bảy",
+    "en": "seven"
   }
 }

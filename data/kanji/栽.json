@@ -17,22 +17,34 @@
       {
         "example": "栽培",
         "reading": "サイバイ",
-        "meaning": "trồng trọt, canh tác"
+        "meaning": {
+          "vi": "trồng trọt, canh tác"
+        },
+        "romaji": "saibai"
       },
       {
         "example": "栽培家",
         "reading": "サイバイカ",
-        "meaning": "người trồng, nông dân"
+        "meaning": {
+          "vi": "người trồng, nông dân"
+        },
+        "romaji": "saibaika"
       },
       {
         "example": "植栽",
         "reading": "ショクサイ",
-        "meaning": "trồng cây và thực vật"
+        "meaning": {
+          "vi": "trồng cây và thực vật"
+        },
+        "romaji": "shokusai"
       },
       {
         "example": "輪栽",
         "reading": "リンサイ",
-        "meaning": "luân canh"
+        "meaning": {
+          "vi": "luân canh"
+        },
+        "romaji": "rinsai"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0683d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/683d.gif",
     "uri": "https://jisho.org/search/%E6%A0%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tài",
+    "tải"
+  ]
 }

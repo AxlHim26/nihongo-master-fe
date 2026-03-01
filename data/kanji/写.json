@@ -349,49 +349,76 @@
       {
         "example": "写真集",
         "reading": "シャシンシュウ",
-        "meaning": "tập ảnh, sách ảnh"
+        "meaning": {
+          "vi": "tập ảnh, sách ảnh"
+        },
+        "romaji": "shashinshuu"
       },
       {
         "example": "写真",
         "reading": "シャシン",
-        "meaning": "ảnh, nhiếp ảnh, phim"
+        "meaning": {
+          "vi": "ảnh, nhiếp ảnh, phim"
+        },
+        "romaji": "shashin"
       },
       {
         "example": "実写",
         "reading": "ジッシャ",
-        "meaning": "quay thật (không phim hoạt hình), ảnh thật, mô tả"
+        "meaning": {
+          "vi": "quay thật (không phim hoạt hình), ảnh thật, mô tả"
+        },
+        "romaji": "jissha"
       },
       {
         "example": "活写",
         "reading": "カッシャ",
-        "meaning": "miêu tả sinh động"
+        "meaning": {
+          "vi": "miêu tả sinh động"
+        },
+        "romaji": "kassha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "写す",
         "reading": "うつす",
-        "meaning": "sao chép, chụp ảnh, quay phim, miêu tả"
+        "meaning": {
+          "vi": "sao chép, chụp ảnh, quay phim, miêu tả"
+        },
+        "romaji": "utsusu"
       },
       {
         "example": "写る",
         "reading": "うつる",
-        "meaning": "được chụp, được chiếu"
+        "meaning": {
+          "vi": "được chụp, được chiếu"
+        },
+        "romaji": "utsuru"
       },
       {
         "example": "写ルンです",
         "reading": "うつルンです",
-        "meaning": "QuickSnap (nhãn máy ảnh dùng một lần Fujifilm)"
+        "meaning": {
+          "vi": "QuickSnap (nhãn máy ảnh dùng một lần Fujifilm)"
+        },
+        "romaji": "utsurundesu"
       },
       {
         "example": "写し",
         "reading": "うつし",
-        "meaning": "bản sao, bản sao chép"
+        "meaning": {
+          "vi": "bản sao, bản sao chép"
+        },
+        "romaji": "utsushi"
       },
       {
         "example": "映し出す",
         "reading": "うつしだす",
-        "meaning": "chiếu, phản chiếu, miêu tả"
+        "meaning": {
+          "vi": "chiếu, phản chiếu, miêu tả"
+        },
+        "romaji": "utsushidasu"
       }
     ],
     "radical": {
@@ -407,5 +434,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05199.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5199.gif",
     "uri": "https://jisho.org/search/%E5%86%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "tả"
+  ]
 }

@@ -18,19 +18,28 @@
       {
         "example": "古潭",
         "reading": "コタン",
-        "meaning": "old abyss"
+        "meaning": {
+          "en": "old abyss"
+        },
+        "romaji": "kotan"
       },
       {
         "example": "深潭",
         "reading": "シンタン",
-        "meaning": "abyss"
+        "meaning": {
+          "en": "abyss"
+        },
+        "romaji": "shintan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "淵",
         "reading": "ふち",
-        "meaning": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+        "meaning": {
+          "vi": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+        },
+        "romaji": "fuchi"
       }
     ],
     "radical": {
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6d.gif",
     "uri": "https://jisho.org/search/%E6%BD%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tầm",
+    "đàm"
+  ]
 }

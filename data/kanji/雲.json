@@ -328,44 +328,68 @@
       {
         "example": "雲散霧消",
         "reading": "ウンサンムショウ",
-        "meaning": "vanishing like mist"
+        "meaning": {
+          "en": "vanishing like mist"
+        },
+        "romaji": "unsanmushou"
       },
       {
         "example": "雲海",
         "reading": "ウンカイ",
-        "meaning": "sea of clouds"
+        "meaning": {
+          "en": "sea of clouds"
+        },
+        "romaji": "unkai"
       },
       {
         "example": "青雲",
         "reading": "セイウン",
-        "meaning": "blue sky, erudition, detachment from the world, high rank"
+        "meaning": {
+          "en": "blue sky, erudition, detachment from the world, high rank"
+        },
+        "romaji": "seiun"
       },
       {
         "example": "星雲",
         "reading": "セイウン",
-        "meaning": "nebula, galaxy"
+        "meaning": {
+          "en": "nebula, galaxy"
+        },
+        "romaji": "seiun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雲",
         "reading": "くも",
-        "meaning": "cloud"
+        "meaning": {
+          "en": "cloud"
+        },
+        "romaji": "kumo"
       },
       {
         "example": "雲行き",
         "reading": "くもゆき",
-        "meaning": "weather, look of the sky, situation, turn of affairs, signs, way the wind is blowing"
+        "meaning": {
+          "en": "weather, look of the sky, situation, turn of affairs, signs, way the wind is blowing"
+        },
+        "romaji": "kumoyuki"
       },
       {
         "example": "白雲",
         "reading": "しらくも",
-        "meaning": "white clouds"
+        "meaning": {
+          "en": "white clouds"
+        },
+        "romaji": "shirakumo"
       },
       {
         "example": "八重雲",
         "reading": "やえぐも",
-        "meaning": "layers of clouds"
+        "meaning": {
+          "en": "layers of clouds"
+        },
+        "romaji": "yaegumo"
       }
     ],
     "radical": {
@@ -382,5 +406,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f2.gif",
     "uri": "https://jisho.org/search/%E9%9B%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "vân"
+  ]
 }

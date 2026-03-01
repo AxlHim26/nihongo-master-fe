@@ -17,17 +17,26 @@
       {
         "example": "寂寞",
         "reading": "セキバク",
-        "meaning": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        "meaning": {
+          "en": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        },
+        "romaji": "sekibaku"
       },
       {
         "example": "索莫",
         "reading": "サクバク",
-        "meaning": "dreary, bleak, desolate"
+        "meaning": {
+          "en": "dreary, bleak, desolate"
+        },
+        "romaji": "sakubaku"
       },
       {
         "example": "寂寞",
         "reading": "ジャクマク",
-        "meaning": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        "meaning": {
+          "en": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        },
+        "romaji": "jakumaku"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bde.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bde.gif",
     "uri": "https://jisho.org/search/%E5%AF%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "mịch"
+  ]
 }

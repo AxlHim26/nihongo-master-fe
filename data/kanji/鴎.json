@@ -18,22 +18,32 @@
       {
         "example": "【カモメ】",
         "reading": "common gull (Larus canus), gull (Laridae spp.), seagull",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "common gull (Larus canus), gull (Laridae spp.), seagull"
       },
       {
         "example": "鴎髱",
         "reading": "かもめづと",
-        "meaning": "chignon resembling a seagull's spread tail feathers (Edo-period women's hairstyle)"
+        "meaning": {
+          "vi": "chignon resembling a seagull's spread tail feathers (Edo-period women's hairstyle)"
+        },
+        "romaji": "kamomezuto"
       },
       {
         "example": "笑い鴎",
         "reading": "わらいかもめ",
-        "meaning": "laughing gull (Leucophaeus atricilla)"
+        "meaning": {
+          "vi": "laughing gull (Leucophaeus atricilla)"
+        },
+        "romaji": "waraikamome"
       },
       {
         "example": "盗賊鴎",
         "reading": "とうぞくかもめ",
-        "meaning": "skua (any bird of family Stercorariidae, incl. the jaegers), pomarine jaeger (Stercorarius pomarinus), pomarine skua"
+        "meaning": {
+          "vi": "skua (any bird of family Stercorariidae, incl. the jaegers), pomarine jaeger (Stercorarius pomarinus), pomarine skua"
+        },
+        "romaji": "touzokukamome"
       }
     ],
     "radical": {
@@ -51,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d0e.gif",
     "uri": "https://jisho.org/search/%E9%B4%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "âu"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "防遏",
         "reading": "ボウアツ",
-        "meaning": "prevention, preclusion"
+        "meaning": {
+          "vi": "prevention, preclusion"
+        },
+        "romaji": "bouatsu"
       },
       {
         "example": "禁遏",
         "reading": "キンアツ",
-        "meaning": "prohibition, ban"
+        "meaning": {
+          "vi": "prohibition, ban"
+        },
+        "romaji": "kin'atsu"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0904f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/904f.gif",
     "uri": "https://jisho.org/search/%E9%81%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "át"
+  ]
 }

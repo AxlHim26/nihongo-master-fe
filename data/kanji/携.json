@@ -20,34 +20,52 @@
       {
         "example": "携帯",
         "reading": "ケイタイ",
-        "meaning": "carrying (on one's person or in the hand), mobile phone, cell phone"
+        "meaning": {
+          "vi": "carrying (on one's person or in the hand), mobile phone, cell phone"
+        },
+        "romaji": "keitai"
       },
       {
         "example": "携帯ストラップ",
         "reading": "ケイタイストラップ",
-        "meaning": "straps for mobile phone"
+        "meaning": {
+          "vi": "straps for mobile phone"
+        },
+        "romaji": "keitaisutorappu"
       },
       {
         "example": "連携",
         "reading": "レンケイ",
-        "meaning": "cooperation, coordination, collaboration, alignment, integration, linking"
+        "meaning": {
+          "vi": "cooperation, coordination, collaboration, alignment, integration, linking"
+        },
+        "romaji": "renkei"
       },
       {
         "example": "戦略的提携",
         "reading": "センリャクテキテイケイ",
-        "meaning": "strategic partnership"
+        "meaning": {
+          "vi": "strategic partnership"
+        },
+        "romaji": "senryakutekiteikei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "携える",
         "reading": "たずさえる",
-        "meaning": "to carry in one's hand, to carry with one, to have on one's person, to bear, to take along (someone), to take (someone) with one, to be accompanied by"
+        "meaning": {
+          "vi": "to carry in one's hand, to carry with one, to have on one's person, to bear, to take along (someone), to take (someone) with one, to be accompanied by"
+        },
+        "romaji": "tazusaeru"
       },
       {
         "example": "携わる",
         "reading": "たずさわる",
-        "meaning": "to engage in, to participate in, to take part in, to be involved in"
+        "meaning": {
+          "vi": "to engage in, to participate in, to take part in, to be involved in"
+        },
+        "romaji": "tazusawaru"
       }
     ],
     "radical": {
@@ -67,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0643a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/643a.gif",
     "uri": "https://jisho.org/search/%E6%90%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "huề"
+  ]
 }

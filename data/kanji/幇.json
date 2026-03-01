@@ -16,17 +16,26 @@
       {
         "example": "幇間",
         "reading": "ホウカン",
-        "meaning": "professional jester, professional entertainer, comedian, buffoon"
+        "meaning": {
+          "vi": "professional jester, professional entertainer, comedian, buffoon"
+        },
+        "romaji": "houkan"
       },
       {
         "example": "幇助",
         "reading": "ホウジョ",
-        "meaning": "assistance, backing, support, aiding and abetting (a crime), abetment"
+        "meaning": {
+          "vi": "assistance, backing, support, aiding and abetting (a crime), abetment"
+        },
+        "romaji": "houjo"
       },
       {
         "example": "竹聯幇",
         "reading": "チクレンホウ",
-        "meaning": "United Bamboo Gang (Taiwanese crime syndicate)"
+        "meaning": {
+          "en": "United Bamboo Gang (Taiwanese crime syndicate)"
+        },
+        "romaji": "chikurenhou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e47.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e47.gif",
     "uri": "https://jisho.org/search/%E5%B9%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "bang"
+  ]
 }

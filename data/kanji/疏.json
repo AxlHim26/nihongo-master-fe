@@ -22,34 +22,52 @@
       {
         "example": "疏",
         "reading": "ソ",
-        "meaning": "detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"
+        "meaning": {
+          "vi": "detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"
+        },
+        "romaji": "so"
       },
       {
         "example": "疎通",
         "reading": "ソツウ",
-        "meaning": "(mutual) understanding, communication, passing without obstruction"
+        "meaning": {
+          "vi": "(mutual) understanding, communication, passing without obstruction"
+        },
+        "romaji": "sotsuu"
       },
       {
         "example": "注疏",
         "reading": "チュウソ",
-        "meaning": "(detailed) commentary, notes, comments"
+        "meaning": {
+          "en": "(detailed) commentary, notes, comments"
+        },
+        "romaji": "chuuso"
       },
       {
         "example": "上疏",
         "reading": "ジョウソ",
-        "meaning": "reporting to the emperor"
+        "meaning": {
+          "vi": "reporting to the emperor"
+        },
+        "romaji": "jouso"
       },
       {
         "example": "疏",
         "reading": "ソ",
-        "meaning": "detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"
+        "meaning": {
+          "vi": "detailed commentary, explanation, annotation, memorial to the throne (esp. itemized)"
+        },
+        "romaji": "so"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "疎ら",
         "reading": "まばら",
-        "meaning": "sparse, thin, scattered, straggling, sporadic"
+        "meaning": {
+          "vi": "sparse, thin, scattered, straggling, sporadic"
+        },
+        "romaji": "mabara"
       }
     ],
     "radical": {
@@ -69,5 +87,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0758f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/758f.gif",
     "uri": "https://jisho.org/search/%E7%96%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "sơ",
+    "sớ"
+  ]
 }

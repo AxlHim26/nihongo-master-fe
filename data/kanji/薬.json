@@ -377,34 +377,52 @@
       {
         "example": "薬",
         "reading": "ヤク",
-        "meaning": "dope, narcotic, drug"
+        "meaning": {
+          "vi": "dope, narcotic, drug"
+        },
+        "romaji": "yaku"
       },
       {
         "example": "薬価",
         "reading": "ヤッカ",
-        "meaning": "drug price, cost of medicine"
+        "meaning": {
+          "vi": "drug price, cost of medicine"
+        },
+        "romaji": "yakka"
       },
       {
         "example": "製薬",
         "reading": "セイヤク",
-        "meaning": "medicine manufacture, drug manufacture"
+        "meaning": {
+          "en": "medicine manufacture, drug manufacture"
+        },
+        "romaji": "seiyaku"
       },
       {
         "example": "医薬",
         "reading": "イヤク",
-        "meaning": "medicine, Pharmaceutical and Food Safety Bureau"
+        "meaning": {
+          "vi": "medicine, Pharmaceutical and Food Safety Bureau"
+        },
+        "romaji": "iyaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "薬",
         "reading": "くすり",
-        "meaning": "medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve, efficacious chemical (gunpowder, pesticide, etc.), (pottery) glaze, (illegal) drug, narcotic, small bribe"
+        "meaning": {
+          "vi": "medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve, efficacious chemical (gunpowder, pesticide, etc.), (pottery) glaze, (illegal) drug, narcotic, small bribe"
+        },
+        "romaji": "kusuri"
       },
       {
         "example": "薬指",
         "reading": "くすりゆび",
-        "meaning": "ring finger, third finger, fourth finger (in piano-playing), fourth toe"
+        "meaning": {
+          "vi": "ring finger, third finger, fourth finger (in piano-playing), fourth toe"
+        },
+        "romaji": "kusuriyubi"
       }
     ],
     "radical": {
@@ -424,5 +442,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ac.gif",
     "uri": "https://jisho.org/search/%E8%96%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "dược"
+  ]
 }

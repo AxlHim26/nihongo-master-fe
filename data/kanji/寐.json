@@ -16,24 +16,36 @@
       {
         "example": "寐語",
         "reading": "ビゴ",
-        "meaning": "sleep-talking, nonsense"
+        "meaning": {
+          "vi": "sleep-talking, nonsense"
+        },
+        "romaji": "bigo"
       },
       {
         "example": "寤寐",
         "reading": "ゴビ",
-        "meaning": "being asleep and awake"
+        "meaning": {
+          "vi": "being asleep and awake"
+        },
+        "romaji": "gobi"
       },
       {
         "example": "夢寐",
         "reading": "ムビ",
-        "meaning": "asleep, dreaming"
+        "meaning": {
+          "vi": "asleep, dreaming"
+        },
+        "romaji": "mubi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寝る",
         "reading": "ねる",
-        "meaning": "to sleep (lying down), to go to bed, to lie in bed, to lie down, to sleep (with someone, i.e. have intercourse), to lie flat (e.g. of hair), to lie idle (of funds, stock, etc.), to ferment (of soy sauce, miso, etc.)"
+        "meaning": {
+          "vi": "to sleep (lying down), to go to bed, to lie in bed, to lie down, to sleep (with someone, i.e. have intercourse), to lie flat (e.g. of hair), to lie idle (of funds, stock, etc.), to ferment (of soy sauce, miso, etc.)"
+        },
+        "romaji": "neru"
       }
     ],
     "radical": {
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd0.gif",
     "uri": "https://jisho.org/search/%E5%AF%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "mị"
+  ]
 }

@@ -20,12 +20,18 @@
       {
         "example": "啓迪",
         "reading": "ケイテキ",
-        "meaning": "edification, enlightenment, guide"
+        "meaning": {
+          "en": "edification, enlightenment, guide"
+        },
+        "romaji": "keiteki"
       },
       {
         "example": "訓迪",
         "reading": "クンテキ",
-        "meaning": "guide, master, teacher"
+        "meaning": {
+          "en": "guide, master, teacher"
+        },
+        "romaji": "kunteki"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fea.gif",
     "uri": "https://jisho.org/search/%E8%BF%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "địch"
+  ]
 }

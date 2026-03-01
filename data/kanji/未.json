@@ -326,79 +326,124 @@
       {
         "example": "未",
         "reading": "ミ",
-        "meaning": "not yet, un-"
+        "meaning": {
+          "en": "not yet, un-"
+        },
+        "romaji": "mi"
       },
       {
         "example": "未解決",
         "reading": "ミカイケツ",
-        "meaning": "unsolved, unresolved, unsettled, pending, outstanding"
+        "meaning": {
+          "vi": "unsolved, unresolved, unsettled, pending, outstanding"
+        },
+        "romaji": "mikaiketsu"
       },
       {
         "example": "過現未",
         "reading": "カゲンミ",
-        "meaning": "past, present and future, three states of existence"
+        "meaning": {
+          "vi": "past, present and future, three states of existence"
+        },
+        "romaji": "kagenmi"
       },
       {
         "example": "未亡人",
         "reading": "ミボウジン",
-        "meaning": "widow"
+        "meaning": {
+          "en": "widow"
+        },
+        "romaji": "miboujin"
       },
       {
         "example": "未央柳",
         "reading": "ビヨウヤナギ",
-        "meaning": "Chinese hypericum (Hypericum monogynum)"
+        "meaning": {
+          "vi": "Chinese hypericum (Hypericum monogynum)"
+        },
+        "romaji": "biyouyanagi"
       },
       {
         "example": "丁未",
         "reading": "ヒノトヒツジ",
-        "meaning": "Fire Sheep (44th term of the sexagenary cycle, e.g. 1907, 1967, 2027)"
+        "meaning": {
+          "vi": "Fire Sheep (44th term of the sexagenary cycle, e.g. 1907, 1967, 2027)"
+        },
+        "romaji": "hinotohitsuji"
       },
       {
         "example": "癸未",
         "reading": "ミズノトヒツジ",
-        "meaning": "Water Sheep (20th term of the sexagenary cycle, e.g. 1943, 2003, 2063)"
+        "meaning": {
+          "vi": "Water Sheep (20th term of the sexagenary cycle, e.g. 1943, 2003, 2063)"
+        },
+        "romaji": "mizunotohitsuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "未だ",
         "reading": "まだ",
-        "meaning": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done"
+        "meaning": {
+          "vi": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done"
+        },
+        "romaji": "mada"
       },
       {
         "example": "未だかつて",
         "reading": "いまだかつて",
-        "meaning": "never (before)"
+        "meaning": {
+          "en": "never (before)"
+        },
+        "romaji": "imadakatsute"
       },
       {
         "example": "未だ",
         "reading": "まだ",
-        "meaning": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done"
+        "meaning": {
+          "vi": "still, as yet, only, (not) yet, more, (more) still, at least, comparatively, relatively, unfinished, incomplete, not yet done"
+        },
+        "romaji": "mada"
       },
       {
         "example": "未だしも",
         "reading": "まだしも",
-        "meaning": "rather, better"
+        "meaning": {
+          "en": "rather, better"
+        },
+        "romaji": "madashimo"
       },
       {
         "example": "未",
         "reading": "ひつじ",
-        "meaning": "the Sheep (eighth sign of the Chinese zodiac), the Ram, the Goat, hour of the Sheep (around 2pm, 1-3pm, or 2-4pm), south-southwest, sixth month of the lunar calendar"
+        "meaning": {
+          "vi": "the Sheep (eighth sign of the Chinese zodiac), the Ram, the Goat, hour of the Sheep (around 2pm, 1-3pm, or 2-4pm), south-southwest, sixth month of the lunar calendar"
+        },
+        "romaji": "hitsuji"
       },
       {
         "example": "未草",
         "reading": "ひつじぐさ",
-        "meaning": "pygmy waterlily (Nymphaea tetragona)"
+        "meaning": {
+          "vi": "pygmy waterlily (Nymphaea tetragona)"
+        },
+        "romaji": "hitsujigusa"
       },
       {
         "example": "辛未",
         "reading": "かのとひつじ",
-        "meaning": "Metal Sheep (8th term of the sexagenary cycle, e.g. 1931, 1991, 2051)"
+        "meaning": {
+          "vi": "Metal Sheep (8th term of the sexagenary cycle, e.g. 1931, 1991, 2051)"
+        },
+        "romaji": "kanotohitsuji"
       },
       {
         "example": "乙未",
         "reading": "きのとひつじ",
-        "meaning": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+        "meaning": {
+          "vi": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+        },
+        "romaji": "kinotohitsuji"
       }
     ],
     "radical": {
@@ -416,5 +461,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672a.gif",
     "uri": "https://jisho.org/search/%E6%9C%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "mùi",
+    "vị"
+  ]
 }

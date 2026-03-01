@@ -18,24 +18,36 @@
       {
         "example": "櫛歯",
         "reading": "クシバ",
-        "meaning": "comb teeth"
+        "meaning": {
+          "en": "comb teeth"
+        },
+        "romaji": "kushiba"
       },
       {
         "example": "櫛状",
         "reading": "クシジョウ",
-        "meaning": "comb-shaped, pectiniform"
+        "meaning": {
+          "vi": "comb-shaped, pectiniform"
+        },
+        "romaji": "kushijou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "櫛",
         "reading": "くし",
-        "meaning": "comb"
+        "meaning": {
+          "en": "comb"
+        },
+        "romaji": "kushi"
       },
       {
         "example": "櫛板",
         "reading": "くしいた",
-        "meaning": "pecten, comb plate, comb plate (of an escalator, etc.)"
+        "meaning": {
+          "vi": "pecten, comb plate, comb plate (of an escalator, etc.)"
+        },
+        "romaji": "kushiita"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06adb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6adb.gif",
     "uri": "https://jisho.org/search/%E6%AB%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "trất"
+  ]
 }

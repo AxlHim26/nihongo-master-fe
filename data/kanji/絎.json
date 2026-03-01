@@ -18,7 +18,10 @@
       {
         "example": "絎ける",
         "reading": "くける",
-        "meaning": "to blindstitch"
+        "meaning": {
+          "en": "to blindstitch"
+        },
+        "romaji": "kukeru"
       }
     ],
     "radical": {
@@ -39,5 +42,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d4e.gif",
     "uri": "https://jisho.org/search/%E7%B5%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàng",
+    "hạnh"
+  ]
 }

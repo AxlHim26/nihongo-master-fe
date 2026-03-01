@@ -297,10 +297,10 @@
     "rad_name_file": "hakuhen",
     "kanji": {
       "character": "的",
-"meaning": {
-          "english": "target, adjectival suffix",
-          "vietnamese": "mục tiêu, hậu tố tính từ"
-        },
+      "meaning": {
+        "english": "target, adjectival suffix",
+        "vietnamese": "mục tiêu, hậu tố tính từ"
+      },
       "strokes": {
         "count": 8,
         "timings": [
@@ -385,44 +385,68 @@
       {
         "example": "的",
         "reading": "テキ",
-        "meaning": "-ical, -ive, -al, -ic, -y, -like, -ish, -sort of, -kind of, (something) like, along the lines of, -wise, in terms of, for, from the viewpoint of, from a ... standpoint, as far as ... is concerned, Mr., Ms., Mrs."
+        "meaning": {
+          "vi": "-ical, -ive, -al, -ic, -y, -like, -ish, -sort of, -kind of, (something) like, along the lines of, -wise, in terms of, for, from the viewpoint of, from a ... standpoint, as far as ... is concerned, Mr., Ms., Mrs."
+        },
+        "romaji": "teki"
       },
       {
         "example": "的確",
         "reading": "テキカク",
-        "meaning": "accurate, precise, exact, appropriate, apt, right"
+        "meaning": {
+          "vi": "accurate, precise, exact, appropriate, apt, right"
+        },
+        "romaji": "tekikaku"
       },
       {
         "example": "公的",
         "reading": "コウテキ",
-        "meaning": "public, official"
+        "meaning": {
+          "vi": "public, official"
+        },
+        "romaji": "kouteki"
       },
       {
         "example": "人為的",
         "reading": "ジンイテキ",
-        "meaning": "artificial, unnatural, human-caused (e.g. mistake, error, disaster), man-made"
+        "meaning": {
+          "en": "artificial, unnatural, human-caused (e.g. mistake, error, disaster), man-made"
+        },
+        "romaji": "jin'iteki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "的",
         "reading": "まと",
-        "meaning": "mark, target, object, subject, focus, point (e.g. of argument)"
+        "meaning": {
+          "vi": "mark, target, object, subject, focus, point (e.g. of argument)"
+        },
+        "romaji": "mato"
       },
       {
         "example": "的外れ",
         "reading": "まとはずれ",
-        "meaning": "off the mark, off base, misdirected, irrelevant"
+        "meaning": {
+          "en": "off the mark, off base, misdirected, irrelevant"
+        },
+        "romaji": "matohazure"
       },
       {
         "example": "憧れの的",
         "reading": "あこがれのまと",
-        "meaning": "object of adoration, longing"
+        "meaning": {
+          "en": "object of adoration, longing"
+        },
+        "romaji": "akogarenomato"
       },
       {
         "example": "小的",
         "reading": "こまと",
-        "meaning": "small mark, small target"
+        "meaning": {
+          "en": "small mark, small target"
+        },
+        "romaji": "komato"
       }
     ],
     "radical": {
@@ -438,5 +462,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07684.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7684.gif",
     "uri": "https://jisho.org/search/%E7%9A%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "đích",
+    "để"
+  ]
 }

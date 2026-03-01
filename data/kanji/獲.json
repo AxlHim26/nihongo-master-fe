@@ -19,29 +19,44 @@
       {
         "example": "獲得",
         "reading": "カクトク",
-        "meaning": "acquisition, possession"
+        "meaning": {
+          "vi": "acquisition, possession"
+        },
+        "romaji": "kakutoku"
       },
       {
         "example": "獲得形質",
         "reading": "カクトクケイシツ",
-        "meaning": "acquired characteristics (as opposed to inherited)"
+        "meaning": {
+          "vi": "acquired characteristics (as opposed to inherited)"
+        },
+        "romaji": "kakutokukeishitsu"
       },
       {
         "example": "乱獲",
         "reading": "ランカク",
-        "meaning": "overfishing, overhunting, indiscriminate fishing, indiscriminate hunting"
+        "meaning": {
+          "en": "overfishing, overhunting, indiscriminate fishing, indiscriminate hunting"
+        },
+        "romaji": "rankaku"
       },
       {
         "example": "収獲",
         "reading": "シュウカク",
-        "meaning": "catch (fishing), bag (hunting), haul"
+        "meaning": {
+          "en": "catch (fishing), bag (hunting), haul"
+        },
+        "romaji": "shuukaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "得る",
         "reading": "える",
-        "meaning": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win, to understand, to comprehend, to receive something undesirable (e.g. a punishment), to get (ill), to be able to ..., can ..."
+        "meaning": {
+          "vi": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win, to understand, to comprehend, to receive something undesirable (e.g. a punishment), to get (ill), to be able to ..., can ..."
+        },
+        "romaji": "eru"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07372.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7372.gif",
     "uri": "https://jisho.org/search/%E7%8D%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạch"
+  ]
 }

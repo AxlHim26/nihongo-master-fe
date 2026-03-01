@@ -22,74 +22,116 @@
       {
         "example": "蒲公英",
         "reading": "タンポポ",
-        "meaning": "dandelion (esp. species Taraxacum platycarpum)"
+        "meaning": {
+          "vi": "dandelion (esp. species Taraxacum platycarpum)"
+        },
+        "romaji": "tanpopo"
       },
       {
         "example": "蒲黄",
         "reading": "ホオウ",
-        "meaning": "cattail pollen (used in traditional Chinese medicine)"
+        "meaning": {
+          "vi": "cattail pollen (used in traditional Chinese medicine)"
+        },
+        "romaji": "hoou"
       },
       {
         "example": "布団",
         "reading": "フトン",
-        "meaning": "futon, Japanese bedding consisting of a mattress and a duvet, round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+        "meaning": {
+          "vi": "futon, Japanese bedding consisting of a mattress and a duvet, round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+        },
+        "romaji": "futon"
       },
       {
         "example": "蒲桃",
         "reading": "フトモモ",
-        "meaning": "rose apple (Syzygium jambos), Malabar plum, jambos"
+        "meaning": {
+          "vi": "rose apple (Syzygium jambos), Malabar plum, jambos"
+        },
+        "romaji": "futomomo"
       },
       {
         "example": "座蒲",
         "reading": "ザフ",
-        "meaning": "round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+        "meaning": {
+          "en": "round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+        },
+        "romaji": "zafu"
       },
       {
         "example": "匂い菖蒲",
         "reading": "ニオイショウブ",
-        "meaning": "aromatic cane, orris"
+        "meaning": {
+          "en": "aromatic cane, orris"
+        },
+        "romaji": "nioishoubu"
       },
       {
         "example": "黄菖蒲",
         "reading": "キショウブ",
-        "meaning": "yellow iris"
+        "meaning": {
+          "en": "yellow iris"
+        },
+        "romaji": "kishoubu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蒲",
         "reading": "がま",
-        "meaning": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace"
+        "meaning": {
+          "vi": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace"
+        },
+        "romaji": "gama"
       },
       {
         "example": "小蒲",
         "reading": "こがま",
-        "meaning": "Typha orientalis"
+        "meaning": {
+          "vi": "Typha orientalis"
+        },
+        "romaji": "kogama"
       },
       {
         "example": "蒲",
         "reading": "かば",
-        "meaning": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace, reddish yellow"
+        "meaning": {
+          "vi": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace, reddish yellow"
+        },
+        "romaji": "kaba"
       },
       {
         "example": "樺色",
         "reading": "かばいろ",
-        "meaning": "reddish yellow"
+        "meaning": {
+          "en": "reddish yellow"
+        },
+        "romaji": "kabairo"
       },
       {
         "example": "蒲",
         "reading": "がま",
-        "meaning": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace"
+        "meaning": {
+          "vi": "common cattail (Typha latifolia), broadleaf cattail, common bulrush, great reedmace"
+        },
+        "romaji": "gama"
       },
       {
         "example": "蒲魚",
         "reading": "かまとと",
-        "meaning": "feigning ignorance, feigning naivety, pretense of innocence, person (esp. a woman) pretending to be innocent, ignorant or naive, faux-naïf"
+        "meaning": {
+          "vi": "feigning ignorance, feigning naivety, pretense of innocence, person (esp. a woman) pretending to be innocent, ignorant or naive, faux-naïf"
+        },
+        "romaji": "kamatoto"
       },
       {
         "example": "カニ蒲",
         "reading": "カニかま",
-        "meaning": "imitation crab meat, crab sticks"
+        "meaning": {
+          "en": "imitation crab meat, crab sticks"
+        },
+        "romaji": "kanikama"
       }
     ],
     "radical": {
@@ -110,5 +152,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84b2.gif",
     "uri": "https://jisho.org/search/%E8%92%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạc",
+    "bồ"
+  ]
 }

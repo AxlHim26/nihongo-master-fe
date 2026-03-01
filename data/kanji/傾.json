@@ -335,49 +335,76 @@
       {
         "example": "傾斜",
         "reading": "ケイシャ",
-        "meaning": "inclination, slant, slope, bevel, list, dip, tilt, lean"
+        "meaning": {
+          "vi": "inclination, slant, slope, bevel, list, dip, tilt, lean"
+        },
+        "romaji": "keisha"
       },
       {
         "example": "傾向",
         "reading": "ケイコウ",
-        "meaning": "tendency, trend, inclination"
+        "meaning": {
+          "en": "tendency, trend, inclination"
+        },
+        "romaji": "keikou"
       },
       {
         "example": "前傾",
         "reading": "ゼンケイ",
-        "meaning": "forward inclination (of the body), bending forward, anteversion"
+        "meaning": {
+          "en": "forward inclination (of the body), bending forward, anteversion"
+        },
+        "romaji": "zenkei"
       },
       {
         "example": "右傾",
         "reading": "ウケイ",
-        "meaning": "leaning to the right, leaning to the (political) right, rightist tendency, becoming right-wing"
+        "meaning": {
+          "vi": "leaning to the right, leaning to the (political) right, rightist tendency, becoming right-wing"
+        },
+        "romaji": "ukei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "傾く",
         "reading": "かたむく",
-        "meaning": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+        "meaning": {
+          "vi": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+        },
+        "romaji": "katamuku"
       },
       {
         "example": "傾ける",
         "reading": "かたむける",
-        "meaning": "to incline, to lean, to tip, to tilt, to slant, to bend, to list, to devote oneself to, to concentrate on, to pour one's energy into, to ruin, to squander, to empty, to drink (alcohol)"
+        "meaning": {
+          "vi": "to incline, to lean, to tip, to tilt, to slant, to bend, to list, to devote oneself to, to concentrate on, to pour one's energy into, to ruin, to squander, to empty, to drink (alcohol)"
+        },
+        "romaji": "katamukeru"
       },
       {
         "example": "傾く",
         "reading": "かたむく",
-        "meaning": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+        "meaning": {
+          "vi": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+        },
+        "romaji": "katamuku"
       },
       {
         "example": "傾げる",
         "reading": "かしげる",
-        "meaning": "to tilt (esp. head), to lean, to incline, to slant"
+        "meaning": {
+          "vi": "to tilt (esp. head), to lean, to incline, to slant"
+        },
+        "romaji": "kashigeru"
       },
       {
         "example": "傾げる",
         "reading": "かしげる",
-        "meaning": "to tilt (esp. head), to lean, to incline, to slant"
+        "meaning": {
+          "vi": "to tilt (esp. head), to lean, to incline, to slant"
+        },
+        "romaji": "kashigeru"
       }
     ],
     "radical": {
@@ -399,5 +426,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050be.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50be.gif",
     "uri": "https://jisho.org/search/%E5%82%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuynh"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "帰還",
         "reading": "キカン",
-        "meaning": "return (home), repatriation, feedback (in an electronic circuit, biological system, etc.)"
+        "meaning": {
+          "vi": "return (home), repatriation, feedback (in an electronic circuit, biological system, etc.)"
+        },
+        "romaji": "kikan"
       },
       {
         "example": "饋電線",
         "reading": "キデンセン",
-        "meaning": "feeder"
+        "meaning": {
+          "en": "feeder"
+        },
+        "romaji": "kidensen"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0994b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/994b.gif",
     "uri": "https://jisho.org/search/%E9%A5%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "quỹ"
+  ]
 }

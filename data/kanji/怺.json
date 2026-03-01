@@ -15,7 +15,10 @@
       {
         "example": "堪える",
         "reading": "こらえる",
-        "meaning": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon"
+        "meaning": {
+          "vi": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon"
+        },
+        "romaji": "koraeru"
       }
     ],
     "radical": {
@@ -35,5 +38,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0603a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/603a.gif",
     "uri": "https://jisho.org/search/%E6%80%BA%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

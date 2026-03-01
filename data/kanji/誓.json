@@ -19,29 +19,44 @@
       {
         "example": "誓約",
         "reading": "セイヤク",
-        "meaning": "oath, vow, pledge, covenant"
+        "meaning": {
+          "vi": "oath, vow, pledge, covenant"
+        },
+        "romaji": "seiyaku"
       },
       {
         "example": "誓約書",
         "reading": "セイヤクショ",
-        "meaning": "written oath, covenant, pledge"
+        "meaning": {
+          "vi": "written oath, covenant, pledge"
+        },
+        "romaji": "seiyakusho"
       },
       {
         "example": "祈誓",
         "reading": "キセイ",
-        "meaning": "vow, oath, pledge"
+        "meaning": {
+          "vi": "vow, oath, pledge"
+        },
+        "romaji": "kisei"
       },
       {
         "example": "偽誓",
         "reading": "ギセイ",
-        "meaning": "perjury, false oath"
+        "meaning": {
+          "vi": "perjury, false oath"
+        },
+        "romaji": "gisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誓う",
         "reading": "ちかう",
-        "meaning": "to swear, to vow, to take an oath, to pledge"
+        "meaning": {
+          "vi": "to swear, to vow, to take an oath, to pledge"
+        },
+        "romaji": "chikau"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a93.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a93.gif",
     "uri": "https://jisho.org/search/%E8%AA%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "thệ"
+  ]
 }

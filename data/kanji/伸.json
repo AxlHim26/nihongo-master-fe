@@ -281,44 +281,68 @@
       {
         "example": "伸長",
         "reading": "シンチョウ",
-        "meaning": "expansion, extension, elongation, stretching"
+        "meaning": {
+          "vi": "expansion, extension, elongation, stretching"
+        },
+        "romaji": "shinchou"
       },
       {
         "example": "伸縮",
         "reading": "シンシュク",
-        "meaning": "expansion and contraction, elasticity, flexibility"
+        "meaning": {
+          "vi": "expansion and contraction, elasticity, flexibility"
+        },
+        "romaji": "shinshuku"
       },
       {
         "example": "続伸",
         "reading": "ゾクシン",
-        "meaning": "continuous rise (in market price)"
+        "meaning": {
+          "vi": "continuous rise (in market price)"
+        },
+        "romaji": "zokushin"
       },
       {
         "example": "急伸",
         "reading": "キュウシン",
-        "meaning": "sudden rise (esp. of stock prices), jump"
+        "meaning": {
+          "vi": "sudden rise (esp. of stock prices), jump"
+        },
+        "romaji": "kyuushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伸びる",
         "reading": "のびる",
-        "meaning": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
+        "meaning": {
+          "vi": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
+        },
+        "romaji": "nobiru"
       },
       {
         "example": "伸ばす",
         "reading": "のばす",
-        "meaning": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
+        "meaning": {
+          "vi": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
+        },
+        "romaji": "nobasu"
       },
       {
         "example": "延べる",
         "reading": "のべる",
-        "meaning": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
+        "meaning": {
+          "vi": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
+        },
+        "romaji": "noberu"
       },
       {
         "example": "伸す",
         "reading": "のす",
-        "meaning": "to stretch, to extend, to lengthen, to spread, to gain influence, to become stronger, to increase (e.g. in scope), to go further, to extend one's journey, to smooth out, to roll out, to spread out (something folded), to iron out (creases), to knock out, to knock down"
+        "meaning": {
+          "vi": "to stretch, to extend, to lengthen, to spread, to gain influence, to become stronger, to increase (e.g. in scope), to go further, to extend one's journey, to smooth out, to roll out, to spread out (something folded), to iron out (creases), to knock out, to knock down"
+        },
+        "romaji": "nosu"
       }
     ],
     "radical": {
@@ -338,5 +362,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f38.gif",
     "uri": "https://jisho.org/search/%E4%BC%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thân"
+  ]
 }

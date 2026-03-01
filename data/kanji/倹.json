@@ -20,29 +20,44 @@
       {
         "example": "倹",
         "reading": "ケン",
-        "meaning": "tiết kiệm, thận trọng, tằn tiện"
+        "meaning": {
+          "vi": "tiết kiệm, thận trọng, tằn tiện"
+        },
+        "romaji": "ken"
       },
       {
         "example": "倹約",
         "reading": "ケンヤク",
-        "meaning": "tiết kiệm, kinh tế"
+        "meaning": {
+          "vi": "tiết kiệm, kinh tế"
+        },
+        "romaji": "ken'yaku"
       },
       {
         "example": "恭倹",
         "reading": "キョウケン",
-        "meaning": "tôn trọng và khiêm tốn"
+        "meaning": {
+          "vi": "tôn trọng và khiêm tốn"
+        },
+        "romaji": "kyouken"
       },
       {
         "example": "節倹",
         "reading": "セッケン",
-        "meaning": "tiết kiệm, kinh tế"
+        "meaning": {
+          "vi": "tiết kiệm, kinh tế"
+        },
+        "romaji": "sekken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "倹しい",
         "reading": "つましい",
-        "meaning": "tằn tiện, tiết kiệm"
+        "meaning": {
+          "vi": "tằn tiện, tiết kiệm"
+        },
+        "romaji": "tsumashii"
       }
     ],
     "radical": {
@@ -63,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05039.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5039.gif",
     "uri": "https://jisho.org/search/%E5%80%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiệm"
+  ]
 }

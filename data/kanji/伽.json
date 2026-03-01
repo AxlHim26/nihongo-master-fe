@@ -21,79 +21,124 @@
       {
         "example": "伽耶",
         "reading": "カヤ",
-        "meaning": "Kaya (ancient Korean confederacy), Karak"
+        "meaning": {
+          "en": "Kaya (ancient Korean confederacy), Karak"
+        },
+        "romaji": "kaya"
       },
       {
         "example": "伽耶琴",
         "reading": "カヤグム",
-        "meaning": "gayageum (12-stringed Korean zither)"
+        "meaning": {
+          "en": "gayageum (12-stringed Korean zither)"
+        },
+        "romaji": "kayagumu"
       },
       {
         "example": "閼伽",
         "reading": "アカ",
-        "meaning": "water offering to Buddha, holy water"
+        "meaning": {
+          "en": "water offering to Buddha, holy water"
+        },
+        "romaji": "aka"
       },
       {
         "example": "真那伽",
         "reading": "マナカ",
-        "meaning": "incense variety used in kōdō (orig. from Malacca)"
+        "meaning": {
+          "en": "incense variety used in kōdō (orig. from Malacca)"
+        },
+        "romaji": "manaka"
       },
       {
         "example": "伽藍",
         "reading": "ガラン",
-        "meaning": "temple (esp. large one), monastery, temple building"
+        "meaning": {
+          "vi": "temple (esp. large one), monastery, temple building"
+        },
+        "romaji": "garan"
       },
       {
         "example": "伽藍鳥",
         "reading": "ガランチョウ",
-        "meaning": "pelican"
+        "meaning": {
+          "vi": "pelican"
+        },
+        "romaji": "garanchou"
       },
       {
         "example": "瑜伽",
         "reading": "ユガ",
-        "meaning": "yoga"
+        "meaning": {
+          "en": "yoga"
+        },
+        "romaji": "yuga"
       },
       {
         "example": "迦陵頻伽",
         "reading": "カリョウビンガ",
-        "meaning": "kalavinka, imaginary bird in paradise that sings sweet notes, person or creature with a beautiful voice"
+        "meaning": {
+          "vi": "kalavinka, imaginary bird in paradise that sings sweet notes, person or creature with a beautiful voice"
+        },
+        "romaji": "karyoubinga"
       },
       {
         "example": "伽羅",
         "reading": "キャラ",
-        "meaning": "aloes wood (Taxus cuspidata var. nana), aloes-wood perfume, aloes-wood incense"
+        "meaning": {
+          "vi": "aloes wood (Taxus cuspidata var. nana), aloes-wood perfume, aloes-wood incense"
+        },
+        "romaji": "kyara"
       },
       {
         "example": "伽羅蕗",
         "reading": "キャラブキ",
-        "meaning": "stalks of butterbur boiled in soy sauce"
+        "meaning": {
+          "en": "stalks of butterbur boiled in soy sauce"
+        },
+        "romaji": "kyarabuki"
       },
       {
         "example": "僧伽",
         "reading": "ソウギャ",
-        "meaning": "sangha (the Buddhist community)"
+        "meaning": {
+          "en": "sangha (the Buddhist community)"
+        },
+        "romaji": "sougya"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伽",
         "reading": "とぎ",
-        "meaning": "nursing, nurse, attending, attendant, entertainer"
+        "meaning": {
+          "en": "nursing, nurse, attending, attendant, entertainer"
+        },
+        "romaji": "togi"
       },
       {
         "example": "伽芝居",
         "reading": "とぎしばい",
-        "meaning": "fairy play, pantomime"
+        "meaning": {
+          "vi": "fairy play, pantomime"
+        },
+        "romaji": "togishibai"
       },
       {
         "example": "御伽",
         "reading": "おとぎ",
-        "meaning": "attending (upon), keeping another company, being a confidant, serving (a nobleman), fairy tale"
+        "meaning": {
+          "vi": "attending (upon), keeping another company, being a confidant, serving (a nobleman), fairy tale"
+        },
+        "romaji": "otogi"
       },
       {
         "example": "夜伽",
         "reading": "よとぎ",
-        "meaning": "attending someone through the night (of a guard, nurse), sleeping with a man (at his bidding), overnight vigil before burial"
+        "meaning": {
+          "vi": "attending someone through the night (of a guard, nurse), sleeping with a man (at his bidding), overnight vigil before burial"
+        },
+        "romaji": "yotogi"
       }
     ],
     "radical": {
@@ -112,5 +157,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f3d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f3d.gif",
     "uri": "https://jisho.org/search/%E4%BC%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "cà",
+    "gia",
+    "già"
+  ]
 }

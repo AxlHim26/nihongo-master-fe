@@ -294,29 +294,44 @@
       {
         "example": "困惑",
         "reading": "コンワク",
-        "meaning": "bewilderment, perplexity, embarrassment, discomfiture, bafflement"
+        "meaning": {
+          "vi": "bewilderment, perplexity, embarrassment, discomfiture, bafflement"
+        },
+        "romaji": "konwaku"
       },
       {
         "example": "困難",
         "reading": "コンナン",
-        "meaning": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"
+        "meaning": {
+          "vi": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"
+        },
+        "romaji": "konnan"
       },
       {
         "example": "絶対貧困",
         "reading": "ゼッタイヒンコン",
-        "meaning": "absolute poverty"
+        "meaning": {
+          "vi": "absolute poverty"
+        },
+        "romaji": "zettaihinkon"
       },
       {
         "example": "絶対的貧困",
         "reading": "ゼッタイテキヒンコン",
-        "meaning": "absolute poverty"
+        "meaning": {
+          "vi": "absolute poverty"
+        },
+        "romaji": "zettaitekihinkon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "困る",
         "reading": "こまる",
-        "meaning": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"
+        "meaning": {
+          "vi": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"
+        },
+        "romaji": "komaru"
       }
     ],
     "radical": {
@@ -331,5 +346,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f0.gif",
     "uri": "https://jisho.org/search/%E5%9B%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "khốn"
+  ]
 }

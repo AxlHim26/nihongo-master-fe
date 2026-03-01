@@ -17,24 +17,36 @@
       {
         "example": "素袍",
         "reading": "スオウ",
-        "meaning": "suō (ceremonial dress of lower-class samurai)"
+        "meaning": {
+          "en": "suō (ceremonial dress of lower-class samurai)"
+        },
+        "romaji": "suou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "襖",
         "reading": "ふすま",
-        "meaning": "fusuma, Japanese sliding screen"
+        "meaning": {
+          "vi": "fusuma, Japanese sliding screen"
+        },
+        "romaji": "fusuma"
       },
       {
         "example": "襖絵",
         "reading": "ふすまえ",
-        "meaning": "images drawn or painted on fusuma"
+        "meaning": {
+          "vi": "images drawn or painted on fusuma"
+        },
+        "romaji": "fusumae"
       },
       {
         "example": "襖",
         "reading": "あお",
-        "meaning": "everyday garment worn by men in ancient Japan"
+        "meaning": {
+          "vi": "everyday garment worn by men in ancient Japan"
+        },
+        "romaji": "ao"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08956.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8956.gif",
     "uri": "https://jisho.org/search/%E8%A5%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "áo"
+  ]
 }

@@ -417,104 +417,164 @@
       {
         "example": "間",
         "reading": "カン",
-        "meaning": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"
+        "meaning": {
+          "vi": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"
+        },
+        "romaji": "kan"
       },
       {
         "example": "間隔",
         "reading": "カンカク",
-        "meaning": "space, interval, space character, whitespace"
+        "meaning": {
+          "vi": "space, interval, space character, whitespace"
+        },
+        "romaji": "kankaku"
       },
       {
         "example": "短期間",
         "reading": "タンキカン",
-        "meaning": "short term, short time"
+        "meaning": {
+          "en": "short term, short time"
+        },
+        "romaji": "tankikan"
       },
       {
         "example": "右中間",
         "reading": "ウチュウカン",
-        "meaning": "between right and center fielders (centre)"
+        "meaning": {
+          "en": "between right and center fielders (centre)"
+        },
+        "romaji": "uchuukan"
       },
       {
         "example": "間",
         "reading": "ケン",
-        "meaning": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"
+        "meaning": {
+          "vi": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"
+        },
+        "romaji": "ken"
       },
       {
         "example": "間数",
         "reading": "ケンスウ",
-        "meaning": "number of ken (in length or breadth)"
+        "meaning": {
+          "en": "number of ken (in length or breadth)"
+        },
+        "romaji": "kensuu"
       },
       {
         "example": "世間",
         "reading": "セケン",
-        "meaning": "world, society, people, the public"
+        "meaning": {
+          "vi": "world, society, people, the public"
+        },
+        "romaji": "seken"
       },
       {
         "example": "六百間",
         "reading": "ロッピャッケン",
-        "meaning": "roppyakken (type of game)"
+        "meaning": {
+          "vi": "roppyakken (type of game)"
+        },
+        "romaji": "roppyakken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "間",
         "reading": "あいだ",
-        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+        "meaning": {
+          "vi": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+        },
+        "romaji": "aida"
       },
       {
         "example": "間中",
         "reading": "あいだじゅう",
-        "meaning": "during"
+        "meaning": {
+          "en": "during"
+        },
+        "romaji": "aidajuu"
       },
       {
         "example": "候間",
         "reading": "そうろうあいだ",
-        "meaning": "as ..."
+        "meaning": {
+          "en": "as ..."
+        },
+        "romaji": "sourouaida"
       },
       {
         "example": "ついこの間",
         "reading": "ついこのあいだ",
-        "meaning": "just the other day, quite recently"
+        "meaning": {
+          "en": "just the other day, quite recently"
+        },
+        "romaji": "tsuikonoaida"
       },
       {
         "example": "間",
         "reading": "ま",
-        "meaning": "time, pause, space, room"
+        "meaning": {
+          "vi": "time, pause, space, room"
+        },
+        "romaji": "ma"
       },
       {
         "example": "間際",
         "reading": "まぎわ",
-        "meaning": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge"
+        "meaning": {
+          "vi": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge"
+        },
+        "romaji": "magiwa"
       },
       {
         "example": "茶の間",
         "reading": "ちゃのま",
-        "meaning": "(Japanese-style) living room"
+        "meaning": {
+          "vi": "(Japanese-style) living room"
+        },
+        "romaji": "chanoma"
       },
       {
         "example": "床の間",
         "reading": "とこのま",
-        "meaning": "tokonoma (alcove where art or flowers are displayed)"
+        "meaning": {
+          "vi": "tokonoma (alcove where art or flowers are displayed)"
+        },
+        "romaji": "tokonoma"
       },
       {
         "example": "間",
         "reading": "あいだ",
-        "meaning": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+        "meaning": {
+          "vi": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+        },
+        "romaji": "aida"
       },
       {
         "example": "間中",
         "reading": "あいだじゅう",
-        "meaning": "during"
+        "meaning": {
+          "en": "during"
+        },
+        "romaji": "aidajuu"
       },
       {
         "example": "波間",
         "reading": "なみま",
-        "meaning": "interval between the waves, gap between waves"
+        "meaning": {
+          "vi": "interval between the waves, gap between waves"
+        },
+        "romaji": "namima"
       },
       {
         "example": "幕間",
         "reading": "まくあい",
-        "meaning": "intermission (between acts), interlude"
+        "meaning": {
+          "en": "intermission (between acts), interlude"
+        },
+        "romaji": "makuai"
       }
     ],
     "radical": {
@@ -529,5 +589,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09593.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9593.gif",
     "uri": "https://jisho.org/search/%E9%96%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "gian",
+    "gián",
+    "nhàn"
+  ]
 }

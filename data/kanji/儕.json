@@ -17,19 +17,28 @@
       {
         "example": "儕輩",
         "reading": "サイハイ",
-        "meaning": "colleagues, fellows, comrades"
+        "meaning": {
+          "en": "colleagues, fellows, comrades"
+        },
+        "romaji": "saihai"
       },
       {
         "example": "儕輩",
         "reading": "サイハイ",
-        "meaning": "colleagues, fellows, comrades"
+        "meaning": {
+          "en": "colleagues, fellows, comrades"
+        },
+        "romaji": "saihai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輩",
         "reading": "ともがら",
-        "meaning": "comrade, fellow"
+        "meaning": {
+          "en": "comrade, fellow"
+        },
+        "romaji": "tomogara"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05115.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5115.gif",
     "uri": "https://jisho.org/search/%E5%84%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "sài"
+  ]
 }

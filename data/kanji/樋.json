@@ -19,32 +19,50 @@
       {
         "example": "樋",
         "reading": "とい",
-        "meaning": "trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"
+        "meaning": {
+          "vi": "trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"
+        },
+        "romaji": "toi"
       },
       {
         "example": "樋川",
         "reading": "ひがわ",
-        "meaning": "(water) spring"
+        "meaning": {
+          "vi": "(water) spring"
+        },
+        "romaji": "higawa"
       },
       {
         "example": "木樋",
         "reading": "もくひ",
-        "meaning": "wooden water pipe, wooden flume"
+        "meaning": {
+          "vi": "wooden water pipe, wooden flume"
+        },
+        "romaji": "mokuhi"
       },
       {
         "example": "筧",
         "reading": "かけひ",
-        "meaning": "open water pipe, conduit"
+        "meaning": {
+          "vi": "open water pipe, conduit"
+        },
+        "romaji": "kakehi"
       },
       {
         "example": "樋",
         "reading": "とい",
-        "meaning": "trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"
+        "meaning": {
+          "vi": "trough, gutter, water pipe, flume, chute, coulisse (of a sword blade)"
+        },
+        "romaji": "toi"
       },
       {
         "example": "鎖樋",
         "reading": "くさりとい",
-        "meaning": "rain chain (hanging from a gutter and functioning as downspout, often made of ornamental cups)"
+        "meaning": {
+          "vi": "rain chain (hanging from a gutter and functioning as downspout, often made of ornamental cups)"
+        },
+        "romaji": "kusaritoi"
       }
     ],
     "radical": {
@@ -61,5 +79,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a0b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a0b.gif",
     "uri": "https://jisho.org/search/%E6%A8%8B%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

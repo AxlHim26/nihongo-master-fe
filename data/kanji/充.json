@@ -264,34 +264,52 @@
       {
         "example": "充足",
         "reading": "ジュウソク",
-        "meaning": "sufficiency"
+        "meaning": {
+          "en": "sufficiency"
+        },
+        "romaji": "juusoku"
       },
       {
         "example": "充実",
         "reading": "ジュウジツ",
-        "meaning": "fullness, completeness, perfection, substantiality, enhancement, improvement, enrichment, upgrading, replenishment, repletion"
+        "meaning": {
+          "vi": "fullness, completeness, perfection, substantiality, enhancement, improvement, enrichment, upgrading, replenishment, repletion"
+        },
+        "romaji": "juujitsu"
       },
       {
         "example": "リア充",
         "reading": "リアジュウ",
-        "meaning": "person who is satisfied with their real (offline) life, normie"
+        "meaning": {
+          "vi": "person who is satisfied with their real (offline) life, normie"
+        },
+        "romaji": "riajuu"
       },
       {
         "example": "事業拡充",
         "reading": "ジギョウカクジュウ",
-        "meaning": "business expansion"
+        "meaning": {
+          "vi": "business expansion"
+        },
+        "romaji": "jigyoukakujuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "充てる",
         "reading": "あてる",
-        "meaning": "to assign, to set aside"
+        "meaning": {
+          "en": "to assign, to set aside"
+        },
+        "romaji": "ateru"
       },
       {
         "example": "満たす",
         "reading": "みたす",
-        "meaning": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+        "meaning": {
+          "vi": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+        },
+        "romaji": "mitasu"
       }
     ],
     "radical": {
@@ -307,5 +325,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05145.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5145.gif",
     "uri": "https://jisho.org/search/%E5%85%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "sung"
+  ]
 }

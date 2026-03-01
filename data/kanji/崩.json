@@ -21,29 +21,44 @@
       {
         "example": "崩落",
         "reading": "ホウラク",
-        "meaning": "collapse, break, cave-in, crash, market decline, market crash"
+        "meaning": {
+          "vi": "collapse, break, cave-in, crash, market decline, market crash"
+        },
+        "romaji": "houraku"
       },
       {
         "example": "崩壊",
         "reading": "ホウカイ",
-        "meaning": "collapse, crumbling, breaking down, caving in, (radioactive) decay, disintegration"
+        "meaning": {
+          "vi": "collapse, crumbling, breaking down, caving in, (radioactive) decay, disintegration"
+        },
+        "romaji": "houkai"
       },
       {
         "example": "壊崩",
         "reading": "カイホウ",
-        "meaning": "collapse, crumbling, breaking down, caving in"
+        "meaning": {
+          "vi": "collapse, crumbling, breaking down, caving in"
+        },
+        "romaji": "kaihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "崩れる",
         "reading": "くずれる",
-        "meaning": "to collapse, to crumble, to get out of shape, to lose one's shape, to become disorganized, to become untidy, to break down, to be thrown into disarray, to crash (stock market), to slump, to decline, to break money into small change, to turn bad (e.g. weather), to change for the worse, to deteriorate"
+        "meaning": {
+          "vi": "to collapse, to crumble, to get out of shape, to lose one's shape, to become disorganized, to become untidy, to break down, to be thrown into disarray, to crash (stock market), to slump, to decline, to break money into small change, to turn bad (e.g. weather), to change for the worse, to deteriorate"
+        },
+        "romaji": "kuzureru"
       },
       {
         "example": "崩す",
         "reading": "くずす",
-        "meaning": "to destroy, to demolish, to pull down, to tear down, to level, to disturb, to put into disorder, to throw off balance, to make shaky, to relax (one's pose), to make oneself at ease, to break (a bill), to change, to make change, to write in cursive style, to write in running style, to break into a smile, to let off a smile, to lower (a price)"
+        "meaning": {
+          "vi": "to destroy, to demolish, to pull down, to tear down, to level, to disturb, to put into disorder, to throw off balance, to make shaky, to relax (one's pose), to make oneself at ease, to break (a bill), to change, to make change, to write in cursive style, to write in running style, to break into a smile, to let off a smile, to lower (a price)"
+        },
+        "romaji": "kuzusu"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d29.gif",
     "uri": "https://jisho.org/search/%E5%B4%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "băng"
+  ]
 }

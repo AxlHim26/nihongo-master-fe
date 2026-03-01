@@ -286,59 +286,92 @@
       {
         "example": "聖",
         "reading": "セイ",
-        "meaning": "Thánh, linh thiêng, thuần khiết"
+        "meaning": {
+          "vi": "Thánh, linh thiêng, thuần khiết"
+        },
+        "romaji": "sei"
       },
       {
         "example": "聖域",
         "reading": "セイイキ",
-        "meaning": "khu vực linh thiêng, thánh địa, vấn đề cấm kỵ"
+        "meaning": {
+          "vi": "khu vực linh thiêng, thánh địa, vấn đề cấm kỵ"
+        },
+        "romaji": "seiiki"
       },
       {
         "example": "棋聖",
         "reading": "キセイ",
-        "meaning": "đại cao thủ cờ vây, cờ tướng"
+        "meaning": {
+          "vi": "đại cao thủ cờ vây, cờ tướng"
+        },
+        "romaji": "kisei"
       },
       {
         "example": "亜聖",
         "reading": "アセイ",
-        "meaning": "hiền nhân bậc hai"
+        "meaning": {
+          "vi": "hiền nhân bậc hai"
+        },
+        "romaji": "asei"
       },
       {
         "example": "精霊",
         "reading": "ショウリョウ",
-        "meaning": "linh hồn người đã khuất"
+        "meaning": {
+          "vi": "linh hồn người đã khuất"
+        },
+        "romaji": "shouryou"
       },
       {
         "example": "聖者",
         "reading": "セイジャ",
-        "meaning": "thánh nhân"
+        "meaning": {
+          "vi": "thánh nhân"
+        },
+        "romaji": "seija"
       },
       {
         "example": "大聖",
         "reading": "ダイショウ",
-        "meaning": "Phật, Bồ Tát cao cấp"
+        "meaning": {
+          "vi": "Phật, Bồ Tát cao cấp"
+        },
+        "romaji": "daishou"
       },
       {
         "example": "仏餉",
         "reading": "ブッショウ",
-        "meaning": "cơm cúng Phật"
+        "meaning": {
+          "vi": "cơm cúng Phật"
+        },
+        "romaji": "busshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聖",
         "reading": "ひじり",
-        "meaning": "sư đức cao, sư, thánh nhân, hoàng đế, bậc thầy"
+        "meaning": {
+          "vi": "sư đức cao, sư, thánh nhân, hoàng đế, bậc thầy"
+        },
+        "romaji": "hijiri"
       },
       {
         "example": "聖心",
         "reading": "せいしん",
-        "meaning": "Thánh Tâm"
+        "meaning": {
+          "vi": "Thánh Tâm"
+        },
+        "romaji": "seishin"
       },
       {
         "example": "高野聖",
         "reading": "こうやひじり",
-        "meaning": "sư truyền giáo Kōya, loài cà cuống"
+        "meaning": {
+          "vi": "sư truyền giáo Kōya, loài cà cuống"
+        },
+        "romaji": "kouyahijiri"
       }
     ],
     "radical": {
@@ -354,5 +387,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08056.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8056.gif",
     "uri": "https://jisho.org/search/%E8%81%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thánh"
+  ]
 }

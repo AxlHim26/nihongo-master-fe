@@ -16,12 +16,18 @@
       {
         "example": "蹉だ",
         "reading": "サダ",
-        "meaning": "setback, impediment, adversity, misfortune, hardship, decline"
+        "meaning": {
+          "vi": "setback, impediment, adversity, misfortune, hardship, decline"
+        },
+        "romaji": "sada"
       },
       {
         "example": "蹉跌",
         "reading": "サテツ",
-        "meaning": "failure, stumbling, setback"
+        "meaning": {
+          "en": "failure, stumbling, setback"
+        },
+        "romaji": "satetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e49.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e49.gif",
     "uri": "https://jisho.org/search/%E8%B9%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "sa",
+    "tha"
+  ]
 }

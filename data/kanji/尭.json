@@ -18,12 +18,18 @@
       {
         "example": "尭尭",
         "reading": "ギョウギョウ",
-        "meaning": "cao (như núi)"
+        "meaning": {
+          "vi": "cao (như núi)"
+        },
+        "romaji": "gyougyou"
       },
       {
         "example": "尭尭",
         "reading": "ギョウギョウ",
-        "meaning": "cao (như núi)"
+        "meaning": {
+          "vi": "cao (như núi)"
+        },
+        "romaji": "gyougyou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c2d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c2d.gif",
     "uri": "https://jisho.org/search/%E5%B0%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghiêu"
+  ]
 }

@@ -376,64 +376,100 @@
       {
         "example": "自",
         "reading": "ジ",
-        "meaning": "self-, from (a time or place)"
+        "meaning": {
+          "vi": "self-, from (a time or place)"
+        },
+        "romaji": "ji"
       },
       {
         "example": "自営",
         "reading": "ジエイ",
-        "meaning": "running one's own business, doing business on one's own, self-employment"
+        "meaning": {
+          "vi": "running one's own business, doing business on one's own, self-employment"
+        },
+        "romaji": "jiei"
       },
       {
         "example": "出自",
         "reading": "シュツジ",
-        "meaning": "origin, birthplace, descent, lineage, ancestry, stock"
+        "meaning": {
+          "vi": "origin, birthplace, descent, lineage, ancestry, stock"
+        },
+        "romaji": "shutsuji"
       },
       {
         "example": "海自",
         "reading": "カイジ",
-        "meaning": "Maritime Self-Defense Force"
+        "meaning": {
+          "en": "Maritime Self-Defense Force"
+        },
+        "romaji": "kaiji"
       },
       {
         "example": "自然界",
         "reading": "シゼンカイ",
-        "meaning": "nature, the natural world, realm of nature"
+        "meaning": {
+          "en": "nature, the natural world, realm of nature"
+        },
+        "romaji": "shizenkai"
       },
       {
         "example": "自然",
         "reading": "シゼン",
-        "meaning": "nature, natural, spontaneous, automatic, naturally, spontaneously, automatically"
+        "meaning": {
+          "vi": "nature, natural, spontaneous, automatic, naturally, spontaneously, automatically"
+        },
+        "romaji": "shizen"
       },
       {
         "example": "己がじし",
         "reading": "オノガジシ",
-        "meaning": "each (and every one), individually"
+        "meaning": {
+          "en": "each (and every one), individually"
+        },
+        "romaji": "onogajishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "自ら",
         "reading": "みずから",
-        "meaning": "oneself, oneself, for oneself, personally, in person"
+        "meaning": {
+          "vi": "oneself, oneself, for oneself, personally, in person"
+        },
+        "romaji": "mizukara"
       },
       {
         "example": "自ら進んで",
         "reading": "みずからすすんで",
-        "meaning": "by choice, of one's own free will, on one's own initiative, off one's own bat"
+        "meaning": {
+          "en": "by choice, of one's own free will, on one's own initiative, off one's own bat"
+        },
+        "romaji": "mizukarasusunde"
       },
       {
         "example": "自ずから",
         "reading": "おのずから",
-        "meaning": "naturally, in due course, by itself, of its own accord"
+        "meaning": {
+          "en": "naturally, in due course, by itself, of its own accord"
+        },
+        "romaji": "onozukara"
       },
       {
         "example": "自ずから明らか",
         "reading": "おのずからあきらか",
-        "meaning": "self-evident"
+        "meaning": {
+          "en": "self-evident"
+        },
+        "romaji": "onozukaraakiraka"
       },
       {
         "example": "自ずと",
         "reading": "おのずと",
-        "meaning": "naturally, in due course, by itself, of its own accord"
+        "meaning": {
+          "en": "naturally, in due course, by itself, of its own accord"
+        },
+        "romaji": "onozuto"
       }
     ],
     "radical": {
@@ -448,5 +484,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81ea.gif",
     "uri": "https://jisho.org/search/%E8%87%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tự"
+  ]
 }

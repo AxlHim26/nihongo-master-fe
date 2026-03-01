@@ -271,22 +271,34 @@
       {
         "example": "卓",
         "reading": "タク",
-        "meaning": "table, desk, counter for tables, desks, etc., offering table before an altar (sometimes used in tea ceremony), tabletop incense burner"
+        "meaning": {
+          "vi": "table, desk, counter for tables, desks, etc., offering table before an altar (sometimes used in tea ceremony), tabletop incense burner"
+        },
+        "romaji": "taku"
       },
       {
         "example": "卓越",
         "reading": "タクエツ",
-        "meaning": "preeminence, excellence, superiority, transcendence"
+        "meaning": {
+          "vi": "preeminence, excellence, superiority, transcendence"
+        },
+        "romaji": "takuetsu"
       },
       {
         "example": "聖卓",
         "reading": "セイタク",
-        "meaning": "altar (esp. Christian)"
+        "meaning": {
+          "vi": "altar (esp. Christian)"
+        },
+        "romaji": "seitaku"
       },
       {
         "example": "音声調整卓",
         "reading": "オンセイチョウセイタク",
-        "meaning": "mixing board (console, desk), (audio) mixer"
+        "meaning": {
+          "en": "mixing board (console, desk), (audio) mixer"
+        },
+        "romaji": "onseichouseitaku"
       }
     ],
     "kunyomiExamples": [],
@@ -303,5 +315,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05353.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5353.gif",
     "uri": "https://jisho.org/search/%E5%8D%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "trác"
+  ]
 }

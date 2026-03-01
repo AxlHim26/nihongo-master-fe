@@ -313,44 +313,68 @@
       {
         "example": "底",
         "reading": "テイ",
-        "meaning": "base (logarithmic, exponential, number system), radix, base (triangle, cone, cylinder, etc.), type, kind, extent, degree"
+        "meaning": {
+          "vi": "base (logarithmic, exponential, number system), radix, base (triangle, cone, cylinder, etc.), type, kind, extent, degree"
+        },
+        "romaji": "tei"
       },
       {
         "example": "底辺",
         "reading": "テイヘン",
-        "meaning": "base (of a polygon), bottom (of the social scale), lower levels, lower classes, base (e.g. of support), foundation, basis"
+        "meaning": {
+          "vi": "base (of a polygon), bottom (of the social scale), lower levels, lower classes, base (e.g. of support), foundation, basis"
+        },
+        "romaji": "teihen"
       },
       {
         "example": "奥底",
         "reading": "オクソコ",
-        "meaning": "depths, deep place, bottom (of one's heart)"
+        "meaning": {
+          "vi": "depths, deep place, bottom (of one's heart)"
+        },
+        "romaji": "okusoko"
       },
       {
         "example": "水底",
         "reading": "スイテイ",
-        "meaning": "sea or river bottom"
+        "meaning": {
+          "en": "sea or river bottom"
+        },
+        "romaji": "suitei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "底",
         "reading": "そこ",
-        "meaning": "bottom, sole"
+        "meaning": {
+          "en": "bottom, sole"
+        },
+        "romaji": "soko"
       },
       {
         "example": "底入れ",
         "reading": "そこいれ",
-        "meaning": "bottoming out (of prices)"
+        "meaning": {
+          "vi": "bottoming out (of prices)"
+        },
+        "romaji": "sokoire"
       },
       {
         "example": "水底",
         "reading": "すいてい",
-        "meaning": "sea or river bottom"
+        "meaning": {
+          "en": "sea or river bottom"
+        },
+        "romaji": "suitei"
       },
       {
         "example": "奥底",
         "reading": "おくそこ",
-        "meaning": "depths, deep place, bottom (of one's heart)"
+        "meaning": {
+          "vi": "depths, deep place, bottom (of one's heart)"
+        },
+        "romaji": "okusoko"
       }
     ],
     "radical": {
@@ -365,5 +389,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e95.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e95.gif",
     "uri": "https://jisho.org/search/%E5%BA%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "để"
+  ]
 }

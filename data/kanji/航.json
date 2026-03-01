@@ -271,22 +271,34 @@
       {
         "example": "航空",
         "reading": "コウクウ",
-        "meaning": "aviation, flying"
+        "meaning": {
+          "en": "aviation, flying"
+        },
+        "romaji": "koukuu"
       },
       {
         "example": "航海",
         "reading": "コウカイ",
-        "meaning": "(sea) voyage, navigation, sailing, passage, cruise"
+        "meaning": {
+          "vi": "(sea) voyage, navigation, sailing, passage, cruise"
+        },
+        "romaji": "koukai"
       },
       {
         "example": "密航",
         "reading": "ミッコウ",
-        "meaning": "smuggling (people), stowing away"
+        "meaning": {
+          "vi": "smuggling (people), stowing away"
+        },
+        "romaji": "mikkou"
       },
       {
         "example": "就航",
         "reading": "シュウコウ",
-        "meaning": "entering service (on a route; of a plane or ship), going into commission, being in service"
+        "meaning": {
+          "vi": "entering service (on a route; of a plane or ship), going into commission, being in service"
+        },
+        "romaji": "shuukou"
       }
     ],
     "kunyomiExamples": [],
@@ -303,5 +315,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0822a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/822a.gif",
     "uri": "https://jisho.org/search/%E8%88%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàng"
+  ]
 }

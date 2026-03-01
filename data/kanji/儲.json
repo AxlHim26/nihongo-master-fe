@@ -20,44 +20,68 @@
       {
         "example": "貯蓄",
         "reading": "チョチク",
-        "meaning": "savings"
+        "meaning": {
+          "en": "savings"
+        },
+        "romaji": "chochiku"
       },
       {
         "example": "儲位",
         "reading": "チョイ",
-        "meaning": "heirship"
+        "meaning": {
+          "vi": "heirship"
+        },
+        "romaji": "choi"
       },
       {
         "example": "嫌儲",
         "reading": "ケンチョ",
-        "meaning": "shady online money-making"
+        "meaning": {
+          "en": "shady online money-making"
+        },
+        "romaji": "kencho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "儲ける",
         "reading": "もうける",
-        "meaning": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+        "meaning": {
+          "vi": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+        },
+        "romaji": "moukeru"
       },
       {
         "example": "儲かる",
         "reading": "もうかる",
-        "meaning": "to be profitable, to yield a profit"
+        "meaning": {
+          "vi": "to be profitable, to yield a profit"
+        },
+        "romaji": "moukaru"
       },
       {
         "example": "儲け",
         "reading": "もうけ",
-        "meaning": "profit, earnings"
+        "meaning": {
+          "vi": "profit, earnings"
+        },
+        "romaji": "mouke"
       },
       {
         "example": "儲ける",
         "reading": "もうける",
-        "meaning": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+        "meaning": {
+          "vi": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+        },
+        "romaji": "moukeru"
       },
       {
         "example": "嫌儲",
         "reading": "けんちょ",
-        "meaning": "shady online money-making"
+        "meaning": {
+          "en": "shady online money-making"
+        },
+        "romaji": "kencho"
       }
     ],
     "radical": {
@@ -77,5 +101,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05132.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5132.gif",
     "uri": "https://jisho.org/search/%E5%84%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "trừ",
+    "trữ"
+  ]
 }

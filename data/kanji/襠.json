@@ -18,12 +18,18 @@
       {
         "example": "襠",
         "reading": "まち",
-        "meaning": "gusset"
+        "meaning": {
+          "en": "gusset"
+        },
+        "romaji": "machi"
       },
       {
         "example": "底マチ",
         "reading": "そこマチ",
-        "meaning": "bottom gusset"
+        "meaning": {
+          "en": "bottom gusset"
+        },
+        "romaji": "sokomachi"
       }
     ],
     "radical": {
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08960.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8960.gif",
     "uri": "https://jisho.org/search/%E8%A5%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "đang",
+    "đương"
+  ]
 }

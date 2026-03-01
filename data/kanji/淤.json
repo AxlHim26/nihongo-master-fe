@@ -17,7 +17,10 @@
       {
         "example": "汚泥",
         "reading": "オデイ",
-        "meaning": "sludge, slime, dregs, mire, hopeless situation, hell, despair"
+        "meaning": {
+          "vi": "sludge, slime, dregs, mire, hopeless situation, hell, despair"
+        },
+        "romaji": "odei"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06de4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6de4.gif",
     "uri": "https://jisho.org/search/%E6%B7%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "ứ"
+  ]
 }

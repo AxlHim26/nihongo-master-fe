@@ -397,44 +397,68 @@
       {
         "example": "場",
         "reading": "ジョウ",
-        "meaning": "place, spot, grounds, arena, stadium, range, course"
+        "meaning": {
+          "vi": "place, spot, grounds, arena, stadium, range, course"
+        },
+        "romaji": "jou"
       },
       {
         "example": "場外",
         "reading": "ジョウガイ",
-        "meaning": "outside the hall (or stadium, market, etc.), off the grounds, off the premises, off-track"
+        "meaning": {
+          "vi": "outside the hall (or stadium, market, etc.), off the grounds, off the premises, off-track"
+        },
+        "romaji": "jougai"
       },
       {
         "example": "斎場",
         "reading": "サイジョウ",
-        "meaning": "funeral hall, ceremony site"
+        "meaning": {
+          "en": "funeral hall, ceremony site"
+        },
+        "romaji": "saijou"
       },
       {
         "example": "開場",
         "reading": "カイジョウ",
-        "meaning": "opening (the doors of a venue), inauguration (of a new building, facility, etc.)"
+        "meaning": {
+          "vi": "opening (the doors of a venue), inauguration (of a new building, facility, etc.)"
+        },
+        "romaji": "kaijou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "場",
         "reading": "ば",
-        "meaning": "place, spot, space, field, discipline, sphere, realm, occasion, situation, scene (of a play, movie, etc.), session, field, table, area in which cards are laid out, round (east, south, etc.), field, field (in Gestalt psychology)"
+        "meaning": {
+          "vi": "place, spot, space, field, discipline, sphere, realm, occasion, situation, scene (of a play, movie, etc.), session, field, table, area in which cards are laid out, round (east, south, etc.), field, field (in Gestalt psychology)"
+        },
+        "romaji": "ba"
       },
       {
         "example": "場合",
         "reading": "ばあい",
-        "meaning": "case, occasion, situation, circumstances"
+        "meaning": {
+          "en": "case, occasion, situation, circumstances"
+        },
+        "romaji": "baai"
       },
       {
         "example": "木場",
         "reading": "きば",
-        "meaning": "lumberyard"
+        "meaning": {
+          "en": "lumberyard"
+        },
+        "romaji": "kiba"
       },
       {
         "example": "漁場",
         "reading": "ぎょじょう",
-        "meaning": "fishing grounds, permitted fishing zone"
+        "meaning": {
+          "vi": "fishing grounds, permitted fishing zone"
+        },
+        "romaji": "gyojou"
       }
     ],
     "radical": {
@@ -451,5 +475,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05834.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5834.gif",
     "uri": "https://jisho.org/search/%E5%A0%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "tràng",
+    "trường"
+  ]
 }

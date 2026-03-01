@@ -322,44 +322,68 @@
       {
         "example": "著",
         "reading": "チョ",
-        "meaning": "(written) work, book, (written) by, clearness, obviousness, conspicuousness"
+        "meaning": {
+          "vi": "(written) work, book, (written) by, clearness, obviousness, conspicuousness"
+        },
+        "romaji": "cho"
       },
       {
         "example": "著作",
         "reading": "チョサク",
-        "meaning": "writing (a book), book, (literary) work, writings"
+        "meaning": {
+          "en": "writing (a book), book, (literary) work, writings"
+        },
+        "romaji": "chosaku"
       },
       {
         "example": "近著",
         "reading": "キンチョ",
-        "meaning": "recent work"
+        "meaning": {
+          "en": "recent work"
+        },
+        "romaji": "kincho"
       },
       {
         "example": "共著",
         "reading": "キョウチョ",
-        "meaning": "joint authorship, co-authorship, collaboration, joint work"
+        "meaning": {
+          "vi": "joint authorship, co-authorship, collaboration, joint work"
+        },
+        "romaji": "kyoucho"
       },
       {
         "example": "着手",
         "reading": "チャクシュ",
-        "meaning": "starting work (on), setting to work (on), setting about (doing), beginning, commencing, embarking on, commencing (a crime)"
+        "meaning": {
+          "en": "starting work (on), setting to work (on), setting about (doing), beginning, commencing, embarking on, commencing (a crime)"
+        },
+        "romaji": "chakushu"
       },
       {
         "example": "着する",
         "reading": "チャクスル",
-        "meaning": "to arrive, to reach, to adhere, to insist on, to put on, to wear"
+        "meaning": {
+          "vi": "to arrive, to reach, to adhere, to insist on, to put on, to wear"
+        },
+        "romaji": "chakusuru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "著す",
         "reading": "あらわす",
-        "meaning": "to write, to publish"
+        "meaning": {
+          "vi": "to write, to publish"
+        },
+        "romaji": "arawasu"
       },
       {
         "example": "著しい",
         "reading": "いちじるしい",
-        "meaning": "striking, remarkable, considerable"
+        "meaning": {
+          "en": "striking, remarkable, considerable"
+        },
+        "romaji": "ichijirushii"
       }
     ],
     "radical": {
@@ -378,5 +402,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08457.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8457.gif",
     "uri": "https://jisho.org/search/%E8%91%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "trước",
+    "trứ",
+    "trữ"
+  ]
 }

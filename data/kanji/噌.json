@@ -18,12 +18,18 @@
       {
         "example": "乾燥味噌",
         "reading": "カンソウミソ",
-        "meaning": "freeze-dried powdered miso (usu. salty), instant miso"
+        "meaning": {
+          "vi": "freeze-dried powdered miso (usu. salty), instant miso"
+        },
+        "romaji": "kansoumiso"
       },
       {
         "example": "西京味噌",
         "reading": "サイキョウミソ",
-        "meaning": "Saikyo miso, Kyoto-style sweet white miso esp. used for pickling fish"
+        "meaning": {
+          "vi": "Saikyo miso, Kyoto-style sweet white miso esp. used for pickling fish"
+        },
+        "romaji": "saikyoumiso"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0564c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/564c.gif",
     "uri": "https://jisho.org/search/%E5%99%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tăng"
+  ]
 }

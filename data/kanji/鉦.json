@@ -17,24 +17,36 @@
       {
         "example": "鉦",
         "reading": "カネ",
-        "meaning": "gong, handbell"
+        "meaning": {
+          "en": "gong, handbell"
+        },
+        "romaji": "kane"
       },
       {
         "example": "鉦鼓",
         "reading": "ショウコ",
-        "meaning": "small gong (used in gagaku)"
+        "meaning": {
+          "en": "small gong (used in gagaku)"
+        },
+        "romaji": "shouko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鉦",
         "reading": "かね",
-        "meaning": "gong, handbell"
+        "meaning": {
+          "en": "gong, handbell"
+        },
+        "romaji": "kane"
       },
       {
         "example": "鉦叩",
         "reading": "かねたたき",
-        "meaning": "Ornebius kanetataki (species of scaled crickets), ringing a bell, bell ringer, bell hammer"
+        "meaning": {
+          "vi": "Ornebius kanetataki (species of scaled crickets), ringing a bell, bell ringer, bell hammer"
+        },
+        "romaji": "kanetataki"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09266.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9266.gif",
     "uri": "https://jisho.org/search/%E9%89%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "chinh"
+  ]
 }

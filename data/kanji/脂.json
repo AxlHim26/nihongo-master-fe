@@ -260,39 +260,60 @@
       {
         "example": "脂肪",
         "reading": "シボウ",
-        "meaning": "fat, grease, blubber, lard, suet"
+        "meaning": {
+          "en": "fat, grease, blubber, lard, suet"
+        },
+        "romaji": "shibou"
       },
       {
         "example": "脂質",
         "reading": "シシツ",
-        "meaning": "lipid"
+        "meaning": {
+          "vi": "lipid"
+        },
+        "romaji": "shishitsu"
       },
       {
         "example": "樹脂",
         "reading": "ジュシ",
-        "meaning": "resin, rosin"
+        "meaning": {
+          "en": "resin, rosin"
+        },
+        "romaji": "jushi"
       },
       {
         "example": "皮脂",
         "reading": "ヒシ",
-        "meaning": "sebum, sebaceous matter"
+        "meaning": {
+          "en": "sebum, sebaceous matter"
+        },
+        "romaji": "hishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脂",
         "reading": "あぶら",
-        "meaning": "fat, tallow, lard, grease"
+        "meaning": {
+          "en": "fat, tallow, lard, grease"
+        },
+        "romaji": "abura"
       },
       {
         "example": "脂っこい",
         "reading": "あぶらっこい",
-        "meaning": "greasy, fatty, oily"
+        "meaning": {
+          "en": "greasy, fatty, oily"
+        },
+        "romaji": "aburakkoi"
       },
       {
         "example": "背脂",
         "reading": "せあぶら",
-        "meaning": "back fat, fatty upper part of roast pork"
+        "meaning": {
+          "vi": "back fat, fatty upper part of roast pork"
+        },
+        "romaji": "seabura"
       }
     ],
     "radical": {
@@ -311,5 +332,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08102.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8102.gif",
     "uri": "https://jisho.org/search/%E8%84%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi",
+    "chỉ"
+  ]
 }

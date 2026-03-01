@@ -279,44 +279,68 @@
       {
         "example": "杯",
         "reading": "ハイ",
-        "meaning": "sake cup, cup for alcoholic beverages, counter for cupfuls, bowlfuls, spoonfuls, etc., counter for boats, counter for octopuses and squid, cup, championship"
+        "meaning": {
+          "vi": "sake cup, cup for alcoholic beverages, counter for cupfuls, bowlfuls, spoonfuls, etc., counter for boats, counter for octopuses and squid, cup, championship"
+        },
+        "romaji": "hai"
       },
       {
         "example": "杯洗",
         "reading": "ハイセン",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": {
+          "vi": "small vessel or bowl in which sake cups are rinsed"
+        },
+        "romaji": "haisen"
       },
       {
         "example": "賜杯",
         "reading": "シハイ",
-        "meaning": "Emperor's cup, trophy given by the Emperor"
+        "meaning": {
+          "vi": "Emperor's cup, trophy given by the Emperor"
+        },
+        "romaji": "shihai"
       },
       {
         "example": "苦杯",
         "reading": "クハイ",
-        "meaning": "bitter cup, bitter experience, bitter defeat, ordeal"
+        "meaning": {
+          "vi": "bitter cup, bitter experience, bitter defeat, ordeal"
+        },
+        "romaji": "kuhai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "杯",
         "reading": "さかずき",
-        "meaning": "sake cup, cup for alcoholic beverages"
+        "meaning": {
+          "vi": "sake cup, cup for alcoholic beverages"
+        },
+        "romaji": "sakazuki"
       },
       {
         "example": "杯洗い",
         "reading": "さかずきあらい",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": {
+          "vi": "small vessel or bowl in which sake cups are rinsed"
+        },
+        "romaji": "sakazukiarai"
       },
       {
         "example": "べく杯",
         "reading": "べくはい",
-        "meaning": "sake cup shaped so it cannot be put down until emptied"
+        "meaning": {
+          "vi": "sake cup shaped so it cannot be put down until emptied"
+        },
+        "romaji": "bekuhai"
       },
       {
         "example": "水杯",
         "reading": "みずさかずき",
-        "meaning": "farewell cups of water"
+        "meaning": {
+          "vi": "farewell cups of water"
+        },
+        "romaji": "mizusakazuki"
       }
     ],
     "radical": {
@@ -334,5 +358,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0676f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/676f.gif",
     "uri": "https://jisho.org/search/%E6%9D%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "bôi"
+  ]
 }

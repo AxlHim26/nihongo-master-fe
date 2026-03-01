@@ -14,7 +14,10 @@
       {
         "example": "半纏",
         "reading": "ハンテン",
-        "meaning": "áo khoác mùa đông truyền thống kiểu haori"
+        "meaning": {
+          "vi": "áo khoác mùa đông truyền thống kiểu haori"
+        },
+        "romaji": "hanten"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88a2.gif",
     "uri": "https://jisho.org/search/%E8%A2%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiền",
+    "phán"
+  ]
 }

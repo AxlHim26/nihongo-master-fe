@@ -21,32 +21,50 @@
       {
         "example": "戮す",
         "reading": "リクス",
-        "meaning": "to kill (a person), to murder, to execute"
+        "meaning": {
+          "vi": "to kill (a person), to murder, to execute"
+        },
+        "romaji": "rikusu"
       },
       {
         "example": "戮する",
         "reading": "リクスル",
-        "meaning": "to kill (a person), to murder, to execute"
+        "meaning": {
+          "vi": "to kill (a person), to murder, to execute"
+        },
+        "romaji": "rikusuru"
       },
       {
         "example": "刑戮",
         "reading": "ケイリク",
-        "meaning": "punishment, penalty, execution"
+        "meaning": {
+          "vi": "punishment, penalty, execution"
+        },
+        "romaji": "keiriku"
       },
       {
         "example": "誅戮",
         "reading": "チュウリク",
-        "meaning": "putting a criminal to death, punishment by execution, death penalty"
+        "meaning": {
+          "vi": "putting a criminal to death, punishment by execution, death penalty"
+        },
+        "romaji": "chuuriku"
       },
       {
         "example": "刑戮",
         "reading": "ケイリク",
-        "meaning": "punishment, penalty, execution"
+        "meaning": {
+          "vi": "punishment, penalty, execution"
+        },
+        "romaji": "keiriku"
       },
       {
         "example": "誅戮",
         "reading": "チュウリク",
-        "meaning": "putting a criminal to death, punishment by execution, death penalty"
+        "meaning": {
+          "vi": "putting a criminal to death, punishment by execution, death penalty"
+        },
+        "romaji": "chuuriku"
       }
     ],
     "kunyomiExamples": [],
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622e.gif",
     "uri": "https://jisho.org/search/%E6%88%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "lục"
+  ]
 }

@@ -326,44 +326,68 @@
       {
         "example": "屋",
         "reading": "オク",
-        "meaning": "house, building, roof"
+        "meaning": {
+          "en": "house, building, roof"
+        },
+        "romaji": "oku"
       },
       {
         "example": "屋外",
         "reading": "オクガイ",
-        "meaning": "outdoors, outside"
+        "meaning": {
+          "en": "outdoors, outside"
+        },
+        "romaji": "okugai"
       },
       {
         "example": "草屋",
         "reading": "ソウオク",
-        "meaning": "thatched hut"
+        "meaning": {
+          "en": "thatched hut"
+        },
+        "romaji": "souoku"
       },
       {
         "example": "塔屋",
         "reading": "トウヤ",
-        "meaning": "rooftop structure, e.g. tower, elevator machine room, etc."
+        "meaning": {
+          "vi": "rooftop structure, e.g. tower, elevator machine room, etc."
+        },
+        "romaji": "touya"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屋",
         "reading": "や",
-        "meaning": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof"
+        "meaning": {
+          "vi": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof"
+        },
+        "romaji": "ya"
       },
       {
         "example": "屋敷",
         "reading": "やしき",
-        "meaning": "residence, estate, grounds, premises, mansion"
+        "meaning": {
+          "vi": "residence, estate, grounds, premises, mansion"
+        },
+        "romaji": "yashiki"
       },
       {
         "example": "居酒屋",
         "reading": "いざかや",
-        "meaning": "izakaya, tavern, bar, etc. that also serves various dishes and snacks"
+        "meaning": {
+          "en": "izakaya, tavern, bar, etc. that also serves various dishes and snacks"
+        },
+        "romaji": "izakaya"
       },
       {
         "example": "総会屋",
         "reading": "そうかいや",
-        "meaning": "extortionist that threatens to disrupt stock-holder meetings, sokaiya"
+        "meaning": {
+          "vi": "extortionist that threatens to disrupt stock-holder meetings, sokaiya"
+        },
+        "romaji": "soukaiya"
       }
     ],
     "radical": {
@@ -380,5 +404,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4b.gif",
     "uri": "https://jisho.org/search/%E5%B1%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ốc"
+  ]
 }

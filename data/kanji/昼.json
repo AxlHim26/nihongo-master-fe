@@ -323,44 +323,68 @@
       {
         "example": "昼食",
         "reading": "チュウショク",
-        "meaning": "lunch, midday meal"
+        "meaning": {
+          "en": "lunch, midday meal"
+        },
+        "romaji": "chuushoku"
       },
       {
         "example": "昼間",
         "reading": "ヒルマ",
-        "meaning": "daytime, during the day, time from sunrise until sunset, diurnal period"
+        "meaning": {
+          "vi": "daytime, during the day, time from sunrise until sunset, diurnal period"
+        },
+        "romaji": "hiruma"
       },
       {
         "example": "炎昼",
         "reading": "エンチュウ",
-        "meaning": "hot summer early afternoon"
+        "meaning": {
+          "en": "hot summer early afternoon"
+        },
+        "romaji": "enchuu"
       },
       {
         "example": "春昼",
         "reading": "シュンチュウ",
-        "meaning": "spring day (which seems long and quiet)"
+        "meaning": {
+          "vi": "spring day (which seems long and quiet)"
+        },
+        "romaji": "shunchuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "昼",
         "reading": "ひる",
-        "meaning": "noon, midday, daytime, lunch"
+        "meaning": {
+          "en": "noon, midday, daytime, lunch"
+        },
+        "romaji": "hiru"
       },
       {
         "example": "昼過ぎ",
         "reading": "ひるすぎ",
-        "meaning": "just past noon, afternoon"
+        "meaning": {
+          "vi": "just past noon, afternoon"
+        },
+        "romaji": "hirusugi"
       },
       {
         "example": "小昼",
         "reading": "こひる",
-        "meaning": "just before noon, late-morning snack"
+        "meaning": {
+          "en": "just before noon, late-morning snack"
+        },
+        "romaji": "kohiru"
       },
       {
         "example": "夜昼",
         "reading": "よるひる",
-        "meaning": "day and night"
+        "meaning": {
+          "en": "day and night"
+        },
+        "romaji": "yoruhiru"
       }
     ],
     "radical": {
@@ -377,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0663c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/663c.gif",
     "uri": "https://jisho.org/search/%E6%98%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "trú"
+  ]
 }

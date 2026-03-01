@@ -21,22 +21,32 @@
       {
         "example": "其れ",
         "reading": "それ",
-        "meaning": "that, it, then, that point (in time), that time, there, you"
+        "meaning": {
+          "vi": "that, it, then, that point (in time), that time, there, you"
+        },
+        "romaji": "sore"
       },
       {
         "example": "【それから】",
         "reading": "and then, after that",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "and then, after that"
       },
       {
         "example": "其の",
         "reading": "その",
-        "meaning": "that, the, part (as in \"part two\"), um ..., er ..., uh ..."
+        "meaning": {
+          "vi": "that, the, part (as in \"part two\"), um ..., er ..., uh ..."
+        },
+        "romaji": "sono"
       },
       {
         "example": "その上",
         "reading": "そのうえ",
-        "meaning": "in addition, furthermore, above (which), on top of (which)"
+        "meaning": {
+          "vi": "in addition, furthermore, above (which), on top of (which)"
+        },
+        "romaji": "sonoue"
       }
     ],
     "radical": {
@@ -52,5 +62,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05176.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5176.gif",
     "uri": "https://jisho.org/search/%E5%85%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "ki",
+    "ky",
+    "kì",
+    "kí",
+    "ký",
+    "kỳ"
+  ]
 }

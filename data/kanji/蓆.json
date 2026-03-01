@@ -17,17 +17,26 @@
       {
         "example": "筵",
         "reading": "むしろ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": {
+          "vi": "woven mat (esp. one made of straw), seat"
+        },
+        "romaji": "mushiro"
       },
       {
         "example": "菰蓆",
         "reading": "こもむしろ",
-        "meaning": "mat of woven wild rice leaves"
+        "meaning": {
+          "en": "mat of woven wild rice leaves"
+        },
+        "romaji": "komomushiro"
       },
       {
         "example": "蛭蓆",
         "reading": "ひるむしろ",
-        "meaning": "Potamogeton distinctus (species of pondweed)"
+        "meaning": {
+          "vi": "Potamogeton distinctus (species of pondweed)"
+        },
+        "romaji": "hirumushiro"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84c6.gif",
     "uri": "https://jisho.org/search/%E8%93%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "tịch"
+  ]
 }

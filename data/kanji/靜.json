@@ -20,12 +20,18 @@
       {
         "example": "寂静",
         "reading": "ジャクジョウ",
-        "meaning": "quiet, stillness, tranquility, enlightenment, nirvana"
+        "meaning": {
+          "en": "quiet, stillness, tranquility, enlightenment, nirvana"
+        },
+        "romaji": "jakujou"
       },
       {
         "example": "寂静",
         "reading": "ジャクジョウ",
-        "meaning": "quiet, stillness, tranquility, enlightenment, nirvana"
+        "meaning": {
+          "en": "quiet, stillness, tranquility, enlightenment, nirvana"
+        },
+        "romaji": "jakujou"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0975c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/975c.gif",
     "uri": "https://jisho.org/search/%E9%9D%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tĩnh",
+    "tịnh"
+  ]
 }

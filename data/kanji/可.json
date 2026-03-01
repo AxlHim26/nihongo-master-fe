@@ -293,22 +293,34 @@
       {
         "example": "可",
         "reading": "カ",
-        "meaning": "acceptable, satisfactory, allowed, permitted, approval, being in favour, (a) vote in favour, aye, Pass (grade), Fair, C, D"
+        "meaning": {
+          "vi": "acceptable, satisfactory, allowed, permitted, approval, being in favour, (a) vote in favour, aye, Pass (grade), Fair, C, D"
+        },
+        "romaji": "ka"
       },
       {
         "example": "可決",
         "reading": "カケツ",
-        "meaning": "approval, adoption (of a motion, bill, etc.), passage"
+        "meaning": {
+          "vi": "approval, adoption (of a motion, bill, etc.), passage"
+        },
+        "romaji": "kaketsu"
       },
       {
         "example": "裁可",
         "reading": "サイカ",
-        "meaning": "sanction, approval"
+        "meaning": {
+          "vi": "sanction, approval"
+        },
+        "romaji": "saika"
       },
       {
         "example": "不裁可",
         "reading": "フサイカ",
-        "meaning": "veto, rejection"
+        "meaning": {
+          "en": "veto, rejection"
+        },
+        "romaji": "fusaika"
       }
     ],
     "kunyomiExamples": [],
@@ -325,5 +337,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ef.gif",
     "uri": "https://jisho.org/search/%E5%8F%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "khả",
+    "khắc"
+  ]
 }

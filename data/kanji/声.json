@@ -350,64 +350,100 @@
       {
         "example": "声楽",
         "reading": "セイガク",
-        "meaning": "vocal music"
+        "meaning": {
+          "en": "vocal music"
+        },
+        "romaji": "seigaku"
       },
       {
         "example": "声援",
         "reading": "セイエン",
-        "meaning": "(shout of) encouragement, cheering, rooting, support"
+        "meaning": {
+          "vi": "(shout of) encouragement, cheering, rooting, support"
+        },
+        "romaji": "seien"
       },
       {
         "example": "肉声",
         "reading": "ニクセイ",
-        "meaning": "natural voice (without a microphone)"
+        "meaning": {
+          "vi": "natural voice (without a microphone)"
+        },
+        "romaji": "nikusei"
       },
       {
         "example": "和声",
         "reading": "ワセイ",
-        "meaning": "harmony, concord, consonance"
+        "meaning": {
+          "en": "harmony, concord, consonance"
+        },
+        "romaji": "wasei"
       },
       {
         "example": "声",
         "reading": "ショウ",
-        "meaning": "voice, sound, tone (of Chinese character), tone mark, stress (in pronunciation), intonation, accent"
+        "meaning": {
+          "vi": "voice, sound, tone (of Chinese character), tone mark, stress (in pronunciation), intonation, accent"
+        },
+        "romaji": "shou"
       },
       {
         "example": "声点",
         "reading": "ショウテン",
-        "meaning": "tone mark, mark placed in one of the four corners of a Chinese character to indicate the tone"
+        "meaning": {
+          "vi": "tone mark, mark placed in one of the four corners of a Chinese character to indicate the tone"
+        },
+        "romaji": "shouten"
       },
       {
         "example": "高声",
         "reading": "コウセイ",
-        "meaning": "loud voice, high-pitched voice"
+        "meaning": {
+          "vi": "loud voice, high-pitched voice"
+        },
+        "romaji": "kousei"
       },
       {
         "example": "上声",
         "reading": "ジョウショウ",
-        "meaning": "rising tone (in Chinese), (of a Japanese accent) having a high, flat tone"
+        "meaning": {
+          "vi": "rising tone (in Chinese), (of a Japanese accent) having a high, flat tone"
+        },
+        "romaji": "joushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "声",
         "reading": "こえ",
-        "meaning": "voice, singing (of a bird), chirping (of an insect), hoot, voice, opinion (as expressed in words), view, wish, attitude, will, sound, sense (of something's arrival), feeling, voice, voiced sound"
+        "meaning": {
+          "vi": "voice, singing (of a bird), chirping (of an insect), hoot, voice, opinion (as expressed in words), view, wish, attitude, will, sound, sense (of something's arrival), feeling, voice, voiced sound"
+        },
+        "romaji": "koe"
       },
       {
         "example": "声かけ",
         "reading": "こえかけ",
-        "meaning": "saying something (to someone), greeting, approaching (someone)"
+        "meaning": {
+          "vi": "saying something (to someone), greeting, approaching (someone)"
+        },
+        "romaji": "koekake"
       },
       {
         "example": "一声",
         "reading": "いっせい",
-        "meaning": "voice, cry, shout"
+        "meaning": {
+          "en": "voice, cry, shout"
+        },
+        "romaji": "issei"
       },
       {
         "example": "険しい声",
         "reading": "けわしいこえ",
-        "meaning": "sharp voice"
+        "meaning": {
+          "vi": "sharp voice"
+        },
+        "romaji": "kewashiikoe"
       }
     ],
     "radical": {
@@ -422,5 +458,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058f0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58f0.gif",
     "uri": "https://jisho.org/search/%E5%A3%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thanh"
+  ]
 }

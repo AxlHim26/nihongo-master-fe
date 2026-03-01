@@ -21,29 +21,44 @@
       {
         "example": "茅茨",
         "reading": "ボウシ",
-        "meaning": "thatched roof, cogon grass and thorny shrubs (materials for thatching roofs)"
+        "meaning": {
+          "en": "thatched roof, cogon grass and thorny shrubs (materials for thatching roofs)"
+        },
+        "romaji": "boushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "茨",
         "reading": "いばら",
-        "meaning": "thorny shrub, wild rose, briar, thorn, cusp"
+        "meaning": {
+          "vi": "thorny shrub, wild rose, briar, thorn, cusp"
+        },
+        "romaji": "ibara"
       },
       {
         "example": "茨垣",
         "reading": "いばらがき",
-        "meaning": "thorn hedge"
+        "meaning": {
+          "en": "thorn hedge"
+        },
+        "romaji": "ibaragaki"
       },
       {
         "example": "野薔薇",
         "reading": "のいばら",
-        "meaning": "multiflora rose (Rosa multiflora), baby rose, Japanese rose"
+        "meaning": {
+          "vi": "multiflora rose (Rosa multiflora), baby rose, Japanese rose"
+        },
+        "romaji": "noibara"
       },
       {
         "example": "猿捕茨",
         "reading": "さるとりいばら",
-        "meaning": "Smilax china (species of sarsaparilla)"
+        "meaning": {
+          "vi": "Smilax china (species of sarsaparilla)"
+        },
+        "romaji": "sarutoriibara"
       }
     ],
     "radical": {
@@ -62,5 +77,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08328.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8328.gif",
     "uri": "https://jisho.org/search/%E8%8C%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tì",
+    "từ",
+    "tỳ"
+  ]
 }

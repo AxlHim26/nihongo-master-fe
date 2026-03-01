@@ -16,29 +16,44 @@
       {
         "example": "楯鱗",
         "reading": "ジュンリン",
-        "meaning": "placoid scale"
+        "meaning": {
+          "vi": "placoid scale"
+        },
+        "romaji": "junrin"
       },
       {
         "example": "防楯",
         "reading": "ボウジュン",
-        "meaning": "gun shield (esp. artillery)"
+        "meaning": {
+          "vi": "gun shield (esp. artillery)"
+        },
+        "romaji": "boujun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "盾",
         "reading": "たて",
-        "meaning": "shield, buckler, escutcheon, pretext"
+        "meaning": {
+          "vi": "shield, buckler, escutcheon, pretext"
+        },
+        "romaji": "tate"
       },
       {
         "example": "楯突く",
         "reading": "たてつく",
-        "meaning": "to defy, to disobey, to rebel against, to oppose, to resist"
+        "meaning": {
+          "vi": "to defy, to disobey, to rebel against, to oppose, to resist"
+        },
+        "romaji": "tatetsuku"
       },
       {
         "example": "醜の御楯",
         "reading": "しこのみたて",
-        "meaning": "the humble shield of our Sovereign Lord"
+        "meaning": {
+          "en": "the humble shield of our Sovereign Lord"
+        },
+        "romaji": "shikonomitate"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696f.gif",
     "uri": "https://jisho.org/search/%E6%A5%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuẫn"
+  ]
 }

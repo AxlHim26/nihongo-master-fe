@@ -18,7 +18,10 @@
       {
         "example": "巨擘",
         "reading": "キョハク",
-        "meaning": "authority, big-shot, star"
+        "meaning": {
+          "en": "authority, big-shot, star"
+        },
+        "romaji": "kyohaku"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +44,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d8.gif",
     "uri": "https://jisho.org/search/%E6%93%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "bài",
+    "bịch",
+    "phách"
+  ]
 }

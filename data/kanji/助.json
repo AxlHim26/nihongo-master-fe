@@ -375,54 +375,84 @@
       {
         "example": "助",
         "reading": "ジョ",
-        "meaning": "help, rescue, assistant"
+        "meaning": {
+          "vi": "help, rescue, assistant"
+        },
+        "romaji": "jo"
       },
       {
         "example": "助演",
         "reading": "ジョエン",
-        "meaning": "supporting performance, playing a supporting role"
+        "meaning": {
+          "vi": "supporting performance, playing a supporting role"
+        },
+        "romaji": "joen"
       },
       {
         "example": "互助",
         "reading": "ゴジョ",
-        "meaning": "mutual aid, cooperation, benefit"
+        "meaning": {
+          "vi": "mutual aid, cooperation, benefit"
+        },
+        "romaji": "gojo"
       },
       {
         "example": "介助",
         "reading": "カイジョ",
-        "meaning": "help, assistance, aid"
+        "meaning": {
+          "vi": "help, assistance, aid"
+        },
+        "romaji": "kaijo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "助ける",
         "reading": "たすける",
-        "meaning": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+        "meaning": {
+          "vi": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+        },
+        "romaji": "tasukeru"
       },
       {
         "example": "助かる",
         "reading": "たすかる",
-        "meaning": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"
+        "meaning": {
+          "vi": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"
+        },
+        "romaji": "tasukaru"
       },
       {
         "example": "助",
         "reading": "すけ",
-        "meaning": "assistance, help, helper, babe, chick, broad"
+        "meaning": {
+          "vi": "assistance, help, helper, babe, chick, broad"
+        },
+        "romaji": "suke"
       },
       {
         "example": "助っ人",
         "reading": "すけっと",
-        "meaning": "helper, supporter, second, backer, foreign player (hired to strengthen a team)"
+        "meaning": {
+          "vi": "helper, supporter, second, backer, foreign player (hired to strengthen a team)"
+        },
+        "romaji": "suketto"
       },
       {
         "example": "福助",
         "reading": "ふくすけ",
-        "meaning": "large-headed dwarf statue, bringer of good luck"
+        "meaning": {
+          "en": "large-headed dwarf statue, bringer of good luck"
+        },
+        "romaji": "fukusuke"
       },
       {
         "example": "デコ助",
         "reading": "デコすけ",
-        "meaning": "big forehead, fivehead, asshole"
+        "meaning": {
+          "en": "big forehead, fivehead, asshole"
+        },
+        "romaji": "dekosuke"
       }
     ],
     "radical": {
@@ -437,5 +467,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a9.gif",
     "uri": "https://jisho.org/search/%E5%8A%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "trợ"
+  ]
 }

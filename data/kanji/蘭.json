@@ -17,32 +17,50 @@
       {
         "example": "蘭",
         "reading": "ラン",
-        "meaning": "orchid, Netherlands, Holland"
+        "meaning": {
+          "en": "orchid, Netherlands, Holland"
+        },
+        "romaji": "ran"
       },
       {
         "example": "蘭学",
         "reading": "ランガク",
-        "meaning": "rangaku, study of Western knowledge through the Dutch language during the Edo period"
+        "meaning": {
+          "vi": "rangaku, study of Western knowledge through the Dutch language during the Edo period"
+        },
+        "romaji": "rangaku"
       },
       {
         "example": "第希蘭",
         "reading": "テヘラン",
-        "meaning": "Tehran (Iran)"
+        "meaning": {
+          "en": "Tehran (Iran)"
+        },
+        "romaji": "teheran"
       },
       {
         "example": "伊蘭",
         "reading": "イラン",
-        "meaning": "Iran"
+        "meaning": {
+          "en": "Iran"
+        },
+        "romaji": "iran"
       },
       {
         "example": "蘭",
         "reading": "ラン",
-        "meaning": "orchid, Netherlands, Holland"
+        "meaning": {
+          "en": "orchid, Netherlands, Holland"
+        },
+        "romaji": "ran"
       },
       {
         "example": "蘭",
         "reading": "ラニ",
-        "meaning": "thoroughwort (species of boneset, Eupatorium fortunei)"
+        "meaning": {
+          "vi": "thoroughwort (species of boneset, Eupatorium fortunei)"
+        },
+        "romaji": "rani"
       }
     ],
     "kunyomiExamples": [],
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0862d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/862d.gif",
     "uri": "https://jisho.org/search/%E8%98%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "lan"
+  ]
 }

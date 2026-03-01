@@ -20,19 +20,28 @@
       {
         "example": "潜心",
         "reading": "センシン",
-        "meaning": "meditation"
+        "meaning": {
+          "en": "meditation"
+        },
+        "romaji": "senshin"
       },
       {
         "example": "潛心力",
         "reading": "センシンリョク",
-        "meaning": "potential power"
+        "meaning": {
+          "vi": "potential power"
+        },
+        "romaji": "senshinryoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "潜む",
         "reading": "ひそむ",
-        "meaning": "to lurk, to be hidden, to be concealed, to lie dormant, to be latent"
+        "meaning": {
+          "en": "to lurk, to be hidden, to be concealed, to lie dormant, to be latent"
+        },
+        "romaji": "hisomu"
       }
     ],
     "radical": {
@@ -52,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f5b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f5b.gif",
     "uri": "https://jisho.org/search/%E6%BD%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiềm"
+  ]
 }

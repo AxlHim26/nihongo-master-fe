@@ -17,22 +17,34 @@
       {
         "example": "黍",
         "reading": "きび",
-        "meaning": "kê (Panicum miliaceum)"
+        "meaning": {
+          "vi": "kê (Panicum miliaceum)"
+        },
+        "romaji": "kibi"
       },
       {
         "example": "きび砂糖",
         "reading": "きびざとう",
-        "meaning": "đường nâu nhạt"
+        "meaning": {
+          "vi": "đường nâu nhạt"
+        },
+        "romaji": "kibizatou"
       },
       {
         "example": "唐黍",
         "reading": "とうきび",
-        "meaning": "kê Ấn Độ"
+        "meaning": {
+          "vi": "kê Ấn Độ"
+        },
+        "romaji": "toukibi"
       },
       {
         "example": "砂糖黍",
         "reading": "さとうきび",
-        "meaning": "mía (Saccharum officinarum)"
+        "meaning": {
+          "vi": "mía (Saccharum officinarum)"
+        },
+        "romaji": "satoukibi"
       }
     ],
     "radical": {
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ecd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ecd.gif",
     "uri": "https://jisho.org/search/%E9%BB%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thử"
+  ]
 }

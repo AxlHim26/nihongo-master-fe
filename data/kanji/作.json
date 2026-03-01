@@ -363,59 +363,92 @@
       {
         "example": "作",
         "reading": "サク",
-        "meaning": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique"
+        "meaning": {
+          "vi": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique"
+        },
+        "romaji": "saku"
       },
       {
         "example": "作柄",
         "reading": "サクガラ",
-        "meaning": "crop (conditions), harvest, yield, quality (of an artistic work)"
+        "meaning": {
+          "vi": "crop (conditions), harvest, yield, quality (of an artistic work)"
+        },
+        "romaji": "sakugara"
       },
       {
         "example": "大作",
         "reading": "タイサク",
-        "meaning": "large-scale work, voluminous work, monumental work, great work, masterpiece"
+        "meaning": {
+          "vi": "large-scale work, voluminous work, monumental work, great work, masterpiece"
+        },
+        "romaji": "taisaku"
       },
       {
         "example": "遺作",
         "reading": "イサク",
-        "meaning": "posthumous works"
+        "meaning": {
+          "vi": "posthumous works"
+        },
+        "romaji": "isaku"
       },
       {
         "example": "作",
         "reading": "サク",
-        "meaning": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique"
+        "meaning": {
+          "vi": "work (e.g. of art), piece, production, harvest, crop, yield, cultivation, tillage, technique"
+        },
+        "romaji": "saku"
       },
       {
         "example": "作業",
         "reading": "サギョウ",
-        "meaning": "work, operation, task"
+        "meaning": {
+          "vi": "work, operation, task"
+        },
+        "romaji": "sagyou"
       },
       {
         "example": "所作",
         "reading": "ショサ",
-        "meaning": "conduct, behaviour, movements, gesture, one's carriage, performance (on stage, etc.), dance, acting, dance (in kabuki), dance play"
+        "meaning": {
+          "vi": "conduct, behaviour, movements, gesture, one's carriage, performance (on stage, etc.), dance, acting, dance (in kabuki), dance play"
+        },
+        "romaji": "shosa"
       },
       {
         "example": "安定操作",
         "reading": "アンテイソウサ",
-        "meaning": "stabilizing (stock) transaction"
+        "meaning": {
+          "en": "stabilizing (stock) transaction"
+        },
+        "romaji": "anteisousa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "作る",
         "reading": "つくる",
-        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        "meaning": {
+          "vi": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        },
+        "romaji": "tsukuru"
       },
       {
         "example": "作り",
         "reading": "つくり",
-        "meaning": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.)"
+        "meaning": {
+          "vi": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.)"
+        },
+        "romaji": "tsukuri"
       },
       {
         "example": "作り上げる",
         "reading": "つくりあげる",
-        "meaning": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up"
+        "meaning": {
+          "vi": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up"
+        },
+        "romaji": "tsukuriageru"
       }
     ],
     "radical": {
@@ -436,5 +469,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5c.gif",
     "uri": "https://jisho.org/search/%E4%BD%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "tá",
+    "tác"
+  ]
 }

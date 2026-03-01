@@ -318,44 +318,68 @@
       {
         "example": "球",
         "reading": "キュウ",
-        "meaning": "sphere, globe, ball, bulb, ball, sphere, counter for pitches"
+        "meaning": {
+          "vi": "sphere, globe, ball, bulb, ball, sphere, counter for pitches"
+        },
+        "romaji": "kyuu"
       },
       {
         "example": "球威",
         "reading": "キュウイ",
-        "meaning": "(pitcher's) stuff"
+        "meaning": {
+          "vi": "(pitcher's) stuff"
+        },
+        "romaji": "kyuui"
       },
       {
         "example": "配球",
         "reading": "ハイキュウ",
-        "meaning": "combination of (varied) pitches, serves, etc."
+        "meaning": {
+          "vi": "combination of (varied) pitches, serves, etc."
+        },
+        "romaji": "haikyuu"
       },
       {
         "example": "制球",
         "reading": "セイキュウ",
-        "meaning": "(pitcher's) control"
+        "meaning": {
+          "vi": "(pitcher's) control"
+        },
+        "romaji": "seikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "玉",
         "reading": "たま",
-        "meaning": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        "meaning": {
+          "vi": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        },
+        "romaji": "tama"
       },
       {
         "example": "玉突き",
         "reading": "たまつき",
-        "meaning": "billiards, pool, serial collisions (of cars)"
+        "meaning": {
+          "vi": "billiards, pool, serial collisions (of cars)"
+        },
+        "romaji": "tamatsuki"
       },
       {
         "example": "電気の球",
         "reading": "でんきのたま",
-        "meaning": "electric (light) bulb"
+        "meaning": {
+          "en": "electric (light) bulb"
+        },
+        "romaji": "denkinotama"
       },
       {
         "example": "目の玉",
         "reading": "めのたま",
-        "meaning": "eyeball"
+        "meaning": {
+          "en": "eyeball"
+        },
+        "romaji": "menotama"
       }
     ],
     "radical": {
@@ -374,5 +398,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07403.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7403.gif",
     "uri": "https://jisho.org/search/%E7%90%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "cầu"
+  ]
 }

@@ -337,39 +337,60 @@
       {
         "example": "三",
         "reading": "サン",
-        "meaning": "three, 3"
+        "meaning": {
+          "en": "three, 3"
+        },
+        "romaji": "san"
       },
       {
         "example": "参院",
         "reading": "サンイン",
-        "meaning": "House of Councillors (upper house of the National Diet of Japan)"
+        "meaning": {
+          "vi": "House of Councillors (upper house of the National Diet of Japan)"
+        },
+        "romaji": "san'in"
       },
       {
         "example": "日参",
         "reading": "ニッサン",
-        "meaning": "daily visit to a temple or shrine (to worship), visiting frequently, visiting daily"
+        "meaning": {
+          "vi": "daily visit to a temple or shrine (to worship), visiting frequently, visiting daily"
+        },
+        "romaji": "nissan"
       },
       {
         "example": "推参",
         "reading": "スイサン",
-        "meaning": "paying an unannounced visit, rudeness"
+        "meaning": {
+          "vi": "paying an unannounced visit, rudeness"
+        },
+        "romaji": "suisan"
       },
       {
         "example": "参",
         "reading": "シン",
-        "meaning": "Chinese \"Three Stars\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Three Stars\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "shin"
       },
       {
         "example": "参差",
         "reading": "シンシ",
-        "meaning": "of uneven heights or lengths"
+        "meaning": {
+          "en": "of uneven heights or lengths"
+        },
+        "romaji": "shinshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "参る",
         "reading": "まいる",
-        "meaning": "to go, to come, to call, to be defeated, to collapse, to die, to be annoyed, to be nonplussed, to be madly in love, to visit (shrine, grave)"
+        "meaning": {
+          "vi": "to go, to come, to call, to be defeated, to collapse, to die, to be annoyed, to be nonplussed, to be madly in love, to visit (shrine, grave)"
+        },
+        "romaji": "mairu"
       }
     ],
     "radical": {
@@ -385,5 +406,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c2.gif",
     "uri": "https://jisho.org/search/%E5%8F%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "sam",
+    "sâm",
+    "tam",
+    "tham",
+    "xam"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "賽",
         "reading": "さい",
-        "meaning": "dice, die"
+        "meaning": {
+          "en": "dice, die"
+        },
+        "romaji": "sai"
       },
       {
         "example": "骰子",
         "reading": "さいころ",
-        "meaning": "dice, die"
+        "meaning": {
+          "en": "dice, die"
+        },
+        "romaji": "saikoro"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ab0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ab0.gif",
     "uri": "https://jisho.org/search/%E9%AA%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "đầu"
+  ]
 }

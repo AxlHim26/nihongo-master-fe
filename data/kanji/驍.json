@@ -18,7 +18,10 @@
       {
         "example": "驍将",
         "reading": "ギョウショウ",
-        "meaning": "tướng lão luyện, lãnh đạo"
+        "meaning": {
+          "vi": "tướng lão luyện, lãnh đạo"
+        },
+        "romaji": "gyoushou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a4d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a4d.gif",
     "uri": "https://jisho.org/search/%E9%A9%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiêu"
+  ]
 }

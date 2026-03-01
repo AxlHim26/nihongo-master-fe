@@ -300,29 +300,44 @@
       {
         "example": "比",
         "reading": "ヒ",
-        "meaning": "tỷ lệ, so sánh, tương đương, Philippines, so sánh rõ (phong cách Thi Kinh)"
+        "meaning": {
+          "vi": "tỷ lệ, so sánh, tương đương, Philippines, so sánh rõ (phong cách Thi Kinh)"
+        },
+        "romaji": "hi"
       },
       {
         "example": "比較",
         "reading": "ヒカク",
-        "meaning": "sự so sánh"
+        "meaning": {
+          "vi": "sự so sánh"
+        },
+        "romaji": "hikaku"
       },
       {
         "example": "ギア比",
         "reading": "ギアヒ",
-        "meaning": "tỷ số truyền"
+        "meaning": {
+          "vi": "tỷ số truyền"
+        },
+        "romaji": "giahi"
       },
       {
         "example": "口径比",
         "reading": "コウケイヒ",
-        "meaning": "tỷ lệ khẩu độ (nghịch đảo f-number)"
+        "meaning": {
+          "vi": "tỷ lệ khẩu độ (nghịch đảo f-number)"
+        },
+        "romaji": "koukeihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "比べる",
         "reading": "くらべる",
-        "meaning": "so sánh, thi đua, đo sức với"
+        "meaning": {
+          "vi": "so sánh, thi đua, đo sức với"
+        },
+        "romaji": "kuraberu"
       }
     ],
     "radical": {
@@ -336,5 +351,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bd4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bd4.gif",
     "uri": "https://jisho.org/search/%E6%AF%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "bì",
+    "bí",
+    "bỉ",
+    "tỉ",
+    "tỵ",
+    "tỷ"
+  ]
 }
