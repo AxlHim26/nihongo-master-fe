@@ -5,7 +5,7 @@ export type KanjiGroup = "joyo" | "jinmeiyo" | "other";
 export type KanjiSearchEntry = {
   kanji: string;
   reading: string;
-  meaning: string;
+  meaning: string | Record<string, string | null>;
   group: KanjiGroup;
 };
 

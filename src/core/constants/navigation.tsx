@@ -250,26 +250,31 @@ export const kanjiSidebarSections: NavSection[] = [
       {
         id: "kanji-n5",
         label: "Hán tự N5",
+        href: "/kanji-map/n5",
         variant: "plain",
       },
       {
         id: "kanji-n4",
         label: "Hán tự N4",
+        href: "/kanji-map/n4",
         variant: "plain",
       },
       {
         id: "kanji-n3",
         label: "Hán tự N3",
+        href: "/kanji-map/n3",
         variant: "plain",
       },
       {
         id: "kanji-n2",
         label: "Hán tự N2",
+        href: "/kanji-map/n2",
         variant: "plain",
       },
       {
         id: "kanji-n1",
         label: "Hán tự N1",
+        href: "/kanji-map/n1",
         variant: "plain",
       },
     ],
