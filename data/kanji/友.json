@@ -266,44 +266,68 @@
       {
         "example": "友",
         "reading": "ユウ",
-        "meaning": "friend, affection (for siblings)"
+        "meaning": {
+          "en": "friend, affection (for siblings)"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "友愛",
         "reading": "ユウアイ",
-        "meaning": "fraternity, friendship"
+        "meaning": {
+          "vi": "fraternity, friendship"
+        },
+        "romaji": "yuuai"
       },
       {
         "example": "戦友",
         "reading": "センユウ",
-        "meaning": "comrade in arms, war buddy, fellow soldier"
+        "meaning": {
+          "en": "comrade in arms, war buddy, fellow soldier"
+        },
+        "romaji": "sen'yuu"
       },
       {
         "example": "盟友",
         "reading": "メイユウ",
-        "meaning": "sworn friend"
+        "meaning": {
+          "en": "sworn friend"
+        },
+        "romaji": "meiyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "友",
         "reading": "とも",
-        "meaning": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory"
+        "meaning": {
+          "vi": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory"
+        },
+        "romaji": "tomo"
       },
       {
         "example": "友達",
         "reading": "ともだち",
-        "meaning": "friend, companion"
+        "meaning": {
+          "vi": "friend, companion"
+        },
+        "romaji": "tomodachi"
       },
       {
         "example": "リア友",
         "reading": "リアとも",
-        "meaning": "real-life friend (as opposed to online friend)"
+        "meaning": {
+          "vi": "real-life friend (as opposed to online friend)"
+        },
+        "romaji": "riatomo"
       },
       {
         "example": "酒のお供",
         "reading": "さけのおとも",
-        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        "meaning": {
+          "vi": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        },
+        "romaji": "sakenootomo"
       }
     ],
     "radical": {
@@ -319,5 +343,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53cb.gif",
     "uri": "https://jisho.org/search/%E5%8F%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "hữu"
+  ]
 }

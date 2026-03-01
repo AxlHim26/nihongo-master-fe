@@ -343,39 +343,60 @@
       {
         "example": "額",
         "reading": "ガク",
-        "meaning": "(picture) frame, framed picture, amount (esp. of money), sum"
+        "meaning": {
+          "vi": "(picture) frame, framed picture, amount (esp. of money), sum"
+        },
+        "romaji": "gaku"
       },
       {
         "example": "額面",
         "reading": "ガクメン",
-        "meaning": "face value, par"
+        "meaning": {
+          "vi": "face value, par"
+        },
+        "romaji": "gakumen"
       },
       {
         "example": "定額",
         "reading": "テイガク",
-        "meaning": "fixed amount (of money), fixed sum, flat sum"
+        "meaning": {
+          "en": "fixed amount (of money), fixed sum, flat sum"
+        },
+        "romaji": "teigaku"
       },
       {
         "example": "税額",
         "reading": "ゼイガク",
-        "meaning": "amount of tax"
+        "meaning": {
+          "en": "amount of tax"
+        },
+        "romaji": "zeigaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "額",
         "reading": "ひたい",
-        "meaning": "forehead, brow"
+        "meaning": {
+          "en": "forehead, brow"
+        },
+        "romaji": "hitai"
       },
       {
         "example": "額当て",
         "reading": "ひたいあて",
-        "meaning": "(military) headband with reinforced metal plate, red headband"
+        "meaning": {
+          "vi": "(military) headband with reinforced metal plate, red headband"
+        },
+        "romaji": "hitaiate"
       },
       {
         "example": "広い額",
         "reading": "ひろいひたい",
-        "meaning": "high brow, broad forehead"
+        "meaning": {
+          "en": "high brow, broad forehead"
+        },
+        "romaji": "hiroihitai"
       }
     ],
     "radical": {
@@ -395,5 +416,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0984d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/984d.gif",
     "uri": "https://jisho.org/search/%E9%A1%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạch"
+  ]
 }

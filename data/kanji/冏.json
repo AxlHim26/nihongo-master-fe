@@ -18,17 +18,26 @@
       {
         "example": "冏構え",
         "reading": "ケイガマエ",
-        "meaning": "kanji radical 13 (\"upside-down box\")"
+        "meaning": {
+          "vi": "kanji radical 13 (\"upside-down box\")"
+        },
+        "romaji": "keigamae"
       },
       {
         "example": "炯々",
         "reading": "ケイケイ",
-        "meaning": "glaring (eyes), piercing, penetrating"
+        "meaning": {
+          "vi": "glaring (eyes), piercing, penetrating"
+        },
+        "romaji": "keikei"
       },
       {
         "example": "炯々",
         "reading": "ケイケイ",
-        "meaning": "glaring (eyes), piercing, penetrating"
+        "meaning": {
+          "vi": "glaring (eyes), piercing, penetrating"
+        },
+        "romaji": "keikei"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0518f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/518f.gif",
     "uri": "https://jisho.org/search/%E5%86%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "quýnh"
+  ]
 }

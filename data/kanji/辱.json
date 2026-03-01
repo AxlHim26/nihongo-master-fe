@@ -261,29 +261,44 @@
       {
         "example": "恥",
         "reading": "ハジ",
-        "meaning": "shame, embarrassment, disgrace"
+        "meaning": {
+          "en": "shame, embarrassment, disgrace"
+        },
+        "romaji": "haji"
       },
       {
         "example": "辱知",
         "reading": "ジョクチ",
-        "meaning": "acquaintance"
+        "meaning": {
+          "en": "acquaintance"
+        },
+        "romaji": "jokuchi"
       },
       {
         "example": "恥辱",
         "reading": "チジョク",
-        "meaning": "disgrace, shame, insult"
+        "meaning": {
+          "en": "disgrace, shame, insult"
+        },
+        "romaji": "chijoku"
       },
       {
         "example": "栄辱",
         "reading": "エイジョク",
-        "meaning": "honor and-or shame (honour)"
+        "meaning": {
+          "en": "honor and-or shame (honour)"
+        },
+        "romaji": "eijoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辱める",
         "reading": "はずかしめる",
-        "meaning": "to humiliate, to disgrace, to put to shame, to insult, to violate, to (sexually) assault, to rape"
+        "meaning": {
+          "vi": "to humiliate, to disgrace, to put to shame, to insult, to violate, to (sexually) assault, to rape"
+        },
+        "romaji": "hazukashimeru"
       }
     ],
     "radical": {
@@ -300,5 +315,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fb1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fb1.gif",
     "uri": "https://jisho.org/search/%E8%BE%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhục"
+  ]
 }

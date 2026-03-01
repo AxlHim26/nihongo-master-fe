@@ -18,22 +18,34 @@
       {
         "example": "姥",
         "reading": "うば",
-        "meaning": "elderly woman, noh mask of an old woman"
+        "meaning": {
+          "en": "elderly woman, noh mask of an old woman"
+        },
+        "romaji": "uba"
       },
       {
         "example": "姥魚",
         "reading": "うばうお",
-        "meaning": "Aspasma minima (species of clingfish)"
+        "meaning": {
+          "vi": "Aspasma minima (species of clingfish)"
+        },
+        "romaji": "ubauo"
       },
       {
         "example": "山姥",
         "reading": "やまうば",
-        "meaning": "mountain witch, yamauba"
+        "meaning": {
+          "en": "mountain witch, yamauba"
+        },
+        "romaji": "yamauba"
       },
       {
         "example": "高砂の尉と姥",
         "reading": "たかさごのじょうとうば",
-        "meaning": "(Japanese) Darby and Joan"
+        "meaning": {
+          "vi": "(Japanese) Darby and Joan"
+        },
+        "romaji": "takasagonojoutouba"
       }
     ],
     "radical": {
@@ -49,5 +61,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59e5.gif",
     "uri": "https://jisho.org/search/%E5%A7%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "lão",
+    "lạo",
+    "mỗ",
+    "mụ"
+  ]
 }

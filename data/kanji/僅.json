@@ -18,29 +18,44 @@
       {
         "example": "僅々",
         "reading": "キンキン",
-        "meaning": "only, just, merely, no more than"
+        "meaning": {
+          "en": "only, just, merely, no more than"
+        },
+        "romaji": "kinkin"
       },
       {
         "example": "僅差",
         "reading": "キンサ",
-        "meaning": "narrow margin, slim margin"
+        "meaning": {
+          "en": "narrow margin, slim margin"
+        },
+        "romaji": "kinsa"
       },
       {
         "example": "僅々",
         "reading": "キンキン",
-        "meaning": "only, just, merely, no more than"
+        "meaning": {
+          "en": "only, just, merely, no more than"
+        },
+        "romaji": "kinkin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "僅か",
         "reading": "わずか",
-        "meaning": "a little, a few, small, slight, trifling, meagre, meager, narrow (margin), only, just, merely, no more than"
+        "meaning": {
+          "en": "a little, a few, small, slight, trifling, meagre, meager, narrow (margin), only, just, merely, no more than"
+        },
+        "romaji": "wazuka"
       },
       {
         "example": "僅かしか",
         "reading": "わずかしか",
-        "meaning": "(nothing) but a little"
+        "meaning": {
+          "en": "(nothing) but a little"
+        },
+        "romaji": "wazukashika"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50c5.gif",
     "uri": "https://jisho.org/search/%E5%83%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "cẩn",
+    "cận"
+  ]
 }

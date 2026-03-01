@@ -16,34 +16,52 @@
       {
         "example": "蕊",
         "reading": "シベ",
-        "meaning": "pistil, stamen"
+        "meaning": {
+          "vi": "pistil, stamen"
+        },
+        "romaji": "shibe"
       },
       {
         "example": "雄しべ",
         "reading": "オシベ",
-        "meaning": "stamen"
+        "meaning": {
+          "en": "stamen"
+        },
+        "romaji": "oshibe"
       },
       {
         "example": "雌しべ",
         "reading": "メシベ",
-        "meaning": "pistil"
+        "meaning": {
+          "vi": "pistil"
+        },
+        "romaji": "meshibe"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蕊",
         "reading": "しべ",
-        "meaning": "pistil, stamen"
+        "meaning": {
+          "vi": "pistil, stamen"
+        },
+        "romaji": "shibe"
       },
       {
         "example": "雄しべ",
         "reading": "おしべ",
-        "meaning": "stamen"
+        "meaning": {
+          "en": "stamen"
+        },
+        "romaji": "oshibe"
       },
       {
         "example": "雌しべ",
         "reading": "めしべ",
-        "meaning": "pistil"
+        "meaning": {
+          "vi": "pistil"
+        },
+        "romaji": "meshibe"
       }
     ],
     "radical": {
@@ -62,5 +80,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08602.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8602.gif",
     "uri": "https://jisho.org/search/%E8%98%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhuỵ",
+    "nhị"
+  ]
 }

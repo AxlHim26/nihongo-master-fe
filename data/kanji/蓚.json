@@ -14,12 +14,18 @@
       {
         "example": "蓚酸",
         "reading": "シュウサン",
-        "meaning": "oxalic acid"
+        "meaning": {
+          "en": "oxalic acid"
+        },
+        "romaji": "shuusan"
       },
       {
         "example": "シュウ酸カルシウム",
         "reading": "シュウサンカルシウム",
-        "meaning": "calcium oxalate"
+        "meaning": {
+          "en": "calcium oxalate"
+        },
+        "romaji": "shuusankarushiumu"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84da.gif",
     "uri": "https://jisho.org/search/%E8%93%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "điệu",
+    "tu"
+  ]
 }

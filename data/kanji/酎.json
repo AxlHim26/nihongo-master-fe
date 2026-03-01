@@ -18,32 +18,50 @@
       {
         "example": "酎",
         "reading": "チュウ",
-        "meaning": "shōchū"
+        "meaning": {
+          "en": "shōchū"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "酎ハイ",
         "reading": "チュウハイ",
-        "meaning": "shōchū highball, cocktail of shōchū with tonic water"
+        "meaning": {
+          "en": "shōchū highball, cocktail of shōchū with tonic water"
+        },
+        "romaji": "chuuhai"
       },
       {
         "example": "麦焼酎",
         "reading": "ムギショウチュウ",
-        "meaning": "shōchū distilled from barley"
+        "meaning": {
+          "en": "shōchū distilled from barley"
+        },
+        "romaji": "mugishouchuu"
       },
       {
         "example": "本格焼酎",
         "reading": "ホンカクショウチュウ",
-        "meaning": "shōchū made by the simple distillation process"
+        "meaning": {
+          "vi": "shōchū made by the simple distillation process"
+        },
+        "romaji": "honkakushouchuu"
       },
       {
         "example": "酎",
         "reading": "チュウ",
-        "meaning": "shōchū"
+        "meaning": {
+          "en": "shōchū"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "酎ハイ",
         "reading": "チュウハイ",
-        "meaning": "shōchū highball, cocktail of shōchū with tonic water"
+        "meaning": {
+          "en": "shōchū highball, cocktail of shōchū with tonic water"
+        },
+        "romaji": "chuuhai"
       }
     ],
     "kunyomiExamples": [],
@@ -59,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914e.gif",
     "uri": "https://jisho.org/search/%E9%85%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "trửu",
+    "trữu"
+  ]
 }

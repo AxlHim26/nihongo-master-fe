@@ -18,19 +18,28 @@
       {
         "example": "剔",
         "reading": "テキ",
-        "meaning": "cutting"
+        "meaning": {
+          "en": "cutting"
+        },
+        "romaji": "teki"
       },
       {
         "example": "摘出",
         "reading": "テキシュツ",
-        "meaning": "picking out, taking out, (surgical) removal, exposure"
+        "meaning": {
+          "vi": "picking out, taking out, (surgical) removal, exposure"
+        },
+        "romaji": "tekishutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抉る",
         "reading": "えぐる",
-        "meaning": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+        "meaning": {
+          "vi": "to gouge, to hollow out, to bore, to excavate, to scoop out, to greatly perturb, to cause emotional pain, to get to the bottom of things, to relentlessly bring the truth to light"
+        },
+        "romaji": "eguru"
       }
     ],
     "radical": {
@@ -49,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05254.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5254.gif",
     "uri": "https://jisho.org/search/%E5%89%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch",
+    "thế"
+  ]
 }

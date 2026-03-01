@@ -18,64 +18,100 @@
       {
         "example": "鼠疫",
         "reading": "ソエキ",
-        "meaning": "dịch hạch, bệnh dịch"
+        "meaning": {
+          "vi": "dịch hạch, bệnh dịch"
+        },
+        "romaji": "soeki"
       },
       {
         "example": "鼠害",
         "reading": "ソガイ",
-        "meaning": "thiệt hại do chuột gây ra"
+        "meaning": {
+          "vi": "thiệt hại do chuột gây ra"
+        },
+        "romaji": "sogai"
       },
       {
         "example": "海鼠",
         "reading": "ナマコ",
-        "meaning": "hải sâm (Holothuroidea spp.)"
+        "meaning": {
+          "vi": "hải sâm (Holothuroidea spp.)"
+        },
+        "romaji": "namako"
       },
       {
         "example": "火鼠",
         "reading": "ヒネズミ",
-        "meaning": "chuột lửa (truyền thuyết Trung Quốc)"
+        "meaning": {
+          "vi": "chuột lửa (truyền thuyết Trung Quốc)"
+        },
+        "romaji": "hinezumi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鼠",
         "reading": "ねずみ",
-        "meaning": "chuột nhắt, chuột, xám đen"
+        "meaning": {
+          "vi": "chuột nhắt, chuột, xám đen"
+        },
+        "romaji": "nezumi"
       },
       {
         "example": "鼠穴",
         "reading": "ねずみあな",
-        "meaning": "hang chuột"
+        "meaning": {
+          "vi": "hang chuột"
+        },
+        "romaji": "nezumiana"
       },
       {
         "example": "藍鼠",
         "reading": "あいねずみ",
-        "meaning": "xám pha chàm"
+        "meaning": {
+          "vi": "xám pha chàm"
+        },
+        "romaji": "ainezumi"
       },
       {
         "example": "臭鼠",
         "reading": "においねずみ",
-        "meaning": "chuột xạ (Ondatra zibethicus)"
+        "meaning": {
+          "vi": "chuột xạ (Ondatra zibethicus)"
+        },
+        "romaji": "nioinezumi"
       },
       {
         "example": "鼠",
         "reading": "ねず",
-        "meaning": "chuột nhắt, chuột, xám đen"
+        "meaning": {
+          "vi": "chuột nhắt, chuột, xám đen"
+        },
+        "romaji": "nezu"
       },
       {
         "example": "鼠",
         "reading": "ねずみ",
-        "meaning": "chuột nhắt, chuột, xám đen"
+        "meaning": {
+          "vi": "chuột nhắt, chuột, xám đen"
+        },
+        "romaji": "nezumi"
       },
       {
         "example": "藍鼠",
         "reading": "あいねずみ",
-        "meaning": "xám pha chàm"
+        "meaning": {
+          "vi": "xám pha chàm"
+        },
+        "romaji": "ainezumi"
       },
       {
         "example": "梅鼠",
         "reading": "うめねず",
-        "meaning": "hồng xám, xám hồng"
+        "meaning": {
+          "vi": "hồng xám, xám hồng"
+        },
+        "romaji": "umenezu"
       }
     ],
     "radical": {
@@ -90,5 +126,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f20.gif",
     "uri": "https://jisho.org/search/%E9%BC%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thử"
+  ]
 }

@@ -283,34 +283,52 @@
       {
         "example": "帳",
         "reading": "チョウ",
-        "meaning": "book, register"
+        "meaning": {
+          "en": "book, register"
+        },
+        "romaji": "chou"
       },
       {
         "example": "帳消し",
         "reading": "チョウケシ",
-        "meaning": "writing off (a debt), cancellation, balancing the books, cancelling out (gains or losses), making even, making up (for), offsetting, undoing, wiping out"
+        "meaning": {
+          "vi": "writing off (a debt), cancellation, balancing the books, cancelling out (gains or losses), making even, making up (for), offsetting, undoing, wiping out"
+        },
+        "romaji": "choukeshi"
       },
       {
         "example": "記帳",
         "reading": "キチョウ",
-        "meaning": "registry, entry, book-keeping, signature"
+        "meaning": {
+          "vi": "registry, entry, book-keeping, signature"
+        },
+        "romaji": "kichou"
       },
       {
         "example": "台帳",
         "reading": "ダイチョウ",
-        "meaning": "account book, ledger, register"
+        "meaning": {
+          "en": "account book, ledger, register"
+        },
+        "romaji": "daichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帳",
         "reading": "とばり",
-        "meaning": "curtain, hanging, bunting"
+        "meaning": {
+          "en": "curtain, hanging, bunting"
+        },
+        "romaji": "tobari"
       },
       {
         "example": "夜の帳",
         "reading": "よるのとばり",
-        "meaning": "veil of darkness, curtain of night"
+        "meaning": {
+          "en": "veil of darkness, curtain of night"
+        },
+        "romaji": "yorunotobari"
       }
     ],
     "radical": {
@@ -325,5 +343,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e33.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e33.gif",
     "uri": "https://jisho.org/search/%E5%B8%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "trướng"
+  ]
 }

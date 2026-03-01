@@ -372,64 +372,100 @@
       {
         "example": "伝",
         "reading": "デン",
-        "meaning": "legend, tradition, biography, life, method, way, horseback transportation and communication relay system used in ancient Japan"
+        "meaning": {
+          "vi": "legend, tradition, biography, life, method, way, horseback transportation and communication relay system used in ancient Japan"
+        },
+        "romaji": "den"
       },
       {
         "example": "伝記",
         "reading": "デンキ",
-        "meaning": "biography, life story"
+        "meaning": {
+          "vi": "biography, life story"
+        },
+        "romaji": "denki"
       },
       {
         "example": "駅伝",
         "reading": "エキデン",
-        "meaning": "long-distance relay race, stagecoach, post horse"
+        "meaning": {
+          "vi": "long-distance relay race, stagecoach, post horse"
+        },
+        "romaji": "ekiden"
       },
       {
         "example": "評伝",
         "reading": "ヒョウデン",
-        "meaning": "critical biography"
+        "meaning": {
+          "vi": "critical biography"
+        },
+        "romaji": "hyouden"
       },
       {
         "example": "転手",
         "reading": "テンジュ",
-        "meaning": "tuning peg (on a biwa or shamisen)"
+        "meaning": {
+          "vi": "tuning peg (on a biwa or shamisen)"
+        },
+        "romaji": "tenju"
       },
       {
         "example": "伝奏",
         "reading": "テンソウ",
-        "meaning": "delivering a message to the emperor"
+        "meaning": {
+          "vi": "delivering a message to the emperor"
+        },
+        "romaji": "tensou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伝わる",
         "reading": "つたわる",
-        "meaning": "to spread (of a rumour, news, etc.), to travel, to circulate, to go around, to be passed around, to become known, to be handed down (from generation to generation), to be passed down, to be introduced (to a country, region, etc.), to be brought, to come, to be conveyed (of a feeling, impression, etc.), to be felt, to come across, to travel (of sound, electricity, etc.), to propagate, to be conducted, to be transmitted, to go along, to move along"
+        "meaning": {
+          "vi": "to spread (of a rumour, news, etc.), to travel, to circulate, to go around, to be passed around, to become known, to be handed down (from generation to generation), to be passed down, to be introduced (to a country, region, etc.), to be brought, to come, to be conveyed (of a feeling, impression, etc.), to be felt, to come across, to travel (of sound, electricity, etc.), to propagate, to be conducted, to be transmitted, to go along, to move along"
+        },
+        "romaji": "tsutawaru"
       },
       {
         "example": "伝える",
         "reading": "つたえる",
-        "meaning": "to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath"
+        "meaning": {
+          "vi": "to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath"
+        },
+        "romaji": "tsutaeru"
       },
       {
         "example": "伝う",
         "reading": "つたう",
-        "meaning": "to go along, to walk along, to follow"
+        "meaning": {
+          "en": "to go along, to walk along, to follow"
+        },
+        "romaji": "tsutau"
       },
       {
         "example": "伝",
         "reading": "つて",
-        "meaning": "means of making contact, intermediary, go-between, connections, influence, pull, good offices"
+        "meaning": {
+          "vi": "means of making contact, intermediary, go-between, connections, influence, pull, good offices"
+        },
+        "romaji": "tsute"
       },
       {
         "example": "伝言",
         "reading": "つてこと",
-        "meaning": "(verbal) message, word (from someone), rumour, rumor"
+        "meaning": {
+          "en": "(verbal) message, word (from someone), rumour, rumor"
+        },
+        "romaji": "tsutekoto"
       },
       {
         "example": "風のつて",
         "reading": "かぜのつて",
-        "meaning": "hearsay, rumor, grapevine"
+        "meaning": {
+          "vi": "hearsay, rumor, grapevine"
+        },
+        "romaji": "kazenotsute"
       }
     ],
     "radical": {
@@ -448,5 +484,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f1d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f1d.gif",
     "uri": "https://jisho.org/search/%E4%BC%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "truyền",
+    "truyện"
+  ]
 }

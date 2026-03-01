@@ -315,49 +315,76 @@
       {
         "example": "故",
         "reading": "コ",
-        "meaning": "the late, the deceased"
+        "meaning": {
+          "en": "the late, the deceased"
+        },
+        "romaji": "ko"
       },
       {
         "example": "殊更",
         "reading": "コトサラ",
-        "meaning": "intentionally, deliberately, designedly, on purpose, especially, particularly"
+        "meaning": {
+          "vi": "intentionally, deliberately, designedly, on purpose, especially, particularly"
+        },
+        "romaji": "kotosara"
       },
       {
         "example": "物故",
         "reading": "ブッコ",
-        "meaning": "death (of a person)"
+        "meaning": {
+          "vi": "death (of a person)"
+        },
+        "romaji": "bukko"
       },
       {
         "example": "人身事故",
         "reading": "ジンシンジコ",
-        "meaning": "accident resulting in personal injury or death (esp. traffic, rail, etc.)"
+        "meaning": {
+          "vi": "accident resulting in personal injury or death (esp. traffic, rail, etc.)"
+        },
+        "romaji": "jinshinjiko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "故",
         "reading": "ゆえ",
-        "meaning": "reason, cause, circumstances"
+        "meaning": {
+          "en": "reason, cause, circumstances"
+        },
+        "romaji": "yue"
       },
       {
         "example": "故に",
         "reading": "ゆえに",
-        "meaning": "therefore, consequently"
+        "meaning": {
+          "en": "therefore, consequently"
+        },
+        "romaji": "yueni"
       },
       {
         "example": "何故",
         "reading": "なにゆえ",
-        "meaning": "why"
+        "meaning": {
+          "en": "why"
+        },
+        "romaji": "naniyue"
       },
       {
         "example": "古い",
         "reading": "ふるい",
-        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+        "meaning": {
+          "vi": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+        },
+        "romaji": "furui"
       },
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        "meaning": {
+          "vi": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        },
+        "romaji": "moto"
       }
     ],
     "radical": {
@@ -377,5 +404,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06545.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6545.gif",
     "uri": "https://jisho.org/search/%E6%95%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "cố"
+  ]
 }

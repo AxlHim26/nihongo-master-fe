@@ -275,64 +275,100 @@
       {
         "example": "板門店",
         "reading": "パンムンジョム",
-        "meaning": "Panmunjom (Korea), Panmunjeom, Joint Security Area (Korean Demilitarized Zone)"
+        "meaning": {
+          "vi": "Panmunjom (Korea), Panmunjeom, Joint Security Area (Korean Demilitarized Zone)"
+        },
+        "romaji": "panmunjomu"
       },
       {
         "example": "版画",
         "reading": "ハンガ",
-        "meaning": "woodcut, woodblock print, art print"
+        "meaning": {
+          "vi": "woodcut, woodblock print, art print"
+        },
+        "romaji": "hanga"
       },
       {
         "example": "合板",
         "reading": "ゴウハン",
-        "meaning": "veneer board, plywood, joint publication"
+        "meaning": {
+          "vi": "veneer board, plywood, joint publication"
+        },
+        "romaji": "gouhan"
       },
       {
         "example": "鋼板",
         "reading": "コウハン",
-        "meaning": "steel sheet, steel plate"
+        "meaning": {
+          "vi": "steel sheet, steel plate"
+        },
+        "romaji": "kouhan"
       },
       {
         "example": "版木",
         "reading": "ハンギ",
-        "meaning": "(printing) block, woodcut"
+        "meaning": {
+          "vi": "(printing) block, woodcut"
+        },
+        "romaji": "hangi"
       },
       {
         "example": "板金",
         "reading": "バンキン",
-        "meaning": "sheet metal, metal plate"
+        "meaning": {
+          "vi": "sheet metal, metal plate"
+        },
+        "romaji": "bankin"
       },
       {
         "example": "降板",
         "reading": "コウバン",
-        "meaning": "leaving the mound, being knocked out, resignation, stepping down, withdrawing"
+        "meaning": {
+          "vi": "leaving the mound, being knocked out, resignation, stepping down, withdrawing"
+        },
+        "romaji": "kouban"
       },
       {
         "example": "鋼板",
         "reading": "コウハン",
-        "meaning": "steel sheet, steel plate"
+        "meaning": {
+          "vi": "steel sheet, steel plate"
+        },
+        "romaji": "kouhan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "板",
         "reading": "いた",
-        "meaning": "board, plank, sheet (of metal), plate (of glass), pane, slab, cutting board, chopping board, chef (esp. of high-end Japanese cuisine), cook, stage (i.e. at a theatre)"
+        "meaning": {
+          "vi": "board, plank, sheet (of metal), plate (of glass), pane, slab, cutting board, chopping board, chef (esp. of high-end Japanese cuisine), cook, stage (i.e. at a theatre)"
+        },
+        "romaji": "ita"
       },
       {
         "example": "板ガラス",
         "reading": "いたガラス",
-        "meaning": "plate glass, sheet glass"
+        "meaning": {
+          "vi": "plate glass, sheet glass"
+        },
+        "romaji": "itagarasu"
       },
       {
         "example": "まな板",
         "reading": "まないた",
-        "meaning": "chopping board, cutting board, flat chest, tiny breasts"
+        "meaning": {
+          "vi": "chopping board, cutting board, flat chest, tiny breasts"
+        },
+        "romaji": "manaita"
       },
       {
         "example": "厚板",
         "reading": "あついた",
-        "meaning": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
+        "meaning": {
+          "vi": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
+        },
+        "romaji": "atsuita"
       }
     ],
     "radical": {
@@ -348,5 +384,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0677f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/677f.gif",
     "uri": "https://jisho.org/search/%E6%9D%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "bản"
+  ]
 }

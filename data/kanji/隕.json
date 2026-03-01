@@ -18,12 +18,18 @@
       {
         "example": "隕石",
         "reading": "インセキ",
-        "meaning": "meteorite"
+        "meaning": {
+          "en": "meteorite"
+        },
+        "romaji": "inseki"
       },
       {
         "example": "隕星",
         "reading": "インセイ",
-        "meaning": "meteor, falling star"
+        "meaning": {
+          "en": "meteor, falling star"
+        },
+        "romaji": "insei"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09695.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9695.gif",
     "uri": "https://jisho.org/search/%E9%9A%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên",
+    "vẫn"
+  ]
 }

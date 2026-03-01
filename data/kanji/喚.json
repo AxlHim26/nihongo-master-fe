@@ -19,29 +19,44 @@
       {
         "example": "喚問",
         "reading": "カンモン",
-        "meaning": "summons"
+        "meaning": {
+          "en": "summons"
+        },
+        "romaji": "kanmon"
       },
       {
         "example": "喚起",
         "reading": "カンキ",
-        "meaning": "arousal, excitation, awakening, evocation"
+        "meaning": {
+          "en": "arousal, excitation, awakening, evocation"
+        },
+        "romaji": "kanki"
       },
       {
         "example": "叫喚",
         "reading": "キョウカン",
-        "meaning": "shout, scream"
+        "meaning": {
+          "en": "shout, scream"
+        },
+        "romaji": "kyoukan"
       },
       {
         "example": "阿鼻叫喚",
         "reading": "アビキョウカン",
-        "meaning": "agonizing cries, pandemonium, two of Buddhism's hells"
+        "meaning": {
+          "vi": "agonizing cries, pandemonium, two of Buddhism's hells"
+        },
+        "romaji": "abikyoukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喚く",
         "reading": "わめく",
-        "meaning": "to shout, to cry (out), to yell, to scream, to clamour"
+        "meaning": {
+          "en": "to shout, to cry (out), to yell, to scream, to clamour"
+        },
+        "romaji": "wameku"
       }
     ],
     "radical": {
@@ -59,5 +74,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0559a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/559a.gif",
     "uri": "https://jisho.org/search/%E5%96%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoán"
+  ]
 }

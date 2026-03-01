@@ -326,59 +326,92 @@
       {
         "example": "験",
         "reading": "ゲン",
-        "meaning": "effect, efficacy, omen"
+        "meaning": {
+          "en": "effect, efficacy, omen"
+        },
+        "romaji": "gen"
       },
       {
         "example": "験者",
         "reading": "ケンザ",
-        "meaning": "mountaineering ascetic, practitioner of mountain asceticism"
+        "meaning": {
+          "vi": "mountaineering ascetic, practitioner of mountain asceticism"
+        },
+        "romaji": "kenza"
       },
       {
         "example": "治験",
         "reading": "チケン",
-        "meaning": "clinical trial"
+        "meaning": {
+          "en": "clinical trial"
+        },
+        "romaji": "chiken"
       },
       {
         "example": "筆記試験",
         "reading": "ヒッキシケン",
-        "meaning": "written examination"
+        "meaning": {
+          "en": "written examination"
+        },
+        "romaji": "hikkishiken"
       },
       {
         "example": "験",
         "reading": "ゲン",
-        "meaning": "effect, efficacy, omen"
+        "meaning": {
+          "en": "effect, efficacy, omen"
+        },
+        "romaji": "gen"
       },
       {
         "example": "ゲン担ぎ",
         "reading": "ゲンカツギ",
-        "meaning": "superstition, acting superstitiously (for good luck)"
+        "meaning": {
+          "vi": "superstition, acting superstitiously (for good luck)"
+        },
+        "romaji": "genkatsugi"
       },
       {
         "example": "霊験",
         "reading": "レイゲン",
-        "meaning": "miraculous efficacy, miracle, miraculous virtue"
+        "meaning": {
+          "en": "miraculous efficacy, miracle, miraculous virtue"
+        },
+        "romaji": "reigen"
       },
       {
         "example": "効験",
         "reading": "コウケン",
-        "meaning": "efficacy, effect"
+        "meaning": {
+          "en": "efficacy, effect"
+        },
+        "romaji": "kouken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "徴",
         "reading": "しるし",
-        "meaning": "sign, indication, omen"
+        "meaning": {
+          "en": "sign, indication, omen"
+        },
+        "romaji": "shirushi"
       },
       {
         "example": "試す",
         "reading": "ためす",
-        "meaning": "to try (out), to have a try (at), to test, to put to the test"
+        "meaning": {
+          "vi": "to try (out), to have a try (at), to test, to put to the test"
+        },
+        "romaji": "tamesu"
       },
       {
         "example": "試し",
         "reading": "ためし",
-        "meaning": "trial, test"
+        "meaning": {
+          "en": "trial, test"
+        },
+        "romaji": "tameshi"
       }
     ],
     "radical": {
@@ -396,5 +429,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a13.gif",
     "uri": "https://jisho.org/search/%E9%A8%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghiệm"
+  ]
 }

@@ -20,24 +20,36 @@
       {
         "example": "氷棚",
         "reading": "ヒョウホウ",
-        "meaning": "ice shelf"
+        "meaning": {
+          "en": "ice shelf"
+        },
+        "romaji": "hyouhou"
       },
       {
         "example": "陸棚",
         "reading": "リクダナ",
-        "meaning": "continental shelf"
+        "meaning": {
+          "en": "continental shelf"
+        },
+        "romaji": "rikudana"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "棚",
         "reading": "たな",
-        "meaning": "shelf, ledge, rack, trellis"
+        "meaning": {
+          "en": "shelf, ledge, rack, trellis"
+        },
+        "romaji": "tana"
       },
       {
         "example": "棚上げ",
         "reading": "たなあげ",
-        "meaning": "shelving (a matter, plan, etc.), pigeonholing, tabling, putting aside, putting on hold, keeping (goods) off the market (to adjust the supply-demand balance)"
+        "meaning": {
+          "vi": "shelving (a matter, plan, etc.), pigeonholing, tabling, putting aside, putting on hold, keeping (goods) off the market (to adjust the supply-demand balance)"
+        },
+        "romaji": "tanaage"
       }
     ],
     "radical": {
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68da.gif",
     "uri": "https://jisho.org/search/%E6%A3%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bành",
+    "bằng"
+  ]
 }

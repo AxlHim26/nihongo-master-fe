@@ -320,44 +320,68 @@
       {
         "example": "飲",
         "reading": "イン",
-        "meaning": "drinking (sometimes esp. alcohol), drink, drinking party"
+        "meaning": {
+          "vi": "drinking (sometimes esp. alcohol), drink, drinking party"
+        },
+        "romaji": "in"
       },
       {
         "example": "飲酒",
         "reading": "インシュ",
-        "meaning": "drinking alcohol"
+        "meaning": {
+          "en": "drinking alcohol"
+        },
+        "romaji": "inshu"
       },
       {
         "example": "暴飲",
         "reading": "ボウイン",
-        "meaning": "heavy drinking"
+        "meaning": {
+          "en": "heavy drinking"
+        },
+        "romaji": "bouin"
       },
       {
         "example": "愛飲",
         "reading": "アイイン",
-        "meaning": "drinking habitually, being fond of (a drink)"
+        "meaning": {
+          "en": "drinking habitually, being fond of (a drink)"
+        },
+        "romaji": "aiin"
       },
       {
         "example": "飲食",
         "reading": "インショク",
-        "meaning": "food and drink, eating and drinking"
+        "meaning": {
+          "en": "food and drink, eating and drinking"
+        },
+        "romaji": "inshoku"
       },
       {
         "example": "飲酒",
         "reading": "オンジュ",
-        "meaning": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol"
+        "meaning": {
+          "vi": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol"
+        },
+        "romaji": "onju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飲む",
         "reading": "のむ",
-        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        "meaning": {
+          "vi": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        },
+        "romaji": "nomu"
       },
       {
         "example": "飲む打つ買う",
         "reading": "のむうつかう",
-        "meaning": "drinking, gambling, and buying women in prostitution"
+        "meaning": {
+          "vi": "drinking, gambling, and buying women in prostitution"
+        },
+        "romaji": "nomuutsukau"
       }
     ],
     "radical": {
@@ -375,5 +399,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98f2.gif",
     "uri": "https://jisho.org/search/%E9%A3%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "ấm",
+    "ẩm"
+  ]
 }

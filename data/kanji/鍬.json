@@ -19,22 +19,34 @@
       {
         "example": "鍬",
         "reading": "くわ",
-        "meaning": "hoe"
+        "meaning": {
+          "en": "hoe"
+        },
+        "romaji": "kuwa"
       },
       {
         "example": "鍬入れ",
         "reading": "くわいれ",
-        "meaning": "breaking ground, ground-breaking (ceremony), New Year's ceremony in which a hoe is used to break ground in a field lying in a lucky direction"
+        "meaning": {
+          "en": "breaking ground, ground-breaking (ceremony), New Year's ceremony in which a hoe is used to break ground in a field lying in a lucky direction"
+        },
+        "romaji": "kuwaire"
       },
       {
         "example": "鋤鍬",
         "reading": "すきくわ",
-        "meaning": "farming implement"
+        "meaning": {
+          "vi": "farming implement"
+        },
+        "romaji": "sukikuwa"
       },
       {
         "example": "木鍬",
         "reading": "こくわ",
-        "meaning": "wooden hoe"
+        "meaning": {
+          "en": "wooden hoe"
+        },
+        "romaji": "kokuwa"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0936c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/936c.gif",
     "uri": "https://jisho.org/search/%E9%8D%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiêu"
+  ]
 }

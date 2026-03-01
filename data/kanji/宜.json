@@ -20,34 +20,52 @@
       {
         "example": "宜陽殿",
         "reading": "ギヨウデン",
-        "meaning": "pavilion housing imperial treasures and historical artifacts (in Heian Palace)"
+        "meaning": {
+          "vi": "pavilion housing imperial treasures and historical artifacts (in Heian Palace)"
+        },
+        "romaji": "giyouden"
       },
       {
         "example": "時宜",
         "reading": "ジギ",
-        "meaning": "right time, appropriate time, season's greetings"
+        "meaning": {
+          "vi": "right time, appropriate time, season's greetings"
+        },
+        "romaji": "jigi"
       },
       {
         "example": "友誼",
         "reading": "ユウギ",
-        "meaning": "friendship, friendly relations, fellowship"
+        "meaning": {
+          "vi": "friendship, friendly relations, fellowship"
+        },
+        "romaji": "yuugi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宜しい",
         "reading": "よろしい",
-        "meaning": "good, OK, all right, fine, very well, will do, may, can"
+        "meaning": {
+          "en": "good, OK, all right, fine, very well, will do, may, can"
+        },
+        "romaji": "yoroshii"
       },
       {
         "example": "宜しく",
         "reading": "よろしく",
-        "meaning": "well, properly, suitably, best regards, please remember me, please treat me favorably (favourably), please take care of, please do, just like ..., as though one were ..., by all means, of course"
+        "meaning": {
+          "vi": "well, properly, suitably, best regards, please remember me, please treat me favorably (favourably), please take care of, please do, just like ..., as though one were ..., by all means, of course"
+        },
+        "romaji": "yoroshiku"
       },
       {
         "example": "よろしくお願いいたします",
         "reading": "よろしくおねがいいたします",
-        "meaning": "please remember me, please help me, please treat me well, I look forward to working with you, please do, please take care of"
+        "meaning": {
+          "vi": "please remember me, please help me, please treat me well, I look forward to working with you, please do, please take care of"
+        },
+        "romaji": "yoroshikuonegaiitashimasu"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9c.gif",
     "uri": "https://jisho.org/search/%E5%AE%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghi"
+  ]
 }

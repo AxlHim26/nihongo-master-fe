@@ -361,22 +361,34 @@
       {
         "example": "料",
         "reading": "リョウ",
-        "meaning": "fee, charge, rate, material"
+        "meaning": {
+          "en": "fee, charge, rate, material"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "料金",
         "reading": "リョウキン",
-        "meaning": "fee, charge, fare"
+        "meaning": {
+          "en": "fee, charge, fare"
+        },
+        "romaji": "ryoukin"
       },
       {
         "example": "史料",
         "reading": "シリョウ",
-        "meaning": "historical materials, historical records, historical sources, archives"
+        "meaning": {
+          "en": "historical materials, historical records, historical sources, archives"
+        },
+        "romaji": "shiryou"
       },
       {
         "example": "使用料",
         "reading": "シヨウリョウ",
-        "meaning": "use fee, rent"
+        "meaning": {
+          "en": "use fee, rent"
+        },
+        "romaji": "shiyouryou"
       }
     ],
     "kunyomiExamples": [],
@@ -392,5 +404,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06599.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6599.gif",
     "uri": "https://jisho.org/search/%E6%96%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "liêu",
+    "liệu"
+  ]
 }

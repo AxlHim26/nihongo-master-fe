@@ -305,39 +305,60 @@
       {
         "example": "抱負",
         "reading": "ホウフ",
-        "meaning": "aspiration, ambition, plan, hopes, wishes"
+        "meaning": {
+          "vi": "aspiration, ambition, plan, hopes, wishes"
+        },
+        "romaji": "houfu"
       },
       {
         "example": "抱擁",
         "reading": "ホウヨウ",
-        "meaning": "embrace, hug, holding in one's arms"
+        "meaning": {
+          "en": "embrace, hug, holding in one's arms"
+        },
+        "romaji": "houyou"
       },
       {
         "example": "懐抱",
         "reading": "カイホウ",
-        "meaning": "bearing in mind (a thought, feeling, etc.), embrace, hug, holding in one's arms, bosom, (breast) pocket"
+        "meaning": {
+          "vi": "bearing in mind (a thought, feeling, etc.), embrace, hug, holding in one's arms, bosom, (breast) pocket"
+        },
+        "romaji": "kaihou"
       },
       {
         "example": "合抱",
         "reading": "ゴウホウ",
-        "meaning": "armful"
+        "meaning": {
+          "en": "armful"
+        },
+        "romaji": "gouhou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抱く",
         "reading": "だく",
-        "meaning": "to hold in one's arms (e.g. a baby), to embrace, to hug, to have sex with, to make love to, to sleep with, to sit on (eggs), to brood"
+        "meaning": {
+          "vi": "to hold in one's arms (e.g. a baby), to embrace, to hug, to have sex with, to make love to, to sleep with, to sit on (eggs), to brood"
+        },
+        "romaji": "daku"
       },
       {
         "example": "抱く",
         "reading": "いだく",
-        "meaning": "to hold in one's arms (e.g. a baby), to embrace, to hug, to have (a thought or feeling), to hold, to harbour (suspicion, doubt, etc.), to harbor, to bear (a grudge, ill will, etc.), to entertain (hope, illusions, etc.), to cherish (e.g. an ambition)"
+        "meaning": {
+          "vi": "to hold in one's arms (e.g. a baby), to embrace, to hug, to have (a thought or feeling), to hold, to harbour (suspicion, doubt, etc.), to harbor, to bear (a grudge, ill will, etc.), to entertain (hope, illusions, etc.), to cherish (e.g. an ambition)"
+        },
+        "romaji": "idaku"
       },
       {
         "example": "抱える",
         "reading": "かかえる",
-        "meaning": "to hold in one's arms, to carry in one's arms, to carry under one's arm, to hold (one's head) in one's hands, to have (problems, debts, etc.), to take on (a responsibility), to be burdened with (e.g. care of a family member), to have (children, etc.) to provide for, to employ, to have (on one's staff), to hire"
+        "meaning": {
+          "vi": "to hold in one's arms, to carry in one's arms, to carry under one's arm, to hold (one's head) in one's hands, to have (problems, debts, etc.), to take on (a responsibility), to be burdened with (e.g. care of a family member), to have (children, etc.) to provide for, to employ, to have (on one's staff), to hire"
+        },
+        "romaji": "kakaeru"
       }
     ],
     "radical": {
@@ -356,5 +377,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062b1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62b1.gif",
     "uri": "https://jisho.org/search/%E6%8A%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "bào",
+    "bão"
+  ]
 }

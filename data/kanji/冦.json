@@ -16,12 +16,18 @@
       {
         "example": "侵攻",
         "reading": "シンコウ",
-        "meaning": "invasion"
+        "meaning": {
+          "en": "invasion"
+        },
+        "romaji": "shinkou"
       },
       {
         "example": "来冦",
         "reading": "ライコウ",
-        "meaning": "invasion, raid"
+        "meaning": {
+          "en": "invasion, raid"
+        },
+        "romaji": "raikou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a6.gif",
     "uri": "https://jisho.org/search/%E5%86%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "khấu"
+  ]
 }

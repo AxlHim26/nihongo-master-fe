@@ -17,17 +17,26 @@
       {
         "example": "貂",
         "reading": "てん",
-        "meaning": "Japanese marten (Martes melampus), marten (any arboreal weasel-like mammal of genus Martes)"
+        "meaning": {
+          "vi": "Japanese marten (Martes melampus), marten (any arboreal weasel-like mammal of genus Martes)"
+        },
+        "romaji": "ten"
       },
       {
         "example": "松貂",
         "reading": "まつてん",
-        "meaning": "European pine marten (Martes martes)"
+        "meaning": {
+          "vi": "European pine marten (Martes martes)"
+        },
+        "romaji": "matsuten"
       },
       {
         "example": "対馬貂",
         "reading": "つしまてん",
-        "meaning": "Tsushima marten (Martes melampus tsuensis, a subspecies of the Japanese marten)"
+        "meaning": {
+          "vi": "Tsushima marten (Martes melampus tsuensis, a subspecies of the Japanese marten)"
+        },
+        "romaji": "tsushimaten"
       }
     ],
     "radical": {
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c82.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c82.gif",
     "uri": "https://jisho.org/search/%E8%B2%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "điêu"
+  ]
 }

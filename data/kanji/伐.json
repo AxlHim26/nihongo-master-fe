@@ -24,29 +24,44 @@
       {
         "example": "伐木",
         "reading": "バツボク",
-        "meaning": "felling, logging"
+        "meaning": {
+          "en": "felling, logging"
+        },
+        "romaji": "batsuboku"
       },
       {
         "example": "間伐",
         "reading": "カンバツ",
-        "meaning": "periodic thinning (e.g. forest)"
+        "meaning": {
+          "vi": "periodic thinning (e.g. forest)"
+        },
+        "romaji": "kanbatsu"
       },
       {
         "example": "乱伐",
         "reading": "ランバツ",
-        "meaning": "reckless deforestation, overcutting of forests"
+        "meaning": {
+          "en": "reckless deforestation, overcutting of forests"
+        },
+        "romaji": "ranbatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伐る",
         "reading": "きる",
-        "meaning": "to cut down (e.g. trees)"
+        "meaning": {
+          "en": "to cut down (e.g. trees)"
+        },
+        "romaji": "kiru"
       },
       {
         "example": "討つ",
         "reading": "うつ",
-        "meaning": "to attack, to destroy, to defeat, to conquer, to avenge"
+        "meaning": {
+          "en": "to attack, to destroy, to defeat, to conquer, to avenge"
+        },
+        "romaji": "utsu"
       }
     ],
     "radical": {
@@ -64,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f10.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f10.gif",
     "uri": "https://jisho.org/search/%E4%BC%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "phạt"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "銘",
         "reading": "メイ",
-        "meaning": "inscription, epitaph, (manufacturer's) engraved signature, motto, maxim, precept"
+        "meaning": {
+          "vi": "inscription, epitaph, (manufacturer's) engraved signature, motto, maxim, precept"
+        },
+        "romaji": "mei"
       },
       {
         "example": "銘柄",
         "reading": "メイガラ",
-        "meaning": "brand, make, description, trading name (on a stock exchange), issue, security"
+        "meaning": {
+          "vi": "brand, make, description, trading name (on a stock exchange), issue, security"
+        },
+        "romaji": "meigara"
       },
       {
         "example": "座右銘",
         "reading": "ザユウメイ",
-        "meaning": "favourite motto, pet saying"
+        "meaning": {
+          "vi": "favourite motto, pet saying"
+        },
+        "romaji": "zayuumei"
       },
       {
         "example": "鐘銘",
         "reading": "ショウメイ",
-        "meaning": "inscription on a temple bell"
+        "meaning": {
+          "vi": "inscription on a temple bell"
+        },
+        "romaji": "shoumei"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09298.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9298.gif",
     "uri": "https://jisho.org/search/%E9%8A%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "minh"
+  ]
 }

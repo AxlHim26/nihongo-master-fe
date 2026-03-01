@@ -304,69 +304,108 @@
       {
         "example": "布",
         "reading": "フ",
-        "meaning": "Hawaii"
+        "meaning": {
+          "en": "Hawaii"
+        },
+        "romaji": "fu"
       },
       {
         "example": "布",
         "reading": "ヌノ",
-        "meaning": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China)"
+        "meaning": {
+          "vi": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China)"
+        },
+        "romaji": "nuno"
       },
       {
         "example": "麻布",
         "reading": "アサヌノ",
-        "meaning": "hemp cloth, linen"
+        "meaning": {
+          "vi": "hemp cloth, linen"
+        },
+        "romaji": "asanuno"
       },
       {
         "example": "公布",
         "reading": "コウフ",
-        "meaning": "official proclamation, announcement, promulgation (e.g. of regulations)"
+        "meaning": {
+          "vi": "official proclamation, announcement, promulgation (e.g. of regulations)"
+        },
+        "romaji": "koufu"
       },
       {
         "example": "布衣",
         "reading": "ホイ",
-        "meaning": "linen kariginu, plain kariginu (Edo period), commoner"
+        "meaning": {
+          "vi": "linen kariginu, plain kariginu (Edo period), commoner"
+        },
+        "romaji": "hoi"
       },
       {
         "example": "布衣始",
         "reading": "ホウイハジメ",
-        "meaning": "ceremony in which an abdicated emperor puts on informal court clothes (i.e. a kariginu and eboshi) for the first time"
+        "meaning": {
+          "vi": "ceremony in which an abdicated emperor puts on informal court clothes (i.e. a kariginu and eboshi) for the first time"
+        },
+        "romaji": "houihajime"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "布",
         "reading": "ぬの",
-        "meaning": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China)"
+        "meaning": {
+          "vi": "cloth, fabric, material, textile, bujian (spade-shaped bronze coin of ancient China)"
+        },
+        "romaji": "nuno"
       },
       {
         "example": "布地",
         "reading": "ぬのじ",
-        "meaning": "fabric, cloth, material"
+        "meaning": {
+          "en": "fabric, cloth, material"
+        },
+        "romaji": "nunoji"
       },
       {
         "example": "麻布",
         "reading": "あさぬの",
-        "meaning": "hemp cloth, linen"
+        "meaning": {
+          "vi": "hemp cloth, linen"
+        },
+        "romaji": "asanuno"
       },
       {
         "example": "磨き布",
         "reading": "みがきぬの",
-        "meaning": "polishing cloth"
+        "meaning": {
+          "vi": "polishing cloth"
+        },
+        "romaji": "migakinuno"
       },
       {
         "example": "敷く",
         "reading": "しく",
-        "meaning": "to spread out (e.g. a futon), to lay out, to lay down (e.g. a cushion), to impose widely (e.g. martial law), to promulgate, to pin down, to hold down, to lay (e.g. railway tracks), to deploy (e.g. troops), to spread (e.g. snow), to be propagated"
+        "meaning": {
+          "vi": "to spread out (e.g. a futon), to lay out, to lay down (e.g. a cushion), to impose widely (e.g. martial law), to promulgate, to pin down, to hold down, to lay (e.g. railway tracks), to deploy (e.g. troops), to spread (e.g. snow), to be propagated"
+        },
+        "romaji": "shiku"
       },
       {
         "example": "切れ地",
         "reading": "きれじ",
-        "meaning": "fabric, cloth, material, traditionally patterned textiles, fabric scraps"
+        "meaning": {
+          "vi": "fabric, cloth, material, traditionally patterned textiles, fabric scraps"
+        },
+        "romaji": "kireji"
       },
       {
         "example": "ボロ布",
         "reading": "ぼろきれ",
-        "meaning": "old cloth, rag"
+        "meaning": {
+          "en": "old cloth, rag"
+        },
+        "romaji": "borokire"
       }
     ],
     "radical": {
@@ -382,5 +421,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e03.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e03.gif",
     "uri": "https://jisho.org/search/%E5%B8%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "bố"
+  ]
 }

@@ -19,17 +19,26 @@
       {
         "example": "かがり火",
         "reading": "かがりび",
-        "meaning": "fire built in an iron basket (watch fire, fishing fire, etc.), bonfire, campfire, brothel-keeper (Edo period)"
+        "meaning": {
+          "vi": "fire built in an iron basket (watch fire, fishing fire, etc.), bonfire, campfire, brothel-keeper (Edo period)"
+        },
+        "romaji": "kagaribi"
       },
       {
         "example": "篝",
         "reading": "かがり",
-        "meaning": "iron basket for torches, cresset, brazier, bonfire"
+        "meaning": {
+          "en": "iron basket for torches, cresset, brazier, bonfire"
+        },
+        "romaji": "kagari"
       },
       {
         "example": "かがり火",
         "reading": "かがりび",
-        "meaning": "fire built in an iron basket (watch fire, fishing fire, etc.), bonfire, campfire, brothel-keeper (Edo period)"
+        "meaning": {
+          "vi": "fire built in an iron basket (watch fire, fishing fire, etc.), bonfire, campfire, brothel-keeper (Edo period)"
+        },
+        "romaji": "kagaribi"
       }
     ],
     "radical": {
@@ -52,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bdd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bdd.gif",
     "uri": "https://jisho.org/search/%E7%AF%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "câu"
+  ]
 }

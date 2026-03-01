@@ -19,49 +19,76 @@
       {
         "example": "三十日",
         "reading": "ミソカ",
-        "meaning": "last day of the month"
+        "meaning": {
+          "en": "last day of the month"
+        },
+        "romaji": "misoka"
       },
       {
         "example": "晦朔",
         "reading": "カイサク",
-        "meaning": "last and first days of the month"
+        "meaning": {
+          "en": "last and first days of the month"
+        },
+        "romaji": "kaisaku"
       },
       {
         "example": "韜晦",
         "reading": "トウカイ",
-        "meaning": "concealing one's talents, status, intentions, etc., maintaining a strict incognito, self-effacement"
+        "meaning": {
+          "en": "concealing one's talents, status, intentions, etc., maintaining a strict incognito, self-effacement"
+        },
+        "romaji": "toukai"
       },
       {
         "example": "自己韜晦",
         "reading": "ジコトウカイ",
-        "meaning": "concealing one's talents, position, status, intentions, etc."
+        "meaning": {
+          "vi": "concealing one's talents, position, status, intentions, etc."
+        },
+        "romaji": "jikotoukai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "三十日",
         "reading": "みそか",
-        "meaning": "last day of the month"
+        "meaning": {
+          "en": "last day of the month"
+        },
+        "romaji": "misoka"
       },
       {
         "example": "大晦",
         "reading": "おおつごもり",
-        "meaning": "the last day of the year, New Year's Eve"
+        "meaning": {
+          "en": "the last day of the year, New Year's Eve"
+        },
+        "romaji": "ootsugomori"
       },
       {
         "example": "三十日",
         "reading": "みそか",
-        "meaning": "last day of the month"
+        "meaning": {
+          "en": "last day of the month"
+        },
+        "romaji": "misoka"
       },
       {
         "example": "三十日蕎麦",
         "reading": "みそかそば",
-        "meaning": "soba eaten at the end of the month (esp. at the end of the year)"
+        "meaning": {
+          "vi": "soba eaten at the end of the month (esp. at the end of the year)"
+        },
+        "romaji": "misokasoba"
       },
       {
         "example": "眩む",
         "reading": "くらむ",
-        "meaning": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"
+        "meaning": {
+          "en": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"
+        },
+        "romaji": "kuramu"
       }
     ],
     "radical": {
@@ -78,5 +105,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06666.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6666.gif",
     "uri": "https://jisho.org/search/%E6%99%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "hối"
+  ]
 }

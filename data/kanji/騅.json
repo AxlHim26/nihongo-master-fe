@@ -16,12 +16,18 @@
       {
         "example": "騅",
         "reading": "スイ",
-        "meaning": "dapple-grey horse (gray), piebald horse, Zhui (favorite horse of Xiang Yu)"
+        "meaning": {
+          "vi": "dapple-grey horse (gray), piebald horse, Zhui (favorite horse of Xiang Yu)"
+        },
+        "romaji": "sui"
       },
       {
         "example": "騅逝かず",
         "reading": "スイユカズ",
-        "meaning": "things going contrary to one's wishes"
+        "meaning": {
+          "en": "things going contrary to one's wishes"
+        },
+        "romaji": "suiyukazu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a05.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a05.gif",
     "uri": "https://jisho.org/search/%E9%A8%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuy"
+  ]
 }

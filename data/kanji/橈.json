@@ -21,24 +21,36 @@
       {
         "example": "カイアシ類",
         "reading": "カイアシルイ",
-        "meaning": "copepods (small crustaceans of subclass Copepoda)"
+        "meaning": {
+          "vi": "copepods (small crustaceans of subclass Copepoda)"
+        },
+        "romaji": "kaiashirui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "カイアシ類",
         "reading": "カイアシるい",
-        "meaning": "copepods (small crustaceans of subclass Copepoda)"
+        "meaning": {
+          "vi": "copepods (small crustaceans of subclass Copepoda)"
+        },
+        "romaji": "kaiashirui"
       },
       {
         "example": "撓む",
         "reading": "たわむ",
-        "meaning": "to bend, to warp, to lose heart"
+        "meaning": {
+          "vi": "to bend, to warp, to lose heart"
+        },
+        "romaji": "tawamu"
       },
       {
         "example": "撓める",
         "reading": "たわめる",
-        "meaning": "to bend (a piece of wood, etc.), to bow"
+        "meaning": {
+          "vi": "to bend (a piece of wood, etc.), to bow"
+        },
+        "romaji": "tawameru"
       }
     ],
     "radical": {
@@ -54,5 +66,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a48.gif",
     "uri": "https://jisho.org/search/%E6%A9%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiêu",
+    "nhiêu",
+    "nạo"
+  ]
 }

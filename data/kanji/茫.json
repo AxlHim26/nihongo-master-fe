@@ -16,22 +16,34 @@
       {
         "example": "茫",
         "reading": "ボウ",
-        "meaning": "extensive, open, vast, vague, hazy, indistinct"
+        "meaning": {
+          "vi": "extensive, open, vast, vague, hazy, indistinct"
+        },
+        "romaji": "bou"
       },
       {
         "example": "茫然",
         "reading": "ボウゼン",
-        "meaning": "vague"
+        "meaning": {
+          "en": "vague"
+        },
+        "romaji": "bouzen"
       },
       {
         "example": "蒼茫",
         "reading": "ソウボウ",
-        "meaning": "vast and blue (e.g. ocean), dusky, shadowy"
+        "meaning": {
+          "en": "vast and blue (e.g. ocean), dusky, shadowy"
+        },
+        "romaji": "soubou"
       },
       {
         "example": "草ぼうぼう",
         "reading": "クサボウボウ",
-        "meaning": "covered with weeds"
+        "meaning": {
+          "en": "covered with weeds"
+        },
+        "romaji": "kusaboubou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0832b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/832b.gif",
     "uri": "https://jisho.org/search/%E8%8C%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "mang"
+  ]
 }

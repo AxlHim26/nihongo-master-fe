@@ -14,7 +14,10 @@
       {
         "example": "楪子",
         "reading": "チャツ",
-        "meaning": "type of lacquerware plate"
+        "meaning": {
+          "vi": "type of lacquerware plate"
+        },
+        "romaji": "chatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -30,5 +33,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696a.gif",
     "uri": "https://jisho.org/search/%E6%A5%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "điệp"
+  ]
 }

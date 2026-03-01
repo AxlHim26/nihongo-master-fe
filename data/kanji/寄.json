@@ -301,34 +301,52 @@
       {
         "example": "寄港",
         "reading": "キコウ",
-        "meaning": "calling at a port, making an intermediate stop at an airport"
+        "meaning": {
+          "vi": "calling at a port, making an intermediate stop at an airport"
+        },
+        "romaji": "kikou"
       },
       {
         "example": "寄金",
         "reading": "キキン",
-        "meaning": "contribution, donation"
+        "meaning": {
+          "en": "contribution, donation"
+        },
+        "romaji": "kikin"
       },
       {
         "example": "数寄",
         "reading": "スキ",
-        "meaning": "refined taste, elegant pursuits"
+        "meaning": {
+          "vi": "refined taste, elegant pursuits"
+        },
+        "romaji": "suki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寄る",
         "reading": "よる",
-        "meaning": "to approach, to draw near, to come near, to be close to, to gather (in one place), to come together, to meet, to stop by (while on one's way to another place), to drop by, to make a short visit, to grow old, to grow high (number, etc.), to grow (wrinkly), to lean against, to recline on, to push one's opponent while holding their belt, to decide on a price and come to a deal, to be swayed by (a person), to yield to"
+        "meaning": {
+          "vi": "to approach, to draw near, to come near, to be close to, to gather (in one place), to come together, to meet, to stop by (while on one's way to another place), to drop by, to make a short visit, to grow old, to grow high (number, etc.), to grow (wrinkly), to lean against, to recline on, to push one's opponent while holding their belt, to decide on a price and come to a deal, to be swayed by (a person), to yield to"
+        },
+        "romaji": "yoru"
       },
       {
         "example": "寄ると触ると",
         "reading": "よるとさわると",
-        "meaning": "whenever they come together"
+        "meaning": {
+          "en": "whenever they come together"
+        },
+        "romaji": "yorutosawaruto"
       },
       {
         "example": "寄せる",
         "reading": "よせる",
-        "meaning": "to come near, to let someone approach, to bring near, to bring together, to collect, to gather, to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate, to let someone drop by, to add (numbers), to have feelings for (love, goodwill, trust, etc.), to rely upon for a time, to depend on, to use as a pretext, to put aside, to press, to push, to force, to include, to welcome (in a group), to let in"
+        "meaning": {
+          "vi": "to come near, to let someone approach, to bring near, to bring together, to collect, to gather, to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate, to let someone drop by, to add (numbers), to have feelings for (love, goodwill, trust, etc.), to rely upon for a time, to depend on, to use as a pretext, to put aside, to press, to push, to force, to include, to welcome (in a group), to let in"
+        },
+        "romaji": "yoseru"
       }
     ],
     "radical": {
@@ -346,5 +364,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc4.gif",
     "uri": "https://jisho.org/search/%E5%AF%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "kí",
+    "ký"
+  ]
 }

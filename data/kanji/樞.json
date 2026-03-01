@@ -18,7 +18,10 @@
       {
         "example": "枢軸国",
         "reading": "スウジクコク",
-        "meaning": "Axis powers (World War II)"
+        "meaning": {
+          "vi": "Axis powers (World War II)"
+        },
+        "romaji": "suujikukoku"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a1e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a1e.gif",
     "uri": "https://jisho.org/search/%E6%A8%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "xu"
+  ]
 }

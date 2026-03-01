@@ -317,22 +317,34 @@
       {
         "example": "純",
         "reading": "ジュン",
-        "meaning": "innocent, chaste, naive, pure, unmixed, genuine, unalloyed"
+        "meaning": {
+          "vi": "innocent, chaste, naive, pure, unmixed, genuine, unalloyed"
+        },
+        "romaji": "jun"
       },
       {
         "example": "純益",
         "reading": "ジュンエキ",
-        "meaning": "clear profit, net income, net profit"
+        "meaning": {
+          "vi": "clear profit, net income, net profit"
+        },
+        "romaji": "jun'eki"
       },
       {
         "example": "清純",
         "reading": "セイジュン",
-        "meaning": "purity, innocence"
+        "meaning": {
+          "vi": "purity, innocence"
+        },
+        "romaji": "seijun"
       },
       {
         "example": "芳醇",
         "reading": "ホウジュン",
-        "meaning": "mellow (flavor or fragrance, esp. alcohol), rich, full-bodied, superior"
+        "meaning": {
+          "vi": "mellow (flavor or fragrance, esp. alcohol), rich, full-bodied, superior"
+        },
+        "romaji": "houjun"
       }
     ],
     "kunyomiExamples": [],
@@ -353,5 +365,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d14.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d14.gif",
     "uri": "https://jisho.org/search/%E7%B4%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuẩn",
+    "thuần",
+    "truy",
+    "tuyền",
+    "đồn"
+  ]
 }

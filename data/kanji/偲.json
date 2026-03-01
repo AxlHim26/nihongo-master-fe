@@ -19,24 +19,36 @@
       {
         "example": "偲ぶ",
         "reading": "シノブ",
-        "meaning": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer"
+        "meaning": {
+          "en": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer"
+        },
+        "romaji": "shinobu"
       },
       {
         "example": "偲ばれる",
         "reading": "シノバレル",
-        "meaning": "to be brought to mind, to come to mind"
+        "meaning": {
+          "en": "to be brought to mind, to come to mind"
+        },
+        "romaji": "shinobareru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偲ぶ",
         "reading": "しのぶ",
-        "meaning": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer"
+        "meaning": {
+          "en": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer"
+        },
+        "romaji": "shinobu"
       },
       {
         "example": "偲ぶ会",
         "reading": "しのぶかい",
-        "meaning": "gathering to remember a dead person, memorial meeting"
+        "meaning": {
+          "vi": "gathering to remember a dead person, memorial meeting"
+        },
+        "romaji": "shinobukai"
       }
     ],
     "radical": {
@@ -55,5 +67,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05072.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5072.gif",
     "uri": "https://jisho.org/search/%E5%81%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tai",
+    "ti",
+    "ty"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "蟹",
         "reading": "かに",
-        "meaning": "crab"
+        "meaning": {
+          "en": "crab"
+        },
+        "romaji": "kani"
       },
       {
         "example": "蟹缶",
         "reading": "かにかん",
-        "meaning": "canned crab"
+        "meaning": {
+          "en": "canned crab"
+        },
+        "romaji": "kanikan"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0880f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/880f.gif",
     "uri": "https://jisho.org/search/%E8%A0%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "giải"
+  ]
 }

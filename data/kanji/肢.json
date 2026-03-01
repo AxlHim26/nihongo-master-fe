@@ -17,22 +17,34 @@
       {
         "example": "肢体不自由児",
         "reading": "シタイフジユウジ",
-        "meaning": "physically disabled child, child with a physical disability"
+        "meaning": {
+          "vi": "physically disabled child, child with a physical disability"
+        },
+        "romaji": "shitaifujiyuuji"
       },
       {
         "example": "肢体",
         "reading": "シタイ",
-        "meaning": "limbs, arms and legs, body"
+        "meaning": {
+          "en": "limbs, arms and legs, body"
+        },
+        "romaji": "shitai"
       },
       {
         "example": "四肢",
         "reading": "シシ",
-        "meaning": "the (four) limbs, arms and legs"
+        "meaning": {
+          "en": "the (four) limbs, arms and legs"
+        },
+        "romaji": "shishi"
       },
       {
         "example": "下肢",
         "reading": "カシ",
-        "meaning": "lower limbs, legs"
+        "meaning": {
+          "en": "lower limbs, legs"
+        },
+        "romaji": "kashi"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80a2.gif",
     "uri": "https://jisho.org/search/%E8%82%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi"
+  ]
 }

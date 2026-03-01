@@ -19,34 +19,52 @@
       {
         "example": "朱",
         "reading": "シュ",
-        "meaning": "vermillion (colour), cinnabar, red orange, vermillion (pigment), cinnabar ink stick, correction written in red ink"
+        "meaning": {
+          "vi": "vermillion (colour), cinnabar, red orange, vermillion (pigment), cinnabar ink stick, correction written in red ink"
+        },
+        "romaji": "shu"
       },
       {
         "example": "銖",
         "reading": "シュ",
-        "meaning": "shu, unit of weight, 1/24th of a ryō, shu, Edo-period unit of currency, 1/16th of a ryō"
+        "meaning": {
+          "vi": "shu, unit of weight, 1/24th of a ryō, shu, Edo-period unit of currency, 1/16th of a ryō"
+        },
+        "romaji": "shu"
       },
       {
         "example": "堆朱",
         "reading": "ツイシュ",
-        "meaning": "red lacquerware with patterns carved in relief"
+        "meaning": {
+          "vi": "red lacquerware with patterns carved in relief"
+        },
+        "romaji": "tsuishu"
       },
       {
         "example": "銀朱",
         "reading": "ギンシュ",
-        "meaning": "vermilion (pigment)"
+        "meaning": {
+          "vi": "vermilion (pigment)"
+        },
+        "romaji": "ginshu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "朱",
         "reading": "あけ",
-        "meaning": "red, vermilion, cinnabar, scarlet"
+        "meaning": {
+          "en": "red, vermilion, cinnabar, scarlet"
+        },
+        "romaji": "ake"
       },
       {
         "example": "朱に染まる",
         "reading": "あけにそまる",
-        "meaning": "to welter in blood, to be covered in blood"
+        "meaning": {
+          "en": "to welter in blood, to be covered in blood"
+        },
+        "romaji": "akenisomaru"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06731.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6731.gif",
     "uri": "https://jisho.org/search/%E6%9C%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "chu",
+    "châu"
+  ]
 }

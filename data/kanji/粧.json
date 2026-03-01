@@ -16,17 +16,26 @@
       {
         "example": "粧鏡",
         "reading": "ショウキョウ",
-        "meaning": "bathroom mirror, make-up mirror"
+        "meaning": {
+          "vi": "bathroom mirror, make-up mirror"
+        },
+        "romaji": "shoukyou"
       },
       {
         "example": "戦化粧",
         "reading": "イクサゲショウ",
-        "meaning": "warpaint"
+        "meaning": {
+          "vi": "warpaint"
+        },
+        "romaji": "ikusageshou"
       },
       {
         "example": "夕化粧",
         "reading": "ユウゲショウ",
-        "meaning": "evening makeup"
+        "meaning": {
+          "vi": "evening makeup"
+        },
+        "romaji": "yuugeshou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ca7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ca7.gif",
     "uri": "https://jisho.org/search/%E7%B2%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "trang"
+  ]
 }

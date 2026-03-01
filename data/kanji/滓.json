@@ -18,44 +18,68 @@
       {
         "example": "残滓",
         "reading": "ザンシ",
-        "meaning": "remains, dregs, vestiges, remnant, residue"
+        "meaning": {
+          "en": "remains, dregs, vestiges, remnant, residue"
+        },
+        "romaji": "zanshi"
       },
       {
         "example": "鉱滓",
         "reading": "コウサイ",
-        "meaning": "slag"
+        "meaning": {
+          "en": "slag"
+        },
+        "romaji": "kousai"
       },
       {
         "example": "残滓",
         "reading": "ザンシ",
-        "meaning": "remains, dregs, vestiges, remnant, residue"
+        "meaning": {
+          "en": "remains, dregs, vestiges, remnant, residue"
+        },
+        "romaji": "zanshi"
       },
       {
         "example": "鉱滓",
         "reading": "コウサイ",
-        "meaning": "slag"
+        "meaning": {
+          "en": "slag"
+        },
+        "romaji": "kousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滓",
         "reading": "かす",
-        "meaning": "dregs, sediment, grounds, meal, lees (esp. sake), leftovers, by-product, worthless item, junk, dregs (e.g. of society), scum, dross, 1-point card"
+        "meaning": {
+          "vi": "dregs, sediment, grounds, meal, lees (esp. sake), leftovers, by-product, worthless item, junk, dregs (e.g. of society), scum, dross, 1-point card"
+        },
+        "romaji": "kasu"
       },
       {
         "example": "糟酢",
         "reading": "かすず",
-        "meaning": "vinegar made from sake lees"
+        "meaning": {
+          "en": "vinegar made from sake lees"
+        },
+        "romaji": "kasuzu"
       },
       {
         "example": "燃え滓",
         "reading": "もえかす",
-        "meaning": "cinders"
+        "meaning": {
+          "en": "cinders"
+        },
+        "romaji": "moekasu"
       },
       {
         "example": "魚粕",
         "reading": "ぎょかす",
-        "meaning": "fish meal"
+        "meaning": {
+          "en": "fish meal"
+        },
+        "romaji": "gyokasu"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed3.gif",
     "uri": "https://jisho.org/search/%E6%BB%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉ"
+  ]
 }

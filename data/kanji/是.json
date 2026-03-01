@@ -22,44 +22,68 @@
       {
         "example": "是",
         "reading": "ゼ",
-        "meaning": "righteousness, justice, right"
+        "meaning": {
+          "en": "righteousness, justice, right"
+        },
+        "romaji": "ze"
       },
       {
         "example": "是正",
         "reading": "ゼセイ",
-        "meaning": "correction, revision, redressing, rectifying"
+        "meaning": {
+          "en": "correction, revision, redressing, rectifying"
+        },
+        "romaji": "zesei"
       },
       {
         "example": "国是",
         "reading": "コクゼ",
-        "meaning": "national policy"
+        "meaning": {
+          "vi": "national policy"
+        },
+        "romaji": "kokuze"
       },
       {
         "example": "党是",
         "reading": "トウゼ",
-        "meaning": "party platform, party principles"
+        "meaning": {
+          "vi": "party platform, party principles"
+        },
+        "romaji": "touze"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "此れ",
         "reading": "これ",
-        "meaning": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
+        "meaning": {
+          "vi": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
+        },
+        "romaji": "kore"
       },
       {
         "example": "此れから",
         "reading": "これから",
-        "meaning": "from now on, after this, in the future, in future, from here, from this point"
+        "meaning": {
+          "vi": "from now on, after this, in the future, in future, from here, from this point"
+        },
+        "romaji": "korekara"
       },
       {
         "example": "此処",
         "reading": "ここ",
-        "meaning": "here, this place, this point, here, now, these past ... (e.g. three years), these last ..., the next ... (e.g. few days), these next ..."
+        "meaning": {
+          "vi": "here, this place, this point, here, now, these past ... (e.g. three years), these last ..., the next ... (e.g. few days), these next ..."
+        },
+        "romaji": "koko"
       },
       {
         "example": "此処に",
         "reading": "ここに",
-        "meaning": "now, here, at this juncture"
+        "meaning": {
+          "en": "now, here, at this juncture"
+        },
+        "romaji": "kokoni"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0662f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/662f.gif",
     "uri": "https://jisho.org/search/%E6%98%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thị"
+  ]
 }

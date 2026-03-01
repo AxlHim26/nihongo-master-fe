@@ -17,22 +17,34 @@
       {
         "example": "騎",
         "reading": "キ",
-        "meaning": "counter for horsemen"
+        "meaning": {
+          "en": "counter for horsemen"
+        },
+        "romaji": "ki"
       },
       {
         "example": "騎士",
         "reading": "キシ",
-        "meaning": "(medieval) knight, samurai on horseback"
+        "meaning": {
+          "en": "(medieval) knight, samurai on horseback"
+        },
+        "romaji": "kishi"
       },
       {
         "example": "一騎",
         "reading": "イッキ",
-        "meaning": "one horseman"
+        "meaning": {
+          "en": "one horseman"
+        },
+        "romaji": "ikki"
       },
       {
         "example": "与力",
         "reading": "ヨリキ",
-        "meaning": "police sergeant (Edo period), low-ranking samurai who assisted daimyo or prominent military commanders (Muromachi period)"
+        "meaning": {
+          "vi": "police sergeant (Edo period), low-ranking samurai who assisted daimyo or prominent military commanders (Muromachi period)"
+        },
+        "romaji": "yoriki"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a0e.gif",
     "uri": "https://jisho.org/search/%E9%A8%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "kị",
+    "kỵ"
+  ]
 }

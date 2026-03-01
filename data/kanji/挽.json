@@ -16,24 +16,36 @@
       {
         "example": "挽歌",
         "reading": "バンカ",
-        "meaning": "elegy, funeral song"
+        "meaning": {
+          "en": "elegy, funeral song"
+        },
+        "romaji": "banka"
       },
       {
         "example": "挽回",
         "reading": "バンカイ",
-        "meaning": "recovery, regaining, getting back, retrieval, restoration, revival"
+        "meaning": {
+          "en": "recovery, regaining, getting back, retrieval, restoration, revival"
+        },
+        "romaji": "bankai"
       },
       {
         "example": "推輓",
         "reading": "スイバン",
-        "meaning": "recommendation (of someone for a position), nomination"
+        "meaning": {
+          "vi": "recommendation (of someone for a position), nomination"
+        },
+        "romaji": "suiban"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "挽く",
         "reading": "ひく",
-        "meaning": "to saw, to grind (e.g. coffee beans), to mill"
+        "meaning": {
+          "en": "to saw, to grind (e.g. coffee beans), to mill"
+        },
+        "romaji": "hiku"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633d.gif",
     "uri": "https://jisho.org/search/%E6%8C%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "vãn"
+  ]
 }

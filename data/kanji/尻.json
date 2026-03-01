@@ -18,34 +18,52 @@
       {
         "example": "後輪",
         "reading": "コウリン",
-        "meaning": "rear wheel, cantle"
+        "meaning": {
+          "en": "rear wheel, cantle"
+        },
+        "romaji": "kourin"
       },
       {
         "example": "尻座",
         "reading": "コウザ",
-        "meaning": "crouching"
+        "meaning": {
+          "en": "crouching"
+        },
+        "romaji": "kouza"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尻",
         "reading": "しり",
-        "meaning": "buttocks, behind, rump, bottom, hips, undersurface, bottom, last place, end, consequence"
+        "meaning": {
+          "vi": "buttocks, behind, rump, bottom, hips, undersurface, bottom, last place, end, consequence"
+        },
+        "romaji": "shiri"
       },
       {
         "example": "尻尾",
         "reading": "しっぽ",
-        "meaning": "tail (of an animal), tail end, tip"
+        "meaning": {
+          "vi": "tail (of an animal), tail end, tip"
+        },
+        "romaji": "shippo"
       },
       {
         "example": "重い尻",
         "reading": "おもいしり",
-        "meaning": "lazy ass, (someone) slow to act"
+        "meaning": {
+          "en": "lazy ass, (someone) slow to act"
+        },
+        "romaji": "omoishiri"
       },
       {
         "example": "道の後",
         "reading": "みちのしり",
-        "meaning": "the part of a province furthest from the capital"
+        "meaning": {
+          "vi": "the part of a province furthest from the capital"
+        },
+        "romaji": "michinoshiri"
       }
     ],
     "radical": {
@@ -60,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3b.gif",
     "uri": "https://jisho.org/search/%E5%B0%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "cừu",
+    "khào"
+  ]
 }

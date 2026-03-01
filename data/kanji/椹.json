@@ -21,12 +21,18 @@
       {
         "example": "椹",
         "reading": "さわら",
-        "meaning": "sawara cypress (Chamaecyparis pisifera)"
+        "meaning": {
+          "vi": "sawara cypress (Chamaecyparis pisifera)"
+        },
+        "romaji": "sawara"
       },
       {
         "example": "栂椹",
         "reading": "とがさわら",
-        "meaning": "Japanese Douglas fir (Pseudotsuga japonica)"
+        "meaning": {
+          "vi": "Japanese Douglas fir (Pseudotsuga japonica)"
+        },
+        "romaji": "togasawara"
       }
     ],
     "radical": {
@@ -43,5 +49,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06939.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6939.gif",
     "uri": "https://jisho.org/search/%E6%A4%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "châm",
+    "thầm",
+    "thẩm",
+    "thậm"
+  ]
 }

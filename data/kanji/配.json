@@ -340,29 +340,44 @@
       {
         "example": "配給",
         "reading": "ハイキュウ",
-        "meaning": "distribution (e.g. films, rice), rationing (e.g. food, gasoline), food ration"
+        "meaning": {
+          "en": "distribution (e.g. films, rice), rationing (e.g. food, gasoline), food ration"
+        },
+        "romaji": "haikyuu"
       },
       {
         "example": "配管",
         "reading": "ハイカン",
-        "meaning": "plumbing, piping"
+        "meaning": {
+          "vi": "plumbing, piping"
+        },
+        "romaji": "haikan"
       },
       {
         "example": "無配",
         "reading": "ムハイ",
-        "meaning": "without dividend"
+        "meaning": {
+          "en": "without dividend"
+        },
+        "romaji": "muhai"
       },
       {
         "example": "宅配",
         "reading": "タクハイ",
-        "meaning": "home delivery"
+        "meaning": {
+          "en": "home delivery"
+        },
+        "romaji": "takuhai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "配る",
         "reading": "くばる",
-        "meaning": "to distribute, to hand out, to deliver, to deal out, to serve out, to allot, to allocate, to place (staff, soldiers, etc.), to station"
+        "meaning": {
+          "vi": "to distribute, to hand out, to deliver, to deal out, to serve out, to allot, to allocate, to place (staff, soldiers, etc.), to station"
+        },
+        "romaji": "kubaru"
       }
     ],
     "radical": {
@@ -377,5 +392,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914d.gif",
     "uri": "https://jisho.org/search/%E9%85%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "phối"
+  ]
 }

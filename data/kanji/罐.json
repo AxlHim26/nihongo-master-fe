@@ -16,29 +16,44 @@
       {
         "example": "缶",
         "reading": "カン",
-        "meaning": "can, tin, canned food"
+        "meaning": {
+          "en": "can, tin, canned food"
+        },
+        "romaji": "kan"
       },
       {
         "example": "缶詰",
         "reading": "カンヅメ",
-        "meaning": "canned food, tinned food, confining someone (e.g. so they can concentrate on work), being stuck in a confined space"
+        "meaning": {
+          "vi": "canned food, tinned food, confining someone (e.g. so they can concentrate on work), being stuck in a confined space"
+        },
+        "romaji": "kanzume"
       },
       {
         "example": "汽缶",
         "reading": "キカン",
-        "meaning": "boiler"
+        "meaning": {
+          "en": "boiler"
+        },
+        "romaji": "kikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "缶",
         "reading": "かま",
-        "meaning": "boiler"
+        "meaning": {
+          "en": "boiler"
+        },
+        "romaji": "kama"
       },
       {
         "example": "罐焚き",
         "reading": "かまたき",
-        "meaning": "stoker, fireman"
+        "meaning": {
+          "en": "stoker, fireman"
+        },
+        "romaji": "kamataki"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f50.gif",
     "uri": "https://jisho.org/search/%E7%BD%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "quán"
+  ]
 }

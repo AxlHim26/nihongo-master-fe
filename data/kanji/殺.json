@@ -366,64 +366,100 @@
       {
         "example": "殺意",
         "reading": "サツイ",
-        "meaning": "ý định giết người, xung động sát nhân"
+        "meaning": {
+          "vi": "ý định giết người, xung động sát nhân"
+        },
+        "romaji": "satsui"
       },
       {
         "example": "殺害",
         "reading": "サツガイ",
-        "meaning": "giết người, sát hại"
+        "meaning": {
+          "vi": "giết người, sát hại"
+        },
+        "romaji": "satsugai"
       },
       {
         "example": "他殺",
         "reading": "タサツ",
-        "meaning": "sát hại, giết người"
+        "meaning": {
+          "vi": "sát hại, giết người"
+        },
+        "romaji": "tasatsu"
       },
       {
         "example": "併殺",
         "reading": "ヘイサツ",
-        "meaning": "chơi kép (bóng chày)"
+        "meaning": {
+          "vi": "chơi kép (bóng chày)"
+        },
+        "romaji": "heisatsu"
       },
       {
         "example": "相殺",
         "reading": "ソウサイ",
-        "meaning": "bù trừ, triệt tiêu lẫn nhau, cân bằng"
+        "meaning": {
+          "vi": "bù trừ, triệt tiêu lẫn nhau, cân bằng"
+        },
+        "romaji": "sousai"
       },
       {
         "example": "減殺",
         "reading": "ゲンサイ",
-        "meaning": "giảm bớt, thu nhỏ, giảm"
+        "meaning": {
+          "vi": "giảm bớt, thu nhỏ, giảm"
+        },
+        "romaji": "gensai"
       },
       {
         "example": "殺害",
         "reading": "サツガイ",
-        "meaning": "giết người, sát hại"
+        "meaning": {
+          "vi": "giết người, sát hại"
+        },
+        "romaji": "satsugai"
       },
       {
         "example": "刹那",
         "reading": "セツナ",
-        "meaning": "khoảnh khắc, sát-na"
+        "meaning": {
+          "vi": "khoảnh khắc, sát-na"
+        },
+        "romaji": "setsuna"
       },
       {
         "example": "歳殺",
         "reading": "サイセツ",
-        "meaning": "Saisetsu, một trong tám vị thần lịch truyền thống"
+        "meaning": {
+          "vi": "Saisetsu, một trong tám vị thần lịch truyền thống"
+        },
+        "romaji": "saisetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "殺す",
         "reading": "ころす",
-        "meaning": "giết, sát hại, ức chế, chặn, phá hủy, loại bỏ, làm hỏng, cầm đồ"
+        "meaning": {
+          "vi": "giết, sát hại, ức chế, chặn, phá hủy, loại bỏ, làm hỏng, cầm đồ"
+        },
+        "romaji": "korosu"
       },
       {
         "example": "削ぐ",
         "reading": "そぐ",
-        "meaning": "gọt, cạo, cắt lát, làm giảm, làm yếu, làm hỏng"
+        "meaning": {
+          "vi": "gọt, cạo, cắt lát, làm giảm, làm yếu, làm hỏng"
+        },
+        "romaji": "sogu"
       },
       {
         "example": "殺める",
         "reading": "あやめる",
-        "meaning": "làm bị thương, giết"
+        "meaning": {
+          "vi": "làm bị thương, giết"
+        },
+        "romaji": "ayameru"
       }
     ],
     "radical": {
@@ -442,5 +478,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bba.gif",
     "uri": "https://jisho.org/search/%E6%AE%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "sái",
+    "sát",
+    "tát",
+    "ái"
+  ]
 }

@@ -16,7 +16,10 @@
       {
         "example": "崎嶇",
         "reading": "キク",
-        "meaning": "steep (mountain), precipitous, hard (life), difficult, troubled"
+        "meaning": {
+          "vi": "steep (mountain), precipitous, hard (life), difficult, troubled"
+        },
+        "romaji": "kiku"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d87.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d87.gif",
     "uri": "https://jisho.org/search/%E5%B6%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "khu"
+  ]
 }

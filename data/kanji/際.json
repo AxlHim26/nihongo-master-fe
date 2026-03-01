@@ -305,39 +305,60 @@
       {
         "example": "際",
         "reading": "サイ",
-        "meaning": "occasion, time, circumstances, (in) case (of), when"
+        "meaning": {
+          "en": "occasion, time, circumstances, (in) case (of), when"
+        },
+        "romaji": "sai"
       },
       {
         "example": "際会",
         "reading": "サイカイ",
-        "meaning": "meeting, facing, confronting"
+        "meaning": {
+          "en": "meeting, facing, confronting"
+        },
+        "romaji": "saikai"
       },
       {
         "example": "学際",
         "reading": "ガクサイ",
-        "meaning": "interdisciplinary"
+        "meaning": {
+          "vi": "interdisciplinary"
+        },
+        "romaji": "gakusai"
       },
       {
         "example": "援助交際",
         "reading": "エンジョコウサイ",
-        "meaning": "paid dating (esp. with an underage girl; oft. involving selling of sex), compensated dating"
+        "meaning": {
+          "vi": "paid dating (esp. with an underage girl; oft. involving selling of sex), compensated dating"
+        },
+        "romaji": "enjokousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "際",
         "reading": "きわ",
-        "meaning": "edge, brink, verge, side, time, moment of"
+        "meaning": {
+          "en": "edge, brink, verge, side, time, moment of"
+        },
+        "romaji": "kiwa"
       },
       {
         "example": "際立つ",
         "reading": "きわだつ",
-        "meaning": "to be prominent, to be conspicuous, to stand out, to be outstanding, to be remarkable, to be striking, to be notable"
+        "meaning": {
+          "vi": "to be prominent, to be conspicuous, to stand out, to be outstanding, to be remarkable, to be striking, to be notable"
+        },
+        "romaji": "kiwadatsu"
       },
       {
         "example": "今際の際",
         "reading": "いまわのきわ",
-        "meaning": "verge of death, dying moments"
+        "meaning": {
+          "en": "verge of death, dying moments"
+        },
+        "romaji": "imawanokiwa"
       }
     ],
     "radical": {
@@ -359,5 +380,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0969b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/969b.gif",
     "uri": "https://jisho.org/search/%E9%9A%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế"
+  ]
 }

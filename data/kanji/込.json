@@ -332,32 +332,50 @@
       {
         "example": "込む",
         "reading": "こむ",
-        "meaning": "to be crowded, to be packed, to be congested, to be thronged (with), to be complex, to be intricate, to go into, to go in, to put into, to become (completely), to do thoroughly, to do sufficiently, to remain (silent, seated, etc.), to stay ..."
+        "meaning": {
+          "vi": "to be crowded, to be packed, to be congested, to be thronged (with), to be complex, to be intricate, to go into, to go in, to put into, to become (completely), to do thoroughly, to do sufficiently, to remain (silent, seated, etc.), to stay ..."
+        },
+        "romaji": "komu"
       },
       {
         "example": "込み",
         "reading": "こみ",
-        "meaning": "including ..., inclusive of ..., bundling together (items of different size, quality, etc.), lumping together, komi, extra points given to the white player as compensation for playing second"
+        "meaning": {
+          "vi": "including ..., inclusive of ..., bundling together (items of different size, quality, etc.), lumping together, komi, extra points given to the white player as compensation for playing second"
+        },
+        "romaji": "komi"
       },
       {
         "example": "混み合う",
         "reading": "こみあう",
-        "meaning": "to be crowded, to be packed, to be jammed"
+        "meaning": {
+          "vi": "to be crowded, to be packed, to be jammed"
+        },
+        "romaji": "komiau"
       },
       {
         "example": "割り込み",
         "reading": "わりこみ",
-        "meaning": "queue jumping, breaking into a line, muscling in on, wedging oneself in, interruption, sharing a theater box (theatre), interrupt"
+        "meaning": {
+          "vi": "queue jumping, breaking into a line, muscling in on, wedging oneself in, interruption, sharing a theater box (theatre), interrupt"
+        },
+        "romaji": "warikomi"
       },
       {
         "example": "取り込み",
         "reading": "とりこみ",
-        "meaning": "taking in, bringing in, capturing (e.g. customers), attracting, winning over, pleasing, confusion, bustle, misfortune, disorder, importing (e.g. data), capturing (e.g. image)"
+        "meaning": {
+          "vi": "taking in, bringing in, capturing (e.g. customers), attracting, winning over, pleasing, confusion, bustle, misfortune, disorder, importing (e.g. data), capturing (e.g. image)"
+        },
+        "romaji": "torikomi"
       },
       {
         "example": "込める",
         "reading": "こめる",
-        "meaning": "to load (a gun, etc.), to charge, to put into (e.g. emotion, effort), to include (e.g. tax in a sales price), to hang over, to shroud, to enshroud, to envelop, to screen"
+        "meaning": {
+          "vi": "to load (a gun, etc.), to charge, to put into (e.g. emotion, effort), to include (e.g. tax in a sales price), to hang over, to shroud, to enshroud, to envelop, to screen"
+        },
+        "romaji": "komeru"
       }
     ],
     "radical": {
@@ -377,5 +395,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbc.gif",
     "uri": "https://jisho.org/search/%E8%BE%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "vu"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "瞋",
         "reading": "シン",
-        "meaning": "dosa (ill will, antipathy)"
+        "meaning": {
+          "vi": "dosa (ill will, antipathy)"
+        },
+        "romaji": "shin"
       },
       {
         "example": "瞋恚",
         "reading": "シンイ",
-        "meaning": "dosa (ill will, antipathy), irateness, anger"
+        "meaning": {
+          "vi": "dosa (ill will, antipathy), irateness, anger"
+        },
+        "romaji": "shin'i"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055d4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55d4.gif",
     "uri": "https://jisho.org/search/%E5%97%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "sân",
+    "điền"
+  ]
 }

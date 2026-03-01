@@ -289,54 +289,84 @@
       {
         "example": "城",
         "reading": "ジョウ",
-        "meaning": "lâu đài (trong tên địa danh), lâu đài, pháo đài"
+        "meaning": {
+          "vi": "lâu đài (trong tên địa danh), lâu đài, pháo đài"
+        },
+        "romaji": "jou"
       },
       {
         "example": "城内",
         "reading": "ジョウナイ",
-        "meaning": "bên trong lâu đài, khu vực trong tường thành"
+        "meaning": {
+          "vi": "bên trong lâu đài, khu vực trong tường thành"
+        },
+        "romaji": "jounai"
       },
       {
         "example": "荒城",
         "reading": "コウジョウ",
-        "meaning": "lâu đài đổ nát"
+        "meaning": {
+          "vi": "lâu đài đổ nát"
+        },
+        "romaji": "koujou"
       },
       {
         "example": "開城",
         "reading": "カイジョウ",
-        "meaning": "đầu hàng, thất thủ lâu đài"
+        "meaning": {
+          "vi": "đầu hàng, thất thủ lâu đài"
+        },
+        "romaji": "kaijou"
       },
       {
         "example": "傾城",
         "reading": "ケイセイ",
-        "meaning": "sắc đẹp, ả đào, kỹ nữ"
+        "meaning": {
+          "vi": "sắc đẹp, ả đào, kỹ nữ"
+        },
+        "romaji": "keisei"
       },
       {
         "example": "傾国傾城",
         "reading": "ケイコクケイセイ",
-        "meaning": "hồng nhan họa thủy, femme fatale"
+        "meaning": {
+          "vi": "hồng nhan họa thủy, femme fatale"
+        },
+        "romaji": "keikokukeisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "城",
         "reading": "しろ",
-        "meaning": "lâu đài"
+        "meaning": {
+          "vi": "lâu đài"
+        },
+        "romaji": "shiro"
       },
       {
         "example": "城跡",
         "reading": "しろあと",
-        "meaning": "di tích lâu đài"
+        "meaning": {
+          "vi": "di tích lâu đài"
+        },
+        "romaji": "shiroato"
       },
       {
         "example": "ハウルの動く城",
         "reading": "ハウルのうごくしろ",
-        "meaning": "Lâu đài di động của Howl (phim hoạt hình 2004)"
+        "meaning": {
+          "vi": "Lâu đài di động của Howl (phim hoạt hình 2004)"
+        },
+        "romaji": "haurunougokushiro"
       },
       {
         "example": "砂の城",
         "reading": "すなのしろ",
-        "meaning": "lâu đài cát"
+        "meaning": {
+          "vi": "lâu đài cát"
+        },
+        "romaji": "sunanoshiro"
       }
     ],
     "radical": {
@@ -352,5 +382,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057ce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57ce.gif",
     "uri": "https://jisho.org/search/%E5%9F%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "giàm",
+    "thành"
+  ]
 }

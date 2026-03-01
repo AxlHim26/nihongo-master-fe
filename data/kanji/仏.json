@@ -329,64 +329,100 @@
       {
         "example": "仏",
         "reading": "ブツ",
-        "meaning": "Buddha, Buddhism"
+        "meaning": {
+          "en": "Buddha, Buddhism"
+        },
+        "romaji": "butsu"
       },
       {
         "example": "仏像",
         "reading": "ブツゾウ",
-        "meaning": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image"
+        "meaning": {
+          "en": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image"
+        },
+        "romaji": "butsuzou"
       },
       {
         "example": "石仏",
         "reading": "セキブツ",
-        "meaning": "stone Buddhist image, unemotional person, taciturn person"
+        "meaning": {
+          "vi": "stone Buddhist image, unemotional person, taciturn person"
+        },
+        "romaji": "sekibutsu"
       },
       {
         "example": "成仏",
         "reading": "ジョウブツ",
-        "meaning": "attaining Buddhahood, becoming a Buddha, entering Nirvana, going to heaven, resting in peace, dying (peacefully)"
+        "meaning": {
+          "vi": "attaining Buddhahood, becoming a Buddha, entering Nirvana, going to heaven, resting in peace, dying (peacefully)"
+        },
+        "romaji": "joubutsu"
       },
       {
         "example": "仏",
         "reading": "フツ",
-        "meaning": "France"
+        "meaning": {
+          "en": "France"
+        },
+        "romaji": "futsu"
       },
       {
         "example": "仏語",
         "reading": "フツゴ",
-        "meaning": "French (language)"
+        "meaning": {
+          "en": "French (language)"
+        },
+        "romaji": "futsugo"
       },
       {
         "example": "渡仏",
         "reading": "トフツ",
-        "meaning": "going to France"
+        "meaning": {
+          "en": "going to France"
+        },
+        "romaji": "tofutsu"
       },
       {
         "example": "滞仏",
         "reading": "タイフツ",
-        "meaning": "staying in France"
+        "meaning": {
+          "en": "staying in France"
+        },
+        "romaji": "taifutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仏",
         "reading": "ほとけ",
-        "meaning": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person"
+        "meaning": {
+          "vi": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person"
+        },
+        "romaji": "hotoke"
       },
       {
         "example": "仏顔",
         "reading": "ほとけがお",
-        "meaning": "gentle face"
+        "meaning": {
+          "en": "gentle face"
+        },
+        "romaji": "hotokegao"
       },
       {
         "example": "神仏",
         "reading": "しんぶつ",
-        "meaning": "gods and Buddha, Shinto and Buddhism"
+        "meaning": {
+          "en": "gods and Buddha, Shinto and Buddhism"
+        },
+        "romaji": "shinbutsu"
       },
       {
         "example": "吾が仏",
         "reading": "あがほとけ",
-        "meaning": "my dear, my Buddha"
+        "meaning": {
+          "en": "my dear, my Buddha"
+        },
+        "romaji": "agahotoke"
       }
     ],
     "radical": {
@@ -404,5 +440,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ecf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ecf.gif",
     "uri": "https://jisho.org/search/%E4%BB%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "phật"
+  ]
 }

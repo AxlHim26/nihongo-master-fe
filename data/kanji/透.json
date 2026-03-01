@@ -23,49 +23,76 @@
       {
         "example": "透明",
         "reading": "トウメイ",
-        "meaning": "transparent, clear"
+        "meaning": {
+          "vi": "transparent, clear"
+        },
+        "romaji": "toumei"
       },
       {
         "example": "透析",
         "reading": "トウセキ",
-        "meaning": "dialysis"
+        "meaning": {
+          "en": "dialysis"
+        },
+        "romaji": "touseki"
       },
       {
         "example": "失透",
         "reading": "シットウ",
-        "meaning": "devitrification"
+        "meaning": {
+          "en": "devitrification"
+        },
+        "romaji": "shittou"
       },
       {
         "example": "市場浸透",
         "reading": "シジョウシントウ",
-        "meaning": "market penetration"
+        "meaning": {
+          "vi": "market penetration"
+        },
+        "romaji": "shijoushintou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "透く",
         "reading": "すく",
-        "meaning": "to be transparent, to leave a gap"
+        "meaning": {
+          "vi": "to be transparent, to leave a gap"
+        },
+        "romaji": "suku"
       },
       {
         "example": "透かす",
         "reading": "すかす",
-        "meaning": "to look through, to hold up to the light, to make an opening, to leave space, to space (lines), to prune (trees), to fart without making a sound"
+        "meaning": {
+          "vi": "to look through, to hold up to the light, to make an opening, to leave space, to space (lines), to prune (trees), to fart without making a sound"
+        },
+        "romaji": "sukasu"
       },
       {
         "example": "透ける",
         "reading": "すける",
-        "meaning": "to be transparent, to show through"
+        "meaning": {
+          "vi": "to be transparent, to show through"
+        },
+        "romaji": "sukeru"
       },
       {
         "example": "透水",
         "reading": "とうすい",
-        "meaning": "permeation (e.g. of water), percolation, seepage"
+        "meaning": {
+          "vi": "permeation (e.g. of water), percolation, seepage"
+        },
+        "romaji": "tousui"
       },
       {
         "example": "透水性",
         "reading": "とうすいせい",
-        "meaning": "permeability"
+        "meaning": {
+          "vi": "permeability"
+        },
+        "romaji": "tousuisei"
       }
     ],
     "radical": {
@@ -87,5 +114,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0900f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/900f.gif",
     "uri": "https://jisho.org/search/%E9%80%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấu"
+  ]
 }

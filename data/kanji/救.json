@@ -316,24 +316,36 @@
       {
         "example": "救急",
         "reading": "キュウキュウ",
-        "meaning": "first-aid, emergency (aid)"
+        "meaning": {
+          "en": "first-aid, emergency (aid)"
+        },
+        "romaji": "kyuukyuu"
       },
       {
         "example": "救援",
         "reading": "キュウエン",
-        "meaning": "relief, rescue"
+        "meaning": {
+          "en": "relief, rescue"
+        },
+        "romaji": "kyuuen"
       },
       {
         "example": "匡救",
         "reading": "キョウキュウ",
-        "meaning": "delivering from sin, succor, succour"
+        "meaning": {
+          "en": "delivering from sin, succor, succour"
+        },
+        "romaji": "kyoukyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "救う",
         "reading": "すくう",
-        "meaning": "to rescue from, to help out of, to save"
+        "meaning": {
+          "vi": "to rescue from, to help out of, to save"
+        },
+        "romaji": "sukuu"
       }
     ],
     "radical": {
@@ -353,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06551.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6551.gif",
     "uri": "https://jisho.org/search/%E6%95%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "cứu"
+  ]
 }

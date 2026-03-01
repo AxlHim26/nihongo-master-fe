@@ -17,7 +17,10 @@
       {
         "example": "聡明",
         "reading": "ソウメイ",
-        "meaning": "wise, sagacious, intelligent, sensible"
+        "meaning": {
+          "en": "wise, sagacious, intelligent, sensible"
+        },
+        "romaji": "soumei"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08070.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8070.gif",
     "uri": "https://jisho.org/search/%E8%81%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thông"
+  ]
 }

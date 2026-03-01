@@ -14,7 +14,7 @@
         "japanese": "整数（せいすう）",
         "meaning": {
           "english": "integer",
-        "vietnamese": "số nguyên"
+          "vietnamese": "số nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "整地（せいち）",
         "meaning": {
           "english": "soil preparation",
-        "vietnamese": "chuẩn bị đất"
+          "vietnamese": "chuẩn bị đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "整形外科（せいけいげか）",
         "meaning": {
           "english": "orthopedics, plastic surgery",
-        "vietnamese": "chỉnh hình, phẫu thuật thẩm mỹ"
+          "vietnamese": "chỉnh hình, phẫu thuật thẩm mỹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "均整（きんせい）",
         "meaning": {
           "english": "symmetry, balance",
-        "vietnamese": "đối xứng, cân bằng"
+          "vietnamese": "đối xứng, cân bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "整然と（せいぜんと）",
         "meaning": {
           "english": "in an orderly manner",
-        "vietnamese": "một cách có trật tự"
+          "vietnamese": "một cách có trật tự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_e.opus",
@@ -79,7 +79,7 @@
         "japanese": "整理する（せいりする）",
         "meaning": {
           "english": "sort, arrange, adjust",
-        "vietnamese": "sắp xếp, sắp đặt, điều chỉnh"
+          "vietnamese": "sắp xếp, sắp đặt, điều chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_f.opus",
@@ -92,7 +92,7 @@
         "japanese": "整備する（せいびする）",
         "meaning": {
           "english": "keep in good condition/repair",
-        "vietnamese": "bảo dưỡng, sửa chữa"
+          "vietnamese": "bảo dưỡng, sửa chữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_g.opus",
@@ -105,7 +105,7 @@
         "japanese": "調整する（ちょうせいする）",
         "meaning": {
           "english": "adjust, fine tune",
-        "vietnamese": "điều chỉnh, tinh chỉnh"
+          "vietnamese": "điều chỉnh, tinh chỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_h.opus",
@@ -118,7 +118,7 @@
         "japanese": "整える（ととのえる）",
         "meaning": {
           "english": "put in order, arrange [v.t.]",
-        "vietnamese": "sắp xếp, sắp đặt"
+          "vietnamese": "sắp xếp, sắp đặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_i.opus",
@@ -131,7 +131,7 @@
         "japanese": "整う（ととのう）",
         "meaning": {
           "english": "be prepared, be in order [v.i.]",
-        "vietnamese": "sẵn sàng, có trật tự"
+          "vietnamese": "sẵn sàng, có trật tự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-totono(u)_06_j.opus",
@@ -349,34 +349,52 @@
       {
         "example": "整合",
         "reading": "セイゴウ",
-        "meaning": "điều chỉnh, phối hợp, tích hợp, phù hợp"
+        "meaning": {
+          "vi": "điều chỉnh, phối hợp, tích hợp, phù hợp"
+        },
+        "romaji": "seigou"
       },
       {
         "example": "整形外科",
         "reading": "セイケイゲカ",
-        "meaning": "phẫu thuật chỉnh hình, phẫu thuật thẩm mỹ"
+        "meaning": {
+          "vi": "phẫu thuật chỉnh hình, phẫu thuật thẩm mỹ"
+        },
+        "romaji": "seikeigeka"
       },
       {
         "example": "年末調整",
         "reading": "ネンマツチョウセイ",
-        "meaning": "điều chỉnh thuế cuối năm"
+        "meaning": {
+          "vi": "điều chỉnh thuế cuối năm"
+        },
+        "romaji": "nenmatsuchousei"
       },
       {
         "example": "修整",
         "reading": "シュウセイ",
-        "meaning": "điều chỉnh, chỉnh sửa (trong nhiếp ảnh)"
+        "meaning": {
+          "vi": "điều chỉnh, chỉnh sửa (trong nhiếp ảnh)"
+        },
+        "romaji": "shuusei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "整える",
         "reading": "ととのえる",
-        "meaning": "sắp xếp, dọn dẹp, sửa, chuẩn bị, cung cấp, lắp ráp, mua, điều chỉnh, quy định (nhịp, giai điệu, hơi thở), thương lượng, sắp đặt (hôn nhân), giải quyết"
+        "meaning": {
+          "vi": "sắp xếp, dọn dẹp, sửa, chuẩn bị, cung cấp, lắp ráp, mua, điều chỉnh, quy định (nhịp, giai điệu, hơi thở), thương lượng, sắp đặt (hôn nhân), giải quyết"
+        },
+        "romaji": "totonoeru"
       },
       {
         "example": "整う",
         "reading": "ととのう",
-        "meaning": "sẵn sàng, được sắp xếp, có trật tự, cân đối, hài hòa, được điều chỉnh, được tinh chỉnh, được giải quyết (hiệp ước, hợp đồng), hoàn thành"
+        "meaning": {
+          "vi": "sẵn sàng, được sắp xếp, có trật tự, cân đối, hài hòa, được điều chỉnh, được tinh chỉnh, được giải quyết (hiệp ước, hợp đồng), hoàn thành"
+        },
+        "romaji": "totonou"
       }
     ],
     "radical": {
@@ -399,5 +417,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06574.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6574.gif",
     "uri": "https://jisho.org/search/%E6%95%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉnh"
+  ]
 }

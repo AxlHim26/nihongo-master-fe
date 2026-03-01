@@ -277,34 +277,52 @@
       {
         "example": "古参",
         "reading": "コサン",
-        "meaning": "senior, veteran, old-timer"
+        "meaning": {
+          "en": "senior, veteran, old-timer"
+        },
+        "romaji": "kosan"
       },
       {
         "example": "古今",
         "reading": "ココン",
-        "meaning": "ancient and modern times, all ages, past and present"
+        "meaning": {
+          "vi": "ancient and modern times, all ages, past and present"
+        },
+        "romaji": "kokon"
       },
       {
         "example": "蒙古",
         "reading": "モウコ",
-        "meaning": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+        "meaning": {
+          "vi": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+        },
+        "romaji": "mouko"
       },
       {
         "example": "懐古",
         "reading": "カイコ",
-        "meaning": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
+        "meaning": {
+          "vi": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
+        },
+        "romaji": "kaiko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "古い",
         "reading": "ふるい",
-        "meaning": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+        "meaning": {
+          "vi": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+        },
+        "romaji": "furui"
       },
       {
         "example": "古家",
         "reading": "ふるいえ",
-        "meaning": "old house, deserted house"
+        "meaning": {
+          "en": "old house, deserted house"
+        },
+        "romaji": "furuie"
       }
     ],
     "radical": {
@@ -319,5 +337,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e4.gif",
     "uri": "https://jisho.org/search/%E5%8F%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "cổ"
+  ]
 }

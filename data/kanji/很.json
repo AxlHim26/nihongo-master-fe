@@ -18,7 +18,10 @@
       {
         "example": "很戻",
         "reading": "コンレイ",
-        "meaning": "acting contrary to reason, ruthless defiance, violation of morality, reason or justice"
+        "meaning": {
+          "en": "acting contrary to reason, ruthless defiance, violation of morality, reason or justice"
+        },
+        "romaji": "konrei"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f88.gif",
     "uri": "https://jisho.org/search/%E5%BE%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "hẫn",
+    "khấn",
+    "ngận"
+  ]
 }

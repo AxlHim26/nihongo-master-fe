@@ -19,44 +19,68 @@
       {
         "example": "膠原病",
         "reading": "コウゲンビョウ",
-        "meaning": "collagen disease"
+        "meaning": {
+          "en": "collagen disease"
+        },
+        "romaji": "kougenbyou"
       },
       {
         "example": "膠化",
         "reading": "コウカ",
-        "meaning": "gelatinization, gelatinisation"
+        "meaning": {
+          "en": "gelatinization, gelatinisation"
+        },
+        "romaji": "kouka"
       },
       {
         "example": "神経膠",
         "reading": "シンケイコウ",
-        "meaning": "neuroglia, glia"
+        "meaning": {
+          "en": "neuroglia, glia"
+        },
+        "romaji": "shinkeikou"
       },
       {
         "example": "魚膠",
         "reading": "ギョコウ",
-        "meaning": "gelatinous glue made from fish, ichthyocolla, isinglass"
+        "meaning": {
+          "en": "gelatinous glue made from fish, ichthyocolla, isinglass"
+        },
+        "romaji": "gyokou"
       },
       {
         "example": "阿膠",
         "reading": "アキョウ",
-        "meaning": "donkey hide gelatin, ejiao, high quality gelatin made in China from donkey hides"
+        "meaning": {
+          "en": "donkey hide gelatin, ejiao, high quality gelatin made in China from donkey hides"
+        },
+        "romaji": "akyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "膠",
         "reading": "にかわ",
-        "meaning": "gelatinous glue (usu. from animal and fish bones, hide, etc.)"
+        "meaning": {
+          "en": "gelatinous glue (usu. from animal and fish bones, hide, etc.)"
+        },
+        "romaji": "nikawa"
       },
       {
         "example": "膠質",
         "reading": "こうしつ",
-        "meaning": "colloid"
+        "meaning": {
+          "en": "colloid"
+        },
+        "romaji": "koushitsu"
       },
       {
         "example": "鰾膠",
         "reading": "にべ",
-        "meaning": "gelatinous glue (produced from fish entrails), isinglass, amiability, friendliness, graciousness, flattery"
+        "meaning": {
+          "vi": "gelatinous glue (produced from fish entrails), isinglass, amiability, friendliness, graciousness, flattery"
+        },
+        "romaji": "nibe"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a0.gif",
     "uri": "https://jisho.org/search/%E8%86%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "giao"
+  ]
 }

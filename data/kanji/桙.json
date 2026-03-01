@@ -17,7 +17,10 @@
       {
         "example": "矛",
         "reading": "ほこ",
-        "meaning": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+        "meaning": {
+          "vi": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+        },
+        "romaji": "hoko"
       }
     ],
     "radical": {
@@ -33,5 +36,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06859.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6859.gif",
     "uri": "https://jisho.org/search/%E6%A1%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô",
+    "vu"
+  ]
 }

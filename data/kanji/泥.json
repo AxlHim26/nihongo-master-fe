@@ -282,64 +282,100 @@
       {
         "example": "泥沼",
         "reading": "ドロヌマ",
-        "meaning": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio"
+        "meaning": {
+          "vi": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio"
+        },
+        "romaji": "doronuma"
       },
       {
         "example": "泥水",
         "reading": "ドロミズ",
-        "meaning": "muddy water, red-light district"
+        "meaning": {
+          "en": "muddy water, red-light district"
+        },
+        "romaji": "doromizu"
       },
       {
         "example": "汚泥",
         "reading": "オデイ",
-        "meaning": "sludge, slime, dregs, mire, hopeless situation, hell, despair"
+        "meaning": {
+          "vi": "sludge, slime, dregs, mire, hopeless situation, hell, despair"
+        },
+        "romaji": "odei"
       },
       {
         "example": "鉱泥",
         "reading": "コウデイ",
-        "meaning": "fango, mud, herb and wax mix used for therapy"
+        "meaning": {
+          "vi": "fango, mud, herb and wax mix used for therapy"
+        },
+        "romaji": "koudei"
       },
       {
         "example": "泥洹",
         "reading": "ナイオン",
-        "meaning": "nirvana"
+        "meaning": {
+          "en": "nirvana"
+        },
+        "romaji": "naion"
       },
       {
         "example": "泥沼",
         "reading": "ドロヌマ",
-        "meaning": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio"
+        "meaning": {
+          "vi": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio"
+        },
+        "romaji": "doronuma"
       },
       {
         "example": "泥水",
         "reading": "ドロミズ",
-        "meaning": "muddy water, red-light district"
+        "meaning": {
+          "en": "muddy water, red-light district"
+        },
+        "romaji": "doromizu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泥",
         "reading": "どろ",
-        "meaning": "mud, (wet) dirt, thief, Android (mobile operating system)"
+        "meaning": {
+          "vi": "mud, (wet) dirt, thief, Android (mobile operating system)"
+        },
+        "romaji": "doro"
       },
       {
         "example": "泥沼",
         "reading": "どろぬま",
-        "meaning": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio"
+        "meaning": {
+          "vi": "bog, marsh, swamp, quagmire, morass, quandary, dire situation from which one cannot extricate oneself, imbroglio"
+        },
+        "romaji": "doronuma"
       },
       {
         "example": "警泥",
         "reading": "けいどろ",
-        "meaning": "cops and robbers (hide-and-seek game)"
+        "meaning": {
+          "vi": "cops and robbers (hide-and-seek game)"
+        },
+        "romaji": "keidoro"
       },
       {
         "example": "下着ドロ",
         "reading": "したぎどろ",
-        "meaning": "panties thief, knickers bandit"
+        "meaning": {
+          "vi": "panties thief, knickers bandit"
+        },
+        "romaji": "shitagidoro"
       },
       {
         "example": "泥む",
         "reading": "なずむ",
-        "meaning": "to cling to (e.g. old customs), to adhere to, to stick to, to be wedded to, to get used to, to become accustomed to, to linger (on), to progress slowly"
+        "meaning": {
+          "vi": "to cling to (e.g. old customs), to adhere to, to stick to, to be wedded to, to get used to, to become accustomed to, to linger (on), to progress slowly"
+        },
+        "romaji": "nazumu"
       }
     ],
     "radical": {
@@ -359,5 +395,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce5.gif",
     "uri": "https://jisho.org/search/%E6%B3%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "nê",
+    "nễ",
+    "nệ"
+  ]
 }

@@ -18,14 +18,20 @@
       {
         "example": "巫覡",
         "reading": "フゲキ",
-        "meaning": "shaman, oracle, diviner, medium"
+        "meaning": {
+          "en": "shaman, oracle, diviner, medium"
+        },
+        "romaji": "fugeki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "巫",
         "reading": "かんなぎ",
-        "meaning": "medium, diviner, shaman, oracle"
+        "meaning": {
+          "en": "medium, diviner, shaman, oracle"
+        },
+        "romaji": "kannagi"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089a1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89a1.gif",
     "uri": "https://jisho.org/search/%E8%A6%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "hích"
+  ]
 }

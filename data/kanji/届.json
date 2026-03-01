@@ -281,12 +281,18 @@
       {
         "example": "届ける",
         "reading": "とどける",
-        "meaning": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+        "meaning": {
+          "vi": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+        },
+        "romaji": "todokeru"
       },
       {
         "example": "届く",
         "reading": "とどく",
-        "meaning": "to reach, to touch, to get to, to carry (of sound), to be delivered, to arrive, to be attentive, to be scrupulous, to be thorough, to be realized (of a desire), to be fulfilled, to get through (to someone), to be appreciated, to make an impression"
+        "meaning": {
+          "vi": "to reach, to touch, to get to, to carry (of sound), to be delivered, to arrive, to be attentive, to be scrupulous, to be thorough, to be realized (of a desire), to be fulfilled, to get through (to someone), to be appreciated, to make an impression"
+        },
+        "romaji": "todoku"
       }
     ],
     "radical": {
@@ -303,5 +309,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4a.gif",
     "uri": "https://jisho.org/search/%E5%B1%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

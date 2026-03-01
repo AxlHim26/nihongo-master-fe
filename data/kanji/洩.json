@@ -19,34 +19,52 @@
       {
         "example": "情報漏洩",
         "reading": "ジョウホウロウエイ",
-        "meaning": "information leak, data breach"
+        "meaning": {
+          "en": "information leak, data breach"
+        },
+        "romaji": "jouhourouei"
       },
       {
         "example": "軍機漏洩",
         "reading": "グンキロウエイ",
-        "meaning": "disclosure (leakage, betrayal) of military secrets"
+        "meaning": {
+          "en": "disclosure (leakage, betrayal) of military secrets"
+        },
+        "romaji": "gunkirouei"
       },
       {
         "example": "情報漏洩",
         "reading": "ジョウホウロウエイ",
-        "meaning": "information leak, data breach"
+        "meaning": {
+          "en": "information leak, data breach"
+        },
+        "romaji": "jouhourouei"
       },
       {
         "example": "秘密漏洩",
         "reading": "ヒミツロウエイ",
-        "meaning": "leaking of a secret, leakage of a secret"
+        "meaning": {
+          "en": "leaking of a secret, leakage of a secret"
+        },
+        "romaji": "himitsurouei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漏らす",
         "reading": "もらす",
-        "meaning": "to let leak, to let out (e.g. light), to let out (a secret), to leak (information), to divulge, to disclose, to let slip, to give utterance to (e.g. one's dissatisfaction), to vent, to express, to reveal (e.g. one's true intentions), to let out (a sigh, etc.), to wet one's pants, to omit, to leave out, to fail to do, to miss, to omit (by mistake), to forget to do"
+        "meaning": {
+          "vi": "to let leak, to let out (e.g. light), to let out (a secret), to leak (information), to divulge, to disclose, to let slip, to give utterance to (e.g. one's dissatisfaction), to vent, to express, to reveal (e.g. one's true intentions), to let out (a sigh, etc.), to wet one's pants, to omit, to leave out, to fail to do, to miss, to omit (by mistake), to forget to do"
+        },
+        "romaji": "morasu"
       },
       {
         "example": "漏れる",
         "reading": "もれる",
-        "meaning": "to leak out, to escape, to come through, to shine through, to filter out, to find expression, to give vent, to leak out, to be divulged, to be disclosed, to be omitted, to be left out, to be excluded, to be not included"
+        "meaning": {
+          "vi": "to leak out, to escape, to come through, to shine through, to filter out, to find expression, to give vent, to leak out, to be divulged, to be disclosed, to be omitted, to be left out, to be excluded, to be not included"
+        },
+        "romaji": "moreru"
       }
     ],
     "radical": {
@@ -67,5 +85,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d29.gif",
     "uri": "https://jisho.org/search/%E6%B4%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "duệ",
+    "tiết"
+  ]
 }

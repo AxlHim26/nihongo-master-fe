@@ -17,22 +17,34 @@
       {
         "example": "閑",
         "reading": "カン",
-        "meaning": "spare time, free time, leisure"
+        "meaning": {
+          "vi": "spare time, free time, leisure"
+        },
+        "romaji": "kan"
       },
       {
         "example": "閑散",
         "reading": "カンサン",
-        "meaning": "deserted (esp. store, market, town, streets), quiet, still, hushed, empty, inactive (business, trade, etc.), slack, flat, off-season, quiet, dull, idle, free, unoccupied"
+        "meaning": {
+          "vi": "deserted (esp. store, market, town, streets), quiet, still, hushed, empty, inactive (business, trade, etc.), slack, flat, off-season, quiet, dull, idle, free, unoccupied"
+        },
+        "romaji": "kansan"
       },
       {
         "example": "清閑",
         "reading": "セイカン",
-        "meaning": "peaceful, quiet, tranquility, tranquillity"
+        "meaning": {
+          "vi": "peaceful, quiet, tranquility, tranquillity"
+        },
+        "romaji": "seikan"
       },
       {
         "example": "等閑",
         "reading": "トウカン",
-        "meaning": "neglect, negligence, disregard, making light of"
+        "meaning": {
+          "en": "neglect, negligence, disregard, making light of"
+        },
+        "romaji": "toukan"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09591.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9591.gif",
     "uri": "https://jisho.org/search/%E9%96%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhàn"
+  ]
 }

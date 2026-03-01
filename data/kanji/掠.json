@@ -19,39 +19,60 @@
       {
         "example": "掠",
         "reading": "リャク",
-        "meaning": "sixth principle of the Eight Principles of Yong, tapering thinning curve, usually concave left"
+        "meaning": {
+          "vi": "sixth principle of the Eight Principles of Yong, tapering thinning curve, usually concave left"
+        },
+        "romaji": "ryaku"
       },
       {
         "example": "略奪",
         "reading": "リャクダツ",
-        "meaning": "pillage, plunder, looting, robbery"
+        "meaning": {
+          "vi": "pillage, plunder, looting, robbery"
+        },
+        "romaji": "ryakudatsu"
       },
       {
         "example": "劫掠",
         "reading": "キョウリャク",
-        "meaning": "pillage, plunder"
+        "meaning": {
+          "vi": "pillage, plunder"
+        },
+        "romaji": "kyouryaku"
       },
       {
         "example": "盗掠",
         "reading": "トウリャク",
-        "meaning": "stealing, looting, plundering"
+        "meaning": {
+          "vi": "stealing, looting, plundering"
+        },
+        "romaji": "touryaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掠める",
         "reading": "かすめる",
-        "meaning": "to steal, to rob, to snatch, to pocket, to plunder, to deceive, to trick, to cheat, to graze (in passing), to skim, to brush against, to touch lightly, to appear and quickly disappear (a thought, a smile, etc.), to flit (through one's mind, across one's face), to do (something) while no one is looking, to hint at, to suggest, to insinuate"
+        "meaning": {
+          "vi": "to steal, to rob, to snatch, to pocket, to plunder, to deceive, to trick, to cheat, to graze (in passing), to skim, to brush against, to touch lightly, to appear and quickly disappear (a thought, a smile, etc.), to flit (through one's mind, across one's face), to do (something) while no one is looking, to hint at, to suggest, to insinuate"
+        },
+        "romaji": "kasumeru"
       },
       {
         "example": "掠る",
         "reading": "かする",
-        "meaning": "to graze (e.g. bullet), to scratch, to touch lightly, to take a percentage, to exploit, to squeeze"
+        "meaning": {
+          "vi": "to graze (e.g. bullet), to scratch, to touch lightly, to take a percentage, to exploit, to squeeze"
+        },
+        "romaji": "kasuru"
       },
       {
         "example": "掠れる",
         "reading": "かすれる",
-        "meaning": "to get blurred, to get hoarse, to get husky, to graze, to scrape, to touch"
+        "meaning": {
+          "vi": "to get blurred, to get hoarse, to get husky, to graze, to scrape, to touch"
+        },
+        "romaji": "kasureru"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a0.gif",
     "uri": "https://jisho.org/search/%E6%8E%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "lược"
+  ]
 }

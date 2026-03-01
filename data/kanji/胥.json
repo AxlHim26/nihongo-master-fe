@@ -19,7 +19,10 @@
       {
         "example": "華胥",
         "reading": "カショ",
-        "meaning": "ideal land, perfect country, afternoon nap"
+        "meaning": {
+          "vi": "ideal land, perfect country, afternoon nap"
+        },
+        "romaji": "kasho"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e5.gif",
     "uri": "https://jisho.org/search/%E8%83%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

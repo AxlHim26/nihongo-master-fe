@@ -19,22 +19,34 @@
       {
         "example": "鞄",
         "reading": "かばん",
-        "meaning": "bag, satchel, briefcase, basket"
+        "meaning": {
+          "en": "bag, satchel, briefcase, basket"
+        },
+        "romaji": "kaban"
       },
       {
         "example": "かばん語",
         "reading": "かばんご",
-        "meaning": "portmanteau word"
+        "meaning": {
+          "vi": "portmanteau word"
+        },
+        "romaji": "kabango"
       },
       {
         "example": "学生鞄",
         "reading": "がくせいかばん",
-        "meaning": "school bag (usu. handheld or hung from the shoulder), schoolbag"
+        "meaning": {
+          "en": "school bag (usu. handheld or hung from the shoulder), schoolbag"
+        },
+        "romaji": "gakuseikaban"
       },
       {
         "example": "書類かばん",
         "reading": "しょるいかばん",
-        "meaning": "briefcase, attaché case"
+        "meaning": {
+          "vi": "briefcase, attaché case"
+        },
+        "romaji": "shoruikaban"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09784.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9784.gif",
     "uri": "https://jisho.org/search/%E9%9E%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "bào",
+    "bạc"
+  ]
 }

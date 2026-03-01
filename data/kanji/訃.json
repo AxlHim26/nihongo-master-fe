@@ -18,12 +18,18 @@
       {
         "example": "訃",
         "reading": "フ",
-        "meaning": "news of someone's death"
+        "meaning": {
+          "en": "news of someone's death"
+        },
+        "romaji": "fu"
       },
       {
         "example": "訃報",
         "reading": "フホウ",
-        "meaning": "news of someone's death, obituary"
+        "meaning": {
+          "en": "news of someone's death, obituary"
+        },
+        "romaji": "fuhou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a03.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a03.gif",
     "uri": "https://jisho.org/search/%E8%A8%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "phó"
+  ]
 }

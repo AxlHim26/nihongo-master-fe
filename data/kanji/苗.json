@@ -21,59 +21,92 @@
       {
         "example": "苗",
         "reading": "ミャオ",
-        "meaning": "người Miêu, H'Mông"
+        "meaning": {
+          "vi": "người Miêu, H'Mông"
+        },
+        "romaji": "myao"
       },
       {
         "example": "苗裔",
         "reading": "ビョウエイ",
-        "meaning": "hậu duệ"
+        "meaning": {
+          "vi": "hậu duệ"
+        },
+        "romaji": "byouei"
       },
       {
         "example": "種苗",
         "reading": "シュビョウ",
-        "meaning": "hạt giống và cây con, trứng và cá bột"
+        "meaning": {
+          "vi": "hạt giống và cây con, trứng và cá bột"
+        },
+        "romaji": "shubyou"
       },
       {
         "example": "育苗",
         "reading": "イクビョウ",
-        "meaning": "ươm cây giống"
+        "meaning": {
+          "vi": "ươm cây giống"
+        },
+        "romaji": "ikubyou"
       },
       {
         "example": "苗字",
         "reading": "ミョウジ",
-        "meaning": "họ, tên họ"
+        "meaning": {
+          "vi": "họ, tên họ"
+        },
+        "romaji": "myouji"
       },
       {
         "example": "苗字帯刀",
         "reading": "ミョウジタイトウ",
-        "meaning": "quyền mang họ và đeo kiếm (thời Edo)"
+        "meaning": {
+          "vi": "quyền mang họ và đeo kiếm (thời Edo)"
+        },
+        "romaji": "myoujitaitou"
       },
       {
         "example": "豆苗",
         "reading": "トウミョウ",
-        "meaning": "giá đậu"
+        "meaning": {
+          "vi": "giá đậu"
+        },
+        "romaji": "toumyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苗",
         "reading": "なえ",
-        "meaning": "cây con, mạ lúa"
+        "meaning": {
+          "vi": "cây con, mạ lúa"
+        },
+        "romaji": "nae"
       },
       {
         "example": "苗木",
         "reading": "なえぎ",
-        "meaning": "cây con, cây non"
+        "meaning": {
+          "vi": "cây con, cây non"
+        },
+        "romaji": "naegi"
       },
       {
         "example": "早苗",
         "reading": "さなえ",
-        "meaning": "mạ lúa"
+        "meaning": {
+          "vi": "mạ lúa"
+        },
+        "romaji": "sanae"
       },
       {
         "example": "花苗",
         "reading": "はななえ",
-        "meaning": "cây hoa con"
+        "meaning": {
+          "vi": "cây hoa con"
+        },
+        "romaji": "hananae"
       }
     ],
     "radical": {
@@ -91,5 +124,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d7.gif",
     "uri": "https://jisho.org/search/%E8%8B%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "miêu"
+  ]
 }

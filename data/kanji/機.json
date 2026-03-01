@@ -376,39 +376,60 @@
       {
         "example": "機",
         "reading": "キ",
-        "meaning": "chance, opportunity, machine, aircraft, counter for aircraft, counter for (remaining) lives"
+        "meaning": {
+          "vi": "chance, opportunity, machine, aircraft, counter for aircraft, counter for (remaining) lives"
+        },
+        "romaji": "ki"
       },
       {
         "example": "機運",
         "reading": "キウン",
-        "meaning": "opportunity, chance, good time (to do), trend, tendency, momentum"
+        "meaning": {
+          "vi": "opportunity, chance, good time (to do), trend, tendency, momentum"
+        },
+        "romaji": "kiun"
       },
       {
         "example": "端末機",
         "reading": "タンマツキ",
-        "meaning": "terminal (unit)"
+        "meaning": {
+          "en": "terminal (unit)"
+        },
+        "romaji": "tanmatsuki"
       },
       {
         "example": "有機",
         "reading": "ユウキ",
-        "meaning": "organic"
+        "meaning": {
+          "en": "organic"
+        },
+        "romaji": "yuuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "機",
         "reading": "はた",
-        "meaning": "loom"
+        "meaning": {
+          "en": "loom"
+        },
+        "romaji": "hata"
       },
       {
         "example": "機織り",
         "reading": "はたおり",
-        "meaning": "weaving, weaver"
+        "meaning": {
+          "en": "weaving, weaver"
+        },
+        "romaji": "hataori"
       },
       {
         "example": "高機",
         "reading": "たかばた",
-        "meaning": "traditional Japanese treadle-operated tall loom"
+        "meaning": {
+          "vi": "traditional Japanese treadle-operated tall loom"
+        },
+        "romaji": "takabata"
       }
     ],
     "radical": {
@@ -426,5 +447,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a5f.gif",
     "uri": "https://jisho.org/search/%E6%A9%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "ki",
+    "ky"
+  ]
 }

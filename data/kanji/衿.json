@@ -18,29 +18,44 @@
       {
         "example": "開襟",
         "reading": "カイキン",
-        "meaning": "unbuttoning a collar, opening up (one's heart), open-necked shirt"
+        "meaning": {
+          "vi": "unbuttoning a collar, opening up (one's heart), open-necked shirt"
+        },
+        "romaji": "kaikin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "襟",
         "reading": "えり",
-        "meaning": "collar, lapel, neckband, neck, nape of the neck, scruff of the neck"
+        "meaning": {
+          "vi": "collar, lapel, neckband, neck, nape of the neck, scruff of the neck"
+        },
+        "romaji": "eri"
       },
       {
         "example": "襟元",
         "reading": "えりもと",
-        "meaning": "(around the) neck, nape, collar (at the front of a coat, kimono, etc.), collar area"
+        "meaning": {
+          "vi": "(around the) neck, nape, collar (at the front of a coat, kimono, etc.), collar area"
+        },
+        "romaji": "erimoto"
       },
       {
         "example": "裏衿",
         "reading": "うらえり",
-        "meaning": "neckband lining"
+        "meaning": {
+          "en": "neckband lining"
+        },
+        "romaji": "uraeri"
       },
       {
         "example": "半衿",
         "reading": "はんえり",
-        "meaning": "neckpiece (on a kimono)"
+        "meaning": {
+          "vi": "neckpiece (on a kimono)"
+        },
+        "romaji": "han'eri"
       }
     ],
     "radical": {
@@ -59,5 +74,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887f.gif",
     "uri": "https://jisho.org/search/%E8%A1%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "câm",
+    "khâm"
+  ]
 }

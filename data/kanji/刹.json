@@ -17,37 +17,58 @@
       {
         "example": "刹",
         "reading": "サツ",
-        "meaning": "temple (Buddhist), central pillar of a pagoda, kshetra (realm, country), ksetra"
+        "meaning": {
+          "vi": "temple (Buddhist), central pillar of a pagoda, kshetra (realm, country), ksetra"
+        },
+        "romaji": "satsu"
       },
       {
         "example": "切ない",
         "reading": "セツナイ",
-        "meaning": "painful, heartrending, trying, oppressive, suffocating, miserable"
+        "meaning": {
+          "vi": "painful, heartrending, trying, oppressive, suffocating, miserable"
+        },
+        "romaji": "setsunai"
       },
       {
         "example": "十刹",
         "reading": "ジッセツ",
-        "meaning": "ten important Rinzai temples, second in significance to the Kyoto Gozan"
+        "meaning": {
+          "vi": "ten important Rinzai temples, second in significance to the Kyoto Gozan"
+        },
+        "romaji": "jissetsu"
       },
       {
         "example": "仏刹",
         "reading": "ブッサツ",
-        "meaning": "Buddhist temple"
+        "meaning": {
+          "vi": "Buddhist temple"
+        },
+        "romaji": "bussatsu"
       },
       {
         "example": "刹",
         "reading": "サツ",
-        "meaning": "temple (Buddhist), central pillar of a pagoda, kshetra (realm, country), ksetra"
+        "meaning": {
+          "vi": "temple (Buddhist), central pillar of a pagoda, kshetra (realm, country), ksetra"
+        },
+        "romaji": "satsu"
       },
       {
         "example": "名刹",
         "reading": "メイサツ",
-        "meaning": "famous temple"
+        "meaning": {
+          "vi": "famous temple"
+        },
+        "romaji": "meisatsu"
       },
       {
         "example": "古刹",
         "reading": "コサツ",
-        "meaning": "ancient temple"
+        "meaning": {
+          "vi": "ancient temple"
+        },
+        "romaji": "kosatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -68,5 +89,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05239.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5239.gif",
     "uri": "https://jisho.org/search/%E5%88%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "sát"
+  ]
 }

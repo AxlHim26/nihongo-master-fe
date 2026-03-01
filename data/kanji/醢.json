@@ -19,12 +19,18 @@
       {
         "example": "醢",
         "reading": "ひしお",
-        "meaning": "salted flesh (fish, etc.)"
+        "meaning": {
+          "en": "salted flesh (fish, etc.)"
+        },
+        "romaji": "hishio"
       },
       {
         "example": "肉醤",
         "reading": "ししびしお",
-        "meaning": "salted and fermented meat or fish"
+        "meaning": {
+          "en": "salted and fermented meat or fish"
+        },
+        "romaji": "shishibishio"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91a2.gif",
     "uri": "https://jisho.org/search/%E9%86%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hải"
+  ]
 }

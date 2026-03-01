@@ -15,22 +15,34 @@
       {
         "example": "柑橘類",
         "reading": "カンキツルイ",
-        "meaning": "citrus fruits"
+        "meaning": {
+          "en": "citrus fruits"
+        },
+        "romaji": "kankitsurui"
       },
       {
         "example": "柑果",
         "reading": "カンカ",
-        "meaning": "hesperidium"
+        "meaning": {
+          "vi": "hesperidium"
+        },
+        "romaji": "kanka"
       },
       {
         "example": "三宝柑",
         "reading": "サンボウカン",
-        "meaning": "sanbokan sour orange (Citrus sulcata)"
+        "meaning": {
+          "en": "sanbokan sour orange (Citrus sulcata)"
+        },
+        "romaji": "sanboukan"
       },
       {
         "example": "四季柑",
         "reading": "シキカン",
-        "meaning": "Calamansi (Citrus x microcarpa)"
+        "meaning": {
+          "vi": "Calamansi (Citrus x microcarpa)"
+        },
+        "romaji": "shikikan"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +59,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67d1.gif",
     "uri": "https://jisho.org/search/%E6%9F%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "cam",
+    "kiềm"
+  ]
 }

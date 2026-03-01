@@ -311,29 +311,44 @@
       {
         "example": "賞",
         "reading": "ショウ",
-        "meaning": "giải thưởng"
+        "meaning": {
+          "vi": "giải thưởng"
+        },
+        "romaji": "shou"
       },
       {
         "example": "賞金",
         "reading": "ショウキン",
-        "meaning": "tiền thưởng, giải thưởng tiền"
+        "meaning": {
+          "vi": "tiền thưởng, giải thưởng tiền"
+        },
+        "romaji": "shoukin"
       },
       {
         "example": "副賞",
         "reading": "フクショウ",
-        "meaning": "giải phụ, giải thưởng bổ sung"
+        "meaning": {
+          "vi": "giải phụ, giải thưởng bổ sung"
+        },
+        "romaji": "fukushou"
       },
       {
         "example": "表彰",
         "reading": "ヒョウショウ",
-        "meaning": "tuyên dương, vinh danh"
+        "meaning": {
+          "vi": "tuyên dương, vinh danh"
+        },
+        "romaji": "hyoushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "褒める",
         "reading": "ほめる",
-        "meaning": "khen ngợi, tán dương"
+        "meaning": {
+          "vi": "khen ngợi, tán dương"
+        },
+        "romaji": "homeru"
       }
     ],
     "radical": {
@@ -352,5 +367,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cde.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cde.gif",
     "uri": "https://jisho.org/search/%E8%B3%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thưởng"
+  ]
 }

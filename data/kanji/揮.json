@@ -243,29 +243,44 @@
       {
         "example": "揮発",
         "reading": "キハツ",
-        "meaning": "volatilization, volatilisation"
+        "meaning": {
+          "en": "volatilization, volatilisation"
+        },
+        "romaji": "kihatsu"
       },
       {
         "example": "揮毫",
         "reading": "キゴウ",
-        "meaning": "writing (esp. commissioned calligraphy), drawing, painting"
+        "meaning": {
+          "vi": "writing (esp. commissioned calligraphy), drawing, painting"
+        },
+        "romaji": "kigou"
       },
       {
         "example": "総指揮",
         "reading": "ソウシキ",
-        "meaning": "supreme command, direction over all"
+        "meaning": {
+          "vi": "supreme command, direction over all"
+        },
+        "romaji": "soushiki"
       },
       {
         "example": "陣頭指揮",
         "reading": "ジントウシキ",
-        "meaning": "taking command of a corps in a battle, command exercised by the leader of a group"
+        "meaning": {
+          "vi": "taking command of a corps in a battle, command exercised by the leader of a group"
+        },
+        "romaji": "jintoushiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "振るう",
         "reading": "ふるう",
-        "meaning": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"
+        "meaning": {
+          "vi": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"
+        },
+        "romaji": "furuu"
       }
     ],
     "radical": {
@@ -284,5 +299,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63ee.gif",
     "uri": "https://jisho.org/search/%E6%8F%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "huy"
+  ]
 }

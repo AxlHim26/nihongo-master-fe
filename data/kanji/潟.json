@@ -20,14 +20,20 @@
       {
         "example": "潟湖",
         "reading": "セキコ",
-        "meaning": "lagoon"
+        "meaning": {
+          "en": "lagoon"
+        },
+        "romaji": "sekiko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "潟",
         "reading": "かた",
-        "meaning": "lagoon, inlet, creek, tidal beach, tidal flat, tideland"
+        "meaning": {
+          "en": "lagoon, inlet, creek, tidal beach, tidal flat, tideland"
+        },
+        "romaji": "kata"
       }
     ],
     "radical": {
@@ -48,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f5f.gif",
     "uri": "https://jisho.org/search/%E6%BD%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích"
+  ]
 }

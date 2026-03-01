@@ -21,54 +21,84 @@
       {
         "example": "侍従",
         "reading": "ジジュウ",
-        "meaning": "chamberlain"
+        "meaning": {
+          "en": "chamberlain"
+        },
+        "romaji": "jijuu"
       },
       {
         "example": "侍医",
         "reading": "ジイ",
-        "meaning": "court physician"
+        "meaning": {
+          "vi": "court physician"
+        },
+        "romaji": "jii"
       },
       {
         "example": "内侍",
         "reading": "ナイシ",
-        "meaning": "maid of honor, maid of honour, lady-in-waiting"
+        "meaning": {
+          "en": "maid of honor, maid of honour, lady-in-waiting"
+        },
+        "romaji": "naishi"
       },
       {
         "example": "陪侍",
         "reading": "バイジ",
-        "meaning": "retainer, attending on the nobility"
+        "meaning": {
+          "en": "retainer, attending on the nobility"
+        },
+        "romaji": "baiji"
       },
       {
         "example": "内侍",
         "reading": "ナイシ",
-        "meaning": "maid of honor, maid of honour, lady-in-waiting"
+        "meaning": {
+          "en": "maid of honor, maid of honour, lady-in-waiting"
+        },
+        "romaji": "naishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "侍",
         "reading": "さむらい",
-        "meaning": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
+        "meaning": {
+          "vi": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
+        },
+        "romaji": "samurai"
       },
       {
         "example": "侍蟻",
         "reading": "さむらいあり",
-        "meaning": "Polyergus samurai (species of amazon ant)"
+        "meaning": {
+          "vi": "Polyergus samurai (species of amazon ant)"
+        },
+        "romaji": "samuraiari"
       },
       {
         "example": "二四六九士",
         "reading": "にしむくさむらい",
-        "meaning": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+        "meaning": {
+          "en": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+        },
+        "romaji": "nishimukusamurai"
       },
       {
         "example": "七人の侍",
         "reading": "しちにんのさむらい",
-        "meaning": "Seven Samurai (film by Akira Kurosawa)"
+        "meaning": {
+          "en": "Seven Samurai (film by Akira Kurosawa)"
+        },
+        "romaji": "shichininnosamurai"
       },
       {
         "example": "侍る",
         "reading": "はべる",
-        "meaning": "to wait upon, to serve"
+        "meaning": {
+          "vi": "to wait upon, to serve"
+        },
+        "romaji": "haberu"
       }
     ],
     "radical": {
@@ -87,5 +117,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f8d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f8d.gif",
     "uri": "https://jisho.org/search/%E4%BE%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thị"
+  ]
 }

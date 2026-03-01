@@ -16,29 +16,44 @@
       {
         "example": "肋凹",
         "reading": "ロクオウ",
-        "meaning": "costal fovea"
+        "meaning": {
+          "en": "costal fovea"
+        },
+        "romaji": "rokuou"
       },
       {
         "example": "肋材",
         "reading": "ロクザイ",
-        "meaning": "lumber (for the ribs of a ship)"
+        "meaning": {
+          "vi": "lumber (for the ribs of a ship)"
+        },
+        "romaji": "rokuzai"
       },
       {
         "example": "中肋",
         "reading": "チュウロク",
-        "meaning": "midrib, rachis"
+        "meaning": {
+          "en": "midrib, rachis"
+        },
+        "romaji": "chuuroku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肋",
         "reading": "あばら",
-        "meaning": "rib, rib cage"
+        "meaning": {
+          "en": "rib, rib cage"
+        },
+        "romaji": "abara"
       },
       {
         "example": "あばら筋",
         "reading": "あばらきん",
-        "meaning": "stirrup (in reinforced concrete construction)"
+        "meaning": {
+          "vi": "stirrup (in reinforced concrete construction)"
+        },
+        "romaji": "abarakin"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0808b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/808b.gif",
     "uri": "https://jisho.org/search/%E8%82%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "lặc"
+  ]
 }

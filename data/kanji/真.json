@@ -341,54 +341,84 @@
       {
         "example": "真",
         "reading": "シン",
-        "meaning": "truth, reality, genuineness, seriousness, truth, printed style writing, star performer"
+        "meaning": {
+          "vi": "truth, reality, genuineness, seriousness, truth, printed style writing, star performer"
+        },
+        "romaji": "shin"
       },
       {
         "example": "真意",
         "reading": "シンイ",
-        "meaning": "real intention, true motive, true meaning"
+        "meaning": {
+          "en": "real intention, true motive, true meaning"
+        },
+        "romaji": "shin'i"
       },
       {
         "example": "組み写真",
         "reading": "クミシャシン",
-        "meaning": "composite or montage photograph"
+        "meaning": {
+          "vi": "composite or montage photograph"
+        },
+        "romaji": "kumishashin"
       },
       {
         "example": "迫真",
         "reading": "ハクシン",
-        "meaning": "realistic, true to life"
+        "meaning": {
+          "en": "realistic, true to life"
+        },
+        "romaji": "hakushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "真",
         "reading": "ま",
-        "meaning": "just, right, due (east), pure, genuine, true, truth"
+        "meaning": {
+          "vi": "just, right, due (east), pure, genuine, true, truth"
+        },
+        "romaji": "ma"
       },
       {
         "example": "誠",
         "reading": "まこと",
-        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "makoto"
       },
       {
         "example": "秀真",
         "reading": "ほつま",
-        "meaning": "Hotsuma (script)"
+        "meaning": {
+          "vi": "Hotsuma (script)"
+        },
+        "romaji": "hotsuma"
       },
       {
         "example": "誠",
         "reading": "まこと",
-        "meaning": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "truth, reality, fact, sincerity, honesty, faithfulness, good faith, indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "makoto"
       },
       {
         "example": "誠に",
         "reading": "まことに",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "makotoni"
       },
       {
         "example": "嘘から出たまこと",
         "reading": "うそからでたまこと",
-        "meaning": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        "meaning": {
+          "vi": "something intended as a lie or joke which (by chance) ends up being true, lie turned truth"
+        },
+        "romaji": "usokaradetamakoto"
       }
     ],
     "radical": {
@@ -405,5 +435,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0771f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/771f.gif",
     "uri": "https://jisho.org/search/%E7%9C%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "chân"
+  ]
 }

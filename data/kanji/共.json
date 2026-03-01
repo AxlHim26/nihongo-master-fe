@@ -351,54 +351,84 @@
       {
         "example": "共演",
         "reading": "キョウエン",
-        "meaning": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)"
+        "meaning": {
+          "vi": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)"
+        },
+        "romaji": "kyouen"
       },
       {
         "example": "共栄",
         "reading": "キョウエイ",
-        "meaning": "mutual prosperity"
+        "meaning": {
+          "vi": "mutual prosperity"
+        },
+        "romaji": "kyouei"
       },
       {
         "example": "反共",
         "reading": "ハンキョウ",
-        "meaning": "anticommunism"
+        "meaning": {
+          "en": "anticommunism"
+        },
+        "romaji": "hankyou"
       },
       {
         "example": "中共",
         "reading": "チュウキョウ",
-        "meaning": "Chinese Communist Party, Chinese Communists, Communist China"
+        "meaning": {
+          "vi": "Chinese Communist Party, Chinese Communists, Communist China"
+        },
+        "romaji": "chuukyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "共",
         "reading": "とも",
-        "meaning": "together with, same, both, all, neither, none, including ..."
+        "meaning": {
+          "en": "together with, same, both, all, neither, none, including ..."
+        },
+        "romaji": "tomo"
       },
       {
         "example": "共に",
         "reading": "ともに",
-        "meaning": "together, jointly, at the same time, with, as ..., including, along with, both"
+        "meaning": {
+          "en": "together, jointly, at the same time, with, as ..., including, along with, both"
+        },
+        "romaji": "tomoni"
       },
       {
         "example": "送料共",
         "reading": "そうりょうとも",
-        "meaning": "including postage"
+        "meaning": {
+          "vi": "including postage"
+        },
+        "romaji": "souryoutomo"
       },
       {
         "example": "母子とも",
         "reading": "ぼしとも",
-        "meaning": "both mother and child"
+        "meaning": {
+          "en": "both mother and child"
+        },
+        "romaji": "boshitomo"
       },
       {
         "example": "共に",
         "reading": "ともに",
-        "meaning": "together, jointly, at the same time, with, as ..., including, along with, both"
+        "meaning": {
+          "en": "together, jointly, at the same time, with, as ..., including, along with, both"
+        },
+        "romaji": "tomoni"
       },
       {
         "example": "共にする",
         "reading": "ともにする",
-        "meaning": "to do together, to share, to participate in"
+        "meaning": {
+          "vi": "to do together, to share, to participate in"
+        },
+        "romaji": "tomonisuru"
       }
     ],
     "radical": {
@@ -415,5 +445,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05171.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5171.gif",
     "uri": "https://jisho.org/search/%E5%85%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "cung",
+    "cộng",
+    "củng"
+  ]
 }

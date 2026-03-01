@@ -343,22 +343,34 @@
       {
         "example": "婚",
         "reading": "コン",
-        "meaning": "hôn nhân"
+        "meaning": {
+          "vi": "hôn nhân"
+        },
+        "romaji": "kon"
       },
       {
         "example": "婚姻",
         "reading": "コンイン",
-        "meaning": "hôn nhân"
+        "meaning": {
+          "vi": "hôn nhân"
+        },
+        "romaji": "kon'in"
       },
       {
         "example": "初婚",
         "reading": "ショコン",
-        "meaning": "kết hôn lần đầu"
+        "meaning": {
+          "vi": "kết hôn lần đầu"
+        },
+        "romaji": "shokon"
       },
       {
         "example": "成婚",
         "reading": "セイコン",
-        "meaning": "hôn nhân, đám cưới"
+        "meaning": {
+          "vi": "hôn nhân, đám cưới"
+        },
+        "romaji": "seikon"
       }
     ],
     "kunyomiExamples": [],
@@ -375,5 +387,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a5a.gif",
     "uri": "https://jisho.org/search/%E5%A9%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hôn"
+  ]
 }

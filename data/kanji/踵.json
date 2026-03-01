@@ -19,44 +19,68 @@
       {
         "example": "踵骨",
         "reading": "ショウコツ",
-        "meaning": "calcaneus, calcaneum, heel bone"
+        "meaning": {
+          "en": "calcaneus, calcaneum, heel bone"
+        },
+        "romaji": "shoukotsu"
       },
       {
         "example": "延頸挙踵",
         "reading": "エンケイキョショウ",
-        "meaning": "longing for someone or something, waiting for someone of great talent to arrive, stretching one's neck and standing on tiptoes"
+        "meaning": {
+          "vi": "longing for someone or something, waiting for someone of great talent to arrive, stretching one's neck and standing on tiptoes"
+        },
+        "romaji": "enkeikyoshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "踵",
         "reading": "かかと",
-        "meaning": "heel (of foot, shoe, stocking, etc.)"
+        "meaning": {
+          "en": "heel (of foot, shoe, stocking, etc.)"
+        },
+        "romaji": "kakato"
       },
       {
         "example": "かかと落とし",
         "reading": "かかとおとし",
-        "meaning": "axe kick, ax kick"
+        "meaning": {
+          "en": "axe kick, ax kick"
+        },
+        "romaji": "kakatootoshi"
       },
       {
         "example": "踵",
         "reading": "かかと",
-        "meaning": "heel (of foot, shoe, stocking, etc.)"
+        "meaning": {
+          "en": "heel (of foot, shoe, stocking, etc.)"
+        },
+        "romaji": "kakato"
       },
       {
         "example": "踵を返す",
         "reading": "きびすをかえす",
-        "meaning": "to turn on one's heel, to turn back, to return"
+        "meaning": {
+          "en": "to turn on one's heel, to turn back, to return"
+        },
+        "romaji": "kibisuwokaesu"
       },
       {
         "example": "踵",
         "reading": "かかと",
-        "meaning": "heel (of foot, shoe, stocking, etc.)"
+        "meaning": {
+          "en": "heel (of foot, shoe, stocking, etc.)"
+        },
+        "romaji": "kakato"
       },
       {
         "example": "踵を返す",
         "reading": "きびすをかえす",
-        "meaning": "to turn on one's heel, to turn back, to return"
+        "meaning": {
+          "en": "to turn on one's heel, to turn back, to return"
+        },
+        "romaji": "kibisuwokaesu"
       }
     ],
     "radical": {
@@ -79,5 +103,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e35.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e35.gif",
     "uri": "https://jisho.org/search/%E8%B8%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "chủng"
+  ]
 }

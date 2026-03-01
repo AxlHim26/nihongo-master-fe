@@ -19,7 +19,10 @@
       {
         "example": "疎雨",
         "reading": "ソウ",
-        "meaning": "drizzle, scattered rain"
+        "meaning": {
+          "en": "drizzle, scattered rain"
+        },
+        "romaji": "sou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e08.gif",
     "uri": "https://jisho.org/search/%E8%B8%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "sơ"
+  ]
 }

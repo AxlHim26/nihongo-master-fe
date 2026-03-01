@@ -310,34 +310,52 @@
       {
         "example": "証",
         "reading": "ショウ",
-        "meaning": "proof, evidence, certificate, license, permit, membership card, ID card, enlightenment, symptoms (in Chinese medicine), patient's condition"
+        "meaning": {
+          "vi": "proof, evidence, certificate, license, permit, membership card, ID card, enlightenment, symptoms (in Chinese medicine), patient's condition"
+        },
+        "romaji": "shou"
       },
       {
         "example": "証券",
         "reading": "ショウケン",
-        "meaning": "bond, bill, certificate, security"
+        "meaning": {
+          "en": "bond, bill, certificate, security"
+        },
+        "romaji": "shouken"
       },
       {
         "example": "査証",
         "reading": "サショウ",
-        "meaning": "visa, endorsing (e.g. a passport), stamping"
+        "meaning": {
+          "vi": "visa, endorsing (e.g. a passport), stamping"
+        },
+        "romaji": "sashou"
       },
       {
         "example": "偽証",
         "reading": "ギショウ",
-        "meaning": "false evidence, perjury, false testimony"
+        "meaning": {
+          "vi": "false evidence, perjury, false testimony"
+        },
+        "romaji": "gishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "証",
         "reading": "あかし",
-        "meaning": "proof, evidence, sign, testimony, testament (to something), vindication, witnessing, testifying, testimony"
+        "meaning": {
+          "vi": "proof, evidence, sign, testimony, testament (to something), vindication, witnessing, testifying, testimony"
+        },
+        "romaji": "akashi"
       },
       {
         "example": "証として",
         "reading": "あかしとして",
-        "meaning": "in sign of, in proof of"
+        "meaning": {
+          "vi": "in sign of, in proof of"
+        },
+        "romaji": "akashitoshite"
       }
     ],
     "radical": {
@@ -356,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a3c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a3c.gif",
     "uri": "https://jisho.org/search/%E8%A8%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "chứng"
+  ]
 }

@@ -14,17 +14,26 @@
       {
         "example": "呱々",
         "reading": "ココ",
-        "meaning": "cry of a baby at birth"
+        "meaning": {
+          "en": "cry of a baby at birth"
+        },
+        "romaji": "koko"
       },
       {
         "example": "呱々の声をあげる",
         "reading": "ココノコエヲアゲル",
-        "meaning": "to be born (of a baby), to come into the world"
+        "meaning": {
+          "en": "to be born (of a baby), to come into the world"
+        },
+        "romaji": "kokonokoewoageru"
       },
       {
         "example": "呱々",
         "reading": "ココ",
-        "meaning": "cry of a baby at birth"
+        "meaning": {
+          "en": "cry of a baby at birth"
+        },
+        "romaji": "koko"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05471.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5471.gif",
     "uri": "https://jisho.org/search/%E5%91%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "cô",
+    "oa"
+  ]
 }

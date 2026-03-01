@@ -350,29 +350,44 @@
       {
         "example": "補",
         "reading": "ホ",
-        "meaning": "assistant ..., probationary ..."
+        "meaning": {
+          "vi": "assistant ..., probationary ..."
+        },
+        "romaji": "ho"
       },
       {
         "example": "補完",
         "reading": "ホカン",
-        "meaning": "complementation, supplementation, completion"
+        "meaning": {
+          "vi": "complementation, supplementation, completion"
+        },
+        "romaji": "hokan"
       },
       {
         "example": "増補",
         "reading": "ゾウホ",
-        "meaning": "extending (e.g. a book), augmenting, enlarging, supplementing"
+        "meaning": {
+          "vi": "extending (e.g. a book), augmenting, enlarging, supplementing"
+        },
+        "romaji": "zouho"
       },
       {
         "example": "追補",
         "reading": "ツイホ",
-        "meaning": "supplement, appendix, addendum"
+        "meaning": {
+          "vi": "supplement, appendix, addendum"
+        },
+        "romaji": "tsuiho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "補う",
         "reading": "おぎなう",
-        "meaning": "to supplement, to make up for, to compensate for, to cover (a shortage, loss, etc.), to fill (e.g. a vacancy)"
+        "meaning": {
+          "vi": "to supplement, to make up for, to compensate for, to cover (a shortage, loss, etc.), to fill (e.g. a vacancy)"
+        },
+        "romaji": "oginau"
       }
     ],
     "radical": {
@@ -392,5 +407,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88dc.gif",
     "uri": "https://jisho.org/search/%E8%A3%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "bổ"
+  ]
 }

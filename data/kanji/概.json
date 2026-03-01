@@ -289,29 +289,44 @@
       {
         "example": "概",
         "reading": "ガイ",
-        "meaning": "appearance, look, aspect, strong spirit, mettle"
+        "meaning": {
+          "vi": "appearance, look, aspect, strong spirit, mettle"
+        },
+        "romaji": "gai"
       },
       {
         "example": "概算",
         "reading": "ガイサン",
-        "meaning": "approximation, rough estimate, ballpark figure"
+        "meaning": {
+          "vi": "approximation, rough estimate, ballpark figure"
+        },
+        "romaji": "gaisan"
       },
       {
         "example": "感慨",
         "reading": "カンガイ",
-        "meaning": "deep emotion, strong feelings"
+        "meaning": {
+          "vi": "deep emotion, strong feelings"
+        },
+        "romaji": "kangai"
       },
       {
         "example": "気概",
         "reading": "キガイ",
-        "meaning": "strong spirit, mettle, backbone, guts, fighting spirit"
+        "meaning": {
+          "vi": "strong spirit, mettle, backbone, guts, fighting spirit"
+        },
+        "romaji": "kigai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "概ね",
         "reading": "おおむね",
-        "meaning": "in general, generally, mostly, roughly, largely, mainly, on the whole, by and large, gist, point, main idea"
+        "meaning": {
+          "vi": "in general, generally, mostly, roughly, largely, mainly, on the whole, by and large, gist, point, main idea"
+        },
+        "romaji": "oomune"
       }
     ],
     "radical": {
@@ -327,5 +342,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06982.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6982.gif",
     "uri": "https://jisho.org/search/%E6%A6%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "hị",
+    "khái"
+  ]
 }

@@ -283,49 +283,76 @@
       {
         "example": "悩殺",
         "reading": "ノウサツ",
-        "meaning": "fascinate, bewitch, enchant"
+        "meaning": {
+          "en": "fascinate, bewitch, enchant"
+        },
+        "romaji": "nousatsu"
       },
       {
         "example": "悩乱",
         "reading": "ノウラン",
-        "meaning": "worry, anguish"
+        "meaning": {
+          "en": "worry, anguish"
+        },
+        "romaji": "nouran"
       },
       {
         "example": "苦悩",
         "reading": "クノウ",
-        "meaning": "(mental) agony, anguish, suffering, distress"
+        "meaning": {
+          "en": "(mental) agony, anguish, suffering, distress"
+        },
+        "romaji": "kunou"
       },
       {
         "example": "懊悩",
         "reading": "オウノウ",
-        "meaning": "anguish, trouble, agony"
+        "meaning": {
+          "en": "anguish, trouble, agony"
+        },
+        "romaji": "ounou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悩む",
         "reading": "なやむ",
-        "meaning": "to be worried, to be troubled"
+        "meaning": {
+          "en": "to be worried, to be troubled"
+        },
+        "romaji": "nayamu"
       },
       {
         "example": "悩ます",
         "reading": "なやます",
-        "meaning": "to afflict, to torment, to harass, to molest"
+        "meaning": {
+          "en": "to afflict, to torment, to harass, to molest"
+        },
+        "romaji": "nayamasu"
       },
       {
         "example": "悩ましい",
         "reading": "なやましい",
-        "meaning": "seductive, carnal, enchanting, troubling, difficult, thorny, hard, anxious, uneasy"
+        "meaning": {
+          "en": "seductive, carnal, enchanting, troubling, difficult, thorny, hard, anxious, uneasy"
+        },
+        "romaji": "nayamashii"
       },
       {
         "example": "悩み",
         "reading": "なやみ",
-        "meaning": "trouble, troubles, worry, distress, sorrows, anguish, agony, problem"
+        "meaning": {
+          "vi": "trouble, troubles, worry, distress, sorrows, anguish, agony, problem"
+        },
+        "romaji": "nayami"
       },
       {
         "example": "悩み事",
         "reading": "なやみごと",
-        "meaning": "matter causing distress, something causing worry"
+        "meaning": {
+          "en": "matter causing distress, something causing worry"
+        },
+        "romaji": "nayamigoto"
       }
     ],
     "radical": {
@@ -345,5 +372,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60a9.gif",
     "uri": "https://jisho.org/search/%E6%82%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "não"
+  ]
 }

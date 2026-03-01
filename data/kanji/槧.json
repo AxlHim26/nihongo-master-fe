@@ -18,7 +18,10 @@
       {
         "example": "鉛槧",
         "reading": "エンザン",
-        "meaning": "writing literature"
+        "meaning": {
+          "en": "writing literature"
+        },
+        "romaji": "enzan"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69e7.gif",
     "uri": "https://jisho.org/search/%E6%A7%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiễm",
+    "tiệm",
+    "tạm"
+  ]
 }

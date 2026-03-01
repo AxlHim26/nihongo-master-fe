@@ -17,12 +17,18 @@
       {
         "example": "倨傲",
         "reading": "キョゴウ",
-        "meaning": "haughty, arrogant, insolent, proud"
+        "meaning": {
+          "vi": "haughty, arrogant, insolent, proud"
+        },
+        "romaji": "kyogou"
       },
       {
         "example": "傲倨",
         "reading": "ゴウキョ",
-        "meaning": "haughty, arrogant, insolent, proud"
+        "meaning": {
+          "vi": "haughty, arrogant, insolent, proud"
+        },
+        "romaji": "goukyo"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05028.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5028.gif",
     "uri": "https://jisho.org/search/%E5%80%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "cứ"
+  ]
 }

@@ -17,14 +17,20 @@
       {
         "example": "鮮少",
         "reading": "センショウ",
-        "meaning": "very few, very little"
+        "meaning": {
+          "en": "very few, very little"
+        },
+        "romaji": "senshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "少ない",
         "reading": "すくない",
-        "meaning": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+        "meaning": {
+          "en": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+        },
+        "romaji": "sukunai"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c20.gif",
     "uri": "https://jisho.org/search/%E5%B0%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiển"
+  ]
 }

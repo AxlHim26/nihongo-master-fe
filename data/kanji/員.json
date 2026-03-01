@@ -361,22 +361,34 @@
       {
         "example": "員",
         "reading": "イン",
-        "meaning": "member"
+        "meaning": {
+          "en": "member"
+        },
+        "romaji": "in"
       },
       {
         "example": "員数",
         "reading": "インズウ",
-        "meaning": "(total) number (of people or things), count, quota"
+        "meaning": {
+          "vi": "(total) number (of people or things), count, quota"
+        },
+        "romaji": "inzuu"
       },
       {
         "example": "随員",
         "reading": "ズイイン",
-        "meaning": "member of an entourage or retinue or party, attendant"
+        "meaning": {
+          "vi": "member of an entourage or retinue or party, attendant"
+        },
+        "romaji": "zuiin"
       },
       {
         "example": "執行委員",
         "reading": "シッコウイイン",
-        "meaning": "executive committee"
+        "meaning": {
+          "en": "executive committee"
+        },
+        "romaji": "shikkouiin"
       }
     ],
     "kunyomiExamples": [],
@@ -394,5 +406,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54e1.gif",
     "uri": "https://jisho.org/search/%E5%93%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên",
+    "vân"
+  ]
 }

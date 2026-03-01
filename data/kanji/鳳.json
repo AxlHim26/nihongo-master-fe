@@ -17,17 +17,26 @@
       {
         "example": "鳳",
         "reading": "ホウ",
-        "meaning": "feng (male Chinese firebird)"
+        "meaning": {
+          "en": "feng (male Chinese firebird)"
+        },
+        "romaji": "hou"
       },
       {
         "example": "ほうれん草",
         "reading": "ホウレンソウ",
-        "meaning": "spinach (Spinacia oleracea)"
+        "meaning": {
+          "vi": "spinach (Spinacia oleracea)"
+        },
+        "romaji": "hourensou"
       },
       {
         "example": "白鳳",
         "reading": "ハクホウ",
-        "meaning": "white Chinese phoenix, white Chinese firebird"
+        "meaning": {
+          "vi": "white Chinese phoenix, white Chinese firebird"
+        },
+        "romaji": "hakuhou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf3.gif",
     "uri": "https://jisho.org/search/%E9%B3%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "phượng",
+    "phụng"
+  ]
 }

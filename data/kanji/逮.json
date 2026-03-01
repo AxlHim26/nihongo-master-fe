@@ -17,12 +17,18 @@
       {
         "example": "逮捕",
         "reading": "タイホ",
-        "meaning": "arrest, apprehension, capture"
+        "meaning": {
+          "vi": "arrest, apprehension, capture"
+        },
+        "romaji": "taiho"
       },
       {
         "example": "逮捕及び監禁罪",
         "reading": "タイホオヨビカンキンザイ",
-        "meaning": "false arrest and imprisonment, illegal arrest and confinement"
+        "meaning": {
+          "vi": "false arrest and imprisonment, illegal arrest and confinement"
+        },
+        "romaji": "taihooyobikankinzai"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0902e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/902e.gif",
     "uri": "https://jisho.org/search/%E9%80%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "đãi",
+    "đệ"
+  ]
 }

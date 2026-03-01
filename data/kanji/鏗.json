@@ -16,17 +16,26 @@
       {
         "example": "鏗鏗",
         "reading": "コウコウ",
-        "meaning": "the ringing out of bells or chimes"
+        "meaning": {
+          "en": "the ringing out of bells or chimes"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "鏗然",
         "reading": "コウゼン",
-        "meaning": "emitting a shrill sound (musical instrument, metal, stone)"
+        "meaning": {
+          "en": "emitting a shrill sound (musical instrument, metal, stone)"
+        },
+        "romaji": "kouzen"
       },
       {
         "example": "鏗鏗",
         "reading": "コウコウ",
-        "meaning": "the ringing out of bells or chimes"
+        "meaning": {
+          "en": "the ringing out of bells or chimes"
+        },
+        "romaji": "koukou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d7.gif",
     "uri": "https://jisho.org/search/%E9%8F%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "khanh"
+  ]
 }

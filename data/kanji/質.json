@@ -357,69 +357,108 @@
       {
         "example": "質",
         "reading": "シツ",
-        "meaning": "quality, value, nature, inherent quality, character, logical quality"
+        "meaning": {
+          "en": "quality, value, nature, inherent quality, character, logical quality"
+        },
+        "romaji": "shitsu"
       },
       {
         "example": "質疑",
         "reading": "シツギ",
-        "meaning": "question, interpellation"
+        "meaning": {
+          "vi": "question, interpellation"
+        },
+        "romaji": "shitsugi"
       },
       {
         "example": "変質",
         "reading": "ヘンシツ",
-        "meaning": "alteration (of character or essence), change in quality, transformation, deterioration, degeneration, transmutation, perversion (esp. sexual)"
+        "meaning": {
+          "vi": "alteration (of character or essence), change in quality, transformation, deterioration, degeneration, transmutation, perversion (esp. sexual)"
+        },
+        "romaji": "henshitsu"
       },
       {
         "example": "タンパク質",
         "reading": "タンパクシツ",
-        "meaning": "protein"
+        "meaning": {
+          "vi": "protein"
+        },
+        "romaji": "tanpakushitsu"
       },
       {
         "example": "質",
         "reading": "シチ",
-        "meaning": "pawn, pawned article, pledge, security, guarantee"
+        "meaning": {
+          "vi": "pawn, pawned article, pledge, security, guarantee"
+        },
+        "romaji": "shichi"
       },
       {
         "example": "質屋",
         "reading": "シチヤ",
-        "meaning": "pawnshop"
+        "meaning": {
+          "vi": "pawnshop"
+        },
+        "romaji": "shichiya"
       },
       {
         "example": "入質",
         "reading": "ニュウシチ",
-        "meaning": "pawning"
+        "meaning": {
+          "vi": "pawning"
+        },
+        "romaji": "nyuushichi"
       },
       {
         "example": "流質",
         "reading": "リュウシチ",
-        "meaning": "forfeiting a pawned article"
+        "meaning": {
+          "vi": "forfeiting a pawned article"
+        },
+        "romaji": "ryuushichi"
       },
       {
         "example": "入質",
         "reading": "ニュウシチ",
-        "meaning": "pawning"
+        "meaning": {
+          "vi": "pawning"
+        },
+        "romaji": "nyuushichi"
       },
       {
         "example": "流質",
         "reading": "リュウシチ",
-        "meaning": "forfeiting a pawned article"
+        "meaning": {
+          "vi": "forfeiting a pawned article"
+        },
+        "romaji": "ryuushichi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "質",
         "reading": "たち",
-        "meaning": "nature (of a person), disposition, temperament, nature (of something), character, kind, sort"
+        "meaning": {
+          "vi": "nature (of a person), disposition, temperament, nature (of something), character, kind, sort"
+        },
+        "romaji": "tachi"
       },
       {
         "example": "たちが良い",
         "reading": "たちがいい",
-        "meaning": "good-natured, of good character"
+        "meaning": {
+          "en": "good-natured, of good character"
+        },
+        "romaji": "tachigaii"
       },
       {
         "example": "質す",
         "reading": "ただす",
-        "meaning": "to ask (about), to inquire, to enquire, to question, to make sure of"
+        "meaning": {
+          "en": "to ask (about), to inquire, to enquire, to question, to make sure of"
+        },
+        "romaji": "tadasu"
       }
     ],
     "radical": {
@@ -436,5 +475,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cea.gif",
     "uri": "https://jisho.org/search/%E8%B3%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí",
+    "chất"
+  ]
 }

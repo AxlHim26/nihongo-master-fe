@@ -362,44 +362,68 @@
       {
         "example": "前",
         "reading": "ゼン",
-        "meaning": "last (i.e. immediately preceding), previous, ex-, former, pre- (e.g. premodern), before, before, earlier"
+        "meaning": {
+          "vi": "last (i.e. immediately preceding), previous, ex-, former, pre- (e.g. premodern), before, before, earlier"
+        },
+        "romaji": "zen"
       },
       {
         "example": "前衛",
         "reading": "ゼンエイ",
-        "meaning": "advance guard, vanguard, avant-garde, forward (player)"
+        "meaning": {
+          "vi": "advance guard, vanguard, avant-garde, forward (player)"
+        },
+        "romaji": "zen'ei"
       },
       {
         "example": "中前",
         "reading": "チュウゼン",
-        "meaning": "front of center field, front of centre field"
+        "meaning": {
+          "en": "front of center field, front of centre field"
+        },
+        "romaji": "chuuzen"
       },
       {
         "example": "風前",
         "reading": "フウゼン",
-        "meaning": "where the wind blows"
+        "meaning": {
+          "en": "where the wind blows"
+        },
+        "romaji": "fuuzen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "前",
         "reading": "まえ",
-        "meaning": "in front (of), before (e.g. a building), before, earlier, previously, prior, ago, (minutes) to (the hour), (the) front, frontal part, fore, head (e.g. of a line), forward, ahead, (in the) presence (of), in front (of someone), previous (e.g. page), prior (e.g. engagement), first (e.g. half), former (e.g. example), portion, helping, front (of one's body or clothing), breast (of a coat, kimono, etc.), privates, private parts, criminal record, previous conviction, (a) prior"
+        "meaning": {
+          "vi": "in front (of), before (e.g. a building), before, earlier, previously, prior, ago, (minutes) to (the hour), (the) front, frontal part, fore, head (e.g. of a line), forward, ahead, (in the) presence (of), in front (of someone), previous (e.g. page), prior (e.g. engagement), first (e.g. half), former (e.g. example), portion, helping, front (of one's body or clothing), breast (of a coat, kimono, etc.), privates, private parts, criminal record, previous conviction, (a) prior"
+        },
+        "romaji": "mae"
       },
       {
         "example": "前売り",
         "reading": "まえうり",
-        "meaning": "advance sale, booking"
+        "meaning": {
+          "en": "advance sale, booking"
+        },
+        "romaji": "maeuri"
       },
       {
         "example": "左前",
         "reading": "ひだりまえ",
-        "meaning": "wearing a kimono with the right side over the left (normally used only for the dead), downturn, recession, economic adversity, being in a bad financial situation, front left, front and left, before and left"
+        "meaning": {
+          "en": "wearing a kimono with the right side over the left (normally used only for the dead), downturn, recession, economic adversity, being in a bad financial situation, front left, front and left, before and left"
+        },
+        "romaji": "hidarimae"
       },
       {
         "example": "出前",
         "reading": "でまえ",
-        "meaning": "home delivery (of food), outside catering"
+        "meaning": {
+          "en": "home delivery (of food), outside catering"
+        },
+        "romaji": "demae"
       }
     ],
     "radical": {
@@ -419,5 +443,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0524d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/524d.gif",
     "uri": "https://jisho.org/search/%E5%89%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiền",
+    "tiễn"
+  ]
 }

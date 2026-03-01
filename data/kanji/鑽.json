@@ -16,29 +16,44 @@
       {
         "example": "鑽孔",
         "reading": "サンコウ",
-        "meaning": "boring, punching"
+        "meaning": {
+          "vi": "boring, punching"
+        },
+        "romaji": "sankou"
       },
       {
         "example": "鑽孔機",
         "reading": "サンコウキ",
-        "meaning": "boring machine, punching machine, perforator"
+        "meaning": {
+          "vi": "boring machine, punching machine, perforator"
+        },
+        "romaji": "sankouki"
       },
       {
         "example": "研鑽",
         "reading": "ケンサン",
-        "meaning": "diligent study, devoting oneself to one's studies"
+        "meaning": {
+          "en": "diligent study, devoting oneself to one's studies"
+        },
+        "romaji": "kensan"
       },
       {
         "example": "試鑽",
         "reading": "シサン",
-        "meaning": "boring, drilling"
+        "meaning": {
+          "en": "boring, drilling"
+        },
+        "romaji": "shisan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鑽る",
         "reading": "きる",
-        "meaning": "to start a fire (with wood-wood friction or by striking metal against stone)"
+        "meaning": {
+          "en": "to start a fire (with wood-wood friction or by striking metal against stone)"
+        },
+        "romaji": "kiru"
       }
     ],
     "radical": {
@@ -61,5 +76,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947d.gif",
     "uri": "https://jisho.org/search/%E9%91%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "toàn",
+    "toản"
+  ]
 }

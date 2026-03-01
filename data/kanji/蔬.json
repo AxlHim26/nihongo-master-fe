@@ -17,12 +17,18 @@
       {
         "example": "蔬菜",
         "reading": "ソサイ",
-        "meaning": "greens, vegetables"
+        "meaning": {
+          "en": "greens, vegetables"
+        },
+        "romaji": "sosai"
       },
       {
         "example": "蔬食",
         "reading": "ソショク",
-        "meaning": "vegetarian diet, vegetarian food"
+        "meaning": {
+          "en": "vegetarian diet, vegetarian food"
+        },
+        "romaji": "soshoku"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852c.gif",
     "uri": "https://jisho.org/search/%E8%94%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "sơ"
+  ]
 }

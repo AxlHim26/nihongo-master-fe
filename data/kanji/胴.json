@@ -17,22 +17,34 @@
       {
         "example": "胴",
         "reading": "ドウ",
-        "meaning": "trunk, torso, body, abdomen, waist, plastron (in kendo), touching the plastron (kimari-te in kendo), frame (of a drum, etc.), sound box (of a shamisen, etc.), hull (of a ship), dealer"
+        "meaning": {
+          "vi": "trunk, torso, body, abdomen, waist, plastron (in kendo), touching the plastron (kimari-te in kendo), frame (of a drum, etc.), sound box (of a shamisen, etc.), hull (of a ship), dealer"
+        },
+        "romaji": "dou"
       },
       {
         "example": "胴上げ",
         "reading": "ドウアゲ",
-        "meaning": "tossing (someone) into the air (in celebration)"
+        "meaning": {
+          "en": "tossing (someone) into the air (in celebration)"
+        },
+        "romaji": "douage"
       },
       {
         "example": "空洞",
         "reading": "クウドウ",
-        "meaning": "cavity, hollow, cave, cavern, hollow"
+        "meaning": {
+          "en": "cavity, hollow, cave, cavern, hollow"
+        },
+        "romaji": "kuudou"
       },
       {
         "example": "台胴",
         "reading": "ダイドウ",
-        "meaning": "dado (part of a pedestal between the base and the cornice)"
+        "meaning": {
+          "vi": "dado (part of a pedestal between the base and the cornice)"
+        },
+        "romaji": "daidou"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f4.gif",
     "uri": "https://jisho.org/search/%E8%83%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "đỗng"
+  ]
 }

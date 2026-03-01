@@ -16,12 +16,18 @@
       {
         "example": "帙",
         "reading": "チツ",
-        "meaning": "protective covering for a book (often in the form of a folding case with clasps), counter for book covers"
+        "meaning": {
+          "vi": "protective covering for a book (often in the form of a folding case with clasps), counter for book covers"
+        },
+        "romaji": "chitsu"
       },
       {
         "example": "巻帙",
         "reading": "カンチツ",
-        "meaning": "books, volumes"
+        "meaning": {
+          "en": "books, volumes"
+        },
+        "romaji": "kanchitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e19.gif",
     "uri": "https://jisho.org/search/%E5%B8%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "dật",
+    "pho",
+    "trật"
+  ]
 }

@@ -18,34 +18,52 @@
       {
         "example": "恣意",
         "reading": "シイ",
-        "meaning": "tùy tiện, ý chí cá nhân, ý thích"
+        "meaning": {
+          "vi": "tùy tiện, ý chí cá nhân, ý thích"
+        },
+        "romaji": "shii"
       },
       {
         "example": "恣意性",
         "reading": "シイセイ",
-        "meaning": "tùy tiện"
+        "meaning": {
+          "vi": "tùy tiện"
+        },
+        "romaji": "shiisei"
       },
       {
         "example": "放恣",
         "reading": "ホウシ",
-        "meaning": "phóng túng, nuông chiều bản thân"
+        "meaning": {
+          "vi": "phóng túng, nuông chiều bản thân"
+        },
+        "romaji": "houshi"
       },
       {
         "example": "驕恣",
         "reading": "キョウシ",
-        "meaning": "kiêu ngạo và bướng bỉnh"
+        "meaning": {
+          "vi": "kiêu ngạo và bướng bỉnh"
+        },
+        "romaji": "kyoushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恣",
         "reading": "ほしいまま",
-        "meaning": "ích kỷ, nuông chiều bản thân, tùy tiện"
+        "meaning": {
+          "vi": "ích kỷ, nuông chiều bản thân, tùy tiện"
+        },
+        "romaji": "hoshiimama"
       },
       {
         "example": "恣にする",
         "reading": "ほしいままにする",
-        "meaning": "lạm dụng, tận dụng tối đa, buông thả"
+        "meaning": {
+          "vi": "lạm dụng, tận dụng tối đa, buông thả"
+        },
+        "romaji": "hoshiimamanisuru"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06063.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6063.gif",
     "uri": "https://jisho.org/search/%E6%81%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thư",
+    "tứ"
+  ]
 }

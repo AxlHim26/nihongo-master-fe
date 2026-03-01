@@ -19,12 +19,18 @@
       {
         "example": "酋長",
         "reading": "シュウチョウ",
-        "meaning": "chieftain"
+        "meaning": {
+          "en": "chieftain"
+        },
+        "romaji": "shuuchou"
       },
       {
         "example": "酋領",
         "reading": "シュウリョウ",
-        "meaning": "chieftain"
+        "meaning": {
+          "en": "chieftain"
+        },
+        "romaji": "shuuryou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914b.gif",
     "uri": "https://jisho.org/search/%E9%85%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tù"
+  ]
 }

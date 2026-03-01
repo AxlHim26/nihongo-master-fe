@@ -18,12 +18,18 @@
       {
         "example": "縁側",
         "reading": "えんがわ",
-        "meaning": "engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin (esp. of a flatfish), meat at the base of a fin"
+        "meaning": {
+          "vi": "engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin (esp. of a flatfish), meat at the base of a fin"
+        },
+        "romaji": "engawa"
       },
       {
         "example": "垂木",
         "reading": "たるき",
-        "meaning": "rafter"
+        "meaning": {
+          "en": "rafter"
+        },
+        "romaji": "taruki"
       }
     ],
     "radical": {
@@ -39,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0693d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/693d.gif",
     "uri": "https://jisho.org/search/%E6%A4%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuyên",
+    "triện"
+  ]
 }

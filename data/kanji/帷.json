@@ -16,19 +16,28 @@
       {
         "example": "帷幄",
         "reading": "イアク",
-        "meaning": "headquarters, general staff"
+        "meaning": {
+          "en": "headquarters, general staff"
+        },
+        "romaji": "iaku"
       },
       {
         "example": "帷幄上奏",
         "reading": "イアクジョウソウ",
-        "meaning": "direct appeal to the throne by the military"
+        "meaning": {
+          "vi": "direct appeal to the throne by the military"
+        },
+        "romaji": "iakujousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帳",
         "reading": "とばり",
-        "meaning": "curtain, hanging, bunting"
+        "meaning": {
+          "en": "curtain, hanging, bunting"
+        },
+        "romaji": "tobari"
       }
     ],
     "radical": {
@@ -43,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e37.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e37.gif",
     "uri": "https://jisho.org/search/%E5%B8%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "duy"
+  ]
 }

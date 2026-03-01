@@ -16,22 +16,34 @@
       {
         "example": "癇",
         "reading": "カン",
-        "meaning": "temper, nerves"
+        "meaning": {
+          "vi": "temper, nerves"
+        },
+        "romaji": "kan"
       },
       {
         "example": "甲高い",
         "reading": "カンダカイ",
-        "meaning": "high-pitched, shrill"
+        "meaning": {
+          "vi": "high-pitched, shrill"
+        },
+        "romaji": "kandakai"
       },
       {
         "example": "子癇",
         "reading": "シカン",
-        "meaning": "eclampsia"
+        "meaning": {
+          "vi": "eclampsia"
+        },
+        "romaji": "shikan"
       },
       {
         "example": "癲癇",
         "reading": "テンカン",
-        "meaning": "epilepsy, epileptic fit"
+        "meaning": {
+          "vi": "epilepsy, epileptic fit"
+        },
+        "romaji": "tenkan"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07647.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7647.gif",
     "uri": "https://jisho.org/search/%E7%99%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "giản",
+    "nhàn"
+  ]
 }

@@ -229,22 +229,34 @@
       {
         "example": "般若",
         "reading": "ハンニャ",
-        "meaning": "prajna (wisdom required to attain enlightenment), hannya, mask of a grinning, horned demoness (represents a woman's rage and jealousy), dreadful face (esp. of a woman driven mad by jealousy), terrifying facial expression"
+        "meaning": {
+          "vi": "prajna (wisdom required to attain enlightenment), hannya, mask of a grinning, horned demoness (represents a woman's rage and jealousy), dreadful face (esp. of a woman driven mad by jealousy), terrifying facial expression"
+        },
+        "romaji": "hannya"
       },
       {
         "example": "汎化",
         "reading": "ハンカ",
-        "meaning": "generalization (psychology, linguistics, etc.)"
+        "meaning": {
+          "vi": "generalization (psychology, linguistics, etc.)"
+        },
+        "romaji": "hanka"
       },
       {
         "example": "諸般",
         "reading": "ショハン",
-        "meaning": "various, several"
+        "meaning": {
+          "en": "various, several"
+        },
+        "romaji": "shohan"
       },
       {
         "example": "過般",
         "reading": "カハン",
-        "meaning": "some time ago, recently"
+        "meaning": {
+          "en": "some time ago, recently"
+        },
+        "romaji": "kahan"
       }
     ],
     "kunyomiExamples": [],
@@ -262,5 +274,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0822c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/822c.gif",
     "uri": "https://jisho.org/search/%E8%88%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "ban",
+    "bàn",
+    "bát"
+  ]
 }

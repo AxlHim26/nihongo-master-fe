@@ -14,12 +14,18 @@
       {
         "example": "螻蛄",
         "reading": "ケラ",
-        "meaning": "mole cricket (esp. the Oriental mole cricket, Gryllotalpa orientalis), being penniless, being broke"
+        "meaning": {
+          "vi": "mole cricket (esp. the Oriental mole cricket, Gryllotalpa orientalis), being penniless, being broke"
+        },
+        "romaji": "kera"
       },
       {
         "example": "蝦蛄",
         "reading": "シャコ",
-        "meaning": "mantis shrimp (any marine crustacean of order Stomatopoda, esp. the species Oratosquilla oratoria), mantis crab, squilla"
+        "meaning": {
+          "vi": "mantis shrimp (any marine crustacean of order Stomatopoda, esp. the species Oratosquilla oratoria), mantis crab, squilla"
+        },
+        "romaji": "shako"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86c4.gif",
     "uri": "https://jisho.org/search/%E8%9B%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "cô"
+  ]
 }

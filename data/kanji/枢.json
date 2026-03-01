@@ -21,29 +21,44 @@
       {
         "example": "枢軸",
         "reading": "スウジク",
-        "meaning": "trục, trung tâm (quyền lực, hoạt động), trục (phe Trục WWII)"
+        "meaning": {
+          "vi": "trục, trung tâm (quyền lực, hoạt động), trục (phe Trục WWII)"
+        },
+        "romaji": "suujiku"
       },
       {
         "example": "枢機卿",
         "reading": "スウキキョウ",
-        "meaning": "hồng y (Giáo hội Công giáo)"
+        "meaning": {
+          "vi": "hồng y (Giáo hội Công giáo)"
+        },
+        "romaji": "suukikyou"
       },
       {
         "example": "神経中枢",
         "reading": "シンケイチュウスウ",
-        "meaning": "trung tâm thần kinh"
+        "meaning": {
+          "vi": "trung tâm thần kinh"
+        },
+        "romaji": "shinkeichuusuu"
       },
       {
         "example": "呼吸中枢",
         "reading": "コキュウチュウスウ",
-        "meaning": "trung tâm hô hấp"
+        "meaning": {
+          "vi": "trung tâm hô hấp"
+        },
+        "romaji": "kokyuuchuusuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枢",
         "reading": "とぼそ",
-        "meaning": "ổ trục cửa (bản lề), cửa"
+        "meaning": {
+          "vi": "ổ trục cửa (bản lề), cửa"
+        },
+        "romaji": "toboso"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a2.gif",
     "uri": "https://jisho.org/search/%E6%9E%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "xu"
+  ]
 }

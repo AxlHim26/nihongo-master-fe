@@ -19,34 +19,52 @@
       {
         "example": "憑依",
         "reading": "ヒョウイ",
-        "meaning": "possession (by a spirit, demon, etc.), dependence (on)"
+        "meaning": {
+          "vi": "possession (by a spirit, demon, etc.), dependence (on)"
+        },
+        "romaji": "hyoui"
       },
       {
         "example": "憑拠",
         "reading": "ヒョウキョ",
-        "meaning": "basis, foundation, reliance"
+        "meaning": {
+          "en": "basis, foundation, reliance"
+        },
+        "romaji": "hyoukyo"
       },
       {
         "example": "証憑",
         "reading": "ショウヒョウ",
-        "meaning": "voucher, documentary evidence of a transaction"
+        "meaning": {
+          "en": "voucher, documentary evidence of a transaction"
+        },
+        "romaji": "shouhyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憑く",
         "reading": "つく",
-        "meaning": "to possess, to haunt"
+        "meaning": {
+          "vi": "to possess, to haunt"
+        },
+        "romaji": "tsuku"
       },
       {
         "example": "憑かれる",
         "reading": "つかれる",
-        "meaning": "to be possessed"
+        "meaning": {
+          "vi": "to be possessed"
+        },
+        "romaji": "tsukareru"
       },
       {
         "example": "頼む",
         "reading": "たのむ",
-        "meaning": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"
+        "meaning": {
+          "vi": "to request, to beg, to ask, to call, to order, to reserve, to entrust to, to rely on, please, please do"
+        },
+        "romaji": "tanomu"
       }
     ],
     "radical": {
@@ -67,5 +85,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06191.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6191.gif",
     "uri": "https://jisho.org/search/%E6%86%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "bằng",
+    "bẵng"
+  ]
 }

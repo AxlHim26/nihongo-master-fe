@@ -23,37 +23,58 @@
       {
         "example": "旦過",
         "reading": "タンガ",
-        "meaning": "staying the night (of an itinerant priest in Zen Buddhism), itinerant priest's lodging, providing a room for an itinerant priest so that he may meditate for a long period of time"
+        "meaning": {
+          "vi": "staying the night (of an itinerant priest in Zen Buddhism), itinerant priest's lodging, providing a room for an itinerant priest so that he may meditate for a long period of time"
+        },
+        "romaji": "tanga"
       },
       {
         "example": "旦日",
         "reading": "タンジツ",
-        "meaning": "tomorrow, tomorrow morning"
+        "meaning": {
+          "en": "tomorrow, tomorrow morning"
+        },
+        "romaji": "tanjitsu"
       },
       {
         "example": "歳旦",
         "reading": "サイタン",
-        "meaning": "New Year's morning, morning of New Year's Day, New Year's Day"
+        "meaning": {
+          "en": "New Year's morning, morning of New Year's Day, New Year's Day"
+        },
+        "romaji": "saitan"
       },
       {
         "example": "昧旦",
         "reading": "マイタン",
-        "meaning": "dawn, daybreak"
+        "meaning": {
+          "en": "dawn, daybreak"
+        },
+        "romaji": "maitan"
       },
       {
         "example": "旦那",
         "reading": "ダンナ",
-        "meaning": "master (of a house, shop, etc.), husband, sir, boss, master, governor, patron of a mistress, geisha, bar or nightclub hostess, sugar daddy, alms, almsgiving, almsgiver"
+        "meaning": {
+          "vi": "master (of a house, shop, etc.), husband, sir, boss, master, governor, patron of a mistress, geisha, bar or nightclub hostess, sugar daddy, alms, almsgiving, almsgiver"
+        },
+        "romaji": "danna"
       },
       {
         "example": "旦つく",
         "reading": "ダンツク",
-        "meaning": "husband"
+        "meaning": {
+          "en": "husband"
+        },
+        "romaji": "dantsuku"
       },
       {
         "example": "震旦",
         "reading": "シンタン",
-        "meaning": "China"
+        "meaning": {
+          "en": "China"
+        },
+        "romaji": "shintan"
       }
     ],
     "kunyomiExamples": [],
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e6.gif",
     "uri": "https://jisho.org/search/%E6%97%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "đán"
+  ]
 }

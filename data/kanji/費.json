@@ -342,34 +342,52 @@
       {
         "example": "費",
         "reading": "ヒ",
-        "meaning": "cost, expense"
+        "meaning": {
+          "vi": "cost, expense"
+        },
+        "romaji": "hi"
       },
       {
         "example": "費用",
         "reading": "ヒヨウ",
-        "meaning": "cost, expense"
+        "meaning": {
+          "vi": "cost, expense"
+        },
+        "romaji": "hiyou"
       },
       {
         "example": "固定費",
         "reading": "コテイヒ",
-        "meaning": "fixed cost, fixed expense"
+        "meaning": {
+          "vi": "fixed cost, fixed expense"
+        },
+        "romaji": "koteihi"
       },
       {
         "example": "交際費",
         "reading": "コウサイヒ",
-        "meaning": "entertainment expenses"
+        "meaning": {
+          "vi": "entertainment expenses"
+        },
+        "romaji": "kousaihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "費やす",
         "reading": "ついやす",
-        "meaning": "to spend, to expend, to consume, to waste, to squander, to throw away, to devote"
+        "meaning": {
+          "vi": "to spend, to expend, to consume, to waste, to squander, to throw away, to devote"
+        },
+        "romaji": "tsuiyasu"
       },
       {
         "example": "費える",
         "reading": "ついえる",
-        "meaning": "to be used up (of money, savings, etc.), to dwindle away, to be wasted (of time)"
+        "meaning": {
+          "vi": "to be used up (of money, savings, etc.), to dwindle away, to be wasted (of time)"
+        },
+        "romaji": "tsuieru"
       }
     ],
     "radical": {
@@ -387,5 +405,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbb.gif",
     "uri": "https://jisho.org/search/%E8%B2%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "bí",
+    "bỉ",
+    "phí",
+    "phất",
+    "phỉ"
+  ]
 }

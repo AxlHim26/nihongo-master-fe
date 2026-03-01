@@ -356,44 +356,68 @@
       {
         "example": "方",
         "reading": "ホウ",
-        "meaning": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square)"
+        "meaning": {
+          "vi": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square)"
+        },
+        "romaji": "hou"
       },
       {
         "example": "方言",
         "reading": "ホウゲン",
-        "meaning": "dialect, provincialism"
+        "meaning": {
+          "vi": "dialect, provincialism"
+        },
+        "romaji": "hougen"
       },
       {
         "example": "途方",
         "reading": "トホウ",
-        "meaning": "way, destination, reason"
+        "meaning": {
+          "en": "way, destination, reason"
+        },
+        "romaji": "tohou"
       },
       {
         "example": "右方",
         "reading": "ウホウ",
-        "meaning": "right side, style of Japanese court music"
+        "meaning": {
+          "vi": "right side, style of Japanese court music"
+        },
+        "romaji": "uhou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "方",
         "reading": "かた",
-        "meaning": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\")"
+        "meaning": {
+          "vi": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\")"
+        },
+        "romaji": "kata"
       },
       {
         "example": "方々",
         "reading": "かたがた",
-        "meaning": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural)"
+        "meaning": {
+          "vi": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural)"
+        },
+        "romaji": "katagata"
       },
       {
         "example": "親方",
         "reading": "おやかた",
-        "meaning": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+        "meaning": {
+          "vi": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+        },
+        "romaji": "oyakata"
       },
       {
         "example": "出方",
         "reading": "でかた",
-        "meaning": "attitude, approach, move, theater usher, theatre usher"
+        "meaning": {
+          "vi": "attitude, approach, move, theater usher, theatre usher"
+        },
+        "romaji": "dekata"
       }
     ],
     "radical": {
@@ -407,5 +431,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65b9.gif",
     "uri": "https://jisho.org/search/%E6%96%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàng",
+    "phương"
+  ]
 }

@@ -348,64 +348,100 @@
       {
         "example": "盛大",
         "reading": "セイダイ",
-        "meaning": "grand, magnificent, lavish, large scale, prosperous, thriving, lively, forceful, powerful, vigorous"
+        "meaning": {
+          "vi": "grand, magnificent, lavish, large scale, prosperous, thriving, lively, forceful, powerful, vigorous"
+        },
+        "romaji": "seidai"
       },
       {
         "example": "盛況",
         "reading": "セイキョウ",
-        "meaning": "success, prosperity, boom"
+        "meaning": {
+          "vi": "success, prosperity, boom"
+        },
+        "romaji": "seikyou"
       },
       {
         "example": "隆盛",
         "reading": "リュウセイ",
-        "meaning": "prosperity, flourishing, thriving"
+        "meaning": {
+          "vi": "prosperity, flourishing, thriving"
+        },
+        "romaji": "ryuusei"
       },
       {
         "example": "士気旺盛",
         "reading": "シキオウセイ",
-        "meaning": "morale being very high, heightened fighting spirit"
+        "meaning": {
+          "vi": "morale being very high, heightened fighting spirit"
+        },
+        "romaji": "shikiousei"
       },
       {
         "example": "盛者",
         "reading": "ショウジャ",
-        "meaning": "prosperous person, powerful person"
+        "meaning": {
+          "vi": "prosperous person, powerful person"
+        },
+        "romaji": "shouja"
       },
       {
         "example": "盛者必衰",
         "reading": "ジョウシャヒッスイ",
-        "meaning": "even the prosperous inevitably decay, sic transit gloria mundi, all that's fair must fade"
+        "meaning": {
+          "vi": "even the prosperous inevitably decay, sic transit gloria mundi, all that's fair must fade"
+        },
+        "romaji": "joushahissui"
       },
       {
         "example": "強盛",
         "reading": "キョウセイ",
-        "meaning": "might, mighty"
+        "meaning": {
+          "en": "might, mighty"
+        },
+        "romaji": "kyousei"
       },
       {
         "example": "熾盛",
         "reading": "シジョウ",
-        "meaning": "vigor (like leaping flames), liveliness"
+        "meaning": {
+          "vi": "vigor (like leaping flames), liveliness"
+        },
+        "romaji": "shijou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "盛る",
         "reading": "もる",
-        "meaning": "to serve (in a bowl, on a plate, etc.), to dish out, to dish up, to fill (a bowl) with, to pile up, to heap up, to fill up, to stack up, to administer (medicine, poison), to dose out, to prescribe, to put into (e.g. information in a report, meaning in a statement), to mark out (e.g. scale), to graduate (e.g. thermometer), to exaggerate, to apply heavy makeup"
+        "meaning": {
+          "vi": "to serve (in a bowl, on a plate, etc.), to dish out, to dish up, to fill (a bowl) with, to pile up, to heap up, to fill up, to stack up, to administer (medicine, poison), to dose out, to prescribe, to put into (e.g. information in a report, meaning in a statement), to mark out (e.g. scale), to graduate (e.g. thermometer), to exaggerate, to apply heavy makeup"
+        },
+        "romaji": "moru"
       },
       {
         "example": "盛る",
         "reading": "さかる",
-        "meaning": "to become vigorous, to gain force, to become more active, to prosper, to thrive, to flourish, to be in heat, to be in rut, to copulate"
+        "meaning": {
+          "vi": "to become vigorous, to gain force, to become more active, to prosper, to thrive, to flourish, to be in heat, to be in rut, to copulate"
+        },
+        "romaji": "sakaru"
       },
       {
         "example": "盛ん",
         "reading": "さかん",
-        "meaning": "prosperous, flourishing, thriving, successful, popular, widespread, active, lively, energetic, vigorous, brisk, strong, enthusiastic, eager, hearty, frequent, repeated"
+        "meaning": {
+          "vi": "prosperous, flourishing, thriving, successful, popular, widespread, active, lively, energetic, vigorous, brisk, strong, enthusiastic, eager, hearty, frequent, repeated"
+        },
+        "romaji": "sakan"
       },
       {
         "example": "盛んな歓迎",
         "reading": "さかんなかんげい",
-        "meaning": "cordial reception"
+        "meaning": {
+          "vi": "cordial reception"
+        },
+        "romaji": "sakannakangei"
       }
     ],
     "radical": {
@@ -421,5 +457,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76db.gif",
     "uri": "https://jisho.org/search/%E7%9B%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thành",
+    "thình",
+    "thạnh",
+    "thịnh"
+  ]
 }

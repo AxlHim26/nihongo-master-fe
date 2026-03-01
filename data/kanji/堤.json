@@ -19,34 +19,52 @@
       {
         "example": "堤防",
         "reading": "テイボウ",
-        "meaning": "bank, weir, embankment, levee"
+        "meaning": {
+          "en": "bank, weir, embankment, levee"
+        },
+        "romaji": "teibou"
       },
       {
         "example": "提出",
         "reading": "テイシュツ",
-        "meaning": "presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in"
+        "meaning": {
+          "vi": "presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in"
+        },
+        "romaji": "teishutsu"
       },
       {
         "example": "突堤",
         "reading": "トッテイ",
-        "meaning": "jetty, breakwater, pier"
+        "meaning": {
+          "vi": "jetty, breakwater, pier"
+        },
+        "romaji": "tottei"
       },
       {
         "example": "神経堤",
         "reading": "シンケイテイ",
-        "meaning": "neural crest"
+        "meaning": {
+          "en": "neural crest"
+        },
+        "romaji": "shinkeitei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "堤",
         "reading": "つつみ",
-        "meaning": "bank, embankment, dike"
+        "meaning": {
+          "en": "bank, embankment, dike"
+        },
+        "romaji": "tsutsumi"
       },
       {
         "example": "堤を築く",
         "reading": "つつみをきずく",
-        "meaning": "to build an embankment"
+        "meaning": {
+          "en": "to build an embankment"
+        },
+        "romaji": "tsutsumiwokizuku"
       }
     ],
     "radical": {
@@ -62,5 +80,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05824.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5824.gif",
     "uri": "https://jisho.org/search/%E5%A0%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "đê",
+    "đề"
+  ]
 }

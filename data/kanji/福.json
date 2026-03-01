@@ -295,22 +295,34 @@
       {
         "example": "福",
         "reading": "フク",
-        "meaning": "good fortune, happiness, blessing, good luck"
+        "meaning": {
+          "vi": "good fortune, happiness, blessing, good luck"
+        },
+        "romaji": "fuku"
       },
       {
         "example": "福祉",
         "reading": "フクシ",
-        "meaning": "welfare, well-being, social welfare, social security, social service"
+        "meaning": {
+          "en": "welfare, well-being, social welfare, social security, social service"
+        },
+        "romaji": "fukushi"
       },
       {
         "example": "大福",
         "reading": "ダイフク",
-        "meaning": "great fortune, good luck, rice cake stuffed with bean jam"
+        "meaning": {
+          "en": "great fortune, good luck, rice cake stuffed with bean jam"
+        },
+        "romaji": "daifuku"
       },
       {
         "example": "慶福",
         "reading": "ケイフク",
-        "meaning": "happy event, happiness"
+        "meaning": {
+          "vi": "happy event, happiness"
+        },
+        "romaji": "keifuku"
       }
     ],
     "kunyomiExamples": [],
@@ -331,5 +343,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0798f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/798f.gif",
     "uri": "https://jisho.org/search/%E7%A6%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "phúc"
+  ]
 }

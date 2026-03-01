@@ -19,34 +19,52 @@
       {
         "example": "匠",
         "reading": "ショウ",
-        "meaning": "craftsman, artisan, carpenter, (skilled) workman"
+        "meaning": {
+          "vi": "craftsman, artisan, carpenter, (skilled) workman"
+        },
+        "romaji": "shou"
       },
       {
         "example": "匠気",
         "reading": "ショウキ",
-        "meaning": "affectation, desire to be impressive"
+        "meaning": {
+          "vi": "affectation, desire to be impressive"
+        },
+        "romaji": "shouki"
       },
       {
         "example": "師匠",
         "reading": "シショウ",
-        "meaning": "master, teacher, stable master"
+        "meaning": {
+          "en": "master, teacher, stable master"
+        },
+        "romaji": "shishou"
       },
       {
         "example": "意匠",
         "reading": "イショウ",
-        "meaning": "design, idea, conception, plan"
+        "meaning": {
+          "vi": "design, idea, conception, plan"
+        },
+        "romaji": "ishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "匠",
         "reading": "たくみ",
-        "meaning": "craftsman, artisan, workman, carpenter, craft, craftsmanship, skill, dexterity, design, plot, scheme, artifice, trick"
+        "meaning": {
+          "vi": "craftsman, artisan, workman, carpenter, craft, craftsmanship, skill, dexterity, design, plot, scheme, artifice, trick"
+        },
+        "romaji": "takumi"
       },
       {
         "example": "飛騨の匠",
         "reading": "ひだのたくみ",
-        "meaning": "system whereby the Hida region provided the central government 10 carpenters per village in place of taxes"
+        "meaning": {
+          "vi": "system whereby the Hida region provided the central government 10 carpenters per village in place of taxes"
+        },
+        "romaji": "hidanotakumi"
       }
     ],
     "radical": {
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05320.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5320.gif",
     "uri": "https://jisho.org/search/%E5%8C%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tượng"
+  ]
 }

@@ -19,44 +19,68 @@
       {
         "example": "肝硬変",
         "reading": "カンコウヘン",
-        "meaning": "xơ gan"
+        "meaning": {
+          "vi": "xơ gan"
+        },
+        "romaji": "kankouhen"
       },
       {
         "example": "肝炎",
         "reading": "カンエン",
-        "meaning": "viêm gan"
+        "meaning": {
+          "vi": "viêm gan"
+        },
+        "romaji": "kan'en"
       },
       {
         "example": "肺肝",
         "reading": "ハイカン",
-        "meaning": "phổi và gan, đáy lòng"
+        "meaning": {
+          "vi": "phổi và gan, đáy lòng"
+        },
+        "romaji": "haikan"
       },
       {
         "example": "脂肪肝",
         "reading": "シボウカン",
-        "meaning": "gan nhiễm mỡ"
+        "meaning": {
+          "vi": "gan nhiễm mỡ"
+        },
+        "romaji": "shiboukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肝",
         "reading": "きも",
-        "meaning": "gan, nội tạng, can đảm, điểm then chốt"
+        "meaning": {
+          "vi": "gan, nội tạng, can đảm, điểm then chốt"
+        },
+        "romaji": "kimo"
       },
       {
         "example": "肝いり",
         "reading": "きもいり",
-        "meaning": "bảo trợ, giúp đỡ, quan làng (thời Edo)"
+        "meaning": {
+          "vi": "bảo trợ, giúp đỡ, quan làng (thời Edo)"
+        },
+        "romaji": "kimoiri"
       },
       {
         "example": "群肝",
         "reading": "むらぎも",
-        "meaning": "nội tạng"
+        "meaning": {
+          "vi": "nội tạng"
+        },
+        "romaji": "muragimo"
       },
       {
         "example": "あん肝",
         "reading": "あんきも",
-        "meaning": "gan cá lưỡi trâu"
+        "meaning": {
+          "vi": "gan cá lưỡi trâu"
+        },
+        "romaji": "ankimo"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809d.gif",
     "uri": "https://jisho.org/search/%E8%82%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "can"
+  ]
 }

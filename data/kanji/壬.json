@@ -19,24 +19,36 @@
       {
         "example": "壬",
         "reading": "ジン",
-        "meaning": "9th in rank, ninth sign of the Chinese calendar"
+        "meaning": {
+          "en": "9th in rank, ninth sign of the Chinese calendar"
+        },
+        "romaji": "jin"
       },
       {
         "example": "壬寅",
         "reading": "ミズノエトラ",
-        "meaning": "Water Tiger (39th term of the sexagenary cycle, e.g. 1962, 2022, 2082)"
+        "meaning": {
+          "en": "Water Tiger (39th term of the sexagenary cycle, e.g. 1962, 2022, 2082)"
+        },
+        "romaji": "mizunoetora"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "壬",
         "reading": "じん",
-        "meaning": "9th in rank, ninth sign of the Chinese calendar"
+        "meaning": {
+          "en": "9th in rank, ninth sign of the Chinese calendar"
+        },
+        "romaji": "jin"
       },
       {
         "example": "壬戌",
         "reading": "みずのえいぬ",
-        "meaning": "Water Dog (59th term of the sexagenary cycle, e.g. 1922, 1982, 2042)"
+        "meaning": {
+          "en": "Water Dog (59th term of the sexagenary cycle, e.g. 1922, 1982, 2042)"
+        },
+        "romaji": "mizunoeinu"
       }
     ],
     "radical": {
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ec.gif",
     "uri": "https://jisho.org/search/%E5%A3%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhâm",
+    "nhậm"
+  ]
 }

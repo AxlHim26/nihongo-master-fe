@@ -289,29 +289,44 @@
       {
         "example": "健康食品",
         "reading": "ケンコウショクヒン",
-        "meaning": "health foods"
+        "meaning": {
+          "en": "health foods"
+        },
+        "romaji": "kenkoushokuhin"
       },
       {
         "example": "健康",
         "reading": "ケンコウ",
-        "meaning": "health, healthy, sound, fit, wholesome"
+        "meaning": {
+          "en": "health, healthy, sound, fit, wholesome"
+        },
+        "romaji": "kenkou"
       },
       {
         "example": "豪健",
         "reading": "ゴウケン",
-        "meaning": "hardy, sturdy, robust"
+        "meaning": {
+          "en": "hardy, sturdy, robust"
+        },
+        "romaji": "gouken"
       },
       {
         "example": "質実剛健",
         "reading": "シツジツゴウケン",
-        "meaning": "unaffected and sincere, with fortitude and vigor (vigour)"
+        "meaning": {
+          "en": "unaffected and sincere, with fortitude and vigor (vigour)"
+        },
+        "romaji": "shitsujitsugouken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "健やか",
         "reading": "すこやか",
-        "meaning": "vigorous, healthy, sound"
+        "meaning": {
+          "en": "vigorous, healthy, sound"
+        },
+        "romaji": "sukoyaka"
       }
     ],
     "radical": {
@@ -330,5 +345,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05065.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5065.gif",
     "uri": "https://jisho.org/search/%E5%81%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiện"
+  ]
 }

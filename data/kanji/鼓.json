@@ -19,39 +19,60 @@
       {
         "example": "鼓舞",
         "reading": "コブ",
-        "meaning": "sự khích lệ, cảm hứng, kích động, nâng cao (tinh thần)"
+        "meaning": {
+          "vi": "sự khích lệ, cảm hứng, kích động, nâng cao (tinh thần)"
+        },
+        "romaji": "kobu"
       },
       {
         "example": "鼓動",
         "reading": "コドウ",
-        "meaning": "nhịp đập, hồi hộp, mạch đập"
+        "meaning": {
+          "vi": "nhịp đập, hồi hộp, mạch đập"
+        },
+        "romaji": "kodou"
       },
       {
         "example": "大太鼓",
         "reading": "オオダイコ",
-        "meaning": "trống lớn, trống bass"
+        "meaning": {
+          "vi": "trống lớn, trống bass"
+        },
+        "romaji": "oodaiko"
       },
       {
         "example": "御太鼓",
         "reading": "オタイコ",
-        "meaning": "cách thắt obi kimono phổ biến của phụ nữ"
+        "meaning": {
+          "vi": "cách thắt obi kimono phổ biến của phụ nữ"
+        },
+        "romaji": "otaiko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鼓",
         "reading": "つづみ",
-        "meaning": "trống tay"
+        "meaning": {
+          "vi": "trống tay"
+        },
+        "romaji": "tsuzumi"
       },
       {
         "example": "舌鼓",
         "reading": "したつづみ",
-        "meaning": "chép miệng (khi ăn ngon)"
+        "meaning": {
+          "vi": "chép miệng (khi ăn ngon)"
+        },
+        "romaji": "shitatsuzumi"
       },
       {
         "example": "大鼓",
         "reading": "おおつづみ",
-        "meaning": "trống tay lớn"
+        "meaning": {
+          "vi": "trống tay lớn"
+        },
+        "romaji": "ootsuzumi"
       }
     ],
     "radical": {
@@ -72,5 +93,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f13.gif",
     "uri": "https://jisho.org/search/%E9%BC%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "cổ"
+  ]
 }

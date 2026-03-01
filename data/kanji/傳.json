@@ -20,22 +20,34 @@
       {
         "example": "伝承",
         "reading": "デンショウ",
-        "meaning": "handing down (information), legend, tradition, folklore, transmission"
+        "meaning": {
+          "en": "handing down (information), legend, tradition, folklore, transmission"
+        },
+        "romaji": "denshou"
       },
       {
         "example": "伝播",
         "reading": "デンパ",
-        "meaning": "transmission, propagation, spread, circulation, diffusion, dissemination"
+        "meaning": {
+          "vi": "transmission, propagation, spread, circulation, diffusion, dissemination"
+        },
+        "romaji": "denpa"
       },
       {
         "example": "先哲像伝",
         "reading": "センテツゾウデン",
-        "meaning": "pictures of ancient wise men (name of a book)"
+        "meaning": {
+          "vi": "pictures of ancient wise men (name of a book)"
+        },
+        "romaji": "sentetsuzouden"
       },
       {
         "example": "先哲像伝",
         "reading": "センテツゾウデン",
-        "meaning": "Pictures of Ancient Wise Men"
+        "meaning": {
+          "vi": "Pictures of Ancient Wise Men"
+        },
+        "romaji": "sentetsuzouden"
       }
     ],
     "kunyomiExamples": [],
@@ -57,5 +69,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b3.gif",
     "uri": "https://jisho.org/search/%E5%82%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "truyến",
+    "truyền",
+    "truyện"
+  ]
 }

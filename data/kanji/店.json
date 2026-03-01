@@ -359,59 +359,92 @@
       {
         "example": "店",
         "reading": "テン",
-        "meaning": "store, shop, restaurant"
+        "meaning": {
+          "vi": "store, shop, restaurant"
+        },
+        "romaji": "ten"
       },
       {
         "example": "店員",
         "reading": "テンイン",
-        "meaning": "employee (of a store), shop assistant, clerk, salesperson"
+        "meaning": {
+          "vi": "employee (of a store), shop assistant, clerk, salesperson"
+        },
+        "romaji": "ten'in"
       },
       {
         "example": "酒店",
         "reading": "サカダナ",
-        "meaning": "liquor store, off-licence, bottle shop, hotel (in China)"
+        "meaning": {
+          "vi": "liquor store, off-licence, bottle shop, hotel (in China)"
+        },
+        "romaji": "sakadana"
       },
       {
         "example": "同店",
         "reading": "ドウテン",
-        "meaning": "the same store, the same shop"
+        "meaning": {
+          "vi": "the same store, the same shop"
+        },
+        "romaji": "douten"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "店",
         "reading": "みせ",
-        "meaning": "store, shop, establishment, restaurant"
+        "meaning": {
+          "vi": "store, shop, establishment, restaurant"
+        },
+        "romaji": "mise"
       },
       {
         "example": "店先",
         "reading": "みせさき",
-        "meaning": "storefront, shopfront"
+        "meaning": {
+          "vi": "storefront, shopfront"
+        },
+        "romaji": "misesaki"
       },
       {
         "example": "酒店",
         "reading": "さかだな",
-        "meaning": "liquor store, off-licence, bottle shop, hotel (in China)"
+        "meaning": {
+          "vi": "liquor store, off-licence, bottle shop, hotel (in China)"
+        },
+        "romaji": "sakadana"
       },
       {
         "example": "茶店",
         "reading": "さてん",
-        "meaning": "tea house"
+        "meaning": {
+          "en": "tea house"
+        },
+        "romaji": "saten"
       },
       {
         "example": "店",
         "reading": "たな",
-        "meaning": "merchant's home, rented home, store, shop"
+        "meaning": {
+          "vi": "merchant's home, rented home, store, shop"
+        },
+        "romaji": "tana"
       },
       {
         "example": "店子",
         "reading": "たなこ",
-        "meaning": "tenant (esp. in contrast to a landlord), renter"
+        "meaning": {
+          "vi": "tenant (esp. in contrast to a landlord), renter"
+        },
+        "romaji": "tanako"
       },
       {
         "example": "お店",
         "reading": "おたな",
-        "meaning": "merchant's home (esp. used by apprentices, etc.), (your) rental home"
+        "meaning": {
+          "vi": "merchant's home (esp. used by apprentices, etc.), (your) rental home"
+        },
+        "romaji": "otana"
       }
     ],
     "radical": {
@@ -427,5 +460,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e97.gif",
     "uri": "https://jisho.org/search/%E5%BA%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "điếm"
+  ]
 }

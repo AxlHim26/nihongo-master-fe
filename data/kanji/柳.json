@@ -19,44 +19,68 @@
       {
         "example": "柳",
         "reading": "リュウ",
-        "meaning": "Chinese \"Willow\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Willow\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "柳暗花明",
         "reading": "リュウアンカメイ",
-        "meaning": "beautiful scenery of spring, red-light district"
+        "meaning": {
+          "vi": "beautiful scenery of spring, red-light district"
+        },
+        "romaji": "ryuuankamei"
       },
       {
         "example": "川柳",
         "reading": "センリュウ",
-        "meaning": "senryū, comic haiku, humorous seventeen-mora poem"
+        "meaning": {
+          "vi": "senryū, comic haiku, humorous seventeen-mora poem"
+        },
+        "romaji": "senryuu"
       },
       {
         "example": "花柳",
         "reading": "カリュウ",
-        "meaning": "red-light district"
+        "meaning": {
+          "en": "red-light district"
+        },
+        "romaji": "karyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柳",
         "reading": "やなぎ",
-        "meaning": "willow (any tree of genus Salix), weeping willow (Salix babylonica)"
+        "meaning": {
+          "vi": "willow (any tree of genus Salix), weeping willow (Salix babylonica)"
+        },
+        "romaji": "yanagi"
       },
       {
         "example": "柳刃包丁",
         "reading": "やなぎばぼうちょう",
-        "meaning": "kitchen knife for sashimi"
+        "meaning": {
+          "en": "kitchen knife for sashimi"
+        },
+        "romaji": "yanagibabouchou"
       },
       {
         "example": "青柳",
         "reading": "あおやぎ",
-        "meaning": "green willow (i.e. one that has budded), meat of the trough shell (Mactra chinensis)"
+        "meaning": {
+          "en": "green willow (i.e. one that has budded), meat of the trough shell (Mactra chinensis)"
+        },
+        "romaji": "aoyagi"
       },
       {
         "example": "化粧柳",
         "reading": "けしょうやなぎ",
-        "meaning": "chosenia (Chosenia arbutifolia)"
+        "meaning": {
+          "en": "chosenia (Chosenia arbutifolia)"
+        },
+        "romaji": "keshouyanagi"
       }
     ],
     "radical": {
@@ -71,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f3.gif",
     "uri": "https://jisho.org/search/%E6%9F%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "liễu"
+  ]
 }

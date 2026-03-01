@@ -19,29 +19,44 @@
       {
         "example": "閲",
         "reading": "エツ",
-        "meaning": "inspection (esp. of a document), stamp of approval (for a document)"
+        "meaning": {
+          "vi": "inspection (esp. of a document), stamp of approval (for a document)"
+        },
+        "romaji": "etsu"
       },
       {
         "example": "閲覧",
         "reading": "エツラン",
-        "meaning": "inspection, reading, perusal, browsing (the web)"
+        "meaning": {
+          "vi": "inspection, reading, perusal, browsing (the web)"
+        },
+        "romaji": "etsuran"
       },
       {
         "example": "観閲",
         "reading": "カンエツ",
-        "meaning": "inspection (of troops)"
+        "meaning": {
+          "vi": "inspection (of troops)"
+        },
+        "romaji": "kan'etsu"
       },
       {
         "example": "内閲",
         "reading": "ナイエツ",
-        "meaning": "private perusal"
+        "meaning": {
+          "vi": "private perusal"
+        },
+        "romaji": "naietsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "閲する",
         "reading": "えっする",
-        "meaning": "to inspect, to examine, to check, to elapse, to pass (time)"
+        "meaning": {
+          "vi": "to inspect, to examine, to check, to elapse, to pass (time)"
+        },
+        "romaji": "essuru"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95b2.gif",
     "uri": "https://jisho.org/search/%E9%96%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "duyệt"
+  ]
 }

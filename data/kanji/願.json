@@ -345,29 +345,44 @@
       {
         "example": "願",
         "reading": "ガン",
-        "meaning": "prayer, wish, vow"
+        "meaning": {
+          "vi": "prayer, wish, vow"
+        },
+        "romaji": "gan"
       },
       {
         "example": "願書",
         "reading": "ガンショ",
-        "meaning": "(written) application, written request, petition, written prayer for a shrine or Buddhist temple"
+        "meaning": {
+          "vi": "(written) application, written request, petition, written prayer for a shrine or Buddhist temple"
+        },
+        "romaji": "gansho"
       },
       {
         "example": "本願",
         "reading": "ホンガン",
-        "meaning": "Amida Buddha's original vow, long-cherished desire"
+        "meaning": {
+          "en": "Amida Buddha's original vow, long-cherished desire"
+        },
+        "romaji": "hongan"
       },
       {
         "example": "祈願",
         "reading": "キガン",
-        "meaning": "prayer (for something), supplication"
+        "meaning": {
+          "vi": "prayer (for something), supplication"
+        },
+        "romaji": "kigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "願う",
         "reading": "ねがう",
-        "meaning": "to desire, to wish, to hope, to beg, to request, to implore, to pray, to have something done for oneself"
+        "meaning": {
+          "vi": "to desire, to wish, to hope, to beg, to request, to implore, to pray, to have something done for oneself"
+        },
+        "romaji": "negau"
       }
     ],
     "radical": {
@@ -387,5 +402,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09858.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9858.gif",
     "uri": "https://jisho.org/search/%E9%A1%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguyện"
+  ]
 }

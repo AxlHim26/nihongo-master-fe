@@ -16,12 +16,18 @@
       {
         "example": "鉱業",
         "reading": "コウギョウ",
-        "meaning": "mining industry"
+        "meaning": {
+          "en": "mining industry"
+        },
+        "romaji": "kougyou"
       },
       {
         "example": "鉱石",
         "reading": "コウセキ",
-        "meaning": "ore, mineral, crystal"
+        "meaning": {
+          "en": "ore, mineral, crystal"
+        },
+        "romaji": "kouseki"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07926.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7926.gif",
     "uri": "https://jisho.org/search/%E7%A4%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoáng",
+    "quáng"
+  ]
 }

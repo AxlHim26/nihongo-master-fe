@@ -20,17 +20,26 @@
       {
         "example": "掟",
         "reading": "おきて",
-        "meaning": "law, regulation, rule, code, agreement, arrangement, compact"
+        "meaning": {
+          "vi": "law, regulation, rule, code, agreement, arrangement, compact"
+        },
+        "romaji": "okite"
       },
       {
         "example": "おきて破り",
         "reading": "おきてやぶり",
-        "meaning": "against the rules, breaking etiquette, illegal"
+        "meaning": {
+          "en": "against the rules, breaking etiquette, illegal"
+        },
+        "romaji": "okiteyaburi"
       },
       {
         "example": "村掟",
         "reading": "むらおきて",
-        "meaning": "village rules (Edo period), village law"
+        "meaning": {
+          "vi": "village rules (Edo period), village law"
+        },
+        "romaji": "muraokite"
       }
     ],
     "radical": {
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0639f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/639f.gif",
     "uri": "https://jisho.org/search/%E6%8E%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "định"
+  ]
 }

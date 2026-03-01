@@ -17,22 +17,34 @@
       {
         "example": "佳",
         "reading": "カ",
-        "meaning": "beautiful, good, excellent"
+        "meaning": {
+          "en": "beautiful, good, excellent"
+        },
+        "romaji": "ka"
       },
       {
         "example": "佳作",
         "reading": "カサク",
-        "meaning": "fine (piece of) work, excellent work, work that receives an honourable mention"
+        "meaning": {
+          "vi": "fine (piece of) work, excellent work, work that receives an honourable mention"
+        },
+        "romaji": "kasaku"
       },
       {
         "example": "絶佳",
         "reading": "ゼッカ",
-        "meaning": "superb (view, landscape)"
+        "meaning": {
+          "vi": "superb (view, landscape)"
+        },
+        "romaji": "zekka"
       },
       {
         "example": "風光絶佳",
         "reading": "フウコウゼッカ",
-        "meaning": "scenic beauty"
+        "meaning": {
+          "en": "scenic beauty"
+        },
+        "romaji": "fuukouzekka"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f73.gif",
     "uri": "https://jisho.org/search/%E4%BD%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "giai"
+  ]
 }

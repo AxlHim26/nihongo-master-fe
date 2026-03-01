@@ -257,29 +257,44 @@
       {
         "example": "貯水",
         "reading": "チョスイ",
-        "meaning": "storage of water"
+        "meaning": {
+          "en": "storage of water"
+        },
+        "romaji": "chosui"
       },
       {
         "example": "貯金",
         "reading": "チョキン",
-        "meaning": "putting money aside, savings, deposit (e.g. in a bank), accumulated surplus of wins, wins in the bank"
+        "meaning": {
+          "vi": "putting money aside, savings, deposit (e.g. in a bank), accumulated surplus of wins, wins in the bank"
+        },
+        "romaji": "chokin"
       },
       {
         "example": "郵貯",
         "reading": "ユウチョ",
-        "meaning": "postal (post-office) savings (deposit)"
+        "meaning": {
+          "vi": "postal (post-office) savings (deposit)"
+        },
+        "romaji": "yuucho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貯める",
         "reading": "ためる",
-        "meaning": "to save up (money)"
+        "meaning": {
+          "vi": "to save up (money)"
+        },
+        "romaji": "tameru"
       },
       {
         "example": "蓄える",
         "reading": "たくわえる",
-        "meaning": "to store, to save up, to stock up on, to lay in stock, to set aside, to accumulate (e.g. knowledge), to build up (e.g. experience), to develop (e.g. one's skills), to grow (a beard, moustache, etc.), to wear"
+        "meaning": {
+          "vi": "to store, to save up, to stock up on, to lay in stock, to set aside, to accumulate (e.g. knowledge), to build up (e.g. experience), to develop (e.g. one's skills), to grow (a beard, moustache, etc.), to wear"
+        },
+        "romaji": "takuwaeru"
       }
     ],
     "radical": {
@@ -298,5 +313,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08caf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8caf.gif",
     "uri": "https://jisho.org/search/%E8%B2%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "trữ"
+  ]
 }

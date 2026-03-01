@@ -319,64 +319,100 @@
       {
         "example": "氷柱",
         "reading": "ツララ",
-        "meaning": "icicle, ice pillar (for cooling a room), ice"
+        "meaning": {
+          "vi": "icicle, ice pillar (for cooling a room), ice"
+        },
+        "romaji": "tsurara"
       },
       {
         "example": "氷山",
         "reading": "ヒョウザン",
-        "meaning": "iceberg"
+        "meaning": {
+          "en": "iceberg"
+        },
+        "romaji": "hyouzan"
       },
       {
         "example": "海氷",
         "reading": "カイヒョウ",
-        "meaning": "sea ice"
+        "meaning": {
+          "en": "sea ice"
+        },
+        "romaji": "kaihyou"
       },
       {
         "example": "解氷",
         "reading": "カイヒョウ",
-        "meaning": "thawing (of rivers, lakes, etc.), thaw"
+        "meaning": {
+          "en": "thawing (of rivers, lakes, etc.), thaw"
+        },
+        "romaji": "kaihyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "氷",
         "reading": "こおり",
-        "meaning": "ice, shaved ice (usually served with flavored simple syrup)"
+        "meaning": {
+          "vi": "ice, shaved ice (usually served with flavored simple syrup)"
+        },
+        "romaji": "koori"
       },
       {
         "example": "氷水",
         "reading": "こおりみず",
-        "meaning": "ice water, shaved ice (usually served with flavored simple syrup)"
+        "meaning": {
+          "vi": "ice water, shaved ice (usually served with flavored simple syrup)"
+        },
+        "romaji": "koorimizu"
       },
       {
         "example": "人造氷",
         "reading": "じんぞうこおり",
-        "meaning": "artificial ice"
+        "meaning": {
+          "en": "artificial ice"
+        },
+        "romaji": "jinzoukoori"
       },
       {
         "example": "雪氷",
         "reading": "せっぴょう",
-        "meaning": "snow and ice, snow ice, frozen snow"
+        "meaning": {
+          "en": "snow and ice, snow ice, frozen snow"
+        },
+        "romaji": "seppyou"
       },
       {
         "example": "氷",
         "reading": "ひ",
-        "meaning": "ice, hail"
+        "meaning": {
+          "en": "ice, hail"
+        },
+        "romaji": "hi"
       },
       {
         "example": "氷柱",
         "reading": "つらら",
-        "meaning": "icicle, ice pillar (for cooling a room), ice"
+        "meaning": {
+          "vi": "icicle, ice pillar (for cooling a room), ice"
+        },
+        "romaji": "tsurara"
       },
       {
         "example": "薄ら氷",
         "reading": "うすらひ",
-        "meaning": "thin ice"
+        "meaning": {
+          "en": "thin ice"
+        },
+        "romaji": "usurahi"
       },
       {
         "example": "凍る",
         "reading": "こおる",
-        "meaning": "to freeze, to become frozen, to freeze over"
+        "meaning": {
+          "en": "to freeze, to become frozen, to freeze over"
+        },
+        "romaji": "kooru"
       }
     ],
     "radical": {
@@ -395,5 +431,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c37.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c37.gif",
     "uri": "https://jisho.org/search/%E6%B0%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "băng"
+  ]
 }

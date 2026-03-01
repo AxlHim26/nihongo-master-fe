@@ -18,22 +18,34 @@
       {
         "example": "贅",
         "reading": "ゼイ",
-        "meaning": "extravagance, luxury"
+        "meaning": {
+          "en": "extravagance, luxury"
+        },
+        "romaji": "zei"
       },
       {
         "example": "贅沢",
         "reading": "ゼイタク",
-        "meaning": "luxury, extravagance, to live in luxury, to indulge oneself, lavish (use of something), abundant, copious, wasteful, excessive (e.g. demands, expectations)"
+        "meaning": {
+          "vi": "luxury, extravagance, to live in luxury, to indulge oneself, lavish (use of something), abundant, copious, wasteful, excessive (e.g. demands, expectations)"
+        },
+        "romaji": "zeitaku"
       },
       {
         "example": "疣贅",
         "reading": "ユウゼイ",
-        "meaning": "wart, verruca"
+        "meaning": {
+          "en": "wart, verruca"
+        },
+        "romaji": "yuuzei"
       },
       {
         "example": "足底疣贅",
         "reading": "ソクテイユウゼイ",
-        "meaning": "plantar wart"
+        "meaning": {
+          "vi": "plantar wart"
+        },
+        "romaji": "sokuteiyuuzei"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d05.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d05.gif",
     "uri": "https://jisho.org/search/%E8%B4%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuế"
+  ]
 }

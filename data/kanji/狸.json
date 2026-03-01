@@ -18,29 +18,42 @@
       {
         "example": "海狸",
         "reading": "カイリ",
-        "meaning": "hải ly"
+        "meaning": {
+          "vi": "hải ly"
+        },
+        "romaji": "kairi"
       },
       {
         "example": "狐狗狸",
         "reading": "コックリ",
-        "meaning": "kokkuri, kỹ thuật bói toán tương tự cầu cơ"
+        "meaning": {
+          "vi": "kokkuri, kỹ thuật bói toán tương tự cầu cơ"
+        },
+        "romaji": "kokkuri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "狸",
         "reading": "たぬき",
-        "meaning": "chó sói đồng (tanuki), chó tinh ranh, người xảo quyệt"
+        "meaning": {
+          "vi": "chó sói đồng (tanuki), chó tinh ranh, người xảo quyệt"
+        },
+        "romaji": "tanuki"
       },
       {
         "example": "【タヌキアヤメ】",
         "reading": "wooly frogsmouth (Philydrum lanuginosum), wooly waterlily",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "wooly frogsmouth (Philydrum lanuginosum), wooly waterlily"
       },
       {
         "example": "同じ穴の狸",
         "reading": "おなじあなのたぬき",
-        "meaning": "(kẻ xấu) cùng một giuộc, một giuộc với nhau"
+        "meaning": {
+          "vi": "(kẻ xấu) cùng một giuộc, một giuộc với nhau"
+        },
+        "romaji": "onajiananotanuki"
       }
     ],
     "radical": {
@@ -58,5 +71,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72f8.gif",
     "uri": "https://jisho.org/search/%E7%8B%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "li",
+    "ly",
+    "uất"
+  ]
 }

@@ -325,54 +325,84 @@
       {
         "example": "元",
         "reading": "ゲン",
-        "meaning": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty"
+        "meaning": {
+          "en": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty"
+        },
+        "romaji": "gen"
       },
       {
         "example": "原価",
         "reading": "ゲンカ",
-        "meaning": "cost price"
+        "meaning": {
+          "vi": "cost price"
+        },
+        "romaji": "genka"
       },
       {
         "example": "中元",
         "reading": "チュウゲン",
-        "meaning": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts"
+        "meaning": {
+          "en": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts"
+        },
+        "romaji": "chuugen"
       },
       {
         "example": "抗原",
         "reading": "コウゲン",
-        "meaning": "antigen"
+        "meaning": {
+          "en": "antigen"
+        },
+        "romaji": "kougen"
       },
       {
         "example": "元祖",
         "reading": "ガンソ",
-        "meaning": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line"
+        "meaning": {
+          "vi": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line"
+        },
+        "romaji": "ganso"
       },
       {
         "example": "元日",
         "reading": "ガンジツ",
-        "meaning": "New Year's Day"
+        "meaning": {
+          "en": "New Year's Day"
+        },
+        "romaji": "ganjitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        "meaning": {
+          "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+        },
+        "romaji": "moto"
       },
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        "meaning": {
+          "vi": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+        },
+        "romaji": "moto"
       },
       {
         "example": "家元",
         "reading": "いえもと",
-        "meaning": "head of a school (of music, dance), head family of a school"
+        "meaning": {
+          "en": "head of a school (of music, dance), head family of a school"
+        },
+        "romaji": "iemoto"
       },
       {
         "example": "大本",
         "reading": "おおもと",
-        "meaning": "root, origin, source, cause, basis, foundation, Ōmoto (religion)"
+        "meaning": {
+          "en": "root, origin, source, cause, basis, foundation, Ōmoto (religion)"
+        },
+        "romaji": "oomoto"
       }
     ],
     "radical": {
@@ -388,5 +418,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05143.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5143.gif",
     "uri": "https://jisho.org/search/%E5%85%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguyên"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "渓谷",
         "reading": "ケイコク",
-        "meaning": "valley (with a river running through it), gorge, ravine, canyon"
+        "meaning": {
+          "en": "valley (with a river running through it), gorge, ravine, canyon"
+        },
+        "romaji": "keikoku"
       },
       {
         "example": "渓間",
         "reading": "ケイカン",
-        "meaning": "ravine"
+        "meaning": {
+          "en": "ravine"
+        },
+        "romaji": "keikan"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eaa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eaa.gif",
     "uri": "https://jisho.org/search/%E6%BA%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoát",
+    "khê"
+  ]
 }

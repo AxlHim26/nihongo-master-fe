@@ -20,44 +20,68 @@
       {
         "example": "謡曲",
         "reading": "ヨウキョク",
-        "meaning": "noh song"
+        "meaning": {
+          "en": "noh song"
+        },
+        "romaji": "youkyoku"
       },
       {
         "example": "民謡",
         "reading": "ミンヨウ",
-        "meaning": "folk song, popular song"
+        "meaning": {
+          "vi": "folk song, popular song"
+        },
+        "romaji": "min'you"
       },
       {
         "example": "歌謡",
         "reading": "カヨウ",
-        "meaning": "song, ballad"
+        "meaning": {
+          "en": "song, ballad"
+        },
+        "romaji": "kayou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謡",
         "reading": "うたい",
-        "meaning": "noh chanting, noh chant"
+        "meaning": {
+          "en": "noh chanting, noh chant"
+        },
+        "romaji": "utai"
       },
       {
         "example": "謡物",
         "reading": "うたいもの",
-        "meaning": "utai (noh chant) piece for recitation"
+        "meaning": {
+          "vi": "utai (noh chant) piece for recitation"
+        },
+        "romaji": "utaimono"
       },
       {
         "example": "地謡",
         "reading": "じうたい",
-        "meaning": "noh chorus"
+        "meaning": {
+          "en": "noh chorus"
+        },
+        "romaji": "jiutai"
       },
       {
         "example": "素謡",
         "reading": "すうたい",
-        "meaning": "bare noh chanting, vocal-only noh theater performance, with no dancing or instruments, unaccompanied utai"
+        "meaning": {
+          "vi": "bare noh chanting, vocal-only noh theater performance, with no dancing or instruments, unaccompanied utai"
+        },
+        "romaji": "suutai"
       },
       {
         "example": "謡う",
         "reading": "うたう",
-        "meaning": "to chant (a noh text)"
+        "meaning": {
+          "en": "to chant (a noh text)"
+        },
+        "romaji": "utau"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b21.gif",
     "uri": "https://jisho.org/search/%E8%AC%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao"
+  ]
 }

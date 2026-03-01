@@ -362,44 +362,68 @@
       {
         "example": "顔",
         "reading": "カオ",
-        "meaning": "face, visage, look, expression, countenance, honor, honour, face, influence, notoriety"
+        "meaning": {
+          "vi": "face, visage, look, expression, countenance, honor, honour, face, influence, notoriety"
+        },
+        "romaji": "kao"
       },
       {
         "example": "顔色",
         "reading": "カオイロ",
-        "meaning": "complexion, one's colour, one's color, countenance, expression, one's face"
+        "meaning": {
+          "vi": "complexion, one's colour, one's color, countenance, expression, one's face"
+        },
+        "romaji": "kaoiro"
       },
       {
         "example": "美顔",
         "reading": "ビガン",
-        "meaning": "beautiful face, facial care, facial treatment"
+        "meaning": {
+          "en": "beautiful face, facial care, facial treatment"
+        },
+        "romaji": "bigan"
       },
       {
         "example": "童顔",
         "reading": "ドウガン",
-        "meaning": "child's face, childlike face, boyish face, baby face"
+        "meaning": {
+          "en": "child's face, childlike face, boyish face, baby face"
+        },
+        "romaji": "dougan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "顔",
         "reading": "かお",
-        "meaning": "face, visage, look, expression, countenance, honor, honour, face, influence, notoriety"
+        "meaning": {
+          "vi": "face, visage, look, expression, countenance, honor, honour, face, influence, notoriety"
+        },
+        "romaji": "kao"
       },
       {
         "example": "顔合わせ",
         "reading": "かおあわせ",
-        "meaning": "meeting together, introduction, costarring, appearing together, being matched, facing off"
+        "meaning": {
+          "vi": "meeting together, introduction, costarring, appearing together, being matched, facing off"
+        },
+        "romaji": "kaoawase"
       },
       {
         "example": "いい顔",
         "reading": "いいかお",
-        "meaning": "big-shot, influential person, happy face, smiling face, sympathetic attitude, getting along with, being all smiles, good looks, nice face"
+        "meaning": {
+          "vi": "big-shot, influential person, happy face, smiling face, sympathetic attitude, getting along with, being all smiles, good looks, nice face"
+        },
+        "romaji": "iikao"
       },
       {
         "example": "涼しい顔",
         "reading": "すずしいかお",
-        "meaning": "nonchalant air, unruffled air"
+        "meaning": {
+          "en": "nonchalant air, unruffled air"
+        },
+        "romaji": "suzushiikao"
       }
     ],
     "radical": {
@@ -420,5 +444,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09854.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9854.gif",
     "uri": "https://jisho.org/search/%E9%A1%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhan"
+  ]
 }

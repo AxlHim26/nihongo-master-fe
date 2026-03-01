@@ -300,44 +300,68 @@
       {
         "example": "囲碁",
         "reading": "イゴ",
-        "meaning": "go (board game)"
+        "meaning": {
+          "en": "go (board game)"
+        },
+        "romaji": "igo"
       },
       {
         "example": "囲郭村",
         "reading": "イカクソン",
-        "meaning": "walled settlement, walled town"
+        "meaning": {
+          "en": "walled settlement, walled town"
+        },
+        "romaji": "ikakuson"
       },
       {
         "example": "解囲",
         "reading": "カイイ",
-        "meaning": "breaking the enemy siege"
+        "meaning": {
+          "en": "breaking the enemy siege"
+        },
+        "romaji": "kaii"
       },
       {
         "example": "外囲",
         "reading": "ガイイ",
-        "meaning": "periphery, surroundings"
+        "meaning": {
+          "vi": "periphery, surroundings"
+        },
+        "romaji": "gaii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "囲む",
         "reading": "かこむ",
-        "meaning": "to surround, to encircle, to enclose, to fence, to wall in, to besiege, to lay siege to, to play (go, shogi, etc.)"
+        "meaning": {
+          "vi": "to surround, to encircle, to enclose, to fence, to wall in, to besiege, to lay siege to, to play (go, shogi, etc.)"
+        },
+        "romaji": "kakomu"
       },
       {
         "example": "囲う",
         "reading": "かこう",
-        "meaning": "to enclose, to surround, to encircle, to fence, to wall in, to shelter (e.g. a criminal), to shield, to hide, to protect, to keep (e.g. a mistress), to store (vegetables, fruit, etc.), to preserve, to protect"
+        "meaning": {
+          "vi": "to enclose, to surround, to encircle, to fence, to wall in, to shelter (e.g. a criminal), to shield, to hide, to protect, to keep (e.g. a mistress), to store (vegetables, fruit, etc.), to preserve, to protect"
+        },
+        "romaji": "kakou"
       },
       {
         "example": "囲い",
         "reading": "かこい",
-        "meaning": "enclosure, fence, wall, pen, paling, storage (of fruit, vegetables, etc.), partitioned area of a room for conducting tea ceremonies, mistress, castle, strong defensive position"
+        "meaning": {
+          "vi": "enclosure, fence, wall, pen, paling, storage (of fruit, vegetables, etc.), partitioned area of a room for conducting tea ceremonies, mistress, castle, strong defensive position"
+        },
+        "romaji": "kakoi"
       },
       {
         "example": "囲い女",
         "reading": "かこいおんな",
-        "meaning": "mistress"
+        "meaning": {
+          "en": "mistress"
+        },
+        "romaji": "kakoionna"
       }
     ],
     "radical": {
@@ -352,5 +376,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f2.gif",
     "uri": "https://jisho.org/search/%E5%9B%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "vy"
+  ]
 }

@@ -14,7 +14,10 @@
       {
         "example": "鶺鴒",
         "reading": "セキレイ",
-        "meaning": "chim thuộc họ Chìa vôi (trừ pipit), chim chìa vôi, longclaw"
+        "meaning": {
+          "vi": "chim thuộc họ Chìa vôi (trừ pipit), chim chìa vôi, longclaw"
+        },
+        "romaji": "sekirei"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dba.gif",
     "uri": "https://jisho.org/search/%E9%B6%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích"
+  ]
 }

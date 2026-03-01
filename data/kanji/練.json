@@ -309,39 +309,60 @@
       {
         "example": "練習",
         "reading": "レンシュウ",
-        "meaning": "practice, training, drill, (an) exercise, workout"
+        "meaning": {
+          "vi": "practice, training, drill, (an) exercise, workout"
+        },
+        "romaji": "renshuu"
       },
       {
         "example": "練達",
         "reading": "レンタツ",
-        "meaning": "expert(ise), skill, dexterity"
+        "meaning": {
+          "vi": "expert(ise), skill, dexterity"
+        },
+        "romaji": "rentatsu"
       },
       {
         "example": "修練",
         "reading": "シュウレン",
-        "meaning": "training, drill, practice, practising, discipline"
+        "meaning": {
+          "vi": "training, drill, practice, practising, discipline"
+        },
+        "romaji": "shuuren"
       },
       {
         "example": "水練",
         "reading": "スイレン",
-        "meaning": "swimming practice"
+        "meaning": {
+          "vi": "swimming practice"
+        },
+        "romaji": "suiren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "練る",
         "reading": "ねる",
-        "meaning": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march"
+        "meaning": {
+          "vi": "to knead, to thicken into a paste (stirring over a flame), to polish (a plan, etc.), to refine, to elaborate, to work out, to train, to drill, to exercise, to gloss (silk), to soften, to degum, to tan (leather), to temper (steel), to walk in procession, to parade, to march"
+        },
+        "romaji": "neru"
       },
       {
         "example": "練り",
         "reading": "ねり",
-        "meaning": "kneading, gloss, tempering, paste (e.g. bean paste, mustard paste), parading of portable shrines and floats at festivals"
+        "meaning": {
+          "vi": "kneading, gloss, tempering, paste (e.g. bean paste, mustard paste), parading of portable shrines and floats at festivals"
+        },
+        "romaji": "neri"
       },
       {
         "example": "練り上げる",
         "reading": "ねりあげる",
-        "meaning": "to knead well, to polish, to refine"
+        "meaning": {
+          "vi": "to knead well, to polish, to refine"
+        },
+        "romaji": "neriageru"
       }
     ],
     "radical": {
@@ -365,5 +386,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07df4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7df4.gif",
     "uri": "https://jisho.org/search/%E7%B7%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "luyện"
+  ]
 }

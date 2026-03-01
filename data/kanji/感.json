@@ -417,22 +417,34 @@
       {
         "example": "感",
         "reading": "カン",
-        "meaning": "feeling, sensation, emotion, admiration, impression, interjection"
+        "meaning": {
+          "vi": "feeling, sensation, emotion, admiration, impression, interjection"
+        },
+        "romaji": "kan"
       },
       {
         "example": "感覚",
         "reading": "カンカク",
-        "meaning": "sense, sensation, feeling, intuition"
+        "meaning": {
+          "en": "sense, sensation, feeling, intuition"
+        },
+        "romaji": "kankaku"
       },
       {
         "example": "期待感",
         "reading": "キタイカン",
-        "meaning": "sense of anticipation, feeling of expectation, feeling of hope"
+        "meaning": {
+          "vi": "sense of anticipation, feeling of expectation, feeling of hope"
+        },
+        "romaji": "kitaikan"
       },
       {
         "example": "体感",
         "reading": "タイカン",
-        "meaning": "bodily sensation, sense, experience"
+        "meaning": {
+          "vi": "bodily sensation, sense, experience"
+        },
+        "romaji": "taikan"
       }
     ],
     "kunyomiExamples": [],
@@ -454,5 +466,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611f.gif",
     "uri": "https://jisho.org/search/%E6%84%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảm",
+    "hám"
+  ]
 }

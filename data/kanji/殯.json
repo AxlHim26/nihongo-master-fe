@@ -16,19 +16,28 @@
       {
         "example": "殯宮",
         "reading": "ヒンキュウ",
-        "meaning": "temporary imperial mortuary"
+        "meaning": {
+          "vi": "temporary imperial mortuary"
+        },
+        "romaji": "hinkyuu"
       },
       {
         "example": "殯す",
         "reading": "ヒンス",
-        "meaning": "to place the dead in a coffin and venerate them, to lie in state"
+        "meaning": {
+          "vi": "to place the dead in a coffin and venerate them, to lie in state"
+        },
+        "romaji": "hinsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "殯",
         "reading": "もがり",
-        "meaning": "delayed interment (so that mourners can pay their respects)"
+        "meaning": {
+          "vi": "delayed interment (so that mourners can pay their respects)"
+        },
+        "romaji": "mogari"
       }
     ],
     "radical": {
@@ -51,5 +60,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06baf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6baf.gif",
     "uri": "https://jisho.org/search/%E6%AE%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấn",
+    "tấn",
+    "tẫn"
+  ]
 }

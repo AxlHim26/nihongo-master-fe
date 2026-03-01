@@ -279,49 +279,76 @@
       {
         "example": "鈍",
         "reading": "ドン",
-        "meaning": "dull, slow, stupid, dull-brained"
+        "meaning": {
+          "vi": "dull, slow, stupid, dull-brained"
+        },
+        "romaji": "don"
       },
       {
         "example": "鈍化",
         "reading": "ドンカ",
-        "meaning": "becoming dull, slowing down"
+        "meaning": {
+          "en": "becoming dull, slowing down"
+        },
+        "romaji": "donka"
       },
       {
         "example": "焼鈍",
         "reading": "ショウドン",
-        "meaning": "annealing"
+        "meaning": {
+          "en": "annealing"
+        },
+        "romaji": "shoudon"
       },
       {
         "example": "愚鈍",
         "reading": "グドン",
-        "meaning": "stupid, dim-witted, dense, dull, obtuse, slow"
+        "meaning": {
+          "vi": "stupid, dim-witted, dense, dull, obtuse, slow"
+        },
+        "romaji": "gudon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鈍い",
         "reading": "にぶい",
-        "meaning": "dull (e.g. a knife), blunt, thickheaded, obtuse, stupid, dull (sound, color, etc.), dim (light), slow, sluggish, inert, lethargic, insensitive, dull (e.g. reflexes), unperceptive, unfeeling"
+        "meaning": {
+          "vi": "dull (e.g. a knife), blunt, thickheaded, obtuse, stupid, dull (sound, color, etc.), dim (light), slow, sluggish, inert, lethargic, insensitive, dull (e.g. reflexes), unperceptive, unfeeling"
+        },
+        "romaji": "nibui"
       },
       {
         "example": "鈍い音",
         "reading": "にぶいおと",
-        "meaning": "dull sound, muffled sound"
+        "meaning": {
+          "en": "dull sound, muffled sound"
+        },
+        "romaji": "nibuioto"
       },
       {
         "example": "鈍る",
         "reading": "にぶる",
-        "meaning": "to become blunt, to grow dull, to become less capable, to weaken, to falter"
+        "meaning": {
+          "vi": "to become blunt, to grow dull, to become less capable, to weaken, to falter"
+        },
+        "romaji": "niburu"
       },
       {
         "example": "鈍る",
         "reading": "にぶる",
-        "meaning": "to become blunt, to grow dull, to become less capable, to weaken, to falter"
+        "meaning": {
+          "vi": "to become blunt, to grow dull, to become less capable, to weaken, to falter"
+        },
+        "romaji": "niburu"
       },
       {
         "example": "鈍ら",
         "reading": "なまくら",
-        "meaning": "blunt (e.g. sword), dull, lazy, cowardly, good for nothing"
+        "meaning": {
+          "en": "blunt (e.g. sword), dull, lazy, cowardly, good for nothing"
+        },
+        "romaji": "namakura"
       }
     ],
     "radical": {
@@ -339,5 +366,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0920d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/920d.gif",
     "uri": "https://jisho.org/search/%E9%88%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "độn"
+  ]
 }

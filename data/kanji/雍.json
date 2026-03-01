@@ -18,12 +18,18 @@
       {
         "example": "雍菜",
         "reading": "ヨウサイ",
-        "meaning": "swamp morning glory (Ipomoea aquatica), water spinach, river spinach, kangkong, Chinese spinach, Chinese Watercress, Chinese convolvulus, swamp cabbage"
+        "meaning": {
+          "vi": "swamp morning glory (Ipomoea aquatica), water spinach, river spinach, kangkong, Chinese spinach, Chinese Watercress, Chinese convolvulus, swamp cabbage"
+        },
+        "romaji": "yousai"
       },
       {
         "example": "雍正",
         "reading": "ヨウセイ",
-        "meaning": "Yongzheng era (of emperor Shizong of Qing; 1722-1735)"
+        "meaning": {
+          "vi": "Yongzheng era (of emperor Shizong of Qing; 1722-1735)"
+        },
+        "romaji": "yousei"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96cd.gif",
     "uri": "https://jisho.org/search/%E9%9B%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "ung",
+    "úng",
+    "ủng"
+  ]
 }

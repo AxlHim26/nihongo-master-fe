@@ -18,12 +18,18 @@
       {
         "example": "図",
         "reading": "ズ",
-        "meaning": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene"
+        "meaning": {
+          "vi": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene"
+        },
+        "romaji": "zu"
       },
       {
         "example": "図解",
         "reading": "ズカイ",
-        "meaning": "(explanatory) diagram, illustration"
+        "meaning": {
+          "vi": "(explanatory) diagram, illustration"
+        },
+        "romaji": "zukai"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05716.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5716.gif",
     "uri": "https://jisho.org/search/%E5%9C%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồ"
+  ]
 }

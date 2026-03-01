@@ -358,34 +358,52 @@
       {
         "example": "例",
         "reading": "レイ",
-        "meaning": "example, instance, illustration, case, precedent, custom, habit, practice, usage"
+        "meaning": {
+          "vi": "example, instance, illustration, case, precedent, custom, habit, practice, usage"
+        },
+        "romaji": "rei"
       },
       {
         "example": "例会",
         "reading": "レイカイ",
-        "meaning": "regular meeting"
+        "meaning": {
+          "en": "regular meeting"
+        },
+        "romaji": "reikai"
       },
       {
         "example": "恒例",
         "reading": "コウレイ",
-        "meaning": "established practice, custom"
+        "meaning": {
+          "vi": "established practice, custom"
+        },
+        "romaji": "kourei"
       },
       {
         "example": "定例",
         "reading": "テイレイ",
-        "meaning": "regular, ordinary (e.g. session of parliament), established usage, precedent, regular practice"
+        "meaning": {
+          "vi": "regular, ordinary (e.g. session of parliament), established usage, precedent, regular practice"
+        },
+        "romaji": "teirei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "例える",
         "reading": "たとえる",
-        "meaning": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+        "meaning": {
+          "vi": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+        },
+        "romaji": "tatoeru"
       },
       {
         "example": "例えるなら",
         "reading": "たとえるなら",
-        "meaning": "for example"
+        "meaning": {
+          "vi": "for example"
+        },
+        "romaji": "tatoerunara"
       }
     ],
     "radical": {
@@ -404,5 +422,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f8b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f8b.gif",
     "uri": "https://jisho.org/search/%E4%BE%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "lệ"
+  ]
 }

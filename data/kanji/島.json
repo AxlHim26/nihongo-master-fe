@@ -337,44 +337,68 @@
       {
         "example": "島",
         "reading": "トウ",
-        "meaning": "Island, insula, island, islet"
+        "meaning": {
+          "en": "Island, insula, island, islet"
+        },
+        "romaji": "tou"
       },
       {
         "example": "島国",
         "reading": "シマグニ",
-        "meaning": "island country"
+        "meaning": {
+          "en": "island country"
+        },
+        "romaji": "shimaguni"
       },
       {
         "example": "千島列島",
         "reading": "チシマレットウ",
-        "meaning": "Kurile Islands"
+        "meaning": {
+          "en": "Kurile Islands"
+        },
+        "romaji": "chishimarettou"
       },
       {
         "example": "列島",
         "reading": "レットウ",
-        "meaning": "archipelago, chain of islands"
+        "meaning": {
+          "vi": "archipelago, chain of islands"
+        },
+        "romaji": "rettou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "島",
         "reading": "しま",
-        "meaning": "island, one's territory (of a sex worker, organized crime gang, etc.), one's turf"
+        "meaning": {
+          "en": "island, one's territory (of a sex worker, organized crime gang, etc.), one's turf"
+        },
+        "romaji": "shima"
       },
       {
         "example": "島国",
         "reading": "しまぐに",
-        "meaning": "island country"
+        "meaning": {
+          "en": "island country"
+        },
+        "romaji": "shimaguni"
       },
       {
         "example": "千島",
         "reading": "ちしま",
-        "meaning": "Kurile Islands"
+        "meaning": {
+          "en": "Kurile Islands"
+        },
+        "romaji": "chishima"
       },
       {
         "example": "広島",
         "reading": "ひろしま",
-        "meaning": "Hiroshima (city, prefecture)"
+        "meaning": {
+          "vi": "Hiroshima (city, prefecture)"
+        },
+        "romaji": "hiroshima"
       }
     ],
     "radical": {
@@ -390,5 +414,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cf6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cf6.gif",
     "uri": "https://jisho.org/search/%E5%B3%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "đảo"
+  ]
 }

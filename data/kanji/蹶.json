@@ -18,17 +18,26 @@
       {
         "example": "蹶然",
         "reading": "ケツゼン",
-        "meaning": "with a spring, with alacrity, resolutely"
+        "meaning": {
+          "vi": "with a spring, with alacrity, resolutely"
+        },
+        "romaji": "ketsuzen"
       },
       {
         "example": "困蹶",
         "reading": "コンケツ",
-        "meaning": "being in a difficult position, being in a tight corner"
+        "meaning": {
+          "vi": "being in a difficult position, being in a tight corner"
+        },
+        "romaji": "konketsu"
       },
       {
         "example": "転蹶",
         "reading": "テンケツ",
-        "meaning": "stumbling, tripping, failure"
+        "meaning": {
+          "vi": "stumbling, tripping, failure"
+        },
+        "romaji": "tenketsu"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e76.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e76.gif",
     "uri": "https://jisho.org/search/%E8%B9%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyết",
+    "quệ"
+  ]
 }

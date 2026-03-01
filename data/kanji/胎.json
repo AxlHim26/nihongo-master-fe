@@ -17,22 +17,34 @@
       {
         "example": "胎",
         "reading": "タイ",
-        "meaning": "womb"
+        "meaning": {
+          "en": "womb"
+        },
+        "romaji": "tai"
       },
       {
         "example": "胎児",
         "reading": "タイジ",
-        "meaning": "fetus, foetus, embryo, baby in the womb, unborn baby"
+        "meaning": {
+          "en": "fetus, foetus, embryo, baby in the womb, unborn baby"
+        },
+        "romaji": "taiji"
       },
       {
         "example": "母胎",
         "reading": "ボタイ",
-        "meaning": "womb, uterus, parent body, base, basis"
+        "meaning": {
+          "vi": "womb, uterus, parent body, base, basis"
+        },
+        "romaji": "botai"
       },
       {
         "example": "堕胎",
         "reading": "ダタイ",
-        "meaning": "abortion, feticide"
+        "meaning": {
+          "en": "abortion, feticide"
+        },
+        "romaji": "datai"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ce.gif",
     "uri": "https://jisho.org/search/%E8%83%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thai"
+  ]
 }

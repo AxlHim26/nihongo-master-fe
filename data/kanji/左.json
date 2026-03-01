@@ -281,49 +281,76 @@
       {
         "example": "左",
         "reading": "サ",
-        "meaning": "left (esp. in vertical Japanese writing), the following"
+        "meaning": {
+          "vi": "left (esp. in vertical Japanese writing), the following"
+        },
+        "romaji": "sa"
       },
       {
         "example": "左記",
         "reading": "サキ",
-        "meaning": "undermentioned (statement), the following, at left"
+        "meaning": {
+          "en": "undermentioned (statement), the following, at left"
+        },
+        "romaji": "saki"
       },
       {
         "example": "極左",
         "reading": "キョクサ",
-        "meaning": "extreme left, ultraleft"
+        "meaning": {
+          "en": "extreme left, ultraleft"
+        },
+        "romaji": "kyokusa"
       },
       {
         "example": "最左",
         "reading": "サイサ",
-        "meaning": "left-most"
+        "meaning": {
+          "en": "left-most"
+        },
+        "romaji": "saisa"
       },
       {
         "example": "左官",
         "reading": "サカン",
-        "meaning": "plasterer"
+        "meaning": {
+          "vi": "plasterer"
+        },
+        "romaji": "sakan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "左",
         "reading": "ひだり",
-        "meaning": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker"
+        "meaning": {
+          "en": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker"
+        },
+        "romaji": "hidari"
       },
       {
         "example": "左腕",
         "reading": "さわん",
-        "meaning": "left arm, left-handed (baseball pitcher)"
+        "meaning": {
+          "vi": "left arm, left-handed (baseball pitcher)"
+        },
+        "romaji": "sawan"
       },
       {
         "example": "向かって左",
         "reading": "むかってひだり",
-        "meaning": "on the left as one faces (it)"
+        "meaning": {
+          "en": "on the left as one faces (it)"
+        },
+        "romaji": "mukattehidari"
       },
       {
         "example": "同左",
         "reading": "どうひだり",
-        "meaning": "same as on the left, (in vertical writing) same as below"
+        "meaning": {
+          "en": "same as on the left, (in vertical writing) same as below"
+        },
+        "romaji": "douhidari"
       }
     ],
     "radical": {
@@ -339,5 +366,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de6.gif",
     "uri": "https://jisho.org/search/%E5%B7%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "tá",
+    "tả"
+  ]
 }

@@ -21,44 +21,68 @@
       {
         "example": "濁流",
         "reading": "ダクリュウ",
-        "meaning": "muddy stream"
+        "meaning": {
+          "en": "muddy stream"
+        },
+        "romaji": "dakuryuu"
       },
       {
         "example": "濁音",
         "reading": "ダクオン",
-        "meaning": "syllable with a voiced consonant (in Japanese), voiced sound"
+        "meaning": {
+          "vi": "syllable with a voiced consonant (in Japanese), voiced sound"
+        },
+        "romaji": "dakuon"
       },
       {
         "example": "汚濁",
         "reading": "オダク",
-        "meaning": "pollution, contamination, corruption, graft"
+        "meaning": {
+          "vi": "pollution, contamination, corruption, graft"
+        },
+        "romaji": "odaku"
       },
       {
         "example": "清濁",
         "reading": "セイダク",
-        "meaning": "good and evil, purity and impurity, voiced and unvoiced consonants"
+        "meaning": {
+          "vi": "good and evil, purity and impurity, voiced and unvoiced consonants"
+        },
+        "romaji": "seidaku"
       },
       {
         "example": "濁酒",
         "reading": "ドブロク",
-        "meaning": "doburoku (unrefined sake)"
+        "meaning": {
+          "en": "doburoku (unrefined sake)"
+        },
+        "romaji": "doburoku"
       },
       {
         "example": "濁世",
         "reading": "ダクセ",
-        "meaning": "this corrupt or degenerate world, this world or life, the world of mankind"
+        "meaning": {
+          "vi": "this corrupt or degenerate world, this world or life, the world of mankind"
+        },
+        "romaji": "dakuse"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "濁る",
         "reading": "にごる",
-        "meaning": "to become muddy, to become cloudy, to become turbid, to become impure (of a liquid or gas), to become dull (of a sound, color, etc.), to become indistinct, to become fuzzy, to become hoarse, to become impure (of one's heart, a society, etc.), to be corrupted, to be polluted, to become voiced (of a consonant), to be pronounced as a voiced sound"
+        "meaning": {
+          "vi": "to become muddy, to become cloudy, to become turbid, to become impure (of a liquid or gas), to become dull (of a sound, color, etc.), to become indistinct, to become fuzzy, to become hoarse, to become impure (of one's heart, a society, etc.), to be corrupted, to be polluted, to become voiced (of a consonant), to be pronounced as a voiced sound"
+        },
+        "romaji": "nigoru"
       },
       {
         "example": "濁す",
         "reading": "にごす",
-        "meaning": "to make muddy (of a liquid), to make cloudy, to make turbid, to roil, to make ambiguous, to evade (e.g. the point), to be noncommittal about"
+        "meaning": {
+          "vi": "to make muddy (of a liquid), to make cloudy, to make turbid, to roil, to make ambiguous, to evade (e.g. the point), to be noncommittal about"
+        },
+        "romaji": "nigosu"
       }
     ],
     "radical": {
@@ -79,5 +103,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fc1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fc1.gif",
     "uri": "https://jisho.org/search/%E6%BF%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "trạc",
+    "trọc"
+  ]
 }

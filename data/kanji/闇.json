@@ -20,49 +20,76 @@
       {
         "example": "暗黒",
         "reading": "アンコク",
-        "meaning": "bóng tối"
+        "meaning": {
+          "vi": "bóng tối"
+        },
+        "romaji": "ankoku"
       },
       {
         "example": "暗夜",
         "reading": "アンヤ",
-        "meaning": "đêm tối"
+        "meaning": {
+          "vi": "đêm tối"
+        },
+        "romaji": "an'ya"
       },
       {
         "example": "冥暗",
         "reading": "メイアン",
-        "meaning": "u ám, bóng tối"
+        "meaning": {
+          "vi": "u ám, bóng tối"
+        },
+        "romaji": "meian"
       },
       {
         "example": "幽暗",
         "reading": "ユウアン",
-        "meaning": "u ám, bóng tối, ẩn dật"
+        "meaning": {
+          "vi": "u ám, bóng tối, ẩn dật"
+        },
+        "romaji": "yuuan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "闇",
         "reading": "やみ",
-        "meaning": "bóng tối, sự tối tăm, bối rối, tuyệt vọng, nơi ẩn, bí mật, chợ đen, giao dịch ngầm"
+        "meaning": {
+          "vi": "bóng tối, sự tối tăm, bối rối, tuyệt vọng, nơi ẩn, bí mật, chợ đen, giao dịch ngầm"
+        },
+        "romaji": "yami"
       },
       {
         "example": "闇垢",
         "reading": "やみアカ",
-        "meaning": "tài khoản phụ (mạng xã hội), tài khoản ẩn"
+        "meaning": {
+          "vi": "tài khoản phụ (mạng xã hội), tài khoản ẩn"
+        },
+        "romaji": "yamiaka"
       },
       {
         "example": "頻闇",
         "reading": "しきやみ",
-        "meaning": "tối đen như mực"
+        "meaning": {
+          "vi": "tối đen như mực"
+        },
+        "romaji": "shikiyami"
       },
       {
         "example": "暁闇",
         "reading": "あかつきやみ",
-        "meaning": "rạng sáng không trăng"
+        "meaning": {
+          "vi": "rạng sáng không trăng"
+        },
+        "romaji": "akatsukiyami"
       },
       {
         "example": "暗い",
         "reading": "くらい",
-        "meaning": "tối, u ám, ảm đạm, chán nản, tối (tâm trạng), tối (màu), đáng ngờ, không quen, không biết"
+        "meaning": {
+          "vi": "tối, u ám, ảm đạm, chán nản, tối (tâm trạng), tối (màu), đáng ngờ, không quen, không biết"
+        },
+        "romaji": "kurai"
       }
     ],
     "radical": {
@@ -79,5 +106,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95c7.gif",
     "uri": "https://jisho.org/search/%E9%97%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "am",
+    "yểm",
+    "ám"
+  ]
 }

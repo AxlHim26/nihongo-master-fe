@@ -376,54 +376,84 @@
       {
         "example": "指揮者",
         "reading": "シキシャ",
-        "meaning": "(musical) conductor, commander, leader, director"
+        "meaning": {
+          "en": "(musical) conductor, commander, leader, director"
+        },
+        "romaji": "shikisha"
       },
       {
         "example": "指揮",
         "reading": "シキ",
-        "meaning": "command, direction, supervision, conducting (an orchestra, choir, etc.)"
+        "meaning": {
+          "vi": "command, direction, supervision, conducting (an orchestra, choir, etc.)"
+        },
+        "romaji": "shiki"
       },
       {
         "example": "中指",
         "reading": "ナカユビ",
-        "meaning": "middle finger, long finger, second finger, tall finger, middle toe, third toe"
+        "meaning": {
+          "en": "middle finger, long finger, second finger, tall finger, middle toe, third toe"
+        },
+        "romaji": "nakayubi"
       },
       {
         "example": "食指",
         "reading": "ショクシ",
-        "meaning": "index finger, forefinger"
+        "meaning": {
+          "en": "index finger, forefinger"
+        },
+        "romaji": "shokushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "指",
         "reading": "ゆび",
-        "meaning": "finger, toe, digit"
+        "meaning": {
+          "en": "finger, toe, digit"
+        },
+        "romaji": "yubi"
       },
       {
         "example": "指先",
         "reading": "ゆびさき",
-        "meaning": "fingertip, finger, toe tip, toe"
+        "meaning": {
+          "vi": "fingertip, finger, toe tip, toe"
+        },
+        "romaji": "yubisaki"
       },
       {
         "example": "中指",
         "reading": "なかゆび",
-        "meaning": "middle finger, long finger, second finger, tall finger, middle toe, third toe"
+        "meaning": {
+          "en": "middle finger, long finger, second finger, tall finger, middle toe, third toe"
+        },
+        "romaji": "nakayubi"
       },
       {
         "example": "食指",
         "reading": "しょくし",
-        "meaning": "index finger, forefinger"
+        "meaning": {
+          "en": "index finger, forefinger"
+        },
+        "romaji": "shokushi"
       },
       {
         "example": "指す",
         "reading": "さす",
-        "meaning": "to point, to nominate, to select someone, to specify some person, to identify, to indicate, to point out, to play (a game of shogi), to move (a piece), to extend one's arm straight ahead (in dance)"
+        "meaning": {
+          "vi": "to point, to nominate, to select someone, to specify some person, to identify, to indicate, to point out, to play (a game of shogi), to move (a piece), to extend one's arm straight ahead (in dance)"
+        },
+        "romaji": "sasu"
       },
       {
         "example": "刺股",
         "reading": "さすまた",
-        "meaning": "sasumata, man catcher, two-pronged weapon for catching criminals"
+        "meaning": {
+          "vi": "sasumata, man catcher, two-pronged weapon for catching criminals"
+        },
+        "romaji": "sasumata"
       }
     ],
     "radical": {
@@ -442,5 +472,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06307.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6307.gif",
     "uri": "https://jisho.org/search/%E6%8C%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉ"
+  ]
 }

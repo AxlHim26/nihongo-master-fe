@@ -18,34 +18,52 @@
       {
         "example": "源平藤橘",
         "reading": "ゲンペイトウキツ",
-        "meaning": "các dòng họ Genji, Heike, Fujiwara và Tachibana"
+        "meaning": {
+          "vi": "các dòng họ Genji, Heike, Fujiwara và Tachibana"
+        },
+        "romaji": "genpeitoukitsu"
       },
       {
         "example": "臭橘",
         "reading": "シュウキツ",
-        "meaning": "cam ba lá, cam chịu rét"
+        "meaning": {
+          "vi": "cam ba lá, cam chịu rét"
+        },
+        "romaji": "shuukitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "橘",
         "reading": "たちばな",
-        "meaning": "cam tachibana"
+        "meaning": {
+          "en": "cam tachibana"
+        },
+        "romaji": "tachibana"
       },
       {
         "example": "橘神道",
         "reading": "たちばなしんとう",
-        "meaning": "Thần đạo Tachibana (phái Suika thời Edo)"
+        "meaning": {
+          "vi": "Thần đạo Tachibana (phái Suika thời Edo)"
+        },
+        "romaji": "tachibanashintou"
       },
       {
         "example": "花橘",
         "reading": "はなたちばな",
-        "meaning": "hoa tachibana nở"
+        "meaning": {
+          "vi": "hoa tachibana nở"
+        },
+        "romaji": "hanatachibana"
       },
       {
         "example": "右近の橘",
         "reading": "うこんのたちばな",
-        "meaning": "cây tachibana phía tây cầu thang nam Điện Lễ (Heian)"
+        "meaning": {
+          "vi": "cây tachibana phía tây cầu thang nam Điện Lễ (Heian)"
+        },
+        "romaji": "ukonnotachibana"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a58.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a58.gif",
     "uri": "https://jisho.org/search/%E6%A9%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "quất"
+  ]
 }

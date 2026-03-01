@@ -14,12 +14,18 @@
       {
         "example": "賻",
         "reading": "フ",
-        "meaning": "money and goods given to a bereaved family"
+        "meaning": {
+          "en": "money and goods given to a bereaved family"
+        },
+        "romaji": "fu"
       },
       {
         "example": "賻物",
         "reading": "フモツ",
-        "meaning": "money and goods given to a bereaved family"
+        "meaning": {
+          "en": "money and goods given to a bereaved family"
+        },
+        "romaji": "fumotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cfb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cfb.gif",
     "uri": "https://jisho.org/search/%E8%B3%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "phụ"
+  ]
 }

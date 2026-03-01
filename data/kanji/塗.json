@@ -278,54 +278,84 @@
       {
         "example": "塗料",
         "reading": "トリョウ",
-        "meaning": "paints, painting material"
+        "meaning": {
+          "vi": "paints, painting material"
+        },
+        "romaji": "toryou"
       },
       {
         "example": "塗装",
         "reading": "トソウ",
-        "meaning": "coating, painting"
+        "meaning": {
+          "vi": "coating, painting"
+        },
+        "romaji": "tosou"
       },
       {
         "example": "道途",
         "reading": "ドウト",
-        "meaning": "road"
+        "meaning": {
+          "en": "road"
+        },
+        "romaji": "douto"
       },
       {
         "example": "糊塗",
         "reading": "コト",
-        "meaning": "patching up (e.g. a failure), covering up (e.g. a mistake), glossing over"
+        "meaning": {
+          "vi": "patching up (e.g. a failure), covering up (e.g. a mistake), glossing over"
+        },
+        "romaji": "koto"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塗る",
         "reading": "ぬる",
-        "meaning": "to paint, to plaster, to lacquer, to varnish, to spread, to smear, to put up (wallpaper)"
+        "meaning": {
+          "vi": "to paint, to plaster, to lacquer, to varnish, to spread, to smear, to put up (wallpaper)"
+        },
+        "romaji": "nuru"
       },
       {
         "example": "塗り",
         "reading": "ぬり",
-        "meaning": "coating (esp. lacquering)"
+        "meaning": {
+          "vi": "coating (esp. lacquering)"
+        },
+        "romaji": "nuri"
       },
       {
         "example": "塗り替える",
         "reading": "ぬりかえる",
-        "meaning": "to repaint, to paint again, to paint (a different colour), to change completely, to break (a record), to redraw (e.g. the map), to remake"
+        "meaning": {
+          "vi": "to repaint, to paint again, to paint (a different colour), to change completely, to break (a record), to redraw (e.g. the map), to remake"
+        },
+        "romaji": "nurikaeru"
       },
       {
         "example": "春慶塗",
         "reading": "しゅんけいぬり",
-        "meaning": "Shunkei lacquerware, lacquerware created using transparent lacquer on yellow or red-stained wood, allowing the natural wood grain to be seen"
+        "meaning": {
+          "vi": "Shunkei lacquerware, lacquerware created using transparent lacquer on yellow or red-stained wood, allowing the natural wood grain to be seen"
+        },
+        "romaji": "shunkeinuri"
       },
       {
         "example": "中塗り",
         "reading": "なかぬり",
-        "meaning": "intermediate coat of paint or lacquer, second coat"
+        "meaning": {
+          "vi": "intermediate coat of paint or lacquer, second coat"
+        },
+        "romaji": "nakanuri"
       },
       {
         "example": "塗れる",
         "reading": "まみれる",
-        "meaning": "to be smeared, to be covered"
+        "meaning": {
+          "en": "to be smeared, to be covered"
+        },
+        "romaji": "mamireru"
       }
     ],
     "radical": {
@@ -345,5 +375,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05857.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5857.gif",
     "uri": "https://jisho.org/search/%E5%A1%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "trà",
+    "đồ",
+    "độ"
+  ]
 }

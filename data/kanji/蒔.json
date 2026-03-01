@@ -21,7 +21,10 @@
       {
         "example": "蒔く",
         "reading": "まく",
-        "meaning": "to sow, to plant, to seed, to sow (the seeds of; e.g. conflict), to sprinkle (gold or silver powder on lacquerware)"
+        "meaning": {
+          "vi": "to sow, to plant, to seed, to sow (the seeds of; e.g. conflict), to sprinkle (gold or silver powder on lacquerware)"
+        },
+        "romaji": "maku"
       }
     ],
     "radical": {
@@ -41,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08494.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8494.gif",
     "uri": "https://jisho.org/search/%E8%92%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi",
+    "thì"
+  ]
 }

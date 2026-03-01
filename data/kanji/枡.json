@@ -15,22 +15,34 @@
       {
         "example": "升",
         "reading": "ます",
-        "meaning": "measuring container, measuring box, measure, box (seating at a theatre, etc.), square on a grid, cell of a grid, square bearing block (at the top of a pillar)"
+        "meaning": {
+          "vi": "measuring container, measuring box, measure, box (seating at a theatre, etc.), square on a grid, cell of a grid, square bearing block (at the top of a pillar)"
+        },
+        "romaji": "masu"
       },
       {
         "example": "升売り",
         "reading": "ますうり",
-        "meaning": "selling by volume (esp. using a traditional wooden masu box)"
+        "meaning": {
+          "vi": "selling by volume (esp. using a traditional wooden masu box)"
+        },
+        "romaji": "masuuri"
       },
       {
         "example": "酒枡",
         "reading": "さかます",
-        "meaning": "masu container for drinking or measuring sake"
+        "meaning": {
+          "en": "masu container for drinking or measuring sake"
+        },
+        "romaji": "sakamasu"
       },
       {
         "example": "斗枡",
         "reading": "とます",
-        "meaning": "18-litre measuring container"
+        "meaning": {
+          "en": "18-litre measuring container"
+        },
+        "romaji": "tomasu"
       }
     ],
     "radical": {
@@ -46,5 +58,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a1.gif",
     "uri": "https://jisho.org/search/%E6%9E%A1%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

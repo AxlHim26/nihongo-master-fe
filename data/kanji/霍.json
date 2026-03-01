@@ -16,7 +16,10 @@
       {
         "example": "霍乱",
         "reading": "カクラン",
-        "meaning": "sunstroke, heatstroke"
+        "meaning": {
+          "en": "sunstroke, heatstroke"
+        },
+        "romaji": "kakuran"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0970d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/970d.gif",
     "uri": "https://jisho.org/search/%E9%9C%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoắc",
+    "quắc"
+  ]
 }

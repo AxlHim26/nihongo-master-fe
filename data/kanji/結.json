@@ -369,59 +369,92 @@
       {
         "example": "結末",
         "reading": "ケツマツ",
-        "meaning": "end, conclusion"
+        "meaning": {
+          "en": "end, conclusion"
+        },
+        "romaji": "ketsumatsu"
       },
       {
         "example": "結合",
         "reading": "ケツゴウ",
-        "meaning": "combination, union, joining, linking, coupling, bond, join (in relational algebra)"
+        "meaning": {
+          "vi": "combination, union, joining, linking, coupling, bond, join (in relational algebra)"
+        },
+        "romaji": "ketsugou"
       },
       {
         "example": "完結",
         "reading": "カンケツ",
-        "meaning": "conclusion, completion"
+        "meaning": {
+          "vi": "conclusion, completion"
+        },
+        "romaji": "kanketsu"
       },
       {
         "example": "妥結",
         "reading": "ダケツ",
-        "meaning": "settlement, an agreement"
+        "meaning": {
+          "en": "settlement, an agreement"
+        },
+        "romaji": "daketsu"
       },
       {
         "example": "結縁",
         "reading": "ケチエン",
-        "meaning": "making a connection (with Buddha)"
+        "meaning": {
+          "en": "making a connection (with Buddha)"
+        },
+        "romaji": "kechien"
       },
       {
         "example": "結願",
         "reading": "ケチガン",
-        "meaning": "expiration of term of a vow"
+        "meaning": {
+          "vi": "expiration of term of a vow"
+        },
+        "romaji": "kechigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "結ぶ",
         "reading": "むすぶ",
-        "meaning": "to tie, to bind, to link, to bear (fruit), to close (e.g. deal), to confirm, to conclude, to connect (two distant places), to close tightly, to purse (e.g. lips), to unite (with), to ally, to join hands"
+        "meaning": {
+          "vi": "to tie, to bind, to link, to bear (fruit), to close (e.g. deal), to confirm, to conclude, to connect (two distant places), to close tightly, to purse (e.g. lips), to unite (with), to ally, to join hands"
+        },
+        "romaji": "musubu"
       },
       {
         "example": "結ぶ便",
         "reading": "むすぶびん",
-        "meaning": "connecting flight, connecting service"
+        "meaning": {
+          "en": "connecting flight, connecting service"
+        },
+        "romaji": "musububin"
       },
       {
         "example": "結う",
         "reading": "ゆう",
-        "meaning": "to do up (hair), to dress, to arrange, to tie, to bind, to fasten, to make (a fence)"
+        "meaning": {
+          "vi": "to do up (hair), to dress, to arrange, to tie, to bind, to fasten, to make (a fence)"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "結城紬",
         "reading": "ゆうきつむぎ",
-        "meaning": "silk products produced near Yūki (using natural indigo dye), Yūki pongee"
+        "meaning": {
+          "vi": "silk products produced near Yūki (using natural indigo dye), Yūki pongee"
+        },
+        "romaji": "yuukitsumugi"
       },
       {
         "example": "結わえる",
         "reading": "ゆわえる",
-        "meaning": "to bind, to fasten, to tie up"
+        "meaning": {
+          "vi": "to bind, to fasten, to tie up"
+        },
+        "romaji": "yuwaeru"
       }
     ],
     "radical": {
@@ -442,5 +475,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d50.gif",
     "uri": "https://jisho.org/search/%E7%B5%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "kế",
+    "kết"
+  ]
 }

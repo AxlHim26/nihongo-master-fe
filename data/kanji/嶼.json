@@ -16,7 +16,10 @@
       {
         "example": "島嶼",
         "reading": "トウショ",
-        "meaning": "islands"
+        "meaning": {
+          "en": "islands"
+        },
+        "romaji": "tousho"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dbc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dbc.gif",
     "uri": "https://jisho.org/search/%E5%B6%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "dư",
+    "dữ",
+    "tự"
+  ]
 }

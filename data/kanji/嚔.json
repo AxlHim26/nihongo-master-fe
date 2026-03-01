@@ -21,17 +21,26 @@
       {
         "example": "嚏",
         "reading": "くしゃみ",
-        "meaning": "sneeze, spoken twice in response to someone sneezing as a charm against an early death"
+        "meaning": {
+          "vi": "sneeze, spoken twice in response to someone sneezing as a charm against an early death"
+        },
+        "romaji": "kushami"
       },
       {
         "example": "嚏",
         "reading": "くしゃみ",
-        "meaning": "sneeze, spoken twice in response to someone sneezing as a charm against an early death"
+        "meaning": {
+          "vi": "sneeze, spoken twice in response to someone sneezing as a charm against an early death"
+        },
+        "romaji": "kushami"
       },
       {
         "example": "嚔ひる",
         "reading": "はなひる",
-        "meaning": "to sneeze"
+        "meaning": {
+          "en": "to sneeze"
+        },
+        "romaji": "hanahiru"
       }
     ],
     "radical": {
@@ -49,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05694.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5694.gif",
     "uri": "https://jisho.org/search/%E5%9A%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "đế",
+    "sí"
+  ]
 }

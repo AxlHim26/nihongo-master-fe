@@ -15,22 +15,34 @@
       {
         "example": "豹",
         "reading": "ヒョウ",
-        "meaning": "leopard (Panthera pardus)"
+        "meaning": {
+          "vi": "leopard (Panthera pardus)"
+        },
+        "romaji": "hyou"
       },
       {
         "example": "豹海豹",
         "reading": "ヒョウアザラシ",
-        "meaning": "leopard seal (Hydrurga leptonyx)"
+        "meaning": {
+          "vi": "leopard seal (Hydrurga leptonyx)"
+        },
+        "romaji": "hyouazarashi"
       },
       {
         "example": "狩猟豹",
         "reading": "シュリョウヒョウ",
-        "meaning": "cheetah"
+        "meaning": {
+          "en": "cheetah"
+        },
+        "romaji": "shuryouhyou"
       },
       {
         "example": "アメリカ豹",
         "reading": "アメリカヒョウ",
-        "meaning": "jaguar"
+        "meaning": {
+          "en": "jaguar"
+        },
+        "romaji": "amerikahyou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c79.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c79.gif",
     "uri": "https://jisho.org/search/%E8%B1%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "báo"
+  ]
 }

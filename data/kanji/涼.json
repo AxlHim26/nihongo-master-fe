@@ -279,44 +279,68 @@
       {
         "example": "涼",
         "reading": "リョウ",
-        "meaning": "cool breeze, cool air, refreshing coolness"
+        "meaning": {
+          "en": "cool breeze, cool air, refreshing coolness"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "涼風",
         "reading": "リョウフウ",
-        "meaning": "cool breeze, refreshing breeze"
+        "meaning": {
+          "en": "cool breeze, refreshing breeze"
+        },
+        "romaji": "ryoufuu"
       },
       {
         "example": "清涼",
         "reading": "セイリョウ",
-        "meaning": "cool, refreshing"
+        "meaning": {
+          "en": "cool, refreshing"
+        },
+        "romaji": "seiryou"
       },
       {
         "example": "納涼",
         "reading": "ノウリョウ",
-        "meaning": "escaping the heat to enjoy the cool breeze (by the river, etc.)"
+        "meaning": {
+          "vi": "escaping the heat to enjoy the cool breeze (by the river, etc.)"
+        },
+        "romaji": "nouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涼しい",
         "reading": "すずしい",
-        "meaning": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent"
+        "meaning": {
+          "vi": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent"
+        },
+        "romaji": "suzushii"
       },
       {
         "example": "涼しい顔",
         "reading": "すずしいかお",
-        "meaning": "nonchalant air, unruffled air"
+        "meaning": {
+          "en": "nonchalant air, unruffled air"
+        },
+        "romaji": "suzushiikao"
       },
       {
         "example": "涼む",
         "reading": "すずむ",
-        "meaning": "to cool oneself, to cool off, to enjoy the cool air"
+        "meaning": {
+          "en": "to cool oneself, to cool off, to enjoy the cool air"
+        },
+        "romaji": "suzumu"
       },
       {
         "example": "涼やか",
         "reading": "すずやか",
-        "meaning": "refreshing, clear"
+        "meaning": {
+          "en": "refreshing, clear"
+        },
+        "romaji": "suzuyaka"
       }
     ],
     "radical": {
@@ -337,5 +361,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dbc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dbc.gif",
     "uri": "https://jisho.org/search/%E6%B6%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lương",
+    "lượng"
+  ]
 }

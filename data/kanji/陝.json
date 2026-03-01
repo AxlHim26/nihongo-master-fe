@@ -14,12 +14,18 @@
       {
         "example": "陝西師範大学",
         "reading": "センセイシハンダイガク",
-        "meaning": "Shaanxi Normal University, SNU"
+        "meaning": {
+          "en": "Shaanxi Normal University, SNU"
+        },
+        "romaji": "senseishihandaigaku"
       },
       {
         "example": "陝西省",
         "reading": "センセイショウ",
-        "meaning": "Shaanxi Province (China)"
+        "meaning": {
+          "vi": "Shaanxi Province (China)"
+        },
+        "romaji": "senseishou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965d.gif",
     "uri": "https://jisho.org/search/%E9%99%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiệp",
+    "thiểm",
+    "xiểm"
+  ]
 }

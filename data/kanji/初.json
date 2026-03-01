@@ -385,64 +385,100 @@
       {
         "example": "初夏",
         "reading": "ショカ",
-        "meaning": "early summer, fourth month of the lunar calendar"
+        "meaning": {
+          "en": "early summer, fourth month of the lunar calendar"
+        },
+        "romaji": "shoka"
       },
       {
         "example": "初演",
         "reading": "ショエン",
-        "meaning": "first performance, premiere"
+        "meaning": {
+          "vi": "first performance, premiere"
+        },
+        "romaji": "shoen"
       },
       {
         "example": "年初",
         "reading": "ネンショ",
-        "meaning": "beginning of the year"
+        "meaning": {
+          "en": "beginning of the year"
+        },
+        "romaji": "nensho"
       },
       {
         "example": "原初",
         "reading": "ゲンショ",
-        "meaning": "origin, source, beginning, starting point"
+        "meaning": {
+          "vi": "origin, source, beginning, starting point"
+        },
+        "romaji": "gensho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "始め",
         "reading": "はじめ",
-        "meaning": "beginning, start, outset, opening, first (in line, etc.), origin, such as ..., not to mention ..."
+        "meaning": {
+          "vi": "beginning, start, outset, opening, first (in line, etc.), origin, such as ..., not to mention ..."
+        },
+        "romaji": "hajime"
       },
       {
         "example": "初めて",
         "reading": "はじめて",
-        "meaning": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+        "meaning": {
+          "en": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+        },
+        "romaji": "hajimete"
       },
       {
         "example": "月初め",
         "reading": "つきはじめ",
-        "meaning": "beginning of the month"
+        "meaning": {
+          "en": "beginning of the month"
+        },
+        "romaji": "tsukihajime"
       },
       {
         "example": "初めて",
         "reading": "はじめて",
-        "meaning": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+        "meaning": {
+          "en": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+        },
+        "romaji": "hajimete"
       },
       {
         "example": "初",
         "reading": "はつ",
-        "meaning": "first, new"
+        "meaning": {
+          "en": "first, new"
+        },
+        "romaji": "hatsu"
       },
       {
         "example": "初対面",
         "reading": "しょたいめん",
-        "meaning": "first meeting, first interview with"
+        "meaning": {
+          "en": "first meeting, first interview with"
+        },
+        "romaji": "shotaimen"
       },
       {
         "example": "業界初",
         "reading": "ぎょうかいはつ",
-        "meaning": "the industry's first ..."
+        "meaning": {
+          "en": "the industry's first ..."
+        },
+        "romaji": "gyoukaihatsu"
       },
       {
         "example": "人生初",
         "reading": "じんせいはつ",
-        "meaning": "(for the) first time in one's life"
+        "meaning": {
+          "en": "(for the) first time in one's life"
+        },
+        "romaji": "jinseihatsu"
       }
     ],
     "radical": {
@@ -460,5 +496,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0521d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/521d.gif",
     "uri": "https://jisho.org/search/%E5%88%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "sơ"
+  ]
 }

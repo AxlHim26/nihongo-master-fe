@@ -298,54 +298,84 @@
       {
         "example": "弟",
         "reading": "オトウト",
-        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+        "meaning": {
+          "vi": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+        },
+        "romaji": "otouto"
       },
       {
         "example": "弟子",
         "reading": "デシ",
-        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+        "meaning": {
+          "vi": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+        },
+        "romaji": "deshi"
       },
       {
         "example": "実弟",
         "reading": "ジッテイ",
-        "meaning": "biological younger brother"
+        "meaning": {
+          "en": "biological younger brother"
+        },
+        "romaji": "jittei"
       },
       {
         "example": "子弟",
         "reading": "シテイ",
-        "meaning": "children, sons, children and younger brothers, young people"
+        "meaning": {
+          "vi": "children, sons, children and younger brothers, young people"
+        },
+        "romaji": "shitei"
       },
       {
         "example": "親兄弟",
         "reading": "オヤキョウダイ",
-        "meaning": "parents and siblings, one's relatives"
+        "meaning": {
+          "vi": "parents and siblings, one's relatives"
+        },
+        "romaji": "oyakyoudai"
       },
       {
         "example": "姉弟",
         "reading": "シテイ",
-        "meaning": "older sister and younger brother"
+        "meaning": {
+          "en": "older sister and younger brother"
+        },
+        "romaji": "shitei"
       },
       {
         "example": "弟子",
         "reading": "デシ",
-        "meaning": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+        "meaning": {
+          "vi": "pupil, disciple, adherent, follower, apprentice, young person, teacher's student-helper"
+        },
+        "romaji": "deshi"
       },
       {
         "example": "弟子入り",
         "reading": "デシイリ",
-        "meaning": "becoming a pupil (of), becoming an apprentice"
+        "meaning": {
+          "vi": "becoming a pupil (of), becoming an apprentice"
+        },
+        "romaji": "deshiiri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弟",
         "reading": "おとうと",
-        "meaning": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+        "meaning": {
+          "vi": "younger brother, little brother, kid brother, brother-in-law (spouse's younger brother or younger sister's husband), pupil, apprentice"
+        },
+        "romaji": "otouto"
       },
       {
         "example": "弟君",
         "reading": "おとうとぎみ",
-        "meaning": "younger brother"
+        "meaning": {
+          "en": "younger brother"
+        },
+        "romaji": "otoutogimi"
       }
     ],
     "radical": {
@@ -362,5 +392,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f1f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f1f.gif",
     "uri": "https://jisho.org/search/%E5%BC%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "đễ",
+    "đệ"
+  ]
 }

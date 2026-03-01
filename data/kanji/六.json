@@ -339,69 +339,108 @@
       {
         "example": "六",
         "reading": "ロク",
-        "meaning": "six, 6"
+        "meaning": {
+          "en": "six, 6"
+        },
+        "romaji": "roku"
       },
       {
         "example": "６月",
         "reading": "ロクガツ",
-        "meaning": "June, sixth month of the lunar calendar"
+        "meaning": {
+          "en": "June, sixth month of the lunar calendar"
+        },
+        "romaji": "rokugatsu"
       },
       {
         "example": "十六",
         "reading": "ジュウロク",
-        "meaning": "sixteen, 16"
+        "meaning": {
+          "en": "sixteen, 16"
+        },
+        "romaji": "juuroku"
       },
       {
         "example": "才六",
         "reading": "サイロク",
-        "meaning": "kid, brat, person from Kansai"
+        "meaning": {
+          "vi": "kid, brat, person from Kansai"
+        },
+        "romaji": "sairoku"
       },
       {
         "example": "六官",
         "reading": "リクカン",
-        "meaning": "six ministries (of Zhou dynasty China)"
+        "meaning": {
+          "en": "six ministries (of Zhou dynasty China)"
+        },
+        "romaji": "rikukan"
       },
       {
         "example": "六気",
         "reading": "ロッキ",
-        "meaning": "yin, yang, wind, rain, darkness, light, cold, heat, dryness, dampness, wind, fire, six emotions (joy, anger, sorrow, pleasure, love, hate)"
+        "meaning": {
+          "vi": "yin, yang, wind, rain, darkness, light, cold, heat, dryness, dampness, wind, fire, six emotions (joy, anger, sorrow, pleasure, love, hate)"
+        },
+        "romaji": "rokki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "六",
         "reading": "ろく",
-        "meaning": "six, 6"
+        "meaning": {
+          "en": "six, 6"
+        },
+        "romaji": "roku"
       },
       {
         "example": "難しい",
         "reading": "むずかしい",
-        "meaning": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        "meaning": {
+          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        },
+        "romaji": "muzukashii"
       },
       {
         "example": "六つ",
         "reading": "むっつ",
-        "meaning": "six, six years of age, six o'clock (old time system)"
+        "meaning": {
+          "en": "six, six years of age, six o'clock (old time system)"
+        },
+        "romaji": "muttsu"
       },
       {
         "example": "難しい",
         "reading": "むずかしい",
-        "meaning": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        "meaning": {
+          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+        },
+        "romaji": "muzukashii"
       },
       {
         "example": "六つ",
         "reading": "むっつ",
-        "meaning": "six, six years of age, six o'clock (old time system)"
+        "meaning": {
+          "en": "six, six years of age, six o'clock (old time system)"
+        },
+        "romaji": "muttsu"
       },
       {
         "example": "６日",
         "reading": "むいか",
-        "meaning": "6th day of the month, six days"
+        "meaning": {
+          "en": "6th day of the month, six days"
+        },
+        "romaji": "muika"
       },
       {
         "example": "六日間戦争",
         "reading": "むいかかんせんそう",
-        "meaning": "Six-Day War (June 5-10, 1967), Third Arab-Israeli War"
+        "meaning": {
+          "en": "Six-Day War (June 5-10, 1967), Third Arab-Israeli War"
+        },
+        "romaji": "muikakansensou"
       }
     ],
     "radical": {
@@ -416,5 +455,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0516d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/516d.gif",
     "uri": "https://jisho.org/search/%E5%85%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "lục"
+  ]
 }

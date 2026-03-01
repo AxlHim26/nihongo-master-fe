@@ -18,17 +18,26 @@
       {
         "example": "衍字",
         "reading": "エンジ",
-        "meaning": "superfluous character, character added by mistake"
+        "meaning": {
+          "vi": "superfluous character, character added by mistake"
+        },
+        "romaji": "enji"
       },
       {
         "example": "衍文",
         "reading": "エンブン",
-        "meaning": "(inadvertent) redundancy in a text"
+        "meaning": {
+          "en": "(inadvertent) redundancy in a text"
+        },
+        "romaji": "enbun"
       },
       {
         "example": "敷衍",
         "reading": "フエン",
-        "meaning": "expatiation, enlargement (e.g. on a point), elaboration, amplification, clear explanation, paraphrasing"
+        "meaning": {
+          "vi": "expatiation, enlargement (e.g. on a point), elaboration, amplification, clear explanation, paraphrasing"
+        },
+        "romaji": "fuen"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0884d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/884d.gif",
     "uri": "https://jisho.org/search/%E8%A1%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên",
+    "diễn"
+  ]
 }

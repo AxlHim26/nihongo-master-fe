@@ -17,39 +17,60 @@
       {
         "example": "脛骨",
         "reading": "ケイコツ",
-        "meaning": "tibia, shinbone"
+        "meaning": {
+          "en": "tibia, shinbone"
+        },
+        "romaji": "keikotsu"
       },
       {
         "example": "脛節",
         "reading": "ケイセツ",
-        "meaning": "tibia (of an insect)"
+        "meaning": {
+          "en": "tibia (of an insect)"
+        },
+        "romaji": "keisetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脛",
         "reading": "すね",
-        "meaning": "shin, shank, lower leg"
+        "meaning": {
+          "en": "shin, shank, lower leg"
+        },
+        "romaji": "sune"
       },
       {
         "example": "すね当て",
         "reading": "すねあて",
-        "meaning": "shin guards, shin pads, greaves, leggings"
+        "meaning": {
+          "vi": "shin guards, shin pads, greaves, leggings"
+        },
+        "romaji": "suneate"
       },
       {
         "example": "牛すね",
         "reading": "ぎゅうすね",
-        "meaning": "beef shin, beef shank, gravy beef"
+        "meaning": {
+          "en": "beef shin, beef shank, gravy beef"
+        },
+        "romaji": "gyuusune"
       },
       {
         "example": "脛",
         "reading": "すね",
-        "meaning": "shin, shank, lower leg"
+        "meaning": {
+          "en": "shin, shank, lower leg"
+        },
+        "romaji": "sune"
       },
       {
         "example": "脹脛",
         "reading": "ふくらはぎ",
-        "meaning": "calf"
+        "meaning": {
+          "en": "calf"
+        },
+        "romaji": "fukurahagi"
       }
     ],
     "radical": {
@@ -68,5 +89,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0811b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/811b.gif",
     "uri": "https://jisho.org/search/%E8%84%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "hĩnh"
+  ]
 }

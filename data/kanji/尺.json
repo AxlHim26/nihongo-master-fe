@@ -237,49 +237,76 @@
       {
         "example": "尺",
         "reading": "シャク",
-        "meaning": "shaku (unit of distance approximately equal to 30.3 cm), rule, measure, scale, length"
+        "meaning": {
+          "vi": "shaku (unit of distance approximately equal to 30.3 cm), rule, measure, scale, length"
+        },
+        "romaji": "shaku"
       },
       {
         "example": "尺度",
         "reading": "シャクド",
-        "meaning": "gauge, standard, measure, criterion, index, length, size, (measuring) rule, scale"
+        "meaning": {
+          "en": "gauge, standard, measure, criterion, index, length, size, (measuring) rule, scale"
+        },
+        "romaji": "shakudo"
       },
       {
         "example": "大尺",
         "reading": "ダイシャク",
-        "meaning": "large shaku (approx. 35.6cm)"
+        "meaning": {
+          "vi": "large shaku (approx. 35.6cm)"
+        },
+        "romaji": "daishaku"
       },
       {
         "example": "対数尺",
         "reading": "タイスウジャク",
-        "meaning": "logarithmic scale"
+        "meaning": {
+          "en": "logarithmic scale"
+        },
+        "romaji": "taisuujaku"
       },
       {
         "example": "尺寸",
         "reading": "シャクスン",
-        "meaning": "(something) tiny, trifle"
+        "meaning": {
+          "en": "(something) tiny, trifle"
+        },
+        "romaji": "shakusun"
       },
       {
         "example": "尺地",
         "reading": "セキチ",
-        "meaning": "small plot of land"
+        "meaning": {
+          "vi": "small plot of land"
+        },
+        "romaji": "sekichi"
       },
       {
         "example": "咫尺",
         "reading": "シセキ",
-        "meaning": "very short distance"
+        "meaning": {
+          "en": "very short distance"
+        },
+        "romaji": "shiseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尺",
         "reading": "さし",
-        "meaning": "ruler, measure"
+        "meaning": {
+          "en": "ruler, measure"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "畳尺",
         "reading": "たたみじゃく",
-        "meaning": "folding ruler, collapsible ruler"
+        "meaning": {
+          "vi": "folding ruler, collapsible ruler"
+        },
+        "romaji": "tatamijaku"
       }
     ],
     "radical": {
@@ -294,5 +321,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3a.gif",
     "uri": "https://jisho.org/search/%E5%B0%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉ",
+    "xích"
+  ]
 }

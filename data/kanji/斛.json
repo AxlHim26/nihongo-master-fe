@@ -16,17 +16,26 @@
       {
         "example": "石",
         "reading": "コク",
-        "meaning": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+        "meaning": {
+          "vi": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+        },
+        "romaji": "koku"
       },
       {
         "example": "木斛",
         "reading": "モッコク",
-        "meaning": "Japanese ternstroemia (Ternstroemia gymnanthera), cleyera"
+        "meaning": {
+          "vi": "Japanese ternstroemia (Ternstroemia gymnanthera), cleyera"
+        },
+        "romaji": "mokkoku"
       },
       {
         "example": "万斛",
         "reading": "バンコク",
-        "meaning": "copious (tears)"
+        "meaning": {
+          "vi": "copious (tears)"
+        },
+        "romaji": "bankoku"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0659b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/659b.gif",
     "uri": "https://jisho.org/search/%E6%96%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "hộc"
+  ]
 }

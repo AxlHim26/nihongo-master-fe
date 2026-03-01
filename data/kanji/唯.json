@@ -20,39 +20,60 @@
       {
         "example": "唯一",
         "reading": "ユイイツ",
-        "meaning": "only, sole, unique"
+        "meaning": {
+          "en": "only, sole, unique"
+        },
+        "romaji": "yuiitsu"
       },
       {
         "example": "唯物論",
         "reading": "ユイブツロン",
-        "meaning": "materialism"
+        "meaning": {
+          "en": "materialism"
+        },
+        "romaji": "yuibutsuron"
       },
       {
         "example": "唯々",
         "reading": "イイ",
-        "meaning": "obedient, submissive, tame, slavish"
+        "meaning": {
+          "en": "obedient, submissive, tame, slavish"
+        },
+        "romaji": "ii"
       },
       {
         "example": "唯々諾々",
         "reading": "イイダクダク",
-        "meaning": "obedient, submissive, tame, slavish"
+        "meaning": {
+          "en": "obedient, submissive, tame, slavish"
+        },
+        "romaji": "iidakudaku"
       },
       {
         "example": "唯々",
         "reading": "イイ",
-        "meaning": "obedient, submissive, tame, slavish"
+        "meaning": {
+          "en": "obedient, submissive, tame, slavish"
+        },
+        "romaji": "ii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "只",
         "reading": "ただ",
-        "meaning": "ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless"
+        "meaning": {
+          "vi": "ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless"
+        },
+        "romaji": "tada"
       },
       {
         "example": "只今",
         "reading": "ただいま",
-        "meaning": "I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon"
+        "meaning": {
+          "vi": "I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon"
+        },
+        "romaji": "tadaima"
       }
     ],
     "radical": {
@@ -67,5 +88,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0552f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/552f.gif",
     "uri": "https://jisho.org/search/%E5%94%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "duy",
+    "duỵ"
+  ]
 }

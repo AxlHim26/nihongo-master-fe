@@ -21,49 +21,76 @@
       {
         "example": "萎縮",
         "reading": "イシュク",
-        "meaning": "withering, shrivelling, shrinking, contraction, atrophy"
+        "meaning": {
+          "vi": "withering, shrivelling, shrinking, contraction, atrophy"
+        },
+        "romaji": "ishuku"
       },
       {
         "example": "萎黄病",
         "reading": "イオウビョウ",
-        "meaning": "chlorosis, greensickness"
+        "meaning": {
+          "en": "chlorosis, greensickness"
+        },
+        "romaji": "ioubyou"
       },
       {
         "example": "陰萎",
         "reading": "インイ",
-        "meaning": "impotence (sexual), erectile impotence"
+        "meaning": {
+          "vi": "impotence (sexual), erectile impotence"
+        },
+        "romaji": "in'i"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "萎える",
         "reading": "なえる",
-        "meaning": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
+        "meaning": {
+          "vi": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
+        },
+        "romaji": "naeru"
       },
       {
         "example": "萎え",
         "reading": "なえ",
-        "meaning": "weakening, loss of strength, disappointment, loss of interest, letdown feeling"
+        "meaning": {
+          "vi": "weakening, loss of strength, disappointment, loss of interest, letdown feeling"
+        },
+        "romaji": "nae"
       },
       {
         "example": "萎れる",
         "reading": "しおれる",
-        "meaning": "to wither, to wilt, to droop, to fade, to be dejected, to be disheartened, to be depressed, to be crestfallen"
+        "meaning": {
+          "vi": "to wither, to wilt, to droop, to fade, to be dejected, to be disheartened, to be depressed, to be crestfallen"
+        },
+        "romaji": "shioreru"
       },
       {
         "example": "萎びる",
         "reading": "しなびる",
-        "meaning": "to shrivel (e.g. cut vegetables, skin), to wilt, to fade, to wither, to be wizened"
+        "meaning": {
+          "en": "to shrivel (e.g. cut vegetables, skin), to wilt, to fade, to wither, to be wizened"
+        },
+        "romaji": "shinabiru"
       },
       {
         "example": "萎む",
         "reading": "しぼむ",
-        "meaning": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate"
+        "meaning": {
+          "vi": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate"
+        },
+        "romaji": "shibomu"
       },
       {
         "example": "萎える",
         "reading": "なえる",
-        "meaning": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
+        "meaning": {
+          "vi": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
+        },
+        "romaji": "naeru"
       }
     ],
     "radical": {
@@ -82,5 +109,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0840e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/840e.gif",
     "uri": "https://jisho.org/search/%E8%90%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "nuy",
+    "uy",
+    "uỷ"
+  ]
 }

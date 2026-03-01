@@ -17,22 +17,34 @@
       {
         "example": "虻",
         "reading": "あぶ",
-        "meaning": "horsefly, gadfly"
+        "meaning": {
+          "en": "horsefly, gadfly"
+        },
+        "romaji": "abu"
       },
       {
         "example": "虻蜂",
         "reading": "あぶはち",
-        "meaning": "horsefly and bee, horsefly and wasp"
+        "meaning": {
+          "vi": "horsefly and bee, horsefly and wasp"
+        },
+        "romaji": "abuhachi"
       },
       {
         "example": "虫引虻",
         "reading": "むしひきあぶ",
-        "meaning": "robber fly (any fly of family Asilidae)"
+        "meaning": {
+          "en": "robber fly (any fly of family Asilidae)"
+        },
+        "romaji": "mushihikiabu"
       },
       {
         "example": "牛虻",
         "reading": "うしあぶ",
-        "meaning": "Tabanus trigonus (species of horsefly)"
+        "meaning": {
+          "vi": "Tabanus trigonus (species of horsefly)"
+        },
+        "romaji": "ushiabu"
       }
     ],
     "radical": {
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0867b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/867b.gif",
     "uri": "https://jisho.org/search/%E8%99%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "manh"
+  ]
 }

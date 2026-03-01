@@ -17,7 +17,10 @@
       {
         "example": "邂逅",
         "reading": "カイコウ",
-        "meaning": "chance meeting"
+        "meaning": {
+          "en": "chance meeting"
+        },
+        "romaji": "kaikou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09005.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9005.gif",
     "uri": "https://jisho.org/search/%E9%80%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấu"
+  ]
 }

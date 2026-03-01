@@ -18,19 +18,28 @@
       {
         "example": "垢膩",
         "reading": "コウジ",
-        "meaning": "dirt and grease, filth, grime"
+        "meaning": {
+          "en": "dirt and grease, filth, grime"
+        },
+        "romaji": "kouji"
       },
       {
         "example": "垢膩",
         "reading": "コウジ",
-        "meaning": "dirt and grease, filth, grime"
+        "meaning": {
+          "en": "dirt and grease, filth, grime"
+        },
+        "romaji": "kouji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脂",
         "reading": "あぶら",
-        "meaning": "fat, tallow, lard, grease"
+        "meaning": {
+          "en": "fat, tallow, lard, grease"
+        },
+        "romaji": "abura"
       }
     ],
     "radical": {
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a9.gif",
     "uri": "https://jisho.org/search/%E8%86%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhị",
+    "nị"
+  ]
 }

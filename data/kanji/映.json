@@ -341,39 +341,60 @@
       {
         "example": "映画館",
         "reading": "エイガカン",
-        "meaning": "movie theatre, movie theater, cinema"
+        "meaning": {
+          "en": "movie theatre, movie theater, cinema"
+        },
+        "romaji": "eigakan"
       },
       {
         "example": "映画",
         "reading": "エイガ",
-        "meaning": "movie, film, motion picture"
+        "meaning": {
+          "vi": "movie, film, motion picture"
+        },
+        "romaji": "eiga"
       },
       {
         "example": "大映",
         "reading": "ダイエイ",
-        "meaning": "Daiei Motion Picture Company"
+        "meaning": {
+          "vi": "Daiei Motion Picture Company"
+        },
+        "romaji": "daiei"
       },
       {
         "example": "開映",
         "reading": "カイエイ",
-        "meaning": "beginning of a screening (at a movie theatre), starting a screening"
+        "meaning": {
+          "en": "beginning of a screening (at a movie theatre), starting a screening"
+        },
+        "romaji": "kaiei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "映る",
         "reading": "うつる",
-        "meaning": "to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen)"
+        "meaning": {
+          "vi": "to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen)"
+        },
+        "romaji": "utsuru"
       },
       {
         "example": "映す",
         "reading": "うつす",
-        "meaning": "to project, to reflect, to cast (shadow)"
+        "meaning": {
+          "vi": "to project, to reflect, to cast (shadow)"
+        },
+        "romaji": "utsusu"
       },
       {
         "example": "映える",
         "reading": "はえる",
-        "meaning": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        "meaning": {
+          "en": "to shine, to glow, to look attractive, to look nice, to be set off (by)"
+        },
+        "romaji": "haeru"
       }
     ],
     "radical": {
@@ -390,5 +411,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06620.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6620.gif",
     "uri": "https://jisho.org/search/%E6%98%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "ánh"
+  ]
 }

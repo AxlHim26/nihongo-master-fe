@@ -267,59 +267,92 @@
       {
         "example": "嬢",
         "reading": "ジョウ",
-        "meaning": "unmarried woman, Miss, -ess, -ette"
+        "meaning": {
+          "en": "unmarried woman, Miss, -ess, -ette"
+        },
+        "romaji": "jou"
       },
       {
         "example": "娘核",
         "reading": "ジョウカク",
-        "meaning": "daughter nucleus"
+        "meaning": {
+          "en": "daughter nucleus"
+        },
+        "romaji": "joukaku"
       },
       {
         "example": "令娘",
         "reading": "レイジョウ",
-        "meaning": "your daughter, young lady"
+        "meaning": {
+          "en": "your daughter, young lady"
+        },
+        "romaji": "reijou"
       },
       {
         "example": "中国娘",
         "reading": "チュウゴクジョウ",
-        "meaning": "Chinese girl"
+        "meaning": {
+          "en": "Chinese girl"
+        },
+        "romaji": "chuugokujou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "娘",
         "reading": "むすめ",
-        "meaning": "daughter, girl (i.e. a young, unmarried woman)"
+        "meaning": {
+          "en": "daughter, girl (i.e. a young, unmarried woman)"
+        },
+        "romaji": "musume"
       },
       {
         "example": "娘婿",
         "reading": "むすめむこ",
-        "meaning": "son-in-law"
+        "meaning": {
+          "en": "son-in-law"
+        },
+        "romaji": "musumemuko"
       },
       {
         "example": "一人娘",
         "reading": "ひとりむすめ",
-        "meaning": "only daughter"
+        "meaning": {
+          "en": "only daughter"
+        },
+        "romaji": "hitorimusume"
       },
       {
         "example": "もらい娘",
         "reading": "もらいむすめ",
-        "meaning": "adopted daughter"
+        "meaning": {
+          "vi": "adopted daughter"
+        },
+        "romaji": "moraimusume"
       },
       {
         "example": "娘",
         "reading": "むすめ",
-        "meaning": "daughter, girl (i.e. a young, unmarried woman)"
+        "meaning": {
+          "en": "daughter, girl (i.e. a young, unmarried woman)"
+        },
+        "romaji": "musume"
       },
       {
         "example": "ボクっ娘",
         "reading": "ぼくっこ",
-        "meaning": "young woman who uses the usually male first person pronoun \"boku\""
+        "meaning": {
+          "vi": "young woman who uses the usually male first person pronoun \"boku\""
+        },
+        "romaji": "bokukko"
       },
       {
         "example": "ドジっ子",
         "reading": "どじっこ",
-        "meaning": "clumsy girl, clumsy kid"
+        "meaning": {
+          "en": "clumsy girl, clumsy kid"
+        },
+        "romaji": "dojikko"
       }
     ],
     "radical": {
@@ -334,5 +367,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a18.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a18.gif",
     "uri": "https://jisho.org/search/%E5%A8%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "nương"
+  ]
 }

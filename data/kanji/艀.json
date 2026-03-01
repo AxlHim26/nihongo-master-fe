@@ -16,19 +16,28 @@
       {
         "example": "はしけ船",
         "reading": "ハシケブネ",
-        "meaning": "lighter, barge, baggage boat"
+        "meaning": {
+          "en": "lighter, barge, baggage boat"
+        },
+        "romaji": "hashikebune"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "艀",
         "reading": "はしけ",
-        "meaning": "lighter, barge, baggage boat"
+        "meaning": {
+          "en": "lighter, barge, baggage boat"
+        },
+        "romaji": "hashike"
       },
       {
         "example": "はしけ船",
         "reading": "はしけぶね",
-        "meaning": "lighter, barge, baggage boat"
+        "meaning": {
+          "en": "lighter, barge, baggage boat"
+        },
+        "romaji": "hashikebune"
       }
     ],
     "radical": {
@@ -44,5 +53,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08240.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8240.gif",
     "uri": "https://jisho.org/search/%E8%89%80%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

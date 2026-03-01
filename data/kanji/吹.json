@@ -274,24 +274,36 @@
       {
         "example": "吹奏楽",
         "reading": "スイソウガク",
-        "meaning": "wind music, wind instrument music"
+        "meaning": {
+          "en": "wind music, wind instrument music"
+        },
+        "romaji": "suisougaku"
       },
       {
         "example": "推挙",
         "reading": "スイキョ",
-        "meaning": "recommendation (of a person for a position), nomination"
+        "meaning": {
+          "vi": "recommendation (of a person for a position), nomination"
+        },
+        "romaji": "suikyo"
       },
       {
         "example": "鼓吹",
         "reading": "コスイ",
-        "meaning": "rousing (courage, morale, etc.), encouragement, advocacy, promotion (of a belief), encouragement, inspiring (someone with an idea)"
+        "meaning": {
+          "vi": "rousing (courage, morale, etc.), encouragement, advocacy, promotion (of a belief), encouragement, inspiring (someone with an idea)"
+        },
+        "romaji": "kosui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吹く",
         "reading": "ふく",
-        "meaning": "to blow (of the wind), to blow (one's breath), to breathe out, to blow on (hot tea, candles, etc.), to puff, to play (a wind instrument), to blow (a whistle, trumpet, etc.), to whistle (a tune), to emit (smoke, fire, etc.), to spout, to spew, to puff out, to sprout, to put forth (buds), to appear (on the surface), to form, to be coated with (powder, rust, etc.), to burst out laughing, to burst into laughter, to brag, to talk big, to smelt, to mint"
+        "meaning": {
+          "vi": "to blow (of the wind), to blow (one's breath), to breathe out, to blow on (hot tea, candles, etc.), to puff, to play (a wind instrument), to blow (a whistle, trumpet, etc.), to whistle (a tune), to emit (smoke, fire, etc.), to spout, to spew, to puff out, to sprout, to put forth (buds), to appear (on the surface), to form, to be coated with (powder, rust, etc.), to burst out laughing, to burst into laughter, to brag, to talk big, to smelt, to mint"
+        },
+        "romaji": "fuku"
       }
     ],
     "radical": {
@@ -306,5 +318,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05439.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5439.gif",
     "uri": "https://jisho.org/search/%E5%90%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "xuy",
+    "xuý"
+  ]
 }

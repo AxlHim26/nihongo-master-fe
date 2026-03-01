@@ -19,29 +19,44 @@
       {
         "example": "匿",
         "reading": "トク",
-        "meaning": "shelter, shield, hide"
+        "meaning": {
+          "en": "shelter, shield, hide"
+        },
+        "romaji": "toku"
       },
       {
         "example": "匿名",
         "reading": "トクメイ",
-        "meaning": "anonymity, using an assumed name"
+        "meaning": {
+          "en": "anonymity, using an assumed name"
+        },
+        "romaji": "tokumei"
       },
       {
         "example": "隠匿",
         "reading": "イントク",
-        "meaning": "concealment (esp. of wrongdoings or criminals), sheltering, harboring"
+        "meaning": {
+          "vi": "concealment (esp. of wrongdoings or criminals), sheltering, harboring"
+        },
+        "romaji": "intoku"
       },
       {
         "example": "秘匿",
         "reading": "ヒトク",
-        "meaning": "hiding, concealment"
+        "meaning": {
+          "en": "hiding, concealment"
+        },
+        "romaji": "hitoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "匿う",
         "reading": "かくまう",
-        "meaning": "to shelter (e.g. a fugitive), to harbour, to harbor, to hide, to give refuge to"
+        "meaning": {
+          "en": "to shelter (e.g. a fugitive), to harbour, to harbor, to hide, to give refuge to"
+        },
+        "romaji": "kakumau"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0533f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/533f.gif",
     "uri": "https://jisho.org/search/%E5%8C%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "nặc"
+  ]
 }

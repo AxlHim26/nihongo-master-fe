@@ -301,44 +301,68 @@
       {
         "example": "玉",
         "reading": "ギョク",
-        "meaning": "precious stone (esp. jade), egg (esp. as a sushi topping), stock or security being traded, product being bought or sold, position (in finance, the amount of a security either owned or owed by an investor or dealer), geisha, time charge for a geisha, king (of the junior player)"
+        "meaning": {
+          "vi": "precious stone (esp. jade), egg (esp. as a sushi topping), stock or security being traded, product being bought or sold, position (in finance, the amount of a security either owned or owed by an investor or dealer), geisha, time charge for a geisha, king (of the junior player)"
+        },
+        "romaji": "gyoku"
       },
       {
         "example": "玉音",
         "reading": "ギョクオン",
-        "meaning": "the Emperor's voice, beautiful voice, beautiful sound"
+        "meaning": {
+          "vi": "the Emperor's voice, beautiful voice, beautiful sound"
+        },
+        "romaji": "gyokuon"
       },
       {
         "example": "珠玉",
         "reading": "シュギョク",
-        "meaning": "jewel, gem, gem (of a story, essay, etc.), accomplished work, beautiful piece"
+        "meaning": {
+          "vi": "jewel, gem, gem (of a story, essay, etc.), accomplished work, beautiful piece"
+        },
+        "romaji": "shugyoku"
       },
       {
         "example": "居玉",
         "reading": "イギョク",
-        "meaning": "playing with one's king in its original starting position, sitting king"
+        "meaning": {
+          "vi": "playing with one's king in its original starting position, sitting king"
+        },
+        "romaji": "igyoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "玉",
         "reading": "たま",
-        "meaning": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        "meaning": {
+          "vi": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        },
+        "romaji": "tama"
       },
       {
         "example": "卵",
         "reading": "たまご",
-        "meaning": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
+        "meaning": {
+          "vi": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
+        },
+        "romaji": "tamago"
       },
       {
         "example": "埼玉",
         "reading": "さいたま",
-        "meaning": "Saitama (city, prefecture)"
+        "meaning": {
+          "vi": "Saitama (city, prefecture)"
+        },
+        "romaji": "saitama"
       },
       {
         "example": "勾玉",
         "reading": "まがたま",
-        "meaning": "magatama, comma-shaped bead from prehistoric Japan, usually made of jade"
+        "meaning": {
+          "vi": "magatama, comma-shaped bead from prehistoric Japan, usually made of jade"
+        },
+        "romaji": "magatama"
       }
     ],
     "radical": {
@@ -356,5 +380,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07389.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7389.gif",
     "uri": "https://jisho.org/search/%E7%8E%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngọc",
+    "túc"
+  ]
 }

@@ -16,17 +16,26 @@
       {
         "example": "単細胞",
         "reading": "タンサイボウ",
-        "meaning": "single cell, simple-minded, one-track-minded"
+        "meaning": {
+          "vi": "single cell, simple-minded, one-track-minded"
+        },
+        "romaji": "tansaibou"
       },
       {
         "example": "單槍匹馬",
         "reading": "タンソウヒツバ",
-        "meaning": "doing something on one's own without another's help"
+        "meaning": {
+          "vi": "doing something on one's own without another's help"
+        },
+        "romaji": "tansouhitsuba"
       },
       {
         "example": "菜単",
         "reading": "サイタン",
-        "meaning": "menu (at a Chinese restaurant)"
+        "meaning": {
+          "en": "menu (at a Chinese restaurant)"
+        },
+        "romaji": "saitan"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55ae.gif",
     "uri": "https://jisho.org/search/%E5%96%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiền",
+    "thiện",
+    "đan",
+    "đơn",
+    "đạn"
+  ]
 }

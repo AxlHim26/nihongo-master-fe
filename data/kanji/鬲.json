@@ -18,14 +18,20 @@
       {
         "example": "鬲",
         "reading": "レキ",
-        "meaning": "Chinese kettle with three legs"
+        "meaning": {
+          "en": "Chinese kettle with three legs"
+        },
+        "romaji": "reki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鬲",
         "reading": "かなえ",
-        "meaning": "kanji \"tripod\" radical (radical 193)"
+        "meaning": {
+          "vi": "kanji \"tripod\" radical (radical 193)"
+        },
+        "romaji": "kanae"
       }
     ],
     "radical": {
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b32.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b32.gif",
     "uri": "https://jisho.org/search/%E9%AC%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cách",
+    "lịch"
+  ]
 }

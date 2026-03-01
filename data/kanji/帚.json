@@ -18,12 +18,18 @@
       {
         "example": "箒",
         "reading": "ほうき",
-        "meaning": "broom"
+        "meaning": {
+          "en": "broom"
+        },
+        "romaji": "houki"
       },
       {
         "example": "ほうき星",
         "reading": "ほうきぼし",
-        "meaning": "comet"
+        "meaning": {
+          "en": "comet"
+        },
+        "romaji": "houkiboshi"
       }
     ],
     "radical": {
@@ -39,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e1a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e1a.gif",
     "uri": "https://jisho.org/search/%E5%B8%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "chửu",
+    "trửu"
+  ]
 }

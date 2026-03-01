@@ -17,7 +17,10 @@
       {
         "example": "漲る",
         "reading": "みなぎる",
-        "meaning": "to rise high (of water), to overflow, to swell, to be filled with (emotion, energy, etc.), to be bursting with, to be brimming with, to pervade (of an atmosphere, feeling, etc.), to prevail"
+        "meaning": {
+          "vi": "to rise high (of water), to overflow, to swell, to be filled with (emotion, energy, etc.), to be bursting with, to be brimming with, to pervade (of an atmosphere, feeling, etc.), to prevail"
+        },
+        "romaji": "minagiru"
       }
     ],
     "radical": {
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f32.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f32.gif",
     "uri": "https://jisho.org/search/%E6%BC%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "trướng"
+  ]
 }

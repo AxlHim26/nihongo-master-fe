@@ -14,7 +14,10 @@
       {
         "example": "石槨",
         "reading": "セッカク",
-        "meaning": "stone burial chamber"
+        "meaning": {
+          "en": "stone burial chamber"
+        },
+        "romaji": "sekkaku"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69e8.gif",
     "uri": "https://jisho.org/search/%E6%A7%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "quách"
+  ]
 }

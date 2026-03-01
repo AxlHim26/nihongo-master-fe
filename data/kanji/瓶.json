@@ -237,54 +237,84 @@
       {
         "example": "瓶",
         "reading": "ビン",
-        "meaning": "bottle, jar, decanter, flagon, phial, vial"
+        "meaning": {
+          "vi": "bottle, jar, decanter, flagon, phial, vial"
+        },
+        "romaji": "bin"
       },
       {
         "example": "瓶詰め",
         "reading": "ビンヅメ",
-        "meaning": "bottling, bottled"
+        "meaning": {
+          "en": "bottling, bottled"
+        },
+        "romaji": "binzume"
       },
       {
         "example": "火炎瓶",
         "reading": "カエンビン",
-        "meaning": "Molotov cocktail, petrol bomb, gasoline bomb"
+        "meaning": {
+          "vi": "Molotov cocktail, petrol bomb, gasoline bomb"
+        },
+        "romaji": "kaenbin"
       },
       {
         "example": "水瓶",
         "reading": "スイビョウ",
-        "meaning": "portable water vessel (for drinking or washing up)"
+        "meaning": {
+          "vi": "portable water vessel (for drinking or washing up)"
+        },
+        "romaji": "suibyou"
       },
       {
         "example": "瓶",
         "reading": "ヘイ",
-        "meaning": "jar or vase with a long narrow neck"
+        "meaning": {
+          "en": "jar or vase with a long narrow neck"
+        },
+        "romaji": "hei"
       },
       {
         "example": "瓶子",
         "reading": "ヘイジ",
-        "meaning": "earthenware pot (used as a decanter), jar, jug"
+        "meaning": {
+          "vi": "earthenware pot (used as a decanter), jar, jug"
+        },
+        "romaji": "heiji"
       },
       {
         "example": "大瓶",
         "reading": "タイヘイ",
-        "meaning": "large earthenware pot"
+        "meaning": {
+          "vi": "large earthenware pot"
+        },
+        "romaji": "taihei"
       },
       {
         "example": "酒瓶",
         "reading": "サカビン",
-        "meaning": "sake bottle"
+        "meaning": {
+          "en": "sake bottle"
+        },
+        "romaji": "sakabin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "甕",
         "reading": "かめ",
-        "meaning": "earthenware pot"
+        "meaning": {
+          "vi": "earthenware pot"
+        },
+        "romaji": "kame"
       },
       {
         "example": "瓶覗",
         "reading": "かめのぞき",
-        "meaning": "faint indigo blue (traditional Japanese color name)"
+        "meaning": {
+          "vi": "faint indigo blue (traditional Japanese color name)"
+        },
+        "romaji": "kamenozoki"
       }
     ],
     "radical": {
@@ -302,5 +332,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/074f6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/74f6.gif",
     "uri": "https://jisho.org/search/%E7%93%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "bình"
+  ]
 }

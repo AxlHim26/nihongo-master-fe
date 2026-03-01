@@ -316,39 +316,60 @@
       {
         "example": "遺憾",
         "reading": "イカン",
-        "meaning": "regrettable, unsatisfactory, deplorable, lamentable"
+        "meaning": {
+          "vi": "regrettable, unsatisfactory, deplorable, lamentable"
+        },
+        "romaji": "ikan"
       },
       {
         "example": "遺影",
         "reading": "イエイ",
-        "meaning": "portrait of a deceased person"
+        "meaning": {
+          "vi": "portrait of a deceased person"
+        },
+        "romaji": "iei"
       },
       {
         "example": "拾遺",
         "reading": "シュウイ",
-        "meaning": "gleaning, gleanings"
+        "meaning": {
+          "en": "gleaning, gleanings"
+        },
+        "romaji": "shuui"
       },
       {
         "example": "古語拾遺",
         "reading": "コゴシュウイ",
-        "meaning": "Gleanings from Ancient Stories (Inbe no Hironari, 807 CE), historical record from the Inbe clan"
+        "meaning": {
+          "en": "Gleanings from Ancient Stories (Inbe no Hironari, 807 CE), historical record from the Inbe clan"
+        },
+        "romaji": "kogoshuui"
       },
       {
         "example": "遺言",
         "reading": "ユイゴン",
-        "meaning": "will, testament, one's dying wish, one's last words"
+        "meaning": {
+          "en": "will, testament, one's dying wish, one's last words"
+        },
+        "romaji": "yuigon"
       },
       {
         "example": "遺骸",
         "reading": "イガイ",
-        "meaning": "remains, corpse, body"
+        "meaning": {
+          "vi": "remains, corpse, body"
+        },
+        "romaji": "igai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遺す",
         "reading": "のこす",
-        "meaning": "to leave (to someone, esp. after one's death), to bequeath"
+        "meaning": {
+          "vi": "to leave (to someone, esp. after one's death), to bequeath"
+        },
+        "romaji": "nokosu"
       }
     ],
     "radical": {
@@ -373,5 +394,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907a.gif",
     "uri": "https://jisho.org/search/%E9%81%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "dị"
+  ]
 }

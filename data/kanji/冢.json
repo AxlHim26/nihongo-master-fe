@@ -17,19 +17,28 @@
       {
         "example": "冢宰",
         "reading": "チョウサイ",
-        "meaning": "Minister of State (Zhou dynasty China)"
+        "meaning": {
+          "en": "Minister of State (Zhou dynasty China)"
+        },
+        "romaji": "chousai"
       },
       {
         "example": "陪塚",
         "reading": "バイチョウ",
-        "meaning": "subsidiary burial mound (Kofun period), satellite burial mound"
+        "meaning": {
+          "vi": "subsidiary burial mound (Kofun period), satellite burial mound"
+        },
+        "romaji": "baichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塚",
         "reading": "つか",
-        "meaning": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+        "meaning": {
+          "vi": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+        },
+        "romaji": "tsuka"
       }
     ],
     "radical": {
@@ -45,5 +54,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a2.gif",
     "uri": "https://jisho.org/search/%E5%86%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "trũng",
+    "trủng"
+  ]
 }

@@ -304,44 +304,68 @@
       {
         "example": "宝飾",
         "reading": "ホウショク",
-        "meaning": "jewels and ornaments, jewelry, jewellery"
+        "meaning": {
+          "en": "jewels and ornaments, jewelry, jewellery"
+        },
+        "romaji": "houshoku"
       },
       {
         "example": "宝庫",
         "reading": "ホウコ",
-        "meaning": "treasury, treasure house, storehouse, repository, treasure trove, rich source (of)"
+        "meaning": {
+          "vi": "treasury, treasure house, storehouse, repository, treasure trove, rich source (of)"
+        },
+        "romaji": "houko"
       },
       {
         "example": "人間国宝",
         "reading": "ニンゲンコクホウ",
-        "meaning": "living national treasure"
+        "meaning": {
+          "en": "living national treasure"
+        },
+        "romaji": "ningenkokuhou"
       },
       {
         "example": "至宝",
         "reading": "シホウ",
-        "meaning": "greatest treasure, most valuable asset, pride (of)"
+        "meaning": {
+          "vi": "greatest treasure, most valuable asset, pride (of)"
+        },
+        "romaji": "shihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宝",
         "reading": "たから",
-        "meaning": "treasure"
+        "meaning": {
+          "en": "treasure"
+        },
+        "romaji": "takara"
       },
       {
         "example": "宝くじ",
         "reading": "たからくじ",
-        "meaning": "lottery, lottery ticket"
+        "meaning": {
+          "en": "lottery, lottery ticket"
+        },
+        "romaji": "takarakuji"
       },
       {
         "example": "お宝",
         "reading": "おたから",
-        "meaning": "treasure, precious article, valuable possession, thing one treasures, picture of a treasure ship, money, cash"
+        "meaning": {
+          "vi": "treasure, precious article, valuable possession, thing one treasures, picture of a treasure ship, money, cash"
+        },
+        "romaji": "otakara"
       },
       {
         "example": "正直は一生の宝",
         "reading": "しょうじきはいっしょうのたから",
-        "meaning": "honesty is the best policy"
+        "meaning": {
+          "vi": "honesty is the best policy"
+        },
+        "romaji": "shoujikihaisshounotakara"
       }
     ],
     "radical": {
@@ -357,5 +381,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9d.gif",
     "uri": "https://jisho.org/search/%E5%AE%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bảo",
+    "bửu"
+  ]
 }

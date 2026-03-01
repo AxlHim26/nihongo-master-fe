@@ -14,17 +14,26 @@
       {
         "example": "兀然",
         "reading": "コツゼン",
-        "meaning": "towering, standing motionlessly, still"
+        "meaning": {
+          "en": "towering, standing motionlessly, still"
+        },
+        "romaji": "kotsuzen"
       },
       {
         "example": "兀立",
         "reading": "コツリツ",
-        "meaning": "towering, standing motionlessly"
+        "meaning": {
+          "en": "towering, standing motionlessly"
+        },
+        "romaji": "kotsuritsu"
       },
       {
         "example": "突兀",
         "reading": "トッコツ",
-        "meaning": "lofty, soaring, towering, precipitous, high and steep, sharply sticking out, jutting upward"
+        "meaning": {
+          "vi": "lofty, soaring, towering, precipitous, high and steep, sharply sticking out, jutting upward"
+        },
+        "romaji": "tokkotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +49,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05140.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5140.gif",
     "uri": "https://jisho.org/search/%E5%85%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngoạt",
+    "ngột",
+    "ô"
+  ]
 }

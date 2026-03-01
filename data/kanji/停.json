@@ -304,34 +304,52 @@
       {
         "example": "停車",
         "reading": "テイシャ",
-        "meaning": "stopping (of a train, car, etc.), stop"
+        "meaning": {
+          "vi": "stopping (of a train, car, etc.), stop"
+        },
+        "romaji": "teisha"
       },
       {
         "example": "停止",
         "reading": "テイシ",
-        "meaning": "stoppage, coming to a stop, halt, standstill, ceasing (movement, activity, etc.), suspension (of operations), interruption (e.g. of electricity supply), cutting off, suspension (of payment, a licence, etc.), (temporary) prohibition, ban, suspension of music, dance, etc. as a sign of mourning for a prominent person"
+        "meaning": {
+          "vi": "stoppage, coming to a stop, halt, standstill, ceasing (movement, activity, etc.), suspension (of operations), interruption (e.g. of electricity supply), cutting off, suspension (of payment, a licence, etc.), (temporary) prohibition, ban, suspension of music, dance, etc. as a sign of mourning for a prominent person"
+        },
+        "romaji": "teishi"
       },
       {
         "example": "解停",
         "reading": "カイテイ",
-        "meaning": "release from suspension (of a newspaper, magazine, etc.; Meiji period), removal of suspension"
+        "meaning": {
+          "vi": "release from suspension (of a newspaper, magazine, etc.; Meiji period), removal of suspension"
+        },
+        "romaji": "kaitei"
       },
       {
         "example": "居中調停",
         "reading": "キョチュウチョウテイ",
-        "meaning": "mediation"
+        "meaning": {
+          "en": "mediation"
+        },
+        "romaji": "kyochuuchoutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "止める",
         "reading": "とめる",
-        "meaning": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+        "meaning": {
+          "vi": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+        },
+        "romaji": "tomeru"
       },
       {
         "example": "止まる",
         "reading": "とまる",
-        "meaning": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+        "meaning": {
+          "vi": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+        },
+        "romaji": "tomaru"
       }
     ],
     "radical": {
@@ -353,5 +371,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0505c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/505c.gif",
     "uri": "https://jisho.org/search/%E5%81%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "đình"
+  ]
 }

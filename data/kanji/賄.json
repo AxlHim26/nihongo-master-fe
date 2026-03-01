@@ -19,19 +19,28 @@
       {
         "example": "賄賂",
         "reading": "ワイロ",
-        "meaning": "bribe, sweetener, douceur"
+        "meaning": {
+          "en": "bribe, sweetener, douceur"
+        },
+        "romaji": "wairo"
       },
       {
         "example": "あっせん収賄",
         "reading": "アッセンシュウワイ",
-        "meaning": "influence peddling"
+        "meaning": {
+          "vi": "influence peddling"
+        },
+        "romaji": "assenshuuwai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "賄う",
         "reading": "まかなう",
-        "meaning": "to supply (goods, money, etc.), to cover (costs), to pay, to finance, to maintain (e.g. a family), to give board, to provide meals"
+        "meaning": {
+          "vi": "to supply (goods, money, etc.), to cover (costs), to pay, to finance, to maintain (e.g. a family), to give board, to provide meals"
+        },
+        "romaji": "makanau"
       }
     ],
     "radical": {
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc4.gif",
     "uri": "https://jisho.org/search/%E8%B3%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "hối"
+  ]
 }

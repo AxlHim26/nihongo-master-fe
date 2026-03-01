@@ -16,7 +16,10 @@
       {
         "example": "蓊鬱",
         "reading": "オウウツ",
-        "meaning": "overgrown, exuberant, lush"
+        "meaning": {
+          "en": "overgrown, exuberant, lush"
+        },
+        "romaji": "ouutsu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ca.gif",
     "uri": "https://jisho.org/search/%E8%93%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "ông",
+    "ống"
+  ]
 }

@@ -17,17 +17,26 @@
       {
         "example": "集録",
         "reading": "シュウロク",
-        "meaning": "compilation (of writings), compiling, gathering"
+        "meaning": {
+          "vi": "compilation (of writings), compiling, gathering"
+        },
+        "romaji": "shuuroku"
       },
       {
         "example": "集輯",
         "reading": "シュウシュウ",
-        "meaning": "gathered together and compiled"
+        "meaning": {
+          "vi": "gathered together and compiled"
+        },
+        "romaji": "shuushuu"
       },
       {
         "example": "第一集",
         "reading": "ダイイッシュウ",
-        "meaning": "first series"
+        "meaning": {
+          "en": "first series"
+        },
+        "romaji": "daiisshuu"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f2f.gif",
     "uri": "https://jisho.org/search/%E8%BC%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tập"
+  ]
 }

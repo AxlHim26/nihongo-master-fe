@@ -20,44 +20,66 @@
       {
         "example": "阿",
         "reading": "ア",
-        "meaning": "first Sanskrit alphabet letter, Africa, Awa (old province of Japan), prefixed to names to show intimacy"
+        "meaning": {
+          "vi": "first Sanskrit alphabet letter, Africa, Awa (old province of Japan), prefixed to names to show intimacy"
+        },
+        "romaji": "a"
       },
       {
         "example": "【アホ】",
         "reading": "fool, idiot, simpleton",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "fool, idiot, simpleton"
       },
       {
         "example": "南ア",
         "reading": "ナンア",
-        "meaning": "South Africa"
+        "meaning": {
+          "en": "South Africa"
+        },
+        "romaji": "nan'a"
       },
       {
         "example": "阿蘭陀",
         "reading": "オランダ",
-        "meaning": "Netherlands, Holland"
+        "meaning": {
+          "en": "Netherlands, Holland"
+        },
+        "romaji": "oranda"
       },
       {
         "example": "お亀",
         "reading": "オカメ",
-        "meaning": "homely woman (esp. one with a small low nose, high flat forehead, and bulging cheeks), plain woman, soba in soup with slices of boiled fish paste, shiitake mushrooms, greens, seaweed, etc."
+        "meaning": {
+          "vi": "homely woman (esp. one with a small low nose, high flat forehead, and bulging cheeks), plain woman, soba in soup with slices of boiled fish paste, shiitake mushrooms, greens, seaweed, etc."
+        },
+        "romaji": "okame"
       },
       {
         "example": "加加阿",
         "reading": "カカオ",
-        "meaning": "cacao tree (Theobroma cacao), cocoa tree"
+        "meaning": {
+          "en": "cacao tree (Theobroma cacao), cocoa tree"
+        },
+        "romaji": "kakao"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "阿る",
         "reading": "おもねる",
-        "meaning": "to flatter, to play up (to), to curry favor (with), to fawn (on), to cater (to)"
+        "meaning": {
+          "vi": "to flatter, to play up (to), to curry favor (with), to fawn (on), to cater (to)"
+        },
+        "romaji": "omoneru"
       },
       {
         "example": "隈",
         "reading": "くま",
-        "meaning": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles"
+        "meaning": {
+          "vi": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles"
+        },
+        "romaji": "kuma"
       }
     ],
     "radical": {
@@ -77,5 +99,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0963f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/963f.gif",
     "uri": "https://jisho.org/search/%E9%98%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "a",
+    "á",
+    "ốc"
+  ]
 }

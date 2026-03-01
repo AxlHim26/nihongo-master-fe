@@ -18,14 +18,20 @@
       {
         "example": "膝膕",
         "reading": "シッカク",
-        "meaning": "popliteal fossa"
+        "meaning": {
+          "vi": "popliteal fossa"
+        },
+        "romaji": "shikkaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "膕",
         "reading": "ひかがみ",
-        "meaning": "hollow of the knee"
+        "meaning": {
+          "en": "hollow of the knee"
+        },
+        "romaji": "hikagami"
       }
     ],
     "radical": {
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08195.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8195.gif",
     "uri": "https://jisho.org/search/%E8%86%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "quắc"
+  ]
 }

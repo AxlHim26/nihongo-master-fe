@@ -288,22 +288,34 @@
       {
         "example": "模型",
         "reading": "モケイ",
-        "meaning": "model, dummy, maquette"
+        "meaning": {
+          "en": "model, dummy, maquette"
+        },
+        "romaji": "mokei"
       },
       {
         "example": "模擬",
         "reading": "モギ",
-        "meaning": "imitation"
+        "meaning": {
+          "en": "imitation"
+        },
+        "romaji": "mogi"
       },
       {
         "example": "小規模",
         "reading": "ショウキボ",
-        "meaning": "small scale"
+        "meaning": {
+          "en": "small scale"
+        },
+        "romaji": "shoukibo"
       },
       {
         "example": "中規模",
         "reading": "チュウキボ",
-        "meaning": "mid-range, mid-scale, mid-size"
+        "meaning": {
+          "en": "mid-range, mid-scale, mid-size"
+        },
+        "romaji": "chuukibo"
       }
     ],
     "kunyomiExamples": [],
@@ -321,5 +333,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a21.gif",
     "uri": "https://jisho.org/search/%E6%A8%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô"
+  ]
 }

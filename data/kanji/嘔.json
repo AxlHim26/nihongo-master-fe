@@ -19,12 +19,18 @@
       {
         "example": "嘔吐",
         "reading": "オウト",
-        "meaning": "vomiting, emesis"
+        "meaning": {
+          "en": "vomiting, emesis"
+        },
+        "romaji": "outo"
       },
       {
         "example": "嘔気",
         "reading": "オウキ",
-        "meaning": "nausea"
+        "meaning": {
+          "en": "nausea"
+        },
+        "romaji": "ouki"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05614.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5614.gif",
     "uri": "https://jisho.org/search/%E5%98%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "hu",
+    "hú",
+    "âu",
+    "ẩu"
+  ]
 }

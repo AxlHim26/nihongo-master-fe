@@ -294,42 +294,66 @@
       {
         "example": "幕",
         "reading": "マク",
-        "meaning": "curtain, act (in a play), falling of the curtain, end (of a scene), end, close, case, occasion, role (to play), part, place, makuuchi, top division"
+        "meaning": {
+          "vi": "curtain, act (in a play), falling of the curtain, end (of a scene), end, close, case, occasion, role (to play), part, place, makuuchi, top division"
+        },
+        "romaji": "maku"
       },
       {
         "example": "幕開け",
         "reading": "マクアケ",
-        "meaning": "rise of the curtain, opening of a play, beginning (e.g. of an era), start, opening (of a tournament, festival, etc.)"
+        "meaning": {
+          "vi": "rise of the curtain, opening of a play, beginning (e.g. of an era), start, opening (of a tournament, festival, etc.)"
+        },
+        "romaji": "makuake"
       },
       {
         "example": "入幕",
         "reading": "ニュウマク",
-        "meaning": "advancing to the first grade"
+        "meaning": {
+          "en": "advancing to the first grade"
+        },
+        "romaji": "nyuumaku"
       },
       {
         "example": "閉幕",
         "reading": "ヘイマク",
-        "meaning": "falling of the curtain, (coming to an) end, close"
+        "meaning": {
+          "en": "falling of the curtain, (coming to an) end, close"
+        },
+        "romaji": "heimaku"
       },
       {
         "example": "幕末",
         "reading": "バクマツ",
-        "meaning": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"
+        "meaning": {
+          "vi": "Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period"
+        },
+        "romaji": "bakumatsu"
       },
       {
         "example": "幕府",
         "reading": "バクフ",
-        "meaning": "shogunate, bakufu, shogun's headquarters, Imperial Guards office, residence of the Imperial Guards commander"
+        "meaning": {
+          "vi": "shogunate, bakufu, shogun's headquarters, Imperial Guards office, residence of the Imperial Guards commander"
+        },
+        "romaji": "bakufu"
       },
       {
         "example": "帷幕",
         "reading": "イバク",
-        "meaning": "curtain, field staff headquarters, secret meeting place"
+        "meaning": {
+          "vi": "curtain, field staff headquarters, secret meeting place"
+        },
+        "romaji": "ibaku"
       },
       {
         "example": "討幕",
         "reading": "トウバク",
-        "meaning": "attacking the shogunate"
+        "meaning": {
+          "en": "attacking the shogunate"
+        },
+        "romaji": "toubaku"
       }
     ],
     "kunyomiExamples": [],
@@ -347,5 +371,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e55.gif",
     "uri": "https://jisho.org/search/%E5%B9%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "mán",
+    "mô",
+    "mạc",
+    "mạn",
+    "mộ"
+  ]
 }

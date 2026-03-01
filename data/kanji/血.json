@@ -315,44 +315,68 @@
       {
         "example": "血液",
         "reading": "ケツエキ",
-        "meaning": "blood"
+        "meaning": {
+          "en": "blood"
+        },
+        "romaji": "ketsueki"
       },
       {
         "example": "血圧",
         "reading": "ケツアツ",
-        "meaning": "blood pressure"
+        "meaning": {
+          "vi": "blood pressure"
+        },
+        "romaji": "ketsuatsu"
       },
       {
         "example": "脳出血",
         "reading": "ノウシュッケツ",
-        "meaning": "cerebral hemorrhage, cerebral haemorrhage"
+        "meaning": {
+          "en": "cerebral hemorrhage, cerebral haemorrhage"
+        },
+        "romaji": "noushukketsu"
       },
       {
         "example": "熱血",
         "reading": "ネッケツ",
-        "meaning": "hot blood, warm blood, zeal, fervor, fervour, ardor, ardour, enthusiasm"
+        "meaning": {
+          "en": "hot blood, warm blood, zeal, fervor, fervour, ardor, ardour, enthusiasm"
+        },
+        "romaji": "nekketsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "血",
         "reading": "ち",
-        "meaning": "blood, blood, ancestry, lineage, stock, (the) blood, feelings, passions"
+        "meaning": {
+          "vi": "blood, blood, ancestry, lineage, stock, (the) blood, feelings, passions"
+        },
+        "romaji": "chi"
       },
       {
         "example": "血筋",
         "reading": "ちすじ",
-        "meaning": "lineage, stock, descent, strain, blood relationship"
+        "meaning": {
+          "vi": "lineage, stock, descent, strain, blood relationship"
+        },
+        "romaji": "chisuji"
       },
       {
         "example": "黄色い血",
         "reading": "きいろいち",
-        "meaning": "blood low in blood cells (caused by frequent blood donations), yellow blood"
+        "meaning": {
+          "en": "blood low in blood cells (caused by frequent blood donations), yellow blood"
+        },
+        "romaji": "kiiroichi"
       },
       {
         "example": "生き血",
         "reading": "いきち",
-        "meaning": "lifeblood"
+        "meaning": {
+          "en": "lifeblood"
+        },
+        "romaji": "ikichi"
       }
     ],
     "radical": {
@@ -367,5 +391,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08840.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8840.gif",
     "uri": "https://jisho.org/search/%E8%A1%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyết"
+  ]
 }

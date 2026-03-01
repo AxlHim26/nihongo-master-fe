@@ -17,22 +17,34 @@
       {
         "example": "膜",
         "reading": "マク",
-        "meaning": "membrane, film"
+        "meaning": {
+          "en": "membrane, film"
+        },
+        "romaji": "maku"
       },
       {
         "example": "膜厚",
         "reading": "マクアツ",
-        "meaning": "film thickness, coating thickness"
+        "meaning": {
+          "en": "film thickness, coating thickness"
+        },
+        "romaji": "makuatsu"
       },
       {
         "example": "角膜",
         "reading": "カクマク",
-        "meaning": "cornea"
+        "meaning": {
+          "en": "cornea"
+        },
+        "romaji": "kakumaku"
       },
       {
         "example": "網膜",
         "reading": "モウマク",
-        "meaning": "retina"
+        "meaning": {
+          "en": "retina"
+        },
+        "romaji": "moumaku"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819c.gif",
     "uri": "https://jisho.org/search/%E8%86%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "mô",
+    "mạc"
+  ]
 }

@@ -18,34 +18,52 @@
       {
         "example": "鴛鴦",
         "reading": "エンオウ",
-        "meaning": "mandarin duck"
+        "meaning": {
+          "en": "mandarin duck"
+        },
+        "romaji": "en'ou"
       },
       {
         "example": "鴛鴦茶",
         "reading": "エンオウチャ",
-        "meaning": "drink of black tea mixed with coffee"
+        "meaning": {
+          "en": "drink of black tea mixed with coffee"
+        },
+        "romaji": "en'oucha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鴛鴦",
         "reading": "おし",
-        "meaning": "mandarin duck"
+        "meaning": {
+          "en": "mandarin duck"
+        },
+        "romaji": "oshi"
       },
       {
         "example": "鴛鴦",
         "reading": "おしどり",
-        "meaning": "mandarin duck (Aix galericulata)"
+        "meaning": {
+          "en": "mandarin duck (Aix galericulata)"
+        },
+        "romaji": "oshidori"
       },
       {
         "example": "鴛鴦",
         "reading": "おしどり",
-        "meaning": "mandarin duck (Aix galericulata)"
+        "meaning": {
+          "en": "mandarin duck (Aix galericulata)"
+        },
+        "romaji": "oshidori"
       },
       {
         "example": "おしどり夫婦",
         "reading": "おしどりふうふ",
-        "meaning": "loving couple, couple of lovebirds, happily married couple (who are always together)"
+        "meaning": {
+          "vi": "loving couple, couple of lovebirds, happily married couple (who are always together)"
+        },
+        "romaji": "oshidorifuufu"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1b.gif",
     "uri": "https://jisho.org/search/%E9%B4%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "uyên"
+  ]
 }

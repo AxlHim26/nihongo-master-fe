@@ -21,22 +21,34 @@
       {
         "example": "捩る",
         "reading": "よじる",
-        "meaning": "to twist, to contort"
+        "meaning": {
+          "en": "to twist, to contort"
+        },
+        "romaji": "yojiru"
       },
       {
         "example": "捩る",
         "reading": "ねじる",
-        "meaning": "to twist, to screw, to wrench, to sprain"
+        "meaning": {
+          "vi": "to twist, to screw, to wrench, to sprain"
+        },
+        "romaji": "nejiru"
       },
       {
         "example": "捩れる",
         "reading": "ねじれる",
-        "meaning": "to get twisted, to get crooked, to get warped, to become twisted (of a mind, relationship, etc.), to become warped, to become perverse, to become contrary, to become troubled, to become complicated, to become strained"
+        "meaning": {
+          "vi": "to get twisted, to get crooked, to get warped, to become twisted (of a mind, relationship, etc.), to become warped, to become perverse, to become contrary, to become troubled, to become complicated, to become strained"
+        },
+        "romaji": "nejireru"
       },
       {
         "example": "捩る",
         "reading": "もじる",
-        "meaning": "to parody, to make a parody of, to pun (on), to twist, to distort"
+        "meaning": {
+          "vi": "to parody, to make a parody of, to pun (on), to twist, to distort"
+        },
+        "romaji": "mojiru"
       }
     ],
     "radical": {
@@ -57,5 +69,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06369.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6369.gif",
     "uri": "https://jisho.org/search/%E6%8D%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "liệt",
+    "lệ"
+  ]
 }

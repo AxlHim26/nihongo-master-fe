@@ -252,44 +252,68 @@
       {
         "example": "里",
         "reading": "リ",
-        "meaning": "Japanese league, ri, old Japanese unit of distance, approx. 3.927 km or 2.44 miles, neighbourhood (under the ritsuryō system; orig. of 50 homes), unit of area (approx. 654 m by 654 m)"
+        "meaning": {
+          "vi": "Japanese league, ri, old Japanese unit of distance, approx. 3.927 km or 2.44 miles, neighbourhood (under the ritsuryō system; orig. of 50 homes), unit of area (approx. 654 m by 654 m)"
+        },
+        "romaji": "ri"
       },
       {
         "example": "俚言",
         "reading": "リゲン",
-        "meaning": "dialect, language of the common people, colloquial language, slang"
+        "meaning": {
+          "vi": "dialect, language of the common people, colloquial language, slang"
+        },
+        "romaji": "rigen"
       },
       {
         "example": "万里",
         "reading": "バンリ",
-        "meaning": "thousands of miles"
+        "meaning": {
+          "en": "thousands of miles"
+        },
+        "romaji": "banri"
       },
       {
         "example": "海里",
         "reading": "カイリ",
-        "meaning": "nautical mile"
+        "meaning": {
+          "en": "nautical mile"
+        },
+        "romaji": "kairi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "里",
         "reading": "さと",
-        "meaning": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past"
+        "meaning": {
+          "vi": "village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past"
+        },
+        "romaji": "sato"
       },
       {
         "example": "里親",
         "reading": "さとおや",
-        "meaning": "foster parent, foster parents, (pet) caretaker"
+        "meaning": {
+          "vi": "foster parent, foster parents, (pet) caretaker"
+        },
+        "romaji": "satooya"
       },
       {
         "example": "お里",
         "reading": "おさと",
-        "meaning": "one's parents' home, one's origins, one's upbringing, one's past"
+        "meaning": {
+          "vi": "one's parents' home, one's origins, one's upbringing, one's past"
+        },
+        "romaji": "osato"
       },
       {
         "example": "夏山冬里",
         "reading": "なつやまふゆさと",
-        "meaning": "pasturing cattle in summer and feeding them indoors during winter, rotated grazing"
+        "meaning": {
+          "vi": "pasturing cattle in summer and feeding them indoors during winter, rotated grazing"
+        },
+        "romaji": "natsuyamafuyusato"
       }
     ],
     "radical": {
@@ -303,5 +327,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cc.gif",
     "uri": "https://jisho.org/search/%E9%87%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "lí",
+    "lý"
+  ]
 }

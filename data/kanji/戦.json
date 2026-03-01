@@ -402,64 +402,100 @@
       {
         "example": "戦",
         "reading": "セン",
-        "meaning": "war, battle, match, game, competition"
+        "meaning": {
+          "vi": "war, battle, match, game, competition"
+        },
+        "romaji": "sen"
       },
       {
         "example": "戦域",
         "reading": "センイキ",
-        "meaning": "war area, battlefield, theater, theatre"
+        "meaning": {
+          "en": "war area, battlefield, theater, theatre"
+        },
+        "romaji": "sen'iki"
       },
       {
         "example": "開戦",
         "reading": "カイセン",
-        "meaning": "outbreak of war, starting a war"
+        "meaning": {
+          "en": "outbreak of war, starting a war"
+        },
+        "romaji": "kaisen"
       },
       {
         "example": "回戦",
         "reading": "カイセン",
-        "meaning": "event with ... rounds, innings, legs, etc., nth-round match (in a knockout tournament)"
+        "meaning": {
+          "en": "event with ... rounds, innings, legs, etc., nth-round match (in a knockout tournament)"
+        },
+        "romaji": "kaisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戦",
         "reading": "いくさ",
-        "meaning": "war, battle, campaign, fight, troops, forces"
+        "meaning": {
+          "vi": "war, battle, campaign, fight, troops, forces"
+        },
+        "romaji": "ikusa"
       },
       {
         "example": "戦乙女",
         "reading": "いくさおとめ",
-        "meaning": "Valkyrie"
+        "meaning": {
+          "en": "Valkyrie"
+        },
+        "romaji": "ikusaotome"
       },
       {
         "example": "負け戦",
         "reading": "まけいくさ",
-        "meaning": "losing a battle, lost battle, battle one cannot win, battle one is doomed to lose"
+        "meaning": {
+          "en": "losing a battle, lost battle, battle one cannot win, battle one is doomed to lose"
+        },
+        "romaji": "makeikusa"
       },
       {
         "example": "野合戦",
         "reading": "のがっせん",
-        "meaning": "battle in the open, battle on an open field"
+        "meaning": {
+          "vi": "battle in the open, battle on an open field"
+        },
+        "romaji": "nogassen"
       },
       {
         "example": "戦う",
         "reading": "たたかう",
-        "meaning": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"
+        "meaning": {
+          "vi": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"
+        },
+        "romaji": "tatakau"
       },
       {
         "example": "戦く",
         "reading": "おののく",
-        "meaning": "to shake (from fear, cold, excitement, etc.), to shudder, to tremble"
+        "meaning": {
+          "en": "to shake (from fear, cold, excitement, etc.), to shudder, to tremble"
+        },
+        "romaji": "ononoku"
       },
       {
         "example": "戦ぐ",
         "reading": "そよぐ",
-        "meaning": "to rustle, to sway, to stir, to flutter"
+        "meaning": {
+          "en": "to rustle, to sway, to stir, to flutter"
+        },
+        "romaji": "soyogu"
       },
       {
         "example": "戦慄く",
         "reading": "わななく",
-        "meaning": "to tremble, to shiver, to shake"
+        "meaning": {
+          "en": "to tremble, to shiver, to shake"
+        },
+        "romaji": "wananaku"
       }
     ],
     "radical": {
@@ -476,5 +512,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06226.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6226.gif",
     "uri": "https://jisho.org/search/%E6%88%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiến"
+  ]
 }

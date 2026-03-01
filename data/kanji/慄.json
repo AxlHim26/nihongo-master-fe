@@ -19,29 +19,44 @@
       {
         "example": "慄然",
         "reading": "リツゼン",
-        "meaning": "terrified, horrified"
+        "meaning": {
+          "en": "terrified, horrified"
+        },
+        "romaji": "ritsuzen"
       },
       {
         "example": "慄烈",
         "reading": "リツレツ",
-        "meaning": "stinging cold"
+        "meaning": {
+          "en": "stinging cold"
+        },
+        "romaji": "ritsuretsu"
       },
       {
         "example": "戦々慄々",
         "reading": "センセンリツリツ",
-        "meaning": "trembling with fear, filled with trepidation"
+        "meaning": {
+          "vi": "trembling with fear, filled with trepidation"
+        },
+        "romaji": "sensenritsuritsu"
       },
       {
         "example": "震慄",
         "reading": "シンリツ",
-        "meaning": "tremble, shudder, quiver"
+        "meaning": {
+          "en": "tremble, shudder, quiver"
+        },
+        "romaji": "shinritsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戦く",
         "reading": "おののく",
-        "meaning": "to shake (from fear, cold, excitement, etc.), to shudder, to tremble"
+        "meaning": {
+          "en": "to shake (from fear, cold, excitement, etc.), to shudder, to tremble"
+        },
+        "romaji": "ononoku"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06144.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6144.gif",
     "uri": "https://jisho.org/search/%E6%85%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "lật"
+  ]
 }

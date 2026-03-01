@@ -16,12 +16,18 @@
       {
         "example": "踏襲",
         "reading": "トウシュウ",
-        "meaning": "following (a precedent, former policy, etc.), continuing with, sticking to, observing"
+        "meaning": {
+          "vi": "following (a precedent, former policy, etc.), continuing with, sticking to, observing"
+        },
+        "romaji": "toushuu"
       },
       {
         "example": "舞蹈",
         "reading": "ブトウ",
-        "meaning": "dancing"
+        "meaning": {
+          "en": "dancing"
+        },
+        "romaji": "butou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e48.gif",
     "uri": "https://jisho.org/search/%E8%B9%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "đạo"
+  ]
 }

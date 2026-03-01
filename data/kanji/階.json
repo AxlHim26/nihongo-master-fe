@@ -334,29 +334,44 @@
       {
         "example": "階",
         "reading": "カイ",
-        "meaning": "storey, story, floor, stairs, stage (in chronostratigraphy), counter for storeys and floors of a building"
+        "meaning": {
+          "vi": "storey, story, floor, stairs, stage (in chronostratigraphy), counter for storeys and floors of a building"
+        },
+        "romaji": "kai"
       },
       {
         "example": "階級",
         "reading": "カイキュウ",
-        "meaning": "(social) class, rank, grade"
+        "meaning": {
+          "en": "(social) class, rank, grade"
+        },
+        "romaji": "kaikyuu"
       },
       {
         "example": "中二階",
         "reading": "チュウニカイ",
-        "meaning": "mezzanine floor"
+        "meaning": {
+          "en": "mezzanine floor"
+        },
+        "romaji": "chuunikai"
       },
       {
         "example": "位階",
         "reading": "イカイ",
-        "meaning": "court rank"
+        "meaning": {
+          "en": "court rank"
+        },
+        "romaji": "ikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "階",
         "reading": "きざはし",
-        "meaning": "stairs, stairs at the front of a noh stage"
+        "meaning": {
+          "en": "stairs, stairs at the front of a noh stage"
+        },
+        "romaji": "kizahashi"
       }
     ],
     "radical": {
@@ -375,5 +390,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968e.gif",
     "uri": "https://jisho.org/search/%E9%9A%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "giai"
+  ]
 }

@@ -329,39 +329,60 @@
       {
         "example": "東欧",
         "reading": "トウオウ",
-        "meaning": "Eastern Europe"
+        "meaning": {
+          "vi": "Eastern Europe"
+        },
+        "romaji": "touou"
       },
       {
         "example": "東亜",
         "reading": "トウア",
-        "meaning": "East Asia, the Orient"
+        "meaning": {
+          "en": "East Asia, the Orient"
+        },
+        "romaji": "toua"
       },
       {
         "example": "北北東",
         "reading": "ホクホクトウ",
-        "meaning": "north-northeast, north-north-east"
+        "meaning": {
+          "en": "north-northeast, north-north-east"
+        },
+        "romaji": "hokuhokutou"
       },
       {
         "example": "東北東",
         "reading": "トウホクトウ",
-        "meaning": "east-northeast, ENE"
+        "meaning": {
+          "en": "east-northeast, ENE"
+        },
+        "romaji": "touhokutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "東",
         "reading": "ひがし",
-        "meaning": "east"
+        "meaning": {
+          "en": "east"
+        },
+        "romaji": "higashi"
       },
       {
         "example": "東方",
         "reading": "とうほう",
-        "meaning": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)"
+        "meaning": {
+          "en": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)"
+        },
+        "romaji": "touhou"
       },
       {
         "example": "犬が西向きゃ尾は東",
         "reading": "いぬがにしむきゃおはひがし",
-        "meaning": "that goes without saying, water is wet, when a dog turns west, its tail turns east"
+        "meaning": {
+          "en": "that goes without saying, water is wet, when a dog turns west, its tail turns east"
+        },
+        "romaji": "inuganishimukyaohahigashi"
       }
     ],
     "radical": {
@@ -379,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06771.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6771.gif",
     "uri": "https://jisho.org/search/%E6%9D%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "đông"
+  ]
 }

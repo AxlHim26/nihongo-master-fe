@@ -264,29 +264,44 @@
       {
         "example": "司",
         "reading": "シ",
-        "meaning": "office (government department beneath a bureau under the ritsuryō system)"
+        "meaning": {
+          "vi": "office (government department beneath a bureau under the ritsuryō system)"
+        },
+        "romaji": "shi"
       },
       {
         "example": "司会",
         "reading": "シカイ",
-        "meaning": "leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship, chairman, presenter, host, moderator, master of ceremonies"
+        "meaning": {
+          "vi": "leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship, chairman, presenter, host, moderator, master of ceremonies"
+        },
+        "romaji": "shikai"
       },
       {
         "example": "公司",
         "reading": "コンス",
-        "meaning": "company (in China), firm"
+        "meaning": {
+          "vi": "company (in China), firm"
+        },
+        "romaji": "konsu"
       },
       {
         "example": "にぎり寿司",
         "reading": "ニギリズシ",
-        "meaning": "nigirizushi, hand-pressed vinegared rice topped with seafood"
+        "meaning": {
+          "vi": "nigirizushi, hand-pressed vinegared rice topped with seafood"
+        },
+        "romaji": "nigirizushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "司る",
         "reading": "つかさどる",
-        "meaning": "to be in charge of, to manage, to direct, to administer, to preside over, to rule, to govern, to control"
+        "meaning": {
+          "vi": "to be in charge of, to manage, to direct, to administer, to preside over, to rule, to govern, to control"
+        },
+        "romaji": "tsukasadoru"
       }
     ],
     "radical": {
@@ -302,5 +317,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f8.gif",
     "uri": "https://jisho.org/search/%E5%8F%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "ti",
+    "ty",
+    "tư"
+  ]
 }

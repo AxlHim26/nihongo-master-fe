@@ -17,7 +17,10 @@
       {
         "example": "膂力",
         "reading": "リョリョク",
-        "meaning": "sức lực, sức mạnh cơ bắp"
+        "meaning": {
+          "vi": "sức lực, sức mạnh cơ bắp"
+        },
+        "romaji": "ryoryoku"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08182.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8182.gif",
     "uri": "https://jisho.org/search/%E8%86%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "lữ"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "嵯峨",
         "reading": "サガ",
-        "meaning": "precipitous"
+        "meaning": {
+          "vi": "precipitous"
+        },
+        "romaji": "saga"
       },
       {
         "example": "嵯峨野線",
         "reading": "サガノセン",
-        "meaning": "Sagano Line (Kyoto)"
+        "meaning": {
+          "en": "Sagano Line (Kyoto)"
+        },
+        "romaji": "saganosen"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d6f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d6f.gif",
     "uri": "https://jisho.org/search/%E5%B5%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tha"
+  ]
 }

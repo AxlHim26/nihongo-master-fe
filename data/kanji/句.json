@@ -265,22 +265,34 @@
       {
         "example": "句",
         "reading": "ク",
-        "meaning": "section (i.e. of text), sentence, passage, paragraph, phrase, verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry), haiku, first 17 morae of a renga, etc., maxim, saying, idiom, expression, clause (e.g. in a database query language)"
+        "meaning": {
+          "vi": "section (i.e. of text), sentence, passage, paragraph, phrase, verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry), haiku, first 17 morae of a renga, etc., maxim, saying, idiom, expression, clause (e.g. in a database query language)"
+        },
+        "romaji": "ku"
       },
       {
         "example": "区切り",
         "reading": "クギリ",
-        "meaning": "pause (in speech, writing, etc.), punctuation, break, end, (place to) stop, pause, milestone (e.g. in a project)"
+        "meaning": {
+          "vi": "pause (in speech, writing, etc.), punctuation, break, end, (place to) stop, pause, milestone (e.g. in a project)"
+        },
+        "romaji": "kugiri"
       },
       {
         "example": "絶句",
         "reading": "ゼック",
-        "meaning": "being lost for words, becoming speechless, jueju (Chinese quatrain with lines of either five or seven syllables)"
+        "meaning": {
+          "vi": "being lost for words, becoming speechless, jueju (Chinese quatrain with lines of either five or seven syllables)"
+        },
+        "romaji": "zekku"
       },
       {
         "example": "慣用句",
         "reading": "カンヨウク",
-        "meaning": "idiom, set phrase, idiomatic phrase"
+        "meaning": {
+          "vi": "idiom, set phrase, idiomatic phrase"
+        },
+        "romaji": "kan'youku"
       }
     ],
     "kunyomiExamples": [],
@@ -296,5 +308,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e5.gif",
     "uri": "https://jisho.org/search/%E5%8F%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "câu",
+    "cú",
+    "cấu"
+  ]
 }

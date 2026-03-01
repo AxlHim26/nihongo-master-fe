@@ -260,44 +260,68 @@
       {
         "example": "革命",
         "reading": "カクメイ",
-        "meaning": "revolution, 58th year of the sexagenary cycle (in Onmyōdō)"
+        "meaning": {
+          "en": "revolution, 58th year of the sexagenary cycle (in Onmyōdō)"
+        },
+        "romaji": "kakumei"
       },
       {
         "example": "革新",
         "reading": "カクシン",
-        "meaning": "reform, innovation"
+        "meaning": {
+          "en": "reform, innovation"
+        },
+        "romaji": "kakushin"
       },
       {
         "example": "行革",
         "reading": "ギョウカク",
-        "meaning": "administrative reform"
+        "meaning": {
+          "en": "administrative reform"
+        },
+        "romaji": "gyoukaku"
       },
       {
         "example": "農地改革",
         "reading": "ノウチカイカク",
-        "meaning": "agrarian reform"
+        "meaning": {
+          "en": "agrarian reform"
+        },
+        "romaji": "nouchikaikaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "革",
         "reading": "かわ",
-        "meaning": "leather"
+        "meaning": {
+          "en": "leather"
+        },
+        "romaji": "kawa"
       },
       {
         "example": "革靴",
         "reading": "かわぐつ",
-        "meaning": "leather shoes, leather boots"
+        "meaning": {
+          "en": "leather shoes, leather boots"
+        },
+        "romaji": "kawagutsu"
       },
       {
         "example": "藍革",
         "reading": "あいかわ",
-        "meaning": "indigo-dyed leather"
+        "meaning": {
+          "en": "indigo-dyed leather"
+        },
+        "romaji": "aikawa"
       },
       {
         "example": "負い革",
         "reading": "おいかわ",
-        "meaning": "sling (e.g. of a firearm)"
+        "meaning": {
+          "en": "sling (e.g. of a firearm)"
+        },
+        "romaji": "oikawa"
       }
     ],
     "radical": {
@@ -314,5 +338,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09769.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9769.gif",
     "uri": "https://jisho.org/search/%E9%9D%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "cách",
+    "cức"
+  ]
 }

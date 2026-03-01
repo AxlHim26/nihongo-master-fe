@@ -323,49 +323,76 @@
       {
         "example": "舞台裏",
         "reading": "ブタイウラ",
-        "meaning": "offstage, backstage, behind the scenes"
+        "meaning": {
+          "en": "offstage, backstage, behind the scenes"
+        },
+        "romaji": "butaiura"
       },
       {
         "example": "舞台",
         "reading": "ブタイ",
-        "meaning": "stage (of a theatre, concert hall, etc.), (stage) performance, setting (of a story), scene, sphere (of activity), stage (e.g. political stage), scene, arena, world"
+        "meaning": {
+          "vi": "stage (of a theatre, concert hall, etc.), (stage) performance, setting (of a story), scene, sphere (of activity), stage (e.g. political stage), scene, arena, world"
+        },
+        "romaji": "butai"
       },
       {
         "example": "演舞",
         "reading": "エンブ",
-        "meaning": "dance performance"
+        "meaning": {
+          "vi": "dance performance"
+        },
+        "romaji": "enbu"
       },
       {
         "example": "歌舞",
         "reading": "カブ",
-        "meaning": "singing and dancing"
+        "meaning": {
+          "en": "singing and dancing"
+        },
+        "romaji": "kabu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "舞う",
         "reading": "まう",
-        "meaning": "to dance (orig. a whirling dance), to whirl (in the wind), to flutter (about), to swirl, to fly, to circle, to wheel"
+        "meaning": {
+          "en": "to dance (orig. a whirling dance), to whirl (in the wind), to flutter (about), to swirl, to fly, to circle, to wheel"
+        },
+        "romaji": "mau"
       },
       {
         "example": "舞",
         "reading": "まい",
-        "meaning": "dancing, dance"
+        "meaning": {
+          "en": "dancing, dance"
+        },
+        "romaji": "mai"
       },
       {
         "example": "舞い上がる",
         "reading": "まいあがる",
-        "meaning": "to soar, to fly high, to be whirled up, to make merry, to be ecstatic, to be in high spirits"
+        "meaning": {
+          "vi": "to soar, to fly high, to be whirled up, to make merry, to be ecstatic, to be in high spirits"
+        },
+        "romaji": "maiagaru"
       },
       {
         "example": "立ち居振る舞い",
         "reading": "たちいふるまい",
-        "meaning": "movements, bearing, deportment, carriage, behavior, behaviour, demeanor, demeanour, manners"
+        "meaning": {
+          "vi": "movements, bearing, deportment, carriage, behavior, behaviour, demeanor, demeanour, manners"
+        },
+        "romaji": "tachiifurumai"
       },
       {
         "example": "獅子舞",
         "reading": "ししまい",
-        "meaning": "lion dance, traditional dance performed by one or more dancers wearing a guardian lion costume"
+        "meaning": {
+          "vi": "lion dance, traditional dance performed by one or more dancers wearing a guardian lion costume"
+        },
+        "romaji": "shishimai"
       }
     ],
     "radical": {
@@ -386,5 +413,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0821e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/821e.gif",
     "uri": "https://jisho.org/search/%E8%88%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "vũ"
+  ]
 }

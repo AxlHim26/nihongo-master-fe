@@ -18,7 +18,10 @@
       {
         "example": "諸味",
         "reading": "もろみ",
-        "meaning": "main fermenting mash (in production of sake or soy sauce), unrefined sake or soy sauce, unrefined (sake, soy sauce, etc.), rough"
+        "meaning": {
+          "vi": "main fermenting mash (in production of sake or soy sauce), unrefined sake or soy sauce, unrefined (sake, soy sauce, etc.), rough"
+        },
+        "romaji": "moromi"
       }
     ],
     "radical": {
@@ -36,5 +39,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91aa.gif",
     "uri": "https://jisho.org/search/%E9%86%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao",
+    "giao",
+    "lao"
+  ]
 }

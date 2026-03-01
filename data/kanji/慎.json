@@ -22,54 +22,84 @@
       {
         "example": "慎重",
         "reading": "シンチョウ",
-        "meaning": "careful, cautious, prudent, discreet, deliberate"
+        "meaning": {
+          "vi": "careful, cautious, prudent, discreet, deliberate"
+        },
+        "romaji": "shinchou"
       },
       {
         "example": "慎重吟味",
         "reading": "シンチョウギンミ",
-        "meaning": "scrutiny, careful (close) examination (investigation), careful inquiry, careful selection"
+        "meaning": {
+          "en": "scrutiny, careful (close) examination (investigation), careful inquiry, careful selection"
+        },
+        "romaji": "shinchouginmi"
       },
       {
         "example": "謹慎",
         "reading": "キンシン",
-        "meaning": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
+        "meaning": {
+          "vi": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
+        },
+        "romaji": "kinshin"
       },
       {
         "example": "不謹慎",
         "reading": "フキンシン",
-        "meaning": "imprudent, indiscreet, immodest, indecent, inconsiderate, inappropriate"
+        "meaning": {
+          "vi": "imprudent, indiscreet, immodest, indecent, inconsiderate, inappropriate"
+        },
+        "romaji": "fukinshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慎む",
         "reading": "つつしむ",
-        "meaning": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+        "meaning": {
+          "vi": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+        },
+        "romaji": "tsutsushimu"
       },
       {
         "example": "慎ましい",
         "reading": "つつましい",
-        "meaning": "modest, reserved, quiet, humble, frugal, simple, plain"
+        "meaning": {
+          "vi": "modest, reserved, quiet, humble, frugal, simple, plain"
+        },
+        "romaji": "tsutsumashii"
       },
       {
         "example": "慎む",
         "reading": "つつしむ",
-        "meaning": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+        "meaning": {
+          "vi": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+        },
+        "romaji": "tsutsushimu"
       },
       {
         "example": "慎み",
         "reading": "つつしみ",
-        "meaning": "modesty, self-control, discretion"
+        "meaning": {
+          "en": "modesty, self-control, discretion"
+        },
+        "romaji": "tsutsushimi"
       },
       {
         "example": "慎み",
         "reading": "つつしみ",
-        "meaning": "modesty, self-control, discretion"
+        "meaning": {
+          "en": "modesty, self-control, discretion"
+        },
+        "romaji": "tsutsushimi"
       },
       {
         "example": "慎み深い",
         "reading": "つつしみぶかい",
-        "meaning": "discreet, modest, cautious"
+        "meaning": {
+          "en": "discreet, modest, cautious"
+        },
+        "romaji": "tsutsushimibukai"
       }
     ],
     "radical": {
@@ -91,5 +121,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614e.gif",
     "uri": "https://jisho.org/search/%E6%85%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thận"
+  ]
 }

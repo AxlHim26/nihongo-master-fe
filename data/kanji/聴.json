@@ -21,34 +21,52 @@
       {
         "example": "聴講",
         "reading": "チョウコウ",
-        "meaning": "lecture attendance, auditing"
+        "meaning": {
+          "en": "lecture attendance, auditing"
+        },
+        "romaji": "choukou"
       },
       {
         "example": "聴覚",
         "reading": "チョウカク",
-        "meaning": "(sense of) hearing, auditory perception"
+        "meaning": {
+          "vi": "(sense of) hearing, auditory perception"
+        },
+        "romaji": "choukaku"
       },
       {
         "example": "難聴",
         "reading": "ナンチョウ",
-        "meaning": "hardness of hearing, bradyacusia, deafness, hearing loss, having poor reception (radio, etc.)"
+        "meaning": {
+          "vi": "hardness of hearing, bradyacusia, deafness, hearing loss, having poor reception (radio, etc.)"
+        },
+        "romaji": "nanchou"
       },
       {
         "example": "愛聴",
         "reading": "アイチョウ",
-        "meaning": "loving listening to something, loving to listen to something"
+        "meaning": {
+          "en": "loving listening to something, loving to listen to something"
+        },
+        "romaji": "aichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聞く",
         "reading": "きく",
-        "meaning": "to hear, to listen (e.g. to music), to ask, to enquire, to query, to hear about, to hear of, to learn of, to follow (advice, order, etc.), to obey, to listen to, to comply with, to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to, to smell (esp. incense), to sample (a fragrance), to taste (alcohol), to try"
+        "meaning": {
+          "vi": "to hear, to listen (e.g. to music), to ask, to enquire, to query, to hear about, to hear of, to learn of, to follow (advice, order, etc.), to obey, to listen to, to comply with, to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to, to smell (esp. incense), to sample (a fragrance), to taste (alcohol), to try"
+        },
+        "romaji": "kiku"
       },
       {
         "example": "許す",
         "reading": "ゆるす",
-        "meaning": "to permit, to allow, to approve, to consent to, to forgive, to pardon, to excuse, to tolerate, to exempt (someone) from, to remit, to release, to let off, to acknowledge, to admit, to trust, to confide in, to let one's guard down, to give up (points in a game, distance in a race, etc.), to yield"
+        "meaning": {
+          "vi": "to permit, to allow, to approve, to consent to, to forgive, to pardon, to excuse, to tolerate, to exempt (someone) from, to remit, to release, to let off, to acknowledge, to admit, to trust, to confide in, to let one's guard down, to give up (points in a game, distance in a race, etc.), to yield"
+        },
+        "romaji": "yurusu"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08074.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8074.gif",
     "uri": "https://jisho.org/search/%E8%81%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thính"
+  ]
 }

@@ -299,39 +299,60 @@
       {
         "example": "犯",
         "reading": "ハン",
-        "meaning": "perpetrators of (some) crime, (some type of) crime"
+        "meaning": {
+          "vi": "perpetrators of (some) crime, (some type of) crime"
+        },
+        "romaji": "han"
       },
       {
         "example": "犯行",
         "reading": "ハンコウ",
-        "meaning": "crime, criminal act, offence, offense"
+        "meaning": {
+          "en": "crime, criminal act, offence, offense"
+        },
+        "romaji": "hankou"
       },
       {
         "example": "共犯",
         "reading": "キョウハン",
-        "meaning": "complicity"
+        "meaning": {
+          "vi": "complicity"
+        },
+        "romaji": "kyouhan"
       },
       {
         "example": "防犯",
         "reading": "ボウハン",
-        "meaning": "prevention of crime, security (device, camera, etc.)"
+        "meaning": {
+          "vi": "prevention of crime, security (device, camera, etc.)"
+        },
+        "romaji": "bouhan"
       },
       {
         "example": "違犯",
         "reading": "イハン",
-        "meaning": "offense (against the law), offence, violation"
+        "meaning": {
+          "en": "offense (against the law), offence, violation"
+        },
+        "romaji": "ihan"
       },
       {
         "example": "重犯",
         "reading": "ジュウハン",
-        "meaning": "felony, major offence, felon, old offender"
+        "meaning": {
+          "en": "felony, major offence, felon, old offender"
+        },
+        "romaji": "juuhan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "犯す",
         "reading": "おかす",
-        "meaning": "to commit (e.g. crime), to perpetrate, to make (e.g. mistake), to break (e.g. rule), to violate, to transgress, to contravene, to rape, to violate, to ravish, to deflower"
+        "meaning": {
+          "vi": "to commit (e.g. crime), to perpetrate, to make (e.g. mistake), to break (e.g. rule), to violate, to transgress, to contravene, to rape, to violate, to ravish, to deflower"
+        },
+        "romaji": "okasu"
       }
     ],
     "radical": {
@@ -350,5 +371,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72af.gif",
     "uri": "https://jisho.org/search/%E7%8A%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "phạm"
+  ]
 }

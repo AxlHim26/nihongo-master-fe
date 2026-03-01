@@ -16,7 +16,10 @@
       {
         "example": "懾伏",
         "reading": "ショウフク",
-        "meaning": "prostrating oneself in fear, kneeling in fear, crouching in fear, prostration"
+        "meaning": {
+          "vi": "prostrating oneself in fear, kneeling in fear, crouching in fear, prostration"
+        },
+        "romaji": "shoufuku"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61fe.gif",
     "uri": "https://jisho.org/search/%E6%87%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhiếp"
+  ]
 }

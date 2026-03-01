@@ -16,34 +16,52 @@
       {
         "example": "匙",
         "reading": "サジ",
-        "meaning": "spoon"
+        "meaning": {
+          "vi": "spoon"
+        },
+        "romaji": "saji"
       },
       {
         "example": "円匙",
         "reading": "エンピ",
-        "meaning": "small shovel"
+        "meaning": {
+          "en": "small shovel"
+        },
+        "romaji": "enpi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "匙",
         "reading": "さじ",
-        "meaning": "spoon"
+        "meaning": {
+          "vi": "spoon"
+        },
+        "romaji": "saji"
       },
       {
         "example": "さじ加減",
         "reading": "さじかげん",
-        "meaning": "measured amount (esp. of medicine), dosing, quantity, prescription, manner of seasoning, making adjustments based on experience, doing something by feel, skill, knack"
+        "meaning": {
+          "vi": "measured amount (esp. of medicine), dosing, quantity, prescription, manner of seasoning, making adjustments based on experience, doing something by feel, skill, knack"
+        },
+        "romaji": "sajikagen"
       },
       {
         "example": "小さじ",
         "reading": "こさじ",
-        "meaning": "teaspoon"
+        "meaning": {
+          "vi": "teaspoon"
+        },
+        "romaji": "kosaji"
       },
       {
         "example": "大さじ",
         "reading": "おおさじ",
-        "meaning": "tablespoon"
+        "meaning": {
+          "vi": "tablespoon"
+        },
+        "romaji": "oosaji"
       }
     ],
     "radical": {
@@ -59,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05319.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5319.gif",
     "uri": "https://jisho.org/search/%E5%8C%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi"
+  ]
 }

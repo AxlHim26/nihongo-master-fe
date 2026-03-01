@@ -19,24 +19,36 @@
       {
         "example": "蹴鞠",
         "reading": "ケマリ",
-        "meaning": "kemari, type of football played by courtiers in ancient Japan"
+        "meaning": {
+          "vi": "kemari, type of football played by courtiers in ancient Japan"
+        },
+        "romaji": "kemari"
       },
       {
         "example": "蹴球",
         "reading": "シュウキュウ",
-        "meaning": "football (soccer, rugby, American football, etc.; esp. soccer)"
+        "meaning": {
+          "vi": "football (soccer, rugby, American football, etc.; esp. soccer)"
+        },
+        "romaji": "shuukyuu"
       },
       {
         "example": "先蹴",
         "reading": "センシュウ",
-        "meaning": "kick-off (esp. rugby)"
+        "meaning": {
+          "vi": "kick-off (esp. rugby)"
+        },
+        "romaji": "senshuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蹴る",
         "reading": "ける",
-        "meaning": "to kick, to refuse, to reject, to stamp (on the ground), to firmly press one's feet (against something)"
+        "meaning": {
+          "vi": "to kick, to refuse, to reject, to stamp (on the ground), to firmly press one's feet (against something)"
+        },
+        "romaji": "keru"
       }
     ],
     "radical": {
@@ -62,5 +74,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e74.gif",
     "uri": "https://jisho.org/search/%E8%B9%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thúc",
+    "xúc"
+  ]
 }

@@ -17,7 +17,10 @@
       {
         "example": "打ち掛け",
         "reading": "うちかけ",
-        "meaning": "women's bridal robe with trailing skirts worn over a kimono, ending play for the day, leaving a game unfinished (esp. Go)"
+        "meaning": {
+          "vi": "women's bridal robe with trailing skirts worn over a kimono, ending play for the day, leaving a game unfinished (esp. Go)"
+        },
+        "romaji": "uchikake"
       }
     ],
     "radical": {
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f2.gif",
     "uri": "https://jisho.org/search/%E8%A3%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "lưỡng"
+  ]
 }

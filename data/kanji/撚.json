@@ -20,39 +20,60 @@
       {
         "example": "撚糸",
         "reading": "ネンシ",
-        "meaning": "sợi xe, sợi bện"
+        "meaning": {
+          "vi": "sợi xe, sợi bện"
+        },
+        "romaji": "nenshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撚る",
         "reading": "よる",
-        "meaning": "xe (sợi), bện (dây)"
+        "meaning": {
+          "vi": "xe (sợi), bện (dây)"
+        },
+        "romaji": "yoru"
       },
       {
         "example": "縒れる",
         "reading": "よれる",
-        "meaning": "bị xoắn, bị vướng"
+        "meaning": {
+          "vi": "bị xoắn, bị vướng"
+        },
+        "romaji": "yoreru"
       },
       {
         "example": "縒り",
         "reading": "より",
-        "meaning": "xe, bện"
+        "meaning": {
+          "vi": "xe, bện"
+        },
+        "romaji": "yori"
       },
       {
         "example": "撚り合わせる",
         "reading": "よりあわせる",
-        "meaning": "xe lại với nhau, bện với nhau"
+        "meaning": {
+          "vi": "xe lại với nhau, bện với nhau"
+        },
+        "romaji": "yoriawaseru"
       },
       {
         "example": "紙縒り",
         "reading": "こより",
-        "meaning": "sợi làm từ giấy xe"
+        "meaning": {
+          "vi": "sợi làm từ giấy xe"
+        },
+        "romaji": "koyori"
       },
       {
         "example": "捻る",
         "reading": "ひねる",
-        "meaning": "xoắn, vặn, xoay (vòi, công tắc), vặn (bộ phận cơ thể), bẻ, bong gân, bóp cổ, vặn cổ (động vật), đánh bại dễ dàng, làm phức tạp, sáng tác (haiku, bài hát), gói tiền trong giấy"
+        "meaning": {
+          "vi": "xoắn, vặn, xoay (vòi, công tắc), vặn (bộ phận cơ thể), bẻ, bong gân, bóp cổ, vặn cổ (động vật), đánh bại dễ dàng, làm phức tạp, sáng tác (haiku, bài hát), gói tiền trong giấy"
+        },
+        "romaji": "hineru"
       }
     ],
     "radical": {
@@ -72,5 +93,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0649a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/649a.gif",
     "uri": "https://jisho.org/search/%E6%92%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhiên",
+    "niên",
+    "niết",
+    "niển",
+    "niễn",
+    "niệm",
+    "niệp"
+  ]
 }

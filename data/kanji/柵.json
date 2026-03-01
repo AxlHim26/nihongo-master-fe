@@ -21,29 +21,44 @@
       {
         "example": "柵",
         "reading": "サク",
-        "meaning": "hàng rào, rào chắn, lan can, pháo đài"
+        "meaning": {
+          "vi": "hàng rào, rào chắn, lan can, pháo đài"
+        },
+        "romaji": "saku"
       },
       {
         "example": "柵状組織",
         "reading": "サクジョウソシキ",
-        "meaning": "lớp tế bào rào"
+        "meaning": {
+          "vi": "lớp tế bào rào"
+        },
+        "romaji": "sakujousoshiki"
       },
       {
         "example": "馬防柵",
         "reading": "バボウサク",
-        "meaning": "rào chống kỵ binh (thời Chiến Quốc)"
+        "meaning": {
+          "vi": "rào chống kỵ binh (thời Chiến Quốc)"
+        },
+        "romaji": "babousaku"
       },
       {
         "example": "電気柵",
         "reading": "デンキサク",
-        "meaning": "hàng rào điện"
+        "meaning": {
+          "vi": "hàng rào điện"
+        },
+        "romaji": "denkisaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柵",
         "reading": "しがらみ",
-        "meaning": "đập nước, ràng buộc, xiềng xích, nghĩa vụ"
+        "meaning": {
+          "vi": "đập nước, ràng buộc, xiềng xích, nghĩa vụ"
+        },
+        "romaji": "shigarami"
       }
     ],
     "radical": {
@@ -63,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f5.gif",
     "uri": "https://jisho.org/search/%E6%9F%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "san",
+    "sách"
+  ]
 }

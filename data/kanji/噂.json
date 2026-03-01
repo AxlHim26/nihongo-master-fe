@@ -18,22 +18,34 @@
       {
         "example": "噂",
         "reading": "うわさ",
-        "meaning": "rumour, rumor, report, hearsay, gossip, common talk"
+        "meaning": {
+          "vi": "rumour, rumor, report, hearsay, gossip, common talk"
+        },
+        "romaji": "uwasa"
       },
       {
         "example": "噂が立つ",
         "reading": "うわさがたつ",
-        "meaning": "to have a rumor circulating"
+        "meaning": {
+          "en": "to have a rumor circulating"
+        },
+        "romaji": "uwasagatatsu"
       },
       {
         "example": "浮いた噂",
         "reading": "ういたうわさ",
-        "meaning": "amorous rumour (rumor), romantic gossip"
+        "meaning": {
+          "vi": "amorous rumour (rumor), romantic gossip"
+        },
+        "romaji": "uitauwasa"
       },
       {
         "example": "風の噂",
         "reading": "かぜのうわさ",
-        "meaning": "hearsay, rumor, grapevine"
+        "meaning": {
+          "vi": "hearsay, rumor, grapevine"
+        },
+        "romaji": "kazenouwasa"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05642.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5642.gif",
     "uri": "https://jisho.org/search/%E5%99%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "tổn",
+    "tỗn"
+  ]
 }

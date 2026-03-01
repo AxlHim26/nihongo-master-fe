@@ -17,12 +17,18 @@
       {
         "example": "喊声",
         "reading": "カンセイ",
-        "meaning": "battle cry, war cry"
+        "meaning": {
+          "en": "battle cry, war cry"
+        },
+        "romaji": "kansei"
       },
       {
         "example": "吶喊",
         "reading": "トッカン",
-        "meaning": "battle cry, war cry, charging (at the enemy) with a shout"
+        "meaning": {
+          "en": "battle cry, war cry, charging (at the enemy) with a shout"
+        },
+        "romaji": "tokkan"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0558a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/558a.gif",
     "uri": "https://jisho.org/search/%E5%96%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hám",
+    "hảm"
+  ]
 }

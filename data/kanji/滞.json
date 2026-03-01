@@ -20,29 +20,44 @@
       {
         "example": "滞納",
         "reading": "タイノウ",
-        "meaning": "falling behind (with a payment), being in arrears, non-payment, default, delinquency"
+        "meaning": {
+          "vi": "falling behind (with a payment), being in arrears, non-payment, default, delinquency"
+        },
+        "romaji": "tainou"
       },
       {
         "example": "滞在",
         "reading": "タイザイ",
-        "meaning": "stay, sojourn"
+        "meaning": {
+          "en": "stay, sojourn"
+        },
+        "romaji": "taizai"
       },
       {
         "example": "沈滞",
         "reading": "チンタイ",
-        "meaning": "stagnation, inactivity"
+        "meaning": {
+          "en": "stagnation, inactivity"
+        },
+        "romaji": "chintai"
       },
       {
         "example": "遅滞",
         "reading": "チタイ",
-        "meaning": "delay, procrastination"
+        "meaning": {
+          "vi": "delay, procrastination"
+        },
+        "romaji": "chitai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滞る",
         "reading": "とどこおる",
-        "meaning": "to stagnate, to be delayed, to be left undone, to be overdue (of a payment), to fall into arrears, to be outstanding"
+        "meaning": {
+          "vi": "to stagnate, to be delayed, to be left undone, to be overdue (of a payment), to fall into arrears, to be outstanding"
+        },
+        "romaji": "todokooru"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ede.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ede.gif",
     "uri": "https://jisho.org/search/%E6%BB%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "trệ"
+  ]
 }

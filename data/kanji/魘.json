@@ -17,14 +17,20 @@
       {
         "example": "厭魅",
         "reading": "エンミ",
-        "meaning": "killing someone with a magical curse, cursing someone to death"
+        "meaning": {
+          "en": "killing someone with a magical curse, cursing someone to death"
+        },
+        "romaji": "enmi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魘される",
         "reading": "うなされる",
-        "meaning": "to cry out in one's sleep (e.g. from having a nightmare), to moan (in anguish) in one's sleep"
+        "meaning": {
+          "vi": "to cry out in one's sleep (e.g. from having a nightmare), to moan (in anguish) in one's sleep"
+        },
+        "romaji": "unasareru"
       }
     ],
     "radical": {
@@ -46,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b58.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b58.gif",
     "uri": "https://jisho.org/search/%E9%AD%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "yểm"
+  ]
 }

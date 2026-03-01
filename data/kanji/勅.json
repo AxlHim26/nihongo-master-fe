@@ -20,29 +20,44 @@
       {
         "example": "詔",
         "reading": "ミコトノリ",
-        "meaning": "imperial decree, imperial edict"
+        "meaning": {
+          "vi": "imperial decree, imperial edict"
+        },
+        "romaji": "mikotonori"
       },
       {
         "example": "勅意",
         "reading": "チョクイ",
-        "meaning": "meaning or gist of a decree"
+        "meaning": {
+          "en": "meaning or gist of a decree"
+        },
+        "romaji": "chokui"
       },
       {
         "example": "違勅",
         "reading": "イチョク",
-        "meaning": "disobeying the emperor's order"
+        "meaning": {
+          "vi": "disobeying the emperor's order"
+        },
+        "romaji": "ichoku"
       },
       {
         "example": "回勅",
         "reading": "カイチョク",
-        "meaning": "encyclical"
+        "meaning": {
+          "en": "encyclical"
+        },
+        "romaji": "kaichoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詔",
         "reading": "みことのり",
-        "meaning": "imperial decree, imperial edict"
+        "meaning": {
+          "vi": "imperial decree, imperial edict"
+        },
+        "romaji": "mikotonori"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c5.gif",
     "uri": "https://jisho.org/search/%E5%8B%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "sắc"
+  ]
 }

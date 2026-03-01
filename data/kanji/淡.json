@@ -19,29 +19,44 @@
       {
         "example": "淡々",
         "reading": "タンタン",
-        "meaning": "thờ ơ, bình thản, nhạt nhẽo, đơn giản"
+        "meaning": {
+          "vi": "thờ ơ, bình thản, nhạt nhẽo, đơn giản"
+        },
+        "romaji": "tantan"
       },
       {
         "example": "淡水",
         "reading": "タンスイ",
-        "meaning": "nước ngọt (không phải nước mặn)"
+        "meaning": {
+          "vi": "nước ngọt (không phải nước mặn)"
+        },
+        "romaji": "tansui"
       },
       {
         "example": "濃淡",
         "reading": "ノウタン",
-        "meaning": "sáng tối, độ đậm nhạt (màu), độ đậm đà (vị)"
+        "meaning": {
+          "vi": "sáng tối, độ đậm nhạt (màu), độ đậm đà (vị)"
+        },
+        "romaji": "noutan"
       },
       {
         "example": "平淡",
         "reading": "ヘイタン",
-        "meaning": "đơn giản, bình lặng"
+        "meaning": {
+          "vi": "đơn giản, bình lặng"
+        },
+        "romaji": "heitan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "淡い",
         "reading": "あわい",
-        "meaning": "nhạt, mờ, thoáng qua"
+        "meaning": {
+          "vi": "nhạt, mờ, thoáng qua"
+        },
+        "romaji": "awai"
       }
     ],
     "radical": {
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06de1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6de1.gif",
     "uri": "https://jisho.org/search/%E6%B7%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàm",
+    "đạm"
+  ]
 }

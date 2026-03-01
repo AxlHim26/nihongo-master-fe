@@ -16,7 +16,10 @@
       {
         "example": "逡巡",
         "reading": "シュンジュン",
-        "meaning": "hesitation, indecision"
+        "meaning": {
+          "en": "hesitation, indecision"
+        },
+        "romaji": "shunjun"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09021.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9021.gif",
     "uri": "https://jisho.org/search/%E9%80%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuân"
+  ]
 }

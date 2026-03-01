@@ -18,22 +18,34 @@
       {
         "example": "髭",
         "reading": "ひげ",
-        "meaning": "moustache, mustache, beard, whiskers, sideburns, whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft, shadow (on a candlestick chart)"
+        "meaning": {
+          "en": "moustache, mustache, beard, whiskers, sideburns, whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft, shadow (on a candlestick chart)"
+        },
+        "romaji": "hige"
       },
       {
         "example": "ひげ結晶",
         "reading": "ひげけっしょう",
-        "meaning": "(crystal) whisker"
+        "meaning": {
+          "en": "(crystal) whisker"
+        },
+        "romaji": "higekesshou"
       },
       {
         "example": "濃いヒゲ",
         "reading": "こいヒゲ",
-        "meaning": "dense beard, thick beard"
+        "meaning": {
+          "en": "dense beard, thick beard"
+        },
+        "romaji": "koihige"
       },
       {
         "example": "無精ひげ",
         "reading": "ぶしょうひげ",
-        "meaning": "stubble, unshaven face, beard one has because one is too lazy to shave, 5-o'clock shadow"
+        "meaning": {
+          "en": "stubble, unshaven face, beard one has because one is too lazy to shave, 5-o'clock shadow"
+        },
+        "romaji": "bushouhige"
       }
     ],
     "radical": {
@@ -51,5 +63,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aed.gif",
     "uri": "https://jisho.org/search/%E9%AB%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tì",
+    "tư",
+    "tỳ"
+  ]
 }

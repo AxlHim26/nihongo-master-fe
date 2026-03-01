@@ -337,64 +337,100 @@
       {
         "example": "馬車",
         "reading": "バシャ",
-        "meaning": "xe ngựa, xe ngựa kéo"
+        "meaning": {
+          "vi": "xe ngựa, xe ngựa kéo"
+        },
+        "romaji": "basha"
       },
       {
         "example": "馬券",
         "reading": "バケン",
-        "meaning": "vé cá cược"
+        "meaning": {
+          "vi": "vé cá cược"
+        },
+        "romaji": "baken"
       },
       {
         "example": "白馬",
         "reading": "ハクバ",
-        "meaning": "ngựa trắng, rượu chưa lọc"
+        "meaning": {
+          "vi": "ngựa trắng, rượu chưa lọc"
+        },
+        "romaji": "hakuba"
       },
       {
         "example": "騎馬",
         "reading": "キバ",
-        "meaning": "cưỡi ngựa, kỵ sĩ"
+        "meaning": {
+          "vi": "cưỡi ngựa, kỵ sĩ"
+        },
+        "romaji": "kiba"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "馬",
         "reading": "うま",
-        "meaning": "ngựa, đua ngựa, quân mã (cờ)"
+        "meaning": {
+          "vi": "ngựa, đua ngựa, quân mã (cờ)"
+        },
+        "romaji": "uma"
       },
       {
         "example": "馬車",
         "reading": "ばしゃ",
-        "meaning": "xe ngựa, xe ngựa kéo"
+        "meaning": {
+          "vi": "xe ngựa, xe ngựa kéo"
+        },
+        "romaji": "basha"
       },
       {
         "example": "白馬",
         "reading": "はくば",
-        "meaning": "ngựa trắng, rượu chưa lọc"
+        "meaning": {
+          "vi": "ngựa trắng, rượu chưa lọc"
+        },
+        "romaji": "hakuba"
       },
       {
         "example": "竹馬",
         "reading": "たけうま",
-        "meaning": "cà kheo, ngựa gỗ đồ chơi"
+        "meaning": {
+          "vi": "cà kheo, ngựa gỗ đồ chơi"
+        },
+        "romaji": "takeuma"
       },
       {
         "example": "馬克",
         "reading": "マルク",
-        "meaning": "mark (đơn vị tiền Đức cũ)"
+        "meaning": {
+          "vi": "mark (đơn vị tiền Đức cũ)"
+        },
+        "romaji": "maruku"
       },
       {
         "example": "馬尼剌",
         "reading": "マニラ",
-        "meaning": "Manila (Philippines)"
+        "meaning": {
+          "vi": "Manila (Philippines)"
+        },
+        "romaji": "manira"
       },
       {
         "example": "白馬",
         "reading": "はくば",
-        "meaning": "ngựa trắng, rượu chưa lọc"
+        "meaning": {
+          "vi": "ngựa trắng, rượu chưa lọc"
+        },
+        "romaji": "hakuba"
       },
       {
         "example": "竹馬",
         "reading": "たけうま",
-        "meaning": "cà kheo, ngựa gỗ đồ chơi"
+        "meaning": {
+          "vi": "cà kheo, ngựa gỗ đồ chơi"
+        },
+        "romaji": "takeuma"
       }
     ],
     "radical": {
@@ -409,5 +445,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ac.gif",
     "uri": "https://jisho.org/search/%E9%A6%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "mã"
+  ]
 }

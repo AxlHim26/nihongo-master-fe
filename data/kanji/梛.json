@@ -17,24 +17,36 @@
       {
         "example": "梛",
         "reading": "ナギ",
-        "meaning": "nagi (species of conifer, Nageia nagi)"
+        "meaning": {
+          "vi": "nagi (species of conifer, Nageia nagi)"
+        },
+        "romaji": "nagi"
       },
       {
         "example": "梛筏",
         "reading": "ナギイカダ",
-        "meaning": "butcher's broom (Ruscus aculeatus)"
+        "meaning": {
+          "en": "butcher's broom (Ruscus aculeatus)"
+        },
+        "romaji": "nagiikada"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梛",
         "reading": "なぎ",
-        "meaning": "nagi (species of conifer, Nageia nagi)"
+        "meaning": {
+          "vi": "nagi (species of conifer, Nageia nagi)"
+        },
+        "romaji": "nagi"
       },
       {
         "example": "梛筏",
         "reading": "なぎいかだ",
-        "meaning": "butcher's broom (Ruscus aculeatus)"
+        "meaning": {
+          "en": "butcher's broom (Ruscus aculeatus)"
+        },
+        "romaji": "nagiikada"
       }
     ],
     "radical": {
@@ -51,5 +63,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0689b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/689b.gif",
     "uri": "https://jisho.org/search/%E6%A2%9B%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

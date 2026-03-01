@@ -343,69 +343,108 @@
       {
         "example": "弾",
         "reading": "ダン",
-        "meaning": "counter for parts, stages, installments, etc. (of a story, series, project, campaign, etc.), counter for bullets"
+        "meaning": {
+          "vi": "counter for parts, stages, installments, etc. (of a story, series, project, campaign, etc.), counter for bullets"
+        },
+        "romaji": "dan"
       },
       {
         "example": "弾圧",
         "reading": "ダンアツ",
-        "meaning": "oppression, suppression, pressure"
+        "meaning": {
+          "vi": "oppression, suppression, pressure"
+        },
+        "romaji": "dan'atsu"
       },
       {
         "example": "防弾",
         "reading": "ボウダン",
-        "meaning": "bulletproof, bombproof"
+        "meaning": {
+          "vi": "bulletproof, bombproof"
+        },
+        "romaji": "boudan"
       },
       {
         "example": "砲弾",
         "reading": "ホウダン",
-        "meaning": "shell, cannonball"
+        "meaning": {
+          "en": "shell, cannonball"
+        },
+        "romaji": "houdan"
       },
       {
         "example": "弾棋",
         "reading": "ダンギ",
-        "meaning": "ancient Chinese board game similar to go"
+        "meaning": {
+          "en": "ancient Chinese board game similar to go"
+        },
+        "romaji": "dangi"
       },
       {
         "example": "弾指",
         "reading": "ダンシ",
-        "meaning": "snapping the fingers (esp. by striking the side of the middle finger with the thumb; to indicate consent, joy, a warning, etc.), moment, instant, criticism, shunning, rejection"
+        "meaning": {
+          "vi": "snapping the fingers (esp. by striking the side of the middle finger with the thumb; to indicate consent, joy, a warning, etc.), moment, instant, criticism, shunning, rejection"
+        },
+        "romaji": "danshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弾く",
         "reading": "ひく",
-        "meaning": "to play (a stringed or keyboard instrument)"
+        "meaning": {
+          "vi": "to play (a stringed or keyboard instrument)"
+        },
+        "romaji": "hiku"
       },
       {
         "example": "弾む",
         "reading": "はずむ",
-        "meaning": "to spring, to bound, to bounce, to be stimulated, to be encouraged, to get lively, to pay handsomely, to splurge, to part eagerly with (money, etc.), to breathe hard, to pant, to be out of breath"
+        "meaning": {
+          "vi": "to spring, to bound, to bounce, to be stimulated, to be encouraged, to get lively, to pay handsomely, to splurge, to part eagerly with (money, etc.), to breathe hard, to pant, to be out of breath"
+        },
+        "romaji": "hazumu"
       },
       {
         "example": "玉",
         "reading": "たま",
-        "meaning": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        "meaning": {
+          "vi": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+        },
+        "romaji": "tama"
       },
       {
         "example": "弾傷",
         "reading": "たまきず",
-        "meaning": "bullet wound, gunshot wound"
+        "meaning": {
+          "en": "bullet wound, gunshot wound"
+        },
+        "romaji": "tamakizu"
       },
       {
         "example": "弾く",
         "reading": "はじく",
-        "meaning": "to flip, to snap, to flick, to repel, to use (an abacus), to calculate, to strum, to pluck the strings (of a guitar, etc.)"
+        "meaning": {
+          "vi": "to flip, to snap, to flick, to repel, to use (an abacus), to calculate, to strum, to pluck the strings (of a guitar, etc.)"
+        },
+        "romaji": "hajiku"
       },
       {
         "example": "弾ける",
         "reading": "はじける",
-        "meaning": "to burst open, to split open, to pop, to be bursting with (e.g. youth, laughter, flavor), to bounce, to bound"
+        "meaning": {
+          "vi": "to burst open, to split open, to pop, to be bursting with (e.g. youth, laughter, flavor), to bounce, to bound"
+        },
+        "romaji": "hajikeru"
       },
       {
         "example": "弾正台",
         "reading": "だんじょうだい",
-        "meaning": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+        "meaning": {
+          "vi": "Imperial Prosecuting and Investigating Office (1869-1871), Imperial Prosecuting and Investigating Office (under the ritsuryō system)"
+        },
+        "romaji": "danjoudai"
       }
     ],
     "radical": {
@@ -422,5 +461,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f3e.gif",
     "uri": "https://jisho.org/search/%E5%BC%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàn",
+    "đạn"
+  ]
 }

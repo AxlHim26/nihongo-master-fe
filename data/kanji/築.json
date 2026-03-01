@@ -340,29 +340,44 @@
       {
         "example": "築",
         "reading": "チク",
-        "meaning": "... years since construction, ... years old (of a building), built in ..."
+        "meaning": {
+          "en": "... years since construction, ... years old (of a building), built in ..."
+        },
+        "romaji": "chiku"
       },
       {
         "example": "築城",
         "reading": "チクジョウ",
-        "meaning": "castle construction, building a castle, fortification"
+        "meaning": {
+          "en": "castle construction, building a castle, fortification"
+        },
+        "romaji": "chikujou"
       },
       {
         "example": "本建築",
         "reading": "ホンケンチク",
-        "meaning": "permanent construction"
+        "meaning": {
+          "vi": "permanent construction"
+        },
+        "romaji": "honkenchiku"
       },
       {
         "example": "移築",
         "reading": "イチク",
-        "meaning": "dismantling a (historic) building and reconstructing it elsewhere"
+        "meaning": {
+          "en": "dismantling a (historic) building and reconstructing it elsewhere"
+        },
+        "romaji": "ichiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "築く",
         "reading": "きずく",
-        "meaning": "to build, to construct, to erect, to build up (a reputation, position, fortune, etc.), to establish (a relationship, household, tradition, etc.), to lay (a foundation)"
+        "meaning": {
+          "vi": "to build, to construct, to erect, to build up (a reputation, position, fortune, etc.), to establish (a relationship, household, tradition, etc.), to lay (a foundation)"
+        },
+        "romaji": "kizuku"
       }
     ],
     "radical": {
@@ -383,5 +398,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bc9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bc9.gif",
     "uri": "https://jisho.org/search/%E7%AF%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "trúc"
+  ]
 }

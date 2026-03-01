@@ -18,7 +18,10 @@
       {
         "example": "栞",
         "reading": "しおり",
-        "meaning": "đánh dấu trang, sách hướng dẫn"
+        "meaning": {
+          "vi": "đánh dấu trang, sách hướng dẫn"
+        },
+        "romaji": "shiori"
       }
     ],
     "radical": {
@@ -33,5 +36,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0681e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/681e.gif",
     "uri": "https://jisho.org/search/%E6%A0%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "khan",
+    "san"
+  ]
 }

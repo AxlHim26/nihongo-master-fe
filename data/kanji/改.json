@@ -307,34 +307,52 @@
       {
         "example": "改",
         "reading": "カイ",
-        "meaning": "revision"
+        "meaning": {
+          "en": "revision"
+        },
+        "romaji": "kai"
       },
       {
         "example": "改革",
         "reading": "カイカク",
-        "meaning": "reform, reformation, reorganization"
+        "meaning": {
+          "en": "reform, reformation, reorganization"
+        },
+        "romaji": "kaikaku"
       },
       {
         "example": "更改",
         "reading": "コウカイ",
-        "meaning": "renewal, extension, revision"
+        "meaning": {
+          "en": "renewal, extension, revision"
+        },
+        "romaji": "koukai"
       },
       {
         "example": "契約更改",
         "reading": "ケイヤクコウカイ",
-        "meaning": "contract renewal"
+        "meaning": {
+          "en": "contract renewal"
+        },
+        "romaji": "keiyakukoukai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "改める",
         "reading": "あらためる",
-        "meaning": "to change, to alter, to revise, to replace, to reform, to correct, to mend, to improve, to examine, to check, to inspect, to do properly, to do formally"
+        "meaning": {
+          "vi": "to change, to alter, to revise, to replace, to reform, to correct, to mend, to improve, to examine, to check, to inspect, to do properly, to do formally"
+        },
+        "romaji": "aratameru"
       },
       {
         "example": "改まる",
         "reading": "あらたまる",
-        "meaning": "to be renewed, to change, to be improved, to be reformed, to be revised, to be corrected, to stand on ceremony, to be formal, to take a turn for the worse (of an illness), to take a serious turn"
+        "meaning": {
+          "vi": "to be renewed, to change, to be improved, to be reformed, to be revised, to be corrected, to stand on ceremony, to be formal, to take a turn for the worse (of an illness), to take a serious turn"
+        },
+        "romaji": "aratamaru"
       }
     ],
     "radical": {
@@ -353,5 +371,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06539.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6539.gif",
     "uri": "https://jisho.org/search/%E6%94%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "cải"
+  ]
 }

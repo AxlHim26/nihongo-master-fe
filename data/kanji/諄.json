@@ -21,12 +21,18 @@
       {
         "example": "諄い",
         "reading": "くどい",
-        "meaning": "repetitious, long-winded, tedious, wordy, verbose, insistent, importunate, heavy (taste), (overly) rich, strong, cloying, gaudy (colour, design, etc.), loud"
+        "meaning": {
+          "vi": "repetitious, long-winded, tedious, wordy, verbose, insistent, importunate, heavy (taste), (overly) rich, strong, cloying, gaudy (colour, design, etc.), loud"
+        },
+        "romaji": "kudoi"
       },
       {
         "example": "諄諄しい",
         "reading": "くどくどしい",
-        "meaning": "wordy, verbose, prolix"
+        "meaning": {
+          "vi": "wordy, verbose, prolix"
+        },
+        "romaji": "kudokudoshii"
       }
     ],
     "radical": {
@@ -46,5 +52,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ac4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ac4.gif",
     "uri": "https://jisho.org/search/%E8%AB%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuân",
+    "truân"
+  ]
 }

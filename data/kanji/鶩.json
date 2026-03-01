@@ -18,14 +18,18 @@
       {
         "example": "家鶏野鶩",
         "reading": "カケイヤボク",
-        "meaning": "bored by the familiar, intrigued by novelty, domestic chicken and wild duck, one's wife and one's mistress"
+        "meaning": {
+          "en": "bored by the familiar, intrigued by novelty, domestic chicken and wild duck, one's wife and one's mistress"
+        },
+        "romaji": "kakeiyaboku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【アヒル】",
         "reading": "domestic duck",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "domestic duck"
       }
     ],
     "radical": {
@@ -43,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09da9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9da9.gif",
     "uri": "https://jisho.org/search/%E9%B6%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "vụ"
+  ]
 }

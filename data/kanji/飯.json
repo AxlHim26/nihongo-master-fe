@@ -349,44 +349,68 @@
       {
         "example": "飯店",
         "reading": "ハンテン",
-        "meaning": "Chinese restaurant"
+        "meaning": {
+          "en": "Chinese restaurant"
+        },
+        "romaji": "hanten"
       },
       {
         "example": "飯切",
         "reading": "ハンギリ",
-        "meaning": "flat-bottomed wooden bowl for preparing sushi rice"
+        "meaning": {
+          "vi": "flat-bottomed wooden bowl for preparing sushi rice"
+        },
+        "romaji": "hangiri"
       },
       {
         "example": "米飯",
         "reading": "ベイハン",
-        "meaning": "cooked rice"
+        "meaning": {
+          "en": "cooked rice"
+        },
+        "romaji": "beihan"
       },
       {
         "example": "赤飯",
         "reading": "セキハン",
-        "meaning": "red rice (beans and mochi) for auspicious occasions"
+        "meaning": {
+          "vi": "red rice (beans and mochi) for auspicious occasions"
+        },
+        "romaji": "sekihan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飯",
         "reading": "めし",
-        "meaning": "cooked rice, meal, food, one's living, livelihood"
+        "meaning": {
+          "en": "cooked rice, meal, food, one's living, livelihood"
+        },
+        "romaji": "meshi"
       },
       {
         "example": "飯売女",
         "reading": "めしうりおんな",
-        "meaning": "maid at an inn who served clients and worked as a prostitute (Edo period)"
+        "meaning": {
+          "vi": "maid at an inn who served clients and worked as a prostitute (Edo period)"
+        },
+        "romaji": "meshiurionna"
       },
       {
         "example": "握り飯",
         "reading": "にぎりめし",
-        "meaning": "onigiri, rice ball"
+        "meaning": {
+          "en": "onigiri, rice ball"
+        },
+        "romaji": "nigirimeshi"
       },
       {
         "example": "冷や飯",
         "reading": "ひやめし",
-        "meaning": "cold rice, hanger-on, dependent, disgraced former actor"
+        "meaning": {
+          "vi": "cold rice, hanger-on, dependent, disgraced former actor"
+        },
+        "romaji": "hiyameshi"
       }
     ],
     "radical": {
@@ -405,5 +429,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ef.gif",
     "uri": "https://jisho.org/search/%E9%A3%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "phãn",
+    "phạn"
+  ]
 }

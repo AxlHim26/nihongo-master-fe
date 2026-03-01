@@ -16,44 +16,68 @@
       {
         "example": "靄々",
         "reading": "アイアイ",
-        "meaning": "accumulation of clouds or mist"
+        "meaning": {
+          "en": "accumulation of clouds or mist"
+        },
+        "romaji": "aiai"
       },
       {
         "example": "靄然",
         "reading": "アイゼン",
-        "meaning": "hovering like mist or clouds, gentle, calm"
+        "meaning": {
+          "en": "hovering like mist or clouds, gentle, calm"
+        },
+        "romaji": "aizen"
       },
       {
         "example": "靄々",
         "reading": "アイアイ",
-        "meaning": "accumulation of clouds or mist"
+        "meaning": {
+          "en": "accumulation of clouds or mist"
+        },
+        "romaji": "aiai"
       },
       {
         "example": "和気あいあい",
         "reading": "ワキアイアイ",
-        "meaning": "harmonious, peaceful, congenial, friendly, happy"
+        "meaning": {
+          "vi": "harmonious, peaceful, congenial, friendly, happy"
+        },
+        "romaji": "wakiaiai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "靄",
         "reading": "もや",
-        "meaning": "mist, haze"
+        "meaning": {
+          "en": "mist, haze"
+        },
+        "romaji": "moya"
       },
       {
         "example": "靄がかかる",
         "reading": "もやがかかる",
-        "meaning": "to be hazy, to be misty"
+        "meaning": {
+          "en": "to be hazy, to be misty"
+        },
+        "romaji": "moyagakakaru"
       },
       {
         "example": "夕靄",
         "reading": "ゆうもや",
-        "meaning": "evening haze or mist"
+        "meaning": {
+          "en": "evening haze or mist"
+        },
+        "romaji": "yuumoya"
       },
       {
         "example": "朝もや",
         "reading": "あさもや",
-        "meaning": "morning mist"
+        "meaning": {
+          "en": "morning mist"
+        },
+        "romaji": "asamoya"
       }
     ],
     "radical": {
@@ -71,5 +95,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09744.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9744.gif",
     "uri": "https://jisho.org/search/%E9%9D%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "ái",
+    "ải"
+  ]
 }

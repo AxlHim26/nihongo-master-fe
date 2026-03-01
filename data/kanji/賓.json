@@ -20,29 +20,44 @@
       {
         "example": "賓客",
         "reading": "ヒンキャク",
-        "meaning": "guest of honour, guest of honor, privileged guest, visitor"
+        "meaning": {
+          "vi": "guest of honour, guest of honor, privileged guest, visitor"
+        },
+        "romaji": "hinkyaku"
       },
       {
         "example": "賓格",
         "reading": "ヒンカク",
-        "meaning": "objective case"
+        "meaning": {
+          "en": "objective case"
+        },
+        "romaji": "hinkaku"
       },
       {
         "example": "国賓",
         "reading": "コクヒン",
-        "meaning": "state guest"
+        "meaning": {
+          "en": "state guest"
+        },
+        "romaji": "kokuhin"
       },
       {
         "example": "来賓",
         "reading": "ライヒン",
-        "meaning": "guest, visitor, visitor's arrival"
+        "meaning": {
+          "en": "guest, visitor, visitor's arrival"
+        },
+        "romaji": "raihin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "客賓",
         "reading": "まろうど",
-        "meaning": "visitor from afar, guest"
+        "meaning": {
+          "en": "visitor from afar, guest"
+        },
+        "romaji": "maroudo"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cd3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cd3.gif",
     "uri": "https://jisho.org/search/%E8%B3%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấn",
+    "tân"
+  ]
 }

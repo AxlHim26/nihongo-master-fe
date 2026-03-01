@@ -17,7 +17,10 @@
       {
         "example": "花き",
         "reading": "カキ",
-        "meaning": "flowering plant, flower, ornamental plant"
+        "meaning": {
+          "vi": "flowering plant, flower, ornamental plant"
+        },
+        "romaji": "kaki"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05349.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5349.gif",
     "uri": "https://jisho.org/search/%E5%8D%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "huỷ"
+  ]
 }

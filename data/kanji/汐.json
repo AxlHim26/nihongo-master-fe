@@ -20,39 +20,60 @@
       {
         "example": "潮汐",
         "reading": "チョウセキ",
-        "meaning": "tide"
+        "meaning": {
+          "en": "tide"
+        },
+        "romaji": "chouseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "潮",
         "reading": "しお",
-        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        "meaning": {
+          "vi": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        },
+        "romaji": "shio"
       },
       {
         "example": "潮時",
         "reading": "しおどき",
-        "meaning": "tidal hour, right time (to do something), opportunity, chance"
+        "meaning": {
+          "vi": "tidal hour, right time (to do something), opportunity, chance"
+        },
+        "romaji": "shiodoki"
       },
       {
         "example": "夕潮",
         "reading": "ゆうしお",
-        "meaning": "evening tide"
+        "meaning": {
+          "en": "evening tide"
+        },
+        "romaji": "yuushio"
       },
       {
         "example": "引き潮",
         "reading": "ひきしお",
-        "meaning": "ebb tide"
+        "meaning": {
+          "en": "ebb tide"
+        },
+        "romaji": "hikishio"
       },
       {
         "example": "潮",
         "reading": "しお",
-        "meaning": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        "meaning": {
+          "vi": "tide, current, sea water, opportunity, chance, thin soup of fish or shellfish boiled in seawater"
+        },
+        "romaji": "shio"
       },
       {
         "example": "夕潮",
         "reading": "ゆうしお",
-        "meaning": "evening tide"
+        "meaning": {
+          "en": "evening tide"
+        },
+        "romaji": "yuushio"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c50.gif",
     "uri": "https://jisho.org/search/%E6%B1%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "tịch"
+  ]
 }

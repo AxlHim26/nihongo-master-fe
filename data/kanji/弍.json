@@ -19,7 +19,10 @@
       {
         "example": "二",
         "reading": "ニ",
-        "meaning": "two, 2"
+        "meaning": {
+          "en": "two, 2"
+        },
+        "romaji": "ni"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0d.gif",
     "uri": "https://jisho.org/search/%E5%BC%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhị"
+  ]
 }

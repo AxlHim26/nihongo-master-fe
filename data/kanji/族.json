@@ -295,22 +295,34 @@
       {
         "example": "族",
         "reading": "ゾク",
-        "meaning": "tribe, clan, band, family, (taxonomical) tribe, group (of the periodic table)"
+        "meaning": {
+          "vi": "tribe, clan, band, family, (taxonomical) tribe, group (of the periodic table)"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "族長",
         "reading": "ゾクチョウ",
-        "meaning": "patriarch, head of a family"
+        "meaning": {
+          "vi": "patriarch, head of a family"
+        },
+        "romaji": "zokuchou"
       },
       {
         "example": "皇族",
         "reading": "コウゾク",
-        "meaning": "imperial family, royalty"
+        "meaning": {
+          "vi": "imperial family, royalty"
+        },
+        "romaji": "kouzoku"
       },
       {
         "example": "王族",
         "reading": "オウゾク",
-        "meaning": "royalty, royal family"
+        "meaning": {
+          "en": "royalty, royal family"
+        },
+        "romaji": "ouzoku"
       }
     ],
     "kunyomiExamples": [],
@@ -327,5 +339,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65cf.gif",
     "uri": "https://jisho.org/search/%E6%97%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấu",
+    "tấu",
+    "tộc"
+  ]
 }

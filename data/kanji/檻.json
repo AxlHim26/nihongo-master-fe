@@ -18,19 +18,28 @@
       {
         "example": "監房",
         "reading": "カンボウ",
-        "meaning": "(prison) cell, ward"
+        "meaning": {
+          "vi": "(prison) cell, ward"
+        },
+        "romaji": "kanbou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "檻",
         "reading": "おり",
-        "meaning": "cage, pen, (jail) cell"
+        "meaning": {
+          "vi": "cage, pen, (jail) cell"
+        },
+        "romaji": "ori"
       },
       {
         "example": "象の檻",
         "reading": "ぞうのおり",
-        "meaning": "elephant cage, Wullenweber antenna, large circular antenna array used for radio direction finding"
+        "meaning": {
+          "vi": "elephant cage, Wullenweber antenna, large circular antenna array used for radio direction finding"
+        },
+        "romaji": "zounoori"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06abb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6abb.gif",
     "uri": "https://jisho.org/search/%E6%AA%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạm"
+  ]
 }

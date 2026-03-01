@@ -226,44 +226,66 @@
       {
         "example": "【バイ】",
         "reading": "Japanese Babylon (Babylonia japonica), Japanese ivory shell, spinning top (traditionally made from a Japanese Babylon shell)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Japanese Babylon (Babylonia japonica), Japanese ivory shell, spinning top (traditionally made from a Japanese Babylon shell)"
       },
       {
         "example": "貝貨",
         "reading": "バイカ",
-        "meaning": "shell money"
+        "meaning": {
+          "en": "shell money"
+        },
+        "romaji": "baika"
       },
       {
         "example": "越虫貝",
         "reading": "エッチュウバイ",
-        "meaning": "finely-striate buccinum (Buccinum striatissimum)"
+        "meaning": {
+          "en": "finely-striate buccinum (Buccinum striatissimum)"
+        },
+        "romaji": "etchuubai"
       },
       {
         "example": "蝦夷貝",
         "reading": "エゾバイ",
-        "meaning": "Middendorf's whelk (Buccinum middendorffi)"
+        "meaning": {
+          "en": "Middendorf's whelk (Buccinum middendorffi)"
+        },
+        "romaji": "ezobai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貝",
         "reading": "かい",
-        "meaning": "shellfish, seashell, shell"
+        "meaning": {
+          "en": "shellfish, seashell, shell"
+        },
+        "romaji": "kai"
       },
       {
         "example": "貝殻",
         "reading": "かいがら",
-        "meaning": "seashell, shell"
+        "meaning": {
+          "en": "seashell, shell"
+        },
+        "romaji": "kaigara"
       },
       {
         "example": "魚介",
         "reading": "ぎょかい",
-        "meaning": "marine products, seafood, fish and shellfish"
+        "meaning": {
+          "vi": "marine products, seafood, fish and shellfish"
+        },
+        "romaji": "gyokai"
       },
       {
         "example": "パウア貝",
         "reading": "パウアかい",
-        "meaning": "paua (edible New Zealand abalone; species Haliotis iris, H. australis, H. virginea)"
+        "meaning": {
+          "vi": "paua (edible New Zealand abalone; species Haliotis iris, H. australis, H. virginea)"
+        },
+        "romaji": "pauakai"
       }
     ],
     "radical": {
@@ -279,5 +301,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c9d.gif",
     "uri": "https://jisho.org/search/%E8%B2%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bối"
+  ]
 }

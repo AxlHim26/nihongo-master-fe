@@ -18,37 +18,58 @@
       {
         "example": "紗綾形",
         "reading": "サヤガタ",
-        "meaning": "sayagata (pattern of interlocking swastikas)"
+        "meaning": {
+          "vi": "sayagata (pattern of interlocking swastikas)"
+        },
+        "romaji": "sayagata"
       },
       {
         "example": "薄紗",
         "reading": "ハクサ",
-        "meaning": "delicate gauze, gossamer"
+        "meaning": {
+          "en": "delicate gauze, gossamer"
+        },
+        "romaji": "hakusa"
       },
       {
         "example": "掛け袱紗",
         "reading": "カケブクサ",
-        "meaning": "crape wrapper"
+        "meaning": {
+          "vi": "crape wrapper"
+        },
+        "romaji": "kakebukusa"
       },
       {
         "example": "紗",
         "reading": "シャ",
-        "meaning": "(silk) gauze"
+        "meaning": {
+          "en": "(silk) gauze"
+        },
+        "romaji": "sha"
       },
       {
         "example": "紗のよう",
         "reading": "シャノヨウ",
-        "meaning": "gauzy"
+        "meaning": {
+          "en": "gauzy"
+        },
+        "romaji": "shanoyou"
       },
       {
         "example": "寒冷紗",
         "reading": "カンレイシャ",
-        "meaning": "cheesecloth"
+        "meaning": {
+          "en": "cheesecloth"
+        },
+        "romaji": "kanreisha"
       },
       {
         "example": "羅紗",
         "reading": "ラシャ",
-        "meaning": "felt, woollen cloth"
+        "meaning": {
+          "en": "felt, woollen cloth"
+        },
+        "romaji": "rasha"
       }
     ],
     "kunyomiExamples": [],
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d17.gif",
     "uri": "https://jisho.org/search/%E7%B4%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "sa"
+  ]
 }

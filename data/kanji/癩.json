@@ -14,22 +14,34 @@
       {
         "example": "癩",
         "reading": "ライ",
-        "meaning": "Hansen's disease, leprosy, leper"
+        "meaning": {
+          "vi": "Hansen's disease, leprosy, leper"
+        },
+        "romaji": "rai"
       },
       {
         "example": "らい菌",
         "reading": "ライキン",
-        "meaning": "Mycobacterium leprae, leprosy bacillus"
+        "meaning": {
+          "vi": "Mycobacterium leprae, leprosy bacillus"
+        },
+        "romaji": "raikin"
       },
       {
         "example": "救癩",
         "reading": "キュウライ",
-        "meaning": "helping lepers"
+        "meaning": {
+          "vi": "helping lepers"
+        },
+        "romaji": "kyuurai"
       },
       {
         "example": "黒癩",
         "reading": "コクライ",
-        "meaning": "black leprosy"
+        "meaning": {
+          "vi": "black leprosy"
+        },
+        "romaji": "kokurai"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07669.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7669.gif",
     "uri": "https://jisho.org/search/%E7%99%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "lại"
+  ]
 }

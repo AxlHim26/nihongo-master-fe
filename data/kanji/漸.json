@@ -22,39 +22,60 @@
       {
         "example": "漸",
         "reading": "ゼン",
-        "meaning": "gradual progress"
+        "meaning": {
+          "vi": "gradual progress"
+        },
+        "romaji": "zen"
       },
       {
         "example": "漸減",
         "reading": "ゼンゲン",
-        "meaning": "gradual decrease, decline"
+        "meaning": {
+          "en": "gradual decrease, decline"
+        },
+        "romaji": "zengen"
       },
       {
         "example": "西漸",
         "reading": "セイゼン",
-        "meaning": "westward advance"
+        "meaning": {
+          "en": "westward advance"
+        },
+        "romaji": "seizen"
       },
       {
         "example": "東漸",
         "reading": "トウゼン",
-        "meaning": "eastward advance"
+        "meaning": {
+          "en": "eastward advance"
+        },
+        "romaji": "touzen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漸く",
         "reading": "ようやく",
-        "meaning": "finally, at last, barely, narrowly, hardly, only just, gradually, little by little, by degrees"
+        "meaning": {
+          "en": "finally, at last, barely, narrowly, hardly, only just, gradually, little by little, by degrees"
+        },
+        "romaji": "youyaku"
       },
       {
         "example": "稍",
         "reading": "やや",
-        "meaning": "a little, partially, somewhat, slightly, semi-, -ish, on the ... side, a short time, a while"
+        "meaning": {
+          "vi": "a little, partially, somewhat, slightly, semi-, -ish, on the ... side, a short time, a while"
+        },
+        "romaji": "yaya"
       },
       {
         "example": "漸う",
         "reading": "ようよう",
-        "meaning": "finally, barely, narrowly, hardly, only just, gradually, little by little, by degrees"
+        "meaning": {
+          "en": "finally, barely, narrowly, hardly, only just, gradually, little by little, by degrees"
+        },
+        "romaji": "youyou"
       }
     ],
     "radical": {
@@ -74,5 +95,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f38.gif",
     "uri": "https://jisho.org/search/%E6%BC%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiêm",
+    "tiềm",
+    "tiệm"
+  ]
 }

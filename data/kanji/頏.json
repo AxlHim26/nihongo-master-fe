@@ -16,12 +16,18 @@
       {
         "example": "拮抗",
         "reading": "キッコウ",
-        "meaning": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        "meaning": {
+          "vi": "rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        },
+        "romaji": "kikkou"
       },
       {
         "example": "頡頏",
         "reading": "ケッコウ",
-        "meaning": "rising and falling (of a bird), rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        "meaning": {
+          "vi": "rising and falling (of a bird), rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)"
+        },
+        "romaji": "kekkou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980f.gif",
     "uri": "https://jisho.org/search/%E9%A0%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cang",
+    "hàng",
+    "kháng"
+  ]
 }

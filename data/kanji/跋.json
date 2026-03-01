@@ -18,12 +18,18 @@
       {
         "example": "跋",
         "reading": "バツ",
-        "meaning": "epilogue, postscript, envoi"
+        "meaning": {
+          "vi": "epilogue, postscript, envoi"
+        },
+        "romaji": "batsu"
       },
       {
         "example": "跋文",
         "reading": "バツブン",
-        "meaning": "afterword, epilogue, postscript"
+        "meaning": {
+          "vi": "afterword, epilogue, postscript"
+        },
+        "romaji": "batsubun"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dcb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dcb.gif",
     "uri": "https://jisho.org/search/%E8%B7%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạt"
+  ]
 }

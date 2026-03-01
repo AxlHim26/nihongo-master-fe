@@ -278,22 +278,34 @@
       {
         "example": "完",
         "reading": "カン",
-        "meaning": "The End, Finis, completion, conclusion, end, full provision"
+        "meaning": {
+          "vi": "The End, Finis, completion, conclusion, end, full provision"
+        },
+        "romaji": "kan"
       },
       {
         "example": "完結",
         "reading": "カンケツ",
-        "meaning": "conclusion, completion"
+        "meaning": {
+          "vi": "conclusion, completion"
+        },
+        "romaji": "kanketsu"
       },
       {
         "example": "未完",
         "reading": "ミカン",
-        "meaning": "incomplete, unfinished"
+        "meaning": {
+          "vi": "incomplete, unfinished"
+        },
+        "romaji": "mikan"
       },
       {
         "example": "追完",
         "reading": "ツイカン",
-        "meaning": "subsequent completion"
+        "meaning": {
+          "vi": "subsequent completion"
+        },
+        "romaji": "tsuikan"
       }
     ],
     "kunyomiExamples": [],
@@ -311,5 +323,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8c.gif",
     "uri": "https://jisho.org/search/%E5%AE%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàn"
+  ]
 }

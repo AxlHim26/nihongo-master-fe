@@ -16,7 +16,10 @@
       {
         "example": "武勲",
         "reading": "ブクン",
-        "meaning": "feats of arms, military exploits, distinguished military service"
+        "meaning": {
+          "vi": "feats of arms, military exploits, distinguished military service"
+        },
+        "romaji": "bukun"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52f3.gif",
     "uri": "https://jisho.org/search/%E5%8B%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "huân"
+  ]
 }

@@ -21,44 +21,68 @@
       {
         "example": "哀",
         "reading": "アイ",
-        "meaning": "thương hại, đau buồn, bi thương, khổ sở"
+        "meaning": {
+          "vi": "thương hại, đau buồn, bi thương, khổ sở"
+        },
+        "romaji": "ai"
       },
       {
         "example": "哀悼",
         "reading": "アイトウ",
-        "meaning": "chia buồn, tiếc thương, tưởng niệm, đau buồn, thương cảm, than khóc"
+        "meaning": {
+          "vi": "chia buồn, tiếc thương, tưởng niệm, đau buồn, thương cảm, than khóc"
+        },
+        "romaji": "aitou"
       },
       {
         "example": "哀々",
         "reading": "アイアイ",
-        "meaning": "rất buồn thảm"
+        "meaning": {
+          "vi": "rất buồn thảm"
+        },
+        "romaji": "aiai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "哀れ",
         "reading": "あわれ",
-        "meaning": "thương hại, đau buồn, bi thương, khổ sở, lòng trắc ẩn, bi ai, đáng thương, thảm thương, khốn khổ, than ôi"
+        "meaning": {
+          "vi": "thương hại, đau buồn, bi thương, khổ sở, lòng trắc ẩn, bi ai, đáng thương, thảm thương, khốn khổ, than ôi"
+        },
+        "romaji": "aware"
       },
       {
         "example": "哀れむ",
         "reading": "あわれむ",
-        "meaning": "thương hại, đồng cảm, thông cảm, an ủi, thương xót, thưởng thức vẻ đẹp, trân trọng, ngưỡng mộ"
+        "meaning": {
+          "vi": "thương hại, đồng cảm, thông cảm, an ủi, thương xót, thưởng thức vẻ đẹp, trân trọng, ngưỡng mộ"
+        },
+        "romaji": "awaremu"
       },
       {
         "example": "哀れむ",
         "reading": "あわれむ",
-        "meaning": "thương hại, đồng cảm, thông cảm, an ủi, thương xót, thưởng thức vẻ đẹp, trân trọng, ngưỡng mộ"
+        "meaning": {
+          "vi": "thương hại, đồng cảm, thông cảm, an ủi, thương xót, thưởng thức vẻ đẹp, trân trọng, ngưỡng mộ"
+        },
+        "romaji": "awaremu"
       },
       {
         "example": "悲しい",
         "reading": "かなしい",
-        "meaning": "buồn, khốn khổ, bất hạnh, thảm thương, đáng tiếc, đáng trách, đau lòng"
+        "meaning": {
+          "vi": "buồn, khốn khổ, bất hạnh, thảm thương, đáng tiếc, đáng trách, đau lòng"
+        },
+        "romaji": "kanashii"
       },
       {
         "example": "悲しいかな",
         "reading": "かなしいかな",
-        "meaning": "đáng buồn thay, buồn biết mấy, than ôi"
+        "meaning": {
+          "vi": "đáng buồn thay, buồn biết mấy, than ôi"
+        },
+        "romaji": "kanashiikana"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c0.gif",
     "uri": "https://jisho.org/search/%E5%93%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "ai"
+  ]
 }

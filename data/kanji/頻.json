@@ -19,19 +19,28 @@
       {
         "example": "頻繁",
         "reading": "ヒンパン",
-        "meaning": "frequent, incessant"
+        "meaning": {
+          "en": "frequent, incessant"
+        },
+        "romaji": "hinpan"
       },
       {
         "example": "頻度",
         "reading": "ヒンド",
-        "meaning": "frequency (of occurrence)"
+        "meaning": {
+          "en": "frequency (of occurrence)"
+        },
+        "romaji": "hindo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頻りに",
         "reading": "しきりに",
-        "meaning": "frequently, repeatedly, often, incessantly, constantly, eagerly, keenly, strongly, intently, hard, terribly, extremely, severely"
+        "meaning": {
+          "vi": "frequently, repeatedly, often, incessantly, constantly, eagerly, keenly, strongly, intently, hard, terribly, extremely, severely"
+        },
+        "romaji": "shikirini"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983b.gif",
     "uri": "https://jisho.org/search/%E9%A0%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tần"
+  ]
 }

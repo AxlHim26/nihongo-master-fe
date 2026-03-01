@@ -19,34 +19,52 @@
       {
         "example": "禍",
         "reading": "カ",
-        "meaning": "disaster, calamity, misfortune"
+        "meaning": {
+          "en": "disaster, calamity, misfortune"
+        },
+        "romaji": "ka"
       },
       {
         "example": "禍根",
         "reading": "カコン",
-        "meaning": "root of an evil, source of a problem, source of trouble, cause of misfortune"
+        "meaning": {
+          "vi": "root of an evil, source of a problem, source of trouble, cause of misfortune"
+        },
+        "romaji": "kakon"
       },
       {
         "example": "コロナ禍",
         "reading": "コロナカ",
-        "meaning": "COVID-19 pandemic, coronavirus crisis, COVID-19 crisis"
+        "meaning": {
+          "vi": "COVID-19 pandemic, coronavirus crisis, COVID-19 crisis"
+        },
+        "romaji": "koronaka"
       },
       {
         "example": "惨禍",
         "reading": "サンカ",
-        "meaning": "calamity, disaster, catastrophe"
+        "meaning": {
+          "vi": "calamity, disaster, catastrophe"
+        },
+        "romaji": "sanka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "災い",
         "reading": "わざわい",
-        "meaning": "disaster, calamity, misfortune, trouble, woes"
+        "meaning": {
+          "en": "disaster, calamity, misfortune, trouble, woes"
+        },
+        "romaji": "wazawai"
       },
       {
         "example": "災いする",
         "reading": "わざわいする",
-        "meaning": "to be one's ruin, to do harm, to cause trouble, to have negative consequences, to bring about a bad outcome"
+        "meaning": {
+          "en": "to be one's ruin, to do harm, to cause trouble, to have negative consequences, to bring about a bad outcome"
+        },
+        "romaji": "wazawaisuru"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0798d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/798d.gif",
     "uri": "https://jisho.org/search/%E7%A6%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạ"
+  ]
 }

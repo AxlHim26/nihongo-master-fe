@@ -285,34 +285,52 @@
       {
         "example": "湿",
         "reading": "シツ",
-        "meaning": "độ ẩm, ẩm ướt, ghẻ ngứa"
+        "meaning": {
+          "vi": "độ ẩm, ẩm ướt, ghẻ ngứa"
+        },
+        "romaji": "shitsu"
       },
       {
         "example": "湿原",
         "reading": "シツゲン",
-        "meaning": "đồng cỏ ẩm, vùng đất ẩm"
+        "meaning": {
+          "vi": "đồng cỏ ẩm, vùng đất ẩm"
+        },
+        "romaji": "shitsugen"
       },
       {
         "example": "多湿",
         "reading": "タシツ",
-        "meaning": "độ ẩm cao"
+        "meaning": {
+          "vi": "độ ẩm cao"
+        },
+        "romaji": "tashitsu"
       },
       {
         "example": "耐湿",
         "reading": "タイシツ",
-        "meaning": "chống ẩm"
+        "meaning": {
+          "vi": "chống ẩm"
+        },
+        "romaji": "taishitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湿る",
         "reading": "しめる",
-        "meaning": "trở nên ẩm ướt, ủ rũ, chán nản"
+        "meaning": {
+          "vi": "trở nên ẩm ướt, ủ rũ, chán nản"
+        },
+        "romaji": "shimeru"
       },
       {
         "example": "湿す",
         "reading": "しめす",
-        "meaning": "làm ướt, làm ẩm"
+        "meaning": {
+          "vi": "làm ướt, làm ẩm"
+        },
+        "romaji": "shimesu"
       }
     ],
     "radical": {
@@ -332,5 +350,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e7f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e7f.gif",
     "uri": "https://jisho.org/search/%E6%B9%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "chập",
+    "thấp"
+  ]
 }

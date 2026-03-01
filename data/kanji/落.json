@@ -406,54 +406,84 @@
       {
         "example": "落語",
         "reading": "ラクゴ",
-        "meaning": "rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)"
+        "meaning": {
+          "vi": "rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)"
+        },
+        "romaji": "rakugo"
       },
       {
         "example": "落書き",
         "reading": "ラクガキ",
-        "meaning": "scrawl, scribble, graffiti, doodle"
+        "meaning": {
+          "en": "scrawl, scribble, graffiti, doodle"
+        },
+        "romaji": "rakugaki"
       },
       {
         "example": "崩落",
         "reading": "ホウラク",
-        "meaning": "collapse, break, cave-in, crash, market decline, market crash"
+        "meaning": {
+          "vi": "collapse, break, cave-in, crash, market decline, market crash"
+        },
+        "romaji": "houraku"
       },
       {
         "example": "当落",
         "reading": "トウラク",
-        "meaning": "result (of an election), success or defeat (in an election), winning or losing (a lottery, raffle, etc.)"
+        "meaning": {
+          "en": "result (of an election), success or defeat (in an election), winning or losing (a lottery, raffle, etc.)"
+        },
+        "romaji": "touraku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "落ちる",
         "reading": "おちる",
-        "meaning": "to fall, to drop, to come down, to crash, to collapse, to cave in, to give way, to set (of the sun or moon), to sink, to dip, to go down, to decrease (of popularity, quality, speed, sales, etc.), to fall, to drop, to go down, to decline, to deteriorate, to abate (of wind), to be inferior (to), to be not as good (as), to fall short (of), to come off (of dirt, paint, makeup, etc.), to come out (of a stain), to fade (of colour), to be removed (of an illness, possessing spirit, etc.), to disappear (of excess fat), to become thinner, to become leaner, to be left out, to be omitted, to be missing, to fail (an exam), to lose (a contest, election, etc.), to be unsuccessful, to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell), to fall (in love, asleep, etc.), to fall (into someone's hands), to be accepted (of a bid), to be won (of a tender), to be honoured (of a bill), to fall into (a trap), to fall for (a trick), to give in, to confess, to own up, to come to (a conclusion, topic, etc.), to arrive at (in the end), to leave (a city, castle, etc.), to (be defeated and) flee, to sink in, to be accepted (in one's heart), to fall (to the enemy), to be defeated, to come in (of money), to fall (upon; of light, a shadow, one's gaze, etc.), to pass out (in judo), to fall unconscious, to go down (of a website, server, etc.), to crash, to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline, to move to deeper water (of a fish in cold weather), to die (of an animal)"
+        "meaning": {
+          "vi": "to fall, to drop, to come down, to crash, to collapse, to cave in, to give way, to set (of the sun or moon), to sink, to dip, to go down, to decrease (of popularity, quality, speed, sales, etc.), to fall, to drop, to go down, to decline, to deteriorate, to abate (of wind), to be inferior (to), to be not as good (as), to fall short (of), to come off (of dirt, paint, makeup, etc.), to come out (of a stain), to fade (of colour), to be removed (of an illness, possessing spirit, etc.), to disappear (of excess fat), to become thinner, to become leaner, to be left out, to be omitted, to be missing, to fail (an exam), to lose (a contest, election, etc.), to be unsuccessful, to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell), to fall (in love, asleep, etc.), to fall (into someone's hands), to be accepted (of a bid), to be won (of a tender), to be honoured (of a bill), to fall into (a trap), to fall for (a trick), to give in, to confess, to own up, to come to (a conclusion, topic, etc.), to arrive at (in the end), to leave (a city, castle, etc.), to (be defeated and) flee, to sink in, to be accepted (in one's heart), to fall (to the enemy), to be defeated, to come in (of money), to fall (upon; of light, a shadow, one's gaze, etc.), to pass out (in judo), to fall unconscious, to go down (of a website, server, etc.), to crash, to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline, to move to deeper water (of a fish in cold weather), to die (of an animal)"
+        },
+        "romaji": "ochiru"
       },
       {
         "example": "落ち",
         "reading": "おち",
-        "meaning": "slip, omission, upshot, denouement, outcome, final result, punch line (of a joke)"
+        "meaning": {
+          "vi": "slip, omission, upshot, denouement, outcome, final result, punch line (of a joke)"
+        },
+        "romaji": "ochi"
       },
       {
         "example": "落ち込む",
         "reading": "おちこむ",
-        "meaning": "to feel down, to feel sad, to be depressed, to be in low spirits, to be in a slump (business, economy, etc.), to be in an unfavourable condition, to fall into (e.g. a hole)"
+        "meaning": {
+          "vi": "to feel down, to feel sad, to be depressed, to be in low spirits, to be in a slump (business, economy, etc.), to be in an unfavourable condition, to fall into (e.g. a hole)"
+        },
+        "romaji": "ochikomu"
       },
       {
         "example": "付け落ち",
         "reading": "つけおち",
-        "meaning": "omission in a bill"
+        "meaning": {
+          "en": "omission in a bill"
+        },
+        "romaji": "tsukeochi"
       },
       {
         "example": "耳落",
         "reading": "みみおち",
-        "meaning": "removing edges, cutting edges"
+        "meaning": {
+          "en": "removing edges, cutting edges"
+        },
+        "romaji": "mimiochi"
       },
       {
         "example": "落とす",
         "reading": "おとす",
-        "meaning": "to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind, to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape, to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election), to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances, to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with, to download, to copy from a computer to another medium, to make someone swoon (judo), to finish a story (e.g. with the punch line), to finish (a period, e.g. of fasting), to win over, to seduce, to conquer (unwillingness)"
+        "meaning": {
+          "vi": "to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind, to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape, to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election), to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances, to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with, to download, to copy from a computer to another medium, to make someone swoon (judo), to finish a story (e.g. with the punch line), to finish (a period, e.g. of fasting), to win over, to seduce, to conquer (unwillingness)"
+        },
+        "romaji": "otosu"
       }
     ],
     "radical": {
@@ -473,5 +503,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0843d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/843d.gif",
     "uri": "https://jisho.org/search/%E8%90%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc"
+  ]
 }

@@ -15,22 +15,34 @@
       {
         "example": "菖蒲",
         "reading": "ショウブ",
-        "meaning": "sweet flag (Acorus calamus), calamus, Japanese iris (Iris ensata var. ensata)"
+        "meaning": {
+          "vi": "sweet flag (Acorus calamus), calamus, Japanese iris (Iris ensata var. ensata)"
+        },
+        "romaji": "shoubu"
       },
       {
         "example": "菖蒲湯",
         "reading": "ショウブユ",
-        "meaning": "bathwater with iris petals"
+        "meaning": {
+          "vi": "bathwater with iris petals"
+        },
+        "romaji": "shoubuyu"
       },
       {
         "example": "石菖",
         "reading": "セキショウ",
-        "meaning": "Japanese sweet flag (Acorus gramineus)"
+        "meaning": {
+          "vi": "Japanese sweet flag (Acorus gramineus)"
+        },
+        "romaji": "sekishou"
       },
       {
         "example": "庭石菖",
         "reading": "ニワゼキショウ",
-        "meaning": "blue-eyed grass (Sisyrinchium rosulatum)"
+        "meaning": {
+          "en": "blue-eyed grass (Sisyrinchium rosulatum)"
+        },
+        "romaji": "niwazekishou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083d6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83d6.gif",
     "uri": "https://jisho.org/search/%E8%8F%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "xương"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "筮",
         "reading": "めどぎ",
-        "meaning": "divination sticks"
+        "meaning": {
+          "en": "divination sticks"
+        },
+        "romaji": "medogi"
       },
       {
         "example": "蓍木",
         "reading": "めどぎ",
-        "meaning": "Chinese lespedeza (Lespedeza cuneata), sericea lespedeza"
+        "meaning": {
+          "vi": "Chinese lespedeza (Lespedeza cuneata), sericea lespedeza"
+        },
+        "romaji": "medogi"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84cd.gif",
     "uri": "https://jisho.org/search/%E8%93%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi"
+  ]
 }

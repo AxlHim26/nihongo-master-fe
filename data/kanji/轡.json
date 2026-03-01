@@ -18,12 +18,16 @@
       {
         "example": "轡",
         "reading": "くつわ",
-        "meaning": "bit (mouthpiece)"
+        "meaning": {
+          "vi": "bit (mouthpiece)"
+        },
+        "romaji": "kutsuwa"
       },
       {
         "example": "【クツワムシ】",
         "reading": "Mecopoda nipponensis (species of katydid)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Mecopoda nipponensis (species of katydid)"
       }
     ],
     "radical": {
@@ -41,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f61.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f61.gif",
     "uri": "https://jisho.org/search/%E8%BD%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "bí"
+  ]
 }

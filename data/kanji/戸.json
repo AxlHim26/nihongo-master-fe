@@ -298,44 +298,68 @@
       {
         "example": "戸",
         "reading": "コ",
-        "meaning": "counter for houses, households, apartments, etc."
+        "meaning": {
+          "vi": "counter for houses, households, apartments, etc."
+        },
+        "romaji": "ko"
       },
       {
         "example": "戸外",
         "reading": "コガイ",
-        "meaning": "open air, outdoors, outside"
+        "meaning": {
+          "vi": "open air, outdoors, outside"
+        },
+        "romaji": "kogai"
       },
       {
         "example": "一戸",
         "reading": "イッコ",
-        "meaning": "one house, household"
+        "meaning": {
+          "en": "one house, household"
+        },
+        "romaji": "ikko"
       },
       {
         "example": "下戸",
         "reading": "ゲコ",
-        "meaning": "non-drinker, someone who cannot drink"
+        "meaning": {
+          "en": "non-drinker, someone who cannot drink"
+        },
+        "romaji": "geko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戸",
         "reading": "と",
-        "meaning": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+        "meaning": {
+          "vi": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+        },
+        "romaji": "to"
       },
       {
         "example": "戸惑い",
         "reading": "とまどい",
-        "meaning": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter"
+        "meaning": {
+          "vi": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter"
+        },
+        "romaji": "tomadoi"
       },
       {
         "example": "鳴門",
         "reading": "なると",
-        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        "meaning": {
+          "vi": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        },
+        "romaji": "naruto"
       },
       {
         "example": "大戸",
         "reading": "おおど",
-        "meaning": "main door at the front of a house, front shutters"
+        "meaning": {
+          "en": "main door at the front of a house, front shutters"
+        },
+        "romaji": "oodo"
       }
     ],
     "radical": {
@@ -355,5 +379,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06238.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6238.gif",
     "uri": "https://jisho.org/search/%E6%88%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hộ"
+  ]
 }

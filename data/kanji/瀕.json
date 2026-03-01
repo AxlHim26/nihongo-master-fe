@@ -17,12 +17,18 @@
       {
         "example": "瀕死",
         "reading": "ヒンシ",
-        "meaning": "(on the) verge of death"
+        "meaning": {
+          "en": "(on the) verge of death"
+        },
+        "romaji": "hinshi"
       },
       {
         "example": "瀕死状態",
         "reading": "ヒンシジョウタイ",
-        "meaning": "moribund state, near-death, barely alive condition"
+        "meaning": {
+          "en": "moribund state, near-death, barely alive condition"
+        },
+        "romaji": "hinshijoutai"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +54,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07015.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7015.gif",
     "uri": "https://jisho.org/search/%E7%80%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "tân",
+    "tần"
+  ]
 }

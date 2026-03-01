@@ -253,29 +253,44 @@
       {
         "example": "忙殺",
         "reading": "ボウサツ",
-        "meaning": "being extremely busy, being swamped with work"
+        "meaning": {
+          "vi": "being extremely busy, being swamped with work"
+        },
+        "romaji": "bousatsu"
       },
       {
         "example": "忙殺される",
         "reading": "ボウサツサレル",
-        "meaning": "to be very busily occupied, to be swamped with work"
+        "meaning": {
+          "vi": "to be very busily occupied, to be swamped with work"
+        },
+        "romaji": "bousatsusareru"
       },
       {
         "example": "繁忙",
         "reading": "ハンボウ",
-        "meaning": "busy, high-stress, hectic, pressed (with business)"
+        "meaning": {
+          "vi": "busy, high-stress, hectic, pressed (with business)"
+        },
+        "romaji": "hanbou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "忙しい",
         "reading": "いそがしい",
-        "meaning": "busy, occupied, hectic, restless, hurried, fidgety"
+        "meaning": {
+          "vi": "busy, occupied, hectic, restless, hurried, fidgety"
+        },
+        "romaji": "isogashii"
       },
       {
         "example": "忙しい",
         "reading": "せわしい",
-        "meaning": "busy, hectic, frantic, restless, hurried, fidgety"
+        "meaning": {
+          "en": "busy, hectic, frantic, restless, hurried, fidgety"
+        },
+        "romaji": "sewashii"
       }
     ],
     "radical": {
@@ -295,5 +310,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd9.gif",
     "uri": "https://jisho.org/search/%E5%BF%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "mang"
+  ]
 }

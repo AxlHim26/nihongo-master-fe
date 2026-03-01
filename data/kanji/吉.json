@@ -20,64 +20,100 @@
       {
         "example": "吉",
         "reading": "キチ",
-        "meaning": "good fortune (esp. omikuji fortune-telling result), good luck, auspiciousness, unspecified day of the month (used to obscure the date a letter, invitation, etc. was written)"
+        "meaning": {
+          "vi": "good fortune (esp. omikuji fortune-telling result), good luck, auspiciousness, unspecified day of the month (used to obscure the date a letter, invitation, etc. was written)"
+        },
+        "romaji": "kichi"
       },
       {
         "example": "吉祥天",
         "reading": "キッショウテン",
-        "meaning": "Sri-mahadevi (consort of Vaishravana)"
+        "meaning": {
+          "en": "Sri-mahadevi (consort of Vaishravana)"
+        },
+        "romaji": "kisshouten"
       },
       {
         "example": "大吉",
         "reading": "ダイキチ",
-        "meaning": "excellent luck"
+        "meaning": {
+          "en": "excellent luck"
+        },
+        "romaji": "daikichi"
       },
       {
         "example": "中吉",
         "reading": "チュウキチ",
-        "meaning": "moderately good luck (in fortune telling)"
+        "meaning": {
+          "en": "moderately good luck (in fortune telling)"
+        },
+        "romaji": "chuukichi"
       },
       {
         "example": "吉",
         "reading": "キチ",
-        "meaning": "good fortune (esp. omikuji fortune-telling result), good luck, auspiciousness, unspecified day of the month (used to obscure the date a letter, invitation, etc. was written)"
+        "meaning": {
+          "vi": "good fortune (esp. omikuji fortune-telling result), good luck, auspiciousness, unspecified day of the month (used to obscure the date a letter, invitation, etc. was written)"
+        },
+        "romaji": "kichi"
       },
       {
         "example": "吉事",
         "reading": "キチジ",
-        "meaning": "auspicious event"
+        "meaning": {
+          "vi": "auspicious event"
+        },
+        "romaji": "kichiji"
       },
       {
         "example": "嘉吉",
         "reading": "カキツ",
-        "meaning": "Kakitsu era (1441.2.17-1444.2.5)"
+        "meaning": {
+          "en": "Kakitsu era (1441.2.17-1444.2.5)"
+        },
+        "romaji": "kakitsu"
       },
       {
         "example": "勿吉",
         "reading": "モッキツ",
-        "meaning": "Mohe (one of the Tungusic-speaking tribes)"
+        "meaning": {
+          "vi": "Mohe (one of the Tungusic-speaking tribes)"
+        },
+        "romaji": "mokkitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吉川神道",
         "reading": "よしかわしんとう",
-        "meaning": "Yoshikawa Shinto (Confucianist form of Shinto, stripped of Buddhist influence)"
+        "meaning": {
+          "vi": "Yoshikawa Shinto (Confucianist form of Shinto, stripped of Buddhist influence)"
+        },
+        "romaji": "yoshikawashintou"
       },
       {
         "example": "吉川線",
         "reading": "よしかわせん",
-        "meaning": "scratch marks on the neck of a body (indicating a struggling victim of strangulation)"
+        "meaning": {
+          "en": "scratch marks on the neck of a body (indicating a struggling victim of strangulation)"
+        },
+        "romaji": "yoshikawasen"
       },
       {
         "example": "土吉",
         "reading": "つちよし",
-        "meaning": "earth form of \"good luck\" character"
+        "meaning": {
+          "en": "earth form of \"good luck\" character"
+        },
+        "romaji": "tsuchiyoshi"
       },
       {
         "example": "豊臣秀吉",
         "reading": "とよとみひでよし",
-        "meaning": "Toyotomi Hideyoshi"
+        "meaning": {
+          "en": "Toyotomi Hideyoshi"
+        },
+        "romaji": "toyotomihideyoshi"
       }
     ],
     "radical": {
@@ -92,5 +128,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05409.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5409.gif",
     "uri": "https://jisho.org/search/%E5%90%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "cát"
+  ]
 }

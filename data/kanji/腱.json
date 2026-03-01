@@ -15,22 +15,34 @@
       {
         "example": "腱",
         "reading": "ケン",
-        "meaning": "tendon"
+        "meaning": {
+          "en": "tendon"
+        },
+        "romaji": "ken"
       },
       {
         "example": "腱炎",
         "reading": "ケンエン",
-        "meaning": "tendinitis, tendonitis"
+        "meaning": {
+          "en": "tendinitis, tendonitis"
+        },
+        "romaji": "ken'en"
       },
       {
         "example": "膝蓋腱",
         "reading": "シツガイケン",
-        "meaning": "patellar tendon"
+        "meaning": {
+          "vi": "patellar tendon"
+        },
+        "romaji": "shitsugaiken"
       },
       {
         "example": "屈筋腱",
         "reading": "クッキンケン",
-        "meaning": "flexor tendon"
+        "meaning": {
+          "en": "flexor tendon"
+        },
+        "romaji": "kukkinken"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08171.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8171.gif",
     "uri": "https://jisho.org/search/%E8%85%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiên",
+    "kiện"
+  ]
 }

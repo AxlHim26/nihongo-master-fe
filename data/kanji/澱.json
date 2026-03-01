@@ -20,39 +20,60 @@
       {
         "example": "澱粉",
         "reading": "デンプン",
-        "meaning": "starch"
+        "meaning": {
+          "en": "starch"
+        },
+        "romaji": "denpun"
       },
       {
         "example": "澱粉質",
         "reading": "デンプンシツ",
-        "meaning": "starchiness, starchy, farinaceous"
+        "meaning": {
+          "en": "starchiness, starchy, farinaceous"
+        },
+        "romaji": "denpunshitsu"
       },
       {
         "example": "沈殿",
         "reading": "チンデン",
-        "meaning": "precipitation, deposition, settlement (e.g. of sediment)"
+        "meaning": {
+          "vi": "precipitation, deposition, settlement (e.g. of sediment)"
+        },
+        "romaji": "chinden"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "澱",
         "reading": "おり",
-        "meaning": "dregs, lees, grounds, sediment"
+        "meaning": {
+          "en": "dregs, lees, grounds, sediment"
+        },
+        "romaji": "ori"
       },
       {
         "example": "淀み",
         "reading": "よどみ",
-        "meaning": "stagnation, deposit, sediment, backwater, faltering, hesitation, pause"
+        "meaning": {
+          "vi": "stagnation, deposit, sediment, backwater, faltering, hesitation, pause"
+        },
+        "romaji": "yodomi"
       },
       {
         "example": "淀みない",
         "reading": "よどみない",
-        "meaning": "fluent, smooth, flowing"
+        "meaning": {
+          "en": "fluent, smooth, flowing"
+        },
+        "romaji": "yodominai"
       },
       {
         "example": "淀む",
         "reading": "よどむ",
-        "meaning": "to stagnate, to settle (at the bottom), to deposit, to be sedimented, to become sluggish, to become dull, to become stale, to be delayed, to hesitate, to falter, to stammer, to stumble"
+        "meaning": {
+          "vi": "to stagnate, to settle (at the bottom), to deposit, to be sedimented, to become sluggish, to become dull, to become stale, to be delayed, to hesitate, to falter, to stammer, to stumble"
+        },
+        "romaji": "yodomu"
       }
     ],
     "radical": {
@@ -78,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb1.gif",
     "uri": "https://jisho.org/search/%E6%BE%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "điến"
+  ]
 }

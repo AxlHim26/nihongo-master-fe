@@ -360,69 +360,108 @@
       {
         "example": "米",
         "reading": "ベイ",
-        "meaning": "(United States of) America, USA"
+        "meaning": {
+          "en": "(United States of) America, USA"
+        },
+        "romaji": "bei"
       },
       {
         "example": "米価",
         "reading": "ベイカ",
-        "meaning": "rice price"
+        "meaning": {
+          "vi": "rice price"
+        },
+        "romaji": "beika"
       },
       {
         "example": "在米",
         "reading": "ザイベイ",
-        "meaning": "staying in the United States, residing in the United States, being situated in the United States (of a foreign embassy, company, etc.)"
+        "meaning": {
+          "vi": "staying in the United States, residing in the United States, being situated in the United States (of a foreign embassy, company, etc.)"
+        },
+        "romaji": "zaibei"
       },
       {
         "example": "対米",
         "reading": "タイベイ",
-        "meaning": "relating to the USA, toward America, with America"
+        "meaning": {
+          "en": "relating to the USA, toward America, with America"
+        },
+        "romaji": "taibei"
       },
       {
         "example": "精米",
         "reading": "セイマイ",
-        "meaning": "rice polishing, polished rice"
+        "meaning": {
+          "vi": "rice polishing, polished rice"
+        },
+        "romaji": "seimai"
       },
       {
         "example": "白米",
         "reading": "ハクマイ",
-        "meaning": "polished rice, (uncooked) white rice"
+        "meaning": {
+          "vi": "polished rice, (uncooked) white rice"
+        },
+        "romaji": "hakumai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "米",
         "reading": "こめ",
-        "meaning": "(husked grains of) rice, staple (product, etc.), necessity, (online) comment"
+        "meaning": {
+          "vi": "(husked grains of) rice, staple (product, etc.), necessity, (online) comment"
+        },
+        "romaji": "kome"
       },
       {
         "example": "米倉",
         "reading": "こめぐら",
-        "meaning": "rice granary"
+        "meaning": {
+          "en": "rice granary"
+        },
+        "romaji": "komegura"
       },
       {
         "example": "お米",
         "reading": "おこめ",
-        "meaning": "(husked grains of) rice"
+        "meaning": {
+          "en": "(husked grains of) rice"
+        },
+        "romaji": "okome"
       },
       {
         "example": "アルボリオ米",
         "reading": "アルボリオこめ",
-        "meaning": "arborio rice (Italian variety)"
+        "meaning": {
+          "en": "arborio rice (Italian variety)"
+        },
+        "romaji": "aruboriokome"
       },
       {
         "example": "米",
         "reading": "よね",
-        "meaning": "88 years old, rice"
+        "meaning": {
+          "en": "88 years old, rice"
+        },
+        "romaji": "yone"
       },
       {
         "example": "米沢牛",
         "reading": "よねざわぎゅう",
-        "meaning": "Yonezawa beef"
+        "meaning": {
+          "en": "Yonezawa beef"
+        },
+        "romaji": "yonezawagyuu"
       },
       {
         "example": "白米",
         "reading": "はくまい",
-        "meaning": "polished rice, (uncooked) white rice"
+        "meaning": {
+          "vi": "polished rice, (uncooked) white rice"
+        },
+        "romaji": "hakumai"
       }
     ],
     "radical": {
@@ -436,5 +475,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c73.gif",
     "uri": "https://jisho.org/search/%E7%B1%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "mễ"
+  ]
 }

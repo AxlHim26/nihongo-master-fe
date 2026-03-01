@@ -17,22 +17,34 @@
       {
         "example": "艦",
         "reading": "カン",
-        "meaning": "warship"
+        "meaning": {
+          "vi": "warship"
+        },
+        "romaji": "kan"
       },
       {
         "example": "艦船",
         "reading": "カンセン",
-        "meaning": "warships and other vessels, naval vessels"
+        "meaning": {
+          "vi": "warships and other vessels, naval vessels"
+        },
+        "romaji": "kansen"
       },
       {
         "example": "駆逐艦",
         "reading": "クチクカン",
-        "meaning": "destroyer (ship)"
+        "meaning": {
+          "vi": "destroyer (ship)"
+        },
+        "romaji": "kuchikukan"
       },
       {
         "example": "巡洋艦",
         "reading": "ジュンヨウカン",
-        "meaning": "cruiser (warship)"
+        "meaning": {
+          "vi": "cruiser (warship)"
+        },
+        "romaji": "jun'youkan"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08266.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8266.gif",
     "uri": "https://jisho.org/search/%E8%89%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạm"
+  ]
 }

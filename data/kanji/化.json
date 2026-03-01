@@ -367,59 +367,92 @@
       {
         "example": "化",
         "reading": "カ",
-        "meaning": "change to ..., becoming ..., making into ..., -ization, -ification"
+        "meaning": {
+          "en": "change to ..., becoming ..., making into ..., -ization, -ification"
+        },
+        "romaji": "ka"
       },
       {
         "example": "化学",
         "reading": "カガク",
-        "meaning": "chemistry"
+        "meaning": {
+          "en": "chemistry"
+        },
+        "romaji": "kagaku"
       },
       {
         "example": "機械化",
         "reading": "キカイカ",
-        "meaning": "mechanization, mechanisation"
+        "meaning": {
+          "en": "mechanization, mechanisation"
+        },
+        "romaji": "kikaika"
       },
       {
         "example": "民営化",
         "reading": "ミンエイカ",
-        "meaning": "privatization, privatisation"
+        "meaning": {
+          "vi": "privatization, privatisation"
+        },
+        "romaji": "min'eika"
       },
       {
         "example": "化粧",
         "reading": "ケショウ",
-        "meaning": "make-up, makeup, cosmetics, decoration, dressing, veneer"
+        "meaning": {
+          "vi": "make-up, makeup, cosmetics, decoration, dressing, veneer"
+        },
+        "romaji": "keshou"
       },
       {
         "example": "化粧水",
         "reading": "ケショウスイ",
-        "meaning": "skin lotion, face lotion"
+        "meaning": {
+          "en": "skin lotion, face lotion"
+        },
+        "romaji": "keshousui"
       },
       {
         "example": "応化",
         "reading": "オウゲ",
-        "meaning": "assumption of a suitable form (by a buddha or bodhisattva)"
+        "meaning": {
+          "vi": "assumption of a suitable form (by a buddha or bodhisattva)"
+        },
+        "romaji": "ouge"
       },
       {
         "example": "教化",
         "reading": "キョウケ",
-        "meaning": "guidance, teaching people and leading them to Buddhism"
+        "meaning": {
+          "vi": "guidance, teaching people and leading them to Buddhism"
+        },
+        "romaji": "kyouke"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "化ける",
         "reading": "ばける",
-        "meaning": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.)"
+        "meaning": {
+          "vi": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.)"
+        },
+        "romaji": "bakeru"
       },
       {
         "example": "化かす",
         "reading": "ばかす",
-        "meaning": "to bewitch, to confuse, to enchant, to delude"
+        "meaning": {
+          "en": "to bewitch, to confuse, to enchant, to delude"
+        },
+        "romaji": "bakasu"
       },
       {
         "example": "老ける",
         "reading": "ふける",
-        "meaning": "to age, to grow old (esp. in appearance), to show marks of age"
+        "meaning": {
+          "vi": "to age, to grow old (esp. in appearance), to show marks of age"
+        },
+        "romaji": "fukeru"
       }
     ],
     "radical": {
@@ -434,5 +467,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05316.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5316.gif",
     "uri": "https://jisho.org/search/%E5%8C%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoa",
+    "hoá"
+  ]
 }

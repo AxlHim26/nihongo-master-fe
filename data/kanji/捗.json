@@ -18,14 +18,20 @@
       {
         "example": "進捗",
         "reading": "シンチョク",
-        "meaning": "tiến độ, tiến triển"
+        "meaning": {
+          "vi": "tiến độ, tiến triển"
+        },
+        "romaji": "shinchoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "捗る",
         "reading": "はかどる",
-        "meaning": "tiến triển tốt, tiến hành công việc"
+        "meaning": {
+          "vi": "tiến triển tốt, tiến hành công việc"
+        },
+        "romaji": "hakadoru"
       }
     ],
     "radical": {
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06357.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6357.gif",
     "uri": "https://jisho.org/search/%E6%8D%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "duệ"
+  ]
 }

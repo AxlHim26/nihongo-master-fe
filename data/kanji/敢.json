@@ -258,34 +258,52 @@
       {
         "example": "敢闘",
         "reading": "カントウ",
-        "meaning": "fighting bravely"
+        "meaning": {
+          "en": "fighting bravely"
+        },
+        "romaji": "kantou"
       },
       {
         "example": "敢行",
         "reading": "カンコウ",
-        "meaning": "decisive action, going through with, daring to do, carrying out"
+        "meaning": {
+          "en": "decisive action, going through with, daring to do, carrying out"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "勇猛果敢",
         "reading": "ユウモウカカン",
-        "meaning": "daring and resolute, having dauntless courage"
+        "meaning": {
+          "en": "daring and resolute, having dauntless courage"
+        },
+        "romaji": "yuumoukakan"
       },
       {
         "example": "迅速果敢",
         "reading": "ジンソクカカン",
-        "meaning": "quick and decisive, fast and daring, swift and resolute"
+        "meaning": {
+          "en": "quick and decisive, fast and daring, swift and resolute"
+        },
+        "romaji": "jinsokukakan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敢えて",
         "reading": "あえて",
-        "meaning": "purposely (of something needless, unexpected or seemingly counterproductive, etc.), daringly (doing something), deliberately, intentionally, not necessarily, not particularly, not especially, definitely not"
+        "meaning": {
+          "vi": "purposely (of something needless, unexpected or seemingly counterproductive, etc.), daringly (doing something), deliberately, intentionally, not necessarily, not particularly, not especially, definitely not"
+        },
+        "romaji": "aete"
       },
       {
         "example": "敢え無い",
         "reading": "あえない",
-        "meaning": "disappointing (end, result, etc.), sad, miserable, tragic, fleeting, transient"
+        "meaning": {
+          "vi": "disappointing (end, result, etc.), sad, miserable, tragic, fleeting, transient"
+        },
+        "romaji": "aenai"
       }
     ],
     "radical": {
@@ -304,5 +322,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06562.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6562.gif",
     "uri": "https://jisho.org/search/%E6%95%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảm"
+  ]
 }

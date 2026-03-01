@@ -347,54 +347,84 @@
       {
         "example": "興行",
         "reading": "コウギョウ",
-        "meaning": "show, performance, act, entertainment industry, show business"
+        "meaning": {
+          "vi": "show, performance, act, entertainment industry, show business"
+        },
+        "romaji": "kougyou"
       },
       {
         "example": "興業",
         "reading": "コウギョウ",
-        "meaning": "promotion of industry, inauguration of a new industrial enterprise"
+        "meaning": {
+          "vi": "promotion of industry, inauguration of a new industrial enterprise"
+        },
+        "romaji": "kougyou"
       },
       {
         "example": "新興",
         "reading": "シンコウ",
-        "meaning": "rising, developing, emergent, burgeoning, new"
+        "meaning": {
+          "vi": "rising, developing, emergent, burgeoning, new"
+        },
+        "romaji": "shinkou"
       },
       {
         "example": "再興",
         "reading": "サイコウ",
-        "meaning": "revival, restoration, resuscitation"
+        "meaning": {
+          "en": "revival, restoration, resuscitation"
+        },
+        "romaji": "saikou"
       },
       {
         "example": "興",
         "reading": "キョウ",
-        "meaning": "interest, entertainment, pleasure, implicit comparison (style of the Shi Jing)"
+        "meaning": {
+          "vi": "interest, entertainment, pleasure, implicit comparison (style of the Shi Jing)"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "興味",
         "reading": "キョウミ",
-        "meaning": "interest (in something), curiosity (about something), zest (for)"
+        "meaning": {
+          "en": "interest (in something), curiosity (about something), zest (for)"
+        },
+        "romaji": "kyoumi"
       },
       {
         "example": "一興",
         "reading": "イッキョウ",
-        "meaning": "amusement, fun, brief entertainment"
+        "meaning": {
+          "en": "amusement, fun, brief entertainment"
+        },
+        "romaji": "ikkyou"
       },
       {
         "example": "遊興",
         "reading": "ユウキョウ",
-        "meaning": "merrymaking (esp. wine and women), pleasures"
+        "meaning": {
+          "vi": "merrymaking (esp. wine and women), pleasures"
+        },
+        "romaji": "yuukyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "興る",
         "reading": "おこる",
-        "meaning": "to rise, to flourish"
+        "meaning": {
+          "en": "to rise, to flourish"
+        },
+        "romaji": "okoru"
       },
       {
         "example": "興す",
         "reading": "おこす",
-        "meaning": "to vitalize (e.g. an industry), to invigorate, to energize, to revive, to promote, to make prosperous, to establish (e.g. a company), to build up, to set up, to launch, to commence"
+        "meaning": {
+          "vi": "to vitalize (e.g. an industry), to invigorate, to energize, to revive, to promote, to make prosperous, to establish (e.g. a company), to build up, to set up, to launch, to commence"
+        },
+        "romaji": "okosu"
       }
     ],
     "radical": {
@@ -412,5 +442,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08208.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8208.gif",
     "uri": "https://jisho.org/search/%E8%88%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "hưng",
+    "hứng"
+  ]
 }

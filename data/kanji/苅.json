@@ -19,7 +19,10 @@
       {
         "example": "刈る",
         "reading": "かる",
-        "meaning": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
+        "meaning": {
+          "vi": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
+        },
+        "romaji": "karu"
       }
     ],
     "radical": {
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82c5.gif",
     "uri": "https://jisho.org/search/%E8%8B%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngải"
+  ]
 }

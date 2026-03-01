@@ -18,12 +18,18 @@
       {
         "example": "鹵獲",
         "reading": "ロカク",
-        "meaning": "capture (of enemy weapons, supplies, etc.), seizure, plunder"
+        "meaning": {
+          "vi": "capture (of enemy weapons, supplies, etc.), seizure, plunder"
+        },
+        "romaji": "rokaku"
       },
       {
         "example": "鹵獲品",
         "reading": "ロカクヒン",
-        "meaning": "plunder, spoils, booty, loot"
+        "meaning": {
+          "vi": "plunder, spoils, booty, loot"
+        },
+        "romaji": "rokakuhin"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e75.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e75.gif",
     "uri": "https://jisho.org/search/%E9%B9%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "lỗ"
+  ]
 }

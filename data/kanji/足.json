@@ -334,64 +334,100 @@
       {
         "example": "足",
         "reading": "ソク",
-        "meaning": "counter for pairs of socks, shoes, etc."
+        "meaning": {
+          "vi": "counter for pairs of socks, shoes, etc."
+        },
+        "romaji": "soku"
       },
       {
         "example": "足跡",
         "reading": "アシアト",
-        "meaning": "footprints, record of page visitors (e.g. in social networking sites)"
+        "meaning": {
+          "vi": "footprints, record of page visitors (e.g. in social networking sites)"
+        },
+        "romaji": "ashiato"
       },
       {
         "example": "俊足",
         "reading": "シュンソク",
-        "meaning": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
+        "meaning": {
+          "vi": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
+        },
+        "romaji": "shunsoku"
       },
       {
         "example": "土足",
         "reading": "ドソク",
-        "meaning": "shod feet, wearing shoes, muddy feet, dirty feet"
+        "meaning": {
+          "en": "shod feet, wearing shoes, muddy feet, dirty feet"
+        },
+        "romaji": "dosoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "足",
         "reading": "あし",
-        "meaning": "foot, paw, arm (of an octopus, squid, etc.), leg, gait, pace, lower radical of a kanji, means of transportation, (one's) ride, money, coin"
+        "meaning": {
+          "vi": "foot, paw, arm (of an octopus, squid, etc.), leg, gait, pace, lower radical of a kanji, means of transportation, (one's) ride, money, coin"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "足跡",
         "reading": "あしあと",
-        "meaning": "footprints, record of page visitors (e.g. in social networking sites)"
+        "meaning": {
+          "vi": "footprints, record of page visitors (e.g. in social networking sites)"
+        },
+        "romaji": "ashiato"
       },
       {
         "example": "出足",
         "reading": "であし",
-        "meaning": "turnout (of people), start (of a race, campaign, business, etc.), beginning, initial charge, dash"
+        "meaning": {
+          "vi": "turnout (of people), start (of a race, campaign, business, etc.), beginning, initial charge, dash"
+        },
+        "romaji": "deashi"
       },
       {
         "example": "客足",
         "reading": "きゃくあし",
-        "meaning": "customer traffic, customers, custom"
+        "meaning": {
+          "en": "customer traffic, customers, custom"
+        },
+        "romaji": "kyakuashi"
       },
       {
         "example": "足りる",
         "reading": "たりる",
-        "meaning": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer"
+        "meaning": {
+          "en": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer"
+        },
+        "romaji": "tariru"
       },
       {
         "example": "足る",
         "reading": "たる",
-        "meaning": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer"
+        "meaning": {
+          "en": "to be sufficient, to be enough, to be worth doing, to be worthy of, to deserve, to do (the job), to serve, to answer"
+        },
+        "romaji": "taru"
       },
       {
         "example": "足るを知る",
         "reading": "たるをしる",
-        "meaning": "to know one has enough, to be satisfied with one's lot in life"
+        "meaning": {
+          "en": "to know one has enough, to be satisfied with one's lot in life"
+        },
+        "romaji": "taruwoshiru"
       },
       {
         "example": "足す",
         "reading": "たす",
-        "meaning": "to add (numbers), to add (something), to top up (with something), to take care of (e.g. one's business)"
+        "meaning": {
+          "vi": "to add (numbers), to add (something), to top up (with something), to take care of (e.g. one's business)"
+        },
+        "romaji": "tasu"
       }
     ],
     "radical": {
@@ -410,5 +446,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08db3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8db3.gif",
     "uri": "https://jisho.org/search/%E8%B6%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tú",
+    "túc"
+  ]
 }

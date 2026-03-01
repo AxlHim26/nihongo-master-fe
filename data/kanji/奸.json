@@ -16,22 +16,34 @@
       {
         "example": "奸",
         "reading": "カン",
-        "meaning": "gian xảo và độc ác, kẻ gian xảo độc ác"
+        "meaning": {
+          "vi": "gian xảo và độc ác, kẻ gian xảo độc ác"
+        },
+        "romaji": "kan"
       },
       {
         "example": "姦悪",
         "reading": "カンアク",
-        "meaning": "gian ác, kẻ gian ác"
+        "meaning": {
+          "vi": "gian ác, kẻ gian ác"
+        },
+        "romaji": "kan'aku"
       },
       {
         "example": "佞姦",
         "reading": "ネイカン",
-        "meaning": "phản bội, gian ác, ngang ngược"
+        "meaning": {
+          "vi": "phản bội, gian ác, ngang ngược"
+        },
+        "romaji": "neikan"
       },
       {
         "example": "君側の奸",
         "reading": "クンソクノカン",
-        "meaning": "kẻ nịnh chủ nhưng âm thầm mưu phản"
+        "meaning": {
+          "vi": "kẻ nịnh chủ nhưng âm thầm mưu phản"
+        },
+        "romaji": "kunsokunokan"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +59,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05978.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5978.gif",
     "uri": "https://jisho.org/search/%E5%A5%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "can",
+    "gian"
+  ]
 }

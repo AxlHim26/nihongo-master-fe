@@ -16,17 +16,26 @@
       {
         "example": "屍",
         "reading": "シカバネ",
-        "meaning": "corpse, kanji \"corpse\" radical"
+        "meaning": {
+          "vi": "corpse, kanji \"corpse\" radical"
+        },
+        "romaji": "shikabane"
       },
       {
         "example": "尸位",
         "reading": "シイ",
-        "meaning": "neglecting the duties of an office while taking pay"
+        "meaning": {
+          "vi": "neglecting the duties of an office while taking pay"
+        },
+        "romaji": "shii"
       },
       {
         "example": "三尸",
         "reading": "サンシ",
-        "meaning": "the three worms (in Taoism), worms that inhabit the human gut and, on the eve of the 57th day of the sexagenary cycle, ascend to heaven during one's sleep to report on one's wrongdoings"
+        "meaning": {
+          "vi": "the three worms (in Taoism), worms that inhabit the human gut and, on the eve of the 57th day of the sexagenary cycle, ascend to heaven during one's sleep to report on one's wrongdoings"
+        },
+        "romaji": "sanshi"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c38.gif",
     "uri": "https://jisho.org/search/%E5%B0%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi"
+  ]
 }

@@ -19,39 +19,60 @@
       {
         "example": "此岸",
         "reading": "シガン",
-        "meaning": "this world, this life"
+        "meaning": {
+          "en": "this world, this life"
+        },
+        "romaji": "shigan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "此れ",
         "reading": "これ",
-        "meaning": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
+        "meaning": {
+          "vi": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
+        },
+        "romaji": "kore"
       },
       {
         "example": "此れから",
         "reading": "これから",
-        "meaning": "from now on, after this, in the future, in future, from here, from this point"
+        "meaning": {
+          "vi": "from now on, after this, in the future, in future, from here, from this point"
+        },
+        "romaji": "korekara"
       },
       {
         "example": "此の",
         "reading": "この",
-        "meaning": "this, last (couple of years, etc.), these, past, this, you (as in \"you liar\")"
+        "meaning": {
+          "vi": "this, last (couple of years, etc.), these, past, this, you (as in \"you liar\")"
+        },
+        "romaji": "kono"
       },
       {
         "example": "この間",
         "reading": "このあいだ",
-        "meaning": "the other day, lately, recently, during this period, meanwhile, in the meantime"
+        "meaning": {
+          "vi": "the other day, lately, recently, during this period, meanwhile, in the meantime"
+        },
+        "romaji": "konoaida"
       },
       {
         "example": "此処",
         "reading": "ここ",
-        "meaning": "here, this place, this point, here, now, these past ... (e.g. three years), these last ..., the next ... (e.g. few days), these next ..."
+        "meaning": {
+          "vi": "here, this place, this point, here, now, these past ... (e.g. three years), these last ..., the next ... (e.g. few days), these next ..."
+        },
+        "romaji": "koko"
       },
       {
         "example": "此処等",
         "reading": "ここら",
-        "meaning": "around here, hereabouts, (around) this point, about now"
+        "meaning": {
+          "vi": "around here, hereabouts, (around) this point, about now"
+        },
+        "romaji": "kokora"
       }
     ],
     "radical": {
@@ -66,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b64.gif",
     "uri": "https://jisho.org/search/%E6%AD%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thử"
+  ]
 }

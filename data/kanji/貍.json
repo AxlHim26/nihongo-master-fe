@@ -18,7 +18,10 @@
       {
         "example": "狸",
         "reading": "たぬき",
-        "meaning": "tanuki (Nyctereutes procyonoides), raccoon dog, sly dog, sly old fox, sly fox, cunning devil, sly person"
+        "meaning": {
+          "vi": "tanuki (Nyctereutes procyonoides), raccoon dog, sly dog, sly old fox, sly fox, cunning devil, sly person"
+        },
+        "romaji": "tanuki"
       }
     ],
     "radical": {
@@ -33,5 +36,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c8d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c8d.gif",
     "uri": "https://jisho.org/search/%E8%B2%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "li",
+    "ly",
+    "mai",
+    "uất"
+  ]
 }

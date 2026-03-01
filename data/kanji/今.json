@@ -377,54 +377,84 @@
       {
         "example": "今",
         "reading": "コン",
-        "meaning": "the current ..., this, today's ..."
+        "meaning": {
+          "en": "the current ..., this, today's ..."
+        },
+        "romaji": "kon"
       },
       {
         "example": "今夏",
         "reading": "コンカ",
-        "meaning": "this summer, next summer, last summer"
+        "meaning": {
+          "en": "this summer, next summer, last summer"
+        },
+        "romaji": "konka"
       },
       {
         "example": "往古来今",
         "reading": "オウコライコン",
-        "meaning": "in all ages, since antiquity"
+        "meaning": {
+          "en": "in all ages, since antiquity"
+        },
+        "romaji": "oukoraikon"
       },
       {
         "example": "当今",
         "reading": "トウコン",
-        "meaning": "nowadays, these days, at present"
+        "meaning": {
+          "vi": "nowadays, these days, at present"
+        },
+        "romaji": "toukon"
       },
       {
         "example": "今古",
         "reading": "キンコ",
-        "meaning": "now and anciently"
+        "meaning": {
+          "en": "now and anciently"
+        },
+        "romaji": "kinko"
       },
       {
         "example": "今上",
         "reading": "キンジョウ",
-        "meaning": "His Majesty the Emperor, the present emperor, the reigning emperor"
+        "meaning": {
+          "vi": "His Majesty the Emperor, the present emperor, the reigning emperor"
+        },
+        "romaji": "kinjou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "今",
         "reading": "いま",
-        "meaning": "now, the present time, just now, soon, immediately, another, more"
+        "meaning": {
+          "vi": "now, the present time, just now, soon, immediately, another, more"
+        },
+        "romaji": "ima"
       },
       {
         "example": "今に",
         "reading": "いまに",
-        "meaning": "before long, even now"
+        "meaning": {
+          "en": "before long, even now"
+        },
+        "romaji": "imani"
       },
       {
         "example": "中今",
         "reading": "なかいま",
-        "meaning": "the present (esp. as a privileged moment in eternity)"
+        "meaning": {
+          "vi": "the present (esp. as a privileged moment in eternity)"
+        },
+        "romaji": "nakaima"
       },
       {
         "example": "今が今",
         "reading": "いまがいま",
-        "meaning": "just now"
+        "meaning": {
+          "en": "just now"
+        },
+        "romaji": "imagaima"
       }
     ],
     "radical": {
@@ -442,5 +472,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eca.gif",
     "uri": "https://jisho.org/search/%E4%BB%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "kim"
+  ]
 }

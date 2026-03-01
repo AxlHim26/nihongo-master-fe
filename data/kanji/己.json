@@ -228,64 +228,100 @@
       {
         "example": "非自己",
         "reading": "ヒジコ",
-        "meaning": "nonself, not self"
+        "meaning": {
+          "en": "nonself, not self"
+        },
+        "romaji": "hijiko"
       },
       {
         "example": "一己",
         "reading": "イッコ",
-        "meaning": "personal, private, oneself"
+        "meaning": {
+          "vi": "personal, private, oneself"
+        },
+        "romaji": "ikko"
       },
       {
         "example": "己",
         "reading": "キ",
-        "meaning": "6th in rank, sixth sign of the Chinese calendar"
+        "meaning": {
+          "en": "6th in rank, sixth sign of the Chinese calendar"
+        },
+        "romaji": "ki"
       },
       {
         "example": "己亥",
         "reading": "ツチノトイ",
-        "meaning": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+        "meaning": {
+          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+        },
+        "romaji": "tsuchinotoi"
       },
       {
         "example": "親戚知己",
         "reading": "シンセキチキ",
-        "meaning": "relatives and acquaintances"
+        "meaning": {
+          "en": "relatives and acquaintances"
+        },
+        "romaji": "shinsekichiki"
       },
       {
         "example": "克己",
         "reading": "コッキ",
-        "meaning": "self-control, self-mastery, self-restraint, self-denial"
+        "meaning": {
+          "en": "self-control, self-mastery, self-restraint, self-denial"
+        },
+        "romaji": "kokki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "己",
         "reading": "おのれ",
-        "meaning": "oneself (itself, etc.), I, me, you, by oneself (itself, etc.), interjection expressing anger or chagrin"
+        "meaning": {
+          "vi": "oneself (itself, etc.), I, me, you, by oneself (itself, etc.), interjection expressing anger or chagrin"
+        },
+        "romaji": "onore"
       },
       {
         "example": "己達せんと欲して人を達せしむ",
         "reading": "おのれたっせんとほっしてひとをたっせしむ",
-        "meaning": "if you wish to succeed yourself, first help others to succeed"
+        "meaning": {
+          "vi": "if you wish to succeed yourself, first help others to succeed"
+        },
+        "romaji": "onoretassentohosshitehitowotasseshimu"
       },
       {
         "example": "己",
         "reading": "き",
-        "meaning": "6th in rank, sixth sign of the Chinese calendar"
+        "meaning": {
+          "en": "6th in rank, sixth sign of the Chinese calendar"
+        },
+        "romaji": "ki"
       },
       {
         "example": "己亥",
         "reading": "つちのとい",
-        "meaning": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+        "meaning": {
+          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+        },
+        "romaji": "tsuchinotoi"
       },
       {
         "example": "己",
         "reading": "な",
-        "meaning": "I, you"
+        "meaning": {
+          "en": "I, you"
+        },
+        "romaji": "na"
       },
       {
         "example": "汝等",
         "reading": "うぬら",
-        "meaning": "ye, you, me, I, us, we"
+        "meaning": {
+          "en": "ye, you, me, I, us, we"
+        },
+        "romaji": "unura"
       }
     ],
     "radical": {
@@ -304,5 +340,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df1.gif",
     "uri": "https://jisho.org/search/%E5%B7%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "kỉ",
+    "kỷ"
+  ]
 }

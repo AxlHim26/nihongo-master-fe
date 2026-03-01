@@ -19,12 +19,18 @@
       {
         "example": "弗",
         "reading": "ドル",
-        "meaning": "dollar, money, cash"
+        "meaning": {
+          "en": "dollar, money, cash"
+        },
+        "romaji": "doru"
       },
       {
         "example": "ドル箱",
         "reading": "ドルばこ",
-        "meaning": "source of funds, gold mine, patron, milch cow, cash box, safe"
+        "meaning": {
+          "vi": "source of funds, gold mine, patron, milch cow, cash box, safe"
+        },
+        "romaji": "dorubako"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f17.gif",
     "uri": "https://jisho.org/search/%E5%BC%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "phất"
+  ]
 }

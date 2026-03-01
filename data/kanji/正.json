@@ -382,79 +382,124 @@
       {
         "example": "正",
         "reading": "セイ",
-        "meaning": "(logical) true, regular, 10^40, ten duodecillion, original, positive, greater than zero, thesis (in dialectics)"
+        "meaning": {
+          "vi": "(logical) true, regular, 10^40, ten duodecillion, original, positive, greater than zero, thesis (in dialectics)"
+        },
+        "romaji": "sei"
       },
       {
         "example": "正解",
         "reading": "セイカイ",
-        "meaning": "correct answer, right solution, correct interpretation, right decision, right choice, appropriate judgement"
+        "meaning": {
+          "vi": "correct answer, right solution, correct interpretation, right decision, right choice, appropriate judgement"
+        },
+        "romaji": "seikai"
       },
       {
         "example": "検事正",
         "reading": "ケンジセイ",
-        "meaning": "chief public prosecutor"
+        "meaning": {
+          "vi": "chief public prosecutor"
+        },
+        "romaji": "kenjisei"
       },
       {
         "example": "適正",
         "reading": "テキセイ",
-        "meaning": "reasonable, suitable"
+        "meaning": {
+          "en": "reasonable, suitable"
+        },
+        "romaji": "tekisei"
       },
       {
         "example": "正",
         "reading": "ショウ",
-        "meaning": "exactly, precisely, correct, right, true, greater (of equal court ranks), upper, senior, director (highest of the four administrative positions of the ritsuryō period), chief"
+        "meaning": {
+          "vi": "exactly, precisely, correct, right, true, greater (of equal court ranks), upper, senior, director (highest of the four administrative positions of the ritsuryō period), chief"
+        },
+        "romaji": "shou"
       },
       {
         "example": "正月",
         "reading": "ショウガツ",
-        "meaning": "New Year (esp. first three days), first month of the year, January"
+        "meaning": {
+          "vi": "New Year (esp. first three days), first month of the year, January"
+        },
+        "romaji": "shougatsu"
       },
       {
         "example": "大正",
         "reading": "タイショウ",
-        "meaning": "Taishō era (1912.7.30-1926.12.25), Taisho era"
+        "meaning": {
+          "en": "Taishō era (1912.7.30-1926.12.25), Taisho era"
+        },
+        "romaji": "taishou"
       },
       {
         "example": "賀正",
         "reading": "ガショウ",
-        "meaning": "A Happy New Year!"
+        "meaning": {
+          "vi": "A Happy New Year!"
+        },
+        "romaji": "gashou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "正しい",
         "reading": "ただしい",
-        "meaning": "right, correct, proper, righteous, just, honest, truthful, lawful"
+        "meaning": {
+          "vi": "right, correct, proper, righteous, just, honest, truthful, lawful"
+        },
+        "romaji": "tadashii"
       },
       {
         "example": "正しい行い",
         "reading": "ただしいおこない",
-        "meaning": "conducting oneself properly, right conduct, doing the right thing"
+        "meaning": {
+          "vi": "conducting oneself properly, right conduct, doing the right thing"
+        },
+        "romaji": "tadashiiokonai"
       },
       {
         "example": "正す",
         "reading": "ただす",
-        "meaning": "to correct, to rectify, to reform, to amend, to redress, to straighten (one's posture, collar, etc.), to adjust"
+        "meaning": {
+          "vi": "to correct, to rectify, to reform, to amend, to redress, to straighten (one's posture, collar, etc.), to adjust"
+        },
+        "romaji": "tadasu"
       },
       {
         "example": "糺す",
         "reading": "ただす",
-        "meaning": "to ascertain, to confirm, to verify, to make sure of"
+        "meaning": {
+          "en": "to ascertain, to confirm, to verify, to make sure of"
+        },
+        "romaji": "tadasu"
       },
       {
         "example": "正",
         "reading": "まさ",
-        "meaning": "exact, precise"
+        "meaning": {
+          "vi": "exact, precise"
+        },
+        "romaji": "masa"
       },
       {
         "example": "正に",
         "reading": "まさに",
-        "meaning": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally"
+        "meaning": {
+          "vi": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally"
+        },
+        "romaji": "masani"
       },
       {
         "example": "正に",
         "reading": "まさに",
-        "meaning": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally"
+        "meaning": {
+          "vi": "exactly, just, precisely, really, truly, surely, certainly, without doubt, right (when), just (as), just (about to), on the point of, on the verge of, on the brink of, really (ought to), certainly (should), naturally"
+        },
+        "romaji": "masani"
       }
     ],
     "radical": {
@@ -469,5 +514,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b63.gif",
     "uri": "https://jisho.org/search/%E6%AD%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "chinh",
+    "chánh",
+    "chính"
+  ]
 }

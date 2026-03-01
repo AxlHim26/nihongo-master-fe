@@ -17,22 +17,34 @@
       {
         "example": "侯",
         "reading": "コウ",
-        "meaning": "marquis, second highest rank of the five ranks of nobility, daimyo"
+        "meaning": {
+          "en": "marquis, second highest rank of the five ranks of nobility, daimyo"
+        },
+        "romaji": "kou"
       },
       {
         "example": "候補",
         "reading": "コウホ",
-        "meaning": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
+        "meaning": {
+          "vi": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
+        },
+        "romaji": "kouho"
       },
       {
         "example": "王侯",
         "reading": "オウコウ",
-        "meaning": "the king and his feudal lords"
+        "meaning": {
+          "en": "the king and his feudal lords"
+        },
+        "romaji": "oukou"
       },
       {
         "example": "仙台侯",
         "reading": "センダイコウ",
-        "meaning": "Lord of Sendai"
+        "meaning": {
+          "en": "Lord of Sendai"
+        },
+        "romaji": "sendaikou"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04faf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4faf.gif",
     "uri": "https://jisho.org/search/%E4%BE%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "hầu",
+    "hậu"
+  ]
 }

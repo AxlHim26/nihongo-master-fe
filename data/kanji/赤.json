@@ -380,74 +380,116 @@
       {
         "example": "赤軍",
         "reading": "セキグン",
-        "meaning": "Red Army (Soviet Union, 1918-1946), Workers' and Peasants' Red Army, Japanese Red Army, JRA"
+        "meaning": {
+          "vi": "Red Army (Soviet Union, 1918-1946), Workers' and Peasants' Red Army, Japanese Red Army, JRA"
+        },
+        "romaji": "sekigun"
       },
       {
         "example": "赤外線",
         "reading": "セキガイセン",
-        "meaning": "infrared rays, infrared radiation"
+        "meaning": {
+          "en": "infrared rays, infrared radiation"
+        },
+        "romaji": "sekigaisen"
       },
       {
         "example": "七赤",
         "reading": "シチセキ",
-        "meaning": "seventh of nine traditional astrological signs (corresponding to Venus and west)"
+        "meaning": {
+          "vi": "seventh of nine traditional astrological signs (corresponding to Venus and west)"
+        },
+        "romaji": "shichiseki"
       },
       {
         "example": "日赤",
         "reading": "ニッセキ",
-        "meaning": "Japanese Red Cross Society (abbr), Nisseki"
+        "meaning": {
+          "vi": "Japanese Red Cross Society (abbr), Nisseki"
+        },
+        "romaji": "nisseki"
       },
       {
         "example": "赤銅",
         "reading": "シャクドウ",
-        "meaning": "shakudo, gold-copper alloy, often with a blue patina"
+        "meaning": {
+          "vi": "shakudo, gold-copper alloy, often with a blue patina"
+        },
+        "romaji": "shakudou"
       },
       {
         "example": "赤銅色",
         "reading": "シャクドウイロ",
-        "meaning": "brown, tan"
+        "meaning": {
+          "en": "brown, tan"
+        },
+        "romaji": "shakudouiro"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "赤",
         "reading": "あか",
-        "meaning": "red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card"
+        "meaning": {
+          "vi": "red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card"
+        },
+        "romaji": "aka"
       },
       {
         "example": "銅",
         "reading": "どう",
-        "meaning": "copper (Cu), bronze (medal)"
+        "meaning": {
+          "vi": "copper (Cu), bronze (medal)"
+        },
+        "romaji": "dou"
       },
       {
         "example": "紅赤",
         "reading": "べにあか",
-        "meaning": "beniaka, variety of sweet potato with red skin and sweet yellow flesh; product of the Kawagoe region, bright red tinged with yellow"
+        "meaning": {
+          "vi": "beniaka, variety of sweet potato with red skin and sweet yellow flesh; product of the Kawagoe region, bright red tinged with yellow"
+        },
+        "romaji": "beniaka"
       },
       {
         "example": "真赤",
         "reading": "まあか",
-        "meaning": "bright red, deep red"
+        "meaning": {
+          "vi": "bright red, deep red"
+        },
+        "romaji": "maaka"
       },
       {
         "example": "赤い",
         "reading": "あかい",
-        "meaning": "red, crimson, scarlet, vermilion, Red, communist"
+        "meaning": {
+          "en": "red, crimson, scarlet, vermilion, Red, communist"
+        },
+        "romaji": "akai"
       },
       {
         "example": "赤色",
         "reading": "あかいろ",
-        "meaning": "red, red color (colour), communism, the left"
+        "meaning": {
+          "en": "red, red color (colour), communism, the left"
+        },
+        "romaji": "akairo"
       },
       {
         "example": "赤らむ",
         "reading": "あからむ",
-        "meaning": "to become red, to redden, to blush"
+        "meaning": {
+          "en": "to become red, to redden, to blush"
+        },
+        "romaji": "akaramu"
       },
       {
         "example": "赤らめる",
         "reading": "あからめる",
-        "meaning": "to blush, to redden"
+        "meaning": {
+          "en": "to blush, to redden"
+        },
+        "romaji": "akarameru"
       }
     ],
     "radical": {
@@ -462,5 +504,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d64.gif",
     "uri": "https://jisho.org/search/%E8%B5%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thích",
+    "xích"
+  ]
 }

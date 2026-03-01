@@ -310,64 +310,100 @@
       {
         "example": "円",
         "reading": "エン",
-        "meaning": "yen (Japanese monetary unit), circle"
+        "meaning": {
+          "vi": "yen (Japanese monetary unit), circle"
+        },
+        "romaji": "en"
       },
       {
         "example": "円滑",
         "reading": "エンカツ",
-        "meaning": "smooth, undisturbed, uninterrupted, harmonious"
+        "meaning": {
+          "vi": "smooth, undisturbed, uninterrupted, harmonious"
+        },
+        "romaji": "enkatsu"
       },
       {
         "example": "楕円",
         "reading": "ダエン",
-        "meaning": "ellipse, oval"
+        "meaning": {
+          "vi": "ellipse, oval"
+        },
+        "romaji": "daen"
       },
       {
         "example": "同心円",
         "reading": "ドウシンエン",
-        "meaning": "concentric circles"
+        "meaning": {
+          "en": "concentric circles"
+        },
+        "romaji": "doushin'en"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丸い",
         "reading": "まるい",
-        "meaning": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+        "meaning": {
+          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+        },
+        "romaji": "marui"
       },
       {
         "example": "丸",
         "reading": "まる",
-        "meaning": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
+        "meaning": {
+          "vi": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
+        },
+        "romaji": "maru"
       },
       {
         "example": "丸い",
         "reading": "まるい",
-        "meaning": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+        "meaning": {
+          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+        },
+        "romaji": "marui"
       },
       {
         "example": "黒円",
         "reading": "くろまる",
-        "meaning": "black spot, black dot, bull's-eye, middle dot, interpunct"
+        "meaning": {
+          "vi": "black spot, black dot, bull's-eye, middle dot, interpunct"
+        },
+        "romaji": "kuromaru"
       },
       {
         "example": "円居",
         "reading": "まどい",
-        "meaning": "sitting in a circle, pleasant gathering"
+        "meaning": {
+          "vi": "sitting in a circle, pleasant gathering"
+        },
+        "romaji": "madoi"
       },
       {
         "example": "円か",
         "reading": "まどか",
-        "meaning": "round, tranquil, contentedly at ease"
+        "meaning": {
+          "en": "round, tranquil, contentedly at ease"
+        },
+        "romaji": "madoka"
       },
       {
         "example": "円か",
         "reading": "まどか",
-        "meaning": "round, tranquil, contentedly at ease"
+        "meaning": {
+          "en": "round, tranquil, contentedly at ease"
+        },
+        "romaji": "madoka"
       },
       {
         "example": "円やか",
         "reading": "まろやか",
-        "meaning": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth"
+        "meaning": {
+          "vi": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth"
+        },
+        "romaji": "maroyaka"
       }
     ],
     "radical": {
@@ -384,5 +420,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05186.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5186.gif",
     "uri": "https://jisho.org/search/%E5%86%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên"
+  ]
 }

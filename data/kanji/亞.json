@@ -16,12 +16,24 @@
       {
         "example": "亜",
         "reading": "ア",
-        "meaning": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
+        "meaning": {
+          "vi": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
+        },
+        "meaningVN": "phụ, hạng hai, kém hơn, -ous (biểu thị trạng thái oxy hóa thấp), -ite, châu á, argentina, ả rập, châu mỹ, người mỹ",
+        "hanViet": "a",
+        "hanVietExplain": "a: thứ hai, châu Á",
+        "romaji": "a"
       },
       {
         "example": "東亜",
         "reading": "トウア",
-        "meaning": "East Asia, the Orient"
+        "meaning": {
+          "en": "East Asia, the Orient"
+        },
+        "meaningVN": "đông á, phương đông",
+        "hanViet": "đông a",
+        "hanVietExplain": "東 (đông: phía đông, phương đông) + 亜 (a: thứ hai) → đông á, phương đông",
+        "romaji": "toua"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +49,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e9e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e9e.gif",
     "uri": "https://jisho.org/search/%E4%BA%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "a",
+    "á"
+  ],
+  "meaningVN": "xếp hạng, theo dõi",
+  "hanVietExplain": "a: thứ hai, châu Á"
 }

@@ -17,12 +17,18 @@
       {
         "example": "花鈿",
         "reading": "カデン",
-        "meaning": "ornamental hairpin, makeup involving flower patterns, etc."
+        "meaning": {
+          "vi": "ornamental hairpin, makeup involving flower patterns, etc."
+        },
+        "romaji": "kaden"
       },
       {
         "example": "螺鈿",
         "reading": "ラデン",
-        "meaning": "nacre, mother of pearl"
+        "meaning": {
+          "vi": "nacre, mother of pearl"
+        },
+        "romaji": "raden"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0923f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/923f.gif",
     "uri": "https://jisho.org/search/%E9%88%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "điến",
+    "điền"
+  ]
 }

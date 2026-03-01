@@ -19,44 +19,68 @@
       {
         "example": "錫",
         "reading": "シャク",
-        "meaning": "bishop's staff, khakkhara"
+        "meaning": {
+          "vi": "bishop's staff, khakkhara"
+        },
+        "romaji": "shaku"
       },
       {
         "example": "錫杖",
         "reading": "シャクジョウ",
-        "meaning": "khakkhara (staff topped with metal rings traditionally carried by monks), pewter staff"
+        "meaning": {
+          "vi": "khakkhara (staff topped with metal rings traditionally carried by monks), pewter staff"
+        },
+        "romaji": "shakujou"
       },
       {
         "example": "脱錫",
         "reading": "ダッシャク",
-        "meaning": "detinning, removal of tin and copper"
+        "meaning": {
+          "vi": "detinning, removal of tin and copper"
+        },
+        "romaji": "dasshaku"
       },
       {
         "example": "巡錫",
         "reading": "ジュンシャク",
-        "meaning": "preaching tour"
+        "meaning": {
+          "vi": "preaching tour"
+        },
+        "romaji": "junshaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "錫",
         "reading": "すず",
-        "meaning": "tin (Sn)"
+        "meaning": {
+          "en": "tin (Sn)"
+        },
+        "romaji": "suzu"
       },
       {
         "example": "錫石",
         "reading": "すずいし",
-        "meaning": "cassiterite"
+        "meaning": {
+          "en": "cassiterite"
+        },
+        "romaji": "suzuishi"
       },
       {
         "example": "塩化錫",
         "reading": "えんかすず",
-        "meaning": "tin chloride"
+        "meaning": {
+          "en": "tin chloride"
+        },
+        "romaji": "enkasuzu"
       },
       {
         "example": "酸化錫",
         "reading": "さんかすず",
-        "meaning": "stannous oxide (SnO), stannic oxide (SnO2)"
+        "meaning": {
+          "en": "stannous oxide (SnO), stannic oxide (SnO2)"
+        },
+        "romaji": "sankasuzu"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932b.gif",
     "uri": "https://jisho.org/search/%E9%8C%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tích"
+  ]
 }

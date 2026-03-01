@@ -314,34 +314,52 @@
       {
         "example": "騒然",
         "reading": "ソウゼン",
-        "meaning": "noisy, confused, uproarious"
+        "meaning": {
+          "vi": "noisy, confused, uproarious"
+        },
+        "romaji": "souzen"
       },
       {
         "example": "騒音",
         "reading": "ソウオン",
-        "meaning": "noise, din"
+        "meaning": {
+          "en": "noise, din"
+        },
+        "romaji": "souon"
       },
       {
         "example": "狂騒",
         "reading": "キョウソウ",
-        "meaning": "mania, wild excitement"
+        "meaning": {
+          "en": "mania, wild excitement"
+        },
+        "romaji": "kyousou"
       },
       {
         "example": "鼓譟",
         "reading": "コソウ",
-        "meaning": "motivating the troops on the battlefield with war drums and war cries, making an uproar"
+        "meaning": {
+          "vi": "motivating the troops on the battlefield with war drums and war cries, making an uproar"
+        },
+        "romaji": "kosou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "騒ぐ",
         "reading": "さわぐ",
-        "meaning": "to make noise, to make racket, to be noisy, to rustle, to swoosh, to make merry, to clamor, to clamour, to make a fuss, to kick up a fuss, to lose one's cool, to panic, to act flustered, to feel tense, to be uneasy, to be excited"
+        "meaning": {
+          "vi": "to make noise, to make racket, to be noisy, to rustle, to swoosh, to make merry, to clamor, to clamour, to make a fuss, to kick up a fuss, to lose one's cool, to panic, to act flustered, to feel tense, to be uneasy, to be excited"
+        },
+        "romaji": "sawagu"
       },
       {
         "example": "騒がしい",
         "reading": "さわがしい",
-        "meaning": "noisy, boisterous, turbulent (era, etc.), troubled"
+        "meaning": {
+          "en": "noisy, boisterous, turbulent (era, etc.), troubled"
+        },
+        "romaji": "sawagashii"
       }
     ],
     "radical": {
@@ -358,5 +376,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a12.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a12.gif",
     "uri": "https://jisho.org/search/%E9%A8%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tao"
+  ]
 }

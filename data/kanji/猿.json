@@ -19,44 +19,68 @@
       {
         "example": "猿人",
         "reading": "エンジン",
-        "meaning": "ape man"
+        "meaning": {
+          "vi": "ape man"
+        },
+        "romaji": "enjin"
       },
       {
         "example": "猿害",
         "reading": "エンガイ",
-        "meaning": "damages inflicted by monkeys (on crops, etc.)"
+        "meaning": {
+          "vi": "damages inflicted by monkeys (on crops, etc.)"
+        },
+        "romaji": "engai"
       },
       {
         "example": "人類猿",
         "reading": "ジンルイエン",
-        "meaning": "anthropoid ape"
+        "meaning": {
+          "vi": "anthropoid ape"
+        },
+        "romaji": "jinruien"
       },
       {
         "example": "孤猿",
         "reading": "コエン",
-        "meaning": "lone monkey, stray monkey"
+        "meaning": {
+          "en": "lone monkey, stray monkey"
+        },
+        "romaji": "koen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "猿",
         "reading": "さる",
-        "meaning": "monkey (esp. the Japanese macaque, Macaca fuscata), ape, non-human primate, sly person, idiot, hick, sliding wooden bolt (for holding a door or window shut), clasp used to control the height of a pot-hook, bathhouse prostitute"
+        "meaning": {
+          "vi": "monkey (esp. the Japanese macaque, Macaca fuscata), ape, non-human primate, sly person, idiot, hick, sliding wooden bolt (for holding a door or window shut), clasp used to control the height of a pot-hook, bathhouse prostitute"
+        },
+        "romaji": "saru"
       },
       {
         "example": "猿尾",
         "reading": "さるお",
-        "meaning": "backside part of the shamisen's neck where it meets the body"
+        "meaning": {
+          "vi": "backside part of the shamisen's neck where it meets the body"
+        },
+        "romaji": "saruo"
       },
       {
         "example": "木から落ちた猿",
         "reading": "きからおちたさる",
-        "meaning": "person who has lost something they used to rely on, a monkey fallen from the tree"
+        "meaning": {
+          "vi": "person who has lost something they used to rely on, a monkey fallen from the tree"
+        },
+        "romaji": "kikaraochitasaru"
       },
       {
         "example": "真猿",
         "reading": "まさる",
-        "meaning": "monkey (esp. the Japanese macaque, Macaca fuscata)"
+        "meaning": {
+          "vi": "monkey (esp. the Japanese macaque, Macaca fuscata)"
+        },
+        "romaji": "masaru"
       }
     ],
     "radical": {
@@ -76,5 +100,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0733f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/733f.gif",
     "uri": "https://jisho.org/search/%E7%8C%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên"
+  ]
 }

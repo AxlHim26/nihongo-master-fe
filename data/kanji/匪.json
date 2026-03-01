@@ -17,22 +17,34 @@
       {
         "example": "匪躬",
         "reading": "ヒキュウ",
-        "meaning": "self-sacrificing service"
+        "meaning": {
+          "en": "self-sacrificing service"
+        },
+        "romaji": "hikyuu"
       },
       {
         "example": "匪石之心",
         "reading": "ヒセキノココロ",
-        "meaning": "steadfastness, firmness in one's conviction, having a heart that does not change as easily as a stone rolls about"
+        "meaning": {
+          "en": "steadfastness, firmness in one's conviction, having a heart that does not change as easily as a stone rolls about"
+        },
+        "romaji": "hisekinokokoro"
       },
       {
         "example": "兵匪",
         "reading": "ヘイヒ",
-        "meaning": "bandits"
+        "meaning": {
+          "en": "bandits"
+        },
+        "romaji": "heihi"
       },
       {
         "example": "討匪",
         "reading": "トウヒ",
-        "meaning": "suppression of bandits"
+        "meaning": {
+          "vi": "suppression of bandits"
+        },
+        "romaji": "touhi"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0532a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/532a.gif",
     "uri": "https://jisho.org/search/%E5%8C%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "phỉ"
+  ]
 }

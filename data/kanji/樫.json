@@ -16,22 +16,34 @@
       {
         "example": "樫",
         "reading": "かし",
-        "meaning": "evergreen oak"
+        "meaning": {
+          "en": "evergreen oak"
+        },
+        "romaji": "kashi"
       },
       {
         "example": "樫粉",
         "reading": "かしご",
-        "meaning": "oak flour (esp. as animal food), acorn flour"
+        "meaning": {
+          "vi": "oak flour (esp. as animal food), acorn flour"
+        },
+        "romaji": "kashigo"
       },
       {
         "example": "熊樫",
         "reading": "くまがし",
-        "meaning": "large evergreen oak"
+        "meaning": {
+          "en": "large evergreen oak"
+        },
+        "romaji": "kumagashi"
       },
       {
         "example": "粗樫",
         "reading": "あらかし",
-        "meaning": "ring-cupped oak (Quercus glauca), Japanese blue oak"
+        "meaning": {
+          "vi": "ring-cupped oak (Quercus glauca), Japanese blue oak"
+        },
+        "romaji": "arakashi"
       }
     ],
     "radical": {
@@ -48,5 +60,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a2b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a2b.gif",
     "uri": "https://jisho.org/search/%E6%A8%AB%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -17,44 +17,68 @@
       {
         "example": "削岩機",
         "reading": "サクガンキ",
-        "meaning": "rock drill, pneumatic drill, jackhammer"
+        "meaning": {
+          "vi": "rock drill, pneumatic drill, jackhammer"
+        },
+        "romaji": "sakuganki"
       },
       {
         "example": "さく井",
         "reading": "サクセイ",
-        "meaning": "well drilling"
+        "meaning": {
+          "en": "well drilling"
+        },
+        "romaji": "sakusei"
       },
       {
         "example": "掘削",
         "reading": "クッサク",
-        "meaning": "digging out, excavation"
+        "meaning": {
+          "en": "digging out, excavation"
+        },
+        "romaji": "kussaku"
       },
       {
         "example": "開削",
         "reading": "カイサク",
-        "meaning": "excavation, cutting, digging"
+        "meaning": {
+          "en": "excavation, cutting, digging"
+        },
+        "romaji": "kaisaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鑿",
         "reading": "のみ",
-        "meaning": "chisel"
+        "meaning": {
+          "en": "chisel"
+        },
+        "romaji": "nomi"
       },
       {
         "example": "鑿と言えば槌",
         "reading": "のみといえばつち",
-        "meaning": "one should do more than what is literally being asked for, when told (to bring) the chisel, (also bring) the mallet"
+        "meaning": {
+          "en": "one should do more than what is literally being asked for, when told (to bring) the chisel, (also bring) the mallet"
+        },
+        "romaji": "nomitoiebatsuchi"
       },
       {
         "example": "鎬鑿",
         "reading": "しのぎのみ",
-        "meaning": "chisel for making dovetail joints"
+        "meaning": {
+          "en": "chisel for making dovetail joints"
+        },
+        "romaji": "shinoginomi"
       },
       {
         "example": "平鑿",
         "reading": "ひらのみ",
-        "meaning": "flat chisel"
+        "meaning": {
+          "en": "flat chisel"
+        },
+        "romaji": "hiranomi"
       }
     ],
     "radical": {
@@ -77,5 +101,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947f.gif",
     "uri": "https://jisho.org/search/%E9%91%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tao",
+    "tạc"
+  ]
 }

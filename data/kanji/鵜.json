@@ -19,22 +19,34 @@
       {
         "example": "鵜",
         "reading": "う",
-        "meaning": "cormorant (Phalacrocoracidae spp.)"
+        "meaning": {
+          "vi": "cormorant (Phalacrocoracidae spp.)"
+        },
+        "romaji": "u"
       },
       {
         "example": "鵜飼い",
         "reading": "うかい",
-        "meaning": "cormorant fishing, cormorant fisherman"
+        "meaning": {
+          "en": "cormorant fishing, cormorant fisherman"
+        },
+        "romaji": "ukai"
       },
       {
         "example": "小羽鵜",
         "reading": "こばねう",
-        "meaning": "short-winged cormorant"
+        "meaning": {
+          "en": "short-winged cormorant"
+        },
+        "romaji": "kobaneu"
       },
       {
         "example": "ガラパゴス小羽鵜",
         "reading": "ガラパゴスこばねう",
-        "meaning": "flightless cormorant, Galapagos cormorant"
+        "meaning": {
+          "vi": "flightless cormorant, Galapagos cormorant"
+        },
+        "romaji": "garapagosukobaneu"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d5c.gif",
     "uri": "https://jisho.org/search/%E9%B5%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "đề"
+  ]
 }

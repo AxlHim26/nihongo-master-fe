@@ -19,29 +19,44 @@
       {
         "example": "還元",
         "reading": "カンゲン",
-        "meaning": "restoration, return, reduction, resolution, deoxidization, deoxidation"
+        "meaning": {
+          "en": "restoration, return, reduction, resolution, deoxidization, deoxidation"
+        },
+        "romaji": "kangen"
       },
       {
         "example": "環境",
         "reading": "カンキョウ",
-        "meaning": "environment, surroundings, circumstances"
+        "meaning": {
+          "en": "environment, surroundings, circumstances"
+        },
+        "romaji": "kankyou"
       },
       {
         "example": "奪還",
         "reading": "ダッカン",
-        "meaning": "recapture, retaking, recovery, taking back"
+        "meaning": {
+          "vi": "recapture, retaking, recovery, taking back"
+        },
+        "romaji": "dakkan"
       },
       {
         "example": "送還",
         "reading": "ソウカン",
-        "meaning": "sending home, repatriation, deportation"
+        "meaning": {
+          "vi": "sending home, repatriation, deportation"
+        },
+        "romaji": "soukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帰る",
         "reading": "かえる",
-        "meaning": "to return, to come home, to go home, to go back, to leave (of a guest, customer, etc.), to get home, to get to home plate"
+        "meaning": {
+          "vi": "to return, to come home, to go home, to go back, to leave (of a guest, customer, etc.), to get home, to get to home plate"
+        },
+        "romaji": "kaeru"
       }
     ],
     "radical": {
@@ -64,5 +79,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09084.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9084.gif",
     "uri": "https://jisho.org/search/%E9%82%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàn",
+    "toàn"
+  ]
 }

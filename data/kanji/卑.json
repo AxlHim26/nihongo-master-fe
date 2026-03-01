@@ -21,49 +21,76 @@
       {
         "example": "卑劣",
         "reading": "ヒレツ",
-        "meaning": "mean, contemptible, despicable, dirty, foul, cowardly, base"
+        "meaning": {
+          "vi": "mean, contemptible, despicable, dirty, foul, cowardly, base"
+        },
+        "romaji": "hiretsu"
       },
       {
         "example": "卑怯",
         "reading": "ヒキョウ",
-        "meaning": "cowardly, craven, unfair, mean, sneaky, dirty, dastardly"
+        "meaning": {
+          "en": "cowardly, craven, unfair, mean, sneaky, dirty, dastardly"
+        },
+        "romaji": "hikyou"
       },
       {
         "example": "男尊女卑",
         "reading": "ダンソンジョヒ",
-        "meaning": "male domination of women, male chauvinism, subjection of women"
+        "meaning": {
+          "en": "male domination of women, male chauvinism, subjection of women"
+        },
+        "romaji": "dansonjohi"
       },
       {
         "example": "野卑",
         "reading": "ヤヒ",
-        "meaning": "vulgar, coarse, crude, boorish, ill-mannered, mean, base"
+        "meaning": {
+          "en": "vulgar, coarse, crude, boorish, ill-mannered, mean, base"
+        },
+        "romaji": "yahi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "卑しい",
         "reading": "いやしい",
-        "meaning": "lowborn, humble, lowly, vulgar, coarse, crude, mean, base, vile, despicable, dirty, unfair, shabby, poor-looking, greedy, gluttonous, avaricious"
+        "meaning": {
+          "vi": "lowborn, humble, lowly, vulgar, coarse, crude, mean, base, vile, despicable, dirty, unfair, shabby, poor-looking, greedy, gluttonous, avaricious"
+        },
+        "romaji": "iyashii"
       },
       {
         "example": "卑しい生まれ",
         "reading": "いやしいうまれ",
-        "meaning": "lowborn, of humble birth"
+        "meaning": {
+          "en": "lowborn, of humble birth"
+        },
+        "romaji": "iyashiiumare"
       },
       {
         "example": "卑しむ",
         "reading": "いやしむ",
-        "meaning": "to despise, to disdain, to scorn, to hold in contempt, to look down on"
+        "meaning": {
+          "vi": "to despise, to disdain, to scorn, to hold in contempt, to look down on"
+        },
+        "romaji": "iyashimu"
       },
       {
         "example": "卑しむべき",
         "reading": "いやしむべき",
-        "meaning": "despicable"
+        "meaning": {
+          "vi": "despicable"
+        },
+        "romaji": "iyashimubeki"
       },
       {
         "example": "卑しめる",
         "reading": "いやしめる",
-        "meaning": "to demean, to despise, to treat with contempt, to abase"
+        "meaning": {
+          "vi": "to demean, to despise, to treat with contempt, to abase"
+        },
+        "romaji": "iyashimeru"
       }
     ],
     "radical": {
@@ -78,5 +105,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05351.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5351.gif",
     "uri": "https://jisho.org/search/%E5%8D%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "ti",
+    "ty"
+  ]
 }

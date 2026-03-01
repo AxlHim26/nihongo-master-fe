@@ -408,39 +408,60 @@
       {
         "example": "動",
         "reading": "ドウ",
-        "meaning": "motion"
+        "meaning": {
+          "en": "motion"
+        },
+        "romaji": "dou"
       },
       {
         "example": "動員",
         "reading": "ドウイン",
-        "meaning": "mobilization, mobilisation"
+        "meaning": {
+          "en": "mobilization, mobilisation"
+        },
+        "romaji": "douin"
       },
       {
         "example": "人事異動",
         "reading": "ジンジイドウ",
-        "meaning": "personnel change, personnel shift, reshuffle, (annual) staff reassignment"
+        "meaning": {
+          "vi": "personnel change, personnel shift, reshuffle, (annual) staff reassignment"
+        },
+        "romaji": "jinjiidou"
       },
       {
         "example": "異動",
         "reading": "イドウ",
-        "meaning": "(personnel) change, transfer, relocation, reassignment, reshuffle"
+        "meaning": {
+          "vi": "(personnel) change, transfer, relocation, reassignment, reshuffle"
+        },
+        "romaji": "idou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "動く",
         "reading": "うごく",
-        "meaning": "to move, to stir, to shift, to shake, to swing, to operate, to run, to go, to work, to make a move, to take action, to act, to go into action, to be touched, to be influenced, to change, to vary, to fluctuate, to waver, to be transferred"
+        "meaning": {
+          "vi": "to move, to stir, to shift, to shake, to swing, to operate, to run, to go, to work, to make a move, to take action, to act, to go into action, to be touched, to be influenced, to change, to vary, to fluctuate, to waver, to be transferred"
+        },
+        "romaji": "ugoku"
       },
       {
         "example": "動く歩道",
         "reading": "うごくほどう",
-        "meaning": "moving walkway, moving sidewalk, travelator"
+        "meaning": {
+          "en": "moving walkway, moving sidewalk, travelator"
+        },
+        "romaji": "ugokuhodou"
       },
       {
         "example": "動かす",
         "reading": "うごかす",
-        "meaning": "to move, to shift, to stir, to budge, to change position, to inspire, to rouse, to move (e.g. feeling), to influence, to change, to alter, to deny, to operate, to set in motion, to get going, to mobilize (e.g. troops), to mobilise, to deploy, to manage (e.g. funds)"
+        "meaning": {
+          "vi": "to move, to shift, to stir, to budge, to change position, to inspire, to rouse, to move (e.g. feeling), to influence, to change, to alter, to deny, to operate, to set in motion, to get going, to mobilize (e.g. troops), to mobilise, to deploy, to manage (e.g. funds)"
+        },
+        "romaji": "ugokasu"
       }
     ],
     "radical": {
@@ -459,5 +480,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d5.gif",
     "uri": "https://jisho.org/search/%E5%8B%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "động"
+  ]
 }

@@ -319,29 +319,44 @@
       {
         "example": "障害者",
         "reading": "ショウガイシャ",
-        "meaning": "disabled person, person with a (physical or mental) disability"
+        "meaning": {
+          "vi": "disabled person, person with a (physical or mental) disability"
+        },
+        "romaji": "shougaisha"
       },
       {
         "example": "障害",
         "reading": "ショウガイ",
-        "meaning": "obstacle, impediment, hindrance, barrier, difficulty, disorder, defect, disability, handicap, impairment, dysfunction, steeplechase, obstacle race, steeplechase (athletics)"
+        "meaning": {
+          "vi": "obstacle, impediment, hindrance, barrier, difficulty, disorder, defect, disability, handicap, impairment, dysfunction, steeplechase, obstacle race, steeplechase (athletics)"
+        },
+        "romaji": "shougai"
       },
       {
         "example": "安全保障",
         "reading": "アンゼンホショウ",
-        "meaning": "(guarantee of) security"
+        "meaning": {
+          "en": "(guarantee of) security"
+        },
+        "romaji": "anzenhoshou"
       },
       {
         "example": "囲障",
         "reading": "イショウ",
-        "meaning": "fence (esp. between buildings)"
+        "meaning": {
+          "vi": "fence (esp. between buildings)"
+        },
+        "romaji": "ishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "障る",
         "reading": "さわる",
-        "meaning": "to be harmful to, to hinder, to interfere with, to irritate"
+        "meaning": {
+          "en": "to be harmful to, to hinder, to interfere with, to irritate"
+        },
+        "romaji": "sawaru"
       }
     ],
     "radical": {
@@ -362,5 +377,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0969c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/969c.gif",
     "uri": "https://jisho.org/search/%E9%9A%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chương",
+    "chướng"
+  ]
 }

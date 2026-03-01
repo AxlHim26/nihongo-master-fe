@@ -18,7 +18,10 @@
       {
         "example": "婁",
         "reading": "ロウ",
-        "meaning": "Chinese \"Bond\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Bond\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "rou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a41.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a41.gif",
     "uri": "https://jisho.org/search/%E5%A9%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "lu",
+    "lâu",
+    "lũ"
+  ]
 }

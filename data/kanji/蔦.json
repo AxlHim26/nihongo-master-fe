@@ -19,12 +19,18 @@
       {
         "example": "蔦",
         "reading": "つた",
-        "meaning": "ivy (esp. Boston ivy, Parthenocissus tricuspidata)"
+        "meaning": {
+          "vi": "ivy (esp. Boston ivy, Parthenocissus tricuspidata)"
+        },
+        "romaji": "tsuta"
       },
       {
         "example": "蔦漆",
         "reading": "つたうるし",
-        "meaning": "Asian poison ivy (Rhus ambigua)"
+        "meaning": {
+          "vi": "Asian poison ivy (Rhus ambigua)"
+        },
+        "romaji": "tsutaurushi"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08526.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8526.gif",
     "uri": "https://jisho.org/search/%E8%94%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "điểu"
+  ]
 }

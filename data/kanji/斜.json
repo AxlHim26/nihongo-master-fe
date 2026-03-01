@@ -20,44 +20,68 @@
       {
         "example": "斜",
         "reading": "ハス",
-        "meaning": "diagonal"
+        "meaning": {
+          "en": "diagonal"
+        },
+        "romaji": "hasu"
       },
       {
         "example": "斜面",
         "reading": "シャメン",
-        "meaning": "slope, slanting surface, bevel"
+        "meaning": {
+          "vi": "slope, slanting surface, bevel"
+        },
+        "romaji": "shamen"
       },
       {
         "example": "急傾斜",
         "reading": "キュウケイシャ",
-        "meaning": "steep slope, steep incline"
+        "meaning": {
+          "vi": "steep slope, steep incline"
+        },
+        "romaji": "kyuukeisha"
       },
       {
         "example": "偏斜",
         "reading": "ヘンシャ",
-        "meaning": "declination, deviation"
+        "meaning": {
+          "en": "declination, deviation"
+        },
+        "romaji": "hensha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "斜め",
         "reading": "ななめ",
-        "meaning": "slanting, tilted, sloping, diagonal, oblique, distorted (feeling), slanted (e.g. view of the world), bad (mood), amiss, awry"
+        "meaning": {
+          "vi": "slanting, tilted, sloping, diagonal, oblique, distorted (feeling), slanted (e.g. view of the world), bad (mood), amiss, awry"
+        },
+        "romaji": "naname"
       },
       {
         "example": "斜め上",
         "reading": "ななめうえ",
-        "meaning": "diagonally upward, (going in a) completely unexpected direction (of a story, result, etc.)"
+        "meaning": {
+          "vi": "diagonally upward, (going in a) completely unexpected direction (of a story, result, etc.)"
+        },
+        "romaji": "nanameue"
       },
       {
         "example": "斜",
         "reading": "はす",
-        "meaning": "diagonal"
+        "meaning": {
+          "en": "diagonal"
+        },
+        "romaji": "hasu"
       },
       {
         "example": "斜交い",
         "reading": "はすかい",
-        "meaning": "aslant, oblique, diagonal, askew, cater-cornered, catty-cornered"
+        "meaning": {
+          "en": "aslant, oblique, diagonal, askew, cater-cornered, catty-cornered"
+        },
+        "romaji": "hasukai"
       }
     ],
     "radical": {
@@ -74,5 +98,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0659c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/659c.gif",
     "uri": "https://jisho.org/search/%E6%96%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "gia",
+    "tà"
+  ]
 }

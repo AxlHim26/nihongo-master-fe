@@ -17,29 +17,44 @@
       {
         "example": "屠牛",
         "reading": "トギュウ",
-        "meaning": "cattle slaughter (for food)"
+        "meaning": {
+          "en": "cattle slaughter (for food)"
+        },
+        "romaji": "togyuu"
       },
       {
         "example": "屠殺",
         "reading": "トサツ",
-        "meaning": "slaughter (of animals for meat), butchery"
+        "meaning": {
+          "en": "slaughter (of animals for meat), butchery"
+        },
+        "romaji": "tosatsu"
       },
       {
         "example": "狗屠",
         "reading": "クト",
-        "meaning": "dog slaughter, killing of dogs, dog butcher"
+        "meaning": {
+          "en": "dog slaughter, killing of dogs, dog butcher"
+        },
+        "romaji": "kuto"
       },
       {
         "example": "浮屠",
         "reading": "フト",
-        "meaning": "Buddha, stupa, Buddhist temple, Buddhist monk"
+        "meaning": {
+          "vi": "Buddha, stupa, Buddhist temple, Buddhist monk"
+        },
+        "romaji": "futo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屠る",
         "reading": "ほふる",
-        "meaning": "to slaughter, to massacre, to butcher, to defeat soundly, to overpower, to vanquish"
+        "meaning": {
+          "vi": "to slaughter, to massacre, to butcher, to defeat soundly, to overpower, to vanquish"
+        },
+        "romaji": "hofuru"
       }
     ],
     "radical": {
@@ -55,5 +70,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c60.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c60.gif",
     "uri": "https://jisho.org/search/%E5%B1%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "chư",
+    "đồ"
+  ]
 }

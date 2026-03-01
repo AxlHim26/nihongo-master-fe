@@ -16,12 +16,18 @@
       {
         "example": "訥々",
         "reading": "トツトツ",
-        "meaning": "halting (speech), faltering, stammering"
+        "meaning": {
+          "vi": "halting (speech), faltering, stammering"
+        },
+        "romaji": "totsutotsu"
       },
       {
         "example": "訥々",
         "reading": "トツトツ",
-        "meaning": "halting (speech), faltering, stammering"
+        "meaning": {
+          "vi": "halting (speech), faltering, stammering"
+        },
+        "romaji": "totsutotsu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05436.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5436.gif",
     "uri": "https://jisho.org/search/%E5%90%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "niệt",
+    "nột"
+  ]
 }

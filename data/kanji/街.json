@@ -316,54 +316,84 @@
       {
         "example": "街",
         "reading": "ガイ",
-        "meaning": "street, quarter, district, area"
+        "meaning": {
+          "en": "street, quarter, district, area"
+        },
+        "romaji": "gai"
       },
       {
         "example": "街宣車",
         "reading": "ガイセンシャ",
-        "meaning": "sound truck (used for campaigning, advertising or propaganda), loudspeaker van, (right-wing) propaganda vehicle"
+        "meaning": {
+          "vi": "sound truck (used for campaigning, advertising or propaganda), loudspeaker van, (right-wing) propaganda vehicle"
+        },
+        "romaji": "gaisensha"
       },
       {
         "example": "ウォール街",
         "reading": "ウォールガイ",
-        "meaning": "Wall Street"
+        "meaning": {
+          "en": "Wall Street"
+        },
+        "romaji": "uoorugai"
       },
       {
         "example": "中華街",
         "reading": "チュウカガイ",
-        "meaning": "Chinatown"
+        "meaning": {
+          "en": "Chinatown"
+        },
+        "romaji": "chuukagai"
       },
       {
         "example": "街道",
         "reading": "カイドウ",
-        "meaning": "highway (esp. one existing from the Edo period), main road, highway (e.g. to success), path (to becoming ...), subdistrict (in China)"
+        "meaning": {
+          "vi": "highway (esp. one existing from the Edo period), main road, highway (e.g. to success), path (to becoming ...), subdistrict (in China)"
+        },
+        "romaji": "kaidou"
       },
       {
         "example": "街道筋",
         "reading": "カイドウスジ",
-        "meaning": "highway route (Edo period), main route"
+        "meaning": {
+          "vi": "highway route (Edo period), main route"
+        },
+        "romaji": "kaidousuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "町",
         "reading": "まち",
-        "meaning": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
+        "meaning": {
+          "en": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
+        },
+        "romaji": "machi"
       },
       {
         "example": "街角",
         "reading": "まちかど",
-        "meaning": "street corner"
+        "meaning": {
+          "en": "street corner"
+        },
+        "romaji": "machikado"
       },
       {
         "example": "眠らない街",
         "reading": "ねむらないまち",
-        "meaning": "city that never sleeps"
+        "meaning": {
+          "vi": "city that never sleeps"
+        },
+        "romaji": "nemuranaimachi"
       },
       {
         "example": "街々",
         "reading": "まちまち",
-        "meaning": "streets"
+        "meaning": {
+          "en": "streets"
+        },
+        "romaji": "machimachi"
       }
     ],
     "radical": {
@@ -379,5 +409,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08857.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8857.gif",
     "uri": "https://jisho.org/search/%E8%A1%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhai"
+  ]
 }

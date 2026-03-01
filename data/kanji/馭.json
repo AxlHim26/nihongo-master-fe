@@ -14,17 +14,26 @@
       {
         "example": "御者",
         "reading": "ギョシャ",
-        "meaning": "coachman, driver, cabman, postilion"
+        "meaning": {
+          "vi": "coachman, driver, cabman, postilion"
+        },
+        "romaji": "gyosha"
       },
       {
         "example": "馭者座",
         "reading": "ギョシャザ",
-        "meaning": "Auriga (constellation), the Charioteer"
+        "meaning": {
+          "en": "Auriga (constellation), the Charioteer"
+        },
+        "romaji": "gyoshaza"
       },
       {
         "example": "統御",
         "reading": "トウギョ",
-        "meaning": "control"
+        "meaning": {
+          "en": "control"
+        },
+        "romaji": "tougyo"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99ad.gif",
     "uri": "https://jisho.org/search/%E9%A6%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngự"
+  ]
 }

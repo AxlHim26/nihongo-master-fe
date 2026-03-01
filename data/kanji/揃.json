@@ -21,27 +21,42 @@
       {
         "example": "揃える",
         "reading": "そろえる",
-        "meaning": "to collect, to gather, to get together, to complete (a collection), to arrange, to put in order, to prepare, to get ready, to make uniform, to make even, to match"
+        "meaning": {
+          "vi": "to collect, to gather, to get together, to complete (a collection), to arrange, to put in order, to prepare, to get ready, to make uniform, to make even, to match"
+        },
+        "romaji": "soroeru"
       },
       {
         "example": "揃う",
         "reading": "そろう",
-        "meaning": "to be complete, to be all present, to make a full set, to be satisfied (of conditions), to be equal, to be uniform, to be even, to match, to agree, to gather, to assemble, to be collected"
+        "meaning": {
+          "vi": "to be complete, to be all present, to make a full set, to be satisfied (of conditions), to be equal, to be uniform, to be even, to match, to agree, to gather, to assemble, to be collected"
+        },
+        "romaji": "sorou"
       },
       {
         "example": "揃い",
         "reading": "そろい",
-        "meaning": "set, suit, uniform collection, matching items, entirely, all, every one, nothing but"
+        "meaning": {
+          "en": "set, suit, uniform collection, matching items, entirely, all, every one, nothing but"
+        },
+        "romaji": "soroi"
       },
       {
         "example": "揃い踏み",
         "reading": "そろいぶみ",
-        "meaning": "ritual stamping in the ring, lineup, appearance together"
+        "meaning": {
+          "vi": "ritual stamping in the ring, lineup, appearance together"
+        },
+        "romaji": "soroibumi"
       },
       {
         "example": "一揃い",
         "reading": "ひとそろい",
-        "meaning": "one set, one suit"
+        "meaning": {
+          "en": "one set, one suit"
+        },
+        "romaji": "hitosoroi"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63c3.gif",
     "uri": "https://jisho.org/search/%E6%8F%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiên",
+    "tiễn"
+  ]
 }

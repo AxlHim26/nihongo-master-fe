@@ -18,12 +18,18 @@
       {
         "example": "姦譎",
         "reading": "カンキツ",
-        "meaning": "iniquity, wickedness, dishonesty"
+        "meaning": {
+          "en": "iniquity, wickedness, dishonesty"
+        },
+        "romaji": "kankitsu"
       },
       {
         "example": "姦譎",
         "reading": "カンキツ",
-        "meaning": "iniquity, wickedness, dishonesty"
+        "meaning": {
+          "en": "iniquity, wickedness, dishonesty"
+        },
+        "romaji": "kankitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b4e.gif",
     "uri": "https://jisho.org/search/%E8%AD%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyệt"
+  ]
 }

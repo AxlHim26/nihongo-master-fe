@@ -295,39 +295,60 @@
       {
         "example": "属",
         "reading": "ゾク",
-        "meaning": "genus, generic"
+        "meaning": {
+          "en": "genus, generic"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "属する",
         "reading": "ゾクスル",
-        "meaning": "to belong to, to come under, to be affiliated with, to be subject to"
+        "meaning": {
+          "en": "to belong to, to come under, to be affiliated with, to be subject to"
+        },
+        "romaji": "zokusuru"
       },
       {
         "example": "非鉄金属",
         "reading": "ヒテツキンゾク",
-        "meaning": "non-ferrous metal"
+        "meaning": {
+          "en": "non-ferrous metal"
+        },
+        "romaji": "hitetsukinzoku"
       },
       {
         "example": "貴金属",
         "reading": "キキンゾク",
-        "meaning": "precious metal"
+        "meaning": {
+          "vi": "precious metal"
+        },
+        "romaji": "kikinzoku"
       },
       {
         "example": "嘱託",
         "reading": "ショクタク",
-        "meaning": "commission, entrusting with (work), part-time employee, temporary work"
+        "meaning": {
+          "vi": "commission, entrusting with (work), part-time employee, temporary work"
+        },
+        "romaji": "shokutaku"
       },
       {
         "example": "嘱望",
         "reading": "ショクボウ",
-        "meaning": "having great hopes for (someone's future), expecting much of, pinning one's hopes on"
+        "meaning": {
+          "vi": "having great hopes for (someone's future), expecting much of, pinning one's hopes on"
+        },
+        "romaji": "shokubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雅楽属",
         "reading": "うたのさかん",
-        "meaning": "alternate assistant court musician (ritsuryō system)"
+        "meaning": {
+          "en": "alternate assistant court musician (ritsuryō system)"
+        },
+        "romaji": "utanosakan"
       }
     ],
     "radical": {
@@ -343,5 +364,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c5e.gif",
     "uri": "https://jisho.org/search/%E5%B1%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "chú",
+    "chúc",
+    "thuộc"
+  ]
 }

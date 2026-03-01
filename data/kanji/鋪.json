@@ -18,22 +18,34 @@
       {
         "example": "舗",
         "reading": "ホ",
-        "meaning": "shop, store, counter for foldable things such as maps, etc."
+        "meaning": {
+          "vi": "shop, store, counter for foldable things such as maps, etc."
+        },
+        "romaji": "ho"
       },
       {
         "example": "舗装",
         "reading": "ホソウ",
-        "meaning": "paving (a road), surfacing (with asphalt, concrete, etc.), pavement"
+        "meaning": {
+          "vi": "paving (a road), surfacing (with asphalt, concrete, etc.), pavement"
+        },
+        "romaji": "hosou"
       },
       {
         "example": "老舗",
         "reading": "ロウホ",
-        "meaning": "long-established shop, shop of long standing, old shop"
+        "meaning": {
+          "vi": "long-established shop, shop of long standing, old shop"
+        },
+        "romaji": "rouho"
       },
       {
         "example": "薬舗",
         "reading": "ヤクホ",
-        "meaning": "drugstore, pharmacy, chemist"
+        "meaning": {
+          "vi": "drugstore, pharmacy, chemist"
+        },
+        "romaji": "yakuho"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92ea.gif",
     "uri": "https://jisho.org/search/%E9%8B%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "phô",
+    "phố"
+  ]
 }

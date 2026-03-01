@@ -18,17 +18,26 @@
       {
         "example": "榴輝岩",
         "reading": "リュウキガン",
-        "meaning": "eclogite"
+        "meaning": {
+          "en": "eclogite"
+        },
+        "romaji": "ryuukigan"
       },
       {
         "example": "榴散弾",
         "reading": "リュウサンダン",
-        "meaning": "shrapnel (shell)"
+        "meaning": {
+          "vi": "shrapnel (shell)"
+        },
+        "romaji": "ryuusandan"
       },
       {
         "example": "柘榴",
         "reading": "ザクロ",
-        "meaning": "pomegranate (Punica granatum)"
+        "meaning": {
+          "vi": "pomegranate (Punica granatum)"
+        },
+        "romaji": "zakuro"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69b4.gif",
     "uri": "https://jisho.org/search/%E6%A6%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lưu",
+    "lựu"
+  ]
 }

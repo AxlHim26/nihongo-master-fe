@@ -20,24 +20,36 @@
       {
         "example": "刈除",
         "reading": "ガイジョ",
-        "meaning": "removal, cut off, mowing"
+        "meaning": {
+          "en": "removal, cut off, mowing"
+        },
+        "romaji": "gaijo"
       },
       {
         "example": "刈除",
         "reading": "ガイジョ",
-        "meaning": "removal, cut off, mowing"
+        "meaning": {
+          "en": "removal, cut off, mowing"
+        },
+        "romaji": "gaijo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刈る",
         "reading": "かる",
-        "meaning": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
+        "meaning": {
+          "vi": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
+        },
+        "romaji": "karu"
       },
       {
         "example": "刈萱",
         "reading": "かるかや",
-        "meaning": "Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge"
+        "meaning": {
+          "vi": "Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge"
+        },
+        "romaji": "karukaya"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05208.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5208.gif",
     "uri": "https://jisho.org/search/%E5%88%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngải"
+  ]
 }

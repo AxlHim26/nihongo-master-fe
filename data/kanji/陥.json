@@ -20,34 +20,52 @@
       {
         "example": "陥落",
         "reading": "カンラク",
-        "meaning": "subsidence, sinking, cave-in, collapse, falling in, fall (of a city, fortress, etc.), surrender, fall (in position, rank, etc.), demotion, giving in (to someone's persuasion), yielding, being convinced"
+        "meaning": {
+          "vi": "subsidence, sinking, cave-in, collapse, falling in, fall (of a city, fortress, etc.), surrender, fall (in position, rank, etc.), demotion, giving in (to someone's persuasion), yielding, being convinced"
+        },
+        "romaji": "kanraku"
       },
       {
         "example": "陥没",
         "reading": "カンボツ",
-        "meaning": "cave-in, collapse, sinking, depression (e.g. of the skull), subsidence"
+        "meaning": {
+          "vi": "cave-in, collapse, sinking, depression (e.g. of the skull), subsidence"
+        },
+        "romaji": "kanbotsu"
       },
       {
         "example": "擠陥",
         "reading": "セイカン",
-        "meaning": "tempting into crime"
+        "meaning": {
+          "vi": "tempting into crime"
+        },
+        "romaji": "seikan"
       },
       {
         "example": "注意欠陥",
         "reading": "チュウイケッカン",
-        "meaning": "attention deficit"
+        "meaning": {
+          "en": "attention deficit"
+        },
+        "romaji": "chuuikekkan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陥る",
         "reading": "おちいる",
-        "meaning": "to fall into (e.g. a hole), to fall into (chaos, depression, dilemma, illness, etc.), to fall into (a trap, etc.), to fall, to surrender, to capitulate"
+        "meaning": {
+          "vi": "to fall into (e.g. a hole), to fall into (chaos, depression, dilemma, illness, etc.), to fall into (a trap, etc.), to fall, to surrender, to capitulate"
+        },
+        "romaji": "ochiiru"
       },
       {
         "example": "陥れる",
         "reading": "おとしいれる",
-        "meaning": "to trap (into a difficult situation), to put (in a fix), to throw (e.g. into turmoil), to trick (into doing), to lure (into a trap), to frame (for a crime), to capture (a castle, fortress, etc.), to take, to reduce, to drop (something) into"
+        "meaning": {
+          "vi": "to trap (into a difficult situation), to put (in a fix), to throw (e.g. into turmoil), to trick (into doing), to lure (into a trap), to frame (for a crime), to capture (a castle, fortress, etc.), to take, to reduce, to drop (something) into"
+        },
+        "romaji": "otoshiireru"
       }
     ],
     "radical": {
@@ -67,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09665.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9665.gif",
     "uri": "https://jisho.org/search/%E9%99%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "hãm"
+  ]
 }

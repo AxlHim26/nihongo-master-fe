@@ -305,54 +305,84 @@
       {
         "example": "鏡面",
         "reading": "キョウメン",
-        "meaning": "mirror surface, lens surface"
+        "meaning": {
+          "en": "mirror surface, lens surface"
+        },
+        "romaji": "kyoumen"
       },
       {
         "example": "鏡台",
         "reading": "キョウダイ",
-        "meaning": "dresser"
+        "meaning": {
+          "en": "dresser"
+        },
+        "romaji": "kyoudai"
       },
       {
         "example": "内視鏡",
         "reading": "ナイシキョウ",
-        "meaning": "endoscope"
+        "meaning": {
+          "vi": "endoscope"
+        },
+        "romaji": "naishikyou"
       },
       {
         "example": "万華鏡",
         "reading": "マンゲキョウ",
-        "meaning": "kaleidoscope"
+        "meaning": {
+          "vi": "kaleidoscope"
+        },
+        "romaji": "mangekyou"
       },
       {
         "example": "明鏡",
         "reading": "メイキョウ",
-        "meaning": "polished mirror, clear mirror"
+        "meaning": {
+          "vi": "polished mirror, clear mirror"
+        },
+        "romaji": "meikyou"
       },
       {
         "example": "鸞鏡",
         "reading": "ランキョウ",
-        "meaning": "mirror with a mythical Chinese bird carved into the back, (in Japan) 9th note of the ancient chromatic scale (approx. A sharp)"
+        "meaning": {
+          "vi": "mirror with a mythical Chinese bird carved into the back, (in Japan) 9th note of the ancient chromatic scale (approx. A sharp)"
+        },
+        "romaji": "rankyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鏡",
         "reading": "かがみ",
-        "meaning": "mirror, looking-glass, barrel head, page added at the beginning of a document mentioning its purpose, date, author, etc., mirror-shaped mochi"
+        "meaning": {
+          "vi": "mirror, looking-glass, barrel head, page added at the beginning of a document mentioning its purpose, date, author, etc., mirror-shaped mochi"
+        },
+        "romaji": "kagami"
       },
       {
         "example": "鑑",
         "reading": "かがみ",
-        "meaning": "model, pattern, paragon, exemplar"
+        "meaning": {
+          "vi": "model, pattern, paragon, exemplar"
+        },
+        "romaji": "kagami"
       },
       {
         "example": "懐中鏡",
         "reading": "かいちゅうかがみ",
-        "meaning": "pocket mirror"
+        "meaning": {
+          "vi": "pocket mirror"
+        },
+        "romaji": "kaichuukagami"
       },
       {
         "example": "化粧鏡",
         "reading": "けしょうかがみ",
-        "meaning": "bathroom mirror, vanity mirror"
+        "meaning": {
+          "en": "bathroom mirror, vanity mirror"
+        },
+        "romaji": "keshoukagami"
       }
     ],
     "radical": {
@@ -373,5 +403,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93e1.gif",
     "uri": "https://jisho.org/search/%E9%8F%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảnh",
+    "kính"
+  ]
 }

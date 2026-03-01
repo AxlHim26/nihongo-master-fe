@@ -17,22 +17,34 @@
       {
         "example": "燗",
         "reading": "カン",
-        "meaning": "warming up sake, warmed sake"
+        "meaning": {
+          "vi": "warming up sake, warmed sake"
+        },
+        "romaji": "kan"
       },
       {
         "example": "燗酒",
         "reading": "カンザケ",
-        "meaning": "warmed sake"
+        "meaning": {
+          "en": "warmed sake"
+        },
+        "romaji": "kanzake"
       },
       {
         "example": "人肌燗",
         "reading": "ヒトハダカン",
-        "meaning": "sake warmed to human body temperature (approx. 37 degrees C)"
+        "meaning": {
+          "vi": "sake warmed to human body temperature (approx. 37 degrees C)"
+        },
+        "romaji": "hitohadakan"
       },
       {
         "example": "熱燗",
         "reading": "アツカン",
-        "meaning": "hot sake"
+        "meaning": {
+          "en": "hot sake"
+        },
+        "romaji": "atsukan"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/071d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/71d7.gif",
     "uri": "https://jisho.org/search/%E7%87%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạn"
+  ]
 }

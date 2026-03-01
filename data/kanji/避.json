@@ -313,34 +313,52 @@
       {
         "example": "避難民",
         "reading": "ヒナンミン",
-        "meaning": "evacuees, displaced persons, refugees"
+        "meaning": {
+          "vi": "evacuees, displaced persons, refugees"
+        },
+        "romaji": "hinanmin"
       },
       {
         "example": "避難",
         "reading": "ヒナン",
-        "meaning": "taking refuge, finding shelter, evacuation, escape, seeking safe haven"
+        "meaning": {
+          "vi": "taking refuge, finding shelter, evacuation, escape, seeking safe haven"
+        },
+        "romaji": "hinan"
       },
       {
         "example": "不可避",
         "reading": "フカヒ",
-        "meaning": "inevitable, inescapable, unavoidable"
+        "meaning": {
+          "vi": "inevitable, inescapable, unavoidable"
+        },
+        "romaji": "fukahi"
       },
       {
         "example": "退避",
         "reading": "タイヒ",
-        "meaning": "taking refuge, evacuation, backup (of data)"
+        "meaning": {
+          "vi": "taking refuge, evacuation, backup (of data)"
+        },
+        "romaji": "taihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "避ける",
         "reading": "さける",
-        "meaning": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way"
+        "meaning": {
+          "vi": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way"
+        },
+        "romaji": "sakeru"
       },
       {
         "example": "避ける",
         "reading": "さける",
-        "meaning": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way"
+        "meaning": {
+          "vi": "to avoid (physical contact with), to avoid (situation), to evade (question, subject), to shirk (one's responsibilities), to ward off, to avert, to put aside, to move out of the way"
+        },
+        "romaji": "sakeru"
       }
     ],
     "radical": {
@@ -364,5 +382,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907f.gif",
     "uri": "https://jisho.org/search/%E9%81%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tị",
+    "tỵ"
+  ]
 }

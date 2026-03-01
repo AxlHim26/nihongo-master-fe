@@ -292,44 +292,68 @@
       {
         "example": "卵",
         "reading": "ラン",
-        "meaning": "ovum, ovule, egg cell"
+        "meaning": {
+          "en": "ovum, ovule, egg cell"
+        },
+        "romaji": "ran"
       },
       {
         "example": "卵子",
         "reading": "ランシ",
-        "meaning": "ovum, ovule, egg cell"
+        "meaning": {
+          "en": "ovum, ovule, egg cell"
+        },
+        "romaji": "ranshi"
       },
       {
         "example": "受精卵",
         "reading": "ジュセイラン",
-        "meaning": "fertilized egg, fertilised egg"
+        "meaning": {
+          "en": "fertilized egg, fertilised egg"
+        },
+        "romaji": "juseiran"
       },
       {
         "example": "介卵",
         "reading": "カイラン",
-        "meaning": "brooding"
+        "meaning": {
+          "en": "brooding"
+        },
+        "romaji": "kairan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "卵",
         "reading": "たまご",
-        "meaning": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
+        "meaning": {
+          "vi": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
+        },
+        "romaji": "tamago"
       },
       {
         "example": "卵形",
         "reading": "らんけい",
-        "meaning": "oval shape, egg shape"
+        "meaning": {
+          "vi": "oval shape, egg shape"
+        },
+        "romaji": "rankei"
       },
       {
         "example": "乾燥卵",
         "reading": "かんそうらん",
-        "meaning": "powdered eggs, dehydrated eggs, dried eggs"
+        "meaning": {
+          "vi": "powdered eggs, dehydrated eggs, dried eggs"
+        },
+        "romaji": "kansouran"
       },
       {
         "example": "冷凍卵",
         "reading": "れいとうらん",
-        "meaning": "frozen egg"
+        "meaning": {
+          "en": "frozen egg"
+        },
+        "romaji": "reitouran"
       }
     ],
     "radical": {
@@ -346,5 +370,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05375.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5375.gif",
     "uri": "https://jisho.org/search/%E5%8D%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "côn",
+    "noãn"
+  ]
 }

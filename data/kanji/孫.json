@@ -258,44 +258,68 @@
       {
         "example": "孫",
         "reading": "ソン",
-        "meaning": "descendant (usu. of a certain generation), lineage, pedigree, grandchild"
+        "meaning": {
+          "vi": "descendant (usu. of a certain generation), lineage, pedigree, grandchild"
+        },
+        "romaji": "son"
       },
       {
         "example": "孫悟空",
         "reading": "ソンゴクウ",
-        "meaning": "Sun Wukong (character in the classic Chinese novel Journey to the West), Monkey King, Son Goku (Dragon Ball)"
+        "meaning": {
+          "en": "Sun Wukong (character in the classic Chinese novel Journey to the West), Monkey King, Son Goku (Dragon Ball)"
+        },
+        "romaji": "songokuu"
       },
       {
         "example": "愛孫",
         "reading": "アイソン",
-        "meaning": "one's beloved grandchild"
+        "meaning": {
+          "en": "one's beloved grandchild"
+        },
+        "romaji": "aison"
       },
       {
         "example": "外孫",
         "reading": "ガイソン",
-        "meaning": "grandchild from a daughter married into another family"
+        "meaning": {
+          "en": "grandchild from a daughter married into another family"
+        },
+        "romaji": "gaison"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "孫",
         "reading": "まご",
-        "meaning": "grandchild"
+        "meaning": {
+          "en": "grandchild"
+        },
+        "romaji": "mago"
       },
       {
         "example": "孫子",
         "reading": "まごこ",
-        "meaning": "children and grandchildren, posterity, descendants"
+        "meaning": {
+          "vi": "children and grandchildren, posterity, descendants"
+        },
+        "romaji": "magoko"
       },
       {
         "example": "初孫",
         "reading": "ういまご",
-        "meaning": "first grandchild"
+        "meaning": {
+          "en": "first grandchild"
+        },
+        "romaji": "uimago"
       },
       {
         "example": "内孫",
         "reading": "ないそん",
-        "meaning": "child of one's heir"
+        "meaning": {
+          "en": "child of one's heir"
+        },
+        "romaji": "naison"
       }
     ],
     "radical": {
@@ -313,5 +337,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b6b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b6b.gif",
     "uri": "https://jisho.org/search/%E5%AD%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "tôn",
+    "tốn"
+  ]
 }

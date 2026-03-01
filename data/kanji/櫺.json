@@ -18,7 +18,10 @@
       {
         "example": "連子",
         "reading": "れんじ",
-        "meaning": "latticework"
+        "meaning": {
+          "en": "latticework"
+        },
+        "romaji": "renji"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06afa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6afa.gif",
     "uri": "https://jisho.org/search/%E6%AB%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "linh"
+  ]
 }

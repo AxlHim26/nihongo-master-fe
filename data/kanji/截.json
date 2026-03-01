@@ -18,54 +18,84 @@
       {
         "example": "切断",
         "reading": "セツダン",
-        "meaning": "cutting, severance, section, amputation, disconnection"
+        "meaning": {
+          "vi": "cutting, severance, section, amputation, disconnection"
+        },
+        "romaji": "setsudan"
       },
       {
         "example": "截然",
         "reading": "セツゼン",
-        "meaning": "clear, sharp, distinct, distinctive"
+        "meaning": {
+          "vi": "clear, sharp, distinct, distinctive"
+        },
+        "romaji": "setsuzen"
       },
       {
         "example": "直截",
         "reading": "チョクセツ",
-        "meaning": "direct, frank, straightforward, plain, decisive, prompt"
+        "meaning": {
+          "vi": "direct, frank, straightforward, plain, decisive, prompt"
+        },
+        "romaji": "chokusetsu"
       },
       {
         "example": "簡明直截",
         "reading": "カンメイチョクセツ",
-        "meaning": "simple and plain, frank, direct and unambivalent, straightforward"
+        "meaning": {
+          "vi": "simple and plain, frank, direct and unambivalent, straightforward"
+        },
+        "romaji": "kanmeichokusetsu"
       },
       {
         "example": "細金",
         "reading": "サイキン",
-        "meaning": "metallic foil cut into strips or other shapes to form decorative motifs, cutting a thin sheet of metal into shapes and affixing it with lacquer forming natural features (e.g. clouds)"
+        "meaning": {
+          "vi": "metallic foil cut into strips or other shapes to form decorative motifs, cutting a thin sheet of metal into shapes and affixing it with lacquer forming natural features (e.g. clouds)"
+        },
+        "romaji": "saikin"
       },
       {
         "example": "截然",
         "reading": "セツゼン",
-        "meaning": "clear, sharp, distinct, distinctive"
+        "meaning": {
+          "vi": "clear, sharp, distinct, distinctive"
+        },
+        "romaji": "setsuzen"
       },
       {
         "example": "直截",
         "reading": "チョクセツ",
-        "meaning": "direct, frank, straightforward, plain, decisive, prompt"
+        "meaning": {
+          "vi": "direct, frank, straightforward, plain, decisive, prompt"
+        },
+        "romaji": "chokusetsu"
       },
       {
         "example": "半裁",
         "reading": "ハンサイ",
-        "meaning": "cutting in half"
+        "meaning": {
+          "en": "cutting in half"
+        },
+        "romaji": "hansai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "截る",
         "reading": "きる",
-        "meaning": "to cut (e.g. cloth)"
+        "meaning": {
+          "en": "to cut (e.g. cloth)"
+        },
+        "romaji": "kiru"
       },
       {
         "example": "裁つ",
         "reading": "たつ",
-        "meaning": "to cut (cloth)"
+        "meaning": {
+          "en": "to cut (cloth)"
+        },
+        "romaji": "tatsu"
       }
     ],
     "radical": {
@@ -81,5 +111,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622a.gif",
     "uri": "https://jisho.org/search/%E6%88%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiệt"
+  ]
 }

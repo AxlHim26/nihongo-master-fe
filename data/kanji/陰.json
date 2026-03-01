@@ -20,49 +20,76 @@
       {
         "example": "陰",
         "reading": "イン",
-        "meaning": "(the) negative (e.g. pole), yin (in Chinese divination), hidden place, unseen part, private location"
+        "meaning": {
+          "vi": "(the) negative (e.g. pole), yin (in Chinese divination), hidden place, unseen part, private location"
+        },
+        "romaji": "in"
       },
       {
         "example": "陰謀",
         "reading": "インボウ",
-        "meaning": "plot, intrigue, scheme, conspiracy, agreement between two or more people to commit an unlawful act"
+        "meaning": {
+          "vi": "plot, intrigue, scheme, conspiracy, agreement between two or more people to commit an unlawful act"
+        },
+        "romaji": "inbou"
       },
       {
         "example": "山陰",
         "reading": "ヤマカゲ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": {
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        },
+        "romaji": "yamakage"
       },
       {
         "example": "外陰",
         "reading": "ガイイン",
-        "meaning": "vulva, pudenda"
+        "meaning": {
+          "vi": "vulva, pudenda"
+        },
+        "romaji": "gaiin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陰",
         "reading": "かげ",
-        "meaning": "shade, shadow, behind (something), other side, back, the background, behind the scenes, behind someone's back, gloom (in someone's expression, nature, etc.), darkness"
+        "meaning": {
+          "vi": "shade, shadow, behind (something), other side, back, the background, behind the scenes, behind someone's back, gloom (in someone's expression, nature, etc.), darkness"
+        },
+        "romaji": "kage"
       },
       {
         "example": "陰口",
         "reading": "かげぐち",
-        "meaning": "malicious gossip, backbiting, speaking ill behind someone's back"
+        "meaning": {
+          "vi": "malicious gossip, backbiting, speaking ill behind someone's back"
+        },
+        "romaji": "kageguchi"
       },
       {
         "example": "山陰",
         "reading": "やまかげ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": {
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        },
+        "romaji": "yamakage"
       },
       {
         "example": "物陰",
         "reading": "ものかげ",
-        "meaning": "place hidden from view, cover, shelter, hiding place"
+        "meaning": {
+          "vi": "place hidden from view, cover, shelter, hiding place"
+        },
+        "romaji": "monokage"
       },
       {
         "example": "陰る",
         "reading": "かげる",
-        "meaning": "to become clouded, to darken, to get dark, to become hidden (behind clouds), to darken (of a face), to worsen, to deteriorate, to become gloomy"
+        "meaning": {
+          "en": "to become clouded, to darken, to get dark, to become hidden (behind clouds), to darken (of a face), to worsen, to deteriorate, to become gloomy"
+        },
+        "romaji": "kageru"
       }
     ],
     "radical": {
@@ -83,5 +110,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09670.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9670.gif",
     "uri": "https://jisho.org/search/%E9%99%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "uẩn",
+    "ám",
+    "âm",
+    "ấm"
+  ]
 }

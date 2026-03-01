@@ -17,22 +17,34 @@
       {
         "example": "僧",
         "reading": "ソウ",
-        "meaning": "nhà sư, tăng lữ, tăng đoàn"
+        "meaning": {
+          "vi": "nhà sư, tăng lữ, tăng đoàn"
+        },
+        "romaji": "sou"
       },
       {
         "example": "僧侶",
         "reading": "ソウリョ",
-        "meaning": "tăng lữ, nhà sư"
+        "meaning": {
+          "vi": "tăng lữ, nhà sư"
+        },
+        "romaji": "souryo"
       },
       {
         "example": "禅僧",
         "reading": "ゼンソウ",
-        "meaning": "thiền sư"
+        "meaning": {
+          "vi": "thiền sư"
+        },
+        "romaji": "zensou"
       },
       {
         "example": "高僧",
         "reading": "コウソウ",
-        "meaning": "cao tăng, sư đức cao vọng trọng"
+        "meaning": {
+          "vi": "cao tăng, sư đức cao vọng trọng"
+        },
+        "romaji": "kousou"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50e7.gif",
     "uri": "https://jisho.org/search/%E5%83%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "tăng"
+  ]
 }

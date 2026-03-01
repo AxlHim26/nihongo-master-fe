@@ -293,59 +293,92 @@
       {
         "example": "恥辱",
         "reading": "チジョク",
-        "meaning": "disgrace, shame, insult"
+        "meaning": {
+          "en": "disgrace, shame, insult"
+        },
+        "romaji": "chijoku"
       },
       {
         "example": "恥丘",
         "reading": "チキュウ",
-        "meaning": "mons pubis, mons veneris"
+        "meaning": {
+          "vi": "mons pubis, mons veneris"
+        },
+        "romaji": "chikyuu"
       },
       {
         "example": "無恥",
         "reading": "ムチ",
-        "meaning": "shameless"
+        "meaning": {
+          "en": "shameless"
+        },
+        "romaji": "muchi"
       },
       {
         "example": "羞恥",
         "reading": "シュウチ",
-        "meaning": "shyness, bashfulness, shame"
+        "meaning": {
+          "en": "shyness, bashfulness, shame"
+        },
+        "romaji": "shuuchi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恥じる",
         "reading": "はじる",
-        "meaning": "to feel ashamed"
+        "meaning": {
+          "en": "to feel ashamed"
+        },
+        "romaji": "hajiru"
       },
       {
         "example": "恥",
         "reading": "はじ",
-        "meaning": "shame, embarrassment, disgrace"
+        "meaning": {
+          "en": "shame, embarrassment, disgrace"
+        },
+        "romaji": "haji"
       },
       {
         "example": "恥さらし",
         "reading": "はじさらし",
-        "meaning": "disgrace, shame"
+        "meaning": {
+          "en": "disgrace, shame"
+        },
+        "romaji": "hajisarashi"
       },
       {
         "example": "大恥",
         "reading": "おおはじ",
-        "meaning": "great shame, great disgrace, harsh humiliation, deep embarrassment, unbearable loss of face"
+        "meaning": {
+          "vi": "great shame, great disgrace, harsh humiliation, deep embarrassment, unbearable loss of face"
+        },
+        "romaji": "oohaji"
       },
       {
         "example": "死に恥",
         "reading": "しにはじ",
-        "meaning": "dishonor that persists after death, shame at the moment of one's death"
+        "meaning": {
+          "vi": "dishonor that persists after death, shame at the moment of one's death"
+        },
+        "romaji": "shinihaji"
       },
       {
         "example": "恥じらう",
         "reading": "はじらう",
-        "meaning": "to feel shy, to be bashful, to blush"
+        "meaning": {
+          "en": "to feel shy, to be bashful, to blush"
+        },
+        "romaji": "hajirau"
       },
       {
         "example": "恥ずかしい",
         "reading": "はずかしい",
-        "meaning": "embarrassing, embarrassed, ashamed, humiliated, shy, disgraceful, shameful"
+        "meaning": {
+          "en": "embarrassing, embarrassed, ashamed, humiliated, shy, disgraceful, shameful"
+        },
+        "romaji": "hazukashii"
       }
     ],
     "radical": {
@@ -364,5 +397,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06065.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6065.gif",
     "uri": "https://jisho.org/search/%E6%81%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "sỉ"
+  ]
 }

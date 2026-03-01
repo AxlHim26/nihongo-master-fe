@@ -16,17 +16,26 @@
       {
         "example": "吠陀",
         "reading": "ヴェーダ",
-        "meaning": "Veda"
+        "meaning": {
+          "en": "Veda"
+        },
+        "romaji": "vyeeda"
       },
       {
         "example": "韋陀天",
         "reading": "イダテン",
-        "meaning": "Wei-To (temple guardian sometimes confused with Vajrapani)"
+        "meaning": {
+          "vi": "Wei-To (temple guardian sometimes confused with Vajrapani)"
+        },
+        "romaji": "idaten"
       },
       {
         "example": "室韋",
         "reading": "シツイ",
-        "meaning": "Shiwei (Mongolic tribe)"
+        "meaning": {
+          "en": "Shiwei (Mongolic tribe)"
+        },
+        "romaji": "shitsui"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97cb.gif",
     "uri": "https://jisho.org/search/%E9%9F%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "vi",
+    "vy"
+  ]
 }

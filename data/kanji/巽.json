@@ -18,19 +18,28 @@
       {
         "example": "巽",
         "reading": "ソン",
-        "meaning": "xun (one of the trigrams of the I Ching: wind, southeast)"
+        "meaning": {
+          "en": "xun (one of the trigrams of the I Ching: wind, southeast)"
+        },
+        "romaji": "son"
       },
       {
         "example": "巽位",
         "reading": "ソンイ",
-        "meaning": "southeast"
+        "meaning": {
+          "en": "southeast"
+        },
+        "romaji": "son'i"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辰巳",
         "reading": "たつみ",
-        "meaning": "southeast"
+        "meaning": {
+          "en": "southeast"
+        },
+        "romaji": "tatsumi"
       }
     ],
     "radical": {
@@ -53,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dfd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dfd.gif",
     "uri": "https://jisho.org/search/%E5%B7%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tốn"
+  ]
 }

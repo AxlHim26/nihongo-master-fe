@@ -17,24 +17,36 @@
       {
         "example": "華鬘",
         "reading": "ケマン",
-        "meaning": "Buddhist decoration engraved with various motifs, often made from gilt copper (e.g. for adorning the inner shrine of a temple)"
+        "meaning": {
+          "vi": "Buddhist decoration engraved with various motifs, often made from gilt copper (e.g. for adorning the inner shrine of a temple)"
+        },
+        "romaji": "keman"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鬘",
         "reading": "かつら",
-        "meaning": "wig, hairpiece, toupee"
+        "meaning": {
+          "vi": "wig, hairpiece, toupee"
+        },
+        "romaji": "katsura"
       },
       {
         "example": "百日鬘",
         "reading": "ひゃくにちかずら",
-        "meaning": "long-haired wig used in kabuki (used metaphorically to refer to a thick growth)"
+        "meaning": {
+          "vi": "long-haired wig used in kabuki (used metaphorically to refer to a thick growth)"
+        },
+        "romaji": "hyakunichikazura"
       },
       {
         "example": "全かつら",
         "reading": "ぜんかつら",
-        "meaning": "full wig, whole wig"
+        "meaning": {
+          "en": "full wig, whole wig"
+        },
+        "romaji": "zenkatsura"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b18.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b18.gif",
     "uri": "https://jisho.org/search/%E9%AC%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "man"
+  ]
 }

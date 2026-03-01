@@ -19,29 +19,44 @@
       {
         "example": "酌",
         "reading": "シャク",
-        "meaning": "pouring alcohol, person pouring alcohol (esp. a woman)"
+        "meaning": {
+          "vi": "pouring alcohol, person pouring alcohol (esp. a woman)"
+        },
+        "romaji": "shaku"
       },
       {
         "example": "酌婦",
         "reading": "シャクフ",
-        "meaning": "barmaid, waitress"
+        "meaning": {
+          "en": "barmaid, waitress"
+        },
+        "romaji": "shakufu"
       },
       {
         "example": "晩酌",
         "reading": "バンシャク",
-        "meaning": "drink at home with one's evening meal, dinner-time drink"
+        "meaning": {
+          "en": "drink at home with one's evening meal, dinner-time drink"
+        },
+        "romaji": "banshaku"
       },
       {
         "example": "媒酌",
         "reading": "バイシャク",
-        "meaning": "matchmaking, acting as a go-between"
+        "meaning": {
+          "en": "matchmaking, acting as a go-between"
+        },
+        "romaji": "baishaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "酌む",
         "reading": "くむ",
-        "meaning": "to pour (sake), to serve, to drink (together), to consider (feelings, the situation, etc.), to sympathize with, to intuit, to understand"
+        "meaning": {
+          "vi": "to pour (sake), to serve, to drink (together), to consider (feelings, the situation, etc.), to sympathize with, to intuit, to understand"
+        },
+        "romaji": "kumu"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0914c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/914c.gif",
     "uri": "https://jisho.org/search/%E9%85%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chước"
+  ]
 }

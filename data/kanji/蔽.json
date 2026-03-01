@@ -20,24 +20,36 @@
       {
         "example": "障屏",
         "reading": "ショウヘイ",
-        "meaning": "partitions in a Japanese house (e.g. screens, sliding doors, etc.)"
+        "meaning": {
+          "vi": "partitions in a Japanese house (e.g. screens, sliding doors, etc.)"
+        },
+        "romaji": "shouhei"
       },
       {
         "example": "遮蔽",
         "reading": "シャヘイ",
-        "meaning": "shielding, sheltering, screening, shading, masking"
+        "meaning": {
+          "en": "shielding, sheltering, screening, shading, masking"
+        },
+        "romaji": "shahei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "覆う",
         "reading": "おおう",
-        "meaning": "to cover, to hide, to conceal, to wrap, to disguise"
+        "meaning": {
+          "vi": "to cover, to hide, to conceal, to wrap, to disguise"
+        },
+        "romaji": "oou"
       },
       {
         "example": "覆い",
         "reading": "おおい",
-        "meaning": "cover, mantle, shroud, hood"
+        "meaning": {
+          "en": "cover, mantle, shroud, hood"
+        },
+        "romaji": "ooi"
       }
     ],
     "radical": {
@@ -61,5 +73,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0853d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/853d.gif",
     "uri": "https://jisho.org/search/%E8%94%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "phất",
+    "tế"
+  ]
 }

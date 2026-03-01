@@ -15,7 +15,10 @@
       {
         "example": "軈て",
         "reading": "やがて",
-        "meaning": "before long, soon, shortly, almost, nearly, finally, in the end, eventually"
+        "meaning": {
+          "en": "before long, soon, shortly, almost, nearly, finally, in the end, eventually"
+        },
+        "romaji": "yagate"
       }
     ],
     "radical": {
@@ -33,5 +36,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ec8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ec8.gif",
     "uri": "https://jisho.org/search/%E8%BB%88%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

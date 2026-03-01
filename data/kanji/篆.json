@@ -15,22 +15,34 @@
       {
         "example": "篆",
         "reading": "テン",
-        "meaning": "seal-engraving style (of writing Chinese characters), seal script"
+        "meaning": {
+          "vi": "seal-engraving style (of writing Chinese characters), seal script"
+        },
+        "romaji": "ten"
       },
       {
         "example": "篆刻",
         "reading": "テンコク",
-        "meaning": "seal engraving"
+        "meaning": {
+          "en": "seal engraving"
+        },
+        "romaji": "tenkoku"
       },
       {
         "example": "大篆",
         "reading": "ダイテン",
-        "meaning": "large seal script (dating from China's Spring and Autumn period onward)"
+        "meaning": {
+          "vi": "large seal script (dating from China's Spring and Autumn period onward)"
+        },
+        "romaji": "daiten"
       },
       {
         "example": "小篆",
         "reading": "ショウテン",
-        "meaning": "small seal script (arising during China's Warring States period)"
+        "meaning": {
+          "vi": "small seal script (arising during China's Warring States period)"
+        },
+        "romaji": "shouten"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bc6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bc6.gif",
     "uri": "https://jisho.org/search/%E7%AF%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "triện"
+  ]
 }

@@ -13,131 +13,216 @@
       {
         "japanese": "丁（ちょう）",
         "meaning": {
-          "english": "counter for guns and tofu",
-          "vietnamese": "đơn vị đếm súng và đậu phụ"
+          "vi": "quầy bán súng và đậu phụ",
+          "en": "counter for guns and tofu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_a.mp3"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
         }
       },
       {
         "japanese": "丁度（ちょうど）",
         "meaning": {
-          "english": "just, right, exactly",
-          "vietnamese": "vừa đúng, chính xác"
+          "vi": "đúng, đúng, chính xác",
+          "en": "just, right, exactly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_b.mp3"
+        },
+        "hanViet": [
+          "chênh",
+          "đạc"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 度 (đạc: đo lường) → đúng, đúng, chính xác",
+          "en": "丁 (difference: boy) + 度 (dac: measure) → right, right, exact"
         }
       },
       {
         "japanese": "丁々発止（ちょうちょうはっし）",
         "meaning": {
-          "english": "crossing of swords, argument",
-          "vietnamese": "giao đấu kiếm, tranh luận"
+          "vi": "đấu kiếm, tranh luận",
+          "en": "crossing of swords, argument"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_c.mp3"
+        },
+        "hanViet": [
+          "chênh",
+          "phát",
+          "chi"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 発 (phát: Hán văn Nhật Bản dùng như chữ 發) + 止 (chi: dừng lại, thôi) → đấu kiếm, tranh luận",
+          "en": "丁 (chanh: son) + 発 (phat: japanese sino-japanese used as the word 發) + 止 (chi: stop, stop) → sword fight, argument"
         }
       },
       {
         "japanese": "包丁（ほうちょう）",
         "meaning": {
-          "english": "kitchen knife, carving knife",
-          "vietnamese": "dao nhà bếp, dao thái"
+          "vi": "dao nhà bếp, dao khắc",
+          "en": "kitchen knife, carving knife"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_d.mp3"
+        },
+        "hanViet": [
+          "bao",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "包 (bao: bao, túi, gói) + 丁 (chênh: con trai) → dao nhà bếp, dao khắc",
+          "en": "包 (bao: bag, bag, package) + 丁 (diff: son) → kitchen knife, carving knife"
         }
       },
       {
         "japanese": "落丁（らくちょう）",
         "meaning": {
-          "english": "missing pages",
-          "vietnamese": "trang bị thiếu"
+          "vi": "trang bị thiếu",
+          "en": "missing pages"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_e.mp3"
+        },
+        "hanViet": [
+          "lạc",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "落 (lạc: rơi, rụng) + 丁 (chênh: con trai) → trang bị thiếu",
+          "en": "落 (lac: fall, fall) + 丁 (chanh: son) → missing equipment"
         }
       },
       {
         "japanese": "二丁目（にちょうめ）",
         "meaning": {
-          "english": "2-choume (in address)",
-          "vietnamese": "khu phố số 2 (trong địa chỉ)"
+          "vi": "2-choume (trong địa chỉ)",
+          "en": "2-choume (in address)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_f.mp3"
+        },
+        "hanViet": [
+          "nhị",
+          "chênh",
+          "mục"
+        ],
+        "hanVietExplain": {
+          "vi": "二 (nhị: hai, 2) + 丁 (chênh: con trai) + 目 (mục: mắt) → 2-choume (trong địa chỉ)",
+          "en": "二 (second: two, 2) + 丁 (chanh: son) + 目 (index: eye) → 2-choume (in address)"
         }
       },
       {
         "japanese": "豆腐一丁（とうふいっちょう）",
         "meaning": {
-          "english": "one cake of tofu",
-          "vietnamese": "một miếng đậu phụ"
+          "vi": "một chiếc bánh đậu phụ",
+          "en": "one cake of tofu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_g.mp3"
+        },
+        "hanViet": [
+          "đậu",
+          "hủ",
+          "nhất",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "豆 (đậu: cây đậu) + 腐 (hủ: rữa, nát, thối, mục) + 一 (nhất: một, 1) + 丁 (chênh: con trai) → một chiếc bánh đậu phụ",
+          "en": "豆 (bean: bean plant) + 腐 (tofu: rotten, rotten, rotten, rotten) + 一 (most: one, 1) + 丁 (chanh: son) → a tofu cake"
         }
       },
       {
         "japanese": "拳銃二丁（けんじゅうにちょう）",
         "meaning": {
-          "english": "two pistols",
-          "vietnamese": "hai khẩu súng lục"
+          "vi": "hai khẩu súng lục",
+          "en": "two pistols"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_h.mp3"
+        },
+        "hanViet": [
+          "quyền",
+          "súng",
+          "nhị",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "拳 (quyền: nắm tay, quả đấm) + 銃 (súng: cái lỗ rìu búa để cho cán vào) + 二 (nhị: hai, 2) + 丁 (chênh: con trai) → hai khẩu súng lục",
+          "en": "拳 (fist: fist, fist) + 銃 (gun: hole for an ax and hammer to put the handle in) + 二 (second: two, 2) + 丁 (chan: son) → two pistols"
         }
       },
       {
         "japanese": "丁寧な（ていねいな）",
         "meaning": {
-          "english": "polite, courteous, careful",
-          "vietnamese": "lịch sự, nhã nhặn, cẩn thận"
+          "vi": "lịch sự, nhã nhặn, cẩn thận",
+          "en": "polite, courteous, careful"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_i.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_i.mp3"
+        },
+        "hanViet": [
+          "chênh",
+          "ninh"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 寧 (ninh: an toàn) → lịch sự, nhã nhặn, cẩn thận",
+          "en": "丁 (chan: boy) + 寧 (ninh: safe) → polite, courteous, careful"
         }
       },
       {
         "japanese": "丁重な（ていちょうな）",
         "meaning": {
-          "english": "polite, courteous",
-          "vietnamese": "lịch sự, nhã nhặn"
+          "vi": "lịch sự, nhã nhặn",
+          "en": "polite, courteous"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(neina)_06_j.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(neina)_06_j.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(neina)_06_j.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(neina)_06_j.mp3"
+        },
+        "hanViet": [
+          "chênh",
+          "trùng"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 重 (trùng: trùng, lặp lại) → lịch sự, nhã nhặn",
+          "en": "丁 (difference: boy) + 重 (duplicate: duplicate, repeat) → polite, courteous"
         }
       }
     ],
@@ -315,84 +400,272 @@
       {
         "example": "丁",
         "reading": "チョウ",
-        "meaning": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo"
+        "meaning": {
+          "vi": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo",
+          "en": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "chou"
       },
       {
         "example": "丁",
         "reading": "チョウ",
-        "meaning": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu Nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)"
+        "meaning": {
+          "vi": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)",
+          "en": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu Nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "chou"
       },
       {
         "example": "一丁",
         "reading": "イッチョウ",
-        "meaning": "một trang (sách đóng kiểu Nhật), một miếng đậu phụ, một phần ăn (nhà hàng), một vật dài và hẹp, một chō (đơn vị khoảng cách), một ván, một nhiệm vụ, nào, được rồi"
+        "meaning": {
+          "vi": "một trang (sách đóng kiểu nhật), một miếng đậu phụ, một phần ăn (nhà hàng), một vật dài và hẹp, một chō (đơn vị khoảng cách), một ván, một nhiệm vụ, nào, được rồi",
+          "en": "một trang (sách đóng kiểu Nhật), một miếng đậu phụ, một phần ăn (nhà hàng), một vật dài và hẹp, một chō (đơn vị khoảng cách), một ván, một nhiệm vụ, nào, được rồi"
+        },
+        "hanViet": [
+          "nhất",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 丁 (chênh: con trai) → một trang (sách đóng kiểu nhật), một miếng đậu phụ, một phần ăn (nhà hàng), một vật dài và hẹp, một chō (đơn vị khoảng cách), một ván, một nhiệm vụ, nào, được rồi",
+          "en": "一 (one: one, 1) + 丁 (chan: son) → a page (japanese-style book), a piece of tofu, a portion (restaurant), a long and narrow object, a chō (a unit of distance), a game, a task, come on, okay"
+        },
+        "romaji": "itchou"
       },
       {
         "example": "柳刃包丁",
         "reading": "ヤナギバボウチョウ",
-        "meaning": "dao nhà bếp cho sashimi"
+        "meaning": {
+          "vi": "dao nhà bếp cho sashimi",
+          "en": "dao nhà bếp cho sashimi"
+        },
+        "hanViet": [
+          "liễu",
+          "nhẫn",
+          "bao",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "柳 (liễu: cây liễu) + 刃 (nhẫn: mũi nhọn) + 包 (bao: bao, túi, gói) + 丁 (chênh: con trai) → dao nhà bếp cho sashimi",
+          "en": "柳 (willow: willow) + 刃 (ring: sharp point) + 包 (bao: bag, bag, package) + 丁 (chan: boy) → kitchen knife for sashimi"
+        },
+        "romaji": "yanagibabouchou"
       },
       {
         "example": "丁",
         "reading": "テイ",
-        "meaning": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch Trung Quốc, Đan Mạch"
+        "meaning": {
+          "vi": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch trung quốc, đan mạch",
+          "en": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch Trung Quốc, Đan Mạch"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "tei"
       },
       {
         "example": "丁寧",
         "reading": "テイネイ",
-        "meaning": "lịch sự, nhã nhặn, văn minh, cẩn thận, kỹ lưỡng, chu đáo"
+        "meaning": {
+          "vi": "lịch sự, nhã nhặn, văn minh, cẩn thận, kỹ lưỡng, chu đáo",
+          "en": "lịch sự, nhã nhặn, văn minh, cẩn thận, kỹ lưỡng, chu đáo"
+        },
+        "hanViet": [
+          "chênh",
+          "ninh"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 寧 (ninh: an toàn) → lịch sự, nhã nhặn, văn minh, cẩn thận, kỹ lưỡng, chu đáo",
+          "en": "丁 (chan: boy) + 寧 (ninh: safe) → polite, courteous, civilized, careful, thorough, thoughtful"
+        },
+        "romaji": "teinei"
       },
       {
         "example": "装丁",
         "reading": "ソウテイ",
-        "meaning": "đóng sách, thiết kế bìa sách"
+        "meaning": {
+          "vi": "đóng sách, thiết kế bìa sách",
+          "en": "đóng sách, thiết kế bìa sách"
+        },
+        "hanViet": [
+          "trang",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "装 (trang: quần áo, trang phục) + 丁 (chênh: con trai) → đóng sách, thiết kế bìa sách",
+          "en": "装 (page: clothes, costume) + 丁 (chanh: boy) → book binding, book cover design"
+        },
+        "romaji": "soutei"
       },
       {
         "example": "正丁",
         "reading": "セイテイ",
-        "meaning": "nam giới khỏe mạnh từ 21 đến 60 tuổi phải chịu các loại lao dịch và thuế (theo hệ thống luật lệnh)"
+        "meaning": {
+          "vi": "nam giới khỏe mạnh từ 21 đến 60 tuổi phải chịu các loại lao dịch và thuế (theo hệ thống luật lệnh)",
+          "en": "nam giới khỏe mạnh từ 21 đến 60 tuổi phải chịu các loại lao dịch và thuế (theo hệ thống luật lệnh)"
+        },
+        "hanViet": [
+          "chinh",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "正 (chinh: giữa) + 丁 (chênh: con trai) → nam giới khỏe mạnh từ 21 đến 60 tuổi phải chịu các loại lao dịch và thuế (theo hệ thống luật lệnh)",
+          "en": "正 (chinh: middle) + 丁 (chanh: son) → healthy men from 21 to 60 years old are subject to all kinds of labor and taxes (according to the law system)"
+        },
+        "romaji": "seitei"
       },
       {
         "example": "丁幾",
         "reading": "チンキ",
-        "meaning": "cồn thuốc"
+        "meaning": {
+          "vi": "cồn thuốc",
+          "en": "cồn thuốc"
+        },
+        "hanViet": [
+          "chênh",
+          "cơ"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 幾 (cơ: hầu như, gần như) → cồn thuốc",
+          "en": "丁 (chan: son) + 幾 (chan: almost, almost) → tincture"
+        },
+        "romaji": "chinki"
       },
       {
         "example": "亜爾然丁",
         "reading": "アルゼンチン",
-        "meaning": "Argentina"
+        "meaning": {
+          "vi": "argentina",
+          "en": "Argentina"
+        },
+        "hanViet": [
+          "a",
+          "nhĩ",
+          "nhiên",
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "亜 (a: thứ hai) + 爾 (nhĩ: anh, bạn, mày) + 然 (nhiên: đúng) + 丁 (chênh: con trai) → argentina",
+          "en": "亜 (a: second) + 爾 (nhịnh: brother, friend, you) + 然 (nhênh: right) + 丁 (chanh: son) → argentina"
+        },
+        "romaji": "aruzenchin"
       },
       {
         "example": "丁々",
         "reading": "トウトウ",
-        "meaning": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)"
+        "meaning": {
+          "vi": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)",
+          "en": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "toutou"
       },
       {
         "example": "丁々",
         "reading": "トウトウ",
-        "meaning": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)"
+        "meaning": {
+          "vi": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)",
+          "en": "với tiếng chặt (của rìu), với tiếng thình (khi đóng cọc)"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "toutou"
       },
       {
         "example": "丁",
         "reading": "チョウ",
-        "meaning": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo"
+        "meaning": {
+          "vi": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo",
+          "en": "đơn vị đếm vật dài và hẹp như súng, kéo, xẻng, cuốc, mực tàu, kiệu, nến, xe kéo, đàn shamisen, mái chèo"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "chou"
       },
       {
         "example": "丁",
         "reading": "チョウ",
-        "meaning": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu Nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)"
+        "meaning": {
+          "vi": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)",
+          "en": "đơn vị đếm trang sách (đặc biệt sách đóng kiểu Nhật), đơn vị đếm miếng đậu phụ, đơn vị đếm phần ăn nhà hàng, số chẵn, chō (đơn vị độ dài, khoảng 109,09 m)"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "chou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丁",
         "reading": "てい",
-        "meaning": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch Trung Quốc, Đan Mạch"
+        "meaning": {
+          "vi": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch trung quốc, đan mạch",
+          "en": "hạng tư, loại tư, bên thứ tư (trong hợp đồng), dấu hiệu thứ tư của lịch Trung Quốc, Đan Mạch"
+        },
+        "hanViet": [
+          "chênh"
+        ],
+        "hanVietExplain": {
+          "vi": "chênh: con trai, họ Đinh",
+          "en": "difference: son, surname dinh"
+        },
+        "romaji": "tei"
       },
       {
         "example": "丁亥",
         "reading": "ていがい",
-        "meaning": "Đinh Hợi (can chi thứ 24 trong lục thập hoa giáp, ví dụ 1947, 2007, 2067)"
+        "meaning": {
+          "vi": "đinh hợi (can chi thứ 24 trong lục thập hoa giáp, ví dụ 1947, 2007, 2067)",
+          "en": "Đinh Hợi (can chi thứ 24 trong lục thập hoa giáp, ví dụ 1947, 2007, 2067)"
+        },
+        "hanViet": [
+          "chênh",
+          "giai"
+        ],
+        "hanVietExplain": {
+          "vi": "丁 (chênh: con trai) + 亥 (giai: Hợi (ngôi thứ 12 hàng Chi)) → đinh hợi (can chi thứ 24 trong lục thập hoa giáp, ví dụ 1947, 2007, 2067)",
+          "en": "丁 (chanh: son) + 亥 (giai: hoi (12th position in the chi row)) → ding hoi (24th can chi in the six dozen flower zodiacs, for example 1947, 2007, 2067)"
+        },
+        "romaji": "teigai"
       }
     ],
     "radical": {
@@ -407,5 +680,19 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e01.gif",
     "uri": "https://jisho.org/search/%E4%B8%81%23kanji"
+  },
+  "hanViet": [
+    "chênh",
+    "tranh",
+    "trành",
+    "đinh"
+  ],
+  "hanVietExplain": {
+    "vi": "chênh: con trai, họ Đinh",
+    "en": "difference: son, surname dinh"
+  },
+  "meaning": {
+    "vi": "tiểu khu thị trấn, quầy linh tinh, số chẵn",
+    "en": "town subsection, miscellaneous counter, even number"
   }
 }

@@ -315,59 +315,92 @@
       {
         "example": "黄色",
         "reading": "キイロ",
-        "meaning": "yellow, amber"
+        "meaning": {
+          "en": "yellow, amber"
+        },
+        "romaji": "kiiro"
       },
       {
         "example": "黄昏",
         "reading": "タソガレ",
-        "meaning": "dusk, twilight, twilight years, melancholia, melancholic nostalgia"
+        "meaning": {
+          "en": "dusk, twilight, twilight years, melancholia, melancholic nostalgia"
+        },
+        "romaji": "tasogare"
       },
       {
         "example": "玄黄",
         "reading": "ゲンコウ",
-        "meaning": "black and yellow silk (offered to gods), heaven and earth"
+        "meaning": {
+          "en": "black and yellow silk (offered to gods), heaven and earth"
+        },
+        "romaji": "genkou"
       },
       {
         "example": "天地玄黄",
         "reading": "テンチゲンコウ",
-        "meaning": "heaven is black and earth is yellow, heaven and earth"
+        "meaning": {
+          "en": "heaven is black and earth is yellow, heaven and earth"
+        },
+        "romaji": "tenchigenkou"
       },
       {
         "example": "黄金時代",
         "reading": "オウゴンジダイ",
-        "meaning": "golden age"
+        "meaning": {
+          "en": "golden age"
+        },
+        "romaji": "ougonjidai"
       },
       {
         "example": "黄金",
         "reading": "オウゴン",
-        "meaning": "gold (Au), golden, prosperous, excellent, superb, money (esp. ōban coin), cash"
+        "meaning": {
+          "vi": "gold (Au), golden, prosperous, excellent, superb, money (esp. ōban coin), cash"
+        },
+        "romaji": "ougon"
       },
       {
         "example": "卵黄",
         "reading": "ランオウ",
-        "meaning": "egg yolk"
+        "meaning": {
+          "en": "egg yolk"
+        },
+        "romaji": "ran'ou"
       },
       {
         "example": "六フッ化硫黄",
         "reading": "ロクフッカイオウ",
-        "meaning": "sulfur hexafluoride, SF6"
+        "meaning": {
+          "en": "sulfur hexafluoride, SF6"
+        },
+        "romaji": "rokufukkaiou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黄",
         "reading": "き",
-        "meaning": "yellow"
+        "meaning": {
+          "en": "yellow"
+        },
+        "romaji": "ki"
       },
       {
         "example": "黄色",
         "reading": "きいろ",
-        "meaning": "yellow, amber"
+        "meaning": {
+          "en": "yellow, amber"
+        },
+        "romaji": "kiiro"
       },
       {
         "example": "海気",
         "reading": "かいき",
-        "meaning": "sea air, sea breeze, ocean and atmosphere, type of yarn-dyed silk goods"
+        "meaning": {
+          "vi": "sea air, sea breeze, ocean and atmosphere, type of yarn-dyed silk goods"
+        },
+        "romaji": "kaiki"
       }
     ],
     "radical": {
@@ -383,5 +416,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ec4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ec4.gif",
     "uri": "https://jisho.org/search/%E9%BB%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàng",
+    "huỳnh"
+  ]
 }

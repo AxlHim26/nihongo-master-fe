@@ -250,34 +250,52 @@
       {
         "example": "偉",
         "reading": "イ",
-        "meaning": "greatness, excellence, magnificence"
+        "meaning": {
+          "en": "greatness, excellence, magnificence"
+        },
+        "romaji": "i"
       },
       {
         "example": "偉業",
         "reading": "イギョウ",
-        "meaning": "great achievement, great feat, great work, great undertaking"
+        "meaning": {
+          "en": "great achievement, great feat, great work, great undertaking"
+        },
+        "romaji": "igyou"
       },
       {
         "example": "魁偉",
         "reading": "カイイ",
-        "meaning": "brawny, muscular, impressive, gigantic"
+        "meaning": {
+          "vi": "brawny, muscular, impressive, gigantic"
+        },
+        "romaji": "kaii"
       },
       {
         "example": "容貌魁偉",
         "reading": "ヨウボウカイイ",
-        "meaning": "(a man) having a commanding face and a powerful physique"
+        "meaning": {
+          "vi": "(a man) having a commanding face and a powerful physique"
+        },
+        "romaji": "youboukaii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "偉い",
         "reading": "えらい",
-        "meaning": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely"
+        "meaning": {
+          "vi": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely"
+        },
+        "romaji": "erai"
       },
       {
         "example": "偉いこっちゃ",
         "reading": "えらいこっちゃ",
-        "meaning": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother"
+        "meaning": {
+          "vi": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother"
+        },
+        "romaji": "eraikotcha"
       }
     ],
     "radical": {
@@ -296,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05049.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5049.gif",
     "uri": "https://jisho.org/search/%E5%81%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "vĩ"
+  ]
 }

@@ -20,29 +20,44 @@
       {
         "example": "桟",
         "reading": "サン",
-        "meaning": "frame (i.e. of a sliding door), crosspiece, bar, sliding wooden bolt (for holding a door or window shut), rung (of a ladder)"
+        "meaning": {
+          "vi": "frame (i.e. of a sliding door), crosspiece, bar, sliding wooden bolt (for holding a door or window shut), rung (of a ladder)"
+        },
+        "romaji": "san"
       },
       {
         "example": "桟橋",
         "reading": "サンバシ",
-        "meaning": "wharf, bridge, jetty, pier"
+        "meaning": {
+          "vi": "wharf, bridge, jetty, pier"
+        },
+        "romaji": "sanbashi"
       },
       {
         "example": "障子の桟",
         "reading": "ショウジノサン",
-        "meaning": "frame of a shoji (paper sliding-door)"
+        "meaning": {
+          "vi": "frame of a shoji (paper sliding-door)"
+        },
+        "romaji": "shoujinosan"
       },
       {
         "example": "窓の桟",
         "reading": "マドノサン",
-        "meaning": "window frame, window sill"
+        "meaning": {
+          "en": "window frame, window sill"
+        },
+        "romaji": "madonosan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "懸け橋",
         "reading": "かけはし",
-        "meaning": "temporary (suspension) bridge, makeshift bridge, bridge (between cultures, generations, etc.), link, go-between, intermediary, walkway (constructed on a cliff face), plank path"
+        "meaning": {
+          "vi": "temporary (suspension) bridge, makeshift bridge, bridge (between cultures, generations, etc.), link, go-between, intermediary, walkway (constructed on a cliff face), plank path"
+        },
+        "romaji": "kakehashi"
       }
     ],
     "radical": {
@@ -58,5 +73,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0685f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/685f.gif",
     "uri": "https://jisho.org/search/%E6%A1%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "chăn",
+    "sạn",
+    "trản",
+    "trăn",
+    "xiễn"
+  ]
 }

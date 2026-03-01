@@ -322,44 +322,68 @@
       {
         "example": "腕力",
         "reading": "ワンリョク",
-        "meaning": "strength in one's arms, physical strength, muscular strength, force, violence"
+        "meaning": {
+          "vi": "strength in one's arms, physical strength, muscular strength, force, violence"
+        },
+        "romaji": "wanryoku"
       },
       {
         "example": "腕白",
         "reading": "ワンパク",
-        "meaning": "naughty, mischievous, unruly"
+        "meaning": {
+          "en": "naughty, mischievous, unruly"
+        },
+        "romaji": "wanpaku"
       },
       {
         "example": "鉄腕",
         "reading": "テツワン",
-        "meaning": "strong arm"
+        "meaning": {
+          "en": "strong arm"
+        },
+        "romaji": "tetsuwan"
       },
       {
         "example": "怪腕",
         "reading": "カイワン",
-        "meaning": "remarkable ability, amazing ability"
+        "meaning": {
+          "en": "remarkable ability, amazing ability"
+        },
+        "romaji": "kaiwan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腕",
         "reading": "うで",
-        "meaning": "arm, ability, skill, talent, competence, (physical) strength"
+        "meaning": {
+          "vi": "arm, ability, skill, talent, competence, (physical) strength"
+        },
+        "romaji": "ude"
       },
       {
         "example": "腕時計",
         "reading": "うでどけい",
-        "meaning": "wristwatch, watch"
+        "meaning": {
+          "en": "wristwatch, watch"
+        },
+        "romaji": "udedokei"
       },
       {
         "example": "細腕",
         "reading": "ほそうで",
-        "meaning": "thin arm, slender arm, slender means, meager ability to earn a living"
+        "meaning": {
+          "en": "thin arm, slender arm, slender means, meager ability to earn a living"
+        },
+        "romaji": "hosoude"
       },
       {
         "example": "太い腕",
         "reading": "ふというで",
-        "meaning": "big arm, brawny arm"
+        "meaning": {
+          "en": "big arm, brawny arm"
+        },
+        "romaji": "futoiude"
       }
     ],
     "radical": {
@@ -379,5 +403,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08155.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8155.gif",
     "uri": "https://jisho.org/search/%E8%85%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "oản",
+    "uyển"
+  ]
 }

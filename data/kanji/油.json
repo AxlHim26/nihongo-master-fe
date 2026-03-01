@@ -283,54 +283,84 @@
       {
         "example": "油井",
         "reading": "ユセイ",
-        "meaning": "oil well"
+        "meaning": {
+          "en": "oil well"
+        },
+        "romaji": "yusei"
       },
       {
         "example": "油彩",
         "reading": "ユサイ",
-        "meaning": "oil painting"
+        "meaning": {
+          "vi": "oil painting"
+        },
+        "romaji": "yusai"
       },
       {
         "example": "重油",
         "reading": "ジュウユ",
-        "meaning": "heavy oil, fuel oil"
+        "meaning": {
+          "en": "heavy oil, fuel oil"
+        },
+        "romaji": "juuyu"
       },
       {
         "example": "軽油",
         "reading": "ケイユ",
-        "meaning": "diesel oil, diesel fuel, gas oil, light oil"
+        "meaning": {
+          "en": "diesel oil, diesel fuel, gas oil, light oil"
+        },
+        "romaji": "keiyu"
       },
       {
         "example": "油色",
         "reading": "ユショク",
-        "meaning": "coating a painting with a layer of transparent oil"
+        "meaning": {
+          "vi": "coating a painting with a layer of transparent oil"
+        },
+        "romaji": "yushoku"
       },
       {
         "example": "油然",
         "reading": "ユウゼン",
-        "meaning": "gushingly, freely (welling up), copiously"
+        "meaning": {
+          "vi": "gushingly, freely (welling up), copiously"
+        },
+        "romaji": "yuuzen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "油",
         "reading": "あぶら",
-        "meaning": "oil"
+        "meaning": {
+          "en": "oil"
+        },
+        "romaji": "abura"
       },
       {
         "example": "油絵",
         "reading": "あぶらえ",
-        "meaning": "oil painting"
+        "meaning": {
+          "vi": "oil painting"
+        },
+        "romaji": "aburae"
       },
       {
         "example": "匂い油",
         "reading": "においあぶら",
-        "meaning": "perfumed hair oil"
+        "meaning": {
+          "vi": "perfumed hair oil"
+        },
+        "romaji": "nioiabura"
       },
       {
         "example": "機械油",
         "reading": "きかいあぶら",
-        "meaning": "machine oil"
+        "meaning": {
+          "en": "machine oil"
+        },
+        "romaji": "kikaiabura"
       }
     ],
     "radical": {
@@ -351,5 +381,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cb9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cb9.gif",
     "uri": "https://jisho.org/search/%E6%B2%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "du"
+  ]
 }

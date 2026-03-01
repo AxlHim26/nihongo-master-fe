@@ -17,22 +17,34 @@
       {
         "example": "債",
         "reading": "サイ",
-        "meaning": "debt, loan"
+        "meaning": {
+          "en": "debt, loan"
+        },
+        "romaji": "sai"
       },
       {
         "example": "債権",
         "reading": "サイケン",
-        "meaning": "credit, claim"
+        "meaning": {
+          "en": "credit, claim"
+        },
+        "romaji": "saiken"
       },
       {
         "example": "割引債",
         "reading": "ワリビキサイ",
-        "meaning": "discount bond"
+        "meaning": {
+          "en": "discount bond"
+        },
+        "romaji": "waribikisai"
       },
       {
         "example": "起債",
         "reading": "キサイ",
-        "meaning": "issuing of bonds"
+        "meaning": {
+          "en": "issuing of bonds"
+        },
+        "romaji": "kisai"
       }
     ],
     "kunyomiExamples": [],
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b5.gif",
     "uri": "https://jisho.org/search/%E5%82%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "trái"
+  ]
 }

@@ -20,12 +20,18 @@
       {
         "example": "敦厚",
         "reading": "トンコウ",
-        "meaning": "sincerity and kindheartedness, honesty and simplicity"
+        "meaning": {
+          "vi": "sincerity and kindheartedness, honesty and simplicity"
+        },
+        "romaji": "tonkou"
       },
       {
         "example": "敦朴",
         "reading": "トンボク",
-        "meaning": "honest and homely, simple"
+        "meaning": {
+          "vi": "honest and homely, simple"
+        },
+        "romaji": "tonboku"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60c7.gif",
     "uri": "https://jisho.org/search/%E6%83%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "đôn"
+  ]
 }

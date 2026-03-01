@@ -16,7 +16,10 @@
       {
         "example": "嚆矢",
         "reading": "コウシ",
-        "meaning": "whistling arrow used to signal the start of battle, start (e.g. of a movement), beginning, dawn"
+        "meaning": {
+          "en": "whistling arrow used to signal the start of battle, start (e.g. of a movement), beginning, dawn"
+        },
+        "romaji": "koushi"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05686.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5686.gif",
     "uri": "https://jisho.org/search/%E5%9A%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "hao"
+  ]
 }

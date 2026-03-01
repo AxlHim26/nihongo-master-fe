@@ -18,24 +18,36 @@
       {
         "example": "俯角",
         "reading": "フカク",
-        "meaning": "depression, angle of dip"
+        "meaning": {
+          "vi": "depression, angle of dip"
+        },
+        "romaji": "fukaku"
       },
       {
         "example": "俯瞰",
         "reading": "フカン",
-        "meaning": "overlooking, looking down at, having an overhead view, having a bird's-eye view, having a high-angle view"
+        "meaning": {
+          "en": "overlooking, looking down at, having an overhead view, having a bird's-eye view, having a high-angle view"
+        },
+        "romaji": "fukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "俯す",
         "reading": "ふす",
-        "meaning": "to lower (one's head, gaze, etc.)"
+        "meaning": {
+          "en": "to lower (one's head, gaze, etc.)"
+        },
+        "romaji": "fusu"
       },
       {
         "example": "俯く",
         "reading": "うつむく",
-        "meaning": "to hang one's head, to look down, to cast one's eyes downward"
+        "meaning": {
+          "en": "to hang one's head, to look down, to cast one's eyes downward"
+        },
+        "romaji": "utsumuku"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fef.gif",
     "uri": "https://jisho.org/search/%E4%BF%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "phủ"
+  ]
 }

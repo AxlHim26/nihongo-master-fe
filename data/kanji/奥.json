@@ -288,49 +288,76 @@
       {
         "example": "奥地",
         "reading": "オクチ",
-        "meaning": "interior, backwoods, hinterland, back regions"
+        "meaning": {
+          "en": "interior, backwoods, hinterland, back regions"
+        },
+        "romaji": "okuchi"
       },
       {
         "example": "奥義",
         "reading": "オウギ",
-        "meaning": "secret techniques (of an art or skill), inner mysteries, essence, quintessence, heart"
+        "meaning": {
+          "en": "secret techniques (of an art or skill), inner mysteries, essence, quintessence, heart"
+        },
+        "romaji": "ougi"
       },
       {
         "example": "最奥",
         "reading": "サイオウ",
-        "meaning": "deep inside, innermost place"
+        "meaning": {
+          "vi": "deep inside, innermost place"
+        },
+        "romaji": "saiou"
       },
       {
         "example": "内奥",
         "reading": "ナイオウ",
-        "meaning": "inner part, depths"
+        "meaning": {
+          "vi": "inner part, depths"
+        },
+        "romaji": "naiou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奥",
         "reading": "おく",
-        "meaning": "inner part, interior, back (of a drawer, one's throat, etc.), depths (e.g. of a forest), recesses (e.g. of a cave), heart, end (of a road, garden, etc.), living quarters (at the back of a house), inner room, recesses (of one's mind), bottom (of one's heart), behind (someone's words), mysteries (of an art)"
+        "meaning": {
+          "vi": "inner part, interior, back (of a drawer, one's throat, etc.), depths (e.g. of a forest), recesses (e.g. of a cave), heart, end (of a road, garden, etc.), living quarters (at the back of a house), inner room, recesses (of one's mind), bottom (of one's heart), behind (someone's words), mysteries (of an art)"
+        },
+        "romaji": "oku"
       },
       {
         "example": "奥地",
         "reading": "おくち",
-        "meaning": "interior, backwoods, hinterland, back regions"
+        "meaning": {
+          "en": "interior, backwoods, hinterland, back regions"
+        },
+        "romaji": "okuchi"
       },
       {
         "example": "山奥",
         "reading": "やまおく",
-        "meaning": "deep in the mountains, mountain recesses"
+        "meaning": {
+          "vi": "deep in the mountains, mountain recesses"
+        },
+        "romaji": "yamaoku"
       },
       {
         "example": "大奥",
         "reading": "おおおく",
-        "meaning": "inner palace (in Edo Castle), palace's ladies chambers, shogun's harem"
+        "meaning": {
+          "vi": "inner palace (in Edo Castle), palace's ladies chambers, shogun's harem"
+        },
+        "romaji": "oooku"
       },
       {
         "example": "奥まる",
         "reading": "おくまる",
-        "meaning": "to lie deep in, to extend far back"
+        "meaning": {
+          "vi": "to lie deep in, to extend far back"
+        },
+        "romaji": "okumaru"
       }
     ],
     "radical": {
@@ -346,5 +373,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05965.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5965.gif",
     "uri": "https://jisho.org/search/%E5%A5%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "áo",
+    "úc"
+  ]
 }

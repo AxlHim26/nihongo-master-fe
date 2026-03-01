@@ -352,22 +352,34 @@
       {
         "example": "資",
         "reading": "シ",
-        "meaning": "funds, capital, material, basis, character, qualities, disposition"
+        "meaning": {
+          "vi": "funds, capital, material, basis, character, qualities, disposition"
+        },
+        "romaji": "shi"
       },
       {
         "example": "資格",
         "reading": "シカク",
-        "meaning": "qualifications, requirements, capabilities"
+        "meaning": {
+          "vi": "qualifications, requirements, capabilities"
+        },
+        "romaji": "shikaku"
       },
       {
         "example": "増資",
         "reading": "ゾウシ",
-        "meaning": "increase of capital, issue of new shares"
+        "meaning": {
+          "vi": "increase of capital, issue of new shares"
+        },
+        "romaji": "zoushi"
       },
       {
         "example": "外資",
         "reading": "ガイシ",
-        "meaning": "foreign capital (e.g. in a company), foreign investment"
+        "meaning": {
+          "vi": "foreign capital (e.g. in a company), foreign investment"
+        },
+        "romaji": "gaishi"
       }
     ],
     "kunyomiExamples": [],
@@ -386,5 +398,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc7.gif",
     "uri": "https://jisho.org/search/%E8%B3%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

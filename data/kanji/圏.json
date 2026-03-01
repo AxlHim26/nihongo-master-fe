@@ -19,22 +19,34 @@
       {
         "example": "圏",
         "reading": "ケン",
-        "meaning": "sphere, circle, range, area, zone, bloc, category"
+        "meaning": {
+          "vi": "sphere, circle, range, area, zone, bloc, category"
+        },
+        "romaji": "ken"
       },
       {
         "example": "圏内",
         "reading": "ケンナイ",
-        "meaning": "inside (a region, area, etc.), within the range (of), within the sphere (of influence, etc.)"
+        "meaning": {
+          "vi": "inside (a region, area, etc.), within the range (of), within the sphere (of influence, etc.)"
+        },
+        "romaji": "kennai"
       },
       {
         "example": "成層圏",
         "reading": "セイソウケン",
-        "meaning": "stratosphere"
+        "meaning": {
+          "vi": "stratosphere"
+        },
+        "romaji": "seisouken"
       },
       {
         "example": "勢力圏",
         "reading": "セイリョクケン",
-        "meaning": "sphere of influence"
+        "meaning": {
+          "vi": "sphere of influence"
+        },
+        "romaji": "seiryokuken"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570f.gif",
     "uri": "https://jisho.org/search/%E5%9C%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuyên",
+    "quyển"
+  ]
 }

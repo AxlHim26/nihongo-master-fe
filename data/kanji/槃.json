@@ -16,12 +16,18 @@
       {
         "example": "涅槃",
         "reading": "ネハン",
-        "meaning": "nirvana, supreme enlightenment, death, death of Buddha"
+        "meaning": {
+          "vi": "nirvana, supreme enlightenment, death, death of Buddha"
+        },
+        "romaji": "nehan"
       },
       {
         "example": "般涅槃",
         "reading": "ハツネハン",
-        "meaning": "parinirvana, final release from the cycle of karma and rebirth"
+        "meaning": {
+          "vi": "parinirvana, final release from the cycle of karma and rebirth"
+        },
+        "romaji": "hatsunehan"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69c3.gif",
     "uri": "https://jisho.org/search/%E6%A7%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàn"
+  ]
 }

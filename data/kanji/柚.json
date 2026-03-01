@@ -20,49 +20,76 @@
       {
         "example": "柚子",
         "reading": "ユズ",
-        "meaning": "quả yuzu (cam Nhật)"
+        "meaning": {
+          "vi": "quả yuzu (cam Nhật)"
+        },
+        "romaji": "yuzu"
       },
       {
         "example": "柚香菊",
         "reading": "ユウガギク",
-        "meaning": "cúc Nhật, cúc giả"
+        "meaning": {
+          "vi": "cúc Nhật, cúc giả"
+        },
+        "romaji": "yuugagiku"
       },
       {
         "example": "晩白柚",
         "reading": "バンペイユ",
-        "meaning": "giống bưởi"
+        "meaning": {
+          "vi": "giống bưởi"
+        },
+        "romaji": "banpeiyu"
       },
       {
         "example": "青柚子",
         "reading": "アオユズ",
-        "meaning": "yuzu xanh, yuzu chưa chín"
+        "meaning": {
+          "vi": "yuzu xanh, yuzu chưa chín"
+        },
+        "romaji": "aoyuzu"
       },
       {
         "example": "柚子",
         "reading": "ユズ",
-        "meaning": "quả yuzu (cam Nhật)"
+        "meaning": {
+          "vi": "quả yuzu (cam Nhật)"
+        },
+        "romaji": "yuzu"
       },
       {
         "example": "柚香菊",
         "reading": "ユウガギク",
-        "meaning": "cúc Nhật, cúc giả"
+        "meaning": {
+          "vi": "cúc Nhật, cúc giả"
+        },
+        "romaji": "yuugagiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柚子",
         "reading": "ゆず",
-        "meaning": "quả yuzu (cam Nhật)"
+        "meaning": {
+          "vi": "quả yuzu (cam Nhật)"
+        },
+        "romaji": "yuzu"
       },
       {
         "example": "柚子胡椒",
         "reading": "ゆずこしょう",
-        "meaning": "tương gia vị từ vỏ yuzu và ớt"
+        "meaning": {
+          "vi": "tương gia vị từ vỏ yuzu và ớt"
+        },
+        "romaji": "yuzukoshou"
       },
       {
         "example": "青柚子",
         "reading": "あおゆず",
-        "meaning": "yuzu xanh, yuzu chưa chín"
+        "meaning": {
+          "vi": "yuzu xanh, yuzu chưa chín"
+        },
+        "romaji": "aoyuzu"
       }
     ],
     "radical": {
@@ -79,5 +106,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67da.gif",
     "uri": "https://jisho.org/search/%E6%9F%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "dữu",
+    "trục"
+  ]
 }

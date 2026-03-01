@@ -18,7 +18,10 @@
       {
         "example": "隣",
         "reading": "となり",
-        "meaning": "next (to), adjoining, adjacent, house next door, neighbouring house, next-door neighbour, next-door neighbor"
+        "meaning": {
+          "en": "next (to), adjoining, adjacent, house next door, neighbouring house, next-door neighbour, next-door neighbor"
+        },
+        "romaji": "tonari"
       }
     ],
     "radical": {
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09130.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9130.gif",
     "uri": "https://jisho.org/search/%E9%84%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "lân"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "旒",
         "reading": "リュウ",
-        "meaning": "counter for flags, banners, etc."
+        "meaning": {
+          "en": "counter for flags, banners, etc."
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "旗二流",
         "reading": "ハタニリュウ",
-        "meaning": "two flags"
+        "meaning": {
+          "en": "two flags"
+        },
+        "romaji": "hataniryuu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65d2.gif",
     "uri": "https://jisho.org/search/%E6%97%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "lưu"
+  ]
 }

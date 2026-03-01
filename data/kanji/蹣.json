@@ -17,14 +17,20 @@
       {
         "example": "蹣跚",
         "reading": "マンサン",
-        "meaning": "staggering, reeling, tottering"
+        "meaning": {
+          "en": "staggering, reeling, tottering"
+        },
+        "romaji": "mansan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蹌踉めく",
         "reading": "よろめく",
-        "meaning": "to stagger, to stumble, to totter, to reel, to waver, to be in two minds, to fall (for someone), to have an affair (with)"
+        "meaning": {
+          "en": "to stagger, to stumble, to totter, to reel, to waver, to be in two minds, to fall (for someone), to have an affair (with)"
+        },
+        "romaji": "yoromeku"
       }
     ],
     "radical": {
@@ -47,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e63.gif",
     "uri": "https://jisho.org/search/%E8%B9%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàn",
+    "man"
+  ]
 }

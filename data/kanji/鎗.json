@@ -18,7 +18,10 @@
       {
         "example": "槍",
         "reading": "やり",
-        "meaning": "spear, lance, javelin, lance, jeering"
+        "meaning": {
+          "vi": "spear, lance, javelin, lance, jeering"
+        },
+        "romaji": "yari"
       }
     ],
     "radical": {
@@ -39,5 +42,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09397.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9397.gif",
     "uri": "https://jisho.org/search/%E9%8E%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "sang",
+    "sanh",
+    "thương"
+  ]
 }

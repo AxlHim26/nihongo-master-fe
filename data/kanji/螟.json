@@ -17,19 +17,28 @@
       {
         "example": "螟蛾",
         "reading": "メイガ",
-        "meaning": "pyralid (any moth of family Pyralidae, many of which have larvae that devour foodstuffs)"
+        "meaning": {
+          "vi": "pyralid (any moth of family Pyralidae, many of which have larvae that devour foodstuffs)"
+        },
+        "romaji": "meiga"
       },
       {
         "example": "螟虫",
         "reading": "ズイムシ",
-        "meaning": "pyralid larva, borer"
+        "meaning": {
+          "vi": "pyralid larva, borer"
+        },
+        "romaji": "zuimushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "螟虫",
         "reading": "ずいむし",
-        "meaning": "pyralid larva, borer"
+        "meaning": {
+          "vi": "pyralid larva, borer"
+        },
+        "romaji": "zuimushi"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0879f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/879f.gif",
     "uri": "https://jisho.org/search/%E8%9E%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "minh"
+  ]
 }

@@ -20,22 +20,34 @@
       {
         "example": "峡谷",
         "reading": "キョウコク",
-        "meaning": "gorge, ravine, canyon, glen"
+        "meaning": {
+          "en": "gorge, ravine, canyon, glen"
+        },
+        "romaji": "kyoukoku"
       },
       {
         "example": "峡間",
         "reading": "キョウカン",
-        "meaning": "between the mountains"
+        "meaning": {
+          "en": "between the mountains"
+        },
+        "romaji": "kyoukan"
       },
       {
         "example": "国際海峡",
         "reading": "コクサイカイキョウ",
-        "meaning": "international strait"
+        "meaning": {
+          "en": "international strait"
+        },
+        "romaji": "kokusaikaikyou"
       },
       {
         "example": "イギリス海峡",
         "reading": "イギリスカイキョウ",
-        "meaning": "English Channel"
+        "meaning": {
+          "en": "English Channel"
+        },
+        "romaji": "igirisukaikyou"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ce1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ce1.gif",
     "uri": "https://jisho.org/search/%E5%B3%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "giáp",
+    "hiệp",
+    "hạp"
+  ]
 }

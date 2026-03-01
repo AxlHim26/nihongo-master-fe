@@ -19,7 +19,10 @@
       {
         "example": "鬩ぐ",
         "reading": "せめぐ",
-        "meaning": "to be mutually bitter, to argue together, to quarrel, to resent and bemoan"
+        "meaning": {
+          "en": "to be mutually bitter, to argue together, to quarrel, to resent and bemoan"
+        },
+        "romaji": "semegu"
       }
     ],
     "radical": {
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b29.gif",
     "uri": "https://jisho.org/search/%E9%AC%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "huých"
+  ]
 }

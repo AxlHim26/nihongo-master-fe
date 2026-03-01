@@ -349,39 +349,60 @@
       {
         "example": "挙",
         "reading": "キョ",
-        "meaning": "hành động, hành vi, cử chỉ, đề cử (người vào chức vụ)"
+        "meaning": {
+          "vi": "hành động, hành vi, cử chỉ, đề cử (người vào chức vụ)"
+        },
+        "romaji": "kyo"
       },
       {
         "example": "挙式",
         "reading": "キョシキ",
-        "meaning": "tổ chức lễ, lễ cưới"
+        "meaning": {
+          "vi": "tổ chức lễ, lễ cưới"
+        },
+        "romaji": "kyoshiki"
       },
       {
         "example": "暴挙",
         "reading": "ボウキョ",
-        "meaning": "bạo lực, hành động liều lĩnh, tàn bạo"
+        "meaning": {
+          "vi": "bạo lực, hành động liều lĩnh, tàn bạo"
+        },
+        "romaji": "boukyo"
       },
       {
         "example": "快挙",
         "reading": "カイキョ",
-        "meaning": "thành tích xuất sắc, kỳ tích, thành tựu đáng kể"
+        "meaning": {
+          "vi": "thành tích xuất sắc, kỳ tích, thành tựu đáng kể"
+        },
+        "romaji": "kaikyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "上げる",
         "reading": "あげる",
-        "meaning": "nâng lên, thắt tóc, thả (diều), phóng (pháo hoa), nổi (tàu ngầm), cập bến, rán, dẫn (vào phòng), đưa, ghi danh, tăng (giá, chất lượng...), phát triển (tài năng), cải thiện, nói to, kiếm được, khen, nêu (ví dụ), trích dẫn, tập trung (sức), bắt giữ, đề cử, dâng (hương, cầu nguyện), sinh (con), tổ chức (lễ cưới), thủy triều lên, nôn, làm thay, hoàn thành"
+        "meaning": {
+          "vi": "nâng lên, thắt tóc, thả (diều), phóng (pháo hoa), nổi (tàu ngầm), cập bến, rán, dẫn (vào phòng), đưa, ghi danh, tăng (giá, chất lượng...), phát triển (tài năng), cải thiện, nói to, kiếm được, khen, nêu (ví dụ), trích dẫn, tập trung (sức), bắt giữ, đề cử, dâng (hương, cầu nguyện), sinh (con), tổ chức (lễ cưới), thủy triều lên, nôn, làm thay, hoàn thành"
+        },
+        "romaji": "ageru"
       },
       {
         "example": "上がる",
         "reading": "あがる",
-        "meaning": "lên, đi lên, vào (từ ngoài), vào (trường), lên lớp, lên bờ, tăng, cải thiện, thăng tiến, có lãi, xảy ra (kết quả tốt), đủ (chi phí), xong, tạnh (mưa), hỏng (máy), chết, thắng (bài), bị bắt, xuất hiện (bằng chứng), bị rán, nói to, hồi hộp, dâng (thần), đi, thăm, ăn, uống, được đề cử, phục vụ, hoàn thành, phía bắc"
+        "meaning": {
+          "vi": "lên, đi lên, vào (từ ngoài), vào (trường), lên lớp, lên bờ, tăng, cải thiện, thăng tiến, có lãi, xảy ra (kết quả tốt), đủ (chi phí), xong, tạnh (mưa), hỏng (máy), chết, thắng (bài), bị bắt, xuất hiện (bằng chứng), bị rán, nói to, hồi hộp, dâng (thần), đi, thăm, ăn, uống, được đề cử, phục vụ, hoàn thành, phía bắc"
+        },
+        "romaji": "agaru"
       },
       {
         "example": "挙る",
         "reading": "こぞる",
-        "meaning": "tụ họp tất cả, làm gì đó theo nhóm"
+        "meaning": {
+          "vi": "tụ họp tất cả, làm gì đó theo nhóm"
+        },
+        "romaji": "kozoru"
       }
     ],
     "radical": {
@@ -400,5 +421,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06319.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6319.gif",
     "uri": "https://jisho.org/search/%E6%8C%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "cử"
+  ]
 }

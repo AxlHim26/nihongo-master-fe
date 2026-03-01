@@ -16,7 +16,10 @@
       {
         "example": "譲位",
         "reading": "ジョウイ",
-        "meaning": "abdication"
+        "meaning": {
+          "en": "abdication"
+        },
+        "romaji": "joui"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b93.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b93.gif",
     "uri": "https://jisho.org/search/%E8%AE%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhượng"
+  ]
 }

@@ -325,22 +325,34 @@
       {
         "example": "談",
         "reading": "ダン",
-        "meaning": "nói chuyện, câu chuyện"
+        "meaning": {
+          "vi": "nói chuyện, câu chuyện"
+        },
+        "romaji": "dan"
       },
       {
         "example": "談合",
         "reading": "ダンゴウ",
-        "meaning": "thông đồng đấu thầu, thảo luận"
+        "meaning": {
+          "vi": "thông đồng đấu thầu, thảo luận"
+        },
+        "romaji": "dangou"
       },
       {
         "example": "示談",
         "reading": "ジダン",
-        "meaning": "dàn xếp ngoài tòa"
+        "meaning": {
+          "vi": "dàn xếp ngoài tòa"
+        },
+        "romaji": "jidan"
       },
       {
         "example": "講談",
         "reading": "コウダン",
-        "meaning": "kể chuyện (chiến tích, trả thù...), câu chuyện"
+        "meaning": {
+          "vi": "kể chuyện (chiến tích, trả thù...), câu chuyện"
+        },
+        "romaji": "koudan"
       }
     ],
     "kunyomiExamples": [],
@@ -359,5 +371,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ac7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ac7.gif",
     "uri": "https://jisho.org/search/%E8%AB%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàm"
+  ]
 }

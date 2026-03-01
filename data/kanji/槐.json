@@ -16,19 +16,28 @@
       {
         "example": "槐樹",
         "reading": "カイジュ",
-        "meaning": "Japanese pagoda tree (Sophora japonica)"
+        "meaning": {
+          "vi": "Japanese pagoda tree (Sophora japonica)"
+        },
+        "romaji": "kaiju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "槐",
         "reading": "えんじゅ",
-        "meaning": "Japanese pagoda tree (Sophora japonica)"
+        "meaning": {
+          "vi": "Japanese pagoda tree (Sophora japonica)"
+        },
+        "romaji": "enju"
       },
       {
         "example": "針槐",
         "reading": "はりえんじゅ",
-        "meaning": "black locust, robinia pseudoacacia"
+        "meaning": {
+          "vi": "black locust, robinia pseudoacacia"
+        },
+        "romaji": "harienju"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069d0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69d0.gif",
     "uri": "https://jisho.org/search/%E6%A7%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoè"
+  ]
 }

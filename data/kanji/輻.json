@@ -16,19 +16,28 @@
       {
         "example": "輻射",
         "reading": "フクシャ",
-        "meaning": "radiation"
+        "meaning": {
+          "en": "radiation"
+        },
+        "romaji": "fukusha"
       },
       {
         "example": "輻射エネルギー",
         "reading": "フクシャエネルギー",
-        "meaning": "radiant energy"
+        "meaning": {
+          "en": "radiant energy"
+        },
+        "romaji": "fukushaenerugii"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輻",
         "reading": "や",
-        "meaning": "spoke"
+        "meaning": {
+          "vi": "spoke"
+        },
+        "romaji": "ya"
       }
     ],
     "radical": {
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3b.gif",
     "uri": "https://jisho.org/search/%E8%BC%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "bức",
+    "phúc"
+  ]
 }

@@ -21,44 +21,68 @@
       {
         "example": "暁星",
         "reading": "ギョウセイ",
-        "meaning": "morning star, Venus, rarity"
+        "meaning": {
+          "en": "morning star, Venus, rarity"
+        },
+        "romaji": "gyousei"
       },
       {
         "example": "暁鴉",
         "reading": "ギョウア",
-        "meaning": "crow cawing in the morning, crows crying in the morning"
+        "meaning": {
+          "en": "crow cawing in the morning, crows crying in the morning"
+        },
+        "romaji": "gyoua"
       },
       {
         "example": "早暁",
         "reading": "ソウギョウ",
-        "meaning": "daybreak, dawn"
+        "meaning": {
+          "en": "daybreak, dawn"
+        },
+        "romaji": "sougyou"
       },
       {
         "example": "通暁",
         "reading": "ツウギョウ",
-        "meaning": "well versed, thorough knowledge"
+        "meaning": {
+          "en": "well versed, thorough knowledge"
+        },
+        "romaji": "tsuugyou"
       },
       {
         "example": "払暁",
         "reading": "フツギョウ",
-        "meaning": "dawn, daybreak"
+        "meaning": {
+          "en": "dawn, daybreak"
+        },
+        "romaji": "futsugyou"
       },
       {
         "example": "寒暁",
         "reading": "カンギョウ",
-        "meaning": "cold winter dawn"
+        "meaning": {
+          "en": "cold winter dawn"
+        },
+        "romaji": "kangyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暁",
         "reading": "あかつき",
-        "meaning": "dawn, daybreak, event (e.g. \"in the event of ...\"), occasion, occurrence"
+        "meaning": {
+          "en": "dawn, daybreak, event (e.g. \"in the event of ...\"), occasion, occurrence"
+        },
+        "romaji": "akatsuki"
       },
       {
         "example": "暁起き",
         "reading": "あかつきおき",
-        "meaning": "waking up just before daybreak"
+        "meaning": {
+          "vi": "waking up just before daybreak"
+        },
+        "romaji": "akatsukioki"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06681.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6681.gif",
     "uri": "https://jisho.org/search/%E6%9A%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiểu"
+  ]
 }

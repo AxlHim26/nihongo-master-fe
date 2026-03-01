@@ -18,34 +18,52 @@
       {
         "example": "唐",
         "reading": "トウ",
-        "meaning": "Tang dynasty (of China; 618-907), T'ang dynasty, China, foreign country"
+        "meaning": {
+          "en": "Tang dynasty (of China; 618-907), T'ang dynasty, China, foreign country"
+        },
+        "romaji": "tou"
       },
       {
         "example": "唐土",
         "reading": "モロコシ",
-        "meaning": "China, Chinese"
+        "meaning": {
+          "en": "China, Chinese"
+        },
+        "romaji": "morokoshi"
       },
       {
         "example": "頽唐",
         "reading": "タイトウ",
-        "meaning": "decadence, decline"
+        "meaning": {
+          "en": "decadence, decline"
+        },
+        "romaji": "taitou"
       },
       {
         "example": "後唐",
         "reading": "コウトウ",
-        "meaning": "Later Tang dynasty (of China; 923-937), Later T'ang dynasty"
+        "meaning": {
+          "en": "Later Tang dynasty (of China; 923-937), Later T'ang dynasty"
+        },
+        "romaji": "koutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唐",
         "reading": "から",
-        "meaning": "China (sometimes also used in ref. to Korea or other foreign countries)"
+        "meaning": {
+          "en": "China (sometimes also used in ref. to Korea or other foreign countries)"
+        },
+        "romaji": "kara"
       },
       {
         "example": "空手",
         "reading": "からて",
-        "meaning": "karate, being empty-handed, having nothing in one's hands"
+        "meaning": {
+          "vi": "karate, being empty-handed, having nothing in one's hands"
+        },
+        "romaji": "karate"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05510.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5510.gif",
     "uri": "https://jisho.org/search/%E5%94%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "đường"
+  ]
 }

@@ -19,7 +19,10 @@
       {
         "example": "傴僂",
         "reading": "せむし",
-        "meaning": "hunchback, humpback, crookback, rickets"
+        "meaning": {
+          "vi": "hunchback, humpback, crookback, rickets"
+        },
+        "romaji": "semushi"
       }
     ],
     "radical": {
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b4.gif",
     "uri": "https://jisho.org/search/%E5%82%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "ủ"
+  ]
 }

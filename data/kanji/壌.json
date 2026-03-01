@@ -19,17 +19,26 @@
       {
         "example": "壌土",
         "reading": "ジョウド",
-        "meaning": "soil, loamy soil, loam, soil with clay content of 25-37.5%"
+        "meaning": {
+          "en": "soil, loamy soil, loam, soil with clay content of 25-37.5%"
+        },
+        "romaji": "joudo"
       },
       {
         "example": "平壌",
         "reading": "ピョンヤン",
-        "meaning": "Pyongyang (North Korea)"
+        "meaning": {
+          "vi": "Pyongyang (North Korea)"
+        },
+        "romaji": "pyon'yan"
       },
       {
         "example": "黄壌",
         "reading": "コウジョウ",
-        "meaning": "yellow soil, loess, Hades, hell, underworld, world of the dead"
+        "meaning": {
+          "en": "yellow soil, loess, Hades, hell, underworld, world of the dead"
+        },
+        "romaji": "koujou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58cc.gif",
     "uri": "https://jisho.org/search/%E5%A3%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhưỡng"
+  ]
 }

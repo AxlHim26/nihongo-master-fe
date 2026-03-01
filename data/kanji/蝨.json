@@ -17,12 +17,18 @@
       {
         "example": "虱",
         "reading": "しらみ",
-        "meaning": "louse (esp. a sucking louse), lice"
+        "meaning": {
+          "vi": "louse (esp. a sucking louse), lice"
+        },
+        "romaji": "shirami"
       },
       {
         "example": "虱潰し",
         "reading": "しらみつぶし",
-        "meaning": "very thorough search (for contraband, escaped convict, etc.), fine-tooth-comb search, exhaustive search, scouring"
+        "meaning": {
+          "vi": "very thorough search (for contraband, escaped convict, etc.), fine-tooth-comb search, exhaustive search, scouring"
+        },
+        "romaji": "shiramitsubushi"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08768.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8768.gif",
     "uri": "https://jisho.org/search/%E8%9D%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "sắt"
+  ]
 }

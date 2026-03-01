@@ -279,39 +279,60 @@
       {
         "example": "即",
         "reading": "ソク",
-        "meaning": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability"
+        "meaning": {
+          "vi": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability"
+        },
+        "romaji": "soku"
       },
       {
         "example": "即位",
         "reading": "ソクイ",
-        "meaning": "accession to the throne, enthronement"
+        "meaning": {
+          "en": "accession to the throne, enthronement"
+        },
+        "romaji": "sokui"
       },
       {
         "example": "相即",
         "reading": "ソウソク",
-        "meaning": "coming together and dissolving into oneness, being closely related, being inseparable"
+        "meaning": {
+          "vi": "coming together and dissolving into oneness, being closely related, being inseparable"
+        },
+        "romaji": "sousoku"
       },
       {
         "example": "即即",
         "reading": "ソクソク",
-        "meaning": "immediate sex (without taking a shower first)"
+        "meaning": {
+          "en": "immediate sex (without taking a shower first)"
+        },
+        "romaji": "sokusoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "就く",
         "reading": "つく",
-        "meaning": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+        "meaning": {
+          "vi": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+        },
+        "romaji": "tsuku"
       },
       {
         "example": "就ける",
         "reading": "つける",
-        "meaning": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+        "meaning": {
+          "vi": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+        },
+        "romaji": "tsukeru"
       },
       {
         "example": "即ち",
         "reading": "すなわち",
-        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        "meaning": {
+          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        },
+        "romaji": "sunawachi"
       }
     ],
     "radical": {
@@ -326,5 +347,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05373.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5373.gif",
     "uri": "https://jisho.org/search/%E5%8D%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tức"
+  ]
 }

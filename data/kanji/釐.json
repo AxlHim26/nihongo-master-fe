@@ -18,34 +18,52 @@
       {
         "example": "厘",
         "reading": "リン",
-        "meaning": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
+        "meaning": {
+          "vi": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
+        },
+        "romaji": "rin"
       },
       {
         "example": "毫釐",
         "reading": "ゴウリ",
-        "meaning": "very small quantity"
+        "meaning": {
+          "en": "very small quantity"
+        },
+        "romaji": "gouri"
       },
       {
         "example": "銚釐",
         "reading": "チロリ",
-        "meaning": "metal sake jug, sake warmer"
+        "meaning": {
+          "en": "metal sake jug, sake warmer"
+        },
+        "romaji": "chirori"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厘",
         "reading": "りん",
-        "meaning": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
+        "meaning": {
+          "vi": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
+        },
+        "romaji": "rin"
       },
       {
         "example": "毫釐",
         "reading": "ごうり",
-        "meaning": "very small quantity"
+        "meaning": {
+          "en": "very small quantity"
+        },
+        "romaji": "gouri"
       },
       {
         "example": "分厘",
         "reading": "ふんりん",
-        "meaning": "(not) in the least, (not) a bit"
+        "meaning": {
+          "en": "(not) in the least, (not) a bit"
+        },
+        "romaji": "funrin"
       }
     ],
     "radical": {
@@ -66,5 +84,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091d0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91d0.gif",
     "uri": "https://jisho.org/search/%E9%87%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "hi",
+    "hy",
+    "li",
+    "ly"
+  ]
 }

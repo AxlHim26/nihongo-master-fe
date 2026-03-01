@@ -283,29 +283,44 @@
       {
         "example": "器皿",
         "reading": "キベイ",
-        "meaning": "bowl, plate, dish"
+        "meaning": {
+          "vi": "bowl, plate, dish"
+        },
+        "romaji": "kibei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "皿",
         "reading": "さら",
-        "meaning": "plate, dish, platter, disc, serving, helping, course, kanji radical 108 (at the bottom)"
+        "meaning": {
+          "vi": "plate, dish, platter, disc, serving, helping, course, kanji radical 108 (at the bottom)"
+        },
+        "romaji": "sara"
       },
       {
         "example": "皿洗い",
         "reading": "さらあらい",
-        "meaning": "washing-up, dish-washing"
+        "meaning": {
+          "vi": "washing-up, dish-washing"
+        },
+        "romaji": "saraarai"
       },
       {
         "example": "聖体皿",
         "reading": "せいたいさら",
-        "meaning": "paten"
+        "meaning": {
+          "vi": "paten"
+        },
+        "romaji": "seitaisara"
       },
       {
         "example": "二皿",
         "reading": "ふたさら",
-        "meaning": "two plates, two helpings, two servings"
+        "meaning": {
+          "vi": "two plates, two helpings, two servings"
+        },
+        "romaji": "futasara"
       }
     ],
     "radical": {
@@ -319,5 +334,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076bf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76bf.gif",
     "uri": "https://jisho.org/search/%E7%9A%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "mãnh",
+    "mẫn"
+  ]
 }

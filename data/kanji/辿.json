@@ -18,12 +18,18 @@
       {
         "example": "辿る",
         "reading": "たどる",
-        "meaning": "to follow (a road, path, etc.), to trace, to follow (a clue, scent, tracks, plot, etc.), to trace (a route, history, family tree, etc.), to retrace (e.g. one's memory), to search, to go over, to head towards (of a situation), to go in the direction of, to take (a course), to pursue (a path), to meet (a fate)"
+        "meaning": {
+          "vi": "to follow (a road, path, etc.), to trace, to follow (a clue, scent, tracks, plot, etc.), to trace (a route, history, family tree, etc.), to retrace (e.g. one's memory), to search, to go over, to head towards (of a situation), to go in the direction of, to take (a course), to pursue (a path), to meet (a fate)"
+        },
+        "romaji": "tadoru"
       },
       {
         "example": "たどり着く",
         "reading": "たどりつく",
-        "meaning": "to (finally) arrive at, to reach (at last), to (manage to) get to, to find one's way to"
+        "meaning": {
+          "en": "to (finally) arrive at, to reach (at last), to (manage to) get to, to find one's way to"
+        },
+        "romaji": "tadoritsuku"
       }
     ],
     "radical": {
@@ -43,5 +49,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbf.gif",
     "uri": "https://jisho.org/search/%E8%BE%BF%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

@@ -14,22 +14,34 @@
       {
         "example": "鑞",
         "reading": "ロウ",
-        "meaning": "solder"
+        "meaning": {
+          "en": "solder"
+        },
+        "romaji": "rou"
       },
       {
         "example": "ろう付け",
         "reading": "ロウヅケ",
-        "meaning": "brazing"
+        "meaning": {
+          "en": "brazing"
+        },
+        "romaji": "rouzuke"
       },
       {
         "example": "硬鑞",
         "reading": "コウロウ",
-        "meaning": "hard solder"
+        "meaning": {
+          "en": "hard solder"
+        },
+        "romaji": "kourou"
       },
       {
         "example": "真鍮鑞",
         "reading": "シンチュウロウ",
-        "meaning": "type of alloy of copper and zinc (brass) with zinc at about 33-67% used to solder metals like copper and iron"
+        "meaning": {
+          "vi": "type of alloy of copper and zinc (brass) with zinc at about 33-67% used to solder metals like copper and iron"
+        },
+        "romaji": "shinchuurou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0945e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/945e.gif",
     "uri": "https://jisho.org/search/%E9%91%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạp"
+  ]
 }

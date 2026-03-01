@@ -16,12 +16,18 @@
       {
         "example": "榊",
         "reading": "さかき",
-        "meaning": "sakaki (species of evergreen sacred to Shinto, Cleyera japonica), evergreen (esp. one planted or used at a shrine)"
+        "meaning": {
+          "vi": "sakaki (species of evergreen sacred to Shinto, Cleyera japonica), evergreen (esp. one planted or used at a shrine)"
+        },
+        "romaji": "sakaki"
       },
       {
         "example": "真榊",
         "reading": "まさかき",
-        "meaning": "evergreen (esp. one planted or used at a shrine)"
+        "meaning": {
+          "vi": "evergreen (esp. one planted or used at a shrine)"
+        },
+        "romaji": "masakaki"
       }
     ],
     "radical": {
@@ -39,5 +45,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0698a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/698a.gif",
     "uri": "https://jisho.org/search/%E6%A6%8A%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

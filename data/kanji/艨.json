@@ -17,7 +17,10 @@
       {
         "example": "艨艟",
         "reading": "モウドウ",
-        "meaning": "chiến hạm"
+        "meaning": {
+          "vi": "chiến hạm"
+        },
+        "romaji": "moudou"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08268.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8268.gif",
     "uri": "https://jisho.org/search/%E8%89%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "mông"
+  ]
 }

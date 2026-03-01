@@ -226,59 +226,92 @@
       {
         "example": "蚕糸",
         "reading": "サンシ",
-        "meaning": "silk thread, silk yarn"
+        "meaning": {
+          "en": "silk thread, silk yarn"
+        },
+        "romaji": "sanshi"
       },
       {
         "example": "蚕業",
         "reading": "サンギョウ",
-        "meaning": "sericulture"
+        "meaning": {
+          "en": "sericulture"
+        },
+        "romaji": "sangyou"
       },
       {
         "example": "養蚕",
         "reading": "ヨウサン",
-        "meaning": "sericulture, silkworm culture, silkworm raising"
+        "meaning": {
+          "en": "sericulture, silkworm culture, silkworm raising"
+        },
+        "romaji": "yousan"
       },
       {
         "example": "秋蚕",
         "reading": "シュウサン",
-        "meaning": "autumn silkworms, fall silkworms"
+        "meaning": {
+          "en": "autumn silkworms, fall silkworms"
+        },
+        "romaji": "shuusan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蚕",
         "reading": "かいこ",
-        "meaning": "silkworm (Bombyx mori)"
+        "meaning": {
+          "en": "silkworm (Bombyx mori)"
+        },
+        "romaji": "kaiko"
       },
       {
         "example": "蚕蛾",
         "reading": "かいこが",
-        "meaning": "silkworm moth, silk moth (Bombyx mori)"
+        "meaning": {
+          "en": "silkworm moth, silk moth (Bombyx mori)"
+        },
+        "romaji": "kaikoga"
       },
       {
         "example": "三眠蚕",
         "reading": "さんみんかいこ",
-        "meaning": "three-molt silkworm"
+        "meaning": {
+          "en": "three-molt silkworm"
+        },
+        "romaji": "sanminkaiko"
       },
       {
         "example": "蚕糞",
         "reading": "こくそ",
-        "meaning": "silkworm droppings"
+        "meaning": {
+          "vi": "silkworm droppings"
+        },
+        "romaji": "kokuso"
       },
       {
         "example": "蚕玉",
         "reading": "こだま",
-        "meaning": "guardian deity of silkworms"
+        "meaning": {
+          "en": "guardian deity of silkworms"
+        },
+        "romaji": "kodama"
       },
       {
         "example": "三眠蚕",
         "reading": "さんみんかいこ",
-        "meaning": "three-molt silkworm"
+        "meaning": {
+          "en": "three-molt silkworm"
+        },
+        "romaji": "sanminkaiko"
       },
       {
         "example": "桑蚕",
         "reading": "くわこ",
-        "meaning": "wild silkworm moth (Bombyx mandarina)"
+        "meaning": {
+          "en": "wild silkworm moth (Bombyx mandarina)"
+        },
+        "romaji": "kuwako"
       }
     ],
     "radical": {
@@ -295,5 +328,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08695.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8695.gif",
     "uri": "https://jisho.org/search/%E8%9A%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "tàm",
+    "tằm"
+  ]
 }

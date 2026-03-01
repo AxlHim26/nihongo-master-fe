@@ -231,44 +231,68 @@
       {
         "example": "猫額",
         "reading": "ビョウガク",
-        "meaning": "(as small as a) cat's forehead"
+        "meaning": {
+          "en": "(as small as a) cat's forehead"
+        },
+        "romaji": "byougaku"
       },
       {
         "example": "猫額大",
         "reading": "ビョウガクダイ",
-        "meaning": "tiny"
+        "meaning": {
+          "en": "tiny"
+        },
+        "romaji": "byougakudai"
       },
       {
         "example": "怪猫",
         "reading": "カイビョウ",
-        "meaning": "monster cat, cat with magical powers"
+        "meaning": {
+          "vi": "monster cat, cat with magical powers"
+        },
+        "romaji": "kaibyou"
       },
       {
         "example": "成猫",
         "reading": "セイビョウ",
-        "meaning": "adult cat, fully-grown cat"
+        "meaning": {
+          "en": "adult cat, fully-grown cat"
+        },
+        "romaji": "seibyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "猫",
         "reading": "ねこ",
-        "meaning": "cat (esp. the domestic cat, Felis catus), shamisen, geisha, wheelbarrow, clay bed-warmer, bottom (submissive partner of a homosexual relationship)"
+        "meaning": {
+          "vi": "cat (esp. the domestic cat, Felis catus), shamisen, geisha, wheelbarrow, clay bed-warmer, bottom (submissive partner of a homosexual relationship)"
+        },
+        "romaji": "neko"
       },
       {
         "example": "猫",
         "reading": "ねこま",
-        "meaning": "cat"
+        "meaning": {
+          "en": "cat"
+        },
+        "romaji": "nekoma"
       },
       {
         "example": "野良猫",
         "reading": "のらねこ",
-        "meaning": "stray cat, alley cat"
+        "meaning": {
+          "en": "stray cat, alley cat"
+        },
+        "romaji": "noraneko"
       },
       {
         "example": "山猫",
         "reading": "やまねこ",
-        "meaning": "wildcat (European wildcat, Iriomote cat, Tsushima cat, etc.), wild cat, stray cat"
+        "meaning": {
+          "vi": "wildcat (European wildcat, Iriomote cat, Tsushima cat, etc.), wild cat, stray cat"
+        },
+        "romaji": "yamaneko"
       }
     ],
     "radical": {
@@ -287,5 +311,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0732b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/732b.gif",
     "uri": "https://jisho.org/search/%E7%8C%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "miêu"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "憶測",
         "reading": "オクソク",
-        "meaning": "guess, speculation, supposition"
+        "meaning": {
+          "vi": "guess, speculation, supposition"
+        },
+        "romaji": "okusoku"
       },
       {
         "example": "臆病",
         "reading": "オクビョウ",
-        "meaning": "cowardly, timid, easily frightened"
+        "meaning": {
+          "en": "cowardly, timid, easily frightened"
+        },
+        "romaji": "okubyou"
       },
       {
         "example": "剛臆",
         "reading": "ゴウオク",
-        "meaning": "bravery and cowardice"
+        "meaning": {
+          "en": "bravery and cowardice"
+        },
+        "romaji": "gouoku"
       },
       {
         "example": "胸臆",
         "reading": "キョウオク",
-        "meaning": "one's inmost thoughts (feelings)"
+        "meaning": {
+          "en": "one's inmost thoughts (feelings)"
+        },
+        "romaji": "kyouoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "臆する",
         "reading": "おくする",
-        "meaning": "to be hesitant, to feel timid"
+        "meaning": {
+          "en": "to be hesitant, to feel timid"
+        },
+        "romaji": "okusuru"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c6.gif",
     "uri": "https://jisho.org/search/%E8%87%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "ức"
+  ]
 }

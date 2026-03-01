@@ -18,7 +18,10 @@
       {
         "example": "奥",
         "reading": "オク",
-        "meaning": "inner part, interior, back (of a drawer, one's throat, etc.), depths (e.g. of a forest), recesses (e.g. of a cave), heart, end (of a road, garden, etc.), living quarters (at the back of a house), inner room, recesses (of one's mind), bottom (of one's heart), behind (someone's words), mysteries (of an art)"
+        "meaning": {
+          "vi": "inner part, interior, back (of a drawer, one's throat, etc.), depths (e.g. of a forest), recesses (e.g. of a cave), heart, end (of a road, garden, etc.), living quarters (at the back of a house), inner room, recesses (of one's mind), bottom (of one's heart), behind (someone's words), mysteries (of an art)"
+        },
+        "romaji": "oku"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05967.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5967.gif",
     "uri": "https://jisho.org/search/%E5%A5%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "áo",
+    "úc"
+  ]
 }

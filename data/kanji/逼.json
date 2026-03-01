@@ -21,7 +21,10 @@
       {
         "example": "迫る",
         "reading": "せまる",
-        "meaning": "to approach, to draw near, to be imminent, to press (someone for something), to urge, to compel"
+        "meaning": {
+          "vi": "to approach, to draw near, to be imminent, to press (someone for something), to urge, to compel"
+        },
+        "romaji": "semaru"
       }
     ],
     "radical": {
@@ -43,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0903c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/903c.gif",
     "uri": "https://jisho.org/search/%E9%80%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "bức"
+  ]
 }

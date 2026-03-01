@@ -340,44 +340,68 @@
       {
         "example": "罪",
         "reading": "ザイ",
-        "meaning": "crime"
+        "meaning": {
+          "en": "crime"
+        },
+        "romaji": "zai"
       },
       {
         "example": "罪悪",
         "reading": "ザイアク",
-        "meaning": "crime, sin, vice"
+        "meaning": {
+          "en": "crime, sin, vice"
+        },
+        "romaji": "zaiaku"
       },
       {
         "example": "同罪",
         "reading": "ドウザイ",
-        "meaning": "same crime, being equally guilty, bearing the same amount of responsibility"
+        "meaning": {
+          "vi": "same crime, being equally guilty, bearing the same amount of responsibility"
+        },
+        "romaji": "douzai"
       },
       {
         "example": "功罪",
         "reading": "コウザイ",
-        "meaning": "merits and demerits, good points and bad points, strengths and weaknesses"
+        "meaning": {
+          "vi": "merits and demerits, good points and bad points, strengths and weaknesses"
+        },
+        "romaji": "kouzai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "罪",
         "reading": "つみ",
-        "meaning": "crime, sin, wrongdoing, indiscretion, penalty, sentence, punishment, fault, responsibility, culpability, thoughtlessness, lack of consideration"
+        "meaning": {
+          "vi": "crime, sin, wrongdoing, indiscretion, penalty, sentence, punishment, fault, responsibility, culpability, thoughtlessness, lack of consideration"
+        },
+        "romaji": "tsumi"
       },
       {
         "example": "罪滅ぼし",
         "reading": "つみほろぼし",
-        "meaning": "atonement (for one's sins), expiation, making amends, making up for (a misdeed)"
+        "meaning": {
+          "vi": "atonement (for one's sins), expiation, making amends, making up for (a misdeed)"
+        },
+        "romaji": "tsumihoroboshi"
       },
       {
         "example": "無実の罪",
         "reading": "むじつのつみ",
-        "meaning": "false charge"
+        "meaning": {
+          "en": "false charge"
+        },
+        "romaji": "mujitsunotsumi"
       },
       {
         "example": "重い罪",
         "reading": "おもいつみ",
-        "meaning": "serious crime, grave crime"
+        "meaning": {
+          "en": "serious crime, grave crime"
+        },
+        "romaji": "omoitsumi"
       }
     ],
     "radical": {
@@ -398,5 +422,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f6a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f6a.gif",
     "uri": "https://jisho.org/search/%E7%BD%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tội"
+  ]
 }

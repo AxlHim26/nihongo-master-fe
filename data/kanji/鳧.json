@@ -17,19 +17,28 @@
       {
         "example": "鳧鐘",
         "reading": "フショウ",
-        "meaning": "temple bell, (in Japan) 7th note of the ancient chromatic scale (approx. G sharp)"
+        "meaning": {
+          "vi": "temple bell, (in Japan) 7th note of the ancient chromatic scale (approx. G sharp)"
+        },
+        "romaji": "fushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳧",
         "reading": "けり",
-        "meaning": "gray-headed lapwing (Microsarcops cinereus), grey-headed lapwing"
+        "meaning": {
+          "vi": "gray-headed lapwing (Microsarcops cinereus), grey-headed lapwing"
+        },
+        "romaji": "keri"
       },
       {
         "example": "鴨",
         "reading": "かも",
-        "meaning": "duck, easy mark, sucker, sitting duck"
+        "meaning": {
+          "en": "duck, easy mark, sucker, sitting duck"
+        },
+        "romaji": "kamo"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ce7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ce7.gif",
     "uri": "https://jisho.org/search/%E9%B3%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "phù"
+  ]
 }

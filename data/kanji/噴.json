@@ -19,29 +19,44 @@
       {
         "example": "噴煙",
         "reading": "フンエン",
-        "meaning": "(eruption of) smoke"
+        "meaning": {
+          "vi": "(eruption of) smoke"
+        },
+        "romaji": "fun'en"
       },
       {
         "example": "噴火",
         "reading": "フンカ",
-        "meaning": "eruption, volcanic eruption"
+        "meaning": {
+          "vi": "eruption, volcanic eruption"
+        },
+        "romaji": "funka"
       },
       {
         "example": "暴噴",
         "reading": "ボウフン",
-        "meaning": "blowout (oil well, gas field, etc.)"
+        "meaning": {
+          "en": "blowout (oil well, gas field, etc.)"
+        },
+        "romaji": "boufun"
       },
       {
         "example": "自噴",
         "reading": "ジフン",
-        "meaning": "gushing forth (e.g. of oil), spouting, natural emergence (of a hot spring)"
+        "meaning": {
+          "vi": "gushing forth (e.g. of oil), spouting, natural emergence (of a hot spring)"
+        },
+        "romaji": "jifun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "噴く",
         "reading": "ふく",
-        "meaning": "to emit, to spout, to spurt, to boil over"
+        "meaning": {
+          "vi": "to emit, to spout, to spurt, to boil over"
+        },
+        "romaji": "fuku"
       }
     ],
     "radical": {
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05674.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5674.gif",
     "uri": "https://jisho.org/search/%E5%99%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "phôn",
+    "phún"
+  ]
 }

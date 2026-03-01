@@ -17,19 +17,28 @@
       {
         "example": "軋轢",
         "reading": "アツレキ",
-        "meaning": "friction, discord, strife"
+        "meaning": {
+          "en": "friction, discord, strife"
+        },
+        "romaji": "atsureki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "軋る",
         "reading": "きしる",
-        "meaning": "to creak, to squeak, to grate, to grind, to rasp"
+        "meaning": {
+          "vi": "to creak, to squeak, to grate, to grind, to rasp"
+        },
+        "romaji": "kishiru"
       },
       {
         "example": "軋む",
         "reading": "きしむ",
-        "meaning": "to jar, to creak, to grate"
+        "meaning": {
+          "en": "to jar, to creak, to grate"
+        },
+        "romaji": "kishimu"
       }
     ],
     "radical": {
@@ -44,5 +53,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ecb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ecb.gif",
     "uri": "https://jisho.org/search/%E8%BB%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ca",
+    "loát",
+    "yết"
+  ]
 }

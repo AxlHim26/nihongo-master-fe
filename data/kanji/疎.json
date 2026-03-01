@@ -22,39 +22,60 @@
       {
         "example": "疎",
         "reading": "ソ",
-        "meaning": "sparse, distant (of a relationship), estranged, alienated"
+        "meaning": {
+          "vi": "sparse, distant (of a relationship), estranged, alienated"
+        },
+        "romaji": "so"
       },
       {
         "example": "疎開",
         "reading": "ソカイ",
-        "meaning": "evacuation (to the country), spreading out (troops), deployment, dispersal"
+        "meaning": {
+          "vi": "evacuation (to the country), spreading out (troops), deployment, dispersal"
+        },
+        "romaji": "sokai"
       },
       {
         "example": "過疎",
         "reading": "カソ",
-        "meaning": "underpopulation, low population density, depopulation"
+        "meaning": {
+          "vi": "underpopulation, low population density, depopulation"
+        },
+        "romaji": "kaso"
       },
       {
         "example": "空疎",
         "reading": "クウソ",
-        "meaning": "empty (e.g. argument), insubstantial, hollow, fruitless"
+        "meaning": {
+          "vi": "empty (e.g. argument), insubstantial, hollow, fruitless"
+        },
+        "romaji": "kuuso"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "疎い",
         "reading": "うとい",
-        "meaning": "distant (from someone), aloof, estranged, knowing little (of), ill-informed (about), ignorant (of), unfamiliar (with), unacquainted (with)"
+        "meaning": {
+          "en": "distant (from someone), aloof, estranged, knowing little (of), ill-informed (about), ignorant (of), unfamiliar (with), unacquainted (with)"
+        },
+        "romaji": "utoi"
       },
       {
         "example": "疎む",
         "reading": "うとむ",
-        "meaning": "to shun, to avoid, to ostracize, to neglect, to distance oneself from, to give the hard shoulder"
+        "meaning": {
+          "en": "to shun, to avoid, to ostracize, to neglect, to distance oneself from, to give the hard shoulder"
+        },
+        "romaji": "utomu"
       },
       {
         "example": "疎ら",
         "reading": "まばら",
-        "meaning": "sparse, thin, scattered, straggling, sporadic"
+        "meaning": {
+          "vi": "sparse, thin, scattered, straggling, sporadic"
+        },
+        "romaji": "mabara"
       }
     ],
     "radical": {
@@ -75,5 +96,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0758e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/758e.gif",
     "uri": "https://jisho.org/search/%E7%96%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "sơ",
+    "sớ"
+  ]
 }

@@ -21,29 +21,44 @@
       {
         "example": "過酷",
         "reading": "カコク",
-        "meaning": "severe, harsh, hard, cruel, rigorous"
+        "meaning": {
+          "en": "severe, harsh, hard, cruel, rigorous"
+        },
+        "romaji": "kakoku"
       },
       {
         "example": "苛虐",
         "reading": "カギャク",
-        "meaning": "cruel treatment"
+        "meaning": {
+          "en": "cruel treatment"
+        },
+        "romaji": "kagyaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苛める",
         "reading": "いじめる",
-        "meaning": "to ill-treat, to bully, to torment, to pick on, to tease, to be cruel to, to persecute, to be tough on (e.g. one's body), to treat harshly"
+        "meaning": {
+          "vi": "to ill-treat, to bully, to torment, to pick on, to tease, to be cruel to, to persecute, to be tough on (e.g. one's body), to treat harshly"
+        },
+        "romaji": "ijimeru"
       },
       {
         "example": "苛む",
         "reading": "さいなむ",
-        "meaning": "to torment, to torture, to afflict, to harrow"
+        "meaning": {
+          "en": "to torment, to torture, to afflict, to harrow"
+        },
+        "romaji": "sainamu"
       },
       {
         "example": "苛立つ",
         "reading": "いらだつ",
-        "meaning": "to be irritated, to get annoyed, to lose one's patience"
+        "meaning": {
+          "vi": "to be irritated, to get annoyed, to lose one's patience"
+        },
+        "romaji": "iradatsu"
       }
     ],
     "radical": {
@@ -63,5 +78,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82db.gif",
     "uri": "https://jisho.org/search/%E8%8B%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ha",
+    "hà",
+    "kha"
+  ]
 }

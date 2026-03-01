@@ -21,34 +21,52 @@
       {
         "example": "撮影",
         "reading": "サツエイ",
-        "meaning": "photography (still or motion), photographing, filming, shooting, (video) recording"
+        "meaning": {
+          "vi": "photography (still or motion), photographing, filming, shooting, (video) recording"
+        },
+        "romaji": "satsuei"
       },
       {
         "example": "撮影会",
         "reading": "サツエイカイ",
-        "meaning": "photography event, photo session, photo shoot"
+        "meaning": {
+          "vi": "photography event, photo session, photo shoot"
+        },
+        "romaji": "satsueikai"
       },
       {
         "example": "特撮",
         "reading": "トクサツ",
-        "meaning": "special effects, SFX, tokusatsu, genre of live-action film or television that makes heavy use of practical special effects"
+        "meaning": {
+          "vi": "special effects, SFX, tokusatsu, genre of live-action film or television that makes heavy use of practical special effects"
+        },
+        "romaji": "tokusatsu"
       },
       {
         "example": "空撮",
         "reading": "クウサツ",
-        "meaning": "aerial photography"
+        "meaning": {
+          "vi": "aerial photography"
+        },
+        "romaji": "kuusatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撮る",
         "reading": "とる",
-        "meaning": "to take (a photograph), to record (audio or video), to film, to shoot"
+        "meaning": {
+          "vi": "to take (a photograph), to record (audio or video), to film, to shoot"
+        },
+        "romaji": "toru"
       },
       {
         "example": "摘む",
         "reading": "つまむ",
-        "meaning": "to pinch, to hold (between one's fingers), to pick up (with chopsticks, tweezers, etc.), to pick up and eat, to snack on, to pick out (the main point), to summarize, to sum up, to bewitch, to possess, to fascinate"
+        "meaning": {
+          "vi": "to pinch, to hold (between one's fingers), to pick up (with chopsticks, tweezers, etc.), to pick up and eat, to snack on, to pick out (the main point), to summarize, to sum up, to bewitch, to possess, to fascinate"
+        },
+        "romaji": "tsumamu"
       }
     ],
     "radical": {
@@ -68,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ae.gif",
     "uri": "https://jisho.org/search/%E6%92%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "toát"
+  ]
 }

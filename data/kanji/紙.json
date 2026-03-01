@@ -314,44 +314,68 @@
       {
         "example": "紙",
         "reading": "シ",
-        "meaning": "newspaper, paper, counter for newspapers"
+        "meaning": {
+          "vi": "newspaper, paper, counter for newspapers"
+        },
+        "romaji": "shi"
       },
       {
         "example": "紙上",
         "reading": "シジョウ",
-        "meaning": "on paper, in the newspapers, in a letter"
+        "meaning": {
+          "vi": "on paper, in the newspapers, in a letter"
+        },
+        "romaji": "shijou"
       },
       {
         "example": "原稿用紙",
         "reading": "ゲンコウヨウシ",
-        "meaning": "Japanese writing paper (lined with a square grid, one square per character), manuscript paper"
+        "meaning": {
+          "vi": "Japanese writing paper (lined with a square grid, one square per character), manuscript paper"
+        },
+        "romaji": "genkouyoushi"
       },
       {
         "example": "製紙",
         "reading": "セイシ",
-        "meaning": "papermaking, paper manufacture"
+        "meaning": {
+          "vi": "papermaking, paper manufacture"
+        },
+        "romaji": "seishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "紙",
         "reading": "かみ",
-        "meaning": "paper"
+        "meaning": {
+          "vi": "paper"
+        },
+        "romaji": "kami"
       },
       {
         "example": "紙芝居",
         "reading": "かみしばい",
-        "meaning": "kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"
+        "meaning": {
+          "vi": "kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"
+        },
+        "romaji": "kamishibai"
       },
       {
         "example": "インディア紙",
         "reading": "インディアかみ",
-        "meaning": "India paper"
+        "meaning": {
+          "vi": "India paper"
+        },
+        "romaji": "indeiakami"
       },
       {
         "example": "頸上",
         "reading": "くびかみ",
-        "meaning": "neckband, round upright collar (on some traditional Japanese clothing)"
+        "meaning": {
+          "vi": "neckband, round upright collar (on some traditional Japanese clothing)"
+        },
+        "romaji": "kubikami"
       }
     ],
     "radical": {
@@ -371,5 +395,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d19.gif",
     "uri": "https://jisho.org/search/%E7%B4%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "chỉ"
+  ]
 }

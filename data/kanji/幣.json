@@ -19,44 +19,68 @@
       {
         "example": "幣",
         "reading": "ヘイ",
-        "meaning": "staff with plaited paper streamers"
+        "meaning": {
+          "vi": "staff with plaited paper streamers"
+        },
+        "romaji": "hei"
       },
       {
         "example": "弊害",
         "reading": "ヘイガイ",
-        "meaning": "harmful effect, harmful influence, evil practice, abuse, malady"
+        "meaning": {
+          "vi": "harmful effect, harmful influence, evil practice, abuse, malady"
+        },
+        "romaji": "heigai"
       },
       {
         "example": "造幣",
         "reading": "ゾウヘイ",
-        "meaning": "coinage, mintage"
+        "meaning": {
+          "en": "coinage, mintage"
+        },
+        "romaji": "zouhei"
       },
       {
         "example": "衰幣",
         "reading": "スイヘイ",
-        "meaning": "decline"
+        "meaning": {
+          "en": "decline"
+        },
+        "romaji": "suihei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幣",
         "reading": "へい",
-        "meaning": "staff with plaited paper streamers"
+        "meaning": {
+          "vi": "staff with plaited paper streamers"
+        },
+        "romaji": "hei"
       },
       {
         "example": "幣を奉る",
         "reading": "ぬさをたてまつる",
-        "meaning": "to offer a wand with hemp and paper streamers to a Shinto god"
+        "meaning": {
+          "vi": "to offer a wand with hemp and paper streamers to a Shinto god"
+        },
+        "romaji": "nusawotatematsuru"
       },
       {
         "example": "大幣",
         "reading": "おおぬさ",
-        "meaning": "streamers (made of linen, paper, etc.) attached to a long pole (used as a wand in grand purification ceremonies), being in great demand"
+        "meaning": {
+          "vi": "streamers (made of linen, paper, etc.) attached to a long pole (used as a wand in grand purification ceremonies), being in great demand"
+        },
+        "romaji": "oonusa"
       },
       {
         "example": "小幣",
         "reading": "こぬさ",
-        "meaning": "small purification wand, thinly cut hemp or paper mixed with rice (scattered as an offering to the gods)"
+        "meaning": {
+          "vi": "small purification wand, thinly cut hemp or paper mixed with rice (scattered as an offering to the gods)"
+        },
+        "romaji": "konusa"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e63.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e63.gif",
     "uri": "https://jisho.org/search/%E5%B9%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tệ"
+  ]
 }

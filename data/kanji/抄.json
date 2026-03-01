@@ -17,22 +17,34 @@
       {
         "example": "抄",
         "reading": "ショウ",
-        "meaning": "excerpt, extract, annotation, shō (unit of volume, approx. 1.8 ml), banknote, paper money"
+        "meaning": {
+          "vi": "excerpt, extract, annotation, shō (unit of volume, approx. 1.8 ml), banknote, paper money"
+        },
+        "romaji": "shou"
       },
       {
         "example": "抄本",
         "reading": "ショウホン",
-        "meaning": "excerpt, abridgment, abridgement, book of selections"
+        "meaning": {
+          "vi": "excerpt, abridgment, abridgement, book of selections"
+        },
+        "romaji": "shouhon"
       },
       {
         "example": "和名抄",
         "reading": "ワミョウショウ",
-        "meaning": "Wamyōruijushō (famous Heian-period Japanese dictionary)"
+        "meaning": {
+          "vi": "Wamyōruijushō (famous Heian-period Japanese dictionary)"
+        },
+        "romaji": "wamyoushou"
       },
       {
         "example": "史記抄",
         "reading": "シキショウ",
-        "meaning": "commentary on Shiki"
+        "meaning": {
+          "en": "commentary on Shiki"
+        },
+        "romaji": "shikishou"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06284.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6284.gif",
     "uri": "https://jisho.org/search/%E6%8A%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "sao"
+  ]
 }

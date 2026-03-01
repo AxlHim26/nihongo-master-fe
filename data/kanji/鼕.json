@@ -14,12 +14,18 @@
       {
         "example": "鼕々",
         "reading": "トウトウ",
-        "meaning": "tiếng trống, nước chảy, sóng vỗ"
+        "meaning": {
+          "vi": "tiếng trống, nước chảy, sóng vỗ"
+        },
+        "romaji": "toutou"
       },
       {
         "example": "鼕々",
         "reading": "トウトウ",
-        "meaning": "tiếng trống, nước chảy, sóng vỗ"
+        "meaning": {
+          "vi": "tiếng trống, nước chảy, sóng vỗ"
+        },
+        "romaji": "toutou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f15.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f15.gif",
     "uri": "https://jisho.org/search/%E9%BC%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "đông"
+  ]
 }

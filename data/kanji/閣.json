@@ -313,22 +313,34 @@
       {
         "example": "閣内",
         "reading": "カクナイ",
-        "meaning": "(inside the) Cabinet"
+        "meaning": {
+          "en": "(inside the) Cabinet"
+        },
+        "romaji": "kakunai"
       },
       {
         "example": "閣議",
         "reading": "カクギ",
-        "meaning": "cabinet meeting"
+        "meaning": {
+          "en": "cabinet meeting"
+        },
+        "romaji": "kakugi"
       },
       {
         "example": "倒閣",
         "reading": "トウカク",
-        "meaning": "overthrow of government"
+        "meaning": {
+          "en": "overthrow of government"
+        },
+        "romaji": "toukaku"
       },
       {
         "example": "影の内閣",
         "reading": "カゲノナイカク",
-        "meaning": "shadow cabinet"
+        "meaning": {
+          "en": "shadow cabinet"
+        },
+        "romaji": "kagenonaikaku"
       }
     ],
     "kunyomiExamples": [],
@@ -345,5 +357,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a3.gif",
     "uri": "https://jisho.org/search/%E9%96%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "các"
+  ]
 }

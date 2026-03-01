@@ -293,59 +293,92 @@
       {
         "example": "右中間",
         "reading": "ウチュウカン",
-        "meaning": "between right and center fielders (centre)"
+        "meaning": {
+          "en": "between right and center fielders (centre)"
+        },
+        "romaji": "uchuukan"
       },
       {
         "example": "右側",
         "reading": "ミギガワ",
-        "meaning": "right side, right-hand side"
+        "meaning": {
+          "en": "right side, right-hand side"
+        },
+        "romaji": "migigawa"
       },
       {
         "example": "極右",
         "reading": "キョクウ",
-        "meaning": "far right (in politics), extreme right, ultraconservative"
+        "meaning": {
+          "vi": "far right (in politics), extreme right, ultraconservative"
+        },
+        "romaji": "kyokuu"
       },
       {
         "example": "最右",
         "reading": "サイウ",
-        "meaning": "right-most, rightmost"
+        "meaning": {
+          "en": "right-most, rightmost"
+        },
+        "romaji": "saiu"
       },
       {
         "example": "右筆",
         "reading": "ユウヒツ",
-        "meaning": "private secretary, amanuensis"
+        "meaning": {
+          "vi": "private secretary, amanuensis"
+        },
+        "romaji": "yuuhitsu"
       },
       {
         "example": "右文",
         "reading": "ユウブン",
-        "meaning": "respect for literary culture"
+        "meaning": {
+          "vi": "respect for literary culture"
+        },
+        "romaji": "yuubun"
       },
       {
         "example": "上下左右",
         "reading": "ジョウゲサユウ",
-        "meaning": "up and down, left and right, top and bottom, left and right"
+        "meaning": {
+          "vi": "up and down, left and right, top and bottom, left and right"
+        },
+        "romaji": "jougesayuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "右",
         "reading": "みぎ",
-        "meaning": "right, right-hand side, right hand, the above (in a piece of vertical writing), above-mentioned, the right (wing), rightist, the better (of two)"
+        "meaning": {
+          "vi": "right, right-hand side, right hand, the above (in a piece of vertical writing), above-mentioned, the right (wing), rightist, the better (of two)"
+        },
+        "romaji": "migi"
       },
       {
         "example": "右腕",
         "reading": "みぎうで",
-        "meaning": "right arm, right-hand man, right hand, right-hand person, right-handed pitcher"
+        "meaning": {
+          "vi": "right arm, right-hand man, right hand, right-hand person, right-handed pitcher"
+        },
+        "romaji": "migiude"
       },
       {
         "example": "上右",
         "reading": "うえみぎ",
-        "meaning": "upper right (corner)"
+        "meaning": {
+          "vi": "upper right (corner)"
+        },
+        "romaji": "uemigi"
       },
       {
         "example": "下右",
         "reading": "したみぎ",
-        "meaning": "lower right (corner)"
+        "meaning": {
+          "en": "lower right (corner)"
+        },
+        "romaji": "shitamigi"
       }
     ],
     "radical": {
@@ -361,5 +394,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f3.gif",
     "uri": "https://jisho.org/search/%E5%8F%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hữu"
+  ]
 }

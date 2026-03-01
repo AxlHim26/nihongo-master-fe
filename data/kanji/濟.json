@@ -23,7 +23,10 @@
       {
         "example": "済む",
         "reading": "すむ",
-        "meaning": "kết thúc, hoàn thành, chỉ dẫn đến hậu quả nhẹ hơn dự kiến, cảm thấy thoải mái hoặc áy náy vì làm phiền người khác"
+        "meaning": {
+          "vi": "kết thúc, hoàn thành, chỉ dẫn đến hậu quả nhẹ hơn dự kiến, cảm thấy thoải mái hoặc áy náy vì làm phiền người khác"
+        },
+        "romaji": "sumu"
       }
     ],
     "radical": {
@@ -46,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fdf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fdf.gif",
     "uri": "https://jisho.org/search/%E6%BF%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế",
+    "tể"
+  ]
 }

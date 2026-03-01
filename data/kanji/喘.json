@@ -19,29 +19,44 @@
       {
         "example": "喘息",
         "reading": "ゼンソク",
-        "meaning": "asthma"
+        "meaning": {
+          "en": "asthma"
+        },
+        "romaji": "zensoku"
       },
       {
         "example": "喘音",
         "reading": "ゼンオン",
-        "meaning": "stridor, stridulous"
+        "meaning": {
+          "en": "stridor, stridulous"
+        },
+        "romaji": "zen'on"
       },
       {
         "example": "余喘",
         "reading": "ヨゼン",
-        "meaning": "lingering life, feeble existence, brink of ruin"
+        "meaning": {
+          "en": "lingering life, feeble existence, brink of ruin"
+        },
+        "romaji": "yozen"
       },
       {
         "example": "残喘",
         "reading": "ザンゼン",
-        "meaning": "the remainder of one's life"
+        "meaning": {
+          "en": "the remainder of one's life"
+        },
+        "romaji": "zanzen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喘ぐ",
         "reading": "あえぐ",
-        "meaning": "to gasp, to pant, to breathe hard, to suffer, to struggle"
+        "meaning": {
+          "vi": "to gasp, to pant, to breathe hard, to suffer, to struggle"
+        },
+        "romaji": "aegu"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05598.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5598.gif",
     "uri": "https://jisho.org/search/%E5%96%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "suyễn"
+  ]
 }

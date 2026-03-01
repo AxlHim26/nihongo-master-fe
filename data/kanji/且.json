@@ -20,24 +20,71 @@
       {
         "example": "苟且",
         "reading": "コウショ",
-        "meaning": "stopgap, makeshift, temporary"
+        "meaning": {
+          "vi": "tạm thời, tạm thời, tạm thời",
+          "en": "stopgap, makeshift, temporary"
+        },
+        "hanViet": [
+          "cẩu",
+          "thư"
+        ],
+        "hanVietExplain": {
+          "vi": "苟 (cẩu: ẩu, tuỳ tiện) + 且 (thư: vừa) → tạm thời, tạm thời, tạm thời",
+          "en": "苟 (cẩu: careless, arbitrary) + 且 (letter: medium) → temporary, temporary, temporarily"
+        },
+        "romaji": "kousho"
       },
       {
         "example": "暫且",
         "reading": "ザンショ",
-        "meaning": "short while"
+        "meaning": {
+          "vi": "trong thời gian ngắn",
+          "en": "short while"
+        },
+        "hanViet": [
+          "tạm",
+          "thư"
+        ],
+        "hanVietExplain": {
+          "vi": "暫 (tạm: tạm thời) + 且 (thư: vừa) → trong thời gian ngắn",
+          "en": "暫 (provisional: temporarily) + 且 (letter: moderately) → in a short time"
+        },
+        "romaji": "zansho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "且つ",
         "reading": "かつ",
-        "meaning": "and, moreover, besides, as well as, and on top of that, at the same time"
+        "meaning": {
+          "vi": "và hơn nữa, bên cạnh đó, cũng như, và trên hết, đồng thời",
+          "en": "and, moreover, besides, as well as, and on top of that, at the same time"
+        },
+        "hanViet": [
+          "thư"
+        ],
+        "hanVietExplain": {
+          "vi": "thư: vừa, cứ",
+          "en": "letter: medium, just"
+        },
+        "romaji": "katsu"
       },
       {
         "example": "且つ又",
         "reading": "かつまた",
-        "meaning": "besides, furthermore, moreover"
+        "meaning": {
+          "vi": "ngoài ra, hơn nữa, hơn nữa",
+          "en": "besides, furthermore, moreover"
+        },
+        "hanViet": [
+          "thư",
+          "hữu"
+        ],
+        "hanVietExplain": {
+          "vi": "且 (thư: vừa) + 又 (hữu: cũng, lại còn) → ngoài ra, hơn nữa, hơn nữa",
+          "en": "且 (letter: just) + 又 (huu: also, also) → in addition, moreover, moreover"
+        },
+        "romaji": "katsumata"
       }
     ],
     "radical": {
@@ -52,5 +99,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e14.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e14.gif",
     "uri": "https://jisho.org/search/%E4%B8%94%23kanji"
+  },
+  "hanViet": [
+    "thư",
+    "thả",
+    "tồ"
+  ],
+  "hanVietExplain": {
+    "vi": "thư: vừa, cứ",
+    "en": "letter: medium, just"
+  },
+  "meaning": {
+    "vi": "hơn nữa, hơn nữa, hơn nữa",
+    "en": "moreover, also, furthermore"
   }
 }

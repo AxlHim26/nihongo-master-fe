@@ -25,44 +25,68 @@
       {
         "example": "尽",
         "reading": "ジン",
-        "meaning": "last day (of the month)"
+        "meaning": {
+          "en": "last day (of the month)"
+        },
+        "romaji": "jin"
       },
       {
         "example": "尽力",
         "reading": "ジンリョク",
-        "meaning": "efforts, exertion, endeavour, assistance, services"
+        "meaning": {
+          "en": "efforts, exertion, endeavour, assistance, services"
+        },
+        "romaji": "jinryoku"
       },
       {
         "example": "理不尽",
         "reading": "リフジン",
-        "meaning": "unreasonable, irrational, outrageous, absurd"
+        "meaning": {
+          "en": "unreasonable, irrational, outrageous, absurd"
+        },
+        "romaji": "rifujin"
       },
       {
         "example": "縦横無尽",
         "reading": "ジュウオウムジン",
-        "meaning": "freely, right and left, as one pleases"
+        "meaning": {
+          "vi": "freely, right and left, as one pleases"
+        },
+        "romaji": "juuoumujin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "尽きる",
         "reading": "つきる",
-        "meaning": "to be used up, to be run out, to be exhausted, to be consumed, to come to an end"
+        "meaning": {
+          "vi": "to be used up, to be run out, to be exhausted, to be consumed, to come to an end"
+        },
+        "romaji": "tsukiru"
       },
       {
         "example": "尽くす",
         "reading": "つくす",
-        "meaning": "to use up, to exhaust, to run out of, to devote oneself (to), to do one's utmost (for), to serve, to work (for a cause), to do to exhaustion, to do completely, to do fully"
+        "meaning": {
+          "vi": "to use up, to exhaust, to run out of, to devote oneself (to), to do one's utmost (for), to serve, to work (for a cause), to do to exhaustion, to do completely, to do fully"
+        },
+        "romaji": "tsukusu"
       },
       {
         "example": "尽かす",
         "reading": "つかす",
-        "meaning": "to use completely, to use up, to exhaust, to exhaust someone's civility, to give up (on someone)"
+        "meaning": {
+          "vi": "to use completely, to use up, to exhaust, to exhaust someone's civility, to give up (on someone)"
+        },
+        "romaji": "tsukasu"
       },
       {
         "example": "悉く",
         "reading": "ことごとく",
-        "meaning": "altogether, entirely"
+        "meaning": {
+          "en": "altogether, entirely"
+        },
+        "romaji": "kotogotoku"
       }
     ],
     "radical": {
@@ -77,5 +101,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3d.gif",
     "uri": "https://jisho.org/search/%E5%B0%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tần",
+    "tẫn",
+    "tận"
+  ]
 }

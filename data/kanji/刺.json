@@ -299,94 +299,148 @@
       {
         "example": "刺",
         "reading": "シ",
-        "meaning": "calling card"
+        "meaning": {
+          "en": "calling card"
+        },
+        "romaji": "shi"
       },
       {
         "example": "刺激",
         "reading": "シゲキ",
-        "meaning": "stimulus, stimulation, irritation (esp. of the body, e.g. skin, eyes), impetus, impulse, stimulus, spur, incentive, encouragement, stimulation, motivation, provocation, excitement, thrill"
+        "meaning": {
+          "vi": "stimulus, stimulation, irritation (esp. of the body, e.g. skin, eyes), impetus, impulse, stimulus, spur, incentive, encouragement, stimulation, motivation, provocation, excitement, thrill"
+        },
+        "romaji": "shigeki"
       },
       {
         "example": "牛刺",
         "reading": "ギュウサシ",
-        "meaning": "sliced raw beef"
+        "meaning": {
+          "en": "sliced raw beef"
+        },
+        "romaji": "gyuusashi"
       },
       {
         "example": "肉刺し",
         "reading": "ニクサシ",
-        "meaning": "fork"
+        "meaning": {
+          "en": "fork"
+        },
+        "romaji": "nikusashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刺す",
         "reading": "さす",
-        "meaning": "to pierce, to stab, to prick, to stick, to thrust, to sting, to bite, to sew, to stitch, to embroider, to pole (a boat), to catch (with a limed pole), to put (a runner) out, to pick off"
+        "meaning": {
+          "vi": "to pierce, to stab, to prick, to stick, to thrust, to sting, to bite, to sew, to stitch, to embroider, to pole (a boat), to catch (with a limed pole), to put (a runner) out, to pick off"
+        },
+        "romaji": "sasu"
       },
       {
         "example": "刺刀",
         "reading": "さすが",
-        "meaning": "dagger"
+        "meaning": {
+          "en": "dagger"
+        },
+        "romaji": "sasuga"
       },
       {
         "example": "刺さる",
         "reading": "ささる",
-        "meaning": "to stick into (of something with a sharp point), to prick, to pierce, to get stuck (in), to lodge (in), to resonate emotionally, to move"
+        "meaning": {
+          "vi": "to stick into (of something with a sharp point), to prick, to pierce, to get stuck (in), to lodge (in), to resonate emotionally, to move"
+        },
+        "romaji": "sasaru"
       },
       {
         "example": "刺し",
         "reading": "さし",
-        "meaning": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking"
+        "meaning": {
+          "vi": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "刺身",
         "reading": "さしみ",
-        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        "meaning": {
+          "en": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        },
+        "romaji": "sashimi"
       },
       {
         "example": "牛刺",
         "reading": "ぎゅうさし",
-        "meaning": "sliced raw beef"
+        "meaning": {
+          "en": "sliced raw beef"
+        },
+        "romaji": "gyuusashi"
       },
       {
         "example": "肉刺し",
         "reading": "にくさし",
-        "meaning": "fork"
+        "meaning": {
+          "en": "fork"
+        },
+        "romaji": "nikusashi"
       },
       {
         "example": "刺し",
         "reading": "さし",
-        "meaning": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking"
+        "meaning": {
+          "vi": "grain thief, sharpened tube for testing rice in bags, sashimi (sliced raw fish), stabbing, piercing, pricking"
+        },
+        "romaji": "sashi"
       },
       {
         "example": "刺身",
         "reading": "さしみ",
-        "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        "meaning": {
+          "en": "sashimi (raw sliced fish, shellfish or crustaceans)"
+        },
+        "romaji": "sashimi"
       },
       {
         "example": "牛刺",
         "reading": "ぎゅうさし",
-        "meaning": "sliced raw beef"
+        "meaning": {
+          "en": "sliced raw beef"
+        },
+        "romaji": "gyuusashi"
       },
       {
         "example": "肉刺し",
         "reading": "にくさし",
-        "meaning": "fork"
+        "meaning": {
+          "en": "fork"
+        },
+        "romaji": "nikusashi"
       },
       {
         "example": "刺",
         "reading": "とげ",
-        "meaning": "thorn, spine, prickle, splinter (esp. lodged in one's flesh), hard sharp item (esp. lodged in one's throat, e.g. fish bone), biting words"
+        "meaning": {
+          "vi": "thorn, spine, prickle, splinter (esp. lodged in one's flesh), hard sharp item (esp. lodged in one's throat, e.g. fish bone), biting words"
+        },
+        "romaji": "toge"
       },
       {
         "example": "棘魚",
         "reading": "とげうお",
-        "meaning": "stickleback (Gasterosteidae spp.)"
+        "meaning": {
+          "vi": "stickleback (Gasterosteidae spp.)"
+        },
+        "romaji": "togeuo"
       },
       {
         "example": "刺々",
         "reading": "とげとげ",
-        "meaning": "sharply, harshly, stingingly"
+        "meaning": {
+          "vi": "sharply, harshly, stingingly"
+        },
+        "romaji": "togetoge"
       }
     ],
     "radical": {
@@ -408,5 +462,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0523a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/523a.gif",
     "uri": "https://jisho.org/search/%E5%88%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "thích",
+    "thứ"
+  ]
 }

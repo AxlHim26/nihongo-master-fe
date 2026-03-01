@@ -16,24 +16,36 @@
       {
         "example": "聊斎志異",
         "reading": "リョウサイシイ",
-        "meaning": "Strange stories from a Chinese studio (by Pu Songling)"
+        "meaning": {
+          "vi": "Strange stories from a Chinese studio (by Pu Songling)"
+        },
+        "romaji": "ryousaishii"
       },
       {
         "example": "無聊",
         "reading": "ブリョウ",
-        "meaning": "boredom, ennui, tedium, discontent, unease"
+        "meaning": {
+          "en": "boredom, ennui, tedium, discontent, unease"
+        },
+        "romaji": "buryou"
       },
       {
         "example": "無為無聊",
         "reading": "ムイブリョウ",
-        "meaning": "boredom, ennui, tedium, wearisomeness"
+        "meaning": {
+          "en": "boredom, ennui, tedium, wearisomeness"
+        },
+        "romaji": "muiburyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "些か",
         "reading": "いささか",
-        "meaning": "a little, a bit, somewhat, slightly, rather"
+        "meaning": {
+          "en": "a little, a bit, somewhat, slightly, rather"
+        },
+        "romaji": "isasaka"
       }
     ],
     "radical": {
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0804a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/804a.gif",
     "uri": "https://jisho.org/search/%E8%81%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "liêu"
+  ]
 }

@@ -343,49 +343,76 @@
       {
         "example": "存続",
         "reading": "ソンゾク",
-        "meaning": "continuance, survival, persistence, retention, duration"
+        "meaning": {
+          "vi": "continuance, survival, persistence, retention, duration"
+        },
+        "romaji": "sonzoku"
       },
       {
         "example": "存在",
         "reading": "ソンザイ",
-        "meaning": "existence, being, presence"
+        "meaning": {
+          "vi": "existence, being, presence"
+        },
+        "romaji": "sonzai"
       },
       {
         "example": "残存",
         "reading": "ザンゾン",
-        "meaning": "survival, remaining, being extant, being left"
+        "meaning": {
+          "en": "survival, remaining, being extant, being left"
+        },
+        "romaji": "zanzon"
       },
       {
         "example": "共存",
         "reading": "キョウゾン",
-        "meaning": "coexistence"
+        "meaning": {
+          "en": "coexistence"
+        },
+        "romaji": "kyouzon"
       },
       {
         "example": "存分",
         "reading": "ゾンブン",
-        "meaning": "to one's heart's content, as much as one likes, without reserve, freely, to the full"
+        "meaning": {
+          "en": "to one's heart's content, as much as one likes, without reserve, freely, to the full"
+        },
+        "romaji": "zonbun"
       },
       {
         "example": "存じる",
         "reading": "ゾンジル",
-        "meaning": "to know, to be aware (of), to be acquainted (with), to think, to consider, to believe, to feel"
+        "meaning": {
+          "en": "to know, to be aware (of), to be acquainted (with), to think, to consider, to believe, to feel"
+        },
+        "romaji": "zonjiru"
       },
       {
         "example": "温存",
         "reading": "オンゾン",
-        "meaning": "preservation, retainment, keeping"
+        "meaning": {
+          "vi": "preservation, retainment, keeping"
+        },
+        "romaji": "onzon"
       },
       {
         "example": "共存",
         "reading": "キョウゾン",
-        "meaning": "coexistence"
+        "meaning": {
+          "en": "coexistence"
+        },
+        "romaji": "kyouzon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "永らえる",
         "reading": "ながらえる",
-        "meaning": "to have a long life, to live a long time"
+        "meaning": {
+          "en": "to have a long life, to live a long time"
+        },
+        "romaji": "nagaraeru"
       }
     ],
     "radical": {
@@ -402,5 +429,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b58.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b58.gif",
     "uri": "https://jisho.org/search/%E5%AD%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "tồn"
+  ]
 }

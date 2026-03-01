@@ -17,29 +17,44 @@
       {
         "example": "蹄球",
         "reading": "テイキュウ",
-        "meaning": "bulb (of an animal's hoof)"
+        "meaning": {
+          "en": "bulb (of an animal's hoof)"
+        },
+        "romaji": "teikyuu"
       },
       {
         "example": "蹄行性",
         "reading": "テイコウセイ",
-        "meaning": "unguligrade (walking on hooves)"
+        "meaning": {
+          "en": "unguligrade (walking on hooves)"
+        },
+        "romaji": "teikousei"
       },
       {
         "example": "双蹄",
         "reading": "ソウテイ",
-        "meaning": "cloven foot"
+        "meaning": {
+          "en": "cloven foot"
+        },
+        "romaji": "soutei"
       },
       {
         "example": "装蹄",
         "reading": "ソウテイ",
-        "meaning": "shoeing a horse, horseshoeing"
+        "meaning": {
+          "en": "shoeing a horse, horseshoeing"
+        },
+        "romaji": "soutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蹄",
         "reading": "ひづめ",
-        "meaning": "hoof"
+        "meaning": {
+          "en": "hoof"
+        },
+        "romaji": "hizume"
       }
     ],
     "radical": {
@@ -63,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e44.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e44.gif",
     "uri": "https://jisho.org/search/%E8%B9%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "đề"
+  ]
 }

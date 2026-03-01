@@ -316,34 +316,52 @@
       {
         "example": "包",
         "reading": "ホウ",
-        "meaning": "counter for packaged goods (esp. powdered medicine)"
+        "meaning": {
+          "vi": "counter for packaged goods (esp. powdered medicine)"
+        },
+        "romaji": "hou"
       },
       {
         "example": "包囲",
         "reading": "ホウイ",
-        "meaning": "siege, encirclement, envelopment, surrounding, besiegement"
+        "meaning": {
+          "vi": "siege, encirclement, envelopment, surrounding, besiegement"
+        },
+        "romaji": "houi"
       },
       {
         "example": "内包",
         "reading": "ナイホウ",
-        "meaning": "connotation, comprehension, intension, inclusion, containment within"
+        "meaning": {
+          "vi": "connotation, comprehension, intension, inclusion, containment within"
+        },
+        "romaji": "naihou"
       },
       {
         "example": "閉包",
         "reading": "ヘイホウ",
-        "meaning": "closure"
+        "meaning": {
+          "en": "closure"
+        },
+        "romaji": "heihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "包む",
         "reading": "つつむ",
-        "meaning": "to wrap up, to pack, to bundle, to do up, to cover, to envelop, to shroud, to engulf, to conceal (a feeling), to hide, to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
+        "meaning": {
+          "vi": "to wrap up, to pack, to bundle, to do up, to cover, to envelop, to shroud, to engulf, to conceal (a feeling), to hide, to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
+        },
+        "romaji": "tsutsumu"
       },
       {
         "example": "包む",
         "reading": "くるむ",
-        "meaning": "to wrap up (in), to roll up (in), to tuck (up)"
+        "meaning": {
+          "vi": "to wrap up (in), to roll up (in), to tuck (up)"
+        },
+        "romaji": "kurumu"
       }
     ],
     "radical": {
@@ -358,5 +376,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05305.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5305.gif",
     "uri": "https://jisho.org/search/%E5%8C%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "bao"
+  ]
 }

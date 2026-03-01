@@ -18,7 +18,10 @@
       {
         "example": "届ける",
         "reading": "とどける",
-        "meaning": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+        "meaning": {
+          "vi": "to deliver, to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+        },
+        "romaji": "todokeru"
       }
     ],
     "radical": {
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c46.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c46.gif",
     "uri": "https://jisho.org/search/%E5%B1%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

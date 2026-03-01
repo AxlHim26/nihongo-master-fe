@@ -14,12 +14,18 @@
       {
         "example": "拠出",
         "reading": "キョシュツ",
-        "meaning": "donation, contribution"
+        "meaning": {
+          "en": "donation, contribution"
+        },
+        "romaji": "kyoshutsu"
       },
       {
         "example": "拠金",
         "reading": "キョキン",
-        "meaning": "subscription, contribution"
+        "meaning": {
+          "vi": "subscription, contribution"
+        },
+        "romaji": "kyokin"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b5.gif",
     "uri": "https://jisho.org/search/%E9%86%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "cự"
+  ]
 }

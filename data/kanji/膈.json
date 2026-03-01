@@ -14,7 +14,10 @@
       {
         "example": "膈",
         "reading": "カク",
-        "meaning": "diaphragm, vicinity of the diaphragm"
+        "meaning": {
+          "vi": "diaphragm, vicinity of the diaphragm"
+        },
+        "romaji": "kaku"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08188.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8188.gif",
     "uri": "https://jisho.org/search/%E8%86%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "cách"
+  ]
 }

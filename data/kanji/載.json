@@ -20,34 +20,52 @@
       {
         "example": "載",
         "reading": "サイ",
-        "meaning": "10^44, hundred tredecillion"
+        "meaning": {
+          "en": "10^44, hundred tredecillion"
+        },
+        "romaji": "sai"
       },
       {
         "example": "採録",
         "reading": "サイロク",
-        "meaning": "recording, transcription"
+        "meaning": {
+          "vi": "recording, transcription"
+        },
+        "romaji": "sairoku"
       },
       {
         "example": "積載",
         "reading": "セキサイ",
-        "meaning": "loading, carrying"
+        "meaning": {
+          "en": "loading, carrying"
+        },
+        "romaji": "sekisai"
       },
       {
         "example": "登載",
         "reading": "トウサイ",
-        "meaning": "running (an article), carrying, printing, publication, registration, record, listing, inclusion (on a list)"
+        "meaning": {
+          "vi": "running (an article), carrying, printing, publication, registration, record, listing, inclusion (on a list)"
+        },
+        "romaji": "tousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乗せる",
         "reading": "のせる",
-        "meaning": "to place on (something), to give (someone) a ride, to give a lift, to pick up, to help on board, to load (luggage), to carry, to take on board, to send out (on the airwaves, etc.), to deceive, to take for a ride, to (sing) along with (musical accompaniment), to let (someone) take part, to excite (someone), to publish (an article), to run (an ad)"
+        "meaning": {
+          "vi": "to place on (something), to give (someone) a ride, to give a lift, to pick up, to help on board, to load (luggage), to carry, to take on board, to send out (on the airwaves, etc.), to deceive, to take for a ride, to (sing) along with (musical accompaniment), to let (someone) take part, to excite (someone), to publish (an article), to run (an ad)"
+        },
+        "romaji": "noseru"
       },
       {
         "example": "載る",
         "reading": "のる",
-        "meaning": "to be placed on, to be set on, to be piled on, to be loaded on, to appear (in print), to be mentioned, to be recorded, to be reported, to be given"
+        "meaning": {
+          "vi": "to be placed on, to be set on, to be piled on, to be loaded on, to appear (in print), to be mentioned, to be recorded, to be reported, to be given"
+        },
+        "romaji": "noru"
       }
     ],
     "radical": {
@@ -63,5 +81,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f09.gif",
     "uri": "https://jisho.org/search/%E8%BC%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tái",
+    "tại",
+    "tải"
+  ]
 }

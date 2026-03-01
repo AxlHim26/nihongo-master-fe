@@ -323,49 +323,76 @@
       {
         "example": "蔵",
         "reading": "ゾウ",
-        "meaning": "sở hữu, quyền sở hữu, Tây Tạng, người Tây Tạng"
+        "meaning": {
+          "vi": "sở hữu, quyền sở hữu, Tây Tạng, người Tây Tạng"
+        },
+        "romaji": "zou"
       },
       {
         "example": "蔵書",
         "reading": "ゾウショ",
-        "meaning": "tủ sách, thư viện (cá nhân)"
+        "meaning": {
+          "vi": "tủ sách, thư viện (cá nhân)"
+        },
+        "romaji": "zousho"
       },
       {
         "example": "地蔵",
         "reading": "ジゾウ",
-        "meaning": "Địa Tạng Bồ Tát (chăm sóc trẻ em, lữ khách và âm phủ), Jizō"
+        "meaning": {
+          "vi": "Địa Tạng Bồ Tát (chăm sóc trẻ em, lữ khách và âm phủ), Jizō"
+        },
+        "romaji": "jizou"
       },
       {
         "example": "内蔵",
         "reading": "ナイゾウ",
-        "meaning": "nội bộ (vd. ổ đĩa), tích hợp sẵn"
+        "meaning": {
+          "vi": "nội bộ (vd. ổ đĩa), tích hợp sẵn"
+        },
+        "romaji": "naizou"
       },
       {
         "example": "秘蔵",
         "reading": "ヒゾウ",
-        "meaning": "trân trọng, nâng niu, quý như báu"
+        "meaning": {
+          "vi": "trân trọng, nâng niu, quý như báu"
+        },
+        "romaji": "hizou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蔵",
         "reading": "くら",
-        "meaning": "kho, nhà kho, hầm, kho tạp chí, kho thóc, kho chứa, kho bạc, thang máy"
+        "meaning": {
+          "vi": "kho, nhà kho, hầm, kho tạp chí, kho thóc, kho chứa, kho bạc, thang máy"
+        },
+        "romaji": "kura"
       },
       {
         "example": "蔵元",
         "reading": "くらもと",
-        "meaning": "nhà máy nấu rượu (sake, tương), chủ nấu rượu, quản kho"
+        "meaning": {
+          "vi": "nhà máy nấu rượu (sake, tương), chủ nấu rượu, quản kho"
+        },
+        "romaji": "kuramoto"
       },
       {
         "example": "大蔵",
         "reading": "おおくら",
-        "meaning": "Bộ Tài chính"
+        "meaning": {
+          "vi": "Bộ Tài chính"
+        },
+        "romaji": "ookura"
       },
       {
         "example": "お蔵",
         "reading": "おくら",
-        "meaning": "hoãn (kịch, phim...), đóng cửa, hủy bỏ, kho thóc (Mạc phủ Edo)"
+        "meaning": {
+          "vi": "hoãn (kịch, phim...), đóng cửa, hủy bỏ, kho thóc (Mạc phủ Edo)"
+        },
+        "romaji": "okura"
       }
     ],
     "radical": {
@@ -386,5 +413,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08535.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8535.gif",
     "uri": "https://jisho.org/search/%E8%94%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tàng"
+  ]
 }

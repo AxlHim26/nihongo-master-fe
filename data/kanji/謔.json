@@ -17,12 +17,18 @@
       {
         "example": "諧謔",
         "reading": "カイギャク",
-        "meaning": "joke, jest, banter"
+        "meaning": {
+          "en": "joke, jest, banter"
+        },
+        "romaji": "kaigyaku"
       },
       {
         "example": "滑稽諧謔",
         "reading": "コッケイカイギャク",
-        "meaning": "smooth-talking and humorous, with jocose and comical airs"
+        "meaning": {
+          "en": "smooth-talking and humorous, with jocose and comical airs"
+        },
+        "romaji": "kokkeikaigyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b14.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b14.gif",
     "uri": "https://jisho.org/search/%E8%AC%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "hước"
+  ]
 }

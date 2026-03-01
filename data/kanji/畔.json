@@ -21,34 +21,52 @@
       {
         "example": "畦畔",
         "reading": "ケイハン",
-        "meaning": "ridge between rice fields, causeway"
+        "meaning": {
+          "en": "ridge between rice fields, causeway"
+        },
+        "romaji": "keihan"
       },
       {
         "example": "橋畔",
         "reading": "キョウハン",
-        "meaning": "approach to a bridge"
+        "meaning": {
+          "vi": "approach to a bridge"
+        },
+        "romaji": "kyouhan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "畦",
         "reading": "あぜ",
-        "meaning": "ridge of earth between rice fields, ridge between grooves in threshold or lintel, footpath between rice fields, causeway"
+        "meaning": {
+          "vi": "ridge of earth between rice fields, ridge between grooves in threshold or lintel, footpath between rice fields, causeway"
+        },
+        "romaji": "aze"
       },
       {
         "example": "畔唐菜",
         "reading": "あぜとうな",
-        "meaning": "Crepidiastrum keiskeanum (species of plant in the daisy family)"
+        "meaning": {
+          "vi": "Crepidiastrum keiskeanum (species of plant in the daisy family)"
+        },
+        "romaji": "azetouna"
       },
       {
         "example": "畦",
         "reading": "あぜ",
-        "meaning": "ridge of earth between rice fields, ridge between grooves in threshold or lintel, footpath between rice fields, causeway"
+        "meaning": {
+          "vi": "ridge of earth between rice fields, ridge between grooves in threshold or lintel, footpath between rice fields, causeway"
+        },
+        "romaji": "aze"
       },
       {
         "example": "辺",
         "reading": "ほとり",
-        "meaning": "side (esp. of a waterbody), edge, bank, shore"
+        "meaning": {
+          "vi": "side (esp. of a waterbody), edge, bank, shore"
+        },
+        "romaji": "hotori"
       }
     ],
     "radical": {
@@ -66,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07554.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7554.gif",
     "uri": "https://jisho.org/search/%E7%95%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạn"
+  ]
 }

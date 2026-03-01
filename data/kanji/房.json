@@ -19,39 +19,60 @@
       {
         "example": "房",
         "reading": "ボウ",
-        "meaning": "chamber, room, cell (prison), atrium, home of a monk, monk, Chinese \"room\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "chamber, room, cell (prison), atrium, home of a monk, monk, Chinese \"room\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "bou"
       },
       {
         "example": "坊主",
         "reading": "ボウズ",
-        "meaning": "Buddhist priest, bonze, close-cropped hair, crew cut, person with a shorn head, boy, sonny, lad, not catching anything, the August 20-point card"
+        "meaning": {
+          "vi": "Buddhist priest, bonze, close-cropped hair, crew cut, person with a shorn head, boy, sonny, lad, not catching anything, the August 20-point card"
+        },
+        "romaji": "bouzu"
       },
       {
         "example": "書房",
         "reading": "ショボウ",
-        "meaning": "study, library, bookstore, bookshop, publishing company"
+        "meaning": {
+          "vi": "study, library, bookstore, bookshop, publishing company"
+        },
+        "romaji": "shobou"
       },
       {
         "example": "工房",
         "reading": "コウボウ",
-        "meaning": "workshop, studio, atelier"
+        "meaning": {
+          "vi": "workshop, studio, atelier"
+        },
+        "romaji": "koubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "房",
         "reading": "ふさ",
-        "meaning": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"
+        "meaning": {
+          "vi": "tuft (of hair, threads, etc.), fringe, tassel, bunch (of grapes, bananas, etc.), cluster (of flowers), segment (of a tangerine, etc.), section"
+        },
+        "romaji": "fusa"
       },
       {
         "example": "房尾巻猿",
         "reading": "ふさおまきざる",
-        "meaning": "brown capuchin, tufted capuchin (Cebus apella)"
+        "meaning": {
+          "vi": "brown capuchin, tufted capuchin (Cebus apella)"
+        },
+        "romaji": "fusaomakizaru"
       },
       {
         "example": "一房",
         "reading": "ひとふさ",
-        "meaning": "one tuft (of hair, threads, etc.), one bunch (of grapes, bananas, etc.), one cluster (e.g. of flowers), one segment (of a tangerine, etc.), one section"
+        "meaning": {
+          "vi": "one tuft (of hair, threads, etc.), one bunch (of grapes, bananas, etc.), one cluster (e.g. of flowers), one segment (of a tangerine, etc.), one section"
+        },
+        "romaji": "hitofusa"
       }
     ],
     "radical": {
@@ -72,5 +93,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0623f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/623f.gif",
     "uri": "https://jisho.org/search/%E6%88%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàng",
+    "phòng"
+  ]
 }

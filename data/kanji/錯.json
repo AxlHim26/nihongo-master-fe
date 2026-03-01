@@ -18,27 +18,42 @@
       {
         "example": "錯誤",
         "reading": "サクゴ",
-        "meaning": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
+        "meaning": {
+          "vi": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
+        },
+        "romaji": "sakugo"
       },
       {
         "example": "錯綜",
         "reading": "サクソウ",
-        "meaning": "becoming complicated, becoming involved, being intricate, becoming entangled, becoming jumbled, becoming mixed up"
+        "meaning": {
+          "vi": "becoming complicated, becoming involved, being intricate, becoming entangled, becoming jumbled, becoming mixed up"
+        },
+        "romaji": "sakusou"
       },
       {
         "example": "交錯",
         "reading": "コウサク",
-        "meaning": "mixture, blending, complication, crossing, intersecting, interlacing"
+        "meaning": {
+          "vi": "mixture, blending, complication, crossing, intersecting, interlacing"
+        },
+        "romaji": "kousaku"
       },
       {
         "example": "性倒錯",
         "reading": "セイトウサク",
-        "meaning": "paraphilia, sexual deviancy"
+        "meaning": {
+          "vi": "paraphilia, sexual deviancy"
+        },
+        "romaji": "seitousaku"
       },
       {
         "example": "介錯",
         "reading": "カイシャク",
-        "meaning": "beheading (as the ending to a seppuku), assistance, help"
+        "meaning": {
+          "vi": "beheading (as the ending to a seppuku), assistance, help"
+        },
+        "romaji": "kaishaku"
       }
     ],
     "kunyomiExamples": [],
@@ -59,5 +74,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932f.gif",
     "uri": "https://jisho.org/search/%E9%8C%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thác",
+    "thố"
+  ]
 }

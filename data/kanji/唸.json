@@ -18,22 +18,34 @@
       {
         "example": "唸る",
         "reading": "うなる",
-        "meaning": "rên rỉ, gầm, hú, kêu ầm ầm, kêu vo vo (động cơ, gió...), oà lên (ngưỡng mộ), hát giọng trầm, sắp vỡ, tràn"
+        "meaning": {
+          "vi": "rên rỉ, gầm, hú, kêu ầm ầm, kêu vo vo (động cơ, gió...), oà lên (ngưỡng mộ), hát giọng trầm, sắp vỡ, tràn"
+        },
+        "romaji": "unaru"
       },
       {
         "example": "唸るほど",
         "reading": "うなるほど",
-        "meaning": "cực kỳ, vô cùng (ngon, nhiều...), tiền chất đống"
+        "meaning": {
+          "vi": "cực kỳ, vô cùng (ngon, nhiều...), tiền chất đống"
+        },
+        "romaji": "unaruhodo"
       },
       {
         "example": "唸り",
         "reading": "うなり",
-        "meaning": "rên, gầm, gừ, rống, hú, kêu vo vo (động cơ), thiết bị gắn diều kêu vo vo, nhịp (giao thoa âm)"
+        "meaning": {
+          "vi": "rên, gầm, gừ, rống, hú, kêu vo vo (động cơ), thiết bị gắn diều kêu vo vo, nhịp (giao thoa âm)"
+        },
+        "romaji": "unari"
       },
       {
         "example": "唸り声",
         "reading": "うなりごえ",
-        "meaning": "rên, gầm, rống, gừ, kêu vo vo (máy, đường dây...), kêu ù ù (động cơ), rít (gió)"
+        "meaning": {
+          "vi": "rên, gầm, rống, gừ, kêu vo vo (máy, đường dây...), kêu ù ù (động cơ), rít (gió)"
+        },
+        "romaji": "unarigoe"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05538.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5538.gif",
     "uri": "https://jisho.org/search/%E5%94%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "niệm",
+    "điếm"
+  ]
 }

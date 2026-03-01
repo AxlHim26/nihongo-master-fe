@@ -17,22 +17,34 @@
       {
         "example": "塾",
         "reading": "ジュク",
-        "meaning": "cram school, private tutoring school, juku"
+        "meaning": {
+          "vi": "cram school, private tutoring school, juku"
+        },
+        "romaji": "juku"
       },
       {
         "example": "塾長",
         "reading": "ジュクチョウ",
-        "meaning": "principal of a private school"
+        "meaning": {
+          "vi": "principal of a private school"
+        },
+        "romaji": "jukuchou"
       },
       {
         "example": "私塾",
         "reading": "シジュク",
-        "meaning": "small private school (esp. for cramming), private school (in the Edo period, orig. run by Confucianists)"
+        "meaning": {
+          "vi": "small private school (esp. for cramming), private school (in the Edo period, orig. run by Confucianists)"
+        },
+        "romaji": "shijuku"
       },
       {
         "example": "入塾",
         "reading": "ニュウジュク",
-        "meaning": "enrolling at a cram school"
+        "meaning": {
+          "en": "enrolling at a cram school"
+        },
+        "romaji": "nyuujuku"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0587e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/587e.gif",
     "uri": "https://jisho.org/search/%E5%A1%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thục"
+  ]
 }

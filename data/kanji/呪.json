@@ -24,54 +24,84 @@
       {
         "example": "呪",
         "reading": "ジュ",
-        "meaning": "bùa, lời nguyền, chân ngôn"
+        "meaning": {
+          "vi": "bùa, lời nguyền, chân ngôn"
+        },
+        "romaji": "ju"
       },
       {
         "example": "呪術",
         "reading": "ジュジュツ",
-        "meaning": "ma thuật, bùa chú"
+        "meaning": {
+          "vi": "ma thuật, bùa chú"
+        },
+        "romaji": "jujutsu"
       },
       {
         "example": "消災呪",
         "reading": "ショウサイジュ",
-        "meaning": "chân ngôn trừ tai ương"
+        "meaning": {
+          "vi": "chân ngôn trừ tai ương"
+        },
+        "romaji": "shousaiju"
       },
       {
         "example": "明呪",
         "reading": "ミョウジュ",
-        "meaning": "mantra"
+        "meaning": {
+          "en": "mantra"
+        },
+        "romaji": "myouju"
       },
       {
         "example": "呪詛",
         "reading": "ジュソ",
-        "meaning": "curse, malediction, hex"
+        "meaning": {
+          "en": "curse, malediction, hex"
+        },
+        "romaji": "juso"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "呪う",
         "reading": "まじなう",
-        "meaning": "cầu tránh tai ương, nguyền rủa, yểm bùa, chữa bệnh bằng cầu nguyện"
+        "meaning": {
+          "vi": "cầu tránh tai ương, nguyền rủa, yểm bùa, chữa bệnh bằng cầu nguyện"
+        },
+        "romaji": "majinau"
       },
       {
         "example": "呪い",
         "reading": "のろい",
-        "meaning": "lời nguyền, bùa"
+        "meaning": {
+          "vi": "lời nguyền, bùa"
+        },
+        "romaji": "noroi"
       },
       {
         "example": "呪い殺す",
         "reading": "のろいころす",
-        "meaning": "nguyền cho ai chết"
+        "meaning": {
+          "vi": "nguyền cho ai chết"
+        },
+        "romaji": "noroikorosu"
       },
       {
         "example": "呪い",
         "reading": "まじない",
-        "meaning": "bùa chú, lời nguyền"
+        "meaning": {
+          "vi": "bùa chú, lời nguyền"
+        },
+        "romaji": "majinai"
       },
       {
         "example": "呪う",
         "reading": "のろう",
-        "meaning": "nguyền rủa, ghét cay ghét đắng"
+        "meaning": {
+          "vi": "nguyền rủa, ghét cay ghét đắng"
+        },
+        "romaji": "norou"
       }
     ],
     "radical": {
@@ -86,5 +116,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0546a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/546a.gif",
     "uri": "https://jisho.org/search/%E5%91%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chú"
+  ]
 }

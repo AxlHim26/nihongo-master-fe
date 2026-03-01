@@ -23,54 +23,84 @@
       {
         "example": "窮屈",
         "reading": "キュウクツ",
-        "meaning": "narrow, tight, cramped, formal, stiff, strict, ceremonious, rigid, constrained, uncomfortable, tight (e.g. finances)"
+        "meaning": {
+          "vi": "narrow, tight, cramped, formal, stiff, strict, ceremonious, rigid, constrained, uncomfortable, tight (e.g. finances)"
+        },
+        "romaji": "kyuukutsu"
       },
       {
         "example": "究極",
         "reading": "キュウキョク",
-        "meaning": "ultimate, final, last, eventual"
+        "meaning": {
+          "en": "ultimate, final, last, eventual"
+        },
+        "romaji": "kyuukyoku"
       },
       {
         "example": "無窮",
         "reading": "ムキュウ",
-        "meaning": "eternity, infinitude, immortality"
+        "meaning": {
+          "en": "eternity, infinitude, immortality"
+        },
+        "romaji": "mukyuu"
       },
       {
         "example": "天壌無窮",
         "reading": "テンジョウムキュウ",
-        "meaning": "as eternal as heaven and earth"
+        "meaning": {
+          "en": "as eternal as heaven and earth"
+        },
+        "romaji": "tenjoumukyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "極める",
         "reading": "きわめる",
-        "meaning": "to carry to extremes, to go to the end of something, to reach the limits of something, to reach the peak of something (e.g. luxury, hardships, etc), to be extremely (e.g. busy), to exhaust completely, to have nothing left (e.g. to say)"
+        "meaning": {
+          "vi": "to carry to extremes, to go to the end of something, to reach the limits of something, to reach the peak of something (e.g. luxury, hardships, etc), to be extremely (e.g. busy), to exhaust completely, to have nothing left (e.g. to say)"
+        },
+        "romaji": "kiwameru"
       },
       {
         "example": "極まる",
         "reading": "きわまる",
-        "meaning": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled"
+        "meaning": {
+          "en": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled"
+        },
+        "romaji": "kiwamaru"
       },
       {
         "example": "極まり",
         "reading": "きわまり",
-        "meaning": "extremity, end, bound, limit"
+        "meaning": {
+          "en": "extremity, end, bound, limit"
+        },
+        "romaji": "kiwamari"
       },
       {
         "example": "極まりない",
         "reading": "きわまりない",
-        "meaning": "extremely, in the extreme, knows no bounds (e.g. rudeness), unparalleled, boundless (e.g. universe, ocean), limitless"
+        "meaning": {
+          "vi": "extremely, in the extreme, knows no bounds (e.g. rudeness), unparalleled, boundless (e.g. universe, ocean), limitless"
+        },
+        "romaji": "kiwamarinai"
       },
       {
         "example": "極み",
         "reading": "きわみ",
-        "meaning": "height, acme, extremity, peak, end, limit"
+        "meaning": {
+          "vi": "height, acme, extremity, peak, end, limit"
+        },
+        "romaji": "kiwami"
       },
       {
         "example": "窮みなき",
         "reading": "きわみなき",
-        "meaning": "without limit, endless"
+        "meaning": {
+          "en": "without limit, endless"
+        },
+        "romaji": "kiwaminaki"
       }
     ],
     "radical": {
@@ -88,5 +118,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07aae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7aae.gif",
     "uri": "https://jisho.org/search/%E7%AA%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cùng"
+  ]
 }

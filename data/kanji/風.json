@@ -379,64 +379,100 @@
       {
         "example": "風",
         "reading": "フウ",
-        "meaning": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements)"
+        "meaning": {
+          "vi": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements)"
+        },
+        "romaji": "fuu"
       },
       {
         "example": "風格",
         "reading": "フウカク",
-        "meaning": "personality, style, appearance"
+        "meaning": {
+          "vi": "personality, style, appearance"
+        },
+        "romaji": "fuukaku"
       },
       {
         "example": "逆風",
         "reading": "ギャクフウ",
-        "meaning": "headwind, adverse wind"
+        "meaning": {
+          "en": "headwind, adverse wind"
+        },
+        "romaji": "gyakufuu"
       },
       {
         "example": "作風",
         "reading": "サクフウ",
-        "meaning": "style (of a work, author, artist, etc.), characteristics"
+        "meaning": {
+          "en": "style (of a work, author, artist, etc.), characteristics"
+        },
+        "romaji": "sakufuu"
       },
       {
         "example": "風",
         "reading": "フウ",
-        "meaning": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements)"
+        "meaning": {
+          "vi": "method, manner, way, style, appearance, air, tendency, folk song (genre of the Shi Jing), wind (one of the five elements)"
+        },
+        "romaji": "fuu"
       },
       {
         "example": "振り",
         "reading": "フリ",
-        "meaning": "swing, shake, sweep, wave, wag, appearance, behaviour, behavior, pretence, pretense, (false) show, pretending, (a customer) coming to restaurant, ryokan, etc. without a reservation or introduction, postures (of a dance), lead in (to a joke, question, etc.), setup, unsewn part of a hanging sleeve on a traditional Japanese woman's garment, counter for swords, blades, etc."
+        "meaning": {
+          "vi": "swing, shake, sweep, wave, wag, appearance, behaviour, behavior, pretence, pretense, (false) show, pretending, (a customer) coming to restaurant, ryokan, etc. without a reservation or introduction, postures (of a dance), lead in (to a joke, question, etc.), setup, unsewn part of a hanging sleeve on a traditional Japanese woman's garment, counter for swords, blades, etc."
+        },
+        "romaji": "furi"
       },
       {
         "example": "中風",
         "reading": "チュウフウ",
-        "meaning": "palsy, paralysis"
+        "meaning": {
+          "vi": "palsy, paralysis"
+        },
+        "romaji": "chuufuu"
       },
       {
         "example": "破風",
         "reading": "ハフ",
-        "meaning": "gable"
+        "meaning": {
+          "en": "gable"
+        },
+        "romaji": "hafu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "風",
         "reading": "かぜ",
-        "meaning": "wind, breeze, draught, draft, manner, behaviour, behavior, cold, influenza"
+        "meaning": {
+          "en": "wind, breeze, draught, draft, manner, behaviour, behavior, cold, influenza"
+        },
+        "romaji": "kaze"
       },
       {
         "example": "風邪",
         "reading": "かぜ",
-        "meaning": "(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)"
+        "meaning": {
+          "vi": "(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)"
+        },
+        "romaji": "kaze"
       },
       {
         "example": "涼風",
         "reading": "りょうふう",
-        "meaning": "cool breeze, refreshing breeze"
+        "meaning": {
+          "en": "cool breeze, refreshing breeze"
+        },
+        "romaji": "ryoufuu"
       },
       {
         "example": "西風",
         "reading": "にしかぜ",
-        "meaning": "west wind"
+        "meaning": {
+          "en": "west wind"
+        },
+        "romaji": "nishikaze"
       }
     ],
     "radical": {
@@ -453,5 +489,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98a8.gif",
     "uri": "https://jisho.org/search/%E9%A2%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "phong",
+    "phóng",
+    "phúng"
+  ]
 }

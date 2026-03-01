@@ -17,32 +17,50 @@
       {
         "example": "圭角",
         "reading": "ケイカク",
-        "meaning": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+        "meaning": {
+          "vi": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+        },
+        "romaji": "keikaku"
       },
       {
         "example": "圭璧",
         "reading": "ケイヘキ",
-        "meaning": "ritual jades worn by feudal lords in ancient China"
+        "meaning": {
+          "en": "ritual jades worn by feudal lords in ancient China"
+        },
+        "romaji": "keiheki"
       },
       {
         "example": "刀圭",
         "reading": "トウケイ",
-        "meaning": "medicine, art of medicine, doctor, dispensing spoon"
+        "meaning": {
+          "vi": "medicine, art of medicine, doctor, dispensing spoon"
+        },
+        "romaji": "toukei"
       },
       {
         "example": "尖形",
         "reading": "センケイ",
-        "meaning": "pointed, pointy, acuminate"
+        "meaning": {
+          "vi": "pointed, pointy, acuminate"
+        },
+        "romaji": "senkei"
       },
       {
         "example": "圭角",
         "reading": "ケイカク",
-        "meaning": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+        "meaning": {
+          "vi": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+        },
+        "romaji": "keikaku"
       },
       {
         "example": "圭璧",
         "reading": "ケイヘキ",
-        "meaning": "ritual jades worn by feudal lords in ancient China"
+        "meaning": {
+          "en": "ritual jades worn by feudal lords in ancient China"
+        },
+        "romaji": "keiheki"
       }
     ],
     "kunyomiExamples": [],
@@ -57,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0572d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/572d.gif",
     "uri": "https://jisho.org/search/%E5%9C%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "khuê"
+  ]
 }

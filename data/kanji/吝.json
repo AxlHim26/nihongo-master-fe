@@ -18,39 +18,60 @@
       {
         "example": "悋気",
         "reading": "リンキ",
-        "meaning": "jealousy"
+        "meaning": {
+          "en": "jealousy"
+        },
+        "romaji": "rinki"
       },
       {
         "example": "吝嗇",
         "reading": "リンショク",
-        "meaning": "stinginess, miserliness, parsimony"
+        "meaning": {
+          "vi": "stinginess, miserliness, parsimony"
+        },
+        "romaji": "rinshoku"
       },
       {
         "example": "倹吝",
         "reading": "ケンリン",
-        "meaning": "greedy and stingy"
+        "meaning": {
+          "en": "greedy and stingy"
+        },
+        "romaji": "kenrin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吝い",
         "reading": "しわい",
-        "meaning": "stingy, cheap, very frugal"
+        "meaning": {
+          "vi": "stingy, cheap, very frugal"
+        },
+        "romaji": "shiwai"
       },
       {
         "example": "吝か",
         "reading": "やぶさか",
-        "meaning": "reluctant, hesitant"
+        "meaning": {
+          "en": "reluctant, hesitant"
+        },
+        "romaji": "yabusaka"
       },
       {
         "example": "吝かでない",
         "reading": "やぶさかでない",
-        "meaning": "ready (to do), willing"
+        "meaning": {
+          "en": "ready (to do), willing"
+        },
+        "romaji": "yabusakadenai"
       },
       {
         "example": "惜しむ",
         "reading": "おしむ",
-        "meaning": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish"
+        "meaning": {
+          "vi": "to spare, to grudge, to be sparing (with), to be frugal, to be stingy, to regret, to lament, to be reluctant (to do), to be unwilling, to value, to prize, to hold dear, to love, to cherish"
+        },
+        "romaji": "oshimu"
       }
     ],
     "radical": {
@@ -65,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541d.gif",
     "uri": "https://jisho.org/search/%E5%90%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "lận"
+  ]
 }

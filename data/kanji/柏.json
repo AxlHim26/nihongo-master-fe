@@ -19,49 +19,76 @@
       {
         "example": "柏鵬",
         "reading": "ハクホウ",
-        "meaning": "thời kỳ những năm 1960 thống trị bởi đại vô địch Taiho và Kashiwado"
+        "meaning": {
+          "vi": "thời kỳ những năm 1960 thống trị bởi đại vô địch Taiho và Kashiwado"
+        },
+        "romaji": "hakuhou"
       },
       {
         "example": "柏鵬時代",
         "reading": "ハクホウジダイ",
-        "meaning": "thời kỳ những năm 1960 thống trị bởi đại vô địch Taiho và Kashiwado"
+        "meaning": {
+          "vi": "thời kỳ những năm 1960 thống trị bởi đại vô địch Taiho và Kashiwado"
+        },
+        "romaji": "hakuhoujidai"
       },
       {
         "example": "松柏",
         "reading": "ショウハク",
-        "meaning": "cây thường xanh, cây lá kim, thông và bách, trách nhiệm, trung thành"
+        "meaning": {
+          "vi": "cây thường xanh, cây lá kim, thông và bách, trách nhiệm, trung thành"
+        },
+        "romaji": "shouhaku"
       },
       {
         "example": "梛",
         "reading": "ナギ",
-        "meaning": "nagi (loài cây lá kim Nageia nagi)"
+        "meaning": {
+          "vi": "nagi (loài cây lá kim Nageia nagi)"
+        },
+        "romaji": "nagi"
       },
       {
         "example": "柏槙",
         "reading": "ビャクシン",
-        "meaning": "bách xù Trung Quốc (Juniperus chinensis)"
+        "meaning": {
+          "vi": "bách xù Trung Quốc (Juniperus chinensis)"
+        },
+        "romaji": "byakushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柏",
         "reading": "かしわ",
-        "meaning": "sồi daimyo (Quercus dentata), sồi Nhật"
+        "meaning": {
+          "vi": "sồi daimyo (Quercus dentata), sồi Nhật"
+        },
+        "romaji": "kashiwa"
       },
       {
         "example": "柏木",
         "reading": "かしわぎ",
-        "meaning": "cây sồi, vệ binh cung điện"
+        "meaning": {
+          "vi": "cây sồi, vệ binh cung điện"
+        },
+        "romaji": "kashiwagi"
       },
       {
         "example": "御綱柏",
         "reading": "みつながしわ",
-        "meaning": "Asplenium antiquum, Dendropanax trifidus, lá dùng đựng hoặc dâng rượu, cơm..."
+        "meaning": {
+          "vi": "Asplenium antiquum, Dendropanax trifidus, lá dùng đựng hoặc dâng rượu, cơm..."
+        },
+        "romaji": "mitsunagashiwa"
       },
       {
         "example": "三角柏",
         "reading": "みつのかしわ",
-        "meaning": "lá dùng đựng hoặc dâng rượu, cơm..."
+        "meaning": {
+          "vi": "lá dùng đựng hoặc dâng rượu, cơm..."
+        },
+        "romaji": "mitsunokashiwa"
       }
     ],
     "radical": {
@@ -76,5 +103,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67cf.gif",
     "uri": "https://jisho.org/search/%E6%9F%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "bá",
+    "bách"
+  ]
 }

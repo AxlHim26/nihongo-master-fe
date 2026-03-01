@@ -21,22 +21,34 @@
       {
         "example": "膳",
         "reading": "ゼン",
-        "meaning": "small dining table (usu. for a single person), serving tray (with legs), meal, food, serving, counter for bowlfuls of rice, counter for pairs of chopsticks"
+        "meaning": {
+          "vi": "small dining table (usu. for a single person), serving tray (with legs), meal, food, serving, counter for bowlfuls of rice, counter for pairs of chopsticks"
+        },
+        "romaji": "zen"
       },
       {
         "example": "膳越し",
         "reading": "ゼンゴシ",
-        "meaning": "rudely reaching over one's serving tray to grab food behind it with one's chopsticks"
+        "meaning": {
+          "vi": "rudely reaching over one's serving tray to grab food behind it with one's chopsticks"
+        },
+        "romaji": "zengoshi"
       },
       {
         "example": "大膳",
         "reading": "ダイゼン",
-        "meaning": "black-bellied plover, grey plover (Pluvialis squatarola)"
+        "meaning": {
+          "vi": "black-bellied plover, grey plover (Pluvialis squatarola)"
+        },
+        "romaji": "daizen"
       },
       {
         "example": "陪膳",
         "reading": "バイゼン",
-        "meaning": "serving food (to a nobleman), nobleman's server"
+        "meaning": {
+          "en": "serving food (to a nobleman), nobleman's server"
+        },
+        "romaji": "baizen"
       }
     ],
     "kunyomiExamples": [],
@@ -58,5 +70,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81b3.gif",
     "uri": "https://jisho.org/search/%E8%86%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiện"
+  ]
 }

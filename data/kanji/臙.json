@@ -17,12 +17,18 @@
       {
         "example": "臙脂",
         "reading": "エンジ",
-        "meaning": "sắc tố đỏ sẫm, son, đỏ sẫm, cochineal"
+        "meaning": {
+          "vi": "sắc tố đỏ sẫm, son, đỏ sẫm, cochineal"
+        },
+        "romaji": "enji"
       },
       {
         "example": "えんじ色",
         "reading": "エンジイロ",
-        "meaning": "đỏ sẫm"
+        "meaning": {
+          "vi": "đỏ sẫm"
+        },
+        "romaji": "enjiiro"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d9.gif",
     "uri": "https://jisho.org/search/%E8%87%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "yên"
+  ]
 }

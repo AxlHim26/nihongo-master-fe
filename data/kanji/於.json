@@ -22,29 +22,42 @@
       {
         "example": "於いて",
         "reading": "オイテ",
-        "meaning": "at (a time or place), in, on, in (a situation, matter, etc.), on (a point), when it comes to, regarding, with respect to, in (terms of), as to, as for, on the part of, under the authority of, in the name of"
+        "meaning": {
+          "vi": "at (a time or place), in, on, in (a situation, matter, etc.), on (a point), when it comes to, regarding, with respect to, in (terms of), as to, as for, on the part of, under the authority of, in the name of"
+        },
+        "romaji": "oite"
       },
       {
         "example": "於かれましては",
         "reading": "オカレマシテハ",
-        "meaning": "in respect of, in regard to, as for"
+        "meaning": {
+          "vi": "in respect of, in regard to, as for"
+        },
+        "romaji": "okaremashiteha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "於いて",
         "reading": "おいて",
-        "meaning": "at (a time or place), in, on, in (a situation, matter, etc.), on (a point), when it comes to, regarding, with respect to, in (terms of), as to, as for, on the part of, under the authority of, in the name of"
+        "meaning": {
+          "vi": "at (a time or place), in, on, in (a situation, matter, etc.), on (a point), when it comes to, regarding, with respect to, in (terms of), as to, as for, on the part of, under the authority of, in the name of"
+        },
+        "romaji": "oite"
       },
       {
         "example": "於ける",
         "reading": "おける",
-        "meaning": "in, at, for"
+        "meaning": {
+          "en": "in, at, for"
+        },
+        "romaji": "okeru"
       },
       {
         "example": "【ああ】",
         "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"
       }
     ],
     "radical": {
@@ -59,5 +72,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bc.gif",
     "uri": "https://jisho.org/search/%E6%96%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "ô",
+    "ư"
+  ]
 }

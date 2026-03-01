@@ -24,59 +24,92 @@
       {
         "example": "蓋果",
         "reading": "ガイカ",
-        "meaning": "pyxidium"
+        "meaning": {
+          "vi": "pyxidium"
+        },
+        "romaji": "gaika"
       },
       {
         "example": "蓋世",
         "reading": "ガイセイ",
-        "meaning": "matchless (heroism, spirit, resolve, etc.), peerless, overwhelming, world-dominating"
+        "meaning": {
+          "vi": "matchless (heroism, spirit, resolve, etc.), peerless, overwhelming, world-dominating"
+        },
+        "romaji": "gaisei"
       },
       {
         "example": "鰓蓋",
         "reading": "エラブタ",
-        "meaning": "gill cover, operculum"
+        "meaning": {
+          "vi": "gill cover, operculum"
+        },
+        "romaji": "erabuta"
       },
       {
         "example": "口蓋",
         "reading": "コウガイ",
-        "meaning": "palate"
+        "meaning": {
+          "vi": "palate"
+        },
+        "romaji": "kougai"
       },
       {
         "example": "蓋世",
         "reading": "ガイセイ",
-        "meaning": "matchless (heroism, spirit, resolve, etc.), peerless, overwhelming, world-dominating"
+        "meaning": {
+          "vi": "matchless (heroism, spirit, resolve, etc.), peerless, overwhelming, world-dominating"
+        },
+        "romaji": "gaisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蓋",
         "reading": "ふた",
-        "meaning": "cover, lid, cap"
+        "meaning": {
+          "vi": "cover, lid, cap"
+        },
+        "romaji": "futa"
       },
       {
         "example": "蓋開け",
         "reading": "ふたあけ",
-        "meaning": "opening, beginning, commencement"
+        "meaning": {
+          "vi": "opening, beginning, commencement"
+        },
+        "romaji": "futaake"
       },
       {
         "example": "ポケ蓋",
         "reading": "ポケふた",
-        "meaning": "manhole cover decorated with Pokémon creatures"
+        "meaning": {
+          "vi": "manhole cover decorated with Pokémon creatures"
+        },
+        "romaji": "pokefuta"
       },
       {
         "example": "臭い物に蓋",
         "reading": "くさいものにふた",
-        "meaning": "looking the other way, hushing up a problem"
+        "meaning": {
+          "vi": "looking the other way, hushing up a problem"
+        },
+        "romaji": "kusaimononifuta"
       },
       {
         "example": "蓋し",
         "reading": "けだし",
-        "meaning": "certainly, really, truly, indeed, possibly, maybe, perhaps, probably"
+        "meaning": {
+          "vi": "certainly, really, truly, indeed, possibly, maybe, perhaps, probably"
+        },
+        "romaji": "kedashi"
       },
       {
         "example": "覆う",
         "reading": "おおう",
-        "meaning": "to cover, to hide, to conceal, to wrap, to disguise"
+        "meaning": {
+          "vi": "to cover, to hide, to conceal, to wrap, to disguise"
+        },
+        "romaji": "oou"
       }
     ],
     "radical": {
@@ -96,5 +129,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84cb.gif",
     "uri": "https://jisho.org/search/%E8%93%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cái",
+    "hạp"
+  ]
 }

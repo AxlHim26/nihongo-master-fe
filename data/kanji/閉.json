@@ -355,49 +355,76 @@
       {
         "example": "閉鎖",
         "reading": "ヘイサ",
-        "meaning": "closing, closure, shutdown, lockout"
+        "meaning": {
+          "en": "closing, closure, shutdown, lockout"
+        },
+        "romaji": "heisa"
       },
       {
         "example": "閉会",
         "reading": "ヘイカイ",
-        "meaning": "closure (of a ceremony, event, meeting, etc.)"
+        "meaning": {
+          "en": "closure (of a ceremony, event, meeting, etc.)"
+        },
+        "romaji": "heikai"
       },
       {
         "example": "開閉",
         "reading": "カイヘイ",
-        "meaning": "opening and shutting, opening and closing"
+        "meaning": {
+          "vi": "opening and shutting, opening and closing"
+        },
+        "romaji": "kaihei"
       },
       {
         "example": "幽閉",
         "reading": "ユウヘイ",
-        "meaning": "confinement, imprisonment, incarceration"
+        "meaning": {
+          "vi": "confinement, imprisonment, incarceration"
+        },
+        "romaji": "yuuhei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "閉じる",
         "reading": "とじる",
-        "meaning": "to close (e.g. book, eyes, meeting, etc.), to shut"
+        "meaning": {
+          "en": "to close (e.g. book, eyes, meeting, etc.), to shut"
+        },
+        "romaji": "tojiru"
       },
       {
         "example": "閉ざす",
         "reading": "とざす",
-        "meaning": "to shut, to close, to fasten, to lock, to block (a street, entrance, etc.), to shut in (with snow, ice, etc.), to shut off, to cut off, to cover (e.g. in darkness), to consume (with negative feelings), to fill (e.g. with sadness), to bury (e.g. in grief)"
+        "meaning": {
+          "en": "to shut, to close, to fasten, to lock, to block (a street, entrance, etc.), to shut in (with snow, ice, etc.), to shut off, to cut off, to cover (e.g. in darkness), to consume (with negative feelings), to fill (e.g. with sadness), to bury (e.g. in grief)"
+        },
+        "romaji": "tozasu"
       },
       {
         "example": "閉める",
         "reading": "しめる",
-        "meaning": "to close, to shut"
+        "meaning": {
+          "en": "to close, to shut"
+        },
+        "romaji": "shimeru"
       },
       {
         "example": "閉まる",
         "reading": "しまる",
-        "meaning": "to be shut, to close, to be closed, to be firm (of a body, face, etc.), to be well-knit, to be locked, to tighten, to be tightened, to become sober, to become tense"
+        "meaning": {
+          "en": "to be shut, to close, to be closed, to be firm (of a body, face, etc.), to be well-knit, to be locked, to tighten, to be tightened, to become sober, to become tense"
+        },
+        "romaji": "shimaru"
       },
       {
         "example": "閉てる",
         "reading": "たてる",
-        "meaning": "to shut, to close"
+        "meaning": {
+          "en": "to shut, to close"
+        },
+        "romaji": "tateru"
       }
     ],
     "radical": {
@@ -414,5 +441,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09589.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9589.gif",
     "uri": "https://jisho.org/search/%E9%96%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "bế"
+  ]
 }

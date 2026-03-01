@@ -274,34 +274,52 @@
       {
         "example": "到着",
         "reading": "トウチャク",
-        "meaning": "arrival"
+        "meaning": {
+          "en": "arrival"
+        },
+        "romaji": "touchaku"
       },
       {
         "example": "到達",
         "reading": "トウタツ",
-        "meaning": "reaching, attaining, arrival"
+        "meaning": {
+          "en": "reaching, attaining, arrival"
+        },
+        "romaji": "toutatsu"
       },
       {
         "example": "前人未到",
         "reading": "ゼンジンミトウ",
-        "meaning": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"
+        "meaning": {
+          "vi": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"
+        },
+        "romaji": "zenjinmitou"
       },
       {
         "example": "精到",
         "reading": "セイトウ",
-        "meaning": "meticulous"
+        "meaning": {
+          "en": "meticulous"
+        },
+        "romaji": "seitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "至る",
         "reading": "いたる",
-        "meaning": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+        "meaning": {
+          "vi": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+        },
+        "romaji": "itaru"
       },
       {
         "example": "至る所",
         "reading": "いたるところ",
-        "meaning": "everywhere, all over, throughout"
+        "meaning": {
+          "en": "everywhere, all over, throughout"
+        },
+        "romaji": "itarutokoro"
       }
     ],
     "radical": {
@@ -321,5 +339,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05230.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5230.gif",
     "uri": "https://jisho.org/search/%E5%88%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "đáo"
+  ]
 }

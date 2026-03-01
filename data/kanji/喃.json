@@ -16,29 +16,44 @@
       {
         "example": "喃語",
         "reading": "ナンゴ",
-        "meaning": "lover's whispers, sweet nothings, whispered intimacies, babbling (of a baby), babble"
+        "meaning": {
+          "vi": "lover's whispers, sweet nothings, whispered intimacies, babbling (of a baby), babble"
+        },
+        "romaji": "nango"
       },
       {
         "example": "喃々",
         "reading": "ナンナン",
-        "meaning": "chatteringly, wittering on, prattling on, blathering on"
+        "meaning": {
+          "vi": "chatteringly, wittering on, prattling on, blathering on"
+        },
+        "romaji": "nannan"
       },
       {
         "example": "喃々",
         "reading": "ナンナン",
-        "meaning": "chatteringly, wittering on, prattling on, blathering on"
+        "meaning": {
+          "vi": "chatteringly, wittering on, prattling on, blathering on"
+        },
+        "romaji": "nannan"
       },
       {
         "example": "喋々喃々",
         "reading": "チョウチョウナンナン",
-        "meaning": "billing and cooing, holding an intimate, long-winded conversation in whispers"
+        "meaning": {
+          "vi": "billing and cooing, holding an intimate, long-winded conversation in whispers"
+        },
+        "romaji": "chouchounannan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喃",
         "reading": "のう",
-        "meaning": "excuse me! (when calling out to someone), right?, don't you agree?"
+        "meaning": {
+          "en": "excuse me! (when calling out to someone), right?, don't you agree?"
+        },
+        "romaji": "nou"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05583.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5583.gif",
     "uri": "https://jisho.org/search/%E5%96%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "nam"
+  ]
 }

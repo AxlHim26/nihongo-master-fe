@@ -277,69 +277,108 @@
       {
         "example": "羽",
         "reading": "ウ",
-        "meaning": "fifth degree (of the Japanese and Chinese pentatonic scale)"
+        "meaning": {
+          "vi": "fifth degree (of the Japanese and Chinese pentatonic scale)"
+        },
+        "romaji": "u"
       },
       {
         "example": "羽毛",
         "reading": "ウモウ",
-        "meaning": "feather, plume, plumage, down"
+        "meaning": {
+          "vi": "feather, plume, plumage, down"
+        },
+        "romaji": "umou"
       },
       {
         "example": "正羽",
         "reading": "セイウ",
-        "meaning": "contour feather"
+        "meaning": {
+          "en": "contour feather"
+        },
+        "romaji": "seiu"
       },
       {
         "example": "奥羽",
         "reading": "オウウ",
-        "meaning": "Ōu (the two former provinces of Mutsu and Dewa), Tōhoku"
+        "meaning": {
+          "vi": "Ōu (the two former provinces of Mutsu and Dewa), Tōhoku"
+        },
+        "romaji": "ouu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "羽",
         "reading": "はね",
-        "meaning": "feather, plume, down, wing, blade (of a fan, propeller, etc.), shuttlecock (in badminton), shuttlecock (in hanetsuki), arrow feathers"
+        "meaning": {
+          "vi": "feather, plume, down, wing, blade (of a fan, propeller, etc.), shuttlecock (in badminton), shuttlecock (in hanetsuki), arrow feathers"
+        },
+        "romaji": "hane"
       },
       {
         "example": "羽目",
         "reading": "はめ",
-        "meaning": "panel, wainscoting, wainscotting, plight, fix, bind, awkward situation, difficult situation, mess"
+        "meaning": {
+          "vi": "panel, wainscoting, wainscotting, plight, fix, bind, awkward situation, difficult situation, mess"
+        },
+        "romaji": "hame"
       },
       {
         "example": "白羽",
         "reading": "しらは",
-        "meaning": "white feather"
+        "meaning": {
+          "en": "white feather"
+        },
+        "romaji": "shiraha"
       },
       {
         "example": "切羽",
         "reading": "きりは",
-        "meaning": "face, working face"
+        "meaning": {
+          "en": "face, working face"
+        },
+        "romaji": "kiriha"
       },
       {
         "example": "羽",
         "reading": "わ",
-        "meaning": "counter for birds or rabbits"
+        "meaning": {
+          "en": "counter for birds or rabbits"
+        },
+        "romaji": "wa"
       },
       {
         "example": "出羽",
         "reading": "でわ",
-        "meaning": "Dewa (former province located in present-day Yamagata and Akita prefectures)"
+        "meaning": {
+          "vi": "Dewa (former province located in present-day Yamagata and Akita prefectures)"
+        },
+        "romaji": "dewa"
       },
       {
         "example": "柏崎刈羽",
         "reading": "かしさきかりわ",
-        "meaning": "Kashiwazaki Kariwa"
+        "meaning": {
+          "en": "Kashiwazaki Kariwa"
+        },
+        "romaji": "kashisakikariwa"
       },
       {
         "example": "羽",
         "reading": "はね",
-        "meaning": "feather, plume, down, wing, blade (of a fan, propeller, etc.), shuttlecock (in badminton), shuttlecock (in hanetsuki), arrow feathers"
+        "meaning": {
+          "vi": "feather, plume, down, wing, blade (of a fan, propeller, etc.), shuttlecock (in badminton), shuttlecock (in hanetsuki), arrow feathers"
+        },
+        "romaji": "hane"
       },
       {
         "example": "羽アリ",
         "reading": "はあり",
-        "meaning": "winged ant, flying ant"
+        "meaning": {
+          "en": "winged ant, flying ant"
+        },
+        "romaji": "haari"
       }
     ],
     "radical": {
@@ -354,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07fbd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7fbd.gif",
     "uri": "https://jisho.org/search/%E7%BE%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "vũ"
+  ]
 }

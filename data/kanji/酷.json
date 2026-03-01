@@ -19,34 +19,52 @@
       {
         "example": "酷",
         "reading": "コク",
-        "meaning": "severe, harsh, stringent, rigorous, strict, unfair"
+        "meaning": {
+          "en": "severe, harsh, stringent, rigorous, strict, unfair"
+        },
+        "romaji": "koku"
       },
       {
         "example": "酷似",
         "reading": "コクジ",
-        "meaning": "resembling closely, being strikingly similar, bearing a strong likeness"
+        "meaning": {
+          "en": "resembling closely, being strikingly similar, bearing a strong likeness"
+        },
+        "romaji": "kokuji"
       },
       {
         "example": "残忍冷酷",
         "reading": "ザンニンレイコク",
-        "meaning": "atrocious and cold-blooded, cruel, brutal, merciless"
+        "meaning": {
+          "en": "atrocious and cold-blooded, cruel, brutal, merciless"
+        },
+        "romaji": "zanninreikoku"
       },
       {
         "example": "厳酷",
         "reading": "ゲンコク",
-        "meaning": "severity, rigor, rigour"
+        "meaning": {
+          "en": "severity, rigor, rigour"
+        },
+        "romaji": "genkoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "酷い",
         "reading": "ひどい",
-        "meaning": "cruel, heartless, hard, harsh, severe, violent, intense, strong, heavy, extreme, very bad, terrible, awful, excessive, exorbitant, unreasonable, outrageous, unfair, unjust"
+        "meaning": {
+          "en": "cruel, heartless, hard, harsh, severe, violent, intense, strong, heavy, extreme, very bad, terrible, awful, excessive, exorbitant, unreasonable, outrageous, unfair, unjust"
+        },
+        "romaji": "hidoi"
       },
       {
         "example": "ひどい風邪",
         "reading": "ひどいかぜ",
-        "meaning": "bad cold"
+        "meaning": {
+          "en": "bad cold"
+        },
+        "romaji": "hidoikaze"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09177.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9177.gif",
     "uri": "https://jisho.org/search/%E9%85%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "khốc"
+  ]
 }

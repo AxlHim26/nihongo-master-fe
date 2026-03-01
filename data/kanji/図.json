@@ -334,49 +334,76 @@
       {
         "example": "図",
         "reading": "ズ",
-        "meaning": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene"
+        "meaning": {
+          "vi": "drawing, picture, diagram, figure, illustration, chart, graph, map, sight, scene"
+        },
+        "romaji": "zu"
       },
       {
         "example": "図鑑",
         "reading": "ズカン",
-        "meaning": "pictorial book, picture book, illustrated reference book, identification manual, field guide"
+        "meaning": {
+          "vi": "pictorial book, picture book, illustrated reference book, identification manual, field guide"
+        },
+        "romaji": "zukan"
       },
       {
         "example": "一途",
         "reading": "イチズ",
-        "meaning": "single-minded, intent, determined, wholehearted, earnest, devoted (to)"
+        "meaning": {
+          "en": "single-minded, intent, determined, wholehearted, earnest, devoted (to)"
+        },
+        "romaji": "ichizu"
       },
       {
         "example": "構図",
         "reading": "コウズ",
-        "meaning": "composition (of painting), structural outline, compositional arrangement"
+        "meaning": {
+          "vi": "composition (of painting), structural outline, compositional arrangement"
+        },
+        "romaji": "kouzu"
       },
       {
         "example": "図書館",
         "reading": "トショカン",
-        "meaning": "library"
+        "meaning": {
+          "en": "library"
+        },
+        "romaji": "toshokan"
       },
       {
         "example": "図書",
         "reading": "トショ",
-        "meaning": "books"
+        "meaning": {
+          "en": "books"
+        },
+        "romaji": "tosho"
       },
       {
         "example": "異図",
         "reading": "イト",
-        "meaning": "treasonable intent"
+        "meaning": {
+          "en": "treasonable intent"
+        },
+        "romaji": "ito"
       },
       {
         "example": "隠された意図",
         "reading": "カクサレタイト",
-        "meaning": "hidden agenda"
+        "meaning": {
+          "en": "hidden agenda"
+        },
+        "romaji": "kakusaretaito"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "図る",
         "reading": "はかる",
-        "meaning": "to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in"
+        "meaning": {
+          "vi": "to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in"
+        },
+        "romaji": "hakaru"
       }
     ],
     "radical": {
@@ -391,5 +418,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f3.gif",
     "uri": "https://jisho.org/search/%E5%9B%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồ"
+  ]
 }

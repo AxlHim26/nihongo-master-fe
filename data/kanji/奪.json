@@ -19,29 +19,44 @@
       {
         "example": "奪三振",
         "reading": "ダツサンシン",
-        "meaning": "striking a batter out"
+        "meaning": {
+          "en": "striking a batter out"
+        },
+        "romaji": "datsusanshin"
       },
       {
         "example": "奪三振王",
         "reading": "ダツサンシンオウ",
-        "meaning": "(season's) record holder in (for) the most strike-outs"
+        "meaning": {
+          "en": "(season's) record holder in (for) the most strike-outs"
+        },
+        "romaji": "datsusanshin'ou"
       },
       {
         "example": "争奪",
         "reading": "ソウダツ",
-        "meaning": "struggle (for), scramble, contest"
+        "meaning": {
+          "en": "struggle (for), scramble, contest"
+        },
+        "romaji": "soudatsu"
       },
       {
         "example": "収奪",
         "reading": "シュウダツ",
-        "meaning": "plundering, exploitation"
+        "meaning": {
+          "vi": "plundering, exploitation"
+        },
+        "romaji": "shuudatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奪う",
         "reading": "うばう",
-        "meaning": "to take (by force), to take away, to snatch, to steal, to rob (someone) of, to dispossess of, to deprive of, to usurp, to absorb (one's attention), to fascinate, to captivate, to charm, to dazzle"
+        "meaning": {
+          "vi": "to take (by force), to take away, to snatch, to steal, to rob (someone) of, to dispossess of, to deprive of, to usurp, to absorb (one's attention), to fascinate, to captivate, to charm, to dazzle"
+        },
+        "romaji": "ubau"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0596a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/596a.gif",
     "uri": "https://jisho.org/search/%E5%A5%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "đoạt"
+  ]
 }

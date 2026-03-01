@@ -19,29 +19,44 @@
       {
         "example": "微",
         "reading": "ビ",
-        "meaning": "minuteness, one millionth"
+        "meaning": {
+          "en": "minuteness, one millionth"
+        },
+        "romaji": "bi"
       },
       {
         "example": "微細",
         "reading": "ビサイ",
-        "meaning": "minute, fine, detailed, subtle"
+        "meaning": {
+          "en": "minute, fine, detailed, subtle"
+        },
+        "romaji": "bisai"
       },
       {
         "example": "細微",
         "reading": "サイビ",
-        "meaning": "minute, meager, meagre, mean"
+        "meaning": {
+          "en": "minute, meager, meagre, mean"
+        },
+        "romaji": "saibi"
       },
       {
         "example": "翠微",
         "reading": "スイビ",
-        "meaning": "approx. 80% of the way up a mountainside, view of a light green mountain, mountain that appears green from afar"
+        "meaning": {
+          "vi": "approx. 80% of the way up a mountainside, view of a light green mountain, mountain that appears green from afar"
+        },
+        "romaji": "suibi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "微か",
         "reading": "かすか",
-        "meaning": "faint, dim, weak, slight, vague, indistinct, hazy, poor, wretched, meagre, meager, scanty"
+        "meaning": {
+          "vi": "faint, dim, weak, slight, vague, indistinct, hazy, poor, wretched, meagre, meager, scanty"
+        },
+        "romaji": "kasuka"
       }
     ],
     "radical": {
@@ -58,5 +73,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fae.gif",
     "uri": "https://jisho.org/search/%E5%BE%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "vi",
+    "vy"
+  ]
 }

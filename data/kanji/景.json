@@ -319,22 +319,34 @@
       {
         "example": "景",
         "reading": "ケイ",
-        "meaning": "quang cảnh, cảnh, đơn vị đếm cảnh (trong kịch)"
+        "meaning": {
+          "vi": "quang cảnh, cảnh, đơn vị đếm cảnh (trong kịch)"
+        },
+        "romaji": "kei"
       },
       {
         "example": "景観",
         "reading": "ケイカン",
-        "meaning": "phong cảnh"
+        "meaning": {
+          "vi": "phong cảnh"
+        },
+        "romaji": "keikan"
       },
       {
         "example": "八景",
         "reading": "ハッケイ",
-        "meaning": "tám cảnh đẹp"
+        "meaning": {
+          "vi": "tám cảnh đẹp"
+        },
+        "romaji": "hakkei"
       },
       {
         "example": "殺風景",
         "reading": "サップウケイ",
-        "meaning": "ảm đạm, đơn điệu, vô vị, thô"
+        "meaning": {
+          "vi": "ảm đạm, đơn điệu, vô vị, thô"
+        },
+        "romaji": "sappuukei"
       }
     ],
     "kunyomiExamples": [],
@@ -352,5 +364,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0666f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/666f.gif",
     "uri": "https://jisho.org/search/%E6%99%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảnh",
+    "ảnh"
+  ]
 }

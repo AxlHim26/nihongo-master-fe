@@ -326,54 +326,84 @@
       {
         "example": "善",
         "reading": "ゼン",
-        "meaning": "tốt, điều thiện, đức"
+        "meaning": {
+          "vi": "tốt, điều thiện, đức"
+        },
+        "romaji": "zen"
       },
       {
         "example": "善意",
         "reading": "ゼンイ",
-        "meaning": "thiện chí, ý tốt"
+        "meaning": {
+          "vi": "thiện chí, ý tốt"
+        },
+        "romaji": "zen'i"
       },
       {
         "example": "親善",
         "reading": "シンゼン",
-        "meaning": "hữu nghị, quan hệ thân thiện"
+        "meaning": {
+          "vi": "hữu nghị, quan hệ thân thiện"
+        },
+        "romaji": "shinzen"
       },
       {
         "example": "独善",
         "reading": "ドクゼン",
-        "meaning": "tự cho mình đúng"
+        "meaning": {
+          "vi": "tự cho mình đúng"
+        },
+        "romaji": "dokuzen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "良い",
         "reading": "よい",
-        "meaning": "tốt, xuất sắc, ổn, đủ, sẵn sàng, có lợi, được"
+        "meaning": {
+          "vi": "tốt, xuất sắc, ổn, đủ, sẵn sàng, có lợi, được"
+        },
+        "romaji": "yoi"
       },
       {
         "example": "善い行い",
         "reading": "よいおこない",
-        "meaning": "việc thiện"
+        "meaning": {
+          "vi": "việc thiện"
+        },
+        "romaji": "yoiokonai"
       },
       {
         "example": "いい事",
         "reading": "いいこと",
-        "meaning": "điều tốt, cơ hội tốt"
+        "meaning": {
+          "vi": "điều tốt, cơ hội tốt"
+        },
+        "romaji": "iikoto"
       },
       {
         "example": "いい人",
         "reading": "いいひと",
-        "meaning": "người tốt bụng, người yêu"
+        "meaning": {
+          "vi": "người tốt bụng, người yêu"
+        },
+        "romaji": "iihito"
       },
       {
         "example": "良く",
         "reading": "よく",
-        "meaning": "tốt, khéo, thường xuyên, cảm ơn vì..."
+        "meaning": {
+          "vi": "tốt, khéo, thường xuyên, cảm ơn vì..."
+        },
+        "romaji": "yoku"
       },
       {
         "example": "善くも",
         "reading": "よくも",
-        "meaning": "sao dám..., bất ngờ"
+        "meaning": {
+          "vi": "sao dám..., bất ngờ"
+        },
+        "romaji": "yokumo"
       }
     ],
     "radical": {
@@ -390,5 +420,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05584.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5584.gif",
     "uri": "https://jisho.org/search/%E5%96%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiến",
+    "thiện"
+  ]
 }

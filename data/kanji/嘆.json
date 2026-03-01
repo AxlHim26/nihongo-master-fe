@@ -20,34 +20,52 @@
       {
         "example": "嘆",
         "reading": "タン",
-        "meaning": "sigh, grief, lamentation"
+        "meaning": {
+          "en": "sigh, grief, lamentation"
+        },
+        "romaji": "tan"
       },
       {
         "example": "嘆願",
         "reading": "タンガン",
-        "meaning": "entreaty, appeal, petition"
+        "meaning": {
+          "vi": "entreaty, appeal, petition"
+        },
+        "romaji": "tangan"
       },
       {
         "example": "詠嘆",
         "reading": "エイタン",
-        "meaning": "exclamation, admiration"
+        "meaning": {
+          "en": "exclamation, admiration"
+        },
+        "romaji": "eitan"
       },
       {
         "example": "慨嘆",
         "reading": "ガイタン",
-        "meaning": "deploring, lamentation, regret, complaint"
+        "meaning": {
+          "vi": "deploring, lamentation, regret, complaint"
+        },
+        "romaji": "gaitan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嘆く",
         "reading": "なげく",
-        "meaning": "to lament, to grieve, to regret, to deplore"
+        "meaning": {
+          "vi": "to lament, to grieve, to regret, to deplore"
+        },
+        "romaji": "nageku"
       },
       {
         "example": "嘆かわしい",
         "reading": "なげかわしい",
-        "meaning": "lamentable, deplorable, regrettable, sad, wretched"
+        "meaning": {
+          "vi": "lamentable, deplorable, regrettable, sad, wretched"
+        },
+        "romaji": "nagekawashii"
       }
     ],
     "radical": {
@@ -66,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05606.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5606.gif",
     "uri": "https://jisho.org/search/%E5%98%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "thán"
+  ]
 }

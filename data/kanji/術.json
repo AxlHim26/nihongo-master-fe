@@ -318,44 +318,68 @@
       {
         "example": "術",
         "reading": "ジュツ",
-        "meaning": "kỹ thuật, kỹ năng, phương pháp, cách, mưu kế, mẹo, bẫy, ảo thuật, ma thuật"
+        "meaning": {
+          "vi": "kỹ thuật, kỹ năng, phương pháp, cách, mưu kế, mẹo, bẫy, ảo thuật, ma thuật"
+        },
+        "romaji": "jutsu"
       },
       {
         "example": "術後",
         "reading": "ジュツゴ",
-        "meaning": "sau phẫu thuật"
+        "meaning": {
+          "vi": "sau phẫu thuật"
+        },
+        "romaji": "jutsugo"
       },
       {
         "example": "奇術",
         "reading": "キジュツ",
-        "meaning": "ảo thuật, ảo thuật tay"
+        "meaning": {
+          "vi": "ảo thuật, ảo thuật tay"
+        },
+        "romaji": "kijutsu"
       },
       {
         "example": "占星術",
         "reading": "センセイジュツ",
-        "meaning": "chiêm tinh học"
+        "meaning": {
+          "vi": "chiêm tinh học"
+        },
+        "romaji": "senseijutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "術",
         "reading": "すべ",
-        "meaning": "cách, phương pháp"
+        "meaning": {
+          "vi": "cách, phương pháp"
+        },
+        "romaji": "sube"
       },
       {
         "example": "術無し",
         "reading": "すべなし",
-        "meaning": "không còn cách nào, bí, hết kế"
+        "meaning": {
+          "vi": "không còn cách nào, bí, hết kế"
+        },
+        "romaji": "subenashi"
       },
       {
         "example": "なす術",
         "reading": "なすすべ",
-        "meaning": "phương cách, phương pháp"
+        "meaning": {
+          "vi": "phương cách, phương pháp"
+        },
+        "romaji": "nasusube"
       },
       {
         "example": "為ん術",
         "reading": "せんすべ",
-        "meaning": "phương pháp (đúng đắn)"
+        "meaning": {
+          "vi": "phương pháp (đúng đắn)"
+        },
+        "romaji": "sensube"
       }
     ],
     "radical": {
@@ -373,5 +397,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08853.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8853.gif",
     "uri": "https://jisho.org/search/%E8%A1%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuật",
+    "toại"
+  ]
 }

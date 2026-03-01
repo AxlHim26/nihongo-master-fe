@@ -310,54 +310,82 @@
       {
         "example": "辛",
         "reading": "カノト",
-        "meaning": "8th in rank, eighth sign of the Chinese calendar"
+        "meaning": {
+          "en": "8th in rank, eighth sign of the Chinese calendar"
+        },
+        "romaji": "kanoto"
       },
       {
         "example": "辛抱",
         "reading": "シンボウ",
-        "meaning": "patience, endurance, perseverance"
+        "meaning": {
+          "vi": "patience, endurance, perseverance"
+        },
+        "romaji": "shinbou"
       },
       {
         "example": "細辛",
         "reading": "サイシン",
-        "meaning": "Siebold's wild ginger (esp. its dried root or rhizome, used as an antitussive and analgesic in traditional Chinese medicine)"
+        "meaning": {
+          "vi": "Siebold's wild ginger (esp. its dried root or rhizome, used as an antitussive and analgesic in traditional Chinese medicine)"
+        },
+        "romaji": "saishin"
       },
       {
         "example": "【ウスバサイシン】",
         "reading": "Siebold&#39;s wild ginger (Asarum sieboldii)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Siebold&#39;s wild ginger (Asarum sieboldii)"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辛い",
         "reading": "からい",
-        "meaning": "spicy, hot, salty, harsh (criticism), severe (punishment), strict, painful, bitter, difficult, tough"
+        "meaning": {
+          "vi": "spicy, hot, salty, harsh (criticism), severe (punishment), strict, painful, bitter, difficult, tough"
+        },
+        "romaji": "karai"
       },
       {
         "example": "辛い味",
         "reading": "からいあじ",
-        "meaning": "pungent taste"
+        "meaning": {
+          "vi": "pungent taste"
+        },
+        "romaji": "karaiaji"
       },
       {
         "example": "辛い",
         "reading": "つらい",
-        "meaning": "painful, bitter, heart-breaking, difficult (emotionally), tough, difficult, hard (usu. of situations), cruel, harsh, cold"
+        "meaning": {
+          "vi": "painful, bitter, heart-breaking, difficult (emotionally), tough, difficult, hard (usu. of situations), cruel, harsh, cold"
+        },
+        "romaji": "tsurai"
       },
       {
         "example": "辛い目に会う",
         "reading": "つらいめにあう",
-        "meaning": "to have a hard time of it"
+        "meaning": {
+          "en": "to have a hard time of it"
+        },
+        "romaji": "tsuraimeniau"
       },
       {
         "example": "辛",
         "reading": "かのと",
-        "meaning": "8th in rank, eighth sign of the Chinese calendar"
+        "meaning": {
+          "en": "8th in rank, eighth sign of the Chinese calendar"
+        },
+        "romaji": "kanoto"
       },
       {
         "example": "辛卯",
         "reading": "かのとう",
-        "meaning": "Metal Rabbit (28th term of the sexagenary cycle, e.g. 1951, 2011, 2071)"
+        "meaning": {
+          "en": "Metal Rabbit (28th term of the sexagenary cycle, e.g. 1951, 2011, 2071)"
+        },
+        "romaji": "kanotou"
       }
     ],
     "radical": {
@@ -373,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9b.gif",
     "uri": "https://jisho.org/search/%E8%BE%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tân"
+  ]
 }

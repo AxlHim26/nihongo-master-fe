@@ -16,24 +16,36 @@
       {
         "example": "灌漑",
         "reading": "カンガイ",
-        "meaning": "irrigation"
+        "meaning": {
+          "en": "irrigation"
+        },
+        "romaji": "kangai"
       },
       {
         "example": "灌漑農業",
         "reading": "カンガイノウギョウ",
-        "meaning": "irrigation farming"
+        "meaning": {
+          "en": "irrigation farming"
+        },
+        "romaji": "kangainougyou"
       },
       {
         "example": "湯灌",
         "reading": "ユカン",
-        "meaning": "washing a corpse for burial"
+        "meaning": {
+          "vi": "washing a corpse for burial"
+        },
+        "romaji": "yukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "注ぐ",
         "reading": "そそぐ",
-        "meaning": "to pour (into), to sprinkle on (from above), to water (e.g. plants), to pour onto, to spray, to shed (tears), to concentrate one's energy (strength, attention, etc.) on, to devote to, to fix (one's eyes) on, to flow into (e.g. of a river), to run into, to drain into, to fall (of rain, snow), to pour down"
+        "meaning": {
+          "vi": "to pour (into), to sprinkle on (from above), to water (e.g. plants), to pour onto, to spray, to shed (tears), to concentrate one's energy (strength, attention, etc.) on, to devote to, to fix (one's eyes) on, to flow into (e.g. of a river), to run into, to drain into, to fall (of rain, snow), to pour down"
+        },
+        "romaji": "sosogu"
       }
     ],
     "radical": {
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f45.gif",
     "uri": "https://jisho.org/search/%E6%BD%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoán",
+    "quán"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "駑鈍",
         "reading": "ドドン",
-        "meaning": "dull-witted, stupid, foolish"
+        "meaning": {
+          "vi": "dull-witted, stupid, foolish"
+        },
+        "romaji": "dodon"
       },
       {
         "example": "駑馬",
         "reading": "ドバ",
-        "meaning": "hack, inferior horse, inferior person, incapable person"
+        "meaning": {
+          "vi": "hack, inferior horse, inferior person, incapable person"
+        },
+        "romaji": "doba"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d1.gif",
     "uri": "https://jisho.org/search/%E9%A7%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "nô"
+  ]
 }

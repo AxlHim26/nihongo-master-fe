@@ -17,17 +17,26 @@
       {
         "example": "輦車",
         "reading": "レンシャ",
-        "meaning": "wheeled palanquin (with a castle-shaped box)"
+        "meaning": {
+          "vi": "wheeled palanquin (with a castle-shaped box)"
+        },
+        "romaji": "rensha"
       },
       {
         "example": "蓮台",
         "reading": "レンダイ",
-        "meaning": "lotus-shaped pedestal for images of the Buddha, river palanquin, river litter (vehicle)"
+        "meaning": {
+          "vi": "lotus-shaped pedestal for images of the Buddha, river palanquin, river litter (vehicle)"
+        },
+        "romaji": "rendai"
       },
       {
         "example": "鳳輦",
         "reading": "ホウレン",
-        "meaning": "imperial carriage"
+        "meaning": {
+          "vi": "imperial carriage"
+        },
+        "romaji": "houren"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f26.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f26.gif",
     "uri": "https://jisho.org/search/%E8%BC%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "liễn"
+  ]
 }

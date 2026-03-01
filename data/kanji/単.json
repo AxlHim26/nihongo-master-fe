@@ -299,39 +299,60 @@
       {
         "example": "単",
         "reading": "タン",
-        "meaning": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race)"
+        "meaning": {
+          "vi": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race)"
+        },
+        "romaji": "tan"
       },
       {
         "example": "単位",
         "reading": "タンイ",
-        "meaning": "unit, denomination, credit (in school), in units of (e.g. \"in thousands\"), in amounts of"
+        "meaning": {
+          "en": "unit, denomination, credit (in school), in units of (e.g. \"in thousands\"), in amounts of"
+        },
+        "romaji": "tan'i"
       },
       {
         "example": "菜単",
         "reading": "サイタン",
-        "meaning": "menu (at a Chinese restaurant)"
+        "meaning": {
+          "en": "menu (at a Chinese restaurant)"
+        },
+        "romaji": "saitan"
       },
       {
         "example": "指定単",
         "reading": "シテイタン",
-        "meaning": "designated money trust"
+        "meaning": {
+          "en": "designated money trust"
+        },
+        "romaji": "shiteitan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "一重",
         "reading": "ひとえ",
-        "meaning": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
+        "meaning": {
+          "vi": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
+        },
+        "romaji": "hitoe"
       },
       {
         "example": "単衣",
         "reading": "たんい",
-        "meaning": "unlined kimono, one kimono, a single kimono"
+        "meaning": {
+          "en": "unlined kimono, one kimono, a single kimono"
+        },
+        "romaji": "tan'i"
       },
       {
         "example": "十二単",
         "reading": "じゅうにひとえ",
-        "meaning": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle"
+        "meaning": {
+          "vi": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle"
+        },
+        "romaji": "juunihitoe"
       }
     ],
     "radical": {
@@ -347,5 +368,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05358.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5358.gif",
     "uri": "https://jisho.org/search/%E5%8D%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "đan",
+    "đơn",
+    "thiền"
+  ]
 }

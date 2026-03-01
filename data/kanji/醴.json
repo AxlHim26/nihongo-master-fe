@@ -17,14 +17,20 @@
       {
         "example": "醴泉",
         "reading": "レイセン",
-        "meaning": "spring of sweet water"
+        "meaning": {
+          "vi": "spring of sweet water"
+        },
+        "romaji": "reisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "甘酒",
         "reading": "あまざけ",
-        "meaning": "sweet half sake, sweet drink made from fermented rice"
+        "meaning": {
+          "en": "sweet half sake, sweet drink made from fermented rice"
+        },
+        "romaji": "amazake"
       }
     ],
     "radical": {
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b4.gif",
     "uri": "https://jisho.org/search/%E9%86%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lễ"
+  ]
 }

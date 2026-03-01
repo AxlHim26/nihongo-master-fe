@@ -16,14 +16,20 @@
       {
         "example": "榕樹",
         "reading": "ガジュマル",
-        "meaning": "Chinese banyan (Ficus microcarpa), Malayan banyan, Indian laurel"
+        "meaning": {
+          "vi": "Chinese banyan (Ficus microcarpa), Malayan banyan, Indian laurel"
+        },
+        "romaji": "gajumaru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "赤秀",
         "reading": "あこう",
-        "meaning": "Japanese sea fig (Ficus superba var. japonica)"
+        "meaning": {
+          "vi": "Japanese sea fig (Ficus superba var. japonica)"
+        },
+        "romaji": "akou"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06995.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6995.gif",
     "uri": "https://jisho.org/search/%E6%A6%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "dong",
+    "dung"
+  ]
 }

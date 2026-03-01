@@ -17,7 +17,10 @@
       {
         "example": "溽暑",
         "reading": "ジョクショ",
-        "meaning": "sultry, muggy, steamy, sticky, hot and humid, 6th month of the lunar calendar"
+        "meaning": {
+          "en": "sultry, muggy, steamy, sticky, hot and humid, 6th month of the lunar calendar"
+        },
+        "romaji": "jokusho"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ebd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ebd.gif",
     "uri": "https://jisho.org/search/%E6%BA%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhục"
+  ]
 }

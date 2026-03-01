@@ -14,17 +14,26 @@
       {
         "example": "氛氳",
         "reading": "フンウン",
-        "meaning": "lively, vigorous"
+        "meaning": {
+          "en": "lively, vigorous"
+        },
+        "romaji": "fun'un"
       },
       {
         "example": "瞑氛",
         "reading": "メイフン",
-        "meaning": "gloomy feeling, dark sign"
+        "meaning": {
+          "en": "gloomy feeling, dark sign"
+        },
+        "romaji": "meifun"
       },
       {
         "example": "霊氛",
         "reading": "レイフン",
-        "meaning": "mysterious presence, aura of mystery"
+        "meaning": {
+          "vi": "mysterious presence, aura of mystery"
+        },
+        "romaji": "reifun"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c1b.gif",
     "uri": "https://jisho.org/search/%E6%B0%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "phân"
+  ]
 }

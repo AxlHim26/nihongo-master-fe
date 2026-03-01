@@ -375,34 +375,52 @@
       {
         "example": "案",
         "reading": "アン",
-        "meaning": "idea, plan, proposal, suggestion, (government) bill, draft, rough copy, expectation, desk, stand"
+        "meaning": {
+          "vi": "idea, plan, proposal, suggestion, (government) bill, draft, rough copy, expectation, desk, stand"
+        },
+        "romaji": "an"
       },
       {
         "example": "案外",
         "reading": "アンガイ",
-        "meaning": "unexpectedly, surprisingly, unexpected, unanticipated, unforeseen, surprising"
+        "meaning": {
+          "vi": "unexpectedly, surprisingly, unexpected, unanticipated, unforeseen, surprising"
+        },
+        "romaji": "angai"
       },
       {
         "example": "対案",
         "reading": "タイアン",
-        "meaning": "counter-proposal, counter-suggestion"
+        "meaning": {
+          "vi": "counter-proposal, counter-suggestion"
+        },
+        "romaji": "taian"
       },
       {
         "example": "成案",
         "reading": "セイアン",
-        "meaning": "definite plan"
+        "meaning": {
+          "vi": "definite plan"
+        },
+        "romaji": "seian"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "机",
         "reading": "つくえ",
-        "meaning": "desk"
+        "meaning": {
+          "en": "desk"
+        },
+        "romaji": "tsukue"
       },
       {
         "example": "八足の机",
         "reading": "やつあしのつくえ",
-        "meaning": "eight-legged table (used as a stand for religious offerings, etc.)"
+        "meaning": {
+          "en": "eight-legged table (used as a stand for religious offerings, etc.)"
+        },
+        "romaji": "yatsuashinotsukue"
       }
     ],
     "radical": {
@@ -418,5 +436,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06848.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6848.gif",
     "uri": "https://jisho.org/search/%E6%A1%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "án"
+  ]
 }

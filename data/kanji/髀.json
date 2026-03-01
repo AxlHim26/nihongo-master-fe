@@ -17,12 +17,18 @@
       {
         "example": "髀臼",
         "reading": "ヒキュウ",
-        "meaning": "acetabulum, cotyloid cavity"
+        "meaning": {
+          "en": "acetabulum, cotyloid cavity"
+        },
+        "romaji": "hikyuu"
       },
       {
         "example": "髀肉",
         "reading": "ヒニク",
-        "meaning": "round meat, meat from a pig's thigh (from which ham is made)"
+        "meaning": {
+          "vi": "round meat, meat from a pig's thigh (from which ham is made)"
+        },
+        "romaji": "hiniku"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ac0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ac0.gif",
     "uri": "https://jisho.org/search/%E9%AB%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "bễ"
+  ]
 }

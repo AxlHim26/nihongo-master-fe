@@ -16,7 +16,10 @@
       {
         "example": "免黜",
         "reading": "メンチュツ",
-        "meaning": "sự cách chức, sa thải"
+        "meaning": {
+          "vi": "sự cách chức, sa thải"
+        },
+        "romaji": "menchutsu"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edc.gif",
     "uri": "https://jisho.org/search/%E9%BB%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "truất"
+  ]
 }

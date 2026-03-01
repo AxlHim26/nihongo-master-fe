@@ -17,22 +17,34 @@
       {
         "example": "摩耗",
         "reading": "マモウ",
-        "meaning": "wear, abrasion"
+        "meaning": {
+          "en": "wear, abrasion"
+        },
+        "romaji": "mamou"
       },
       {
         "example": "衰耗",
         "reading": "スイモウ",
-        "meaning": "weaken and decline"
+        "meaning": {
+          "en": "weaken and decline"
+        },
+        "romaji": "suimou"
       },
       {
         "example": "減耗",
         "reading": "ゲンモウ",
-        "meaning": "natural decrease"
+        "meaning": {
+          "en": "natural decrease"
+        },
+        "romaji": "genmou"
       },
       {
         "example": "損耗",
         "reading": "ソンモウ",
-        "meaning": "wear, loss"
+        "meaning": {
+          "en": "wear, loss"
+        },
+        "romaji": "sonmou"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08017.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8017.gif",
     "uri": "https://jisho.org/search/%E8%80%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "hao",
+    "háo",
+    "mao",
+    "mạo"
+  ]
 }

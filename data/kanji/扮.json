@@ -20,19 +20,28 @@
       {
         "example": "粉飾",
         "reading": "フンショク",
-        "meaning": "embellishment (e.g. of a story), ornamentation, decoration, putting on makeup"
+        "meaning": {
+          "vi": "embellishment (e.g. of a story), ornamentation, decoration, putting on makeup"
+        },
+        "romaji": "funshoku"
       },
       {
         "example": "扮する",
         "reading": "フンスル",
-        "meaning": "to dress up as, to disguise oneself as, to play the role of"
+        "meaning": {
+          "vi": "to dress up as, to disguise oneself as, to play the role of"
+        },
+        "romaji": "funsuru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "扮する",
         "reading": "ふんする",
-        "meaning": "to dress up as, to disguise oneself as, to play the role of"
+        "meaning": {
+          "vi": "to dress up as, to disguise oneself as, to play the role of"
+        },
+        "romaji": "funsuru"
       }
     ],
     "radical": {
@@ -51,5 +60,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0626e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/626e.gif",
     "uri": "https://jisho.org/search/%E6%89%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "ban",
+    "biện",
+    "bán",
+    "phạn",
+    "phẫn"
+  ]
 }

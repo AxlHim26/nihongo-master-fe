@@ -17,7 +17,10 @@
       {
         "example": "憤懣",
         "reading": "フンマン",
-        "meaning": "(pent-up) anger, indignation, resentment, irritation"
+        "meaning": {
+          "vi": "(pent-up) anger, indignation, resentment, irritation"
+        },
+        "romaji": "funman"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61e3.gif",
     "uri": "https://jisho.org/search/%E6%87%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "muộn"
+  ]
 }

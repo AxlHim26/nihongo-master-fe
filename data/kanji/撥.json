@@ -18,34 +18,52 @@
       {
         "example": "撥音",
         "reading": "ハツオン",
-        "meaning": "syllabic nasal (in Japanese)"
+        "meaning": {
+          "vi": "syllabic nasal (in Japanese)"
+        },
+        "romaji": "hatsuon"
       },
       {
         "example": "撥音便",
         "reading": "ハツオンビン",
-        "meaning": "nasal sound change (generation of the mora 'n', primarily from verb stems ending in 'i')"
+        "meaning": {
+          "vi": "nasal sound change (generation of the mora 'n', primarily from verb stems ending in 'i')"
+        },
+        "romaji": "hatsuonbin"
       },
       {
         "example": "撥",
         "reading": "バチ",
-        "meaning": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+        "meaning": {
+          "vi": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+        },
+        "romaji": "bachi"
       },
       {
         "example": "撥音",
         "reading": "バチオト",
-        "meaning": "sound made by a plectrum"
+        "meaning": {
+          "vi": "sound made by a plectrum"
+        },
+        "romaji": "bachioto"
       },
       {
         "example": "目撥",
         "reading": "メバチ",
-        "meaning": "bigeye tuna (edible fish, Thunnus obesus)"
+        "meaning": {
+          "en": "bigeye tuna (edible fish, Thunnus obesus)"
+        },
+        "romaji": "mebachi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "撥ねる",
         "reading": "はねる",
-        "meaning": "to hit (e.g. with a car), to knock down, to reject, to eliminate, to exclude, to get rid of, to refuse (e.g. a request), to deny, to turn down, to flip, to splash, to splatter, to take (a percentage), to stick up (e.g. of hair), to curl up (e.g. of a moustache), to sweep up (the end of a brush stroke), to pronounce as a syllabic nasal"
+        "meaning": {
+          "vi": "to hit (e.g. with a car), to knock down, to reject, to eliminate, to exclude, to get rid of, to refuse (e.g. a request), to deny, to turn down, to flip, to splash, to splatter, to take (a percentage), to stick up (e.g. of hair), to curl up (e.g. of a moustache), to sweep up (the end of a brush stroke), to pronounce as a syllabic nasal"
+        },
+        "romaji": "haneru"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64a5.gif",
     "uri": "https://jisho.org/search/%E6%92%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "bát",
+    "phạt"
+  ]
 }

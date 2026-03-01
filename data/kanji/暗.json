@@ -363,44 +363,68 @@
       {
         "example": "暗",
         "reading": "アン",
-        "meaning": "darkness"
+        "meaning": {
+          "en": "darkness"
+        },
+        "romaji": "an"
       },
       {
         "example": "暗雲",
         "reading": "アンウン",
-        "meaning": "dark clouds, threatening signs, ominous indications"
+        "meaning": {
+          "en": "dark clouds, threatening signs, ominous indications"
+        },
+        "romaji": "an'un"
       },
       {
         "example": "明暗",
         "reading": "メイアン",
-        "meaning": "light and darkness, light and shade"
+        "meaning": {
+          "en": "light and darkness, light and shade"
+        },
+        "romaji": "meian"
       },
       {
         "example": "冥暗",
         "reading": "メイアン",
-        "meaning": "gloom, shade"
+        "meaning": {
+          "en": "gloom, shade"
+        },
+        "romaji": "meian"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暗い",
         "reading": "くらい",
-        "meaning": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+        "meaning": {
+          "vi": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+        },
+        "romaji": "kurai"
       },
       {
         "example": "暗い過去",
         "reading": "くらいかこ",
-        "meaning": "shadowy past, murky past"
+        "meaning": {
+          "vi": "shadowy past, murky past"
+        },
+        "romaji": "kuraikako"
       },
       {
         "example": "眩む",
         "reading": "くらむ",
-        "meaning": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"
+        "meaning": {
+          "en": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"
+        },
+        "romaji": "kuramu"
       },
       {
         "example": "暮れる",
         "reading": "くれる",
-        "meaning": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        "meaning": {
+          "vi": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        },
+        "romaji": "kureru"
       }
     ],
     "radical": {
@@ -416,5 +440,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06697.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6697.gif",
     "uri": "https://jisho.org/search/%E6%9A%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "ám",
+    "âm"
+  ]
 }

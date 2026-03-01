@@ -19,22 +19,34 @@
       {
         "example": "楢",
         "reading": "なら",
-        "meaning": "oak (esp. Quercus serrata)"
+        "meaning": {
+          "vi": "oak (esp. Quercus serrata)"
+        },
+        "romaji": "nara"
       },
       {
         "example": "楢茸",
         "reading": "ならたけ",
-        "meaning": "honey fungus (Armillaria mellea), honey mushroom"
+        "meaning": {
+          "en": "honey fungus (Armillaria mellea), honey mushroom"
+        },
+        "romaji": "naratake"
       },
       {
         "example": "欧州楢",
         "reading": "おうしゅうなら",
-        "meaning": "English oak (Quercus robur), pedunculate oak, common oak, French oak"
+        "meaning": {
+          "vi": "English oak (Quercus robur), pedunculate oak, common oak, French oak"
+        },
+        "romaji": "oushuunara"
       },
       {
         "example": "小楢",
         "reading": "こなら",
-        "meaning": "konara oak (Quercus serrata), pin oak"
+        "meaning": {
+          "vi": "konara oak (Quercus serrata), pin oak"
+        },
+        "romaji": "konara"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06962.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6962.gif",
     "uri": "https://jisho.org/search/%E6%A5%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "do",
+    "du"
+  ]
 }

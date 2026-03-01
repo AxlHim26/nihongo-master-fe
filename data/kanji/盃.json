@@ -16,44 +16,68 @@
       {
         "example": "杯",
         "reading": "ハイ",
-        "meaning": "sake cup, cup for alcoholic beverages, counter for cupfuls, bowlfuls, spoonfuls, etc., counter for boats, counter for octopuses and squid, cup, championship"
+        "meaning": {
+          "vi": "sake cup, cup for alcoholic beverages, counter for cupfuls, bowlfuls, spoonfuls, etc., counter for boats, counter for octopuses and squid, cup, championship"
+        },
+        "romaji": "hai"
       },
       {
         "example": "杯洗",
         "reading": "ハイセン",
-        "meaning": "small vessel or bowl in which sake cups are rinsed"
+        "meaning": {
+          "vi": "small vessel or bowl in which sake cups are rinsed"
+        },
+        "romaji": "haisen"
       },
       {
         "example": "賜杯",
         "reading": "シハイ",
-        "meaning": "Emperor's cup, trophy given by the Emperor"
+        "meaning": {
+          "vi": "Emperor's cup, trophy given by the Emperor"
+        },
+        "romaji": "shihai"
       },
       {
         "example": "苦杯",
         "reading": "クハイ",
-        "meaning": "bitter cup, bitter experience, bitter defeat, ordeal"
+        "meaning": {
+          "vi": "bitter cup, bitter experience, bitter defeat, ordeal"
+        },
+        "romaji": "kuhai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "杯",
         "reading": "さかずき",
-        "meaning": "sake cup, cup for alcoholic beverages"
+        "meaning": {
+          "vi": "sake cup, cup for alcoholic beverages"
+        },
+        "romaji": "sakazuki"
       },
       {
         "example": "杯事",
         "reading": "さかずきごと",
-        "meaning": "pledge made over sake cups, exchange of nuptial cups"
+        "meaning": {
+          "vi": "pledge made over sake cups, exchange of nuptial cups"
+        },
+        "romaji": "sakazukigoto"
       },
       {
         "example": "水杯",
         "reading": "みずさかずき",
-        "meaning": "farewell cups of water"
+        "meaning": {
+          "vi": "farewell cups of water"
+        },
+        "romaji": "mizusakazuki"
       },
       {
         "example": "固めの杯",
         "reading": "かためのさかずき",
-        "meaning": "cup of sake used to drink to the establishment of a partnership, commitment to marriage, etc., nuptial cup of sake"
+        "meaning": {
+          "vi": "cup of sake used to drink to the establishment of a partnership, commitment to marriage, etc., nuptial cup of sake"
+        },
+        "romaji": "katamenosakazuki"
       }
     ],
     "radical": {
@@ -69,5 +93,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76c3.gif",
     "uri": "https://jisho.org/search/%E7%9B%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "bôi"
+  ]
 }

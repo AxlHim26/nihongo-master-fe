@@ -312,49 +312,76 @@
       {
         "example": "去年",
         "reading": "キョネン",
-        "meaning": "last year"
+        "meaning": {
+          "en": "last year"
+        },
+        "romaji": "kyonen"
       },
       {
         "example": "去就",
         "reading": "キョシュウ",
-        "meaning": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+        "meaning": {
+          "vi": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+        },
+        "romaji": "kyoshuu"
       },
       {
         "example": "消去",
         "reading": "ショウキョ",
-        "meaning": "erasure, deletion, elimination, clearing, elimination (of variables), extinction"
+        "meaning": {
+          "en": "erasure, deletion, elimination, clearing, elimination (of variables), extinction"
+        },
+        "romaji": "shoukyo"
       },
       {
         "example": "国外退去",
         "reading": "コクガイタイキョ",
-        "meaning": "deportation"
+        "meaning": {
+          "vi": "deportation"
+        },
+        "romaji": "kokugaitaikyo"
       },
       {
         "example": "去年",
         "reading": "キョネン",
-        "meaning": "last year"
+        "meaning": {
+          "en": "last year"
+        },
+        "romaji": "kyonen"
       },
       {
         "example": "大過去",
         "reading": "ダイカコ",
-        "meaning": "past perfect tense, pluperfect"
+        "meaning": {
+          "vi": "past perfect tense, pluperfect"
+        },
+        "romaji": "daikako"
       },
       {
         "example": "不定過去",
         "reading": "フテイカコ",
-        "meaning": "aorist tense (in Greek), past-perfective tense"
+        "meaning": {
+          "vi": "aorist tense (in Greek), past-perfective tense"
+        },
+        "romaji": "futeikako"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "去る",
         "reading": "さる",
-        "meaning": "to leave, to go away, to pass, to elapse, to be distant, to send away, to drive off, to divorce, to (do) completely, last ... (e.g. \"last April\")"
+        "meaning": {
+          "vi": "to leave, to go away, to pass, to elapse, to be distant, to send away, to drive off, to divorce, to (do) completely, last ... (e.g. \"last April\")"
+        },
+        "romaji": "saru"
       },
       {
         "example": "去る者追わず",
         "reading": "さるものおわず",
-        "meaning": "do not chase the one who leaves"
+        "meaning": {
+          "en": "do not chase the one who leaves"
+        },
+        "romaji": "sarumonoowazu"
       }
     ],
     "radical": {
@@ -369,5 +396,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053bb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53bb.gif",
     "uri": "https://jisho.org/search/%E5%8E%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "khu",
+    "khứ",
+    "khử"
+  ]
 }

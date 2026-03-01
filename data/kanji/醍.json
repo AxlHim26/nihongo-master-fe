@@ -17,12 +17,18 @@
       {
         "example": "醍醐",
         "reading": "ダイゴ",
-        "meaning": "bơ lỏng (vị tối thượng), chân lý tối thượng Phật giáo, niết bàn"
+        "meaning": {
+          "vi": "bơ lỏng (vị tối thượng), chân lý tối thượng Phật giáo, niết bàn"
+        },
+        "romaji": "daigo"
       },
       {
         "example": "醍醐味",
         "reading": "ダイゴミ",
-        "meaning": "niềm vui thật sự, sự hấp dẫn thật, vị bơ lỏng, giáo lý từ bi của Phật"
+        "meaning": {
+          "vi": "niềm vui thật sự, sự hấp dẫn thật, vị bơ lỏng, giáo lý từ bi của Phật"
+        },
+        "romaji": "daigomi"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0918d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/918d.gif",
     "uri": "https://jisho.org/search/%E9%86%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thể",
+    "đề"
+  ]
 }

@@ -246,44 +246,68 @@
       {
         "example": "依然",
         "reading": "イゼン",
-        "meaning": "still, as yet, as it has been"
+        "meaning": {
+          "en": "still, as yet, as it has been"
+        },
+        "romaji": "izen"
       },
       {
         "example": "委嘱",
         "reading": "イショク",
-        "meaning": "commissioning, entrusting (with), request, appointment (to a position)"
+        "meaning": {
+          "vi": "commissioning, entrusting (with), request, appointment (to a position)"
+        },
+        "romaji": "ishoku"
       },
       {
         "example": "依々",
         "reading": "イイ",
-        "meaning": "affectionately attached, reluctant to part"
+        "meaning": {
+          "vi": "affectionately attached, reluctant to part"
+        },
+        "romaji": "ii"
       },
       {
         "example": "憑依",
         "reading": "ヒョウイ",
-        "meaning": "possession (by a spirit, demon, etc.), dependence (on)"
+        "meaning": {
+          "vi": "possession (by a spirit, demon, etc.), dependence (on)"
+        },
+        "romaji": "hyoui"
       },
       {
         "example": "依蘭苔",
         "reading": "エイランタイ",
-        "meaning": "Iceland moss (Cetraria islandica), Iceland lichen"
+        "meaning": {
+          "en": "Iceland moss (Cetraria islandica), Iceland lichen"
+        },
+        "romaji": "eirantai"
       },
       {
         "example": "依怙",
         "reading": "エコ",
-        "meaning": "favoritism, favouritism, partiality, prejudice, bias"
+        "meaning": {
+          "vi": "favoritism, favouritism, partiality, prejudice, bias"
+        },
+        "romaji": "eko"
       },
       {
         "example": "帰依",
         "reading": "キエ",
-        "meaning": "becoming a devout believer, (religious) conversion"
+        "meaning": {
+          "en": "becoming a devout believer, (religious) conversion"
+        },
+        "romaji": "kie"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "依る",
         "reading": "よる",
-        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        "meaning": {
+          "vi": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        },
+        "romaji": "yoru"
       }
     ],
     "radical": {
@@ -302,5 +326,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f9d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f9d.gif",
     "uri": "https://jisho.org/search/%E4%BE%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "y",
+    "ỷ"
+  ]
 }

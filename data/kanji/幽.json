@@ -22,29 +22,44 @@
       {
         "example": "幽霊",
         "reading": "ユウレイ",
-        "meaning": "ghost, specter, spectre, apparition, phantom"
+        "meaning": {
+          "vi": "ghost, specter, spectre, apparition, phantom"
+        },
+        "romaji": "yuurei"
       },
       {
         "example": "憂鬱",
         "reading": "ユウウツ",
-        "meaning": "depression, melancholy, dejection, gloom, despondency"
+        "meaning": {
+          "vi": "depression, melancholy, dejection, gloom, despondency"
+        },
+        "romaji": "yuuutsu"
       },
       {
         "example": "幽々",
         "reading": "ユウユウ",
-        "meaning": "deep, dark"
+        "meaning": {
+          "vi": "deep, dark"
+        },
+        "romaji": "yuuyuu"
       },
       {
         "example": "帰幽",
         "reading": "キユウ",
-        "meaning": "death"
+        "meaning": {
+          "en": "death"
+        },
+        "romaji": "kiyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "微か",
         "reading": "かすか",
-        "meaning": "faint, dim, weak, slight, vague, indistinct, hazy, poor, wretched, meagre, meager, scanty"
+        "meaning": {
+          "vi": "faint, dim, weak, slight, vague, indistinct, hazy, poor, wretched, meagre, meager, scanty"
+        },
+        "romaji": "kasuka"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7d.gif",
     "uri": "https://jisho.org/search/%E5%B9%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "u"
+  ]
 }

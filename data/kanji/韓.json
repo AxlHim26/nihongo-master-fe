@@ -19,34 +19,52 @@
       {
         "example": "韓",
         "reading": "カン",
-        "meaning": "Republic of Korea, South Korea, Han (ancient Chinese state)"
+        "meaning": {
+          "vi": "Republic of Korea, South Korea, Han (ancient Chinese state)"
+        },
+        "romaji": "kan"
       },
       {
         "example": "韓国",
         "reading": "カンコク",
-        "meaning": "South Korea, Republic of Korea, Korean Empire (1897-1910)"
+        "meaning": {
+          "vi": "South Korea, Republic of Korea, Korean Empire (1897-1910)"
+        },
+        "romaji": "kankoku"
       },
       {
         "example": "日韓",
         "reading": "ニッカン",
-        "meaning": "Japan and South Korea, Japanese-Korean"
+        "meaning": {
+          "vi": "Japan and South Korea, Japanese-Korean"
+        },
+        "romaji": "nikkan"
       },
       {
         "example": "在韓",
         "reading": "ザイカン",
-        "meaning": "resident in South Korea, situated in South Korea"
+        "meaning": {
+          "en": "resident in South Korea, situated in South Korea"
+        },
+        "romaji": "zaikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唐",
         "reading": "から",
-        "meaning": "China (sometimes also used in ref. to Korea or other foreign countries)"
+        "meaning": {
+          "en": "China (sometimes also used in ref. to Korea or other foreign countries)"
+        },
+        "romaji": "kara"
       },
       {
         "example": "唐国",
         "reading": "からくに",
-        "meaning": "China, Korea"
+        "meaning": {
+          "en": "China, Korea"
+        },
+        "romaji": "karakuni"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97d3.gif",
     "uri": "https://jisho.org/search/%E9%9F%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàn"
+  ]
 }

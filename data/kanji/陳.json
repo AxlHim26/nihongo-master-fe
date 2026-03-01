@@ -19,29 +19,44 @@
       {
         "example": "陳",
         "reading": "チン",
-        "meaning": "Chen (ancient Chinese state; approx. 1045-479 BCE), Ch'en, Chen dynasty (of China; 557-589 BCE), Ch'en dynasty"
+        "meaning": {
+          "vi": "Chen (ancient Chinese state; approx. 1045-479 BCE), Ch'en, Chen dynasty (of China; 557-589 BCE), Ch'en dynasty"
+        },
+        "romaji": "chin"
       },
       {
         "example": "陳謝",
         "reading": "チンシャ",
-        "meaning": "apology"
+        "meaning": {
+          "vi": "apology"
+        },
+        "romaji": "chinsha"
       },
       {
         "example": "開陳",
         "reading": "カイチン",
-        "meaning": "stating (one's views), expressing"
+        "meaning": {
+          "vi": "stating (one's views), expressing"
+        },
+        "romaji": "kaichin"
       },
       {
         "example": "具陳",
         "reading": "グチン",
-        "meaning": "report in detail, formal statement"
+        "meaning": {
+          "vi": "report in detail, formal statement"
+        },
+        "romaji": "guchin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陳ねる",
         "reading": "ひねる",
-        "meaning": "to age, to get old, to go stale, to be too grown-up (for one's age), to be precocious, to become twisted, to become warped, to become perverse"
+        "meaning": {
+          "vi": "to age, to get old, to go stale, to be too grown-up (for one's age), to be precocious, to become twisted, to become warped, to become perverse"
+        },
+        "romaji": "hineru"
       }
     ],
     "radical": {
@@ -63,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09673.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9673.gif",
     "uri": "https://jisho.org/search/%E9%99%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "trần",
+    "trận"
+  ]
 }

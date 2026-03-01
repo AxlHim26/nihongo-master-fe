@@ -20,29 +20,44 @@
       {
         "example": "妖精",
         "reading": "ヨウセイ",
-        "meaning": "fairy, sprite, elf"
+        "meaning": {
+          "vi": "fairy, sprite, elf"
+        },
+        "romaji": "yousei"
       },
       {
         "example": "妖怪",
         "reading": "ヨウカイ",
-        "meaning": "ghost, apparition, phantom, spectre, specter, demon, monster, goblin, yōkai"
+        "meaning": {
+          "vi": "ghost, apparition, phantom, spectre, specter, demon, monster, goblin, yōkai"
+        },
+        "romaji": "youkai"
       },
       {
         "example": "大妖",
         "reading": "タイヨウ",
-        "meaning": "great demon, ghostly giant"
+        "meaning": {
+          "en": "great demon, ghostly giant"
+        },
+        "romaji": "taiyou"
       },
       {
         "example": "天変地夭",
         "reading": "テンペンチヨウ",
-        "meaning": "natural disaster"
+        "meaning": {
+          "en": "natural disaster"
+        },
+        "romaji": "tenpenchiyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妖しい",
         "reading": "あやしい",
-        "meaning": "mysterious, bewitching, alluring, enticing, enchanting"
+        "meaning": {
+          "en": "mysterious, bewitching, alluring, enticing, enchanting"
+        },
+        "romaji": "ayashii"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05996.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5996.gif",
     "uri": "https://jisho.org/search/%E5%A6%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "yêu"
+  ]
 }

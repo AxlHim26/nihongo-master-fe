@@ -15,7 +15,10 @@
       {
         "example": "剴切",
         "reading": "ガイセツ",
-        "meaning": "appropriateness, adequacy, aptness, relevance"
+        "meaning": {
+          "vi": "appropriateness, adequacy, aptness, relevance"
+        },
+        "romaji": "gaisetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05274.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5274.gif",
     "uri": "https://jisho.org/search/%E5%89%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "cai",
+    "cái",
+    "khải"
+  ]
 }

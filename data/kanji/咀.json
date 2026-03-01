@@ -17,17 +17,26 @@
       {
         "example": "咀嚼",
         "reading": "ソシャク",
-        "meaning": "chewing, mastication, digestion (e.g. of words), assimilation, comprehension, appreciation"
+        "meaning": {
+          "vi": "chewing, mastication, digestion (e.g. of words), assimilation, comprehension, appreciation"
+        },
+        "romaji": "soshaku"
       },
       {
         "example": "咀嚼運動",
         "reading": "ソシャクウンドウ",
-        "meaning": "mastication"
+        "meaning": {
+          "en": "mastication"
+        },
+        "romaji": "soshakuundou"
       },
       {
         "example": "呪詛",
         "reading": "ジュソ",
-        "meaning": "curse, malediction, hex"
+        "meaning": {
+          "en": "curse, malediction, hex"
+        },
+        "romaji": "juso"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05480.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5480.gif",
     "uri": "https://jisho.org/search/%E5%92%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuỷ",
+    "trớ",
+    "tư",
+    "tứ",
+    "tữ"
+  ]
 }

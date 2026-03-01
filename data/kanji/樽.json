@@ -17,34 +17,52 @@
       {
         "example": "樽酒",
         "reading": "タルザケ",
-        "meaning": "sake that has been kept in a wooden cask, cask sake, barreled sake"
+        "meaning": {
+          "vi": "sake that has been kept in a wooden cask, cask sake, barreled sake"
+        },
+        "romaji": "taruzake"
       },
       {
         "example": "樽俎",
         "reading": "ソンソ",
-        "meaning": "(eating or drinking) party"
+        "meaning": {
+          "vi": "(eating or drinking) party"
+        },
+        "romaji": "sonso"
       },
       {
         "example": "油樽",
         "reading": "アブラタル",
-        "meaning": "oil barrel, oil cask"
+        "meaning": {
+          "en": "oil barrel, oil cask"
+        },
+        "romaji": "aburataru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "樽",
         "reading": "たる",
-        "meaning": "cask, barrel"
+        "meaning": {
+          "en": "cask, barrel"
+        },
+        "romaji": "taru"
       },
       {
         "example": "樽柿",
         "reading": "たるがき",
-        "meaning": "persimmons mellowed in a sake cask"
+        "meaning": {
+          "vi": "persimmons mellowed in a sake cask"
+        },
+        "romaji": "tarugaki"
       },
       {
         "example": "油樽",
         "reading": "あぶらたる",
-        "meaning": "oil barrel, oil cask"
+        "meaning": {
+          "en": "oil barrel, oil cask"
+        },
+        "romaji": "aburataru"
       }
     ],
     "radical": {
@@ -61,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a3d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a3d.gif",
     "uri": "https://jisho.org/search/%E6%A8%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tôn"
+  ]
 }

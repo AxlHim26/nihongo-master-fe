@@ -17,7 +17,10 @@
       {
         "example": "倒す",
         "reading": "たおす",
-        "meaning": "to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat), to kill, to defeat, to beat, to overthrow, to trip up, to ruin, to leave unpaid, to cheat, to do completely, to do thoroughly, to do to the fullest"
+        "meaning": {
+          "vi": "to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat), to kill, to defeat, to beat, to overthrow, to trip up, to ruin, to leave unpaid, to cheat, to do completely, to do thoroughly, to do to the fullest"
+        },
+        "romaji": "taosu"
       }
     ],
     "radical": {
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06baa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6baa.gif",
     "uri": "https://jisho.org/search/%E6%AE%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "ế"
+  ]
 }

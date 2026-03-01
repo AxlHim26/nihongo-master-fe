@@ -363,44 +363,68 @@
       {
         "example": "局",
         "reading": "キョク",
-        "meaning": "cục, sở, văn phòng (bưu điện, điện thoại), đài phát thanh/truyền hình, kênh, tổng đài, công việc, tình huống, ván cờ (cờ vây, shogi...)"
+        "meaning": {
+          "vi": "cục, sở, văn phòng (bưu điện, điện thoại), đài phát thanh/truyền hình, kênh, tổng đài, công việc, tình huống, ván cờ (cờ vây, shogi...)"
+        },
+        "romaji": "kyoku"
       },
       {
         "example": "局員",
         "reading": "キョクイン",
-        "meaning": "nhân viên (cục, bưu điện)"
+        "meaning": {
+          "vi": "nhân viên (cục, bưu điện)"
+        },
+        "romaji": "kyokuin"
       },
       {
         "example": "医局",
         "reading": "イキョク",
-        "meaning": "văn phòng y tế (trong bệnh viện), phòng khám bác sĩ"
+        "meaning": {
+          "vi": "văn phòng y tế (trong bệnh viện), phòng khám bác sĩ"
+        },
+        "romaji": "ikyoku"
       },
       {
         "example": "開局",
         "reading": "カイキョク",
-        "meaning": "khai trương (đài, bưu điện, cục...), thành lập"
+        "meaning": {
+          "vi": "khai trương (đài, bưu điện, cục...), thành lập"
+        },
+        "romaji": "kaikyoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "局",
         "reading": "つぼね",
-        "meaning": "cung nữ (thời Heian), thị nữ, phòng riêng trong cung (cho nữ; thời Heian), phòng/gái mại dâm hạng thấp"
+        "meaning": {
+          "vi": "cung nữ (thời Heian), thị nữ, phòng riêng trong cung (cho nữ; thời Heian), phòng/gái mại dâm hạng thấp"
+        },
+        "romaji": "tsubone"
       },
       {
         "example": "局女郎",
         "reading": "つぼねじょろう",
-        "meaning": "gái mại dâm hạng thấp nhất (thời Edo)"
+        "meaning": {
+          "vi": "gái mại dâm hạng thấp nhất (thời Edo)"
+        },
+        "romaji": "tsubonejorou"
       },
       {
         "example": "御局",
         "reading": "おつぼね",
-        "meaning": "cung nữ có phòng/ văn phòng riêng, gái mại dâm hạng thấp (thời Edo)"
+        "meaning": {
+          "vi": "cung nữ có phòng/ văn phòng riêng, gái mại dâm hạng thấp (thời Edo)"
+        },
+        "romaji": "otsubone"
       },
       {
         "example": "お局",
         "reading": "おつぼね",
-        "meaning": "nữ nhân viên cấp cao giám sát nhân viên cấp dưới một cách độc đoán"
+        "meaning": {
+          "vi": "nữ nhân viên cấp cao giám sát nhân viên cấp dưới một cách độc đoán"
+        },
+        "romaji": "otsubone"
       }
     ],
     "radical": {
@@ -415,5 +439,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c40.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c40.gif",
     "uri": "https://jisho.org/search/%E5%B1%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "cục"
+  ]
 }

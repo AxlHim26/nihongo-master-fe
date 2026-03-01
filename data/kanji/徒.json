@@ -309,44 +309,68 @@
       {
         "example": "徒",
         "reading": "ト",
-        "meaning": "party, set, gang, company, person"
+        "meaning": {
+          "vi": "party, set, gang, company, person"
+        },
+        "romaji": "to"
       },
       {
         "example": "徒歩",
         "reading": "トホ",
-        "meaning": "walking, going on foot"
+        "meaning": {
+          "en": "walking, going on foot"
+        },
+        "romaji": "toho"
       },
       {
         "example": "信徒",
         "reading": "シント",
-        "meaning": "layman, believer, adherent, follower, laity"
+        "meaning": {
+          "en": "layman, believer, adherent, follower, laity"
+        },
+        "romaji": "shinto"
       },
       {
         "example": "学徒",
         "reading": "ガクト",
-        "meaning": "student, follower, students and pupils"
+        "meaning": {
+          "vi": "student, follower, students and pupils"
+        },
+        "romaji": "gakuto"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "徒",
         "reading": "いたずら",
-        "meaning": "useless, vain, aimless, idle"
+        "meaning": {
+          "en": "useless, vain, aimless, idle"
+        },
+        "romaji": "itazura"
       },
       {
         "example": "いたずら書き",
         "reading": "いたずらがき",
-        "meaning": "scribbling, doodling, graffiti"
+        "meaning": {
+          "en": "scribbling, doodling, graffiti"
+        },
+        "romaji": "itazuragaki"
       },
       {
         "example": "徒",
         "reading": "あだ",
-        "meaning": "vain, futile, transient, frivolous"
+        "meaning": {
+          "en": "vain, futile, transient, frivolous"
+        },
+        "romaji": "ada"
       },
       {
         "example": "徒疎か",
         "reading": "あだおろそか",
-        "meaning": "making light of, disregarding"
+        "meaning": {
+          "en": "making light of, disregarding"
+        },
+        "romaji": "adaorosoka"
       }
     ],
     "radical": {
@@ -362,5 +386,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f92.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f92.gif",
     "uri": "https://jisho.org/search/%E5%BE%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồ"
+  ]
 }

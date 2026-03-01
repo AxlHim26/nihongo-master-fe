@@ -21,22 +21,34 @@
       {
         "example": "鮎",
         "reading": "あゆ",
-        "meaning": "ayu (Plecoglossus altivelis), sweetfish"
+        "meaning": {
+          "vi": "ayu (Plecoglossus altivelis), sweetfish"
+        },
+        "romaji": "ayu"
       },
       {
         "example": "鮎掛け",
         "reading": "あゆかけ",
-        "meaning": "fourspine sculpin (Cottus kazika)"
+        "meaning": {
+          "vi": "fourspine sculpin (Cottus kazika)"
+        },
+        "romaji": "ayukake"
       },
       {
         "example": "琉球鮎",
         "reading": "りゅうきゅうあゆ",
-        "meaning": "Ryukyu sweetfish (Plecoglossus altivelis ryukyuensis)"
+        "meaning": {
+          "vi": "Ryukyu sweetfish (Plecoglossus altivelis ryukyuensis)"
+        },
+        "romaji": "ryuukyuuayu"
       },
       {
         "example": "若鮎",
         "reading": "わかあゆ",
-        "meaning": "young sweetfish"
+        "meaning": {
+          "en": "young sweetfish"
+        },
+        "romaji": "wakaayu"
       }
     ],
     "radical": {
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b8e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b8e.gif",
     "uri": "https://jisho.org/search/%E9%AE%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "niêm",
+    "niềm"
+  ]
 }

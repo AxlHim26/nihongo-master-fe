@@ -274,29 +274,44 @@
       {
         "example": "貨幣",
         "reading": "カヘイ",
-        "meaning": "money, currency, coin"
+        "meaning": {
+          "en": "money, currency, coin"
+        },
+        "romaji": "kahei"
       },
       {
         "example": "貨物",
         "reading": "カモツ",
-        "meaning": "cargo, freight, money or assets"
+        "meaning": {
+          "en": "cargo, freight, money or assets"
+        },
+        "romaji": "kamotsu"
       },
       {
         "example": "基軸通貨",
         "reading": "キジクツウカ",
-        "meaning": "key currency"
+        "meaning": {
+          "en": "key currency"
+        },
+        "romaji": "kijikutsuuka"
       },
       {
         "example": "英貨",
         "reading": "エイカ",
-        "meaning": "British currency, pound sterling"
+        "meaning": {
+          "vi": "British currency, pound sterling"
+        },
+        "romaji": "eika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宝",
         "reading": "たから",
-        "meaning": "treasure"
+        "meaning": {
+          "en": "treasure"
+        },
+        "romaji": "takara"
       }
     ],
     "radical": {
@@ -314,5 +329,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca8.gif",
     "uri": "https://jisho.org/search/%E8%B2%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoá"
+  ]
 }

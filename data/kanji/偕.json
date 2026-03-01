@@ -17,12 +17,18 @@
       {
         "example": "偕成",
         "reading": "カイセイ",
-        "meaning": "Kaisei (publisher)"
+        "meaning": {
+          "vi": "Kaisei (publisher)"
+        },
+        "romaji": "kaisei"
       },
       {
         "example": "偕楽",
         "reading": "カイラク",
-        "meaning": "enjoying oneself with others"
+        "meaning": {
+          "en": "enjoying oneself with others"
+        },
+        "romaji": "kairaku"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05055.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5055.gif",
     "uri": "https://jisho.org/search/%E5%81%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "giai"
+  ]
 }

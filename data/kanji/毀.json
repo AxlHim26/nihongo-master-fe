@@ -22,44 +22,68 @@
       {
         "example": "毀損",
         "reading": "キソン",
-        "meaning": "damage, injury, defamation, harm"
+        "meaning": {
+          "en": "damage, injury, defamation, harm"
+        },
+        "romaji": "kison"
       },
       {
         "example": "毀壊",
         "reading": "キカイ",
-        "meaning": "breaking, demolishing, smashing, destroying, wrecking, being broken, being ruined, being destroyed, being worn out"
+        "meaning": {
+          "en": "breaking, demolishing, smashing, destroying, wrecking, being broken, being ruined, being destroyed, being worn out"
+        },
+        "romaji": "kikai"
       },
       {
         "example": "焼毀",
         "reading": "ショウキ",
-        "meaning": "completely destroying by fire"
+        "meaning": {
+          "vi": "completely destroying by fire"
+        },
+        "romaji": "shouki"
       },
       {
         "example": "誹毀",
         "reading": "ヒキ",
-        "meaning": "defamation, libel, calumny, slander"
+        "meaning": {
+          "en": "defamation, libel, calumny, slander"
+        },
+        "romaji": "hiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "毀つ",
         "reading": "こぼつ",
-        "meaning": "to destroy, to break, to damage"
+        "meaning": {
+          "en": "to destroy, to break, to damage"
+        },
+        "romaji": "kobotsu"
       },
       {
         "example": "壊す",
         "reading": "こわす",
-        "meaning": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+        "meaning": {
+          "vi": "to break, to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+        },
+        "romaji": "kowasu"
       },
       {
         "example": "毀れる",
         "reading": "こぼれる",
-        "meaning": "to be chipped, to be nicked"
+        "meaning": {
+          "vi": "to be chipped, to be nicked"
+        },
+        "romaji": "koboreru"
       },
       {
         "example": "壊れる",
         "reading": "こわれる",
-        "meaning": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"
+        "meaning": {
+          "vi": "to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged, to break (down), to stop working, to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"
+        },
+        "romaji": "kowareru"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bc0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bc0.gif",
     "uri": "https://jisho.org/search/%E6%AF%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "huỷ"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "款",
         "reading": "カン",
-        "meaning": "title, heading, article, benevolence, friendly feeling"
+        "meaning": {
+          "en": "title, heading, article, benevolence, friendly feeling"
+        },
+        "romaji": "kan"
       },
       {
         "example": "歓待",
         "reading": "カンタイ",
-        "meaning": "warm welcome, friendly reception, hospitality, entertainment"
+        "meaning": {
+          "vi": "warm welcome, friendly reception, hospitality, entertainment"
+        },
+        "romaji": "kantai"
       },
       {
         "example": "約款",
         "reading": "ヤッカン",
-        "meaning": "agreement, stipulation, article, clause"
+        "meaning": {
+          "vi": "agreement, stipulation, article, clause"
+        },
+        "romaji": "yakkan"
       },
       {
         "example": "交歓",
         "reading": "コウカン",
-        "meaning": "exchange of courtesies (cordialities), fraternization, fraternisation"
+        "meaning": {
+          "en": "exchange of courtesies (cordialities), fraternization, fraternisation"
+        },
+        "romaji": "koukan"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b3e.gif",
     "uri": "https://jisho.org/search/%E6%AC%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoản"
+  ]
 }

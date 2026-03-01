@@ -17,7 +17,10 @@
       {
         "example": "嘶く",
         "reading": "いななく",
-        "meaning": "to neigh"
+        "meaning": {
+          "en": "to neigh"
+        },
+        "romaji": "inanaku"
       }
     ],
     "radical": {
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05636.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5636.gif",
     "uri": "https://jisho.org/search/%E5%98%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "tê",
+    "tư"
+  ]
 }

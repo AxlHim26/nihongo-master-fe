@@ -16,19 +16,28 @@
       {
         "example": "蛋民",
         "reading": "タンミン",
-        "meaning": "Tanka people (of southern China)"
+        "meaning": {
+          "vi": "Tanka people (of southern China)"
+        },
+        "romaji": "tanmin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "海人",
         "reading": "あま",
-        "meaning": "male diver (who collects shells, seaweed, etc.), fisherman"
+        "meaning": {
+          "en": "male diver (who collects shells, seaweed, etc.), fisherman"
+        },
+        "romaji": "ama"
       },
       {
         "example": "蜑小舟貝",
         "reading": "あまおぶねがい",
-        "meaning": "ox-palate nerite (Nerita albicilla), blotched nerite"
+        "meaning": {
+          "vi": "ox-palate nerite (Nerita albicilla), blotched nerite"
+        },
+        "romaji": "amaobunegai"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08711.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8711.gif",
     "uri": "https://jisho.org/search/%E8%9C%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "đản"
+  ]
 }

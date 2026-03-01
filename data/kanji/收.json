@@ -17,7 +17,10 @@
       {
         "example": "収録",
         "reading": "シュウロク",
-        "meaning": "recording (in a book, the minutes, etc.), printing, including, recording (audio or video)"
+        "meaning": {
+          "vi": "recording (in a book, the minutes, etc.), printing, including, recording (audio or video)"
+        },
+        "romaji": "shuuroku"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06536.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6536.gif",
     "uri": "https://jisho.org/search/%E6%94%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "thu",
+    "thâu",
+    "thú"
+  ]
 }

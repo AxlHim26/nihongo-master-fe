@@ -244,54 +244,84 @@
       {
         "example": "希",
         "reading": "キ",
-        "meaning": "dilute, rare, Greece"
+        "meaning": {
+          "en": "dilute, rare, Greece"
+        },
+        "romaji": "ki"
       },
       {
         "example": "希少",
         "reading": "キショウ",
-        "meaning": "scarce, rare"
+        "meaning": {
+          "en": "scarce, rare"
+        },
+        "romaji": "kishou"
       },
       {
         "example": "古希",
         "reading": "コキ",
-        "meaning": "70th birthday, ancient Greek (language)"
+        "meaning": {
+          "en": "70th birthday, ancient Greek (language)"
+        },
+        "romaji": "koki"
       },
       {
         "example": "七十古希",
         "reading": "シチジュウコキ",
-        "meaning": "men seldom live to be seventy, few people live to be seventy"
+        "meaning": {
+          "vi": "men seldom live to be seventy, few people live to be seventy"
+        },
+        "romaji": "shichijuukoki"
       },
       {
         "example": "希有",
         "reading": "ケウ",
-        "meaning": "rare, uncommon"
+        "meaning": {
+          "en": "rare, uncommon"
+        },
+        "romaji": "keu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "稀",
         "reading": "まれ",
-        "meaning": "rare, seldom"
+        "meaning": {
+          "en": "rare, seldom"
+        },
+        "romaji": "mare"
       },
       {
         "example": "稀に見る",
         "reading": "まれにみる",
-        "meaning": "rare, extraordinary, singular"
+        "meaning": {
+          "en": "rare, extraordinary, singular"
+        },
+        "romaji": "marenimiru"
       },
       {
         "example": "類まれ",
         "reading": "たぐいまれ",
-        "meaning": "rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless"
+        "meaning": {
+          "vi": "rare, exceptional, extraordinary, unique, incomparable, unparalleled, matchless"
+        },
+        "romaji": "taguimare"
       },
       {
         "example": "ごく稀",
         "reading": "ごくまれ",
-        "meaning": "extremely rare"
+        "meaning": {
+          "en": "extremely rare"
+        },
+        "romaji": "gokumare"
       },
       {
         "example": "希う",
         "reading": "こいねがう",
-        "meaning": "to beg, to request, to beseech, to implore, to entreat"
+        "meaning": {
+          "vi": "to beg, to request, to beseech, to implore, to entreat"
+        },
+        "romaji": "koinegau"
       }
     ],
     "radical": {
@@ -307,5 +337,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e0c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e0c.gif",
     "uri": "https://jisho.org/search/%E5%B8%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hi",
+    "hy"
+  ]
 }

@@ -302,34 +302,52 @@
       {
         "example": "価",
         "reading": "カ",
-        "meaning": "valence, valency"
+        "meaning": {
+          "en": "valence, valency"
+        },
+        "romaji": "ka"
       },
       {
         "example": "価格",
         "reading": "カカク",
-        "meaning": "price, value, cost"
+        "meaning": {
+          "vi": "price, value, cost"
+        },
+        "romaji": "kakaku"
       },
       {
         "example": "時価",
         "reading": "ジカ",
-        "meaning": "current value, price, market value"
+        "meaning": {
+          "vi": "current value, price, market value"
+        },
+        "romaji": "jika"
       },
       {
         "example": "薬価",
         "reading": "ヤッカ",
-        "meaning": "drug price, cost of medicine"
+        "meaning": {
+          "vi": "drug price, cost of medicine"
+        },
+        "romaji": "yakka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "値",
         "reading": "あたい",
-        "meaning": "price, cost, value, worth, merit, value"
+        "meaning": {
+          "vi": "price, cost, value, worth, merit, value"
+        },
+        "romaji": "atai"
       },
       {
         "example": "値する",
         "reading": "あたいする",
-        "meaning": "to be worth, to be worthy of, to deserve, to merit"
+        "meaning": {
+          "en": "to be worth, to be worthy of, to deserve, to merit"
+        },
+        "romaji": "ataisuru"
       }
     ],
     "radical": {
@@ -347,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fa1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fa1.gif",
     "uri": "https://jisho.org/search/%E4%BE%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá"
+  ]
 }

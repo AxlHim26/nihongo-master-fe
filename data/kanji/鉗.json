@@ -18,24 +18,36 @@
       {
         "example": "箝口",
         "reading": "カンコウ",
-        "meaning": "keeping silent, silence, restraining (speech), gagging, muzzling"
+        "meaning": {
+          "vi": "keeping silent, silence, restraining (speech), gagging, muzzling"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "箝口",
         "reading": "カンコウ",
-        "meaning": "keeping silent, silence, restraining (speech), gagging, muzzling"
+        "meaning": {
+          "vi": "keeping silent, silence, restraining (speech), gagging, muzzling"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "緘口令",
         "reading": "カンコウレイ",
-        "meaning": "gag order, gag rule, gag law"
+        "meaning": {
+          "en": "gag order, gag rule, gag law"
+        },
+        "romaji": "kankourei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "噤む",
         "reading": "つぐむ",
-        "meaning": "to shut one's mouth, to hold one's tongue, to keep silent"
+        "meaning": {
+          "vi": "to shut one's mouth, to hold one's tongue, to keep silent"
+        },
+        "romaji": "tsugumu"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09257.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9257.gif",
     "uri": "https://jisho.org/search/%E9%89%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiềm"
+  ]
 }

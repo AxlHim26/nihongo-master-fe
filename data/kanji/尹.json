@@ -18,7 +18,10 @@
       {
         "example": "尹",
         "reading": "イン",
-        "meaning": "director (of the ritsuryō-period Imperial Prosecuting and Investigating Office)"
+        "meaning": {
+          "vi": "director (of the ritsuryō-period Imperial Prosecuting and Investigating Office)"
+        },
+        "romaji": "in"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c39.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c39.gif",
     "uri": "https://jisho.org/search/%E5%B0%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "doãn",
+    "duẫn"
+  ]
 }

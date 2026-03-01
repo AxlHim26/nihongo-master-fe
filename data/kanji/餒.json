@@ -17,12 +17,18 @@
       {
         "example": "凍餒",
         "reading": "トウタイ",
-        "meaning": "privation"
+        "meaning": {
+          "vi": "privation"
+        },
+        "romaji": "toutai"
       },
       {
         "example": "凍餒",
         "reading": "トウタイ",
-        "meaning": "privation"
+        "meaning": {
+          "vi": "privation"
+        },
+        "romaji": "toutai"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09912.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9912.gif",
     "uri": "https://jisho.org/search/%E9%A4%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "nỗi"
+  ]
 }

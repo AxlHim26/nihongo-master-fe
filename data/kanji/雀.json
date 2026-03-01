@@ -20,64 +20,100 @@
       {
         "example": "雀躍",
         "reading": "ジャクヤク",
-        "meaning": "leaping for joy, exultation"
+        "meaning": {
+          "vi": "leaping for joy, exultation"
+        },
+        "romaji": "jakuyaku"
       },
       {
         "example": "雀羅",
         "reading": "ジャクラ",
-        "meaning": "sparrow net"
+        "meaning": {
+          "vi": "sparrow net"
+        },
+        "romaji": "jakura"
       },
       {
         "example": "黄雀",
         "reading": "コウジャク",
-        "meaning": "tree sparrow (Passer montanus)"
+        "meaning": {
+          "vi": "tree sparrow (Passer montanus)"
+        },
+        "romaji": "koujaku"
       },
       {
         "example": "インド孔雀",
         "reading": "インドクジャク",
-        "meaning": "Indian peafowl (Pavo cristatus), common peafowl, blue peafowl"
+        "meaning": {
+          "vi": "Indian peafowl (Pavo cristatus), common peafowl, blue peafowl"
+        },
+        "romaji": "indokujaku"
       },
       {
         "example": "雀鬼",
         "reading": "ジャンキ",
-        "meaning": "skilled mahjong player"
+        "meaning": {
+          "vi": "skilled mahjong player"
+        },
+        "romaji": "janki"
       },
       {
         "example": "雀球",
         "reading": "ジャンキュウ",
-        "meaning": "jankyū, combination of Japanese pinball and mahjong"
+        "meaning": {
+          "vi": "jankyū, combination of Japanese pinball and mahjong"
+        },
+        "romaji": "jankyuu"
       },
       {
         "example": "脱衣麻雀",
         "reading": "ダツイマージャン",
-        "meaning": "strip mahjong"
+        "meaning": {
+          "vi": "strip mahjong"
+        },
+        "romaji": "datsuimaajan"
       },
       {
         "example": "賭け麻雀",
         "reading": "カケマージャン",
-        "meaning": "mahjong gambling, playing mahjong for money"
+        "meaning": {
+          "vi": "mahjong gambling, playing mahjong for money"
+        },
+        "romaji": "kakemaajan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雀",
         "reading": "すずめ",
-        "meaning": "tree sparrow (Passer montanus), talkative person, knowledgeable person"
+        "meaning": {
+          "vi": "tree sparrow (Passer montanus), talkative person, knowledgeable person"
+        },
+        "romaji": "suzume"
       },
       {
         "example": "雀色",
         "reading": "すずめいろ",
-        "meaning": "light reddish brown"
+        "meaning": {
+          "en": "light reddish brown"
+        },
+        "romaji": "suzumeiro"
       },
       {
         "example": "入内雀",
         "reading": "にゅうないすずめ",
-        "meaning": "russet sparrow (Passer rutilans), cinnamon sparrow"
+        "meaning": {
+          "vi": "russet sparrow (Passer rutilans), cinnamon sparrow"
+        },
+        "romaji": "nyuunaisuzume"
       },
       {
         "example": "京雀",
         "reading": "きょうすずめ",
-        "meaning": "gossipy Kyotoite"
+        "meaning": {
+          "vi": "gossipy Kyotoite"
+        },
+        "romaji": "kyousuzume"
       }
     ],
     "radical": {
@@ -93,5 +129,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c0.gif",
     "uri": "https://jisho.org/search/%E9%9B%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "tước"
+  ]
 }

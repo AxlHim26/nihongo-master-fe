@@ -363,39 +363,60 @@
       {
         "example": "近畿",
         "reading": "キンキ",
-        "meaning": "Kinki (region around Osaka, Kyoto, Nara)"
+        "meaning": {
+          "en": "Kinki (region around Osaka, Kyoto, Nara)"
+        },
+        "romaji": "kinki"
       },
       {
         "example": "近海",
         "reading": "キンカイ",
-        "meaning": "coastal waters, adjacent seas"
+        "meaning": {
+          "en": "coastal waters, adjacent seas"
+        },
+        "romaji": "kinkai"
       },
       {
         "example": "ごく最近",
         "reading": "ゴクサイキン",
-        "meaning": "very recently, in the very recent past"
+        "meaning": {
+          "vi": "very recently, in the very recent past"
+        },
+        "romaji": "gokusaikin"
       },
       {
         "example": "至近",
         "reading": "シキン",
-        "meaning": "very near"
+        "meaning": {
+          "en": "very near"
+        },
+        "romaji": "shikin"
       },
       {
         "example": "近流",
         "reading": "コンル",
-        "meaning": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system"
+        "meaning": {
+          "vi": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system"
+        },
+        "romaji": "konru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "近い",
         "reading": "ちかい",
-        "meaning": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly"
+        "meaning": {
+          "vi": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly"
+        },
+        "romaji": "chikai"
       },
       {
         "example": "近いうちに",
         "reading": "ちかいうちに",
-        "meaning": "soon, shortly, before long"
+        "meaning": {
+          "en": "soon, shortly, before long"
+        },
+        "romaji": "chikaiuchini"
       }
     ],
     "radical": {
@@ -415,5 +436,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fd1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fd1.gif",
     "uri": "https://jisho.org/search/%E8%BF%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấn",
+    "cận",
+    "ký"
+  ]
 }

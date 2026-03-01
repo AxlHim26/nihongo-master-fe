@@ -16,7 +16,10 @@
       {
         "example": "歓楽",
         "reading": "カンラク",
-        "meaning": "pleasure, fun, enjoyment"
+        "meaning": {
+          "vi": "pleasure, fun, enjoyment"
+        },
+        "romaji": "kanraku"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61fd.gif",
     "uri": "https://jisho.org/search/%E6%87%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoan",
+    "hoàn",
+    "hoạn",
+    "quán"
+  ]
 }

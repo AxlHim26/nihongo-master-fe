@@ -20,49 +20,76 @@
       {
         "example": "忍",
         "reading": "ニン",
-        "meaning": "endurance, forbearance, patience, self-restraint"
+        "meaning": {
+          "vi": "endurance, forbearance, patience, self-restraint"
+        },
+        "romaji": "nin"
       },
       {
         "example": "忍耐",
         "reading": "ニンタイ",
-        "meaning": "endurance, perseverance, patience"
+        "meaning": {
+          "vi": "endurance, perseverance, patience"
+        },
+        "romaji": "nintai"
       },
       {
         "example": "無生法忍",
         "reading": "ムショウホウニン",
-        "meaning": "anutpattika-dharma-ksanti (recognition that nothing really arises or perishes)"
+        "meaning": {
+          "vi": "anutpattika-dharma-ksanti (recognition that nothing really arises or perishes)"
+        },
+        "romaji": "mushouhounin"
       },
       {
         "example": "中忍",
         "reading": "チュウニン",
-        "meaning": "ninja commander"
+        "meaning": {
+          "en": "ninja commander"
+        },
+        "romaji": "chuunin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "忍",
         "reading": "しのぶ",
-        "meaning": "squirrel's foot fern (Davallia mariesii), Lepisorus thunbergianus (species of fern), color of clothing layers under one's overcoat (light green on blue), shinobu-wake (Edo-period women's hairstyle), clothing patterned using squirrel's foot fern"
+        "meaning": {
+          "vi": "squirrel's foot fern (Davallia mariesii), Lepisorus thunbergianus (species of fern), color of clothing layers under one's overcoat (light green on blue), shinobu-wake (Edo-period women's hairstyle), clothing patterned using squirrel's foot fern"
+        },
+        "romaji": "shinobu"
       },
       {
         "example": "忍ぶ",
         "reading": "しのぶ",
-        "meaning": "to conceal oneself, to hide, to endure, to bear, to stand, to put up with"
+        "meaning": {
+          "vi": "to conceal oneself, to hide, to endure, to bear, to stand, to put up with"
+        },
+        "romaji": "shinobu"
       },
       {
         "example": "軒忍",
         "reading": "のきしのぶ",
-        "meaning": "weeping fern (Lepisorus thunbergianus)"
+        "meaning": {
+          "vi": "weeping fern (Lepisorus thunbergianus)"
+        },
+        "romaji": "nokishinobu"
       },
       {
         "example": "立忍",
         "reading": "たちしのぶ",
-        "meaning": "Japanese claw fern (Onychium japonicum), carrot fern"
+        "meaning": {
+          "vi": "Japanese claw fern (Onychium japonicum), carrot fern"
+        },
+        "romaji": "tachishinobu"
       },
       {
         "example": "忍ばせる",
         "reading": "しのばせる",
-        "meaning": "to conceal, to hide"
+        "meaning": {
+          "en": "to conceal, to hide"
+        },
+        "romaji": "shinobaseru"
       }
     ],
     "radical": {
@@ -82,5 +109,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcd.gif",
     "uri": "https://jisho.org/search/%E5%BF%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhẫn"
+  ]
 }

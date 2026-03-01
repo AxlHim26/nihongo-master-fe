@@ -242,24 +242,36 @@
       {
         "example": "乾燥洗濯",
         "reading": "カンソウセンタク",
-        "meaning": "dry cleaning"
+        "meaning": {
+          "en": "dry cleaning"
+        },
+        "romaji": "kansousentaku"
       },
       {
         "example": "鬼のいぬまに洗濯",
         "reading": "オニノイヌマニセンタク",
-        "meaning": "playing while the cat is away, taking a break while the boss is out, doing what one wants when one is (finally) alone, relaxing while the demon is out"
+        "meaning": {
+          "vi": "playing while the cat is away, taking a break while the boss is out, doing what one wants when one is (finally) alone, relaxing while the demon is out"
+        },
+        "romaji": "oninoinumanisentaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "濯ぐ",
         "reading": "すすぐ",
-        "meaning": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace"
+        "meaning": {
+          "vi": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace"
+        },
+        "romaji": "susugu"
       },
       {
         "example": "濯ぐ",
         "reading": "すすぐ",
-        "meaning": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace"
+        "meaning": {
+          "vi": "to rinse, to wash out, to have one's revenge, to wipe out a disgrace"
+        },
+        "romaji": "susugu"
       }
     ],
     "radical": {
@@ -279,5 +291,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fef.gif",
     "uri": "https://jisho.org/search/%E6%BF%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "trạc",
+    "trạo"
+  ]
 }

@@ -301,54 +301,84 @@
       {
         "example": "詰問",
         "reading": "キツモン",
-        "meaning": "cross-examination, close questioning, demanding an explanation"
+        "meaning": {
+          "vi": "cross-examination, close questioning, demanding an explanation"
+        },
+        "romaji": "kitsumon"
       },
       {
         "example": "難詰",
         "reading": "ナンキツ",
-        "meaning": "reprimand"
+        "meaning": {
+          "vi": "reprimand"
+        },
+        "romaji": "nankitsu"
       },
       {
         "example": "面詰",
         "reading": "メンキツ",
-        "meaning": "reprimanding (a person) personally, personal reproof"
+        "meaning": {
+          "vi": "reprimanding (a person) personally, personal reproof"
+        },
+        "romaji": "menkitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詰める",
         "reading": "つめる",
-        "meaning": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ..."
+        "meaning": {
+          "vi": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ..."
+        },
+        "romaji": "tsumeru"
       },
       {
         "example": "詰め",
         "reading": "つめ",
-        "meaning": "stuffing, packing, endgame, final stage, end, conclusion, end (esp. of a bridge), edge, sweet eel sauce (brushed on a sushi topping), lowest-ranking guest at a tea ceremony, tea master"
+        "meaning": {
+          "vi": "stuffing, packing, endgame, final stage, end, conclusion, end (esp. of a bridge), edge, sweet eel sauce (brushed on a sushi topping), lowest-ranking guest at a tea ceremony, tea master"
+        },
+        "romaji": "tsume"
       },
       {
         "example": "詰める",
         "reading": "つめる",
-        "meaning": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ..."
+        "meaning": {
+          "vi": "to stuff into, to jam, to cram, to pack, to fill, to plug, to stop up, to shorten, to move closer together, to reduce (spending), to conserve, to focus intently on, to strain oneself to do, to go through thoroughly, to work out (details), to bring to a conclusion, to wind up, to be on duty, to be stationed, to corner (esp. an opponent's king in shogi), to trap, to checkmate, to cut off (one's finger as an act of apology), to catch (one's finger in a door, etc.), to do non-stop, to do continuously, to keep doing (without a break), to do completely, to do thoroughly, to force someone into a difficult situation by ..."
+        },
+        "romaji": "tsumeru"
       },
       {
         "example": "お詰め",
         "reading": "おつめ",
-        "meaning": "lowest-ranking guest at tea ceremony, tea master"
+        "meaning": {
+          "en": "lowest-ranking guest at tea ceremony, tea master"
+        },
+        "romaji": "otsume"
       },
       {
         "example": "詰まる",
         "reading": "つまる",
-        "meaning": "to be packed (with), to be filled, to be full (e.g. of a schedule), to be blocked (of a pipe, nose, etc.), to be clogged, to be stopped up, to be become shorter, to shrink, to narrow, to be at a loss (for), to be pressed (for), to be stuck (for), to come to the end, to be settled, to become a geminate consonant, to hit the bat close to the batter's hands (of a pitch), to hit off the fists, to get jammed"
+        "meaning": {
+          "vi": "to be packed (with), to be filled, to be full (e.g. of a schedule), to be blocked (of a pipe, nose, etc.), to be clogged, to be stopped up, to be become shorter, to shrink, to narrow, to be at a loss (for), to be pressed (for), to be stuck (for), to come to the end, to be settled, to become a geminate consonant, to hit the bat close to the batter's hands (of a pitch), to hit off the fists, to get jammed"
+        },
+        "romaji": "tsumaru"
       },
       {
         "example": "詰まるところ",
         "reading": "つまるところ",
-        "meaning": "in short, in brief, to sum up, ultimately, in the end, in the long run, when all is said and done, what it all comes down to, when you get right down to it"
+        "meaning": {
+          "vi": "in short, in brief, to sum up, ultimately, in the end, in the long run, when all is said and done, what it all comes down to, when you get right down to it"
+        },
+        "romaji": "tsumarutokoro"
       },
       {
         "example": "詰む",
         "reading": "つむ",
-        "meaning": "to become fine (of fabric), to be checkmated, to be hard pressed, to be at a loss, to reach the limits"
+        "meaning": {
+          "vi": "to become fine (of fabric), to be checkmated, to be hard pressed, to be at a loss, to reach the limits"
+        },
+        "romaji": "tsumu"
       }
     ],
     "radical": {
@@ -367,5 +397,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a70.gif",
     "uri": "https://jisho.org/search/%E8%A9%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "cật"
+  ]
 }

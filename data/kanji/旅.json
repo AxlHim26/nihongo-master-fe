@@ -339,44 +339,68 @@
       {
         "example": "旅",
         "reading": "リョ",
-        "meaning": "500-man battalion (Zhou dynasty Chinese army)"
+        "meaning": {
+          "en": "500-man battalion (Zhou dynasty Chinese army)"
+        },
+        "romaji": "ryo"
       },
       {
         "example": "旅客",
         "reading": "リョカク",
-        "meaning": "passenger, traveller, traveler, tourist"
+        "meaning": {
+          "vi": "passenger, traveller, traveler, tourist"
+        },
+        "romaji": "ryokaku"
       },
       {
         "example": "行旅",
         "reading": "コウリョ",
-        "meaning": "traveling, travelling, traveler, traveller"
+        "meaning": {
+          "en": "traveling, travelling, traveler, traveller"
+        },
+        "romaji": "kouryo"
       },
       {
         "example": "修旅",
         "reading": "シュウリョ",
-        "meaning": "excursion, field trip, school trip"
+        "meaning": {
+          "vi": "excursion, field trip, school trip"
+        },
+        "romaji": "shuuryo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旅",
         "reading": "たび",
-        "meaning": "travel, trip, journey"
+        "meaning": {
+          "vi": "travel, trip, journey"
+        },
+        "romaji": "tabi"
       },
       {
         "example": "旅先",
         "reading": "たびさき",
-        "meaning": "destination, place one stays during a trip"
+        "meaning": {
+          "vi": "destination, place one stays during a trip"
+        },
+        "romaji": "tabisaki"
       },
       {
         "example": "あてなき旅",
         "reading": "あてなきたび",
-        "meaning": "journey without a destination"
+        "meaning": {
+          "en": "journey without a destination"
+        },
+        "romaji": "atenakitabi"
       },
       {
         "example": "股旅",
         "reading": "またたび",
-        "meaning": "wandering life of a gambler"
+        "meaning": {
+          "en": "wandering life of a gambler"
+        },
+        "romaji": "matatabi"
       }
     ],
     "radical": {
@@ -392,5 +416,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c5.gif",
     "uri": "https://jisho.org/search/%E6%97%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "lữ"
+  ]
 }

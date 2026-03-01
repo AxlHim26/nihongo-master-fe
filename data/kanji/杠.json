@@ -18,7 +18,10 @@
       {
         "example": "杠秤",
         "reading": "ちぎばかり",
-        "meaning": "large beam balance, weighbeam"
+        "meaning": {
+          "en": "large beam balance, weighbeam"
+        },
+        "romaji": "chigibakari"
       }
     ],
     "radical": {
@@ -33,5 +36,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06760.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6760.gif",
     "uri": "https://jisho.org/search/%E6%9D%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "cống",
+    "giang"
+  ]
 }

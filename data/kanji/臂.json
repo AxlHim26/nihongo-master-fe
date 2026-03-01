@@ -16,14 +16,20 @@
       {
         "example": "肘",
         "reading": "ヒジ",
-        "meaning": "elbow"
+        "meaning": {
+          "en": "elbow"
+        },
+        "romaji": "hiji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肘",
         "reading": "ひじ",
-        "meaning": "elbow"
+        "meaning": {
+          "en": "elbow"
+        },
+        "romaji": "hiji"
       }
     ],
     "radical": {
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c2.gif",
     "uri": "https://jisho.org/search/%E8%87%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "tí",
+    "tý"
+  ]
 }

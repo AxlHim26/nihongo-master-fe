@@ -377,59 +377,92 @@
       {
         "example": "習性",
         "reading": "シュウセイ",
-        "meaning": "habit, behavior, behaviour, trait, nature"
+        "meaning": {
+          "en": "habit, behavior, behaviour, trait, nature"
+        },
+        "romaji": "shuusei"
       },
       {
         "example": "習慣",
         "reading": "シュウカン",
-        "meaning": "habit, (social) custom, practice, convention"
+        "meaning": {
+          "vi": "habit, (social) custom, practice, convention"
+        },
+        "romaji": "shuukan"
       },
       {
         "example": "演習",
         "reading": "エンシュウ",
-        "meaning": "practice, exercise, drill, military exercise, manoeuvres, maneuvers, drill, seminar"
+        "meaning": {
+          "vi": "practice, exercise, drill, military exercise, manoeuvres, maneuvers, drill, seminar"
+        },
+        "romaji": "enshuu"
       },
       {
         "example": "教習",
         "reading": "キョウシュウ",
-        "meaning": "training, instruction"
+        "meaning": {
+          "en": "training, instruction"
+        },
+        "romaji": "kyoushuu"
       },
       {
         "example": "近習",
         "reading": "キンジュ",
-        "meaning": "attendant"
+        "meaning": {
+          "en": "attendant"
+        },
+        "romaji": "kinju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "習う",
         "reading": "ならう",
-        "meaning": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in"
+        "meaning": {
+          "en": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in"
+        },
+        "romaji": "narau"
       },
       {
         "example": "習うより慣れろ",
         "reading": "ならうよりなれろ",
-        "meaning": "experience is the best teacher, custom makes all things easy, you learn best by doing, practice makes perfect, it is better to grow accustomed than to be taught"
+        "meaning": {
+          "vi": "experience is the best teacher, custom makes all things easy, you learn best by doing, practice makes perfect, it is better to grow accustomed than to be taught"
+        },
+        "romaji": "narauyorinarero"
       },
       {
         "example": "習い",
         "reading": "ならい",
-        "meaning": "as is habit, the way life normally is"
+        "meaning": {
+          "en": "as is habit, the way life normally is"
+        },
+        "romaji": "narai"
       },
       {
         "example": "習い事",
         "reading": "ならいごと",
-        "meaning": "accomplishment, lessons (in an art, skill, etc.), practice"
+        "meaning": {
+          "vi": "accomplishment, lessons (in an art, skill, etc.), practice"
+        },
+        "romaji": "naraigoto"
       },
       {
         "example": "見習い",
         "reading": "みならい",
-        "meaning": "apprenticeship, probation, learning by observation, apprentice, trainee, probationer"
+        "meaning": {
+          "vi": "apprenticeship, probation, learning by observation, apprentice, trainee, probationer"
+        },
+        "romaji": "minarai"
       },
       {
         "example": "行儀見習い",
         "reading": "ぎょうぎみならい",
-        "meaning": "learning good manners through apprenticeship (to an upper-class family)"
+        "meaning": {
+          "vi": "learning good manners through apprenticeship (to an upper-class family)"
+        },
+        "romaji": "gyougiminarai"
       }
     ],
     "radical": {
@@ -445,5 +478,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07fd2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7fd2.gif",
     "uri": "https://jisho.org/search/%E7%BF%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "tập"
+  ]
 }

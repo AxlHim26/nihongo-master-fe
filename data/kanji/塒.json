@@ -20,17 +20,26 @@
       {
         "example": "塒",
         "reading": "ねぐら",
-        "meaning": "roost, nest, pad, crib, one's home, sleeping place"
+        "meaning": {
+          "vi": "roost, nest, pad, crib, one's home, sleeping place"
+        },
+        "romaji": "negura"
       },
       {
         "example": "塒",
         "reading": "とぐろ",
-        "meaning": "coil"
+        "meaning": {
+          "en": "coil"
+        },
+        "romaji": "toguro"
       },
       {
         "example": "とぐろを解く",
         "reading": "とぐろをほどく",
-        "meaning": "to uncoil itself"
+        "meaning": {
+          "en": "to uncoil itself"
+        },
+        "romaji": "togurowohodoku"
       }
     ],
     "radical": {
@@ -46,5 +55,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05852.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5852.gif",
     "uri": "https://jisho.org/search/%E5%A1%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "thì"
+  ]
 }

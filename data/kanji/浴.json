@@ -305,34 +305,52 @@
       {
         "example": "浴室",
         "reading": "ヨクシツ",
-        "meaning": "bathroom"
+        "meaning": {
+          "en": "bathroom"
+        },
+        "romaji": "yokushitsu"
       },
       {
         "example": "浴衣",
         "reading": "ユカタ",
-        "meaning": "yukata (light cotton kimono worn in the summer or used as a bathrobe)"
+        "meaning": {
+          "en": "yukata (light cotton kimono worn in the summer or used as a bathrobe)"
+        },
+        "romaji": "yukata"
       },
       {
         "example": "開浴",
         "reading": "カイヨク",
-        "meaning": "bathing (in a Zen Temple)"
+        "meaning": {
+          "vi": "bathing (in a Zen Temple)"
+        },
+        "romaji": "kaiyoku"
       },
       {
         "example": "泥浴",
         "reading": "デイヨク",
-        "meaning": "mud bath"
+        "meaning": {
+          "en": "mud bath"
+        },
+        "romaji": "deiyoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浴びる",
         "reading": "あびる",
-        "meaning": "to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in, to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with"
+        "meaning": {
+          "vi": "to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in, to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with"
+        },
+        "romaji": "abiru"
       },
       {
         "example": "浴びせる",
         "reading": "あびせる",
-        "meaning": "to pour on"
+        "meaning": {
+          "vi": "to pour on"
+        },
+        "romaji": "abiseru"
       }
     ],
     "radical": {
@@ -354,5 +372,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d74.gif",
     "uri": "https://jisho.org/search/%E6%B5%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "dục"
+  ]
 }

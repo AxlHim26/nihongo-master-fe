@@ -18,39 +18,60 @@
       {
         "example": "諫言",
         "reading": "カンゲン",
-        "meaning": "admonition, remonstrance, expostulation"
+        "meaning": {
+          "vi": "admonition, remonstrance, expostulation"
+        },
+        "romaji": "kangen"
       },
       {
         "example": "諫死",
         "reading": "カンシ",
-        "meaning": "committing suicide (to remonstrate or dissuade one's lord), preparing to die in an effort to dissuade one's lord"
+        "meaning": {
+          "vi": "committing suicide (to remonstrate or dissuade one's lord), preparing to die in an effort to dissuade one's lord"
+        },
+        "romaji": "kanshi"
       },
       {
         "example": "諷諫",
         "reading": "フウカン",
-        "meaning": "indirect remonstrance, exhortation by insinuation"
+        "meaning": {
+          "en": "indirect remonstrance, exhortation by insinuation"
+        },
+        "romaji": "fuukan"
       },
       {
         "example": "尸諌",
         "reading": "シカン",
-        "meaning": "admonishing (one's master) at the cost of one's life"
+        "meaning": {
+          "en": "admonishing (one's master) at the cost of one's life"
+        },
+        "romaji": "shikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "諫め",
         "reading": "いさめ",
-        "meaning": "remonstrance, remonstration, admonition, protest, reproof, expostulation, advice, counsel"
+        "meaning": {
+          "vi": "remonstrance, remonstration, admonition, protest, reproof, expostulation, advice, counsel"
+        },
+        "romaji": "isame"
       },
       {
         "example": "諌める",
         "reading": "いさめる",
-        "meaning": "to remonstrate, to admonish (someone) for, to advise (someone) not to, to warn against"
+        "meaning": {
+          "en": "to remonstrate, to admonish (someone) for, to advise (someone) not to, to warn against"
+        },
+        "romaji": "isameru"
       },
       {
         "example": "諌める",
         "reading": "いさめる",
-        "meaning": "to remonstrate, to admonish (someone) for, to advise (someone) not to, to warn against"
+        "meaning": {
+          "en": "to remonstrate, to admonish (someone) for, to advise (someone) not to, to warn against"
+        },
+        "romaji": "isameru"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acc.gif",
     "uri": "https://jisho.org/search/%E8%AB%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "gián"
+  ]
 }

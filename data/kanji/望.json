@@ -340,54 +340,84 @@
       {
         "example": "望",
         "reading": "モチ",
-        "meaning": "full moon, 15th day of the lunar month"
+        "meaning": {
+          "en": "full moon, 15th day of the lunar month"
+        },
+        "romaji": "mochi"
       },
       {
         "example": "望遠鏡",
         "reading": "ボウエンキョウ",
-        "meaning": "telescope"
+        "meaning": {
+          "vi": "telescope"
+        },
+        "romaji": "bouenkyou"
       },
       {
         "example": "眺望",
         "reading": "チョウボウ",
-        "meaning": "view, vista, panorama, outlook, prospect"
+        "meaning": {
+          "vi": "view, vista, panorama, outlook, prospect"
+        },
+        "romaji": "choubou"
       },
       {
         "example": "太公望",
         "reading": "タイコウボウ",
-        "meaning": "(avid) angler"
+        "meaning": {
+          "en": "(avid) angler"
+        },
+        "romaji": "taikoubou"
       },
       {
         "example": "本望",
         "reading": "ホンモウ",
-        "meaning": "long-cherished desire, satisfaction (from achieving one's desire)"
+        "meaning": {
+          "en": "long-cherished desire, satisfaction (from achieving one's desire)"
+        },
+        "romaji": "honmou"
       },
       {
         "example": "宿望",
         "reading": "シュクボウ",
-        "meaning": "long-cherished desire, one's heart's desire"
+        "meaning": {
+          "en": "long-cherished desire, one's heart's desire"
+        },
+        "romaji": "shukubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "望む",
         "reading": "のぞむ",
-        "meaning": "to desire, to want, to wish for, to hope for, to expect (of someone), to hope for, to look forward to, to see, to command (a view of), to overlook"
+        "meaning": {
+          "vi": "to desire, to want, to wish for, to hope for, to expect (of someone), to hope for, to look forward to, to see, to command (a view of), to overlook"
+        },
+        "romaji": "nozomu"
       },
       {
         "example": "望むところ",
         "reading": "のぞむところ",
-        "meaning": "what one desires, what one hopes for, suits me well, could ask for nothing better, bring it on, make my day"
+        "meaning": {
+          "vi": "what one desires, what one hopes for, suits me well, could ask for nothing better, bring it on, make my day"
+        },
+        "romaji": "nozomutokoro"
       },
       {
         "example": "望",
         "reading": "もち",
-        "meaning": "full moon, 15th day of the lunar month"
+        "meaning": {
+          "en": "full moon, 15th day of the lunar month"
+        },
+        "romaji": "mochi"
       },
       {
         "example": "望月",
         "reading": "もちづき",
-        "meaning": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+        "meaning": {
+          "en": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+        },
+        "romaji": "mochizuki"
       }
     ],
     "radical": {
@@ -403,5 +433,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0671b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/671b.gif",
     "uri": "https://jisho.org/search/%E6%9C%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "vọng"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "軽禁錮",
         "reading": "ケイキンコ",
-        "meaning": "minor imprisonment, imprisonment without hard labor (hard labour)"
+        "meaning": {
+          "vi": "minor imprisonment, imprisonment without hard labor (hard labour)"
+        },
+        "romaji": "keikinko"
       },
       {
         "example": "重禁錮",
         "reading": "ジュウキンコ",
-        "meaning": "major imprisonment, imprisonment with hard labor (hard labour)"
+        "meaning": {
+          "vi": "major imprisonment, imprisonment with hard labor (hard labour)"
+        },
+        "romaji": "juukinko"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932e.gif",
     "uri": "https://jisho.org/search/%E9%8C%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cố"
+  ]
 }

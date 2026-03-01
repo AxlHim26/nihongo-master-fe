@@ -18,22 +18,34 @@
       {
         "example": "塑性",
         "reading": "ソセイ",
-        "meaning": "plasticity"
+        "meaning": {
+          "vi": "plasticity"
+        },
+        "romaji": "sosei"
       },
       {
         "example": "塑性限界",
         "reading": "ソセイゲンカイ",
-        "meaning": "plastic limit"
+        "meaning": {
+          "vi": "plastic limit"
+        },
+        "romaji": "soseigenkai"
       },
       {
         "example": "彫塑",
         "reading": "チョウソ",
-        "meaning": "carving, engraving, clay model, plastic art"
+        "meaning": {
+          "vi": "carving, engraving, clay model, plastic art"
+        },
+        "romaji": "chouso"
       },
       {
         "example": "泥塑",
         "reading": "デイソ",
-        "meaning": "unfired clay figurine"
+        "meaning": {
+          "en": "unfired clay figurine"
+        },
+        "romaji": "deiso"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05851.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5851.gif",
     "uri": "https://jisho.org/search/%E5%A1%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "tố"
+  ]
 }

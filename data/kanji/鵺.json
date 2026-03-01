@@ -18,12 +18,18 @@
       {
         "example": "鵺",
         "reading": "ぬえ",
-        "meaning": "Japanese chimera, mythical creature with a monkey's head, tanuki's body, tiger's limbs, and a snake tail, White's thrush (Zoothera dauma), mysterious person, person of unknown character, enigma"
+        "meaning": {
+          "vi": "Japanese chimera, mythical creature with a monkey's head, tanuki's body, tiger's limbs, and a snake tail, White's thrush (Zoothera dauma), mysterious person, person of unknown character, enigma"
+        },
+        "romaji": "nue"
       },
       {
         "example": "鵺的",
         "reading": "ぬえてき",
-        "meaning": "mysterious, strange, sphinx-like, enigmatic, noncommittal"
+        "meaning": {
+          "vi": "mysterious, strange, sphinx-like, enigmatic, noncommittal"
+        },
+        "romaji": "nueteki"
       }
     ],
     "radical": {
@@ -41,5 +47,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d7a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d7a.gif",
     "uri": "https://jisho.org/search/%E9%B5%BA%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

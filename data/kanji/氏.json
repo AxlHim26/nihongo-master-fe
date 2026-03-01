@@ -306,44 +306,68 @@
       {
         "example": "氏",
         "reading": "シ",
-        "meaning": "Mr, Mrs, Ms, Miss, clan, he, him, counter for people"
+        "meaning": {
+          "vi": "Mr, Mrs, Ms, Miss, clan, he, him, counter for people"
+        },
+        "romaji": "shi"
       },
       {
         "example": "氏族",
         "reading": "シゾク",
-        "meaning": "clan, family"
+        "meaning": {
+          "en": "clan, family"
+        },
+        "romaji": "shizoku"
       },
       {
         "example": "両氏",
         "reading": "リョウシ",
-        "meaning": "both persons"
+        "meaning": {
+          "vi": "both persons"
+        },
+        "romaji": "ryoushi"
       },
       {
         "example": "同氏",
         "reading": "ドウシ",
-        "meaning": "the said person, he, she, same surname"
+        "meaning": {
+          "vi": "the said person, he, she, same surname"
+        },
+        "romaji": "doushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "氏",
         "reading": "うじ",
-        "meaning": "family name, lineage, birth, clan"
+        "meaning": {
+          "en": "family name, lineage, birth, clan"
+        },
+        "romaji": "uji"
       },
       {
         "example": "氏名",
         "reading": "しめい",
-        "meaning": "(full) name, identity"
+        "meaning": {
+          "en": "(full) name, identity"
+        },
+        "romaji": "shimei"
       },
       {
         "example": "杜氏",
         "reading": "とうじ",
-        "meaning": "chief brewer at a sake brewery"
+        "meaning": {
+          "en": "chief brewer at a sake brewery"
+        },
+        "romaji": "touji"
       },
       {
         "example": "漢氏",
         "reading": "あやうじ",
-        "meaning": "Aya clan"
+        "meaning": {
+          "en": "Aya clan"
+        },
+        "romaji": "ayauji"
       }
     ],
     "radical": {
@@ -357,5 +381,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c0f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c0f.gif",
     "uri": "https://jisho.org/search/%E6%B0%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi",
+    "thị"
+  ]
 }

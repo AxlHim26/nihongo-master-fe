@@ -16,17 +16,26 @@
       {
         "example": "洸洸",
         "reading": "コウコウ",
-        "meaning": "valiant, brave, surge (of water)"
+        "meaning": {
+          "en": "valiant, brave, surge (of water)"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "洸洋",
         "reading": "コウヨウ",
-        "meaning": "unfathomable, great expanse of water, incoherent"
+        "meaning": {
+          "vi": "unfathomable, great expanse of water, incoherent"
+        },
+        "romaji": "kouyou"
       },
       {
         "example": "洸洸",
         "reading": "コウコウ",
-        "meaning": "valiant, brave, surge (of water)"
+        "meaning": {
+          "en": "valiant, brave, surge (of water)"
+        },
+        "romaji": "koukou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d38.gif",
     "uri": "https://jisho.org/search/%E6%B4%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoảng",
+    "quang"
+  ]
 }

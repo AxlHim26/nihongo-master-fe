@@ -217,22 +217,34 @@
       {
         "example": "宙",
         "reading": "チュウ",
-        "meaning": "space, air, midair, (from) memory, (by) heart"
+        "meaning": {
+          "vi": "space, air, midair, (from) memory, (by) heart"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "宙返り",
         "reading": "チュウガエリ",
-        "meaning": "somersault, looping-the-loop"
+        "meaning": {
+          "vi": "somersault, looping-the-loop"
+        },
+        "romaji": "chuugaeri"
       },
       {
         "example": "小宇宙",
         "reading": "ショウウチュウ",
-        "meaning": "microcosmos, microcosm"
+        "meaning": {
+          "en": "microcosmos, microcosm"
+        },
+        "romaji": "shouuchuu"
       },
       {
         "example": "大宇宙",
         "reading": "ダイウチュウ",
-        "meaning": "macrocosmos, macrocosm, the universe, the cosmos"
+        "meaning": {
+          "en": "macrocosmos, macrocosm, the universe, the cosmos"
+        },
+        "romaji": "daiuchuu"
       }
     ],
     "kunyomiExamples": [],
@@ -250,5 +262,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b99.gif",
     "uri": "https://jisho.org/search/%E5%AE%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "trụ"
+  ]
 }

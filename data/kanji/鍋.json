@@ -19,22 +19,34 @@
       {
         "example": "鍋",
         "reading": "なべ",
-        "meaning": "pan, pot, saucepan, stew, hot pot"
+        "meaning": {
+          "vi": "pan, pot, saucepan, stew, hot pot"
+        },
+        "romaji": "nabe"
       },
       {
         "example": "鍋物",
         "reading": "なべもの",
-        "meaning": "stew, food cooked in a pot"
+        "meaning": {
+          "vi": "stew, food cooked in a pot"
+        },
+        "romaji": "nabemono"
       },
       {
         "example": "もつ鍋",
         "reading": "もつなべ",
-        "meaning": "hot pot stew made with offal, vegetables and (often) miso"
+        "meaning": {
+          "vi": "hot pot stew made with offal, vegetables and (often) miso"
+        },
+        "romaji": "motsunabe"
       },
       {
         "example": "土鍋",
         "reading": "どなべ",
-        "meaning": "earthenware pot"
+        "meaning": {
+          "vi": "earthenware pot"
+        },
+        "romaji": "donabe"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0934b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/934b.gif",
     "uri": "https://jisho.org/search/%E9%8D%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "oa"
+  ]
 }

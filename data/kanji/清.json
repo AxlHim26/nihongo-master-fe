@@ -310,74 +310,116 @@
       {
         "example": "清算",
         "reading": "セイサン",
-        "meaning": "(financial) settlement, squaring accounts, clearing debts, liquidation, ending (a relationship), breaking up (with), burying (the past), redeeming (one's faults)"
+        "meaning": {
+          "vi": "(financial) settlement, squaring accounts, clearing debts, liquidation, ending (a relationship), breaking up (with), burying (the past), redeeming (one's faults)"
+        },
+        "romaji": "seisan"
       },
       {
         "example": "清潔",
         "reading": "セイケツ",
-        "meaning": "clean, hygienic, sanitary, pure, virtuous, immaculate"
+        "meaning": {
+          "vi": "clean, hygienic, sanitary, pure, virtuous, immaculate"
+        },
+        "romaji": "seiketsu"
       },
       {
         "example": "血清",
         "reading": "ケッセイ",
-        "meaning": "serum, blood serum"
+        "meaning": {
+          "en": "serum, blood serum"
+        },
+        "romaji": "kessei"
       },
       {
         "example": "乳清",
         "reading": "ニュウセイ",
-        "meaning": "whey"
+        "meaning": {
+          "en": "whey"
+        },
+        "romaji": "nyuusei"
       },
       {
         "example": "清浄",
         "reading": "セイジョウ",
-        "meaning": "pure, clean, purity"
+        "meaning": {
+          "vi": "pure, clean, purity"
+        },
+        "romaji": "seijou"
       },
       {
         "example": "清浄無垢",
         "reading": "セイジョウムク",
-        "meaning": "purity, spotlessness"
+        "meaning": {
+          "vi": "purity, spotlessness"
+        },
+        "romaji": "seijoumuku"
       },
       {
         "example": "清",
         "reading": "シン",
-        "meaning": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty"
+        "meaning": {
+          "en": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty"
+        },
+        "romaji": "shin"
       },
       {
         "example": "清朝",
         "reading": "シンチョウ",
-        "meaning": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty, seichōtai, typeface which resembles brush-stroke forms of characters"
+        "meaning": {
+          "vi": "Qing dynasty (of China; 1644-1912), Ch'ing dynasty, Manchu dynasty, seichōtai, typeface which resembles brush-stroke forms of characters"
+        },
+        "romaji": "shinchou"
       },
       {
         "example": "東清",
         "reading": "トウシン",
-        "meaning": "Eastern China"
+        "meaning": {
+          "en": "Eastern China"
+        },
+        "romaji": "toushin"
       },
       {
         "example": "日清",
         "reading": "ニッシン",
-        "meaning": "Japan and Qing China"
+        "meaning": {
+          "vi": "Japan and Qing China"
+        },
+        "romaji": "nisshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "清い",
         "reading": "きよい",
-        "meaning": "clean, clear, pure, honest, clean, innocent, platonic, chaste"
+        "meaning": {
+          "vi": "clean, clear, pure, honest, clean, innocent, platonic, chaste"
+        },
+        "romaji": "kiyoi"
       },
       {
         "example": "清い愛",
         "reading": "きよいあい",
-        "meaning": "pure love, platonic love"
+        "meaning": {
+          "vi": "pure love, platonic love"
+        },
+        "romaji": "kiyoiai"
       },
       {
         "example": "清まる",
         "reading": "きよまる",
-        "meaning": "to be purified, to be cleansed"
+        "meaning": {
+          "vi": "to be purified, to be cleansed"
+        },
+        "romaji": "kiyomaru"
       },
       {
         "example": "清める",
         "reading": "きよめる",
-        "meaning": "to purify, to cleanse, to exorcise, to purge, to ward off"
+        "meaning": {
+          "vi": "to purify, to cleanse, to exorcise, to purge, to ward off"
+        },
+        "romaji": "kiyomeru"
       }
     ],
     "radical": {
@@ -400,5 +442,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e05.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e05.gif",
     "uri": "https://jisho.org/search/%E6%B8%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "sảnh",
+    "thanh"
+  ]
 }

@@ -18,24 +18,36 @@
       {
         "example": "欄干",
         "reading": "ランカン",
-        "meaning": "railing, guard rail, handrail, banister, balustrade, parapet, (shining) brightly (of the moon or stars), (flowing) endlessly (of tears)"
+        "meaning": {
+          "vi": "railing, guard rail, handrail, banister, balustrade, parapet, (shining) brightly (of the moon or stars), (flowing) endlessly (of tears)"
+        },
+        "romaji": "rankan"
       },
       {
         "example": "小欄",
         "reading": "ショウラン",
-        "meaning": "small guardrail"
+        "meaning": {
+          "en": "small guardrail"
+        },
+        "romaji": "shouran"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "長ける",
         "reading": "たける",
-        "meaning": "to excel at, to be proficient at, to grow old, to ripen, to rise high (e.g. of the sun)"
+        "meaning": {
+          "vi": "to excel at, to be proficient at, to grow old, to ripen, to rise high (e.g. of the sun)"
+        },
+        "romaji": "takeru"
       },
       {
         "example": "酣",
         "reading": "たけなわ",
-        "meaning": "height (of summer, party, etc.), (in) full swing"
+        "meaning": {
+          "vi": "height (of summer, party, etc.), (in) full swing"
+        },
+        "romaji": "takenawa"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95cc.gif",
     "uri": "https://jisho.org/search/%E9%97%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "lan"
+  ]
 }

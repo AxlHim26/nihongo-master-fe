@@ -16,12 +16,18 @@
       {
         "example": "証券",
         "reading": "ショウケン",
-        "meaning": "bond, bill, certificate, security"
+        "meaning": {
+          "en": "bond, bill, certificate, security"
+        },
+        "romaji": "shouken"
       },
       {
         "example": "証拠",
         "reading": "ショウコ",
-        "meaning": "evidence, proof"
+        "meaning": {
+          "vi": "evidence, proof"
+        },
+        "romaji": "shouko"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b49.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b49.gif",
     "uri": "https://jisho.org/search/%E8%AD%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "chứng"
+  ]
 }

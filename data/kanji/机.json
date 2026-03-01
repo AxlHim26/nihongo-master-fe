@@ -205,39 +205,60 @@
       {
         "example": "机上",
         "reading": "キジョウ",
-        "meaning": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
+        "meaning": {
+          "vi": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
+        },
+        "romaji": "kijou"
       },
       {
         "example": "几案",
         "reading": "キアン",
-        "meaning": "desk"
+        "meaning": {
+          "en": "desk"
+        },
+        "romaji": "kian"
       },
       {
         "example": "明窓浄机",
         "reading": "メイソウジョウキ",
-        "meaning": "dustless desk by a well-lit window, well-lit and clean study conducive to learning"
+        "meaning": {
+          "en": "dustless desk by a well-lit window, well-lit and clean study conducive to learning"
+        },
+        "romaji": "meisoujouki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "机",
         "reading": "つくえ",
-        "meaning": "desk"
+        "meaning": {
+          "en": "desk"
+        },
+        "romaji": "tsukue"
       },
       {
         "example": "机に向かう",
         "reading": "つくえにむかう",
-        "meaning": "to sit at a desk (to study), to be at one's desk, to set to work on revision, homework, etc."
+        "meaning": {
+          "en": "to sit at a desk (to study), to be at one's desk, to set to work on revision, homework, etc."
+        },
+        "romaji": "tsukuenimukau"
       },
       {
         "example": "片袖机",
         "reading": "かたそでづくえ",
-        "meaning": "desk with a tier of drawers on one side"
+        "meaning": {
+          "en": "desk with a tier of drawers on one side"
+        },
+        "romaji": "katasodezukue"
       },
       {
         "example": "八足の机",
         "reading": "やつあしのつくえ",
-        "meaning": "eight-legged table (used as a stand for religious offerings, etc.)"
+        "meaning": {
+          "en": "eight-legged table (used as a stand for religious offerings, etc.)"
+        },
+        "romaji": "yatsuashinotsukue"
       }
     ],
     "radical": {
@@ -252,5 +273,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0673a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/673a.gif",
     "uri": "https://jisho.org/search/%E6%9C%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "ki",
+    "ky",
+    "kì",
+    "kỷ"
+  ]
 }

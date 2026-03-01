@@ -14,7 +14,7 @@
         "japanese": "桜桃（おうとう）",
         "meaning": {
           "english": "cherry",
-        "vietnamese": "anh đào"
+          "vietnamese": "anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "桜（さくら）",
         "meaning": {
           "english": "cherry tree or blossom, decoy",
-        "vietnamese": "cây anh đào hoặc hoa anh đào, mồi nhử"
+          "vietnamese": "cây anh đào hoặc hoa anh đào, mồi nhử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "桜ん坊（さくらんぼ）",
         "meaning": {
           "english": "cherry",
-        "vietnamese": "anh đào"
+          "vietnamese": "anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "山桜（やまざくら）",
         "meaning": {
           "english": "wild cherry tree or blossoms",
-        "vietnamese": "cây anh đào dại hoặc hoa anh đào"
+          "vietnamese": "cây anh đào dại hoặc hoa anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "八重桜（やえざくら）",
         "meaning": {
           "english": "double-flowered cherry tree",
-        "vietnamese": "cây anh đào hoa kép"
+          "vietnamese": "cây anh đào hoa kép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sakura(nbou)_06_e.opus",
@@ -254,34 +254,52 @@
       {
         "example": "桜花",
         "reading": "オウカ",
-        "meaning": "hoa anh đào"
+        "meaning": {
+          "vi": "hoa anh đào"
+        },
+        "romaji": "ouka"
       },
       {
         "example": "桜花学園大学",
         "reading": "オウカガクエンダイガク",
-        "meaning": "Ohkagakuen University"
+        "meaning": {
+          "en": "Ohkagakuen University"
+        },
+        "romaji": "oukagakuendaigaku"
       },
       {
         "example": "観桜",
         "reading": "カンオウ",
-        "meaning": "ngắm hoa anh đào"
+        "meaning": {
+          "vi": "ngắm hoa anh đào"
+        },
+        "romaji": "kan'ou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "桜",
         "reading": "さくら",
-        "meaning": "cây anh đào, hoa anh đào, người mua giả, khán giả trả tiền, người vỗ tay thuê, thịt ngựa"
+        "meaning": {
+          "vi": "cây anh đào, hoa anh đào, người mua giả, khán giả trả tiền, người vỗ tay thuê, thịt ngựa"
+        },
+        "romaji": "sakura"
       },
       {
         "example": "桜花",
         "reading": "おうか",
-        "meaning": "hoa anh đào"
+        "meaning": {
+          "vi": "hoa anh đào"
+        },
+        "romaji": "ouka"
       },
       {
         "example": "左近の桜",
         "reading": "さこんのさくら",
-        "meaning": "cây anh đào phía đông cầu thang nam Điện Lễ (Heian Palace)"
+        "meaning": {
+          "vi": "cây anh đào phía đông cầu thang nam Điện Lễ (Heian Palace)"
+        },
+        "romaji": "sakonnosakura"
       }
     ],
     "radical": {
@@ -297,5 +315,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0685c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/685c.gif",
     "uri": "https://jisho.org/search/%E6%A1%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "anh"
+  ]
 }

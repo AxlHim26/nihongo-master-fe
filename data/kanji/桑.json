@@ -19,29 +19,44 @@
       {
         "example": "桑田",
         "reading": "ソウデン",
-        "meaning": "mulberry plantation"
+        "meaning": {
+          "vi": "mulberry plantation"
+        },
+        "romaji": "souden"
       },
       {
         "example": "桑園",
         "reading": "ソウエン",
-        "meaning": "mulberry plantation"
+        "meaning": {
+          "vi": "mulberry plantation"
+        },
+        "romaji": "souen"
       },
       {
         "example": "扶桑",
         "reading": "フソウ",
-        "meaning": "divine tree or island east of China, Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"
+        "meaning": {
+          "vi": "divine tree or island east of China, Fusang, Japan, Chinese hibiscus (Hibiscus rosa-sinensis)"
+        },
+        "romaji": "fusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "桑",
         "reading": "くわ",
-        "meaning": "mulberry (tree)"
+        "meaning": {
+          "en": "mulberry (tree)"
+        },
+        "romaji": "kuwa"
       },
       {
         "example": "桑原",
         "reading": "くわばら",
-        "meaning": "mulberry field"
+        "meaning": {
+          "en": "mulberry field"
+        },
+        "romaji": "kuwabara"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06851.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6851.gif",
     "uri": "https://jisho.org/search/%E6%A1%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "tang"
+  ]
 }

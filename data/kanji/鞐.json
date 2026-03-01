@@ -15,7 +15,10 @@
       {
         "example": "小鉤",
         "reading": "こはぜ",
-        "meaning": "clasp"
+        "meaning": {
+          "vi": "clasp"
+        },
+        "romaji": "kohaze"
       }
     ],
     "radical": {
@@ -30,5 +33,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09790.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9790.gif",
     "uri": "https://jisho.org/search/%E9%9E%90%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

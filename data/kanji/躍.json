@@ -19,29 +19,44 @@
       {
         "example": "躍動",
         "reading": "ヤクドウ",
-        "meaning": "lively motion, throb"
+        "meaning": {
+          "en": "lively motion, throb"
+        },
+        "romaji": "yakudou"
       },
       {
         "example": "躍進",
         "reading": "ヤクシン",
-        "meaning": "making rapid progress, making great advances, rush, dash, onslaught"
+        "meaning": {
+          "vi": "making rapid progress, making great advances, rush, dash, onslaught"
+        },
+        "romaji": "yakushin"
       },
       {
         "example": "勇躍",
         "reading": "ユウヤク",
-        "meaning": "taking heart, being in high spirits"
+        "meaning": {
+          "vi": "taking heart, being in high spirits"
+        },
+        "romaji": "yuuyaku"
       },
       {
         "example": "時間跳躍",
         "reading": "ジカンチョウヤク",
-        "meaning": "time travel, leaping through time"
+        "meaning": {
+          "vi": "time travel, leaping through time"
+        },
+        "romaji": "jikanchouyaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "躍る",
         "reading": "おどる",
-        "meaning": "to jump up, to spring up, to leap, to move around, to bounce up and down, to pound (of one's heart, e.g. with excitement), to throb, to be messy (of handwriting), to be untidy"
+        "meaning": {
+          "vi": "to jump up, to spring up, to leap, to move around, to bounce up and down, to pound (of one's heart, e.g. with excitement), to throb, to be messy (of handwriting), to be untidy"
+        },
+        "romaji": "odoru"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e8d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e8d.gif",
     "uri": "https://jisho.org/search/%E8%BA%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "dược",
+    "thích"
+  ]
 }

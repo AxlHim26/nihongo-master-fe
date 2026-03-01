@@ -18,34 +18,52 @@
       {
         "example": "憫察",
         "reading": "ビンサツ",
-        "meaning": "taking pity upon, sympathy, compassion"
+        "meaning": {
+          "vi": "taking pity upon, sympathy, compassion"
+        },
+        "romaji": "binsatsu"
       },
       {
         "example": "憫笑",
         "reading": "ビンショウ",
-        "meaning": "smiling with pity"
+        "meaning": {
+          "vi": "smiling with pity"
+        },
+        "romaji": "binshou"
       },
       {
         "example": "哀愍",
         "reading": "アイビン",
-        "meaning": "pity"
+        "meaning": {
+          "vi": "pity"
+        },
+        "romaji": "aibin"
       },
       {
         "example": "不憫",
         "reading": "フビン",
-        "meaning": "poor, pitiful, piteous, pitiable"
+        "meaning": {
+          "vi": "poor, pitiful, piteous, pitiable"
+        },
+        "romaji": "fubin"
       },
       {
         "example": "哀愍",
         "reading": "アイビン",
-        "meaning": "pity"
+        "meaning": {
+          "vi": "pity"
+        },
+        "romaji": "aibin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "哀れむ",
         "reading": "あわれむ",
-        "meaning": "to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"
+        "meaning": {
+          "vi": "to pity, to feel sympathy for, to sympathize with, to sympathise with, to commiserate with, to have mercy on, to enjoy the beauty of, to appreciate, to admire"
+        },
+        "romaji": "awaremu"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ab.gif",
     "uri": "https://jisho.org/search/%E6%86%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "mẫn"
+  ]
 }

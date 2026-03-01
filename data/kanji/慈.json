@@ -19,29 +19,44 @@
       {
         "example": "慈善",
         "reading": "ジゼン",
-        "meaning": "charity, benevolence, philanthropy"
+        "meaning": {
+          "vi": "charity, benevolence, philanthropy"
+        },
+        "romaji": "jizen"
       },
       {
         "example": "慈悲",
         "reading": "ジヒ",
-        "meaning": "mercy, compassion, clemency, pity, charity, benevolence, rufous hawk-cuckoo, northern hawk-cuckoo"
+        "meaning": {
+          "vi": "mercy, compassion, clemency, pity, charity, benevolence, rufous hawk-cuckoo, northern hawk-cuckoo"
+        },
+        "romaji": "jihi"
       },
       {
         "example": "具慈",
         "reading": "グジ",
-        "meaning": "tilefish (Branchiostegus spp.), blanquillo, horse-head fish"
+        "meaning": {
+          "vi": "tilefish (Branchiostegus spp.), blanquillo, horse-head fish"
+        },
+        "romaji": "guji"
       },
       {
         "example": "仁慈",
         "reading": "ジンジ",
-        "meaning": "kind-hearted, benevolence"
+        "meaning": {
+          "en": "kind-hearted, benevolence"
+        },
+        "romaji": "jinji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慈しむ",
         "reading": "いつくしむ",
-        "meaning": "to be affectionate towards, to show tenderness towards, to treat tenderly, to love"
+        "meaning": {
+          "en": "to be affectionate towards, to show tenderness towards, to treat tenderly, to love"
+        },
+        "romaji": "itsukushimu"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06148.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6148.gif",
     "uri": "https://jisho.org/search/%E6%85%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư",
+    "từ"
+  ]
 }

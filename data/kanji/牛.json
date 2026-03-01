@@ -294,44 +294,68 @@
       {
         "example": "妓夫",
         "reading": "ギュウ",
-        "meaning": "pimp, brothel tout"
+        "meaning": {
+          "vi": "pimp, brothel tout"
+        },
+        "romaji": "gyuu"
       },
       {
         "example": "牛",
         "reading": "ウシ",
-        "meaning": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "ushi"
       },
       {
         "example": "肉牛",
         "reading": "ニクギュウ",
-        "meaning": "beef cattle"
+        "meaning": {
+          "en": "beef cattle"
+        },
+        "romaji": "nikugyuu"
       },
       {
         "example": "海牛",
         "reading": "カイギュウ",
-        "meaning": "sirenian (any aquatic mammal of order Sirenia, incl. manatees, and dugongs), sea cow"
+        "meaning": {
+          "en": "sirenian (any aquatic mammal of order Sirenia, incl. manatees, and dugongs), sea cow"
+        },
+        "romaji": "kaigyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "牛",
         "reading": "うし",
-        "meaning": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "ushi"
       },
       {
         "example": "牛車",
         "reading": "ぎゅうしゃ",
-        "meaning": "ox carriage (for Heian-era nobles), oxcart"
+        "meaning": {
+          "en": "ox carriage (for Heian-era nobles), oxcart"
+        },
+        "romaji": "gyuusha"
       },
       {
         "example": "去勢牛",
         "reading": "きょせいうし",
-        "meaning": "ox, bullock"
+        "meaning": {
+          "en": "ox, bullock"
+        },
+        "romaji": "kyoseiushi"
       },
       {
         "example": "特牛",
         "reading": "こというし",
-        "meaning": "strong bull"
+        "meaning": {
+          "en": "strong bull"
+        },
+        "romaji": "kotoiushi"
       }
     ],
     "radical": {
@@ -348,5 +372,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0725b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/725b.gif",
     "uri": "https://jisho.org/search/%E7%89%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngưu"
+  ]
 }

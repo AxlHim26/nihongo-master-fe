@@ -17,24 +17,36 @@
       {
         "example": "轢過",
         "reading": "レキカ",
-        "meaning": "running over (with a vehicle)"
+        "meaning": {
+          "en": "running over (with a vehicle)"
+        },
+        "romaji": "rekika"
       },
       {
         "example": "轢殺",
         "reading": "レキサツ",
-        "meaning": "killing by running over (with a car or train)"
+        "meaning": {
+          "en": "killing by running over (with a car or train)"
+        },
+        "romaji": "rekisatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "轢く",
         "reading": "ひく",
-        "meaning": "to run over (with a vehicle), to knock down"
+        "meaning": {
+          "en": "to run over (with a vehicle), to knock down"
+        },
+        "romaji": "hiku"
       },
       {
         "example": "軋る",
         "reading": "きしる",
-        "meaning": "to creak, to squeak, to grate, to grind, to rasp"
+        "meaning": {
+          "vi": "to creak, to squeak, to grate, to grind, to rasp"
+        },
+        "romaji": "kishiru"
       }
     ],
     "radical": {
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f62.gif",
     "uri": "https://jisho.org/search/%E8%BD%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "lịch"
+  ]
 }

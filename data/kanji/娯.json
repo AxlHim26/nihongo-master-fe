@@ -17,12 +17,18 @@
       {
         "example": "娯楽",
         "reading": "ゴラク",
-        "meaning": "amusement, entertainment, recreation, pleasure, pastime, hobby"
+        "meaning": {
+          "vi": "amusement, entertainment, recreation, pleasure, pastime, hobby"
+        },
+        "romaji": "goraku"
       },
       {
         "example": "娯遊",
         "reading": "ゴユウ",
-        "meaning": "amusement, pleasure, recreation, leisure"
+        "meaning": {
+          "vi": "amusement, pleasure, recreation, leisure"
+        },
+        "romaji": "goyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a2f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a2f.gif",
     "uri": "https://jisho.org/search/%E5%A8%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngu"
+  ]
 }

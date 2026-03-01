@@ -18,29 +18,44 @@
       {
         "example": "四",
         "reading": "シ",
-        "meaning": "four, 4"
+        "meaning": {
+          "en": "four, 4"
+        },
+        "romaji": "shi"
       },
       {
         "example": "恣意",
         "reading": "シイ",
-        "meaning": "arbitrariness, self-will, whim"
+        "meaning": {
+          "en": "arbitrariness, self-will, whim"
+        },
+        "romaji": "shii"
       },
       {
         "example": "放恣",
         "reading": "ホウシ",
-        "meaning": "licentious, self-indulgent"
+        "meaning": {
+          "en": "licentious, self-indulgent"
+        },
+        "romaji": "houshi"
       },
       {
         "example": "驕恣",
         "reading": "キョウシ",
-        "meaning": "being proud and self-willed"
+        "meaning": {
+          "vi": "being proud and self-willed"
+        },
+        "romaji": "kyoushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恣",
         "reading": "ほしいまま",
-        "meaning": "selfish, self-indulgent, arbitrary"
+        "meaning": {
+          "en": "selfish, self-indulgent, arbitrary"
+        },
+        "romaji": "hoshiimama"
       }
     ],
     "radical": {
@@ -59,5 +74,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08086.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8086.gif",
     "uri": "https://jisho.org/search/%E8%82%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "dị",
+    "thích",
+    "tứ"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "几",
         "reading": "オシマズキ",
-        "meaning": "armrest, desk, table"
+        "meaning": {
+          "en": "armrest, desk, table"
+        },
+        "romaji": "oshimazuki"
       },
       {
         "example": "机上",
         "reading": "キジョウ",
-        "meaning": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
+        "meaning": {
+          "vi": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
+        },
+        "romaji": "kijou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +42,14 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e0.gif",
     "uri": "https://jisho.org/search/%E5%87%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "ki",
+    "ky",
+    "kì",
+    "kỉ",
+    "kỷ",
+    "ỷ"
+  ]
 }

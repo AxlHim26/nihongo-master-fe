@@ -20,12 +20,18 @@
       {
         "example": "淫",
         "reading": "イン",
-        "meaning": "licentiousness"
+        "meaning": {
+          "en": "licentiousness"
+        },
+        "romaji": "in"
       },
       {
         "example": "淫女",
         "reading": "インジョ",
-        "meaning": "lascivious woman, lewd woman, prostitute"
+        "meaning": {
+          "vi": "lascivious woman, lewd woman, prostitute"
+        },
+        "romaji": "injo"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a6c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a6c.gif",
     "uri": "https://jisho.org/search/%E5%A9%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "dâm"
+  ]
 }

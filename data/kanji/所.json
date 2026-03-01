@@ -371,84 +371,132 @@
       {
         "example": "所",
         "reading": "ショ",
-        "meaning": "counter for places"
+        "meaning": {
+          "vi": "counter for places"
+        },
+        "romaji": "sho"
       },
       {
         "example": "署員",
         "reading": "ショイン",
-        "meaning": "staff member, station employee, official"
+        "meaning": {
+          "vi": "staff member, station employee, official"
+        },
+        "romaji": "shoin"
       },
       {
         "example": "高所",
         "reading": "コウショ",
-        "meaning": "high place, high ground, height, (high) altitude, elevation, broad (point of) view"
+        "meaning": {
+          "vi": "high place, high ground, height, (high) altitude, elevation, broad (point of) view"
+        },
+        "romaji": "kousho"
       },
       {
         "example": "随所",
         "reading": "ズイショ",
-        "meaning": "everywhere, all over the place, here and there, at every turn"
+        "meaning": {
+          "vi": "everywhere, all over the place, here and there, at every turn"
+        },
+        "romaji": "zuisho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "所",
         "reading": "ところ",
-        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        "meaning": {
+          "vi": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        },
+        "romaji": "tokoro"
       },
       {
         "example": "所で",
         "reading": "ところで",
-        "meaning": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+        "meaning": {
+          "en": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+        },
+        "romaji": "tokorode"
       },
       {
         "example": "一所",
         "reading": "いっしょ",
-        "meaning": "one place, the same place, one person, together"
+        "meaning": {
+          "vi": "one place, the same place, one person, together"
+        },
+        "romaji": "issho"
       },
       {
         "example": "痛いところ",
         "reading": "いたいところ",
-        "meaning": "one's weak point, one's sore spot, raw nerve"
+        "meaning": {
+          "vi": "one's weak point, one's sore spot, raw nerve"
+        },
+        "romaji": "itaitokoro"
       },
       {
         "example": "所か",
         "reading": "どころか",
-        "meaning": "far from, anything but, not at all ... but rather ..., not ..., on the contrary, ..., instead of, rather than, let alone, to say nothing of, not to mention, much less, not only ... (but also ...)"
+        "meaning": {
+          "en": "far from, anything but, not at all ... but rather ..., not ..., on the contrary, ..., instead of, rather than, let alone, to say nothing of, not to mention, much less, not only ... (but also ...)"
+        },
+        "romaji": "dokoroka"
       },
       {
         "example": "所じゃない",
         "reading": "どころじゃない",
-        "meaning": "not the time for, not the place for, far from, anything but, ... is out of the question, ... isn't the word for it"
+        "meaning": {
+          "vi": "not the time for, not the place for, far from, anything but, ... is out of the question, ... isn't the word for it"
+        },
+        "romaji": "dokorojanai"
       },
       {
         "example": "大所",
         "reading": "おおどころ",
-        "meaning": "wealthy family, important person, bigwig"
+        "meaning": {
+          "vi": "wealthy family, important person, bigwig"
+        },
+        "romaji": "oodokoro"
       },
       {
         "example": "居所",
         "reading": "いどころ",
-        "meaning": "whereabouts, address, place of temporary residence"
+        "meaning": {
+          "vi": "whereabouts, address, place of temporary residence"
+        },
+        "romaji": "idokoro"
       },
       {
         "example": "所",
         "reading": "ところ",
-        "meaning": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        "meaning": {
+          "vi": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+        },
+        "romaji": "tokoro"
       },
       {
         "example": "所で",
         "reading": "ところで",
-        "meaning": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+        "meaning": {
+          "en": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+        },
+        "romaji": "tokorode"
       },
       {
         "example": "早いとこ",
         "reading": "はやいとこ",
-        "meaning": "promptly, quickly"
+        "meaning": {
+          "vi": "promptly, quickly"
+        },
+        "romaji": "hayaitoko"
       },
       {
         "example": "僕んとこ",
         "reading": "ぼくんとこ",
-        "meaning": "at my place"
+        "meaning": {
+          "vi": "at my place"
+        },
+        "romaji": "bokuntoko"
       }
     ],
     "radical": {
@@ -469,5 +517,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06240.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6240.gif",
     "uri": "https://jisho.org/search/%E6%89%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "sở"
+  ]
 }

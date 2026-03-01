@@ -16,12 +16,18 @@
       {
         "example": "堵",
         "reading": "ト",
-        "meaning": "fence, wall, hedge"
+        "meaning": {
+          "en": "fence, wall, hedge"
+        },
+        "romaji": "to"
       },
       {
         "example": "屠殺",
         "reading": "トサツ",
-        "meaning": "slaughter (of animals for meat), butchery"
+        "meaning": {
+          "en": "slaughter (of animals for meat), butchery"
+        },
+        "romaji": "tosatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05835.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5835.gif",
     "uri": "https://jisho.org/search/%E5%A0%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "đổ"
+  ]
 }

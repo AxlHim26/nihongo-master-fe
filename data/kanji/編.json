@@ -315,29 +315,44 @@
       {
         "example": "編",
         "reading": "ヘン",
-        "meaning": "compilation (of a text), editing, volume (of a text), completed literary work"
+        "meaning": {
+          "vi": "compilation (of a text), editing, volume (of a text), completed literary work"
+        },
+        "romaji": "hen"
       },
       {
         "example": "編者",
         "reading": "ヘンシャ",
-        "meaning": "editor, compiler"
+        "meaning": {
+          "vi": "editor, compiler"
+        },
+        "romaji": "hensha"
       },
       {
         "example": "再編",
         "reading": "サイヘン",
-        "meaning": "reorganization, reorganisation, reshuffle"
+        "meaning": {
+          "en": "reorganization, reorganisation, reshuffle"
+        },
+        "romaji": "saihen"
       },
       {
         "example": "改編",
         "reading": "カイヘン",
-        "meaning": "reorganization, reorganisation"
+        "meaning": {
+          "en": "reorganization, reorganisation"
+        },
+        "romaji": "kaihen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "編む",
         "reading": "あむ",
-        "meaning": "to knit, to plait, to braid, to compile (anthology, dictionary, etc.), to edit"
+        "meaning": {
+          "vi": "to knit, to plait, to braid, to compile (anthology, dictionary, etc.), to edit"
+        },
+        "romaji": "amu"
       }
     ],
     "radical": {
@@ -363,5 +378,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07de8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7de8.gif",
     "uri": "https://jisho.org/search/%E7%B7%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "biên"
+  ]
 }

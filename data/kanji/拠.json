@@ -20,39 +20,60 @@
       {
         "example": "拠点",
         "reading": "キョテン",
-        "meaning": "base (of operations), site, location, center, foothold, stronghold, (strategic) position"
+        "meaning": {
+          "vi": "base (of operations), site, location, center, foothold, stronghold, (strategic) position"
+        },
+        "romaji": "kyoten"
       },
       {
         "example": "拠出",
         "reading": "キョシュツ",
-        "meaning": "donation, contribution"
+        "meaning": {
+          "en": "donation, contribution"
+        },
+        "romaji": "kyoshutsu"
       },
       {
         "example": "急遽",
         "reading": "キュウキョ",
-        "meaning": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        "meaning": {
+          "vi": "hurriedly, in a hurry, hastily, in haste, sudden, abrupt"
+        },
+        "romaji": "kyuukyo"
       },
       {
         "example": "群雄割拠",
         "reading": "グンユウカッキョ",
-        "meaning": "rivalry of local warlords, a number of powerful (talented, influential) persons standing by themselves in a given field"
+        "meaning": {
+          "vi": "rivalry of local warlords, a number of powerful (talented, influential) persons standing by themselves in a given field"
+        },
+        "romaji": "gun'yuukakkyo"
       },
       {
         "example": "有罪証拠",
         "reading": "ユウザイショウコ",
-        "meaning": "corpus delicti"
+        "meaning": {
+          "vi": "corpus delicti"
+        },
+        "romaji": "yuuzaishouko"
       },
       {
         "example": "事例証拠",
         "reading": "ジレイショウコ",
-        "meaning": "anecdotal evidence"
+        "meaning": {
+          "en": "anecdotal evidence"
+        },
+        "romaji": "jireishouko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "依る",
         "reading": "よる",
-        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        "meaning": {
+          "vi": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        },
+        "romaji": "yoru"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062e0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62e0.gif",
     "uri": "https://jisho.org/search/%E6%8B%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "cứ"
+  ]
 }

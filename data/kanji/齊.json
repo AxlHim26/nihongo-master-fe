@@ -21,7 +21,10 @@
       {
         "example": "斉",
         "reading": "セイ",
-        "meaning": "nước Tề (Trung Quốc thời Xuân Thu-Chiến Quốc)"
+        "meaning": {
+          "vi": "nước Tề (Trung Quốc thời Xuân Thu-Chiến Quốc)"
+        },
+        "romaji": "sei"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,13 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f4a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f4a.gif",
     "uri": "https://jisho.org/search/%E9%BD%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "trai",
+    "tê",
+    "tư",
+    "tế",
+    "tề",
+    "tễ"
+  ]
 }

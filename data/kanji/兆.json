@@ -256,34 +256,52 @@
       {
         "example": "兆",
         "reading": "チョウ",
-        "meaning": "10^12, 1,000,000,000,000, trillion, sign, omen, indication, portent"
+        "meaning": {
+          "vi": "10^12, 1,000,000,000,000, trillion, sign, omen, indication, portent"
+        },
+        "romaji": "chou"
       },
       {
         "example": "兆候",
         "reading": "チョウコウ",
-        "meaning": "sign, indication, omen, symptom"
+        "meaning": {
+          "vi": "sign, indication, omen, symptom"
+        },
+        "romaji": "choukou"
       },
       {
         "example": "吉兆",
         "reading": "キッチョウ",
-        "meaning": "lucky omen, good omen"
+        "meaning": {
+          "en": "lucky omen, good omen"
+        },
+        "romaji": "kitchou"
       },
       {
         "example": "慶兆",
         "reading": "ケイチョウ",
-        "meaning": "sign of happiness, good omen"
+        "meaning": {
+          "vi": "sign of happiness, good omen"
+        },
+        "romaji": "keichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兆す",
         "reading": "きざす",
-        "meaning": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"
+        "meaning": {
+          "vi": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"
+        },
+        "romaji": "kizasu"
       },
       {
         "example": "兆し",
         "reading": "きざし",
-        "meaning": "sign, indication, omen, symptom"
+        "meaning": {
+          "vi": "sign, indication, omen, symptom"
+        },
+        "romaji": "kizashi"
       }
     ],
     "radical": {
@@ -298,5 +316,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05146.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5146.gif",
     "uri": "https://jisho.org/search/%E5%85%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "triệu"
+  ]
 }

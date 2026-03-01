@@ -14,7 +14,10 @@
       {
         "example": "覬覦",
         "reading": "キユ",
-        "meaning": "covetousness"
+        "meaning": {
+          "en": "covetousness"
+        },
+        "romaji": "kiyu"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89ac.gif",
     "uri": "https://jisho.org/search/%E8%A6%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "kí",
+    "ký"
+  ]
 }

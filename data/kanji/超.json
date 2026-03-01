@@ -314,34 +314,52 @@
       {
         "example": "超",
         "reading": "チョウ",
-        "meaning": "super-, ultra-, hyper-, extreme, extremely, really, totally, absolutely, over, more than"
+        "meaning": {
+          "vi": "super-, ultra-, hyper-, extreme, extremely, really, totally, absolutely, over, more than"
+        },
+        "romaji": "chou"
       },
       {
         "example": "超音波",
         "reading": "チョウオンパ",
-        "meaning": "ultrasonic waves, ultrasound"
+        "meaning": {
+          "en": "ultrasonic waves, ultrasound"
+        },
+        "romaji": "chouonpa"
       },
       {
         "example": "出超",
         "reading": "シュッチョウ",
-        "meaning": "excess of exports, favorable balance of trade, favourable balance of trade"
+        "meaning": {
+          "vi": "excess of exports, favorable balance of trade, favourable balance of trade"
+        },
+        "romaji": "shutchou"
       },
       {
         "example": "入超",
         "reading": "ニュウチョウ",
-        "meaning": "excess of imports"
+        "meaning": {
+          "vi": "excess of imports"
+        },
+        "romaji": "nyuuchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "越える",
         "reading": "こえる",
-        "meaning": "to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past, to exceed, to surpass, to be more (than)"
+        "meaning": {
+          "vi": "to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past, to exceed, to surpass, to be more (than)"
+        },
+        "romaji": "koeru"
       },
       {
         "example": "越す",
         "reading": "こす",
-        "meaning": "to cross over (e.g. mountain), to go across, to get over (e.g. hardship), to pass time (e.g. a winter), to surpass, to be better than, to exceed, to move house, to go, to come"
+        "meaning": {
+          "vi": "to cross over (e.g. mountain), to go across, to get over (e.g. hardship), to pass time (e.g. a winter), to surpass, to be better than, to exceed, to move house, to go, to come"
+        },
+        "romaji": "kosu"
       }
     ],
     "radical": {
@@ -361,5 +379,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d85.gif",
     "uri": "https://jisho.org/search/%E8%B6%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "siêu"
+  ]
 }

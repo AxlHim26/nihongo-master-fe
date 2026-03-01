@@ -255,22 +255,34 @@
       {
         "example": "刊",
         "reading": "カン",
-        "meaning": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)"
+        "meaning": {
+          "vi": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)"
+        },
+        "romaji": "kan"
       },
       {
         "example": "刊行",
         "reading": "カンコウ",
-        "meaning": "publication, issue"
+        "meaning": {
+          "vi": "publication, issue"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "週刊",
         "reading": "シュウカン",
-        "meaning": "weekly publication"
+        "meaning": {
+          "vi": "weekly publication"
+        },
+        "romaji": "shuukan"
       },
       {
         "example": "休刊",
         "reading": "キュウカン",
-        "meaning": "suspension of publication"
+        "meaning": {
+          "vi": "suspension of publication"
+        },
+        "romaji": "kyuukan"
       }
     ],
     "kunyomiExamples": [],
@@ -289,5 +301,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0520a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/520a.gif",
     "uri": "https://jisho.org/search/%E5%88%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "khan",
+    "san"
+  ]
 }

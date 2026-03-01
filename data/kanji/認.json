@@ -314,34 +314,52 @@
       {
         "example": "認識",
         "reading": "ニンシキ",
-        "meaning": "recognition, awareness, perception, understanding, knowledge, cognition, cognizance, cognisance"
+        "meaning": {
+          "vi": "recognition, awareness, perception, understanding, knowledge, cognition, cognizance, cognisance"
+        },
+        "romaji": "ninshiki"
       },
       {
         "example": "認可",
         "reading": "ニンカ",
-        "meaning": "approval, license, licence, permission"
+        "meaning": {
+          "vi": "approval, license, licence, permission"
+        },
+        "romaji": "ninka"
       },
       {
         "example": "公認",
         "reading": "コウニン",
-        "meaning": "official recognition, official approval, certification, authorization, authorisation"
+        "meaning": {
+          "vi": "official recognition, official approval, certification, authorization, authorisation"
+        },
+        "romaji": "kounin"
       },
       {
         "example": "追認",
         "reading": "ツイニン",
-        "meaning": "ratification, confirmation"
+        "meaning": {
+          "en": "ratification, confirmation"
+        },
+        "romaji": "tsuinin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "認める",
         "reading": "みとめる",
-        "meaning": "to recognize, to recognise, to observe, to notice, to deem, to judge, to assess, to approve, to deem acceptable, to allow, to admit, to accept, to confess (to a charge), to watch steadily, to observe carefully, to renown, to give renown to, to appreciate, to acknowledge"
+        "meaning": {
+          "vi": "to recognize, to recognise, to observe, to notice, to deem, to judge, to assess, to approve, to deem acceptable, to allow, to admit, to accept, to confess (to a charge), to watch steadily, to observe carefully, to renown, to give renown to, to appreciate, to acknowledge"
+        },
+        "romaji": "mitomeru"
       },
       {
         "example": "認める",
         "reading": "したためる",
-        "meaning": "to write (e.g. a letter), to draw up (a document), to take down (e.g. notes), to have (lunch, dinner, etc.), to eat"
+        "meaning": {
+          "vi": "to write (e.g. a letter), to draw up (a document), to take down (e.g. notes), to have (lunch, dinner, etc.), to eat"
+        },
+        "romaji": "shitatameru"
       }
     ],
     "radical": {
@@ -361,5 +379,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a8d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a8d.gif",
     "uri": "https://jisho.org/search/%E8%AA%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhận"
+  ]
 }

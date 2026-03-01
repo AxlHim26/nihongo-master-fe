@@ -17,17 +17,26 @@
       {
         "example": "裔",
         "reading": "エイ",
-        "meaning": "descendant, scion, lineage"
+        "meaning": {
+          "en": "descendant, scion, lineage"
+        },
+        "romaji": "ei"
       },
       {
         "example": "末裔",
         "reading": "マツエイ",
-        "meaning": "descendant"
+        "meaning": {
+          "en": "descendant"
+        },
+        "romaji": "matsuei"
       },
       {
         "example": "後裔",
         "reading": "コウエイ",
-        "meaning": "descendant, scion"
+        "meaning": {
+          "en": "descendant, scion"
+        },
+        "romaji": "kouei"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088d4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88d4.gif",
     "uri": "https://jisho.org/search/%E8%A3%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "duệ"
+  ]
 }

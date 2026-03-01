@@ -21,29 +21,44 @@
       {
         "example": "淵源",
         "reading": "エンゲン",
-        "meaning": "origin"
+        "meaning": {
+          "en": "origin"
+        },
+        "romaji": "engen"
       },
       {
         "example": "淵酔",
         "reading": "エンスイ",
-        "meaning": "type of imperial banquet held during the Heian period and later, being dead drunk, being very drunk"
+        "meaning": {
+          "vi": "type of imperial banquet held during the Heian period and later, being dead drunk, being very drunk"
+        },
+        "romaji": "ensui"
       },
       {
         "example": "深淵",
         "reading": "シンエン",
-        "meaning": "abyss, ravine"
+        "meaning": {
+          "en": "abyss, ravine"
+        },
+        "romaji": "shin'en"
       },
       {
         "example": "海淵",
         "reading": "カイエン",
-        "meaning": "(ocean) deep, deepest part of a trench"
+        "meaning": {
+          "vi": "(ocean) deep, deepest part of a trench"
+        },
+        "romaji": "kaien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "淵",
         "reading": "ふち",
-        "meaning": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+        "meaning": {
+          "vi": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+        },
+        "romaji": "fuchi"
       }
     ],
     "radical": {
@@ -65,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06df5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6df5.gif",
     "uri": "https://jisho.org/search/%E6%B7%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "uyên"
+  ]
 }

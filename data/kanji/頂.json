@@ -308,44 +308,68 @@
       {
         "example": "頂点",
         "reading": "チョウテン",
-        "meaning": "vertex, apex, top (e.g. of a mountain), summit, peak, top (of a profession, field, etc.), summit, peak (of popularity, a boom, etc.), height (e.g. of prosperity), apex, zenith, climax"
+        "meaning": {
+          "vi": "vertex, apex, top (e.g. of a mountain), summit, peak, top (of a profession, field, etc.), summit, peak (of popularity, a boom, etc.), height (e.g. of prosperity), apex, zenith, climax"
+        },
+        "romaji": "chouten"
       },
       {
         "example": "頂上",
         "reading": "チョウジョウ",
-        "meaning": "top, summit, peak"
+        "meaning": {
+          "vi": "top, summit, peak"
+        },
+        "romaji": "choujou"
       },
       {
         "example": "頭頂",
         "reading": "トウチョウ",
-        "meaning": "top of the head, vertex, parietal"
+        "meaning": {
+          "vi": "top of the head, vertex, parietal"
+        },
+        "romaji": "touchou"
       },
       {
         "example": "茎頂",
         "reading": "ケイチョウ",
-        "meaning": "tip of a stem (of a plant)"
+        "meaning": {
+          "vi": "tip of a stem (of a plant)"
+        },
+        "romaji": "keichou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頂く",
         "reading": "いただく",
-        "meaning": "to receive, to get, to accept, to take, to buy, to eat, to drink, to be crowned with, to wear (on one's head), to have (on top), to have (as one's leader), to live under (a ruler), to install (a president), to get someone to do something"
+        "meaning": {
+          "vi": "to receive, to get, to accept, to take, to buy, to eat, to drink, to be crowned with, to wear (on one's head), to have (on top), to have (as one's leader), to live under (a ruler), to install (a president), to get someone to do something"
+        },
+        "romaji": "itadaku"
       },
       {
         "example": "頂",
         "reading": "いただき",
-        "meaning": "crown (of head), summit (of mountain), spire, easy win for one, something received"
+        "meaning": {
+          "vi": "crown (of head), summit (of mountain), spire, easy win for one, something received"
+        },
+        "romaji": "itadaki"
       },
       {
         "example": "頂きます",
         "reading": "いただきます",
-        "meaning": "thank you (for the meal just served), I receive (this meal)"
+        "meaning": {
+          "en": "thank you (for the meal just served), I receive (this meal)"
+        },
+        "romaji": "itadakimasu"
       },
       {
         "example": "山の頂",
         "reading": "やまのいただき",
-        "meaning": "mountain top, summit, peak"
+        "meaning": {
+          "vi": "mountain top, summit, peak"
+        },
+        "romaji": "yamanoitadaki"
       }
     ],
     "radical": {
@@ -364,5 +388,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09802.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9802.gif",
     "uri": "https://jisho.org/search/%E9%A0%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "đính",
+    "đỉnh"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "遵守",
         "reading": "ジュンシュ",
-        "meaning": "observance (of laws, rules, etc.), adherence, obeying, following, abiding by, compliance"
+        "meaning": {
+          "vi": "observance (of laws, rules, etc.), adherence, obeying, following, abiding by, compliance"
+        },
+        "romaji": "junshu"
       },
       {
         "example": "遵法",
         "reading": "ジュンポウ",
-        "meaning": "law observance, obeying the law"
+        "meaning": {
+          "en": "law observance, obeying the law"
+        },
+        "romaji": "junpou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09075.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9075.gif",
     "uri": "https://jisho.org/search/%E9%81%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuân"
+  ]
 }

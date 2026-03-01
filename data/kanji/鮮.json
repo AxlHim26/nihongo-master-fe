@@ -19,29 +19,44 @@
       {
         "example": "鮮",
         "reading": "セン",
-        "meaning": "Korea"
+        "meaning": {
+          "en": "Korea"
+        },
+        "romaji": "sen"
       },
       {
         "example": "鮮魚",
         "reading": "センギョ",
-        "meaning": "fresh fish"
+        "meaning": {
+          "en": "fresh fish"
+        },
+        "romaji": "sengyo"
       },
       {
         "example": "海鮮",
         "reading": "カイセン",
-        "meaning": "seafood"
+        "meaning": {
+          "en": "seafood"
+        },
+        "romaji": "kaisen"
       },
       {
         "example": "李氏朝鮮",
         "reading": "リシチョウセン",
-        "meaning": "Joseon dynasty (of Korea; 1392-1910), Yi dynasty"
+        "meaning": {
+          "en": "Joseon dynasty (of Korea; 1392-1910), Yi dynasty"
+        },
+        "romaji": "rishichousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鮮やか",
         "reading": "あざやか",
-        "meaning": "vivid, bright, brilliant, clear, fresh, vibrant, skillful, skilful, adroit, brilliant (performance, goal, etc.), splendid, superb, magnificent, fine"
+        "meaning": {
+          "vi": "vivid, bright, brilliant, clear, fresh, vibrant, skillful, skilful, adroit, brilliant (performance, goal, etc.), splendid, superb, magnificent, fine"
+        },
+        "romaji": "azayaka"
       }
     ],
     "radical": {
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bae.gif",
     "uri": "https://jisho.org/search/%E9%AE%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiên",
+    "tiển"
+  ]
 }

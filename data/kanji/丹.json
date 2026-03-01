@@ -19,44 +19,92 @@
       {
         "example": "丹念",
         "reading": "タンネン",
-        "meaning": "painstaking, careful, meticulous, scrupulous, detailed, elaborate"
+        "meaning": {
+          "vi": "painstaking, careful, meticulous, scrupulous, detailed, elaborate"
+        },
+        "meaningVN": "tỉ mỉ, cẩn thận, tỉ mỉ, tỉ mỉ, tỉ mỉ, tỉ mỉ",
+        "hanViet": "đan niệm",
+        "hanVietExplain": "丹 (đan: đỏ) + 念 (niệm: mong mỏi, nhớ) → tỉ mỉ, cẩn thận, tỉ mỉ, tỉ mỉ, tỉ mỉ, tỉ mỉ",
+        "romaji": "tannen"
       },
       {
         "example": "丹精",
         "reading": "タンセイ",
-        "meaning": "working earnestly, sincerity, diligence, effort, pains"
+        "meaning": {
+          "vi": "working earnestly, sincerity, diligence, effort, pains"
+        },
+        "meaningVN": "làm việc nghiêm túc, chân thành, siêng năng, nỗ lực, chịu khó",
+        "hanViet": "đan tinh",
+        "hanVietExplain": "丹 (đan: đỏ) + 精 (tinh: gạo đã giã) → làm việc nghiêm túc, chân thành, siêng năng, nỗ lực, chịu khó",
+        "romaji": "tansei"
       },
       {
         "example": "伊勢丹",
         "reading": "イセタン",
-        "meaning": "Isetan (department store)"
+        "meaning": {
+          "vi": "Isetan (department store)"
+        },
+        "meaningVN": "isetan (cửa hàng bách hóa)",
+        "hanViet": "y thế đan",
+        "hanVietExplain": "伊 (y: y, hắn, anh ta, chị ta) + 勢 (thế: thế lực) + 丹 (đan: đỏ) → isetan (cửa hàng bách hóa)",
+        "romaji": "isetan"
       },
       {
         "example": "切支丹",
         "reading": "キリシタン",
-        "meaning": "Christianity (in feudal Japan), Christian"
+        "meaning": {
+          "vi": "Christianity (in feudal Japan), Christian"
+        },
+        "meaningVN": "thiên chúa giáo (ở nhật bản thời phong kiến), thiên chúa giáo",
+        "hanViet": "thiết chi đan",
+        "hanVietExplain": "切 (thiết: cắt, chạm khắc) + 支 (chi: cấp cho, chi cấp) + 丹 (đan: đỏ) → thiên chúa giáo (ở nhật bản thời phong kiến), thiên chúa giáo",
+        "romaji": "kirishitan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丹",
         "reading": "に",
-        "meaning": "red earth (i.e. containing cinnabar or minium), vermilion"
+        "meaning": {
+          "en": "red earth (i.e. containing cinnabar or minium), vermilion"
+        },
+        "meaningVN": "đất đỏ (tức là có chứa chu sa hoặc minium), đỏ son",
+        "hanViet": "đan",
+        "hanVietExplain": "đan: đỏ, thuốc viên, đỏ, thuốc viên",
+        "romaji": "ni"
       },
       {
         "example": "丹色",
         "reading": "にいろ",
-        "meaning": "red"
+        "meaning": {
+          "en": "red"
+        },
+        "meaningVN": "màu đỏ",
+        "hanViet": "đan sắc",
+        "hanVietExplain": "丹 (đan: đỏ) + 色 (sắc: màu sắc) → màu đỏ",
+        "romaji": "niiro"
       },
       {
         "example": "海胆",
         "reading": "うに",
-        "meaning": "sea urchin, seasoned sea urchin eggs"
+        "meaning": {
+          "en": "sea urchin, seasoned sea urchin eggs"
+        },
+        "meaningVN": "nhím biển, trứng nhím biển dày dặn",
+        "hanViet": "hải đàn",
+        "hanVietExplain": "海 (hải: biển) + 胆 (đàn: quả mật) → nhím biển, trứng nhím biển dày dặn",
+        "romaji": "uni"
       },
       {
         "example": "黄丹",
         "reading": "おうだん",
-        "meaning": "orange color traditionally worn by the crown prince"
+        "meaning": {
+          "vi": "orange color traditionally worn by the crown prince"
+        },
+        "meaningVN": "màu cam truyền thống của thái tử mặc",
+        "hanViet": "hoàng đan",
+        "hanVietExplain": "黄 (hoàng: vàng, màu vàng) + 丹 (đan: đỏ) → màu cam truyền thống của thái tử mặc",
+        "romaji": "oudan"
       }
     ],
     "radical": {
@@ -73,5 +121,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e39.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e39.gif",
     "uri": "https://jisho.org/search/%E4%B8%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "đan",
+    "đơn"
+  ],
+  "meaningVN": "màu gỉ sắt, đỏ, chì đỏ, thuốc, sự chân thành",
+  "hanVietExplain": "đan: đỏ, thuốc viên, đỏ, thuốc viên"
 }

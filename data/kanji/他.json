@@ -230,44 +230,68 @@
       {
         "example": "他",
         "reading": "タ",
-        "meaning": "other (esp. people and abstract matters)"
+        "meaning": {
+          "vi": "other (esp. people and abstract matters)"
+        },
+        "romaji": "ta"
       },
       {
         "example": "他国",
         "reading": "タコク",
-        "meaning": "foreign country, another country, another province, strange land, alien land"
+        "meaning": {
+          "vi": "foreign country, another country, another province, strange land, alien land"
+        },
+        "romaji": "takoku"
       },
       {
         "example": "自他",
         "reading": "ジタ",
-        "meaning": "oneself and others, subject and object, transitivity, transitive verbs and intransitive verbs, first person and third person, self-salvation and salvation by faith"
+        "meaning": {
+          "vi": "oneself and others, subject and object, transitivity, transitive verbs and intransitive verbs, first person and third person, self-salvation and salvation by faith"
+        },
+        "romaji": "jita"
       },
       {
         "example": "排他",
         "reading": "ハイタ",
-        "meaning": "exclusion"
+        "meaning": {
+          "en": "exclusion"
+        },
+        "romaji": "haita"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "他",
         "reading": "ほか",
-        "meaning": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of"
+        "meaning": {
+          "vi": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of"
+        },
+        "romaji": "hoka"
       },
       {
         "example": "他に",
         "reading": "ほかに",
-        "meaning": "else, in addition, besides"
+        "meaning": {
+          "en": "else, in addition, besides"
+        },
+        "romaji": "hokani"
       },
       {
         "example": "思いのほか",
         "reading": "おもいのほか",
-        "meaning": "unexpectedly, surprisingly"
+        "meaning": {
+          "vi": "unexpectedly, surprisingly"
+        },
+        "romaji": "omoinohoka"
       },
       {
         "example": "殊の外",
         "reading": "ことのほか",
-        "meaning": "exceedingly, extremely, exceptionally, unusually, unexpectedly"
+        "meaning": {
+          "vi": "exceedingly, extremely, exceptionally, unusually, unexpectedly"
+        },
+        "romaji": "kotonohoka"
       }
     ],
     "radical": {
@@ -285,5 +309,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ed6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ed6.gif",
     "uri": "https://jisho.org/search/%E4%BB%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "tha",
+    "đà"
+  ]
 }

@@ -20,29 +20,44 @@
       {
         "example": "興奮",
         "reading": "コウフン",
-        "meaning": "sự hưng phấn, kích thích, kích động"
+        "meaning": {
+          "vi": "sự hưng phấn, kích thích, kích động"
+        },
+        "romaji": "koufun"
       },
       {
         "example": "高騰",
         "reading": "コウトウ",
-        "meaning": "tăng mạnh (giá), tăng vọt"
+        "meaning": {
+          "vi": "tăng mạnh (giá), tăng vọt"
+        },
+        "romaji": "koutou"
       },
       {
         "example": "激昂",
         "reading": "ゲッコウ",
-        "meaning": "phấn khích, phẫn nộ, tức giận"
+        "meaning": {
+          "vi": "phấn khích, phẫn nộ, tức giận"
+        },
+        "romaji": "gekkou"
       },
       {
         "example": "軒昂",
         "reading": "ケンコウ",
-        "meaning": "tinh thần cao, hăng hái"
+        "meaning": {
+          "vi": "tinh thần cao, hăng hái"
+        },
+        "romaji": "kenkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "高ぶる",
         "reading": "たかぶる",
-        "meaning": "bị kích động, phấn khích, tự hào, kiêu ngạo"
+        "meaning": {
+          "vi": "bị kích động, phấn khích, tự hào, kiêu ngạo"
+        },
+        "romaji": "takaburu"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06602.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6602.gif",
     "uri": "https://jisho.org/search/%E6%98%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngang"
+  ]
 }

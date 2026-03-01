@@ -17,22 +17,34 @@
       {
         "example": "栓",
         "reading": "セン",
-        "meaning": "stopper, cork, plug, bung, tap, faucet, stopcock"
+        "meaning": {
+          "vi": "stopper, cork, plug, bung, tap, faucet, stopcock"
+        },
+        "romaji": "sen"
       },
       {
         "example": "栓抜き",
         "reading": "センヌキ",
-        "meaning": "bottle opener, corkscrew"
+        "meaning": {
+          "vi": "bottle opener, corkscrew"
+        },
+        "romaji": "sennuki"
       },
       {
         "example": "脳血栓",
         "reading": "ノウケッセン",
-        "meaning": "cerebral thrombosis"
+        "meaning": {
+          "en": "cerebral thrombosis"
+        },
+        "romaji": "noukessen"
       },
       {
         "example": "血栓",
         "reading": "ケッセン",
-        "meaning": "thrombus, blood clot"
+        "meaning": {
+          "en": "thrombus, blood clot"
+        },
+        "romaji": "kessen"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06813.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6813.gif",
     "uri": "https://jisho.org/search/%E6%A0%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuyên",
+    "xuyên"
+  ]
 }

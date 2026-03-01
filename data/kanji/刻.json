@@ -352,39 +352,60 @@
       {
         "example": "刻",
         "reading": "コク",
-        "meaning": "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac), carving, engraving, cutting, mincing, victory, strictness, cruelty"
+        "meaning": {
+          "vi": "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac), carving, engraving, cutting, mincing, victory, strictness, cruelty"
+        },
+        "romaji": "koku"
       },
       {
         "example": "刻々",
         "reading": "コッコク",
-        "meaning": "moment by moment, hour by hour"
+        "meaning": {
+          "en": "moment by moment, hour by hour"
+        },
+        "romaji": "kokkoku"
       },
       {
         "example": "復刻",
         "reading": "フッコク",
-        "meaning": "republication, reissue, reprinting, reproduction"
+        "meaning": {
+          "vi": "republication, reissue, reprinting, reproduction"
+        },
+        "romaji": "fukkoku"
       },
       {
         "example": "刻一刻",
         "reading": "コクイッコク",
-        "meaning": "moment by moment, hour by hour"
+        "meaning": {
+          "en": "moment by moment, hour by hour"
+        },
+        "romaji": "kokuikkoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刻む",
         "reading": "きざむ",
-        "meaning": "to mince, to cut fine, to chop up, to hash, to shred, to carve, to engrave, to chisel, to notch, to tick away (time), to beat out (e.g. rhythm), to record the passing moments, to etch (into one's mind), to remember distinctly, to have tattooed, to torment"
+        "meaning": {
+          "vi": "to mince, to cut fine, to chop up, to hash, to shred, to carve, to engrave, to chisel, to notch, to tick away (time), to beat out (e.g. rhythm), to record the passing moments, to etch (into one's mind), to remember distinctly, to have tattooed, to torment"
+        },
+        "romaji": "kizamu"
       },
       {
         "example": "刻み",
         "reading": "きざみ",
-        "meaning": "mincing, cutting, chopping, notch, nick, rapping (a percussion instrument), beating, shredded tobacco, interval"
+        "meaning": {
+          "vi": "mincing, cutting, chopping, notch, nick, rapping (a percussion instrument), beating, shredded tobacco, interval"
+        },
+        "romaji": "kizami"
       },
       {
         "example": "刻み足",
         "reading": "きざみあし",
-        "meaning": "mincing steps"
+        "meaning": {
+          "vi": "mincing steps"
+        },
+        "romaji": "kizamiashi"
       }
     ],
     "radical": {
@@ -405,5 +426,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0523b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/523b.gif",
     "uri": "https://jisho.org/search/%E5%88%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hặc",
+    "khắc"
+  ]
 }

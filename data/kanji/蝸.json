@@ -16,19 +16,28 @@
       {
         "example": "蝸牛",
         "reading": "カタツムリ",
-        "meaning": "snail"
+        "meaning": {
+          "en": "snail"
+        },
+        "romaji": "katatsumuri"
       },
       {
         "example": "蝸角",
         "reading": "カカク",
-        "meaning": "eyestalk (on a snail), narrow place, cramped space"
+        "meaning": {
+          "vi": "eyestalk (on a snail), narrow place, cramped space"
+        },
+        "romaji": "kakaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蝸牛",
         "reading": "かたつむり",
-        "meaning": "snail"
+        "meaning": {
+          "en": "snail"
+        },
+        "romaji": "katatsumuri"
       }
     ],
     "radical": {
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08778.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8778.gif",
     "uri": "https://jisho.org/search/%E8%9D%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "oa",
+    "qua"
+  ]
 }

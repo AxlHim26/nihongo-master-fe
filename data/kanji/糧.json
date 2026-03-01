@@ -20,44 +20,68 @@
       {
         "example": "糧",
         "reading": "カテ",
-        "meaning": "food, provisions, nourishment (mental, spiritual, etc.), sustenance (e.g. of one's life), source of encouragement"
+        "meaning": {
+          "vi": "food, provisions, nourishment (mental, spiritual, etc.), sustenance (e.g. of one's life), source of encouragement"
+        },
+        "romaji": "kate"
       },
       {
         "example": "糧食",
         "reading": "リョウショク",
-        "meaning": "provisions"
+        "meaning": {
+          "vi": "provisions"
+        },
+        "romaji": "ryoushoku"
       },
       {
         "example": "衣糧",
         "reading": "イリョウ",
-        "meaning": "food and clothing"
+        "meaning": {
+          "en": "food and clothing"
+        },
+        "romaji": "iryou"
       },
       {
         "example": "口糧",
         "reading": "コウリョウ",
-        "meaning": "rations"
+        "meaning": {
+          "en": "rations"
+        },
+        "romaji": "kouryou"
       },
       {
         "example": "兵糧",
         "reading": "ヒョウロウ",
-        "meaning": "(army) provisions, food"
+        "meaning": {
+          "vi": "(army) provisions, food"
+        },
+        "romaji": "hyourou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "糧",
         "reading": "かて",
-        "meaning": "food, provisions, nourishment (mental, spiritual, etc.), sustenance (e.g. of one's life), source of encouragement"
+        "meaning": {
+          "vi": "food, provisions, nourishment (mental, spiritual, etc.), sustenance (e.g. of one's life), source of encouragement"
+        },
+        "romaji": "kate"
       },
       {
         "example": "日々の糧",
         "reading": "ひびのかて",
-        "meaning": "one's daily bread"
+        "meaning": {
+          "en": "one's daily bread"
+        },
+        "romaji": "hibinokate"
       },
       {
         "example": "心の糧",
         "reading": "こころのかて",
-        "meaning": "food for thought"
+        "meaning": {
+          "en": "food for thought"
+        },
+        "romaji": "kokoronokate"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ce7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ce7.gif",
     "uri": "https://jisho.org/search/%E7%B3%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lương"
+  ]
 }

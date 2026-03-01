@@ -20,32 +20,50 @@
       {
         "example": "梗塞",
         "reading": "コウソク",
-        "meaning": "tắc nghẽn, chặn, nhồi máu"
+        "meaning": {
+          "vi": "tắc nghẽn, chặn, nhồi máu"
+        },
+        "romaji": "kousoku"
       },
       {
         "example": "梗概",
         "reading": "コウガイ",
-        "meaning": "đại cương, tóm tắt, trích yếu"
+        "meaning": {
+          "vi": "đại cương, tóm tắt, trích yếu"
+        },
+        "romaji": "kougai"
       },
       {
         "example": "花梗",
         "reading": "カコウ",
-        "meaning": "cuống hoa"
+        "meaning": {
+          "vi": "cuống hoa"
+        },
+        "romaji": "kakou"
       },
       {
         "example": "小花梗",
         "reading": "ショウカコウ",
-        "meaning": "cuống hoa nhỏ"
+        "meaning": {
+          "vi": "cuống hoa nhỏ"
+        },
+        "romaji": "shoukakou"
       },
       {
         "example": "桔梗",
         "reading": "キキョウ",
-        "meaning": "cát cánh (Platycodon grandiflorus)"
+        "meaning": {
+          "vi": "cát cánh (Platycodon grandiflorus)"
+        },
+        "romaji": "kikyou"
       },
       {
         "example": "捻じ桔梗",
         "reading": "ネジキキョウ",
-        "meaning": "huy hiệu cát cánh xoắn"
+        "meaning": {
+          "vi": "huy hiệu cát cánh xoắn"
+        },
+        "romaji": "nejikikyou"
       }
     ],
     "kunyomiExamples": [],
@@ -64,5 +82,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06897.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6897.gif",
     "uri": "https://jisho.org/search/%E6%A2%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "cánh",
+    "cạnh",
+    "ngạnh"
+  ]
 }

@@ -321,44 +321,68 @@
       {
         "example": "中核",
         "reading": "チュウカク",
-        "meaning": "kernel, core, nucleus, center, centre"
+        "meaning": {
+          "en": "kernel, core, nucleus, center, centre"
+        },
+        "romaji": "chuukaku"
       },
       {
         "example": "仲介",
         "reading": "チュウカイ",
-        "meaning": "agency, intermediation"
+        "meaning": {
+          "en": "agency, intermediation"
+        },
+        "romaji": "chuukai"
       },
       {
         "example": "保革伯仲",
         "reading": "ホカクハクチュウ",
-        "meaning": "conservatives and reformists being neck and neck, balanced conservative and progressive strengths"
+        "meaning": {
+          "vi": "conservatives and reformists being neck and neck, balanced conservative and progressive strengths"
+        },
+        "romaji": "hokakuhakuchuu"
       },
       {
         "example": "勢力伯仲",
         "reading": "セイリョクハクチュウ",
-        "meaning": "(two sides) being evenly matched in influence or power"
+        "meaning": {
+          "vi": "(two sides) being evenly matched in influence or power"
+        },
+        "romaji": "seiryokuhakuchuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仲",
         "reading": "なか",
-        "meaning": "relation, relationship"
+        "meaning": {
+          "vi": "relation, relationship"
+        },
+        "romaji": "naka"
       },
       {
         "example": "仲間",
         "reading": "なかま",
-        "meaning": "companion, fellow, friend, mate, comrade, partner, colleague, coworker, associate, group, company, circle, set, gang, member of the same category (family, class)"
+        "meaning": {
+          "vi": "companion, fellow, friend, mate, comrade, partner, colleague, coworker, associate, group, company, circle, set, gang, member of the same category (family, class)"
+        },
+        "romaji": "nakama"
       },
       {
         "example": "不仲",
         "reading": "ふなか",
-        "meaning": "discord, (on) bad terms (with)"
+        "meaning": {
+          "en": "discord, (on) bad terms (with)"
+        },
+        "romaji": "funaka"
       },
       {
         "example": "犬猿の仲",
         "reading": "けんえんのなか",
-        "meaning": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
+        "meaning": {
+          "vi": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
+        },
+        "romaji": "ken'ennonaka"
       }
     ],
     "radical": {
@@ -377,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef2.gif",
     "uri": "https://jisho.org/search/%E4%BB%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "trọng"
+  ]
 }

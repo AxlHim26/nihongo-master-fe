@@ -20,39 +20,60 @@
       {
         "example": "憩室",
         "reading": "ケイシツ",
-        "meaning": "diverticulum"
+        "meaning": {
+          "en": "diverticulum"
+        },
+        "romaji": "keishitsu"
       },
       {
         "example": "憩室炎",
         "reading": "ケイシツエン",
-        "meaning": "diverticulitis"
+        "meaning": {
+          "en": "diverticulitis"
+        },
+        "romaji": "keishitsuen"
       },
       {
         "example": "小休憩",
         "reading": "ショウキュウケイ",
-        "meaning": "short break, breather"
+        "meaning": {
+          "en": "short break, breather"
+        },
+        "romaji": "shoukyuukei"
       },
       {
         "example": "一服休憩",
         "reading": "イップクキュウケイ",
-        "meaning": "tea (coffee, cigarette) break"
+        "meaning": {
+          "en": "tea (coffee, cigarette) break"
+        },
+        "romaji": "ippukukyuukei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "憩い",
         "reading": "いこい",
-        "meaning": "rest, relaxation"
+        "meaning": {
+          "en": "rest, relaxation"
+        },
+        "romaji": "ikoi"
       },
       {
         "example": "憩いの場",
         "reading": "いこいのば",
-        "meaning": "place for relaxation and refreshment"
+        "meaning": {
+          "vi": "place for relaxation and refreshment"
+        },
+        "romaji": "ikoinoba"
       },
       {
         "example": "憩う",
         "reading": "いこう",
-        "meaning": "to rest, to relax, to repose"
+        "meaning": {
+          "vi": "to rest, to relax, to repose"
+        },
+        "romaji": "ikou"
       }
     ],
     "radical": {
@@ -74,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a9.gif",
     "uri": "https://jisho.org/search/%E6%86%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "khế"
+  ]
 }

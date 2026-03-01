@@ -20,24 +20,36 @@
       {
         "example": "掬する",
         "reading": "キクスル",
-        "meaning": "to scoop up (with both hands), to empathize with, to take into consideration"
+        "meaning": {
+          "vi": "to scoop up (with both hands), to empathize with, to take into consideration"
+        },
+        "romaji": "kikusuru"
       },
       {
         "example": "一掬",
         "reading": "イッキク",
-        "meaning": "small amount"
+        "meaning": {
+          "en": "small amount"
+        },
+        "romaji": "ikkiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掬する",
         "reading": "きくする",
-        "meaning": "to scoop up (with both hands), to empathize with, to take into consideration"
+        "meaning": {
+          "vi": "to scoop up (with both hands), to empathize with, to take into consideration"
+        },
+        "romaji": "kikusuru"
       },
       {
         "example": "掬う",
         "reading": "すくう",
-        "meaning": "to scoop, to ladle out"
+        "meaning": {
+          "vi": "to scoop, to ladle out"
+        },
+        "romaji": "sukuu"
       }
     ],
     "radical": {
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63ac.gif",
     "uri": "https://jisho.org/search/%E6%8E%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cúc"
+  ]
 }

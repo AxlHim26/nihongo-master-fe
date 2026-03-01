@@ -242,7 +242,10 @@
       {
         "example": "規模に関する収穫",
         "reading": "キボニカンスルシュウカク",
-        "meaning": "returns to scale"
+        "meaning": {
+          "en": "returns to scale"
+        },
+        "romaji": "kibonikansurushuukaku"
       }
     ],
     "kunyomiExamples": [],
@@ -260,5 +263,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a6b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a6b.gif",
     "uri": "https://jisho.org/search/%E7%A9%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạch"
+  ]
 }

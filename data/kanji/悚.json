@@ -16,12 +16,18 @@
       {
         "example": "悚然",
         "reading": "ショウゼン",
-        "meaning": "terrified, horrified"
+        "meaning": {
+          "en": "terrified, horrified"
+        },
+        "romaji": "shouzen"
       },
       {
         "example": "恐悚",
         "reading": "キョウショウ",
-        "meaning": "shrinking back in fear, feeling sorry (for troubling someone), feeling embarrassed (e.g. by a compliment), feeling ashamed, feeling (much) obliged"
+        "meaning": {
+          "vi": "shrinking back in fear, feeling sorry (for troubling someone), feeling embarrassed (e.g. by a compliment), feeling ashamed, feeling (much) obliged"
+        },
+        "romaji": "kyoushou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609a.gif",
     "uri": "https://jisho.org/search/%E6%82%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tủng"
+  ]
 }

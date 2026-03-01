@@ -341,44 +341,68 @@
       {
         "example": "原",
         "reading": "ゲン",
-        "meaning": "original, primitive, primary, fundamental, proto-"
+        "meaning": {
+          "vi": "original, primitive, primary, fundamental, proto-"
+        },
+        "romaji": "gen"
       },
       {
         "example": "原案",
         "reading": "ゲンアン",
-        "meaning": "original plan, original bill, original motion, draft"
+        "meaning": {
+          "vi": "original plan, original bill, original motion, draft"
+        },
+        "romaji": "gen'an"
       },
       {
         "example": "中原",
         "reading": "チュウゲン",
-        "meaning": "middle of a field, middle of a country, field of contest"
+        "meaning": {
+          "en": "middle of a field, middle of a country, field of contest"
+        },
+        "romaji": "chuugen"
       },
       {
         "example": "抗原",
         "reading": "コウゲン",
-        "meaning": "antigen"
+        "meaning": {
+          "en": "antigen"
+        },
+        "romaji": "kougen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "原",
         "reading": "はら",
-        "meaning": "field, plain, prairie, tundra, moor, wilderness"
+        "meaning": {
+          "vi": "field, plain, prairie, tundra, moor, wilderness"
+        },
+        "romaji": "hara"
       },
       {
         "example": "原っぱ",
         "reading": "はらっぱ",
-        "meaning": "open field, empty lot, plain"
+        "meaning": {
+          "vi": "open field, empty lot, plain"
+        },
+        "romaji": "harappa"
       },
       {
         "example": "海原",
         "reading": "うなばら",
-        "meaning": "ocean, sea, the deep"
+        "meaning": {
+          "vi": "ocean, sea, the deep"
+        },
+        "romaji": "unabara"
       },
       {
         "example": "笹原",
         "reading": "ささはら",
-        "meaning": "field of bamboo grass"
+        "meaning": {
+          "en": "field of bamboo grass"
+        },
+        "romaji": "sasahara"
       }
     ],
     "radical": {
@@ -394,5 +418,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0539f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/539f.gif",
     "uri": "https://jisho.org/search/%E5%8E%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguyên",
+    "nguyện"
+  ]
 }

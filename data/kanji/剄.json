@@ -16,14 +16,20 @@
       {
         "example": "自剄",
         "reading": "ジケイ",
-        "meaning": "committing suicide by slitting one's throat"
+        "meaning": {
+          "en": "committing suicide by slitting one's throat"
+        },
+        "romaji": "jikei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "首切る",
         "reading": "くびきる",
-        "meaning": "to behead, to decapitate, to fire, to dismiss"
+        "meaning": {
+          "vi": "to behead, to decapitate, to fire, to dismiss"
+        },
+        "romaji": "kubikiru"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05244.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5244.gif",
     "uri": "https://jisho.org/search/%E5%89%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "hĩnh",
+    "kinh"
+  ]
 }

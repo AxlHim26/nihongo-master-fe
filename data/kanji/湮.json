@@ -18,12 +18,18 @@
       {
         "example": "隠滅",
         "reading": "インメツ",
-        "meaning": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+        "meaning": {
+          "vi": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+        },
+        "romaji": "inmetsu"
       },
       {
         "example": "隠滅",
         "reading": "インメツ",
-        "meaning": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+        "meaning": {
+          "vi": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+        },
+        "romaji": "inmetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e6e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e6e.gif",
     "uri": "https://jisho.org/search/%E6%B9%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhân",
+    "yên"
+  ]
 }

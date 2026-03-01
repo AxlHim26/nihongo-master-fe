@@ -253,34 +253,52 @@
       {
         "example": "描写",
         "reading": "ビョウシャ",
-        "meaning": "depiction, description, portrayal"
+        "meaning": {
+          "vi": "depiction, description, portrayal"
+        },
+        "romaji": "byousha"
       },
       {
         "example": "描画",
         "reading": "ビョウガ",
-        "meaning": "drawing, painting"
+        "meaning": {
+          "vi": "drawing, painting"
+        },
+        "romaji": "byouga"
       },
       {
         "example": "線描",
         "reading": "センビョウ",
-        "meaning": "line drawing"
+        "meaning": {
+          "en": "line drawing"
+        },
+        "romaji": "senbyou"
       },
       {
         "example": "素描",
         "reading": "ソビョウ",
-        "meaning": "drawing, sketch, outline, summary, synopsis"
+        "meaning": {
+          "vi": "drawing, sketch, outline, summary, synopsis"
+        },
+        "romaji": "sobyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "描く",
         "reading": "えがく",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": {
+          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        },
+        "romaji": "egaku"
       },
       {
         "example": "描く",
         "reading": "えがく",
-        "meaning": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        "meaning": {
+          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+        },
+        "romaji": "egaku"
       }
     ],
     "radical": {
@@ -299,5 +317,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63cf.gif",
     "uri": "https://jisho.org/search/%E6%8F%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "miêu"
+  ]
 }

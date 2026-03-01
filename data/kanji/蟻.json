@@ -16,44 +16,68 @@
       {
         "example": "蟻酸",
         "reading": "ギサン",
-        "meaning": "formic acid, formic"
+        "meaning": {
+          "en": "formic acid, formic"
+        },
+        "romaji": "gisan"
       },
       {
         "example": "蟻蚕",
         "reading": "ギサン",
-        "meaning": "silkworm (in the first or second instar)"
+        "meaning": {
+          "en": "silkworm (in the first or second instar)"
+        },
+        "romaji": "gisan"
       },
       {
         "example": "兵蟻",
         "reading": "ヘイギ",
-        "meaning": "soldier ant"
+        "meaning": {
+          "en": "soldier ant"
+        },
+        "romaji": "heigi"
       },
       {
         "example": "防蟻",
         "reading": "ボウギ",
-        "meaning": "ant prevention, ant control, termite control"
+        "meaning": {
+          "vi": "ant prevention, ant control, termite control"
+        },
+        "romaji": "bougi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蟻",
         "reading": "あり",
-        "meaning": "ant"
+        "meaning": {
+          "en": "ant"
+        },
+        "romaji": "ari"
       },
       {
         "example": "アリ学",
         "reading": "ありがく",
-        "meaning": "myrmecology"
+        "meaning": {
+          "en": "myrmecology"
+        },
+        "romaji": "arigaku"
       },
       {
         "example": "兵隊アリ",
         "reading": "へいたいアリ",
-        "meaning": "soldier ant"
+        "meaning": {
+          "en": "soldier ant"
+        },
+        "romaji": "heitaiari"
       },
       {
         "example": "軍隊蟻",
         "reading": "ぐんたいあり",
-        "meaning": "army ant, driver ant"
+        "meaning": {
+          "en": "army ant, driver ant"
+        },
+        "romaji": "guntaiari"
       }
     ],
     "radical": {
@@ -74,5 +98,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87fb.gif",
     "uri": "https://jisho.org/search/%E8%9F%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghĩ",
+    "nghị"
+  ]
 }

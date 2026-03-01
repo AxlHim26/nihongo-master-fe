@@ -253,22 +253,34 @@
       {
         "example": "胃",
         "reading": "イ",
-        "meaning": "stomach, Chinese \"stomach\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "stomach, Chinese \"stomach\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "i"
       },
       {
         "example": "胃腸",
         "reading": "イチョウ",
-        "meaning": "stomach and intestines, gastrointestinal tract, digestive organs"
+        "meaning": {
+          "en": "stomach and intestines, gastrointestinal tract, digestive organs"
+        },
+        "romaji": "ichou"
       },
       {
         "example": "しわ胃",
         "reading": "シワイ",
-        "meaning": "abomasum"
+        "meaning": {
+          "en": "abomasum"
+        },
+        "romaji": "shiwai"
       },
       {
         "example": "蜂巣胃",
         "reading": "ホウソウイ",
-        "meaning": "reticulum"
+        "meaning": {
+          "en": "reticulum"
+        },
+        "romaji": "housoui"
       }
     ],
     "kunyomiExamples": [],
@@ -287,5 +299,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c3.gif",
     "uri": "https://jisho.org/search/%E8%83%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "trụ",
+    "vị"
+  ]
 }

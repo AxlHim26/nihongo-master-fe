@@ -18,7 +18,10 @@
       {
         "example": "拿捕",
         "reading": "ダホ",
-        "meaning": "capture (esp. of a foreign vessel), seizure"
+        "meaning": {
+          "vi": "capture (esp. of a foreign vessel), seizure"
+        },
+        "romaji": "daho"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062cf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62cf.gif",
     "uri": "https://jisho.org/search/%E6%8B%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "noa",
+    "nã"
+  ]
 }

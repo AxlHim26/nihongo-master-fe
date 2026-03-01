@@ -21,24 +21,36 @@
       {
         "example": "堕落",
         "reading": "ダラク",
-        "meaning": "depravity, corruption, degradation"
+        "meaning": {
+          "vi": "depravity, corruption, degradation"
+        },
+        "romaji": "daraku"
       },
       {
         "example": "堕胎",
         "reading": "ダタイ",
-        "meaning": "abortion, feticide"
+        "meaning": {
+          "en": "abortion, feticide"
+        },
+        "romaji": "datai"
       },
       {
         "example": "落堕",
         "reading": "ラクダ",
-        "meaning": "marrying (of a monk), returning to secular life (of a monk)"
+        "meaning": {
+          "en": "marrying (of a monk), returning to secular life (of a monk)"
+        },
+        "romaji": "rakuda"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "堕ちる",
         "reading": "おちる",
-        "meaning": "to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell)"
+        "meaning": {
+          "vi": "to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell)"
+        },
+        "romaji": "ochiru"
       }
     ],
     "radical": {
@@ -56,5 +68,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05815.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5815.gif",
     "uri": "https://jisho.org/search/%E5%A0%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "huy",
+    "đoạ"
+  ]
 }

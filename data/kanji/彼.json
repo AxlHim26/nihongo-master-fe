@@ -299,54 +299,84 @@
       {
         "example": "彼岸",
         "reading": "ヒガン",
-        "meaning": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side"
+        "meaning": {
+          "vi": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side"
+        },
+        "romaji": "higan"
       },
       {
         "example": "彼是",
         "reading": "アレコレ",
-        "meaning": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost"
+        "meaning": {
+          "en": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost"
+        },
+        "romaji": "arekore"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "彼",
         "reading": "かれ",
-        "meaning": "he, him, boyfriend"
+        "meaning": {
+          "en": "he, him, boyfriend"
+        },
+        "romaji": "kare"
       },
       {
         "example": "彼ら",
         "reading": "かれら",
-        "meaning": "they, them"
+        "meaning": {
+          "en": "they, them"
+        },
+        "romaji": "karera"
       },
       {
         "example": "前彼",
         "reading": "まえかれ",
-        "meaning": "former boyfriend, ex-boyfriend"
+        "meaning": {
+          "en": "former boyfriend, ex-boyfriend"
+        },
+        "romaji": "maekare"
       },
       {
         "example": "元彼",
         "reading": "もとかれ",
-        "meaning": "former boyfriend, ex-boyfriend"
+        "meaning": {
+          "en": "former boyfriend, ex-boyfriend"
+        },
+        "romaji": "motokare"
       },
       {
         "example": "彼の",
         "reading": "かの",
-        "meaning": "that well-known ..., the one and only ..., that, those, the"
+        "meaning": {
+          "en": "that well-known ..., the one and only ..., that, those, the"
+        },
+        "romaji": "kano"
       },
       {
         "example": "彼女",
         "reading": "かのじょ",
-        "meaning": "she, her, girlfriend"
+        "meaning": {
+          "en": "she, her, girlfriend"
+        },
+        "romaji": "kanojo"
       },
       {
         "example": "彼の",
         "reading": "かの",
-        "meaning": "that well-known ..., the one and only ..., that, those, the"
+        "meaning": {
+          "en": "that well-known ..., the one and only ..., that, those, the"
+        },
+        "romaji": "kano"
       },
       {
         "example": "彼女",
         "reading": "かのじょ",
-        "meaning": "she, her, girlfriend"
+        "meaning": {
+          "en": "she, her, girlfriend"
+        },
+        "romaji": "kanojo"
       }
     ],
     "radical": {
@@ -362,5 +392,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f7c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f7c.gif",
     "uri": "https://jisho.org/search/%E5%BD%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "bỉ"
+  ]
 }

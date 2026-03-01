@@ -19,64 +19,100 @@
       {
         "example": "斑",
         "reading": "ブチ",
-        "meaning": "spots, speckles, mottles"
+        "meaning": {
+          "vi": "spots, speckles, mottles"
+        },
+        "romaji": "buchi"
       },
       {
         "example": "斑岩",
         "reading": "ハンガン",
-        "meaning": "porphyry"
+        "meaning": {
+          "vi": "porphyry"
+        },
+        "romaji": "hangan"
       },
       {
         "example": "水斑",
         "reading": "スイハン",
-        "meaning": "water spot (e.g. dried on a dish after washing)"
+        "meaning": {
+          "vi": "water spot (e.g. dried on a dish after washing)"
+        },
+        "romaji": "suihan"
       },
       {
         "example": "黄斑",
         "reading": "オウハン",
-        "meaning": "macula, macula lutea, yellow spot"
+        "meaning": {
+          "vi": "macula, macula lutea, yellow spot"
+        },
+        "romaji": "ouhan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "斑",
         "reading": "ぶち",
-        "meaning": "spots, speckles, mottles"
+        "meaning": {
+          "vi": "spots, speckles, mottles"
+        },
+        "romaji": "buchi"
       },
       {
         "example": "斑入り",
         "reading": "ふいり",
-        "meaning": "variegated, spotted"
+        "meaning": {
+          "vi": "variegated, spotted"
+        },
+        "romaji": "fuiri"
       },
       {
         "example": "胡麻斑",
         "reading": "ごまふ",
-        "meaning": "black speckles, small black spots (like sprinkled sesame)"
+        "meaning": {
+          "vi": "black speckles, small black spots (like sprinkled sesame)"
+        },
+        "romaji": "gomafu"
       },
       {
         "example": "白斑",
         "reading": "はくはん",
-        "meaning": "white spot, bright spot, facula, vitiligo, leukoderma, leukoma"
+        "meaning": {
+          "vi": "white spot, bright spot, facula, vitiligo, leukoderma, leukoma"
+        },
+        "romaji": "hakuhan"
       },
       {
         "example": "斑",
         "reading": "まだら",
-        "meaning": "spots, speckles, mottles, speckled, spotted"
+        "meaning": {
+          "vi": "spots, speckles, mottles, speckled, spotted"
+        },
+        "romaji": "madara"
       },
       {
         "example": "斑海豚",
         "reading": "まだらいるか",
-        "meaning": "pantropical spotted dolphin (Stenella attenuata)"
+        "meaning": {
+          "vi": "pantropical spotted dolphin (Stenella attenuata)"
+        },
+        "romaji": "madarairuka"
       },
       {
         "example": "浅葱斑",
         "reading": "あさぎまだら",
-        "meaning": "chestnut tiger butterfly (Parantica sita)"
+        "meaning": {
+          "vi": "chestnut tiger butterfly (Parantica sita)"
+        },
+        "romaji": "asagimadara"
       },
       {
         "example": "鹿の子斑",
         "reading": "かのこまだら",
-        "meaning": "pattern of white spots, dapples"
+        "meaning": {
+          "vi": "pattern of white spots, dapples"
+        },
+        "romaji": "kanokomadara"
       }
     ],
     "radical": {
@@ -91,5 +127,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06591.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6591.gif",
     "uri": "https://jisho.org/search/%E6%96%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "ban"
+  ]
 }

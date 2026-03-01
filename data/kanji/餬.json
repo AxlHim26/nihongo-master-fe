@@ -16,7 +16,10 @@
       {
         "example": "糊口",
         "reading": "ココウ",
-        "meaning": "bare livelihood, subsistence"
+        "meaning": {
+          "en": "bare livelihood, subsistence"
+        },
+        "romaji": "kokou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0992c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/992c.gif",
     "uri": "https://jisho.org/search/%E9%A4%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ"
+  ]
 }

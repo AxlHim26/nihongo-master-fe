@@ -17,34 +17,52 @@
       {
         "example": "蓬客",
         "reading": "ホウカク",
-        "meaning": "wanderer, drifter"
+        "meaning": {
+          "en": "wanderer, drifter"
+        },
+        "romaji": "houkaku"
       },
       {
         "example": "惚ける",
         "reading": "ホウケル",
-        "meaning": "to be mentally slow, to be befuddled, to become engrossed in, to become absorbed in, to become frayed and dishevelled (of hair, grass, etc.), to be fluffy"
+        "meaning": {
+          "en": "to be mentally slow, to be befuddled, to become engrossed in, to become absorbed in, to become frayed and dishevelled (of hair, grass, etc.), to be fluffy"
+        },
+        "romaji": "houkeru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蓬",
         "reading": "よもぎ",
-        "meaning": "Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"
+        "meaning": {
+          "vi": "Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"
+        },
+        "romaji": "yomogi"
       },
       {
         "example": "蓬生",
         "reading": "よもぎう",
-        "meaning": "wasteland, area overgrown with weeds"
+        "meaning": {
+          "en": "wasteland, area overgrown with weeds"
+        },
+        "romaji": "yomogiu"
       },
       {
         "example": "大蓬",
         "reading": "おおよもぎ",
-        "meaning": "Artemisia montana"
+        "meaning": {
+          "en": "Artemisia montana"
+        },
+        "romaji": "ooyomogi"
       },
       {
         "example": "背高蓬",
         "reading": "せいたかよもぎ",
-        "meaning": "Artemisia selengensis"
+        "meaning": {
+          "en": "Artemisia selengensis"
+        },
+        "romaji": "seitakayomogi"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ec.gif",
     "uri": "https://jisho.org/search/%E8%93%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "bồng"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "褐",
         "reading": "カチ",
-        "meaning": "dark indigo (almost black), coarse cloth"
+        "meaning": {
+          "en": "dark indigo (almost black), coarse cloth"
+        },
+        "romaji": "kachi"
       },
       {
         "example": "褐色",
         "reading": "カチイロ",
-        "meaning": "dark indigo (almost black)"
+        "meaning": {
+          "en": "dark indigo (almost black)"
+        },
+        "romaji": "kachiiro"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08910.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8910.gif",
     "uri": "https://jisho.org/search/%E8%A4%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "cát",
+    "hạt"
+  ]
 }

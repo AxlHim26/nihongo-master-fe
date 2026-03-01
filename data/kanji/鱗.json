@@ -19,64 +19,100 @@
       {
         "example": "鱗芽",
         "reading": "リンガ",
-        "meaning": "bulbil, cormel, brood bud"
+        "meaning": {
+          "en": "bulbil, cormel, brood bud"
+        },
+        "romaji": "ringa"
       },
       {
         "example": "鱗形",
         "reading": "ウロコガタ",
-        "meaning": "triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"
+        "meaning": {
+          "vi": "triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"
+        },
+        "romaji": "urokogata"
       },
       {
         "example": "介鱗",
         "reading": "カイリン",
-        "meaning": "fish and shellfish"
+        "meaning": {
+          "en": "fish and shellfish"
+        },
+        "romaji": "kairin"
       },
       {
         "example": "細鱗",
         "reading": "サイリン",
-        "meaning": "small (fish) scale, small fish"
+        "meaning": {
+          "en": "small (fish) scale, small fish"
+        },
+        "romaji": "sairin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鱗",
         "reading": "うろこ",
-        "meaning": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+        "meaning": {
+          "en": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+        },
+        "romaji": "uroko"
       },
       {
         "example": "鱗形",
         "reading": "うろこがた",
-        "meaning": "triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"
+        "meaning": {
+          "vi": "triangular pattern, scalelike pattern, imbricate pattern, imbrication, triangle emblem"
+        },
+        "romaji": "urokogata"
       },
       {
         "example": "三つ鱗",
         "reading": "みつうろこ",
-        "meaning": "mitsuuroko emblem (three triangles in a triangular pattern; Hōjō clan symbol)"
+        "meaning": {
+          "vi": "mitsuuroko emblem (three triangles in a triangular pattern; Hōjō clan symbol)"
+        },
+        "romaji": "mitsuuroko"
       },
       {
         "example": "目からウロコ",
         "reading": "めからうろこ",
-        "meaning": "seeing the light, being awakened to the truth, having the scales fall from one's eyes"
+        "meaning": {
+          "en": "seeing the light, being awakened to the truth, having the scales fall from one's eyes"
+        },
+        "romaji": "mekarauroko"
       },
       {
         "example": "鱗",
         "reading": "うろこ",
-        "meaning": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+        "meaning": {
+          "en": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+        },
+        "romaji": "uroko"
       },
       {
         "example": "鱗板",
         "reading": "こけらいた",
-        "meaning": "thin shingles"
+        "meaning": {
+          "en": "thin shingles"
+        },
+        "romaji": "kokeraita"
       },
       {
         "example": "鱗",
         "reading": "うろこ",
-        "meaning": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+        "meaning": {
+          "en": "scale (of fish, snake, etc.), serif (on kana or kanji (e.g. in Mincho font))"
+        },
+        "romaji": "uroko"
       },
       {
         "example": "鱗板",
         "reading": "こけらいた",
-        "meaning": "thin shingles"
+        "meaning": {
+          "en": "thin shingles"
+        },
+        "romaji": "kokeraita"
       }
     ],
     "radical": {
@@ -95,5 +131,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c57.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c57.gif",
     "uri": "https://jisho.org/search/%E9%B1%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "lân"
+  ]
 }

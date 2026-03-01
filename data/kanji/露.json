@@ -20,59 +20,92 @@
       {
         "example": "露",
         "reading": "ロ",
-        "meaning": "Russia"
+        "meaning": {
+          "en": "Russia"
+        },
+        "romaji": "ro"
       },
       {
         "example": "露骨",
         "reading": "ロコツ",
-        "meaning": "open, unconcealed, undisguised, blatant, plain, frank, broad, lewd, indecent, crude"
+        "meaning": {
+          "vi": "open, unconcealed, undisguised, blatant, plain, frank, broad, lewd, indecent, crude"
+        },
+        "romaji": "rokotsu"
       },
       {
         "example": "吐露",
         "reading": "トロ",
-        "meaning": "expressing one's mind, speaking out"
+        "meaning": {
+          "vi": "expressing one's mind, speaking out"
+        },
+        "romaji": "toro"
       },
       {
         "example": "発露",
         "reading": "ハツロ",
-        "meaning": "appearance, expression, manifestation"
+        "meaning": {
+          "vi": "appearance, expression, manifestation"
+        },
+        "romaji": "hatsuro"
       },
       {
         "example": "露宇",
         "reading": "ロウ",
-        "meaning": "Russia and Ukraine"
+        "meaning": {
+          "en": "Russia and Ukraine"
+        },
+        "romaji": "rou"
       },
       {
         "example": "襲名披露",
         "reading": "シュウメイヒロウ",
-        "meaning": "announcing the succession to another's stage name"
+        "meaning": {
+          "en": "announcing the succession to another's stage name"
+        },
+        "romaji": "shuumeihirou"
       },
       {
         "example": "新序出世披露",
         "reading": "シンジョシュッセヒロウ",
-        "meaning": "presenting of new wrestlers to audience"
+        "meaning": {
+          "vi": "presenting of new wrestlers to audience"
+        },
+        "romaji": "shinjoshussehirou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "露",
         "reading": "つゆ",
-        "meaning": "dew, tears, (not) a bit, (not) at all"
+        "meaning": {
+          "en": "dew, tears, (not) a bit, (not) at all"
+        },
+        "romaji": "tsuyu"
       },
       {
         "example": "露払い",
         "reading": "つゆはらい",
-        "meaning": "person who clears the way for a high-ranking person, procession, etc., outrider, harbinger, forerunner, opening performer, sumo wrestler who leads a yokozuna at his ring-entering ceremony"
+        "meaning": {
+          "vi": "person who clears the way for a high-ranking person, procession, etc., outrider, harbinger, forerunner, opening performer, sumo wrestler who leads a yokozuna at his ring-entering ceremony"
+        },
+        "romaji": "tsuyuharai"
       },
       {
         "example": "朝露",
         "reading": "あさつゆ",
-        "meaning": "morning dew"
+        "meaning": {
+          "en": "morning dew"
+        },
+        "romaji": "asatsuyu"
       },
       {
         "example": "下露",
         "reading": "したつゆ",
-        "meaning": "dew under (dripping from) trees"
+        "meaning": {
+          "vi": "dew under (dripping from) trees"
+        },
+        "romaji": "shitatsuyu"
       }
     ],
     "radical": {
@@ -90,5 +123,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09732.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9732.gif",
     "uri": "https://jisho.org/search/%E9%9C%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "lộ"
+  ]
 }

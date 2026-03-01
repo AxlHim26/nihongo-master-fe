@@ -22,34 +22,52 @@
       {
         "example": "煮沸",
         "reading": "シャフツ",
-        "meaning": "boiling up"
+        "meaning": {
+          "vi": "boiling up"
+        },
+        "romaji": "shafutsu"
       },
       {
         "example": "煮沸器",
         "reading": "シャフツキ",
-        "meaning": "scalder"
+        "meaning": {
+          "en": "scalder"
+        },
+        "romaji": "shafutsuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "煮る",
         "reading": "にる",
-        "meaning": "to boil, to simmer, to stew, to seethe"
+        "meaning": {
+          "en": "to boil, to simmer, to stew, to seethe"
+        },
+        "romaji": "niru"
       },
       {
         "example": "煮るなり焼くなり",
         "reading": "にるなりやくなり",
-        "meaning": "as you please, in any way you like, as you wish"
+        "meaning": {
+          "vi": "as you please, in any way you like, as you wish"
+        },
+        "romaji": "nirunariyakunari"
       },
       {
         "example": "煮える",
         "reading": "にえる",
-        "meaning": "to be boiled, to be cooked"
+        "meaning": {
+          "en": "to be boiled, to be cooked"
+        },
+        "romaji": "nieru"
       },
       {
         "example": "煮やす",
         "reading": "にやす",
-        "meaning": "to cook inside"
+        "meaning": {
+          "en": "to cook inside"
+        },
+        "romaji": "niyasu"
       }
     ],
     "radical": {
@@ -68,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0716e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/716e.gif",
     "uri": "https://jisho.org/search/%E7%85%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "chử"
+  ]
 }

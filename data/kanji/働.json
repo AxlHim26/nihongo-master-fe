@@ -322,19 +322,28 @@
       {
         "example": "実働",
         "reading": "ジツドウ",
-        "meaning": "actual work"
+        "meaning": {
+          "en": "actual work"
+        },
+        "romaji": "jitsudou"
       },
       {
         "example": "就働",
         "reading": "シュウドウ",
-        "meaning": "being employed, working"
+        "meaning": {
+          "vi": "being employed, working"
+        },
+        "romaji": "shuudou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "働く",
         "reading": "はたらく",
-        "meaning": "to work, to labor, to labour, to function, to operate, to be effective, to work (i.e. ... works), to come into play, to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice, to be conjugated"
+        "meaning": {
+          "vi": "to work, to labor, to labour, to function, to operate, to be effective, to work (i.e. ... works), to come into play, to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice, to be conjugated"
+        },
+        "romaji": "hataraku"
       }
     ],
     "radical": {
@@ -356,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50cd.gif",
     "uri": "https://jisho.org/search/%E5%83%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "động"
+  ]
 }

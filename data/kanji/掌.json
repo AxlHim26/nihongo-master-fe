@@ -20,44 +20,68 @@
       {
         "example": "手のひら",
         "reading": "テノヒラ",
-        "meaning": "palm (of the hand)"
+        "meaning": {
+          "vi": "palm (of the hand)"
+        },
+        "romaji": "tenohira"
       },
       {
         "example": "掌握",
         "reading": "ショウアク",
-        "meaning": "grasping, seizing, holding, commanding, having control over"
+        "meaning": {
+          "vi": "grasping, seizing, holding, commanding, having control over"
+        },
+        "romaji": "shouaku"
       },
       {
         "example": "合掌",
         "reading": "ガッショウ",
-        "meaning": "pressing one's hands together in prayer, triangular frame of a thatched roof, yours sincerely, yours truly, sincerely yours"
+        "meaning": {
+          "vi": "pressing one's hands together in prayer, triangular frame of a thatched roof, yours sincerely, yours truly, sincerely yours"
+        },
+        "romaji": "gasshou"
       },
       {
         "example": "鞅掌",
         "reading": "オウショウ",
-        "meaning": "being busy with"
+        "meaning": {
+          "en": "being busy with"
+        },
+        "romaji": "oushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "手のひら",
         "reading": "てのひら",
-        "meaning": "palm (of the hand)"
+        "meaning": {
+          "vi": "palm (of the hand)"
+        },
+        "romaji": "tenohira"
       },
       {
         "example": "手のひら返し",
         "reading": "てのひらがえし",
-        "meaning": "sudden reversal (of behavior, opinion, attitude, etc.), about-face, flip-flop"
+        "meaning": {
+          "vi": "sudden reversal (of behavior, opinion, attitude, etc.), about-face, flip-flop"
+        },
+        "romaji": "tenohiragaeshi"
       },
       {
         "example": "手のひら",
         "reading": "てのひら",
-        "meaning": "palm (of the hand)"
+        "meaning": {
+          "vi": "palm (of the hand)"
+        },
+        "romaji": "tenohira"
       },
       {
         "example": "掌の玉",
         "reading": "たなごころのたま",
-        "meaning": "apple of one's eye"
+        "meaning": {
+          "vi": "apple of one's eye"
+        },
+        "romaji": "tanagokoronotama"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0638c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/638c.gif",
     "uri": "https://jisho.org/search/%E6%8E%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chưởng"
+  ]
 }

@@ -17,29 +17,44 @@
       {
         "example": "蟹行文字",
         "reading": "カイコウモンジ",
-        "meaning": "cross-wise writing, alphabet usually written horizontally"
+        "meaning": {
+          "vi": "cross-wise writing, alphabet usually written horizontally"
+        },
+        "romaji": "kaikoumonji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蟹",
         "reading": "かに",
-        "meaning": "crab"
+        "meaning": {
+          "en": "crab"
+        },
+        "romaji": "kani"
       },
       {
         "example": "カニ歩き",
         "reading": "カニあるき",
-        "meaning": "walking like a crab"
+        "meaning": {
+          "en": "walking like a crab"
+        },
+        "romaji": "kaniaruki"
       },
       {
         "example": "月夜の蟹",
         "reading": "つきよのかに",
-        "meaning": "crab with little meat, crab of a moonlit night, something with no meat to it, something unsubstantial"
+        "meaning": {
+          "en": "crab with little meat, crab of a moonlit night, something with no meat to it, something unsubstantial"
+        },
+        "romaji": "tsukiyonokani"
       },
       {
         "example": "渡り蟹",
         "reading": "わたりがに",
-        "meaning": "swimming crab (Portunus trituberculatus), Japanese blue crab"
+        "meaning": {
+          "vi": "swimming crab (Portunus trituberculatus), Japanese blue crab"
+        },
+        "romaji": "watarigani"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87f9.gif",
     "uri": "https://jisho.org/search/%E8%9F%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "giải"
+  ]
 }

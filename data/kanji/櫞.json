@@ -14,7 +14,10 @@
       {
         "example": "枸櫞",
         "reading": "クエン",
-        "meaning": "citron (Citrus medica)"
+        "meaning": {
+          "en": "citron (Citrus medica)"
+        },
+        "romaji": "kuen"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ade.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ade.gif",
     "uri": "https://jisho.org/search/%E6%AB%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "duyên"
+  ]
 }

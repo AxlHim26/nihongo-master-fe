@@ -17,17 +17,26 @@
       {
         "example": "壟畝",
         "reading": "ロウホ",
-        "meaning": "ridges of and paths between fields, countryside, civilian"
+        "meaning": {
+          "vi": "ridges of and paths between fields, countryside, civilian"
+        },
+        "romaji": "rouho"
       },
       {
         "example": "隴を得て蜀を望む",
         "reading": "ロウヲエテショクヲノゾム",
-        "meaning": "never being satisfied with what one gets, and always wanting more, giving someone an inch and having them take a mile, taking Gansu only to want Sichuan"
+        "meaning": {
+          "en": "never being satisfied with what one gets, and always wanting more, giving someone an inch and having them take a mile, taking Gansu only to want Sichuan"
+        },
+        "romaji": "rouwoeteshokuwonozomu"
       },
       {
         "example": "麦隴",
         "reading": "バクロウ",
-        "meaning": "field of grain (not rice)"
+        "meaning": {
+          "en": "field of grain (not rice)"
+        },
+        "romaji": "bakurou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96b4.gif",
     "uri": "https://jisho.org/search/%E9%9A%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lũng"
+  ]
 }

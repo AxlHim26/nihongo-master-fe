@@ -16,12 +16,18 @@
       {
         "example": "総攬",
         "reading": "ソウラン",
-        "meaning": "control, superintendence"
+        "meaning": {
+          "vi": "control, superintendence"
+        },
+        "romaji": "souran"
       },
       {
         "example": "収覧",
         "reading": "シュウラン",
-        "meaning": "grasping, winning over"
+        "meaning": {
+          "vi": "grasping, winning over"
+        },
+        "romaji": "shuuran"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652c.gif",
     "uri": "https://jisho.org/search/%E6%94%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "lãm"
+  ]
 }

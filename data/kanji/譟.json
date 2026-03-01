@@ -16,7 +16,10 @@
       {
         "example": "鼓譟",
         "reading": "コソウ",
-        "meaning": "motivating the troops on the battlefield with war drums and war cries, making an uproar"
+        "meaning": {
+          "vi": "motivating the troops on the battlefield with war drums and war cries, making an uproar"
+        },
+        "romaji": "kosou"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b5f.gif",
     "uri": "https://jisho.org/search/%E8%AD%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "táo"
+  ]
 }

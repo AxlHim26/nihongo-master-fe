@@ -15,7 +15,10 @@
       {
         "example": "醍醐",
         "reading": "ダイゴ",
-        "meaning": "ghee (held to be the greatest of all flavours), the ultimate truth of Buddhism, nirvana"
+        "meaning": {
+          "en": "ghee (held to be the greatest of all flavours), the ultimate truth of Buddhism, nirvana"
+        },
+        "romaji": "daigo"
       }
     ],
     "kunyomiExamples": [],
@@ -33,5 +36,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09190.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9190.gif",
     "uri": "https://jisho.org/search/%E9%86%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ"
+  ]
 }

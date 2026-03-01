@@ -16,12 +16,18 @@
       {
         "example": "魍魎",
         "reading": "モウリョウ",
-        "meaning": "all kinds of spirits and goblins"
+        "meaning": {
+          "vi": "all kinds of spirits and goblins"
+        },
+        "romaji": "mouryou"
       },
       {
         "example": "魑魅魍魎",
         "reading": "チミモウリョウ",
-        "meaning": "evil spirits of rivers and mountains"
+        "meaning": {
+          "vi": "evil spirits of rivers and mountains"
+        },
+        "romaji": "chimimouryou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b4e.gif",
     "uri": "https://jisho.org/search/%E9%AD%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "lưỡng",
+    "lượng"
+  ]
 }

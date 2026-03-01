@@ -18,7 +18,10 @@
       {
         "example": "嬲る",
         "reading": "なぶる",
-        "meaning": "to tease, to make fun of, to make sport of, to ridicule, to mock, to deride, to play with (e.g. a toy), to fiddle with, to tinker with"
+        "meaning": {
+          "vi": "to tease, to make fun of, to make sport of, to ridicule, to mock, to deride, to play with (e.g. a toy), to fiddle with, to tinker with"
+        },
+        "romaji": "naburu"
       }
     ],
     "radical": {
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ad0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ad0.gif",
     "uri": "https://jisho.org/search/%E5%AB%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "nam"
+  ]
 }

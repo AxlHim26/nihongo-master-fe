@@ -19,24 +19,36 @@
       {
         "example": "朴直",
         "reading": "ボクチョク",
-        "meaning": "simplicity, honesty, naivete"
+        "meaning": {
+          "vi": "simplicity, honesty, naivete"
+        },
+        "romaji": "bokuchoku"
       },
       {
         "example": "質朴",
         "reading": "シツボク",
-        "meaning": "simple (and honest), simple-hearted, unsophisticated"
+        "meaning": {
+          "vi": "simple (and honest), simple-hearted, unsophisticated"
+        },
+        "romaji": "shitsuboku"
       },
       {
         "example": "敦朴",
         "reading": "トンボク",
-        "meaning": "honest and homely, simple"
+        "meaning": {
+          "vi": "honest and homely, simple"
+        },
+        "romaji": "tonboku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "木肌",
         "reading": "きはだ",
-        "meaning": "bark (of a tree)"
+        "meaning": {
+          "en": "bark (of a tree)"
+        },
+        "romaji": "kihada"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a38.gif",
     "uri": "https://jisho.org/search/%E6%A8%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "bốc",
+    "phác"
+  ]
 }

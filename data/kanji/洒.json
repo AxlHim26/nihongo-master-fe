@@ -22,32 +22,50 @@
       {
         "example": "洒落る",
         "reading": "シャレル",
-        "meaning": "to dress stylishly, to joke, to play on words"
+        "meaning": {
+          "vi": "to dress stylishly, to joke, to play on words"
+        },
+        "romaji": "shareru"
       },
       {
         "example": "洒落",
         "reading": "シャレ",
-        "meaning": "joke, pun, jest, witticism, wordplay, smartly dressed, stylish, fashion-conscious, refined"
+        "meaning": {
+          "vi": "joke, pun, jest, witticism, wordplay, smartly dressed, stylish, fashion-conscious, refined"
+        },
+        "romaji": "share"
       },
       {
         "example": "瀟洒",
         "reading": "ショウシャ",
-        "meaning": "stylish, smart, elegant, chic, refined, trim, neat"
+        "meaning": {
+          "en": "stylish, smart, elegant, chic, refined, trim, neat"
+        },
+        "romaji": "shousha"
       },
       {
         "example": "洒洒",
         "reading": "シャシャ",
-        "meaning": "quick, simple, neat"
+        "meaning": {
+          "vi": "quick, simple, neat"
+        },
+        "romaji": "shasha"
       },
       {
         "example": "洒掃",
         "reading": "サイソウ",
-        "meaning": "scrubbing (with water), cleaning"
+        "meaning": {
+          "en": "scrubbing (with water), cleaning"
+        },
+        "romaji": "saisou"
       },
       {
         "example": "洒掃",
         "reading": "サイソウ",
-        "meaning": "scrubbing (with water), cleaning"
+        "meaning": {
+          "en": "scrubbing (with water), cleaning"
+        },
+        "romaji": "saisou"
       }
     ],
     "kunyomiExamples": [],
@@ -67,5 +85,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d12.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d12.gif",
     "uri": "https://jisho.org/search/%E6%B4%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "sái",
+    "thối",
+    "tiển",
+    "tẩy"
+  ]
 }

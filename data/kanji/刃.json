@@ -22,64 +22,100 @@
       {
         "example": "兵刃",
         "reading": "ヘイジン",
-        "meaning": "sword blade"
+        "meaning": {
+          "en": "sword blade"
+        },
+        "romaji": "heijin"
       },
       {
         "example": "刀刃",
         "reading": "トウジン",
-        "meaning": "sword blade"
+        "meaning": {
+          "en": "sword blade"
+        },
+        "romaji": "toujin"
       },
       {
         "example": "刃傷",
         "reading": "ニンジョウ",
-        "meaning": "bloodshed"
+        "meaning": {
+          "en": "bloodshed"
+        },
+        "romaji": "ninjou"
       },
       {
         "example": "刃傷沙汰",
         "reading": "ニンジョウザタ",
-        "meaning": "bloodshed"
+        "meaning": {
+          "en": "bloodshed"
+        },
+        "romaji": "ninjouzata"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刃",
         "reading": "は",
-        "meaning": "edge (of a knife or sword), blade, prong (of an electrical plug)"
+        "meaning": {
+          "vi": "edge (of a knife or sword), blade, prong (of an electrical plug)"
+        },
+        "romaji": "ha"
       },
       {
         "example": "鋼",
         "reading": "はがね",
-        "meaning": "steel, sword steel, sword"
+        "meaning": {
+          "en": "steel, sword steel, sword"
+        },
+        "romaji": "hagane"
       },
       {
         "example": "諸刃",
         "reading": "もろは",
-        "meaning": "double-edged (e.g. sword blade), double-beveled (e.g. kitchen knife), double-edged blade"
+        "meaning": {
+          "en": "double-edged (e.g. sword blade), double-beveled (e.g. kitchen knife), double-edged blade"
+        },
+        "romaji": "moroha"
       },
       {
         "example": "抜き刃",
         "reading": "ぬきは",
-        "meaning": "die blade, cutting die"
+        "meaning": {
+          "en": "die blade, cutting die"
+        },
+        "romaji": "nukiha"
       },
       {
         "example": "刃",
         "reading": "やいば",
-        "meaning": "blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice"
+        "meaning": {
+          "vi": "blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice"
+        },
+        "romaji": "yaiba"
       },
       {
         "example": "刃を交える",
         "reading": "やいばをまじえる",
-        "meaning": "to cross swords (with)"
+        "meaning": {
+          "en": "to cross swords (with)"
+        },
+        "romaji": "yaibawomajieru"
       },
       {
         "example": "鬼滅の刃",
         "reading": "きめつのやいば",
-        "meaning": "Demon Slayer: Kimetsu no Yaiba (manga, anime)"
+        "meaning": {
+          "en": "Demon Slayer: Kimetsu no Yaiba (manga, anime)"
+        },
+        "romaji": "kimetsunoyaiba"
       },
       {
         "example": "氷の刃",
         "reading": "こおりのやいば",
-        "meaning": "gleaming sword"
+        "meaning": {
+          "en": "gleaming sword"
+        },
+        "romaji": "koorinoyaiba"
       }
     ],
     "radical": {
@@ -97,5 +133,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05203.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5203.gif",
     "uri": "https://jisho.org/search/%E5%88%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhẫn",
+    "nhận"
+  ]
 }

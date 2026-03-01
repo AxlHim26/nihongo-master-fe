@@ -296,29 +296,44 @@
       {
         "example": "寒",
         "reading": "カン",
-        "meaning": "midwinter, cold season, coldest days of the year"
+        "meaning": {
+          "en": "midwinter, cold season, coldest days of the year"
+        },
+        "romaji": "kan"
       },
       {
         "example": "寒気",
         "reading": "サムケ",
-        "meaning": "chill, the shivers, shivering fit, cold, coldness, cold air"
+        "meaning": {
+          "en": "chill, the shivers, shivering fit, cold, coldness, cold air"
+        },
+        "romaji": "samuke"
       },
       {
         "example": "悪寒",
         "reading": "オカン",
-        "meaning": "chill, shakes, ague"
+        "meaning": {
+          "en": "chill, shakes, ague"
+        },
+        "romaji": "okan"
       },
       {
         "example": "防寒",
         "reading": "ボウカン",
-        "meaning": "protection against the cold"
+        "meaning": {
+          "vi": "protection against the cold"
+        },
+        "romaji": "boukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "寒い",
         "reading": "さむい",
-        "meaning": "cold (e.g. weather), uninteresting (esp. joke), lame, dull, weak, corny"
+        "meaning": {
+          "vi": "cold (e.g. weather), uninteresting (esp. joke), lame, dull, weak, corny"
+        },
+        "romaji": "samui"
       }
     ],
     "radical": {
@@ -336,5 +351,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd2.gif",
     "uri": "https://jisho.org/search/%E5%AF%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàn"
+  ]
 }

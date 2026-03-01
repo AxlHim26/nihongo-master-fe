@@ -269,19 +269,28 @@
       {
         "example": "曇天",
         "reading": "ドンテン",
-        "meaning": "cloudy sky, overcast sky, cloudy weather"
+        "meaning": {
+          "en": "cloudy sky, overcast sky, cloudy weather"
+        },
+        "romaji": "donten"
       },
       {
         "example": "晴曇",
         "reading": "セイドン",
-        "meaning": "fine weather and cloudy weather"
+        "meaning": {
+          "en": "fine weather and cloudy weather"
+        },
+        "romaji": "seidon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "曇る",
         "reading": "くもる",
-        "meaning": "to get cloudy, to cloud over, to become overcast, to cloud up, to fog up, to mist up, to become dim, to be gloomy, to be clouded (expression), to be downcast, to look slightly downward (of a noh mask; indicating sadness, grief, etc.)"
+        "meaning": {
+          "vi": "to get cloudy, to cloud over, to become overcast, to cloud up, to fog up, to mist up, to become dim, to be gloomy, to be clouded (expression), to be downcast, to look slightly downward (of a noh mask; indicating sadness, grief, etc.)"
+        },
+        "romaji": "kumoru"
       }
     ],
     "radical": {
@@ -298,5 +307,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066c7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66c7.gif",
     "uri": "https://jisho.org/search/%E6%9B%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "đàm"
+  ]
 }

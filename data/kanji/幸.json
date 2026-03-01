@@ -354,64 +354,100 @@
       {
         "example": "幸",
         "reading": "サチ",
-        "meaning": "good luck, fortune, happiness, harvest, yield"
+        "meaning": {
+          "vi": "good luck, fortune, happiness, harvest, yield"
+        },
+        "romaji": "sachi"
       },
       {
         "example": "幸運",
         "reading": "コウウン",
-        "meaning": "good luck, fortune"
+        "meaning": {
+          "en": "good luck, fortune"
+        },
+        "romaji": "kouun"
       },
       {
         "example": "親不孝",
         "reading": "オヤフコウ",
-        "meaning": "lack of filial piety, disobedience to one's parents"
+        "meaning": {
+          "vi": "lack of filial piety, disobedience to one's parents"
+        },
+        "romaji": "oyafukou"
       },
       {
         "example": "御幸",
         "reading": "ギョウキ",
-        "meaning": "imperial visit, imperial outing"
+        "meaning": {
+          "vi": "imperial visit, imperial outing"
+        },
+        "romaji": "gyouki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幸い",
         "reading": "さいわい",
-        "meaning": "happiness, blessedness, luck, fortune, felicity, luckily, fortunately"
+        "meaning": {
+          "vi": "happiness, blessedness, luck, fortune, felicity, luckily, fortunately"
+        },
+        "romaji": "saiwai"
       },
       {
         "example": "幸いあれ",
         "reading": "さいわいあれ",
-        "meaning": "be happy!, cheer up!"
+        "meaning": {
+          "vi": "be happy!, cheer up!"
+        },
+        "romaji": "saiwaiare"
       },
       {
         "example": "幸",
         "reading": "さち",
-        "meaning": "good luck, fortune, happiness, harvest, yield"
+        "meaning": {
+          "vi": "good luck, fortune, happiness, harvest, yield"
+        },
+        "romaji": "sachi"
       },
       {
         "example": "幸ある",
         "reading": "さちある",
-        "meaning": "fortunate, happy, lucky"
+        "meaning": {
+          "vi": "fortunate, happy, lucky"
+        },
+        "romaji": "sachiaru"
       },
       {
         "example": "川の幸",
         "reading": "かわのさち",
-        "meaning": "catch (fish) of the river, products of the river, fruits of the river"
+        "meaning": {
+          "vi": "catch (fish) of the river, products of the river, fruits of the river"
+        },
+        "romaji": "kawanosachi"
       },
       {
         "example": "山幸",
         "reading": "やまさち",
-        "meaning": "food of the mountains (wild game, mountain vegetables, mushrooms, etc.), fruits of the land"
+        "meaning": {
+          "en": "food of the mountains (wild game, mountain vegetables, mushrooms, etc.), fruits of the land"
+        },
+        "romaji": "yamasachi"
       },
       {
         "example": "幸せ",
         "reading": "しあわせ",
-        "meaning": "happiness, good fortune, luck, blessing"
+        "meaning": {
+          "vi": "happiness, good fortune, luck, blessing"
+        },
+        "romaji": "shiawase"
       },
       {
         "example": "幸せにする",
         "reading": "しあわせにする",
-        "meaning": "to bring someone happiness, to make someone happy"
+        "meaning": {
+          "vi": "to bring someone happiness, to make someone happy"
+        },
+        "romaji": "shiawasenisuru"
       }
     ],
     "radical": {
@@ -428,5 +464,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e78.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e78.gif",
     "uri": "https://jisho.org/search/%E5%B9%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạnh"
+  ]
 }

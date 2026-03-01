@@ -17,7 +17,10 @@
       {
         "example": "挿入",
         "reading": "ソウニュウ",
-        "meaning": "chèn vào, đưa vào, gắn vào"
+        "meaning": {
+          "vi": "chèn vào, đưa vào, gắn vào"
+        },
+        "romaji": "sounyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63d2.gif",
     "uri": "https://jisho.org/search/%E6%8F%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "sáp",
+    "tháp",
+    "tráp"
+  ]
 }

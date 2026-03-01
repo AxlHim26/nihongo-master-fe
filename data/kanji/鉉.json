@@ -17,12 +17,18 @@
       {
         "example": "弦",
         "reading": "つる",
-        "meaning": "bowstring, string (of shamisen, guitar, violin, etc.), bail (arched pot handle), diagonal levelling wire across the top of a masu"
+        "meaning": {
+          "vi": "bowstring, string (of shamisen, guitar, violin, etc.), bail (arched pot handle), diagonal levelling wire across the top of a masu"
+        },
+        "romaji": "tsuru"
       },
       {
         "example": "つる鍋",
         "reading": "つるなべ",
-        "meaning": "pot with a bail for a handle"
+        "meaning": {
+          "vi": "pot with a bail for a handle"
+        },
+        "romaji": "tsurunabe"
       }
     ],
     "radical": {
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09249.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9249.gif",
     "uri": "https://jisho.org/search/%E9%89%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyền",
+    "huyễn"
+  ]
 }

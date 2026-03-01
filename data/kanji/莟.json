@@ -18,7 +18,10 @@
       {
         "example": "蕾",
         "reading": "つぼみ",
-        "meaning": "(flower) bud, promising young person, budding beauty"
+        "meaning": {
+          "vi": "(flower) bud, promising young person, budding beauty"
+        },
+        "romaji": "tsubomi"
       }
     ],
     "radical": {
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0839f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/839f.gif",
     "uri": "https://jisho.org/search/%E8%8E%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạm"
+  ]
 }

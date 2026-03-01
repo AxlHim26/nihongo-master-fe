@@ -16,19 +16,28 @@
       {
         "example": "蝙蝠",
         "reading": "コウモリ",
-        "meaning": "bat (Chiroptera spp.), umbrella, opportunist, turncoat"
+        "meaning": {
+          "vi": "bat (Chiroptera spp.), umbrella, opportunist, turncoat"
+        },
+        "romaji": "koumori"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蝙蝠",
         "reading": "こうもり",
-        "meaning": "bat (Chiroptera spp.), umbrella, opportunist, turncoat"
+        "meaning": {
+          "vi": "bat (Chiroptera spp.), umbrella, opportunist, turncoat"
+        },
+        "romaji": "koumori"
       },
       {
         "example": "蝙蝠蛾",
         "reading": "こうもりが",
-        "meaning": "swift moth (Hepialidae spp., esp. Endoclita excrescens)"
+        "meaning": {
+          "vi": "swift moth (Hepialidae spp., esp. Endoclita excrescens)"
+        },
+        "romaji": "koumoriga"
       }
     ],
     "radical": {
@@ -48,5 +57,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08759.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8759.gif",
     "uri": "https://jisho.org/search/%E8%9D%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "biên",
+    "biển"
+  ]
 }

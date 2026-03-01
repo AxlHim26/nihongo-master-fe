@@ -241,64 +241,100 @@
       {
         "example": "鹿",
         "reading": "シカ",
-        "meaning": "hươu (đặc biệt hươu Nhật Bản), họ hươu nai"
+        "meaning": {
+          "vi": "hươu (đặc biệt hươu Nhật Bản), họ hươu nai"
+        },
+        "romaji": "shika"
       },
       {
         "example": "鹿砦",
         "reading": "ロクサイ",
-        "meaning": "chướng ngại vật (hàng rào gỗ)"
+        "meaning": {
+          "vi": "chướng ngại vật (hàng rào gỗ)"
+        },
+        "romaji": "rokusai"
       },
       {
         "example": "白鹿",
         "reading": "ハクロク",
-        "meaning": "hươu trắng"
+        "meaning": {
+          "vi": "hươu trắng"
+        },
+        "romaji": "hakuroku"
       },
       {
         "example": "神鹿",
         "reading": "シンロク",
-        "meaning": "hươu nuôi trong khu đền thờ (sứ giả của thần)"
+        "meaning": {
+          "vi": "hươu nuôi trong khu đền thờ (sứ giả của thần)"
+        },
+        "romaji": "shinroku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鹿",
         "reading": "しか",
-        "meaning": "hươu (đặc biệt hươu Nhật Bản), họ hươu nai"
+        "meaning": {
+          "vi": "hươu (đặc biệt hươu Nhật Bản), họ hươu nai"
+        },
+        "romaji": "shika"
       },
       {
         "example": "鹿猪",
         "reading": "しかいのしし",
-        "meaning": "lợn hươu (Babirusa)"
+        "meaning": {
+          "vi": "lợn hươu (Babirusa)"
+        },
+        "romaji": "shikainoshishi"
       },
       {
         "example": "牡鹿",
         "reading": "おじか",
-        "meaning": "hươu đực"
+        "meaning": {
+          "vi": "hươu đực"
+        },
+        "romaji": "ojika"
       },
       {
         "example": "赤鹿",
         "reading": "あかしか",
-        "meaning": "hươu đỏ"
+        "meaning": {
+          "vi": "hươu đỏ"
+        },
+        "romaji": "akashika"
       },
       {
         "example": "鹿",
         "reading": "しか",
-        "meaning": "hươu (đặc biệt hươu Nhật Bản), họ hươu nai"
+        "meaning": {
+          "vi": "hươu (đặc biệt hươu Nhật Bản), họ hươu nai"
+        },
+        "romaji": "shika"
       },
       {
         "example": "鹿",
         "reading": "かのしし",
-        "meaning": "thịt hươu, hươu"
+        "meaning": {
+          "vi": "thịt hươu, hươu"
+        },
+        "romaji": "kanoshishi"
       },
       {
         "example": "牡鹿",
         "reading": "おじか",
-        "meaning": "hươu đực"
+        "meaning": {
+          "vi": "hươu đực"
+        },
+        "romaji": "ojika"
       },
       {
         "example": "赤鹿",
         "reading": "あかしか",
-        "meaning": "hươu đỏ"
+        "meaning": {
+          "vi": "hươu đỏ"
+        },
+        "romaji": "akashika"
       }
     ],
     "radical": {
@@ -314,5 +350,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e7f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e7f.gif",
     "uri": "https://jisho.org/search/%E9%B9%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "lộc"
+  ]
 }

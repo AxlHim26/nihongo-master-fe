@@ -16,12 +16,18 @@
       {
         "example": "淋漓",
         "reading": "リンリ",
-        "meaning": "(dripping) profusely, heavily, freely, brimming (with an emotion, etc.), overflowing (with), bold (e.g. brush strokes)"
+        "meaning": {
+          "vi": "(dripping) profusely, heavily, freely, brimming (with an emotion, etc.), overflowing (with), bold (e.g. brush strokes)"
+        },
+        "romaji": "rinri"
       },
       {
         "example": "痛快淋漓",
         "reading": "ツウカイリンリ",
-        "meaning": "very thrilling, extremely delightful, awfully pleasant, intensely satisfying"
+        "meaning": {
+          "vi": "very thrilling, extremely delightful, awfully pleasant, intensely satisfying"
+        },
+        "romaji": "tsuukairinri"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f13.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f13.gif",
     "uri": "https://jisho.org/search/%E6%BC%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "li",
+    "ly"
+  ]
 }

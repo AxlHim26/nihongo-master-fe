@@ -280,39 +280,60 @@
       {
         "example": "返",
         "reading": "ヘン",
-        "meaning": "reply, answer"
+        "meaning": {
+          "vi": "reply, answer"
+        },
+        "romaji": "hen"
       },
       {
         "example": "遍",
         "reading": "ヘン",
-        "meaning": "number of times"
+        "meaning": {
+          "en": "number of times"
+        },
+        "romaji": "hen"
       },
       {
         "example": "代返",
         "reading": "ダイヘン",
-        "meaning": "answer a roll call for another"
+        "meaning": {
+          "en": "answer a roll call for another"
+        },
+        "romaji": "daihen"
       },
       {
         "example": "往返",
         "reading": "オウヘン",
-        "meaning": "round trip"
+        "meaning": {
+          "vi": "round trip"
+        },
+        "romaji": "ouhen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "返す",
         "reading": "かえす",
-        "meaning": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly"
+        "meaning": {
+          "vi": "to return (something), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to respond (with), to retort, to reply, to say back, to do ... back (e.g. speak back, throw back), to do again, to do repeatedly"
+        },
+        "romaji": "kaesu"
       },
       {
         "example": "返す刀",
         "reading": "かえすかたな",
-        "meaning": "attacking one opponent then immediately attacking another"
+        "meaning": {
+          "vi": "attacking one opponent then immediately attacking another"
+        },
+        "romaji": "kaesukatana"
       },
       {
         "example": "返る",
         "reading": "かえる",
-        "meaning": "to return, to come back, to go back, to turn over, to become extremely, to become completely"
+        "meaning": {
+          "vi": "to return, to come back, to go back, to turn over, to become extremely, to become completely"
+        },
+        "romaji": "kaeru"
       }
     ],
     "radical": {
@@ -333,5 +354,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fd4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fd4.gif",
     "uri": "https://jisho.org/search/%E8%BF%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiên",
+    "phản"
+  ]
 }

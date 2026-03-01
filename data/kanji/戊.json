@@ -17,24 +17,36 @@
       {
         "example": "戊",
         "reading": "ツチノエ",
-        "meaning": "thứ 5, can thứ 5 trong lịch Trung Hoa"
+        "meaning": {
+          "vi": "thứ 5, can thứ 5 trong lịch Trung Hoa"
+        },
+        "romaji": "tsuchinoe"
       },
       {
         "example": "戊寅",
         "reading": "ツチノエトラ",
-        "meaning": "Hổ Đất (can chi thứ 15, ví dụ 1938, 1998, 2058)"
+        "meaning": {
+          "vi": "Hổ Đất (can chi thứ 15, ví dụ 1938, 1998, 2058)"
+        },
+        "romaji": "tsuchinoetora"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戊",
         "reading": "つちのえ",
-        "meaning": "thứ 5, can thứ 5 trong lịch Trung Hoa"
+        "meaning": {
+          "vi": "thứ 5, can thứ 5 trong lịch Trung Hoa"
+        },
+        "romaji": "tsuchinoe"
       },
       {
         "example": "戊午",
         "reading": "つちのえうま",
-        "meaning": "Ngựa Đất (can chi thứ 55, ví dụ 1918, 1978, 2038)"
+        "meaning": {
+          "vi": "Ngựa Đất (can chi thứ 55, ví dụ 1918, 1978, 2038)"
+        },
+        "romaji": "tsuchinoeuma"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620a.gif",
     "uri": "https://jisho.org/search/%E6%88%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "mậu"
+  ]
 }

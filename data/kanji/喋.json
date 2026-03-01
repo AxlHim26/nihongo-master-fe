@@ -19,24 +19,36 @@
       {
         "example": "喋々",
         "reading": "チョウチョウ",
-        "meaning": "glibly, volubly, at great length"
+        "meaning": {
+          "en": "glibly, volubly, at great length"
+        },
+        "romaji": "chouchou"
       },
       {
         "example": "喋々喃々",
         "reading": "チョウチョウナンナン",
-        "meaning": "billing and cooing, holding an intimate, long-winded conversation in whispers"
+        "meaning": {
+          "vi": "billing and cooing, holding an intimate, long-winded conversation in whispers"
+        },
+        "romaji": "chouchounannan"
       },
       {
         "example": "喋々",
         "reading": "チョウチョウ",
-        "meaning": "glibly, volubly, at great length"
+        "meaning": {
+          "en": "glibly, volubly, at great length"
+        },
+        "romaji": "chouchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喋る",
         "reading": "しゃべる",
-        "meaning": "to talk, to chat, to chatter"
+        "meaning": {
+          "en": "to talk, to chat, to chatter"
+        },
+        "romaji": "shaberu"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0558b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/558b.gif",
     "uri": "https://jisho.org/search/%E5%96%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "điệp"
+  ]
 }

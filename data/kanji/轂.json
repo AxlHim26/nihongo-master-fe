@@ -16,14 +16,20 @@
       {
         "example": "轂",
         "reading": "コシキ",
-        "meaning": "hub (of a wheel), nave"
+        "meaning": {
+          "en": "hub (of a wheel), nave"
+        },
+        "romaji": "koshiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "轂",
         "reading": "こしき",
-        "meaning": "hub (of a wheel), nave"
+        "meaning": {
+          "en": "hub (of a wheel), nave"
+        },
+        "romaji": "koshiki"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f42.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f42.gif",
     "uri": "https://jisho.org/search/%E8%BD%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "cốc"
+  ]
 }

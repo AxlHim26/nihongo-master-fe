@@ -18,24 +18,36 @@
       {
         "example": "味醂",
         "reading": "ミリン",
-        "meaning": "mirin, type of sweet rice wine used in cooking"
+        "meaning": {
+          "vi": "mirin, type of sweet rice wine used in cooking"
+        },
+        "romaji": "mirin"
       },
       {
         "example": "本みりん",
         "reading": "ホンミリン",
-        "meaning": "(true) mirin, mirin containing alcohol"
+        "meaning": {
+          "en": "(true) mirin, mirin containing alcohol"
+        },
+        "romaji": "honmirin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "醂す",
         "reading": "さわす",
-        "meaning": "to remove the astringent taste from persimmons, to soak in water, to steep in water, to matte (with black lacquer)"
+        "meaning": {
+          "vi": "to remove the astringent taste from persimmons, to soak in water, to steep in water, to matte (with black lacquer)"
+        },
+        "romaji": "sawasu"
       },
       {
         "example": "醂す",
         "reading": "さわす",
-        "meaning": "to remove the astringent taste from persimmons, to soak in water, to steep in water, to matte (with black lacquer)"
+        "meaning": {
+          "vi": "to remove the astringent taste from persimmons, to soak in water, to steep in water, to matte (with black lacquer)"
+        },
+        "romaji": "sawasu"
       }
     ],
     "radical": {
@@ -50,5 +62,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09182.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9182.gif",
     "uri": "https://jisho.org/search/%E9%86%82%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

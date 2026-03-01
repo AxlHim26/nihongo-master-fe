@@ -20,17 +20,26 @@
       {
         "example": "囃す",
         "reading": "はやす",
-        "meaning": "to play accompaniment, to keep time, to cheer, to applaud, to jeer, to mock, to banter"
+        "meaning": {
+          "vi": "to play accompaniment, to keep time, to cheer, to applaud, to jeer, to mock, to banter"
+        },
+        "romaji": "hayasu"
       },
       {
         "example": "囃子",
         "reading": "はやし",
-        "meaning": "accompaniment for traditional performances (noh, kabuki, etc.), orchestra, band"
+        "meaning": {
+          "vi": "accompaniment for traditional performances (noh, kabuki, etc.), orchestra, band"
+        },
+        "romaji": "hayashi"
       },
       {
         "example": "囃子方",
         "reading": "はやしかた",
-        "meaning": "musical accompanist (in noh, kabuki, etc.), background instruments"
+        "meaning": {
+          "vi": "musical accompanist (in noh, kabuki, etc.), background instruments"
+        },
+        "romaji": "hayashikata"
       }
     ],
     "radical": {
@@ -48,5 +57,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056c3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56c3.gif",
     "uri": "https://jisho.org/search/%E5%9B%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "trá",
+    "trách"
+  ]
 }

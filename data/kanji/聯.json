@@ -18,22 +18,34 @@
       {
         "example": "連合",
         "reading": "レンゴウ",
-        "meaning": "union, combination, alliance, confederation, coalition, association, RENGO (Japanese Trade Union Confederation)"
+        "meaning": {
+          "vi": "union, combination, alliance, confederation, coalition, association, RENGO (Japanese Trade Union Confederation)"
+        },
+        "romaji": "rengou"
       },
       {
         "example": "連関",
         "reading": "レンカン",
-        "meaning": "connection, relation, linkage"
+        "meaning": {
+          "en": "connection, relation, linkage"
+        },
+        "romaji": "renkan"
       },
       {
         "example": "対聯",
         "reading": "ツイレン",
-        "meaning": "couplet (Chinese poetry), pair of hanging scrolls"
+        "meaning": {
+          "vi": "couplet (Chinese poetry), pair of hanging scrolls"
+        },
+        "romaji": "tsuiren"
       },
       {
         "example": "朝鮮総聯",
         "reading": "チョウセンソウレン",
-        "meaning": "General Association of Korean Residents in Japan (abbr.), Chongryon"
+        "meaning": {
+          "vi": "General Association of Korean Residents in Japan (abbr.), Chongryon"
+        },
+        "romaji": "chousensouren"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0806f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/806f.gif",
     "uri": "https://jisho.org/search/%E8%81%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "liên",
+    "liễn"
+  ]
 }

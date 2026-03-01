@@ -275,54 +275,84 @@
       {
         "example": "兵",
         "reading": "ヘイ",
-        "meaning": "(common) soldier, rank and file, army, troops, warfare, strategy"
+        "meaning": {
+          "vi": "(common) soldier, rank and file, army, troops, warfare, strategy"
+        },
+        "romaji": "hei"
       },
       {
         "example": "兵員",
         "reading": "ヘイイン",
-        "meaning": "military strength, military personnel"
+        "meaning": {
+          "vi": "military strength, military personnel"
+        },
+        "romaji": "heiin"
       },
       {
         "example": "伏兵",
         "reading": "フクヘイ",
-        "meaning": "ambush, troops in ambush, unexpected opposition, unexpected obstacle"
+        "meaning": {
+          "vi": "ambush, troops in ambush, unexpected opposition, unexpected obstacle"
+        },
+        "romaji": "fukuhei"
       },
       {
         "example": "工兵",
         "reading": "コウヘイ",
-        "meaning": "combat engineer, military engineer, combat engineering, military engineering"
+        "meaning": {
+          "en": "combat engineer, military engineer, combat engineering, military engineering"
+        },
+        "romaji": "kouhei"
       },
       {
         "example": "兵",
         "reading": "ヒョウ",
-        "meaning": "pawn"
+        "meaning": {
+          "vi": "pawn"
+        },
+        "romaji": "hyou"
       },
       {
         "example": "兵法",
         "reading": "ヘイホウ",
-        "meaning": "art of war, strategy, tactics"
+        "meaning": {
+          "en": "art of war, strategy, tactics"
+        },
+        "romaji": "heihou"
       },
       {
         "example": "小兵",
         "reading": "コヒョウ",
-        "meaning": "small build, small stature"
+        "meaning": {
+          "en": "small build, small stature"
+        },
+        "romaji": "kohyou"
       },
       {
         "example": "大兵",
         "reading": "ダイヒョウ",
-        "meaning": "great stature, large build"
+        "meaning": {
+          "en": "great stature, large build"
+        },
+        "romaji": "daihyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兵",
         "reading": "つわもの",
-        "meaning": "soldier, warrior, person of courage, strong person, very capable person, master (in a field)"
+        "meaning": {
+          "vi": "soldier, warrior, person of courage, strong person, very capable person, master (in a field)"
+        },
+        "romaji": "tsuwamono"
       },
       {
         "example": "古強者",
         "reading": "ふるつわもの",
-        "meaning": "feudal warrior, samurai, old soldier, veteran, old hand"
+        "meaning": {
+          "en": "feudal warrior, samurai, old soldier, veteran, old hand"
+        },
+        "romaji": "furutsuwamono"
       }
     ],
     "radical": {
@@ -338,5 +368,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05175.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5175.gif",
     "uri": "https://jisho.org/search/%E5%85%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "binh"
+  ]
 }

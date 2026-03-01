@@ -287,29 +287,44 @@
       {
         "example": "諸",
         "reading": "ショ",
-        "meaning": "various, many, several"
+        "meaning": {
+          "en": "various, many, several"
+        },
+        "romaji": "sho"
       },
       {
         "example": "諸君",
         "reading": "ショクン",
-        "meaning": "you (people), gentlemen, ladies and gentlemen, my friends, everyone"
+        "meaning": {
+          "vi": "you (people), gentlemen, ladies and gentlemen, my friends, everyone"
+        },
+        "romaji": "shokun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "諸",
         "reading": "もろ",
-        "meaning": "both, many, various, all, together"
+        "meaning": {
+          "en": "both, many, various, all, together"
+        },
+        "romaji": "moro"
       },
       {
         "example": "諸々",
         "reading": "もろもろ",
-        "meaning": "all kinds of things, various things, large number of people"
+        "meaning": {
+          "vi": "all kinds of things, various things, large number of people"
+        },
+        "romaji": "moromoro"
       },
       {
         "example": "その他もろもろ",
         "reading": "そのたもろもろ",
-        "meaning": "and various other things, and many others, and all the rest, and so on and so forth"
+        "meaning": {
+          "en": "and various other things, and many others, and all the rest, and so on and so forth"
+        },
+        "romaji": "sonotamoromoro"
       }
     ],
     "radical": {
@@ -328,5 +343,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08af8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8af8.gif",
     "uri": "https://jisho.org/search/%E8%AB%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "chư",
+    "gia"
+  ]
 }

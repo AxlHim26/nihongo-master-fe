@@ -17,29 +17,44 @@
       {
         "example": "鮑魚",
         "reading": "ホウギョ",
-        "meaning": "salt-cured fish"
+        "meaning": {
+          "en": "salt-cured fish"
+        },
+        "romaji": "hougyo"
       },
       {
         "example": "鮑魚",
         "reading": "ホウギョ",
-        "meaning": "salt-cured fish"
+        "meaning": {
+          "en": "salt-cured fish"
+        },
+        "romaji": "hougyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鮑",
         "reading": "あわび",
-        "meaning": "abalone, ear shell"
+        "meaning": {
+          "en": "abalone, ear shell"
+        },
+        "romaji": "awabi"
       },
       {
         "example": "鮑の貝の片思い",
         "reading": "あわびのかいのかたおもい",
-        "meaning": "secret, unrequited love"
+        "meaning": {
+          "en": "secret, unrequited love"
+        },
+        "romaji": "awabinokainokataomoi"
       },
       {
         "example": "熨斗鮑",
         "reading": "のしあわび",
-        "meaning": "thin string of dried abalone (often tied to a gift)"
+        "meaning": {
+          "en": "thin string of dried abalone (often tied to a gift)"
+        },
+        "romaji": "noshiawabi"
       }
     ],
     "radical": {
@@ -57,5 +72,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b91.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b91.gif",
     "uri": "https://jisho.org/search/%E9%AE%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "bào",
+    "bão",
+    "bảo"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "憤然",
         "reading": "フンゼン",
-        "meaning": "angry, indignant, wrathful, enraged"
+        "meaning": {
+          "en": "angry, indignant, wrathful, enraged"
+        },
+        "romaji": "funzen"
       },
       {
         "example": "憤怒",
         "reading": "フンヌ",
-        "meaning": "anger, rage, resentment, indignation, exasperation"
+        "meaning": {
+          "vi": "anger, rage, resentment, indignation, exasperation"
+        },
+        "romaji": "funnu"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fff.gif",
     "uri": "https://jisho.org/search/%E5%BF%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "phẫn"
+  ]
 }

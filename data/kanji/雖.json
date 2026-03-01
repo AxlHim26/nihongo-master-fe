@@ -18,7 +18,10 @@
       {
         "example": "雖も",
         "reading": "いえども",
-        "meaning": "even though, despite, notwithstanding"
+        "meaning": {
+          "vi": "even though, despite, notwithstanding"
+        },
+        "romaji": "iedomo"
       }
     ],
     "radical": {
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096d6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96d6.gif",
     "uri": "https://jisho.org/search/%E9%9B%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuy",
+    "vị"
+  ]
 }

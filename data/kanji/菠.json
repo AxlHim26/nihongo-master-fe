@@ -17,14 +17,20 @@
       {
         "example": "ほうれん草",
         "reading": "ホウレンソウ",
-        "meaning": "spinach (Spinacia oleracea)"
+        "meaning": {
+          "vi": "spinach (Spinacia oleracea)"
+        },
+        "romaji": "hourensou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "ほうれん草",
         "reading": "ほうれんそう",
-        "meaning": "spinach (Spinacia oleracea)"
+        "meaning": {
+          "vi": "spinach (Spinacia oleracea)"
+        },
+        "romaji": "hourensou"
       }
     ],
     "radical": {
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083e0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83e0.gif",
     "uri": "https://jisho.org/search/%E8%8F%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "ba"
+  ]
 }

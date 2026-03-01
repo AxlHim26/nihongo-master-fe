@@ -16,22 +16,34 @@
       {
         "example": "嬌姿",
         "reading": "キョウシ",
-        "meaning": "lovely figure"
+        "meaning": {
+          "en": "lovely figure"
+        },
+        "romaji": "kyoushi"
       },
       {
         "example": "嬌羞",
         "reading": "キョウシュウ",
-        "meaning": "charming and coy"
+        "meaning": {
+          "en": "charming and coy"
+        },
+        "romaji": "kyoushuu"
       },
       {
         "example": "ご愛嬌",
         "reading": "ゴアイキョウ",
-        "meaning": "entertainment, amusement, fun"
+        "meaning": {
+          "en": "entertainment, amusement, fun"
+        },
+        "romaji": "goaikyou"
       },
       {
         "example": "無愛嬌",
         "reading": "ブアイキョウ",
-        "meaning": "unamiability, brusque, unfriendly, unsociable, curt"
+        "meaning": {
+          "en": "unamiability, brusque, unfriendly, unsociable, curt"
+        },
+        "romaji": "buaikyou"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b0c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b0c.gif",
     "uri": "https://jisho.org/search/%E5%AC%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiều"
+  ]
 }

@@ -17,7 +17,10 @@
       {
         "example": "髱",
         "reading": "たぼ",
-        "meaning": "chignon (in a Japanese hair-style)"
+        "meaning": {
+          "vi": "chignon (in a Japanese hair-style)"
+        },
+        "romaji": "tabo"
       }
     ],
     "radical": {
@@ -35,5 +38,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09af1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9af1.gif",
     "uri": "https://jisho.org/search/%E9%AB%B1%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

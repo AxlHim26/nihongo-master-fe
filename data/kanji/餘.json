@@ -18,19 +18,28 @@
       {
         "example": "余",
         "reading": "ヨ",
-        "meaning": "khác, còn lại, dư, hơn, tôi"
+        "meaning": {
+          "vi": "khác, còn lại, dư, hơn, tôi"
+        },
+        "romaji": "yo"
       },
       {
         "example": "余地",
         "reading": "ヨチ",
-        "meaning": "chỗ, không gian, biên độ, phạm vi"
+        "meaning": {
+          "vi": "chỗ, không gian, biên độ, phạm vi"
+        },
+        "romaji": "yochi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "余り",
         "reading": "あまり",
-        "meaning": "phần còn lại, dư, thặng dư, (không) lắm, quá mức, cực đoan, hơn, trên"
+        "meaning": {
+          "vi": "phần còn lại, dư, thặng dư, (không) lắm, quá mức, cực đoan, hơn, trên"
+        },
+        "romaji": "amari"
       }
     ],
     "radical": {
@@ -53,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09918.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9918.gif",
     "uri": "https://jisho.org/search/%E9%A4%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "dư"
+  ]
 }

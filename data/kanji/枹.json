@@ -21,7 +21,10 @@
       {
         "example": "撥",
         "reading": "ばち",
-        "meaning": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+        "meaning": {
+          "vi": "plectrum (for a shamisen, biwa, etc.), pick, drumstick (for taiko), mallet (for a gong), beater"
+        },
+        "romaji": "bachi"
       }
     ],
     "radical": {
@@ -37,5 +40,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67b9.gif",
     "uri": "https://jisho.org/search/%E6%9E%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "bao",
+    "phu",
+    "phù"
+  ]
 }

@@ -307,49 +307,76 @@
       {
         "example": "異",
         "reading": "イ",
-        "meaning": "difference (of opinion), strange, odd, unusual, different"
+        "meaning": {
+          "vi": "difference (of opinion), strange, odd, unusual, different"
+        },
+        "romaji": "i"
       },
       {
         "example": "異議",
         "reading": "イギ",
-        "meaning": "objection, dissent, protest"
+        "meaning": {
+          "vi": "objection, dissent, protest"
+        },
+        "romaji": "igi"
       },
       {
         "example": "天変地異",
         "reading": "テンペンチイ",
-        "meaning": "natural disaster, cataclysm"
+        "meaning": {
+          "en": "natural disaster, cataclysm"
+        },
+        "romaji": "tenpenchii"
       },
       {
         "example": "小異",
         "reading": "ショウイ",
-        "meaning": "minor difference"
+        "meaning": {
+          "en": "minor difference"
+        },
+        "romaji": "shoui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "異",
         "reading": "こと",
-        "meaning": "difference (from one another), different thing, other, unusual, extraordinary"
+        "meaning": {
+          "en": "difference (from one another), different thing, other, unusual, extraordinary"
+        },
+        "romaji": "koto"
       },
       {
         "example": "異なる",
         "reading": "ことなる",
-        "meaning": "to differ, to be different, to disagree, to vary, to diverge"
+        "meaning": {
+          "en": "to differ, to be different, to disagree, to vary, to diverge"
+        },
+        "romaji": "kotonaru"
       },
       {
         "example": "異なる",
         "reading": "ことなる",
-        "meaning": "to differ, to be different, to disagree, to vary, to diverge"
+        "meaning": {
+          "en": "to differ, to be different, to disagree, to vary, to diverge"
+        },
+        "romaji": "kotonaru"
       },
       {
         "example": "異",
         "reading": "こと",
-        "meaning": "difference (from one another), different thing, other, unusual, extraordinary"
+        "meaning": {
+          "en": "difference (from one another), different thing, other, unusual, extraordinary"
+        },
+        "romaji": "koto"
       },
       {
         "example": "異な",
         "reading": "けな",
-        "meaning": "exceptional, praiseworthy, laudable"
+        "meaning": {
+          "vi": "exceptional, praiseworthy, laudable"
+        },
+        "romaji": "kena"
       }
     ],
     "radical": {
@@ -366,5 +393,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07570.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7570.gif",
     "uri": "https://jisho.org/search/%E7%95%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "dị"
+  ]
 }

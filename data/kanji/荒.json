@@ -309,74 +309,116 @@
       {
         "example": "荒廃",
         "reading": "コウハイ",
-        "meaning": "ruin, destruction, devastation, waste, decay"
+        "meaning": {
+          "en": "ruin, destruction, devastation, waste, decay"
+        },
+        "romaji": "kouhai"
       },
       {
         "example": "荒野",
         "reading": "コウヤ",
-        "meaning": "wasteland, wilderness, deserted land, prairie, vast plain, wilds, desert, wild land"
+        "meaning": {
+          "vi": "wasteland, wilderness, deserted land, prairie, vast plain, wilds, desert, wild land"
+        },
+        "romaji": "kouya"
       },
       {
         "example": "破天荒",
         "reading": "ハテンコウ",
-        "meaning": "unheard-of, unprecedented, daring, wild, uninhibited, unconventional, reckless"
+        "meaning": {
+          "vi": "unheard-of, unprecedented, daring, wild, uninhibited, unconventional, reckless"
+        },
+        "romaji": "hatenkou"
       },
       {
         "example": "救荒",
         "reading": "キュウコウ",
-        "meaning": "famine relief"
+        "meaning": {
+          "en": "famine relief"
+        },
+        "romaji": "kyuukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "荒らす",
         "reading": "あらす",
-        "meaning": "to lay waste, to devastate, to damage, to invade, to break into, to troll (e.g. web forums), to spam"
+        "meaning": {
+          "vi": "to lay waste, to devastate, to damage, to invade, to break into, to troll (e.g. web forums), to spam"
+        },
+        "romaji": "arasu"
       },
       {
         "example": "粗筋",
         "reading": "あらすじ",
-        "meaning": "outline, summary, argument"
+        "meaning": {
+          "en": "outline, summary, argument"
+        },
+        "romaji": "arasuji"
       },
       {
         "example": "荒れる",
         "reading": "あれる",
-        "meaning": "to become stormy, to become rough (of the sea), to fall into ruin, to become neglected, to become dilapidated, to become rough (of skin), to get chapped, to become unruly, to become violent, to go wild, to get out of control, to become unsettled (e.g. of one's life), to become disordered"
+        "meaning": {
+          "vi": "to become stormy, to become rough (of the sea), to fall into ruin, to become neglected, to become dilapidated, to become rough (of skin), to get chapped, to become unruly, to become violent, to go wild, to get out of control, to become unsettled (e.g. of one's life), to become disordered"
+        },
+        "romaji": "areru"
       },
       {
         "example": "荒い",
         "reading": "あらい",
-        "meaning": "rough, wild, violent, rude, coarse, harsh, fierce, heavy (e.g. breathing), immoderate, extravagant, reckless"
+        "meaning": {
+          "en": "rough, wild, violent, rude, coarse, harsh, fierce, heavy (e.g. breathing), immoderate, extravagant, reckless"
+        },
+        "romaji": "arai"
       },
       {
         "example": "荒石",
         "reading": "あらいし",
-        "meaning": "unprocessed stone, rubble"
+        "meaning": {
+          "vi": "unprocessed stone, rubble"
+        },
+        "romaji": "araishi"
       },
       {
         "example": "荒ぶ",
         "reading": "すさぶ",
-        "meaning": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe, to do as one pleases, to amuse oneself, to play around"
+        "meaning": {
+          "vi": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe, to do as one pleases, to amuse oneself, to play around"
+        },
+        "romaji": "susabu"
       },
       {
         "example": "荒む",
         "reading": "すさむ",
-        "meaning": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe"
+        "meaning": {
+          "en": "to grow wild, to run to waste, to become degenerate, to become rough (of art, craft, etc.), to lose refinement, to deteriorate (of skill), to intensify (of wind, rain, etc.), to become more severe"
+        },
+        "romaji": "susamu"
       },
       {
         "example": "荒らし",
         "reading": "あらし",
-        "meaning": "(Internet) troll, disturber, raising havoc, laying waste, trolling, vandalism, robbery, holdup, robber, thief"
+        "meaning": {
+          "vi": "(Internet) troll, disturber, raising havoc, laying waste, trolling, vandalism, robbery, holdup, robber, thief"
+        },
+        "romaji": "arashi"
       },
       {
         "example": "荒らし回る",
         "reading": "あらしまわる",
-        "meaning": "to break into (houses here and there), to rampage"
+        "meaning": {
+          "vi": "to break into (houses here and there), to rampage"
+        },
+        "romaji": "arashimawaru"
       },
       {
         "example": "山荒",
         "reading": "やまあらし",
-        "meaning": "porcupine, hedgehog"
+        "meaning": {
+          "vi": "porcupine, hedgehog"
+        },
+        "romaji": "yamaarashi"
       }
     ],
     "radical": {
@@ -395,5 +437,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08352.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8352.gif",
     "uri": "https://jisho.org/search/%E8%8D%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoang"
+  ]
 }

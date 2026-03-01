@@ -20,22 +20,34 @@
       {
         "example": "孟子",
         "reading": "モウシ",
-        "meaning": "Mencius (372-289 BCE), Mengzi, Mencius (one of the Four Books)"
+        "meaning": {
+          "en": "Mencius (372-289 BCE), Mengzi, Mencius (one of the Four Books)"
+        },
+        "romaji": "moushi"
       },
       {
         "example": "孟夏",
         "reading": "モウカ",
-        "meaning": "beginning of summer, fourth month of the lunar calendar"
+        "meaning": {
+          "en": "beginning of summer, fourth month of the lunar calendar"
+        },
+        "romaji": "mouka"
       },
       {
         "example": "孔孟",
         "reading": "コウモウ",
-        "meaning": "Confucius and Mencius"
+        "meaning": {
+          "en": "Confucius and Mencius"
+        },
+        "romaji": "koumou"
       },
       {
         "example": "論孟",
         "reading": "ロンモウ",
-        "meaning": "the Confucian Analects and the Discourses of Mencius"
+        "meaning": {
+          "en": "the Confucian Analects and the Discourses of Mencius"
+        },
+        "romaji": "ronmou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b5f.gif",
     "uri": "https://jisho.org/search/%E5%AD%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "mãng",
+    "mạnh"
+  ]
 }

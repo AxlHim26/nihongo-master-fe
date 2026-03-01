@@ -346,44 +346,68 @@
       {
         "example": "民",
         "reading": "ミン",
-        "meaning": "citizen, resident, person, user (of a website, esp. as a collective, e.g. Twittersphere)"
+        "meaning": {
+          "vi": "citizen, resident, person, user (of a website, esp. as a collective, e.g. Twittersphere)"
+        },
+        "romaji": "min"
       },
       {
         "example": "民意",
         "reading": "ミンイ",
-        "meaning": "popular will, will of the people"
+        "meaning": {
+          "vi": "popular will, will of the people"
+        },
+        "romaji": "min'i"
       },
       {
         "example": "自民",
         "reading": "ジミン",
-        "meaning": "Liberal Democratic Party, LDP"
+        "meaning": {
+          "vi": "Liberal Democratic Party, LDP"
+        },
+        "romaji": "jimin"
       },
       {
         "example": "公民",
         "reading": "コウミン",
-        "meaning": "citizen"
+        "meaning": {
+          "en": "citizen"
+        },
+        "romaji": "koumin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "民",
         "reading": "たみ",
-        "meaning": "people, citizens, subjects, folk"
+        "meaning": {
+          "vi": "people, citizens, subjects, folk"
+        },
+        "romaji": "tami"
       },
       {
         "example": "民草",
         "reading": "たみくさ",
-        "meaning": "people, populace"
+        "meaning": {
+          "vi": "people, populace"
+        },
+        "romaji": "tamikusa"
       },
       {
         "example": "国民",
         "reading": "くにたみ",
-        "meaning": "people of a country"
+        "meaning": {
+          "vi": "people of a country"
+        },
+        "romaji": "kunitami"
       },
       {
         "example": "流浪の民",
         "reading": "るろうのたみ",
-        "meaning": "wandering people, nomadic tribe"
+        "meaning": {
+          "vi": "wandering people, nomadic tribe"
+        },
+        "romaji": "rurounotami"
       }
     ],
     "radical": {
@@ -399,5 +423,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c11.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c11.gif",
     "uri": "https://jisho.org/search/%E6%B0%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "dân",
+    "miên"
+  ]
 }

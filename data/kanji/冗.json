@@ -197,12 +197,18 @@
       {
         "example": "冗",
         "reading": "ジョウ",
-        "meaning": "waste, uselessness, redundance"
+        "meaning": {
+          "en": "waste, uselessness, redundance"
+        },
+        "romaji": "jou"
       },
       {
         "example": "冗談",
         "reading": "ジョウダン",
-        "meaning": "joke, jest, funny story"
+        "meaning": {
+          "en": "joke, jest, funny story"
+        },
+        "romaji": "joudan"
       }
     ],
     "kunyomiExamples": [],
@@ -218,5 +224,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05197.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5197.gif",
     "uri": "https://jisho.org/search/%E5%86%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhũng"
+  ]
 }

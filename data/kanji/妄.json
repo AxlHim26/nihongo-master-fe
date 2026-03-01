@@ -20,49 +20,76 @@
       {
         "example": "妄想",
         "reading": "モウソウ",
-        "meaning": "delusion, wild idea, (wild) fancy, (ridiculous) fantasy"
+        "meaning": {
+          "en": "delusion, wild idea, (wild) fancy, (ridiculous) fantasy"
+        },
+        "romaji": "mousou"
       },
       {
         "example": "盲信",
         "reading": "モウシン",
-        "meaning": "blind acceptance, blind belief, credulity"
+        "meaning": {
+          "vi": "blind acceptance, blind belief, credulity"
+        },
+        "romaji": "moushin"
       },
       {
         "example": "迷妄",
         "reading": "メイモウ",
-        "meaning": "illusion, fallacy, delusion"
+        "meaning": {
+          "en": "illusion, fallacy, delusion"
+        },
+        "romaji": "meimou"
       },
       {
         "example": "謬妄",
         "reading": "ビュウモウ",
-        "meaning": "fallacy, conjecture, baseless thing, random thing"
+        "meaning": {
+          "en": "fallacy, conjecture, baseless thing, random thing"
+        },
+        "romaji": "byuumou"
       },
       {
         "example": "妄想",
         "reading": "モウソウ",
-        "meaning": "delusion, wild idea, (wild) fancy, (ridiculous) fantasy"
+        "meaning": {
+          "en": "delusion, wild idea, (wild) fancy, (ridiculous) fantasy"
+        },
+        "romaji": "mousou"
       },
       {
         "example": "盲信",
         "reading": "モウシン",
-        "meaning": "blind acceptance, blind belief, credulity"
+        "meaning": {
+          "vi": "blind acceptance, blind belief, credulity"
+        },
+        "romaji": "moushin"
       },
       {
         "example": "狂妄",
         "reading": "キョウボウ",
-        "meaning": "eccentric, wild, off-kilter, mad"
+        "meaning": {
+          "en": "eccentric, wild, off-kilter, mad"
+        },
+        "romaji": "kyoubou"
       },
       {
         "example": "誣謗",
         "reading": "フボウ",
-        "meaning": "slander"
+        "meaning": {
+          "en": "slander"
+        },
+        "romaji": "fubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妄りに",
         "reading": "みだりに",
-        "meaning": "without authority, without reason, unnecessarily, recklessly, indiscriminately, arbitrarily"
+        "meaning": {
+          "en": "without authority, without reason, unnecessarily, recklessly, indiscriminately, arbitrarily"
+        },
+        "romaji": "midarini"
       }
     ],
     "radical": {
@@ -78,5 +105,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05984.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5984.gif",
     "uri": "https://jisho.org/search/%E5%A6%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "vong",
+    "vô",
+    "vọng"
+  ]
 }

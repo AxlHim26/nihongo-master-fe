@@ -20,49 +20,76 @@
       {
         "example": "献金",
         "reading": "ケンキン",
-        "meaning": "donation, contribution, offering"
+        "meaning": {
+          "en": "donation, contribution, offering"
+        },
+        "romaji": "kenkin"
       },
       {
         "example": "献花",
         "reading": "ケンカ",
-        "meaning": "flower offering, floral tribute, laying flowers"
+        "meaning": {
+          "en": "flower offering, floral tribute, laying flowers"
+        },
+        "romaji": "kenka"
       },
       {
         "example": "社会貢献",
         "reading": "シャカイコウケン",
-        "meaning": "contribution to society"
+        "meaning": {
+          "en": "contribution to society"
+        },
+        "romaji": "shakaikouken"
       },
       {
         "example": "国際貢献",
         "reading": "コクサイコウケン",
-        "meaning": "international contribution, contributing to the wider world"
+        "meaning": {
+          "en": "international contribution, contributing to the wider world"
+        },
+        "romaji": "kokusaikouken"
       },
       {
         "example": "献立",
         "reading": "コンダテ",
-        "meaning": "menu, bill of fare, program, programme, schedule"
+        "meaning": {
+          "vi": "menu, bill of fare, program, programme, schedule"
+        },
+        "romaji": "kondate"
       },
       {
         "example": "献立表",
         "reading": "コンダテヒョウ",
-        "meaning": "menu, list of meals (e.g. for the week)"
+        "meaning": {
+          "en": "menu, list of meals (e.g. for the week)"
+        },
+        "romaji": "kondatehyou"
       },
       {
         "example": "九献",
         "reading": "クコン",
-        "meaning": "three-times-three exchange of nuptial cups, sake (secret language of court ladies), rice wine"
+        "meaning": {
+          "vi": "three-times-three exchange of nuptial cups, sake (secret language of court ladies), rice wine"
+        },
+        "romaji": "kukon"
       },
       {
         "example": "一献",
         "reading": "イッコン",
-        "meaning": "one cup (of sake), (going out for, treating someone to) a drink, small drinking party"
+        "meaning": {
+          "vi": "one cup (of sake), (going out for, treating someone to) a drink, small drinking party"
+        },
+        "romaji": "ikkon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "奉る",
         "reading": "たてまつる",
-        "meaning": "to offer, to present, to set someone up in a high position, to revere at a distance, to do respectfully"
+        "meaning": {
+          "vi": "to offer, to present, to set someone up in a high position, to revere at a distance, to do respectfully"
+        },
+        "romaji": "tatematsuru"
       }
     ],
     "radical": {
@@ -83,5 +110,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0732e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/732e.gif",
     "uri": "https://jisho.org/search/%E7%8C%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiến"
+  ]
 }

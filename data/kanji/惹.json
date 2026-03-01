@@ -17,19 +17,28 @@
       {
         "example": "惹起",
         "reading": "ジャッキ",
-        "meaning": "bringing about, cause, provocation"
+        "meaning": {
+          "vi": "bringing about, cause, provocation"
+        },
+        "romaji": "jakki"
       },
       {
         "example": "惹句",
         "reading": "ジャック",
-        "meaning": "catchphrase (esp. in advertising)"
+        "meaning": {
+          "vi": "catchphrase (esp. in advertising)"
+        },
+        "romaji": "jakku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "惹く",
         "reading": "ひく",
-        "meaning": "to draw (attention, sympathy, etc.), to attract (e.g. interest)"
+        "meaning": {
+          "vi": "to draw (attention, sympathy, etc.), to attract (e.g. interest)"
+        },
+        "romaji": "hiku"
       }
     ],
     "radical": {
@@ -51,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60f9.gif",
     "uri": "https://jisho.org/search/%E6%83%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "nha",
+    "nhạ"
+  ]
 }

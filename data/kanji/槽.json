@@ -19,24 +19,36 @@
       {
         "example": "槽",
         "reading": "ソウ",
-        "meaning": "body (of a biwa)"
+        "meaning": {
+          "en": "body (of a biwa)"
+        },
+        "romaji": "sou"
       },
       {
         "example": "浄化槽",
         "reading": "ジョウカソウ",
-        "meaning": "water-purification tank, septic tank"
+        "meaning": {
+          "vi": "water-purification tank, septic tank"
+        },
+        "romaji": "joukasou"
       },
       {
         "example": "電解槽",
         "reading": "デンカイソウ",
-        "meaning": "electrolytic cell, electrolytic bath"
+        "meaning": {
+          "en": "electrolytic cell, electrolytic bath"
+        },
+        "romaji": "denkaisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "船",
         "reading": "ふね",
-        "meaning": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        "meaning": {
+          "vi": "ship, boat, watercraft, vessel, seaplane, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+        },
+        "romaji": "fune"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69fd.gif",
     "uri": "https://jisho.org/search/%E6%A7%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tào"
+  ]
 }

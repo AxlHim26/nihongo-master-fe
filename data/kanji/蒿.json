@@ -17,7 +17,10 @@
       {
         "example": "蓬",
         "reading": "よもぎ",
-        "meaning": "Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"
+        "meaning": {
+          "vi": "Japanese mugwort (Artemisia princeps), mugwort (any plant of genus Artemisia), wormwood, sagebrush"
+        },
+        "romaji": "yomogi"
       }
     ],
     "radical": {
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084bf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84bf.gif",
     "uri": "https://jisho.org/search/%E8%92%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "hao"
+  ]
 }

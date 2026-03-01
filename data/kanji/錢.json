@@ -17,14 +17,20 @@
       {
         "example": "銭",
         "reading": "セン",
-        "meaning": "sen (hundredth of a yen), coin made of non-precious materials, one-thousandth of a kan (as a unit of currency), one-thousandth of a kan (as a unit of mass)"
+        "meaning": {
+          "vi": "sen (hundredth of a yen), coin made of non-precious materials, one-thousandth of a kan (as a unit of currency), one-thousandth of a kan (as a unit of mass)"
+        },
+        "romaji": "sen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "錢高組",
         "reading": "ぜにたかぐみ",
-        "meaning": "Zenitaka Corporation"
+        "meaning": {
+          "vi": "Zenitaka Corporation"
+        },
+        "romaji": "zenitakagumi"
       }
     ],
     "radical": {
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09322.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9322.gif",
     "uri": "https://jisho.org/search/%E9%8C%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiền",
+    "tiễn"
+  ]
 }

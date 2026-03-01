@@ -17,12 +17,18 @@
       {
         "example": "鬣",
         "reading": "たてがみ",
-        "meaning": "mane (of a horse, lion, etc.)"
+        "meaning": {
+          "en": "mane (of a horse, lion, etc.)"
+        },
+        "romaji": "tategami"
       },
       {
         "example": "鬣犬",
         "reading": "たてがみいぬ",
-        "meaning": "hyena"
+        "meaning": {
+          "en": "hyena"
+        },
+        "romaji": "tategamiinu"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b23.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b23.gif",
     "uri": "https://jisho.org/search/%E9%AC%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "liệp"
+  ]
 }

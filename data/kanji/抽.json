@@ -19,12 +19,18 @@
       {
         "example": "抽象",
         "reading": "チュウショウ",
-        "meaning": "abstraction"
+        "meaning": {
+          "en": "abstraction"
+        },
+        "romaji": "chuushou"
       },
       {
         "example": "抽出",
         "reading": "チュウシュツ",
-        "meaning": "extraction, abstraction, selection (from a group), sampling"
+        "meaning": {
+          "vi": "extraction, abstraction, selection (from a group), sampling"
+        },
+        "romaji": "chuushutsu"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062bd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62bd.gif",
     "uri": "https://jisho.org/search/%E6%8A%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "trừu"
+  ]
 }

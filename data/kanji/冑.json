@@ -17,29 +17,44 @@
       {
         "example": "甲冑",
         "reading": "カッチュウ",
-        "meaning": "armor and helmet"
+        "meaning": {
+          "en": "armor and helmet"
+        },
+        "romaji": "katchuu"
       },
       {
         "example": "華冑",
         "reading": "カチュウ",
-        "meaning": "aristocracy, nobility"
+        "meaning": {
+          "en": "aristocracy, nobility"
+        },
+        "romaji": "kachuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兜",
         "reading": "かぶと",
-        "meaning": "helmet (of a warrior), headpiece"
+        "meaning": {
+          "vi": "helmet (of a warrior), headpiece"
+        },
+        "romaji": "kabuto"
       },
       {
         "example": "兜魚",
         "reading": "かぶとうお",
-        "meaning": "large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish"
+        "meaning": {
+          "vi": "large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish"
+        },
+        "romaji": "kabutouo"
       },
       {
         "example": "内兜",
         "reading": "うちかぶと",
-        "meaning": "inside of a helmet, hidden circumstances"
+        "meaning": {
+          "en": "inside of a helmet, hidden circumstances"
+        },
+        "romaji": "uchikabuto"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05191.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5191.gif",
     "uri": "https://jisho.org/search/%E5%86%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "trụ"
+  ]
 }

@@ -244,49 +244,76 @@
       {
         "example": "誰何",
         "reading": "スイカ",
-        "meaning": "challenging (an unknown person), asking a person's identity"
+        "meaning": {
+          "vi": "challenging (an unknown person), asking a person's identity"
+        },
+        "romaji": "suika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誰",
         "reading": "だれ",
-        "meaning": "who"
+        "meaning": {
+          "en": "who"
+        },
+        "romaji": "dare"
       },
       {
         "example": "誰か",
         "reading": "だれか",
-        "meaning": "someone, somebody"
+        "meaning": {
+          "en": "someone, somebody"
+        },
+        "romaji": "dareka"
       },
       {
         "example": "どこの誰",
         "reading": "どこのだれ",
-        "meaning": "who the heck, just who"
+        "meaning": {
+          "en": "who the heck, just who"
+        },
+        "romaji": "dokonodare"
       },
       {
         "example": "誰々",
         "reading": "だれだれ",
-        "meaning": "so-and-so, who?, which people?"
+        "meaning": {
+          "vi": "so-and-so, who?, which people?"
+        },
+        "romaji": "daredare"
       },
       {
         "example": "誰彼",
         "reading": "だれかれ",
-        "meaning": "this or that person, anybody, many people"
+        "meaning": {
+          "vi": "this or that person, anybody, many people"
+        },
+        "romaji": "darekare"
       },
       {
         "example": "誰しも",
         "reading": "だれしも",
-        "meaning": "everyone, anyone, no one"
+        "meaning": {
+          "en": "everyone, anyone, no one"
+        },
+        "romaji": "dareshimo"
       },
       {
         "example": "誰が",
         "reading": "たが",
-        "meaning": "whose, who (is, does, etc.)"
+        "meaning": {
+          "en": "whose, who (is, does, etc.)"
+        },
+        "romaji": "taga"
       },
       {
         "example": "誰が為に",
         "reading": "たがために",
-        "meaning": "for whom"
+        "meaning": {
+          "en": "for whom"
+        },
+        "romaji": "tagatameni"
       }
     ],
     "radical": {
@@ -304,5 +331,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab0.gif",
     "uri": "https://jisho.org/search/%E8%AA%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuỳ"
+  ]
 }

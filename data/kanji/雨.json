@@ -351,44 +351,68 @@
       {
         "example": "雨水",
         "reading": "アマミズ",
-        "meaning": "rain water, \"rain water\" solar term (approx. February 19)"
+        "meaning": {
+          "vi": "rain water, \"rain water\" solar term (approx. February 19)"
+        },
+        "romaji": "amamizu"
       },
       {
         "example": "雨季",
         "reading": "ウキ",
-        "meaning": "rainy season"
+        "meaning": {
+          "en": "rainy season"
+        },
+        "romaji": "uki"
       },
       {
         "example": "集中豪雨",
         "reading": "シュウチュウゴウウ",
-        "meaning": "local downpour, severe rain fall"
+        "meaning": {
+          "vi": "local downpour, severe rain fall"
+        },
+        "romaji": "shuuchuugouu"
       },
       {
         "example": "時雨",
         "reading": "シグレ",
-        "meaning": "rain shower in late autumn (fall) or early winter, seasonable rain"
+        "meaning": {
+          "en": "rain shower in late autumn (fall) or early winter, seasonable rain"
+        },
+        "romaji": "shigure"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "雨",
         "reading": "あめ",
-        "meaning": "rain, rainy day, rainy weather, the November suit (in hanafuda)"
+        "meaning": {
+          "en": "rain, rainy day, rainy weather, the November suit (in hanafuda)"
+        },
+        "romaji": "ame"
       },
       {
         "example": "雨降り",
         "reading": "あめふり",
-        "meaning": "rainfall, rainy weather, rain, rainy, wet"
+        "meaning": {
+          "en": "rainfall, rainy weather, rain, rainy, wet"
+        },
+        "romaji": "amefuri"
       },
       {
         "example": "五月雨",
         "reading": "さみだれ",
-        "meaning": "early-summer rain"
+        "meaning": {
+          "en": "early-summer rain"
+        },
+        "romaji": "samidare"
       },
       {
         "example": "強い雨",
         "reading": "つよいあめ",
-        "meaning": "heavy rain (specifically 20-29 mm per hour in JMA use)"
+        "meaning": {
+          "vi": "heavy rain (specifically 20-29 mm per hour in JMA use)"
+        },
+        "romaji": "tsuyoiame"
       }
     ],
     "radical": {
@@ -402,5 +426,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96e8.gif",
     "uri": "https://jisho.org/search/%E9%9B%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "vú",
+    "vũ",
+    "vụ"
+  ]
 }

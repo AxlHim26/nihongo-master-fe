@@ -296,44 +296,68 @@
       {
         "example": "判",
         "reading": "ハン",
-        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+        "meaning": {
+          "vi": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+        },
+        "romaji": "han"
       },
       {
         "example": "判決",
         "reading": "ハンケツ",
-        "meaning": "judicial decision, judgement, judgment, sentence, decree"
+        "meaning": {
+          "en": "judicial decision, judgement, judgment, sentence, decree"
+        },
+        "romaji": "hanketsu"
       },
       {
         "example": "誤判",
         "reading": "ゴハン",
-        "meaning": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice"
+        "meaning": {
+          "en": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice"
+        },
+        "romaji": "gohan"
       },
       {
         "example": "木版",
         "reading": "モクハン",
-        "meaning": "wood-block printing, wood engraving"
+        "meaning": {
+          "vi": "wood-block printing, wood engraving"
+        },
+        "romaji": "mokuhan"
       },
       {
         "example": "判",
         "reading": "ハン",
-        "meaning": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+        "meaning": {
+          "vi": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+        },
+        "romaji": "han"
       },
       {
         "example": "司法裁判",
         "reading": "シホウサイバン",
-        "meaning": "judicial trial"
+        "meaning": {
+          "en": "judicial trial"
+        },
+        "romaji": "shihousaiban"
       },
       {
         "example": "大判",
         "reading": "オオバン",
-        "meaning": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"
+        "meaning": {
+          "vi": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"
+        },
+        "romaji": "ooban"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "分かる",
         "reading": "わかる",
-        "meaning": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        "meaning": {
+          "vi": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+        },
+        "romaji": "wakaru"
       }
     ],
     "radical": {
@@ -354,5 +378,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05224.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5224.gif",
     "uri": "https://jisho.org/search/%E5%88%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "phán"
+  ]
 }

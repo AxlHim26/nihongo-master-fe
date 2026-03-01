@@ -19,39 +19,60 @@
       {
         "example": "広報",
         "reading": "コウホウ",
-        "meaning": "public relations, PR, publicity, public information, publicizing"
+        "meaning": {
+          "vi": "public relations, PR, publicity, public information, publicizing"
+        },
+        "romaji": "kouhou"
       },
       {
         "example": "広大",
         "reading": "コウダイ",
-        "meaning": "vast, extensive, immense, huge, large, grand, magnificent"
+        "meaning": {
+          "en": "vast, extensive, immense, huge, large, grand, magnificent"
+        },
+        "romaji": "koudai"
       },
       {
         "example": "恢弘",
         "reading": "カイコウ",
-        "meaning": "propagation, spreading out, extending"
+        "meaning": {
+          "vi": "propagation, spreading out, extending"
+        },
+        "romaji": "kaikou"
       },
       {
         "example": "寛弘",
         "reading": "カンコウ",
-        "meaning": "Kankō era (1004.7.20-1012.12.25)"
+        "meaning": {
+          "en": "Kankō era (1004.7.20-1012.12.25)"
+        },
+        "romaji": "kankou"
       },
       {
         "example": "弘通",
         "reading": "グズウ",
-        "meaning": "spread (of Buddhist teachings)"
+        "meaning": {
+          "vi": "spread (of Buddhist teachings)"
+        },
+        "romaji": "guzuu"
       },
       {
         "example": "弘誓",
         "reading": "グゼイ",
-        "meaning": "Buddha's great vows"
+        "meaning": {
+          "en": "Buddha's great vows"
+        },
+        "romaji": "guzei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "広い",
         "reading": "ひろい",
-        "meaning": "spacious, vast, wide"
+        "meaning": {
+          "vi": "spacious, vast, wide"
+        },
+        "romaji": "hiroi"
       }
     ],
     "radical": {
@@ -66,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f18.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f18.gif",
     "uri": "https://jisho.org/search/%E5%BC%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoằng"
+  ]
 }

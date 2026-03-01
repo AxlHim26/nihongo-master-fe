@@ -249,39 +249,60 @@
       {
         "example": "功",
         "reading": "コウ",
-        "meaning": "merit, success, meritorious deed, achievement, accumulated experience"
+        "meaning": {
+          "vi": "merit, success, meritorious deed, achievement, accumulated experience"
+        },
+        "romaji": "kou"
       },
       {
         "example": "功績",
         "reading": "コウセキ",
-        "meaning": "achievement, meritorious deed, distinguished service, contribution"
+        "meaning": {
+          "en": "achievement, meritorious deed, distinguished service, contribution"
+        },
+        "romaji": "kouseki"
       },
       {
         "example": "即効",
         "reading": "ソッコウ",
-        "meaning": "immediate effect, instant effect"
+        "meaning": {
+          "en": "immediate effect, instant effect"
+        },
+        "romaji": "sokkou"
       },
       {
         "example": "奏功",
         "reading": "ソウコウ",
-        "meaning": "success, achievement, fruition"
+        "meaning": {
+          "en": "success, achievement, fruition"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "工夫",
         "reading": "クフウ",
-        "meaning": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+        "meaning": {
+          "vi": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+        },
+        "romaji": "kufuu"
       },
       {
         "example": "効能",
         "reading": "コウノウ",
-        "meaning": "effect, effectiveness, efficacy, virtue, benefit"
+        "meaning": {
+          "en": "effect, effectiveness, efficacy, virtue, benefit"
+        },
+        "romaji": "kounou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勲",
         "reading": "いさお",
-        "meaning": "distinguished service, meritorious service"
+        "meaning": {
+          "en": "distinguished service, meritorious service"
+        },
+        "romaji": "isao"
       }
     ],
     "radical": {
@@ -296,5 +317,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0529f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/529f.gif",
     "uri": "https://jisho.org/search/%E5%8A%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "công"
+  ]
 }

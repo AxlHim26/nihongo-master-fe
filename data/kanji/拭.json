@@ -20,39 +20,60 @@
       {
         "example": "拭浄",
         "reading": "ショクジョウ",
-        "meaning": "wiping and purifying, wiping and cleansing"
+        "meaning": {
+          "vi": "wiping and purifying, wiping and cleansing"
+        },
+        "romaji": "shokujou"
       },
       {
         "example": "払拭",
         "reading": "フッショク",
-        "meaning": "wiping out, sweeping away, eradicating, dispelling"
+        "meaning": {
+          "vi": "wiping out, sweeping away, eradicating, dispelling"
+        },
+        "romaji": "fusshoku"
       },
       {
         "example": "清拭",
         "reading": "セイシキ",
-        "meaning": "bed bath, sponge bath, blanket bath, toilet"
+        "meaning": {
+          "vi": "bed bath, sponge bath, blanket bath, toilet"
+        },
+        "romaji": "seishiki"
       },
       {
         "example": "払拭",
         "reading": "フッショク",
-        "meaning": "wiping out, sweeping away, eradicating, dispelling"
+        "meaning": {
+          "vi": "wiping out, sweeping away, eradicating, dispelling"
+        },
+        "romaji": "fusshoku"
       },
       {
         "example": "清拭",
         "reading": "セイシキ",
-        "meaning": "bed bath, sponge bath, blanket bath, toilet"
+        "meaning": {
+          "vi": "bed bath, sponge bath, blanket bath, toilet"
+        },
+        "romaji": "seishiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拭う",
         "reading": "ぬぐう",
-        "meaning": "to wipe, to mop up, to get rid of (an impression, feeling, blemish, etc.), to dispel (e.g. shame), to erase, to remove"
+        "meaning": {
+          "vi": "to wipe, to mop up, to get rid of (an impression, feeling, blemish, etc.), to dispel (e.g. shame), to erase, to remove"
+        },
+        "romaji": "nuguu"
       },
       {
         "example": "拭く",
         "reading": "ふく",
-        "meaning": "to wipe, to dry"
+        "meaning": {
+          "vi": "to wipe, to dry"
+        },
+        "romaji": "fuku"
       }
     ],
     "radical": {
@@ -71,5 +92,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ed.gif",
     "uri": "https://jisho.org/search/%E6%8B%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "thức"
+  ]
 }

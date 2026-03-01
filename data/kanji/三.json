@@ -13,79 +13,126 @@
       {
         "japanese": "三人（さんにん）",
         "meaning": {
-          "english": "3 people",
-          "vietnamese": "3 người"
+          "vi": "3 người",
+          "en": "3 people"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/3_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/3_06_a.mp3"
+        },
+        "hanViet": [
+          "tam",
+          "nhân"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 人 (nhân: người) → 3 người",
+          "en": "三 (three: three, 3) + 人 (human: person) → 3 people"
         }
       },
       {
         "japanese": "三時（さんじ）",
         "meaning": {
-          "english": "3 o'clock",
-          "vietnamese": "3 giờ"
+          "vi": "3 giờ",
+          "en": "3 o'clock"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/3_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/3_06_b.mp3"
+        },
+        "hanViet": [
+          "tam",
+          "thì"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 時 (thì: lúc) → 3 giờ",
+          "en": "三 (tam: three, 3) + 時 (tense: at) → 3 o'clock"
         }
       },
       {
         "japanese": "三枚（さんまい）",
         "meaning": {
-          "english": "3 (flat objects)",
-          "vietnamese": "3 (đồ vật dẹt)"
+          "vi": "3 (đồ vật dẹt)",
+          "en": "3 (flat objects)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/3_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/3_06_c.mp3"
+        },
+        "hanViet": [
+          "tam",
+          "mai"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 枚 (mai: cây, quả, trái) → 3 (đồ vật dẹt)",
+          "en": "三 (tam: three, 3) + 枚 (mai: tree, fruit, fruit) → 3 (flat object)"
         }
       },
       {
         "japanese": "三月（さんがつ）",
         "meaning": {
-          "english": "March",
-          "vietnamese": "tháng Ba"
+          "vi": "tháng Ba",
+          "en": "March"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/3_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/3_06_d.mp3"
+        },
+        "hanViet": [
+          "tam",
+          "nguyệt"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 月 (nguyệt: Mặt Trăng) → tháng Ba",
+          "en": "三 (three: three, 3) + 月 (moon: moon) → march"
         }
       },
       {
         "japanese": "三日（みっか）",
         "meaning": {
-          "english": "3 days, 3rd day of the month",
-          "vietnamese": "3 ngày, ngày 3 trong tháng"
+          "vi": "3 ngày, ngày 3 trong tháng",
+          "en": "3 days, 3rd day of the month"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/3_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/3_06_e.mp3"
+        },
+        "hanViet": [
+          "tam",
+          "nhật"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 日 (nhật: Mặt Trời) → 3 ngày, ngày 3 trong tháng",
+          "en": "三 (tam: three, 3) + 日 (sun: sun) → 3 days, 3rd day of the month"
         }
       },
       {
         "japanese": "三つ（みっつ）",
         "meaning": {
-          "english": "3 (pieces)",
-          "vietnamese": "3 (cái)"
+          "vi": "3 (cái)",
+          "en": "3 (pieces)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/3_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/3_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/3_06_f.mp3"
+        },
+        "hanViet": [
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "tam: ba, 3",
+          "en": "tam: three, 3"
         }
       }
     ],
@@ -312,59 +359,186 @@
       {
         "example": "三",
         "reading": "サン",
-        "meaning": "ba, 3"
+        "meaning": {
+          "vi": "ba, 3",
+          "en": "ba, 3"
+        },
+        "hanViet": [
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "tam: ba, 3",
+          "en": "tam: three, 3"
+        },
+        "romaji": "san"
       },
       {
         "example": "三",
         "reading": "サン",
-        "meaning": "three"
+        "meaning": {
+          "vi": "ba",
+          "en": "three"
+        },
+        "hanViet": [
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "tam: ba, 3",
+          "en": "tam: three, 3"
+        },
+        "romaji": "san"
       },
       {
         "example": "十三",
         "reading": "ジュウサン",
-        "meaning": "mười ba, 13, vua"
+        "meaning": {
+          "vi": "mười ba, 13, vua",
+          "en": "mười ba, 13, vua"
+        },
+        "hanViet": [
+          "thập",
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "十 (thập: mười, 10) + 三 (tam: ba, 3) → mười ba, 13, vua",
+          "en": "十 (ten: ten, 10) + 三 (three: three, 3) → thirteen, 13, king"
+        },
+        "romaji": "juusan"
       },
       {
         "example": "七三",
         "reading": "シチサン",
-        "meaning": "tỷ lệ 7 hoặc 3, tóc rẽ một bên"
+        "meaning": {
+          "vi": "tỷ lệ 7 hoặc 3, tóc rẽ một bên",
+          "en": "tỷ lệ 7 hoặc 3, tóc rẽ một bên"
+        },
+        "hanViet": [
+          "thất",
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 三 (tam: ba, 3) → tỷ lệ 7 hoặc 3, tóc rẽ một bên",
+          "en": "七 (seven: seven, 7) + 三 (three: three, 3) → ratio 7 or 3, hair parted to one side"
+        },
+        "romaji": "shichisan"
       },
       {
         "example": "四三",
         "reading": "シソウ",
-        "meaning": "một bộ tứ và một bộ tam trong bài, ba và bốn (trong trò xúc xắc)"
+        "meaning": {
+          "vi": "một bộ tứ và một bộ tam trong bài, ba và bốn (trong trò xúc xắc)",
+          "en": "một bộ tứ và một bộ tam trong bài, ba và bốn (trong trò xúc xắc)"
+        },
+        "hanViet": [
+          "tứ",
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "四 (tứ: bốn, 4) + 三 (tam: ba, 3) → một bộ tứ và một bộ tam trong bài, ba và bốn (trong trò xúc xắc)",
+          "en": "四 (four: four, 4) + 三 (three: three, 3) → a four and a three in cards, three and four (in dice)"
+        },
+        "romaji": "shisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "三",
         "reading": "さん",
-        "meaning": "ba, 3"
+        "meaning": {
+          "vi": "ba, 3",
+          "en": "ba, 3"
+        },
+        "hanViet": [
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "tam: ba, 3",
+          "en": "tam: three, 3"
+        },
+        "romaji": "san"
       },
       {
         "example": "三十日",
         "reading": "みそか",
-        "meaning": "ngày cuối tháng"
+        "meaning": {
+          "vi": "ngày cuối tháng",
+          "en": "ngày cuối tháng"
+        },
+        "hanViet": [
+          "tam",
+          "thập",
+          "nhật"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 十 (thập: mười, 10) + 日 (nhật: Mặt Trời) → ngày cuối tháng",
+          "en": "三 (three: three, 3) + 十 (ten: ten, 10) + 日 (sun: sun) → last day of the month"
+        },
+        "romaji": "misoka"
       },
       {
         "example": "三つ",
         "reading": "みっつ",
-        "meaning": "ba, ba tuổi"
+        "meaning": {
+          "vi": "ba, ba tuổi",
+          "en": "ba, ba tuổi"
+        },
+        "hanViet": [
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "tam: ba, 3",
+          "en": "tam: three, 3"
+        },
+        "romaji": "mittsu"
       },
       {
         "example": "三つ折り",
         "reading": "みつおり",
-        "meaning": "gấp ba, gấp thành ba"
+        "meaning": {
+          "vi": "gấp ba, gấp thành ba",
+          "en": "gấp ba, gấp thành ba"
+        },
+        "hanViet": [
+          "tam",
+          "chiết"
+        ],
+        "hanVietExplain": {
+          "vi": "三 (tam: ba, 3) + 折 (chiết: bẻ gãy) → gấp ba, gấp thành ba",
+          "en": "三 (three: three, 3) + 折 (chit: break) → triple, fold into three"
+        },
+        "romaji": "mitsuori"
       },
       {
         "example": "三つ",
         "reading": "みっつ",
-        "meaning": "ba, ba tuổi"
+        "meaning": {
+          "vi": "ba, ba tuổi",
+          "en": "ba, ba tuổi"
+        },
+        "hanViet": [
+          "tam"
+        ],
+        "hanVietExplain": {
+          "vi": "tam: ba, 3",
+          "en": "tam: three, 3"
+        },
+        "romaji": "mittsu"
       },
       {
         "example": "３つの密",
         "reading": "みっつのみつ",
-        "meaning": "ba C, ba điều kiện làm lây bệnh (không gian kín, đông người, tiếp xúc gần)"
+        "meaning": {
+          "vi": "ba c, ba điều kiện làm lây bệnh (không gian kín, đông người, tiếp xúc gần)",
+          "en": "ba C, ba điều kiện làm lây bệnh (không gian kín, đông người, tiếp xúc gần)"
+        },
+        "hanViet": [
+          "mật"
+        ],
+        "hanVietExplain": {
+          "vi": "mật: đông đúc, giữ kín",
+          "en": "secret: crowded, kept secret"
+        },
+        "romaji": "mittsunomitsu"
       }
     ],
     "radical": {
@@ -379,5 +553,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e09.gif",
     "uri": "https://jisho.org/search/%E4%B8%89%23kanji"
+  },
+  "hanViet": [
+    "tam",
+    "tám",
+    "tạm"
+  ],
+  "hanVietExplain": {
+    "vi": "tam: ba, 3",
+    "en": "tam: three, 3"
+  },
+  "meaning": {
+    "vi": "ba",
+    "en": "three"
   }
 }

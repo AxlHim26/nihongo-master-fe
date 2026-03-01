@@ -18,7 +18,10 @@
       {
         "example": "飲む",
         "reading": "のむ",
-        "meaning": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        "meaning": {
+          "vi": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+        },
+        "romaji": "nomu"
       }
     ],
     "radical": {
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ee.gif",
     "uri": "https://jisho.org/search/%E9%A3%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "ấm",
+    "ẩm"
+  ]
 }

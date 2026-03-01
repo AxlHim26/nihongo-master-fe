@@ -21,49 +21,76 @@
       {
         "example": "貫",
         "reading": "カン",
-        "meaning": "kan (obs. unit of weight, approx. 3.75 kg, 8.3 lb), kan (obs. unit of currency, equiv. to 1000 mon in the Edo period; col. 10 mon in the Meiji period), counter for pieces of sushi, 10 points, 12 points"
+        "meaning": {
+          "vi": "kan (obs. unit of weight, approx. 3.75 kg, 8.3 lb), kan (obs. unit of currency, equiv. to 1000 mon in the Edo period; col. 10 mon in the Meiji period), counter for pieces of sushi, 10 points, 12 points"
+        },
+        "romaji": "kan"
       },
       {
         "example": "貫通",
         "reading": "カンツウ",
-        "meaning": "passing through (of a tunnel, bullet, etc.), going (right) through, penetrating, piercing, being well versed (in)"
+        "meaning": {
+          "vi": "passing through (of a tunnel, bullet, etc.), going (right) through, penetrating, piercing, being well versed (in)"
+        },
+        "romaji": "kantsuu"
       },
       {
         "example": "終始一貫",
         "reading": "シュウシイッカン",
-        "meaning": "consistently, unchangingly, throughout"
+        "meaning": {
+          "en": "consistently, unchangingly, throughout"
+        },
+        "romaji": "shuushiikkan"
       },
       {
         "example": "縦貫",
         "reading": "ジュウカン",
-        "meaning": "running through, traversal"
+        "meaning": {
+          "en": "running through, traversal"
+        },
+        "romaji": "juukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貫く",
         "reading": "つらぬく",
-        "meaning": "to go through, to pierce, to penetrate, to run through (e.g. a river through a city), to pass through, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"
+        "meaning": {
+          "vi": "to go through, to pierce, to penetrate, to run through (e.g. a river through a city), to pass through, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"
+        },
+        "romaji": "tsuranuku"
       },
       {
         "example": "貫",
         "reading": "ぬき",
-        "meaning": "crosspiece (between pillars, etc.), penetrating tie beam"
+        "meaning": {
+          "vi": "crosspiece (between pillars, etc.), penetrating tie beam"
+        },
+        "romaji": "nuki"
       },
       {
         "example": "貫き通す",
         "reading": "つらぬきとおす",
-        "meaning": "to go through, to pierce, to penetrate, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"
+        "meaning": {
+          "vi": "to go through, to pierce, to penetrate, to stick to (opinion, principles, etc.), to carry out, to persist with, to keep (e.g. faith), to maintain (e.g. independence)"
+        },
+        "romaji": "tsuranukitoosu"
       },
       {
         "example": "吹き抜き",
         "reading": "ふきぬき",
-        "meaning": "stairwell, atrium, streamer, pennant"
+        "meaning": {
+          "vi": "stairwell, atrium, streamer, pennant"
+        },
+        "romaji": "fukinuki"
       },
       {
         "example": "指貫",
         "reading": "さしぬき",
-        "meaning": "type of hakama worn in ancient times"
+        "meaning": {
+          "vi": "type of hakama worn in ancient times"
+        },
+        "romaji": "sashinuki"
       }
     ],
     "radical": {
@@ -81,5 +108,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cab.gif",
     "uri": "https://jisho.org/search/%E8%B2%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "oan",
+    "quán"
+  ]
 }

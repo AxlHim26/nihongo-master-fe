@@ -21,17 +21,26 @@
       {
         "example": "崎",
         "reading": "さき",
-        "meaning": "small peninsula, cape, promontory, headland"
+        "meaning": {
+          "vi": "small peninsula, cape, promontory, headland"
+        },
+        "romaji": "saki"
       },
       {
         "example": "埼玉",
         "reading": "さいたま",
-        "meaning": "Saitama (city, prefecture)"
+        "meaning": {
+          "vi": "Saitama (city, prefecture)"
+        },
+        "romaji": "saitama"
       },
       {
         "example": "埼京線",
         "reading": "さいきょうせん",
-        "meaning": "Saikyō Line (railway line running from Tokyo to Saitama)"
+        "meaning": {
+          "en": "Saikyō Line (railway line running from Tokyo to Saitama)"
+        },
+        "romaji": "saikyousen"
       }
     ],
     "radical": {
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57fc.gif",
     "uri": "https://jisho.org/search/%E5%9F%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "kỳ"
+  ]
 }

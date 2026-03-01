@@ -21,29 +21,44 @@
       {
         "example": "凄艶",
         "reading": "セイエン",
-        "meaning": "weirdly beautiful"
+        "meaning": {
+          "en": "weirdly beautiful"
+        },
+        "romaji": "seien"
       },
       {
         "example": "凄惨",
         "reading": "セイサン",
-        "meaning": "ghastly, gruesome, appalling, lurid"
+        "meaning": {
+          "vi": "ghastly, gruesome, appalling, lurid"
+        },
+        "romaji": "seisan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "凄い",
         "reading": "すごい",
-        "meaning": "terrible, dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers), awfully, very, immensely"
+        "meaning": {
+          "en": "terrible, dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers), awfully, very, immensely"
+        },
+        "romaji": "sugoi"
       },
       {
         "example": "凄い事になる",
         "reading": "すごいことになる",
-        "meaning": "to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state"
+        "meaning": {
+          "vi": "to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state"
+        },
+        "romaji": "sugoikotoninaru"
       },
       {
         "example": "凄まじい",
         "reading": "すさまじい",
-        "meaning": "terrible, dreadful, awful, horrible, ghastly, tremendous, terrific, enormous, prodigious, stupendous, amazing, appalling, shocking, staggering, absurd"
+        "meaning": {
+          "vi": "terrible, dreadful, awful, horrible, ghastly, tremendous, terrific, enormous, prodigious, stupendous, amazing, appalling, shocking, staggering, absurd"
+        },
+        "romaji": "susamajii"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c4.gif",
     "uri": "https://jisho.org/search/%E5%87%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "thê"
+  ]
 }

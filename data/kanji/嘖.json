@@ -17,24 +17,36 @@
       {
         "example": "嘖々",
         "reading": "サクサク",
-        "meaning": "highly (renowned, praised, reputed, etc.)"
+        "meaning": {
+          "vi": "highly (renowned, praised, reputed, etc.)"
+        },
+        "romaji": "sakusaku"
       },
       {
         "example": "嘖々",
         "reading": "サクサク",
-        "meaning": "highly (renowned, praised, reputed, etc.)"
+        "meaning": {
+          "vi": "highly (renowned, praised, reputed, etc.)"
+        },
+        "romaji": "sakusaku"
       },
       {
         "example": "名声嘖々",
         "reading": "メイセイサクサク",
-        "meaning": "highly renowned, on everybody's lips, enjoying a high reputation"
+        "meaning": {
+          "vi": "highly renowned, on everybody's lips, enjoying a high reputation"
+        },
+        "romaji": "meiseisakusaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苛む",
         "reading": "さいなむ",
-        "meaning": "to torment, to torture, to afflict, to harrow"
+        "meaning": {
+          "en": "to torment, to torture, to afflict, to harrow"
+        },
+        "romaji": "sainamu"
       }
     ],
     "radical": {
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05616.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5616.gif",
     "uri": "https://jisho.org/search/%E5%98%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "sách",
+    "trách"
+  ]
 }

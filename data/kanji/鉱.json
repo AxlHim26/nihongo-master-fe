@@ -271,29 +271,44 @@
       {
         "example": "鉱区",
         "reading": "コウク",
-        "meaning": "mining area, mine lot"
+        "meaning": {
+          "en": "mining area, mine lot"
+        },
+        "romaji": "kouku"
       },
       {
         "example": "鉱業",
         "reading": "コウギョウ",
-        "meaning": "mining industry"
+        "meaning": {
+          "en": "mining industry"
+        },
+        "romaji": "kougyou"
       },
       {
         "example": "廃坑",
         "reading": "ハイコウ",
-        "meaning": "closure of a mine, abandoned mine, disused mine"
+        "meaning": {
+          "en": "closure of a mine, abandoned mine, disused mine"
+        },
+        "romaji": "haikou"
       },
       {
         "example": "採鉱",
         "reading": "サイコウ",
-        "meaning": "mining"
+        "meaning": {
+          "en": "mining"
+        },
+        "romaji": "saikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "粗金",
         "reading": "あらがね",
-        "meaning": "ore"
+        "meaning": {
+          "en": "ore"
+        },
+        "romaji": "aragane"
       }
     ],
     "radical": {
@@ -312,5 +327,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09271.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9271.gif",
     "uri": "https://jisho.org/search/%E9%89%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoáng",
+    "quáng"
+  ]
 }

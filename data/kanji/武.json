@@ -278,59 +278,92 @@
       {
         "example": "武",
         "reading": "ブ",
-        "meaning": "the art of war, martial arts, military arts, military force, the sword, valor, bravery, military officer, military man"
+        "meaning": {
+          "en": "the art of war, martial arts, military arts, military force, the sword, valor, bravery, military officer, military man"
+        },
+        "romaji": "bu"
       },
       {
         "example": "武器",
         "reading": "ブキ",
-        "meaning": "weapon, arms, ordnance, weapon (something used to gain an advantage), asset"
+        "meaning": {
+          "vi": "weapon, arms, ordnance, weapon (something used to gain an advantage), asset"
+        },
+        "romaji": "buki"
       },
       {
         "example": "文武",
         "reading": "ブンブ",
-        "meaning": "literary and military arts, the pen and the sword"
+        "meaning": {
+          "vi": "literary and military arts, the pen and the sword"
+        },
+        "romaji": "bunbu"
       },
       {
         "example": "威武",
         "reading": "イブ",
-        "meaning": "authority and force"
+        "meaning": {
+          "en": "authority and force"
+        },
+        "romaji": "ibu"
       },
       {
         "example": "武者",
         "reading": "ムシャ",
-        "meaning": "warrior"
+        "meaning": {
+          "en": "warrior"
+        },
+        "romaji": "musha"
       },
       {
         "example": "武者修行",
         "reading": "ムシャシュギョウ",
-        "meaning": "traveling about to gain skill in combat (travelling)"
+        "meaning": {
+          "en": "traveling about to gain skill in combat (travelling)"
+        },
+        "romaji": "mushashugyou"
       },
       {
         "example": "建武",
         "reading": "ケンム",
-        "meaning": "Kenmu era (of unified Japan; 1334.1.29-1336.2.29), Kenmu era (of the Northern Court; 1336.2.29-1338.8.28)"
+        "meaning": {
+          "vi": "Kenmu era (of unified Japan; 1334.1.29-1336.2.29), Kenmu era (of the Northern Court; 1336.2.29-1338.8.28)"
+        },
+        "romaji": "kenmu"
       },
       {
         "example": "玄武",
         "reading": "ゲンブ",
-        "meaning": "Black Tortoise (god said to rule over the northern heavens), seven mansions (Chinese constellations) of the northern heavens"
+        "meaning": {
+          "en": "Black Tortoise (god said to rule over the northern heavens), seven mansions (Chinese constellations) of the northern heavens"
+        },
+        "romaji": "genbu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "武し",
         "reading": "たけし",
-        "meaning": "brave"
+        "meaning": {
+          "en": "brave"
+        },
+        "romaji": "takeshi"
       },
       {
         "example": "武田薬品工業",
         "reading": "たけだやくひんこうぎょう",
-        "meaning": "Takeda Pharmaceutical"
+        "meaning": {
+          "vi": "Takeda Pharmaceutical"
+        },
+        "romaji": "takedayakuhinkougyou"
       },
       {
         "example": "武し",
         "reading": "たけし",
-        "meaning": "brave"
+        "meaning": {
+          "en": "brave"
+        },
+        "romaji": "takeshi"
       }
     ],
     "radical": {
@@ -345,5 +378,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b66.gif",
     "uri": "https://jisho.org/search/%E6%AD%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "võ",
+    "vũ"
+  ]
 }

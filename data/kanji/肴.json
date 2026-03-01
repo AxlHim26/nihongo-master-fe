@@ -16,34 +16,52 @@
       {
         "example": "佳肴",
         "reading": "カコウ",
-        "meaning": "delicacy, rare treat, good-eating fish"
+        "meaning": {
+          "en": "delicacy, rare treat, good-eating fish"
+        },
+        "romaji": "kakou"
       },
       {
         "example": "美味佳肴",
         "reading": "ビミカコウ",
-        "meaning": "delicacies, epicurean dishes"
+        "meaning": {
+          "vi": "delicacies, epicurean dishes"
+        },
+        "romaji": "bimikakou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肴",
         "reading": "さかな",
-        "meaning": "appetizer or snack served with drinks, performance to liven up a bar, conversation to liven up a party"
+        "meaning": {
+          "vi": "appetizer or snack served with drinks, performance to liven up a bar, conversation to liven up a party"
+        },
+        "romaji": "sakana"
       },
       {
         "example": "肴にする",
         "reading": "さかなにする",
-        "meaning": "to have as a side order (with drinks), to make fun of someone, to laugh at someone's expense"
+        "meaning": {
+          "vi": "to have as a side order (with drinks), to make fun of someone, to laugh at someone's expense"
+        },
+        "romaji": "sakananisuru"
       },
       {
         "example": "酒肴",
         "reading": "しゅこう",
-        "meaning": "food and (alcoholic) drinks, food eaten with an alcoholic drink, accompaniment to a drink"
+        "meaning": {
+          "vi": "food and (alcoholic) drinks, food eaten with an alcoholic drink, accompaniment to a drink"
+        },
+        "romaji": "shukou"
       },
       {
         "example": "酒の肴",
         "reading": "さけのさかな",
-        "meaning": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        "meaning": {
+          "vi": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+        },
+        "romaji": "sakenosakana"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80b4.gif",
     "uri": "https://jisho.org/search/%E8%82%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "hào"
+  ]
 }

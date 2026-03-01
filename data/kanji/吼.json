@@ -17,14 +17,20 @@
       {
         "example": "獅子吼",
         "reading": "シシク",
-        "meaning": "lion's roar, harangue"
+        "meaning": {
+          "en": "lion's roar, harangue"
+        },
+        "romaji": "shishiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "吠える",
         "reading": "ほえる",
-        "meaning": "to bark, to howl, to bay, to roar, to yelp, to yap, to howl (of the wind), to roar (of the sea), to yell, to shout, to cry, to moan"
+        "meaning": {
+          "vi": "to bark, to howl, to bay, to roar, to yelp, to yap, to howl (of the wind), to roar (of the sea), to yell, to shout, to cry, to moan"
+        },
+        "romaji": "hoeru"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543c.gif",
     "uri": "https://jisho.org/search/%E5%90%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hống"
+  ]
 }

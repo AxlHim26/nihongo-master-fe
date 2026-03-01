@@ -17,17 +17,26 @@
       {
         "example": "邁進",
         "reading": "マイシン",
-        "meaning": "pushing forward (undaunted), pushing on (toward a goal), striving (for)"
+        "meaning": {
+          "vi": "pushing forward (undaunted), pushing on (toward a goal), striving (for)"
+        },
+        "romaji": "maishin"
       },
       {
         "example": "英邁",
         "reading": "エイマイ",
-        "meaning": "wise and great"
+        "meaning": {
+          "en": "wise and great"
+        },
+        "romaji": "eimai"
       },
       {
         "example": "天資英邁",
         "reading": "テンシエイマイ",
-        "meaning": "highly gifted"
+        "meaning": {
+          "en": "highly gifted"
+        },
+        "romaji": "tenshieimai"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09081.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9081.gif",
     "uri": "https://jisho.org/search/%E9%82%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "mại"
+  ]
 }

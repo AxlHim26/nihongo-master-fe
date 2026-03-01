@@ -341,39 +341,60 @@
       {
         "example": "活",
         "reading": "カツ",
-        "meaning": "living, life, judo art of resuscitation, action, activity"
+        "meaning": {
+          "en": "living, life, judo art of resuscitation, action, activity"
+        },
+        "romaji": "katsu"
       },
       {
         "example": "活字",
         "reading": "カツジ",
-        "meaning": "printing type, movable type, printed text, print"
+        "meaning": {
+          "vi": "printing type, movable type, printed text, print"
+        },
+        "romaji": "katsuji"
       },
       {
         "example": "死活",
         "reading": "シカツ",
-        "meaning": "life and death, life or death"
+        "meaning": {
+          "en": "life and death, life or death"
+        },
+        "romaji": "shikatsu"
       },
       {
         "example": "就活",
         "reading": "シュウカツ",
-        "meaning": "job hunting, job searching"
+        "meaning": {
+          "en": "job hunting, job searching"
+        },
+        "romaji": "shuukatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "生きる",
         "reading": "いきる",
-        "meaning": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
+        "meaning": {
+          "en": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
+        },
+        "romaji": "ikiru"
       },
       {
         "example": "生かす",
         "reading": "いかす",
-        "meaning": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
+        "meaning": {
+          "vi": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
+        },
+        "romaji": "ikasu"
       },
       {
         "example": "生ける",
         "reading": "いける",
-        "meaning": "to arrange (flowers), to plant, living, live"
+        "meaning": {
+          "vi": "to arrange (flowers), to plant, living, live"
+        },
+        "romaji": "ikeru"
       }
     ],
     "radical": {
@@ -395,5 +416,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d3b.gif",
     "uri": "https://jisho.org/search/%E6%B4%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạt",
+    "quạt"
+  ]
 }

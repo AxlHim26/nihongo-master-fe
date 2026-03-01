@@ -341,34 +341,52 @@
       {
         "example": "同",
         "reading": "ドウ",
-        "meaning": "the same, the said, likewise"
+        "meaning": {
+          "en": "the same, the said, likewise"
+        },
+        "romaji": "dou"
       },
       {
         "example": "同意",
         "reading": "ドウイ",
-        "meaning": "agreement, consent, approval, assent, same opinion, same view, same meaning"
+        "meaning": {
+          "vi": "agreement, consent, approval, assent, same opinion, same view, same meaning"
+        },
+        "romaji": "doui"
       },
       {
         "example": "合同",
         "reading": "ゴウドウ",
-        "meaning": "combination, union, joining, incorporation, amalgamation, merger, fusion, combined, joint, united, shared, congruence"
+        "meaning": {
+          "vi": "combination, union, joining, incorporation, amalgamation, merger, fusion, combined, joint, united, shared, congruence"
+        },
+        "romaji": "goudou"
       },
       {
         "example": "大同",
         "reading": "ダイドウ",
-        "meaning": "general resemblance, being largely the same, uniting with a common goal, Daidō era (806.5.18-810.9.19)"
+        "meaning": {
+          "en": "general resemblance, being largely the same, uniting with a common goal, Daidō era (806.5.18-810.9.19)"
+        },
+        "romaji": "daidou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "同じ",
         "reading": "おなじ",
-        "meaning": "same, identical, equal, alike, equivalent, anyway, in any case, if one must ..., if one has to ..., as long as ..."
+        "meaning": {
+          "en": "same, identical, equal, alike, equivalent, anyway, in any case, if one must ..., if one has to ..., as long as ..."
+        },
+        "romaji": "onaji"
       },
       {
         "example": "同じく",
         "reading": "おなじく",
-        "meaning": "in the same way, like, likewise, similarly"
+        "meaning": {
+          "en": "in the same way, like, likewise, similarly"
+        },
+        "romaji": "onajiku"
       }
     ],
     "radical": {
@@ -384,5 +402,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540c.gif",
     "uri": "https://jisho.org/search/%E5%90%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồng"
+  ]
 }

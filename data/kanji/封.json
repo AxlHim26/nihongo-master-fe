@@ -296,42 +296,66 @@
       {
         "example": "封",
         "reading": "フウ",
-        "meaning": "seal"
+        "meaning": {
+          "en": "seal"
+        },
+        "romaji": "fuu"
       },
       {
         "example": "封鎖",
         "reading": "フウサ",
-        "meaning": "blockade, lockdown, sealing off (an area), freezing (funds)"
+        "meaning": {
+          "en": "blockade, lockdown, sealing off (an area), freezing (funds)"
+        },
+        "romaji": "fuusa"
       },
       {
         "example": "帯封",
         "reading": "オビフウ",
-        "meaning": "currency strap, banknote strap, currency band, money band, mailing wrapper (around a newspaper, etc.)"
+        "meaning": {
+          "vi": "currency strap, banknote strap, currency band, money band, mailing wrapper (around a newspaper, etc.)"
+        },
+        "romaji": "obifuu"
       },
       {
         "example": "液封",
         "reading": "エキフウ",
-        "meaning": "liquid seal, liquid ring"
+        "meaning": {
+          "en": "liquid seal, liquid ring"
+        },
+        "romaji": "ekifuu"
       },
       {
         "example": "封建的",
         "reading": "ホウケンテキ",
-        "meaning": "feudal, feudalistic"
+        "meaning": {
+          "en": "feudal, feudalistic"
+        },
+        "romaji": "houkenteki"
       },
       {
         "example": "封建主義",
         "reading": "ホウケンシュギ",
-        "meaning": "feudalism"
+        "meaning": {
+          "en": "feudalism"
+        },
+        "romaji": "houkenshugi"
       },
       {
         "example": "移封",
         "reading": "イホウ",
-        "meaning": "forced relocation of a daimyo to a different domain by the Edo shogunate"
+        "meaning": {
+          "en": "forced relocation of a daimyo to a different domain by the Edo shogunate"
+        },
+        "romaji": "ihou"
       },
       {
         "example": "旧封",
         "reading": "キュウホウ",
-        "meaning": "former fief"
+        "meaning": {
+          "en": "former fief"
+        },
+        "romaji": "kyuuhou"
       }
     ],
     "kunyomiExamples": [],
@@ -347,5 +371,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c01.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c01.gif",
     "uri": "https://jisho.org/search/%E5%B0%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "phong"
+  ]
 }

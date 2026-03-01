@@ -16,39 +16,60 @@
       {
         "example": "山の芋",
         "reading": "ヤマノイモ",
-        "meaning": "Japanese yam (Dioscorea japonica)"
+        "meaning": {
+          "vi": "Japanese yam (Dioscorea japonica)"
+        },
+        "romaji": "yamanoimo"
       },
       {
         "example": "馬鈴薯",
         "reading": "バレイショ",
-        "meaning": "potato (Solanum tuberosum)"
+        "meaning": {
+          "vi": "potato (Solanum tuberosum)"
+        },
+        "romaji": "bareisho"
       },
       {
         "example": "参薯",
         "reading": "シンショ",
-        "meaning": "water yam (Dioscorea alata), winged yam, purple yam"
+        "meaning": {
+          "vi": "water yam (Dioscorea alata), winged yam, purple yam"
+        },
+        "romaji": "shinsho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "芋",
         "reading": "いも",
-        "meaning": "tuber, taro, potato, yam, yokel, bumpkin, dud, worthless thing"
+        "meaning": {
+          "vi": "tuber, taro, potato, yam, yokel, bumpkin, dud, worthless thing"
+        },
+        "romaji": "imo"
       },
       {
         "example": "芋粥",
         "reading": "いもがゆ",
-        "meaning": "rice gruel with diced sweet potatoes, gruel with ivy broth and finely minced Japanese yam served at large Imperial banquets"
+        "meaning": {
+          "vi": "rice gruel with diced sweet potatoes, gruel with ivy broth and finely minced Japanese yam served at large Imperial banquets"
+        },
+        "romaji": "imogayu"
       },
       {
         "example": "唐芋",
         "reading": "とういも",
-        "meaning": "sweet potato (Ipomoea batatas)"
+        "meaning": {
+          "vi": "sweet potato (Ipomoea batatas)"
+        },
+        "romaji": "touimo"
       },
       {
         "example": "長芋",
         "reading": "ながいも",
-        "meaning": "Chinese yam (Dioscorea batatas)"
+        "meaning": {
+          "en": "Chinese yam (Dioscorea batatas)"
+        },
+        "romaji": "nagaimo"
       }
     ],
     "radical": {
@@ -68,5 +89,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85af.gif",
     "uri": "https://jisho.org/search/%E8%96%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thự"
+  ]
 }

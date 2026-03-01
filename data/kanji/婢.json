@@ -16,24 +16,36 @@
       {
         "example": "婢",
         "reading": "ヒ",
-        "meaning": "female slave, female servant, housemaid"
+        "meaning": {
+          "en": "female slave, female servant, housemaid"
+        },
+        "romaji": "hi"
       },
       {
         "example": "少婢",
         "reading": "ショウヒ",
-        "meaning": "young female servant"
+        "meaning": {
+          "en": "young female servant"
+        },
+        "romaji": "shouhi"
       },
       {
         "example": "老婢",
         "reading": "ロウヒ",
-        "meaning": "old housemaid, old female servant"
+        "meaning": {
+          "en": "old housemaid, old female servant"
+        },
+        "romaji": "rouhi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "端女",
         "reading": "はしため",
-        "meaning": "female servant"
+        "meaning": {
+          "en": "female servant"
+        },
+        "romaji": "hashitame"
       }
     ],
     "radical": {
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a62.gif",
     "uri": "https://jisho.org/search/%E5%A9%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tì",
+    "tỳ"
+  ]
 }

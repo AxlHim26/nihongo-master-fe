@@ -396,44 +396,68 @@
       {
         "example": "本",
         "reading": "ホン",
-        "meaning": "sách, tập, kịch bản, này, hiện tại, chính, thật, đúng, đơn vị đếm đồ dài tròn/phim/cú điện thoại/bàn thắng..."
+        "meaning": {
+          "vi": "sách, tập, kịch bản, này, hiện tại, chính, thật, đúng, đơn vị đếm đồ dài tròn/phim/cú điện thoại/bàn thắng..."
+        },
+        "romaji": "hon"
       },
       {
         "example": "本位",
         "reading": "ホンイ",
-        "meaning": "chuẩn, cơ sở, nguyên tắc"
+        "meaning": {
+          "vi": "chuẩn, cơ sở, nguyên tắc"
+        },
+        "romaji": "hon'i"
       },
       {
         "example": "社会資本",
         "reading": "シャカイシホン",
-        "meaning": "vốn xã hội, SOC"
+        "meaning": {
+          "vi": "vốn xã hội, SOC"
+        },
+        "romaji": "shakaishihon"
       },
       {
         "example": "配本",
         "reading": "ハイホン",
-        "meaning": "phát hành sách"
+        "meaning": {
+          "vi": "phát hành sách"
+        },
+        "romaji": "haihon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "元",
         "reading": "もと",
-        "meaning": "nguồn gốc, bắt đầu, cơ sở, gốc rễ, nguyên nhân, nguyên liệu, vốn, thân cây, phần cầm (bút, đũa...), đơn vị đếm cây/chim ưng"
+        "meaning": {
+          "vi": "nguồn gốc, bắt đầu, cơ sở, gốc rễ, nguyên nhân, nguyên liệu, vốn, thân cây, phần cầm (bút, đũa...), đơn vị đếm cây/chim ưng"
+        },
+        "romaji": "moto"
       },
       {
         "example": "本木",
         "reading": "もとき",
-        "meaning": "gốc ghép ban đầu"
+        "meaning": {
+          "vi": "gốc ghép ban đầu"
+        },
+        "romaji": "motoki"
       },
       {
         "example": "大本",
         "reading": "おおもと",
-        "meaning": "gốc rễ, nguồn gốc, nguyên nhân, nền tảng, Ōmoto (tôn giáo)"
+        "meaning": {
+          "vi": "gốc rễ, nguồn gốc, nguyên nhân, nền tảng, Ōmoto (tôn giáo)"
+        },
+        "romaji": "oomoto"
       },
       {
         "example": "旗本",
         "reading": "はたもと",
-        "meaning": "gia thần của shogun, võ sĩ trực thuộc shogun"
+        "meaning": {
+          "vi": "gia thần của shogun, võ sĩ trực thuộc shogun"
+        },
+        "romaji": "hatamoto"
       }
     ],
     "radical": {
@@ -448,5 +472,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672c.gif",
     "uri": "https://jisho.org/search/%E6%9C%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "bôn",
+    "bản",
+    "bổn"
+  ]
 }

@@ -21,12 +21,18 @@
       {
         "example": "彗星",
         "reading": "スイセイ",
-        "meaning": "comet"
+        "meaning": {
+          "en": "comet"
+        },
+        "romaji": "suisei"
       },
       {
         "example": "彗星のように現れる",
         "reading": "スイセイノヨウニアラワレル",
-        "meaning": "to become famous overnight, to burst into fame"
+        "meaning": {
+          "en": "to become famous overnight, to burst into fame"
+        },
+        "romaji": "suiseinoyouniarawareru"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f57.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f57.gif",
     "uri": "https://jisho.org/search/%E5%BD%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuệ"
+  ]
 }

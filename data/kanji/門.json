@@ -345,64 +345,100 @@
       {
         "example": "門",
         "reading": "モン",
-        "meaning": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons"
+        "meaning": {
+          "vi": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons"
+        },
+        "romaji": "mon"
       },
       {
         "example": "門下",
         "reading": "モンカ",
-        "meaning": "one's pupil, one's student, one's follower"
+        "meaning": {
+          "vi": "one's pupil, one's student, one's follower"
+        },
+        "romaji": "monka"
       },
       {
         "example": "入門",
         "reading": "ニュウモン",
-        "meaning": "becoming a pupil (of), becoming a disciple, entering an institution, beginning training, introduction (to), primer, guide, entering through a gate"
+        "meaning": {
+          "vi": "becoming a pupil (of), becoming a disciple, entering an institution, beginning training, introduction (to), primer, guide, entering through a gate"
+        },
+        "romaji": "nyuumon"
       },
       {
         "example": "宗門",
         "reading": "シュウモン",
-        "meaning": "(religious) denomination, sect"
+        "meaning": {
+          "en": "(religious) denomination, sect"
+        },
+        "romaji": "shuumon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "門",
         "reading": "もん",
-        "meaning": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons"
+        "meaning": {
+          "vi": "gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons"
+        },
+        "romaji": "mon"
       },
       {
         "example": "門出",
         "reading": "かどで",
-        "meaning": "setting off (on a long journey), setting out, departure (e.g. for the front), leaving home, starting a new life, starting life anew"
+        "meaning": {
+          "vi": "setting off (on a long journey), setting out, departure (e.g. for the front), leaving home, starting a new life, starting life anew"
+        },
+        "romaji": "kadode"
       },
       {
         "example": "帝",
         "reading": "みかど",
-        "meaning": "emperor (of Japan), mikado, (the gates of an) imperial residence"
+        "meaning": {
+          "vi": "emperor (of Japan), mikado, (the gates of an) imperial residence"
+        },
+        "romaji": "mikado"
       },
       {
         "example": "口は災いの門",
         "reading": "くちはわざわいのかど",
-        "meaning": "words can lead to disaster, the tongue is the root of calamities, the more you open your mouth the more likely you are to put your foot in it"
+        "meaning": {
+          "vi": "words can lead to disaster, the tongue is the root of calamities, the more you open your mouth the more likely you are to put your foot in it"
+        },
+        "romaji": "kuchihawazawainokado"
       },
       {
         "example": "戸",
         "reading": "と",
-        "meaning": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+        "meaning": {
+          "vi": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+        },
+        "romaji": "to"
       },
       {
         "example": "門浪",
         "reading": "となみ",
-        "meaning": "waves in narrow straits"
+        "meaning": {
+          "en": "waves in narrow straits"
+        },
+        "romaji": "tonami"
       },
       {
         "example": "鳴門",
         "reading": "なると",
-        "meaning": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        "meaning": {
+          "vi": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+        },
+        "romaji": "naruto"
       },
       {
         "example": "長門",
         "reading": "ながと",
-        "meaning": "Nagato (former province located in the west of present-day Yamaguchi Prefecture)"
+        "meaning": {
+          "vi": "Nagato (former province located in the west of present-day Yamaguchi Prefecture)"
+        },
+        "romaji": "nagato"
       }
     ],
     "radical": {
@@ -416,5 +452,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09580.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9580.gif",
     "uri": "https://jisho.org/search/%E9%96%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "môn"
+  ]
 }

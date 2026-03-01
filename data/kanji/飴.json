@@ -19,22 +19,34 @@
       {
         "example": "飴",
         "reading": "あめ",
-        "meaning": "(hard) candy, toffee, rice-sugar, sugar made from the starch of rice, potatoes, etc., amber, yellowish-brown"
+        "meaning": {
+          "vi": "(hard) candy, toffee, rice-sugar, sugar made from the starch of rice, potatoes, etc., amber, yellowish-brown"
+        },
+        "romaji": "ame"
       },
       {
         "example": "飴色",
         "reading": "あめいろ",
-        "meaning": "amber, yellowish-brown"
+        "meaning": {
+          "en": "amber, yellowish-brown"
+        },
+        "romaji": "ameiro"
       },
       {
         "example": "べっこう飴",
         "reading": "べっこうあめ",
-        "meaning": "hard candy, candy suckers molded on a griddle, tortoise-shell candy"
+        "meaning": {
+          "en": "hard candy, candy suckers molded on a griddle, tortoise-shell candy"
+        },
+        "romaji": "bekkouame"
       },
       {
         "example": "ぶどう飴",
         "reading": "ぶどうあめ",
-        "meaning": "candy-coated grapes on a stick"
+        "meaning": {
+          "vi": "candy-coated grapes on a stick"
+        },
+        "romaji": "budouame"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98f4.gif",
     "uri": "https://jisho.org/search/%E9%A3%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "di",
+    "tự"
+  ]
 }

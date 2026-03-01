@@ -339,22 +339,34 @@
       {
         "example": "党",
         "reading": "トウ",
-        "meaning": "party (political), person who is fond of, fan of"
+        "meaning": {
+          "vi": "party (political), person who is fond of, fan of"
+        },
+        "romaji": "tou"
       },
       {
         "example": "党員",
         "reading": "トウイン",
-        "meaning": "party member"
+        "meaning": {
+          "vi": "party member"
+        },
+        "romaji": "touin"
       },
       {
         "example": "両党",
         "reading": "リョウトウ",
-        "meaning": "both (political) parties"
+        "meaning": {
+          "vi": "both (political) parties"
+        },
+        "romaji": "ryoutou"
       },
       {
         "example": "同党",
         "reading": "ドウトウ",
-        "meaning": "same (political) party, the said party"
+        "meaning": {
+          "vi": "same (political) party, the said party"
+        },
+        "romaji": "doutou"
       }
     ],
     "kunyomiExamples": [],
@@ -372,5 +384,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0515a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/515a.gif",
     "uri": "https://jisho.org/search/%E5%85%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "đảng"
+  ]
 }

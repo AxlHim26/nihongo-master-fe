@@ -270,22 +270,34 @@
       {
         "example": "寮",
         "reading": "リョウ",
-        "meaning": "hostel, dormitory, bureau (government department beneath a ministry under the ritsuryō system), tea-ceremony room, villa"
+        "meaning": {
+          "vi": "hostel, dormitory, bureau (government department beneath a ministry under the ritsuryō system), tea-ceremony room, villa"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "寮生",
         "reading": "リョウセイ",
-        "meaning": "boarder, boarding student"
+        "meaning": {
+          "en": "boarder, boarding student"
+        },
+        "romaji": "ryousei"
       },
       {
         "example": "大炊寮",
         "reading": "オオイリョウ",
-        "meaning": "Bureau of the Imperial Palace Kitchens (under the ritsuryō system)"
+        "meaning": {
+          "vi": "Bureau of the Imperial Palace Kitchens (under the ritsuryō system)"
+        },
+        "romaji": "ooiryou"
       },
       {
         "example": "女男性寮",
         "reading": "メオセイリョウ",
-        "meaning": "co-ed dormitory, mixed student accommodation"
+        "meaning": {
+          "en": "co-ed dormitory, mixed student accommodation"
+        },
+        "romaji": "meoseiryou"
       }
     ],
     "kunyomiExamples": [],
@@ -304,5 +316,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bee.gif",
     "uri": "https://jisho.org/search/%E5%AF%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "liêu"
+  ]
 }

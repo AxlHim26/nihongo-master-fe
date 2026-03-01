@@ -18,24 +18,36 @@
       {
         "example": "読書",
         "reading": "ドクショ",
-        "meaning": "reading (books)"
+        "meaning": {
+          "en": "reading (books)"
+        },
+        "romaji": "dokusho"
       },
       {
         "example": "読書",
         "reading": "ドクショ",
-        "meaning": "reading (books)"
+        "meaning": {
+          "en": "reading (books)"
+        },
+        "romaji": "dokusho"
       },
       {
         "example": "冒涜",
         "reading": "ボウトク",
-        "meaning": "blasphemy, profanity, sacrilege, desecration, defilement"
+        "meaning": {
+          "vi": "blasphemy, profanity, sacrilege, desecration, defilement"
+        },
+        "romaji": "boutoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "読む",
         "reading": "よむ",
-        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        "meaning": {
+          "vi": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        },
+        "romaji": "yomu"
       }
     ],
     "radical": {
@@ -58,5 +70,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b80.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b80.gif",
     "uri": "https://jisho.org/search/%E8%AE%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "đậu",
+    "độc"
+  ]
 }

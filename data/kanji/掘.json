@@ -277,19 +277,28 @@
       {
         "example": "採掘",
         "reading": "サイクツ",
-        "meaning": "mining, digging, working (a mine)"
+        "meaning": {
+          "en": "mining, digging, working (a mine)"
+        },
+        "romaji": "saikutsu"
       },
       {
         "example": "盗掘",
         "reading": "トウクツ",
-        "meaning": "illegal digging, illegal mining, grave robbing, tomb robbing"
+        "meaning": {
+          "en": "illegal digging, illegal mining, grave robbing, tomb robbing"
+        },
+        "romaji": "toukutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掘る",
         "reading": "ほる",
-        "meaning": "to dig, to excavate, to hollow, to delve into, to dig up (e.g. vegetables), (for two men) to have anal sex"
+        "meaning": {
+          "vi": "to dig, to excavate, to hollow, to delve into, to dig up (e.g. vegetables), (for two men) to have anal sex"
+        },
+        "romaji": "horu"
       }
     ],
     "radical": {
@@ -310,5 +319,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06398.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6398.gif",
     "uri": "https://jisho.org/search/%E6%8E%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "quật"
+  ]
 }

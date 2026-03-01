@@ -19,12 +19,18 @@
       {
         "example": "鞣す",
         "reading": "なめす",
-        "meaning": "to tan (leather, hide, etc.), to dress"
+        "meaning": {
+          "en": "to tan (leather, hide, etc.), to dress"
+        },
+        "romaji": "namesu"
       },
       {
         "example": "なめし革",
         "reading": "なめしがわ",
-        "meaning": "leather, tanned animal hide, suede, kanji \"tanned leather\" radical (radical 178)"
+        "meaning": {
+          "en": "leather, tanned animal hide, suede, kanji \"tanned leather\" radical (radical 178)"
+        },
+        "romaji": "nameshigawa"
       }
     ],
     "radical": {
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97a3.gif",
     "uri": "https://jisho.org/search/%E9%9E%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhu"
+  ]
 }

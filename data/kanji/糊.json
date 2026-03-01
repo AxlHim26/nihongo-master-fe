@@ -18,39 +18,60 @@
       {
         "example": "糊化",
         "reading": "コカ",
-        "meaning": "gelatinization"
+        "meaning": {
+          "en": "gelatinization"
+        },
+        "romaji": "koka"
       },
       {
         "example": "糊口",
         "reading": "ココウ",
-        "meaning": "bare livelihood, subsistence"
+        "meaning": {
+          "en": "bare livelihood, subsistence"
+        },
+        "romaji": "kokou"
       },
       {
         "example": "模糊",
         "reading": "モコ",
-        "meaning": "dim, vague, indistinct, faint, obscure"
+        "meaning": {
+          "en": "dim, vague, indistinct, faint, obscure"
+        },
+        "romaji": "moko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "糊",
         "reading": "のり",
-        "meaning": "paste, glue, clothing starch"
+        "meaning": {
+          "vi": "paste, glue, clothing starch"
+        },
+        "romaji": "nori"
       },
       {
         "example": "糊空木",
         "reading": "のりうつぎ",
-        "meaning": "panicled hydrangea (Hydrangea paniculata), peegee hydrangea"
+        "meaning": {
+          "vi": "panicled hydrangea (Hydrangea paniculata), peegee hydrangea"
+        },
+        "romaji": "noriutsugi"
       },
       {
         "example": "液体のり",
         "reading": "えきたいのり",
-        "meaning": "liquid glue, liquid adhesive"
+        "meaning": {
+          "en": "liquid glue, liquid adhesive"
+        },
+        "romaji": "ekitainori"
       },
       {
         "example": "スティック糊",
         "reading": "スティックのり",
-        "meaning": "glue stick"
+        "meaning": {
+          "en": "glue stick"
+        },
+        "romaji": "suteikkunori"
       }
     ],
     "radical": {
@@ -67,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07cca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7cca.gif",
     "uri": "https://jisho.org/search/%E7%B3%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ"
+  ]
 }

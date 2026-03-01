@@ -272,34 +272,52 @@
       {
         "example": "邪",
         "reading": "ジャ",
-        "meaning": "wickedness, evil, wicked person"
+        "meaning": {
+          "vi": "wickedness, evil, wicked person"
+        },
+        "romaji": "ja"
       },
       {
         "example": "邪魔",
         "reading": "ジャマ",
-        "meaning": "hindrance, obstacle, nuisance, disturbance, interruption, interference, to visit (someone's home), demon who hinders Buddhist training, demon who obstructs sentient beings from maintaining moral behaviour"
+        "meaning": {
+          "vi": "hindrance, obstacle, nuisance, disturbance, interruption, interference, to visit (someone's home), demon who hinders Buddhist training, demon who obstructs sentient beings from maintaining moral behaviour"
+        },
+        "romaji": "jama"
       },
       {
         "example": "妖邪",
         "reading": "ヨウジャ",
-        "meaning": "evil intent, malice"
+        "meaning": {
+          "en": "evil intent, malice"
+        },
+        "romaji": "youja"
       },
       {
         "example": "破邪",
         "reading": "ハジャ",
-        "meaning": "crushing evil, destroying heresy"
+        "meaning": {
+          "en": "crushing evil, destroying heresy"
+        },
+        "romaji": "haja"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "邪",
         "reading": "よこしま",
-        "meaning": "wicked, evil, wrong, bad"
+        "meaning": {
+          "en": "wicked, evil, wrong, bad"
+        },
+        "romaji": "yokoshima"
       },
       {
         "example": "邪まな心",
         "reading": "よこしまなこころ",
-        "meaning": "evil heart"
+        "meaning": {
+          "en": "evil heart"
+        },
+        "romaji": "yokoshimanakokoro"
       }
     ],
     "radical": {
@@ -317,5 +335,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90aa.gif",
     "uri": "https://jisho.org/search/%E9%82%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "da",
+    "tà",
+    "từ"
+  ]
 }

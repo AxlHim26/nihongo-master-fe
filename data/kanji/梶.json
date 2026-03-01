@@ -19,12 +19,18 @@
       {
         "example": "梶",
         "reading": "かじ",
-        "meaning": "paper mulberry (Broussonetia papyrifera)"
+        "meaning": {
+          "vi": "paper mulberry (Broussonetia papyrifera)"
+        },
+        "romaji": "kaji"
       },
       {
         "example": "舵",
         "reading": "かじ",
-        "meaning": "rudder, helm"
+        "meaning": {
+          "en": "rudder, helm"
+        },
+        "romaji": "kaji"
       }
     ],
     "radical": {
@@ -40,5 +46,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b6.gif",
     "uri": "https://jisho.org/search/%E6%A2%B6%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

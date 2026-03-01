@@ -16,12 +16,18 @@
       {
         "example": "追蹤",
         "reading": "ツイショウ",
-        "meaning": "chase, pursuit, tracking, stalking"
+        "meaning": {
+          "vi": "chase, pursuit, tracking, stalking"
+        },
+        "romaji": "tsuishou"
       },
       {
         "example": "先蹤",
         "reading": "センショウ",
-        "meaning": "traces of a predecessor's deeds, precedent"
+        "meaning": {
+          "vi": "traces of a predecessor's deeds, precedent"
+        },
+        "romaji": "senshou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e64.gif",
     "uri": "https://jisho.org/search/%E8%B9%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "tung"
+  ]
 }

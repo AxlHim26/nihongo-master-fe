@@ -267,44 +267,68 @@
       {
         "example": "舌圧子",
         "reading": "ゼツアツシ",
-        "meaning": "tongue depressor"
+        "meaning": {
+          "vi": "tongue depressor"
+        },
+        "romaji": "zetsuatsushi"
       },
       {
         "example": "舌咽神経",
         "reading": "ゼツインシンケイ",
-        "meaning": "glossopharyngeal nerve"
+        "meaning": {
+          "vi": "glossopharyngeal nerve"
+        },
+        "romaji": "zetsuinshinkei"
       },
       {
         "example": "饒舌",
         "reading": "ジョウゼツ",
-        "meaning": "talkativeness, garrulity, loquacity"
+        "meaning": {
+          "en": "talkativeness, garrulity, loquacity"
+        },
+        "romaji": "jouzetsu"
       },
       {
         "example": "後舌",
         "reading": "コウゼツ",
-        "meaning": "rear part of the tongue"
+        "meaning": {
+          "vi": "rear part of the tongue"
+        },
+        "romaji": "kouzetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "舌",
         "reading": "した",
-        "meaning": "tongue, tongue-like object, clapper (of a bell), talon (of a lock), reed (of a musical instrument)"
+        "meaning": {
+          "vi": "tongue, tongue-like object, clapper (of a bell), talon (of a lock), reed (of a musical instrument)"
+        },
+        "romaji": "shita"
       },
       {
         "example": "舌打ち",
         "reading": "したうち",
-        "meaning": "clicking one's tongue, tut-tut, smacking one's lips (with relish)"
+        "meaning": {
+          "vi": "clicking one's tongue, tut-tut, smacking one's lips (with relish)"
+        },
+        "romaji": "shitauchi"
       },
       {
         "example": "貧乏舌",
         "reading": "びんぼうじた",
-        "meaning": "being unable to discern good food from bad, poor person's taste (in food), unsophisticated palate"
+        "meaning": {
+          "vi": "being unable to discern good food from bad, poor person's taste (in food), unsophisticated palate"
+        },
+        "romaji": "binboujita"
       },
       {
         "example": "迎え舌",
         "reading": "むかえした",
-        "meaning": "sticking out one's tongue when putting food in one's mouth"
+        "meaning": {
+          "vi": "sticking out one's tongue when putting food in one's mouth"
+        },
+        "romaji": "mukaeshita"
       }
     ],
     "radical": {
@@ -319,5 +343,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0820c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/820c.gif",
     "uri": "https://jisho.org/search/%E8%88%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiệt"
+  ]
 }

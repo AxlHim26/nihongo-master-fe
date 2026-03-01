@@ -17,17 +17,26 @@
       {
         "example": "毘沙門天",
         "reading": "ビシャモンテン",
-        "meaning": "Vaisravana (guardian god of Buddhism)"
+        "meaning": {
+          "en": "Vaisravana (guardian god of Buddhism)"
+        },
+        "romaji": "bishamonten"
       },
       {
         "example": "毘盧遮那",
         "reading": "ビルシャナ",
-        "meaning": "Vairocana (Buddha who symbolizes the entirety of the phenomenological world)"
+        "meaning": {
+          "vi": "Vairocana (Buddha who symbolizes the entirety of the phenomenological world)"
+        },
+        "romaji": "birushana"
       },
       {
         "example": "荼毘",
         "reading": "ダビ",
-        "meaning": "cremation"
+        "meaning": {
+          "en": "cremation"
+        },
+        "romaji": "dabi"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +52,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bd8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bd8.gif",
     "uri": "https://jisho.org/search/%E6%AF%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "bì",
+    "tì",
+    "tỳ"
+  ]
 }

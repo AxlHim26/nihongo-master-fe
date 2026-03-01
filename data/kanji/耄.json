@@ -17,12 +17,18 @@
       {
         "example": "耄碌",
         "reading": "モウロク",
-        "meaning": "senility, dotage, decrepitude"
+        "meaning": {
+          "vi": "senility, dotage, decrepitude"
+        },
+        "romaji": "mouroku"
       },
       {
         "example": "老耄",
         "reading": "ロウモウ",
-        "meaning": "senility, dotage, decrepitude"
+        "meaning": {
+          "vi": "senility, dotage, decrepitude"
+        },
+        "romaji": "roumou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08004.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8004.gif",
     "uri": "https://jisho.org/search/%E8%80%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạo"
+  ]
 }

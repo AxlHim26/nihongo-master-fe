@@ -16,19 +16,28 @@
       {
         "example": "蜘蛛",
         "reading": "クモ",
-        "meaning": "spider"
+        "meaning": {
+          "vi": "spider"
+        },
+        "romaji": "kumo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蜘蛛",
         "reading": "くも",
-        "meaning": "spider"
+        "meaning": {
+          "vi": "spider"
+        },
+        "romaji": "kumo"
       },
       {
         "example": "くも貝",
         "reading": "くもがい",
-        "meaning": "spider conch (Lambis lambis)"
+        "meaning": {
+          "vi": "spider conch (Lambis lambis)"
+        },
+        "romaji": "kumogai"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08718.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8718.gif",
     "uri": "https://jisho.org/search/%E8%9C%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "tri"
+  ]
 }

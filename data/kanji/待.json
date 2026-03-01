@@ -14,7 +14,7 @@
         "japanese": "待機する（たいきする）",
         "meaning": {
           "english": "stand by",
-        "vietnamese": "sẵn sàng"
+          "vietnamese": "sẵn sàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "期待する（きたいする）",
         "meaning": {
           "english": "hope",
-        "vietnamese": "hy vọng"
+          "vietnamese": "hy vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "招待する（しょうたいする）",
         "meaning": {
           "english": "invite",
-        "vietnamese": "mời"
+          "vietnamese": "mời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "待つ（まつ）",
         "meaning": {
           "english": "wait",
-        "vietnamese": "đợi"
+          "vietnamese": "đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "待たせる（またせる）",
         "meaning": {
           "english": "keep (a person) waiting",
-        "vietnamese": "để ai đợi"
+          "vietnamese": "để ai đợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_e.opus",
@@ -79,7 +79,7 @@
         "japanese": "待ち合わせる（まちあわせる）",
         "meaning": {
           "english": "rendezvous",
-        "vietnamese": "hẹn gặp"
+          "vietnamese": "hẹn gặp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_f.opus",
@@ -92,7 +92,7 @@
         "japanese": "待合室（まちあいしつ）",
         "meaning": {
           "english": "waiting room",
-        "vietnamese": "phòng chờ"
+          "vietnamese": "phòng chờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ma(tsu)_06_g.opus",
@@ -314,7 +314,7 @@
       },
       "meaning": {
         "english": "step, stride, street, to go",
-      "vietnamese": "bước, đi"
+        "vietnamese": "bước, đi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -347,34 +347,52 @@
       {
         "example": "待遇",
         "reading": "タイグウ",
-        "meaning": "đối xử, tiếp đãi, phục vụ, điều kiện làm việc, lương"
+        "meaning": {
+          "vi": "đối xử, tiếp đãi, phục vụ, điều kiện làm việc, lương"
+        },
+        "romaji": "taiguu"
       },
       {
         "example": "待機",
         "reading": "タイキ",
-        "meaning": "sẵn sàng, chờ cơ hội, cảnh giác, cách ly"
+        "meaning": {
+          "vi": "sẵn sàng, chờ cơ hội, cảnh giác, cách ly"
+        },
+        "romaji": "taiki"
       },
       {
         "example": "歓待",
         "reading": "カンタイ",
-        "meaning": "đón tiếp nồng hậu, hiếu khách"
+        "meaning": {
+          "vi": "đón tiếp nồng hậu, hiếu khách"
+        },
+        "romaji": "kantai"
       },
       {
         "example": "優待",
         "reading": "ユウタイ",
-        "meaning": "ưu đãi, tiếp đãi nồng hậu"
+        "meaning": {
+          "vi": "ưu đãi, tiếp đãi nồng hậu"
+        },
+        "romaji": "yuutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "待つ",
         "reading": "まつ",
-        "meaning": "đợi, mong chờ, phụ thuộc vào"
+        "meaning": {
+          "vi": "đợi, mong chờ, phụ thuộc vào"
+        },
+        "romaji": "matsu"
       },
       {
         "example": "待つ身は長い",
         "reading": "まつみはながい",
-        "meaning": "càng trông càng lâu"
+        "meaning": {
+          "vi": "càng trông càng lâu"
+        },
+        "romaji": "matsumihanagai"
       }
     ],
     "radical": {
@@ -390,5 +408,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f85.gif",
     "uri": "https://jisho.org/search/%E5%BE%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "đãi"
+  ]
 }

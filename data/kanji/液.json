@@ -294,22 +294,34 @@
       {
         "example": "液",
         "reading": "エキ",
-        "meaning": "liquid, fluid"
+        "meaning": {
+          "en": "liquid, fluid"
+        },
+        "romaji": "eki"
       },
       {
         "example": "液化",
         "reading": "エキカ",
-        "meaning": "liquefaction"
+        "meaning": {
+          "en": "liquefaction"
+        },
+        "romaji": "ekika"
       },
       {
         "example": "乳液",
         "reading": "ニュウエキ",
-        "meaning": "latex (milky fluid found in plants), milky lotion (cosmetic), body milk"
+        "meaning": {
+          "vi": "latex (milky fluid found in plants), milky lotion (cosmetic), body milk"
+        },
+        "romaji": "nyuueki"
       },
       {
         "example": "体液",
         "reading": "タイエキ",
-        "meaning": "body fluid, semen"
+        "meaning": {
+          "en": "body fluid, semen"
+        },
+        "romaji": "taieki"
       }
     ],
     "kunyomiExamples": [],
@@ -333,5 +345,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06db2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6db2.gif",
     "uri": "https://jisho.org/search/%E6%B6%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch"
+  ]
 }

@@ -17,7 +17,10 @@
       {
         "example": "忝い",
         "reading": "かたじけない",
-        "meaning": "grateful, indebted"
+        "meaning": {
+          "en": "grateful, indebted"
+        },
+        "romaji": "katajikenai"
       }
     ],
     "radical": {
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fdd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fdd.gif",
     "uri": "https://jisho.org/search/%E5%BF%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiểm"
+  ]
 }

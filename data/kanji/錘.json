@@ -18,39 +18,60 @@
       {
         "example": "錘",
         "reading": "スイ",
-        "meaning": "counter for spindles, weight (for scales)"
+        "meaning": {
+          "vi": "counter for spindles, weight (for scales)"
+        },
+        "romaji": "sui"
       },
       {
         "example": "錘状",
         "reading": "スイジョウ",
-        "meaning": "spindle shaped"
+        "meaning": {
+          "vi": "spindle shaped"
+        },
+        "romaji": "suijou"
       },
       {
         "example": "平衡錘",
         "reading": "ヘイコウスイ",
-        "meaning": "counterweight, counterpoise"
+        "meaning": {
+          "vi": "counterweight, counterpoise"
+        },
+        "romaji": "heikousui"
       },
       {
         "example": "紡錘",
         "reading": "ボウスイ",
-        "meaning": "spindle"
+        "meaning": {
+          "vi": "spindle"
+        },
+        "romaji": "bousui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "紡錘",
         "reading": "ぼうすい",
-        "meaning": "spindle"
+        "meaning": {
+          "vi": "spindle"
+        },
+        "romaji": "bousui"
       },
       {
         "example": "錘形",
         "reading": "つむがた",
-        "meaning": "spindle-shaped, fusiform"
+        "meaning": {
+          "vi": "spindle-shaped, fusiform"
+        },
+        "romaji": "tsumugata"
       },
       {
         "example": "重り",
         "reading": "おもり",
-        "meaning": "weight, sinker"
+        "meaning": {
+          "en": "weight, sinker"
+        },
+        "romaji": "omori"
       }
     ],
     "radical": {
@@ -70,5 +91,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09318.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9318.gif",
     "uri": "https://jisho.org/search/%E9%8C%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuy",
+    "chuý",
+    "chuỳ"
+  ]
 }

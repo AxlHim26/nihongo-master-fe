@@ -300,44 +300,68 @@
       {
         "example": "梅雨",
         "reading": "ツユ",
-        "meaning": "(East Asian) rainy season (in Japan, usu. from early June to mid-July), rain during the rainy season"
+        "meaning": {
+          "vi": "(East Asian) rainy season (in Japan, usu. from early June to mid-July), rain during the rainy season"
+        },
+        "romaji": "tsuyu"
       },
       {
         "example": "梅雨前線",
         "reading": "バイウゼンセン",
-        "meaning": "seasonal rain front"
+        "meaning": {
+          "en": "seasonal rain front"
+        },
+        "romaji": "baiuzensen"
       },
       {
         "example": "松竹梅",
         "reading": "ショウチクバイ",
-        "meaning": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)"
+        "meaning": {
+          "vi": "pine, bamboo and plum (an auspicious grouping), high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)"
+        },
+        "romaji": "shouchikubai"
       },
       {
         "example": "紅梅",
         "reading": "コウバイ",
-        "meaning": "red-blossomed plum tree, red Japanese apricot"
+        "meaning": {
+          "vi": "red-blossomed plum tree, red Japanese apricot"
+        },
+        "romaji": "koubai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梅",
         "reading": "うめ",
-        "meaning": "Japanese apricot (Prunus mume), Japanese plum, ume, Chinese plum, lowest (of a three-tier ranking system)"
+        "meaning": {
+          "vi": "Japanese apricot (Prunus mume), Japanese plum, ume, Chinese plum, lowest (of a three-tier ranking system)"
+        },
+        "romaji": "ume"
       },
       {
         "example": "梅干し",
         "reading": "うめぼし",
-        "meaning": "umeboshi, pickled dried ume, pickled dried plum"
+        "meaning": {
+          "vi": "umeboshi, pickled dried ume, pickled dried plum"
+        },
+        "romaji": "umeboshi"
       },
       {
         "example": "青梅",
         "reading": "あおうめ",
-        "meaning": "unripe plum"
+        "meaning": {
+          "vi": "unripe plum"
+        },
+        "romaji": "aoume"
       },
       {
         "example": "紅梅",
         "reading": "こうばい",
-        "meaning": "red-blossomed plum tree, red Japanese apricot"
+        "meaning": {
+          "vi": "red-blossomed plum tree, red Japanese apricot"
+        },
+        "romaji": "koubai"
       }
     ],
     "radical": {
@@ -354,5 +378,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06885.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6885.gif",
     "uri": "https://jisho.org/search/%E6%A2%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "mai"
+  ]
 }

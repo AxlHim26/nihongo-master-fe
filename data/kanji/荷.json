@@ -325,44 +325,68 @@
       {
         "example": "荷",
         "reading": "カ",
-        "meaning": "đơn vị đếm gánh hàng"
+        "meaning": {
+          "vi": "đơn vị đếm gánh hàng"
+        },
+        "romaji": "ka"
       },
       {
         "example": "加担",
         "reading": "カタン",
-        "meaning": "ủng hộ, tham gia, hỗ trợ, đồng lõa"
+        "meaning": {
+          "vi": "ủng hộ, tham gia, hỗ trợ, đồng lõa"
+        },
+        "romaji": "katan"
       },
       {
         "example": "集荷",
         "reading": "シュウカ",
-        "meaning": "thu gom hàng, đặt chỗ hàng"
+        "meaning": {
+          "vi": "thu gom hàng, đặt chỗ hàng"
+        },
+        "romaji": "shuuka"
       },
       {
         "example": "電荷",
         "reading": "デンカ",
-        "meaning": "điện tích"
+        "meaning": {
+          "vi": "điện tích"
+        },
+        "romaji": "denka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "荷",
         "reading": "に",
-        "meaning": "hàng, hành lý, trách nhiệm"
+        "meaning": {
+          "vi": "hàng, hành lý, trách nhiệm"
+        },
+        "romaji": "ni"
       },
       {
         "example": "荷台",
         "reading": "にだい",
-        "meaning": "thùng xe, giá hành lý xe đạp"
+        "meaning": {
+          "vi": "thùng xe, giá hành lý xe đạp"
+        },
+        "romaji": "nidai"
       },
       {
         "example": "浮き荷",
         "reading": "うきに",
-        "meaning": "hàng trôi nổi"
+        "meaning": {
+          "vi": "hàng trôi nổi"
+        },
+        "romaji": "ukini"
       },
       {
         "example": "抜き荷",
         "reading": "ぬきに",
-        "meaning": "hàng ăn cắp"
+        "meaning": {
+          "vi": "hàng ăn cắp"
+        },
+        "romaji": "nukini"
       }
     ],
     "radical": {
@@ -383,5 +407,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08377.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8377.gif",
     "uri": "https://jisho.org/search/%E8%8D%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hà",
+    "hạ"
+  ]
 }

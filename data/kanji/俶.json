@@ -18,7 +18,10 @@
       {
         "example": "倜儻",
         "reading": "テキトウ",
-        "meaning": "being exceedingly wiser than the common man"
+        "meaning": {
+          "en": "being exceedingly wiser than the common man"
+        },
+        "romaji": "tekitou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff6.gif",
     "uri": "https://jisho.org/search/%E4%BF%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "thích",
+    "thục"
+  ]
 }

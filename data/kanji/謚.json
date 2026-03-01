@@ -17,19 +17,28 @@
       {
         "example": "諡",
         "reading": "シ",
-        "meaning": "posthumous name, posthumous title"
+        "meaning": {
+          "vi": "posthumous name, posthumous title"
+        },
+        "romaji": "shi"
       },
       {
         "example": "諡号",
         "reading": "シゴウ",
-        "meaning": "posthumous name (based the deeds one has performed in their lifetime)"
+        "meaning": {
+          "vi": "posthumous name (based the deeds one has performed in their lifetime)"
+        },
+        "romaji": "shigou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "贈り名",
         "reading": "おくりな",
-        "meaning": "posthumous name, posthumous title"
+        "meaning": {
+          "vi": "posthumous name, posthumous title"
+        },
+        "romaji": "okurina"
       }
     ],
     "radical": {
@@ -48,5 +57,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b1a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b1a.gif",
     "uri": "https://jisho.org/search/%E8%AC%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuỵ",
+    "tự",
+    "Ích",
+    "ích"
+  ]
 }

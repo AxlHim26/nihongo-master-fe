@@ -326,22 +326,34 @@
       {
         "example": "隊",
         "reading": "タイ",
-        "meaning": "party, group, crew, team, body, company (of troops), corps, unit, squad"
+        "meaning": {
+          "vi": "party, group, crew, team, body, company (of troops), corps, unit, squad"
+        },
+        "romaji": "tai"
       },
       {
         "example": "隊員",
         "reading": "タイイン",
-        "meaning": "troops, group members, team members"
+        "meaning": {
+          "vi": "troops, group members, team members"
+        },
+        "romaji": "taiin"
       },
       {
         "example": "陸上自衛隊",
         "reading": "リクジョウジエイタイ",
-        "meaning": "Japan Ground Self-Defense Force, JGSDF"
+        "meaning": {
+          "vi": "Japan Ground Self-Defense Force, JGSDF"
+        },
+        "romaji": "rikujoujieitai"
       },
       {
         "example": "航空自衛隊",
         "reading": "コウクウジエイタイ",
-        "meaning": "Japan Air Self-Defense Force, JASDF"
+        "meaning": {
+          "vi": "Japan Air Self-Defense Force, JASDF"
+        },
+        "romaji": "koukuujieitai"
       }
     ],
     "kunyomiExamples": [],
@@ -361,5 +373,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968a.gif",
     "uri": "https://jisho.org/search/%E9%9A%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "toại",
+    "truỵ",
+    "đội"
+  ]
 }

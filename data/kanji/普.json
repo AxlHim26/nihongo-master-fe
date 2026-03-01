@@ -254,19 +254,28 @@
       {
         "example": "普",
         "reading": "フ",
-        "meaning": "ordinary bank account"
+        "meaning": {
+          "en": "ordinary bank account"
+        },
+        "romaji": "fu"
       },
       {
         "example": "普及",
         "reading": "フキュウ",
-        "meaning": "diffusion, spread, popularization, promulgation, familiarization"
+        "meaning": {
+          "vi": "diffusion, spread, popularization, promulgation, familiarization"
+        },
+        "romaji": "fukyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "遍く",
         "reading": "あまねく",
-        "meaning": "widely, extensively, far and wide, everywhere, all around, generally, universally"
+        "meaning": {
+          "en": "widely, extensively, far and wide, everywhere, all around, generally, universally"
+        },
+        "romaji": "amaneku"
       }
     ],
     "radical": {
@@ -284,5 +293,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0666e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/666e.gif",
     "uri": "https://jisho.org/search/%E6%99%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phổ"
+  ]
 }

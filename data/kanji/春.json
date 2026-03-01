@@ -280,44 +280,68 @@
       {
         "example": "春秋",
         "reading": "シュンジュウ",
-        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        "meaning": {
+          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        },
+        "romaji": "shunjuu"
       },
       {
         "example": "春季",
         "reading": "シュンキ",
-        "meaning": "spring season"
+        "meaning": {
+          "vi": "spring season"
+        },
+        "romaji": "shunki"
       },
       {
         "example": "昨春",
         "reading": "サクシュン",
-        "meaning": "last spring, the spring of last year"
+        "meaning": {
+          "vi": "last spring, the spring of last year"
+        },
+        "romaji": "sakushun"
       },
       {
         "example": "売春",
         "reading": "バイシュン",
-        "meaning": "prostitution"
+        "meaning": {
+          "vi": "prostitution"
+        },
+        "romaji": "baishun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "春",
         "reading": "はる",
-        "meaning": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire"
+        "meaning": {
+          "vi": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire"
+        },
+        "romaji": "haru"
       },
       {
         "example": "春秋",
         "reading": "しゅんじゅう",
-        "meaning": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        "meaning": {
+          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+        },
+        "romaji": "shunjuu"
       },
       {
         "example": "小春",
         "reading": "こはる",
-        "meaning": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"
+        "meaning": {
+          "vi": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"
+        },
+        "romaji": "koharu"
       },
       {
         "example": "毎春",
         "reading": "まいしゅん",
-        "meaning": "every spring"
+        "meaning": {
+          "vi": "every spring"
+        },
+        "romaji": "maishun"
       }
     ],
     "radical": {
@@ -335,5 +359,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06625.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6625.gif",
     "uri": "https://jisho.org/search/%E6%98%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "xuân"
+  ]
 }

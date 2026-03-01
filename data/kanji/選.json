@@ -348,44 +348,68 @@
       {
         "example": "選",
         "reading": "セン",
-        "meaning": "selection, choice, choosing, picking, election"
+        "meaning": {
+          "vi": "selection, choice, choosing, picking, election"
+        },
+        "romaji": "sen"
       },
       {
         "example": "選挙",
         "reading": "センキョ",
-        "meaning": "election"
+        "meaning": {
+          "en": "election"
+        },
+        "romaji": "senkyo"
       },
       {
         "example": "抽選",
         "reading": "チュウセン",
-        "meaning": "lottery, raffle, drawing (of lots)"
+        "meaning": {
+          "en": "lottery, raffle, drawing (of lots)"
+        },
+        "romaji": "chuusen"
       },
       {
         "example": "公選",
         "reading": "コウセン",
-        "meaning": "public election, election by popular vote"
+        "meaning": {
+          "vi": "public election, election by popular vote"
+        },
+        "romaji": "kousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "選ぶ",
         "reading": "えらぶ",
-        "meaning": "to choose, to select"
+        "meaning": {
+          "en": "to choose, to select"
+        },
+        "romaji": "erabu"
       },
       {
         "example": "選ぶところがない",
         "reading": "えらぶところがない",
-        "meaning": "being the same thing (as), being indistinguishable (from)"
+        "meaning": {
+          "en": "being the same thing (as), being indistinguishable (from)"
+        },
+        "romaji": "erabutokoroganai"
       },
       {
         "example": "選る",
         "reading": "よる",
-        "meaning": "to choose, to select, to pick out"
+        "meaning": {
+          "vi": "to choose, to select, to pick out"
+        },
+        "romaji": "yoru"
       },
       {
         "example": "選る",
         "reading": "よる",
-        "meaning": "to choose, to select, to pick out"
+        "meaning": {
+          "vi": "to choose, to select, to pick out"
+        },
+        "romaji": "yoru"
       }
     ],
     "radical": {
@@ -408,5 +432,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09078.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9078.gif",
     "uri": "https://jisho.org/search/%E9%81%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "soát",
+    "toán",
+    "toản",
+    "tuyến",
+    "tuyển"
+  ]
 }

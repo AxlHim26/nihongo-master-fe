@@ -21,19 +21,28 @@
       {
         "example": "湛水",
         "reading": "タンスイ",
-        "meaning": "flooding, filling, inundation, submerging, clogging"
+        "meaning": {
+          "en": "flooding, filling, inundation, submerging, clogging"
+        },
+        "romaji": "tansui"
       },
       {
         "example": "湛然",
         "reading": "タンゼン",
-        "meaning": "still and full of water, quiet and unmoving"
+        "meaning": {
+          "en": "still and full of water, quiet and unmoving"
+        },
+        "romaji": "tanzen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "湛える",
         "reading": "たたえる",
-        "meaning": "to fill (with), to be filled with, to express (an emotion), to project (sadness, joy, etc.), to wear (e.g. a smile)"
+        "meaning": {
+          "vi": "to fill (with), to be filled with, to express (an emotion), to project (sadness, joy, etc.), to wear (e.g. a smile)"
+        },
+        "romaji": "tataeru"
       }
     ],
     "radical": {
@@ -56,5 +65,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e5b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e5b.gif",
     "uri": "https://jisho.org/search/%E6%B9%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thầm",
+    "tiêm",
+    "trạm",
+    "trầm",
+    "đam"
+  ]
 }

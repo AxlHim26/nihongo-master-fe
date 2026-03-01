@@ -311,44 +311,68 @@
       {
         "example": "札",
         "reading": "サツ",
-        "meaning": "banknote, bill, note, paper money"
+        "meaning": {
+          "vi": "banknote, bill, note, paper money"
+        },
+        "romaji": "satsu"
       },
       {
         "example": "札束",
         "reading": "サツタバ",
-        "meaning": "bundle of banknotes, stack of bills, large sum of money"
+        "meaning": {
+          "en": "bundle of banknotes, stack of bills, large sum of money"
+        },
+        "romaji": "satsutaba"
       },
       {
         "example": "落札",
         "reading": "ラクサツ",
-        "meaning": "successful bid, winning a tender"
+        "meaning": {
+          "en": "successful bid, winning a tender"
+        },
+        "romaji": "rakusatsu"
       },
       {
         "example": "応札",
         "reading": "オウサツ",
-        "meaning": "making a bid, tendering a bid"
+        "meaning": {
+          "en": "making a bid, tendering a bid"
+        },
+        "romaji": "ousatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "札",
         "reading": "ふだ",
-        "meaning": "ticket, token, check, receipt, label, tag, sign, card, plate, playing card, charm, talisman, slip of paper posted on shrine pillars by pilgrims"
+        "meaning": {
+          "vi": "ticket, token, check, receipt, label, tag, sign, card, plate, playing card, charm, talisman, slip of paper posted on shrine pillars by pilgrims"
+        },
+        "romaji": "fuda"
       },
       {
         "example": "札所",
         "reading": "ふだしょ",
-        "meaning": "temple which issues amulets"
+        "meaning": {
+          "vi": "temple which issues amulets"
+        },
+        "romaji": "fudasho"
       },
       {
         "example": "立て札",
         "reading": "たてふだ",
-        "meaning": "sign on a post (usu. wooden and with a small roof, containing information about a sight, warning, congratulations, etc.), public notice, bulletin board, notice board"
+        "meaning": {
+          "vi": "sign on a post (usu. wooden and with a small roof, containing information about a sight, warning, congratulations, etc.), public notice, bulletin board, notice board"
+        },
+        "romaji": "tatefuda"
       },
       {
         "example": "合札",
         "reading": "あいふだ",
-        "meaning": "check (e.g. baggage claim), tag, token, tally, score"
+        "meaning": {
+          "en": "check (e.g. baggage claim), tag, token, tally, score"
+        },
+        "romaji": "aifuda"
       }
     ],
     "radical": {
@@ -363,5 +387,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672d.gif",
     "uri": "https://jisho.org/search/%E6%9C%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "trát"
+  ]
 }

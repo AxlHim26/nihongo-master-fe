@@ -18,37 +18,58 @@
       {
         "example": "嫡出",
         "reading": "チャクシュツ",
-        "meaning": "legitimate birth"
+        "meaning": {
+          "en": "legitimate birth"
+        },
+        "romaji": "chakushutsu"
       },
       {
         "example": "嫡子",
         "reading": "チャクシ",
-        "meaning": "heir, legitimate child"
+        "meaning": {
+          "en": "heir, legitimate child"
+        },
+        "romaji": "chakushi"
       },
       {
         "example": "正嫡",
         "reading": "セイチャク",
-        "meaning": "legal wife, her child, main family"
+        "meaning": {
+          "en": "legal wife, her child, main family"
+        },
+        "romaji": "seichaku"
       },
       {
         "example": "廃嫡",
         "reading": "ハイチャク",
-        "meaning": "disinheritance"
+        "meaning": {
+          "en": "disinheritance"
+        },
+        "romaji": "haichaku"
       },
       {
         "example": "嫡出",
         "reading": "チャクシュツ",
-        "meaning": "legitimate birth"
+        "meaning": {
+          "en": "legitimate birth"
+        },
+        "romaji": "chakushutsu"
       },
       {
         "example": "嫡出子",
         "reading": "チャクシュツシ",
-        "meaning": "legitimate child"
+        "meaning": {
+          "en": "legitimate child"
+        },
+        "romaji": "chakushutsushi"
       },
       {
         "example": "正嫡",
         "reading": "セイチャク",
-        "meaning": "legal wife, her child, main family"
+        "meaning": {
+          "en": "legal wife, her child, main family"
+        },
+        "romaji": "seichaku"
       }
     ],
     "kunyomiExamples": [],
@@ -70,5 +91,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ae1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ae1.gif",
     "uri": "https://jisho.org/search/%E5%AB%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "đích"
+  ]
 }

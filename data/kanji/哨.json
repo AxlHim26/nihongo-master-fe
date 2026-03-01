@@ -17,22 +17,34 @@
       {
         "example": "哨戒",
         "reading": "ショウカイ",
-        "meaning": "patrol (with ships or aircraft), patrolling"
+        "meaning": {
+          "vi": "patrol (with ships or aircraft), patrolling"
+        },
+        "romaji": "shoukai"
       },
       {
         "example": "哨戒艦艇",
         "reading": "ショウカイカンテイ",
-        "meaning": "military patrol boat"
+        "meaning": {
+          "vi": "military patrol boat"
+        },
+        "romaji": "shoukaikantei"
       },
       {
         "example": "監視哨",
         "reading": "カンシショウ",
-        "meaning": "observation post"
+        "meaning": {
+          "vi": "observation post"
+        },
+        "romaji": "kanshishou"
       },
       {
         "example": "立哨",
         "reading": "リッショウ",
-        "meaning": "keeping watch, standing guard"
+        "meaning": {
+          "vi": "keeping watch, standing guard"
+        },
+        "romaji": "risshou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54e8.gif",
     "uri": "https://jisho.org/search/%E5%93%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "sáo",
+    "tiêu",
+    "tiếu"
+  ]
 }

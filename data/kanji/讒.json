@@ -17,12 +17,18 @@
       {
         "example": "讒",
         "reading": "ザン",
-        "meaning": "false charge, slander, defamation"
+        "meaning": {
+          "en": "false charge, slander, defamation"
+        },
+        "romaji": "zan"
       },
       {
         "example": "讒言",
         "reading": "ザンゲン",
-        "meaning": "false charge, slander, defamation"
+        "meaning": {
+          "en": "false charge, slander, defamation"
+        },
+        "romaji": "zangen"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b92.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b92.gif",
     "uri": "https://jisho.org/search/%E8%AE%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "sàm"
+  ]
 }

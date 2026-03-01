@@ -14,7 +14,7 @@
         "japanese": "保険（ほけん）",
         "meaning": {
           "english": "insurance",
-        "vietnamese": "bảo hiểm"
+          "vietnamese": "bảo hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "保護者（ほごしゃ）",
         "meaning": {
           "english": "guardian",
-        "vietnamese": "người giám hộ"
+          "vietnamese": "người giám hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "保育園（ほいくえん）",
         "meaning": {
           "english": "nursery school",
-        "vietnamese": "trường mẫu giáo"
+          "vietnamese": "trường mẫu giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "保証する（ほしょうする）",
         "meaning": {
           "english": "guarantee",
-        "vietnamese": "bảo đảm"
+          "vietnamese": "bảo đảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "保護する（ほごする）",
         "meaning": {
           "english": "shelter, protect",
-        "vietnamese": "che chở, bảo vệ"
+          "vietnamese": "che chở, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_e.opus",
@@ -79,7 +79,7 @@
         "japanese": "保有する（ほゆうする）",
         "meaning": {
           "english": "possess",
-        "vietnamese": "sở hữu"
+          "vietnamese": "sở hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_f.opus",
@@ -92,7 +92,7 @@
         "japanese": "保存する（ほぞんする）",
         "meaning": {
           "english": "preserve, store",
-        "vietnamese": "bảo tồn, lưu trữ"
+          "vietnamese": "bảo tồn, lưu trữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_g.opus",
@@ -105,7 +105,7 @@
         "japanese": "保管する（ほかんする）",
         "meaning": {
           "english": "deposit, store",
-        "vietnamese": "gửi tiền, lưu trữ"
+          "vietnamese": "gửi tiền, lưu trữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_h.opus",
@@ -118,7 +118,7 @@
         "japanese": "保つ（たもつ）",
         "meaning": {
           "english": "keep, retain, maintain",
-        "vietnamese": "giữ, duy trì"
+          "vietnamese": "giữ, duy trì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tamo(tsu)_06_i.opus",
@@ -228,7 +228,7 @@
       "character": "保",
       "meaning": {
         "english": "preserve",
-      "vietnamese": "bảo tồn"
+        "vietnamese": "bảo tồn"
       },
       "strokes": {
         "count": 9,
@@ -285,7 +285,7 @@
       },
       "meaning": {
         "english": "person ",
-      "vietnamese": "người"
+        "vietnamese": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -318,49 +318,76 @@
       {
         "example": "保育",
         "reading": "ホイク",
-        "meaning": "nuôi dưỡng, chăm sóc trẻ, nhà trẻ"
+        "meaning": {
+          "vi": "nuôi dưỡng, chăm sóc trẻ, nhà trẻ"
+        },
+        "romaji": "hoiku"
       },
       {
         "example": "保安",
         "reading": "ホアン",
-        "meaning": "giữ gìn an ninh, an toàn"
+        "meaning": {
+          "vi": "giữ gìn an ninh, an toàn"
+        },
+        "romaji": "hoan"
       },
       {
         "example": "留保",
         "reading": "リュウホ",
-        "meaning": "dự trữ, giữ lại"
+        "meaning": {
+          "vi": "dự trữ, giữ lại"
+        },
+        "romaji": "ryuuho"
       },
       {
         "example": "生保",
         "reading": "セイホ",
-        "meaning": "bảo hiểm nhân thọ, trợ cấp xã hội"
+        "meaning": {
+          "vi": "bảo hiểm nhân thọ, trợ cấp xã hội"
+        },
+        "romaji": "seiho"
       },
       {
         "example": "保する",
         "reading": "ホスル",
-        "meaning": "bảo đảm"
+        "meaning": {
+          "vi": "bảo đảm"
+        },
+        "romaji": "hosuru"
       },
       {
         "example": "保安",
         "reading": "ホウアン",
-        "meaning": "Niên hiệu Hōan (1120-1124)"
+        "meaning": {
+          "vi": "Niên hiệu Hōan (1120-1124)"
+        },
+        "romaji": "houan"
       },
       {
         "example": "永保",
         "reading": "エイホウ",
-        "meaning": "Niên hiệu Eihō (1081-1084)"
+        "meaning": {
+          "vi": "Niên hiệu Eihō (1081-1084)"
+        },
+        "romaji": "eihou"
       },
       {
         "example": "太保",
         "reading": "タイホウ",
-        "meaning": "Đại Bảo (chức quan Chu), Thị lang (Nara, Heian)"
+        "meaning": {
+          "vi": "Đại Bảo (chức quan Chu), Thị lang (Nara, Heian)"
+        },
+        "romaji": "taihou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "保つ",
         "reading": "たもつ",
-        "meaning": "giữ, bảo tồn, duy trì, bền"
+        "meaning": {
+          "vi": "giữ, bảo tồn, duy trì, bền"
+        },
+        "romaji": "tamotsu"
       }
     ],
     "radical": {
@@ -379,5 +406,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fdd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fdd.gif",
     "uri": "https://jisho.org/search/%E4%BF%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bảo"
+  ]
 }

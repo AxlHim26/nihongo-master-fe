@@ -19,17 +19,26 @@
       {
         "example": "狢",
         "reading": "むじな",
-        "meaning": "badger, raccoon dog (Nyctereutes procyonoides)"
+        "meaning": {
+          "vi": "badger, raccoon dog (Nyctereutes procyonoides)"
+        },
+        "romaji": "mujina"
       },
       {
         "example": "狢藻",
         "reading": "むじなも",
-        "meaning": "waterwheel plant (Aldrovanda vesiculosa)"
+        "meaning": {
+          "vi": "waterwheel plant (Aldrovanda vesiculosa)"
+        },
+        "romaji": "mujinamo"
       },
       {
         "example": "一つ穴のむじな",
         "reading": "ひとつあなのむじな",
-        "meaning": "gang, group"
+        "meaning": {
+          "vi": "gang, group"
+        },
+        "romaji": "hitotsuananomujina"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72e2.gif",
     "uri": "https://jisho.org/search/%E7%8B%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạc"
+  ]
 }

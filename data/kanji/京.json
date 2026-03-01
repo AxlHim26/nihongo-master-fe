@@ -327,59 +327,92 @@
       {
         "example": "京",
         "reading": "キョウ",
-        "meaning": "kinh đô (đặc biệt là Kyoto), từ cuối cùng trong bài thơ iroha, 10^16, mười triệu tỷ"
+        "meaning": {
+          "vi": "kinh đô (đặc biệt là Kyoto), từ cuối cùng trong bài thơ iroha, 10^16, mười triệu tỷ"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "京都",
         "reading": "キョウト",
-        "meaning": "Kyoto (thành phố, tỉnh)"
+        "meaning": {
+          "vi": "Kyoto (thành phố, tỉnh)"
+        },
+        "romaji": "kyouto"
       },
       {
         "example": "中京",
         "reading": "チュウキョウ",
-        "meaning": "Nagoya"
+        "meaning": {
+          "en": "Nagoya"
+        },
+        "romaji": "chuukyou"
       },
       {
         "example": "在京",
         "reading": "ザイキョウ",
-        "meaning": "ở thủ đô (tức Tokyo, hoặc trước đây là Kyoto)"
+        "meaning": {
+          "vi": "ở thủ đô (tức Tokyo, hoặc trước đây là Kyoto)"
+        },
+        "romaji": "zaikyou"
       },
       {
         "example": "京",
         "reading": "キョウ",
-        "meaning": "kinh đô (đặc biệt là Kyoto), từ cuối cùng trong bài thơ iroha, 10^16, mười triệu tỷ"
+        "meaning": {
+          "vi": "kinh đô (đặc biệt là Kyoto), từ cuối cùng trong bài thơ iroha, 10^16, mười triệu tỷ"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "京阪",
         "reading": "ケイハン",
-        "meaning": "Kyoto và Osaka, vùng Kyoto-Osaka"
+        "meaning": {
+          "vi": "Kyoto và Osaka, vùng Kyoto-Osaka"
+        },
+        "romaji": "keihan"
       },
       {
         "example": "英京",
         "reading": "エイキョウ",
-        "meaning": "thủ đô Anh, London"
+        "meaning": {
+          "vi": "thủ đô Anh, London"
+        },
+        "romaji": "eikyou"
       },
       {
         "example": "キン族",
         "reading": "キンゾク",
-        "meaning": "người Kinh, người Việt Nam"
+        "meaning": {
+          "vi": "người Kinh, người Việt Nam"
+        },
+        "romaji": "kinzoku"
       },
       {
         "example": "南京",
         "reading": "ナンキン",
-        "meaning": "Nam Kinh (Trung Quốc), bí đỏ, bí ngô, Trung Quốc, Đông Nam Á, nước ngoài, hiếm, quý, dễ thương"
+        "meaning": {
+          "vi": "Nam Kinh (Trung Quốc), bí đỏ, bí ngô, Trung Quốc, Đông Nam Á, nước ngoài, hiếm, quý, dễ thương"
+        },
+        "romaji": "nankin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "都",
         "reading": "みやこ",
-        "meaning": "thủ đô (đặc biệt là Kyoto, cố đô Nhật Bản), trụ sở chính phủ, thủ phủ (của âm nhạc, thời trang, v.v.), thành phố (ví dụ thành phố ánh sáng), vị trí của Hoàng cung"
+        "meaning": {
+          "vi": "thủ đô (đặc biệt là Kyoto, cố đô Nhật Bản), trụ sở chính phủ, thủ phủ (của âm nhạc, thời trang, v.v.), thành phố (ví dụ thành phố ánh sáng), vị trí của Hoàng cung"
+        },
+        "romaji": "miyako"
       },
       {
         "example": "長岡京",
         "reading": "ながおかきょう",
-        "meaning": "Nagaoka-kyō (thủ đô Nhật Bản 784-794), Nagaokakyō (thành phố)"
+        "meaning": {
+          "vi": "Nagaoka-kyō (thủ đô Nhật Bản 784-794), Nagaokakyō (thành phố)"
+        },
+        "romaji": "nagaokakyou"
       }
     ],
     "radical": {
@@ -395,5 +428,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eac.gif",
     "uri": "https://jisho.org/search/%E4%BA%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "kinh",
+    "nguyên"
+  ]
 }

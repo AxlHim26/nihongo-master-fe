@@ -335,44 +335,68 @@
       {
         "example": "想",
         "reading": "ソウ",
-        "meaning": "khái niệm, ý tưởng, suy nghĩ, tri giác"
+        "meaning": {
+          "vi": "khái niệm, ý tưởng, suy nghĩ, tri giác"
+        },
+        "romaji": "sou"
       },
       {
         "example": "想像",
         "reading": "ソウゾウ",
-        "meaning": "trí tưởng tượng, giả định, đoán"
+        "meaning": {
+          "vi": "trí tưởng tượng, giả định, đoán"
+        },
+        "romaji": "souzou"
       },
       {
         "example": "追想",
         "reading": "ツイソウ",
-        "meaning": "hồi tưởng, ký ức"
+        "meaning": {
+          "vi": "hồi tưởng, ký ức"
+        },
+        "romaji": "tsuisou"
       },
       {
         "example": "お愛想",
         "reading": "オアイソ",
-        "meaning": "lời khen, lịch sự, nịnh, hiếu khách, đãi ngộ đặc biệt, giải trí, hóa đơn (nhà hàng)"
+        "meaning": {
+          "vi": "lời khen, lịch sự, nịnh, hiếu khách, đãi ngộ đặc biệt, giải trí, hóa đơn (nhà hàng)"
+        },
+        "romaji": "oaiso"
       },
       {
         "example": "想",
         "reading": "ソウ",
-        "meaning": "khái niệm, ý tưởng, suy nghĩ, tri giác"
+        "meaning": {
+          "vi": "khái niệm, ý tưởng, suy nghĩ, tri giác"
+        },
+        "romaji": "sou"
       },
       {
         "example": "想像",
         "reading": "ソウゾウ",
-        "meaning": "trí tưởng tượng, giả định, đoán"
+        "meaning": {
+          "vi": "trí tưởng tượng, giả định, đoán"
+        },
+        "romaji": "souzou"
       },
       {
         "example": "お愛想",
         "reading": "オアイソ",
-        "meaning": "lời khen, lịch sự, nịnh, hiếu khách, đãi ngộ đặc biệt, giải trí, hóa đơn (nhà hàng)"
+        "meaning": {
+          "vi": "lời khen, lịch sự, nịnh, hiếu khách, đãi ngộ đặc biệt, giải trí, hóa đơn (nhà hàng)"
+        },
+        "romaji": "oaiso"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "思う",
         "reading": "おもう",
-        "meaning": "nghĩ, cân nhắc, tin, tính, có ý (làm), lên kế hoạch, đánh giá, coi là, tưởng tượng, mong đợi, cảm thấy, mong muốn, quan tâm, lo lắng, yêu, nhớ lại"
+        "meaning": {
+          "vi": "nghĩ, cân nhắc, tin, tính, có ý (làm), lên kế hoạch, đánh giá, coi là, tưởng tượng, mong đợi, cảm thấy, mong muốn, quan tâm, lo lắng, yêu, nhớ lại"
+        },
+        "romaji": "omou"
       }
     ],
     "radical": {
@@ -392,5 +416,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60f3.gif",
     "uri": "https://jisho.org/search/%E6%83%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tưởng"
+  ]
 }

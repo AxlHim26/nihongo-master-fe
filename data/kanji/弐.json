@@ -20,34 +20,52 @@
       {
         "example": "二",
         "reading": "ニ",
-        "meaning": "two, 2"
+        "meaning": {
+          "en": "two, 2"
+        },
+        "romaji": "ni"
       },
       {
         "example": "２０",
         "reading": "ニジュウ",
-        "meaning": "twenty, 20"
+        "meaning": {
+          "en": "twenty, 20"
+        },
+        "romaji": "nijuu"
       },
       {
         "example": "二心",
         "reading": "フタゴコロ",
-        "meaning": "duplicity, treachery, double-dealing"
+        "meaning": {
+          "vi": "duplicity, treachery, double-dealing"
+        },
+        "romaji": "futagokoro"
       },
       {
         "example": "疑弐",
         "reading": "ギジ",
-        "meaning": "doubt, distrust, disobedience"
+        "meaning": {
+          "en": "doubt, distrust, disobedience"
+        },
+        "romaji": "giji"
       },
       {
         "example": "副弐",
         "reading": "フクジ",
-        "meaning": "secondary (thing), backup"
+        "meaning": {
+          "vi": "secondary (thing), backup"
+        },
+        "romaji": "fukuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "弐つ",
         "reading": "ふたつ",
-        "meaning": "two"
+        "meaning": {
+          "en": "two"
+        },
+        "romaji": "futatsu"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f10.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f10.gif",
     "uri": "https://jisho.org/search/%E5%BC%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhị"
+  ]
 }

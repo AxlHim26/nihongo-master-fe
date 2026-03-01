@@ -18,49 +18,74 @@
       {
         "example": "鞭撻",
         "reading": "ベンタツ",
-        "meaning": "encouragement, urging, spurring on, chastising by whipping"
+        "meaning": {
+          "vi": "encouragement, urging, spurring on, chastising by whipping"
+        },
+        "romaji": "bentatsu"
       },
       {
         "example": "鞭毛",
         "reading": "ベンモウ",
-        "meaning": "flagellum"
+        "meaning": {
+          "en": "flagellum"
+        },
+        "romaji": "benmou"
       },
       {
         "example": "先鞭",
         "reading": "センベン",
-        "meaning": "initiative, pioneering"
+        "meaning": {
+          "vi": "initiative, pioneering"
+        },
+        "romaji": "senben"
       },
       {
         "example": "教鞭",
         "reading": "キョウベン",
-        "meaning": "teacher's cane, teacher's pointer"
+        "meaning": {
+          "vi": "teacher's cane, teacher's pointer"
+        },
+        "romaji": "kyouben"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鞭",
         "reading": "むち",
-        "meaning": "whip, lash, scourge, stick, cane, rod, pointer"
+        "meaning": {
+          "vi": "whip, lash, scourge, stick, cane, rod, pointer"
+        },
+        "romaji": "muchi"
       },
       {
         "example": "鞭入れ",
         "reading": "むちいれ",
-        "meaning": "whipping, using the whip"
+        "meaning": {
+          "vi": "whipping, using the whip"
+        },
+        "romaji": "muchiire"
       },
       {
         "example": "枝鞭",
         "reading": "えだむち",
-        "meaning": "birch rod"
+        "meaning": {
+          "en": "birch rod"
+        },
+        "romaji": "edamuchi"
       },
       {
         "example": "【アメとムチ】",
         "reading": "carrot and stick, candy and whip",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "carrot and stick, candy and whip"
       },
       {
         "example": "鞭打つ",
         "reading": "むちうつ",
-        "meaning": "to whip, to lash, to give the rod, to spur on, to encourage"
+        "meaning": {
+          "vi": "to whip, to lash, to give the rod, to spur on, to encourage"
+        },
+        "romaji": "muchiutsu"
       }
     ],
     "radical": {
@@ -79,5 +104,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ad.gif",
     "uri": "https://jisho.org/search/%E9%9E%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiên"
+  ]
 }

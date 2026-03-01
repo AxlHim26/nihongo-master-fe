@@ -337,74 +337,116 @@
       {
         "example": "取",
         "reading": "シュ",
-        "meaning": "appropriation, obtaining"
+        "meaning": {
+          "vi": "appropriation, obtaining"
+        },
+        "romaji": "shu"
       },
       {
         "example": "取材",
         "reading": "シュザイ",
-        "meaning": "gathering material (for an article, novel, etc.), collecting information, covering (an event, incident, etc.), reporting, interview (for a news story)"
+        "meaning": {
+          "vi": "gathering material (for an article, novel, etc.), collecting information, covering (an event, incident, etc.), reporting, interview (for a news story)"
+        },
+        "romaji": "shuzai"
       },
       {
         "example": "先取",
         "reading": "センシュ",
-        "meaning": "earning the first (runs), preoccupation"
+        "meaning": {
+          "vi": "earning the first (runs), preoccupation"
+        },
+        "romaji": "senshu"
       },
       {
         "example": "聴取",
         "reading": "チョウシュ",
-        "meaning": "hearing (of a statement, opinion, explanation, etc.), asking, questioning (e.g. a suspect), enquiry, listening (e.g. to the radio)"
+        "meaning": {
+          "vi": "hearing (of a statement, opinion, explanation, etc.), asking, questioning (e.g. a suspect), enquiry, listening (e.g. to the radio)"
+        },
+        "romaji": "choushu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "取る",
         "reading": "とる",
-        "meaning": "to take, to pick up, to grab, to catch, to hold, to pass, to hand, to give, to get, to obtain, to acquire, to win, to receive, to earn, to take (e.g. a vacation), to adopt (a method, proposal, etc.), to take (a measure, attitude, etc.), to choose, to remove, to get rid of, to take off, to take away, to steal, to rob, to eat, to have (e.g. lunch), to take (e.g. vitamins), to pick (e.g. flowers), to gather, to extract (e.g. juice), to catch (e.g. fish), to harvest (a crop), to take up (time, space), to occupy, to spare, to set aside, to secure, to reserve, to save, to put aside, to keep, to take (e.g. a joke), to interpret, to understand, to make out, to grasp, to record, to take down, to subscribe to (e.g. a newspaper), to take, to buy, to get, to order, to have delivered, to charge, to fine, to take (tax), to take (e.g. a wife), to take on (e.g. an apprentice), to adopt, to accept, to take control of, to take (the rudder), to compete (in sumo, cards, etc.), to play"
+        "meaning": {
+          "vi": "to take, to pick up, to grab, to catch, to hold, to pass, to hand, to give, to get, to obtain, to acquire, to win, to receive, to earn, to take (e.g. a vacation), to adopt (a method, proposal, etc.), to take (a measure, attitude, etc.), to choose, to remove, to get rid of, to take off, to take away, to steal, to rob, to eat, to have (e.g. lunch), to take (e.g. vitamins), to pick (e.g. flowers), to gather, to extract (e.g. juice), to catch (e.g. fish), to harvest (a crop), to take up (time, space), to occupy, to spare, to set aside, to secure, to reserve, to save, to put aside, to keep, to take (e.g. a joke), to interpret, to understand, to make out, to grasp, to record, to take down, to subscribe to (e.g. a newspaper), to take, to buy, to get, to order, to have delivered, to charge, to fine, to take (tax), to take (e.g. a wife), to take on (e.g. an apprentice), to adopt, to accept, to take control of, to take (the rudder), to compete (in sumo, cards, etc.), to play"
+        },
+        "romaji": "toru"
       },
       {
         "example": "取るに足らない",
         "reading": "とるにたらない",
-        "meaning": "insignificant, inconsequential, trifling, negligible, of little importance"
+        "meaning": {
+          "vi": "insignificant, inconsequential, trifling, negligible, of little importance"
+        },
+        "romaji": "torunitaranai"
       },
       {
         "example": "取り",
         "reading": "とり",
-        "meaning": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix"
+        "meaning": {
+          "vi": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix"
+        },
+        "romaji": "tori"
       },
       {
         "example": "取り扱い",
         "reading": "とりあつかい",
-        "meaning": "treatment, service, handling, management"
+        "meaning": {
+          "en": "treatment, service, handling, management"
+        },
+        "romaji": "toriatsukai"
       },
       {
         "example": "関取",
         "reading": "せきとり",
-        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        "meaning": {
+          "en": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        },
+        "romaji": "sekitori"
       },
       {
         "example": "買取",
         "reading": "かいとり",
-        "meaning": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee"
+        "meaning": {
+          "vi": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee"
+        },
+        "romaji": "kaitori"
       },
       {
         "example": "取り",
         "reading": "とり",
-        "meaning": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix"
+        "meaning": {
+          "vi": "taking, taker, collecting, collector, remover, removal, last performer of the day (usu. the star performer), last performance of the day, active partner (e.g. in judo demonstration), emphatic or formal prefix"
+        },
+        "romaji": "tori"
       },
       {
         "example": "取り扱い",
         "reading": "とりあつかい",
-        "meaning": "treatment, service, handling, management"
+        "meaning": {
+          "en": "treatment, service, handling, management"
+        },
+        "romaji": "toriatsukai"
       },
       {
         "example": "関取",
         "reading": "せきとり",
-        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        "meaning": {
+          "en": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        },
+        "romaji": "sekitori"
       },
       {
         "example": "買取",
         "reading": "かいとり",
-        "meaning": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee"
+        "meaning": {
+          "vi": "purchase, buying, buying out, buying used articles as a company, trade-in, buy back, purchase on a no-return policy, lump-sum payment, flat fee"
+        },
+        "romaji": "kaitori"
       }
     ],
     "radical": {
@@ -419,5 +461,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053d6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53d6.gif",
     "uri": "https://jisho.org/search/%E5%8F%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thủ",
+    "tụ"
+  ]
 }

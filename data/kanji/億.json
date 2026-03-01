@@ -234,22 +234,34 @@
       {
         "example": "億",
         "reading": "オク",
-        "meaning": "hundred million, 100,000,000, 10^8"
+        "meaning": {
+          "en": "hundred million, 100,000,000, 10^8"
+        },
+        "romaji": "oku"
       },
       {
         "example": "億万",
         "reading": "オクマン",
-        "meaning": "millions and millions"
+        "meaning": {
+          "en": "millions and millions"
+        },
+        "romaji": "okuman"
       },
       {
         "example": "十億",
         "reading": "ジュウオク",
-        "meaning": "1,000,000,000, billion"
+        "meaning": {
+          "en": "1,000,000,000, billion"
+        },
+        "romaji": "juuoku"
       },
       {
         "example": "１００億",
         "reading": "ヒャクオク",
-        "meaning": "10,000,000,000, ten billion"
+        "meaning": {
+          "en": "10,000,000,000, ten billion"
+        },
+        "romaji": "hyakuoku"
       }
     ],
     "kunyomiExamples": [],
@@ -271,5 +283,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05104.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5104.gif",
     "uri": "https://jisho.org/search/%E5%84%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "ức"
+  ]
 }

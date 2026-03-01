@@ -312,29 +312,44 @@
       {
         "example": "拝",
         "reading": "ハイ",
-        "meaning": "bowing one's head (in respect or worship), worship, respectfully yours"
+        "meaning": {
+          "vi": "bowing one's head (in respect or worship), worship, respectfully yours"
+        },
+        "romaji": "hai"
       },
       {
         "example": "拝啓",
         "reading": "ハイケイ",
-        "meaning": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"
+        "meaning": {
+          "en": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"
+        },
+        "romaji": "haikei"
       },
       {
         "example": "礼拝",
         "reading": "レイハイ",
-        "meaning": "worship (esp. Christian), (church) service"
+        "meaning": {
+          "vi": "worship (esp. Christian), (church) service"
+        },
+        "romaji": "reihai"
       },
       {
         "example": "再拝",
         "reading": "サイハイ",
-        "meaning": "bowing twice, worshipping again, yours sincerely, sincerely yours"
+        "meaning": {
+          "vi": "bowing twice, worshipping again, yours sincerely, sincerely yours"
+        },
+        "romaji": "saihai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拝む",
         "reading": "おがむ",
-        "meaning": "to assume the posture of praying, to press the palms and fingers of both hands together, to do reverence (e.g. before a statue of the Buddha), to pay one's respects, to beg, to make a supplication, to see (something or someone of high status)"
+        "meaning": {
+          "vi": "to assume the posture of praying, to press the palms and fingers of both hands together, to do reverence (e.g. before a statue of the Buddha), to pay one's respects, to beg, to make a supplication, to see (something or someone of high status)"
+        },
+        "romaji": "ogamu"
       }
     ],
     "radical": {
@@ -354,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62dd.gif",
     "uri": "https://jisho.org/search/%E6%8B%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bái"
+  ]
 }

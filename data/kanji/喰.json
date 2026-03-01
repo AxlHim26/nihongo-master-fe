@@ -16,12 +16,18 @@
       {
         "example": "食う",
         "reading": "くう",
-        "meaning": "to eat, to live, to make a living, to survive, to bite, to sting (as insects do), to tease, to torment, to taunt, to make light of, to make fun of, to encroach on, to eat into, to consume, to defeat a superior, to threaten a position, to consume time, to consume resources, to receive something (usu. an unfavourable event), to have sexual relations with a woman, esp. for the first time"
+        "meaning": {
+          "vi": "to eat, to live, to make a living, to survive, to bite, to sting (as insects do), to tease, to torment, to taunt, to make light of, to make fun of, to encroach on, to eat into, to consume, to defeat a superior, to threaten a position, to consume time, to consume resources, to receive something (usu. an unfavourable event), to have sexual relations with a woman, esp. for the first time"
+        },
+        "romaji": "kuu"
       },
       {
         "example": "食らう",
         "reading": "くらう",
-        "meaning": "to eat, to drink, to wolf, to knock back, to receive (e.g. a blow), to be on the receiving end (of something undesirable), to undergo (trouble)"
+        "meaning": {
+          "en": "to eat, to drink, to wolf, to knock back, to receive (e.g. a blow), to be on the receiving end (of something undesirable), to undergo (trouble)"
+        },
+        "romaji": "kurau"
       }
     ],
     "radical": {
@@ -36,5 +42,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055b0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55b0.gif",
     "uri": "https://jisho.org/search/%E5%96%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "san",
+    "sôn",
+    "tôn",
+    "xan"
+  ]
 }

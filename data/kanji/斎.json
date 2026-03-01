@@ -24,44 +24,68 @@
       {
         "example": "斎場",
         "reading": "サイジョウ",
-        "meaning": "funeral hall, ceremony site"
+        "meaning": {
+          "en": "funeral hall, ceremony site"
+        },
+        "romaji": "saijou"
       },
       {
         "example": "斎院",
         "reading": "サイイン",
-        "meaning": "imperial princess who served as a priestess at Ise"
+        "meaning": {
+          "vi": "imperial princess who served as a priestess at Ise"
+        },
+        "romaji": "saiin"
       },
       {
         "example": "大斎",
         "reading": "タイサイ",
-        "meaning": "Great Lent, Great Fast"
+        "meaning": {
+          "en": "Great Lent, Great Fast"
+        },
+        "romaji": "taisai"
       },
       {
         "example": "小斎",
         "reading": "ショウサイ",
-        "meaning": "abstinence (in Catholicism)"
+        "meaning": {
+          "en": "abstinence (in Catholicism)"
+        },
+        "romaji": "shousai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "斎",
         "reading": "とき",
-        "meaning": "meals exchanged by parishioners and priests"
+        "meaning": {
+          "vi": "meals exchanged by parishioners and priests"
+        },
+        "romaji": "toki"
       },
       {
         "example": "忌む",
         "reading": "いむ",
-        "meaning": "to avoid, to refrain from, to shun, to detest"
+        "meaning": {
+          "en": "to avoid, to refrain from, to shun, to detest"
+        },
+        "romaji": "imu"
       },
       {
         "example": "祝う",
         "reading": "いわう",
-        "meaning": "to celebrate, to congratulate, to observe (a festival), to present (a gift) in celebration, to drink in celebration, to wish for (a happy future, good fortune, etc.), to pray for"
+        "meaning": {
+          "vi": "to celebrate, to congratulate, to observe (a festival), to present (a gift) in celebration, to drink in celebration, to wish for (a happy future, good fortune, etc.), to pray for"
+        },
+        "romaji": "iwau"
       },
       {
         "example": "斎く",
         "reading": "いつく",
-        "meaning": "to worship, to enshrine"
+        "meaning": {
+          "vi": "to worship, to enshrine"
+        },
+        "romaji": "itsuku"
       }
     ],
     "radical": {
@@ -82,5 +106,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0658e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/658e.gif",
     "uri": "https://jisho.org/search/%E6%96%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "trai"
+  ]
 }

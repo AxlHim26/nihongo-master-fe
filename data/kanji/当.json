@@ -394,79 +394,124 @@
       {
         "example": "当",
         "reading": "トウ",
-        "meaning": "this, our, the ... in question, the said ..., right, justice, fairness, checking account"
+        "meaning": {
+          "en": "this, our, the ... in question, the said ..., right, justice, fairness, checking account"
+        },
+        "romaji": "tou"
       },
       {
         "example": "当確",
         "reading": "トウカク",
-        "meaning": "projected to win, sure to be elected, home free"
+        "meaning": {
+          "vi": "projected to win, sure to be elected, home free"
+        },
+        "romaji": "toukaku"
       },
       {
         "example": "順当",
         "reading": "ジュントウ",
-        "meaning": "proper, right, reasonable"
+        "meaning": {
+          "vi": "proper, right, reasonable"
+        },
+        "romaji": "juntou"
       },
       {
         "example": "過当",
         "reading": "カトウ",
-        "meaning": "excessive, exorbitant"
+        "meaning": {
+          "en": "excessive, exorbitant"
+        },
+        "romaji": "katou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "当たる",
         "reading": "あたる",
-        "meaning": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship"
+        "meaning": {
+          "vi": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship"
+        },
+        "romaji": "ataru"
       },
       {
         "example": "当たるも八卦当たらぬも八卦",
         "reading": "あたるもはっけあたらぬもはっけ",
-        "meaning": "a prediction may or may not come true, only god knows what will happen"
+        "meaning": {
+          "vi": "a prediction may or may not come true, only god knows what will happen"
+        },
+        "romaji": "atarumohakkeataranumohakke"
       },
       {
         "example": "当たり",
         "reading": "あたり",
-        "meaning": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each"
+        "meaning": {
+          "vi": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each"
+        },
+        "romaji": "atari"
       },
       {
         "example": "当たり前",
         "reading": "あたりまえ",
-        "meaning": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm"
+        "meaning": {
+          "vi": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm"
+        },
+        "romaji": "atarimae"
       },
       {
         "example": "坪当たり",
         "reading": "つぼあたり",
-        "meaning": "per tsubo (approx. 3.3 square meters)"
+        "meaning": {
+          "vi": "per tsubo (approx. 3.3 square meters)"
+        },
+        "romaji": "tsuboatari"
       },
       {
         "example": "当てる",
         "reading": "あてる",
-        "meaning": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+        "meaning": {
+          "vi": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+        },
+        "romaji": "ateru"
       },
       {
         "example": "当て",
         "reading": "あて",
-        "meaning": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per"
+        "meaning": {
+          "vi": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per"
+        },
+        "romaji": "ate"
       },
       {
         "example": "当てる",
         "reading": "あてる",
-        "meaning": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+        "meaning": {
+          "vi": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+        },
+        "romaji": "ateru"
       },
       {
         "example": "引き当て",
         "reading": "ひきあて",
-        "meaning": "mortgage, security"
+        "meaning": {
+          "en": "mortgage, security"
+        },
+        "romaji": "hikiate"
       },
       {
         "example": "額当て",
         "reading": "ひたいあて",
-        "meaning": "(military) headband with reinforced metal plate, red headband"
+        "meaning": {
+          "vi": "(military) headband with reinforced metal plate, red headband"
+        },
+        "romaji": "hitaiate"
       },
       {
         "example": "当に",
         "reading": "まさに",
-        "meaning": "really (ought to), certainly (should), naturally"
+        "meaning": {
+          "en": "really (ought to), certainly (should), naturally"
+        },
+        "romaji": "masani"
       }
     ],
     "radical": {
@@ -484,5 +529,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f53.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f53.gif",
     "uri": "https://jisho.org/search/%E5%BD%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "đang",
+    "đáng",
+    "đương"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "凶",
         "reading": "キョウ",
-        "meaning": "bad luck, ill fortune, misfortune"
+        "meaning": {
+          "en": "bad luck, ill fortune, misfortune"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "凶悪",
         "reading": "キョウアク",
-        "meaning": "atrocious, heinous, fiendish, brutal, vicious"
+        "meaning": {
+          "en": "atrocious, heinous, fiendish, brutal, vicious"
+        },
+        "romaji": "kyouaku"
       },
       {
         "example": "元凶",
         "reading": "ゲンキョウ",
-        "meaning": "ringleader, main culprit, main cause, source"
+        "meaning": {
+          "vi": "ringleader, main culprit, main cause, source"
+        },
+        "romaji": "genkyou"
       },
       {
         "example": "大凶",
         "reading": "ダイキョウ",
-        "meaning": "terrible luck, very bad luck"
+        "meaning": {
+          "en": "terrible luck, very bad luck"
+        },
+        "romaji": "daikyou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f6.gif",
     "uri": "https://jisho.org/search/%E5%87%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "hung"
+  ]
 }

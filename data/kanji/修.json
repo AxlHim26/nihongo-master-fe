@@ -343,49 +343,76 @@
       {
         "example": "修業",
         "reading": "シュウギョウ",
-        "meaning": "pursuit of knowledge, studying, learning, training, completing a course"
+        "meaning": {
+          "vi": "pursuit of knowledge, studying, learning, training, completing a course"
+        },
+        "romaji": "shuugyou"
       },
       {
         "example": "修学旅行",
         "reading": "シュウガクリョコウ",
-        "meaning": "excursion, field trip, school trip"
+        "meaning": {
+          "vi": "excursion, field trip, school trip"
+        },
+        "romaji": "shuugakuryokou"
       },
       {
         "example": "監修",
         "reading": "カンシュウ",
-        "meaning": "(editorial) supervision, general editorship, supervising director"
+        "meaning": {
+          "vi": "(editorial) supervision, general editorship, supervising director"
+        },
+        "romaji": "kanshuu"
       },
       {
         "example": "改修",
         "reading": "カイシュウ",
-        "meaning": "repair, improvement"
+        "meaning": {
+          "vi": "repair, improvement"
+        },
+        "romaji": "kaishuu"
       },
       {
         "example": "修業",
         "reading": "シュウギョウ",
-        "meaning": "pursuit of knowledge, studying, learning, training, completing a course"
+        "meaning": {
+          "vi": "pursuit of knowledge, studying, learning, training, completing a course"
+        },
+        "romaji": "shuugyou"
       },
       {
         "example": "修学旅行",
         "reading": "シュウガクリョコウ",
-        "meaning": "excursion, field trip, school trip"
+        "meaning": {
+          "vi": "excursion, field trip, school trip"
+        },
+        "romaji": "shuugakuryokou"
       },
       {
         "example": "逆修",
         "reading": "ギャクシュ",
-        "meaning": "holding a memorial service for oneself, an older person conducting a memorial service for a deceased, younger person"
+        "meaning": {
+          "vi": "holding a memorial service for oneself, an older person conducting a memorial service for a deceased, younger person"
+        },
+        "romaji": "gyakushu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "修める",
         "reading": "おさめる",
-        "meaning": "to study, to complete (a course), to cultivate, to master, to order (one's life), to repair (a fault one has committed)"
+        "meaning": {
+          "vi": "to study, to complete (a course), to cultivate, to master, to order (one's life), to repair (a fault one has committed)"
+        },
+        "romaji": "osameru"
       },
       {
         "example": "修まる",
         "reading": "おさまる",
-        "meaning": "to reform (oneself), to conduct oneself well"
+        "meaning": {
+          "en": "to reform (oneself), to conduct oneself well"
+        },
+        "romaji": "osamaru"
       }
     ],
     "radical": {
@@ -406,5 +433,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fee.gif",
     "uri": "https://jisho.org/search/%E4%BF%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "tu"
+  ]
 }

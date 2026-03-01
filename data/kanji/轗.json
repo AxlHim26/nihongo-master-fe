@@ -15,12 +15,18 @@
       {
         "example": "轗軻",
         "reading": "カンカ",
-        "meaning": "separation from the world"
+        "meaning": {
+          "vi": "separation from the world"
+        },
+        "romaji": "kanka"
       },
       {
         "example": "轗軻不遇",
         "reading": "カンカフグウ",
-        "meaning": "being neglected by the world, being denied one's deserved recognition and status"
+        "meaning": {
+          "en": "being neglected by the world, being denied one's deserved recognition and status"
+        },
+        "romaji": "kankafuguu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f57.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f57.gif",
     "uri": "https://jisho.org/search/%E8%BD%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "khảm"
+  ]
 }

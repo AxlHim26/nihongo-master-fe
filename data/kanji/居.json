@@ -334,44 +334,68 @@
       {
         "example": "居",
         "reading": "キョ",
-        "meaning": "residence"
+        "meaning": {
+          "en": "residence"
+        },
+        "romaji": "kyo"
       },
       {
         "example": "居室",
         "reading": "キョシツ",
-        "meaning": "living room"
+        "meaning": {
+          "en": "living room"
+        },
+        "romaji": "kyoshitsu"
       },
       {
         "example": "入居",
         "reading": "ニュウキョ",
-        "meaning": "moving in (to a house, apartment, etc.), taking up residence"
+        "meaning": {
+          "vi": "moving in (to a house, apartment, etc.), taking up residence"
+        },
+        "romaji": "nyuukyo"
       },
       {
         "example": "住居",
         "reading": "ジュウキョ",
-        "meaning": "dwelling, house, residence, address"
+        "meaning": {
+          "en": "dwelling, house, residence, address"
+        },
+        "romaji": "juukyo"
       },
       {
         "example": "居士",
         "reading": "コジ",
-        "meaning": "grhapati (layman; sometimes used as a posthumous suffix), private-sector scholar"
+        "meaning": {
+          "vi": "grhapati (layman; sometimes used as a posthumous suffix), private-sector scholar"
+        },
+        "romaji": "koji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "居る",
         "reading": "いる",
-        "meaning": "to be (of animate objects), to exist, to stay, to be ...-ing, to have been ...-ing"
+        "meaning": {
+          "en": "to be (of animate objects), to exist, to stay, to be ...-ing, to have been ...-ing"
+        },
+        "romaji": "iru"
       },
       {
         "example": "居留守",
         "reading": "いるす",
-        "meaning": "pretending to be out"
+        "meaning": {
+          "vi": "pretending to be out"
+        },
+        "romaji": "irusu"
       },
       {
         "example": "居る",
         "reading": "おる",
-        "meaning": "to be (animate), to be, to exist, to be ...-ing, to (have the audacity to) do"
+        "meaning": {
+          "en": "to be (animate), to be, to exist, to be ...-ing, to (have the audacity to) do"
+        },
+        "romaji": "oru"
       }
     ],
     "radical": {
@@ -387,5 +411,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c45.gif",
     "uri": "https://jisho.org/search/%E5%B1%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "cư",
+    "ky",
+    "kí",
+    "ký"
+  ]
 }

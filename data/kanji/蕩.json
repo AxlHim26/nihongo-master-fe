@@ -18,34 +18,52 @@
       {
         "example": "蕩児",
         "reading": "トウジ",
-        "meaning": "libertine"
+        "meaning": {
+          "en": "libertine"
+        },
+        "romaji": "touji"
       },
       {
         "example": "蕩尽",
         "reading": "トウジン",
-        "meaning": "squandering, dissipation"
+        "meaning": {
+          "vi": "squandering, dissipation"
+        },
+        "romaji": "toujin"
       },
       {
         "example": "放蕩",
         "reading": "ホウトウ",
-        "meaning": "dissipation, prodigality, debauchery"
+        "meaning": {
+          "vi": "dissipation, prodigality, debauchery"
+        },
+        "romaji": "houtou"
       },
       {
         "example": "駘蕩",
         "reading": "タイトウ",
-        "meaning": "large and wide, peaceful and calm"
+        "meaning": {
+          "vi": "large and wide, peaceful and calm"
+        },
+        "romaji": "taitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蕩かす",
         "reading": "とろかす",
-        "meaning": "to melt (steel, etc.), to liquefy, to soften, to melt (one's heart), to disarm"
+        "meaning": {
+          "en": "to melt (steel, etc.), to liquefy, to soften, to melt (one's heart), to disarm"
+        },
+        "romaji": "torokasu"
       },
       {
         "example": "蕩ける",
         "reading": "とろける",
-        "meaning": "to melt (and become soft or liquid), to be enchanted (by), to be charmed, to be bewitched"
+        "meaning": {
+          "en": "to melt (and become soft or liquid), to be enchanted (by), to be charmed, to be bewitched"
+        },
+        "romaji": "torokeru"
       }
     ],
     "radical": {
@@ -67,5 +85,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08569.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8569.gif",
     "uri": "https://jisho.org/search/%E8%95%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "đãng",
+    "đảng"
+  ]
 }

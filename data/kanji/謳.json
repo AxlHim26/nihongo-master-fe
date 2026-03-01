@@ -18,24 +18,36 @@
       {
         "example": "謳歌",
         "reading": "オウカ",
-        "meaning": "rejoicing, glorification, exultation, celebration, enjoyment, singing praises"
+        "meaning": {
+          "vi": "rejoicing, glorification, exultation, celebration, enjoyment, singing praises"
+        },
+        "romaji": "ouka"
       },
       {
         "example": "謳う",
         "reading": "ウタウ",
-        "meaning": "to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"
+        "meaning": {
+          "vi": "to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"
+        },
+        "romaji": "utau"
       },
       {
         "example": "歌い上げる",
         "reading": "ウタイアゲル",
-        "meaning": "to sing at the top of one's voice, to belt out a song, to express one's feelings fully in a poem, to praise in poetry"
+        "meaning": {
+          "vi": "to sing at the top of one's voice, to belt out a song, to express one's feelings fully in a poem, to praise in poetry"
+        },
+        "romaji": "utaiageru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謳う",
         "reading": "うたう",
-        "meaning": "to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"
+        "meaning": {
+          "vi": "to extol, to sing the praises of, to celebrate, to declare, to stipulate, to express, to state, to insist"
+        },
+        "romaji": "utau"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b33.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b33.gif",
     "uri": "https://jisho.org/search/%E8%AC%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "âu"
+  ]
 }

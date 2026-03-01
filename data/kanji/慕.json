@@ -19,24 +19,36 @@
       {
         "example": "慕情",
         "reading": "ボジョウ",
-        "meaning": "longing, yearning"
+        "meaning": {
+          "en": "longing, yearning"
+        },
+        "romaji": "bojou"
       },
       {
         "example": "思慕",
         "reading": "シボ",
-        "meaning": "yearning, longing for, deep affection"
+        "meaning": {
+          "vi": "yearning, longing for, deep affection"
+        },
+        "romaji": "shibo"
       },
       {
         "example": "哀慕",
         "reading": "アイボ",
-        "meaning": "cherish the memory of, yearn for"
+        "meaning": {
+          "en": "cherish the memory of, yearn for"
+        },
+        "romaji": "aibo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慕う",
         "reading": "したう",
-        "meaning": "to yearn for, to long for, to pine for, to miss, to love dearly, to adore, to follow (someone), to idolize (for virtue, learning, status, etc.)"
+        "meaning": {
+          "vi": "to yearn for, to long for, to pine for, to miss, to love dearly, to adore, to follow (someone), to idolize (for virtue, learning, status, etc.)"
+        },
+        "romaji": "shitau"
       }
     ],
     "radical": {
@@ -57,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06155.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6155.gif",
     "uri": "https://jisho.org/search/%E6%85%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộ"
+  ]
 }

@@ -255,29 +255,44 @@
       {
         "example": "均衡",
         "reading": "キンコウ",
-        "meaning": "equilibrium, balance"
+        "meaning": {
+          "en": "equilibrium, balance"
+        },
+        "romaji": "kinkou"
       },
       {
         "example": "均一",
         "reading": "キンイツ",
-        "meaning": "uniformity, equality"
+        "meaning": {
+          "en": "uniformity, equality"
+        },
+        "romaji": "kin'itsu"
       },
       {
         "example": "１００均",
         "reading": "ヒャッキン",
-        "meaning": "hundred-yen store, 100 yen shop"
+        "meaning": {
+          "vi": "hundred-yen store, 100 yen shop"
+        },
+        "romaji": "hyakkin"
       },
       {
         "example": "移動平均",
         "reading": "イドウヘイキン",
-        "meaning": "moving average"
+        "meaning": {
+          "en": "moving average"
+        },
+        "romaji": "idouheikin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "均す",
         "reading": "ならす",
-        "meaning": "to make even, to make smooth, to make level, to flatten, to average"
+        "meaning": {
+          "en": "to make even, to make smooth, to make level, to flatten, to average"
+        },
+        "romaji": "narasu"
       }
     ],
     "radical": {
@@ -294,5 +309,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05747.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5747.gif",
     "uri": "https://jisho.org/search/%E5%9D%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "quân",
+    "vận"
+  ]
 }

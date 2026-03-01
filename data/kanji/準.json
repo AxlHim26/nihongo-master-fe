@@ -300,39 +300,60 @@
       {
         "example": "準",
         "reading": "ジュン",
-        "meaning": "semi-, quasi-, associate"
+        "meaning": {
+          "en": "semi-, quasi-, associate"
+        },
+        "romaji": "jun"
       },
       {
         "example": "準決勝",
         "reading": "ジュンケッショウ",
-        "meaning": "semifinal"
+        "meaning": {
+          "en": "semifinal"
+        },
+        "romaji": "junkesshou"
       },
       {
         "example": "照準",
         "reading": "ショウジュン",
-        "meaning": "sight (e.g. of a gun), aim, alignment"
+        "meaning": {
+          "en": "sight (e.g. of a gun), aim, alignment"
+        },
+        "romaji": "shoujun"
       },
       {
         "example": "低水準",
         "reading": "テイスイジュン",
-        "meaning": "substandard, low-level"
+        "meaning": {
+          "en": "substandard, low-level"
+        },
+        "romaji": "teisuijun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "準じる",
         "reading": "じゅんじる",
-        "meaning": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+        "meaning": {
+          "vi": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+        },
+        "romaji": "junjiru"
       },
       {
         "example": "準ずる",
         "reading": "じゅんずる",
-        "meaning": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+        "meaning": {
+          "vi": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+        },
+        "romaji": "junzuru"
       },
       {
         "example": "準える",
         "reading": "なぞらえる",
-        "meaning": "to liken to, to compare to, to pattern after, to model after, to imitate"
+        "meaning": {
+          "vi": "to liken to, to compare to, to pattern after, to model after, to imitate"
+        },
+        "romaji": "nazoraeru"
       }
     ],
     "radical": {
@@ -352,5 +373,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e96.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e96.gif",
     "uri": "https://jisho.org/search/%E6%BA%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuyết",
+    "chuẩn"
+  ]
 }

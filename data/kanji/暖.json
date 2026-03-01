@@ -352,64 +352,100 @@
       {
         "example": "暖",
         "reading": "ダン",
-        "meaning": "warming, warmth"
+        "meaning": {
+          "en": "warming, warmth"
+        },
+        "romaji": "dan"
       },
       {
         "example": "暖冬",
         "reading": "ダントウ",
-        "meaning": "mild winter, warm winter"
+        "meaning": {
+          "en": "mild winter, warm winter"
+        },
+        "romaji": "dantou"
       },
       {
         "example": "寒暖",
         "reading": "カンダン",
-        "meaning": "cold and heat, (degree of) temperature"
+        "meaning": {
+          "vi": "cold and heat, (degree of) temperature"
+        },
+        "romaji": "kandan"
       },
       {
         "example": "床暖",
         "reading": "ユカダン",
-        "meaning": "underfloor heating"
+        "meaning": {
+          "en": "underfloor heating"
+        },
+        "romaji": "yukadan"
       },
       {
         "example": "呑気",
         "reading": "ノンキ",
-        "meaning": "easy, easygoing, carefree, happy-go-lucky, optimistic, leisurely, careless, thoughtless"
+        "meaning": {
+          "vi": "easy, easygoing, carefree, happy-go-lucky, optimistic, leisurely, careless, thoughtless"
+        },
+        "romaji": "nonki"
       },
       {
         "example": "暖簾",
         "reading": "ノレン",
-        "meaning": "(short) curtain hung at shop entrance, split curtain used to divide spaces in a house, reputation (of a store), good name, credit, goodwill"
+        "meaning": {
+          "vi": "(short) curtain hung at shop entrance, split curtain used to divide spaces in a house, reputation (of a store), good name, credit, goodwill"
+        },
+        "romaji": "noren"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暖か",
         "reading": "あたたか",
-        "meaning": "warm, mild, genial"
+        "meaning": {
+          "en": "warm, mild, genial"
+        },
+        "romaji": "atataka"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": {
+          "vi": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        },
+        "romaji": "atatakai"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": {
+          "vi": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        },
+        "romaji": "atatakai"
       },
       {
         "example": "暖かい色",
         "reading": "あたたかいいろ",
-        "meaning": "warm color, warm colour"
+        "meaning": {
+          "en": "warm color, warm colour"
+        },
+        "romaji": "atatakaiiro"
       },
       {
         "example": "温まる",
         "reading": "あたたまる",
-        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm"
+        "meaning": {
+          "vi": "to warm oneself, to sun oneself, to warm up, to get warm"
+        },
+        "romaji": "atatamaru"
       },
       {
         "example": "温める",
         "reading": "あたためる",
-        "meaning": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself"
+        "meaning": {
+          "vi": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself"
+        },
+        "romaji": "atatameru"
       }
     ],
     "radical": {
@@ -427,5 +463,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06696.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6696.gif",
     "uri": "https://jisho.org/search/%E6%9A%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyên",
+    "noãn"
+  ]
 }

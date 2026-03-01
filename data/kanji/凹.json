@@ -21,39 +21,60 @@
       {
         "example": "凹",
         "reading": "オウ",
-        "meaning": "concave, hollow, sunken"
+        "meaning": {
+          "en": "concave, hollow, sunken"
+        },
+        "romaji": "ou"
       },
       {
         "example": "凹凸",
         "reading": "オウトツ",
-        "meaning": "unevenness, bumpiness, roughness, ruggedness, imbalance, inequality, unevenness, disparity"
+        "meaning": {
+          "vi": "unevenness, bumpiness, roughness, ruggedness, imbalance, inequality, unevenness, disparity"
+        },
+        "romaji": "outotsu"
       },
       {
         "example": "肋凹",
         "reading": "ロクオウ",
-        "meaning": "costal fovea"
+        "meaning": {
+          "en": "costal fovea"
+        },
+        "romaji": "rokuou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "窪む",
         "reading": "くぼむ",
-        "meaning": "to cave in, to become depressed, to sink"
+        "meaning": {
+          "vi": "to cave in, to become depressed, to sink"
+        },
+        "romaji": "kubomu"
       },
       {
         "example": "凹む",
         "reading": "へこむ",
-        "meaning": "to be dented, to be indented, to yield, to give, to sink, to collapse, to cave in, to be beaten, to be overwhelmed, to yield, to give in, to give up, to be disheartened, to feel down, to feel depressed, to suffer a loss, to lose"
+        "meaning": {
+          "vi": "to be dented, to be indented, to yield, to give, to sink, to collapse, to cave in, to be beaten, to be overwhelmed, to yield, to give in, to give up, to be disheartened, to feel down, to feel depressed, to suffer a loss, to lose"
+        },
+        "romaji": "hekomu"
       },
       {
         "example": "発達凸凹",
         "reading": "はったつでこぼこ",
-        "meaning": "developmental irregularities, developmental disorder, neurodiversity"
+        "meaning": {
+          "vi": "developmental irregularities, developmental disorder, neurodiversity"
+        },
+        "romaji": "hattatsudekoboko"
       },
       {
         "example": "穴ぼこ",
         "reading": "あなぼこ",
-        "meaning": "hole, hollow, pothole (road, pavement, etc.)"
+        "meaning": {
+          "vi": "hole, hollow, pothole (road, pavement, etc.)"
+        },
+        "romaji": "anaboko"
       }
     ],
     "radical": {
@@ -67,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f9.gif",
     "uri": "https://jisho.org/search/%E5%87%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "ao"
+  ]
 }

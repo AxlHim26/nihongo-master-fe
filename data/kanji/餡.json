@@ -15,22 +15,34 @@
       {
         "example": "餡",
         "reading": "アン",
-        "meaning": "red bean paste, red bean jam, anko, kudzu sauce, filling (of a dumpling, etc.), filling, stuffing, inside"
+        "meaning": {
+          "vi": "red bean paste, red bean jam, anko, kudzu sauce, filling (of a dumpling, etc.), filling, stuffing, inside"
+        },
+        "romaji": "an"
       },
       {
         "example": "餡子",
         "reading": "アンコ",
-        "meaning": "red bean paste, red bean jam, anko, filling (e.g. of a manjū), stuffing, padding"
+        "meaning": {
+          "vi": "red bean paste, red bean jam, anko, filling (e.g. of a manjū), stuffing, padding"
+        },
+        "romaji": "anko"
       },
       {
         "example": "べっ甲あん",
         "reading": "ベッコウアン",
-        "meaning": "tortoiseshell sauce, thickened sauce of dashi, soy, mirin, etc."
+        "meaning": {
+          "en": "tortoiseshell sauce, thickened sauce of dashi, soy, mirin, etc."
+        },
+        "romaji": "bekkouan"
       },
       {
         "example": "こし餡",
         "reading": "コシアン",
-        "meaning": "strained bean paste, smooth anko, fine-grained sweet bean paste"
+        "meaning": {
+          "vi": "strained bean paste, smooth anko, fine-grained sweet bean paste"
+        },
+        "romaji": "koshian"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09921.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9921.gif",
     "uri": "https://jisho.org/search/%E9%A4%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "hãm"
+  ]
 }

@@ -14,7 +14,10 @@
       {
         "example": "胡蝶",
         "reading": "コチョウ",
-        "meaning": "butterfly"
+        "meaning": {
+          "en": "butterfly"
+        },
+        "romaji": "kochou"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08774.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8774.gif",
     "uri": "https://jisho.org/search/%E8%9D%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ"
+  ]
 }

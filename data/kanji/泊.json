@@ -320,34 +320,52 @@
       {
         "example": "泊",
         "reading": "ハク",
-        "meaning": "counter for nights of a stay, overnight stay, lodging"
+        "meaning": {
+          "en": "counter for nights of a stay, overnight stay, lodging"
+        },
+        "romaji": "haku"
       },
       {
         "example": "泊地",
         "reading": "ハクチ",
-        "meaning": "anchorage, berth"
+        "meaning": {
+          "en": "anchorage, berth"
+        },
+        "romaji": "hakuchi"
       },
       {
         "example": "漂泊",
         "reading": "ヒョウハク",
-        "meaning": "roaming, drifting about, wandering, drifting (with the current, on the tide, etc.)"
+        "meaning": {
+          "en": "roaming, drifting about, wandering, drifting (with the current, on the tide, etc.)"
+        },
+        "romaji": "hyouhaku"
       },
       {
         "example": "無断外泊",
         "reading": "ムダンガイハク",
-        "meaning": "staying out overnight without giving notice, spending night(s) away from home without permission (leave)"
+        "meaning": {
+          "vi": "staying out overnight without giving notice, spending night(s) away from home without permission (leave)"
+        },
+        "romaji": "mudangaihaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泊まる",
         "reading": "とまる",
-        "meaning": "to stay at (e.g. hotel), to be docked, to be berthed, to be moored"
+        "meaning": {
+          "en": "to stay at (e.g. hotel), to be docked, to be berthed, to be moored"
+        },
+        "romaji": "tomaru"
       },
       {
         "example": "泊める",
         "reading": "とめる",
-        "meaning": "to give shelter to, to lodge, to put up, to accommodate"
+        "meaning": {
+          "vi": "to give shelter to, to lodge, to put up, to accommodate"
+        },
+        "romaji": "tomeru"
       }
     ],
     "radical": {
@@ -366,5 +384,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cca.gif",
     "uri": "https://jisho.org/search/%E6%B3%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạc",
+    "phách"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "脾臟",
         "reading": "ヒゾウ",
-        "meaning": "spleen"
+        "meaning": {
+          "vi": "spleen"
+        },
+        "romaji": "hizou"
       },
       {
         "example": "脾臓",
         "reading": "ヒゾウ",
-        "meaning": "spleen"
+        "meaning": {
+          "vi": "spleen"
+        },
+        "romaji": "hizou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081df.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81df.gif",
     "uri": "https://jisho.org/search/%E8%87%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tạng"
+  ]
 }

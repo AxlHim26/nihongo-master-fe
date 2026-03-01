@@ -14,17 +14,26 @@
       {
         "example": "鵝眼銭",
         "reading": "ガガンセン",
-        "meaning": "round coin with a (square) hole in the center"
+        "meaning": {
+          "en": "round coin with a (square) hole in the center"
+        },
+        "romaji": "gagansen"
       },
       {
         "example": "鵞口瘡",
         "reading": "ガコウソウ",
-        "meaning": "thrush (pediatric disease), aphtha, moniliasis"
+        "meaning": {
+          "vi": "thrush (pediatric disease), aphtha, moniliasis"
+        },
+        "romaji": "gakousou"
       },
       {
         "example": "企鵝",
         "reading": "キガ",
-        "meaning": "penguin"
+        "meaning": {
+          "vi": "penguin"
+        },
+        "romaji": "kiga"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d5d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d5d.gif",
     "uri": "https://jisho.org/search/%E9%B5%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "nga"
+  ]
 }

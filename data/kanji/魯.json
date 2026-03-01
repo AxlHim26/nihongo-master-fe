@@ -17,12 +17,18 @@
       {
         "example": "魯",
         "reading": "ロ",
-        "meaning": "Lu (Chinese vassal state existing during the Spring and Autumn period)"
+        "meaning": {
+          "vi": "Lu (Chinese vassal state existing during the Spring and Autumn period)"
+        },
+        "romaji": "ro"
       },
       {
         "example": "露",
         "reading": "ロ",
-        "meaning": "Russia"
+        "meaning": {
+          "en": "Russia"
+        },
+        "romaji": "ro"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b6f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b6f.gif",
     "uri": "https://jisho.org/search/%E9%AD%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "lỗ",
+    "lữ"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "鴟尾",
         "reading": "シビ",
-        "meaning": "ornamental ridge-end tile"
+        "meaning": {
+          "en": "ornamental ridge-end tile"
+        },
+        "romaji": "shibi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鳶",
         "reading": "とび",
-        "meaning": "black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"
+        "meaning": {
+          "vi": "black kite (Milvus migrans), construction worker, scaffold erector, firefighter, fire hook, reddish brown, Inverness cape, filcher, sneak thief, pilferer"
+        },
+        "romaji": "tobi"
       },
       {
         "example": "糞鳶",
         "reading": "くそとび",
-        "meaning": "common buzzard (Buteo buteo)"
+        "meaning": {
+          "en": "common buzzard (Buteo buteo)"
+        },
+        "romaji": "kusotobi"
       }
     ],
     "radical": {
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1f.gif",
     "uri": "https://jisho.org/search/%E9%B4%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "si"
+  ]
 }

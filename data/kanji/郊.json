@@ -210,22 +210,34 @@
       {
         "example": "郊外",
         "reading": "コウガイ",
-        "meaning": "ngoại ô, khu dân cư ven thành phố, vành đai đi lại"
+        "meaning": {
+          "vi": "ngoại ô, khu dân cư ven thành phố, vành đai đi lại"
+        },
+        "romaji": "kougai"
       },
       {
         "example": "郊外化",
         "reading": "コウガイカ",
-        "meaning": "ngoại ô hóa"
+        "meaning": {
+          "vi": "ngoại ô hóa"
+        },
+        "romaji": "kougaika"
       },
       {
         "example": "南郊",
         "reading": "ナンコウ",
-        "meaning": "ngoại ô phía nam"
+        "meaning": {
+          "vi": "ngoại ô phía nam"
+        },
+        "romaji": "nankou"
       },
       {
         "example": "北郊",
         "reading": "ホッコウ",
-        "meaning": "ngoại ô phía bắc"
+        "meaning": {
+          "vi": "ngoại ô phía bắc"
+        },
+        "romaji": "hokkou"
       }
     ],
     "kunyomiExamples": [],
@@ -245,5 +257,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90ca.gif",
     "uri": "https://jisho.org/search/%E9%83%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "giao"
+  ]
 }

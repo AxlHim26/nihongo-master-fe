@@ -313,59 +313,92 @@
       {
         "example": "捕鯨",
         "reading": "ホゲイ",
-        "meaning": "whaling, whale hunting, whale fishing"
+        "meaning": {
+          "en": "whaling, whale hunting, whale fishing"
+        },
+        "romaji": "hogei"
       },
       {
         "example": "捕獲",
         "reading": "ホカク",
-        "meaning": "capture, seizure"
+        "meaning": {
+          "vi": "capture, seizure"
+        },
+        "romaji": "hokaku"
       },
       {
         "example": "採捕",
         "reading": "サイホ",
-        "meaning": "collecting (plants and animals), gathering, capturing, catching"
+        "meaning": {
+          "vi": "collecting (plants and animals), gathering, capturing, catching"
+        },
+        "romaji": "saiho"
       },
       {
         "example": "再逮捕",
         "reading": "サイタイホ",
-        "meaning": "rearrest, recapture"
+        "meaning": {
+          "vi": "rearrest, recapture"
+        },
+        "romaji": "saitaiho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "捉える",
         "reading": "とらえる",
-        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+        "meaning": {
+          "vi": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+        },
+        "romaji": "toraeru"
       },
       {
         "example": "囚われる",
         "reading": "とらわれる",
-        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        "meaning": {
+          "vi": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        },
+        "romaji": "torawareru"
       },
       {
         "example": "捕る",
         "reading": "とる",
-        "meaning": "to catch (a wild animal, fish, insect, baseball, etc.), to capture"
+        "meaning": {
+          "vi": "to catch (a wild animal, fish, insect, baseball, etc.), to capture"
+        },
+        "romaji": "toru"
       },
       {
         "example": "捉える",
         "reading": "とらえる",
-        "meaning": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+        "meaning": {
+          "vi": "to catch, to capture, to seize, to arrest, to grab, to catch hold of, to grasp (e.g. meaning), to perceive, to capture (e.g. features), to captivate, to move (one's heart)"
+        },
+        "romaji": "toraeru"
       },
       {
         "example": "囚われる",
         "reading": "とらわれる",
-        "meaning": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        "meaning": {
+          "vi": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+        },
+        "romaji": "torawareru"
       },
       {
         "example": "捕まえる",
         "reading": "つかまえる",
-        "meaning": "to catch, to capture, to arrest, to seize, to restrain, to grab, to clutch, to grasp, to seize, to hold on to, to catch hold of (someone), to stop (e.g. a stranger in the street), to hail (a taxi, waiter, etc.), to hold (someone) back, to detain, towards (someone), at (someone), in (someone's) face"
+        "meaning": {
+          "vi": "to catch, to capture, to arrest, to seize, to restrain, to grab, to clutch, to grasp, to seize, to hold on to, to catch hold of (someone), to stop (e.g. a stranger in the street), to hail (a taxi, waiter, etc.), to hold (someone) back, to detain, towards (someone), at (someone), in (someone's) face"
+        },
+        "romaji": "tsukamaeru"
       },
       {
         "example": "捕まる",
         "reading": "つかまる",
-        "meaning": "to be caught, to be arrested, to hold on to, to grasp, to find (e.g. proof), to get (e.g. a taxi), to be detained by"
+        "meaning": {
+          "vi": "to be caught, to be arrested, to hold on to, to grasp, to find (e.g. proof), to get (e.g. a taxi), to be detained by"
+        },
+        "romaji": "tsukamaru"
       }
     ],
     "radical": {
@@ -385,5 +418,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06355.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6355.gif",
     "uri": "https://jisho.org/search/%E6%8D%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "bổ",
+    "bộ"
+  ]
 }

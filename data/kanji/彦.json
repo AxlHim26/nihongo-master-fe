@@ -18,34 +18,52 @@
       {
         "example": "諸彦",
         "reading": "ショゲン",
-        "meaning": "many accomplished persons"
+        "meaning": {
+          "vi": "many accomplished persons"
+        },
+        "romaji": "shogen"
       },
       {
         "example": "俊彦",
         "reading": "シュンゲン",
-        "meaning": "gifted man, accomplished man"
+        "meaning": {
+          "vi": "gifted man, accomplished man"
+        },
+        "romaji": "shungen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "彦",
         "reading": "ひこ",
-        "meaning": "boy"
+        "meaning": {
+          "en": "boy"
+        },
+        "romaji": "hiko"
       },
       {
         "example": "彦星",
         "reading": "ひこぼし",
-        "meaning": "Altair (star in the constellation Aquila), Alpha Aquilae"
+        "meaning": {
+          "vi": "Altair (star in the constellation Aquila), Alpha Aquilae"
+        },
+        "romaji": "hikoboshi"
       },
       {
         "example": "猿田彦",
         "reading": "さるたひこ",
-        "meaning": "Sarutahiko (deity)"
+        "meaning": {
+          "en": "Sarutahiko (deity)"
+        },
+        "romaji": "sarutahiko"
       },
       {
         "example": "長髄彦",
         "reading": "ながすねひこ",
-        "meaning": "Nagasunehiko, legendary clan leader who opposed Emperor Jimmu's unification of Japan and was subsequently killed by the deity Nigihayahi"
+        "meaning": {
+          "vi": "Nagasunehiko, legendary clan leader who opposed Emperor Jimmu's unification of Japan and was subsequently killed by the deity Nigihayahi"
+        },
+        "romaji": "nagasunehiko"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f66.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f66.gif",
     "uri": "https://jisho.org/search/%E5%BD%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạn"
+  ]
 }

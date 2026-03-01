@@ -368,29 +368,44 @@
       {
         "example": "利",
         "reading": "リ",
-        "meaning": "advantage, benefit, profit, interest"
+        "meaning": {
+          "vi": "advantage, benefit, profit, interest"
+        },
+        "romaji": "ri"
       },
       {
         "example": "利上げ",
         "reading": "リアゲ",
-        "meaning": "increase in interest rates"
+        "meaning": {
+          "en": "increase in interest rates"
+        },
+        "romaji": "riage"
       },
       {
         "example": "低利",
         "reading": "テイリ",
-        "meaning": "low interest rate"
+        "meaning": {
+          "en": "low interest rate"
+        },
+        "romaji": "teiri"
       },
       {
         "example": "水利",
         "reading": "スイリ",
-        "meaning": "utilization of water, water supply, irrigation, water transportation, navigability (e.g. of a river)"
+        "meaning": {
+          "vi": "utilization of water, water supply, irrigation, water transportation, navigability (e.g. of a river)"
+        },
+        "romaji": "suiri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "効く",
         "reading": "きく",
-        "meaning": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try"
+        "meaning": {
+          "vi": "to be effective, to take effect, to be good (for), to work, to function well, to be possible (to do, use, etc.), to be able to, to taste (alcohol), to try"
+        },
+        "romaji": "kiku"
       }
     ],
     "radical": {
@@ -408,5 +423,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05229.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5229.gif",
     "uri": "https://jisho.org/search/%E5%88%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "lợi"
+  ]
 }

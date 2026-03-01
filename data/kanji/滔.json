@@ -16,12 +16,18 @@
       {
         "example": "滔々",
         "reading": "トウトウ",
-        "meaning": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        "meaning": {
+          "vi": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        },
+        "romaji": "toutou"
       },
       {
         "example": "滔々",
         "reading": "トウトウ",
-        "meaning": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        "meaning": {
+          "vi": "torrentially, swiftly flowing (water, esp. river), voluminously flowing, (speak) eloquently, fluently, spout forth (a torrent of speech), flood of the times (moving strongly in one direction), current of the times"
+        },
+        "romaji": "toutou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed4.gif",
     "uri": "https://jisho.org/search/%E6%BB%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "thao",
+    "đào"
+  ]
 }

@@ -278,22 +278,34 @@
       {
         "example": "昨",
         "reading": "サク",
-        "meaning": "last (year), yesterday"
+        "meaning": {
+          "en": "last (year), yesterday"
+        },
+        "romaji": "saku"
       },
       {
         "example": "昨今",
         "reading": "サッコン",
-        "meaning": "these days, nowadays, recently, lately"
+        "meaning": {
+          "en": "these days, nowadays, recently, lately"
+        },
+        "romaji": "sakkon"
       },
       {
         "example": "一昨",
         "reading": "イッサク",
-        "meaning": "one previous"
+        "meaning": {
+          "vi": "one previous"
+        },
+        "romaji": "issaku"
       },
       {
         "example": "一昨昨",
         "reading": "イッサクサク",
-        "meaning": "three (days, years, etc.) ago, two ... before last"
+        "meaning": {
+          "en": "three (days, years, etc.) ago, two ... before last"
+        },
+        "romaji": "issakusaku"
       }
     ],
     "kunyomiExamples": [],
@@ -310,5 +322,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06628.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6628.gif",
     "uri": "https://jisho.org/search/%E6%98%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tạc"
+  ]
 }

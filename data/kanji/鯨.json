@@ -19,44 +19,68 @@
       {
         "example": "鯨肉",
         "reading": "ゲイニク",
-        "meaning": "whale meat"
+        "meaning": {
+          "en": "whale meat"
+        },
+        "romaji": "geiniku"
       },
       {
         "example": "鯨飲",
         "reading": "ゲイイン",
-        "meaning": "drinking hard, drinking like a fish"
+        "meaning": {
+          "en": "drinking hard, drinking like a fish"
+        },
+        "romaji": "geiin"
       },
       {
         "example": "酔鯨",
         "reading": "スイゲイ",
-        "meaning": "Suigei"
+        "meaning": {
+          "en": "Suigei"
+        },
+        "romaji": "suigei"
       },
       {
         "example": "白鯨",
         "reading": "ハクゲイ",
-        "meaning": "Moby-Dick (1851 novel by Herman Melville)"
+        "meaning": {
+          "en": "Moby-Dick (1851 novel by Herman Melville)"
+        },
+        "romaji": "hakugei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鯨",
         "reading": "くじら",
-        "meaning": "whale (Cetacea spp.)"
+        "meaning": {
+          "vi": "whale (Cetacea spp.)"
+        },
+        "romaji": "kujira"
       },
       {
         "example": "鯨肉",
         "reading": "げいにく",
-        "meaning": "whale meat"
+        "meaning": {
+          "en": "whale meat"
+        },
+        "romaji": "geiniku"
       },
       {
         "example": "タスマニア鯨",
         "reading": "タスマニアくじら",
-        "meaning": "Shepherd's beaked whale (Tasmacetus shepherdi)"
+        "meaning": {
+          "vi": "Shepherd's beaked whale (Tasmacetus shepherdi)"
+        },
+        "romaji": "tasumaniakujira"
       },
       {
         "example": "五島鯨",
         "reading": "ごとうくじら",
-        "meaning": "larger whales of family Delphinidae (esp. the pilot whale or blackfish)"
+        "meaning": {
+          "vi": "larger whales of family Delphinidae (esp. the pilot whale or blackfish)"
+        },
+        "romaji": "gotoukujira"
       }
     ],
     "radical": {
@@ -75,5 +99,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be8.gif",
     "uri": "https://jisho.org/search/%E9%AF%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "canh",
+    "kình"
+  ]
 }

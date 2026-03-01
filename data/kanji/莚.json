@@ -16,19 +16,28 @@
       {
         "example": "筵",
         "reading": "ムシロ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": {
+          "vi": "woven mat (esp. one made of straw), seat"
+        },
+        "romaji": "mushiro"
       },
       {
         "example": "莚席",
         "reading": "エンセキ",
-        "meaning": "matting"
+        "meaning": {
+          "en": "matting"
+        },
+        "romaji": "enseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "筵",
         "reading": "むしろ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": {
+          "vi": "woven mat (esp. one made of straw), seat"
+        },
+        "romaji": "mushiro"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0839a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/839a.gif",
     "uri": "https://jisho.org/search/%E8%8E%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên"
+  ]
 }

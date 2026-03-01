@@ -232,29 +232,44 @@
       {
         "example": "冒頭",
         "reading": "ボウトウ",
-        "meaning": "beginning, opening, start, outset"
+        "meaning": {
+          "vi": "beginning, opening, start, outset"
+        },
+        "romaji": "boutou"
       },
       {
         "example": "冒険",
         "reading": "ボウケン",
-        "meaning": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"
+        "meaning": {
+          "vi": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"
+        },
+        "romaji": "bouken"
       },
       {
         "example": "感冒",
         "reading": "カンボウ",
-        "meaning": "(common) cold"
+        "meaning": {
+          "en": "(common) cold"
+        },
+        "romaji": "kanbou"
       },
       {
         "example": "流行性感冒",
         "reading": "リュウコウセイカンボウ",
-        "meaning": "influenza, flu"
+        "meaning": {
+          "en": "influenza, flu"
+        },
+        "romaji": "ryuukouseikanbou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "冒す",
         "reading": "おかす",
-        "meaning": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"
+        "meaning": {
+          "vi": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"
+        },
+        "romaji": "okasu"
       }
     ],
     "radical": {
@@ -269,5 +284,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05192.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5192.gif",
     "uri": "https://jisho.org/search/%E5%86%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạo",
+    "mặc"
+  ]
 }

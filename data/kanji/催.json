@@ -20,29 +20,44 @@
       {
         "example": "催涙",
         "reading": "サイルイ",
-        "meaning": "tear-inducing"
+        "meaning": {
+          "en": "tear-inducing"
+        },
+        "romaji": "sairui"
       },
       {
         "example": "催促",
         "reading": "サイソク",
-        "meaning": "pressing, urging, demanding, demand"
+        "meaning": {
+          "vi": "pressing, urging, demanding, demand"
+        },
+        "romaji": "saisoku"
       },
       {
         "example": "共催",
         "reading": "キョウサイ",
-        "meaning": "joint sponsorship (of an event), cosponsorship, joint hosting"
+        "meaning": {
+          "vi": "joint sponsorship (of an event), cosponsorship, joint hosting"
+        },
+        "romaji": "kyousai"
       },
       {
         "example": "併催",
         "reading": "ヘイサイ",
-        "meaning": "combining a pair of events, joint"
+        "meaning": {
+          "vi": "combining a pair of events, joint"
+        },
+        "romaji": "heisai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "催す",
         "reading": "もよおす",
-        "meaning": "to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of"
+        "meaning": {
+          "vi": "to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of"
+        },
+        "romaji": "moyoosu"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ac.gif",
     "uri": "https://jisho.org/search/%E5%82%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "thôi"
+  ]
 }

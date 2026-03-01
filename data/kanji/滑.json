@@ -21,34 +21,52 @@
       {
         "example": "滑落",
         "reading": "カツラク",
-        "meaning": "sliding down (a slope, mountainside), slipping down"
+        "meaning": {
+          "vi": "sliding down (a slope, mountainside), slipping down"
+        },
+        "romaji": "katsuraku"
       },
       {
         "example": "滑液",
         "reading": "カツエキ",
-        "meaning": "synovial fluid"
+        "meaning": {
+          "en": "synovial fluid"
+        },
+        "romaji": "katsueki"
       },
       {
         "example": "平滑",
         "reading": "ヘイカツ",
-        "meaning": "smooth, even, level, flat"
+        "meaning": {
+          "en": "smooth, even, level, flat"
+        },
+        "romaji": "heikatsu"
       },
       {
         "example": "粘滑",
         "reading": "ネンカツ",
-        "meaning": "mucilaginous, demulcent"
+        "meaning": {
+          "en": "mucilaginous, demulcent"
+        },
+        "romaji": "nenkatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滑る",
         "reading": "すべる",
-        "meaning": "to slide, to glide, to skate, to ski, to slip, to skid, to be slippery, to fail (an examination), to lose (a position), to be demoted, to bomb (when telling a joke), to fall flat"
+        "meaning": {
+          "vi": "to slide, to glide, to skate, to ski, to slip, to skid, to be slippery, to fail (an examination), to lose (a position), to be demoted, to bomb (when telling a joke), to fall flat"
+        },
+        "romaji": "suberu"
       },
       {
         "example": "滑らか",
         "reading": "なめらか",
-        "meaning": "smooth (of a surface), glassy, velvety, soft, smooth (of an action, proceedings, etc.), fluent (speech), fluid, trouble-free, continuously differentiable"
+        "meaning": {
+          "vi": "smooth (of a surface), glassy, velvety, soft, smooth (of an action, proceedings, etc.), fluent (speech), fluid, trouble-free, continuously differentiable"
+        },
+        "romaji": "nameraka"
       }
     ],
     "radical": {
@@ -70,5 +88,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed1.gif",
     "uri": "https://jisho.org/search/%E6%BB%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "cốt",
+    "hoạt"
+  ]
 }

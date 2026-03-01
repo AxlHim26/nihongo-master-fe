@@ -327,69 +327,108 @@
       {
         "example": "逆",
         "reading": "ギャク",
-        "meaning": "reverse, opposite, converse (of a hypothesis, etc.), inverse (function)"
+        "meaning": {
+          "vi": "reverse, opposite, converse (of a hypothesis, etc.), inverse (function)"
+        },
+        "romaji": "gyaku"
       },
       {
         "example": "逆効果",
         "reading": "ギャクコウカ",
-        "meaning": "opposite effect, adverse effect, backfiring"
+        "meaning": {
+          "vi": "opposite effect, adverse effect, backfiring"
+        },
+        "romaji": "gyakukouka"
       },
       {
         "example": "反逆",
         "reading": "ハンギャク",
-        "meaning": "treason, treachery, mutiny, rebellion, insurrection"
+        "meaning": {
+          "en": "treason, treachery, mutiny, rebellion, insurrection"
+        },
+        "romaji": "hangyaku"
       },
       {
         "example": "可逆",
         "reading": "カギャク",
-        "meaning": "reversible, invertible"
+        "meaning": {
+          "en": "reversible, invertible"
+        },
+        "romaji": "kagyaku"
       },
       {
         "example": "逆旅",
         "reading": "ゲキリョ",
-        "meaning": "inn"
+        "meaning": {
+          "en": "inn"
+        },
+        "romaji": "gekiryo"
       },
       {
         "example": "逆鱗",
         "reading": "ゲキリン",
-        "meaning": "one's superior's anger, imperial wrath"
+        "meaning": {
+          "vi": "one's superior's anger, imperial wrath"
+        },
+        "romaji": "gekirin"
       },
       {
         "example": "莫逆",
         "reading": "バクギャク",
-        "meaning": "cordial relations"
+        "meaning": {
+          "en": "cordial relations"
+        },
+        "romaji": "bakugyaku"
       },
       {
         "example": "乱逆",
         "reading": "ランギャク",
-        "meaning": "rebellion"
+        "meaning": {
+          "en": "rebellion"
+        },
+        "romaji": "rangyaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "逆",
         "reading": "さか",
-        "meaning": "inverse, reverse"
+        "meaning": {
+          "en": "inverse, reverse"
+        },
+        "romaji": "saka"
       },
       {
         "example": "逆さ",
         "reading": "さかさ",
-        "meaning": "inverted, upside down, reversed, back to front"
+        "meaning": {
+          "vi": "inverted, upside down, reversed, back to front"
+        },
+        "romaji": "sakasa"
       },
       {
         "example": "逆さ",
         "reading": "さかさ",
-        "meaning": "inverted, upside down, reversed, back to front"
+        "meaning": {
+          "vi": "inverted, upside down, reversed, back to front"
+        },
+        "romaji": "sakasa"
       },
       {
         "example": "逆さま",
         "reading": "さかさま",
-        "meaning": "inverted, upside down, reversed, back to front, wrong way round"
+        "meaning": {
+          "vi": "inverted, upside down, reversed, back to front, wrong way round"
+        },
+        "romaji": "sakasama"
       },
       {
         "example": "逆らう",
         "reading": "さからう",
-        "meaning": "to go against, to oppose, to disobey, to defy"
+        "meaning": {
+          "vi": "to go against, to oppose, to disobey, to defy"
+        },
+        "romaji": "sakarau"
       }
     ],
     "radical": {
@@ -410,5 +449,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09006.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9006.gif",
     "uri": "https://jisho.org/search/%E9%80%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghịch",
+    "nghịnh"
+  ]
 }

@@ -283,59 +283,92 @@
       {
         "example": "宗",
         "reading": "シュウ",
-        "meaning": "sect, denomination, tenets (of a religious sect)"
+        "meaning": {
+          "en": "sect, denomination, tenets (of a religious sect)"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "宗教",
         "reading": "シュウキョウ",
-        "meaning": "religion, religious affiliation, belief, faith, creed, religious activity"
+        "meaning": {
+          "en": "religion, religious affiliation, belief, faith, creed, religious activity"
+        },
+        "romaji": "shuukyou"
       },
       {
         "example": "浄土真宗",
         "reading": "ジョウドシンシュウ",
-        "meaning": "Jōdo Shinshū (offshoot of the Jōdo sect), True Pure Land School"
+        "meaning": {
+          "vi": "Jōdo Shinshū (offshoot of the Jōdo sect), True Pure Land School"
+        },
+        "romaji": "joudoshinshuu"
       },
       {
         "example": "浄土宗",
         "reading": "ジョウドシュウ",
-        "meaning": "Pure Land sect (of Buddhism), Jodo (sect)"
+        "meaning": {
+          "vi": "Pure Land sect (of Buddhism), Jodo (sect)"
+        },
+        "romaji": "joudoshuu"
       },
       {
         "example": "宗",
         "reading": "ソウ",
-        "meaning": "origin, source, virtuous ancestor"
+        "meaning": {
+          "en": "origin, source, virtuous ancestor"
+        },
+        "romaji": "sou"
       },
       {
         "example": "宗家",
         "reading": "ソウケ",
-        "meaning": "head of family, head house, sōke, founder (of a style, etc.), originator"
+        "meaning": {
+          "en": "head of family, head house, sōke, founder (of a style, etc.), originator"
+        },
+        "romaji": "souke"
       },
       {
         "example": "大宗",
         "reading": "タイソウ",
-        "meaning": "leading figure, foundation"
+        "meaning": {
+          "en": "leading figure, foundation"
+        },
+        "romaji": "taisou"
       },
       {
         "example": "皇宗",
         "reading": "コウソウ",
-        "meaning": "imperial ancestors"
+        "meaning": {
+          "vi": "imperial ancestors"
+        },
+        "romaji": "kousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旨",
         "reading": "むね",
-        "meaning": "principle, aim, main purpose, central part, pillar, purport, gist, drift, meaning, instructions, orders, intention, wishes"
+        "meaning": {
+          "vi": "principle, aim, main purpose, central part, pillar, purport, gist, drift, meaning, instructions, orders, intention, wishes"
+        },
+        "romaji": "mune"
       },
       {
         "example": "正宗",
         "reading": "まさむね",
-        "meaning": "famous sword, sword blade by Masamune, sake, Japanese rice wine, brand of sake from Nada region during Tenpō era (1830-1844)"
+        "meaning": {
+          "vi": "famous sword, sword blade by Masamune, sake, Japanese rice wine, brand of sake from Nada region during Tenpō era (1830-1844)"
+        },
+        "romaji": "masamune"
       },
       {
         "example": "独眼竜政宗",
         "reading": "どくがんりゅうまさむね",
-        "meaning": "Dokuganryū Masamune (NHK Taiga drama, 1987)"
+        "meaning": {
+          "en": "Dokuganryū Masamune (NHK Taiga drama, 1987)"
+        },
+        "romaji": "dokuganryuumasamune"
       }
     ],
     "radical": {
@@ -352,5 +385,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b97.gif",
     "uri": "https://jisho.org/search/%E5%AE%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tôn",
+    "tông"
+  ]
 }

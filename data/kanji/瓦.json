@@ -19,39 +19,60 @@
       {
         "example": "瓦斯",
         "reading": "ガス",
-        "meaning": "gas (as a fuel), gas (state of matter), poison gas, dense fog, thick fog, gas stove, gas cooker, gas range, gasoline, gas, petrol, flatulence, gas, wind, fart, gassed yarn"
+        "meaning": {
+          "vi": "gas (as a fuel), gas (state of matter), poison gas, dense fog, thick fog, gas stove, gas cooker, gas range, gasoline, gas, petrol, flatulence, gas, wind, fart, gassed yarn"
+        },
+        "romaji": "gasu"
       },
       {
         "example": "瓦礫",
         "reading": "ガレキ",
-        "meaning": "rubble, debris, wreckage, tiles and pebbles, trash, rubbish"
+        "meaning": {
+          "vi": "rubble, debris, wreckage, tiles and pebbles, trash, rubbish"
+        },
+        "romaji": "gareki"
       },
       {
         "example": "鞍橋",
         "reading": "クラボネ",
-        "meaning": "saddle tree"
+        "meaning": {
+          "en": "saddle tree"
+        },
+        "romaji": "kurabone"
       },
       {
         "example": "舗装煉瓦",
         "reading": "ホソウレンガ",
-        "meaning": "paving brick"
+        "meaning": {
+          "vi": "paving brick"
+        },
+        "romaji": "hosourenga"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "瓦",
         "reading": "かわら",
-        "meaning": "roof tile"
+        "meaning": {
+          "en": "roof tile"
+        },
+        "romaji": "kawara"
       },
       {
         "example": "瓦状",
         "reading": "かわらがさね",
-        "meaning": "imbricate, tegular, overlapping"
+        "meaning": {
+          "vi": "imbricate, tegular, overlapping"
+        },
+        "romaji": "kawaragasane"
       },
       {
         "example": "瓦",
         "reading": "グラム",
-        "meaning": "gram, gramme"
+        "meaning": {
+          "en": "gram, gramme"
+        },
+        "romaji": "guramu"
       }
     ],
     "radical": {
@@ -66,5 +87,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/074e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/74e6.gif",
     "uri": "https://jisho.org/search/%E7%93%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngoá",
+    "ngoã"
+  ]
 }

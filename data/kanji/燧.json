@@ -18,24 +18,36 @@
       {
         "example": "火打石",
         "reading": "ヒウチイシ",
-        "meaning": "flint, firestone"
+        "meaning": {
+          "en": "flint, firestone"
+        },
+        "romaji": "hiuchiishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "火打石",
         "reading": "ひうちいし",
-        "meaning": "flint, firestone"
+        "meaning": {
+          "en": "flint, firestone"
+        },
+        "romaji": "hiuchiishi"
       },
       {
         "example": "火打ち金",
         "reading": "ひうちがね",
-        "meaning": "striker (triangular piece of steel used with flint to create sparks)"
+        "meaning": {
+          "vi": "striker (triangular piece of steel used with flint to create sparks)"
+        },
+        "romaji": "hiuchigane"
       },
       {
         "example": "火鑽",
         "reading": "ひきり",
-        "meaning": "hand drilling (to start a fire), hand drill, rubbing sticks to make a fire"
+        "meaning": {
+          "en": "hand drilling (to start a fire), hand drill, rubbing sticks to make a fire"
+        },
+        "romaji": "hikiri"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/071e7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/71e7.gif",
     "uri": "https://jisho.org/search/%E7%87%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "toại"
+  ]
 }

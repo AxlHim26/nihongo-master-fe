@@ -20,7 +20,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_a.mp3"
-        }
+        },
+        "meaningVN": "hoàn thành",
+        "hanViet": "cạnh tranh す る",
+        "hanVietExplain": "競 (cạnh: mạnh, khỏe) + 争 (tranh: tranh giành) → hoàn thành"
       },
       {
         "japanese": "戦争（せんそう）",
@@ -32,7 +35,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_b.mp3"
-        }
+        },
+        "meaningVN": "chiến tranh",
+        "hanViet": "chiến tranh",
+        "hanVietExplain": "戦 (chiến: ?) + 争 (tranh: tranh giành) → chiến tranh"
       },
       {
         "japanese": "紛争（ふんそう）",
@@ -44,7 +50,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_c.mp3"
-        }
+        },
+        "meaningVN": "tranh luận",
+        "hanViet": "phân tranh",
+        "hanVietExplain": "紛 (phân: rối rắm) + 争 (tranh: tranh giành) → tranh luận"
       },
       {
         "japanese": "論争（ろんそう）",
@@ -56,7 +65,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_d.mp3"
-        }
+        },
+        "meaningVN": "tranh cãi, tranh chấp",
+        "hanViet": "luân tranh",
+        "hanVietExplain": "論 (luân: bàn bạc) + 争 (tranh: tranh giành) → tranh cãi, tranh chấp"
       },
       {
         "japanese": "闘争（とうそう）",
@@ -68,7 +80,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_e.mp3"
-        }
+        },
+        "meaningVN": "xung đột, xung đột",
+        "hanViet": "đấu tranh",
+        "hanVietExplain": "闘 (đấu: tranh đấu) + 争 (tranh: tranh giành) → xung đột, xung đột"
       },
       {
         "japanese": "争点（そうてん）",
@@ -80,7 +95,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_f.mp3"
-        }
+        },
+        "meaningVN": "điểm vào vấn đề",
+        "hanViet": "tranh điểm",
+        "hanVietExplain": "争 (tranh: tranh giành) + 点 (điểm: điểm, chấm, nốt, giờ) → điểm vào vấn đề"
       },
       {
         "japanese": "争う（あらそう）",
@@ -92,7 +110,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou-araso(u)_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou-araso(u)_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou-araso(u)_06_g.mp3"
-        }
+        },
+        "meaningVN": "tranh luận, tranh luận, cạnh tranh",
+        "hanViet": "tranh う",
+        "hanVietExplain": "tranh: tranh giành, bàn luận, sai khác, khác biệt, khuyên bảo, nào, thế nào"
       }
     ],
     "kunyomi_ja": "あらそう、あらそい、あらそ",
@@ -320,34 +341,70 @@
       {
         "example": "争奪",
         "reading": "ソウダツ",
-        "meaning": "struggle (for), scramble, contest"
+        "meaning": {
+          "en": "struggle (for), scramble, contest"
+        },
+        "meaningVN": "đấu tranh (vì), tranh giành, tranh giành",
+        "hanViet": "tranh đoạt",
+        "hanVietExplain": "争 (tranh: tranh giành) + 奪 (đoạt: cướp lấy) → đấu tranh (vì), tranh giành, tranh giành",
+        "romaji": "soudatsu"
       },
       {
         "example": "争議",
         "reading": "ソウギ",
-        "meaning": "dispute, quarrel, strike"
+        "meaning": {
+          "vi": "dispute, quarrel, strike"
+        },
+        "meaningVN": "tranh chấp, cãi vã, đình công",
+        "hanViet": "tranh nghị",
+        "hanVietExplain": "争 (tranh: tranh giành) + 議 (nghị: bàn bạc) → tranh chấp, cãi vã, đình công",
+        "romaji": "sougi"
       },
       {
         "example": "係争",
         "reading": "ケイソウ",
-        "meaning": "dispute, contention, conflict, controversy"
+        "meaning": {
+          "vi": "dispute, contention, conflict, controversy"
+        },
+        "meaningVN": "sự tranh cãi, sự tranh cãi, sự xung đột, sự tranh cãi",
+        "hanViet": "hệ tranh",
+        "hanVietExplain": "係 (hệ: buộc, bó, nối) + 争 (tranh: tranh giành) → sự tranh cãi, sự tranh cãi, sự xung đột, sự tranh cãi",
+        "romaji": "keisou"
       },
       {
         "example": "政争",
         "reading": "セイソウ",
-        "meaning": "political strife"
+        "meaning": {
+          "vi": "political strife"
+        },
+        "meaningVN": "xung đột chính trị",
+        "hanViet": "chinh tranh",
+        "hanVietExplain": "政 (chinh: việc của nhà nước, chính trị) + 争 (tranh: tranh giành) → xung đột chính trị",
+        "romaji": "seisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "争う",
         "reading": "あらそう",
-        "meaning": "to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose, to deny (e.g. evidence)"
+        "meaning": {
+          "vi": "to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose, to deny (e.g. evidence)"
+        },
+        "meaningVN": "cạnh tranh, tranh cãi, tranh luận, cãi vã, tranh luận, tranh luận, không đồng tình, phản đối, phủ nhận (ví dụ: bằng chứng)",
+        "hanViet": "tranh う",
+        "hanVietExplain": "tranh: tranh giành, bàn luận, sai khác, khác biệt, khuyên bảo, nào, thế nào",
+        "romaji": "arasou"
       },
       {
         "example": "争うべからざる",
         "reading": "あらそうべからざる",
-        "meaning": "indisputable"
+        "meaning": {
+          "vi": "indisputable"
+        },
+        "meaningVN": "không thể chối cãi",
+        "hanViet": "tranh う べ か ら ざ る",
+        "hanVietExplain": "tranh: tranh giành, bàn luận, sai khác, khác biệt, khuyên bảo, nào, thế nào",
+        "romaji": "arasoubekarazaru"
       }
     ],
     "radical": {
@@ -364,5 +421,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e89.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e89.gif",
     "uri": "https://jisho.org/search/%E4%BA%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "tranh",
+    "tránh"
+  ],
+  "meaningVN": "tranh luận, tranh luận, tranh cãi",
+  "hanVietExplain": "tranh: tranh giành, bàn luận, sai khác, khác biệt, khuyên bảo, nào, thế nào"
 }

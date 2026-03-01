@@ -215,29 +215,44 @@
       {
         "example": "叫喚",
         "reading": "キョウカン",
-        "meaning": "shout, scream"
+        "meaning": {
+          "en": "shout, scream"
+        },
+        "romaji": "kyoukan"
       },
       {
         "example": "叫号",
         "reading": "キョウゴウ",
-        "meaning": "crying aloud"
+        "meaning": {
+          "en": "crying aloud"
+        },
+        "romaji": "kyougou"
       },
       {
         "example": "哀叫",
         "reading": "アイキョウ",
-        "meaning": "crying loudly with sadness"
+        "meaning": {
+          "en": "crying loudly with sadness"
+        },
+        "romaji": "aikyou"
       },
       {
         "example": "大絶叫",
         "reading": "ダイゼッキョウ",
-        "meaning": "loud scream, screaming at the top of one's lungs"
+        "meaning": {
+          "vi": "loud scream, screaming at the top of one's lungs"
+        },
+        "romaji": "daizekkyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "叫ぶ",
         "reading": "さけぶ",
-        "meaning": "to shout, to cry, to scream, to shriek, to yell, to exclaim, to clamor (for or against), to clamour (for or against)"
+        "meaning": {
+          "en": "to shout, to cry, to scream, to shriek, to yell, to exclaim, to clamor (for or against), to clamour (for or against)"
+        },
+        "romaji": "sakebu"
       }
     ],
     "radical": {
@@ -253,5 +268,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53eb.gif",
     "uri": "https://jisho.org/search/%E5%8F%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiếu"
+  ]
 }

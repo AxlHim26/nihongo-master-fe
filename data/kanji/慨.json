@@ -19,22 +19,34 @@
       {
         "example": "慨する",
         "reading": "ガイスル",
-        "meaning": "to regret, to deplore"
+        "meaning": {
+          "vi": "to regret, to deplore"
+        },
+        "romaji": "gaisuru"
       },
       {
         "example": "慨世",
         "reading": "ガイセイ",
-        "meaning": "deploring the course of public events"
+        "meaning": {
+          "vi": "deploring the course of public events"
+        },
+        "romaji": "gaisei"
       },
       {
         "example": "感慨",
         "reading": "カンガイ",
-        "meaning": "deep emotion, strong feelings"
+        "meaning": {
+          "vi": "deep emotion, strong feelings"
+        },
+        "romaji": "kangai"
       },
       {
         "example": "気概",
         "reading": "キガイ",
-        "meaning": "strong spirit, mettle, backbone, guts, fighting spirit"
+        "meaning": {
+          "vi": "strong spirit, mettle, backbone, guts, fighting spirit"
+        },
+        "romaji": "kigai"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06168.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6168.gif",
     "uri": "https://jisho.org/search/%E6%85%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "khái"
+  ]
 }

@@ -19,44 +19,68 @@
       {
         "example": "壁",
         "reading": "カベ",
-        "meaning": "wall, partition, barrier, obstacle, hindrance, difficulty, Chinese \"Wall\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "wall, partition, barrier, obstacle, hindrance, difficulty, Chinese \"Wall\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "kabe"
       },
       {
         "example": "壁画",
         "reading": "ヘキガ",
-        "meaning": "fresco, mural, wall painting"
+        "meaning": {
+          "vi": "fresco, mural, wall painting"
+        },
+        "romaji": "hekiga"
       },
       {
         "example": "隔壁",
         "reading": "カクヘキ",
-        "meaning": "barrier wall, bulkhead, partition, septum, diaphragm"
+        "meaning": {
+          "vi": "barrier wall, bulkhead, partition, septum, diaphragm"
+        },
+        "romaji": "kakuheki"
       },
       {
         "example": "内壁",
         "reading": "ナイヘキ",
-        "meaning": "inner wall"
+        "meaning": {
+          "en": "inner wall"
+        },
+        "romaji": "naiheki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "壁",
         "reading": "かべ",
-        "meaning": "wall, partition, barrier, obstacle, hindrance, difficulty, Chinese \"Wall\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "wall, partition, barrier, obstacle, hindrance, difficulty, Chinese \"Wall\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "kabe"
       },
       {
         "example": "壁掛け",
         "reading": "かべかけ",
-        "meaning": "wall-mounted ornament, wall decoration, wall hanging, wall-mounted"
+        "meaning": {
+          "en": "wall-mounted ornament, wall decoration, wall hanging, wall-mounted"
+        },
+        "romaji": "kabekake"
       },
       {
         "example": "白壁",
         "reading": "しらかべ",
-        "meaning": "white plaster wall, tofu, bean curd"
+        "meaning": {
+          "vi": "white plaster wall, tofu, bean curd"
+        },
+        "romaji": "shirakabe"
       },
       {
         "example": "厚い壁",
         "reading": "あついかべ",
-        "meaning": "hard-to-overcome obstacle, high hurdle, thick wall"
+        "meaning": {
+          "en": "hard-to-overcome obstacle, high hurdle, thick wall"
+        },
+        "romaji": "atsuikabe"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c1.gif",
     "uri": "https://jisho.org/search/%E5%A3%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "bích"
+  ]
 }

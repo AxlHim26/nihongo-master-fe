@@ -302,44 +302,68 @@
       {
         "example": "塩",
         "reading": "エン",
-        "meaning": "salt (e.g. sodium chloride, calcium sulfate, etc.), chloride"
+        "meaning": {
+          "en": "salt (e.g. sodium chloride, calcium sulfate, etc.), chloride"
+        },
+        "romaji": "en"
       },
       {
         "example": "塩化",
         "reading": "エンカ",
-        "meaning": "chloridation, salification, chloride"
+        "meaning": {
+          "en": "chloridation, salification, chloride"
+        },
+        "romaji": "enka"
       },
       {
         "example": "減塩",
         "reading": "ゲンエン",
-        "meaning": "reduction of salt, sodium restriction"
+        "meaning": {
+          "en": "reduction of salt, sodium restriction"
+        },
+        "romaji": "gen'en"
       },
       {
         "example": "岩塩",
         "reading": "ガンエン",
-        "meaning": "halite, rock salt"
+        "meaning": {
+          "en": "halite, rock salt"
+        },
+        "romaji": "gan'en"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塩",
         "reading": "しお",
-        "meaning": "salt, common salt, table salt, sodium chloride, hardship, toil, trouble, saltiness, cold, unwelcoming, indifferent"
+        "meaning": {
+          "vi": "salt, common salt, table salt, sodium chloride, hardship, toil, trouble, saltiness, cold, unwelcoming, indifferent"
+        },
+        "romaji": "shio"
       },
       {
         "example": "塩田",
         "reading": "えんでん",
-        "meaning": "saltpan, field for drying salt"
+        "meaning": {
+          "vi": "saltpan, field for drying salt"
+        },
+        "romaji": "enden"
       },
       {
         "example": "岩塩",
         "reading": "がんえん",
-        "meaning": "halite, rock salt"
+        "meaning": {
+          "en": "halite, rock salt"
+        },
+        "romaji": "gan'en"
       },
       {
         "example": "手塩",
         "reading": "てしお",
-        "meaning": "table salt, small plate"
+        "meaning": {
+          "vi": "table salt, small plate"
+        },
+        "romaji": "teshio"
       }
     ],
     "radical": {
@@ -359,5 +383,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05869.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5869.gif",
     "uri": "https://jisho.org/search/%E5%A1%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "diêm"
+  ]
 }

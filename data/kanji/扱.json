@@ -24,22 +24,34 @@
       {
         "example": "扱い",
         "reading": "あつかい",
-        "meaning": "treatment, service, dealing (with), handling, management, handling (of a machine, tool, etc.), operation, use, treating as, treating like"
+        "meaning": {
+          "vi": "treatment, service, dealing (with), handling, management, handling (of a machine, tool, etc.), operation, use, treating as, treating like"
+        },
+        "romaji": "atsukai"
       },
       {
         "example": "扱い方",
         "reading": "あつかいかた",
-        "meaning": "how to manage (e.g. case), how to handle (e.g. machine), way with (e.g. children, animal)"
+        "meaning": {
+          "en": "how to manage (e.g. case), how to handle (e.g. machine), way with (e.g. children, animal)"
+        },
+        "romaji": "atsukaikata"
       },
       {
         "example": "扱う",
         "reading": "あつかう",
-        "meaning": "to deal with (a person), to treat, to handle, to take care of, to entertain, to deal with (a problem), to handle, to manage, to operate (e.g. a machine), to handle, to work, to deal in, to sell, to cover (a topic), to treat, to discuss, to take up, to treat A as B, to mediate (an argument), to be too much for one, to find unmanageable, to gossip"
+        "meaning": {
+          "vi": "to deal with (a person), to treat, to handle, to take care of, to entertain, to deal with (a problem), to handle, to manage, to operate (e.g. a machine), to handle, to work, to deal in, to sell, to cover (a topic), to treat, to discuss, to take up, to treat A as B, to mediate (an argument), to be too much for one, to find unmanageable, to gossip"
+        },
+        "romaji": "atsukau"
       },
       {
         "example": "扱く",
         "reading": "こく",
-        "meaning": "to thresh, to strip"
+        "meaning": {
+          "vi": "to thresh, to strip"
+        },
+        "romaji": "koku"
       }
     ],
     "radical": {
@@ -57,5 +69,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06271.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6271.gif",
     "uri": "https://jisho.org/search/%E6%89%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "hấp",
+    "tháp",
+    "tráp"
+  ]
 }

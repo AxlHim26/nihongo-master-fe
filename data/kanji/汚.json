@@ -352,59 +352,92 @@
       {
         "example": "汚水",
         "reading": "オスイ",
-        "meaning": "filthy water, sewage"
+        "meaning": {
+          "en": "filthy water, sewage"
+        },
+        "romaji": "osui"
       },
       {
         "example": "汚職",
         "reading": "オショク",
-        "meaning": "corruption"
+        "meaning": {
+          "vi": "corruption"
+        },
+        "romaji": "oshoku"
       },
       {
         "example": "防汚",
         "reading": "ボウオ",
-        "meaning": "antifouling, stain resistance, stain-proofing, anti-soiling"
+        "meaning": {
+          "vi": "antifouling, stain resistance, stain-proofing, anti-soiling"
+        },
+        "romaji": "bouo"
       },
       {
         "example": "貪汚",
         "reading": "タンオ",
-        "meaning": "greed, corruption"
+        "meaning": {
+          "vi": "greed, corruption"
+        },
+        "romaji": "tan'o"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汚す",
         "reading": "よごす",
-        "meaning": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile"
+        "meaning": {
+          "vi": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile"
+        },
+        "romaji": "yogosu"
       },
       {
         "example": "汚れる",
         "reading": "けがれる",
-        "meaning": "to be violated, to be corrupted, to be polluted, to be stained"
+        "meaning": {
+          "vi": "to be violated, to be corrupted, to be polluted, to be stained"
+        },
+        "romaji": "kegareru"
       },
       {
         "example": "汚らわしい",
         "reading": "けがらわしい",
-        "meaning": "filthy, unfair, dirty, untouchable, disgusting, nasty, foul, odious, repulsive"
+        "meaning": {
+          "vi": "filthy, unfair, dirty, untouchable, disgusting, nasty, foul, odious, repulsive"
+        },
+        "romaji": "kegarawashii"
       },
       {
         "example": "汚す",
         "reading": "よごす",
-        "meaning": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile"
+        "meaning": {
+          "vi": "to pollute, to contaminate, to soil, to make dirty, to stain, to disgrace, to dishonour, to dishonor, to defile"
+        },
+        "romaji": "yogosu"
       },
       {
         "example": "汚れる",
         "reading": "よごれる",
-        "meaning": "to get dirty, to become dirty, to become sullied, to become corrupted, to lose one's chastity"
+        "meaning": {
+          "vi": "to get dirty, to become dirty, to become sullied, to become corrupted, to lose one's chastity"
+        },
+        "romaji": "yogoreru"
       },
       {
         "example": "汚い",
         "reading": "きたない",
-        "meaning": "dirty, filthy, foul, unclean, disordered, messy, untidy, poor (e.g. handwriting), indecent (language, etc.), dirty, vulgar, coarse, dastardly, mean, base, underhanded, stingy, greedy"
+        "meaning": {
+          "vi": "dirty, filthy, foul, unclean, disordered, messy, untidy, poor (e.g. handwriting), indecent (language, etc.), dirty, vulgar, coarse, dastardly, mean, base, underhanded, stingy, greedy"
+        },
+        "romaji": "kitanai"
       },
       {
         "example": "汚い戦争",
         "reading": "きたないせんそう",
-        "meaning": "Dirty War (period of state terrorism in Argentina; 1976-1983)"
+        "meaning": {
+          "vi": "Dirty War (period of state terrorism in Argentina; 1976-1983)"
+        },
+        "romaji": "kitanaisensou"
       }
     ],
     "radical": {
@@ -425,5 +458,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c5a.gif",
     "uri": "https://jisho.org/search/%E6%B1%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "ô",
+    "ố"
+  ]
 }

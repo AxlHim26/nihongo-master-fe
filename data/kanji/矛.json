@@ -20,34 +20,52 @@
       {
         "example": "矛盾",
         "reading": "ムジュン",
-        "meaning": "contradiction, inconsistency"
+        "meaning": {
+          "en": "contradiction, inconsistency"
+        },
+        "romaji": "mujun"
       },
       {
         "example": "矛盾原理",
         "reading": "ムジュンゲンリ",
-        "meaning": "principle of contradiction, law of contradiction"
+        "meaning": {
+          "vi": "principle of contradiction, law of contradiction"
+        },
+        "romaji": "mujungenri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "矛",
         "reading": "ほこ",
-        "meaning": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+        "meaning": {
+          "vi": "long-handled Chinese spear, lance, pike, weapon, arms, grip of a bow, parade float decorated with long-handled Chinese spears"
+        },
+        "romaji": "hoko"
       },
       {
         "example": "矛先",
         "reading": "ほこさき",
-        "meaning": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+        "meaning": {
+          "vi": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+        },
+        "romaji": "hokosaki"
       },
       {
         "example": "銅矛",
         "reading": "どうほこ",
-        "meaning": "bronze hoko, bronze halberd, bronze spearhead"
+        "meaning": {
+          "vi": "bronze hoko, bronze halberd, bronze spearhead"
+        },
+        "romaji": "douhoko"
       },
       {
         "example": "鎚矛",
         "reading": "つちほこ",
-        "meaning": "mace"
+        "meaning": {
+          "en": "mace"
+        },
+        "romaji": "tsuchihoko"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77db.gif",
     "uri": "https://jisho.org/search/%E7%9F%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "mâu"
+  ]
 }

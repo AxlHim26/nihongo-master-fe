@@ -242,37 +242,58 @@
       {
         "example": "姓",
         "reading": "セイ",
-        "meaning": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing)"
+        "meaning": {
+          "vi": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing)"
+        },
+        "romaji": "sei"
       },
       {
         "example": "姓名",
         "reading": "セイメイ",
-        "meaning": "(full) name, family name and given name"
+        "meaning": {
+          "en": "(full) name, family name and given name"
+        },
+        "romaji": "seimei"
       },
       {
         "example": "旧姓",
         "reading": "キュウセイ",
-        "meaning": "one's original family name, maiden name"
+        "meaning": {
+          "en": "one's original family name, maiden name"
+        },
+        "romaji": "kyuusei"
       },
       {
         "example": "同姓",
         "reading": "ドウセイ",
-        "meaning": "same surname"
+        "meaning": {
+          "en": "same surname"
+        },
+        "romaji": "dousei"
       },
       {
         "example": "姓",
         "reading": "セイ",
-        "meaning": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing)"
+        "meaning": {
+          "vi": "surname, family name, hereditary title (used in ancient Japan to denote rank and political standing)"
+        },
+        "romaji": "sei"
       },
       {
         "example": "俗姓",
         "reading": "ゾクショウ",
-        "meaning": "secular surname (of a priest)"
+        "meaning": {
+          "vi": "secular surname (of a priest)"
+        },
+        "romaji": "zokushou"
       },
       {
         "example": "小百姓",
         "reading": "コビャクショウ",
-        "meaning": "peasant, small farmer"
+        "meaning": {
+          "vi": "peasant, small farmer"
+        },
+        "romaji": "kobyakushou"
       }
     ],
     "kunyomiExamples": [],
@@ -288,5 +309,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d3.gif",
     "uri": "https://jisho.org/search/%E5%A7%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "tính"
+  ]
 }

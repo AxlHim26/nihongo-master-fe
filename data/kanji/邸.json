@@ -19,29 +19,44 @@
       {
         "example": "邸",
         "reading": "テイ",
-        "meaning": "residence, mansion"
+        "meaning": {
+          "en": "residence, mansion"
+        },
+        "romaji": "tei"
       },
       {
         "example": "邸宅",
         "reading": "テイタク",
-        "meaning": "(large) house, residence, mansion"
+        "meaning": {
+          "en": "(large) house, residence, mansion"
+        },
+        "romaji": "teitaku"
       },
       {
         "example": "御用邸",
         "reading": "ゴヨウテイ",
-        "meaning": "imperial villa"
+        "meaning": {
+          "vi": "imperial villa"
+        },
+        "romaji": "goyoutei"
       },
       {
         "example": "公邸",
         "reading": "コウテイ",
-        "meaning": "official residence"
+        "meaning": {
+          "en": "official residence"
+        },
+        "romaji": "koutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屋敷",
         "reading": "やしき",
-        "meaning": "residence, estate, grounds, premises, mansion"
+        "meaning": {
+          "vi": "residence, estate, grounds, premises, mansion"
+        },
+        "romaji": "yashiki"
       }
     ],
     "radical": {
@@ -59,5 +74,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090b8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90b8.gif",
     "uri": "https://jisho.org/search/%E9%82%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "để"
+  ]
 }

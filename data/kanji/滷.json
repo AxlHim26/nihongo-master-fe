@@ -14,7 +14,10 @@
       {
         "example": "滷汁",
         "reading": "ロジュウ",
-        "meaning": "alkaline solution"
+        "meaning": {
+          "en": "alkaline solution"
+        },
+        "romaji": "rojuu"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ef7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ef7.gif",
     "uri": "https://jisho.org/search/%E6%BB%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lỗ"
+  ]
 }

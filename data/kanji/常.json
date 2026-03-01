@@ -337,44 +337,68 @@
       {
         "example": "常識",
         "reading": "ジョウシキ",
-        "meaning": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette"
+        "meaning": {
+          "vi": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette"
+        },
+        "romaji": "joushiki"
       },
       {
         "example": "常勤",
         "reading": "ジョウキン",
-        "meaning": "full-time employment"
+        "meaning": {
+          "vi": "full-time employment"
+        },
+        "romaji": "joukin"
       },
       {
         "example": "平常",
         "reading": "ヘイジョウ",
-        "meaning": "normal, usual, ordinary, everyday"
+        "meaning": {
+          "en": "normal, usual, ordinary, everyday"
+        },
+        "romaji": "heijou"
       },
       {
         "example": "経常",
         "reading": "ケイジョウ",
-        "meaning": "ordinary"
+        "meaning": {
+          "en": "ordinary"
+        },
+        "romaji": "keijou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "常",
         "reading": "つね",
-        "meaning": "usual state of things"
+        "meaning": {
+          "en": "usual state of things"
+        },
+        "romaji": "tsune"
       },
       {
         "example": "常に",
         "reading": "つねに",
-        "meaning": "always, constantly"
+        "meaning": {
+          "en": "always, constantly"
+        },
+        "romaji": "tsuneni"
       },
       {
         "example": "経常",
         "reading": "けいじょう",
-        "meaning": "ordinary"
+        "meaning": {
+          "en": "ordinary"
+        },
+        "romaji": "keijou"
       },
       {
         "example": "人の常",
         "reading": "ひとのつね",
-        "meaning": "human nature"
+        "meaning": {
+          "en": "human nature"
+        },
+        "romaji": "hitonotsune"
       }
     ],
     "radical": {
@@ -391,5 +415,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e38.gif",
     "uri": "https://jisho.org/search/%E5%B8%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thường"
+  ]
 }

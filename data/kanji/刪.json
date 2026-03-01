@@ -16,12 +16,18 @@
       {
         "example": "刪修",
         "reading": "サンシュウ",
-        "meaning": "revision, reform"
+        "meaning": {
+          "en": "revision, reform"
+        },
+        "romaji": "sanshuu"
       },
       {
         "example": "刪定",
         "reading": "サンテイ",
-        "meaning": "revision of a passage"
+        "meaning": {
+          "vi": "revision of a passage"
+        },
+        "romaji": "santei"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0522a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/522a.gif",
     "uri": "https://jisho.org/search/%E5%88%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "san"
+  ]
 }

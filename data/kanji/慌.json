@@ -19,29 +19,44 @@
       {
         "example": "世界恐慌",
         "reading": "セカイキョウコウ",
-        "meaning": "worldwide financial crisis, global depression"
+        "meaning": {
+          "vi": "worldwide financial crisis, global depression"
+        },
+        "romaji": "sekaikyoukou"
       },
       {
         "example": "経済恐慌",
         "reading": "ケイザイキョウコウ",
-        "meaning": "financial panic, economic crisis, economic crash"
+        "meaning": {
+          "vi": "financial panic, economic crisis, economic crash"
+        },
+        "romaji": "keizaikyoukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慌てる",
         "reading": "あわてる",
-        "meaning": "to become confused (disconcerted, disorganized, disorganised), to be flustered, to panic, to hurry, to rush, to hasten"
+        "meaning": {
+          "vi": "to become confused (disconcerted, disorganized, disorganised), to be flustered, to panic, to hurry, to rush, to hasten"
+        },
+        "romaji": "awateru"
       },
       {
         "example": "慌てる乞食はもらいが少ない",
         "reading": "あわてるこじきはもらいがすくない",
-        "meaning": "slow and steady wins the race, there is luck in the last helping"
+        "meaning": {
+          "vi": "slow and steady wins the race, there is luck in the last helping"
+        },
+        "romaji": "awaterukojikihamoraigasukunai"
       },
       {
         "example": "慌ただしい",
         "reading": "あわただしい",
-        "meaning": "busy, hectic, hurried, rushed, rapid, quick, sudden"
+        "meaning": {
+          "vi": "busy, hectic, hurried, rushed, rapid, quick, sudden"
+        },
+        "romaji": "awatadashii"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614c.gif",
     "uri": "https://jisho.org/search/%E6%85%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoang",
+    "hoảng"
+  ]
 }

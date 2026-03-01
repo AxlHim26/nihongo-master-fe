@@ -16,22 +16,34 @@
       {
         "example": "腎",
         "reading": "ジン",
-        "meaning": "kidney"
+        "meaning": {
+          "en": "kidney"
+        },
+        "romaji": "jin"
       },
       {
         "example": "腎臓",
         "reading": "ジンゾウ",
-        "meaning": "kidney"
+        "meaning": {
+          "en": "kidney"
+        },
+        "romaji": "jinzou"
       },
       {
         "example": "右腎",
         "reading": "ウジン",
-        "meaning": "right kidney"
+        "meaning": {
+          "en": "right kidney"
+        },
+        "romaji": "ujin"
       },
       {
         "example": "後じん",
         "reading": "コウジン",
-        "meaning": "metanephros, third stage of kidney development"
+        "meaning": {
+          "vi": "metanephros, third stage of kidney development"
+        },
+        "romaji": "koujin"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0814e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/814e.gif",
     "uri": "https://jisho.org/search/%E8%85%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thận"
+  ]
 }

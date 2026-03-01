@@ -16,22 +16,34 @@
       {
         "example": "勒",
         "reading": "ロク",
-        "meaning": "bit (horse mouthpiece), second stroke in the Eight Principles of Yong, rightward stroke"
+        "meaning": {
+          "vi": "bit (horse mouthpiece), second stroke in the Eight Principles of Yong, rightward stroke"
+        },
+        "romaji": "roku"
       },
       {
         "example": "勒する",
         "reading": "ロクスル",
-        "meaning": "to manage, to carve, to write (for posterity)"
+        "meaning": {
+          "vi": "to manage, to carve, to write (for posterity)"
+        },
+        "romaji": "rokusuru"
       },
       {
         "example": "弥勒",
         "reading": "ミロク",
-        "meaning": "Maitreya (Bodhisattva), Miroku"
+        "meaning": {
+          "en": "Maitreya (Bodhisattva), Miroku"
+        },
+        "romaji": "miroku"
       },
       {
         "example": "鉄勒",
         "reading": "テツロク",
-        "meaning": "Tiele people, a Central Asian Turkic people"
+        "meaning": {
+          "vi": "Tiele people, a Central Asian Turkic people"
+        },
+        "romaji": "tetsuroku"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d2.gif",
     "uri": "https://jisho.org/search/%E5%8B%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "lặc"
+  ]
 }

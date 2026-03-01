@@ -18,7 +18,10 @@
       {
         "example": "掏る",
         "reading": "する",
-        "meaning": "to pickpocket, to steal"
+        "meaning": {
+          "vi": "to pickpocket, to steal"
+        },
+        "romaji": "suru"
       }
     ],
     "radical": {
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0638f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/638f.gif",
     "uri": "https://jisho.org/search/%E6%8E%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "đào"
+  ]
 }

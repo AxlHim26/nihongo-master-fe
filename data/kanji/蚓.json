@@ -17,24 +17,34 @@
       {
         "example": "【ミミズ】",
         "reading": "earthworm, worm",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "earthworm, worm"
       },
       {
         "example": "枷蚯蚓",
         "reading": "カセミミズ",
-        "meaning": "Epimenia verrucosa (mollusc)"
+        "meaning": {
+          "vi": "Epimenia verrucosa (mollusc)"
+        },
+        "romaji": "kasemimizu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枷蚯蚓",
         "reading": "かせみみず",
-        "meaning": "Epimenia verrucosa (mollusc)"
+        "meaning": {
+          "vi": "Epimenia verrucosa (mollusc)"
+        },
+        "romaji": "kasemimizu"
       },
       {
         "example": "糸蚯蚓",
         "reading": "いとみみず",
-        "meaning": "tubifex worm"
+        "meaning": {
+          "en": "tubifex worm"
+        },
+        "romaji": "itomimizu"
       }
     ],
     "radical": {
@@ -50,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08693.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8693.gif",
     "uri": "https://jisho.org/search/%E8%9A%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "dẫn"
+  ]
 }

@@ -292,49 +292,76 @@
       {
         "example": "求職",
         "reading": "キュウショク",
-        "meaning": "job hunting, seeking employment"
+        "meaning": {
+          "vi": "job hunting, seeking employment"
+        },
+        "romaji": "kyuushoku"
       },
       {
         "example": "求刑",
         "reading": "キュウケイ",
-        "meaning": "recommended sentence, prosecution's demand for punishment"
+        "meaning": {
+          "vi": "recommended sentence, prosecution's demand for punishment"
+        },
+        "romaji": "kyuukei"
       },
       {
         "example": "身代金要求",
         "reading": "ミノシロキンヨウキュウ",
-        "meaning": "ransom demand"
+        "meaning": {
+          "en": "ransom demand"
+        },
+        "romaji": "minoshirokin'youkyuu"
       },
       {
         "example": "希求",
         "reading": "キキュウ",
-        "meaning": "longing, great desire, aspiration"
+        "meaning": {
+          "vi": "longing, great desire, aspiration"
+        },
+        "romaji": "kikyuu"
       },
       {
         "example": "求道",
         "reading": "キュウドウ",
-        "meaning": "seeking after truth"
+        "meaning": {
+          "en": "seeking after truth"
+        },
+        "romaji": "kyuudou"
       },
       {
         "example": "求道者",
         "reading": "キュウドウシャ",
-        "meaning": "seeker after truth, one who seeks the way"
+        "meaning": {
+          "en": "seeker after truth, one who seeks the way"
+        },
+        "romaji": "kyuudousha"
       },
       {
         "example": "勤求",
         "reading": "ゴング",
-        "meaning": "inquiring the Buddha way"
+        "meaning": {
+          "en": "inquiring the Buddha way"
+        },
+        "romaji": "gongu"
       },
       {
         "example": "欣求",
         "reading": "ゴング",
-        "meaning": "earnest aspiration (to go to paradise)"
+        "meaning": {
+          "vi": "earnest aspiration (to go to paradise)"
+        },
+        "romaji": "gongu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "求める",
         "reading": "もとめる",
-        "meaning": "to want, to wish for, to request, to demand, to require, to ask for, to seek, to search for, to look for, to pursue (pleasure), to hunt (a job), to find (a solution), to purchase, to buy"
+        "meaning": {
+          "vi": "to want, to wish for, to request, to demand, to require, to ask for, to seek, to search for, to look for, to pursue (pleasure), to hunt (a job), to find (a solution), to purchase, to buy"
+        },
+        "romaji": "motomeru"
       }
     ],
     "radical": {
@@ -354,5 +381,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c42.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c42.gif",
     "uri": "https://jisho.org/search/%E6%B1%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "cầu"
+  ]
 }

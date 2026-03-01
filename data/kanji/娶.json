@@ -18,12 +18,18 @@
       {
         "example": "娶る",
         "reading": "めとる",
-        "meaning": "to marry (a woman), to take to wife, to take in marriage"
+        "meaning": {
+          "en": "to marry (a woman), to take to wife, to take in marriage"
+        },
+        "romaji": "metoru"
       },
       {
         "example": "娶わせる",
         "reading": "めあわせる",
-        "meaning": "to marry off, to espouse to"
+        "meaning": {
+          "vi": "to marry off, to espouse to"
+        },
+        "romaji": "meawaseru"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a36.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a36.gif",
     "uri": "https://jisho.org/search/%E5%A8%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "thú"
+  ]
 }

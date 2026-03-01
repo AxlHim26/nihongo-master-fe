@@ -20,29 +20,44 @@
       {
         "example": "闘士",
         "reading": "トウシ",
-        "meaning": "fighter (for), militant, champion (of), boxer"
+        "meaning": {
+          "vi": "fighter (for), militant, champion (of), boxer"
+        },
+        "romaji": "toushi"
       },
       {
         "example": "闘志",
         "reading": "トウシ",
-        "meaning": "fighting spirit, (will to) fight"
+        "meaning": {
+          "vi": "fighting spirit, (will to) fight"
+        },
+        "romaji": "toushi"
       },
       {
         "example": "敢闘",
         "reading": "カントウ",
-        "meaning": "fighting bravely"
+        "meaning": {
+          "en": "fighting bravely"
+        },
+        "romaji": "kantou"
       },
       {
         "example": "共闘",
         "reading": "キョウトウ",
-        "meaning": "joint struggle, common (united) front"
+        "meaning": {
+          "en": "joint struggle, common (united) front"
+        },
+        "romaji": "kyoutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戦う",
         "reading": "たたかう",
-        "meaning": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"
+        "meaning": {
+          "vi": "to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist"
+        },
+        "romaji": "tatakau"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d8.gif",
     "uri": "https://jisho.org/search/%E9%97%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "đấu"
+  ]
 }

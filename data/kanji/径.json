@@ -238,34 +238,52 @@
       {
         "example": "径",
         "reading": "ケイ",
-        "meaning": "diameter"
+        "meaning": {
+          "en": "diameter"
+        },
+        "romaji": "kei"
       },
       {
         "example": "経路",
         "reading": "ケイロ",
-        "meaning": "course, route, path, channel, process, stages"
+        "meaning": {
+          "vi": "course, route, path, channel, process, stages"
+        },
+        "romaji": "keiro"
       },
       {
         "example": "半径",
         "reading": "ハンケイ",
-        "meaning": "radius"
+        "meaning": {
+          "en": "radius"
+        },
+        "romaji": "hankei"
       },
       {
         "example": "口径",
         "reading": "コウケイ",
-        "meaning": "aperture, bore, calibre, caliber"
+        "meaning": {
+          "vi": "aperture, bore, calibre, caliber"
+        },
+        "romaji": "koukei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "道",
         "reading": "みち",
-        "meaning": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        "meaning": {
+          "vi": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+        },
+        "romaji": "michi"
       },
       {
         "example": "径書房",
         "reading": "こみちしょぼう",
-        "meaning": "Komichi Shobo Publishing Ltd (publishing company)"
+        "meaning": {
+          "vi": "Komichi Shobo Publishing Ltd (publishing company)"
+        },
+        "romaji": "komichishobou"
       }
     ],
     "radical": {
@@ -281,5 +299,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f84.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f84.gif",
     "uri": "https://jisho.org/search/%E5%BE%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "kính"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "噪音",
         "reading": "ソウオン",
-        "meaning": "noise, cacophony"
+        "meaning": {
+          "vi": "noise, cacophony"
+        },
+        "romaji": "souon"
       },
       {
         "example": "蛙鳴蝉噪",
         "reading": "アメイセンソウ",
-        "meaning": "annoying noise, fruitless argument, useless controversy"
+        "meaning": {
+          "en": "annoying noise, fruitless argument, useless controversy"
+        },
+        "romaji": "ameisensou"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0566a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/566a.gif",
     "uri": "https://jisho.org/search/%E5%99%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "táo"
+  ]
 }

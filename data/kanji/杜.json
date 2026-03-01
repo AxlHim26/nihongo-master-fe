@@ -22,49 +22,76 @@
       {
         "example": "途絶",
         "reading": "トゼツ",
-        "meaning": "dừng lại, gián đoạn, đình chỉ"
+        "meaning": {
+          "vi": "dừng lại, gián đoạn, đình chỉ"
+        },
+        "romaji": "tozetsu"
       },
       {
         "example": "杜宇",
         "reading": "トウ",
-        "meaning": "chim cu nhỏ (Cuculus poliocephalus)"
+        "meaning": {
+          "vi": "chim cu nhỏ (Cuculus poliocephalus)"
+        },
+        "romaji": "tou"
       },
       {
         "example": "杜宇",
         "reading": "トウ",
-        "meaning": "chim cu nhỏ (Cuculus poliocephalus)"
+        "meaning": {
+          "vi": "chim cu nhỏ (Cuculus poliocephalus)"
+        },
+        "romaji": "tou"
       },
       {
         "example": "杜氏",
         "reading": "トウジ",
-        "meaning": "thợ nấu rượu chính tại xưởng sake"
+        "meaning": {
+          "vi": "thợ nấu rượu chính tại xưởng sake"
+        },
+        "romaji": "touji"
       },
       {
         "example": "杜撰",
         "reading": "ズサン",
-        "meaning": "cẩu thả, sơ sài, sai sót, bài viết thiếu nguồn tin cậy hoặc nhiều lỗi"
+        "meaning": {
+          "vi": "cẩu thả, sơ sài, sai sót, bài viết thiếu nguồn tin cậy hoặc nhiều lỗi"
+        },
+        "romaji": "zusan"
       },
       {
         "example": "杜撰脱漏",
         "reading": "ズサンダツロウ",
-        "meaning": "cẩu thả và thiếu sót nhiều"
+        "meaning": {
+          "vi": "cẩu thả và thiếu sót nhiều"
+        },
+        "romaji": "zusandatsurou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "森",
         "reading": "もり",
-        "meaning": "rừng, lùm cây đền thờ"
+        "meaning": {
+          "vi": "rừng, lùm cây đền thờ"
+        },
+        "romaji": "mori"
       },
       {
         "example": "杜の都",
         "reading": "もりのみやこ",
-        "meaning": "Thành phố Cây (biệt danh Sendai)"
+        "meaning": {
+          "vi": "Thành phố Cây (biệt danh Sendai)"
+        },
+        "romaji": "morinomiyako"
       },
       {
         "example": "鎮守の杜",
         "reading": "ちんじゅのもり",
-        "meaning": "lùm cây đền làng"
+        "meaning": {
+          "vi": "lùm cây đền làng"
+        },
+        "romaji": "chinjunomori"
       }
     ],
     "radical": {
@@ -79,5 +106,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0675c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/675c.gif",
     "uri": "https://jisho.org/search/%E6%9D%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "đỗ"
+  ]
 }

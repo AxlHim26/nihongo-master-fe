@@ -361,54 +361,84 @@
       {
         "example": "焼死",
         "reading": "ショウシ",
-        "meaning": "death by fire"
+        "meaning": {
+          "en": "death by fire"
+        },
+        "romaji": "shoushi"
       },
       {
         "example": "焼却",
         "reading": "ショウキャク",
-        "meaning": "incineration, destruction by fire"
+        "meaning": {
+          "en": "incineration, destruction by fire"
+        },
+        "romaji": "shoukyaku"
       },
       {
         "example": "半焼",
         "reading": "ハンショウ",
-        "meaning": "partial destruction by fire"
+        "meaning": {
+          "vi": "partial destruction by fire"
+        },
+        "romaji": "hanshou"
       },
       {
         "example": "延焼",
         "reading": "エンショウ",
-        "meaning": "spread of fire"
+        "meaning": {
+          "vi": "spread of fire"
+        },
+        "romaji": "enshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "焼く",
         "reading": "やく",
-        "meaning": "to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat, to heat up, to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (i.e. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy"
+        "meaning": {
+          "vi": "to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat, to heat up, to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (i.e. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy"
+        },
+        "romaji": "yaku"
       },
       {
         "example": "焼き",
         "reading": "やき",
-        "meaning": "cooking, esp. frying or stir-frying, heating, tempering, -ware"
+        "meaning": {
+          "vi": "cooking, esp. frying or stir-frying, heating, tempering, -ware"
+        },
+        "romaji": "yaki"
       },
       {
         "example": "焼肉",
         "reading": "やきにく",
-        "meaning": "yakiniku, Japanese dish of grilled meat similar to Korean barbecue, roasted meat, grill"
+        "meaning": {
+          "vi": "yakiniku, Japanese dish of grilled meat similar to Korean barbecue, roasted meat, grill"
+        },
+        "romaji": "yakiniku"
       },
       {
         "example": "お好み焼き",
         "reading": "おこのみやき",
-        "meaning": "okonomiyaki, savoury pancake fried on an iron griddle with vegetables, meat and/or seafood and topped with various sauces and condiments"
+        "meaning": {
+          "vi": "okonomiyaki, savoury pancake fried on an iron griddle with vegetables, meat and/or seafood and topped with various sauces and condiments"
+        },
+        "romaji": "okonomiyaki"
       },
       {
         "example": "たこ焼き",
         "reading": "たこやき",
-        "meaning": "takoyaki, octopus dumplings"
+        "meaning": {
+          "vi": "takoyaki, octopus dumplings"
+        },
+        "romaji": "takoyaki"
       },
       {
         "example": "焼ける",
         "reading": "やける",
-        "meaning": "to burn, to burn down, to go down in flames, to be roasted, to be thoroughly cooked, to be sunburnt, to fade (in the sun), to glow red (i.e. of the sky at sunset), to become hot (from the sun), to be jealous, to be envious"
+        "meaning": {
+          "en": "to burn, to burn down, to go down in flames, to be roasted, to be thoroughly cooked, to be sunburnt, to fade (in the sun), to glow red (i.e. of the sky at sunset), to become hot (from the sun), to be jealous, to be envious"
+        },
+        "romaji": "yakeru"
       }
     ],
     "radical": {
@@ -427,5 +457,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0713c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/713c.gif",
     "uri": "https://jisho.org/search/%E7%84%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiêu"
+  ]
 }

@@ -14,12 +14,18 @@
       {
         "example": "足音",
         "reading": "アシオト",
-        "meaning": "sound of footsteps, sense or sign that something is approaching"
+        "meaning": {
+          "vi": "sound of footsteps, sense or sign that something is approaching"
+        },
+        "romaji": "ashioto"
       },
       {
         "example": "跫然",
         "reading": "キョウゼン",
-        "meaning": "as the sound of footsteps"
+        "meaning": {
+          "vi": "as the sound of footsteps"
+        },
+        "romaji": "kyouzen"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08deb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8deb.gif",
     "uri": "https://jisho.org/search/%E8%B7%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "cung",
+    "củng"
+  ]
 }

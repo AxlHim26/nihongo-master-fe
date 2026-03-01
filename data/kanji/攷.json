@@ -16,12 +16,18 @@
       {
         "example": "考究",
         "reading": "コウキュウ",
-        "meaning": "investigation, inquiry, research, study, consideration, deliberation, scrutiny"
+        "meaning": {
+          "en": "investigation, inquiry, research, study, consideration, deliberation, scrutiny"
+        },
+        "romaji": "koukyuu"
       },
       {
         "example": "論考",
         "reading": "ロンコウ",
-        "meaning": "study (of), discussion, discourse, inquiry, research article, academic paper"
+        "meaning": {
+          "vi": "study (of), discussion, discourse, inquiry, research article, academic paper"
+        },
+        "romaji": "ronkou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06537.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6537.gif",
     "uri": "https://jisho.org/search/%E6%94%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "khảo"
+  ]
 }

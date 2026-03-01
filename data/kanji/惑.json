@@ -19,29 +19,44 @@
       {
         "example": "惑",
         "reading": "ワク",
-        "meaning": "klesha"
+        "meaning": {
+          "en": "klesha"
+        },
+        "romaji": "waku"
       },
       {
         "example": "惑星",
         "reading": "ワクセイ",
-        "meaning": "planet, dark horse, surprise contender"
+        "meaning": {
+          "vi": "planet, dark horse, surprise contender"
+        },
+        "romaji": "wakusei"
       },
       {
         "example": "魅惑",
         "reading": "ミワク",
-        "meaning": "attraction, fascination, lure, captivation, charm"
+        "meaning": {
+          "vi": "attraction, fascination, lure, captivation, charm"
+        },
+        "romaji": "miwaku"
       },
       {
         "example": "不惑",
         "reading": "フワク",
-        "meaning": "past forty, following right course"
+        "meaning": {
+          "vi": "past forty, following right course"
+        },
+        "romaji": "fuwaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "惑う",
         "reading": "まどう",
-        "meaning": "to get lost, to lose one's bearings, to be puzzled, to be perplexed, to be confused, to be at a loss, to be tempted, to be seduced, to be captivated"
+        "meaning": {
+          "vi": "to get lost, to lose one's bearings, to be puzzled, to be perplexed, to be confused, to be at a loss, to be tempted, to be seduced, to be captivated"
+        },
+        "romaji": "madou"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60d1.gif",
     "uri": "https://jisho.org/search/%E6%83%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoặc"
+  ]
 }

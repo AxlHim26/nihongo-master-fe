@@ -391,54 +391,84 @@
       {
         "example": "開花",
         "reading": "カイカ",
-        "meaning": "flowering, blooming, blossoming, coming into bloom, flowering (of a civilization, talent, etc.), blossoming, blooming, bearing fruit (of efforts)"
+        "meaning": {
+          "en": "flowering, blooming, blossoming, coming into bloom, flowering (of a civilization, talent, etc.), blossoming, blooming, bearing fruit (of efforts)"
+        },
+        "romaji": "kaika"
       },
       {
         "example": "開演",
         "reading": "カイエン",
-        "meaning": "curtain raising, starting (e.g. play, concert)"
+        "meaning": {
+          "vi": "curtain raising, starting (e.g. play, concert)"
+        },
+        "romaji": "kaien"
       },
       {
         "example": "疎開",
         "reading": "ソカイ",
-        "meaning": "evacuation (to the country), spreading out (troops), deployment, dispersal"
+        "meaning": {
+          "vi": "evacuation (to the country), spreading out (troops), deployment, dispersal"
+        },
+        "romaji": "sokai"
       },
       {
         "example": "非公開",
         "reading": "ヒコウカイ",
-        "meaning": "private, non-public, secret, closed-door, closed"
+        "meaning": {
+          "vi": "private, non-public, secret, closed-door, closed"
+        },
+        "romaji": "hikoukai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "開く",
         "reading": "ひらく",
-        "meaning": "to open, to undo, to unseal, to unpack, to bloom, to unfold, to spread out, to open (for business, e.g. in the morning), to be wide (gap, etc.), to widen, to hold (meeting, party, etc.), to give, to open, to found (nation, dynasty, sect, etc.), to open (a new business), to set up, to establish, to start, to open (ports, borders, etc.), to open (an account), to open up (new land, path, etc.), to clear, to develop, to open (a file, etc.), to extract (root), to reduce (equation), to cut open (fish), to change (kanji into hiragana), to flare (e.g. skirt), to slacken (into a poor posture)"
+        "meaning": {
+          "vi": "to open, to undo, to unseal, to unpack, to bloom, to unfold, to spread out, to open (for business, e.g. in the morning), to be wide (gap, etc.), to widen, to hold (meeting, party, etc.), to give, to open, to found (nation, dynasty, sect, etc.), to open (a new business), to set up, to establish, to start, to open (ports, borders, etc.), to open (an account), to open up (new land, path, etc.), to clear, to develop, to open (a file, etc.), to extract (root), to reduce (equation), to cut open (fish), to change (kanji into hiragana), to flare (e.g. skirt), to slacken (into a poor posture)"
+        },
+        "romaji": "hiraku"
       },
       {
         "example": "開き",
         "reading": "ひらき",
-        "meaning": "opening, gap, dried and opened fish"
+        "meaning": {
+          "vi": "opening, gap, dried and opened fish"
+        },
+        "romaji": "hiraki"
       },
       {
         "example": "開き直る",
         "reading": "ひらきなおる",
-        "meaning": "to become defiant, to fight back, to turn upon, to take the offensive"
+        "meaning": {
+          "vi": "to become defiant, to fight back, to turn upon, to take the offensive"
+        },
+        "romaji": "hirakinaoru"
       },
       {
         "example": "開ける",
         "reading": "ひらける",
-        "meaning": "to open out (of a view, scenery, etc.), to spread out, to become clear (of a road, visibility, etc.), to open up, to improve (of luck, prospects, etc.), to get better, to develop (of a town, civilization, etc.), to become civilized, to modernize, to grow, to advance (of knowledge, ideas, etc.), to be sensible, to be understanding, to be enlightened, to open (of a new road, railway, etc.), to be opened to traffic, to become populous, to become densely built, to become bustling"
+        "meaning": {
+          "vi": "to open out (of a view, scenery, etc.), to spread out, to become clear (of a road, visibility, etc.), to open up, to improve (of luck, prospects, etc.), to get better, to develop (of a town, civilization, etc.), to become civilized, to modernize, to grow, to advance (of knowledge, ideas, etc.), to be sensible, to be understanding, to be enlightened, to open (of a new road, railway, etc.), to be opened to traffic, to become populous, to become densely built, to become bustling"
+        },
+        "romaji": "hirakeru"
       },
       {
         "example": "開く",
         "reading": "あく",
-        "meaning": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        "meaning": {
+          "vi": "to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)"
+        },
+        "romaji": "aku"
       },
       {
         "example": "開ける",
         "reading": "あける",
-        "meaning": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        "meaning": {
+          "vi": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)"
+        },
+        "romaji": "akeru"
       }
     ],
     "radical": {
@@ -456,5 +486,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0958b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/958b.gif",
     "uri": "https://jisho.org/search/%E9%96%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "khai"
+  ]
 }

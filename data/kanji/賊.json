@@ -17,22 +17,34 @@
       {
         "example": "賊",
         "reading": "ゾク",
-        "meaning": "thief, robber, burglar, rebel, insurgent, traitor"
+        "meaning": {
+          "en": "thief, robber, burglar, rebel, insurgent, traitor"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "賊害",
         "reading": "ゾクガイ",
-        "meaning": "harm, killing, destruction at the hands of rebels"
+        "meaning": {
+          "en": "harm, killing, destruction at the hands of rebels"
+        },
+        "romaji": "zokugai"
       },
       {
         "example": "空賊",
         "reading": "クウゾク",
-        "meaning": "air pirate, air piracy"
+        "meaning": {
+          "vi": "air pirate, air piracy"
+        },
+        "romaji": "kuuzoku"
       },
       {
         "example": "流賊",
         "reading": "リュウゾク",
-        "meaning": "roving robber, marauder"
+        "meaning": {
+          "en": "roving robber, marauder"
+        },
+        "romaji": "ryuuzoku"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cca.gif",
     "uri": "https://jisho.org/search/%E8%B3%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tặc"
+  ]
 }

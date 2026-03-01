@@ -20,44 +20,68 @@
       {
         "example": "鑑賞",
         "reading": "カンショウ",
-        "meaning": "thưởng thức (nghệ thuật, âm nhạc, thơ ca)"
+        "meaning": {
+          "vi": "thưởng thức (nghệ thuật, âm nhạc, thơ ca)"
+        },
+        "romaji": "kanshou"
       },
       {
         "example": "監査",
         "reading": "カンサ",
-        "meaning": "kiểm tra, kiểm toán, phán quyết"
+        "meaning": {
+          "vi": "kiểm tra, kiểm toán, phán quyết"
+        },
+        "romaji": "kansa"
       },
       {
         "example": "印鑑",
         "reading": "インカン",
-        "meaning": "con dấu"
+        "meaning": {
+          "vi": "con dấu"
+        },
+        "romaji": "inkan"
       },
       {
         "example": "名鑑",
         "reading": "メイカン",
-        "meaning": "danh bạ, danh sách"
+        "meaning": {
+          "vi": "danh bạ, danh sách"
+        },
+        "romaji": "meikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鑑みる",
         "reading": "かんがみる",
-        "meaning": "tính đến, ghi nhớ, cân nhắc, học từ, rút bài học"
+        "meaning": {
+          "vi": "tính đến, ghi nhớ, cân nhắc, học từ, rút bài học"
+        },
+        "romaji": "kangamiru"
       },
       {
         "example": "鑑",
         "reading": "かがみ",
-        "meaning": "mẫu mực, khuôn mẫu"
+        "meaning": {
+          "vi": "mẫu mực, khuôn mẫu"
+        },
+        "romaji": "kagami"
       },
       {
         "example": "手鑑",
         "reading": "てかがみ",
-        "meaning": "tập chữ viết tay (thường cổ), mẫu, ví dụ"
+        "meaning": {
+          "vi": "tập chữ viết tay (thường cổ), mẫu, ví dụ"
+        },
+        "romaji": "tekagami"
       },
       {
         "example": "武士の鑑",
         "reading": "ぶしのかがみ",
-        "meaning": "mẫu mực võ sĩ"
+        "meaning": {
+          "vi": "mẫu mực võ sĩ"
+        },
+        "romaji": "bushinokagami"
       }
     ],
     "radical": {
@@ -78,5 +102,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09451.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9451.gif",
     "uri": "https://jisho.org/search/%E9%91%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "giám"
+  ]
 }

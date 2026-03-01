@@ -18,29 +18,44 @@
       {
         "example": "腓骨",
         "reading": "ヒコツ",
-        "meaning": "fibula, fibular, peroneal"
+        "meaning": {
+          "vi": "fibula, fibular, peroneal"
+        },
+        "romaji": "hikotsu"
       },
       {
         "example": "腓骨欠損",
         "reading": "ヒコツケッソン",
-        "meaning": "fibular hemimelia, fibula agenesis"
+        "meaning": {
+          "en": "fibular hemimelia, fibula agenesis"
+        },
+        "romaji": "hikotsukesson"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "腓",
         "reading": "こむら",
-        "meaning": "calf (of the leg)"
+        "meaning": {
+          "en": "calf (of the leg)"
+        },
+        "romaji": "komura"
       },
       {
         "example": "こむら返り",
         "reading": "こむらがえり",
-        "meaning": "cramp in the leg"
+        "meaning": {
+          "vi": "cramp in the leg"
+        },
+        "romaji": "komuragaeri"
       },
       {
         "example": "腓",
         "reading": "こむら",
-        "meaning": "calf (of the leg)"
+        "meaning": {
+          "en": "calf (of the leg)"
+        },
+        "romaji": "komura"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08153.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8153.gif",
     "uri": "https://jisho.org/search/%E8%85%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "phì"
+  ]
 }

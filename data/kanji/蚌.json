@@ -19,14 +19,20 @@
       {
         "example": "鷸蚌",
         "reading": "イツボウ",
-        "meaning": "a snipe and a clam, a snipe and a mussel"
+        "meaning": {
+          "vi": "a snipe and a clam, a snipe and a mussel"
+        },
+        "romaji": "itsubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛤",
         "reading": "はまぐり",
-        "meaning": "common orient clam (Meretrix lusoria)"
+        "meaning": {
+          "en": "common orient clam (Meretrix lusoria)"
+        },
+        "romaji": "hamaguri"
       }
     ],
     "radical": {
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868c.gif",
     "uri": "https://jisho.org/search/%E8%9A%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạng"
+  ]
 }

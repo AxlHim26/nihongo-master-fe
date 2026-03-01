@@ -402,74 +402,116 @@
       {
         "example": "和",
         "reading": "ワ",
-        "meaning": "sum, harmony, peace, Japan, Japanese-style"
+        "meaning": {
+          "vi": "sum, harmony, peace, Japan, Japanese-style"
+        },
+        "romaji": "wa"
       },
       {
         "example": "和歌",
         "reading": "ワカ",
-        "meaning": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+        "meaning": {
+          "vi": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+        },
+        "romaji": "waka"
       },
       {
         "example": "講和",
         "reading": "コウワ",
-        "meaning": "reconciliation (between warring nations), (making of) peace"
+        "meaning": {
+          "vi": "reconciliation (between warring nations), (making of) peace"
+        },
+        "romaji": "kouwa"
       },
       {
         "example": "英和",
         "reading": "エイワ",
-        "meaning": "English-Japanese, English-Japanese dictionary"
+        "meaning": {
+          "vi": "English-Japanese, English-Japanese dictionary"
+        },
+        "romaji": "eiwa"
       },
       {
         "example": "阿蘭陀",
         "reading": "オランダ",
-        "meaning": "Netherlands, Holland"
+        "meaning": {
+          "en": "Netherlands, Holland"
+        },
+        "romaji": "oranda"
       },
       {
         "example": "和尚",
         "reading": "オショウ",
-        "meaning": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.)"
+        "meaning": {
+          "vi": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.)"
+        },
+        "romaji": "oshou"
       },
       {
         "example": "和声",
         "reading": "ワセイ",
-        "meaning": "harmony, concord, consonance"
+        "meaning": {
+          "en": "harmony, concord, consonance"
+        },
+        "romaji": "wasei"
       },
       {
         "example": "和尚",
         "reading": "オショウ",
-        "meaning": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.)"
+        "meaning": {
+          "vi": "priestly teacher, preceptor, monk (esp. the head monk of a temple), priest, head priest, second highest priestly rank in Buddhism, master (of one's art, trade, etc.)"
+        },
+        "romaji": "oshou"
       },
       {
         "example": "諧和",
         "reading": "カイワ",
-        "meaning": "gentle mutual affection, harmony, harmony"
+        "meaning": {
+          "en": "gentle mutual affection, harmony, harmony"
+        },
+        "romaji": "kaiwa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "和らぐ",
         "reading": "やわらぐ",
-        "meaning": "to soften, to calm down, to be eased, to be mitigated, to subside, to abate"
+        "meaning": {
+          "en": "to soften, to calm down, to be eased, to be mitigated, to subside, to abate"
+        },
+        "romaji": "yawaragu"
       },
       {
         "example": "和らげる",
         "reading": "やわらげる",
-        "meaning": "to soften, to moderate, to relieve"
+        "meaning": {
+          "en": "to soften, to moderate, to relieve"
+        },
+        "romaji": "yawarageru"
       },
       {
         "example": "和む",
         "reading": "なごむ",
-        "meaning": "to be softened, to calm down"
+        "meaning": {
+          "en": "to be softened, to calm down"
+        },
+        "romaji": "nagomu"
       },
       {
         "example": "和やか",
         "reading": "なごやか",
-        "meaning": "mild, calm, gentle, quiet, congenial, amicable, amiable, friendly, genial, harmonious, peaceful"
+        "meaning": {
+          "vi": "mild, calm, gentle, quiet, congenial, amicable, amiable, friendly, genial, harmonious, peaceful"
+        },
+        "romaji": "nagoyaka"
       },
       {
         "example": "和える",
         "reading": "あえる",
-        "meaning": "to dress (vegetables, salad, etc.)"
+        "meaning": {
+          "en": "to dress (vegetables, salad, etc.)"
+        },
+        "romaji": "aeru"
       }
     ],
     "radical": {
@@ -484,5 +526,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0548c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/548c.gif",
     "uri": "https://jisho.org/search/%E5%92%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoà",
+    "hoạ",
+    "hồ"
+  ]
 }

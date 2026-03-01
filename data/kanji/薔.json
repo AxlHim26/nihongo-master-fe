@@ -20,27 +20,42 @@
       {
         "example": "薔薇",
         "reading": "バラ",
-        "meaning": "rose"
+        "meaning": {
+          "en": "rose"
+        },
+        "romaji": "bara"
       },
       {
         "example": "バラ色",
         "reading": "バライロ",
-        "meaning": "rose-colour, rose-color, bright (e.g. life, future, prospects), cheerful, rosy"
+        "meaning": {
+          "vi": "rose-colour, rose-color, bright (e.g. life, future, prospects), cheerful, rosy"
+        },
+        "romaji": "barairo"
       },
       {
         "example": "薔薇",
         "reading": "バラ",
-        "meaning": "rose"
+        "meaning": {
+          "en": "rose"
+        },
+        "romaji": "bara"
       },
       {
         "example": "バラ油",
         "reading": "バラユ",
-        "meaning": "rose oil, rose otto"
+        "meaning": {
+          "en": "rose oil, rose otto"
+        },
+        "romaji": "barayu"
       },
       {
         "example": "薔薇",
         "reading": "バラ",
-        "meaning": "rose"
+        "meaning": {
+          "en": "rose"
+        },
+        "romaji": "bara"
       }
     ],
     "kunyomiExamples": [],
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08594.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8594.gif",
     "uri": "https://jisho.org/search/%E8%96%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "sắc",
+    "tường"
+  ]
 }

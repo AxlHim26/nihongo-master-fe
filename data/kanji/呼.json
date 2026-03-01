@@ -249,34 +249,52 @@
       {
         "example": "呼吸",
         "reading": "コキュウ",
-        "meaning": "hô hấp, thở, bí quyết, nhịp điệu"
+        "meaning": {
+          "vi": "hô hấp, thở, bí quyết, nhịp điệu"
+        },
+        "romaji": "kokyuu"
       },
       {
         "example": "呼応",
         "reading": "コオウ",
-        "meaning": "đáp lại nhau, phối hợp, đồng ý"
+        "meaning": {
+          "vi": "đáp lại nhau, phối hợp, đồng ý"
+        },
+        "romaji": "koou"
       },
       {
         "example": "連呼",
         "reading": "レンコ",
-        "meaning": "gọi lặp lại (tên ai đó)"
+        "meaning": {
+          "vi": "gọi lặp lại (tên ai đó)"
+        },
+        "romaji": "renko"
       },
       {
         "example": "点呼",
         "reading": "テンコ",
-        "meaning": "điểm danh"
+        "meaning": {
+          "vi": "điểm danh"
+        },
+        "romaji": "tenko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "呼ぶ",
         "reading": "よぶ",
-        "meaning": "gọi, mời, triệu, đặt tên, thu hút"
+        "meaning": {
+          "vi": "gọi, mời, triệu, đặt tên, thu hút"
+        },
+        "romaji": "yobu"
       },
       {
         "example": "呼ぶ子",
         "reading": "よぶこ",
-        "meaning": "còi"
+        "meaning": {
+          "vi": "còi"
+        },
+        "romaji": "yobuko"
       }
     ],
     "radical": {
@@ -293,5 +311,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0547c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/547c.gif",
     "uri": "https://jisho.org/search/%E5%91%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hao",
+    "há",
+    "hô"
+  ]
 }

@@ -314,64 +314,100 @@
       {
         "example": "夏",
         "reading": "カ",
-        "meaning": "Xia dynasty (of China; ca. 2070-1600 BCE; possibly mythological), Hsia dynasty"
+        "meaning": {
+          "vi": "Xia dynasty (of China; ca. 2070-1600 BCE; possibly mythological), Hsia dynasty"
+        },
+        "romaji": "ka"
       },
       {
         "example": "夏季",
         "reading": "カキ",
-        "meaning": "summer season, summer, summertime"
+        "meaning": {
+          "en": "summer season, summer, summertime"
+        },
+        "romaji": "kaki"
       },
       {
         "example": "初夏",
         "reading": "ショカ",
-        "meaning": "early summer, fourth month of the lunar calendar"
+        "meaning": {
+          "en": "early summer, fourth month of the lunar calendar"
+        },
+        "romaji": "shoka"
       },
       {
         "example": "盛夏",
         "reading": "セイカ",
-        "meaning": "midsummer, height of summer"
+        "meaning": {
+          "en": "midsummer, height of summer"
+        },
+        "romaji": "seika"
       },
       {
         "example": "夏",
         "reading": "ゲ",
-        "meaning": "summer (on the lunisolar calendar: 16th day of the 4th month to the 15th day of the 7th month)"
+        "meaning": {
+          "en": "summer (on the lunisolar calendar: 16th day of the 4th month to the 15th day of the 7th month)"
+        },
+        "romaji": "ge"
       },
       {
         "example": "夏至",
         "reading": "ゲシ",
-        "meaning": "summer solstice"
+        "meaning": {
+          "en": "summer solstice"
+        },
+        "romaji": "geshi"
       },
       {
         "example": "一夏",
         "reading": "イチゲ",
-        "meaning": "one summer (during which a monk attends a summer retreat)"
+        "meaning": {
+          "en": "one summer (during which a monk attends a summer retreat)"
+        },
+        "romaji": "ichige"
       },
       {
         "example": "半夏",
         "reading": "ハンゲ",
-        "meaning": "crow dipper (Pinellia tuber), 11th day after the summer solstice, last seed-sowing and rice-planting day"
+        "meaning": {
+          "vi": "crow dipper (Pinellia tuber), 11th day after the summer solstice, last seed-sowing and rice-planting day"
+        },
+        "romaji": "hange"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夏",
         "reading": "なつ",
-        "meaning": "summer"
+        "meaning": {
+          "en": "summer"
+        },
+        "romaji": "natsu"
       },
       {
         "example": "夏季",
         "reading": "かき",
-        "meaning": "summer season, summer, summertime"
+        "meaning": {
+          "en": "summer season, summer, summertime"
+        },
+        "romaji": "kaki"
       },
       {
         "example": "初夏",
         "reading": "しょか",
-        "meaning": "early summer, fourth month of the lunar calendar"
+        "meaning": {
+          "en": "early summer, fourth month of the lunar calendar"
+        },
+        "romaji": "shoka"
       },
       {
         "example": "常夏",
         "reading": "とこなつ",
-        "meaning": "everlasting summer"
+        "meaning": {
+          "en": "everlasting summer"
+        },
+        "romaji": "tokonatsu"
       }
     ],
     "radical": {
@@ -388,5 +424,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0590f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/590f.gif",
     "uri": "https://jisho.org/search/%E5%A4%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá",
+    "giạ",
+    "hạ"
+  ]
 }

@@ -15,17 +15,26 @@
       {
         "example": "蛛形綱",
         "reading": "チュケイコウ",
-        "meaning": "Arachnida"
+        "meaning": {
+          "en": "Arachnida"
+        },
+        "romaji": "chukeikou"
       },
       {
         "example": "蛛形類",
         "reading": "チュケイルイ",
-        "meaning": "arachnids"
+        "meaning": {
+          "en": "arachnids"
+        },
+        "romaji": "chukeirui"
       },
       {
         "example": "蛛形類",
         "reading": "チュケイルイ",
-        "meaning": "arachnids"
+        "meaning": {
+          "en": "arachnids"
+        },
+        "romaji": "chukeirui"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86db.gif",
     "uri": "https://jisho.org/search/%E8%9B%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "chu",
+    "thù"
+  ]
 }

@@ -16,17 +16,26 @@
       {
         "example": "鉄",
         "reading": "テツ",
-        "meaning": "iron (Fe), steel, iron (will, discipline, lady, etc.), railway, railway enthusiast"
+        "meaning": {
+          "vi": "iron (Fe), steel, iron (will, discipline, lady, etc.), railway, railway enthusiast"
+        },
+        "romaji": "tetsu"
       },
       {
         "example": "新日本製鐵",
         "reading": "シンニッポンセイテツ",
-        "meaning": "Nippon Steel Corporation"
+        "meaning": {
+          "vi": "Nippon Steel Corporation"
+        },
+        "romaji": "shinnipponseitetsu"
       },
       {
         "example": "新日本製鐵",
         "reading": "シンニホンセイテツ",
-        "meaning": "Nippon Steel Corporation"
+        "meaning": {
+          "vi": "Nippon Steel Corporation"
+        },
+        "romaji": "shinnihonseitetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09435.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9435.gif",
     "uri": "https://jisho.org/search/%E9%90%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiết"
+  ]
 }

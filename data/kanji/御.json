@@ -372,42 +372,66 @@
       {
         "example": "御",
         "reading": "ギョ",
-        "meaning": "honorific affix, honorific prefix"
+        "meaning": {
+          "vi": "honorific affix, honorific prefix"
+        },
+        "romaji": "gyo"
       },
       {
         "example": "御苑",
         "reading": "ギョエン",
-        "meaning": "imperial garden"
+        "meaning": {
+          "vi": "imperial garden"
+        },
+        "romaji": "gyoen"
       },
       {
         "example": "自動制御",
         "reading": "ジドウセイギョ",
-        "meaning": "automatic control"
+        "meaning": {
+          "en": "automatic control"
+        },
+        "romaji": "jidouseigyo"
       },
       {
         "example": "ファジィ制御",
         "reading": "ファジィセイギョ",
-        "meaning": "fuzzy control"
+        "meaning": {
+          "en": "fuzzy control"
+        },
+        "romaji": "fuajyiseigyo"
       },
       {
         "example": "御",
         "reading": "ゴ",
-        "meaning": "honorific/polite/humble prefix, honorific suffix"
+        "meaning": {
+          "vi": "honorific/polite/humble prefix, honorific suffix"
+        },
+        "romaji": "go"
       },
       {
         "example": "御所",
         "reading": "ゴショ",
-        "meaning": "imperial palace (esp. Kyoto Imperial Palace), imperial residence, residence of a shogun, minister, etc., emperor, ex-emperor, empress, imperial prince, shogun, minister"
+        "meaning": {
+          "vi": "imperial palace (esp. Kyoto Imperial Palace), imperial residence, residence of a shogun, minister, etc., emperor, ex-emperor, empress, imperial prince, shogun, minister"
+        },
+        "romaji": "gosho"
       },
       {
         "example": "甥御",
         "reading": "オイゴ",
-        "meaning": "(another person's) nephew"
+        "meaning": {
+          "vi": "(another person's) nephew"
+        },
+        "romaji": "oigo"
       },
       {
         "example": "大御",
         "reading": "オオイゴ",
-        "meaning": "older lady"
+        "meaning": {
+          "en": "older lady"
+        },
+        "romaji": "ooigo"
       }
     ],
     "kunyomiExamples": [],
@@ -426,5 +450,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fa1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fa1.gif",
     "uri": "https://jisho.org/search/%E5%BE%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngữ",
+    "ngự",
+    "nhạ"
+  ]
 }

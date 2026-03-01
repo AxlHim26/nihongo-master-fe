@@ -17,22 +17,34 @@
       {
         "example": "蛾",
         "reading": "ガ",
-        "meaning": "moth"
+        "meaning": {
+          "en": "moth"
+        },
+        "romaji": "ga"
       },
       {
         "example": "蛾眉",
         "reading": "ガビ",
-        "meaning": "delicate eyebrows, shapely eyebrows, beautiful woman, crescent moon"
+        "meaning": {
+          "vi": "delicate eyebrows, shapely eyebrows, beautiful woman, crescent moon"
+        },
+        "romaji": "gabi"
       },
       {
         "example": "衣蛾",
         "reading": "イガ",
-        "meaning": "Tinea translucens (species of clothes moth)"
+        "meaning": {
+          "vi": "Tinea translucens (species of clothes moth)"
+        },
+        "romaji": "iga"
       },
       {
         "example": "小衣蛾",
         "reading": "コイガ",
-        "meaning": "common clothes moth (Tineola biselliella)"
+        "meaning": {
+          "en": "common clothes moth (Tineola biselliella)"
+        },
+        "romaji": "koiga"
       }
     ],
     "kunyomiExamples": [],
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86fe.gif",
     "uri": "https://jisho.org/search/%E8%9B%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "nga",
+    "nghĩ"
+  ]
 }

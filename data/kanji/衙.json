@@ -16,22 +16,34 @@
       {
         "example": "衙府",
         "reading": "ガフ",
-        "meaning": "government office, public office"
+        "meaning": {
+          "vi": "government office, public office"
+        },
+        "romaji": "gafu"
       },
       {
         "example": "衙門",
         "reading": "ガモン",
-        "meaning": "government office, public office"
+        "meaning": {
+          "vi": "government office, public office"
+        },
+        "romaji": "gamon"
       },
       {
         "example": "公衙",
         "reading": "コウガ",
-        "meaning": "government office, public office"
+        "meaning": {
+          "vi": "government office, public office"
+        },
+        "romaji": "kouga"
       },
       {
         "example": "国衙",
         "reading": "コクガ",
-        "meaning": "provincial governor's office, provincial governorate (beginning in the late Heian period)"
+        "meaning": {
+          "vi": "provincial governor's office, provincial governorate (beginning in the late Heian period)"
+        },
+        "romaji": "kokuga"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08859.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8859.gif",
     "uri": "https://jisho.org/search/%E8%A1%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngữ",
+    "nha"
+  ]
 }

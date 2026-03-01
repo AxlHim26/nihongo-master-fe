@@ -17,24 +17,36 @@
       {
         "example": "頤使",
         "reading": "イシ",
-        "meaning": "ra lệnh người khác, điều khiển người khác"
+        "meaning": {
+          "vi": "ra lệnh người khác, điều khiển người khác"
+        },
+        "romaji": "ishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頤",
         "reading": "おとがい",
-        "meaning": "hàm dưới, người hay nói"
+        "meaning": {
+          "vi": "hàm dưới, người hay nói"
+        },
+        "romaji": "otogai"
       },
       {
         "example": "顎",
         "reading": "あご",
-        "meaning": "hàm, cằm, ngạnh (lưỡi câu)"
+        "meaning": {
+          "vi": "hàm, cằm, ngạnh (lưỡi câu)"
+        },
+        "romaji": "ago"
       },
       {
         "example": "頤で人を使う",
         "reading": "あごでひとをつかう",
-        "meaning": "ra lệnh người khác một cách kiêu ngạo, sai khiến người khác"
+        "meaning": {
+          "vi": "ra lệnh người khác một cách kiêu ngạo, sai khiến người khác"
+        },
+        "romaji": "agodehitowotsukau"
       }
     ],
     "radical": {
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09824.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9824.gif",
     "uri": "https://jisho.org/search/%E9%A0%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "di"
+  ]
 }

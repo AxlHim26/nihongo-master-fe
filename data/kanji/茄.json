@@ -15,7 +15,10 @@
       {
         "example": "蕃茄",
         "reading": "バンカ",
-        "meaning": "tomato (Solanum lycopersicum)"
+        "meaning": {
+          "vi": "tomato (Solanum lycopersicum)"
+        },
+        "romaji": "banka"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08304.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8304.gif",
     "uri": "https://jisho.org/search/%E8%8C%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "cà",
+    "gia",
+    "già"
+  ]
 }

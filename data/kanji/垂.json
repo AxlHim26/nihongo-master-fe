@@ -277,59 +277,92 @@
       {
         "example": "垂直",
         "reading": "スイチョク",
-        "meaning": "vertical, perpendicular"
+        "meaning": {
+          "vi": "vertical, perpendicular"
+        },
+        "romaji": "suichoku"
       },
       {
         "example": "垂纓",
         "reading": "スイエイ",
-        "meaning": "hanging tail (of a traditional Japanese hat), drooping tail"
+        "meaning": {
+          "vi": "hanging tail (of a traditional Japanese hat), drooping tail"
+        },
+        "romaji": "suiei"
       },
       {
         "example": "口蓋垂",
         "reading": "コウガイスイ",
-        "meaning": "uvula"
+        "meaning": {
+          "en": "uvula"
+        },
+        "romaji": "kougaisui"
       },
       {
         "example": "虫垂",
         "reading": "チュウスイ",
-        "meaning": "(vermiform) appendix"
+        "meaning": {
+          "vi": "(vermiform) appendix"
+        },
+        "romaji": "chuusui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "垂れる",
         "reading": "たれる",
-        "meaning": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart)"
+        "meaning": {
+          "vi": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart)"
+        },
+        "romaji": "tareru"
       },
       {
         "example": "垂らす",
         "reading": "たらす",
-        "meaning": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle"
+        "meaning": {
+          "vi": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle"
+        },
+        "romaji": "tarasu"
       },
       {
         "example": "垂れ",
         "reading": "たれ",
-        "meaning": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), (kendo) loin guard, kanji radical enclosing the top-left corner of a character, woman, -ass, -head"
+        "meaning": {
+          "vi": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), (kendo) loin guard, kanji radical enclosing the top-left corner of a character, woman, -ass, -head"
+        },
+        "romaji": "tare"
       },
       {
         "example": "垂れ幕",
         "reading": "たれまく",
-        "meaning": "hanging banner, hanging screen, curtain"
+        "meaning": {
+          "en": "hanging banner, hanging screen, curtain"
+        },
+        "romaji": "taremaku"
       },
       {
         "example": "直垂",
         "reading": "ひたたれ",
-        "meaning": "ancient ceremonial court robe"
+        "meaning": {
+          "en": "ancient ceremonial court robe"
+        },
+        "romaji": "hitatare"
       },
       {
         "example": "垂んとす",
         "reading": "なりなんとす",
-        "meaning": "to close in on (a certain age, etc.), to approach, to get close to"
+        "meaning": {
+          "vi": "to close in on (a certain age, etc.), to approach, to get close to"
+        },
+        "romaji": "narinantosu"
       },
       {
         "example": "垂んとする",
         "reading": "なんなんとする",
-        "meaning": "to close in on (30 years of age, etc.), to approach, to get close to"
+        "meaning": {
+          "vi": "to close in on (30 years of age, etc.), to approach, to get close to"
+        },
+        "romaji": "nannantosuru"
       }
     ],
     "radical": {
@@ -345,5 +378,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05782.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5782.gif",
     "uri": "https://jisho.org/search/%E5%9E%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuỳ"
+  ]
 }

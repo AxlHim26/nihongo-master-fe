@@ -373,94 +373,148 @@
       {
         "example": "来",
         "reading": "ライ",
-        "meaning": "next (year, spring, etc.), coming, since (e.g. last month), for (e.g. 20 years)"
+        "meaning": {
+          "vi": "next (year, spring, etc.), coming, since (e.g. last month), for (e.g. 20 years)"
+        },
+        "romaji": "rai"
       },
       {
         "example": "来客",
         "reading": "ライキャク",
-        "meaning": "visitor, caller"
+        "meaning": {
+          "en": "visitor, caller"
+        },
+        "romaji": "raikyaku"
       },
       {
         "example": "在来",
         "reading": "ザイライ",
-        "meaning": "pre-existing, already there, conventional"
+        "meaning": {
+          "vi": "pre-existing, already there, conventional"
+        },
+        "romaji": "zairai"
       },
       {
         "example": "再来",
         "reading": "サイライ",
-        "meaning": "return, coming back, second coming (e.g. of Christ), second advent, reincarnation"
+        "meaning": {
+          "en": "return, coming back, second coming (e.g. of Christ), second advent, reincarnation"
+        },
+        "romaji": "sairai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "来る",
         "reading": "くる",
-        "meaning": "to come (spatially or temporally), to approach, to arrive, to come back, to do ... and come back, to come to be, to become, to get, to grow, to continue, to come from, to be caused by, to derive from, to come to (e.g. \"when it comes to spinach ...\")"
+        "meaning": {
+          "vi": "to come (spatially or temporally), to approach, to arrive, to come back, to do ... and come back, to come to be, to become, to get, to grow, to continue, to come from, to be caused by, to derive from, to come to (e.g. \"when it comes to spinach ...\")"
+        },
+        "romaji": "kuru"
       },
       {
         "example": "来る年",
         "reading": "くるとし",
-        "meaning": "the coming year"
+        "meaning": {
+          "en": "the coming year"
+        },
+        "romaji": "kurutoshi"
       },
       {
         "example": "来る",
         "reading": "きたる",
-        "meaning": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to"
+        "meaning": {
+          "vi": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to"
+        },
+        "romaji": "kitaru"
       },
       {
         "example": "来るべき",
         "reading": "きたるべき",
-        "meaning": "expected to arrive (occur) in the near future"
+        "meaning": {
+          "vi": "expected to arrive (occur) in the near future"
+        },
+        "romaji": "kitarubeki"
       },
       {
         "example": "来す",
         "reading": "きたす",
-        "meaning": "to cause, to induce, to bring about a result or state, to produce"
+        "meaning": {
+          "vi": "to cause, to induce, to bring about a result or state, to produce"
+        },
+        "romaji": "kitasu"
       },
       {
         "example": "来す",
         "reading": "きたす",
-        "meaning": "to cause, to induce, to bring about a result or state, to produce"
+        "meaning": {
+          "vi": "to cause, to induce, to bring about a result or state, to produce"
+        },
+        "romaji": "kitasu"
       },
       {
         "example": "来る",
         "reading": "きたる",
-        "meaning": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to"
+        "meaning": {
+          "vi": "next (e.g. \"next April\"), forthcoming, coming, to come, to arrive, to be due to"
+        },
+        "romaji": "kitaru"
       },
       {
         "example": "来るべき",
         "reading": "きたるべき",
-        "meaning": "expected to arrive (occur) in the near future"
+        "meaning": {
+          "vi": "expected to arrive (occur) in the near future"
+        },
+        "romaji": "kitarubeki"
       },
       {
         "example": "来合わせる",
         "reading": "きあわせる",
-        "meaning": "to happen to come along"
+        "meaning": {
+          "vi": "to happen to come along"
+        },
+        "romaji": "kiawaseru"
       },
       {
         "example": "来掛かる",
         "reading": "きかかる",
-        "meaning": "to happen to come"
+        "meaning": {
+          "vi": "to happen to come"
+        },
+        "romaji": "kikakaru"
       },
       {
         "example": "不出来",
         "reading": "ふでき",
-        "meaning": "bad job, poor workmanship, bungle"
+        "meaning": {
+          "vi": "bad job, poor workmanship, bungle"
+        },
+        "romaji": "fudeki"
       },
       {
         "example": "行ってき",
         "reading": "いってき",
-        "meaning": "bye, see ya (afterwards), have fun, get going, now"
+        "meaning": {
+          "en": "bye, see ya (afterwards), have fun, get going, now"
+        },
+        "romaji": "itteki"
       },
       {
         "example": "来い",
         "reading": "こい",
-        "meaning": "come!, come on!"
+        "meaning": {
+          "en": "come!, come on!"
+        },
+        "romaji": "koi"
       },
       {
         "example": "来し方",
         "reading": "きしかた",
-        "meaning": "the past"
+        "meaning": {
+          "vi": "the past"
+        },
+        "romaji": "kishikata"
       }
     ],
     "radical": {
@@ -478,5 +532,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06765.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6765.gif",
     "uri": "https://jisho.org/search/%E6%9D%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "lai",
+    "lãi"
+  ]
 }

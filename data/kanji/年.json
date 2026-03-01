@@ -341,44 +341,68 @@
       {
         "example": "年",
         "reading": "ネン",
-        "meaning": "year, counter for years (e.g. of an era), grades (e.g. school), period of an apprentice's contract (usu. ten years)"
+        "meaning": {
+          "vi": "year, counter for years (e.g. of an era), grades (e.g. school), period of an apprentice's contract (usu. ten years)"
+        },
+        "romaji": "nen"
       },
       {
         "example": "年会",
         "reading": "ネンカイ",
-        "meaning": "conference, annual convention"
+        "meaning": {
+          "en": "conference, annual convention"
+        },
+        "romaji": "nenkai"
       },
       {
         "example": "往年",
         "reading": "オウネン",
-        "meaning": "years gone by, earlier years, former years, the past"
+        "meaning": {
+          "vi": "years gone by, earlier years, former years, the past"
+        },
+        "romaji": "ounen"
       },
       {
         "example": "平年",
         "reading": "ヘイネン",
-        "meaning": "non-leap year, average year (for rainfall, temperature, etc.), normal year"
+        "meaning": {
+          "vi": "non-leap year, average year (for rainfall, temperature, etc.), normal year"
+        },
+        "romaji": "heinen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "年",
         "reading": "とし",
-        "meaning": "year, age, years, past one's prime, old age"
+        "meaning": {
+          "vi": "year, age, years, past one's prime, old age"
+        },
+        "romaji": "toshi"
       },
       {
         "example": "年明け",
         "reading": "としあけ",
-        "meaning": "beginning of the year, early in the New Year"
+        "meaning": {
+          "en": "beginning of the year, early in the New Year"
+        },
+        "romaji": "toshiake"
       },
       {
         "example": "いい年",
         "reading": "いいとし",
-        "meaning": "mature age, advanced age, maturity, age when one is old enough to know better"
+        "meaning": {
+          "en": "mature age, advanced age, maturity, age when one is old enough to know better"
+        },
+        "romaji": "iitoshi"
       },
       {
         "example": "御年",
         "reading": "おんとし",
-        "meaning": "age (esp. advanced)"
+        "meaning": {
+          "vi": "age (esp. advanced)"
+        },
+        "romaji": "ontoshi"
       }
     ],
     "radical": {
@@ -395,5 +419,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e74.gif",
     "uri": "https://jisho.org/search/%E5%B9%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "niên"
+  ]
 }

@@ -315,29 +315,44 @@
       {
         "example": "買収",
         "reading": "バイシュウ",
-        "meaning": "acquisition (esp. corporate), buy-out, takeover, purchase, bribery, buying off, corruption"
+        "meaning": {
+          "vi": "acquisition (esp. corporate), buy-out, takeover, purchase, bribery, buying off, corruption"
+        },
+        "romaji": "baishuu"
       },
       {
         "example": "買収計画",
         "reading": "バイシュウケイカク",
-        "meaning": "purchasing plan, acquisition plan"
+        "meaning": {
+          "vi": "purchasing plan, acquisition plan"
+        },
+        "romaji": "baishuukeikaku"
       },
       {
         "example": "不買",
         "reading": "フバイ",
-        "meaning": "not buying"
+        "meaning": {
+          "en": "not buying"
+        },
+        "romaji": "fubai"
       },
       {
         "example": "人身売買",
         "reading": "ジンシンバイバイ",
-        "meaning": "slave trade, white-slave trade, human trafficking"
+        "meaning": {
+          "en": "slave trade, white-slave trade, human trafficking"
+        },
+        "romaji": "jinshinbaibai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "買う",
         "reading": "かう",
-        "meaning": "to buy, to purchase, to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize, to incur (someone's anger, displeasure, etc.), to elicit (e.g. sneers), to invite (e.g. scorn), to evoke, to arouse, to win (someone's favour), to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.)"
+        "meaning": {
+          "vi": "to buy, to purchase, to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize, to incur (someone's anger, displeasure, etc.), to elicit (e.g. sneers), to invite (e.g. scorn), to evoke, to arouse, to win (someone's favour), to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.)"
+        },
+        "romaji": "kau"
       }
     ],
     "radical": {
@@ -354,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb7.gif",
     "uri": "https://jisho.org/search/%E8%B2%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "mãi"
+  ]
 }

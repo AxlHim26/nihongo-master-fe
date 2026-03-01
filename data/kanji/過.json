@@ -393,59 +393,92 @@
       {
         "example": "過",
         "reading": "カ",
-        "meaning": "surplus-, excess-, over-, per- (chemical with more of a certain element than found in other compounds of the same constituents)"
+        "meaning": {
+          "vi": "surplus-, excess-, over-, per- (chemical with more of a certain element than found in other compounds of the same constituents)"
+        },
+        "romaji": "ka"
       },
       {
         "example": "過激",
         "reading": "カゲキ",
-        "meaning": "extreme (measure, idea, etc.), radical, violent (language), strenuous (exercise, work, etc.), excessive, (physically) demanding"
+        "meaning": {
+          "vi": "extreme (measure, idea, etc.), radical, violent (language), strenuous (exercise, work, etc.), excessive, (physically) demanding"
+        },
+        "romaji": "kageki"
       },
       {
         "example": "看過",
         "reading": "カンカ",
-        "meaning": "overlooking, turning a blind eye"
+        "meaning": {
+          "en": "overlooking, turning a blind eye"
+        },
+        "romaji": "kanka"
       },
       {
         "example": "輸出超過",
         "reading": "ユシュツチョウカ",
-        "meaning": "excess of exports"
+        "meaning": {
+          "vi": "excess of exports"
+        },
+        "romaji": "yushutsuchouka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "過ぎる",
         "reading": "すぎる",
-        "meaning": "to pass through, to pass by, to go beyond, to pass (of time), to elapse, to have expired, to have ended, to be over, to exceed, to surpass, to be above, to be no more than ..., to be excessive, to be too much, to be too ..."
+        "meaning": {
+          "vi": "to pass through, to pass by, to go beyond, to pass (of time), to elapse, to have expired, to have ended, to be over, to exceed, to surpass, to be above, to be no more than ..., to be excessive, to be too much, to be too ..."
+        },
+        "romaji": "sugiru"
       },
       {
         "example": "過ごす",
         "reading": "すごす",
-        "meaning": "to spend (time), to pass, to lead (a life), to live, to overdo (esp. alcohol consumption), to drink (alcohol), to carry too far, to carry to excess, to take care of, to support, to overdo, to do too much, to ... without acting on it, to ... without getting involved"
+        "meaning": {
+          "vi": "to spend (time), to pass, to lead (a life), to live, to overdo (esp. alcohol consumption), to drink (alcohol), to carry too far, to carry to excess, to take care of, to support, to overdo, to do too much, to ... without acting on it, to ... without getting involved"
+        },
+        "romaji": "sugosu"
       },
       {
         "example": "過ち",
         "reading": "あやまち",
-        "meaning": "fault, error, indiscretion, faux pas"
+        "meaning": {
+          "vi": "fault, error, indiscretion, faux pas"
+        },
+        "romaji": "ayamachi"
       },
       {
         "example": "過ちて改めざるこれを過ちという",
         "reading": "あやまちてあらためざるこれをあやまちという",
-        "meaning": "a man who has committed a mistake and doesn't correct it is committing another mistake"
+        "meaning": {
+          "en": "a man who has committed a mistake and doesn't correct it is committing another mistake"
+        },
+        "romaji": "ayamachitearatamezarukorewoayamachitoiu"
       },
       {
         "example": "過つ",
         "reading": "あやまつ",
-        "meaning": "to err"
+        "meaning": {
+          "en": "to err"
+        },
+        "romaji": "ayamatsu"
       },
       {
         "example": "過ぎる",
         "reading": "よぎる",
-        "meaning": "to go by, to cross, to pass by, to flash across"
+        "meaning": {
+          "vi": "to go by, to cross, to pass by, to flash across"
+        },
+        "romaji": "yogiru"
       },
       {
         "example": "過ぎる",
         "reading": "よぎる",
-        "meaning": "to go by, to cross, to pass by, to flash across"
+        "meaning": {
+          "vi": "to go by, to cross, to pass by, to flash across"
+        },
+        "romaji": "yogiru"
       }
     ],
     "radical": {
@@ -466,5 +499,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0904e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/904e.gif",
     "uri": "https://jisho.org/search/%E9%81%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "qua",
+    "quá"
+  ]
 }

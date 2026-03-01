@@ -279,34 +279,52 @@
       {
         "example": "飽和",
         "reading": "ホウワ",
-        "meaning": "saturation, satiation"
+        "meaning": {
+          "en": "saturation, satiation"
+        },
+        "romaji": "houwa"
       },
       {
         "example": "飽食",
         "reading": "ホウショク",
-        "meaning": "eating until one is full, eating one's fill, gorging (on), satiation, having adequate food, having all one needs (for daily living), plenty"
+        "meaning": {
+          "vi": "eating until one is full, eating one's fill, gorging (on), satiation, having adequate food, having all one needs (for daily living), plenty"
+        },
+        "romaji": "houshoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飽きる",
         "reading": "あきる",
-        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill"
+        "meaning": {
+          "vi": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill"
+        },
+        "romaji": "akiru"
       },
       {
         "example": "飽かす",
         "reading": "あかす",
-        "meaning": "to bore, to tire, to weary, to stultify, to use lavishly (and without regret)"
+        "meaning": {
+          "en": "to bore, to tire, to weary, to stultify, to use lavishly (and without regret)"
+        },
+        "romaji": "akasu"
       },
       {
         "example": "飽く",
         "reading": "あく",
-        "meaning": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to be satisfied, to be sated, to be satiated"
+        "meaning": {
+          "vi": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to be satisfied, to be sated, to be satiated"
+        },
+        "romaji": "aku"
       },
       {
         "example": "飽くまでも",
         "reading": "あくまでも",
-        "meaning": "to the end, to the bitter end, to the last, stubbornly, persistently, consistently, to the utmost, after all, it must be remembered, only, purely, simply"
+        "meaning": {
+          "vi": "to the end, to the bitter end, to the last, stubbornly, persistently, consistently, to the utmost, after all, it must be remembered, only, purely, simply"
+        },
+        "romaji": "akumademo"
       }
     ],
     "radical": {
@@ -325,5 +343,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98fd.gif",
     "uri": "https://jisho.org/search/%E9%A3%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "bão"
+  ]
 }

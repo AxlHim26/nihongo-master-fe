@@ -357,39 +357,60 @@
       {
         "example": "標",
         "reading": "ヒョウ",
-        "meaning": "mark, sign, target, plain wood showing the seating order of officials at court, nameplate"
+        "meaning": {
+          "vi": "mark, sign, target, plain wood showing the seating order of officials at court, nameplate"
+        },
+        "romaji": "hyou"
       },
       {
         "example": "標高",
         "reading": "ヒョウコウ",
-        "meaning": "elevation, height above sea level"
+        "meaning": {
+          "en": "elevation, height above sea level"
+        },
+        "romaji": "hyoukou"
       },
       {
         "example": "商標",
         "reading": "ショウヒョウ",
-        "meaning": "trademark"
+        "meaning": {
+          "en": "trademark"
+        },
+        "romaji": "shouhyou"
       },
       {
         "example": "登録商標",
         "reading": "トウロクショウヒョウ",
-        "meaning": "registered trademark"
+        "meaning": {
+          "en": "registered trademark"
+        },
+        "romaji": "tourokushouhyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "導",
         "reading": "しるべ",
-        "meaning": "guidance, guide"
+        "meaning": {
+          "en": "guidance, guide"
+        },
+        "romaji": "shirube"
       },
       {
         "example": "印",
         "reading": "しるし",
-        "meaning": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+        "meaning": {
+          "vi": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+        },
+        "romaji": "shirushi"
       },
       {
         "example": "標旗",
         "reading": "ひょうき",
-        "meaning": "identification, marking flag"
+        "meaning": {
+          "en": "identification, marking flag"
+        },
+        "romaji": "hyouki"
       }
     ],
     "radical": {
@@ -407,5 +428,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a19.gif",
     "uri": "https://jisho.org/search/%E6%A8%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiêu",
+    "tiêu"
+  ]
 }

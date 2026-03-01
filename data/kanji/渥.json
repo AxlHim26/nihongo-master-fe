@@ -19,17 +19,26 @@
       {
         "example": "渥然",
         "reading": "アクゼン",
-        "meaning": "glossy"
+        "meaning": {
+          "en": "glossy"
+        },
+        "romaji": "akuzen"
       },
       {
         "example": "渥地",
         "reading": "アクチ",
-        "meaning": "marshland"
+        "meaning": {
+          "en": "marshland"
+        },
+        "romaji": "akuchi"
       },
       {
         "example": "優渥",
         "reading": "ユウアク",
-        "meaning": "gracious"
+        "meaning": {
+          "en": "gracious"
+        },
+        "romaji": "yuuaku"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e25.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e25.gif",
     "uri": "https://jisho.org/search/%E6%B8%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "ác",
+    "ốc"
+  ]
 }

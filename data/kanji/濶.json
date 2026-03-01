@@ -16,12 +16,18 @@
       {
         "example": "天空海濶",
         "reading": "テンクウカイカツ",
-        "meaning": "the open sky and the serene sea, as open as the sky and serene as the sea, magnanimous"
+        "meaning": {
+          "vi": "the open sky and the serene sea, as open as the sky and serene as the sea, magnanimous"
+        },
+        "romaji": "tenkuukaikatsu"
       },
       {
         "example": "広闊",
         "reading": "コウカツ",
-        "meaning": "spaciousness, extensiveness, expansiveness, vastness"
+        "meaning": {
+          "vi": "spaciousness, extensiveness, expansiveness, vastness"
+        },
+        "romaji": "koukatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ff6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ff6.gif",
     "uri": "https://jisho.org/search/%E6%BF%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoát"
+  ]
 }

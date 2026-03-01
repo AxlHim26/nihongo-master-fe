@@ -366,74 +366,116 @@
       {
         "example": "面",
         "reading": "メン",
-        "meaning": "face, mask, face guard, striking the head (in kendo), surface (esp. a geometrical surface), page, aspect, facet, side, chamfer, counter for broad, flat objects, levels or stages, e.g. in a video game"
+        "meaning": {
+          "vi": "face, mask, face guard, striking the head (in kendo), surface (esp. a geometrical surface), page, aspect, facet, side, chamfer, counter for broad, flat objects, levels or stages, e.g. in a video game"
+        },
+        "romaji": "men"
       },
       {
         "example": "面会",
         "reading": "メンカイ",
-        "meaning": "meeting (face-to-face), seeing, visit, interview"
+        "meaning": {
+          "en": "meeting (face-to-face), seeing, visit, interview"
+        },
+        "romaji": "menkai"
       },
       {
         "example": "平面",
         "reading": "ヘイメン",
-        "meaning": "level surface, plane"
+        "meaning": {
+          "vi": "level surface, plane"
+        },
+        "romaji": "heimen"
       },
       {
         "example": "対面",
         "reading": "タイメン",
-        "meaning": "meeting face-to-face, seeing in person, facing (each other), opposing (traffic, etc.), confronting"
+        "meaning": {
+          "vi": "meeting face-to-face, seeing in person, facing (each other), opposing (traffic, etc.), confronting"
+        },
+        "romaji": "taimen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "面",
         "reading": "おもて",
-        "meaning": "face, surface, mask (esp. a noh or kyogen mask)"
+        "meaning": {
+          "vi": "face, surface, mask (esp. a noh or kyogen mask)"
+        },
+        "romaji": "omote"
       },
       {
         "example": "面影",
         "reading": "おもかげ",
-        "meaning": "face, looks, countenance, vestige, trace, reminder"
+        "meaning": {
+          "en": "face, looks, countenance, vestige, trace, reminder"
+        },
+        "romaji": "omokage"
       },
       {
         "example": "水の面",
         "reading": "みのも",
-        "meaning": "surface of the water, face of the water"
+        "meaning": {
+          "en": "surface of the water, face of the water"
+        },
+        "romaji": "minomo"
       },
       {
         "example": "面",
         "reading": "おもて",
-        "meaning": "face, surface, mask (esp. a noh or kyogen mask)"
+        "meaning": {
+          "vi": "face, surface, mask (esp. a noh or kyogen mask)"
+        },
+        "romaji": "omote"
       },
       {
         "example": "面伏せ",
         "reading": "おもてぶせ",
-        "meaning": "being so embarrassed as to keep one's face down"
+        "meaning": {
+          "vi": "being so embarrassed as to keep one's face down"
+        },
+        "romaji": "omotebuse"
       },
       {
         "example": "細面",
         "reading": "ほそおもて",
-        "meaning": "slender face"
+        "meaning": {
+          "en": "slender face"
+        },
+        "romaji": "hosoomote"
       },
       {
         "example": "面",
         "reading": "つら",
-        "meaning": "face, mug, surface, cheek meat, cheek, cheeks, surrounding area"
+        "meaning": {
+          "en": "face, mug, surface, cheek meat, cheek, cheeks, surrounding area"
+        },
+        "romaji": "tsura"
       },
       {
         "example": "面当て",
         "reading": "つらあて",
-        "meaning": "spiteful remarks"
+        "meaning": {
+          "vi": "spiteful remarks"
+        },
+        "romaji": "tsuraate"
       },
       {
         "example": "川面",
         "reading": "かわも",
-        "meaning": "river surface, surface of a river"
+        "meaning": {
+          "en": "river surface, surface of a river"
+        },
+        "romaji": "kawamo"
       },
       {
         "example": "赤面",
         "reading": "あかつら",
-        "meaning": "red face, villain (in kabuki, jōruri, etc.)"
+        "meaning": {
+          "en": "red face, villain (in kabuki, jōruri, etc.)"
+        },
+        "romaji": "akatsura"
       }
     ],
     "radical": {
@@ -450,5 +492,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09762.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9762.gif",
     "uri": "https://jisho.org/search/%E9%9D%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "diện",
+    "miến"
+  ]
 }

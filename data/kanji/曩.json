@@ -18,7 +18,10 @@
       {
         "example": "先に",
         "reading": "さきに",
-        "meaning": "previously, before, earlier, formerly, recently, first, before (something or someone else), ahead (of), earlier, beforehand, in advance, ahead of time"
+        "meaning": {
+          "vi": "previously, before, earlier, formerly, recently, first, before (something or someone else), ahead (of), earlier, beforehand, in advance, ahead of time"
+        },
+        "romaji": "sakini"
       }
     ],
     "radical": {
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066e9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66e9.gif",
     "uri": "https://jisho.org/search/%E6%9B%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "nãng",
+    "nẵng"
+  ]
 }

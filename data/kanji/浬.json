@@ -18,12 +18,18 @@
       {
         "example": "海里",
         "reading": "かいり",
-        "meaning": "nautical mile"
+        "meaning": {
+          "en": "nautical mile"
+        },
+        "romaji": "kairi"
       },
       {
         "example": "節",
         "reading": "ノット",
-        "meaning": "knot (nautical mile per hour)"
+        "meaning": {
+          "vi": "knot (nautical mile per hour)"
+        },
+        "romaji": "notto"
       }
     ],
     "radical": {
@@ -44,5 +50,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6c.gif",
     "uri": "https://jisho.org/search/%E6%B5%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "hải",
+    "lí",
+    "lí",
+    "lý"
+  ]
 }

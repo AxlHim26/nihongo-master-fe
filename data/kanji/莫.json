@@ -22,44 +22,68 @@
       {
         "example": "莫大",
         "reading": "バクダイ",
-        "meaning": "vast, huge, immense, enormous, colossal, malva nut (Scaphium affine)"
+        "meaning": {
+          "vi": "vast, huge, immense, enormous, colossal, malva nut (Scaphium affine)"
+        },
+        "romaji": "bakudai"
       },
       {
         "example": "莫逆",
         "reading": "バクギャク",
-        "meaning": "cordial relations"
+        "meaning": {
+          "en": "cordial relations"
+        },
+        "romaji": "bakugyaku"
       },
       {
         "example": "寂寞",
         "reading": "セキバク",
-        "meaning": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        "meaning": {
+          "en": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        },
+        "romaji": "sekibaku"
       },
       {
         "example": "索莫",
         "reading": "サクバク",
-        "meaning": "dreary, bleak, desolate"
+        "meaning": {
+          "en": "dreary, bleak, desolate"
+        },
+        "romaji": "sakubaku"
       },
       {
         "example": "寂寞",
         "reading": "ジャクマク",
-        "meaning": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        "meaning": {
+          "en": "lonely, lonesome, dreary, desolate, deserted, forlorn"
+        },
+        "romaji": "jakumaku"
       },
       {
         "example": "莫斯科",
         "reading": "モスクワ",
-        "meaning": "Moscow (Russia)"
+        "meaning": {
+          "en": "Moscow (Russia)"
+        },
+        "romaji": "mosukuwa"
       },
       {
         "example": "莫臥児",
         "reading": "モウル",
-        "meaning": "lace, lacing braid, chenille yarn, tinsel, pipe cleaner, fibre, paper, etc. twisted between a pair of wires"
+        "meaning": {
+          "vi": "lace, lacing braid, chenille yarn, tinsel, pipe cleaner, fibre, paper, etc. twisted between a pair of wires"
+        },
+        "romaji": "mouru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勿れ",
         "reading": "なかれ",
-        "meaning": "must not, do not"
+        "meaning": {
+          "en": "must not, do not"
+        },
+        "romaji": "nakare"
       }
     ],
     "radical": {
@@ -78,5 +102,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83ab.gif",
     "uri": "https://jisho.org/search/%E8%8E%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "bá",
+    "mạc",
+    "mạch",
+    "mịch",
+    "mộ"
+  ]
 }

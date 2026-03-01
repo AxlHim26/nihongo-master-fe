@@ -273,22 +273,34 @@
       {
         "example": "院",
         "reading": "イン",
-        "meaning": "house of parliament (congress, diet, etc.), graduate school, postgraduate school, institution (often medical), institutional building, government office, sub-temple, minor temple building, temple, cloister, imperial palace, title bestowed on empresses, princesses, etc., former (esp. of emperors, daimyos, etc.), late"
+        "meaning": {
+          "vi": "house of parliament (congress, diet, etc.), graduate school, postgraduate school, institution (often medical), institutional building, government office, sub-temple, minor temple building, temple, cloister, imperial palace, title bestowed on empresses, princesses, etc., former (esp. of emperors, daimyos, etc.), late"
+        },
+        "romaji": "in"
       },
       {
         "example": "院長",
         "reading": "インチョウ",
-        "meaning": "director (of a hospital, institution, academy, etc.), superintendent, rector"
+        "meaning": {
+          "vi": "director (of a hospital, institution, academy, etc.), superintendent, rector"
+        },
+        "romaji": "inchou"
       },
       {
         "example": "議院",
         "reading": "ギイン",
-        "meaning": "parliament, congress, diet, house (of parliament, etc.), chamber"
+        "meaning": {
+          "vi": "parliament, congress, diet, house (of parliament, etc.), chamber"
+        },
+        "romaji": "giin"
       },
       {
         "example": "棋院",
         "reading": "キイン",
-        "meaning": "go institution, go club, go hall"
+        "meaning": {
+          "en": "go institution, go club, go hall"
+        },
+        "romaji": "kiin"
       }
     ],
     "kunyomiExamples": [],
@@ -310,5 +322,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09662.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9662.gif",
     "uri": "https://jisho.org/search/%E9%99%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "viện"
+  ]
 }

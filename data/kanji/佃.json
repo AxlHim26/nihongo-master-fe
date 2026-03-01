@@ -18,19 +18,28 @@
       {
         "example": "佃",
         "reading": "ツクダ",
-        "meaning": "cultivated rice field"
+        "meaning": {
+          "en": "cultivated rice field"
+        },
+        "romaji": "tsukuda"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "佃",
         "reading": "つくだ",
-        "meaning": "cultivated rice field"
+        "meaning": {
+          "en": "cultivated rice field"
+        },
+        "romaji": "tsukuda"
       },
       {
         "example": "佃煮",
         "reading": "つくだに",
-        "meaning": "preserved food boiled in sweetened soy sauce"
+        "meaning": {
+          "vi": "preserved food boiled in sweetened soy sauce"
+        },
+        "romaji": "tsukudani"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f43.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f43.gif",
     "uri": "https://jisho.org/search/%E4%BD%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "điền"
+  ]
 }

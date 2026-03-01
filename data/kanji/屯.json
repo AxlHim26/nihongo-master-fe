@@ -19,34 +19,52 @@
       {
         "example": "屯",
         "reading": "トン",
-        "meaning": "tấn (đơn vị, 1000 kg)"
+        "meaning": {
+          "vi": "tấn (đơn vị, 1000 kg)"
+        },
+        "romaji": "ton"
       },
       {
         "example": "屯営",
         "reading": "トンエイ",
-        "meaning": "trại quân, doanh trại, cắm trại"
+        "meaning": {
+          "vi": "trại quân, doanh trại, cắm trại"
+        },
+        "romaji": "ton'ei"
       },
       {
         "example": "駐屯",
         "reading": "チュウトン",
-        "meaning": "đóng quân, trú đóng"
+        "meaning": {
+          "vi": "đóng quân, trú đóng"
+        },
+        "romaji": "chuuton"
       },
       {
         "example": "英トン",
         "reading": "エイトン",
-        "meaning": "tấn Anh"
+        "meaning": {
+          "vi": "tấn Anh"
+        },
+        "romaji": "eiton"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "屯",
         "reading": "たむろ",
-        "meaning": "tụ họp, nơi tụ họp, đồn cảnh sát, trại, doanh trại"
+        "meaning": {
+          "vi": "tụ họp, nơi tụ họp, đồn cảnh sát, trại, doanh trại"
+        },
+        "romaji": "tamuro"
       },
       {
         "example": "屯う",
         "reading": "たむろう",
-        "meaning": "tụ họp (người), tập trung, tụ tập"
+        "meaning": {
+          "vi": "tụ họp (người), tập trung, tụ tập"
+        },
+        "romaji": "tamurou"
       }
     ],
     "radical": {
@@ -63,5 +81,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c6f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c6f.gif",
     "uri": "https://jisho.org/search/%E5%B1%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "truân",
+    "đồn"
+  ]
 }

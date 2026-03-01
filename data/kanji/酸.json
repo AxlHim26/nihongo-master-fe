@@ -338,34 +338,52 @@
       {
         "example": "酸",
         "reading": "サン",
-        "meaning": "acid, sourness, sour taste"
+        "meaning": {
+          "en": "acid, sourness, sour taste"
+        },
+        "romaji": "san"
       },
       {
         "example": "酸化",
         "reading": "サンカ",
-        "meaning": "oxidation, oxidization"
+        "meaning": {
+          "en": "oxidation, oxidization"
+        },
+        "romaji": "sanka"
       },
       {
         "example": "炭酸",
         "reading": "タンサン",
-        "meaning": "carbonic acid, carbonated water, carbonated drink, baking soda, sodium carbonate"
+        "meaning": {
+          "en": "carbonic acid, carbonated water, carbonated drink, baking soda, sodium carbonate"
+        },
+        "romaji": "tansan"
       },
       {
         "example": "アミノ酸",
         "reading": "アミノサン",
-        "meaning": "amino acid"
+        "meaning": {
+          "en": "amino acid"
+        },
+        "romaji": "aminosan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "酸い",
         "reading": "すい",
-        "meaning": "sour, acid"
+        "meaning": {
+          "en": "sour, acid"
+        },
+        "romaji": "sui"
       },
       {
         "example": "酸葉",
         "reading": "すいば",
-        "meaning": "sorrel (Rumex acetosa), Common sorrel, garden sorrel, spinach dock"
+        "meaning": {
+          "vi": "sorrel (Rumex acetosa), Common sorrel, garden sorrel, spinach dock"
+        },
+        "romaji": "suiba"
       }
     ],
     "radical": {
@@ -382,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09178.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9178.gif",
     "uri": "https://jisho.org/search/%E9%85%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "toan"
+  ]
 }

@@ -241,17 +241,26 @@
       {
         "example": "非難",
         "reading": "ヒナン",
-        "meaning": "criticism, blame, censure, attack, reproach"
+        "meaning": {
+          "vi": "criticism, blame, censure, attack, reproach"
+        },
+        "romaji": "hinan"
       },
       {
         "example": "批准",
         "reading": "ヒジュン",
-        "meaning": "ratification"
+        "meaning": {
+          "en": "ratification"
+        },
+        "romaji": "hijun"
       },
       {
         "example": "高批",
         "reading": "コウヒ",
-        "meaning": "your valued criticism"
+        "meaning": {
+          "en": "your valued criticism"
+        },
+        "romaji": "kouhi"
       }
     ],
     "kunyomiExamples": [],
@@ -270,5 +279,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06279.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6279.gif",
     "uri": "https://jisho.org/search/%E6%89%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "phê"
+  ]
 }

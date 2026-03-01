@@ -18,34 +18,52 @@
       {
         "example": "釜山",
         "reading": "プサン",
-        "meaning": "Busan (South Korea), Pusan"
+        "meaning": {
+          "vi": "Busan (South Korea), Pusan"
+        },
+        "romaji": "pusan"
       },
       {
         "example": "釜中の魚",
         "reading": "フチュウノウオ",
-        "meaning": "fish in a pot about to be boiled, person who is blissfully unaware of deadly danger"
+        "meaning": {
+          "vi": "fish in a pot about to be boiled, person who is blissfully unaware of deadly danger"
+        },
+        "romaji": "fuchuunouo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "釜",
         "reading": "かま",
-        "meaning": "iron pot, kettle"
+        "meaning": {
+          "vi": "iron pot, kettle"
+        },
+        "romaji": "kama"
       },
       {
         "example": "釜揚げうどん",
         "reading": "かまあげうどん",
-        "meaning": "straight-from-the-pot udon, udon noodles pulled straight from the pot and served in the hot water used for boiling (traditionally without being soaked in cold water), eaten by dipping in sauce"
+        "meaning": {
+          "vi": "straight-from-the-pot udon, udon noodles pulled straight from the pot and served in the hot water used for boiling (traditionally without being soaked in cold water), eaten by dipping in sauce"
+        },
+        "romaji": "kamaageudon"
       },
       {
         "example": "お釜",
         "reading": "おかま",
-        "meaning": "pot, (volcanic) crater, buttocks, effeminate gay man, male transvestite, (preoperative) transgender woman, (gay) male prostitute"
+        "meaning": {
+          "vi": "pot, (volcanic) crater, buttocks, effeminate gay man, male transvestite, (preoperative) transgender woman, (gay) male prostitute"
+        },
+        "romaji": "okama"
       },
       {
         "example": "一つ釜",
         "reading": "ひとつかま",
-        "meaning": "one or the same pot, eating or living together"
+        "meaning": {
+          "vi": "one or the same pot, eating or living together"
+        },
+        "romaji": "hitotsukama"
       }
     ],
     "radical": {
@@ -69,5 +87,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dc.gif",
     "uri": "https://jisho.org/search/%E9%87%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "phủ"
+  ]
 }

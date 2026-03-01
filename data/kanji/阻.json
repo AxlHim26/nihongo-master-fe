@@ -19,29 +19,44 @@
       {
         "example": "阻止",
         "reading": "ソシ",
-        "meaning": "obstruction, prevention, hindrance, check, blocking, stopping"
+        "meaning": {
+          "vi": "obstruction, prevention, hindrance, check, blocking, stopping"
+        },
+        "romaji": "soshi"
       },
       {
         "example": "阻害",
         "reading": "ソガイ",
-        "meaning": "obstruction, impediment, hindrance, inhibition, blocking, check"
+        "meaning": {
+          "vi": "obstruction, impediment, hindrance, inhibition, blocking, check"
+        },
+        "romaji": "sogai"
       },
       {
         "example": "悪阻",
         "reading": "オソ",
-        "meaning": "morning sickness, nausea and vomiting of pregnancy"
+        "meaning": {
+          "vi": "morning sickness, nausea and vomiting of pregnancy"
+        },
+        "romaji": "oso"
       },
       {
         "example": "妊娠悪阻",
         "reading": "ニンシンオソ",
-        "meaning": "hyperemesis gravidarum, HG, severe morning sickness"
+        "meaning": {
+          "vi": "hyperemesis gravidarum, HG, severe morning sickness"
+        },
+        "romaji": "ninshin'oso"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "阻む",
         "reading": "はばむ",
-        "meaning": "to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart"
+        "meaning": {
+          "vi": "to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart"
+        },
+        "romaji": "habamu"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0963b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/963b.gif",
     "uri": "https://jisho.org/search/%E9%98%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "trở"
+  ]
 }

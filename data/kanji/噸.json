@@ -14,22 +14,34 @@
       {
         "example": "屯",
         "reading": "トン",
-        "meaning": "ton (esp. a metric ton, i.e. 1000 kg), tonne"
+        "meaning": {
+          "vi": "ton (esp. a metric ton, i.e. 1000 kg), tonne"
+        },
+        "romaji": "ton"
       },
       {
         "example": "噸数",
         "reading": "トンスウ",
-        "meaning": "tonnage"
+        "meaning": {
+          "en": "tonnage"
+        },
+        "romaji": "tonsuu"
       },
       {
         "example": "英トン",
         "reading": "エイトン",
-        "meaning": "long ton, British ton"
+        "meaning": {
+          "en": "long ton, British ton"
+        },
+        "romaji": "eiton"
       },
       {
         "example": "英噸",
         "reading": "エイトン",
-        "meaning": "long ton, British ton"
+        "meaning": {
+          "en": "long ton, British ton"
+        },
+        "romaji": "eiton"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05678.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5678.gif",
     "uri": "https://jisho.org/search/%E5%99%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "đốn"
+  ]
 }

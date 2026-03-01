@@ -18,7 +18,10 @@
       {
         "example": "値",
         "reading": "あたい",
-        "meaning": "price, cost, value, worth, merit, value"
+        "meaning": {
+          "vi": "price, cost, value, worth, merit, value"
+        },
+        "romaji": "atai"
       }
     ],
     "radical": {
@@ -39,5 +42,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50f9.gif",
     "uri": "https://jisho.org/search/%E5%83%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá",
+    "giới"
+  ]
 }

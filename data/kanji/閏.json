@@ -16,29 +16,44 @@
       {
         "example": "閏年",
         "reading": "ウルウドシ",
-        "meaning": "leap year"
+        "meaning": {
+          "vi": "leap year"
+        },
+        "romaji": "uruudoshi"
       },
       {
         "example": "閏月",
         "reading": "ウルウヅキ",
-        "meaning": "intercalary month (lunar calendar), leap month"
+        "meaning": {
+          "vi": "intercalary month (lunar calendar), leap month"
+        },
+        "romaji": "uruuzuki"
       },
       {
         "example": "正閏",
         "reading": "セイジュン",
-        "meaning": "normal and leap (years), legitimate and illegitimate dynasties"
+        "meaning": {
+          "vi": "normal and leap (years), legitimate and illegitimate dynasties"
+        },
+        "romaji": "seijun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "閏",
         "reading": "うるう",
-        "meaning": "embolism, intercalation"
+        "meaning": {
+          "en": "embolism, intercalation"
+        },
+        "romaji": "uruu"
       },
       {
         "example": "閏年",
         "reading": "うるうどし",
-        "meaning": "leap year"
+        "meaning": {
+          "vi": "leap year"
+        },
+        "romaji": "uruudoshi"
       }
     ],
     "radical": {
@@ -53,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0958f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/958f.gif",
     "uri": "https://jisho.org/search/%E9%96%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhuận"
+  ]
 }

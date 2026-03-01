@@ -21,17 +21,26 @@
       {
         "example": "蛙黽",
         "reading": "アボウ",
-        "meaning": "ếch cây (cóc)"
+        "meaning": {
+          "vi": "ếch cây (cóc)"
+        },
+        "romaji": "abou"
       },
       {
         "example": "水黽",
         "reading": "アメンボ",
-        "meaning": "con bọ vẽ (côn trùng nước), bọ nước"
+        "meaning": {
+          "vi": "con bọ vẽ (côn trùng nước), bọ nước"
+        },
+        "romaji": "amenbo"
       },
       {
         "example": "黽勉",
         "reading": "ビンベン",
-        "meaning": "chăm chỉ, cần cù"
+        "meaning": {
+          "vi": "chăm chỉ, cần cù"
+        },
+        "romaji": "binben"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09efd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9efd.gif",
     "uri": "https://jisho.org/search/%E9%BB%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "miễn",
+    "mãnh",
+    "mẫn"
+  ]
 }

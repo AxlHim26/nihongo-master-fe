@@ -16,7 +16,10 @@
       {
         "example": "選考",
         "reading": "センコウ",
-        "meaning": "selection, choice, screening"
+        "meaning": {
+          "en": "selection, choice, screening"
+        },
+        "romaji": "senkou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09293.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9293.gif",
     "uri": "https://jisho.org/search/%E9%8A%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuyên"
+  ]
 }

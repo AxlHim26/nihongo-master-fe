@@ -286,34 +286,52 @@
       {
         "example": "免",
         "reading": "メン",
-        "meaning": "dismissal, discharge"
+        "meaning": {
+          "en": "dismissal, discharge"
+        },
+        "romaji": "men"
       },
       {
         "example": "免疫",
         "reading": "メンエキ",
-        "meaning": "immunity, immunization, immunisation, being hardened (to), being unaffected (by), being accustomed (to)"
+        "meaning": {
+          "en": "immunity, immunization, immunisation, being hardened (to), being unaffected (by), being accustomed (to)"
+        },
+        "romaji": "men'eki"
       },
       {
         "example": "任免",
         "reading": "ニンメン",
-        "meaning": "appointments and dismissal"
+        "meaning": {
+          "vi": "appointments and dismissal"
+        },
+        "romaji": "ninmen"
       },
       {
         "example": "懲戒免",
         "reading": "チョウカイメン",
-        "meaning": "disciplinary dismissal, disciplinary discharge"
+        "meaning": {
+          "vi": "disciplinary dismissal, disciplinary discharge"
+        },
+        "romaji": "choukaimen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "免れる",
         "reading": "まぬがれる",
-        "meaning": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from"
+        "meaning": {
+          "vi": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from"
+        },
+        "romaji": "manugareru"
       },
       {
         "example": "免れる",
         "reading": "まぬがれる",
-        "meaning": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from"
+        "meaning": {
+          "vi": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from"
+        },
+        "romaji": "manugareru"
       }
     ],
     "radical": {
@@ -332,5 +350,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514d.gif",
     "uri": "https://jisho.org/search/%E5%85%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "miễn",
+    "vấn"
+  ]
 }

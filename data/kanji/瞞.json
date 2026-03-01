@@ -19,29 +19,44 @@
       {
         "example": "瞞着",
         "reading": "マンチャク",
-        "meaning": "deception, cheating, trickery, fraud"
+        "meaning": {
+          "vi": "deception, cheating, trickery, fraud"
+        },
+        "romaji": "manchaku"
       },
       {
         "example": "瞞着手段",
         "reading": "マンチャクシュダン",
-        "meaning": "ruse, trick, deception tactics"
+        "meaning": {
+          "vi": "ruse, trick, deception tactics"
+        },
+        "romaji": "manchakushudan"
       },
       {
         "example": "欺瞞",
         "reading": "ギマン",
-        "meaning": "deception, deceit"
+        "meaning": {
+          "vi": "deception, deceit"
+        },
+        "romaji": "giman"
       },
       {
         "example": "自己欺瞞",
         "reading": "ジコギマン",
-        "meaning": "self-deception, self-deceit"
+        "meaning": {
+          "vi": "self-deception, self-deceit"
+        },
+        "romaji": "jikogiman"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "騙す",
         "reading": "だます",
-        "meaning": "to trick, to cheat, to deceive, to swindle, to dupe, to coax, to wheedle, to soothe, to calm"
+        "meaning": {
+          "vi": "to trick, to cheat, to deceive, to swindle, to dupe, to coax, to wheedle, to soothe, to calm"
+        },
+        "romaji": "damasu"
       }
     ],
     "radical": {
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0779e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/779e.gif",
     "uri": "https://jisho.org/search/%E7%9E%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "man",
+    "môn"
+  ]
 }

@@ -320,22 +320,34 @@
       {
         "example": "券",
         "reading": "ケン",
-        "meaning": "ticket, coupon, bond, certificate"
+        "meaning": {
+          "vi": "ticket, coupon, bond, certificate"
+        },
+        "romaji": "ken"
       },
       {
         "example": "券売機",
         "reading": "ケンバイキ",
-        "meaning": "ticket machine, ticket-vending machine"
+        "meaning": {
+          "en": "ticket machine, ticket-vending machine"
+        },
+        "romaji": "kenbaiki"
       },
       {
         "example": "有価証券",
         "reading": "ユウカショウケン",
-        "meaning": "marketable securities, stocks and bonds"
+        "meaning": {
+          "en": "marketable securities, stocks and bonds"
+        },
+        "romaji": "yuukashouken"
       },
       {
         "example": "旅行券",
         "reading": "リョコウケン",
-        "meaning": "travel voucher, travel coupon"
+        "meaning": {
+          "vi": "travel voucher, travel coupon"
+        },
+        "romaji": "ryokouken"
       }
     ],
     "kunyomiExamples": [],
@@ -358,5 +370,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05238.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5238.gif",
     "uri": "https://jisho.org/search/%E5%88%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoán"
+  ]
 }

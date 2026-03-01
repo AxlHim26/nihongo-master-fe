@@ -353,64 +353,100 @@
       {
         "example": "歳",
         "reading": "サイ",
-        "meaning": "... years old, age (of) ..."
+        "meaning": {
+          "en": "... years old, age (of) ..."
+        },
+        "romaji": "sai"
       },
       {
         "example": "歳月",
         "reading": "サイゲツ",
-        "meaning": "time, years"
+        "meaning": {
+          "en": "time, years"
+        },
+        "romaji": "saigetsu"
       },
       {
         "example": "歳歳",
         "reading": "サイサイ",
-        "meaning": "annual"
+        "meaning": {
+          "en": "annual"
+        },
+        "romaji": "saisai"
       },
       {
         "example": "年年歳歳",
         "reading": "ネンネンサイサイ",
-        "meaning": "annually, every year, year in year out, from year to year"
+        "meaning": {
+          "en": "annually, every year, year in year out, from year to year"
+        },
+        "romaji": "nennensaisai"
       },
       {
         "example": "歳暮",
         "reading": "セイボ",
-        "meaning": "year-end gift, end of the year, year end"
+        "meaning": {
+          "en": "year-end gift, end of the year, year end"
+        },
+        "romaji": "seibo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "年",
         "reading": "とし",
-        "meaning": "year, age, years, past one's prime, old age"
+        "meaning": {
+          "vi": "year, age, years, past one's prime, old age"
+        },
+        "romaji": "toshi"
       },
       {
         "example": "年取った",
         "reading": "としとった",
-        "meaning": "old (person), aged"
+        "meaning": {
+          "vi": "old (person), aged"
+        },
+        "romaji": "toshitotta"
       },
       {
         "example": "いい年",
         "reading": "いいとし",
-        "meaning": "mature age, advanced age, maturity, age when one is old enough to know better"
+        "meaning": {
+          "en": "mature age, advanced age, maturity, age when one is old enough to know better"
+        },
+        "romaji": "iitoshi"
       },
       {
         "example": "大年",
         "reading": "おおとし",
-        "meaning": "New Year's Eve, Jupiter (planet)"
+        "meaning": {
+          "vi": "New Year's Eve, Jupiter (planet)"
+        },
+        "romaji": "ootoshi"
       },
       {
         "example": "年",
         "reading": "とせ",
-        "meaning": "counter for years"
+        "meaning": {
+          "en": "counter for years"
+        },
+        "romaji": "tose"
       },
       {
         "example": "万年",
         "reading": "まんねん",
-        "meaning": "ten thousand years, eternity, perennial, perpetual"
+        "meaning": {
+          "vi": "ten thousand years, eternity, perennial, perpetual"
+        },
+        "romaji": "mannen"
       },
       {
         "example": "二十歳",
         "reading": "はたとせ",
-        "meaning": "twenty years"
+        "meaning": {
+          "en": "twenty years"
+        },
+        "romaji": "hatatose"
       }
     ],
     "radical": {
@@ -427,5 +463,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b73.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b73.gif",
     "uri": "https://jisho.org/search/%E6%AD%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuế"
+  ]
 }

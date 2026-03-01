@@ -296,49 +296,76 @@
       {
         "example": "越",
         "reading": "エツ",
-        "meaning": "Yue (kingdom in ancient China; 6th century-334 BCE), Guangdong Province (China), Canton, Kwangtung, Vietnam"
+        "meaning": {
+          "vi": "Yue (kingdom in ancient China; 6th century-334 BCE), Guangdong Province (China), Canton, Kwangtung, Vietnam"
+        },
+        "romaji": "etsu"
       },
       {
         "example": "越年",
         "reading": "エツネン",
-        "meaning": "seeing the old year out, greeting the New Year, passing the winter, hibernation, playing more than the usual 12 rounds in one game"
+        "meaning": {
+          "vi": "seeing the old year out, greeting the New Year, passing the winter, hibernation, playing more than the usual 12 rounds in one game"
+        },
+        "romaji": "etsunen"
       },
       {
         "example": "中越",
         "reading": "チュウエツ",
-        "meaning": "Chūetsu (region in Niigata), China and Vietnam, Sino-Vietnamese"
+        "meaning": {
+          "en": "Chūetsu (region in Niigata), China and Vietnam, Sino-Vietnamese"
+        },
+        "romaji": "chuuetsu"
       },
       {
         "example": "上越",
         "reading": "ジョウエツ",
-        "meaning": "area on Japan Sea side of Japan, including Niigata"
+        "meaning": {
+          "vi": "area on Japan Sea side of Japan, including Niigata"
+        },
+        "romaji": "jouetsu"
       },
       {
         "example": "越年",
         "reading": "エツネン",
-        "meaning": "seeing the old year out, greeting the New Year, passing the winter, hibernation, playing more than the usual 12 rounds in one game"
+        "meaning": {
+          "vi": "seeing the old year out, greeting the New Year, passing the winter, hibernation, playing more than the usual 12 rounds in one game"
+        },
+        "romaji": "etsunen"
       },
       {
         "example": "越年蝶",
         "reading": "オツネンチョウ",
-        "meaning": "eastern pale clouded yellow (butterfly, Colias erate)"
+        "meaning": {
+          "vi": "eastern pale clouded yellow (butterfly, Colias erate)"
+        },
+        "romaji": "otsunenchou"
       },
       {
         "example": "檀越",
         "reading": "ダンオツ",
-        "meaning": "alms-giver, person who donates to a monk or a temple, dana-pati"
+        "meaning": {
+          "vi": "alms-giver, person who donates to a monk or a temple, dana-pati"
+        },
+        "romaji": "dan'otsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "越す",
         "reading": "こす",
-        "meaning": "to cross over (e.g. mountain), to go across, to get over (e.g. hardship), to pass time (e.g. a winter), to surpass, to be better than, to exceed, to move house, to go, to come"
+        "meaning": {
+          "vi": "to cross over (e.g. mountain), to go across, to get over (e.g. hardship), to pass time (e.g. a winter), to surpass, to be better than, to exceed, to move house, to go, to come"
+        },
+        "romaji": "kosu"
       },
       {
         "example": "越える",
         "reading": "こえる",
-        "meaning": "to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past, to exceed, to surpass, to be more (than)"
+        "meaning": {
+          "vi": "to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past, to exceed, to surpass, to be more (than)"
+        },
+        "romaji": "koeru"
       }
     ],
     "radical": {
@@ -357,5 +384,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d8a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d8a.gif",
     "uri": "https://jisho.org/search/%E8%B6%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạt",
+    "việt"
+  ]
 }

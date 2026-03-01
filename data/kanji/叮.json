@@ -14,7 +14,10 @@
       {
         "example": "丁寧",
         "reading": "テイネイ",
-        "meaning": "polite, courteous, civil, careful, close, thorough, conscientious"
+        "meaning": {
+          "vi": "polite, courteous, civil, careful, close, thorough, conscientious"
+        },
+        "romaji": "teinei"
       }
     ],
     "kunyomiExamples": [],
@@ -31,5 +34,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ee.gif",
     "uri": "https://jisho.org/search/%E5%8F%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "đinh"
+  ]
 }

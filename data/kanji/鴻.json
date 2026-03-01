@@ -21,24 +21,36 @@
       {
         "example": "洪恩",
         "reading": "コウオン",
-        "meaning": "great debt of gratitude, great obligation"
+        "meaning": {
+          "en": "great debt of gratitude, great obligation"
+        },
+        "romaji": "kouon"
       },
       {
         "example": "鴻雁",
         "reading": "コウガン",
-        "meaning": "wild geese, large geese and small geese"
+        "meaning": {
+          "en": "wild geese, large geese and small geese"
+        },
+        "romaji": "kougan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "大鳥",
         "reading": "おおとり",
-        "meaning": "large bird, peng (giant bird said to transform from a fish), fenghuang (Chinese phoenix)"
+        "meaning": {
+          "vi": "large bird, peng (giant bird said to transform from a fish), fenghuang (Chinese phoenix)"
+        },
+        "romaji": "ootori"
       },
       {
         "example": "鴻",
         "reading": "ひしくい",
-        "meaning": "bean goose (Anser fabalis)"
+        "meaning": {
+          "en": "bean goose (Anser fabalis)"
+        },
+        "romaji": "hishikui"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3b.gif",
     "uri": "https://jisho.org/search/%E9%B4%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồng"
+  ]
 }

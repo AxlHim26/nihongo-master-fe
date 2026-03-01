@@ -22,27 +22,42 @@
       {
         "example": "没",
         "reading": "ボツ",
-        "meaning": "death, rejection (of a manuscript, etc.), lacking, without"
+        "meaning": {
+          "vi": "death, rejection (of a manuscript, etc.), lacking, without"
+        },
+        "romaji": "botsu"
       },
       {
         "example": "没後",
         "reading": "ボツゴ",
-        "meaning": "after death, posthumously"
+        "meaning": {
+          "vi": "after death, posthumously"
+        },
+        "romaji": "botsugo"
       },
       {
         "example": "戦没",
         "reading": "センボツ",
-        "meaning": "death in battle, killed in action"
+        "meaning": {
+          "en": "death in battle, killed in action"
+        },
+        "romaji": "senbotsu"
       },
       {
         "example": "陥没",
         "reading": "カンボツ",
-        "meaning": "cave-in, collapse, sinking, depression (e.g. of the skull), subsidence"
+        "meaning": {
+          "vi": "cave-in, collapse, sinking, depression (e.g. of the skull), subsidence"
+        },
+        "romaji": "kanbotsu"
       },
       {
         "example": "没薬",
         "reading": "モツヤク",
-        "meaning": "myrrh"
+        "meaning": {
+          "en": "myrrh"
+        },
+        "romaji": "motsuyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -64,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ca1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ca1.gif",
     "uri": "https://jisho.org/search/%E6%B2%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "một"
+  ]
 }

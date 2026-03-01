@@ -327,59 +327,92 @@
       {
         "example": "聞見",
         "reading": "ブンケン",
-        "meaning": "information, experience, knowledge, observation"
+        "meaning": {
+          "vi": "information, experience, knowledge, observation"
+        },
+        "romaji": "bunken"
       },
       {
         "example": "聞香",
         "reading": "ブンコウ",
-        "meaning": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party"
+        "meaning": {
+          "vi": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party"
+        },
+        "romaji": "bunkou"
       },
       {
         "example": "スポーツ新聞",
         "reading": "スポーツシンブン",
-        "meaning": "sports newspaper"
+        "meaning": {
+          "vi": "sports newspaper"
+        },
+        "romaji": "supootsushinbun"
       },
       {
         "example": "壁新聞",
         "reading": "カベシンブン",
-        "meaning": "wall newspaper, wall poster"
+        "meaning": {
+          "vi": "wall newspaper, wall poster"
+        },
+        "romaji": "kabeshinbun"
       },
       {
         "example": "聞見",
         "reading": "ブンケン",
-        "meaning": "information, experience, knowledge, observation"
+        "meaning": {
+          "vi": "information, experience, knowledge, observation"
+        },
+        "romaji": "bunken"
       },
       {
         "example": "聞香",
         "reading": "ブンコウ",
-        "meaning": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party"
+        "meaning": {
+          "vi": "smelling incense, savoring incense, distinguishing incense by smell, incense-smelling party"
+        },
+        "romaji": "bunkou"
       },
       {
         "example": "奏聞",
         "reading": "ソウモン",
-        "meaning": "reporting to the Emperor"
+        "meaning": {
+          "vi": "reporting to the Emperor"
+        },
+        "romaji": "soumon"
       },
       {
         "example": "声聞",
         "reading": "ショウモン",
-        "meaning": "sravaka (disciple of Buddha), adherent of Hinayana Buddhism"
+        "meaning": {
+          "vi": "sravaka (disciple of Buddha), adherent of Hinayana Buddhism"
+        },
+        "romaji": "shoumon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "聞く",
         "reading": "きく",
-        "meaning": "to hear, to listen (e.g. to music), to ask, to enquire, to query, to hear about, to hear of, to learn of, to follow (advice, order, etc.), to obey, to listen to, to comply with, to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to, to smell (esp. incense), to sample (a fragrance), to taste (alcohol), to try"
+        "meaning": {
+          "vi": "to hear, to listen (e.g. to music), to ask, to enquire, to query, to hear about, to hear of, to learn of, to follow (advice, order, etc.), to obey, to listen to, to comply with, to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to, to smell (esp. incense), to sample (a fragrance), to taste (alcohol), to try"
+        },
+        "romaji": "kiku"
       },
       {
         "example": "聞くだけ野暮",
         "reading": "きくだけやぼ",
-        "meaning": "asking would be rude, tasteless question"
+        "meaning": {
+          "en": "asking would be rude, tasteless question"
+        },
+        "romaji": "kikudakeyabo"
       },
       {
         "example": "聞こえる",
         "reading": "きこえる",
-        "meaning": "to be heard, to be audible, to reach one's ears, to sound (like), to come across (as), to be well known, to be famous, to accept (someone's words), to agree, to understand"
+        "meaning": {
+          "vi": "to be heard, to be audible, to reach one's ears, to sound (like), to come across (as), to be well known, to be famous, to accept (someone's words), to agree, to understand"
+        },
+        "romaji": "kikoeru"
       }
     ],
     "radical": {
@@ -394,5 +427,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0805e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/805e.gif",
     "uri": "https://jisho.org/search/%E8%81%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "văn",
+    "vấn",
+    "vặn"
+  ]
 }

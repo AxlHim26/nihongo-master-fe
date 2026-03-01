@@ -17,19 +17,28 @@
       {
         "example": "滾々",
         "reading": "コンコン",
-        "meaning": "(flowing) copiously"
+        "meaning": {
+          "vi": "(flowing) copiously"
+        },
+        "romaji": "konkon"
       },
       {
         "example": "滾々",
         "reading": "コンコン",
-        "meaning": "(flowing) copiously"
+        "meaning": {
+          "vi": "(flowing) copiously"
+        },
+        "romaji": "konkon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滾る",
         "reading": "たぎる",
-        "meaning": "to boil, to seethe, to roil (e.g. waterfall, torrent), to foam, to cascade down, to well up (of emotions), to overflow (e.g. fighting spirit), to seethe (esp. blood)"
+        "meaning": {
+          "vi": "to boil, to seethe, to roil (e.g. waterfall, torrent), to foam, to cascade down, to well up (of emotions), to overflow (e.g. fighting spirit), to seethe (esp. blood)"
+        },
+        "romaji": "tagiru"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06efe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6efe.gif",
     "uri": "https://jisho.org/search/%E6%BB%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cổn"
+  ]
 }

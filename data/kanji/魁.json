@@ -19,34 +19,52 @@
       {
         "example": "魁偉",
         "reading": "カイイ",
-        "meaning": "brawny, muscular, impressive, gigantic"
+        "meaning": {
+          "vi": "brawny, muscular, impressive, gigantic"
+        },
+        "romaji": "kaii"
       },
       {
         "example": "魁星",
         "reading": "カイセイ",
-        "meaning": "first star of the Big Dipper, top applicant in the civil service examination (Imperial China)"
+        "meaning": {
+          "vi": "first star of the Big Dipper, top applicant in the civil service examination (Imperial China)"
+        },
+        "romaji": "kaisei"
       },
       {
         "example": "首魁",
         "reading": "シュカイ",
-        "meaning": "ringleader, mastermind, leader (of a plot), forerunner, pioneer"
+        "meaning": {
+          "vi": "ringleader, mastermind, leader (of a plot), forerunner, pioneer"
+        },
+        "romaji": "shukai"
       },
       {
         "example": "巨魁",
         "reading": "キョカイ",
-        "meaning": "ringleader, chief"
+        "meaning": {
+          "en": "ringleader, chief"
+        },
+        "romaji": "kyokai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "先駆け",
         "reading": "さきがけ",
-        "meaning": "pioneer, leader, taking the initiative, forerunner, harbinger, herald, leading an attack, charging ahead of others (towards the enemy)"
+        "meaning": {
+          "vi": "pioneer, leader, taking the initiative, forerunner, harbinger, herald, leading an attack, charging ahead of others (towards the enemy)"
+        },
+        "romaji": "sakigake"
       },
       {
         "example": "先駆ける",
         "reading": "さきがける",
-        "meaning": "to do (something) before (something or someone else), to be ahead of (others, the times, etc.)"
+        "meaning": {
+          "en": "to do (something) before (something or someone else), to be ahead of (others, the times, etc.)"
+        },
+        "romaji": "sakigakeru"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b41.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b41.gif",
     "uri": "https://jisho.org/search/%E9%AD%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "khôi"
+  ]
 }

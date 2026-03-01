@@ -17,19 +17,28 @@
       {
         "example": "玻璃",
         "reading": "ハリ",
-        "meaning": "quartz, glass"
+        "meaning": {
+          "en": "quartz, glass"
+        },
+        "romaji": "hari"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "頗る",
         "reading": "すこぶる",
-        "meaning": "extremely, very much"
+        "meaning": {
+          "en": "extremely, very much"
+        },
+        "romaji": "sukoburu"
       },
       {
         "example": "すこぶる付き",
         "reading": "すこぶるつき",
-        "meaning": "extreme, extraordinary, rare, brilliant"
+        "meaning": {
+          "en": "extreme, extraordinary, rare, brilliant"
+        },
+        "romaji": "sukoburutsuki"
       }
     ],
     "radical": {
@@ -48,5 +57,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09817.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9817.gif",
     "uri": "https://jisho.org/search/%E9%A0%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "pha",
+    "phả"
+  ]
 }

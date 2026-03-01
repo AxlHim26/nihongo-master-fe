@@ -382,39 +382,60 @@
       {
         "example": "断",
         "reading": "ダン",
-        "meaning": "decision, judgment, resolution"
+        "meaning": {
+          "en": "decision, judgment, resolution"
+        },
+        "romaji": "dan"
       },
       {
         "example": "断言",
         "reading": "ダンゲン",
-        "meaning": "assertion, declaration, affirmation"
+        "meaning": {
+          "en": "assertion, declaration, affirmation"
+        },
+        "romaji": "dangen"
       },
       {
         "example": "独断",
         "reading": "ドクダン",
-        "meaning": "one's own judgement (judgment), decision made without consulting others, arbitrary decision, dogmatism"
+        "meaning": {
+          "en": "one's own judgement (judgment), decision made without consulting others, arbitrary decision, dogmatism"
+        },
+        "romaji": "dokudan"
       },
       {
         "example": "縦断",
         "reading": "ジュウダン",
-        "meaning": "running through (north-south), cutting across, travelling across, cutting vertically, sectioning longitudinally"
+        "meaning": {
+          "en": "running through (north-south), cutting across, travelling across, cutting vertically, sectioning longitudinally"
+        },
+        "romaji": "juudan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "断つ",
         "reading": "たつ",
-        "meaning": "to sever, to cut off, to suppress, to eradicate, to exterminate, to abstain (from), to give up"
+        "meaning": {
+          "vi": "to sever, to cut off, to suppress, to eradicate, to exterminate, to abstain (from), to give up"
+        },
+        "romaji": "tatsu"
       },
       {
         "example": "断る",
         "reading": "ことわる",
-        "meaning": "to refuse, to reject, to dismiss, to turn down, to decline, to inform, to give notice, to tell in advance, to ask leave, to excuse oneself (from)"
+        "meaning": {
+          "en": "to refuse, to reject, to dismiss, to turn down, to decline, to inform, to give notice, to tell in advance, to ask leave, to excuse oneself (from)"
+        },
+        "romaji": "kotowaru"
       },
       {
         "example": "断るまでもなく",
         "reading": "ことわるまでもなく",
-        "meaning": "needless to say"
+        "meaning": {
+          "en": "needless to say"
+        },
+        "romaji": "kotowarumademonaku"
       }
     ],
     "radical": {
@@ -431,5 +452,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ad.gif",
     "uri": "https://jisho.org/search/%E6%96%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "đoán",
+    "đoạn"
+  ]
 }

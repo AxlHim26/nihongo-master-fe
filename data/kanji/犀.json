@@ -16,32 +16,50 @@
       {
         "example": "犀",
         "reading": "サイ",
-        "meaning": "rhinoceros"
+        "meaning": {
+          "en": "rhinoceros"
+        },
+        "romaji": "sai"
       },
       {
         "example": "犀角",
         "reading": "サイカク",
-        "meaning": "rhinoceros horn"
+        "meaning": {
+          "en": "rhinoceros horn"
+        },
+        "romaji": "saikaku"
       },
       {
         "example": "一角犀",
         "reading": "イッカクサイ",
-        "meaning": "great one-horned rhinoceros (Rhinoceros unicornis), Indian rhinoceros"
+        "meaning": {
+          "en": "great one-horned rhinoceros (Rhinoceros unicornis), Indian rhinoceros"
+        },
+        "romaji": "ikkakusai"
       },
       {
         "example": "インド犀",
         "reading": "インドサイ",
-        "meaning": "Indian rhinoceros (Rhinoceros unicornis), great one-horned rhinoceros"
+        "meaning": {
+          "en": "Indian rhinoceros (Rhinoceros unicornis), great one-horned rhinoceros"
+        },
+        "romaji": "indosai"
       },
       {
         "example": "金木犀",
         "reading": "キンモクセイ",
-        "meaning": "fragrant olive (Osmanthus fragrans var. aurantiacus)"
+        "meaning": {
+          "en": "fragrant olive (Osmanthus fragrans var. aurantiacus)"
+        },
+        "romaji": "kinmokusei"
       },
       {
         "example": "銀木犀",
         "reading": "ギンモクセイ",
-        "meaning": "tea olive (Osmanthus fragrans), fragrant olive, sweet olive"
+        "meaning": {
+          "en": "tea olive (Osmanthus fragrans), fragrant olive, sweet olive"
+        },
+        "romaji": "ginmokusei"
       }
     ],
     "kunyomiExamples": [],
@@ -64,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07280.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7280.gif",
     "uri": "https://jisho.org/search/%E7%8A%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "tê"
+  ]
 }

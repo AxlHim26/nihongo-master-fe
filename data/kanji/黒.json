@@ -327,49 +327,76 @@
       {
         "example": "黒煙",
         "reading": "コクエン",
-        "meaning": "black smoke"
+        "meaning": {
+          "en": "black smoke"
+        },
+        "romaji": "kokuen"
       },
       {
         "example": "黒衣",
         "reading": "コクイ",
-        "meaning": "black clothes"
+        "meaning": {
+          "en": "black clothes"
+        },
+        "romaji": "kokui"
       },
       {
         "example": "大黒",
         "reading": "ダイコク",
-        "meaning": "god of wealth, monk's wife"
+        "meaning": {
+          "en": "god of wealth, monk's wife"
+        },
+        "romaji": "daikoku"
       },
       {
         "example": "二黒",
         "reading": "ジコク",
-        "meaning": "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
+        "meaning": {
+          "vi": "second of nine traditional astrological signs (corresponding to Saturn and southwest)"
+        },
+        "romaji": "jikoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黒",
         "reading": "くろ",
-        "meaning": "black, black stone, guilt, guilty person"
+        "meaning": {
+          "vi": "black, black stone, guilt, guilty person"
+        },
+        "romaji": "kuro"
       },
       {
         "example": "黒い",
         "reading": "くろい",
-        "meaning": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky"
+        "meaning": {
+          "vi": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky"
+        },
+        "romaji": "kuroi"
       },
       {
         "example": "黒ずむ",
         "reading": "くろずむ",
-        "meaning": "to blacken, to darken"
+        "meaning": {
+          "en": "to blacken, to darken"
+        },
+        "romaji": "kurozumu"
       },
       {
         "example": "黒い",
         "reading": "くろい",
-        "meaning": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky"
+        "meaning": {
+          "vi": "black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky"
+        },
+        "romaji": "kuroi"
       },
       {
         "example": "黒色",
         "reading": "くろいろ",
-        "meaning": "black (colour, color)"
+        "meaning": {
+          "en": "black (colour, color)"
+        },
+        "romaji": "kuroiro"
       }
     ],
     "radical": {
@@ -385,5 +412,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed2.gif",
     "uri": "https://jisho.org/search/%E9%BB%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "hắc"
+  ]
 }

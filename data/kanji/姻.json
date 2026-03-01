@@ -17,17 +17,26 @@
       {
         "example": "姻戚",
         "reading": "インセキ",
-        "meaning": "in-law, relative by marriage"
+        "meaning": {
+          "en": "in-law, relative by marriage"
+        },
+        "romaji": "inseki"
       },
       {
         "example": "姻戚関係",
         "reading": "インセキカンケイ",
-        "meaning": "relation by marriage"
+        "meaning": {
+          "en": "relation by marriage"
+        },
+        "romaji": "insekikankei"
       },
       {
         "example": "婚姻",
         "reading": "コンイン",
-        "meaning": "marriage, matrimony"
+        "meaning": {
+          "en": "marriage, matrimony"
+        },
+        "romaji": "kon'in"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059fb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59fb.gif",
     "uri": "https://jisho.org/search/%E5%A7%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhân"
+  ]
 }

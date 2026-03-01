@@ -21,19 +21,28 @@
       {
         "example": "無報酬",
         "reading": "ムホウシュウ",
-        "meaning": "unpaid, without pay, gratuitous, voluntary"
+        "meaning": {
+          "vi": "unpaid, without pay, gratuitous, voluntary"
+        },
+        "romaji": "muhoushuu"
       },
       {
         "example": "成功報酬",
         "reading": "セイコウホウシュウ",
-        "meaning": "fee contingent upon success, contingency fee, completion bonus"
+        "meaning": {
+          "vi": "fee contingent upon success, contingency fee, completion bonus"
+        },
+        "romaji": "seikouhoushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "報いる",
         "reading": "むくいる",
-        "meaning": "to reward, to recompense, to repay, to retaliate, to get revenge"
+        "meaning": {
+          "vi": "to reward, to recompense, to repay, to retaliate, to get revenge"
+        },
+        "romaji": "mukuiru"
       }
     ],
     "radical": {
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0916c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/916c.gif",
     "uri": "https://jisho.org/search/%E9%85%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "thù"
+  ]
 }

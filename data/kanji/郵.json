@@ -273,22 +273,34 @@
       {
         "example": "郵政省",
         "reading": "ユウセイショウ",
-        "meaning": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)"
+        "meaning": {
+          "vi": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)"
+        },
+        "romaji": "yuuseishou"
       },
       {
         "example": "郵政",
         "reading": "ユウセイ",
-        "meaning": "postal system"
+        "meaning": {
+          "vi": "postal system"
+        },
+        "romaji": "yuusei"
       },
       {
         "example": "電郵",
         "reading": "デンユウ",
-        "meaning": "(an item of) electronic mail (e-mail), e-mail message, electronic mail (e-mail) service, electronic mail (e-mail) system"
+        "meaning": {
+          "en": "(an item of) electronic mail (e-mail), e-mail message, electronic mail (e-mail) service, electronic mail (e-mail) system"
+        },
+        "romaji": "den'yuu"
       },
       {
         "example": "携帯電郵",
         "reading": "ケイタイデンユウ",
-        "meaning": "email from a cell phone or mobile phone"
+        "meaning": {
+          "vi": "email from a cell phone or mobile phone"
+        },
+        "romaji": "keitaiden'yuu"
       }
     ],
     "kunyomiExamples": [],
@@ -309,5 +321,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090f5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90f5.gif",
     "uri": "https://jisho.org/search/%E9%83%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "bưu"
+  ]
 }

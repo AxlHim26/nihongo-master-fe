@@ -395,24 +395,36 @@
       {
         "example": "最",
         "reading": "サイ",
-        "meaning": "the most, the extreme, prime, conspicuous"
+        "meaning": {
+          "vi": "the most, the extreme, prime, conspicuous"
+        },
+        "romaji": "sai"
       },
       {
         "example": "最悪",
         "reading": "サイアク",
-        "meaning": "worst, horrible, horrid, awful, terrible, in the worst case, if worst comes to worst"
+        "meaning": {
+          "en": "worst, horrible, horrid, awful, terrible, in the worst case, if worst comes to worst"
+        },
+        "romaji": "saiaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "最も",
         "reading": "もっとも",
-        "meaning": "most, extremely"
+        "meaning": {
+          "en": "most, extremely"
+        },
+        "romaji": "mottomo"
       },
       {
         "example": "最も近い共通祖先",
         "reading": "もっともちかいきょうつうそせん",
-        "meaning": "most recent common ancestor"
+        "meaning": {
+          "en": "most recent common ancestor"
+        },
+        "romaji": "mottomochikaikyoutsuusosen"
       }
     ],
     "radical": {
@@ -429,5 +441,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06700.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6700.gif",
     "uri": "https://jisho.org/search/%E6%9C%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "tối"
+  ]
 }

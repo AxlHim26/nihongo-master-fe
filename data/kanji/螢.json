@@ -16,24 +16,36 @@
       {
         "example": "蛍光灯",
         "reading": "ケイコウトウ",
-        "meaning": "fluorescent lamp, fluorescent light, person who is slow to react, someone slow on the uptake"
+        "meaning": {
+          "vi": "fluorescent lamp, fluorescent light, person who is slow to react, someone slow on the uptake"
+        },
+        "romaji": "keikoutou"
       },
       {
         "example": "蛍光",
         "reading": "ケイコウ",
-        "meaning": "fluorescence"
+        "meaning": {
+          "en": "fluorescence"
+        },
+        "romaji": "keikou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛍",
         "reading": "ほたる",
-        "meaning": "firefly (Luciola cruciata), lightning bug, glowworm"
+        "meaning": {
+          "en": "firefly (Luciola cruciata), lightning bug, glowworm"
+        },
+        "romaji": "hotaru"
       },
       {
         "example": "蛍石",
         "reading": "ほたるいし",
-        "meaning": "fluorite, fluorspar"
+        "meaning": {
+          "vi": "fluorite, fluorspar"
+        },
+        "romaji": "hotaruishi"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87a2.gif",
     "uri": "https://jisho.org/search/%E8%9E%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "huỳnh"
+  ]
 }

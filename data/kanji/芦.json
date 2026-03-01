@@ -18,34 +18,52 @@
       {
         "example": "蘆薈",
         "reading": "ロカイ",
-        "meaning": "aloe"
+        "meaning": {
+          "en": "aloe"
+        },
+        "romaji": "rokai"
       },
       {
         "example": "蘆荻",
         "reading": "ロテキ",
-        "meaning": "reeds, reed and silver grass"
+        "meaning": {
+          "en": "reeds, reed and silver grass"
+        },
+        "romaji": "roteki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葦",
         "reading": "あし",
-        "meaning": "common reed (Phragmites australis)"
+        "meaning": {
+          "vi": "common reed (Phragmites australis)"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "芦毛",
         "reading": "あしげ",
-        "meaning": "dapple-grey (gray) (horse coat colour)"
+        "meaning": {
+          "vi": "dapple-grey (gray) (horse coat colour)"
+        },
+        "romaji": "ashige"
       },
       {
         "example": "葦",
         "reading": "あし",
-        "meaning": "common reed (Phragmites australis)"
+        "meaning": {
+          "vi": "common reed (Phragmites australis)"
+        },
+        "romaji": "ashi"
       },
       {
         "example": "葦笛",
         "reading": "あしぶえ",
-        "meaning": "reed pipe, reed flute"
+        "meaning": {
+          "vi": "reed pipe, reed flute"
+        },
+        "romaji": "ashibue"
       }
     ],
     "radical": {
@@ -65,5 +83,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82a6.gif",
     "uri": "https://jisho.org/search/%E8%8A%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô",
+    "lư"
+  ]
 }

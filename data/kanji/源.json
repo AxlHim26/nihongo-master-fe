@@ -327,34 +327,52 @@
       {
         "example": "源",
         "reading": "ゲン",
-        "meaning": "source, origin"
+        "meaning": {
+          "en": "source, origin"
+        },
+        "romaji": "gen"
       },
       {
         "example": "源氏",
         "reading": "ゲンジ",
-        "meaning": "Genji (the character in the Genji Monogatari), the Minamoto family"
+        "meaning": {
+          "en": "Genji (the character in the Genji Monogatari), the Minamoto family"
+        },
+        "romaji": "genji"
       },
       {
         "example": "震源",
         "reading": "シンゲン",
-        "meaning": "hypocentre (of an earthquake), hypocenter, focus"
+        "meaning": {
+          "vi": "hypocentre (of an earthquake), hypocenter, focus"
+        },
+        "romaji": "shingen"
       },
       {
         "example": "財源",
         "reading": "ザイゲン",
-        "meaning": "source of funds, resources, finances"
+        "meaning": {
+          "en": "source of funds, resources, finances"
+        },
+        "romaji": "zaigen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "源",
         "reading": "みなもと",
-        "meaning": "source (of a river), fountainhead, source, origin, root"
+        "meaning": {
+          "en": "source (of a river), fountainhead, source, origin, root"
+        },
+        "romaji": "minamoto"
       },
       {
         "example": "河の源",
         "reading": "かわのみなもと",
-        "meaning": "fountainhead"
+        "meaning": {
+          "en": "fountainhead"
+        },
+        "romaji": "kawanominamoto"
       }
     ],
     "radical": {
@@ -375,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e90.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e90.gif",
     "uri": "https://jisho.org/search/%E6%BA%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguyên"
+  ]
 }

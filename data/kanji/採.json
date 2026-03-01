@@ -305,34 +305,52 @@
       {
         "example": "採決",
         "reading": "サイケツ",
-        "meaning": "vote, ballot, division"
+        "meaning": {
+          "en": "vote, ballot, division"
+        },
+        "romaji": "saiketsu"
       },
       {
         "example": "採掘",
         "reading": "サイクツ",
-        "meaning": "mining, digging, working (a mine)"
+        "meaning": {
+          "en": "mining, digging, working (a mine)"
+        },
+        "romaji": "saikutsu"
       },
       {
         "example": "伐採",
         "reading": "バッサイ",
-        "meaning": "felling timber, cutting down trees, logging, lumbering"
+        "meaning": {
+          "en": "felling timber, cutting down trees, logging, lumbering"
+        },
+        "romaji": "bassai"
       },
       {
         "example": "掘採",
         "reading": "クッサイ",
-        "meaning": "mining"
+        "meaning": {
+          "en": "mining"
+        },
+        "romaji": "kussai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "採る",
         "reading": "とる",
-        "meaning": "to adopt (a method, proposal, etc.), to take (a measure, course of action, etc.), to decide on, to pick (e.g. flowers), to gather (e.g. mushrooms), to catch (e.g. insects), to extract (e.g. juice), to take (e.g. a sample), to assume (an attitude), to take on (workers, students), to employ, to hire, to draw in (e.g. water), to let in (e.g. light from a window)"
+        "meaning": {
+          "vi": "to adopt (a method, proposal, etc.), to take (a measure, course of action, etc.), to decide on, to pick (e.g. flowers), to gather (e.g. mushrooms), to catch (e.g. insects), to extract (e.g. juice), to take (e.g. a sample), to assume (an attitude), to take on (workers, students), to employ, to hire, to draw in (e.g. water), to let in (e.g. light from a window)"
+        },
+        "romaji": "toru"
       },
       {
         "example": "採るべき道",
         "reading": "とるべきみち",
-        "meaning": "course of action"
+        "meaning": {
+          "en": "course of action"
+        },
+        "romaji": "torubekimichi"
       }
     ],
     "radical": {
@@ -351,5 +369,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a1.gif",
     "uri": "https://jisho.org/search/%E6%8E%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái",
+    "thải"
+  ]
 }

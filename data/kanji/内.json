@@ -374,64 +374,100 @@
       {
         "example": "内",
         "reading": "ナイ",
-        "meaning": "within ..., inside ..."
+        "meaning": {
+          "en": "within ..., inside ..."
+        },
+        "romaji": "nai"
       },
       {
         "example": "内科",
         "reading": "ナイカ",
-        "meaning": "internal medicine, department of internal medicine"
+        "meaning": {
+          "vi": "internal medicine, department of internal medicine"
+        },
+        "romaji": "naika"
       },
       {
         "example": "党内",
         "reading": "トウナイ",
-        "meaning": "party-internal, within the party"
+        "meaning": {
+          "vi": "party-internal, within the party"
+        },
+        "romaji": "tounai"
       },
       {
         "example": "校内",
         "reading": "コウナイ",
-        "meaning": "within a school"
+        "meaning": {
+          "en": "within a school"
+        },
+        "romaji": "kounai"
       },
       {
         "example": "内裏",
         "reading": "ダイリ",
-        "meaning": "imperial palace, festival dolls representing the emperor and the empress"
+        "meaning": {
+          "vi": "imperial palace, festival dolls representing the emperor and the empress"
+        },
+        "romaji": "dairi"
       },
       {
         "example": "内府",
         "reading": "ナイフ",
-        "meaning": "Minister of the Interior (669-1868), Lord Keeper of the Privy Seal (1885-1945)"
+        "meaning": {
+          "vi": "Minister of the Interior (669-1868), Lord Keeper of the Privy Seal (1885-1945)"
+        },
+        "romaji": "naifu"
       },
       {
         "example": "境内",
         "reading": "ケイダイ",
-        "meaning": "grounds (esp. of shrines and temples), compound, churchyard, precincts"
+        "meaning": {
+          "vi": "grounds (esp. of shrines and temples), compound, churchyard, precincts"
+        },
+        "romaji": "keidai"
       },
       {
         "example": "海内",
         "reading": "カイダイ",
-        "meaning": "the whole country"
+        "meaning": {
+          "en": "the whole country"
+        },
+        "romaji": "kaidai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "内",
         "reading": "うち",
-        "meaning": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        "meaning": {
+          "vi": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+        },
+        "romaji": "uchi"
       },
       {
         "example": "内々",
         "reading": "うちうち",
-        "meaning": "private, confidential, informal, secret, (within the) family circle, (on the) inside"
+        "meaning": {
+          "vi": "private, confidential, informal, secret, (within the) family circle, (on the) inside"
+        },
+        "romaji": "uchiuchi"
       },
       {
         "example": "幕内",
         "reading": "まくうち",
-        "meaning": "makuuchi, top division (of professional sumo)"
+        "meaning": {
+          "vi": "makuuchi, top division (of professional sumo)"
+        },
+        "romaji": "makuuchi"
       },
       {
         "example": "お家",
         "reading": "おうち",
-        "meaning": "your home, your family, their home, their family, (my) home"
+        "meaning": {
+          "en": "your home, your family, their home, their family, (my) home"
+        },
+        "romaji": "ouchi"
       }
     ],
     "radical": {
@@ -446,5 +482,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05185.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5185.gif",
     "uri": "https://jisho.org/search/%E5%86%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "nạp",
+    "nội"
+  ]
 }

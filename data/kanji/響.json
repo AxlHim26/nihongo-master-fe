@@ -302,29 +302,44 @@
       {
         "example": "響岩",
         "reading": "キョウガン",
-        "meaning": "phonolite, clinkstone"
+        "meaning": {
+          "vi": "phonolite, clinkstone"
+        },
+        "romaji": "kyougan"
       },
       {
         "example": "響笛",
         "reading": "キョウテキ",
-        "meaning": "vibrating pipe"
+        "meaning": {
+          "vi": "vibrating pipe"
+        },
+        "romaji": "kyouteki"
       },
       {
         "example": "交響",
         "reading": "コウキョウ",
-        "meaning": "reverberation"
+        "meaning": {
+          "en": "reverberation"
+        },
+        "romaji": "koukyou"
       },
       {
         "example": "好影響",
         "reading": "コウエイキョウ",
-        "meaning": "favorable influence, favourable influence"
+        "meaning": {
+          "en": "favorable influence, favourable influence"
+        },
+        "romaji": "koueikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "響く",
         "reading": "ひびく",
-        "meaning": "to resound, to be heard far away, to reverberate, to shake, to vibrate, to come (home), to remain (with someone), to have an effect, to make an impression"
+        "meaning": {
+          "vi": "to resound, to be heard far away, to reverberate, to shake, to vibrate, to come (home), to remain (with someone), to have an effect, to make an impression"
+        },
+        "romaji": "hibiku"
       }
     ],
     "radical": {
@@ -343,5 +358,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ff.gif",
     "uri": "https://jisho.org/search/%E9%9F%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "hưởng"
+  ]
 }

@@ -19,22 +19,34 @@
       {
         "example": "麺",
         "reading": "メン",
-        "meaning": "mì, bột"
+        "meaning": {
+          "vi": "mì, bột"
+        },
+        "romaji": "men"
       },
       {
         "example": "麺子",
         "reading": "メンス",
-        "meaning": "mì"
+        "meaning": {
+          "vi": "mì"
+        },
+        "romaji": "mensu"
       },
       {
         "example": "生麺",
         "reading": "ナマメン",
-        "meaning": "mì tươi, mì chưa nấu"
+        "meaning": {
+          "vi": "mì tươi, mì chưa nấu"
+        },
+        "romaji": "namamen"
       },
       {
         "example": "製麺",
         "reading": "セイメン",
-        "meaning": "làm mì"
+        "meaning": {
+          "vi": "làm mì"
+        },
+        "romaji": "seimen"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09eba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9eba.gif",
     "uri": "https://jisho.org/search/%E9%BA%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "miến"
+  ]
 }

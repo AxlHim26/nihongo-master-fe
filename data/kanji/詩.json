@@ -293,39 +293,60 @@
       {
         "example": "詩",
         "reading": "シ",
-        "meaning": "poem, poetry, verse, Chinese poem"
+        "meaning": {
+          "vi": "poem, poetry, verse, Chinese poem"
+        },
+        "romaji": "shi"
       },
       {
         "example": "詩歌",
         "reading": "シイカ",
-        "meaning": "Japanese and Chinese poetry, poetry, poems"
+        "meaning": {
+          "vi": "Japanese and Chinese poetry, poetry, poems"
+        },
+        "romaji": "shiika"
       },
       {
         "example": "風物詩",
         "reading": "フウブツシ",
-        "meaning": "feature of the season, something characteristic of a particular season, poem about natural scenery or a particular season"
+        "meaning": {
+          "vi": "feature of the season, something characteristic of a particular season, poem about natural scenery or a particular season"
+        },
+        "romaji": "fuubutsushi"
       },
       {
         "example": "近代詩",
         "reading": "キンダイシ",
-        "meaning": "modern poetry, modern-style poetry"
+        "meaning": {
+          "vi": "modern poetry, modern-style poetry"
+        },
+        "romaji": "kindaishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "歌",
         "reading": "うた",
-        "meaning": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
+        "meaning": {
+          "vi": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
+        },
+        "romaji": "uta"
       },
       {
         "example": "悪魔の詩",
         "reading": "あくまのうた",
-        "meaning": "The Satanic Verses (novel by Salman Rushdie)"
+        "meaning": {
+          "en": "The Satanic Verses (novel by Salman Rushdie)"
+        },
+        "romaji": "akumanouta"
       },
       {
         "example": "唐歌",
         "reading": "からうた",
-        "meaning": "Chinese poem"
+        "meaning": {
+          "vi": "Chinese poem"
+        },
+        "romaji": "karauta"
       }
     ],
     "radical": {
@@ -344,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a69.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a69.gif",
     "uri": "https://jisho.org/search/%E8%A9%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thi"
+  ]
 }

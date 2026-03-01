@@ -292,44 +292,68 @@
       {
         "example": "橋",
         "reading": "キョウ",
-        "meaning": "pons, pons Varolii"
+        "meaning": {
+          "vi": "pons, pons Varolii"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "橋脚",
         "reading": "キョウキャク",
-        "meaning": "bridge pier, pontoon bridge"
+        "meaning": {
+          "vi": "bridge pier, pontoon bridge"
+        },
+        "romaji": "kyoukyaku"
       },
       {
         "example": "桟橋",
         "reading": "サンバシ",
-        "meaning": "wharf, bridge, jetty, pier"
+        "meaning": {
+          "vi": "wharf, bridge, jetty, pier"
+        },
+        "romaji": "sanbashi"
       },
       {
         "example": "石橋",
         "reading": "イシバシ",
-        "meaning": "stone bridge"
+        "meaning": {
+          "en": "stone bridge"
+        },
+        "romaji": "ishibashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "橋",
         "reading": "はし",
-        "meaning": "bridge"
+        "meaning": {
+          "en": "bridge"
+        },
+        "romaji": "hashi"
       },
       {
         "example": "橋渡し",
         "reading": "はしわたし",
-        "meaning": "mediation, good offices, go-between, intermediary, mediator, bridge (between), building a bridge"
+        "meaning": {
+          "en": "mediation, good offices, go-between, intermediary, mediator, bridge (between), building a bridge"
+        },
+        "romaji": "hashiwatashi"
       },
       {
         "example": "船橋",
         "reading": "ふなばし",
-        "meaning": "pontoon bridge, floating bridge, bridge (of a ship)"
+        "meaning": {
+          "vi": "pontoon bridge, floating bridge, bridge (of a ship)"
+        },
+        "romaji": "funabashi"
       },
       {
         "example": "大橋",
         "reading": "おおはし",
-        "meaning": "large bridge, big bridge"
+        "meaning": {
+          "en": "large bridge, big bridge"
+        },
+        "romaji": "oohashi"
       }
     ],
     "radical": {
@@ -346,5 +370,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a4b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a4b.gif",
     "uri": "https://jisho.org/search/%E6%A9%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "cao",
+    "khiêu",
+    "kiếu",
+    "kiều",
+    "kiểu"
+  ]
 }

@@ -16,22 +16,34 @@
       {
         "example": "知",
         "reading": "チ",
-        "meaning": "trí tuệ, tri thức cao cấp"
+        "meaning": {
+          "vi": "trí tuệ, tri thức cao cấp"
+        },
+        "romaji": "chi"
       },
       {
         "example": "知恵",
         "reading": "チエ",
-        "meaning": "trí tuệ, thông minh, giác ngộ"
+        "meaning": {
+          "vi": "trí tuệ, thông minh, giác ngộ"
+        },
+        "romaji": "chie"
       },
       {
         "example": "才知",
         "reading": "サイチ",
-        "meaning": "tài trí và thông minh"
+        "meaning": {
+          "vi": "tài trí và thông minh"
+        },
+        "romaji": "saichi"
       },
       {
         "example": "大知",
         "reading": "タイチ",
-        "meaning": "trí tuệ tối thượng, hiền nhân"
+        "meaning": {
+          "vi": "trí tuệ tối thượng, hiền nhân"
+        },
+        "romaji": "taichi"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0667a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/667a.gif",
     "uri": "https://jisho.org/search/%E6%99%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "trí"
+  ]
 }

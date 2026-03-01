@@ -353,44 +353,68 @@
       {
         "example": "葉",
         "reading": "ヨウ",
-        "meaning": "counter for leaves, pieces of paper, etc., counter for boats"
+        "meaning": {
+          "vi": "counter for leaves, pieces of paper, etc., counter for boats"
+        },
+        "romaji": "you"
       },
       {
         "example": "葉胃",
         "reading": "ヨウイ",
-        "meaning": "omasum, psalterium, third compartment of the stomach in ruminants"
+        "meaning": {
+          "vi": "omasum, psalterium, third compartment of the stomach in ruminants"
+        },
+        "romaji": "youi"
       },
       {
         "example": "紅葉",
         "reading": "コウヨウ",
-        "meaning": "leaves turning red (in autumn), red leaves, autumn colours, fall colors"
+        "meaning": {
+          "en": "leaves turning red (in autumn), red leaves, autumn colours, fall colors"
+        },
+        "romaji": "kouyou"
       },
       {
         "example": "前頭葉",
         "reading": "ゼントウヨウ",
-        "meaning": "frontal lobe"
+        "meaning": {
+          "en": "frontal lobe"
+        },
+        "romaji": "zentouyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "葉",
         "reading": "は",
-        "meaning": "leaf, blade (of grass), (pine) needle"
+        "meaning": {
+          "vi": "leaf, blade (of grass), (pine) needle"
+        },
+        "romaji": "ha"
       },
       {
         "example": "葉書",
         "reading": "はがき",
-        "meaning": "postcard, memo, note, card"
+        "meaning": {
+          "vi": "postcard, memo, note, card"
+        },
+        "romaji": "hagaki"
       },
       {
         "example": "一葉",
         "reading": "いちよう",
-        "meaning": "one leaf, one page, one sheet, one card, one photo, one boat"
+        "meaning": {
+          "vi": "one leaf, one page, one sheet, one card, one photo, one boat"
+        },
+        "romaji": "ichiyou"
       },
       {
         "example": "枝葉",
         "reading": "えだは",
-        "meaning": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        "meaning": {
+          "vi": "branches and leaves, foliage, unimportant details, nonessentials, side issue, digression"
+        },
+        "romaji": "edaha"
       }
     ],
     "radical": {
@@ -409,5 +433,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08449.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8449.gif",
     "uri": "https://jisho.org/search/%E8%91%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "diếp",
+    "diệp"
+  ]
 }

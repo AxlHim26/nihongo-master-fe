@@ -278,29 +278,44 @@
       {
         "example": "実況",
         "reading": "ジッキョウ",
-        "meaning": "actual state (of things), actual conditions, actual scene, reporting live, live broadcast, live coverage, running commentary, Let's Play (playthrough of a video game with player commentary)"
+        "meaning": {
+          "vi": "actual state (of things), actual conditions, actual scene, reporting live, live broadcast, live coverage, running commentary, Let's Play (playthrough of a video game with player commentary)"
+        },
+        "romaji": "jikkyou"
       },
       {
         "example": "市況",
         "reading": "シキョウ",
-        "meaning": "market conditions"
+        "meaning": {
+          "en": "market conditions"
+        },
+        "romaji": "shikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "況して",
         "reading": "まして",
-        "meaning": "still more, to say nothing of, not to mention, still less"
+        "meaning": {
+          "en": "still more, to say nothing of, not to mention, still less"
+        },
+        "romaji": "mashite"
       },
       {
         "example": "況してや",
         "reading": "ましてや",
-        "meaning": "much less, to say nothing of"
+        "meaning": {
+          "en": "much less, to say nothing of"
+        },
+        "romaji": "mashiteya"
       },
       {
         "example": "況んや",
         "reading": "いわんや",
-        "meaning": "much more, not to mention, not to speak of, to say nothing of, let alone"
+        "meaning": {
+          "vi": "much more, not to mention, not to speak of, to say nothing of, let alone"
+        },
+        "romaji": "iwan'ya"
       }
     ],
     "radical": {
@@ -320,5 +335,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cc1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cc1.gif",
     "uri": "https://jisho.org/search/%E6%B3%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "huống"
+  ]
 }

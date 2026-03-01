@@ -19,24 +19,36 @@
       {
         "example": "詮",
         "reading": "セン",
-        "meaning": "way, method, means, effect, result, worth, benefit, use"
+        "meaning": {
+          "en": "way, method, means, effect, result, worth, benefit, use"
+        },
+        "romaji": "sen"
       },
       {
         "example": "選考",
         "reading": "センコウ",
-        "meaning": "selection, choice, screening"
+        "meaning": {
+          "en": "selection, choice, screening"
+        },
+        "romaji": "senkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "詮ずるところ",
         "reading": "せんずるところ",
-        "meaning": "after all, in the end, in short, given due consideration, when all is said and done"
+        "meaning": {
+          "en": "after all, in the end, in short, given due consideration, when all is said and done"
+        },
+        "romaji": "senzurutokoro"
       },
       {
         "example": "甲斐",
         "reading": "かい",
-        "meaning": "result (that makes an act worthwhile), worth (in doing something), value, effect, use, benefit, avail"
+        "meaning": {
+          "en": "result (that makes an act worthwhile), worth (in doing something), value, effect, use, benefit, avail"
+        },
+        "romaji": "kai"
       }
     ],
     "radical": {
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a6e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a6e.gif",
     "uri": "https://jisho.org/search/%E8%A9%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuyên"
+  ]
 }

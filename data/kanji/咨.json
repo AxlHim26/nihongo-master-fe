@@ -17,7 +17,10 @@
       {
         "example": "諮詢",
         "reading": "シジュン",
-        "meaning": "question, enquiry, inquiry, consultation, advice-seeking"
+        "meaning": {
+          "en": "question, enquiry, inquiry, consultation, advice-seeking"
+        },
+        "romaji": "shijun"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54a8.gif",
     "uri": "https://jisho.org/search/%E5%92%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

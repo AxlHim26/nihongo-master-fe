@@ -291,44 +291,68 @@
       {
         "example": "勺",
         "reading": "シャク",
-        "meaning": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square"
+        "meaning": {
+          "vi": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square"
+        },
+        "romaji": "shaku"
       },
       {
         "example": "夕日",
         "reading": "ユウヒ",
-        "meaning": "evening sun, setting sun"
+        "meaning": {
+          "en": "evening sun, setting sun"
+        },
+        "romaji": "yuuhi"
       },
       {
         "example": "秋夕",
         "reading": "シュウセキ",
-        "meaning": "autumn evening"
+        "meaning": {
+          "en": "autumn evening"
+        },
+        "romaji": "shuuseki"
       },
       {
         "example": "一夕",
         "reading": "イッセキ",
-        "meaning": "one evening, some evenings"
+        "meaning": {
+          "en": "one evening, some evenings"
+        },
+        "romaji": "isseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "夕",
         "reading": "ゆう",
-        "meaning": "evening"
+        "meaning": {
+          "en": "evening"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "夕べ",
         "reading": "ゆうべ",
-        "meaning": "evening, evening (of a special event)"
+        "meaning": {
+          "vi": "evening, evening (of a special event)"
+        },
+        "romaji": "yuube"
       },
       {
         "example": "昨夕",
         "reading": "さくゆう",
-        "meaning": "yesterday evening, last night"
+        "meaning": {
+          "en": "yesterday evening, last night"
+        },
+        "romaji": "sakuyuu"
       },
       {
         "example": "春の夕",
         "reading": "はるのゆう",
-        "meaning": "spring evening"
+        "meaning": {
+          "vi": "spring evening"
+        },
+        "romaji": "harunoyuu"
       }
     ],
     "radical": {
@@ -342,5 +366,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05915.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5915.gif",
     "uri": "https://jisho.org/search/%E5%A4%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "tịch"
+  ]
 }

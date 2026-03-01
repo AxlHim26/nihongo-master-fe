@@ -19,29 +19,42 @@
       {
         "example": "噯",
         "reading": "オクビ",
-        "meaning": "belch, eructation, burp"
+        "meaning": {
+          "vi": "belch, eructation, burp"
+        },
+        "romaji": "okubi"
       },
       {
         "example": "噯",
         "reading": "オクビ",
-        "meaning": "belch, eructation, burp"
+        "meaning": {
+          "vi": "belch, eructation, burp"
+        },
+        "romaji": "okubi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ああ】",
         "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha"
       },
       {
         "example": "噫無情",
         "reading": "ああむじょう",
-        "meaning": "Les Miserables (novel by Victor Hugo)"
+        "meaning": {
+          "en": "Les Miserables (novel by Victor Hugo)"
+        },
+        "romaji": "aamujou"
       },
       {
         "example": "噯",
         "reading": "おくび",
-        "meaning": "belch, eructation, burp"
+        "meaning": {
+          "vi": "belch, eructation, burp"
+        },
+        "romaji": "okubi"
       }
     ],
     "radical": {
@@ -59,5 +72,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0566b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/566b.gif",
     "uri": "https://jisho.org/search/%E5%99%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "y",
+    "ái",
+    "ý",
+    "ức"
+  ]
 }

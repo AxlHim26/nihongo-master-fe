@@ -233,29 +233,44 @@
       {
         "example": "悟性",
         "reading": "ゴセイ",
-        "meaning": "wisdom, understanding"
+        "meaning": {
+          "en": "wisdom, understanding"
+        },
+        "romaji": "gosei"
       },
       {
         "example": "悟達",
         "reading": "ゴタツ",
-        "meaning": "attaining enlightenment"
+        "meaning": {
+          "en": "attaining enlightenment"
+        },
+        "romaji": "gotatsu"
       },
       {
         "example": "大悟",
         "reading": "タイゴ",
-        "meaning": "enlightenment, great wisdom"
+        "meaning": {
+          "en": "enlightenment, great wisdom"
+        },
+        "romaji": "taigo"
       },
       {
         "example": "穎悟",
         "reading": "エイゴ",
-        "meaning": "intelligent, shrewd"
+        "meaning": {
+          "en": "intelligent, shrewd"
+        },
+        "romaji": "eigo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悟る",
         "reading": "さとる",
-        "meaning": "to perceive, to sense, to become aware, to notice, to detect, to discern, to understand, to comprehend, to realize, to attain enlightenment"
+        "meaning": {
+          "vi": "to perceive, to sense, to become aware, to notice, to detect, to discern, to understand, to comprehend, to realize, to attain enlightenment"
+        },
+        "romaji": "satoru"
       }
     ],
     "radical": {
@@ -275,5 +290,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609f.gif",
     "uri": "https://jisho.org/search/%E6%82%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngộ"
+  ]
 }

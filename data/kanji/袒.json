@@ -16,7 +16,10 @@
       {
         "example": "左袒",
         "reading": "サタン",
-        "meaning": "friendship, allegiance, support"
+        "meaning": {
+          "vi": "friendship, allegiance, support"
+        },
+        "romaji": "satan"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08892.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8892.gif",
     "uri": "https://jisho.org/search/%E8%A2%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "đản"
+  ]
 }

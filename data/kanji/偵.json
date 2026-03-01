@@ -17,22 +17,34 @@
       {
         "example": "偵察",
         "reading": "テイサツ",
-        "meaning": "scouting, reconnaissance"
+        "meaning": {
+          "en": "scouting, reconnaissance"
+        },
+        "romaji": "teisatsu"
       },
       {
         "example": "偵察衛星",
         "reading": "テイサツエイセイ",
-        "meaning": "reconnaissance satellite, spy satellite"
+        "meaning": {
+          "vi": "reconnaissance satellite, spy satellite"
+        },
+        "romaji": "teisatsueisei"
       },
       {
         "example": "内偵",
         "reading": "ナイテイ",
-        "meaning": "secret investigation, private enquiry, private inquiry, reconnaissance, scouting"
+        "meaning": {
+          "vi": "secret investigation, private enquiry, private inquiry, reconnaissance, scouting"
+        },
+        "romaji": "naitei"
       },
       {
         "example": "密偵",
         "reading": "ミッテイ",
-        "meaning": "spy, secret agent, spying"
+        "meaning": {
+          "vi": "spy, secret agent, spying"
+        },
+        "romaji": "mittei"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05075.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5075.gif",
     "uri": "https://jisho.org/search/%E5%81%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "trinh"
+  ]
 }

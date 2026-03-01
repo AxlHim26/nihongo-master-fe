@@ -17,19 +17,28 @@
       {
         "example": "刮眼",
         "reading": "カツガン",
-        "meaning": "close attention, (watching with) keen interest"
+        "meaning": {
+          "en": "close attention, (watching with) keen interest"
+        },
+        "romaji": "katsugan"
       },
       {
         "example": "刮目",
         "reading": "カツモク",
-        "meaning": "close attention, (watching with) keen interest"
+        "meaning": {
+          "en": "close attention, (watching with) keen interest"
+        },
+        "romaji": "katsumoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "刮げる",
         "reading": "こそげる",
-        "meaning": "to scrape off, to shave off"
+        "meaning": {
+          "vi": "to scrape off, to shave off"
+        },
+        "romaji": "kosogeru"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0522e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/522e.gif",
     "uri": "https://jisho.org/search/%E5%88%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "quát"
+  ]
 }

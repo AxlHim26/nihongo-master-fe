@@ -15,22 +15,34 @@
       {
         "example": "鷸",
         "reading": "しぎ",
-        "meaning": "sandpiper (any bird of family Scolopacidae, incl. the curlews, godwits, phalaropes, redshanks, ruff, snipes, turnstones, and woodcocks)"
+        "meaning": {
+          "vi": "sandpiper (any bird of family Scolopacidae, incl. the curlews, godwits, phalaropes, redshanks, ruff, snipes, turnstones, and woodcocks)"
+        },
+        "romaji": "shigi"
       },
       {
         "example": "鴫鰻",
         "reading": "しぎうなぎ",
-        "meaning": "slender snipe eel (Nemichthys scolopaceus)"
+        "meaning": {
+          "vi": "slender snipe eel (Nemichthys scolopaceus)"
+        },
+        "romaji": "shigiunagi"
       },
       {
         "example": "背高鴫",
         "reading": "せいたかしぎ",
-        "meaning": "black-winged stilt (Himantopus himantopus), stilt (any bird of family Recurvirostridae), avocet"
+        "meaning": {
+          "vi": "black-winged stilt (Himantopus himantopus), stilt (any bird of family Recurvirostridae), avocet"
+        },
+        "romaji": "seitakashigi"
       },
       {
         "example": "杓鴫",
         "reading": "しゃくしぎ",
-        "meaning": "curlew (any bird of genus Numenius)"
+        "meaning": {
+          "en": "curlew (any bird of genus Numenius)"
+        },
+        "romaji": "shakushigi"
       }
     ],
     "radical": {
@@ -46,5 +58,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d2b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d2b.gif",
     "uri": "https://jisho.org/search/%E9%B4%AB%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

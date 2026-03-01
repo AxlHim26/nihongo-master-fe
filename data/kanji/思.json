@@ -322,39 +322,60 @@
       {
         "example": "思春期",
         "reading": "シシュンキ",
-        "meaning": "puberty, adolescence"
+        "meaning": {
+          "vi": "puberty, adolescence"
+        },
+        "romaji": "shishunki"
       },
       {
         "example": "思考",
         "reading": "シコウ",
-        "meaning": "thought, consideration, thinking"
+        "meaning": {
+          "en": "thought, consideration, thinking"
+        },
+        "romaji": "shikou"
       },
       {
         "example": "相思",
         "reading": "ソウシ",
-        "meaning": "mutual affection, mutual love"
+        "meaning": {
+          "en": "mutual affection, mutual love"
+        },
+        "romaji": "soushi"
       },
       {
         "example": "哀思",
         "reading": "アイシ",
-        "meaning": "sad feeling"
+        "meaning": {
+          "en": "sad feeling"
+        },
+        "romaji": "aishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "思う",
         "reading": "おもう",
-        "meaning": "to think, to consider, to believe, to reckon, to think (of doing), to plan (to do), to judge, to assess, to regard, to imagine, to suppose, to dream, to expect, to look forward to, to feel, to be (in a state of mind), to desire, to want, to care (deeply) for, to yearn for, to worry about, to love, to recall, to remember"
+        "meaning": {
+          "vi": "to think, to consider, to believe, to reckon, to think (of doing), to plan (to do), to judge, to assess, to regard, to imagine, to suppose, to dream, to expect, to look forward to, to feel, to be (in a state of mind), to desire, to want, to care (deeply) for, to yearn for, to worry about, to love, to recall, to remember"
+        },
+        "romaji": "omou"
       },
       {
         "example": "思う存分",
         "reading": "おもうぞんぶん",
-        "meaning": "to one's heart's content, to one's complete satisfaction, as much as one likes, heartily, thoroughly, without restraint, to the full"
+        "meaning": {
+          "vi": "to one's heart's content, to one's complete satisfaction, as much as one likes, heartily, thoroughly, without restraint, to the full"
+        },
+        "romaji": "omouzonbun"
       },
       {
         "example": "思す",
         "reading": "おぼす",
-        "meaning": "to think, to consider, to think dearly of, to care for, to cherish"
+        "meaning": {
+          "en": "to think, to consider, to think dearly of, to care for, to cherish"
+        },
+        "romaji": "obosu"
       }
     ],
     "radical": {
@@ -373,5 +394,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0601d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/601d.gif",
     "uri": "https://jisho.org/search/%E6%80%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tai",
+    "tư",
+    "tứ"
+  ]
 }

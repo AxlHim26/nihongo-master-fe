@@ -19,44 +19,68 @@
       {
         "example": "炎",
         "reading": "エン",
-        "meaning": "-itis (indicating an inflammatory disease)"
+        "meaning": {
+          "en": "-itis (indicating an inflammatory disease)"
+        },
+        "romaji": "en"
       },
       {
         "example": "炎症",
         "reading": "エンショウ",
-        "meaning": "inflammation, irritation"
+        "meaning": {
+          "en": "inflammation, irritation"
+        },
+        "romaji": "enshou"
       },
       {
         "example": "脳炎",
         "reading": "ノウエン",
-        "meaning": "brain inflammation, encephalitis, cerebritis"
+        "meaning": {
+          "vi": "brain inflammation, encephalitis, cerebritis"
+        },
+        "romaji": "nouen"
       },
       {
         "example": "胃炎",
         "reading": "イエン",
-        "meaning": "gastritis, gastric catarrh"
+        "meaning": {
+          "en": "gastritis, gastric catarrh"
+        },
+        "romaji": "ien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "炎",
         "reading": "ほのお",
-        "meaning": "flame, blaze, flames (of intense emotion, e.g. love, jealousy, anger), passion"
+        "meaning": {
+          "vi": "flame, blaze, flames (of intense emotion, e.g. love, jealousy, anger), passion"
+        },
+        "romaji": "honoo"
       },
       {
         "example": "炎検出器",
         "reading": "ほのおけんしゅつき",
-        "meaning": "flame detector"
+        "meaning": {
+          "en": "flame detector"
+        },
+        "romaji": "honookenshutsuki"
       },
       {
         "example": "瞋恚の炎",
         "reading": "しんいのほのお",
-        "meaning": "intense antipathy (like a blazing fire), flames of rage"
+        "meaning": {
+          "vi": "intense antipathy (like a blazing fire), flames of rage"
+        },
+        "romaji": "shin'inohonoo"
       },
       {
         "example": "嫉妬の炎",
         "reading": "しっとのほのお",
-        "meaning": "flames of jealousy"
+        "meaning": {
+          "en": "flames of jealousy"
+        },
+        "romaji": "shittonohonoo"
       }
     ],
     "radical": {
@@ -73,5 +97,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0708e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/708e.gif",
     "uri": "https://jisho.org/search/%E7%82%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "diễm",
+    "viêm",
+    "đàm"
+  ]
 }

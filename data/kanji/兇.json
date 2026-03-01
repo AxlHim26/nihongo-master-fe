@@ -17,17 +17,26 @@
       {
         "example": "凶",
         "reading": "キョウ",
-        "meaning": "xui xẻo, vận rủi"
+        "meaning": {
+          "vi": "xui xẻo, vận rủi"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "凶悪",
         "reading": "キョウアク",
-        "meaning": "tàn ác, hung ác, dã man"
+        "meaning": {
+          "vi": "tàn ác, hung ác, dã man"
+        },
+        "romaji": "kyouaku"
       },
       {
         "example": "元凶",
         "reading": "ゲンキョウ",
-        "meaning": "thủ phạm chính, nguyên nhân chính"
+        "meaning": {
+          "vi": "thủ phạm chính, nguyên nhân chính"
+        },
+        "romaji": "genkyou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05147.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5147.gif",
     "uri": "https://jisho.org/search/%E5%85%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hung"
+  ]
 }

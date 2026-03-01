@@ -17,12 +17,18 @@
       {
         "example": "鱸",
         "reading": "すずき",
-        "meaning": "Japanese sea bass (Lateolabrax japonicus)"
+        "meaning": {
+          "vi": "Japanese sea bass (Lateolabrax japonicus)"
+        },
+        "romaji": "suzuki"
       },
       {
         "example": "平鱸",
         "reading": "ひらすずき",
-        "meaning": "blackfin sea bass (Lateolabrax latus)"
+        "meaning": {
+          "en": "blackfin sea bass (Lateolabrax latus)"
+        },
+        "romaji": "hirasuzuki"
       }
     ],
     "radical": {
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c78.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c78.gif",
     "uri": "https://jisho.org/search/%E9%B1%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "lô",
+    "lư"
+  ]
 }

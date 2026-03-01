@@ -361,22 +361,34 @@
       {
         "example": "演技",
         "reading": "エンギ",
-        "meaning": "diễn xuất, biểu diễn"
+        "meaning": {
+          "vi": "diễn xuất, biểu diễn"
+        },
+        "romaji": "engi"
       },
       {
         "example": "演歌",
         "reading": "エンカ",
-        "meaning": "enka, thể loại ballad Nhật truyền thống"
+        "meaning": {
+          "vi": "enka, thể loại ballad Nhật truyền thống"
+        },
+        "romaji": "enka"
       },
       {
         "example": "共演",
         "reading": "キョウエン",
-        "meaning": "diễn chung (phim, kịch), biểu diễn chung, đồng diễn"
+        "meaning": {
+          "vi": "diễn chung (phim, kịch), biểu diễn chung, đồng diễn"
+        },
+        "romaji": "kyouen"
       },
       {
         "example": "再演",
         "reading": "サイエン",
-        "meaning": "diễn lại (vở kịch), tóm tắt lại"
+        "meaning": {
+          "vi": "diễn lại (vở kịch), tóm tắt lại"
+        },
+        "romaji": "saien"
       }
     ],
     "kunyomiExamples": [],
@@ -399,5 +411,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f14.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f14.gif",
     "uri": "https://jisho.org/search/%E6%BC%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "diễn"
+  ]
 }

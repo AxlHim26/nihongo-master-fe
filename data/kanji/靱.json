@@ -23,34 +23,52 @@
       {
         "example": "靱性",
         "reading": "ジンセイ",
-        "meaning": "toughness (of a material), tenacity, fracture toughness"
+        "meaning": {
+          "en": "toughness (of a material), tenacity, fracture toughness"
+        },
+        "romaji": "jinsei"
       },
       {
         "example": "じん帯",
         "reading": "ジンタイ",
-        "meaning": "ligament"
+        "meaning": {
+          "en": "ligament"
+        },
+        "romaji": "jintai"
       },
       {
         "example": "強靭",
         "reading": "キョウジン",
-        "meaning": "tough, strong, stiff, tenacious"
+        "meaning": {
+          "en": "tough, strong, stiff, tenacious"
+        },
+        "romaji": "kyoujin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "靫",
         "reading": "うつぼ",
-        "meaning": "quiver (cylindrical and worn on the back or hip)"
+        "meaning": {
+          "vi": "quiver (cylindrical and worn on the back or hip)"
+        },
+        "romaji": "utsubo"
       },
       {
         "example": "靫",
         "reading": "うつぼ",
-        "meaning": "quiver (cylindrical and worn on the back or hip)"
+        "meaning": {
+          "vi": "quiver (cylindrical and worn on the back or hip)"
+        },
+        "romaji": "utsubo"
       },
       {
         "example": "靫",
         "reading": "ゆぎ",
-        "meaning": "quiver (box-shaped and worn on the back)"
+        "meaning": {
+          "vi": "quiver (box-shaped and worn on the back)"
+        },
+        "romaji": "yugi"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09771.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9771.gif",
     "uri": "https://jisho.org/search/%E9%9D%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhận"
+  ]
 }

@@ -19,44 +19,68 @@
       {
         "example": "帆船",
         "reading": "ハンセン",
-        "meaning": "sailing ship, sailing boat, sailing vessel"
+        "meaning": {
+          "vi": "sailing ship, sailing boat, sailing vessel"
+        },
+        "romaji": "hansen"
       },
       {
         "example": "帆走",
         "reading": "ハンソウ",
-        "meaning": "sailing"
+        "meaning": {
+          "en": "sailing"
+        },
+        "romaji": "hansou"
       },
       {
         "example": "横帆",
         "reading": "オウハン",
-        "meaning": "square sail"
+        "meaning": {
+          "en": "square sail"
+        },
+        "romaji": "ouhan"
       },
       {
         "example": "光帆",
         "reading": "コウハン",
-        "meaning": "light sail, solar sail"
+        "meaning": {
+          "en": "light sail, solar sail"
+        },
+        "romaji": "kouhan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帆",
         "reading": "ほ",
-        "meaning": "sail"
+        "meaning": {
+          "en": "sail"
+        },
+        "romaji": "ho"
       },
       {
         "example": "帆船",
         "reading": "はんせん",
-        "meaning": "sailing ship, sailing boat, sailing vessel"
+        "meaning": {
+          "vi": "sailing ship, sailing boat, sailing vessel"
+        },
+        "romaji": "hansen"
       },
       {
         "example": "太陽帆",
         "reading": "たいようほ",
-        "meaning": "solar sail"
+        "meaning": {
+          "en": "solar sail"
+        },
+        "romaji": "taiyouho"
       },
       {
         "example": "三角帆",
         "reading": "さんかくほ",
-        "meaning": "jib sail"
+        "meaning": {
+          "en": "jib sail"
+        },
+        "romaji": "sankakuho"
       }
     ],
     "radical": {
@@ -72,5 +96,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e06.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e06.gif",
     "uri": "https://jisho.org/search/%E5%B8%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "phàm",
+    "phâm"
+  ]
 }

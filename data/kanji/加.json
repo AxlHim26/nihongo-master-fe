@@ -330,34 +330,52 @@
       {
         "example": "加",
         "reading": "カ",
-        "meaning": "addition, Canada"
+        "meaning": {
+          "en": "addition, Canada"
+        },
+        "romaji": "ka"
       },
       {
         "example": "加圧",
         "reading": "カアツ",
-        "meaning": "pressurization, applying pressure (to)"
+        "meaning": {
+          "vi": "pressurization, applying pressure (to)"
+        },
+        "romaji": "kaatsu"
       },
       {
         "example": "添加",
         "reading": "テンカ",
-        "meaning": "addition, annexing"
+        "meaning": {
+          "en": "addition, annexing"
+        },
+        "romaji": "tenka"
       },
       {
         "example": "倍加",
         "reading": "バイカ",
-        "meaning": "doubling, marked increase, multiplying, redoubling"
+        "meaning": {
+          "vi": "doubling, marked increase, multiplying, redoubling"
+        },
+        "romaji": "baika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "加える",
         "reading": "くわえる",
-        "meaning": "to add, to add up, to sum up, to append, to annex, to increase, to gather (e.g. speed), to pick up, to include, to count in, to let join, to inflict (damage), to deal, to give"
+        "meaning": {
+          "vi": "to add, to add up, to sum up, to append, to annex, to increase, to gather (e.g. speed), to pick up, to include, to count in, to let join, to inflict (damage), to deal, to give"
+        },
+        "romaji": "kuwaeru"
       },
       {
         "example": "加わる",
         "reading": "くわわる",
-        "meaning": "to be added to, to be appended, to join in (e.g. a group of friends), to participate, to increase (e.g. heat), to gain in (e.g. influence), to grow, to gather (speed), to be applied (e.g. heat, pressure), to be exerted"
+        "meaning": {
+          "vi": "to be added to, to be appended, to join in (e.g. a group of friends), to participate, to increase (e.g. heat), to gain in (e.g. influence), to grow, to gather (speed), to be applied (e.g. heat, pressure), to be exerted"
+        },
+        "romaji": "kuwawaru"
       }
     ],
     "radical": {
@@ -372,5 +390,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a0.gif",
     "uri": "https://jisho.org/search/%E5%8A%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "gia"
+  ]
 }

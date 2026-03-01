@@ -22,39 +22,60 @@
       {
         "example": "鋳造",
         "reading": "チュウゾウ",
-        "meaning": "casting, founding, minting"
+        "meaning": {
+          "en": "casting, founding, minting"
+        },
+        "romaji": "chuuzou"
       },
       {
         "example": "鋳貨",
         "reading": "チュウカ",
-        "meaning": "coinage, mintage"
+        "meaning": {
+          "en": "coinage, mintage"
+        },
+        "romaji": "chuuka"
       },
       {
         "example": "改鋳",
         "reading": "カイチュウ",
-        "meaning": "reminting, recasting"
+        "meaning": {
+          "en": "reminting, recasting"
+        },
+        "romaji": "kaichuu"
       },
       {
         "example": "再鋳",
         "reading": "サイチュウ",
-        "meaning": "recasting"
+        "meaning": {
+          "en": "recasting"
+        },
+        "romaji": "saichuu"
       },
       {
         "example": "鋳物",
         "reading": "イモノ",
-        "meaning": "casting, cast-metal object"
+        "meaning": {
+          "en": "casting, cast-metal object"
+        },
+        "romaji": "imono"
       },
       {
         "example": "鋳型",
         "reading": "イガタ",
-        "meaning": "mold, mould, template"
+        "meaning": {
+          "vi": "mold, mould, template"
+        },
+        "romaji": "igata"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鋳る",
         "reading": "いる",
-        "meaning": "to cast, to mint, to coin"
+        "meaning": {
+          "en": "to cast, to mint, to coin"
+        },
+        "romaji": "iru"
       }
     ],
     "radical": {
@@ -75,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f3.gif",
     "uri": "https://jisho.org/search/%E9%8B%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "chú"
+  ]
 }

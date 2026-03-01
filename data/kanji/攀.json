@@ -16,24 +16,36 @@
       {
         "example": "攀縁",
         "reading": "ハンエン",
-        "meaning": "leo trèo"
+        "meaning": {
+          "vi": "leo trèo"
+        },
+        "romaji": "han'en"
       },
       {
         "example": "攀縁茎",
         "reading": "ハンエンケイ",
-        "meaning": "thân leo"
+        "meaning": {
+          "vi": "thân leo"
+        },
+        "romaji": "han'enkei"
       },
       {
         "example": "登攀",
         "reading": "トウハン",
-        "meaning": "leo, trèo, leo lên"
+        "meaning": {
+          "vi": "leo, trèo, leo lên"
+        },
+        "romaji": "touhan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "攀じる",
         "reading": "よじる",
-        "meaning": "leo lên, trèo lên"
+        "meaning": {
+          "vi": "leo lên, trèo lên"
+        },
+        "romaji": "yojiru"
       }
     ],
     "radical": {
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06500.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6500.gif",
     "uri": "https://jisho.org/search/%E6%94%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "phan",
+    "phàn"
+  ]
 }

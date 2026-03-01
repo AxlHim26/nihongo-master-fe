@@ -16,22 +16,34 @@
       {
         "example": "吏",
         "reading": "リ",
-        "meaning": "government official, public official"
+        "meaning": {
+          "vi": "government official, public official"
+        },
+        "romaji": "ri"
       },
       {
         "example": "吏員",
         "reading": "リイン",
-        "meaning": "official"
+        "meaning": {
+          "en": "official"
+        },
+        "romaji": "riin"
       },
       {
         "example": "官吏",
         "reading": "カンリ",
-        "meaning": "government official, public servant, civil servant"
+        "meaning": {
+          "vi": "government official, public servant, civil servant"
+        },
+        "romaji": "kanri"
       },
       {
         "example": "刑吏",
         "reading": "ケイリ",
-        "meaning": "executioner"
+        "meaning": {
+          "en": "executioner"
+        },
+        "romaji": "keiri"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540f.gif",
     "uri": "https://jisho.org/search/%E5%90%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "lại"
+  ]
 }

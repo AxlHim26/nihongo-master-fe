@@ -18,19 +18,37 @@
       {
         "example": "亙古",
         "reading": "コウコ",
-        "meaning": "từ xưa đến nay"
+        "meaning": {
+          "vi": "từ xưa đến nay"
+        },
+        "meaningVN": "từ xưa đến nay",
+        "hanViet": "cắng cổ",
+        "hanVietExplain": "亙 (cắng: khoảng dài từ đầu đến cuối) + 古 (cổ: cũ, xưa) → từ xưa đến nay",
+        "romaji": "kouko"
       },
       {
         "example": "連亘",
         "reading": "レンコウ",
-        "meaning": "trải dài thành hàng"
+        "meaning": {
+          "vi": "trải dài thành hàng"
+        },
+        "meaningVN": "trải dài thành hàng",
+        "hanViet": "liên cắng",
+        "hanVietExplain": "連 (liên: liền nối) + 亘 (cắng: phô bày) → trải dài thành hàng",
+        "romaji": "renkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渡る",
         "reading": "わたる",
-        "meaning": "băng qua, trải dài, bao phủ"
+        "meaning": {
+          "vi": "băng qua, trải dài, bao phủ"
+        },
+        "meaningVN": "băng qua, trải dài, bao phủ",
+        "hanViet": "độ る",
+        "hanVietExplain": "độ: vượt qua, cứu giúp, bến đò",
+        "romaji": "wataru"
       }
     ],
     "radical": {
@@ -47,5 +65,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e99.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e99.gif",
     "uri": "https://jisho.org/search/%E4%BA%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "cắng"
+  ],
+  "meaningVN": "phạm vi, vươn tới, trải dài, bao phủ",
+  "hanVietExplain": "cắng: khoảng dài từ đầu đến cuối"
 }

@@ -349,59 +349,92 @@
       {
         "example": "好",
         "reading": "コウ",
-        "meaning": "good"
+        "meaning": {
+          "en": "good"
+        },
+        "romaji": "kou"
       },
       {
         "example": "好意",
         "reading": "コウイ",
-        "meaning": "kindness, favor, favour, friendliness, goodwill, affection, liking (for someone), love"
+        "meaning": {
+          "en": "kindness, favor, favour, friendliness, goodwill, affection, liking (for someone), love"
+        },
+        "romaji": "koui"
       },
       {
         "example": "友好",
         "reading": "ユウコウ",
-        "meaning": "friendship"
+        "meaning": {
+          "vi": "friendship"
+        },
+        "romaji": "yuukou"
       },
       {
         "example": "同好",
         "reading": "ドウコウ",
-        "meaning": "similar tastes"
+        "meaning": {
+          "en": "similar tastes"
+        },
+        "romaji": "doukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "好む",
         "reading": "このむ",
-        "meaning": "to like, to prefer"
+        "meaning": {
+          "vi": "to like, to prefer"
+        },
+        "romaji": "konomu"
       },
       {
         "example": "好むと好まざるとにかかわらず",
         "reading": "このむとこのまざるとにかかわらず",
-        "meaning": "whether one likes it or not"
+        "meaning": {
+          "en": "whether one likes it or not"
+        },
+        "romaji": "konomutokonomazarutonikakawarazu"
       },
       {
         "example": "好く",
         "reading": "すく",
-        "meaning": "to like, to love, to be fond of"
+        "meaning": {
+          "en": "to like, to love, to be fond of"
+        },
+        "romaji": "suku"
       },
       {
         "example": "良い",
         "reading": "よい",
-        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        "meaning": {
+          "vi": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        },
+        "romaji": "yoi"
       },
       {
         "example": "いい男",
         "reading": "いいおとこ",
-        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        "meaning": {
+          "vi": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        },
+        "romaji": "iiotoko"
       },
       {
         "example": "いい加減",
         "reading": "いいかげん",
-        "meaning": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty"
+        "meaning": {
+          "vi": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty"
+        },
+        "romaji": "iikagen"
       },
       {
         "example": "いい男",
         "reading": "いいおとこ",
-        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        "meaning": {
+          "vi": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        },
+        "romaji": "iiotoko"
       }
     ],
     "radical": {
@@ -416,5 +449,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0597d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/597d.gif",
     "uri": "https://jisho.org/search/%E5%A5%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiếu",
+    "hảo"
+  ]
 }

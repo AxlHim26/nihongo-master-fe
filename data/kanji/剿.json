@@ -15,12 +15,18 @@
       {
         "example": "掃討",
         "reading": "ソウトウ",
-        "meaning": "cleaning up (enemy remnants), sweeping clean (of opponents), mopping up"
+        "meaning": {
+          "vi": "cleaning up (enemy remnants), sweeping clean (of opponents), mopping up"
+        },
+        "romaji": "soutou"
       },
       {
         "example": "掃滅",
         "reading": "ソウメツ",
-        "meaning": "wiping out, annihilation"
+        "meaning": {
+          "vi": "wiping out, annihilation"
+        },
+        "romaji": "soumetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0527f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/527f.gif",
     "uri": "https://jisho.org/search/%E5%89%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiễu"
+  ]
 }

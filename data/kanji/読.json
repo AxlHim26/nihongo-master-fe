@@ -387,54 +387,84 @@
       {
         "example": "読書",
         "reading": "ドクショ",
-        "meaning": "reading (books)"
+        "meaning": {
+          "en": "reading (books)"
+        },
+        "romaji": "dokusho"
       },
       {
         "example": "読者",
         "reading": "ドクシャ",
-        "meaning": "reader"
+        "meaning": {
+          "en": "reader"
+        },
+        "romaji": "dokusha"
       },
       {
         "example": "積ん読",
         "reading": "ツンドク",
-        "meaning": "buying books and not reading them, stockpiling books, tsundoku, books bought but not read"
+        "meaning": {
+          "vi": "buying books and not reading them, stockpiling books, tsundoku, books bought but not read"
+        },
+        "romaji": "tsundoku"
       },
       {
         "example": "必読",
         "reading": "ヒツドク",
-        "meaning": "must-read, required reading"
+        "meaning": {
+          "en": "must-read, required reading"
+        },
+        "romaji": "hitsudoku"
       },
       {
         "example": "読書",
         "reading": "ドクショ",
-        "meaning": "reading (books)"
+        "meaning": {
+          "en": "reading (books)"
+        },
+        "romaji": "dokusho"
       },
       {
         "example": "読本",
         "reading": "トクホン",
-        "meaning": "reading-book, reader, guidebook, manual, textbook (esp. a pre-war elementary school Japanese language textbook)"
+        "meaning": {
+          "vi": "reading-book, reader, guidebook, manual, textbook (esp. a pre-war elementary school Japanese language textbook)"
+        },
+        "romaji": "tokuhon"
       },
       {
         "example": "読点",
         "reading": "トウテン",
-        "meaning": "comma"
+        "meaning": {
+          "en": "comma"
+        },
+        "romaji": "touten"
       },
       {
         "example": "句読",
         "reading": "クトウ",
-        "meaning": "breaks and pauses (in a sentence), punctuation, way of reading (esp. kanbun)"
+        "meaning": {
+          "vi": "breaks and pauses (in a sentence), punctuation, way of reading (esp. kanbun)"
+        },
+        "romaji": "kutou"
       },
       {
         "example": "吏読",
         "reading": "リト",
-        "meaning": "Idu (archaic writing system that uses Chinese characters to represent the Korean language)"
+        "meaning": {
+          "vi": "Idu (archaic writing system that uses Chinese characters to represent the Korean language)"
+        },
+        "romaji": "rito"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "読む",
         "reading": "よむ",
-        "meaning": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        "meaning": {
+          "vi": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+        },
+        "romaji": "yomu"
       }
     ],
     "radical": {
@@ -454,5 +484,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aad.gif",
     "uri": "https://jisho.org/search/%E8%AA%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "đậu",
+    "độc"
+  ]
 }

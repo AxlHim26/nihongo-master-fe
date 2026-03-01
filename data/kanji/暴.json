@@ -361,44 +361,68 @@
       {
         "example": "暴",
         "reading": "ボウ",
-        "meaning": "violence, force"
+        "meaning": {
+          "en": "violence, force"
+        },
+        "romaji": "bou"
       },
       {
         "example": "暴挙",
         "reading": "ボウキョ",
-        "meaning": "violence, reckless action, (an) outrage"
+        "meaning": {
+          "en": "violence, reckless action, (an) outrage"
+        },
+        "romaji": "boukyo"
       },
       {
         "example": "無謀",
         "reading": "ムボウ",
-        "meaning": "reckless, thoughtless, rash, ill-advised, impulsive, mad (e.g. scheme)"
+        "meaning": {
+          "vi": "reckless, thoughtless, rash, ill-advised, impulsive, mad (e.g. scheme)"
+        },
+        "romaji": "mubou"
       },
       {
         "example": "凶暴",
         "reading": "キョウボウ",
-        "meaning": "ferocious, brutal, atrocious, savage, barbarous"
+        "meaning": {
+          "en": "ferocious, brutal, atrocious, savage, barbarous"
+        },
+        "romaji": "kyoubou"
       },
       {
         "example": "暴露",
         "reading": "バクロ",
-        "meaning": "disclosure, exposure, revelation"
+        "meaning": {
+          "vi": "disclosure, exposure, revelation"
+        },
+        "romaji": "bakuro"
       },
       {
         "example": "暴露戦術",
         "reading": "バクロセンジュツ",
-        "meaning": "exposure tactics, muckraking tactics"
+        "meaning": {
+          "vi": "exposure tactics, muckraking tactics"
+        },
+        "romaji": "bakurosenjutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暴く",
         "reading": "あばく",
-        "meaning": "to disclose, to divulge, to expose, to open (a grave), to dig out"
+        "meaning": {
+          "vi": "to disclose, to divulge, to expose, to open (a grave), to dig out"
+        },
+        "romaji": "abaku"
       },
       {
         "example": "暴れる",
         "reading": "あばれる",
-        "meaning": "to act violently, to rage, to struggle, to be riotous"
+        "meaning": {
+          "en": "to act violently, to rage, to struggle, to be riotous"
+        },
+        "romaji": "abareru"
       }
     ],
     "radical": {
@@ -418,5 +442,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66b4.gif",
     "uri": "https://jisho.org/search/%E6%9A%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "bão",
+    "bạo",
+    "bộc"
+  ]
 }

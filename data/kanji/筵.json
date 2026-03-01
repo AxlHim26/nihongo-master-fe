@@ -16,34 +16,52 @@
       {
         "example": "筵",
         "reading": "ムシロ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": {
+          "vi": "woven mat (esp. one made of straw), seat"
+        },
+        "romaji": "mushiro"
       },
       {
         "example": "講筵",
         "reading": "コウエン",
-        "meaning": "lecture room, lecture"
+        "meaning": {
+          "en": "lecture room, lecture"
+        },
+        "romaji": "kouen"
       },
       {
         "example": "法筵",
         "reading": "ホウエン",
-        "meaning": "preaching place"
+        "meaning": {
+          "vi": "preaching place"
+        },
+        "romaji": "houen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "筵",
         "reading": "むしろ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": {
+          "vi": "woven mat (esp. one made of straw), seat"
+        },
+        "romaji": "mushiro"
       },
       {
         "example": "花筵",
         "reading": "はなむしろ",
-        "meaning": "mat with a floral or bulrush pattern"
+        "meaning": {
+          "vi": "mat with a floral or bulrush pattern"
+        },
+        "romaji": "hanamushiro"
       },
       {
         "example": "法の筵",
         "reading": "のりのむしろ",
-        "meaning": "preaching place"
+        "meaning": {
+          "vi": "preaching place"
+        },
+        "romaji": "norinomushiro"
       }
     ],
     "radical": {
@@ -64,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b75.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b75.gif",
     "uri": "https://jisho.org/search/%E7%AD%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên"
+  ]
 }

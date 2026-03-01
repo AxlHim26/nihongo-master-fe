@@ -16,17 +16,26 @@
       {
         "example": "郁郁",
         "reading": "イクイク",
-        "meaning": "flourishing, teeming with culture, aromatic, emitting an aroma"
+        "meaning": {
+          "en": "flourishing, teeming with culture, aromatic, emitting an aroma"
+        },
+        "romaji": "ikuiku"
       },
       {
         "example": "郁郁",
         "reading": "イクイク",
-        "meaning": "flourishing, teeming with culture, aromatic, emitting an aroma"
+        "meaning": {
+          "en": "flourishing, teeming with culture, aromatic, emitting an aroma"
+        },
+        "romaji": "ikuiku"
       },
       {
         "example": "馥郁",
         "reading": "フクイク",
-        "meaning": "fragrant, sweet-smelling"
+        "meaning": {
+          "en": "fragrant, sweet-smelling"
+        },
+        "romaji": "fukuiku"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90c1.gif",
     "uri": "https://jisho.org/search/%E9%83%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "uất",
+    "Úc",
+    "úc"
+  ]
 }

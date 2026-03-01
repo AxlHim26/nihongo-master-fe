@@ -311,44 +311,68 @@
       {
         "example": "低",
         "reading": "テイ",
-        "meaning": "low (level, value, price, etc.)"
+        "meaning": {
+          "vi": "low (level, value, price, etc.)"
+        },
+        "romaji": "tei"
       },
       {
         "example": "低温",
         "reading": "テイオン",
-        "meaning": "low temperature"
+        "meaning": {
+          "vi": "low temperature"
+        },
+        "romaji": "teion"
       },
       {
         "example": "高低",
         "reading": "コウテイ",
-        "meaning": "high and low, rise and fall"
+        "meaning": {
+          "en": "high and low, rise and fall"
+        },
+        "romaji": "koutei"
       },
       {
         "example": "西高東低",
         "reading": "セイコウトウテイ",
-        "meaning": "high barometric pressure to the west, low pressure to the east"
+        "meaning": {
+          "vi": "high barometric pressure to the west, low pressure to the east"
+        },
+        "romaji": "seikoutoutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "低い",
         "reading": "ひくい",
-        "meaning": "low (rank, degree, value, content, quality, etc.), low (position), close to the ground, short (height), deep (voice), in a low key, low (volume)"
+        "meaning": {
+          "vi": "low (rank, degree, value, content, quality, etc.), low (position), close to the ground, short (height), deep (voice), in a low key, low (volume)"
+        },
+        "romaji": "hikui"
       },
       {
         "example": "低い優先順位",
         "reading": "ひくいゆうせんじゅんい",
-        "meaning": "low priority (e.g. cell)"
+        "meaning": {
+          "vi": "low priority (e.g. cell)"
+        },
+        "romaji": "hikuiyuusenjun'i"
       },
       {
         "example": "低める",
         "reading": "ひくめる",
-        "meaning": "to lower, to be lowered"
+        "meaning": {
+          "en": "to lower, to be lowered"
+        },
+        "romaji": "hikumeru"
       },
       {
         "example": "低まる",
         "reading": "ひくまる",
-        "meaning": "to lower, to be lowered"
+        "meaning": {
+          "en": "to lower, to be lowered"
+        },
+        "romaji": "hikumaru"
       }
     ],
     "radical": {
@@ -367,5 +391,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f4e.gif",
     "uri": "https://jisho.org/search/%E4%BD%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "đê"
+  ]
 }

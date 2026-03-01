@@ -395,64 +395,100 @@
       {
         "example": "着",
         "reading": "チャク",
-        "meaning": "arrival, arriving at ..., counter for items or suits of clothing, nth place (in a race), counter for moves"
+        "meaning": {
+          "vi": "arrival, arriving at ..., counter for items or suits of clothing, nth place (in a race), counter for moves"
+        },
+        "romaji": "chaku"
       },
       {
         "example": "着衣",
         "reading": "チャクイ",
-        "meaning": "clothes (that one is wearing), wearing clothes"
+        "meaning": {
+          "en": "clothes (that one is wearing), wearing clothes"
+        },
+        "romaji": "chakui"
       },
       {
         "example": "決着",
         "reading": "ケッチャク",
-        "meaning": "conclusion, decision, end, settlement"
+        "meaning": {
+          "en": "conclusion, decision, end, settlement"
+        },
+        "romaji": "ketchaku"
       },
       {
         "example": "装着",
         "reading": "ソウチャク",
-        "meaning": "equipping, installing, fitting, mounting, putting on"
+        "meaning": {
+          "vi": "equipping, installing, fitting, mounting, putting on"
+        },
+        "romaji": "souchaku"
       },
       {
         "example": "着す",
         "reading": "ジャクス",
-        "meaning": "to insist on, to cling to, to adhere to"
+        "meaning": {
+          "en": "to insist on, to cling to, to adhere to"
+        },
+        "romaji": "jakusu"
       },
       {
         "example": "愛着",
         "reading": "アイジャク",
-        "meaning": "attachment, love, affection, fondness, addiction, craving"
+        "meaning": {
+          "en": "attachment, love, affection, fondness, addiction, craving"
+        },
+        "romaji": "aijaku"
       },
       {
         "example": "頓着",
         "reading": "トンチャク",
-        "meaning": "being concerned about or mindful of"
+        "meaning": {
+          "en": "being concerned about or mindful of"
+        },
+        "romaji": "tonchaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "着る",
         "reading": "きる",
-        "meaning": "to wear (from the shoulders down), to put on, to take (the blame, responsibility), to bear"
+        "meaning": {
+          "vi": "to wear (from the shoulders down), to put on, to take (the blame, responsibility), to bear"
+        },
+        "romaji": "kiru"
       },
       {
         "example": "着類",
         "reading": "きるい",
-        "meaning": "clothing"
+        "meaning": {
+          "en": "clothing"
+        },
+        "romaji": "kirui"
       },
       {
         "example": "着せる",
         "reading": "きせる",
-        "meaning": "to put clothes on (someone), to dress, to clothe, to cover, to coat, to plate, to gild, to veneer, to pin (e.g. a crime on someone), to lay (blame), to charge (with an offence), to give (a bad name), to remind someone of (their indebtedness)"
+        "meaning": {
+          "vi": "to put clothes on (someone), to dress, to clothe, to cover, to coat, to plate, to gild, to veneer, to pin (e.g. a crime on someone), to lay (blame), to charge (with an offence), to give (a bad name), to remind someone of (their indebtedness)"
+        },
+        "romaji": "kiseru"
       },
       {
         "example": "着く",
         "reading": "つく",
-        "meaning": "to arrive at, to reach, to sit on, to sit at (e.g. the table)"
+        "meaning": {
+          "en": "to arrive at, to reach, to sit on, to sit at (e.g. the table)"
+        },
+        "romaji": "tsuku"
       },
       {
         "example": "付ける",
         "reading": "つける",
-        "meaning": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to"
+        "meaning": {
+          "vi": "to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against, to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), to allot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow (someone), to shadow, to tail, to stalk, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding), to turn on (a light), to produce flowers (of a plant), to produce fruit, to do intensely, to do fiercely, to do strongly, to be used to (doing), to be accustomed to"
+        },
+        "romaji": "tsukeru"
       }
     ],
     "radical": {
@@ -470,5 +506,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07740.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7740.gif",
     "uri": "https://jisho.org/search/%E7%9D%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồ",
+    "trước",
+    "trứ",
+    "trữ"
+  ]
 }

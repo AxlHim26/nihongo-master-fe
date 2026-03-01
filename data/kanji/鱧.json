@@ -17,12 +17,18 @@
       {
         "example": "鱧",
         "reading": "はも",
-        "meaning": "daggertooth pike conger (Muraenesox cinereus), conger eel, garden eel"
+        "meaning": {
+          "vi": "daggertooth pike conger (Muraenesox cinereus), conger eel, garden eel"
+        },
+        "romaji": "hamo"
       },
       {
         "example": "鱧も一期、海老も一期",
         "reading": "はももいちご、えびもいちご",
-        "meaning": "all men are alike, all lives are alike, all men live and die, we all bleed the same, a pike conger has one life, a shrimp does too"
+        "meaning": {
+          "vi": "all men are alike, all lives are alike, all men live and die, we all bleed the same, a pike conger has one life, a shrimp does too"
+        },
+        "romaji": "hamomoichigo,ebimoichigo"
       }
     ],
     "radical": {
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c67.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c67.gif",
     "uri": "https://jisho.org/search/%E9%B1%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lễ"
+  ]
 }

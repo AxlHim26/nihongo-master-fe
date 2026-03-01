@@ -237,19 +237,28 @@
       {
         "example": "努",
         "reading": "ド",
-        "meaning": "third principle of the Eight Principles of Yong, downward stroke"
+        "meaning": {
+          "vi": "third principle of the Eight Principles of Yong, downward stroke"
+        },
+        "romaji": "do"
       },
       {
         "example": "努力",
         "reading": "ドリョク",
-        "meaning": "effort, exertion, endeavour, endeavor, hard work, striving"
+        "meaning": {
+          "en": "effort, exertion, endeavour, endeavor, hard work, striving"
+        },
+        "romaji": "doryoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "努める",
         "reading": "つとめる",
-        "meaning": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+        "meaning": {
+          "en": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+        },
+        "romaji": "tsutomeru"
       }
     ],
     "radical": {
@@ -265,5 +274,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52aa.gif",
     "uri": "https://jisho.org/search/%E5%8A%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "nỗ"
+  ]
 }

@@ -337,34 +337,52 @@
       {
         "example": "在",
         "reading": "ザイ",
-        "meaning": "the country, countryside, outskirts, suburbs, presence, being in attendance, situated in, staying in, resident in"
+        "meaning": {
+          "vi": "the country, countryside, outskirts, suburbs, presence, being in attendance, situated in, staying in, resident in"
+        },
+        "romaji": "zai"
       },
       {
         "example": "在外",
         "reading": "ザイガイ",
-        "meaning": "overseas, abroad"
+        "meaning": {
+          "en": "overseas, abroad"
+        },
+        "romaji": "zaigai"
       },
       {
         "example": "顕在",
         "reading": "ケンザイ",
-        "meaning": "being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed"
+        "meaning": {
+          "vi": "being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed"
+        },
+        "romaji": "kenzai"
       },
       {
         "example": "介在",
         "reading": "カイザイ",
-        "meaning": "existing (between), interposition, intervention, involvement"
+        "meaning": {
+          "vi": "existing (between), interposition, intervention, involvement"
+        },
+        "romaji": "kaizai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "有る",
         "reading": "ある",
-        "meaning": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state)"
+        "meaning": {
+          "vi": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state)"
+        },
+        "romaji": "aru"
       },
       {
         "example": "在るがまま",
         "reading": "あるがまま",
-        "meaning": "as it is, plain (truth), bare, undisguised, unvarnished, unexaggerated, honest, true, frank, candid"
+        "meaning": {
+          "vi": "as it is, plain (truth), bare, undisguised, unvarnished, unexaggerated, honest, true, frank, candid"
+        },
+        "romaji": "arugamama"
       }
     ],
     "radical": {
@@ -381,5 +399,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05728.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5728.gif",
     "uri": "https://jisho.org/search/%E5%9C%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "tại"
+  ]
 }

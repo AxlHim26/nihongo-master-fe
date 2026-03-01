@@ -17,19 +17,28 @@
       {
         "example": "剪裁",
         "reading": "センサイ",
-        "meaning": "cắt, tỉa, xén, tỉa cành"
+        "meaning": {
+          "vi": "cắt, tỉa, xén, tỉa cành"
+        },
+        "romaji": "sensai"
       },
       {
         "example": "剪裁機",
         "reading": "センサイキ",
-        "meaning": "máy cắt/xén"
+        "meaning": {
+          "vi": "máy cắt/xén"
+        },
+        "romaji": "sensaiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "剪る",
         "reading": "きる",
-        "meaning": "cắt, tỉa (cành, lá, hoa,...)"
+        "meaning": {
+          "vi": "cắt, tỉa (cành, lá, hoa,...)"
+        },
+        "romaji": "kiru"
       }
     ],
     "radical": {
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0526a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/526a.gif",
     "uri": "https://jisho.org/search/%E5%89%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiễn"
+  ]
 }

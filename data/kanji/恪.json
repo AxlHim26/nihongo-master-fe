@@ -16,7 +16,10 @@
       {
         "example": "勤恪",
         "reading": "キンカク",
-        "meaning": "faithful service"
+        "meaning": {
+          "en": "faithful service"
+        },
+        "romaji": "kinkaku"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0606a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/606a.gif",
     "uri": "https://jisho.org/search/%E6%81%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "khác"
+  ]
 }

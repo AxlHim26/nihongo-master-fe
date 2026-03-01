@@ -16,7 +16,10 @@
       {
         "example": "罵詈",
         "reading": "バリ",
-        "meaning": "(verbal) abuse, abusive language"
+        "meaning": {
+          "en": "(verbal) abuse, abusive language"
+        },
+        "romaji": "bari"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a48.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a48.gif",
     "uri": "https://jisho.org/search/%E8%A9%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "lị"
+  ]
 }

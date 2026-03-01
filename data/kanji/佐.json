@@ -17,22 +17,34 @@
       {
         "example": "佐保姫",
         "reading": "サホヒメ",
-        "meaning": "Saohime, goddess of Spring"
+        "meaning": {
+          "vi": "Saohime, goddess of Spring"
+        },
+        "romaji": "sahohime"
       },
       {
         "example": "佐織養護学校",
         "reading": "サオリヨウゴガッコウ",
-        "meaning": "Saori Special Needs School (older name style)"
+        "meaning": {
+          "vi": "Saori Special Needs School (older name style)"
+        },
+        "romaji": "saoriyougogakkou"
       },
       {
         "example": "中佐",
         "reading": "チュウサ",
-        "meaning": "lieutenant colonel, commander (navy)"
+        "meaning": {
+          "en": "lieutenant colonel, commander (navy)"
+        },
+        "romaji": "chuusa"
       },
       {
         "example": "二佐",
         "reading": "ニサ",
-        "meaning": "lieutenant colonel (JGSDF)"
+        "meaning": {
+          "en": "lieutenant colonel (JGSDF)"
+        },
+        "romaji": "nisa"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f50.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f50.gif",
     "uri": "https://jisho.org/search/%E4%BD%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "tá"
+  ]
 }

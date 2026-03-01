@@ -307,64 +307,100 @@
       {
         "example": "山",
         "reading": "サン",
-        "meaning": "Mt., Mount, temple"
+        "meaning": {
+          "vi": "Mt., Mount, temple"
+        },
+        "romaji": "san"
       },
       {
         "example": "山陰",
         "reading": "ヤマカゲ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": {
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        },
+        "romaji": "yamakage"
       },
       {
         "example": "治山",
         "reading": "チサン",
-        "meaning": "forest conservation, afforestation"
+        "meaning": {
+          "en": "forest conservation, afforestation"
+        },
+        "romaji": "chisan"
       },
       {
         "example": "開山",
         "reading": "カイサン",
-        "meaning": "founding a temple (on a hill-top)"
+        "meaning": {
+          "vi": "founding a temple (on a hill-top)"
+        },
+        "romaji": "kaisan"
       },
       {
         "example": "山道",
         "reading": "ヤマミチ",
-        "meaning": "mountain road, mountain trail"
+        "meaning": {
+          "en": "mountain road, mountain trail"
+        },
+        "romaji": "yamamichi"
       },
       {
         "example": "山海経",
         "reading": "センガイキョウ",
-        "meaning": "Classic of Mountains and Seas (classic Chinese text)"
+        "meaning": {
+          "en": "Classic of Mountains and Seas (classic Chinese text)"
+        },
+        "romaji": "sengaikyou"
       },
       {
         "example": "雪山",
         "reading": "セツザン",
-        "meaning": "snowy mountain, permanently snow-covered mountain, Himalayas"
+        "meaning": {
+          "vi": "snowy mountain, permanently snow-covered mountain, Himalayas"
+        },
+        "romaji": "setsuzan"
       },
       {
         "example": "須弥山",
         "reading": "シュミセン",
-        "meaning": "Mount Sumeru (believed to be the centre of the Buddhist world)"
+        "meaning": {
+          "en": "Mount Sumeru (believed to be the centre of the Buddhist world)"
+        },
+        "romaji": "shumisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "山",
         "reading": "やま",
-        "meaning": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild"
+        "meaning": {
+          "vi": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild"
+        },
+        "romaji": "yama"
       },
       {
         "example": "山陰",
         "reading": "やまかげ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": {
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        },
+        "romaji": "yamakage"
       },
       {
         "example": "奥山",
         "reading": "おくやま",
-        "meaning": "remote mountain, mountain recesses"
+        "meaning": {
+          "en": "remote mountain, mountain recesses"
+        },
+        "romaji": "okuyama"
       },
       {
         "example": "青山",
         "reading": "せいざん",
-        "meaning": "lush mountain, green mountain, grave, burial place"
+        "meaning": {
+          "vi": "lush mountain, green mountain, grave, burial place"
+        },
+        "romaji": "seizan"
       }
     ],
     "radical": {
@@ -378,5 +414,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c71.gif",
     "uri": "https://jisho.org/search/%E5%B1%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "san",
+    "sơn"
+  ]
 }

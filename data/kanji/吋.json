@@ -19,7 +19,10 @@
       {
         "example": "吋",
         "reading": "インチ",
-        "meaning": "inch (đơn vị)"
+        "meaning": {
+          "vi": "inch (đơn vị)"
+        },
+        "romaji": "inchi"
       }
     ],
     "radical": {
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540b.gif",
     "uri": "https://jisho.org/search/%E5%90%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thốn",
+    "đẩu"
+  ]
 }

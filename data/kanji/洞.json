@@ -19,34 +19,52 @@
       {
         "example": "洞",
         "reading": "ドウ",
-        "meaning": "sinus, cavity, antrum, neighborhood (administrative division in North Korea)"
+        "meaning": {
+          "en": "sinus, cavity, antrum, neighborhood (administrative division in North Korea)"
+        },
+        "romaji": "dou"
       },
       {
         "example": "洞察",
         "reading": "ドウサツ",
-        "meaning": "discernment, insight"
+        "meaning": {
+          "en": "discernment, insight"
+        },
+        "romaji": "dousatsu"
       },
       {
         "example": "空洞",
         "reading": "クウドウ",
-        "meaning": "cavity, hollow, cave, cavern, hollow"
+        "meaning": {
+          "en": "cavity, hollow, cave, cavern, hollow"
+        },
+        "romaji": "kuudou"
       },
       {
         "example": "風洞",
         "reading": "フウドウ",
-        "meaning": "wind tunnel"
+        "meaning": {
+          "en": "wind tunnel"
+        },
+        "romaji": "fuudou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "洞",
         "reading": "ほら",
-        "meaning": "hollow, cavity, hole, cave"
+        "meaning": {
+          "en": "hollow, cavity, hole, cave"
+        },
+        "romaji": "hora"
       },
       {
         "example": "洞穴",
         "reading": "ほらあな",
-        "meaning": "cave, cavern, den, grotto"
+        "meaning": {
+          "en": "cave, cavern, den, grotto"
+        },
+        "romaji": "horaana"
       }
     ],
     "radical": {
@@ -67,5 +85,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d1e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d1e.gif",
     "uri": "https://jisho.org/search/%E6%B4%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "đỗng",
+    "động"
+  ]
 }

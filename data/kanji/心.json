@@ -383,44 +383,68 @@
       {
         "example": "心",
         "reading": "シン",
-        "meaning": "heart, mind, spirit, vitality, inner strength, bottom of one's heart, core (of one's character), nature, centre, center, core, heart, heart (organ), Chinese \"Heart\" constellation (one of the 28 mansions), friend"
+        "meaning": {
+          "vi": "heart, mind, spirit, vitality, inner strength, bottom of one's heart, core (of one's character), nature, centre, center, core, heart, heart (organ), Chinese \"Heart\" constellation (one of the 28 mansions), friend"
+        },
+        "romaji": "shin"
       },
       {
         "example": "心から",
         "reading": "ココロカラ",
-        "meaning": "from the bottom of one's heart, heartily, sincerely"
+        "meaning": {
+          "en": "from the bottom of one's heart, heartily, sincerely"
+        },
+        "romaji": "kokorokara"
       },
       {
         "example": "重心",
         "reading": "ジュウシン",
-        "meaning": "centre of gravity (center), centroid, barycenter, (one's) balance"
+        "meaning": {
+          "en": "centre of gravity (center), centroid, barycenter, (one's) balance"
+        },
+        "romaji": "juushin"
       },
       {
         "example": "会心",
         "reading": "カイシン",
-        "meaning": "congeniality, satisfaction, gratification"
+        "meaning": {
+          "en": "congeniality, satisfaction, gratification"
+        },
+        "romaji": "kaishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "心",
         "reading": "こころ",
-        "meaning": "mind, heart, spirit, the meaning of a phrase (riddle, etc.)"
+        "meaning": {
+          "vi": "mind, heart, spirit, the meaning of a phrase (riddle, etc.)"
+        },
+        "romaji": "kokoro"
       },
       {
         "example": "心意気",
         "reading": "こころいき",
-        "meaning": "spirit, determination, pluck, mettle"
+        "meaning": {
+          "vi": "spirit, determination, pluck, mettle"
+        },
+        "romaji": "kokoroiki"
       },
       {
         "example": "我が心",
         "reading": "わがこころ",
-        "meaning": "my heart"
+        "meaning": {
+          "en": "my heart"
+        },
+        "romaji": "wagakokoro"
       },
       {
         "example": "静心",
         "reading": "しずごころ",
-        "meaning": "calm mind, placid temperament"
+        "meaning": {
+          "vi": "calm mind, placid temperament"
+        },
+        "romaji": "shizugokoro"
       }
     ],
     "radical": {
@@ -438,5 +462,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fc3.gif",
     "uri": "https://jisho.org/search/%E5%BF%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "tâm"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "貽貝",
         "reading": "イガイ",
-        "meaning": "Korean mussel (Mytilus coruscus)"
+        "meaning": {
+          "en": "Korean mussel (Mytilus coruscus)"
+        },
+        "romaji": "igai"
       },
       {
         "example": "貽貝騙し",
         "reading": "イガイダマシ",
-        "meaning": "black-striped mussel (Mytilopsis sallei)"
+        "meaning": {
+          "vi": "black-striped mussel (Mytilopsis sallei)"
+        },
+        "romaji": "igaidamashi"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cbd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cbd.gif",
     "uri": "https://jisho.org/search/%E8%B2%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "di"
+  ]
 }

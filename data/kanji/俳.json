@@ -231,12 +231,18 @@
       {
         "example": "俳人",
         "reading": "ハイジン",
-        "meaning": "haiku poet"
+        "meaning": {
+          "vi": "haiku poet"
+        },
+        "romaji": "haijin"
       },
       {
         "example": "俳句",
         "reading": "ハイク",
-        "meaning": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"
+        "meaning": {
+          "vi": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"
+        },
+        "romaji": "haiku"
       }
     ],
     "kunyomiExamples": [],
@@ -255,5 +261,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ff3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ff3.gif",
     "uri": "https://jisho.org/search/%E4%BF%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "bài",
+    "bồi"
+  ]
 }

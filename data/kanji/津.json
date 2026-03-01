@@ -19,44 +19,68 @@
       {
         "example": "津液",
         "reading": "シンエキ",
-        "meaning": "saliva, spit, spittle, fluid (in Chinese medicine, esp. a colourless bodily fluid, e.g. tears)"
+        "meaning": {
+          "vi": "saliva, spit, spittle, fluid (in Chinese medicine, esp. a colourless bodily fluid, e.g. tears)"
+        },
+        "romaji": "shin'eki"
       },
       {
         "example": "津々",
         "reading": "シンシン",
-        "meaning": "gushing, overflowing, everlasting, unfailing, endless"
+        "meaning": {
+          "en": "gushing, overflowing, everlasting, unfailing, endless"
+        },
+        "romaji": "shinshin"
       },
       {
         "example": "京津",
         "reading": "ケイシン",
-        "meaning": "Kyoto-Otsu, Kyoto and Otsu, Kyoto-Settsu, Kyoto and Settsu"
+        "meaning": {
+          "en": "Kyoto-Otsu, Kyoto and Otsu, Kyoto-Settsu, Kyoto and Settsu"
+        },
+        "romaji": "keishin"
       },
       {
         "example": "入津",
         "reading": "ニュウシン",
-        "meaning": "entering a port"
+        "meaning": {
+          "vi": "entering a port"
+        },
+        "romaji": "nyuushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "津",
         "reading": "つ",
-        "meaning": "Tsu (city in Mie), harbour, harbor, port, ferry"
+        "meaning": {
+          "vi": "Tsu (city in Mie), harbour, harbor, port, ferry"
+        },
+        "romaji": "tsu"
       },
       {
         "example": "津波",
         "reading": "つなみ",
-        "meaning": "tsunami, tidal wave"
+        "meaning": {
+          "en": "tsunami, tidal wave"
+        },
+        "romaji": "tsunami"
       },
       {
         "example": "大津",
         "reading": "おおつ",
-        "meaning": "Ōtsu (city in Shiga)"
+        "meaning": {
+          "en": "Ōtsu (city in Shiga)"
+        },
+        "romaji": "ootsu"
       },
       {
         "example": "秋津",
         "reading": "あきつ",
-        "meaning": "dragonfly"
+        "meaning": {
+          "en": "dragonfly"
+        },
+        "romaji": "akitsu"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d25.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d25.gif",
     "uri": "https://jisho.org/search/%E6%B4%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tân"
+  ]
 }

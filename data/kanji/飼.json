@@ -273,24 +273,36 @@
       {
         "example": "飼料",
         "reading": "シリョウ",
-        "meaning": "fodder, feed"
+        "meaning": {
+          "en": "fodder, feed"
+        },
+        "romaji": "shiryou"
       },
       {
         "example": "飼育",
         "reading": "シイク",
-        "meaning": "breeding, raising, rearing, keeping"
+        "meaning": {
+          "vi": "breeding, raising, rearing, keeping"
+        },
+        "romaji": "shiiku"
       },
       {
         "example": "放飼",
         "reading": "ホウシ",
-        "meaning": "free-range rearing, letting (animals) roam freely, pasturing, releasing (insects) into the wild"
+        "meaning": {
+          "vi": "free-range rearing, letting (animals) roam freely, pasturing, releasing (insects) into the wild"
+        },
+        "romaji": "houshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "飼う",
         "reading": "かう",
-        "meaning": "to keep (a pet or other animal), to have, to own, to raise, to rear, to feed"
+        "meaning": {
+          "vi": "to keep (a pet or other animal), to have, to own, to raise, to rear, to feed"
+        },
+        "romaji": "kau"
       }
     ],
     "radical": {
@@ -311,5 +323,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98fc.gif",
     "uri": "https://jisho.org/search/%E9%A3%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "tự"
+  ]
 }

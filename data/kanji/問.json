@@ -347,54 +347,84 @@
       {
         "example": "問",
         "reading": "モン",
-        "meaning": "đơn vị đếm câu hỏi"
+        "meaning": {
+          "vi": "đơn vị đếm câu hỏi"
+        },
+        "romaji": "mon"
       },
       {
         "example": "問責",
         "reading": "モンセキ",
-        "meaning": "khiển trách, quở trách"
+        "meaning": {
+          "vi": "khiển trách, quở trách"
+        },
+        "romaji": "monseki"
       },
       {
         "example": "設問",
         "reading": "セツモン",
-        "meaning": "đặt câu hỏi, câu hỏi"
+        "meaning": {
+          "vi": "đặt câu hỏi, câu hỏi"
+        },
+        "romaji": "setsumon"
       },
       {
         "example": "弔問",
         "reading": "チョウモン",
-        "meaning": "viếng tang, chia buồn"
+        "meaning": {
+          "vi": "viếng tang, chia buồn"
+        },
+        "romaji": "choumon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "問う",
         "reading": "とう",
-        "meaning": "hỏi, chất vấn, khiển trách, quan tâm, nghi ngờ"
+        "meaning": {
+          "vi": "hỏi, chất vấn, khiển trách, quan tâm, nghi ngờ"
+        },
+        "romaji": "tou"
       },
       {
         "example": "問うに落ちず語るに落ちる",
         "reading": "とうにおちずかたるにおちる",
-        "meaning": "hỏi thì không nói nhưng nói lỡ khi trò chuyện"
+        "meaning": {
+          "vi": "hỏi thì không nói nhưng nói lỡ khi trò chuyện"
+        },
+        "romaji": "touniochizukataruniochiru"
       },
       {
         "example": "問い",
         "reading": "とい",
-        "meaning": "câu hỏi"
+        "meaning": {
+          "vi": "câu hỏi"
+        },
+        "romaji": "toi"
       },
       {
         "example": "問い合わせ",
         "reading": "といあわせ",
-        "meaning": "sự hỏi thăm, truy vấn"
+        "meaning": {
+          "vi": "sự hỏi thăm, truy vấn"
+        },
+        "romaji": "toiawase"
       },
       {
         "example": "更問",
         "reading": "さらとい",
-        "meaning": "câu hỏi tiếp theo"
+        "meaning": {
+          "vi": "câu hỏi tiếp theo"
+        },
+        "romaji": "saratoi"
       },
       {
         "example": "問屋",
         "reading": "とんや",
-        "meaning": "cửa hàng bán sỉ, đại lý bán sỉ"
+        "meaning": {
+          "vi": "cửa hàng bán sỉ, đại lý bán sỉ"
+        },
+        "romaji": "ton'ya"
       }
     ],
     "radical": {
@@ -409,5 +439,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0554f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/554f.gif",
     "uri": "https://jisho.org/search/%E5%95%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "vấn"
+  ]
 }

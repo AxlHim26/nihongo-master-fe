@@ -417,104 +417,164 @@
       {
         "example": "重",
         "reading": "ジュウ",
-        "meaning": "jūbako, multi-tiered food box, heavy, serious, extreme, -fold, -ply"
+        "meaning": {
+          "vi": "jūbako, multi-tiered food box, heavy, serious, extreme, -fold, -ply"
+        },
+        "romaji": "juu"
       },
       {
         "example": "重圧",
         "reading": "ジュウアツ",
-        "meaning": "strong pressure, heavy pressure"
+        "meaning": {
+          "vi": "strong pressure, heavy pressure"
+        },
+        "romaji": "juuatsu"
       },
       {
         "example": "九重",
         "reading": "ココノエ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": {
+          "vi": "ninefold, imperial palace, the Court"
+        },
+        "romaji": "kokonoe"
       },
       {
         "example": "加重",
         "reading": "カジュウ",
-        "meaning": "weighting (in averaging), aggravation"
+        "meaning": {
+          "en": "weighting (in averaging), aggravation"
+        },
+        "romaji": "kajuu"
       },
       {
         "example": "重複",
         "reading": "チョウフク",
-        "meaning": "duplication, repetition, overlapping, redundancy, restoration"
+        "meaning": {
+          "vi": "duplication, repetition, overlapping, redundancy, restoration"
+        },
+        "romaji": "choufuku"
       },
       {
         "example": "重厚",
         "reading": "ジュウコウ",
-        "meaning": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
+        "meaning": {
+          "vi": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
+        },
+        "romaji": "juukou"
       },
       {
         "example": "加重",
         "reading": "カジュウ",
-        "meaning": "weighting (in averaging), aggravation"
+        "meaning": {
+          "en": "weighting (in averaging), aggravation"
+        },
+        "romaji": "kajuu"
       },
       {
         "example": "九重",
         "reading": "ココノエ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": {
+          "vi": "ninefold, imperial palace, the Court"
+        },
+        "romaji": "kokonoe"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "重",
         "reading": "え",
-        "meaning": "-fold, -ply"
+        "meaning": {
+          "vi": "-fold, -ply"
+        },
+        "romaji": "e"
       },
       {
         "example": "八重",
         "reading": "やえ",
-        "meaning": "multilayered, doubled"
+        "meaning": {
+          "en": "multilayered, doubled"
+        },
+        "romaji": "yae"
       },
       {
         "example": "九重",
         "reading": "ここのえ",
-        "meaning": "ninefold, imperial palace, the Court"
+        "meaning": {
+          "vi": "ninefold, imperial palace, the Court"
+        },
+        "romaji": "kokonoe"
       },
       {
         "example": "重い",
         "reading": "おもい",
-        "meaning": "heavy, weighty, heavy (feeling), depressed, gloomy, blue, uneasy, slow, sluggish, lumbering, ponderous, clumsy, important (position, responsibility, etc.), serious, grave, serious (punishment, illness, etc.), severe, critical, solid, established, dignified, sensible"
+        "meaning": {
+          "vi": "heavy, weighty, heavy (feeling), depressed, gloomy, blue, uneasy, slow, sluggish, lumbering, ponderous, clumsy, important (position, responsibility, etc.), serious, grave, serious (punishment, illness, etc.), severe, critical, solid, established, dignified, sensible"
+        },
+        "romaji": "omoi"
       },
       {
         "example": "重い腰を上げる",
         "reading": "おもいこしをあげる",
-        "meaning": "to get off one's backside, to bestir oneself"
+        "meaning": {
+          "en": "to get off one's backside, to bestir oneself"
+        },
+        "romaji": "omoikoshiwoageru"
       },
       {
         "example": "重り",
         "reading": "おもり",
-        "meaning": "weight, sinker"
+        "meaning": {
+          "en": "weight, sinker"
+        },
+        "romaji": "omori"
       },
       {
         "example": "重ねる",
         "reading": "かさねる",
-        "meaning": "to pile up, to heap up, to stack up, to put on top of another, to repeat many times over, to go through repeatedly, to accumulate"
+        "meaning": {
+          "vi": "to pile up, to heap up, to stack up, to put on top of another, to repeat many times over, to go through repeatedly, to accumulate"
+        },
+        "romaji": "kasaneru"
       },
       {
         "example": "重なる",
         "reading": "かさなる",
-        "meaning": "to be piled up, to lie on top of one another, to come one after another, to happen over and over, to pile up (e.g. stress), to accumulate, to overlap (each other), to occur at the same time, to happen simultaneously"
+        "meaning": {
+          "vi": "to be piled up, to lie on top of one another, to come one after another, to happen over and over, to pile up (e.g. stress), to accumulate, to overlap (each other), to occur at the same time, to happen simultaneously"
+        },
+        "romaji": "kasanaru"
       },
       {
         "example": "主",
         "reading": "おも",
-        "meaning": "chief, main, principal, important, main secondary or supporting role (in kyogen)"
+        "meaning": {
+          "vi": "chief, main, principal, important, main secondary or supporting role (in kyogen)"
+        },
+        "romaji": "omo"
       },
       {
         "example": "重き",
         "reading": "おもき",
-        "meaning": "importance, emphasis, stress"
+        "meaning": {
+          "vi": "importance, emphasis, stress"
+        },
+        "romaji": "omoki"
       },
       {
         "example": "身重",
         "reading": "みおも",
-        "meaning": "pregnant"
+        "meaning": {
+          "vi": "pregnant"
+        },
+        "romaji": "miomo"
       },
       {
         "example": "気重",
         "reading": "きおも",
-        "meaning": "heavy-hearted"
+        "meaning": {
+          "en": "heavy-hearted"
+        },
+        "romaji": "kiomo"
       }
     ],
     "radical": {
@@ -532,5 +592,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cd.gif",
     "uri": "https://jisho.org/search/%E9%87%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "trùng",
+    "trọng"
+  ]
 }

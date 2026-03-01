@@ -18,14 +18,20 @@
       {
         "example": "甲冑",
         "reading": "カッチュウ",
-        "meaning": "armor and helmet"
+        "meaning": {
+          "en": "armor and helmet"
+        },
+        "romaji": "katchuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兜",
         "reading": "かぶと",
-        "meaning": "helmet (of a warrior), headpiece"
+        "meaning": {
+          "vi": "helmet (of a warrior), headpiece"
+        },
+        "romaji": "kabuto"
       }
     ],
     "radical": {
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080c4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80c4.gif",
     "uri": "https://jisho.org/search/%E8%83%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "trụ"
+  ]
 }

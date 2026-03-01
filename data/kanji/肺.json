@@ -246,22 +246,34 @@
       {
         "example": "肺",
         "reading": "ハイ",
-        "meaning": "lung"
+        "meaning": {
+          "en": "lung"
+        },
+        "romaji": "hai"
       },
       {
         "example": "肺炎",
         "reading": "ハイエン",
-        "meaning": "pneumonia"
+        "meaning": {
+          "vi": "pneumonia"
+        },
+        "romaji": "haien"
       },
       {
         "example": "珪肺",
         "reading": "ケイハイ",
-        "meaning": "silicosis"
+        "meaning": {
+          "en": "silicosis"
+        },
+        "romaji": "keihai"
       },
       {
         "example": "人工肺",
         "reading": "ジンコウハイ",
-        "meaning": "artificial lung"
+        "meaning": {
+          "en": "artificial lung"
+        },
+        "romaji": "jinkouhai"
       }
     ],
     "kunyomiExamples": [],
@@ -281,5 +293,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ba.gif",
     "uri": "https://jisho.org/search/%E8%82%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "bái",
+    "phế"
+  ]
 }

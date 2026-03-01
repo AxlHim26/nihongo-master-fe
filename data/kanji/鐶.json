@@ -17,19 +17,28 @@
       {
         "example": "鐶",
         "reading": "カン",
-        "meaning": "ring, link, open spirals of heavy metal wire twisted into a kettle and used to lift it (tea ceremony)"
+        "meaning": {
+          "vi": "ring, link, open spirals of heavy metal wire twisted into a kettle and used to lift it (tea ceremony)"
+        },
+        "romaji": "kan"
       },
       {
         "example": "鐶甲鋲",
         "reading": "カンコウビョウ",
-        "meaning": "round-headed tack"
+        "meaning": {
+          "en": "round-headed tack"
+        },
+        "romaji": "kankoubyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "手纏",
         "reading": "たまき",
-        "meaning": "bracelet (made of stringed jewels or bells and worn at the elbow), bracer (for the elbow of an archer)"
+        "meaning": {
+          "en": "bracelet (made of stringed jewels or bells and worn at the elbow), bracer (for the elbow of an archer)"
+        },
+        "romaji": "tamaki"
       }
     ],
     "radical": {
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09436.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9436.gif",
     "uri": "https://jisho.org/search/%E9%90%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàn"
+  ]
 }

@@ -309,22 +309,34 @@
       {
         "example": "複",
         "reading": "フク",
-        "meaning": "compound, composite, multiple, re-, bi-, doubles (tennis, badminton, etc.), place bet (in horse racing, etc.), show bet, bet that predicts a top 2 or top 3 finish (depending on number of horses, etc. in race)"
+        "meaning": {
+          "vi": "compound, composite, multiple, re-, bi-, doubles (tennis, badminton, etc.), place bet (in horse racing, etc.), show bet, bet that predicts a top 2 or top 3 finish (depending on number of horses, etc. in race)"
+        },
+        "romaji": "fuku"
       },
       {
         "example": "複合",
         "reading": "フクゴウ",
-        "meaning": "composite, combined, complex"
+        "meaning": {
+          "vi": "composite, combined, complex"
+        },
+        "romaji": "fukugou"
       },
       {
         "example": "重複",
         "reading": "チョウフク",
-        "meaning": "duplication, repetition, overlapping, redundancy, restoration"
+        "meaning": {
+          "vi": "duplication, repetition, overlapping, redundancy, restoration"
+        },
+        "romaji": "choufuku"
       },
       {
         "example": "遺伝子重複",
         "reading": "イデンシチョウフク",
-        "meaning": "gene duplication"
+        "meaning": {
+          "vi": "gene duplication"
+        },
+        "romaji": "idenshichoufuku"
       }
     ],
     "kunyomiExamples": [],
@@ -345,5 +357,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08907.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8907.gif",
     "uri": "https://jisho.org/search/%E8%A4%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "phức"
+  ]
 }

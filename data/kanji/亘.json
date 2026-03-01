@@ -21,19 +21,37 @@
       {
         "example": "亘古",
         "reading": "コウコ",
-        "meaning": "for ever, from ancient times"
+        "meaning": {
+          "en": "for ever, from ancient times"
+        },
+        "meaningVN": "mãi mãi, từ xa xưa",
+        "hanViet": "cắng cổ",
+        "hanVietExplain": "亘 (cắng: phô bày) + 古 (cổ: cũ, xưa) → mãi mãi, từ xa xưa",
+        "romaji": "kouko"
       },
       {
         "example": "連亘",
         "reading": "レンコウ",
-        "meaning": "extending in a row"
+        "meaning": {
+          "en": "extending in a row"
+        },
+        "meaningVN": "kéo dài liên tiếp",
+        "hanViet": "liên cắng",
+        "hanVietExplain": "連 (liên: liền nối) + 亘 (cắng: phô bày) → kéo dài liên tiếp",
+        "romaji": "renkou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渡る",
         "reading": "わたる",
-        "meaning": "to cross over, to go across, to extend, to cover, to range, to span"
+        "meaning": {
+          "vi": "to cross over, to go across, to extend, to cover, to range, to span"
+        },
+        "meaningVN": "vượt qua, đi ngang qua, mở rộng, bao phủ, phạm vi, trải dài",
+        "hanViet": "độ る",
+        "hanVietExplain": "độ: vượt qua, cứu giúp, bến đò",
+        "romaji": "wataru"
       }
     ],
     "radical": {
@@ -49,5 +67,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e98.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e98.gif",
     "uri": "https://jisho.org/search/%E4%BA%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "cắng",
+    "hoàn",
+    "tuyên"
+  ],
+  "meaningVN": "trải dài, phạm vi, mở rộng ra",
+  "hanVietExplain": "cắng: phô bày"
 }

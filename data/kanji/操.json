@@ -298,39 +298,60 @@
       {
         "example": "操",
         "reading": "ミサオ",
-        "meaning": "fidelity, honour, honor, constancy, chastity (of a woman), faithfulness (e.g. to one's husband)"
+        "meaning": {
+          "en": "fidelity, honour, honor, constancy, chastity (of a woman), faithfulness (e.g. to one's husband)"
+        },
+        "romaji": "misao"
       },
       {
         "example": "操業",
         "reading": "ソウギョウ",
-        "meaning": "operation (of a machine, factory, fishing boat, etc.), work"
+        "meaning": {
+          "vi": "operation (of a machine, factory, fishing boat, etc.), work"
+        },
+        "romaji": "sougyou"
       },
       {
         "example": "柔軟体操",
         "reading": "ジュウナンタイソウ",
-        "meaning": "calisthenics"
+        "meaning": {
+          "en": "calisthenics"
+        },
+        "romaji": "juunantaisou"
       },
       {
         "example": "器械体操",
         "reading": "キカイタイソウ",
-        "meaning": "apparatus gymnastics, artistic gymnastics"
+        "meaning": {
+          "vi": "apparatus gymnastics, artistic gymnastics"
+        },
+        "romaji": "kikaitaisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "操",
         "reading": "みさお",
-        "meaning": "fidelity, honour, honor, constancy, chastity (of a woman), faithfulness (e.g. to one's husband)"
+        "meaning": {
+          "en": "fidelity, honour, honor, constancy, chastity (of a woman), faithfulness (e.g. to one's husband)"
+        },
+        "romaji": "misao"
       },
       {
         "example": "操を立てる",
         "reading": "みさおをたてる",
-        "meaning": "to adhere firmly to one's principles, to keep one's chastity, to remain faithful to one's spouse"
+        "meaning": {
+          "vi": "to adhere firmly to one's principles, to keep one's chastity, to remain faithful to one's spouse"
+        },
+        "romaji": "misaowotateru"
       },
       {
         "example": "操る",
         "reading": "あやつる",
-        "meaning": "to operate (e.g. a machine), to handle, to manage, to control, to maneuver, to steer, to have a good command of (a language), to play proficiently (of a musical instrument), to work (a puppet), to pull the strings of a puppet, to manipulate (a person, public opinion, etc.), to pull the strings, to control from the shadows, to mastermind"
+        "meaning": {
+          "vi": "to operate (e.g. a machine), to handle, to manage, to control, to maneuver, to steer, to have a good command of (a language), to play proficiently (of a musical instrument), to work (a puppet), to pull the strings of a puppet, to manipulate (a person, public opinion, etc.), to pull the strings, to control from the shadows, to mastermind"
+        },
+        "romaji": "ayatsuru"
       }
     ],
     "radical": {
@@ -350,5 +371,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64cd.gif",
     "uri": "https://jisho.org/search/%E6%93%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thao",
+    "tháo"
+  ]
 }

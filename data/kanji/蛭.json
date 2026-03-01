@@ -19,12 +19,18 @@
       {
         "example": "蛭",
         "reading": "ひる",
-        "meaning": "leech"
+        "meaning": {
+          "en": "leech"
+        },
+        "romaji": "hiru"
       },
       {
         "example": "恵比寿",
         "reading": "えびす",
-        "meaning": "Ebisu, god of fishing and commerce"
+        "meaning": {
+          "en": "Ebisu, god of fishing and commerce"
+        },
+        "romaji": "ebisu"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ed.gif",
     "uri": "https://jisho.org/search/%E8%9B%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "điệt"
+  ]
 }

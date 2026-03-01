@@ -210,17 +210,26 @@
       {
         "example": "央",
         "reading": "オウ",
-        "meaning": "middle, centre, center"
+        "meaning": {
+          "en": "middle, centre, center"
+        },
+        "romaji": "ou"
       },
       {
         "example": "道央",
         "reading": "ドウオウ",
-        "meaning": "central Hokkaido"
+        "meaning": {
+          "en": "central Hokkaido"
+        },
+        "romaji": "douou"
       },
       {
         "example": "月央",
         "reading": "ゲツオウ",
-        "meaning": "middle of the month"
+        "meaning": {
+          "en": "middle of the month"
+        },
+        "romaji": "getsuou"
       }
     ],
     "kunyomiExamples": [],
@@ -238,5 +247,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592e.gif",
     "uri": "https://jisho.org/search/%E5%A4%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "ương"
+  ]
 }

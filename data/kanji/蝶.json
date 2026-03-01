@@ -16,22 +16,34 @@
       {
         "example": "蝶",
         "reading": "チョウ",
-        "meaning": "butterfly"
+        "meaning": {
+          "en": "butterfly"
+        },
+        "romaji": "chou"
       },
       {
         "example": "蝶々",
         "reading": "チョウチョウ",
-        "meaning": "butterfly"
+        "meaning": {
+          "en": "butterfly"
+        },
+        "romaji": "chouchou"
       },
       {
         "example": "太陽蝶",
         "reading": "タイヨウチョウ",
-        "meaning": "sunset morpho (butterfly, Morpho hecuba)"
+        "meaning": {
+          "vi": "sunset morpho (butterfly, Morpho hecuba)"
+        },
+        "romaji": "taiyouchou"
       },
       {
         "example": "猪鹿蝶",
         "reading": "イノシカチョウ",
-        "meaning": "the boar, deer and butterfly cards (high-scoring meld), inoshikacho (type of hanafuda gambling game)"
+        "meaning": {
+          "vi": "the boar, deer and butterfly cards (high-scoring meld), inoshikacho (type of hanafuda gambling game)"
+        },
+        "romaji": "inoshikachou"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08776.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8776.gif",
     "uri": "https://jisho.org/search/%E8%9D%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "điệp"
+  ]
 }

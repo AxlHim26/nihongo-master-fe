@@ -283,39 +283,60 @@
       {
         "example": "則",
         "reading": "ソク",
-        "meaning": "counter for rules, rule, regulation"
+        "meaning": {
+          "en": "counter for rules, rule, regulation"
+        },
+        "romaji": "soku"
       },
       {
         "example": "即する",
         "reading": "ソクスル",
-        "meaning": "to conform to, to agree with, to be adapted to, to be based on"
+        "meaning": {
+          "vi": "to conform to, to agree with, to be adapted to, to be based on"
+        },
+        "romaji": "sokusuru"
       },
       {
         "example": "反則",
         "reading": "ハンソク",
-        "meaning": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction"
+        "meaning": {
+          "en": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction"
+        },
+        "romaji": "hansoku"
       },
       {
         "example": "正則",
         "reading": "セイソク",
-        "meaning": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"
+        "meaning": {
+          "vi": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"
+        },
+        "romaji": "seisoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "則る",
         "reading": "のっとる",
-        "meaning": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with"
+        "meaning": {
+          "vi": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with"
+        },
+        "romaji": "nottoru"
       },
       {
         "example": "法",
         "reading": "のり",
-        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        "meaning": {
+          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        },
+        "romaji": "nori"
       },
       {
         "example": "即ち",
         "reading": "すなわち",
-        "meaning": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        "meaning": {
+          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+        },
+        "romaji": "sunawachi"
       }
     ],
     "radical": {
@@ -335,5 +356,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05247.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5247.gif",
     "uri": "https://jisho.org/search/%E5%89%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "tắc"
+  ]
 }

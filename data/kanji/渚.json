@@ -18,19 +18,28 @@
       {
         "example": "渚畔",
         "reading": "ショハン",
-        "meaning": "shore, waterside"
+        "meaning": {
+          "en": "shore, waterside"
+        },
+        "romaji": "shohan"
       },
       {
         "example": "汀渚",
         "reading": "テイショ",
-        "meaning": "sand bar, waters edge"
+        "meaning": {
+          "en": "sand bar, waters edge"
+        },
+        "romaji": "teisho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渚",
         "reading": "なぎさ",
-        "meaning": "water's edge, beach, shore"
+        "meaning": {
+          "en": "water's edge, beach, shore"
+        },
+        "romaji": "nagisa"
       }
     ],
     "radical": {
@@ -50,5 +59,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e1a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e1a.gif",
     "uri": "https://jisho.org/search/%E6%B8%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "chử",
+    "hử"
+  ]
 }

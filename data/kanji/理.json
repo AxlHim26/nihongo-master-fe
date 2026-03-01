@@ -413,29 +413,44 @@
       {
         "example": "理",
         "reading": "リ",
-        "meaning": "lý do, nguyên lý, logic, nguyên lý tổng quát (Tân Nho giáo)"
+        "meaning": {
+          "vi": "lý do, nguyên lý, logic, nguyên lý tổng quát (Tân Nho giáo)"
+        },
+        "romaji": "ri"
       },
       {
         "example": "理科",
         "reading": "リカ",
-        "meaning": "khoa học (toán, y...), khoa tự nhiên, khoa khoa học (đại học)"
+        "meaning": {
+          "vi": "khoa học (toán, y...), khoa tự nhiên, khoa khoa học (đại học)"
+        },
+        "romaji": "rika"
       },
       {
         "example": "合理",
         "reading": "ゴウリ",
-        "meaning": "tính hợp lý"
+        "meaning": {
+          "vi": "tính hợp lý"
+        },
+        "romaji": "gouri"
       },
       {
         "example": "経理",
         "reading": "ケイリ",
-        "meaning": "kế toán, quản lý (tiền)"
+        "meaning": {
+          "vi": "kế toán, quản lý (tiền)"
+        },
+        "romaji": "keiri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "理",
         "reading": "ことわり",
-        "meaning": "lý do, logic, lẽ tự nhiên"
+        "meaning": {
+          "vi": "lý do, logic, lẽ tự nhiên"
+        },
+        "romaji": "kotowari"
       }
     ],
     "radical": {
@@ -453,5 +468,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07406.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7406.gif",
     "uri": "https://jisho.org/search/%E7%90%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "lí",
+    "lý"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "放埓",
         "reading": "ホウラツ",
-        "meaning": "licentious, profligate, dissipated, riotous, wild"
+        "meaning": {
+          "vi": "licentious, profligate, dissipated, riotous, wild"
+        },
+        "romaji": "houratsu"
       },
       {
         "example": "埒",
         "reading": "ラチ",
-        "meaning": "bounds, limits, boundary fence (esp. of horse-riding ground)"
+        "meaning": {
+          "vi": "bounds, limits, boundary fence (esp. of horse-riding ground)"
+        },
+        "romaji": "rachi"
       },
       {
         "example": "埒があかない",
         "reading": "ラチガアカナイ",
-        "meaning": "making no progress, getting nowhere, remaining unsettled"
+        "meaning": {
+          "vi": "making no progress, getting nowhere, remaining unsettled"
+        },
+        "romaji": "rachigaakanai"
       },
       {
         "example": "不埒",
         "reading": "フラチ",
-        "meaning": "lawless, outrageous, insolent, rude, inexcusable, unpardonable"
+        "meaning": {
+          "vi": "lawless, outrageous, insolent, rude, inexcusable, unpardonable"
+        },
+        "romaji": "furachi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "埒があく",
         "reading": "らちがあく",
-        "meaning": "to come to a settlement"
+        "meaning": {
+          "en": "to come to a settlement"
+        },
+        "romaji": "rachigaaku"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57d2.gif",
     "uri": "https://jisho.org/search/%E5%9F%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "liệt"
+  ]
 }

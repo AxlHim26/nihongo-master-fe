@@ -19,17 +19,24 @@
       {
         "example": "【サメ】",
         "reading": "shark",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "shark"
       },
       {
         "example": "鮫皮",
         "reading": "さめがわ",
-        "meaning": "shagreen (from a shark or stingray), sharkskin, shark leather"
+        "meaning": {
+          "en": "shagreen (from a shark or stingray), sharkskin, shark leather"
+        },
+        "romaji": "samegawa"
       },
       {
         "example": "藪雨",
         "reading": "やぶさめ",
-        "meaning": "Asian stubtail (Urosphena squameiceps)"
+        "meaning": {
+          "vi": "Asian stubtail (Urosphena squameiceps)"
+        },
+        "romaji": "yabusame"
       }
     ],
     "radical": {
@@ -47,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bab.gif",
     "uri": "https://jisho.org/search/%E9%AE%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "giao"
+  ]
 }

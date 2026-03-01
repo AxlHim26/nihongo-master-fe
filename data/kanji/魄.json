@@ -17,24 +17,36 @@
       {
         "example": "魄",
         "reading": "ハク",
-        "meaning": "Yin energy, spirit"
+        "meaning": {
+          "vi": "Yin energy, spirit"
+        },
+        "romaji": "haku"
       },
       {
         "example": "落魄",
         "reading": "ラクハク",
-        "meaning": "being reduced to poverty, living in poverty, coming down in the world, straitened (reduced) circumstances"
+        "meaning": {
+          "vi": "being reduced to poverty, living in poverty, coming down in the world, straitened (reduced) circumstances"
+        },
+        "romaji": "rakuhaku"
       },
       {
         "example": "死魄",
         "reading": "シハク",
-        "meaning": "waning moon"
+        "meaning": {
+          "en": "waning moon"
+        },
+        "romaji": "shihaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魂",
         "reading": "たましい",
-        "meaning": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        "meaning": {
+          "vi": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        },
+        "romaji": "tamashii"
       }
     ],
     "radical": {
@@ -53,5 +65,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b44.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b44.gif",
     "uri": "https://jisho.org/search/%E9%AD%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạc",
+    "phách",
+    "thác"
+  ]
 }

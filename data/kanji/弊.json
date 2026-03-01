@@ -17,22 +17,34 @@
       {
         "example": "弊",
         "reading": "ヘイ",
-        "meaning": "bad habit, harm, my, our"
+        "meaning": {
+          "en": "bad habit, harm, my, our"
+        },
+        "romaji": "hei"
       },
       {
         "example": "弊害",
         "reading": "ヘイガイ",
-        "meaning": "harmful effect, harmful influence, evil practice, abuse, malady"
+        "meaning": {
+          "vi": "harmful effect, harmful influence, evil practice, abuse, malady"
+        },
+        "romaji": "heigai"
       },
       {
         "example": "疲弊",
         "reading": "ヒヘイ",
-        "meaning": "exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"
+        "meaning": {
+          "vi": "exhaustion, fatigue, impoverishment, (financial) exhaustion, ruin"
+        },
+        "romaji": "hihei"
       },
       {
         "example": "病弊",
         "reading": "ビョウヘイ",
-        "meaning": "evil influence, ill effect"
+        "meaning": {
+          "en": "evil influence, ill effect"
+        },
+        "romaji": "byouhei"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0a.gif",
     "uri": "https://jisho.org/search/%E5%BC%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiết",
+    "tế",
+    "tệ"
+  ]
 }

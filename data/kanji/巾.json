@@ -20,22 +20,34 @@
       {
         "example": "巾",
         "reading": "キン",
-        "meaning": "napkin, cloth"
+        "meaning": {
+          "vi": "napkin, cloth"
+        },
+        "romaji": "kin"
       },
       {
         "example": "巾単",
         "reading": "キンタン",
-        "meaning": "unipotent"
+        "meaning": {
+          "vi": "unipotent"
+        },
+        "romaji": "kintan"
       },
       {
         "example": "ボロ雑巾",
         "reading": "ボロゾウキン",
-        "meaning": "dirty worn-out rag"
+        "meaning": {
+          "en": "dirty worn-out rag"
+        },
+        "romaji": "borozoukin"
       },
       {
         "example": "三角巾",
         "reading": "サンカクキン",
-        "meaning": "triangular bandage, sling, triangular kerchief, bandana, bandanna"
+        "meaning": {
+          "en": "triangular bandage, sling, triangular kerchief, bandana, bandanna"
+        },
+        "romaji": "sankakukin"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dfe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dfe.gif",
     "uri": "https://jisho.org/search/%E5%B7%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cân"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "斐紙",
         "reading": "ヒシ",
-        "meaning": "giấy Nhật truyền thống từ sợi cây Diplomorpha sikokiana (chất lượng cao, bóng)"
+        "meaning": {
+          "vi": "giấy Nhật truyền thống từ sợi cây Diplomorpha sikokiana (chất lượng cao, bóng)"
+        },
+        "romaji": "hishi"
       },
       {
         "example": "斐然",
         "reading": "ヒゼン",
-        "meaning": "đẹp, rực rỡ"
+        "meaning": {
+          "vi": "đẹp, rực rỡ"
+        },
+        "romaji": "hizen"
       },
       {
         "example": "甲斐",
         "reading": "カイ",
-        "meaning": "kết quả (đáng công), giá trị, hiệu quả, lợi ích"
+        "meaning": {
+          "vi": "kết quả (đáng công), giá trị, hiệu quả, lợi ích"
+        },
+        "romaji": "kai"
       },
       {
         "example": "甲斐",
         "reading": "カイ",
-        "meaning": "Kai (tỉnh cũ, nay thuộc Yamanashi)"
+        "meaning": {
+          "vi": "Kai (tỉnh cũ, nay thuộc Yamanashi)"
+        },
+        "romaji": "kai"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06590.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6590.gif",
     "uri": "https://jisho.org/search/%E6%96%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "phi",
+    "phỉ"
+  ]
 }

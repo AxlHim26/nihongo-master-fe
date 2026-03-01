@@ -327,39 +327,60 @@
       {
         "example": "敬",
         "reading": "ケイ",
-        "meaning": "reverence, respect"
+        "meaning": {
+          "vi": "reverence, respect"
+        },
+        "romaji": "kei"
       },
       {
         "example": "敬意",
         "reading": "ケイイ",
-        "meaning": "respect, honour, honor"
+        "meaning": {
+          "vi": "respect, honour, honor"
+        },
+        "romaji": "keii"
       },
       {
         "example": "失敬",
         "reading": "シッケイ",
-        "meaning": "rudeness, impoliteness, disrespect, impertinence, leaving, going (on one's way), saying goodbye, taking without permission, stealing, pinching, pilfering, my apologies, I must be going now, so long"
+        "meaning": {
+          "vi": "rudeness, impoliteness, disrespect, impertinence, leaving, going (on one's way), saying goodbye, taking without permission, stealing, pinching, pilfering, my apologies, I must be going now, so long"
+        },
+        "romaji": "shikkei"
       },
       {
         "example": "愛敬",
         "reading": "アイギョウ",
-        "meaning": "love and respect"
+        "meaning": {
+          "vi": "love and respect"
+        },
+        "romaji": "aigyou"
       },
       {
         "example": "ご愛嬌",
         "reading": "ゴアイキョウ",
-        "meaning": "entertainment, amusement, fun"
+        "meaning": {
+          "en": "entertainment, amusement, fun"
+        },
+        "romaji": "goaikyou"
       },
       {
         "example": "男は度胸女は愛敬",
         "reading": "オトコハドキョウオンナハアイキョウ",
-        "meaning": "men should be brave, women should be affable"
+        "meaning": {
+          "en": "men should be brave, women should be affable"
+        },
+        "romaji": "otokohadokyouonnahaaikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "敬う",
         "reading": "うやまう",
-        "meaning": "to show respect for, to revere, to honour, to honor, to worship, to hold in esteem"
+        "meaning": {
+          "vi": "to show respect for, to revere, to honour, to honor, to worship, to hold in esteem"
+        },
+        "romaji": "uyamau"
       }
     ],
     "radical": {
@@ -380,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0656c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/656c.gif",
     "uri": "https://jisho.org/search/%E6%95%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "kính"
+  ]
 }

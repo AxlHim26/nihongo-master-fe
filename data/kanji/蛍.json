@@ -19,34 +19,52 @@
       {
         "example": "蛍光灯",
         "reading": "ケイコウトウ",
-        "meaning": "fluorescent lamp, fluorescent light, person who is slow to react, someone slow on the uptake"
+        "meaning": {
+          "vi": "fluorescent lamp, fluorescent light, person who is slow to react, someone slow on the uptake"
+        },
+        "romaji": "keikoutou"
       },
       {
         "example": "蛍光",
         "reading": "ケイコウ",
-        "meaning": "fluorescence"
+        "meaning": {
+          "en": "fluorescence"
+        },
+        "romaji": "keikou"
       },
       {
         "example": "流蛍",
         "reading": "リュウケイ",
-        "meaning": "flying firefly"
+        "meaning": {
+          "en": "flying firefly"
+        },
+        "romaji": "ryuukei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛍",
         "reading": "ほたる",
-        "meaning": "firefly (Luciola cruciata), lightning bug, glowworm"
+        "meaning": {
+          "en": "firefly (Luciola cruciata), lightning bug, glowworm"
+        },
+        "romaji": "hotaru"
       },
       {
         "example": "蛍藺",
         "reading": "ほたるい",
-        "meaning": "Scirpus hotarui (species of bulrush)"
+        "meaning": {
+          "vi": "Scirpus hotarui (species of bulrush)"
+        },
+        "romaji": "hotarui"
       },
       {
         "example": "海蛍",
         "reading": "うみほたる",
-        "meaning": "sea firefly (Vargula hilgendorfii), seed shrimp"
+        "meaning": {
+          "vi": "sea firefly (Vargula hilgendorfii), seed shrimp"
+        },
+        "romaji": "umihotaru"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86cd.gif",
     "uri": "https://jisho.org/search/%E8%9B%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "huỳnh"
+  ]
 }

@@ -359,59 +359,92 @@
       {
         "example": "八",
         "reading": "ハチ",
-        "meaning": "eight, 8"
+        "meaning": {
+          "en": "eight, 8"
+        },
+        "romaji": "hachi"
       },
       {
         "example": "８月",
         "reading": "ハチガツ",
-        "meaning": "August, eighth month of the lunar calendar"
+        "meaning": {
+          "en": "August, eighth month of the lunar calendar"
+        },
+        "romaji": "hachigatsu"
       },
       {
         "example": "十八",
         "reading": "ジュウハチ",
-        "meaning": "eighteen, 18"
+        "meaning": {
+          "en": "eighteen, 18"
+        },
+        "romaji": "juuhachi"
       },
       {
         "example": "尺八",
         "reading": "シャクハチ",
-        "meaning": "shakuhachi, end-blown fippleless bamboo flute, blow job, fellatio"
+        "meaning": {
+          "vi": "shakuhachi, end-blown fippleless bamboo flute, blow job, fellatio"
+        },
+        "romaji": "shakuhachi"
       },
       {
         "example": "鳶尾",
         "reading": "イチハツ",
-        "meaning": "wall iris, roof iris, Iris tectorum, fleur-de-lis"
+        "meaning": {
+          "en": "wall iris, roof iris, Iris tectorum, fleur-de-lis"
+        },
+        "romaji": "ichihatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "八",
         "reading": "はち",
-        "meaning": "eight, 8"
+        "meaning": {
+          "en": "eight, 8"
+        },
+        "romaji": "hachi"
       },
       {
         "example": "八重",
         "reading": "やえ",
-        "meaning": "multilayered, doubled"
+        "meaning": {
+          "en": "multilayered, doubled"
+        },
+        "romaji": "yae"
       },
       {
         "example": "八つ",
         "reading": "やっつ",
-        "meaning": "eight, eight years of age, two o'clock (old time system)"
+        "meaning": {
+          "en": "eight, eight years of age, two o'clock (old time system)"
+        },
+        "romaji": "yattsu"
       },
       {
         "example": "八つ当たり",
         "reading": "やつあたり",
-        "meaning": "venting one's anger (on someone or something), taking out one's anger on"
+        "meaning": {
+          "en": "venting one's anger (on someone or something), taking out one's anger on"
+        },
+        "romaji": "yatsuatari"
       },
       {
         "example": "八つ",
         "reading": "やっつ",
-        "meaning": "eight, eight years of age, two o'clock (old time system)"
+        "meaning": {
+          "en": "eight, eight years of age, two o'clock (old time system)"
+        },
+        "romaji": "yattsu"
       },
       {
         "example": "８日",
         "reading": "ようか",
-        "meaning": "8th day of the month, eight days"
+        "meaning": {
+          "en": "8th day of the month, eight days"
+        },
+        "romaji": "youka"
       }
     ],
     "radical": {
@@ -425,5 +458,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0516b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/516b.gif",
     "uri": "https://jisho.org/search/%E5%85%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "bát"
+  ]
 }

@@ -404,74 +404,116 @@
       {
         "example": "気",
         "reading": "キ",
-        "meaning": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki"
+        "meaning": {
+          "vi": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki"
+        },
+        "romaji": "ki"
       },
       {
         "example": "気合",
         "reading": "キアイ",
-        "meaning": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move"
+        "meaning": {
+          "vi": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move"
+        },
+        "romaji": "kiai"
       },
       {
         "example": "心意気",
         "reading": "ココロイキ",
-        "meaning": "spirit, determination, pluck, mettle"
+        "meaning": {
+          "vi": "spirit, determination, pluck, mettle"
+        },
+        "romaji": "kokoroiki"
       },
       {
         "example": "水気",
         "reading": "ミズケ",
-        "meaning": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        "meaning": {
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        },
+        "romaji": "mizuke"
       },
       {
         "example": "気",
         "reading": "ケ",
-        "meaning": "sign, indication, trace, touch, feeling, somehow, for some reason, seeming to be"
+        "meaning": {
+          "en": "sign, indication, trace, touch, feeling, somehow, for some reason, seeming to be"
+        },
+        "romaji": "ke"
       },
       {
         "example": "気配",
         "reading": "ケハイ",
-        "meaning": "indication, sign, hint, sensation, feeling, tone (of the market)"
+        "meaning": {
+          "en": "indication, sign, hint, sensation, feeling, tone (of the market)"
+        },
+        "romaji": "kehai"
       },
       {
         "example": "嫌気",
         "reading": "イヤキ",
-        "meaning": "dislike, disgust, disinclination, tired of"
+        "meaning": {
+          "en": "dislike, disgust, disinclination, tired of"
+        },
+        "romaji": "iyaki"
       },
       {
         "example": "水気",
         "reading": "ミズケ",
-        "meaning": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        "meaning": {
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        },
+        "romaji": "mizuke"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "心意気",
         "reading": "こころいき",
-        "meaning": "spirit, determination, pluck, mettle"
+        "meaning": {
+          "vi": "spirit, determination, pluck, mettle"
+        },
+        "romaji": "kokoroiki"
       },
       {
         "example": "水気",
         "reading": "みずけ",
-        "meaning": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        "meaning": {
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        },
+        "romaji": "mizuke"
       },
       {
         "example": "気",
         "reading": "き",
-        "meaning": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki"
+        "meaning": {
+          "vi": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki"
+        },
+        "romaji": "ki"
       },
       {
         "example": "気合",
         "reading": "きあい",
-        "meaning": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move"
+        "meaning": {
+          "vi": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move"
+        },
+        "romaji": "kiai"
       },
       {
         "example": "心意気",
         "reading": "こころいき",
-        "meaning": "spirit, determination, pluck, mettle"
+        "meaning": {
+          "vi": "spirit, determination, pluck, mettle"
+        },
+        "romaji": "kokoroiki"
       },
       {
         "example": "水気",
         "reading": "みずけ",
-        "meaning": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        "meaning": {
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+        },
+        "romaji": "mizuke"
       }
     ],
     "radical": {
@@ -488,5 +530,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c17.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c17.gif",
     "uri": "https://jisho.org/search/%E6%B0%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "khí"
+  ]
 }

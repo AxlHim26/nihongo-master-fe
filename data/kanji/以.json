@@ -341,34 +341,52 @@
       {
         "example": "以降",
         "reading": "イコウ",
-        "meaning": "on and after, from ... onward, since"
+        "meaning": {
+          "en": "on and after, from ... onward, since"
+        },
+        "romaji": "ikou"
       },
       {
         "example": "以下",
         "reading": "イカ",
-        "meaning": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
+        "meaning": {
+          "vi": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
+        },
+        "romaji": "ika"
       },
       {
         "example": "縞曹以",
         "reading": "シマソイ",
-        "meaning": "threestripe rockfish (Sebastes trivittatus)"
+        "meaning": {
+          "vi": "threestripe rockfish (Sebastes trivittatus)"
+        },
+        "romaji": "shimasoi"
       },
       {
         "example": "斑曹以",
         "reading": "ムラソイ",
-        "meaning": "spotbelly rockfish (Sebastes pachycephalus)"
+        "meaning": {
+          "vi": "spotbelly rockfish (Sebastes pachycephalus)"
+        },
+        "romaji": "murasoi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "以て",
         "reading": "もって",
-        "meaning": "with, by, by means of, because of, on account of, for, due to, on (a day, date), at (a time), as of (e.g. today), adds emphasis to preceding word, in addition (to being), moreover, as well as, and, therefore, and so, hence"
+        "meaning": {
+          "vi": "with, by, by means of, because of, on account of, for, due to, on (a day, date), at (a time), as of (e.g. today), adds emphasis to preceding word, in addition (to being), moreover, as well as, and, therefore, and so, hence"
+        },
+        "romaji": "motte"
       },
       {
         "example": "以ってしても",
         "reading": "もってしても",
-        "meaning": "(not) even when using ..., (not) even with the help of ..., (not) even by ..."
+        "meaning": {
+          "vi": "(not) even when using ..., (not) even with the help of ..., (not) even by ..."
+        },
+        "romaji": "motteshitemo"
       }
     ],
     "radical": {
@@ -387,5 +405,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ee5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ee5.gif",
     "uri": "https://jisho.org/search/%E4%BB%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "dĩ"
+  ]
 }

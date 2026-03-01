@@ -18,19 +18,28 @@
       {
         "example": "觜",
         "reading": "シ",
-        "meaning": "chòm sao Mỏ Rùa (một trong 28 tú)"
+        "meaning": {
+          "vi": "chòm sao Mỏ Rùa (một trong 28 tú)"
+        },
+        "romaji": "shi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嘴",
         "reading": "くちばし",
-        "meaning": "mỏ (chim)"
+        "meaning": {
+          "vi": "mỏ (chim)"
+        },
+        "romaji": "kuchibashi"
       },
       {
         "example": "嘴",
         "reading": "くちばし",
-        "meaning": "mỏ (chim)"
+        "meaning": {
+          "vi": "mỏ (chim)"
+        },
+        "romaji": "kuchibashi"
       }
     ],
     "radical": {
@@ -46,5 +55,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89dc.gif",
     "uri": "https://jisho.org/search/%E8%A7%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuỷ",
+    "tuy",
+    "tuỷ",
+    "tư"
+  ]
 }

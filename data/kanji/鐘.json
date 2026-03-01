@@ -19,44 +19,68 @@
       {
         "example": "鐘楼",
         "reading": "ショウロウ",
-        "meaning": "belfry, bell tower"
+        "meaning": {
+          "en": "belfry, bell tower"
+        },
+        "romaji": "shourou"
       },
       {
         "example": "鍾乳洞",
         "reading": "ショウニュウドウ",
-        "meaning": "limestone cave, limestone cavern"
+        "meaning": {
+          "en": "limestone cave, limestone cavern"
+        },
+        "romaji": "shounyuudou"
       },
       {
         "example": "警鐘",
         "reading": "ケイショウ",
-        "meaning": "alarm bell, fire bell, warning, wake-up call"
+        "meaning": {
+          "vi": "alarm bell, fire bell, warning, wake-up call"
+        },
+        "romaji": "keishou"
       },
       {
         "example": "鳴鐘",
         "reading": "メイショウ",
-        "meaning": "bell-ringing (at a temple)"
+        "meaning": {
+          "vi": "bell-ringing (at a temple)"
+        },
+        "romaji": "meishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鐘",
         "reading": "かね",
-        "meaning": "bell (often a large hanging bell), chime"
+        "meaning": {
+          "en": "bell (often a large hanging bell), chime"
+        },
+        "romaji": "kane"
       },
       {
         "example": "鐘つき",
         "reading": "かねつき",
-        "meaning": "ringing of a bell, bell ringer"
+        "meaning": {
+          "en": "ringing of a bell, bell ringer"
+        },
+        "romaji": "kanetsuki"
       },
       {
         "example": "入相の鐘",
         "reading": "いりあいのかね",
-        "meaning": "evening bell, vespers bell"
+        "meaning": {
+          "vi": "evening bell, vespers bell"
+        },
+        "romaji": "iriainokane"
       },
       {
         "example": "時の鐘",
         "reading": "ときのかね",
-        "meaning": "hour bell"
+        "meaning": {
+          "en": "hour bell"
+        },
+        "romaji": "tokinokane"
       }
     ],
     "radical": {
@@ -75,5 +99,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09418.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9418.gif",
     "uri": "https://jisho.org/search/%E9%90%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "chung"
+  ]
 }

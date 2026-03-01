@@ -13,61 +13,106 @@
       {
         "japanese": "両親（りょうしん）",
         "meaning": {
-          "english": "parents"
+          "vi": "cha mẹ",
+          "en": "parents"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_a.mp3"
+        },
+        "hanViet": [
+          "lưỡng",
+          "thân"
+        ],
+        "hanVietExplain": {
+          "vi": "両 (lưỡng: hai, 2) + 親 (thân: cha mẹ) → cha mẹ",
+          "en": "両 (dual: two, 2) + 親 (stem: parents) → parents"
         }
       },
       {
         "japanese": "両側（りょうがわ）",
         "meaning": {
-          "english": "both sides"
+          "vi": "cả hai bên",
+          "en": "both sides"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_b.mp3"
+        },
+        "hanViet": [
+          "lưỡng",
+          "trắc"
+        ],
+        "hanVietExplain": {
+          "vi": "両 (lưỡng: hai, 2) + 側 (trắc: một bên) → cả hai bên",
+          "en": "両 (two: two, 2) + 側 (trac: one side) → both sides"
         }
       },
       {
         "japanese": "両手（りょうて）",
         "meaning": {
-          "english": "both hands"
+          "vi": "cả hai tay",
+          "en": "both hands"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_c.mp3"
+        },
+        "hanViet": [
+          "lưỡng",
+          "thủ"
+        ],
+        "hanVietExplain": {
+          "vi": "両 (lưỡng: hai, 2) + 手 (thủ: cái tay) → cả hai tay",
+          "en": "両 (two: two, 2) + 手 (thu: hand) → both hands"
         }
       },
       {
         "japanese": "車両（しゃりょう）",
         "meaning": {
-          "english": "vehicle"
+          "vi": "phương tiện giao thông",
+          "en": "vehicle"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_d.mp3"
+        },
+        "hanViet": [
+          "xa",
+          "lưỡng"
+        ],
+        "hanVietExplain": {
+          "vi": "車 (xa: cái xe) + 両 (lưỡng: hai, 2) → phương tiện giao thông",
+          "en": "車 (far: car) + 両 (dual: two, 2) → means of transport"
         }
       },
       {
         "japanese": "両替えする（りょうがえする）",
         "meaning": {
-          "english": "change (money)"
+          "vi": "tiền lẻ",
+          "en": "change (money)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ryou(shin)_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ryou(shin)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ryou(shin)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ryou(shin)_06_e.mp3"
+        },
+        "hanViet": [
+          "lưỡng",
+          "thế"
+        ],
+        "hanVietExplain": {
+          "vi": "両 (lưỡng: hai, 2) + 替 (thế: thay thế) → tiền lẻ",
+          "en": "両 (dual: two, 2) + 替 (substitute: replace) → change"
         }
       }
     ],
@@ -307,22 +352,69 @@
       {
         "example": "両",
         "reading": "リョウ",
-        "meaning": "both (hands, parents, sides, etc.), counter for carriages (e.g. in a train), counter for vehicles, ryō, tael, traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g, ryō, pre-Meiji unit of currency, orig. the value of one ryō of gold, ryō, traditional measure of fabric, 2 tan, ryō, tael, unit of weight under the ritsuryō system, 1/16 kin, 42-43 g, counter for suits of clothing, sets of armor, etc."
+        "meaning": {
+          "vi": "cả hai (tay, cha mẹ, hông, v.v.), bộ đếm toa xe (ví dụ: trên tàu), bộ đếm xe cộ, ryō, lượng, đơn vị trọng lượng truyền thống (đối với vàng, bạc và ma túy), 4-5 monme, 15-19 g, ryō, đơn vị tiền tệ thời tiền meiji, orig. giá trị của một ryō vàng, ryō, thước đo truyền thống của vải, 2 tan, ryō, lượng, đơn vị trọng lượng theo hệ thống ritsuryō, 1/16 kin, 42-43 g, bộ đếm quần áo, bộ áo giáp, v.v.",
+          "en": "both (hands, parents, sides, etc.), counter for carriages (e.g. in a train), counter for vehicles, ryō, tael, traditional unit of weight (for gold, silver and drugs), 4-5 monme, 15-19 g, ryō, pre-Meiji unit of currency, orig. the value of one ryō of gold, ryō, traditional measure of fabric, 2 tan, ryō, tael, unit of weight under the ritsuryō system, 1/16 kin, 42-43 g, counter for suits of clothing, sets of armor, etc."
+        },
+        "hanViet": [
+          "lưỡng"
+        ],
+        "hanVietExplain": {
+          "vi": "lưỡng: hai, 2",
+          "en": "bipolar: two, 2"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "両足",
         "reading": "リョウソク",
-        "meaning": "both feet, both legs"
+        "meaning": {
+          "vi": "cả hai chân, cả hai chân",
+          "en": "both feet, both legs"
+        },
+        "hanViet": [
+          "lưỡng",
+          "tú"
+        ],
+        "hanVietExplain": {
+          "vi": "両 (lưỡng: hai, 2) + 足 (tú: chân thú) → cả hai chân, cả hai chân",
+          "en": "両 (bi: two, 2) + 足 (tú: true beast) → both legs, both legs"
+        },
+        "romaji": "ryousoku"
       },
       {
         "example": "一両",
         "reading": "イチリョウ",
-        "meaning": "one vehicle, one ryō (an old coin)"
+        "meaning": {
+          "vi": "một chiếc xe, một ryou (một đồng xu cũ)",
+          "en": "one vehicle, one ryō (an old coin)"
+        },
+        "hanViet": [
+          "nhất",
+          "lưỡng"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 両 (lưỡng: hai, 2) → một chiếc xe, một ryou (một đồng xu cũ)",
+          "en": "一 (one: one, 1) + 両 (two: two, 2) → a car, a ryou (an old coin)"
+        },
+        "romaji": "ichiryou"
       },
       {
         "example": "十両",
         "reading": "ジュウリョウ",
-        "meaning": "second highest division, wrestlers of the second highest division"
+        "meaning": {
+          "vi": "hạng cao thứ hai, đô vật hạng cao thứ hai",
+          "en": "second highest division, wrestlers of the second highest division"
+        },
+        "hanViet": [
+          "thập",
+          "lưỡng"
+        ],
+        "hanVietExplain": {
+          "vi": "十 (thập: mười, 10) + 両 (lưỡng: hai, 2) → hạng cao thứ hai, đô vật hạng cao thứ hai",
+          "en": "十 (ten: ten, 10) + 両 (two: two, 2) → second highest rank, second highest ranked wrestler"
+        },
+        "romaji": "juuryou"
       }
     ],
     "kunyomiExamples": [],
@@ -340,5 +432,18 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e21.gif",
     "uri": "https://jisho.org/search/%E4%B8%A1%23kanji"
+  },
+  "hanViet": [
+    "lưỡng",
+    "lượng",
+    "lạng"
+  ],
+  "hanVietExplain": {
+    "vi": "lưỡng: hai, 2",
+    "en": "bipolar: two, 2"
+  },
+  "meaning": {
+    "vi": "cả hai",
+    "en": "both"
   }
 }

@@ -17,19 +17,28 @@
       {
         "example": "鉄槌",
         "reading": "テッツイ",
-        "meaning": "iron hammer, crushing blow"
+        "meaning": {
+          "en": "iron hammer, crushing blow"
+        },
+        "romaji": "tettsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "槌",
         "reading": "つち",
-        "meaning": "hammer, mallet, sledgehammer, gavel"
+        "meaning": {
+          "en": "hammer, mallet, sledgehammer, gavel"
+        },
+        "romaji": "tsuchi"
       },
       {
         "example": "鎚矛",
         "reading": "つちほこ",
-        "meaning": "mace"
+        "meaning": {
+          "en": "mace"
+        },
+        "romaji": "tsuchihoko"
       }
     ],
     "radical": {
@@ -49,5 +58,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0939a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/939a.gif",
     "uri": "https://jisho.org/search/%E9%8E%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuý",
+    "chuỳ",
+    "truỳ",
+    "đôi"
+  ]
 }

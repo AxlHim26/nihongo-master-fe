@@ -16,12 +16,18 @@
       {
         "example": "酩酊",
         "reading": "メイテイ",
-        "meaning": "drunkenness, intoxication"
+        "meaning": {
+          "en": "drunkenness, intoxication"
+        },
+        "romaji": "meitei"
       },
       {
         "example": "酩酊者",
         "reading": "メイテイシャ",
-        "meaning": "drunkard, reveller"
+        "meaning": {
+          "en": "drunkard, reveller"
+        },
+        "romaji": "meiteisha"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09169.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9169.gif",
     "uri": "https://jisho.org/search/%E9%85%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "mính"
+  ]
 }

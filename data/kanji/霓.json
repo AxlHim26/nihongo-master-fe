@@ -16,14 +16,20 @@
       {
         "example": "虹霓",
         "reading": "コウゲイ",
-        "meaning": "rainbow"
+        "meaning": {
+          "en": "rainbow"
+        },
+        "romaji": "kougei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虹",
         "reading": "にじ",
-        "meaning": "rainbow"
+        "meaning": {
+          "en": "rainbow"
+        },
+        "romaji": "niji"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09713.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9713.gif",
     "uri": "https://jisho.org/search/%E9%9C%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghê"
+  ]
 }

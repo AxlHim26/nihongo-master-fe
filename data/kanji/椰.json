@@ -17,24 +17,36 @@
       {
         "example": "椰子",
         "reading": "ヤシ",
-        "meaning": "palm tree (any tree of family Arecaceae)"
+        "meaning": {
+          "vi": "palm tree (any tree of family Arecaceae)"
+        },
+        "romaji": "yashi"
       },
       {
         "example": "椰胡",
         "reading": "ヤコ",
-        "meaning": "yehu (bowed Chinese instrument with a coconut-shell body)"
+        "meaning": {
+          "en": "yehu (bowed Chinese instrument with a coconut-shell body)"
+        },
+        "romaji": "yako"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "椰子",
         "reading": "やし",
-        "meaning": "palm tree (any tree of family Arecaceae)"
+        "meaning": {
+          "vi": "palm tree (any tree of family Arecaceae)"
+        },
+        "romaji": "yashi"
       },
       {
         "example": "椰子鸚鵡",
         "reading": "やしおうむ",
-        "meaning": "palm cockatoo (Probosciger aterrimus), goliath cockatoo, great black cockatoo"
+        "meaning": {
+          "vi": "palm cockatoo (Probosciger aterrimus), goliath cockatoo, great black cockatoo"
+        },
+        "romaji": "yashioumu"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06930.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6930.gif",
     "uri": "https://jisho.org/search/%E6%A4%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "da",
+    "gia"
+  ]
 }

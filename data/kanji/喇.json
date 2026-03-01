@@ -15,12 +15,18 @@
       {
         "example": "喇叭",
         "reading": "ラッパ",
-        "meaning": "trumpet, horn, bugle"
+        "meaning": {
+          "vi": "trumpet, horn, bugle"
+        },
+        "romaji": "rappa"
       },
       {
         "example": "喇叭雲丹",
         "reading": "ラッパウニ",
-        "meaning": "flower urchin (Toxopneustes pileolus)"
+        "meaning": {
+          "vi": "flower urchin (Toxopneustes pileolus)"
+        },
+        "romaji": "rappauni"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05587.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5587.gif",
     "uri": "https://jisho.org/search/%E5%96%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạt"
+  ]
 }

@@ -20,49 +20,76 @@
       {
         "example": "戦々慄々",
         "reading": "センセンリツリツ",
-        "meaning": "trembling with fear, filled with trepidation"
+        "meaning": {
+          "vi": "trembling with fear, filled with trepidation"
+        },
+        "romaji": "sensenritsuritsu"
       },
       {
         "example": "栗鼠",
         "reading": "リス",
-        "meaning": "squirrel (any mammal of family Sciuridae), Japanese squirrel (Sciurus lis)"
+        "meaning": {
+          "vi": "squirrel (any mammal of family Sciuridae), Japanese squirrel (Sciurus lis)"
+        },
+        "romaji": "risu"
       },
       {
         "example": "リス亜目",
         "reading": "リスアモク",
-        "meaning": "Sciuromorpha (suborder of rodents)"
+        "meaning": {
+          "vi": "Sciuromorpha (suborder of rodents)"
+        },
+        "romaji": "risuamoku"
       },
       {
         "example": "片栗",
         "reading": "カタクリ",
-        "meaning": "dogtooth violet (Erythronium japonicum)"
+        "meaning": {
+          "vi": "dogtooth violet (Erythronium japonicum)"
+        },
+        "romaji": "katakuri"
       },
       {
         "example": "実栗",
         "reading": "ミクリ",
-        "meaning": "branched bur-reed (Sparganium erectum), simplestem bur-reed"
+        "meaning": {
+          "vi": "branched bur-reed (Sparganium erectum), simplestem bur-reed"
+        },
+        "romaji": "mikuri"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "栗",
         "reading": "くり",
-        "meaning": "Japanese chestnut (Castanea crenata)"
+        "meaning": {
+          "vi": "Japanese chestnut (Castanea crenata)"
+        },
+        "romaji": "kuri"
       },
       {
         "example": "栗石",
         "reading": "くりいし",
-        "meaning": "construction stone (approx. 10-15 cm in diameter), chestnut-sized pebble"
+        "meaning": {
+          "vi": "construction stone (approx. 10-15 cm in diameter), chestnut-sized pebble"
+        },
+        "romaji": "kuriishi"
       },
       {
         "example": "片栗",
         "reading": "かたくり",
-        "meaning": "dogtooth violet (Erythronium japonicum)"
+        "meaning": {
+          "vi": "dogtooth violet (Erythronium japonicum)"
+        },
+        "romaji": "katakuri"
       },
       {
         "example": "実栗",
         "reading": "みくり",
-        "meaning": "branched bur-reed (Sparganium erectum), simplestem bur-reed"
+        "meaning": {
+          "vi": "branched bur-reed (Sparganium erectum), simplestem bur-reed"
+        },
+        "romaji": "mikuri"
       }
     ],
     "radical": {
@@ -77,5 +104,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06817.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6817.gif",
     "uri": "https://jisho.org/search/%E6%A0%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "lật"
+  ]
 }

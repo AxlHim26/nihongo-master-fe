@@ -316,64 +316,100 @@
       {
         "example": "背後",
         "reading": "ハイゴ",
-        "meaning": "back, rear, background, behind the scenes"
+        "meaning": {
+          "en": "back, rear, background, behind the scenes"
+        },
+        "romaji": "haigo"
       },
       {
         "example": "背景",
         "reading": "ハイケイ",
-        "meaning": "background, scenery, backdrop, setting, background (of an incident, situation, etc.), circumstances, context, backing, support (from behind the scenes)"
+        "meaning": {
+          "vi": "background, scenery, backdrop, setting, background (of an incident, situation, etc.), circumstances, context, backing, support (from behind the scenes)"
+        },
+        "romaji": "haikei"
       },
       {
         "example": "違背",
         "reading": "イハイ",
-        "meaning": "violation, transgression"
+        "meaning": {
+          "en": "violation, transgression"
+        },
+        "romaji": "ihai"
       },
       {
         "example": "向背",
         "reading": "コウハイ",
-        "meaning": "one's attitude, state of affairs"
+        "meaning": {
+          "en": "one's attitude, state of affairs"
+        },
+        "romaji": "kouhai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "背",
         "reading": "せ",
-        "meaning": "back, reverse, rear side, back (e.g. of a chair), spine (of a book), height, stature, ridge (of a mountain)"
+        "meaning": {
+          "vi": "back, reverse, rear side, back (e.g. of a chair), spine (of a book), height, stature, ridge (of a mountain)"
+        },
+        "romaji": "se"
       },
       {
         "example": "背",
         "reading": "せい",
-        "meaning": "height, stature"
+        "meaning": {
+          "en": "height, stature"
+        },
+        "romaji": "sei"
       },
       {
         "example": "膝皿貝",
         "reading": "ひざらがい",
-        "meaning": "chiton (any marine mollusk of the class Polyplacophora), sea cradle, Japanese chiton (Acanthopleura japonica)"
+        "meaning": {
+          "vi": "chiton (any marine mollusk of the class Polyplacophora), sea cradle, Japanese chiton (Acanthopleura japonica)"
+        },
+        "romaji": "hizaragai"
       },
       {
         "example": "角背",
         "reading": "かくせ",
-        "meaning": "flat back (book spine), square back"
+        "meaning": {
+          "vi": "flat back (book spine), square back"
+        },
+        "romaji": "kakuse"
       },
       {
         "example": "背",
         "reading": "せい",
-        "meaning": "height, stature"
+        "meaning": {
+          "en": "height, stature"
+        },
+        "romaji": "sei"
       },
       {
         "example": "背丈",
         "reading": "せたけ",
-        "meaning": "stature, height"
+        "meaning": {
+          "en": "stature, height"
+        },
+        "romaji": "setake"
       },
       {
         "example": "背く",
         "reading": "そむく",
-        "meaning": "to run counter to, to go against, to disobey, to infringe"
+        "meaning": {
+          "en": "to run counter to, to go against, to disobey, to infringe"
+        },
+        "romaji": "somuku"
       },
       {
         "example": "背ける",
         "reading": "そむける",
-        "meaning": "to turn (one's face) away, to avert (one's eyes)"
+        "meaning": {
+          "en": "to turn (one's face) away, to avert (one's eyes)"
+        },
+        "romaji": "somukeru"
       }
     ],
     "radical": {
@@ -392,5 +428,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080cc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80cc.gif",
     "uri": "https://jisho.org/search/%E8%83%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "bắc",
+    "bối",
+    "bội"
+  ]
 }

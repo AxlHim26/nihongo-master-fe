@@ -17,19 +17,28 @@
       {
         "example": "蘆荻",
         "reading": "ロテキ",
-        "meaning": "reeds, reed and silver grass"
+        "meaning": {
+          "en": "reeds, reed and silver grass"
+        },
+        "romaji": "roteki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "荻",
         "reading": "おぎ",
-        "meaning": "Amur silvergrass (Miscanthus sacchariflorus)"
+        "meaning": {
+          "en": "Amur silvergrass (Miscanthus sacchariflorus)"
+        },
+        "romaji": "ogi"
       },
       {
         "example": "荻江節",
         "reading": "おぎえぶし",
-        "meaning": "type of Japanese music"
+        "meaning": {
+          "vi": "type of Japanese music"
+        },
+        "romaji": "ogiebushi"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0837b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/837b.gif",
     "uri": "https://jisho.org/search/%E8%8D%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "địch"
+  ]
 }

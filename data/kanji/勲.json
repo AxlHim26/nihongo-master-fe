@@ -19,29 +19,44 @@
       {
         "example": "勲",
         "reading": "クン",
-        "meaning": "merit (esp. order of merit)"
+        "meaning": {
+          "vi": "merit (esp. order of merit)"
+        },
+        "romaji": "kun"
       },
       {
         "example": "勲章",
         "reading": "クンショウ",
-        "meaning": "decoration, order, medal"
+        "meaning": {
+          "en": "decoration, order, medal"
+        },
+        "romaji": "kunshou"
       },
       {
         "example": "叙勲",
         "reading": "ジョクン",
-        "meaning": "conferring of decorations"
+        "meaning": {
+          "en": "conferring of decorations"
+        },
+        "romaji": "jokun"
       },
       {
         "example": "殊勲",
         "reading": "シュクン",
-        "meaning": "distinguished services, meritorious deeds"
+        "meaning": {
+          "en": "distinguished services, meritorious deeds"
+        },
+        "romaji": "shukun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勲",
         "reading": "いさお",
-        "meaning": "distinguished service, meritorious service"
+        "meaning": {
+          "en": "distinguished service, meritorious service"
+        },
+        "romaji": "isao"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52f2.gif",
     "uri": "https://jisho.org/search/%E5%8B%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "huân"
+  ]
 }

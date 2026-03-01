@@ -329,34 +329,52 @@
       {
         "example": "接続",
         "reading": "セツゾク",
-        "meaning": "connection, attachment, union, join, joint, link, changing trains, conjunction"
+        "meaning": {
+          "en": "connection, attachment, union, join, joint, link, changing trains, conjunction"
+        },
+        "romaji": "setsuzoku"
       },
       {
         "example": "切断",
         "reading": "セツダン",
-        "meaning": "cutting, severance, section, amputation, disconnection"
+        "meaning": {
+          "vi": "cutting, severance, section, amputation, disconnection"
+        },
+        "romaji": "setsudan"
       },
       {
         "example": "溶接",
         "reading": "ヨウセツ",
-        "meaning": "welding"
+        "meaning": {
+          "en": "welding"
+        },
+        "romaji": "yousetsu"
       },
       {
         "example": "応接",
         "reading": "オウセツ",
-        "meaning": "reception (e.g. of visitors), dealing with"
+        "meaning": {
+          "vi": "reception (e.g. of visitors), dealing with"
+        },
+        "romaji": "ousetsu"
       },
       {
         "example": "接心",
         "reading": "セッシン",
-        "meaning": "concentration, period of intensive zazen"
+        "meaning": {
+          "vi": "concentration, period of intensive zazen"
+        },
+        "romaji": "sesshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "接ぐ",
         "reading": "つぐ",
-        "meaning": "to join, to piece together, to set (bones), to graft (onto a tree)"
+        "meaning": {
+          "vi": "to join, to piece together, to set (bones), to graft (onto a tree)"
+        },
+        "romaji": "tsugu"
       }
     ],
     "radical": {
@@ -375,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a5.gif",
     "uri": "https://jisho.org/search/%E6%8E%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiếp"
+  ]
 }

@@ -14,7 +14,10 @@
       {
         "example": "螟蛉",
         "reading": "メイレイ",
-        "meaning": "hornworm, adopted child"
+        "meaning": {
+          "vi": "hornworm, adopted child"
+        },
+        "romaji": "meirei"
       }
     ],
     "kunyomiExamples": [],
@@ -32,5 +35,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86c9.gif",
     "uri": "https://jisho.org/search/%E8%9B%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "linh"
+  ]
 }

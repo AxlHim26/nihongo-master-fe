@@ -18,12 +18,18 @@
       {
         "example": "厠",
         "reading": "かわや",
-        "meaning": "privy, toilet"
+        "meaning": {
+          "vi": "privy, toilet"
+        },
+        "romaji": "kawaya"
       },
       {
         "example": "厠の神",
         "reading": "かわやのかみ",
-        "meaning": "toilet god, guardian deity of the privy"
+        "meaning": {
+          "vi": "toilet god, guardian deity of the privy"
+        },
+        "romaji": "kawayanokami"
       }
     ],
     "radical": {
@@ -41,5 +47,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a0.gif",
     "uri": "https://jisho.org/search/%E5%8E%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "lịch",
+    "trắc",
+    "xí"
+  ]
 }

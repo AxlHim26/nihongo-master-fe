@@ -19,29 +19,44 @@
       {
         "example": "媒体",
         "reading": "バイタイ",
-        "meaning": "phương tiện, truyền thông"
+        "meaning": {
+          "vi": "phương tiện, truyền thông"
+        },
+        "romaji": "baitai"
       },
       {
         "example": "媒酌",
         "reading": "バイシャク",
-        "meaning": "mai mối, làm môi giới"
+        "meaning": {
+          "vi": "mai mối, làm môi giới"
+        },
+        "romaji": "baishaku"
       },
       {
         "example": "溶媒",
         "reading": "ヨウバイ",
-        "meaning": "dung môi"
+        "meaning": {
+          "vi": "dung môi"
+        },
+        "romaji": "youbai"
       },
       {
         "example": "冷媒",
         "reading": "レイバイ",
-        "meaning": "chất làm lạnh, dung dịch làm mát"
+        "meaning": {
+          "vi": "chất làm lạnh, dung dịch làm mát"
+        },
+        "romaji": "reibai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仲人",
         "reading": "なこうど",
-        "meaning": "mai mối, trung gian, người trung gian, môi giới, người hòa giải"
+        "meaning": {
+          "vi": "mai mối, trung gian, người trung gian, môi giới, người hòa giải"
+        },
+        "romaji": "nakoudo"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a92.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a92.gif",
     "uri": "https://jisho.org/search/%E5%AA%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "môi"
+  ]
 }

@@ -17,7 +17,10 @@
       {
         "example": "驟雨",
         "reading": "シュウウ",
-        "meaning": "sudden shower, sudden downpour"
+        "meaning": {
+          "vi": "sudden shower, sudden downpour"
+        },
+        "romaji": "shuuu"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5f.gif",
     "uri": "https://jisho.org/search/%E9%A9%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "sậu"
+  ]
 }

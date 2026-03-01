@@ -20,17 +20,26 @@
       {
         "example": "毛羽",
         "reading": "けば",
-        "meaning": "fluff, fuzz, nap, hachures, hatching"
+        "meaning": {
+          "vi": "fluff, fuzz, nap, hachures, hatching"
+        },
+        "romaji": "keba"
       },
       {
         "example": "毳々しい",
         "reading": "けばけばしい",
-        "meaning": "gaudy, showy, garish, loud"
+        "meaning": {
+          "en": "gaudy, showy, garish, loud"
+        },
+        "romaji": "kebakebashii"
       },
       {
         "example": "むく毛",
         "reading": "むくげ",
-        "meaning": "shaggy hair (of an animal), downy hair, fluff"
+        "meaning": {
+          "en": "shaggy hair (of an animal), downy hair, fluff"
+        },
+        "romaji": "mukuge"
       }
     ],
     "radical": {
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bf3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bf3.gif",
     "uri": "https://jisho.org/search/%E6%AF%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuý",
+    "thuế"
+  ]
 }

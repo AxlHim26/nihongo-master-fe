@@ -312,39 +312,60 @@
       {
         "example": "仮",
         "reading": "カリ",
-        "meaning": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical"
+        "meaning": {
+          "vi": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical"
+        },
+        "romaji": "kari"
       },
       {
         "example": "仮称",
         "reading": "カショウ",
-        "meaning": "temporary name, provisional name"
+        "meaning": {
+          "vi": "temporary name, provisional name"
+        },
+        "romaji": "kashou"
       },
       {
         "example": "仮",
         "reading": "ケ",
-        "meaning": "lacking substance and existing in name only, something without substance"
+        "meaning": {
+          "en": "lacking substance and existing in name only, something without substance"
+        },
+        "romaji": "ke"
       },
       {
         "example": "化粧",
         "reading": "ケショウ",
-        "meaning": "make-up, makeup, cosmetics, decoration, dressing, veneer"
+        "meaning": {
+          "vi": "make-up, makeup, cosmetics, decoration, dressing, veneer"
+        },
+        "romaji": "keshou"
       },
       {
         "example": "虚仮",
         "reading": "コケ",
-        "meaning": "folly, fool"
+        "meaning": {
+          "en": "folly, fool"
+        },
+        "romaji": "koke"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仮",
         "reading": "かり",
-        "meaning": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical"
+        "meaning": {
+          "vi": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical"
+        },
+        "romaji": "kari"
       },
       {
         "example": "仮処分",
         "reading": "かりしょぶん",
-        "meaning": "provisional disposition, temporary injunction"
+        "meaning": {
+          "vi": "provisional disposition, temporary injunction"
+        },
+        "romaji": "karishobun"
       }
     ],
     "radical": {
@@ -363,5 +384,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eee.gif",
     "uri": "https://jisho.org/search/%E4%BB%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá",
+    "giả"
+  ]
 }

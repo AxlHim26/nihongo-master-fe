@@ -17,22 +17,34 @@
       {
         "example": "竹蔗",
         "reading": "チクシャ",
-        "meaning": "Chinese sugarcane (Saccharum sinense)"
+        "meaning": {
+          "en": "Chinese sugarcane (Saccharum sinense)"
+        },
+        "romaji": "chikusha"
       },
       {
         "example": "甘蔗",
         "reading": "カンショ",
-        "meaning": "sugar cane"
+        "meaning": {
+          "en": "sugar cane"
+        },
+        "romaji": "kansho"
       },
       {
         "example": "ショ糖",
         "reading": "ショトウ",
-        "meaning": "sucrose, saccharose, cane sugar"
+        "meaning": {
+          "en": "sucrose, saccharose, cane sugar"
+        },
+        "romaji": "shotou"
       },
       {
         "example": "甘蔗",
         "reading": "カンショ",
-        "meaning": "sugar cane"
+        "meaning": {
+          "en": "sugar cane"
+        },
+        "romaji": "kansho"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08517.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8517.gif",
     "uri": "https://jisho.org/search/%E8%94%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá"
+  ]
 }

@@ -383,39 +383,60 @@
       {
         "example": "速",
         "reading": "ソク",
-        "meaning": "gear, speed (e.g. 4-speed transmission)"
+        "meaning": {
+          "vi": "gear, speed (e.g. 4-speed transmission)"
+        },
+        "romaji": "soku"
       },
       {
         "example": "速度",
         "reading": "ソクド",
-        "meaning": "speed, velocity, pace, rate, velocity"
+        "meaning": {
+          "vi": "speed, velocity, pace, rate, velocity"
+        },
+        "romaji": "sokudo"
       },
       {
         "example": "失速",
         "reading": "シッソク",
-        "meaning": "stall, downturn, slowdown, slump, weakening, decline"
+        "meaning": {
+          "vi": "stall, downturn, slowdown, slump, weakening, decline"
+        },
+        "romaji": "shissoku"
       },
       {
         "example": "快速",
         "reading": "カイソク",
-        "meaning": "high speed, rapidity, rapid-service train (not as fast as express), rapid train"
+        "meaning": {
+          "vi": "high speed, rapidity, rapid-service train (not as fast as express), rapid train"
+        },
+        "romaji": "kaisoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "早い",
         "reading": "はやい",
-        "meaning": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ..."
+        "meaning": {
+          "vi": "fast, quick, rapid, swift, speedy, brisk, prompt, early, soon, earlier than usual, premature, too soon, too early, easy, simple, quick, fast, as soon as ..., the moment ..., the instant ..."
+        },
+        "romaji": "hayai"
       },
       {
         "example": "早める",
         "reading": "はやめる",
-        "meaning": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate"
+        "meaning": {
+          "vi": "to bring forward (e.g. by 3 hours), to advance, to hasten (e.g. one's death), to expedite, to precipitate, to quicken (e.g. one's step), to speed up, to accelerate"
+        },
+        "romaji": "hayameru"
       },
       {
         "example": "速やか",
         "reading": "すみやか",
-        "meaning": "quick, speedy, prompt, rapid, swift"
+        "meaning": {
+          "vi": "quick, speedy, prompt, rapid, swift"
+        },
+        "romaji": "sumiyaka"
       }
     ],
     "radical": {
@@ -439,5 +460,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0901f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/901f.gif",
     "uri": "https://jisho.org/search/%E9%80%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tốc"
+  ]
 }

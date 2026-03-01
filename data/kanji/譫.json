@@ -20,24 +20,36 @@
       {
         "example": "譫言",
         "reading": "センゲン",
-        "meaning": "delirious talk, nonsense"
+        "meaning": {
+          "en": "delirious talk, nonsense"
+        },
+        "romaji": "sengen"
       },
       {
         "example": "譫語",
         "reading": "センゴ",
-        "meaning": "talking in a delirium"
+        "meaning": {
+          "en": "talking in a delirium"
+        },
+        "romaji": "sengo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "うわ言",
         "reading": "うわごと",
-        "meaning": "talking in delirium, delirious talk, delirious utterances, nonsense, rubbish, silly talk"
+        "meaning": {
+          "en": "talking in delirium, delirious talk, delirious utterances, nonsense, rubbish, silly talk"
+        },
+        "romaji": "uwagoto"
       },
       {
         "example": "戯言",
         "reading": "たわごと",
-        "meaning": "nonsense, silly talk, drivel, rubbish"
+        "meaning": {
+          "en": "nonsense, silly talk, drivel, rubbish"
+        },
+        "romaji": "tawagoto"
       }
     ],
     "radical": {
@@ -57,5 +69,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b6b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b6b.gif",
     "uri": "https://jisho.org/search/%E8%AD%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiêm",
+    "thiêm",
+    "thiềm"
+  ]
 }

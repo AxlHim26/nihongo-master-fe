@@ -378,39 +378,60 @@
       {
         "example": "得",
         "reading": "トク",
-        "meaning": "profit, advantage, benefit, gain, rebirth in paradise, entering nirvana"
+        "meaning": {
+          "vi": "profit, advantage, benefit, gain, rebirth in paradise, entering nirvana"
+        },
+        "romaji": "toku"
       },
       {
         "example": "得意",
         "reading": "トクイ",
-        "meaning": "satisfaction, pride, triumph, elation, one's strong point, one's forte, one's specialty, regular customer, regular client, patron"
+        "meaning": {
+          "vi": "satisfaction, pride, triumph, elation, one's strong point, one's forte, one's specialty, regular customer, regular client, patron"
+        },
+        "romaji": "tokui"
       },
       {
         "example": "拾得",
         "reading": "シュウトク",
-        "meaning": "finding (lost property), picking up"
+        "meaning": {
+          "vi": "finding (lost property), picking up"
+        },
+        "romaji": "shuutoku"
       },
       {
         "example": "体得",
         "reading": "タイトク",
-        "meaning": "mastery, learning through experience, realization, realisation, comprehension"
+        "meaning": {
+          "vi": "mastery, learning through experience, realization, realisation, comprehension"
+        },
+        "romaji": "taitoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "得る",
         "reading": "える",
-        "meaning": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win, to understand, to comprehend, to receive something undesirable (e.g. a punishment), to get (ill), to be able to ..., can ..."
+        "meaning": {
+          "vi": "to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win, to understand, to comprehend, to receive something undesirable (e.g. a punishment), to get (ill), to be able to ..., can ..."
+        },
+        "romaji": "eru"
       },
       {
         "example": "得る",
         "reading": "うる",
-        "meaning": "to be able to ..., can ..., to get, to acquire, to obtain, to procure, to earn, to win, to gain, to secure, to attain"
+        "meaning": {
+          "vi": "to be able to ..., can ..., to get, to acquire, to obtain, to procure, to earn, to win, to gain, to secure, to attain"
+        },
+        "romaji": "uru"
       },
       {
         "example": "得撫草",
         "reading": "うるっぷそう",
-        "meaning": "weaselsnout (Lagotis glauca)"
+        "meaning": {
+          "en": "weaselsnout (Lagotis glauca)"
+        },
+        "romaji": "uruppusou"
       }
     ],
     "radical": {
@@ -427,5 +448,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f97.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f97.gif",
     "uri": "https://jisho.org/search/%E5%BE%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "đắc"
+  ]
 }

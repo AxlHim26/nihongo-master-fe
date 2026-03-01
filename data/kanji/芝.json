@@ -220,39 +220,60 @@
       {
         "example": "芝",
         "reading": "シバ",
-        "meaning": "lawn, sod, turf"
+        "meaning": {
+          "en": "lawn, sod, turf"
+        },
+        "romaji": "shiba"
       },
       {
         "example": "芝居",
         "reading": "シバイ",
-        "meaning": "play, drama"
+        "meaning": {
+          "vi": "play, drama"
+        },
+        "romaji": "shibai"
       },
       {
         "example": "霊芝",
         "reading": "レイシ",
-        "meaning": "bracket fungus (Ganoderma lucidum), reishi mushroom"
+        "meaning": {
+          "en": "bracket fungus (Ganoderma lucidum), reishi mushroom"
+        },
+        "romaji": "reishi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "芝",
         "reading": "しば",
-        "meaning": "lawn, sod, turf"
+        "meaning": {
+          "en": "lawn, sod, turf"
+        },
+        "romaji": "shiba"
       },
       {
         "example": "芝居",
         "reading": "しばい",
-        "meaning": "play, drama"
+        "meaning": {
+          "vi": "play, drama"
+        },
+        "romaji": "shibai"
       },
       {
         "example": "高麗芝",
         "reading": "こうらいしば",
-        "meaning": "Korean lawn grass"
+        "meaning": {
+          "en": "Korean lawn grass"
+        },
+        "romaji": "kouraishiba"
       },
       {
         "example": "東芝",
         "reading": "とうしば",
-        "meaning": "Toshiba Corporation, Tōshiba"
+        "meaning": {
+          "vi": "Toshiba Corporation, Tōshiba"
+        },
+        "romaji": "toushiba"
       }
     ],
     "radical": {
@@ -270,5 +291,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0829d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/829d.gif",
     "uri": "https://jisho.org/search/%E8%8A%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi"
+  ]
 }

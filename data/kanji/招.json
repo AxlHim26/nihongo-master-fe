@@ -267,19 +267,28 @@
       {
         "example": "招請",
         "reading": "ショウセイ",
-        "meaning": "invitation"
+        "meaning": {
+          "en": "invitation"
+        },
+        "romaji": "shousei"
       },
       {
         "example": "招集",
         "reading": "ショウシュウ",
-        "meaning": "call, summons, convening, convocation"
+        "meaning": {
+          "en": "call, summons, convening, convocation"
+        },
+        "romaji": "shoushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "招く",
         "reading": "まねく",
-        "meaning": "to invite, to ask, to beckon, to wave someone in, to gesture to, to call in, to send for, to summon, to bring on oneself, to cause, to incur, to lead to, to result in"
+        "meaning": {
+          "en": "to invite, to ask, to beckon, to wave someone in, to gesture to, to call in, to send for, to summon, to bring on oneself, to cause, to incur, to lead to, to result in"
+        },
+        "romaji": "maneku"
       }
     ],
     "radical": {
@@ -298,5 +307,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62db.gif",
     "uri": "https://jisho.org/search/%E6%8B%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiêu",
+    "kiêu",
+    "kiều",
+    "thiêu",
+    "thiều"
+  ]
 }

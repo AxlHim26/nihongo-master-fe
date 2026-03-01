@@ -19,29 +19,44 @@
       {
         "example": "薦挙",
         "reading": "センキョ",
-        "meaning": "recommendation"
+        "meaning": {
+          "en": "recommendation"
+        },
+        "romaji": "senkyo"
       },
       {
         "example": "仙骨",
         "reading": "センコツ",
-        "meaning": "sacrum, sacral bone, hermitry, appearance of a hermit, unworldliness, unusual physique, outstanding appearance"
+        "meaning": {
+          "vi": "sacrum, sacral bone, hermitry, appearance of a hermit, unworldliness, unusual physique, outstanding appearance"
+        },
+        "romaji": "senkotsu"
       },
       {
         "example": "他薦",
         "reading": "タセン",
-        "meaning": "recommendation (by others)"
+        "meaning": {
+          "en": "recommendation (by others)"
+        },
+        "romaji": "tasen"
       },
       {
         "example": "自薦",
         "reading": "ジセン",
-        "meaning": "self-recommendation, self-nomination, putting oneself forward"
+        "meaning": {
+          "vi": "self-recommendation, self-nomination, putting oneself forward"
+        },
+        "romaji": "jisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勧める",
         "reading": "すすめる",
-        "meaning": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+        "meaning": {
+          "vi": "to recommend (someone to do), to advise, to encourage, to urge, to recommend (a book, someone for a position, etc.), to suggest, to offer (a drink, cigarette, seat, etc.)"
+        },
+        "romaji": "susumeru"
       }
     ],
     "radical": {
@@ -60,5 +75,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a6.gif",
     "uri": "https://jisho.org/search/%E8%96%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiến",
+    "trãi",
+    "tấn"
+  ]
 }

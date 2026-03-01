@@ -17,19 +17,37 @@
       {
         "example": "云々",
         "reading": "ウンヌン",
-        "meaning": "and so on, and so forth, et cetera, and such, and the like, comment, criticism"
+        "meaning": {
+          "en": "and so on, and so forth, et cetera, and such, and the like, comment, criticism"
+        },
+        "meaningVN": "vân vân, vân vân, vân vân, vân vân, vân vân, và những thứ tương tự, bình luận, phê bình",
+        "hanViet": "vân 々",
+        "hanVietExplain": "vân: mây, rằng (phụ từ), vân vân, còn nhiều",
+        "romaji": "unnun"
       },
       {
         "example": "云為",
         "reading": "ウンイ",
-        "meaning": "sayings and doings, words and deeds"
+        "meaning": {
+          "en": "sayings and doings, words and deeds"
+        },
+        "meaningVN": "lời nói và việc làm, lời nói và việc làm",
+        "hanViet": "vân vi",
+        "hanVietExplain": "云 (vân: mây) + 為 (vi: làm, gây nên) → lời nói và việc làm, lời nói và việc làm",
+        "romaji": "un'i"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "言う",
         "reading": "いう",
-        "meaning": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        "meaning": {
+          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        },
+        "meaningVN": "nói, thốt ra, tuyên bố, gọi tên, gọi, đi (ví dụ: \"chuông báo thức kêu\"), gây ồn ào",
+        "hanViet": "ngân う",
+        "hanVietExplain": "ngân: nói, lời nói",
+        "romaji": "iu"
       }
     ],
     "radical": {
@@ -45,5 +63,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e91.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e91.gif",
     "uri": "https://jisho.org/search/%E4%BA%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "vân"
+  ],
+  "meaningVN": "nói",
+  "hanVietExplain": "vân: mây, rằng (phụ từ), vân vân, còn nhiều"
 }

@@ -15,22 +15,34 @@
       {
         "example": "礬土",
         "reading": "バンド",
-        "meaning": "alumina"
+        "meaning": {
+          "en": "alumina"
+        },
+        "romaji": "bando"
       },
       {
         "example": "礬土直閃石",
         "reading": "バンドチョクセンセキ",
-        "meaning": "gedrite"
+        "meaning": {
+          "en": "gedrite"
+        },
+        "romaji": "bandochokusenseki"
       },
       {
         "example": "皓礬",
         "reading": "コウバン",
-        "meaning": "zinc sulfate heptahydrate, white vitriol"
+        "meaning": {
+          "vi": "zinc sulfate heptahydrate, white vitriol"
+        },
+        "romaji": "kouban"
       },
       {
         "example": "明礬",
         "reading": "ミョウバン",
-        "meaning": "alum"
+        "meaning": {
+          "en": "alum"
+        },
+        "romaji": "myouban"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0792c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/792c.gif",
     "uri": "https://jisho.org/search/%E7%A4%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "phàn"
+  ]
 }

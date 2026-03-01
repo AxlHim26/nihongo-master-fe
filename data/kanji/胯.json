@@ -18,19 +18,28 @@
       {
         "example": "股間",
         "reading": "コカン",
-        "meaning": "crotch, groin, area between the thighs"
+        "meaning": {
+          "en": "crotch, groin, area between the thighs"
+        },
+        "romaji": "kokan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "股",
         "reading": "また",
-        "meaning": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+        "meaning": {
+          "en": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+        },
+        "romaji": "mata"
       },
       {
         "example": "股ぐら",
         "reading": "またぐら",
-        "meaning": "crotch, thigh, groin, crutch"
+        "meaning": {
+          "en": "crotch, thigh, groin, crutch"
+        },
+        "romaji": "matagura"
       }
     ],
     "radical": {
@@ -50,5 +59,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ef.gif",
     "uri": "https://jisho.org/search/%E8%83%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoá",
+    "khố"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "蛤",
         "reading": "はまぐり",
-        "meaning": "common orient clam (Meretrix lusoria)"
+        "meaning": {
+          "en": "common orient clam (Meretrix lusoria)"
+        },
+        "romaji": "hamaguri"
       },
       {
         "example": "蛤御門の変",
         "reading": "はまぐりごもんのへん",
-        "meaning": "Hamaguri Gomon incident (1864 clash between pro and anti-shogunate forces)"
+        "meaning": {
+          "vi": "Hamaguri Gomon incident (1864 clash between pro and anti-shogunate forces)"
+        },
+        "romaji": "hamagurigomonnohen"
       },
       {
         "example": "焼きハマグリ",
         "reading": "やきはまぐり",
-        "meaning": "grilled clam, baked clam"
+        "meaning": {
+          "en": "grilled clam, baked clam"
+        },
+        "romaji": "yakihamaguri"
       },
       {
         "example": "支那蛤",
         "reading": "しなはまぐり",
-        "meaning": "Meretrix petechialis (species of hard clam)"
+        "meaning": {
+          "vi": "Meretrix petechialis (species of hard clam)"
+        },
+        "romaji": "shinahamaguri"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86e4.gif",
     "uri": "https://jisho.org/search/%E8%9B%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "cáp"
+  ]
 }

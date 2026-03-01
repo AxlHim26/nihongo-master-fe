@@ -19,29 +19,44 @@
       {
         "example": "厨子",
         "reading": "ズシ",
-        "meaning": "miniature shrine with double doors (used to store important Buddhist items such as sutras, etc.), cabinet with double doors (used by the nobility to store books, etc.), carved and decorated stone container for storing the bones of one's ancestors (in Okinawa)"
+        "meaning": {
+          "vi": "miniature shrine with double doors (used to store important Buddhist items such as sutras, etc.), cabinet with double doors (used by the nobility to store books, etc.), carved and decorated stone container for storing the bones of one's ancestors (in Okinawa)"
+        },
+        "romaji": "zushi"
       },
       {
         "example": "厨房",
         "reading": "チュウボウ",
-        "meaning": "kitchen, galley, (Internet) troll"
+        "meaning": {
+          "en": "kitchen, galley, (Internet) troll"
+        },
+        "romaji": "chuubou"
       },
       {
         "example": "厨房",
         "reading": "チュウボウ",
-        "meaning": "kitchen, galley, (Internet) troll"
+        "meaning": {
+          "en": "kitchen, galley, (Internet) troll"
+        },
+        "romaji": "chuubou"
       },
       {
         "example": "庖厨",
         "reading": "ホウチュウ",
-        "meaning": "kitchen"
+        "meaning": {
+          "en": "kitchen"
+        },
+        "romaji": "houchuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厨",
         "reading": "くりや",
-        "meaning": "kitchen"
+        "meaning": {
+          "en": "kitchen"
+        },
+        "romaji": "kuriya"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eda.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eda.gif",
     "uri": "https://jisho.org/search/%E5%BB%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "trù"
+  ]
 }

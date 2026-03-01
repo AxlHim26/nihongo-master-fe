@@ -20,7 +20,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_a.mp3"
-        }
+        },
+        "meaningVN": "nghèo",
+        "hanViet": "bần phạp な",
+        "hanVietExplain": "貧 (bần: nghèo) + 乏 (phạp: thiếu, không đủ) → nghèo"
       },
       {
         "japanese": "欠乏する（けつぼうする）",
@@ -32,7 +35,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_b.mp3"
-        }
+        },
+        "meaningVN": "chạy ngắn",
+        "hanViet": "khiếm phạp す る",
+        "hanVietExplain": "欠 (khiếm: thiếu thốn, nợ) + 乏 (phạp: thiếu, không đủ) → chạy ngắn"
       },
       {
         "japanese": "乏しい（とぼしい）",
@@ -44,7 +50,10 @@
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tobo(shii)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tobo(shii)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tobo(shii)_06_c.mp3"
-        }
+        },
+        "meaningVN": "ít ỏi, khan hiếm",
+        "hanViet": "phạp し い",
+        "hanVietExplain": "phạp: thiếu, không đủ"
       }
     ],
     "kunyomi_ja": "とぼ、とぼしい、とぼしさ",
@@ -227,34 +236,70 @@
       {
         "example": "乏精子症",
         "reading": "ボウセイシショウ",
-        "meaning": "oligozoospermia, oligospermia"
+        "meaning": {
+          "vi": "oligozoospermia, oligospermia"
+        },
+        "meaningVN": "oligozoospermia, oligospermia",
+        "hanViet": "phạp tinh tí chứng",
+        "hanVietExplain": "乏 (phạp: thiếu, không đủ) + 精 (tinh: gạo đã giã) + 子 (tí: Tý (ngôi thứ nhất hàng Chi)) + 症 (chứng: chứng bệnh) → oligozoospermia, oligospermia",
+        "romaji": "bouseishishou"
       },
       {
         "example": "乏尿",
         "reading": "ボウニョウ",
-        "meaning": "oliguria"
+        "meaning": {
+          "en": "oliguria"
+        },
+        "meaningVN": "thiểu niệu",
+        "hanViet": "phạp niếu",
+        "hanVietExplain": "乏 (phạp: thiếu, không đủ) + 尿 (niếu: nước giải, nước đái) → thiểu niệu",
+        "romaji": "bounyou"
       },
       {
         "example": "耐乏",
         "reading": "タイボウ",
-        "meaning": "austerity, voluntary privation"
+        "meaning": {
+          "vi": "austerity, voluntary privation"
+        },
+        "meaningVN": "thắt lưng buộc bụng, tự nguyện thiếu thốn",
+        "hanViet": "năng phạp",
+        "hanVietExplain": "耐 (năng: chịu đựng, nhịn) + 乏 (phạp: thiếu, không đủ) → thắt lưng buộc bụng, tự nguyện thiếu thốn",
+        "romaji": "taibou"
       },
       {
         "example": "困苦窮乏",
         "reading": "コンクキュウボウ",
-        "meaning": "hardships and privations"
+        "meaning": {
+          "vi": "hardships and privations"
+        },
+        "meaningVN": "những khó khăn và thiếu thốn",
+        "hanViet": "khốn cổ cùng phạp",
+        "hanVietExplain": "困 (khốn: khốn cùng, khốn khổ, khốn đốn) + 苦 (cổ: khổ cực) + 窮 (cùng: cuối, hết) + 乏 (phạp: thiếu, không đủ) → những khó khăn và thiếu thốn",
+        "romaji": "konkukyuubou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乏しい",
         "reading": "とぼしい",
-        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+        "meaning": {
+          "vi": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+        },
+        "meaningVN": "ít ỏi, ít ỏi, khan hiếm, có giới hạn, cơ cực, khó khăn, thiếu thốn, ít ỏi, nghèo nàn",
+        "hanViet": "phạp し い",
+        "hanVietExplain": "phạp: thiếu, không đủ",
+        "romaji": "toboshii"
       },
       {
         "example": "乏しい",
         "reading": "とぼしい",
-        "meaning": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+        "meaning": {
+          "vi": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+        },
+        "meaningVN": "ít ỏi, ít ỏi, khan hiếm, có giới hạn, cơ cực, khó khăn, thiếu thốn, ít ỏi, nghèo nàn",
+        "hanViet": "phạp し い",
+        "hanVietExplain": "phạp: thiếu, không đủ",
+        "romaji": "toboshii"
       }
     ],
     "radical": {
@@ -272,5 +317,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e4f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e4f.gif",
     "uri": "https://jisho.org/search/%E4%B9%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "phạp"
+  ],
+  "meaningVN": "ít ỏi, ít ỏi, ít ỏi",
+  "hanVietExplain": "phạp: thiếu, không đủ"
 }

@@ -19,44 +19,68 @@
       {
         "example": "漆芸",
         "reading": "シツゲイ",
-        "meaning": "(Japanese) lacquer art"
+        "meaning": {
+          "vi": "(Japanese) lacquer art"
+        },
+        "romaji": "shitsugei"
       },
       {
         "example": "漆樹",
         "reading": "シツジュ",
-        "meaning": "Chinese lacquer tree (Toxicodendron vernicifluum)"
+        "meaning": {
+          "en": "Chinese lacquer tree (Toxicodendron vernicifluum)"
+        },
+        "romaji": "shitsuju"
       },
       {
         "example": "膠漆",
         "reading": "コウシツ",
-        "meaning": "glue and lacquer, great intimacy"
+        "meaning": {
+          "en": "glue and lacquer, great intimacy"
+        },
+        "romaji": "koushitsu"
       },
       {
         "example": "仮漆",
         "reading": "カシツ",
-        "meaning": "varnish"
+        "meaning": {
+          "en": "varnish"
+        },
+        "romaji": "kashitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漆",
         "reading": "うるし",
-        "meaning": "East Asian lacquer, japan, Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)"
+        "meaning": {
+          "vi": "East Asian lacquer, japan, Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)"
+        },
+        "romaji": "urushi"
       },
       {
         "example": "漆樹",
         "reading": "しつじゅ",
-        "meaning": "Chinese lacquer tree (Toxicodendron vernicifluum)"
+        "meaning": {
+          "en": "Chinese lacquer tree (Toxicodendron vernicifluum)"
+        },
+        "romaji": "shitsuju"
       },
       {
         "example": "生漆",
         "reading": "きうるし",
-        "meaning": "unrefined sap of the lacquer tree"
+        "meaning": {
+          "vi": "unrefined sap of the lacquer tree"
+        },
+        "romaji": "kiurushi"
       },
       {
         "example": "透漆",
         "reading": "すきうるし",
-        "meaning": "clear lacquer"
+        "meaning": {
+          "en": "clear lacquer"
+        },
+        "romaji": "sukiurushi"
       }
     ],
     "radical": {
@@ -77,5 +101,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f06.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f06.gif",
     "uri": "https://jisho.org/search/%E6%BC%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "thế",
+    "tất"
+  ]
 }

@@ -16,19 +16,28 @@
       {
         "example": "汲々",
         "reading": "キュウキュウ",
-        "meaning": "diligent, absorbed (in something)"
+        "meaning": {
+          "en": "diligent, absorbed (in something)"
+        },
+        "romaji": "kyuukyuu"
       },
       {
         "example": "汲々",
         "reading": "キュウキュウ",
-        "meaning": "diligent, absorbed (in something)"
+        "meaning": {
+          "en": "diligent, absorbed (in something)"
+        },
+        "romaji": "kyuukyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汲む",
         "reading": "くむ",
-        "meaning": "to draw (water), to ladle, to dip up, to scoop up, to pump, to pour (into a cup), to drink (together), to consider (feelings, the situation, etc.), to sympathize with, to intuit, to understand, to draw upon, to inherit"
+        "meaning": {
+          "vi": "to draw (water), to ladle, to dip up, to scoop up, to pump, to pour (into a cup), to drink (together), to consider (feelings, the situation, etc.), to sympathize with, to intuit, to understand, to draw upon, to inherit"
+        },
+        "romaji": "kumu"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c72.gif",
     "uri": "https://jisho.org/search/%E6%B1%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "cấp"
+  ]
 }

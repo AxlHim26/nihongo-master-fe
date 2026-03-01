@@ -18,12 +18,18 @@
       {
         "example": "踪跡",
         "reading": "ソウセキ",
-        "meaning": "one's traces, one's tracks, footprints, one's whereabouts"
+        "meaning": {
+          "vi": "one's traces, one's tracks, footprints, one's whereabouts"
+        },
+        "romaji": "souseki"
       },
       {
         "example": "危難失踪",
         "reading": "キナンシッソウ",
-        "meaning": "disappearance (longer than one year after an accident or disaster), missing and presumed dead"
+        "meaning": {
+          "vi": "disappearance (longer than one year after an accident or disaster), missing and presumed dead"
+        },
+        "romaji": "kinanshissou"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e2a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e2a.gif",
     "uri": "https://jisho.org/search/%E8%B8%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tung"
+  ]
 }

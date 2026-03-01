@@ -16,7 +16,10 @@
       {
         "example": "怫然",
         "reading": "フツゼン",
-        "meaning": "indignant, wrathful"
+        "meaning": {
+          "en": "indignant, wrathful"
+        },
+        "romaji": "futsuzen"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0602b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/602b.gif",
     "uri": "https://jisho.org/search/%E6%80%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "bội",
+    "phí",
+    "phất",
+    "phật"
+  ]
 }

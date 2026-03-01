@@ -20,34 +20,52 @@
       {
         "example": "顕",
         "reading": "ケン",
-        "meaning": "exposure, clarity, exoteric Buddhism, public Buddhist teachings"
+        "meaning": {
+          "vi": "exposure, clarity, exoteric Buddhism, public Buddhist teachings"
+        },
+        "romaji": "ken"
       },
       {
         "example": "顕在",
         "reading": "ケンザイ",
-        "meaning": "being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed"
+        "meaning": {
+          "vi": "being actual (as opposed to hidden or latent), being apparent, being obvious, being tangible, being revealed"
+        },
+        "romaji": "kenzai"
       },
       {
         "example": "貴顕",
         "reading": "キケン",
-        "meaning": "distinguished person"
+        "meaning": {
+          "vi": "distinguished person"
+        },
+        "romaji": "kiken"
       },
       {
         "example": "丕顕",
         "reading": "ヒケン",
-        "meaning": "great and brilliant, splendid"
+        "meaning": {
+          "vi": "great and brilliant, splendid"
+        },
+        "romaji": "hiken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "明らか",
         "reading": "あきらか",
-        "meaning": "clear, obvious, evident, plain, definite, bright, light"
+        "meaning": {
+          "vi": "clear, obvious, evident, plain, definite, bright, light"
+        },
+        "romaji": "akiraka"
       },
       {
         "example": "現れる",
         "reading": "あらわれる",
-        "meaning": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+        "meaning": {
+          "vi": "to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)"
+        },
+        "romaji": "arawareru"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09855.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9855.gif",
     "uri": "https://jisho.org/search/%E9%A1%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiển"
+  ]
 }

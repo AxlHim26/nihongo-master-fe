@@ -16,7 +16,10 @@
       {
         "example": "麿",
         "reading": "まろ",
-        "meaning": "tôi, tớ; (người có) lông mày mỏng hoặc cạo; hậu tố thân mật cho tên thanh niên hoặc thú cưng"
+        "meaning": {
+          "vi": "tôi, tớ; (người có) lông mày mỏng hoặc cạo; hậu tố thân mật cho tên thanh niên hoặc thú cưng"
+        },
+        "romaji": "maro"
       }
     ],
     "radical": {
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebf.gif",
     "uri": "https://jisho.org/search/%E9%BA%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "mi",
+    "my"
+  ]
 }

@@ -312,29 +312,44 @@
       {
         "example": "推計",
         "reading": "スイケイ",
-        "meaning": "estimate, estimation"
+        "meaning": {
+          "en": "estimate, estimation"
+        },
+        "romaji": "suikei"
       },
       {
         "example": "推移",
         "reading": "スイイ",
-        "meaning": "transition, change, progress, development, shift, passing (of time)"
+        "meaning": {
+          "vi": "transition, change, progress, development, shift, passing (of time)"
+        },
+        "romaji": "suii"
       },
       {
         "example": "類推",
         "reading": "ルイスイ",
-        "meaning": "analogy, analogical reasoning, analogical inference, analogy"
+        "meaning": {
+          "en": "analogy, analogical reasoning, analogical inference, analogy"
+        },
+        "romaji": "ruisui"
       },
       {
         "example": "邪推",
         "reading": "ジャスイ",
-        "meaning": "distrust, unjust suspicion"
+        "meaning": {
+          "vi": "distrust, unjust suspicion"
+        },
+        "romaji": "jasui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "推す",
         "reading": "おす",
-        "meaning": "to recommend, to endorse (e.g. a candidate), to nominate, to support, to back, to infer (from), to deduce, to gather, to conjecture, to surmise, to think (something) through, to ponder deeply"
+        "meaning": {
+          "vi": "to recommend, to endorse (e.g. a candidate), to nominate, to support, to back, to infer (from), to deduce, to gather, to conjecture, to surmise, to think (something) through, to ponder deeply"
+        },
+        "romaji": "osu"
       }
     ],
     "radical": {
@@ -352,5 +367,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a8.gif",
     "uri": "https://jisho.org/search/%E6%8E%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "suy",
+    "thôi"
+  ]
 }

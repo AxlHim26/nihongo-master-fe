@@ -258,44 +258,68 @@
       {
         "example": "昔時",
         "reading": "セキジ",
-        "meaning": "old times, former times"
+        "meaning": {
+          "en": "old times, former times"
+        },
+        "romaji": "sekiji"
       },
       {
         "example": "昔日",
         "reading": "セキジツ",
-        "meaning": "old days"
+        "meaning": {
+          "en": "old days"
+        },
+        "romaji": "sekijitsu"
       },
       {
         "example": "今昔",
         "reading": "コンジャク",
-        "meaning": "past and present"
+        "meaning": {
+          "vi": "past and present"
+        },
+        "romaji": "konjaku"
       },
       {
         "example": "往昔",
         "reading": "オウセキ",
-        "meaning": "ancient times"
+        "meaning": {
+          "en": "ancient times"
+        },
+        "romaji": "ouseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "昔",
         "reading": "むかし",
-        "meaning": "the old days, the past, former times, a long time ago, the past ten years, the past decade"
+        "meaning": {
+          "vi": "the old days, the past, former times, a long time ago, the past ten years, the past decade"
+        },
+        "romaji": "mukashi"
       },
       {
         "example": "昔話",
         "reading": "むかしばなし",
-        "meaning": "old tale, folk tale, legend, reminiscence"
+        "meaning": {
+          "en": "old tale, folk tale, legend, reminiscence"
+        },
+        "romaji": "mukashibanashi"
       },
       {
         "example": "一昔",
         "reading": "ひとむかし",
-        "meaning": "an age (ago), a long time (ago), a decade (ago)"
+        "meaning": {
+          "en": "an age (ago), a long time (ago), a decade (ago)"
+        },
+        "romaji": "hitomukashi"
       },
       {
         "example": "遥か昔",
         "reading": "はるかむかし",
-        "meaning": "long ago"
+        "meaning": {
+          "en": "long ago"
+        },
+        "romaji": "harukamukashi"
       }
     ],
     "radical": {
@@ -312,5 +336,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06614.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6614.gif",
     "uri": "https://jisho.org/search/%E6%98%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "thác",
+    "thố",
+    "tích",
+    "tịch"
+  ]
 }

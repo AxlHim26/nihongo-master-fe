@@ -277,34 +277,52 @@
       {
         "example": "老",
         "reading": "ロウ",
-        "meaning": "old age, age, old people, the old, the aged, senior, elder, I, me, my humble self"
+        "meaning": {
+          "vi": "old age, age, old people, the old, the aged, senior, elder, I, me, my humble self"
+        },
+        "romaji": "rou"
       },
       {
         "example": "老化",
         "reading": "ロウカ",
-        "meaning": "ageing, aging, senile deterioration"
+        "meaning": {
+          "en": "ageing, aging, senile deterioration"
+        },
+        "romaji": "rouka"
       },
       {
         "example": "養老",
         "reading": "ヨウロウ",
-        "meaning": "making provision for the elderly, making provision for one's old age, spending one's old age in comfort, Yōrō era (717.11.17-724.2.4)"
+        "meaning": {
+          "vi": "making provision for the elderly, making provision for one's old age, spending one's old age in comfort, Yōrō era (717.11.17-724.2.4)"
+        },
+        "romaji": "yourou"
       },
       {
         "example": "敬老",
         "reading": "ケイロウ",
-        "meaning": "respect for the aged"
+        "meaning": {
+          "vi": "respect for the aged"
+        },
+        "romaji": "keirou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "老いる",
         "reading": "おいる",
-        "meaning": "to age, to grow old"
+        "meaning": {
+          "en": "to age, to grow old"
+        },
+        "romaji": "oiru"
       },
       {
         "example": "老ける",
         "reading": "ふける",
-        "meaning": "to age, to grow old (esp. in appearance), to show marks of age"
+        "meaning": {
+          "vi": "to age, to grow old (esp. in appearance), to show marks of age"
+        },
+        "romaji": "fukeru"
       }
     ],
     "radical": {
@@ -322,5 +340,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08001.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8001.gif",
     "uri": "https://jisho.org/search/%E8%80%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "lão"
+  ]
 }

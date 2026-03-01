@@ -365,42 +365,66 @@
       {
         "example": "達人",
         "reading": "タツジン",
-        "meaning": "master, expert"
+        "meaning": {
+          "vi": "master, expert"
+        },
+        "romaji": "tatsujin"
       },
       {
         "example": "達意",
         "reading": "タツイ",
-        "meaning": "lucidity, intelligibility, perspicuity"
+        "meaning": {
+          "vi": "lucidity, intelligibility, perspicuity"
+        },
+        "romaji": "tatsui"
       },
       {
         "example": "通達",
         "reading": "ツウタツ",
-        "meaning": "notification, official notice, directive (e.g. from higher to lower levels of the administration), being well versed (in), being proficient (in)"
+        "meaning": {
+          "vi": "notification, official notice, directive (e.g. from higher to lower levels of the administration), being well versed (in), being proficient (in)"
+        },
+        "romaji": "tsuutatsu"
       },
       {
         "example": "御用達",
         "reading": "ゴヨウタシ",
-        "meaning": "purveyor (to the Imperial Household, etc.), company (or restaurant, place, etc.) that caters to or is popular with a specific clientele"
+        "meaning": {
+          "vi": "purveyor (to the Imperial Household, etc.), company (or restaurant, place, etc.) that caters to or is popular with a specific clientele"
+        },
+        "romaji": "goyoutashi"
       },
       {
         "example": "達",
         "reading": "ダチ",
-        "meaning": "friend"
+        "meaning": {
+          "en": "friend"
+        },
+        "romaji": "dachi"
       },
       {
         "example": "達頼喇嘛",
         "reading": "ダライラマ",
-        "meaning": "Dalai Lama"
+        "meaning": {
+          "en": "Dalai Lama"
+        },
+        "romaji": "darairama"
       },
       {
         "example": "重炭酸曹達",
         "reading": "ジュウタンサンソウダ",
-        "meaning": "sodium bicarbonate, baking soda"
+        "meaning": {
+          "en": "sodium bicarbonate, baking soda"
+        },
+        "romaji": "juutansansouda"
       },
       {
         "example": "重炭酸ソーダ",
         "reading": "ジュウタンサンソーダ",
-        "meaning": "baking soda, sodium bicarbonate"
+        "meaning": {
+          "en": "baking soda, sodium bicarbonate"
+        },
+        "romaji": "juutansansooda"
       }
     ],
     "kunyomiExamples": [],
@@ -424,5 +448,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09054.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9054.gif",
     "uri": "https://jisho.org/search/%E9%81%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "đạt"
+  ]
 }

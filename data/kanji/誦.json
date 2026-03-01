@@ -19,52 +19,82 @@
       {
         "example": "誦習",
         "reading": "ショウシュウ",
-        "meaning": "học thuộc lòng"
+        "meaning": {
+          "vi": "học thuộc lòng"
+        },
+        "romaji": "shoushuu"
       },
       {
         "example": "誦する",
         "reading": "ショウスル",
-        "meaning": "đọc tụng, đọc to"
+        "meaning": {
+          "vi": "đọc tụng, đọc to"
+        },
+        "romaji": "shousuru"
       },
       {
         "example": "愛誦",
         "reading": "アイショウ",
-        "meaning": "thích đọc tụng (thơ)"
+        "meaning": {
+          "vi": "thích đọc tụng (thơ)"
+        },
+        "romaji": "aishou"
       },
       {
         "example": "詠誦",
         "reading": "エイショウ",
-        "meaning": "ngâm thơ"
+        "meaning": {
+          "vi": "ngâm thơ"
+        },
+        "romaji": "eishou"
       },
       {
         "example": "誦経",
         "reading": "ジュキョウ",
-        "meaning": "tụng kinh"
+        "meaning": {
+          "vi": "tụng kinh"
+        },
+        "romaji": "jukyou"
       },
       {
         "example": "誦す",
         "reading": "ジュス",
-        "meaning": "đọc tụng, đọc to"
+        "meaning": {
+          "vi": "đọc tụng, đọc to"
+        },
+        "romaji": "jusu"
       },
       {
         "example": "諷誦",
         "reading": "フウジュ",
-        "meaning": "đọc tụng"
+        "meaning": {
+          "vi": "đọc tụng"
+        },
+        "romaji": "fuuju"
       },
       {
         "example": "読誦",
         "reading": "ドクジュ",
-        "meaning": "đọc to, tụng"
+        "meaning": {
+          "vi": "đọc to, tụng"
+        },
+        "romaji": "dokuju"
       },
       {
         "example": "誦経",
         "reading": "ジュキョウ",
-        "meaning": "tụng kinh"
+        "meaning": {
+          "vi": "tụng kinh"
+        },
+        "romaji": "jukyou"
       },
       {
         "example": "誦す",
         "reading": "ジュス",
-        "meaning": "đọc tụng, đọc to"
+        "meaning": {
+          "vi": "đọc tụng, đọc to"
+        },
+        "romaji": "jusu"
       }
     ],
     "kunyomiExamples": [],
@@ -83,5 +113,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aa6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aa6.gif",
     "uri": "https://jisho.org/search/%E8%AA%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "tụng"
+  ]
 }

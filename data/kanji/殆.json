@@ -19,24 +19,36 @@
       {
         "example": "危殆",
         "reading": "キタイ",
-        "meaning": "danger, jeopardy, distress"
+        "meaning": {
+          "vi": "danger, jeopardy, distress"
+        },
+        "romaji": "kitai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "殆",
         "reading": "ほとほと",
-        "meaning": "quite, utterly, really, completely"
+        "meaning": {
+          "vi": "quite, utterly, really, completely"
+        },
+        "romaji": "hotohoto"
       },
       {
         "example": "殆ど",
         "reading": "ほとんど",
-        "meaning": "almost, nearly, mostly, practically, virtually, basically, just about, all but, hardly, barely, scarcely, little, large majority, large proportion, greater part, most (of), almost all (of)"
+        "meaning": {
+          "vi": "almost, nearly, mostly, practically, virtually, basically, just about, all but, hardly, barely, scarcely, little, large majority, large proportion, greater part, most (of), almost all (of)"
+        },
+        "romaji": "hotondo"
       },
       {
         "example": "殆どない",
         "reading": "ほとんどない",
-        "meaning": "hardly any, almost nonexistent, very little"
+        "meaning": {
+          "en": "hardly any, almost nonexistent, very little"
+        },
+        "romaji": "hotondonai"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b86.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b86.gif",
     "uri": "https://jisho.org/search/%E6%AE%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "đãi"
+  ]
 }

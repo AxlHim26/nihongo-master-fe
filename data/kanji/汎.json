@@ -23,12 +23,18 @@
       {
         "example": "汎",
         "reading": "ハン",
-        "meaning": "pan-"
+        "meaning": {
+          "vi": "pan-"
+        },
+        "romaji": "han"
       },
       {
         "example": "汎用",
         "reading": "ハンヨウ",
-        "meaning": "generic, general purpose, all-purpose"
+        "meaning": {
+          "vi": "generic, general purpose, all-purpose"
+        },
+        "romaji": "han'you"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +55,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c4e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c4e.gif",
     "uri": "https://jisho.org/search/%E6%B1%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiếm",
+    "phùng",
+    "phạp"
+  ]
 }

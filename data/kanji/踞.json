@@ -17,24 +17,36 @@
       {
         "example": "箕踞",
         "reading": "キキョ",
-        "meaning": "sitting with one's legs outstretched"
+        "meaning": {
+          "en": "sitting with one's legs outstretched"
+        },
+        "romaji": "kikyo"
       },
       {
         "example": "蹲踞",
         "reading": "ソンキョ",
-        "meaning": "crouching, formal crouch performed at the beginning of a sumo or kendo match"
+        "meaning": {
+          "vi": "crouching, formal crouch performed at the beginning of a sumo or kendo match"
+        },
+        "romaji": "sonkyo"
       },
       {
         "example": "屈む",
         "reading": "カガム",
-        "meaning": "to stoop, to lean over, to bend forward, to bend down, to crouch, to squat"
+        "meaning": {
+          "vi": "to stoop, to lean over, to bend forward, to bend down, to crouch, to squat"
+        },
+        "romaji": "kagamu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蹲る",
         "reading": "うずくまる",
-        "meaning": "to crouch, to squat, to cower"
+        "meaning": {
+          "en": "to crouch, to squat, to cower"
+        },
+        "romaji": "uzukumaru"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e1e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e1e.gif",
     "uri": "https://jisho.org/search/%E8%B8%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "cứ"
+  ]
 }

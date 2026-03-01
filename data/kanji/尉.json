@@ -18,32 +18,50 @@
       {
         "example": "尉官",
         "reading": "イカン",
-        "meaning": "officer below the rank of major, company officer"
+        "meaning": {
+          "vi": "officer below the rank of major, company officer"
+        },
+        "romaji": "ikan"
       },
       {
         "example": "中尉",
         "reading": "チュウイ",
-        "meaning": "first lieutenant, lieutenant junior grade"
+        "meaning": {
+          "en": "first lieutenant, lieutenant junior grade"
+        },
+        "romaji": "chuui"
       },
       {
         "example": "少尉",
         "reading": "ショウイ",
-        "meaning": "second lieutenant, sublieutenant, ensign"
+        "meaning": {
+          "en": "second lieutenant, sublieutenant, ensign"
+        },
+        "romaji": "shoui"
       },
       {
         "example": "尉",
         "reading": "ジョウ",
-        "meaning": "inspector (third highest of the four administrative ranks of the ritsuryō system), old man, white ash (of charcoal)"
+        "meaning": {
+          "vi": "inspector (third highest of the four administrative ranks of the ritsuryō system), old man, white ash (of charcoal)"
+        },
+        "romaji": "jou"
       },
       {
         "example": "尉鶲",
         "reading": "ジョウビタキ",
-        "meaning": "Daurian redstart (Phoenicurus auroreus)"
+        "meaning": {
+          "vi": "Daurian redstart (Phoenicurus auroreus)"
+        },
+        "romaji": "joubitaki"
       },
       {
         "example": "黒式尉",
         "reading": "コクシキジョウ",
-        "meaning": "noh mask used for old man roles (usu. black)"
+        "meaning": {
+          "en": "noh mask used for old man roles (usu. black)"
+        },
+        "romaji": "kokushikijou"
       }
     ],
     "kunyomiExamples": [],
@@ -62,5 +80,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c09.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c09.gif",
     "uri": "https://jisho.org/search/%E5%B0%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "uý",
+    "uất"
+  ]
 }

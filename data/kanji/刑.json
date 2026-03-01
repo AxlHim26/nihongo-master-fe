@@ -17,22 +17,34 @@
       {
         "example": "刑",
         "reading": "ケイ",
-        "meaning": "penalty, sentence, punishment"
+        "meaning": {
+          "vi": "penalty, sentence, punishment"
+        },
+        "romaji": "kei"
       },
       {
         "example": "刑事",
         "reading": "ケイジ",
-        "meaning": "(police) detective, criminal matter"
+        "meaning": {
+          "vi": "(police) detective, criminal matter"
+        },
+        "romaji": "keiji"
       },
       {
         "example": "量刑",
         "reading": "リョウケイ",
-        "meaning": "judge's sentence, assessment of a case"
+        "meaning": {
+          "en": "judge's sentence, assessment of a case"
+        },
+        "romaji": "ryoukei"
       },
       {
         "example": "求刑",
         "reading": "キュウケイ",
-        "meaning": "recommended sentence, prosecution's demand for punishment"
+        "meaning": {
+          "vi": "recommended sentence, prosecution's demand for punishment"
+        },
+        "romaji": "kyuukei"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05211.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5211.gif",
     "uri": "https://jisho.org/search/%E5%88%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "hình"
+  ]
 }

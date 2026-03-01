@@ -222,34 +222,52 @@
       {
         "example": "郡",
         "reading": "グン",
-        "meaning": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China)"
+        "meaning": {
+          "vi": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China)"
+        },
+        "romaji": "gun"
       },
       {
         "example": "郡部",
         "reading": "グンブ",
-        "meaning": "rural districts, counties"
+        "meaning": {
+          "en": "rural districts, counties"
+        },
+        "romaji": "gunbu"
       },
       {
         "example": "共産国家郡",
         "reading": "キョウサンコッカグン",
-        "meaning": "Communist bloc"
+        "meaning": {
+          "en": "Communist bloc"
+        },
+        "romaji": "kyousankokkagun"
       },
       {
         "example": "国郡",
         "reading": "コクグン",
-        "meaning": "provinces and districts"
+        "meaning": {
+          "vi": "provinces and districts"
+        },
+        "romaji": "kokugun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "郡",
         "reading": "ぐん",
-        "meaning": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China)"
+        "meaning": {
+          "vi": "district, county, district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period), commandery (in China)"
+        },
+        "romaji": "gun"
       },
       {
         "example": "郡司",
         "reading": "ぐんじ",
-        "meaning": "district governor (under the ritsuryō system)"
+        "meaning": {
+          "en": "district governor (under the ritsuryō system)"
+        },
+        "romaji": "gunji"
       }
     ],
     "radical": {
@@ -270,5 +288,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90e1.gif",
     "uri": "https://jisho.org/search/%E9%83%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "quận"
+  ]
 }

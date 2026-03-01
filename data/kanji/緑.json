@@ -290,54 +290,84 @@
       {
         "example": "緑色",
         "reading": "ミドリイロ",
-        "meaning": "green, green color"
+        "meaning": {
+          "en": "green, green color"
+        },
+        "romaji": "midoriiro"
       },
       {
         "example": "緑化",
         "reading": "リョッカ",
-        "meaning": "greening (i.e. planting to increase greenery), tree planting, afforestation"
+        "meaning": {
+          "vi": "greening (i.e. planting to increase greenery), tree planting, afforestation"
+        },
+        "romaji": "ryokka"
       },
       {
         "example": "新緑",
         "reading": "シンリョク",
-        "meaning": "fresh verdure, new green leaves"
+        "meaning": {
+          "en": "fresh verdure, new green leaves"
+        },
+        "romaji": "shinryoku"
       },
       {
         "example": "常緑",
         "reading": "ジョウリョク",
-        "meaning": "evergreen"
+        "meaning": {
+          "en": "evergreen"
+        },
+        "romaji": "jouryoku"
       },
       {
         "example": "緑青",
         "reading": "ロクショウ",
-        "meaning": "verdigris, green rust, copper rust"
+        "meaning": {
+          "vi": "verdigris, green rust, copper rust"
+        },
+        "romaji": "rokushou"
       },
       {
         "example": "四緑",
         "reading": "シロク",
-        "meaning": "fourth of nine traditional astrological signs (corresponding to Jupiter and south-east)"
+        "meaning": {
+          "vi": "fourth of nine traditional astrological signs (corresponding to Jupiter and south-east)"
+        },
+        "romaji": "shiroku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "緑",
         "reading": "みどり",
-        "meaning": "green, greenery, verdure"
+        "meaning": {
+          "en": "green, greenery, verdure"
+        },
+        "romaji": "midori"
       },
       {
         "example": "緑色",
         "reading": "みどりいろ",
-        "meaning": "green, green color"
+        "meaning": {
+          "en": "green, green color"
+        },
+        "romaji": "midoriiro"
       },
       {
         "example": "黄緑",
         "reading": "きみどり",
-        "meaning": "pea green, yellow-green"
+        "meaning": {
+          "vi": "pea green, yellow-green"
+        },
+        "romaji": "kimidori"
       },
       {
         "example": "青緑",
         "reading": "あおみどり",
-        "meaning": "blue-green, turquoise, aqua, spirogyra, algae forming pond scum"
+        "meaning": {
+          "vi": "blue-green, turquoise, aqua, spirogyra, algae forming pond scum"
+        },
+        "romaji": "aomidori"
       }
     ],
     "radical": {
@@ -359,5 +389,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dd1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dd1.gif",
     "uri": "https://jisho.org/search/%E7%B7%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "lục"
+  ]
 }

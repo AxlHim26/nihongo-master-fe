@@ -19,22 +19,34 @@
       {
         "example": "醇",
         "reading": "ジュン",
-        "meaning": "pure sake, full-bodied sake, pure"
+        "meaning": {
+          "vi": "pure sake, full-bodied sake, pure"
+        },
+        "romaji": "jun"
       },
       {
         "example": "純正",
         "reading": "ジュンセイ",
-        "meaning": "pure, genuine, real, pure (of a subject of study; as opposed to applied, practical, etc.), genuine (parts, accessories, etc.), official, first-party"
+        "meaning": {
+          "vi": "pure, genuine, real, pure (of a subject of study; as opposed to applied, practical, etc.), genuine (parts, accessories, etc.), official, first-party"
+        },
+        "romaji": "junsei"
       },
       {
         "example": "木糖醇",
         "reading": "モクトウジュン",
-        "meaning": "xylose, wood sugar"
+        "meaning": {
+          "en": "xylose, wood sugar"
+        },
+        "romaji": "mokutoujun"
       },
       {
         "example": "濃醇",
         "reading": "ノウジュン",
-        "meaning": "rich and strong (esp. sake), full-bodied with a strong finish"
+        "meaning": {
+          "vi": "rich and strong (esp. sake), full-bodied with a strong finish"
+        },
+        "romaji": "noujun"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09187.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9187.gif",
     "uri": "https://jisho.org/search/%E9%86%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuần"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "慢性的",
         "reading": "マンセイテキ",
-        "meaning": "chronic"
+        "meaning": {
+          "en": "chronic"
+        },
+        "romaji": "manseiteki"
       },
       {
         "example": "慢性",
         "reading": "マンセイ",
-        "meaning": "chronic (illness)"
+        "meaning": {
+          "en": "chronic (illness)"
+        },
+        "romaji": "mansei"
       },
       {
         "example": "職務怠慢",
         "reading": "ショクムタイマン",
-        "meaning": "neglect (dereliction) of duty, negligence"
+        "meaning": {
+          "en": "neglect (dereliction) of duty, negligence"
+        },
+        "romaji": "shokumutaiman"
       },
       {
         "example": "暴慢",
         "reading": "ボウマン",
-        "meaning": "ill-mannered, overbearing"
+        "meaning": {
+          "en": "ill-mannered, overbearing"
+        },
+        "romaji": "bouman"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06162.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6162.gif",
     "uri": "https://jisho.org/search/%E6%85%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạn"
+  ]
 }

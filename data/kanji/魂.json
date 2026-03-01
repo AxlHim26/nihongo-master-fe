@@ -20,64 +20,100 @@
       {
         "example": "魂",
         "reading": "コン",
-        "meaning": "Yang energy, spirit"
+        "meaning": {
+          "vi": "Yang energy, spirit"
+        },
+        "romaji": "kon"
       },
       {
         "example": "魂胆",
         "reading": "コンタン",
-        "meaning": "ulterior motive, plot, scheme, complicated circumstances, intricacies"
+        "meaning": {
+          "vi": "ulterior motive, plot, scheme, complicated circumstances, intricacies"
+        },
+        "romaji": "kontan"
       },
       {
         "example": "鎮魂",
         "reading": "チンコン",
-        "meaning": "repose of a soul, ceremony for the repose of a departed soul"
+        "meaning": {
+          "vi": "repose of a soul, ceremony for the repose of a departed soul"
+        },
+        "romaji": "chinkon"
       },
       {
         "example": "入魂",
         "reading": "ニュウコン",
-        "meaning": "putting one's heart and soul (into), giving one's all, breathing a soul into (e.g. a Buddhist statue), intimacy, familiarity"
+        "meaning": {
+          "vi": "putting one's heart and soul (into), giving one's all, breathing a soul into (e.g. a Buddhist statue), intimacy, familiarity"
+        },
+        "romaji": "nyuukon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "魂",
         "reading": "たましい",
-        "meaning": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        "meaning": {
+          "vi": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        },
+        "romaji": "tamashii"
       },
       {
         "example": "魂不死説",
         "reading": "たましいふしせつ",
-        "meaning": "(theory of) the immortality of the soul"
+        "meaning": {
+          "en": "(theory of) the immortality of the soul"
+        },
+        "romaji": "tamashiifushisetsu"
       },
       {
         "example": "一寸の虫にも五分の魂",
         "reading": "いっすんのむしにもごぶのたましい",
-        "meaning": "tread on a worm and it will turn, even a tiny bug will defend itself, even the weakest and smallest beings have their own wills, so do not make light of them"
+        "meaning": {
+          "en": "tread on a worm and it will turn, even a tiny bug will defend itself, even the weakest and smallest beings have their own wills, so do not make light of them"
+        },
+        "romaji": "issunnomushinimogobunotamashii"
       },
       {
         "example": "死せる魂",
         "reading": "しせるたましい",
-        "meaning": "Dead Souls (novel by Gogol), Myortvye dushi"
+        "meaning": {
+          "en": "Dead Souls (novel by Gogol), Myortvye dushi"
+        },
+        "romaji": "shiserutamashii"
       },
       {
         "example": "魂",
         "reading": "たましい",
-        "meaning": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        "meaning": {
+          "vi": "soul, spirit, mind, willpower, vitality, something as important as one's own life, something invaluable, inherent spirit of something, state of mind"
+        },
+        "romaji": "tamashii"
       },
       {
         "example": "魂送り",
         "reading": "たまおくり",
-        "meaning": "sending off the spirits of the dead"
+        "meaning": {
+          "vi": "sending off the spirits of the dead"
+        },
+        "romaji": "tamaokuri"
       },
       {
         "example": "稲魂",
         "reading": "うかのみたま",
-        "meaning": "god of food (esp. of rice)"
+        "meaning": {
+          "vi": "god of food (esp. of rice)"
+        },
+        "romaji": "ukanomitama"
       },
       {
         "example": "亡き魂",
         "reading": "なきたま",
-        "meaning": "departed soul, spirit"
+        "meaning": {
+          "vi": "departed soul, spirit"
+        },
+        "romaji": "nakitama"
       }
     ],
     "radical": {
@@ -96,5 +132,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b42.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b42.gif",
     "uri": "https://jisho.org/search/%E9%AD%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "hồn"
+  ]
 }

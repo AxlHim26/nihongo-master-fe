@@ -357,44 +357,68 @@
       {
         "example": "満",
         "reading": "マン",
-        "meaning": "being full, (counting) completed years (e.g. when calculating age), full (years, months, etc.), Manchuria"
+        "meaning": {
+          "vi": "being full, (counting) completed years (e.g. when calculating age), full (years, months, etc.), Manchuria"
+        },
+        "romaji": "man"
       },
       {
         "example": "満々",
         "reading": "マンマン",
-        "meaning": "full of, brimming with"
+        "meaning": {
+          "en": "full of, brimming with"
+        },
+        "romaji": "manman"
       },
       {
         "example": "満々",
         "reading": "マンマン",
-        "meaning": "full of, brimming with"
+        "meaning": {
+          "en": "full of, brimming with"
+        },
+        "romaji": "manman"
       },
       {
         "example": "豊満",
         "reading": "ホウマン",
-        "meaning": "stout, corpulent, plump, voluptuous"
+        "meaning": {
+          "vi": "stout, corpulent, plump, voluptuous"
+        },
+        "romaji": "houman"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "満ちる",
         "reading": "みちる",
-        "meaning": "to fill, to become full (of), to be filled (with), to brim (with), to wax (of the moon), to rise (of the tide), to flow, to come in, to expire (of a period of time), to mature, to come to an end"
+        "meaning": {
+          "vi": "to fill, to become full (of), to be filled (with), to brim (with), to wax (of the moon), to rise (of the tide), to flow, to come in, to expire (of a period of time), to mature, to come to an end"
+        },
+        "romaji": "michiru"
       },
       {
         "example": "満つ",
         "reading": "みつ",
-        "meaning": "to be full, to wax (e.g. moon), to rise (e.g. tide), to mature, to expire"
+        "meaning": {
+          "vi": "to be full, to wax (e.g. moon), to rise (e.g. tide), to mature, to expire"
+        },
+        "romaji": "mitsu"
       },
       {
         "example": "丑三つ",
         "reading": "うしみつ",
-        "meaning": "dead of the night, midnight, third quarter of the ox's hour (around 2-2:30am or 3-3:30am)"
+        "meaning": {
+          "en": "dead of the night, midnight, third quarter of the ox's hour (around 2-2:30am or 3-3:30am)"
+        },
+        "romaji": "ushimitsu"
       },
       {
         "example": "満たす",
         "reading": "みたす",
-        "meaning": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+        "meaning": {
+          "vi": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+        },
+        "romaji": "mitasu"
       }
     ],
     "radical": {
@@ -418,5 +442,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e80.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e80.gif",
     "uri": "https://jisho.org/search/%E6%BA%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "mãn",
+    "muộn"
+  ]
 }

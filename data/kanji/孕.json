@@ -16,24 +16,36 @@
       {
         "example": "孕婦",
         "reading": "ヨウフ",
-        "meaning": "pregnant woman"
+        "meaning": {
+          "vi": "pregnant woman"
+        },
+        "romaji": "youfu"
       },
       {
         "example": "懐孕",
         "reading": "カイヨウ",
-        "meaning": "pregnancy, conception"
+        "meaning": {
+          "vi": "pregnancy, conception"
+        },
+        "romaji": "kaiyou"
       },
       {
         "example": "妊孕",
         "reading": "ニンヨウ",
-        "meaning": "pregnancy, conception, fecundation"
+        "meaning": {
+          "vi": "pregnancy, conception, fecundation"
+        },
+        "romaji": "nin'you"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "孕む",
         "reading": "はらむ",
-        "meaning": "to conceive, to become pregnant, to get filled with (e.g. sails filled with wind), to be swollen with, to contain (a contradiction, danger, etc.), to carry (a problem, consequences, etc.), to involve (e.g. risk), to be swollen and ripe (of a plant ear, head, sprout, etc.)"
+        "meaning": {
+          "vi": "to conceive, to become pregnant, to get filled with (e.g. sails filled with wind), to be swollen with, to contain (a contradiction, danger, etc.), to carry (a problem, consequences, etc.), to involve (e.g. risk), to be swollen and ripe (of a plant ear, head, sprout, etc.)"
+        },
+        "romaji": "haramu"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b55.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b55.gif",
     "uri": "https://jisho.org/search/%E5%AD%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "dựng"
+  ]
 }

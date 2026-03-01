@@ -300,44 +300,68 @@
       {
         "example": "銭",
         "reading": "セン",
-        "meaning": "sen (hundredth of a yen), coin made of non-precious materials, one-thousandth of a kan (as a unit of currency), one-thousandth of a kan (as a unit of mass)"
+        "meaning": {
+          "vi": "sen (hundredth of a yen), coin made of non-precious materials, one-thousandth of a kan (as a unit of currency), one-thousandth of a kan (as a unit of mass)"
+        },
+        "romaji": "sen"
       },
       {
         "example": "銭湯",
         "reading": "セントウ",
-        "meaning": "public bath, bathhouse"
+        "meaning": {
+          "vi": "public bath, bathhouse"
+        },
+        "romaji": "sentou"
       },
       {
         "example": "間銭",
         "reading": "アイセン",
-        "meaning": "handling fee, commission"
+        "meaning": {
+          "en": "handling fee, commission"
+        },
+        "romaji": "aisen"
       },
       {
         "example": "追い銭",
         "reading": "オイセン",
-        "meaning": "money paid in addition"
+        "meaning": {
+          "vi": "money paid in addition"
+        },
+        "romaji": "oisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "銭",
         "reading": "ぜに",
-        "meaning": "round coin with a (square) hole in the center, coin made of non-precious materials, money"
+        "meaning": {
+          "vi": "round coin with a (square) hole in the center, coin made of non-precious materials, money"
+        },
+        "romaji": "zeni"
       },
       {
         "example": "銭葵",
         "reading": "ぜにあおい",
-        "meaning": "common mallow (Malva sylvestris var. mauritiana)"
+        "meaning": {
+          "en": "common mallow (Malva sylvestris var. mauritiana)"
+        },
+        "romaji": "zeniaoi"
       },
       {
         "example": "身銭",
         "reading": "みぜに",
-        "meaning": "one's own money"
+        "meaning": {
+          "en": "one's own money"
+        },
+        "romaji": "mizeni"
       },
       {
         "example": "日銭",
         "reading": "ひぜに",
-        "meaning": "daily income in cash, money paid by daily installments, money paid by daily instalments"
+        "meaning": {
+          "vi": "daily income in cash, money paid by daily installments, money paid by daily instalments"
+        },
+        "romaji": "hizeni"
       }
     ],
     "radical": {
@@ -356,5 +380,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092ad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92ad.gif",
     "uri": "https://jisho.org/search/%E9%8A%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiền"
+  ]
 }

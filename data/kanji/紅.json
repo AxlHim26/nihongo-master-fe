@@ -304,84 +304,132 @@
       {
         "example": "紅",
         "reading": "クレナイ",
-        "meaning": "deep red, crimson, rouge, lipstick"
+        "meaning": {
+          "vi": "deep red, crimson, rouge, lipstick"
+        },
+        "romaji": "kurenai"
       },
       {
         "example": "紅茶",
         "reading": "コウチャ",
-        "meaning": "black tea"
+        "meaning": {
+          "en": "black tea"
+        },
+        "romaji": "koucha"
       },
       {
         "example": "深紅",
         "reading": "シンク",
-        "meaning": "deep crimson"
+        "meaning": {
+          "vi": "deep crimson"
+        },
+        "romaji": "shinku"
       },
       {
         "example": "退紅",
         "reading": "タイコウ",
-        "meaning": "pink, light red"
+        "meaning": {
+          "vi": "pink, light red"
+        },
+        "romaji": "taikou"
       },
       {
         "example": "紅",
         "reading": "クレナイ",
-        "meaning": "deep red, crimson, rouge, lipstick"
+        "meaning": {
+          "vi": "deep red, crimson, rouge, lipstick"
+        },
+        "romaji": "kurenai"
       },
       {
         "example": "紅色",
         "reading": "ベニイロ",
-        "meaning": "red, crimson, vermilion"
+        "meaning": {
+          "en": "red, crimson, vermilion"
+        },
+        "romaji": "beniiro"
       },
       {
         "example": "深紅",
         "reading": "シンク",
-        "meaning": "deep crimson"
+        "meaning": {
+          "vi": "deep crimson"
+        },
+        "romaji": "shinku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "紅",
         "reading": "くれない",
-        "meaning": "deep red, crimson, rouge, lipstick"
+        "meaning": {
+          "vi": "deep red, crimson, rouge, lipstick"
+        },
+        "romaji": "kurenai"
       },
       {
         "example": "紅色",
         "reading": "べにいろ",
-        "meaning": "red, crimson, vermilion"
+        "meaning": {
+          "en": "red, crimson, vermilion"
+        },
+        "romaji": "beniiro"
       },
       {
         "example": "棒紅",
         "reading": "ぼうべに",
-        "meaning": "lipstick"
+        "meaning": {
+          "vi": "lipstick"
+        },
+        "romaji": "boubeni"
       },
       {
         "example": "愛敬紅",
         "reading": "あいきょうべに",
-        "meaning": "lipstick that actors put on their earlobes, cheeks and corners of eyes, lipstick discreetly put on the earlobes or the corners of the eyes (by women)"
+        "meaning": {
+          "vi": "lipstick that actors put on their earlobes, cheeks and corners of eyes, lipstick discreetly put on the earlobes or the corners of the eyes (by women)"
+        },
+        "romaji": "aikyoubeni"
       },
       {
         "example": "紅",
         "reading": "くれない",
-        "meaning": "deep red, crimson, rouge, lipstick"
+        "meaning": {
+          "vi": "deep red, crimson, rouge, lipstick"
+        },
+        "romaji": "kurenai"
       },
       {
         "example": "紅色",
         "reading": "べにいろ",
-        "meaning": "red, crimson, vermilion"
+        "meaning": {
+          "en": "red, crimson, vermilion"
+        },
+        "romaji": "beniiro"
       },
       {
         "example": "中紅",
         "reading": "なかくれない",
-        "meaning": "medium crimson"
+        "meaning": {
+          "en": "medium crimson"
+        },
+        "romaji": "nakakurenai"
       },
       {
         "example": "薄紅",
         "reading": "うすべに",
-        "meaning": "light pink, light crimson"
+        "meaning": {
+          "vi": "light pink, light crimson"
+        },
+        "romaji": "usubeni"
       },
       {
         "example": "赤い",
         "reading": "あかい",
-        "meaning": "red, crimson, scarlet, vermilion, Red, communist"
+        "meaning": {
+          "en": "red, crimson, scarlet, vermilion, Red, communist"
+        },
+        "romaji": "akai"
       }
     ],
     "radical": {
@@ -401,5 +449,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d05.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d05.gif",
     "uri": "https://jisho.org/search/%E7%B4%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "công",
+    "hồng"
+  ]
 }

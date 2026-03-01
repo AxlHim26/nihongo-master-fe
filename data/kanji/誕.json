@@ -259,22 +259,34 @@
       {
         "example": "誕生",
         "reading": "タンジョウ",
-        "meaning": "birth, creation, formation"
+        "meaning": {
+          "en": "birth, creation, formation"
+        },
+        "romaji": "tanjou"
       },
       {
         "example": "誕生日",
         "reading": "タンジョウビ",
-        "meaning": "birthday"
+        "meaning": {
+          "en": "birthday"
+        },
+        "romaji": "tanjoubi"
       },
       {
         "example": "生誕",
         "reading": "セイタン",
-        "meaning": "birth (esp. of a famous person), nativity"
+        "meaning": {
+          "vi": "birth (esp. of a famous person), nativity"
+        },
+        "romaji": "seitan"
       },
       {
         "example": "再誕",
         "reading": "サイタン",
-        "meaning": "resurrection (of a company or school, etc.)"
+        "meaning": {
+          "vi": "resurrection (of a company or school, etc.)"
+        },
+        "romaji": "saitan"
       }
     ],
     "kunyomiExamples": [],
@@ -295,5 +307,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a95.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a95.gif",
     "uri": "https://jisho.org/search/%E8%AA%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "đản"
+  ]
 }

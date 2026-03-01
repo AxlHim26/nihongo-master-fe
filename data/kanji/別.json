@@ -380,34 +380,52 @@
       {
         "example": "別",
         "reading": "ベツ",
-        "meaning": "distinction, difference, discrimination, separate, different, another, extra, exception, exclusion, classified by, ranked by, according to"
+        "meaning": {
+          "vi": "distinction, difference, discrimination, separate, different, another, extra, exception, exclusion, classified by, ranked by, according to"
+        },
+        "romaji": "betsu"
       },
       {
         "example": "別院",
         "reading": "ベツイン",
-        "meaning": "branch temple"
+        "meaning": {
+          "vi": "branch temple"
+        },
+        "romaji": "betsuin"
       },
       {
         "example": "無差別",
         "reading": "ムサベツ",
-        "meaning": "indiscrimination, without discrimination, indiscriminate"
+        "meaning": {
+          "en": "indiscrimination, without discrimination, indiscriminate"
+        },
+        "romaji": "musabetsu"
       },
       {
         "example": "告別",
         "reading": "コクベツ",
-        "meaning": "farewell, leave-taking"
+        "meaning": {
+          "en": "farewell, leave-taking"
+        },
+        "romaji": "kokubetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "別れる",
         "reading": "わかれる",
-        "meaning": "to part (usu. of people), to part from, to part with, to be apart from, to separate (of a couple), to break up, to divorce, to lose (e.g. one's mother), to be bereaved"
+        "meaning": {
+          "vi": "to part (usu. of people), to part from, to part with, to be apart from, to separate (of a couple), to break up, to divorce, to lose (e.g. one's mother), to be bereaved"
+        },
+        "romaji": "wakareru"
       },
       {
         "example": "分ける",
         "reading": "わける",
-        "meaning": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        "meaning": {
+          "vi": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+        },
+        "romaji": "wakeru"
       }
     ],
     "radical": {
@@ -427,5 +445,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05225.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5225.gif",
     "uri": "https://jisho.org/search/%E5%88%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "biệt"
+  ]
 }

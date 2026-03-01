@@ -17,17 +17,26 @@
       {
         "example": "懺悔",
         "reading": "サンゲ",
-        "meaning": "repentance, confession, penitence"
+        "meaning": {
+          "vi": "repentance, confession, penitence"
+        },
+        "romaji": "sange"
       },
       {
         "example": "懺悔室",
         "reading": "ザンゲシツ",
-        "meaning": "(a) confessional"
+        "meaning": {
+          "en": "(a) confessional"
+        },
+        "romaji": "zangeshitsu"
       },
       {
         "example": "懺悔",
         "reading": "サンゲ",
-        "meaning": "repentance, confession, penitence"
+        "meaning": {
+          "vi": "repentance, confession, penitence"
+        },
+        "romaji": "sange"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61fa.gif",
     "uri": "https://jisho.org/search/%E6%87%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "sám"
+  ]
 }

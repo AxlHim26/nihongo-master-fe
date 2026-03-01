@@ -17,12 +17,18 @@
       {
         "example": "妥結",
         "reading": "ダケツ",
-        "meaning": "settlement, an agreement"
+        "meaning": {
+          "en": "settlement, an agreement"
+        },
+        "romaji": "daketsu"
       },
       {
         "example": "妥協",
         "reading": "ダキョウ",
-        "meaning": "compromise, giving in"
+        "meaning": {
+          "vi": "compromise, giving in"
+        },
+        "romaji": "dakyou"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a5.gif",
     "uri": "https://jisho.org/search/%E5%A6%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "thoả"
+  ]
 }

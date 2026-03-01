@@ -17,22 +17,34 @@
       {
         "example": "呈色",
         "reading": "テイショク",
-        "meaning": "coloration, colouration, color, colour, coloring, colouring"
+        "meaning": {
+          "en": "coloration, colouration, color, colour, coloring, colouring"
+        },
+        "romaji": "teishoku"
       },
       {
         "example": "呈出",
         "reading": "テイシュツ",
-        "meaning": "present, introduce"
+        "meaning": {
+          "vi": "present, introduce"
+        },
+        "romaji": "teishutsu"
       },
       {
         "example": "進呈",
         "reading": "シンテイ",
-        "meaning": "presentation (e.g. of a gift)"
+        "meaning": {
+          "vi": "presentation (e.g. of a gift)"
+        },
+        "romaji": "shintei"
       },
       {
         "example": "露呈",
         "reading": "ロテイ",
-        "meaning": "exposure, disclosure"
+        "meaning": {
+          "vi": "exposure, disclosure"
+        },
+        "romaji": "rotei"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05448.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5448.gif",
     "uri": "https://jisho.org/search/%E5%91%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "trình"
+  ]
 }

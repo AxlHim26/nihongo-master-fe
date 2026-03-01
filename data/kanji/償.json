@@ -19,29 +19,44 @@
       {
         "example": "償却",
         "reading": "ショウキャク",
-        "meaning": "repayment, redemption, depreciation, amortization, amortisation"
+        "meaning": {
+          "vi": "repayment, redemption, depreciation, amortization, amortisation"
+        },
+        "romaji": "shoukyaku"
       },
       {
         "example": "償還",
         "reading": "ショウカン",
-        "meaning": "repayment, redemption, amortization, amortisation"
+        "meaning": {
+          "vi": "repayment, redemption, amortization, amortisation"
+        },
+        "romaji": "shoukan"
       },
       {
         "example": "無償",
         "reading": "ムショウ",
-        "meaning": "without compensation, without reward, without pay, free (of charge)"
+        "meaning": {
+          "vi": "without compensation, without reward, without pay, free (of charge)"
+        },
+        "romaji": "mushou"
       },
       {
         "example": "有償",
         "reading": "ユウショウ",
-        "meaning": "(involving) payment, (involving) compensation, paying a fee"
+        "meaning": {
+          "vi": "(involving) payment, (involving) compensation, paying a fee"
+        },
+        "romaji": "yuushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "償う",
         "reading": "つぐなう",
-        "meaning": "to make up for, to compensate for, to indemnify, to recompense, to redeem (e.g. a fault), to atone for"
+        "meaning": {
+          "vi": "to make up for, to compensate for, to indemnify, to recompense, to redeem (e.g. a fault), to atone for"
+        },
+        "romaji": "tsugunau"
       }
     ],
     "radical": {
@@ -64,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0511f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/511f.gif",
     "uri": "https://jisho.org/search/%E5%84%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "thường"
+  ]
 }

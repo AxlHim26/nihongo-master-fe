@@ -20,29 +20,44 @@
       {
         "example": "順化",
         "reading": "ジュンカ",
-        "meaning": "acclimatization, naturalization, acclimation"
+        "meaning": {
+          "en": "acclimatization, naturalization, acclimation"
+        },
+        "romaji": "junka"
       },
       {
         "example": "馴致",
         "reading": "ジュンチ",
-        "meaning": "taming, gradual habituation, leading to"
+        "meaning": {
+          "en": "taming, gradual habituation, leading to"
+        },
+        "romaji": "junchi"
       },
       {
         "example": "雅馴",
         "reading": "ガジュン",
-        "meaning": "refined (prose, etc.)"
+        "meaning": {
+          "vi": "refined (prose, etc.)"
+        },
+        "romaji": "gajun"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慣れる",
         "reading": "なれる",
-        "meaning": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"
+        "meaning": {
+          "vi": "to get used to, to grow accustomed to, to become familiar with, to become skilled in, to become experienced at, to become tame, to become domesticated, to get used to doing"
+        },
+        "romaji": "nareru"
       },
       {
         "example": "慣らす",
         "reading": "ならす",
-        "meaning": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"
+        "meaning": {
+          "en": "to accustom, to train (e.g. one's ear), to tame, to domesticate, to train (an animal)"
+        },
+        "romaji": "narasu"
       }
     ],
     "radical": {
@@ -58,5 +73,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099b4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99b4.gif",
     "uri": "https://jisho.org/search/%E9%A6%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "huấn",
+    "tuần"
+  ]
 }

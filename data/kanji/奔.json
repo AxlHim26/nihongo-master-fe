@@ -19,24 +19,36 @@
       {
         "example": "奔放",
         "reading": "ホンポウ",
-        "meaning": "wild, uninhibited, extravagant, rampant"
+        "meaning": {
+          "vi": "wild, uninhibited, extravagant, rampant"
+        },
+        "romaji": "honpou"
       },
       {
         "example": "奔走",
         "reading": "ホンソウ",
-        "meaning": "running about, making every effort (to do), busying oneself (with), being busily engaged (in), good offices, efforts"
+        "meaning": {
+          "en": "running about, making every effort (to do), busying oneself (with), being busily engaged (in), good offices, efforts"
+        },
+        "romaji": "honsou"
       },
       {
         "example": "狂奔",
         "reading": "キョウホン",
-        "meaning": "rushing around, running wild"
+        "meaning": {
+          "en": "rushing around, running wild"
+        },
+        "romaji": "kyouhon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "走る",
         "reading": "はしる",
-        "meaning": "to run, to run (of a vehicle), to drive, to travel, to move, to sail, to rush (to), to dash, to race, to retreat, to flee, to defect (to), to run away, to abscond, to elope, to flash (of lightning), to streak, to shoot (through; e.g. of pain), to run (through), to flare, to flit (e.g. across one's face), to spread quickly (of news, shock, etc.), to go (e.g. bad, to extremes), to become, to turn, to take to (e.g. crime), to get carried away by (e.g. one's emotions), to get involved in, to get wrapped up in, to run (through; of a road, street, etc.), to extend (e.g. of a mountain range), to stretch, to lie"
+        "meaning": {
+          "vi": "to run, to run (of a vehicle), to drive, to travel, to move, to sail, to rush (to), to dash, to race, to retreat, to flee, to defect (to), to run away, to abscond, to elope, to flash (of lightning), to streak, to shoot (through; e.g. of pain), to run (through), to flare, to flit (e.g. across one's face), to spread quickly (of news, shock, etc.), to go (e.g. bad, to extremes), to become, to turn, to take to (e.g. crime), to get carried away by (e.g. one's emotions), to get involved in, to get wrapped up in, to run (through; of a road, street, etc.), to extend (e.g. of a mountain range), to stretch, to lie"
+        },
+        "romaji": "hashiru"
       }
     ],
     "radical": {
@@ -54,5 +66,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05954.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5954.gif",
     "uri": "https://jisho.org/search/%E5%A5%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "bôn",
+    "phẫn"
+  ]
 }

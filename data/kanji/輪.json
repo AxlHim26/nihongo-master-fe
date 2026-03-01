@@ -300,44 +300,68 @@
       {
         "example": "輪",
         "reading": "リン",
-        "meaning": "counter for wheels and flowers"
+        "meaning": {
+          "en": "counter for wheels and flowers"
+        },
+        "romaji": "rin"
       },
       {
         "example": "輪郭",
         "reading": "リンカク",
-        "meaning": "contour, outline, silhouette, summary, outline, sketch, looks, features"
+        "meaning": {
+          "en": "contour, outline, silhouette, summary, outline, sketch, looks, features"
+        },
+        "romaji": "rinkaku"
       },
       {
         "example": "三輪",
         "reading": "サンリン",
-        "meaning": "three wheels"
+        "meaning": {
+          "en": "three wheels"
+        },
+        "romaji": "sanrin"
       },
       {
         "example": "競輪",
         "reading": "ケイリン",
-        "meaning": "keirin, cycle racing event, usu. 2 km with a paced start and sprint finish"
+        "meaning": {
+          "vi": "keirin, cycle racing event, usu. 2 km with a paced start and sprint finish"
+        },
+        "romaji": "keirin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輪",
         "reading": "わ",
-        "meaning": "ring, circle, loop, hoop, wheel, circle (e.g. of friends), planetary ring"
+        "meaning": {
+          "vi": "ring, circle, loop, hoop, wheel, circle (e.g. of friends), planetary ring"
+        },
+        "romaji": "wa"
       },
       {
         "example": "輪切り",
         "reading": "わぎり",
-        "meaning": "cutting in round slices, round slice, dividing into groups (e.g. by ability)"
+        "meaning": {
+          "vi": "cutting in round slices, round slice, dividing into groups (e.g. by ability)"
+        },
+        "romaji": "wagiri"
       },
       {
         "example": "埴輪",
         "reading": "はにわ",
-        "meaning": "haniwa, hollow unglazed terracotta figure from the Kofun period"
+        "meaning": {
+          "vi": "haniwa, hollow unglazed terracotta figure from the Kofun period"
+        },
+        "romaji": "haniwa"
       },
       {
         "example": "後輪",
         "reading": "こうりん",
-        "meaning": "rear wheel, cantle"
+        "meaning": {
+          "en": "rear wheel, cantle"
+        },
+        "romaji": "kourin"
       }
     ],
     "radical": {
@@ -356,5 +380,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f2a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f2a.gif",
     "uri": "https://jisho.org/search/%E8%BC%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "luân"
+  ]
 }

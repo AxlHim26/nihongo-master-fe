@@ -23,39 +23,60 @@
       {
         "example": "凝縮",
         "reading": "ギョウシュク",
-        "meaning": "condensation (of ideas, emotions, etc.), condensation (of a vapour or gas)"
+        "meaning": {
+          "vi": "condensation (of ideas, emotions, etc.), condensation (of a vapour or gas)"
+        },
+        "romaji": "gyoushuku"
       },
       {
         "example": "凝固",
         "reading": "ギョウコ",
-        "meaning": "coagulation, freezing, solidification"
+        "meaning": {
+          "en": "coagulation, freezing, solidification"
+        },
+        "romaji": "gyouko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "凝る",
         "reading": "こる",
-        "meaning": "to become stiff (of muscles), to get absorbed in, to develop a passion for, to devote oneself to, to become obsessed with, to get hooked on, to be elaborate, to be intricate, to be exquisite, to be particular about, to pay great attention to"
+        "meaning": {
+          "vi": "to become stiff (of muscles), to get absorbed in, to develop a passion for, to devote oneself to, to become obsessed with, to get hooked on, to be elaborate, to be intricate, to be exquisite, to be particular about, to pay great attention to"
+        },
+        "romaji": "koru"
       },
       {
         "example": "凝らす",
         "reading": "こらす",
-        "meaning": "to concentrate, to focus on, to devote, to apply oneself, to stiffen, to become tense"
+        "meaning": {
+          "vi": "to concentrate, to focus on, to devote, to apply oneself, to stiffen, to become tense"
+        },
+        "romaji": "korasu"
       },
       {
         "example": "凝らす",
         "reading": "こごらす",
-        "meaning": "to freeze, to congeal, to concentrate one's attention on, to devote oneself to something, to ponder, to meditate"
+        "meaning": {
+          "vi": "to freeze, to congeal, to concentrate one's attention on, to devote oneself to something, to ponder, to meditate"
+        },
+        "romaji": "kogorasu"
       },
       {
         "example": "凝らせる",
         "reading": "こごらせる",
-        "meaning": "to freeze, to congeal"
+        "meaning": {
+          "en": "to freeze, to congeal"
+        },
+        "romaji": "kogoraseru"
       },
       {
         "example": "凝る",
         "reading": "こごる",
-        "meaning": "to congeal, to gelatinize, to jellify, to jell, to gell, to freeze"
+        "meaning": {
+          "en": "to congeal, to gelatinize, to jellify, to jell, to gell, to freeze"
+        },
+        "romaji": "kogoru"
       }
     ],
     "radical": {
@@ -74,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51dd.gif",
     "uri": "https://jisho.org/search/%E5%87%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngưng"
+  ]
 }

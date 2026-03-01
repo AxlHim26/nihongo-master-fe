@@ -16,12 +16,18 @@
       {
         "example": "昇進",
         "reading": "ショウシン",
-        "meaning": "promotion, advancement, rising in rank"
+        "meaning": {
+          "vi": "promotion, advancement, rising in rank"
+        },
+        "romaji": "shoushin"
       },
       {
         "example": "昇任",
         "reading": "ショウニン",
-        "meaning": "promotion, advancement"
+        "meaning": {
+          "vi": "promotion, advancement"
+        },
+        "romaji": "shounin"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965e.gif",
     "uri": "https://jisho.org/search/%E9%99%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thăng"
+  ]
 }

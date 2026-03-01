@@ -20,39 +20,60 @@
       {
         "example": "漫画家",
         "reading": "マンガカ",
-        "meaning": "cartoonist, comic book artist, manga artist, manga author, mangaka"
+        "meaning": {
+          "en": "cartoonist, comic book artist, manga artist, manga author, mangaka"
+        },
+        "romaji": "mangaka"
       },
       {
         "example": "漫画",
         "reading": "マンガ",
-        "meaning": "cartoon, comic, comic strip, manga"
+        "meaning": {
+          "vi": "cartoon, comic, comic strip, manga"
+        },
+        "romaji": "manga"
       },
       {
         "example": "海漫",
         "reading": "カイマン",
-        "meaning": "ocean, large sea"
+        "meaning": {
+          "en": "ocean, large sea"
+        },
+        "romaji": "kaiman"
       },
       {
         "example": "浪漫",
         "reading": "ロウマン",
-        "meaning": "romance (e.g. Arthurian romances), heroic tale, (nigh) impossible dream, adventurous spirit, great undertaking, epic adventure, (full-length) novel, romance, love affair, romanticism"
+        "meaning": {
+          "vi": "romance (e.g. Arthurian romances), heroic tale, (nigh) impossible dream, adventurous spirit, great undertaking, epic adventure, (full-length) novel, romance, love affair, romanticism"
+        },
+        "romaji": "rouman"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妄りに",
         "reading": "みだりに",
-        "meaning": "without authority, without reason, unnecessarily, recklessly, indiscriminately, arbitrarily"
+        "meaning": {
+          "en": "without authority, without reason, unnecessarily, recklessly, indiscriminately, arbitrarily"
+        },
+        "romaji": "midarini"
       },
       {
         "example": "漫ろ",
         "reading": "そぞろ",
-        "meaning": "restless, on edge (and unable to concentrate), distracted, for some reason"
+        "meaning": {
+          "en": "restless, on edge (and unable to concentrate), distracted, for some reason"
+        },
+        "romaji": "sozoro"
       },
       {
         "example": "そぞろ歩き",
         "reading": "そぞろあるき",
-        "meaning": "slow, relaxed walk, stroll"
+        "meaning": {
+          "en": "slow, relaxed walk, stroll"
+        },
+        "romaji": "sozoroaruki"
       }
     ],
     "radical": {
@@ -73,5 +94,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f2b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f2b.gif",
     "uri": "https://jisho.org/search/%E6%BC%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "man",
+    "mạn"
+  ]
 }

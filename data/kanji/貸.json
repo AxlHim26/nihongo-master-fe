@@ -308,29 +308,44 @@
       {
         "example": "貸与",
         "reading": "タイヨ",
-        "meaning": "loan, lending"
+        "meaning": {
+          "en": "loan, lending"
+        },
+        "romaji": "taiyo"
       },
       {
         "example": "貸借",
         "reading": "タイシャク",
-        "meaning": "loan, debit and credit, lending and borrowing"
+        "meaning": {
+          "en": "loan, debit and credit, lending and borrowing"
+        },
+        "romaji": "taishaku"
       },
       {
         "example": "転貸",
         "reading": "テンタイ",
-        "meaning": "sublease, sublet"
+        "meaning": {
+          "en": "sublease, sublet"
+        },
+        "romaji": "tentai"
       },
       {
         "example": "借貸",
         "reading": "シャクタイ",
-        "meaning": "loan, lending and borrowing"
+        "meaning": {
+          "en": "loan, lending and borrowing"
+        },
+        "romaji": "shakutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貸す",
         "reading": "かす",
-        "meaning": "to lend, to loan, to rent out, to hire out, to hand (over), to give"
+        "meaning": {
+          "en": "to lend, to loan, to rent out, to hire out, to hand (over), to give"
+        },
+        "romaji": "kasu"
       }
     ],
     "radical": {
@@ -348,5 +363,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb8.gif",
     "uri": "https://jisho.org/search/%E8%B2%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thải",
+    "thắc"
+  ]
 }

@@ -14,22 +14,34 @@
       {
         "example": "腔",
         "reading": "コウ",
-        "meaning": "cavity"
+        "meaning": {
+          "en": "cavity"
+        },
+        "romaji": "kou"
       },
       {
         "example": "腔線",
         "reading": "コウセン",
-        "meaning": "gun rifling"
+        "meaning": {
+          "en": "gun rifling"
+        },
+        "romaji": "kousen"
       },
       {
         "example": "腹腔",
         "reading": "フククウ",
-        "meaning": "abdominal cavity"
+        "meaning": {
+          "en": "abdominal cavity"
+        },
+        "romaji": "fukukuu"
       },
       {
         "example": "口腔",
         "reading": "コウコウ",
-        "meaning": "oral cavity, mouth"
+        "meaning": {
+          "en": "oral cavity, mouth"
+        },
+        "romaji": "koukou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08154.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8154.gif",
     "uri": "https://jisho.org/search/%E8%85%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "khang",
+    "khoang",
+    "soang",
+    "xoang"
+  ]
 }

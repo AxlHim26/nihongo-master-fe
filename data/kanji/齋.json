@@ -18,7 +18,10 @@
       {
         "example": "羅漢斎",
         "reading": "ラカンサイ",
-        "meaning": "món chay La Hán (rau củ)"
+        "meaning": {
+          "vi": "món chay La Hán (rau củ)"
+        },
+        "romaji": "rakansai"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f4b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f4b.gif",
     "uri": "https://jisho.org/search/%E9%BD%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "trai"
+  ]
 }

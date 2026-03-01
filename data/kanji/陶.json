@@ -19,34 +19,52 @@
       {
         "example": "陶芸",
         "reading": "トウゲイ",
-        "meaning": "ceramic art, ceramics"
+        "meaning": {
+          "en": "ceramic art, ceramics"
+        },
+        "romaji": "tougei"
       },
       {
         "example": "陶器",
         "reading": "トウキ",
-        "meaning": "pottery, earthenware, ceramics, (soft-paste) porcelain, china"
+        "meaning": {
+          "vi": "pottery, earthenware, ceramics, (soft-paste) porcelain, china"
+        },
+        "romaji": "touki"
       },
       {
         "example": "製陶",
         "reading": "セイトウ",
-        "meaning": "porcelain manufacturing"
+        "meaning": {
+          "vi": "porcelain manufacturing"
+        },
+        "romaji": "seitou"
       },
       {
         "example": "作陶",
         "reading": "サクトウ",
-        "meaning": "porcelain making, ceramics making, pottery making"
+        "meaning": {
+          "vi": "porcelain making, ceramics making, pottery making"
+        },
+        "romaji": "sakutou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陶",
         "reading": "すえ",
-        "meaning": "pottery, earthenware, ceramics, porcelain"
+        "meaning": {
+          "vi": "pottery, earthenware, ceramics, porcelain"
+        },
+        "romaji": "sue"
       },
       {
         "example": "須恵器",
         "reading": "すえき",
-        "meaning": "Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)"
+        "meaning": {
+          "vi": "Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)"
+        },
+        "romaji": "sueki"
       }
     ],
     "radical": {
@@ -65,5 +83,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09676.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9676.gif",
     "uri": "https://jisho.org/search/%E9%99%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao",
+    "giao",
+    "đào"
+  ]
 }

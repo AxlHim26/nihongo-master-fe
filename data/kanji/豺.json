@@ -16,14 +16,20 @@
       {
         "example": "豺狼",
         "reading": "サイロウ",
-        "meaning": "wolf, rapacious person, merciless and greedy person"
+        "meaning": {
+          "vi": "wolf, rapacious person, merciless and greedy person"
+        },
+        "romaji": "sairou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "山犬",
         "reading": "やまいぬ",
-        "meaning": "Japanese wolf (Canis lupus hodophilax, extinct), wild dog"
+        "meaning": {
+          "vi": "Japanese wolf (Canis lupus hodophilax, extinct), wild dog"
+        },
+        "romaji": "yamainu"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c7a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c7a.gif",
     "uri": "https://jisho.org/search/%E8%B1%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "sài"
+  ]
 }

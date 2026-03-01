@@ -313,39 +313,60 @@
       {
         "example": "驚異",
         "reading": "キョウイ",
-        "meaning": "wonder, miracle, amazement, prodigy"
+        "meaning": {
+          "vi": "wonder, miracle, amazement, prodigy"
+        },
+        "romaji": "kyoui"
       },
       {
         "example": "驚愕",
         "reading": "キョウガク",
-        "meaning": "astonishment, amazement, surprise, fright, shock"
+        "meaning": {
+          "vi": "astonishment, amazement, surprise, fright, shock"
+        },
+        "romaji": "kyougaku"
       },
       {
         "example": "一驚",
         "reading": "イッキョウ",
-        "meaning": "surprise, amazement"
+        "meaning": {
+          "vi": "surprise, amazement"
+        },
+        "romaji": "ikkyou"
       },
       {
         "example": "吃驚",
         "reading": "キッキョウ",
-        "meaning": "surprise"
+        "meaning": {
+          "vi": "surprise"
+        },
+        "romaji": "kikkyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "驚く",
         "reading": "おどろく",
-        "meaning": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed"
+        "meaning": {
+          "vi": "to be surprised, to be taken aback, to be amazed, to be astonished, to be shocked, to be frightened, to be startled, to be alarmed"
+        },
+        "romaji": "odoroku"
       },
       {
         "example": "驚くほど",
         "reading": "おどろくほど",
-        "meaning": "to a surprising degree, to a remarkable extent, surprisingly, astonishingly, amazingly, alarmingly"
+        "meaning": {
+          "vi": "to a surprising degree, to a remarkable extent, surprisingly, astonishingly, amazingly, alarmingly"
+        },
+        "romaji": "odorokuhodo"
       },
       {
         "example": "驚かす",
         "reading": "おどろかす",
-        "meaning": "to surprise, to frighten, to create a stir"
+        "meaning": {
+          "vi": "to surprise, to frighten, to create a stir"
+        },
+        "romaji": "odorokasu"
       }
     ],
     "radical": {
@@ -366,5 +387,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5a.gif",
     "uri": "https://jisho.org/search/%E9%A9%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "kinh"
+  ]
 }

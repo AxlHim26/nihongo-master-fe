@@ -323,44 +323,68 @@
       {
         "example": "骨",
         "reading": "コツ",
-        "meaning": "knack, skill, trick, secret, know-how, the ropes, hang, bone, skeleton, cremated remains (esp. the bones), ashes"
+        "meaning": {
+          "vi": "knack, skill, trick, secret, know-how, the ropes, hang, bone, skeleton, cremated remains (esp. the bones), ashes"
+        },
+        "romaji": "kotsu"
       },
       {
         "example": "骨髄",
         "reading": "コツズイ",
-        "meaning": "bone marrow, medulla, heart's core, depths of one's heart, main point, vital part"
+        "meaning": {
+          "vi": "bone marrow, medulla, heart's core, depths of one's heart, main point, vital part"
+        },
+        "romaji": "kotsuzui"
       },
       {
         "example": "白骨",
         "reading": "ハッコツ",
-        "meaning": "white (bleached) bone, skeleton"
+        "meaning": {
+          "en": "white (bleached) bone, skeleton"
+        },
+        "romaji": "hakkotsu"
       },
       {
         "example": "鉄骨",
         "reading": "テッコツ",
-        "meaning": "steel frame, steel beam, steel girder"
+        "meaning": {
+          "en": "steel frame, steel beam, steel girder"
+        },
+        "romaji": "tekkotsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "骨",
         "reading": "ほね",
-        "meaning": "bone, frame, outline, core, backbone, spirit, fortitude, laborious, troublesome, difficult"
+        "meaning": {
+          "vi": "bone, frame, outline, core, backbone, spirit, fortitude, laborious, troublesome, difficult"
+        },
+        "romaji": "hone"
       },
       {
         "example": "骨抜き",
         "reading": "ほねぬき",
-        "meaning": "boning (fish or meat), deboning, watering down (a plan, bill, etc.), dilution, emasculation, taking the backbone out of, weakening"
+        "meaning": {
+          "vi": "boning (fish or meat), deboning, watering down (a plan, bill, etc.), dilution, emasculation, taking the backbone out of, weakening"
+        },
+        "romaji": "honenuki"
       },
       {
         "example": "河骨",
         "reading": "こうほね",
-        "meaning": "Japanese spatterdock (species of water lily, Nuphar japonica)"
+        "meaning": {
+          "vi": "Japanese spatterdock (species of water lily, Nuphar japonica)"
+        },
+        "romaji": "kouhone"
       },
       {
         "example": "お骨",
         "reading": "おこつ",
-        "meaning": "cremated remains (esp. the bones), ashes"
+        "meaning": {
+          "vi": "cremated remains (esp. the bones), ashes"
+        },
+        "romaji": "okotsu"
       }
     ],
     "radical": {
@@ -377,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aa8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aa8.gif",
     "uri": "https://jisho.org/search/%E9%AA%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "cốt"
+  ]
 }

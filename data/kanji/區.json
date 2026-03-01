@@ -16,12 +16,18 @@
       {
         "example": "区",
         "reading": "ク",
-        "meaning": "ward, borough, city (in Tokyo), district (e.g. electoral), section, zone (e.g. postal)"
+        "meaning": {
+          "vi": "ward, borough, city (in Tokyo), district (e.g. electoral), section, zone (e.g. postal)"
+        },
+        "romaji": "ku"
       },
       {
         "example": "区画",
         "reading": "クカク",
-        "meaning": "division, section, compartment, block, plot, lot, partition, boundary"
+        "meaning": {
+          "vi": "division, section, compartment, block, plot, lot, partition, boundary"
+        },
+        "romaji": "kukaku"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05340.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5340.gif",
     "uri": "https://jisho.org/search/%E5%8D%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "khu",
+    "âu"
+  ]
 }

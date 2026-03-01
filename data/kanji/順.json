@@ -335,22 +335,34 @@
       {
         "example": "順",
         "reading": "ジュン",
-        "meaning": "order, turn, sorting, obedient, docile, submissive, meek"
+        "meaning": {
+          "en": "order, turn, sorting, obedient, docile, submissive, meek"
+        },
+        "romaji": "jun"
       },
       {
         "example": "順位",
         "reading": "ジュンイ",
-        "meaning": "order, rank, position (e.g. in a race), precedence"
+        "meaning": {
+          "vi": "order, rank, position (e.g. in a race), precedence"
+        },
+        "romaji": "jun'i"
       },
       {
         "example": "打順",
         "reading": "ダジュン",
-        "meaning": "batting order, batting line-up"
+        "meaning": {
+          "vi": "batting order, batting line-up"
+        },
+        "romaji": "dajun"
       },
       {
         "example": "筆順",
         "reading": "ヒツジュン",
-        "meaning": "stroke order (esp. of a Chinese character)"
+        "meaning": {
+          "vi": "stroke order (esp. of a Chinese character)"
+        },
+        "romaji": "hitsujun"
       }
     ],
     "kunyomiExamples": [],
@@ -369,5 +381,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09806.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9806.gif",
     "uri": "https://jisho.org/search/%E9%A0%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuận"
+  ]
 }

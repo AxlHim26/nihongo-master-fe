@@ -20,12 +20,18 @@
       {
         "example": "脩竹",
         "reading": "シュウチク",
-        "meaning": "tall bamboo"
+        "meaning": {
+          "en": "tall bamboo"
+        },
+        "romaji": "shuuchiku"
       },
       {
         "example": "束脩",
         "reading": "ソクシュウ",
-        "meaning": "entrance fee, initiation fee, registration fee, present to a teacher, gift of dried meat from a new vassal or pupil"
+        "meaning": {
+          "vi": "entrance fee, initiation fee, registration fee, present to a teacher, gift of dried meat from a new vassal or pupil"
+        },
+        "romaji": "sokushuu"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08129.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8129.gif",
     "uri": "https://jisho.org/search/%E8%84%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "tu"
+  ]
 }

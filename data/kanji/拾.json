@@ -248,29 +248,44 @@
       {
         "example": "収集",
         "reading": "シュウシュウ",
-        "meaning": "collecting, accumulating, gathering, collection (of art, stamps, insects, etc.), garbage collection, waste collection"
+        "meaning": {
+          "vi": "collecting, accumulating, gathering, collection (of art, stamps, insects, etc.), garbage collection, waste collection"
+        },
+        "romaji": "shuushuu"
       },
       {
         "example": "拾得",
         "reading": "シュウトク",
-        "meaning": "finding (lost property), picking up"
+        "meaning": {
+          "vi": "finding (lost property), picking up"
+        },
+        "romaji": "shuutoku"
       },
       {
         "example": "十",
         "reading": "ジュウ",
-        "meaning": "ten, 10, ten years of age, book containing a collection of poems"
+        "meaning": {
+          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+        },
+        "romaji": "juu"
       },
       {
         "example": "十一",
         "reading": "ジュウイチ",
-        "meaning": "eleven, 11, jack"
+        "meaning": {
+          "en": "eleven, 11, jack"
+        },
+        "romaji": "juuichi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "拾う",
         "reading": "ひろう",
-        "meaning": "to pick up, to gather, to find (and pick up; something someone has dropped), to select, to choose, to pick out, to get (unexpectedly), to hit upon (luck, an opportunity, etc.), to snatch (an unexpected victory), to pull off, to pick up (someone; in a car, etc.), to flag down (a taxi), to hail, to pick up (a signal, sound, interference, etc.), to (just manage to) return (the ball), to return (a difficult shot), to take on (someone in adverse circumstances), to employ, to give a job, to take in, to walk, to go on foot"
+        "meaning": {
+          "vi": "to pick up, to gather, to find (and pick up; something someone has dropped), to select, to choose, to pick out, to get (unexpectedly), to hit upon (luck, an opportunity, etc.), to snatch (an unexpected victory), to pull off, to pick up (someone; in a car, etc.), to flag down (a taxi), to hail, to pick up (a signal, sound, interference, etc.), to (just manage to) return (the ball), to return (a difficult shot), to take on (someone in adverse circumstances), to employ, to give a job, to take in, to walk, to go on foot"
+        },
+        "romaji": "hirou"
       }
     ],
     "radical": {
@@ -290,5 +305,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062fe.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62fe.gif",
     "uri": "https://jisho.org/search/%E6%8B%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiệp",
+    "thiệp",
+    "thập"
+  ]
 }

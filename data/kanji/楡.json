@@ -17,17 +17,26 @@
       {
         "example": "楡",
         "reading": "にれ",
-        "meaning": "elm tree (esp. the Japanese elm, Ulmus davidiana var. japonica)"
+        "meaning": {
+          "vi": "elm tree (esp. the Japanese elm, Ulmus davidiana var. japonica)"
+        },
+        "romaji": "nire"
       },
       {
         "example": "秋楡",
         "reading": "あきにれ",
-        "meaning": "Chinese elm (Ulmus parvifolia)"
+        "meaning": {
+          "vi": "Chinese elm (Ulmus parvifolia)"
+        },
+        "romaji": "akinire"
       },
       {
         "example": "山楡",
         "reading": "やまにれ",
-        "meaning": "Chinese elm (Ulmus parvifolia)"
+        "meaning": {
+          "vi": "Chinese elm (Ulmus parvifolia)"
+        },
+        "romaji": "yamanire"
       }
     ],
     "radical": {
@@ -45,5 +54,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06961.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6961.gif",
     "uri": "https://jisho.org/search/%E6%A5%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "du"
+  ]
 }

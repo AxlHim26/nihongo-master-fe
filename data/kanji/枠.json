@@ -18,22 +18,34 @@
       {
         "example": "枠",
         "reading": "わく",
-        "meaning": "frame, framework, border, box, limit, restriction, quota, category, bracket, class, time slot (in a broadcasting schedule), stream, livestream, live stream, live (online) broadcast, spool (of thread), reel"
+        "meaning": {
+          "vi": "frame, framework, border, box, limit, restriction, quota, category, bracket, class, time slot (in a broadcasting schedule), stream, livestream, live stream, live (online) broadcast, spool (of thread), reel"
+        },
+        "romaji": "waku"
       },
       {
         "example": "枠外",
         "reading": "わくがい",
-        "meaning": "(beyond the) limits, scope, boundary"
+        "meaning": {
+          "vi": "(beyond the) limits, scope, boundary"
+        },
+        "romaji": "wakugai"
       },
       {
         "example": "型枠",
         "reading": "かたわく",
-        "meaning": "formwork, shuttering, mold, mould, form"
+        "meaning": {
+          "en": "formwork, shuttering, mold, mould, form"
+        },
+        "romaji": "katawaku"
       },
       {
         "example": "鋼枠",
         "reading": "こうわく",
-        "meaning": "steel formwork, steel sets"
+        "meaning": {
+          "en": "steel formwork, steel sets"
+        },
+        "romaji": "kouwaku"
       }
     ],
     "radical": {
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a0.gif",
     "uri": "https://jisho.org/search/%E6%9E%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoa"
+  ]
 }

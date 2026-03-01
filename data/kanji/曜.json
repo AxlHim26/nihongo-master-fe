@@ -372,22 +372,34 @@
       {
         "example": "曜日",
         "reading": "ヨウビ",
-        "meaning": "day of the week"
+        "meaning": {
+          "en": "day of the week"
+        },
+        "romaji": "youbi"
       },
       {
         "example": "曜霊",
         "reading": "ヨウレイ",
-        "meaning": "the sun"
+        "meaning": {
+          "en": "the sun"
+        },
+        "romaji": "yourei"
       },
       {
         "example": "晃曜",
         "reading": "コウヨウ",
-        "meaning": "dazzling brightness"
+        "meaning": {
+          "en": "dazzling brightness"
+        },
+        "romaji": "kouyou"
       },
       {
         "example": "宿曜",
         "reading": "スクヨウ",
-        "meaning": "form of astrology based on the Xiuyaojing"
+        "meaning": {
+          "en": "form of astrology based on the Xiuyaojing"
+        },
+        "romaji": "sukuyou"
       }
     ],
     "kunyomiExamples": [],
@@ -404,5 +416,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66dc.gif",
     "uri": "https://jisho.org/search/%E6%9B%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "diệu"
+  ]
 }

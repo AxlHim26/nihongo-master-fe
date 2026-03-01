@@ -17,29 +17,44 @@
       {
         "example": "砕身",
         "reading": "サイシン",
-        "meaning": "working so hard as to ruin one's body, struggling to the point of crushing oneself"
+        "meaning": {
+          "vi": "working so hard as to ruin one's body, struggling to the point of crushing oneself"
+        },
+        "romaji": "saishin"
       },
       {
         "example": "玉砕",
         "reading": "ギョクサイ",
-        "meaning": "honorable death, death without surrender, honorable defeat, trying but being utterly beaten, being completely rejected when professing one's love"
+        "meaning": {
+          "vi": "honorable death, death without surrender, honorable defeat, trying but being utterly beaten, being completely rejected when professing one's love"
+        },
+        "romaji": "gyokusai"
       },
       {
         "example": "破砕",
         "reading": "ハサイ",
-        "meaning": "crushing (into pieces), smashing, cracking, breaking up"
+        "meaning": {
+          "vi": "crushing (into pieces), smashing, cracking, breaking up"
+        },
+        "romaji": "hasai"
       },
       {
         "example": "砕身",
         "reading": "サイシン",
-        "meaning": "working so hard as to ruin one's body, struggling to the point of crushing oneself"
+        "meaning": {
+          "vi": "working so hard as to ruin one's body, struggling to the point of crushing oneself"
+        },
+        "romaji": "saishin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "砕く",
         "reading": "くだく",
-        "meaning": "to break (into pieces), to smash, to crush, to shatter, to grind (into powder), to pound, to shatter (someone's hopes, confidence, etc.), to crush, to frustrate, to simplify, to make easy to understand"
+        "meaning": {
+          "vi": "to break (into pieces), to smash, to crush, to shatter, to grind (into powder), to pound, to shatter (someone's hopes, confidence, etc.), to crush, to frustrate, to simplify, to make easy to understand"
+        },
+        "romaji": "kudaku"
       }
     ],
     "radical": {
@@ -58,5 +73,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06467.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6467.gif",
     "uri": "https://jisho.org/search/%E6%91%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "thôi",
+    "toả",
+    "tuỷ",
+    "tồi"
+  ]
 }

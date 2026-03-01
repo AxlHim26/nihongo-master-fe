@@ -384,99 +384,156 @@
       {
         "example": "形",
         "reading": "ケイ",
-        "meaning": "form, adjective, i-adjective (in Japanese)"
+        "meaning": {
+          "vi": "form, adjective, i-adjective (in Japanese)"
+        },
+        "romaji": "kei"
       },
       {
         "example": "形式",
         "reading": "ケイシキ",
-        "meaning": "form (as opposed to substance), format, form, style, manner, formality, form, mode, form, form (bilinear, quadratic, etc.)"
+        "meaning": {
+          "vi": "form (as opposed to substance), format, form, style, manner, formality, form, mode, form, form (bilinear, quadratic, etc.)"
+        },
+        "romaji": "keishiki"
       },
       {
         "example": "造形",
         "reading": "ゾウケイ",
-        "meaning": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+        "meaning": {
+          "vi": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+        },
+        "romaji": "zoukei"
       },
       {
         "example": "体型",
         "reading": "タイケイ",
-        "meaning": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique"
+        "meaning": {
+          "vi": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique"
+        },
+        "romaji": "taikei"
       },
       {
         "example": "形相",
         "reading": "ギョウソウ",
-        "meaning": "look (esp. an angry or upset look), expression"
+        "meaning": {
+          "vi": "look (esp. an angry or upset look), expression"
+        },
+        "romaji": "gyousou"
       },
       {
         "example": "大仰",
         "reading": "オオギョウ",
-        "meaning": "exaggerated, overblown, overdone"
+        "meaning": {
+          "en": "exaggerated, overblown, overdone"
+        },
+        "romaji": "oogyou"
       },
       {
         "example": "阿形",
         "reading": "アギョウ",
-        "meaning": "open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")"
+        "meaning": {
+          "vi": "open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")"
+        },
+        "romaji": "agyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "形",
         "reading": "かた",
-        "meaning": "shape, form, style, security, collateral, obverse of an old zeni coin"
+        "meaning": {
+          "vi": "shape, form, style, security, collateral, obverse of an old zeni coin"
+        },
+        "romaji": "kata"
       },
       {
         "example": "形",
         "reading": "かたち",
-        "meaning": "form, shape, figure, visage"
+        "meaning": {
+          "vi": "form, shape, figure, visage"
+        },
+        "romaji": "katachi"
       },
       {
         "example": "借金のカタ",
         "reading": "しゃっきんのカタ",
-        "meaning": "security for a loan, collateral"
+        "meaning": {
+          "en": "security for a loan, collateral"
+        },
+        "romaji": "shakkinnokata"
       },
       {
         "example": "館",
         "reading": "やかた",
-        "meaning": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+        "meaning": {
+          "vi": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+        },
+        "romaji": "yakata"
       },
       {
         "example": "形",
         "reading": "かたち",
-        "meaning": "form, shape, figure, visage"
+        "meaning": {
+          "vi": "form, shape, figure, visage"
+        },
+        "romaji": "katachi"
       },
       {
         "example": "形作る",
         "reading": "かたちづくる",
-        "meaning": "to form, to shape, to make, to mold, to mould, to build up"
+        "meaning": {
+          "vi": "to form, to shape, to make, to mold, to mould, to build up"
+        },
+        "romaji": "katachizukuru"
       },
       {
         "example": "顔かたち",
         "reading": "かおかたち",
-        "meaning": "features, looks"
+        "meaning": {
+          "en": "features, looks"
+        },
+        "romaji": "kaokatachi"
       },
       {
         "example": "姿形",
         "reading": "すがたかたち",
-        "meaning": "appearance, figure, shape, form"
+        "meaning": {
+          "vi": "appearance, figure, shape, form"
+        },
+        "romaji": "sugatakatachi"
       },
       {
         "example": "形",
         "reading": "なり",
-        "meaning": "style, way, shape, form, appearance, state"
+        "meaning": {
+          "vi": "style, way, shape, form, appearance, state"
+        },
+        "romaji": "nari"
       },
       {
         "example": "形体",
         "reading": "なりかたち",
-        "meaning": "one's appearance"
+        "meaning": {
+          "vi": "one's appearance"
+        },
+        "romaji": "narikatachi"
       },
       {
         "example": "生成り",
         "reading": "きなり",
-        "meaning": "unbleached cloth, unbleached colour (color), unbleached, undyed"
+        "meaning": {
+          "en": "unbleached cloth, unbleached colour (color), unbleached, undyed"
+        },
+        "romaji": "kinari"
       },
       {
         "example": "鉤状",
         "reading": "かぎなり",
-        "meaning": "hooklike, hook-shaped, unciform"
+        "meaning": {
+          "vi": "hooklike, hook-shaped, unciform"
+        },
+        "romaji": "kaginari"
       }
     ],
     "radical": {
@@ -494,5 +551,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f62.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f62.gif",
     "uri": "https://jisho.org/search/%E5%BD%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "hình"
+  ]
 }

@@ -270,44 +270,68 @@
       {
         "example": "肌骨",
         "reading": "キコツ",
-        "meaning": "skin and bones"
+        "meaning": {
+          "en": "skin and bones"
+        },
+        "romaji": "kikotsu"
       },
       {
         "example": "肌膚",
         "reading": "キフ",
-        "meaning": "skin"
+        "meaning": {
+          "en": "skin"
+        },
+        "romaji": "kifu"
       },
       {
         "example": "雪肌",
         "reading": "ユキハダ",
-        "meaning": "snow's surface, lily-white skin, fair skin"
+        "meaning": {
+          "en": "snow's surface, lily-white skin, fair skin"
+        },
+        "romaji": "yukihada"
       },
       {
         "example": "美肌",
         "reading": "ビハダ",
-        "meaning": "beautiful skin"
+        "meaning": {
+          "en": "beautiful skin"
+        },
+        "romaji": "bihada"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "肌",
         "reading": "はだ",
-        "meaning": "skin, body (in the context of intimate bodily contact), surface, grain (e.g. of wood), texture, disposition, temperament, character, type"
+        "meaning": {
+          "vi": "skin, body (in the context of intimate bodily contact), surface, grain (e.g. of wood), texture, disposition, temperament, character, type"
+        },
+        "romaji": "hada"
       },
       {
         "example": "肌色",
         "reading": "はだいろ",
-        "meaning": "flesh colour (of a Japanese person), flesh color, pale orange, (one's) skin color, skin colour, skin tone"
+        "meaning": {
+          "vi": "flesh colour (of a Japanese person), flesh color, pale orange, (one's) skin color, skin colour, skin tone"
+        },
+        "romaji": "hadairo"
       },
       {
         "example": "素肌",
         "reading": "すはだ",
-        "meaning": "bare skin, naked skin"
+        "meaning": {
+          "en": "bare skin, naked skin"
+        },
+        "romaji": "suhada"
       },
       {
         "example": "地肌",
         "reading": "じはだ",
-        "meaning": "texture, grain, one's skin (lacking makeup, etc.), natural skin, bare skin, scalp, surface of the earth, bare ground, surface of a sword blade"
+        "meaning": {
+          "vi": "texture, grain, one's skin (lacking makeup, etc.), natural skin, bare skin, scalp, surface of the earth, bare ground, surface of a sword blade"
+        },
+        "romaji": "jihada"
       }
     ],
     "radical": {
@@ -325,5 +349,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0808c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/808c.gif",
     "uri": "https://jisho.org/search/%E8%82%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ"
+  ]
 }

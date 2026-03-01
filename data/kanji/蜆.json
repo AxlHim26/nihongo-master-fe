@@ -17,22 +17,34 @@
       {
         "example": "蜆",
         "reading": "しじみ",
-        "meaning": "basket clam (Corbiculidae spp.), freshwater clam, freshwater mussel"
+        "meaning": {
+          "vi": "basket clam (Corbiculidae spp.), freshwater clam, freshwater mussel"
+        },
+        "romaji": "shijimi"
       },
       {
         "example": "しじみ貝",
         "reading": "しじみがい",
-        "meaning": "basket clam (Corbiculidae spp.), freshwater clam, basket clam shell"
+        "meaning": {
+          "vi": "basket clam (Corbiculidae spp.), freshwater clam, basket clam shell"
+        },
+        "romaji": "shijimigai"
       },
       {
         "example": "瀬田蜆",
         "reading": "せたしじみ",
-        "meaning": "Corbicula sandai (species of basket clam)"
+        "meaning": {
+          "vi": "Corbicula sandai (species of basket clam)"
+        },
+        "romaji": "setashijimi"
       },
       {
         "example": "大和蜆",
         "reading": "やまとしじみ",
-        "meaning": "Corbicula japonica (species of basket clam)"
+        "meaning": {
+          "vi": "Corbicula japonica (species of basket clam)"
+        },
+        "romaji": "yamatoshijimi"
       }
     ],
     "radical": {
@@ -47,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08706.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8706.gif",
     "uri": "https://jisho.org/search/%E8%9C%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiện"
+  ]
 }

@@ -264,34 +264,52 @@
       {
         "example": "枯れ木",
         "reading": "カレキ",
-        "meaning": "dead tree, withered tree, leafless tree, bare tree"
+        "meaning": {
+          "en": "dead tree, withered tree, leafless tree, bare tree"
+        },
+        "romaji": "kareki"
       },
       {
         "example": "枯死",
         "reading": "コシ",
-        "meaning": "withering, dying"
+        "meaning": {
+          "en": "withering, dying"
+        },
+        "romaji": "koshi"
       },
       {
         "example": "栄枯",
         "reading": "エイコ",
-        "meaning": "vicissitudes, ups and downs"
+        "meaning": {
+          "vi": "vicissitudes, ups and downs"
+        },
+        "romaji": "eiko"
       },
       {
         "example": "蒼古",
         "reading": "ソウコ",
-        "meaning": "old-fashioned and tasteful"
+        "meaning": {
+          "en": "old-fashioned and tasteful"
+        },
+        "romaji": "souko"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枯れる",
         "reading": "かれる",
-        "meaning": "to wither (of a plant), to be blasted, to die, to mature (of one's personality, abilities, etc.)"
+        "meaning": {
+          "vi": "to wither (of a plant), to be blasted, to die, to mature (of one's personality, abilities, etc.)"
+        },
+        "romaji": "kareru"
       },
       {
         "example": "枯らす",
         "reading": "からす",
-        "meaning": "to let dry, to kill (vegetation), to season (lumber)"
+        "meaning": {
+          "en": "to let dry, to kill (vegetation), to season (lumber)"
+        },
+        "romaji": "karasu"
       }
     ],
     "radical": {
@@ -307,5 +325,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67af.gif",
     "uri": "https://jisho.org/search/%E6%9E%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "khô"
+  ]
 }

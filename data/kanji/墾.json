@@ -19,24 +19,36 @@
       {
         "example": "墾田",
         "reading": "コンデン",
-        "meaning": "new rice field"
+        "meaning": {
+          "en": "new rice field"
+        },
+        "romaji": "konden"
       },
       {
         "example": "未開墾",
         "reading": "ミカイコン",
-        "meaning": "uncultivated, wild"
+        "meaning": {
+          "en": "uncultivated, wild"
+        },
+        "romaji": "mikaikon"
       },
       {
         "example": "未墾",
         "reading": "ミコン",
-        "meaning": "uncultivated, wild"
+        "meaning": {
+          "en": "uncultivated, wild"
+        },
+        "romaji": "mikon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "墾く",
         "reading": "ひらく",
-        "meaning": "to cultivate (land), to clear (land)"
+        "meaning": {
+          "en": "to cultivate (land), to clear (land)"
+        },
+        "romaji": "hiraku"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058be.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58be.gif",
     "uri": "https://jisho.org/search/%E5%A2%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "khẩn"
+  ]
 }

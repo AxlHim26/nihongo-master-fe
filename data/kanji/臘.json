@@ -14,22 +14,34 @@
       {
         "example": "臘",
         "reading": "ロウ",
-        "meaning": "offering ceremony held on the third day of the dog after the winter solstice, twelfth month of the lunisolar calendar, year in the Buddhist order (after the completion of the first meditation retreat)"
+        "meaning": {
+          "vi": "offering ceremony held on the third day of the dog after the winter solstice, twelfth month of the lunisolar calendar, year in the Buddhist order (after the completion of the first meditation retreat)"
+        },
+        "romaji": "rou"
       },
       {
         "example": "臘月",
         "reading": "ロウゲツ",
-        "meaning": "twelfth lunar month, 12th month of the lunar calendar"
+        "meaning": {
+          "en": "twelfth lunar month, 12th month of the lunar calendar"
+        },
+        "romaji": "rougetsu"
       },
       {
         "example": "劫臈",
         "reading": "コウロウ",
-        "meaning": "long time, long years of service"
+        "meaning": {
+          "en": "long time, long years of service"
+        },
+        "romaji": "kourou"
       },
       {
         "example": "旧臘",
         "reading": "キュウロウ",
-        "meaning": "last December, end of last year"
+        "meaning": {
+          "en": "last December, end of last year"
+        },
+        "romaji": "kyuurou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d8.gif",
     "uri": "https://jisho.org/search/%E8%87%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạp"
+  ]
 }

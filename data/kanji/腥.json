@@ -18,7 +18,10 @@
       {
         "example": "生臭い",
         "reading": "なまぐさい",
-        "meaning": "smelling of fish, fishy, smelling of blood, bloody, degenerate (of a monk), depraved, corrupt, fallen, worldly, mundane, secular, common, ordinary, fishy, suspicious, questionable"
+        "meaning": {
+          "vi": "smelling of fish, fishy, smelling of blood, bloody, degenerate (of a monk), depraved, corrupt, fallen, worldly, mundane, secular, common, ordinary, fishy, suspicious, questionable"
+        },
+        "romaji": "namagusai"
       }
     ],
     "radical": {
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08165.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8165.gif",
     "uri": "https://jisho.org/search/%E8%85%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tinh"
+  ]
 }

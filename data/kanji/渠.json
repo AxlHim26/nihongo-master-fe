@@ -20,22 +20,34 @@
       {
         "example": "巨魁",
         "reading": "キョカイ",
-        "meaning": "ringleader, chief"
+        "meaning": {
+          "en": "ringleader, chief"
+        },
+        "romaji": "kyokai"
       },
       {
         "example": "渠河",
         "reading": "キョガ",
-        "meaning": "waterway, canal, river"
+        "meaning": {
+          "en": "waterway, canal, river"
+        },
+        "romaji": "kyoga"
       },
       {
         "example": "開渠",
         "reading": "カイキョ",
-        "meaning": "open ditch, open channel, open conduit, open culvert"
+        "meaning": {
+          "vi": "open ditch, open channel, open conduit, open culvert"
+        },
+        "romaji": "kaikyo"
       },
       {
         "example": "明渠",
         "reading": "メイキョ",
-        "meaning": "open ditch"
+        "meaning": {
+          "vi": "open ditch"
+        },
+        "romaji": "meikyo"
       }
     ],
     "kunyomiExamples": [],
@@ -57,5 +69,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e20.gif",
     "uri": "https://jisho.org/search/%E6%B8%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "cừ",
+    "cự"
+  ]
 }

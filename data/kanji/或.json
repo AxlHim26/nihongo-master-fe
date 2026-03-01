@@ -22,22 +22,34 @@
       {
         "example": "或る",
         "reading": "ある",
-        "meaning": "a certain ..., some ..."
+        "meaning": {
+          "en": "a certain ..., some ..."
+        },
+        "romaji": "aru"
       },
       {
         "example": "或いは",
         "reading": "あるいは",
-        "meaning": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+        "meaning": {
+          "vi": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+        },
+        "romaji": "aruiha"
       },
       {
         "example": "或いは",
         "reading": "あるいは",
-        "meaning": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+        "meaning": {
+          "vi": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+        },
+        "romaji": "aruiha"
       },
       {
         "example": "或いは",
         "reading": "あるいは",
-        "meaning": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+        "meaning": {
+          "vi": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+        },
+        "romaji": "aruiha"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06216.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6216.gif",
     "uri": "https://jisho.org/search/%E6%88%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoặc",
+    "vực"
+  ]
 }

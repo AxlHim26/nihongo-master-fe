@@ -17,24 +17,36 @@
       {
         "example": "蕓薹",
         "reading": "ウンダイ",
-        "meaning": "rape (seed oil plant, Brassica campestris), Chinese colza, yuntai"
+        "meaning": {
+          "vi": "rape (seed oil plant, Brassica campestris), Chinese colza, yuntai"
+        },
+        "romaji": "undai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "薹",
         "reading": "とう",
-        "meaning": "flower stalk, peduncle"
+        "meaning": {
+          "vi": "flower stalk, peduncle"
+        },
+        "romaji": "tou"
       },
       {
         "example": "トウが立つ",
         "reading": "とうがたつ",
-        "meaning": "to go to seed, to become hard and fibrous, to have passed one's prime, to have lost the first bloom of one's youth"
+        "meaning": {
+          "vi": "to go to seed, to become hard and fibrous, to have passed one's prime, to have lost the first bloom of one's youth"
+        },
+        "romaji": "tougatatsu"
       },
       {
         "example": "蕗の薹",
         "reading": "ふきのとう",
-        "meaning": "edible flower bud of a giant butterbur plant"
+        "meaning": {
+          "vi": "edible flower bud of a giant butterbur plant"
+        },
+        "romaji": "fukinotou"
       }
     ],
     "radical": {
@@ -57,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85b9.gif",
     "uri": "https://jisho.org/search/%E8%96%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "đài"
+  ]
 }

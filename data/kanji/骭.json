@@ -16,7 +16,10 @@
       {
         "example": "骭",
         "reading": "カン",
-        "meaning": "shin, shinbone"
+        "meaning": {
+          "en": "shin, shinbone"
+        },
+        "romaji": "kan"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aad.gif",
     "uri": "https://jisho.org/search/%E9%AA%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "cán"
+  ]
 }

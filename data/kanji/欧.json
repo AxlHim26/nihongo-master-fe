@@ -259,22 +259,34 @@
       {
         "example": "欧",
         "reading": "オウ",
-        "meaning": "Europe"
+        "meaning": {
+          "vi": "Europe"
+        },
+        "romaji": "ou"
       },
       {
         "example": "欧州",
         "reading": "オウシュウ",
-        "meaning": "Europe"
+        "meaning": {
+          "vi": "Europe"
+        },
+        "romaji": "oushuu"
       },
       {
         "example": "東欧",
         "reading": "トウオウ",
-        "meaning": "Eastern Europe"
+        "meaning": {
+          "vi": "Eastern Europe"
+        },
+        "romaji": "touou"
       },
       {
         "example": "西欧",
         "reading": "セイオウ",
-        "meaning": "Western Europe, the West, the Occident, Europe"
+        "meaning": {
+          "vi": "Western Europe, the West, the Occident, Europe"
+        },
+        "romaji": "seiou"
       }
     ],
     "kunyomiExamples": [],
@@ -292,5 +304,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b27.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b27.gif",
     "uri": "https://jisho.org/search/%E6%AC%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "âu",
+    "ẩu"
+  ]
 }

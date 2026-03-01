@@ -347,64 +347,100 @@
       {
         "example": "力",
         "reading": "リョク",
-        "meaning": "strength, power, proficiency, ability"
+        "meaning": {
+          "vi": "strength, power, proficiency, ability"
+        },
+        "romaji": "ryoku"
       },
       {
         "example": "力作",
         "reading": "リキサク",
-        "meaning": "painstaking piece of work, work of great effort, tour de force, outstanding work, toil, labor, labour"
+        "meaning": {
+          "vi": "painstaking piece of work, work of great effort, tour de force, outstanding work, toil, labor, labour"
+        },
+        "romaji": "rikisaku"
       },
       {
         "example": "水力",
         "reading": "スイリョク",
-        "meaning": "hydraulic power, water power"
+        "meaning": {
+          "vi": "hydraulic power, water power"
+        },
+        "romaji": "suiryoku"
       },
       {
         "example": "威力",
         "reading": "イリョク",
-        "meaning": "power, might, authority, influence"
+        "meaning": {
+          "vi": "power, might, authority, influence"
+        },
+        "romaji": "iryoku"
       },
       {
         "example": "力",
         "reading": "リキ",
-        "meaning": "strength, power, proficiency, ability, the strength of ... people, the strength of ... men"
+        "meaning": {
+          "vi": "strength, power, proficiency, ability, the strength of ... people, the strength of ... men"
+        },
+        "romaji": "riki"
       },
       {
         "example": "力学",
         "reading": "リキガク",
-        "meaning": "mechanics, dynamics"
+        "meaning": {
+          "en": "mechanics, dynamics"
+        },
+        "romaji": "rikigaku"
       },
       {
         "example": "地力",
         "reading": "ジリキ",
-        "meaning": "one's own potential, real ability, one's own strength"
+        "meaning": {
+          "vi": "one's own potential, real ability, one's own strength"
+        },
+        "romaji": "jiriki"
       },
       {
         "example": "合力",
         "reading": "ゴウリョク",
-        "meaning": "resultant force, assistance, help, donation, alms, almsgiving"
+        "meaning": {
+          "vi": "resultant force, assistance, help, donation, alms, almsgiving"
+        },
+        "romaji": "gouryoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "力",
         "reading": "ちから",
-        "meaning": "force, strength, might, vigour, vigor, energy, capability, ability, proficiency, capacity, faculty, efficacy, effect, effort, endeavours, endeavors, exertions, power, authority, influence, good offices, agency, support, help, aid, assistance, stress, emphasis, means, resources"
+        "meaning": {
+          "vi": "force, strength, might, vigour, vigor, energy, capability, ability, proficiency, capacity, faculty, efficacy, effect, effort, endeavours, endeavors, exertions, power, authority, influence, good offices, agency, support, help, aid, assistance, stress, emphasis, means, resources"
+        },
+        "romaji": "chikara"
       },
       {
         "example": "力強い",
         "reading": "ちからづよい",
-        "meaning": "powerful, strong, forceful, vigorous, reassuring, encouraging"
+        "meaning": {
+          "vi": "powerful, strong, forceful, vigorous, reassuring, encouraging"
+        },
+        "romaji": "chikarazuyoi"
       },
       {
         "example": "強い力",
         "reading": "つよいちから",
-        "meaning": "strong interaction, strong force"
+        "meaning": {
+          "en": "strong interaction, strong force"
+        },
+        "romaji": "tsuyoichikara"
       },
       {
         "example": "弱い力",
         "reading": "よわいちから",
-        "meaning": "weak force, weak interaction"
+        "meaning": {
+          "en": "weak force, weak interaction"
+        },
+        "romaji": "yowaichikara"
       }
     ],
     "radical": {
@@ -418,5 +454,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0529b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/529b.gif",
     "uri": "https://jisho.org/search/%E5%8A%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "lực"
+  ]
 }

@@ -384,69 +384,108 @@
       {
         "example": "温厚",
         "reading": "オンコウ",
-        "meaning": "gentle, mild-mannered"
+        "meaning": {
+          "en": "gentle, mild-mannered"
+        },
+        "romaji": "onkou"
       },
       {
         "example": "穏健",
         "reading": "オンケン",
-        "meaning": "moderate (view, politics, etc.), temperate, sensible, sober, non-radical"
+        "meaning": {
+          "vi": "moderate (view, politics, etc.), temperate, sensible, sober, non-radical"
+        },
+        "romaji": "onken"
       },
       {
         "example": "保温",
         "reading": "ホオン",
-        "meaning": "retaining warmth, keeping heat in, heat insulation"
+        "meaning": {
+          "vi": "retaining warmth, keeping heat in, heat insulation"
+        },
+        "romaji": "hoon"
       },
       {
         "example": "室温",
         "reading": "シツオン",
-        "meaning": "room temperature"
+        "meaning": {
+          "vi": "room temperature"
+        },
+        "romaji": "shitsuon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暖か",
         "reading": "あたたか",
-        "meaning": "warm, mild, genial"
+        "meaning": {
+          "en": "warm, mild, genial"
+        },
+        "romaji": "atataka"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": {
+          "vi": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        },
+        "romaji": "atatakai"
       },
       {
         "example": "暖かい",
         "reading": "あたたかい",
-        "meaning": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        "meaning": {
+          "vi": "warm, mild, (pleasantly) hot, considerate, kind, genial, warm (of a colour), mellow, having enough money"
+        },
+        "romaji": "atatakai"
       },
       {
         "example": "温かい歓迎",
         "reading": "あたたかいかんげい",
-        "meaning": "warm reception, cordial welcome, warm greeting"
+        "meaning": {
+          "vi": "warm reception, cordial welcome, warm greeting"
+        },
+        "romaji": "atatakaikangei"
       },
       {
         "example": "温まる",
         "reading": "あたたまる",
-        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm"
+        "meaning": {
+          "vi": "to warm oneself, to sun oneself, to warm up, to get warm"
+        },
+        "romaji": "atatamaru"
       },
       {
         "example": "温める",
         "reading": "あたためる",
-        "meaning": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself"
+        "meaning": {
+          "vi": "to warm (up), to heat (up), to sit on (an idea, plan, etc.), to keep to oneself, to nurse, to mull over, to renew (an old friendship), to take for oneself"
+        },
+        "romaji": "atatameru"
       },
       {
         "example": "温",
         "reading": "ぬく",
-        "meaning": "idiot, dummy, slow person"
+        "meaning": {
+          "vi": "idiot, dummy, slow person"
+        },
+        "romaji": "nuku"
       },
       {
         "example": "温まる",
         "reading": "あたたまる",
-        "meaning": "to warm oneself, to sun oneself, to warm up, to get warm"
+        "meaning": {
+          "vi": "to warm oneself, to sun oneself, to warm up, to get warm"
+        },
+        "romaji": "atatamaru"
       },
       {
         "example": "温々",
         "reading": "ぬくぬく",
-        "meaning": "snugly, cosily, warmly, comfortably, carefree, easily, safely, without hardship, freshly made and still warm, imprudently, shamelessly"
+        "meaning": {
+          "vi": "snugly, cosily, warmly, comfortably, carefree, easily, safely, without hardship, freshly made and still warm, imprudently, shamelessly"
+        },
+        "romaji": "nukunuku"
       }
     ],
     "radical": {
@@ -466,5 +505,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e29.gif",
     "uri": "https://jisho.org/search/%E6%B8%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "uẩn",
+    "ôn"
+  ]
 }

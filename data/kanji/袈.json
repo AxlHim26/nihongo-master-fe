@@ -16,12 +16,18 @@
       {
         "example": "袈裟",
         "reading": "ケサ",
-        "meaning": "kasaya, monk's stole, wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder)"
+        "meaning": {
+          "vi": "kasaya, monk's stole, wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder)"
+        },
+        "romaji": "kesa"
       },
       {
         "example": "袈裟懸け",
         "reading": "ケサガケ",
-        "meaning": "wearing a kasaya, wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder), slashing (someone) with a sword diagonally from the shoulder"
+        "meaning": {
+          "vi": "wearing a kasaya, wearing an article of clothing in the same manner as a kasaya (i.e. draped over one shoulder), slashing (someone) with a sword diagonally from the shoulder"
+        },
+        "romaji": "kesagake"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08888.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8888.gif",
     "uri": "https://jisho.org/search/%E8%A2%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "ca",
+    "cà",
+    "già"
+  ]
 }

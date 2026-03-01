@@ -17,7 +17,10 @@
       {
         "example": "伉儷",
         "reading": "コウレイ",
-        "meaning": "married couple, spouses, husband and wife"
+        "meaning": {
+          "vi": "married couple, spouses, husband and wife"
+        },
+        "romaji": "kourei"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05137.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5137.gif",
     "uri": "https://jisho.org/search/%E5%84%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lệ"
+  ]
 }

@@ -17,44 +17,68 @@
       {
         "example": "兎に角",
         "reading": "トニカク",
-        "meaning": "anyway, anyhow, at any rate, in any case, at least, just, setting aside ..., regardless of ..., really, truly, certainly, definitely, undeniably"
+        "meaning": {
+          "en": "anyway, anyhow, at any rate, in any case, at least, just, setting aside ..., regardless of ..., really, truly, certainly, definitely, undeniably"
+        },
+        "romaji": "tonikaku"
       },
       {
         "example": "兎角",
         "reading": "トカク",
-        "meaning": "(doing) various things, (doing) this and that, being apt to, being prone to, tending to, at any rate, anyhow, anyway, all sorts of (negative things), various, things that do not exist, rabbit horns"
+        "meaning": {
+          "vi": "(doing) various things, (doing) this and that, being apt to, being prone to, tending to, at any rate, anyhow, anyway, all sorts of (negative things), various, things that do not exist, rabbit horns"
+        },
+        "romaji": "tokaku"
       },
       {
         "example": "烏兎",
         "reading": "ウト",
-        "meaning": "sun and moon, time, the years, the months"
+        "meaning": {
+          "en": "sun and moon, time, the years, the months"
+        },
+        "romaji": "uto"
       },
       {
         "example": "狡兎",
         "reading": "コウト",
-        "meaning": "smart rabbit, cunning rabbit, nimble rabbit"
+        "meaning": {
+          "en": "smart rabbit, cunning rabbit, nimble rabbit"
+        },
+        "romaji": "kouto"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "兎",
         "reading": "うさぎ",
-        "meaning": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+        "meaning": {
+          "vi": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+        },
+        "romaji": "usagi"
       },
       {
         "example": "兎網",
         "reading": "うさぎあみ",
-        "meaning": "rabbit-catching net"
+        "meaning": {
+          "en": "rabbit-catching net"
+        },
+        "romaji": "usagiami"
       },
       {
         "example": "月の兎",
         "reading": "つきのうさぎ",
-        "meaning": "moon rabbit, moon hare, mythical figure who lives on the moon"
+        "meaning": {
+          "en": "moon rabbit, moon hare, mythical figure who lives on the moon"
+        },
+        "romaji": "tsukinousagi"
       },
       {
         "example": "飼兎",
         "reading": "かいうさぎ",
-        "meaning": "domestic rabbit (variety of European rabbit, Oryctolagus cuniculus)"
+        "meaning": {
+          "vi": "domestic rabbit (variety of European rabbit, Oryctolagus cuniculus)"
+        },
+        "romaji": "kaiusagi"
       }
     ],
     "radical": {
@@ -72,5 +96,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514e.gif",
     "uri": "https://jisho.org/search/%E5%85%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "thỏ",
+    "thố"
+  ]
 }

@@ -18,29 +18,44 @@
       {
         "example": "撞球",
         "reading": "ドウキュウ",
-        "meaning": "billiards"
+        "meaning": {
+          "en": "billiards"
+        },
+        "romaji": "doukyuu"
       },
       {
         "example": "撞着",
         "reading": "ドウチャク",
-        "meaning": "contradiction"
+        "meaning": {
+          "en": "contradiction"
+        },
+        "romaji": "douchaku"
       },
       {
         "example": "撞木",
         "reading": "シュモク",
-        "meaning": "T-shaped wooden bell hammer"
+        "meaning": {
+          "vi": "T-shaped wooden bell hammer"
+        },
+        "romaji": "shumoku"
       },
       {
         "example": "撞木鮫",
         "reading": "シュモクザメ",
-        "meaning": "hammerhead shark"
+        "meaning": {
+          "en": "hammerhead shark"
+        },
+        "romaji": "shumokuzame"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "突く",
         "reading": "つく",
-        "meaning": "to prick, to stab, to poke, to prod, to push, to thrust, to nudge, to hit, to strike, to use (a cane), to prop oneself up with, to press against (the floor, etc.), to attack, to brave (the rain, etc.)"
+        "meaning": {
+          "vi": "to prick, to stab, to poke, to prod, to push, to thrust, to nudge, to hit, to strike, to use (a cane), to prop oneself up with, to press against (the floor, etc.), to attack, to brave (the rain, etc.)"
+        },
+        "romaji": "tsuku"
       }
     ],
     "radical": {
@@ -59,5 +74,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0649e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/649e.gif",
     "uri": "https://jisho.org/search/%E6%92%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "chàng",
+    "tràng"
+  ]
 }

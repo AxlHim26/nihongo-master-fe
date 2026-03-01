@@ -18,7 +18,10 @@
       {
         "example": "愈",
         "reading": "いよいよ",
-        "meaning": "ngày càng, hơn nữa, cuối cùng, chắc chắn, phút chót, thời điểm tệ nhất"
+        "meaning": {
+          "vi": "ngày càng, hơn nữa, cuối cùng, chắc chắn, phút chót, thời điểm tệ nhất"
+        },
+        "romaji": "iyoiyo"
       }
     ],
     "radical": {
@@ -40,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06108.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6108.gif",
     "uri": "https://jisho.org/search/%E6%84%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "dũ"
+  ]
 }

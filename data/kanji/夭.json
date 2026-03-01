@@ -20,22 +20,34 @@
       {
         "example": "夭折",
         "reading": "ヨウセツ",
-        "meaning": "premature death"
+        "meaning": {
+          "vi": "premature death"
+        },
+        "romaji": "yousetsu"
       },
       {
         "example": "夭死",
         "reading": "ヨウシ",
-        "meaning": "premature death"
+        "meaning": {
+          "vi": "premature death"
+        },
+        "romaji": "youshi"
       },
       {
         "example": "中夭",
         "reading": "チュウヨウ",
-        "meaning": "dying young"
+        "meaning": {
+          "en": "dying young"
+        },
+        "romaji": "chuuyou"
       },
       {
         "example": "天変地夭",
         "reading": "テンペンチヨウ",
-        "meaning": "natural disaster"
+        "meaning": {
+          "en": "natural disaster"
+        },
+        "romaji": "tenpenchiyou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0592d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/592d.gif",
     "uri": "https://jisho.org/search/%E5%A4%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "yêu",
+    "yểu"
+  ]
 }

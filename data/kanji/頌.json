@@ -21,27 +21,42 @@
       {
         "example": "頌",
         "reading": "ショウ",
-        "meaning": "praise, hymn (genre of the Shi Jing)"
+        "meaning": {
+          "vi": "praise, hymn (genre of the Shi Jing)"
+        },
+        "romaji": "shou"
       },
       {
         "example": "頌栄",
         "reading": "ショウエイ",
-        "meaning": "doxology"
+        "meaning": {
+          "en": "doxology"
+        },
+        "romaji": "shouei"
       },
       {
         "example": "奉献頌",
         "reading": "ホウケンショウ",
-        "meaning": "offertory, offertory music"
+        "meaning": {
+          "en": "offertory, offertory music"
+        },
+        "romaji": "houkenshou"
       },
       {
         "example": "頌",
         "reading": "ジュ",
-        "meaning": "gatha (poetic verse of a scripture)"
+        "meaning": {
+          "vi": "gatha (poetic verse of a scripture)"
+        },
+        "romaji": "ju"
       },
       {
         "example": "頌寿",
         "reading": "ショウジュ",
-        "meaning": "celebration of longevity"
+        "meaning": {
+          "en": "celebration of longevity"
+        },
+        "romaji": "shouju"
       }
     ],
     "kunyomiExamples": [],
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980c.gif",
     "uri": "https://jisho.org/search/%E9%A0%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "dung",
+    "tụng"
+  ]
 }

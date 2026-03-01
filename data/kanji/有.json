@@ -356,54 +356,84 @@
       {
         "example": "有",
         "reading": "ユウ",
-        "meaning": "existence, possession, having, limited company"
+        "meaning": {
+          "vi": "existence, possession, having, limited company"
+        },
+        "romaji": "yuu"
       },
       {
         "example": "有意義",
         "reading": "ユウイギ",
-        "meaning": "significant, useful, meaningful, worthwhile, valuable, of interest"
+        "meaning": {
+          "en": "significant, useful, meaningful, worthwhile, valuable, of interest"
+        },
+        "romaji": "yuuigi"
       },
       {
         "example": "領有",
         "reading": "リョウユウ",
-        "meaning": "possession (esp. of a territory)"
+        "meaning": {
+          "vi": "possession (esp. of a territory)"
+        },
+        "romaji": "ryouyuu"
       },
       {
         "example": "公有",
         "reading": "コウユウ",
-        "meaning": "public ownership, public domain"
+        "meaning": {
+          "vi": "public ownership, public domain"
+        },
+        "romaji": "kouyuu"
       },
       {
         "example": "有",
         "reading": "ウ",
-        "meaning": "bhava (becoming, existence)"
+        "meaning": {
+          "en": "bhava (becoming, existence)"
+        },
+        "romaji": "u"
       },
       {
         "example": "有無",
         "reading": "ウム",
-        "meaning": "existence or nonexistence, presence or absence, consent or refusal, yes or no"
+        "meaning": {
+          "vi": "existence or nonexistence, presence or absence, consent or refusal, yes or no"
+        },
+        "romaji": "umu"
       },
       {
         "example": "領有",
         "reading": "リョウユウ",
-        "meaning": "possession (esp. of a territory)"
+        "meaning": {
+          "vi": "possession (esp. of a territory)"
+        },
+        "romaji": "ryouyuu"
       },
       {
         "example": "公有",
         "reading": "コウユウ",
-        "meaning": "public ownership, public domain"
+        "meaning": {
+          "vi": "public ownership, public domain"
+        },
+        "romaji": "kouyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "有る",
         "reading": "ある",
-        "meaning": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state)"
+        "meaning": {
+          "vi": "to be, to exist, to live, to have, to be located, to be equipped with, to happen, to come about, to exist (in a completed state), to be (something unchanged in its current state)"
+        },
+        "romaji": "aru"
       },
       {
         "example": "ある限り",
         "reading": "あるかぎり",
-        "meaning": "all (there is), as long as there is"
+        "meaning": {
+          "en": "all (there is), as long as there is"
+        },
+        "romaji": "arukagiri"
       }
     ],
     "radical": {
@@ -419,5 +449,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06709.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6709.gif",
     "uri": "https://jisho.org/search/%E6%9C%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "dựu",
+    "hữu",
+    "hựu"
+  ]
 }

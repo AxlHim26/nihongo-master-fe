@@ -14,12 +14,18 @@
       {
         "example": "結跏",
         "reading": "ケッカ",
-        "meaning": "lotus position (meditation and yoga posture), padmasana, sitting with legs crossed and feet placed on opposing thighs"
+        "meaning": {
+          "vi": "lotus position (meditation and yoga posture), padmasana, sitting with legs crossed and feet placed on opposing thighs"
+        },
+        "romaji": "kekka"
       },
       {
         "example": "半跏",
         "reading": "ハンカ",
-        "meaning": "half lotus position (meditation posture), sitting with one foot placed on the opposite thigh"
+        "meaning": {
+          "vi": "half lotus position (meditation posture), sitting with one foot placed on the opposite thigh"
+        },
+        "romaji": "hanka"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dcf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dcf.gif",
     "uri": "https://jisho.org/search/%E8%B7%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "gia",
+    "già"
+  ]
 }

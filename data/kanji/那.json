@@ -22,22 +22,34 @@
       {
         "example": "那覇",
         "reading": "ナハ",
-        "meaning": "Naha (city in Okinawa)"
+        "meaning": {
+          "en": "Naha (city in Okinawa)"
+        },
+        "romaji": "naha"
       },
       {
         "example": "那覇港湾空港工事事務所",
         "reading": "ナハコウワンクウコウコウジジムショ",
-        "meaning": "Naha Harbour and Airport Construction Office"
+        "meaning": {
+          "vi": "Naha Harbour and Airport Construction Office"
+        },
+        "romaji": "nahakouwankuukoukoujijimusho"
       },
       {
         "example": "刹那",
         "reading": "セツナ",
-        "meaning": "moment, instant, kshana, duration of a single mental event (about 1/75 second), shortest possible interval of time"
+        "meaning": {
+          "vi": "moment, instant, kshana, duration of a single mental event (about 1/75 second), shortest possible interval of time"
+        },
+        "romaji": "setsuna"
       },
       {
         "example": "印度支那",
         "reading": "インドシナ",
-        "meaning": "Indochina"
+        "meaning": {
+          "en": "Indochina"
+        },
+        "romaji": "indoshina"
       }
     ],
     "kunyomiExamples": [],
@@ -57,5 +69,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90a3.gif",
     "uri": "https://jisho.org/search/%E9%82%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "na",
+    "ná",
+    "nả"
+  ]
 }

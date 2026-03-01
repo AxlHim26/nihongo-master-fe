@@ -337,22 +337,34 @@
       {
         "example": "講",
         "reading": "コウ",
-        "meaning": "(Buddhist) lecture meeting, religious association, mutual assistance association (i.e. for financial assistance)"
+        "meaning": {
+          "en": "(Buddhist) lecture meeting, religious association, mutual assistance association (i.e. for financial assistance)"
+        },
+        "romaji": "kou"
       },
       {
         "example": "講演",
         "reading": "コウエン",
-        "meaning": "lecture, address, speech"
+        "meaning": {
+          "vi": "lecture, address, speech"
+        },
+        "romaji": "kouen"
       },
       {
         "example": "進講",
         "reading": "シンコウ",
-        "meaning": "giving a lecture in the Emperor's presence, lecturing to the Emperor"
+        "meaning": {
+          "vi": "giving a lecture in the Emperor's presence, lecturing to the Emperor"
+        },
+        "romaji": "shinkou"
       },
       {
         "example": "代講",
         "reading": "ダイコウ",
-        "meaning": "substitute lecturing, substitute lecturer"
+        "meaning": {
+          "en": "substitute lecturing, substitute lecturer"
+        },
+        "romaji": "daikou"
       }
     ],
     "kunyomiExamples": [],
@@ -373,5 +385,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b1b.gif",
     "uri": "https://jisho.org/search/%E8%AC%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "giảng"
+  ]
 }

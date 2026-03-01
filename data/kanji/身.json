@@ -354,44 +354,68 @@
       {
         "example": "心身",
         "reading": "シンシン",
-        "meaning": "mind and body"
+        "meaning": {
+          "en": "mind and body"
+        },
+        "romaji": "shinshin"
       },
       {
         "example": "身障者",
         "reading": "シンショウシャ",
-        "meaning": "(physically) disabled person, person with a physical disability"
+        "meaning": {
+          "vi": "(physically) disabled person, person with a physical disability"
+        },
+        "romaji": "shinshousha"
       },
       {
         "example": "終身",
         "reading": "シュウシン",
-        "meaning": "lifelong, lifetime, for life, life"
+        "meaning": {
+          "en": "lifelong, lifetime, for life, life"
+        },
+        "romaji": "shuushin"
       },
       {
         "example": "等身",
         "reading": "トウシン",
-        "meaning": "body proportions"
+        "meaning": {
+          "vi": "body proportions"
+        },
+        "romaji": "toushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "身",
         "reading": "み",
-        "meaning": "one's body, one's person, oneself, one's appearance, one's place (in society, etc.), one's position, main part, meat (as opposed to bone, skin, etc.), wood (as opposed to bark), blade (as opposed to its handle), container (as opposed to its lid)"
+        "meaning": {
+          "vi": "one's body, one's person, oneself, one's appearance, one's place (in society, etc.), one's position, main part, meat (as opposed to bone, skin, etc.), wood (as opposed to bark), blade (as opposed to its handle), container (as opposed to its lid)"
+        },
+        "romaji": "mi"
       },
       {
         "example": "身動き",
         "reading": "みうごき",
-        "meaning": "movement (of one's body), moving about, stirring, acting freely, doing as one pleases"
+        "meaning": {
+          "vi": "movement (of one's body), moving about, stirring, acting freely, doing as one pleases"
+        },
+        "romaji": "miugoki"
       },
       {
         "example": "肩身",
         "reading": "かたみ",
-        "meaning": "shoulders, body, honour, honor, prestige, face"
+        "meaning": {
+          "vi": "shoulders, body, honour, honor, prestige, face"
+        },
+        "romaji": "katami"
       },
       {
         "example": "細身",
         "reading": "ほそみ",
-        "meaning": "narrow, thin (sized), slender"
+        "meaning": {
+          "en": "narrow, thin (sized), slender"
+        },
+        "romaji": "hosomi"
       }
     ],
     "radical": {
@@ -405,5 +429,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08eab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eab.gif",
     "uri": "https://jisho.org/search/%E8%BA%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyên",
+    "thân"
+  ]
 }

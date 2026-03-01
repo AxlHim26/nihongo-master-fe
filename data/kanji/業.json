@@ -383,64 +383,100 @@
       {
         "example": "業",
         "reading": "ギョウ",
-        "meaning": "work, business, company, agency, study"
+        "meaning": {
+          "vi": "work, business, company, agency, study"
+        },
+        "romaji": "gyou"
       },
       {
         "example": "業界",
         "reading": "ギョウカイ",
-        "meaning": "business world, business circles, (the) industry"
+        "meaning": {
+          "en": "business world, business circles, (the) industry"
+        },
+        "romaji": "gyoukai"
       },
       {
         "example": "興業",
         "reading": "コウギョウ",
-        "meaning": "promotion of industry, inauguration of a new industrial enterprise"
+        "meaning": {
+          "vi": "promotion of industry, inauguration of a new industrial enterprise"
+        },
+        "romaji": "kougyou"
       },
       {
         "example": "鉱業",
         "reading": "コウギョウ",
-        "meaning": "mining industry"
+        "meaning": {
+          "en": "mining industry"
+        },
+        "romaji": "kougyou"
       },
       {
         "example": "業",
         "reading": "ゴウ",
-        "meaning": "karma, result of one's karma, fate, destiny, uncontrollable temper"
+        "meaning": {
+          "vi": "karma, result of one's karma, fate, destiny, uncontrollable temper"
+        },
+        "romaji": "gou"
       },
       {
         "example": "業因",
         "reading": "ゴウイン",
-        "meaning": "karma"
+        "meaning": {
+          "en": "karma"
+        },
+        "romaji": "gouin"
       },
       {
         "example": "罪業",
         "reading": "ザイゴウ",
-        "meaning": "sin, iniquity, crime"
+        "meaning": {
+          "en": "sin, iniquity, crime"
+        },
+        "romaji": "zaigou"
       },
       {
         "example": "正業",
         "reading": "ショウゴウ",
-        "meaning": "right action, correct meditative activity (in Jodo, saying the name of Amitabha)"
+        "meaning": {
+          "en": "right action, correct meditative activity (in Jodo, saying the name of Amitabha)"
+        },
+        "romaji": "shougou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "業",
         "reading": "わざ",
-        "meaning": "deed, act, work, performance"
+        "meaning": {
+          "vi": "deed, act, work, performance"
+        },
+        "romaji": "waza"
       },
       {
         "example": "業師",
         "reading": "わざし",
-        "meaning": "tricky wrestler, shrewd fellow"
+        "meaning": {
+          "en": "tricky wrestler, shrewd fellow"
+        },
+        "romaji": "wazashi"
       },
       {
         "example": "寝技",
         "reading": "ねわざ",
-        "meaning": "pinning technique (in wrestling or judo), underhanded dealings"
+        "meaning": {
+          "vi": "pinning technique (in wrestling or judo), underhanded dealings"
+        },
+        "romaji": "newaza"
       },
       {
         "example": "投げ技",
         "reading": "なげわざ",
-        "meaning": "throw or throwing technique (sumo, judo)"
+        "meaning": {
+          "en": "throw or throwing technique (sumo, judo)"
+        },
+        "romaji": "nagewaza"
       }
     ],
     "radical": {
@@ -460,5 +496,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696d.gif",
     "uri": "https://jisho.org/search/%E6%A5%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghiệp"
+  ]
 }

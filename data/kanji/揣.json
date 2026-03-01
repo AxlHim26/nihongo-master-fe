@@ -18,12 +18,18 @@
       {
         "example": "揣摩",
         "reading": "シマ",
-        "meaning": "conjecture, guess, surmise, speculation"
+        "meaning": {
+          "vi": "conjecture, guess, surmise, speculation"
+        },
+        "romaji": "shima"
       },
       {
         "example": "揣摩臆測",
         "reading": "シマオクソク",
-        "meaning": "conjectures and surmises, speculation, giving one's imagination full play without any ground"
+        "meaning": {
+          "vi": "conjectures and surmises, speculation, giving one's imagination full play without any ground"
+        },
+        "romaji": "shimaokusoku"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63e3.gif",
     "uri": "https://jisho.org/search/%E6%8F%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuỳ",
+    "suỷ",
+    "tuy",
+    "đoàn"
+  ]
 }

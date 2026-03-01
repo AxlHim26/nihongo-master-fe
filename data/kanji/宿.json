@@ -345,54 +345,84 @@
       {
         "example": "宿",
         "reading": "シュク",
-        "meaning": "lodging, relay station, post town, constellation, mansion (in Chinese astronomy)"
+        "meaning": {
+          "vi": "lodging, relay station, post town, constellation, mansion (in Chinese astronomy)"
+        },
+        "romaji": "shuku"
       },
       {
         "example": "夙",
         "reading": "シュク",
-        "meaning": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        "meaning": {
+          "vi": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+        },
+        "romaji": "shuku"
       },
       {
         "example": "寄宿",
         "reading": "キシュク",
-        "meaning": "lodging, boarding, room and board, board and lodging, boarding house, residence hall, dormitory"
+        "meaning": {
+          "en": "lodging, boarding, room and board, board and lodging, boarding house, residence hall, dormitory"
+        },
+        "romaji": "kishuku"
       },
       {
         "example": "奎宿",
         "reading": "トカキボシ",
-        "meaning": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "tokakiboshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宿",
         "reading": "やど",
-        "meaning": "lodging, inn, hotel, house, home, dwelling, home of a servant's parents (or guarantor, etc.)"
+        "meaning": {
+          "vi": "lodging, inn, hotel, house, home, dwelling, home of a servant's parents (or guarantor, etc.)"
+        },
+        "romaji": "yado"
       },
       {
         "example": "宿屋",
         "reading": "やどや",
-        "meaning": "inn"
+        "meaning": {
+          "en": "inn"
+        },
+        "romaji": "yadoya"
       },
       {
         "example": "連れ込み宿",
         "reading": "つれこみやど",
-        "meaning": "hotel catering for lovers, hotel that rents rooms by the hour"
+        "meaning": {
+          "en": "hotel catering for lovers, hotel that rents rooms by the hour"
+        },
+        "romaji": "tsurekomiyado"
       },
       {
         "example": "相宿",
         "reading": "あいやど",
-        "meaning": "staying in the same inn or hotel, rooming together"
+        "meaning": {
+          "en": "staying in the same inn or hotel, rooming together"
+        },
+        "romaji": "aiyado"
       },
       {
         "example": "宿る",
         "reading": "やどる",
-        "meaning": "to dwell (in), to exist (within), to form, to stay (at), to stop (at), to lodge (in), to take shelter, to be in the womb (of an unborn child), to be part of a constellation"
+        "meaning": {
+          "vi": "to dwell (in), to exist (within), to form, to stay (at), to stop (at), to lodge (in), to take shelter, to be in the womb (of an unborn child), to be part of a constellation"
+        },
+        "romaji": "yadoru"
       },
       {
         "example": "宿す",
         "reading": "やどす",
-        "meaning": "to house, to contain, to harbour (a feeling), to hold (e.g. dew on leaves), to carry (a baby), to be pregnant, to give lodging to, to accommodate"
+        "meaning": {
+          "vi": "to house, to contain, to harbour (a feeling), to hold (e.g. dew on leaves), to carry (a baby), to be pregnant, to give lodging to, to accommodate"
+        },
+        "romaji": "yadosu"
       }
     ],
     "radical": {
@@ -408,5 +438,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bbf.gif",
     "uri": "https://jisho.org/search/%E5%AE%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tú",
+    "túc"
+  ]
 }

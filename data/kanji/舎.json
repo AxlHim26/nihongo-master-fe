@@ -228,22 +228,34 @@
       {
         "example": "舎",
         "reading": "シャ",
-        "meaning": "hut, house, boarding house, residence hall, dormitory, one day's march (approx. 12.2 km)"
+        "meaning": {
+          "vi": "hut, house, boarding house, residence hall, dormitory, one day's march (approx. 12.2 km)"
+        },
+        "romaji": "sha"
       },
       {
         "example": "舎弟",
         "reading": "シャテイ",
-        "meaning": "one's younger brother, underling (e.g. in yakuza), junior male peer, sworn younger brother"
+        "meaning": {
+          "vi": "one's younger brother, underling (e.g. in yakuza), junior male peer, sworn younger brother"
+        },
+        "romaji": "shatei"
       },
       {
         "example": "公舎",
         "reading": "コウシャ",
-        "meaning": "official residence"
+        "meaning": {
+          "en": "official residence"
+        },
+        "romaji": "kousha"
       },
       {
         "example": "兵舎",
         "reading": "ヘイシャ",
-        "meaning": "barracks"
+        "meaning": {
+          "en": "barracks"
+        },
+        "romaji": "heisha"
       }
     ],
     "kunyomiExamples": [],
@@ -263,5 +275,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0820e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/820e.gif",
     "uri": "https://jisho.org/search/%E8%88%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "xá"
+  ]
 }

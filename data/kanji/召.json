@@ -256,19 +256,28 @@
       {
         "example": "招請",
         "reading": "ショウセイ",
-        "meaning": "invitation"
+        "meaning": {
+          "en": "invitation"
+        },
+        "romaji": "shousei"
       },
       {
         "example": "召集",
         "reading": "ショウシュウ",
-        "meaning": "convening, calling together (e.g. parliament), call-up (for military service)"
+        "meaning": {
+          "vi": "convening, calling together (e.g. parliament), call-up (for military service)"
+        },
+        "romaji": "shoushuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "召す",
         "reading": "めす",
-        "meaning": "to call, to summon, to send for, to invite, to eat, to drink, to put on, to wear, to buy, to purchase, to take (a bath), to ride, to get in (a vehicle), to take, to catch (a cold), to put on (years), to get old, to strike one's fancy, to please one, to do, to commit seppuku, indicates respect"
+        "meaning": {
+          "vi": "to call, to summon, to send for, to invite, to eat, to drink, to put on, to wear, to buy, to purchase, to take (a bath), to ride, to get in (a vehicle), to take, to catch (a cold), to put on (years), to get old, to strike one's fancy, to please one, to do, to commit seppuku, indicates respect"
+        },
+        "romaji": "mesu"
       }
     ],
     "radical": {
@@ -283,5 +292,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ec.gif",
     "uri": "https://jisho.org/search/%E5%8F%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiêu",
+    "thiệu",
+    "triệu"
+  ]
 }

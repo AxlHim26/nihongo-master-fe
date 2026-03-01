@@ -19,24 +19,36 @@
       {
         "example": "殴打",
         "reading": "オウダ",
-        "meaning": "hit, strike, blow"
+        "meaning": {
+          "en": "hit, strike, blow"
+        },
+        "romaji": "ouda"
       },
       {
         "example": "殴殺",
         "reading": "オウサツ",
-        "meaning": "beating to death, striking dead"
+        "meaning": {
+          "en": "beating to death, striking dead"
+        },
+        "romaji": "ousatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "殴る",
         "reading": "なぐる",
-        "meaning": "to strike, to hit, to beat, to punch"
+        "meaning": {
+          "vi": "to strike, to hit, to beat, to punch"
+        },
+        "romaji": "naguru"
       },
       {
         "example": "殴る蹴る",
         "reading": "なぐるける",
-        "meaning": "punching and kicking"
+        "meaning": {
+          "vi": "punching and kicking"
+        },
+        "romaji": "nagurukeru"
       }
     ],
     "radical": {
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb4.gif",
     "uri": "https://jisho.org/search/%E6%AE%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "ấu",
+    "ẩu"
+  ]
 }

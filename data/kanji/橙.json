@@ -16,39 +16,60 @@
       {
         "example": "橙色",
         "reading": "ダイダイイロ",
-        "meaning": "orange (color, colour)"
+        "meaning": {
+          "en": "orange (color, colour)"
+        },
+        "romaji": "daidaiiro"
       },
       {
         "example": "橙黄色",
         "reading": "トウコウショク",
-        "meaning": "orange (colour)"
+        "meaning": {
+          "en": "orange (colour)"
+        },
+        "romaji": "toukoushoku"
       },
       {
         "example": "九蓮宝燈",
         "reading": "チューレンポートー",
-        "meaning": "nine gates, winning hand composed of 1-1-1-2-3-4-5-6-7-8-9-9-9 of the same suit plus one additional tile of the same suit"
+        "meaning": {
+          "vi": "nine gates, winning hand composed of 1-1-1-2-3-4-5-6-7-8-9-9-9 of the same suit plus one additional tile of the same suit"
+        },
+        "romaji": "chuurenpootoo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "橙",
         "reading": "だいだい",
-        "meaning": "bitter orange (Citrus aurantium), sour orange, Seville orange, orange (color, colour)"
+        "meaning": {
+          "en": "bitter orange (Citrus aurantium), sour orange, Seville orange, orange (color, colour)"
+        },
+        "romaji": "daidai"
       },
       {
         "example": "橙色",
         "reading": "だいだいいろ",
-        "meaning": "orange (color, colour)"
+        "meaning": {
+          "en": "orange (color, colour)"
+        },
+        "romaji": "daidaiiro"
       },
       {
         "example": "薄橙",
         "reading": "うすだいだい",
-        "meaning": "pale orange (color)"
+        "meaning": {
+          "vi": "pale orange (color)"
+        },
+        "romaji": "usudaidai"
       },
       {
         "example": "夏橙",
         "reading": "なつだいだい",
-        "meaning": "natsumikan (Citrus natsudaidai), Japanese summer orange"
+        "meaning": {
+          "vi": "natsumikan (Citrus natsudaidai), Japanese summer orange"
+        },
+        "romaji": "natsudaidai"
       }
     ],
     "radical": {
@@ -66,5 +87,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a59.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a59.gif",
     "uri": "https://jisho.org/search/%E6%A9%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "chanh",
+    "sập",
+    "tranh",
+    "đắng"
+  ]
 }

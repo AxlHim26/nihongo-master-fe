@@ -314,74 +314,116 @@
       {
         "example": "抜群",
         "reading": "バツグン",
-        "meaning": "outstanding, excellent, exceptional, distinguished, unrivaled, surpassing (e.g. beauty), beyond compare"
+        "meaning": {
+          "vi": "outstanding, excellent, exceptional, distinguished, unrivaled, surpassing (e.g. beauty), beyond compare"
+        },
+        "romaji": "batsugun"
       },
       {
         "example": "抜山蓋世",
         "reading": "バツザンガイセイ",
-        "meaning": "great strength and energy (of a mighty hero), Herculean strength and vitality"
+        "meaning": {
+          "en": "great strength and energy (of a mighty hero), Herculean strength and vitality"
+        },
+        "romaji": "batsuzangaisei"
       },
       {
         "example": "卓抜",
         "reading": "タクバツ",
-        "meaning": "excellence, superiority, preeminence, prevalence"
+        "meaning": {
+          "vi": "excellence, superiority, preeminence, prevalence"
+        },
+        "romaji": "takubatsu"
       },
       {
         "example": "警抜",
         "reading": "ケイバツ",
-        "meaning": "scintillating, extraordinarily excellent"
+        "meaning": {
+          "en": "scintillating, extraordinarily excellent"
+        },
+        "romaji": "keibatsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "抜く",
         "reading": "ぬく",
-        "meaning": "to pull out, to draw out, to extract, to unplug, to weed, to omit, to leave out, to go without, to skip, to do to the end, to do thoroughly, to do completely, to do severely, to let out (e.g. air from a tyre), to drain (e.g. water from a bath), to empty, to pick out, to choose, to select, to extract, to pilfer, to steal, to remove, to get rid of, to take out, to pass, to overtake, to outstrip, to get ahead of, to pierce, to break through, to go through, to cut out (a shape), to create (a pattern) by dying the surrounding area, to seize, to capture, to reduce, to scoop (a story), to take out (an opponent's stones; in go), to masturbate (of a male), to ejaculate (while masturbating), to take (a photo), to record (video)"
+        "meaning": {
+          "vi": "to pull out, to draw out, to extract, to unplug, to weed, to omit, to leave out, to go without, to skip, to do to the end, to do thoroughly, to do completely, to do severely, to let out (e.g. air from a tyre), to drain (e.g. water from a bath), to empty, to pick out, to choose, to select, to extract, to pilfer, to steal, to remove, to get rid of, to take out, to pass, to overtake, to outstrip, to get ahead of, to pierce, to break through, to go through, to cut out (a shape), to create (a pattern) by dying the surrounding area, to seize, to capture, to reduce, to scoop (a story), to take out (an opponent's stones; in go), to masturbate (of a male), to ejaculate (while masturbating), to take (a photo), to record (video)"
+        },
+        "romaji": "nuku"
       },
       {
         "example": "抜くべからざる",
         "reading": "ぬくべからざる",
-        "meaning": "deep-rooted (suspicion, etc.)"
+        "meaning": {
+          "vi": "deep-rooted (suspicion, etc.)"
+        },
+        "romaji": "nukubekarazaru"
       },
       {
         "example": "抜き",
         "reading": "ぬき",
-        "meaning": "leaving out, omitting, skipping, dispensing with, (beating) in succession, in a row"
+        "meaning": {
+          "vi": "leaving out, omitting, skipping, dispensing with, (beating) in succession, in a row"
+        },
+        "romaji": "nuki"
       },
       {
         "example": "抜き打ち",
         "reading": "ぬきうち",
-        "meaning": "drawing a katana and attacking in the same stroke, doing (something) suddenly and without warning, doing without prior notice"
+        "meaning": {
+          "vi": "drawing a katana and attacking in the same stroke, doing (something) suddenly and without warning, doing without prior notice"
+        },
+        "romaji": "nukiuchi"
       },
       {
         "example": "手抜き",
         "reading": "てぬき",
-        "meaning": "omitting crucial steps, cutting corners, skimping, intentional negligence, tenuki, making a move which is not a direct counter to one's opponent's last move"
+        "meaning": {
+          "vi": "omitting crucial steps, cutting corners, skimping, intentional negligence, tenuki, making a move which is not a direct counter to one's opponent's last move"
+        },
+        "romaji": "tenuki"
       },
       {
         "example": "栓抜き",
         "reading": "せんぬき",
-        "meaning": "bottle opener, corkscrew"
+        "meaning": {
+          "vi": "bottle opener, corkscrew"
+        },
+        "romaji": "sennuki"
       },
       {
         "example": "抜ける",
         "reading": "ぬける",
-        "meaning": "to come out, to fall out, to be omitted, to be missing, to escape, to come loose, to fade, to discolour, to wear a hole (e.g. clothes), to leave (e.g. a meeting), to be clear, to be transparent (e.g. of the sky), to be absentminded, to be careless, to be inattentive, to be foolish, to exit (a program loop), to go through, to pass through, to give way, to collapse, to finish a round with more than 88 points (not counting points gained from scoring combinations)"
+        "meaning": {
+          "vi": "to come out, to fall out, to be omitted, to be missing, to escape, to come loose, to fade, to discolour, to wear a hole (e.g. clothes), to leave (e.g. a meeting), to be clear, to be transparent (e.g. of the sky), to be absentminded, to be careless, to be inattentive, to be foolish, to exit (a program loop), to go through, to pass through, to give way, to collapse, to finish a round with more than 88 points (not counting points gained from scoring combinations)"
+        },
+        "romaji": "nukeru"
       },
       {
         "example": "抜けるような青空",
         "reading": "ぬけるようなあおぞら",
-        "meaning": "deep blue sky, bottomless blue sky"
+        "meaning": {
+          "vi": "deep blue sky, bottomless blue sky"
+        },
+        "romaji": "nukeruyounaaozora"
       },
       {
         "example": "抜かす",
         "reading": "ぬかす",
-        "meaning": "to omit, to leave out, to skip, to overtake, to pass, to say, to speak"
+        "meaning": {
+          "vi": "to omit, to leave out, to skip, to overtake, to pass, to say, to speak"
+        },
+        "romaji": "nukasu"
       },
       {
         "example": "抜かる",
         "reading": "ぬかる",
-        "meaning": "to make a mistake"
+        "meaning": {
+          "en": "to make a mistake"
+        },
+        "romaji": "nukaru"
       }
     ],
     "radical": {
@@ -401,5 +443,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629c.gif",
     "uri": "https://jisho.org/search/%E6%8A%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạt",
+    "bội"
+  ]
 }

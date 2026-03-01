@@ -18,12 +18,18 @@
       {
         "example": "拿捕",
         "reading": "ダホ",
-        "meaning": "capture (esp. of a foreign vessel), seizure"
+        "meaning": {
+          "vi": "capture (esp. of a foreign vessel), seizure"
+        },
+        "romaji": "daho"
       },
       {
         "example": "推拿",
         "reading": "スイナ",
-        "meaning": "tui na (Chinese massage)"
+        "meaning": {
+          "en": "tui na (Chinese massage)"
+        },
+        "romaji": "suina"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ff.gif",
     "uri": "https://jisho.org/search/%E6%8B%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "nã"
+  ]
 }

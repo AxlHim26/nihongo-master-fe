@@ -315,44 +315,68 @@
       {
         "example": "百",
         "reading": "ヒャク",
-        "meaning": "hundred, 100"
+        "meaning": {
+          "en": "hundred, 100"
+        },
+        "romaji": "hyaku"
       },
       {
         "example": "１００億",
         "reading": "ヒャクオク",
-        "meaning": "10,000,000,000, ten billion"
+        "meaning": {
+          "en": "10,000,000,000, ten billion"
+        },
+        "romaji": "hyakuoku"
       },
       {
         "example": "９００",
         "reading": "キュウヒャク",
-        "meaning": "900, nine hundred, fool, idiot"
+        "meaning": {
+          "en": "900, nine hundred, fool, idiot"
+        },
+        "romaji": "kyuuhyaku"
       },
       {
         "example": "５００",
         "reading": "ゴヒャク",
-        "meaning": "500, five hundred, many"
+        "meaning": {
+          "en": "500, five hundred, many"
+        },
+        "romaji": "gohyaku"
       },
       {
         "example": "百合",
         "reading": "ビャクゴウ",
-        "meaning": "lily (as an ingredient in traditional Chinese medicine)"
+        "meaning": {
+          "en": "lily (as an ingredient in traditional Chinese medicine)"
+        },
+        "romaji": "byakugou"
       },
       {
         "example": "凡百",
         "reading": "ボンピャク",
-        "meaning": "various, many, all kinds of"
+        "meaning": {
+          "en": "various, many, all kinds of"
+        },
+        "romaji": "bonpyaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "百",
         "reading": "もも",
-        "meaning": "hundred, 100, (a great) many"
+        "meaning": {
+          "en": "hundred, 100, (a great) many"
+        },
+        "romaji": "momo"
       },
       {
         "example": "百重",
         "reading": "ももえ",
-        "meaning": "piling up highly, becoming a large pile"
+        "meaning": {
+          "vi": "piling up highly, becoming a large pile"
+        },
+        "romaji": "momoe"
       }
     ],
     "radical": {
@@ -367,5 +391,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0767e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/767e.gif",
     "uri": "https://jisho.org/search/%E7%99%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "bá",
+    "bách",
+    "mạch"
+  ]
 }

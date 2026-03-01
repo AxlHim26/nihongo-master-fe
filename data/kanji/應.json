@@ -19,7 +19,10 @@
       {
         "example": "応需",
         "reading": "オウジュ",
-        "meaning": "responding to a demand, answering a request"
+        "meaning": {
+          "vi": "responding to a demand, answering a request"
+        },
+        "romaji": "ouju"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c9.gif",
     "uri": "https://jisho.org/search/%E6%87%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "ưng",
+    "ứng"
+  ]
 }

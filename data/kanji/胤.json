@@ -17,29 +17,44 @@
       {
         "example": "胤裔",
         "reading": "インエイ",
-        "meaning": "successor, descendant"
+        "meaning": {
+          "en": "successor, descendant"
+        },
+        "romaji": "in'ei"
       },
       {
         "example": "後胤",
         "reading": "コウイン",
-        "meaning": "descendant, scion"
+        "meaning": {
+          "en": "descendant, scion"
+        },
+        "romaji": "kouin"
       },
       {
         "example": "皇胤",
         "reading": "コウイン",
-        "meaning": "Imperial descendant (posterity)"
+        "meaning": {
+          "vi": "Imperial descendant (posterity)"
+        },
+        "romaji": "kouin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "胤",
         "reading": "たね",
-        "meaning": "issue, offspring, paternal blood"
+        "meaning": {
+          "vi": "issue, offspring, paternal blood"
+        },
+        "romaji": "tane"
       },
       {
         "example": "種違い",
         "reading": "たねちがい",
-        "meaning": "half- (sibling by a different father), uterine, maternal"
+        "meaning": {
+          "en": "half- (sibling by a different father), uterine, maternal"
+        },
+        "romaji": "tanechigai"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e4.gif",
     "uri": "https://jisho.org/search/%E8%83%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "dận"
+  ]
 }

@@ -14,12 +14,18 @@
       {
         "example": "阮咸",
         "reading": "ゲンカン",
-        "meaning": "ruanxian (4 or 5-stringed Chinese lute), ruan"
+        "meaning": {
+          "en": "ruanxian (4 or 5-stringed Chinese lute), ruan"
+        },
+        "romaji": "genkan"
       },
       {
         "example": "阮朝",
         "reading": "ゲンチョウ",
-        "meaning": "Nguyen dynasty (Vietnam; 1802-1945)"
+        "meaning": {
+          "en": "Nguyen dynasty (Vietnam; 1802-1945)"
+        },
+        "romaji": "genchou"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0962e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/962e.gif",
     "uri": "https://jisho.org/search/%E9%98%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguyễn"
+  ]
 }

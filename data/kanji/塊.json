@@ -21,44 +21,68 @@
       {
         "example": "塊茎",
         "reading": "カイケイ",
-        "meaning": "tuber"
+        "meaning": {
+          "en": "tuber"
+        },
+        "romaji": "kaikei"
       },
       {
         "example": "塊鉱",
         "reading": "カイコウ",
-        "meaning": "lump ore"
+        "meaning": {
+          "vi": "lump ore"
+        },
+        "romaji": "kaikou"
       },
       {
         "example": "団塊",
         "reading": "ダンカイ",
-        "meaning": "mass, lump, clod, clump, nodule, baby boom generation (of 1947-1949), babyboomer (born between 1947-1949)"
+        "meaning": {
+          "vi": "mass, lump, clod, clump, nodule, baby boom generation (of 1947-1949), babyboomer (born between 1947-1949)"
+        },
+        "romaji": "dankai"
       },
       {
         "example": "山塊",
         "reading": "サンカイ",
-        "meaning": "mountain mass, massif"
+        "meaning": {
+          "en": "mountain mass, massif"
+        },
+        "romaji": "sankai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "塊",
         "reading": "かたまり",
-        "meaning": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification"
+        "meaning": {
+          "vi": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification"
+        },
+        "romaji": "katamari"
       },
       {
         "example": "塊魂",
         "reading": "かたまりだましい",
-        "meaning": "Katamari Damacy (2004 video game)"
+        "meaning": {
+          "en": "Katamari Damacy (2004 video game)"
+        },
+        "romaji": "katamaridamashii"
       },
       {
         "example": "一塊",
         "reading": "いっかい",
-        "meaning": "one lump, one group"
+        "meaning": {
+          "vi": "one lump, one group"
+        },
+        "romaji": "ikkai"
       },
       {
         "example": "拝金主義の塊",
         "reading": "はいきんしゅぎのかたまり",
-        "meaning": "money-worshiper"
+        "meaning": {
+          "vi": "money-worshiper"
+        },
+        "romaji": "haikinshuginokatamari"
       }
     ],
     "radical": {
@@ -77,5 +101,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0584a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/584a.gif",
     "uri": "https://jisho.org/search/%E5%A1%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "khối"
+  ]
 }

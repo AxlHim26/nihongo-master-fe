@@ -17,22 +17,34 @@
       {
         "example": "転覆",
         "reading": "テンプク",
-        "meaning": "overturning, capsizing, overthrow (e.g. of a government)"
+        "meaning": {
+          "vi": "overturning, capsizing, overthrow (e.g. of a government)"
+        },
+        "romaji": "tenpuku"
       },
       {
         "example": "転倒",
         "reading": "テントウ",
-        "meaning": "fall, falling down, tumbling, toppling (over), inversion, reversal, turning upside-down, getting upset, losing one's presence of mind"
+        "meaning": {
+          "vi": "fall, falling down, tumbling, toppling (over), inversion, reversal, turning upside-down, getting upset, losing one's presence of mind"
+        },
+        "romaji": "tentou"
       },
       {
         "example": "不列顛",
         "reading": "ブリテン",
-        "meaning": "Britain (island), Great Britain"
+        "meaning": {
+          "en": "Britain (island), Great Britain"
+        },
+        "romaji": "buriten"
       },
       {
         "example": "山巓",
         "reading": "サンテン",
-        "meaning": "summit (of a mountain)"
+        "meaning": {
+          "en": "summit (of a mountain)"
+        },
+        "romaji": "santen"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0985b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/985b.gif",
     "uri": "https://jisho.org/search/%E9%A1%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "điên"
+  ]
 }

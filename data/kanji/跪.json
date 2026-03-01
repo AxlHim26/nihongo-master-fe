@@ -16,29 +16,44 @@
       {
         "example": "跪座",
         "reading": "キザ",
-        "meaning": "kneeling with the balls of the feet on the floor and sitting on one's heels"
+        "meaning": {
+          "en": "kneeling with the balls of the feet on the floor and sitting on one's heels"
+        },
+        "romaji": "kiza"
       },
       {
         "example": "跪拝",
         "reading": "キハイ",
-        "meaning": "kneeling and worshipping, worshipping on one's knees"
+        "meaning": {
+          "vi": "kneeling and worshipping, worshipping on one's knees"
+        },
+        "romaji": "kihai"
       },
       {
         "example": "拝跪",
         "reading": "ハイキ",
-        "meaning": "kneeling down (to pray), going down on one's knees"
+        "meaning": {
+          "vi": "kneeling down (to pray), going down on one's knees"
+        },
+        "romaji": "haiki"
       },
       {
         "example": "長跪",
         "reading": "チョウキ",
-        "meaning": "way of sitting by placing both knees on the ground and standing upright"
+        "meaning": {
+          "vi": "way of sitting by placing both knees on the ground and standing upright"
+        },
+        "romaji": "chouki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "跪く",
         "reading": "ひざまずく",
-        "meaning": "to kneel (in respect), to genuflect"
+        "meaning": {
+          "vi": "to kneel (in respect), to genuflect"
+        },
+        "romaji": "hizamazuku"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dea.gif",
     "uri": "https://jisho.org/search/%E8%B7%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "quỵ"
+  ]
 }

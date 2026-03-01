@@ -327,22 +327,34 @@
       {
         "example": "派",
         "reading": "ハ",
-        "meaning": "group, faction, clique, coterie, (political) faction, wing, camp, school (of thought, painting, etc.), sect, denomination"
+        "meaning": {
+          "vi": "group, faction, clique, coterie, (political) faction, wing, camp, school (of thought, painting, etc.), sect, denomination"
+        },
+        "romaji": "ha"
       },
       {
         "example": "派遣",
         "reading": "ハケン",
-        "meaning": "dispatch, despatch, deployment, temporary employee (esp. from an agency), temporary worker, agency temp"
+        "meaning": {
+          "vi": "dispatch, despatch, deployment, temporary employee (esp. from an agency), temporary worker, agency temp"
+        },
+        "romaji": "haken"
       },
       {
         "example": "硬派",
         "reading": "コウハ",
-        "meaning": "hard-liners, diehards, hawks, (young) man with traditionally masculine interests, tough boy, man's man, hard news, reporter who covers political and economic affairs, strait-laced type (with respect to relationships), bullish traders"
+        "meaning": {
+          "vi": "hard-liners, diehards, hawks, (young) man with traditionally masculine interests, tough boy, man's man, hard news, reporter who covers political and economic affairs, strait-laced type (with respect to relationships), bullish traders"
+        },
+        "romaji": "kouha"
       },
       {
         "example": "右派",
         "reading": "ウハ",
-        "meaning": "right wing"
+        "meaning": {
+          "en": "right wing"
+        },
+        "romaji": "uha"
       }
     ],
     "kunyomiExamples": [],
@@ -363,5 +375,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d3e.gif",
     "uri": "https://jisho.org/search/%E6%B4%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "ba",
+    "phái"
+  ]
 }

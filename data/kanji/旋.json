@@ -20,22 +20,34 @@
       {
         "example": "旋律",
         "reading": "センリツ",
-        "meaning": "giai điệu, giai điệu"
+        "meaning": {
+          "vi": "giai điệu, giai điệu"
+        },
+        "romaji": "senritsu"
       },
       {
         "example": "旋風",
         "reading": "センプウ",
-        "meaning": "lốc xoáy, cảm giác, náo động, ồn ào"
+        "meaning": {
+          "vi": "lốc xoáy, cảm giác, náo động, ồn ào"
+        },
+        "romaji": "senpuu"
       },
       {
         "example": "螺旋",
         "reading": "ラセン",
-        "meaning": "xoắn ốc, đinh vít"
+        "meaning": {
+          "vi": "xoắn ốc, đinh vít"
+        },
+        "romaji": "rasen"
       },
       {
         "example": "回旋",
         "reading": "カイセン",
-        "meaning": "xoay, vòng quay, cuộn"
+        "meaning": {
+          "vi": "xoay, vòng quay, cuộn"
+        },
+        "romaji": "kaisen"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065cb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65cb.gif",
     "uri": "https://jisho.org/search/%E6%97%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "toàn",
+    "tuyền"
+  ]
 }

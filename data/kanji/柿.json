@@ -18,29 +18,44 @@
       {
         "example": "熟柿",
         "reading": "ジュクシ",
-        "meaning": "ripe persimmon"
+        "meaning": {
+          "vi": "ripe persimmon"
+        },
+        "romaji": "jukushi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "柿",
         "reading": "かき",
-        "meaning": "kaki, Japanese persimmon (Diospyros kaki)"
+        "meaning": {
+          "vi": "kaki, Japanese persimmon (Diospyros kaki)"
+        },
+        "romaji": "kaki"
       },
       {
         "example": "柿色",
         "reading": "かきいろ",
-        "meaning": "reddish-brown, yellowish-brown"
+        "meaning": {
+          "en": "reddish-brown, yellowish-brown"
+        },
+        "romaji": "kakiiro"
       },
       {
         "example": "筆柿",
         "reading": "ふでがき",
-        "meaning": "fudegaki (variety of sweet Japanese persimmon)"
+        "meaning": {
+          "vi": "fudegaki (variety of sweet Japanese persimmon)"
+        },
+        "romaji": "fudegaki"
       },
       {
         "example": "ピー柿",
         "reading": "ピーかき",
-        "meaning": "mix of peanuts and spicy baked or fried mochi chips in the shape of kaki (Japanese persimmon) seeds"
+        "meaning": {
+          "vi": "mix of peanuts and spicy baked or fried mochi chips in the shape of kaki (Japanese persimmon) seeds"
+        },
+        "romaji": "piikaki"
       }
     ],
     "radical": {
@@ -58,5 +73,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067ff.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67ff.gif",
     "uri": "https://jisho.org/search/%E6%9F%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "sĩ",
+    "thị"
+  ]
 }

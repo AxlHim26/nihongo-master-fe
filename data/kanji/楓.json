@@ -17,44 +17,68 @@
       {
         "example": "楓",
         "reading": "フウ",
-        "meaning": "Formosan sweetgum (Liquidambar formosana)"
+        "meaning": {
+          "en": "Formosan sweetgum (Liquidambar formosana)"
+        },
+        "romaji": "fuu"
       },
       {
         "example": "楓子香",
         "reading": "フウシコウ",
-        "meaning": "galbanum (gum resin from fennel)"
+        "meaning": {
+          "en": "galbanum (gum resin from fennel)"
+        },
+        "romaji": "fuushikou"
       },
       {
         "example": "松楓",
         "reading": "ショウフウ",
-        "meaning": "maple"
+        "meaning": {
+          "vi": "maple"
+        },
+        "romaji": "shoufuu"
       },
       {
         "example": "紅葉葉楓",
         "reading": "モミジバフウ",
-        "meaning": "sweetgum (Liquidambar styraciflua), redgum"
+        "meaning": {
+          "en": "sweetgum (Liquidambar styraciflua), redgum"
+        },
+        "romaji": "momijibafuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "楓",
         "reading": "かえで",
-        "meaning": "maple (Acer spp.), maple tree"
+        "meaning": {
+          "vi": "maple (Acer spp.), maple tree"
+        },
+        "romaji": "kaede"
       },
       {
         "example": "楓鳥",
         "reading": "かえでちょう",
-        "meaning": "black-rumped waxbill (Estrilda troglodytes), estrildid (any bird of family Estrildidae), waxbill"
+        "meaning": {
+          "vi": "black-rumped waxbill (Estrilda troglodytes), estrildid (any bird of family Estrildidae), waxbill"
+        },
+        "romaji": "kaedechou"
       },
       {
         "example": "唐楓",
         "reading": "とうかえで",
-        "meaning": "trident maple, acer buergerianum"
+        "meaning": {
+          "vi": "trident maple, acer buergerianum"
+        },
+        "romaji": "toukaede"
       },
       {
         "example": "砂糖楓",
         "reading": "さとうかえで",
-        "meaning": "sugar maple (Acer saccharum), rock maple"
+        "meaning": {
+          "vi": "sugar maple (Acer saccharum), rock maple"
+        },
+        "romaji": "satoukaede"
       }
     ],
     "radical": {
@@ -72,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06953.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6953.gif",
     "uri": "https://jisho.org/search/%E6%A5%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "phong"
+  ]
 }

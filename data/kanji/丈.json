@@ -19,64 +19,205 @@
       {
         "example": "丈",
         "reading": "ジョウ",
-        "meaning": "3.03 meters (ten shaku), length, measure, Mr., Mrs."
+        "meaning": {
+          "vi": "3,03 mét (mười shaku), chiều dài, số đo, ông, bà.",
+          "en": "3.03 meters (ten shaku), length, measure, Mr., Mrs."
+        },
+        "hanViet": [
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "trượng: đơn vị đo (bằng 10 thước), già cả, dượng",
+          "en": "truong: unit of measurement (equal to 10 meters), old, uncle"
+        },
+        "romaji": "jou"
       },
       {
         "example": "丈夫",
         "reading": "ジョウブ",
-        "meaning": "healthy, robust, strong, solid, durable"
+        "meaning": {
+          "vi": "khỏe mạnh, cường tráng, mạnh mẽ, vững chắc, bền bỉ",
+          "en": "healthy, robust, strong, solid, durable"
+        },
+        "hanViet": [
+          "trượng",
+          "phu"
+        ],
+        "hanVietExplain": {
+          "vi": "丈 (trượng: đơn vị đo (bằng 10 thước)) + 夫 (phu: chồng) → khỏe mạnh, cường tráng, mạnh mẽ, vững chắc, bền bỉ",
+          "en": "丈 (zhuang: unit of measurement (equal to 10 meters)) + 夫 (phu: husband) → healthy, strong, strong, sturdy, durable"
+        },
+        "romaji": "joubu"
       },
       {
         "example": "気丈",
         "reading": "キジョウ",
-        "meaning": "stout-hearted, firm, courageous, brave, tough"
+        "meaning": {
+          "vi": "kiên cường, kiên cường, dũng cảm, dũng cảm, cứng rắn",
+          "en": "stout-hearted, firm, courageous, brave, tough"
+        },
+        "hanViet": [
+          "khí",
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "気 (khí: khí, hơi) + 丈 (trượng: đơn vị đo (bằng 10 thước)) → kiên cường, kiên cường, dũng cảm, dũng cảm, cứng rắn",
+          "en": "気 (qi: air, breath) + 丈 (zhang: unit of measurement (equal to 10 meters)) → resilient, tenacious, brave, brave, tough"
+        },
+        "romaji": "kijou"
       },
       {
         "example": "方丈",
         "reading": "ホウジョウ",
-        "meaning": "square jō (approx. 10 sq feet), abbot's chamber, chief priest"
+        "meaning": {
+          "vi": "vuông jō (khoảng 10 feet vuông), phòng trụ trì, linh mục trưởng",
+          "en": "square jō (approx. 10 sq feet), abbot's chamber, chief priest"
+        },
+        "hanViet": [
+          "bàng",
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "方 (bàng: phía) + 丈 (trượng: đơn vị đo (bằng 10 thước)) → vuông jō (khoảng 10 feet vuông), phòng trụ trì, linh mục trưởng",
+          "en": "方 (bang: side) + 丈 (zhang: unit of measurement (equal to 10 meters)) → square jō (about 10 square feet), abbot's room, chief priest"
+        },
+        "romaji": "houjou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丈",
         "reading": "たけ",
-        "meaning": "height, stature, length (esp. of clothing), all (one has), everything, magnificence (of a waka poem, etc.)"
+        "meaning": {
+          "vi": "chiều cao, tầm vóc, chiều dài (đặc biệt là quần áo), tất cả (một người có), mọi thứ, sự lộng lẫy (của một bài thơ waka, v.v.)",
+          "en": "height, stature, length (esp. of clothing), all (one has), everything, magnificence (of a waka poem, etc.)"
+        },
+        "hanViet": [
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "trượng: đơn vị đo (bằng 10 thước), già cả, dượng",
+          "en": "truong: unit of measurement (equal to 10 meters), old, uncle"
+        },
+        "romaji": "take"
       },
       {
         "example": "丈比べ",
         "reading": "たけくらべ",
-        "meaning": "comparison of statures"
+        "meaning": {
+          "vi": "so sánh tầm vóc",
+          "en": "comparison of statures"
+        },
+        "hanViet": [
+          "trượng",
+          "bì"
+        ],
+        "hanVietExplain": {
+          "vi": "丈 (trượng: đơn vị đo (bằng 10 thước)) + 比 (bì: so sánh, đọ, bì) → so sánh tầm vóc",
+          "en": "丈 (zhuang: unit of measurement (equal to 10 meters)) + 比 (bi: compare, match, ta) → compare stature"
+        },
+        "romaji": "takekurabe"
       },
       {
         "example": "草丈",
         "reading": "くさたけ",
-        "meaning": "rice plant's height"
+        "meaning": {
+          "vi": "chiều cao cây lúa",
+          "en": "rice plant's height"
+        },
+        "hanViet": [
+          "thảo",
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "草 (thảo: cỏ, thảo mộc) + 丈 (trượng: đơn vị đo (bằng 10 thước)) → chiều cao cây lúa",
+          "en": "草 (grass: grass, herb) + 丈 (zhang: unit of measurement (equal to 10 meters)) → height of rice plant"
+        },
+        "romaji": "kusatake"
       },
       {
         "example": "着丈",
         "reading": "きたけ",
-        "meaning": "dress length"
+        "meaning": {
+          "vi": "chiều dài váy",
+          "en": "dress length"
+        },
+        "hanViet": [
+          "hồ",
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "着 (hồ: mặc áo) + 丈 (trượng: đơn vị đo (bằng 10 thước)) → chiều dài váy",
+          "en": "着 (hu: wearing a shirt) + 丈 (zhang: unit of measurement (equal to 10 meters)) → skirt length"
+        },
+        "romaji": "kitake"
       },
       {
         "example": "丈",
         "reading": "だけ",
-        "meaning": "only, just, merely, simply, no more than, nothing but, alone, as much as, to the extent of, enough to"
+        "meaning": {
+          "vi": "chỉ, chỉ, đơn thuần, đơn giản, không hơn, không có gì nhưng, một mình, nhiều đến mức, đủ để",
+          "en": "only, just, merely, simply, no more than, nothing but, alone, as much as, to the extent of, enough to"
+        },
+        "hanViet": [
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "trượng: đơn vị đo (bằng 10 thước), già cả, dượng",
+          "en": "truong: unit of measurement (equal to 10 meters), old, uncle"
+        },
+        "romaji": "dake"
       },
       {
         "example": "丈に",
         "reading": "だけに",
-        "meaning": "as one would expect from ..., given that ... (naturally ...), because ..., being ..., precisely because ..., all the more because of ..., on account of ..., ... being what it is, only to, only for, only in"
+        "meaning": {
+          "vi": "như người ta mong đợi từ ..., cho rằng ... (tự nhiên ...), bởi vì ..., là ..., chính xác là bởi vì ..., hơn thế nữa là vì ..., vì ..., ... là những gì nó là, chỉ để, chỉ dành cho, chỉ trong",
+          "en": "as one would expect from ..., given that ... (naturally ...), because ..., being ..., precisely because ..., all the more because of ..., on account of ..., ... being what it is, only to, only for, only in"
+        },
+        "hanViet": [
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "trượng: đơn vị đo (bằng 10 thước), già cả, dượng",
+          "en": "truong: unit of measurement (equal to 10 meters), old, uncle"
+        },
+        "romaji": "dakeni"
       },
       {
         "example": "一度だけ",
         "reading": "いちどだけ",
-        "meaning": "only once"
+        "meaning": {
+          "vi": "chỉ một lần",
+          "en": "only once"
+        },
+        "hanViet": [
+          "nhất",
+          "đạc"
+        ],
+        "hanVietExplain": {
+          "vi": "一 (nhất: một, 1) + 度 (đạc: đo lường) → chỉ một lần",
+          "en": "一 (most: one, 1) + 度 (dac: measure) → only once"
+        },
+        "romaji": "ichidodake"
       },
       {
         "example": "七分丈",
         "reading": "しちぶたけ",
-        "meaning": "three-quarter length (usu. clothing)"
+        "meaning": {
+          "vi": "chiều dài ba phần tư (thông thường quần áo)",
+          "en": "three-quarter length (usu. clothing)"
+        },
+        "hanViet": [
+          "thất",
+          "phân",
+          "trượng"
+        ],
+        "hanVietExplain": {
+          "vi": "七 (thất: bảy, 7) + 分 (phân: phân chia) + 丈 (trượng: đơn vị đo (bằng 10 thước)) → chiều dài ba phần tư (thông thường quần áo)",
+          "en": "七 (seventh: seven, 7) + 分 (feng: division) + 丈 (zhang: unit of measurement (equal to 10 meters)) → three-quarter length (normal clothing)"
+        },
+        "romaji": "shichibutake"
       }
     ],
     "radical": {
@@ -92,5 +233,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e08.gif",
     "uri": "https://jisho.org/search/%E4%B8%88%23kanji"
+  },
+  "hanViet": [
+    "trượng"
+  ],
+  "hanVietExplain": {
+    "vi": "trượng: đơn vị đo (bằng 10 thước), già cả, dượng",
+    "en": "truong: unit of measurement (equal to 10 meters), old, uncle"
+  },
+  "meaning": {
+    "vi": "chiều dài, mười shaku, thước đo, ông, bà, chiều cao, tầm vóc, tất cả (một người có), chỉ, vậy thôi, chỉ đơn thuần",
+    "en": "length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely"
   }
 }

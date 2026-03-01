@@ -19,34 +19,52 @@
       {
         "example": "羞恥",
         "reading": "シュウチ",
-        "meaning": "e thẹn, xấu hổ"
+        "meaning": {
+          "vi": "e thẹn, xấu hổ"
+        },
+        "romaji": "shuuchi"
       },
       {
         "example": "羞悪",
         "reading": "シュウオ",
-        "meaning": "xấu hổ và ghét cái ác"
+        "meaning": {
+          "vi": "xấu hổ và ghét cái ác"
+        },
+        "romaji": "shuuo"
       },
       {
         "example": "嬌羞",
         "reading": "キョウシュウ",
-        "meaning": "duyên dáng và e lệ"
+        "meaning": {
+          "vi": "duyên dáng và e lệ"
+        },
+        "romaji": "kyoushuu"
       },
       {
         "example": "含羞",
         "reading": "ガンシュウ",
-        "meaning": "sự e thẹn"
+        "meaning": {
+          "vi": "sự e thẹn"
+        },
+        "romaji": "ganshuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恥じる",
         "reading": "はじる",
-        "meaning": "cảm thấy xấu hổ"
+        "meaning": {
+          "vi": "cảm thấy xấu hổ"
+        },
+        "romaji": "hajiru"
       },
       {
         "example": "恥ずかしい",
         "reading": "はずかしい",
-        "meaning": "xấu hổ, ngượng, nhục nhã, e thẹn, đáng xấu hổ"
+        "meaning": {
+          "vi": "xấu hổ, ngượng, nhục nhã, e thẹn, đáng xấu hổ"
+        },
+        "romaji": "hazukashii"
       }
     ],
     "radical": {
@@ -67,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07f9e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7f9e.gif",
     "uri": "https://jisho.org/search/%E7%BE%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "tu"
+  ]
 }

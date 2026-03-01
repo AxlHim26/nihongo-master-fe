@@ -14,12 +14,18 @@
       {
         "example": "膀胱",
         "reading": "ボウコウ",
-        "meaning": "urinary bladder"
+        "meaning": {
+          "en": "urinary bladder"
+        },
+        "romaji": "boukou"
       },
       {
         "example": "人工膀胱",
         "reading": "ジンコウボウコウ",
-        "meaning": "artificial bladder, artificial urinary bladder"
+        "meaning": {
+          "en": "artificial bladder, artificial urinary bladder"
+        },
+        "romaji": "jinkouboukou"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f1.gif",
     "uri": "https://jisho.org/search/%E8%83%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "quang"
+  ]
 }

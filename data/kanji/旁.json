@@ -19,39 +19,60 @@
       {
         "example": "傍若無人",
         "reading": "ボウジャクブジン",
-        "meaning": "behaving outrageously as though there were no one around, acting without consideration for others, arrogance, audacity, insolence"
+        "meaning": {
+          "en": "behaving outrageously as though there were no one around, acting without consideration for others, arrogance, audacity, insolence"
+        },
+        "romaji": "boujakubujin"
       },
       {
         "example": "傍証",
         "reading": "ボウショウ",
-        "meaning": "supporting evidence, corroboration"
+        "meaning": {
+          "vi": "supporting evidence, corroboration"
+        },
+        "romaji": "boushou"
       },
       {
         "example": "偏旁",
         "reading": "ヘンボウ",
-        "meaning": "left and right kanji radicals, kanji radical positions"
+        "meaning": {
+          "vi": "left and right kanji radicals, kanji radical positions"
+        },
+        "romaji": "henbou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旁",
         "reading": "つくり",
-        "meaning": "right-hand radical of a character"
+        "meaning": {
+          "en": "right-hand radical of a character"
+        },
+        "romaji": "tsukuri"
       },
       {
         "example": "旁",
         "reading": "かたがた",
-        "meaning": "incidentally, at the same time"
+        "meaning": {
+          "en": "incidentally, at the same time"
+        },
+        "romaji": "katagata"
       },
       {
         "example": "散歩旁",
         "reading": "さんぽかたがた",
-        "meaning": "while taking a walk"
+        "meaning": {
+          "en": "while taking a walk"
+        },
+        "romaji": "sanpokatagata"
       },
       {
         "example": "傍ら",
         "reading": "かたわら",
-        "meaning": "side, edge, beside, besides, nearby, while (doing), in addition to, at the same time"
+        "meaning": {
+          "en": "side, edge, beside, besides, nearby, while (doing), in addition to, at the same time"
+        },
+        "romaji": "katawara"
       }
     ],
     "radical": {
@@ -69,5 +90,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c1.gif",
     "uri": "https://jisho.org/search/%E6%97%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "banh",
+    "bàng",
+    "bạng",
+    "phang"
+  ]
 }

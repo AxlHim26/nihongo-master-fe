@@ -315,22 +315,34 @@
       {
         "example": "駐",
         "reading": "チュウ",
-        "meaning": "parking, parking lot, parking space"
+        "meaning": {
+          "vi": "parking, parking lot, parking space"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "駐在",
         "reading": "チュウザイ",
-        "meaning": "residence, stay, (job) posting, being stationed (overseas, etc.), residential police box, residential police box officer"
+        "meaning": {
+          "vi": "residence, stay, (job) posting, being stationed (overseas, etc.), residential police box, residential police box officer"
+        },
+        "romaji": "chuuzai"
       },
       {
         "example": "常駐",
         "reading": "ジョウチュウ",
-        "meaning": "permanent stationing, staying permanently, resident (program, file, etc.)"
+        "meaning": {
+          "vi": "permanent stationing, staying permanently, resident (program, file, etc.)"
+        },
+        "romaji": "jouchuu"
       },
       {
         "example": "進駐",
         "reading": "シンチュウ",
-        "meaning": "occupation, stationing"
+        "meaning": {
+          "vi": "occupation, stationing"
+        },
+        "romaji": "shinchuu"
       }
     ],
     "kunyomiExamples": [],
@@ -348,5 +360,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d0.gif",
     "uri": "https://jisho.org/search/%E9%A7%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "trú"
+  ]
 }

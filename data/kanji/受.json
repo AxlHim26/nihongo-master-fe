@@ -369,34 +369,52 @@
       {
         "example": "受",
         "reading": "ジュ",
-        "meaning": "vedana (sensation)"
+        "meaning": {
+          "en": "vedana (sensation)"
+        },
+        "romaji": "ju"
       },
       {
         "example": "受益",
         "reading": "ジュエキ",
-        "meaning": "benefitting by, benefiting by"
+        "meaning": {
+          "en": "benefitting by, benefiting by"
+        },
+        "romaji": "jueki"
       },
       {
         "example": "授受",
         "reading": "ジュジュ",
-        "meaning": "giving and receiving, transferring, transfer, changing hands"
+        "meaning": {
+          "en": "giving and receiving, transferring, transfer, changing hands"
+        },
+        "romaji": "juju"
       },
       {
         "example": "収受",
         "reading": "シュウジュ",
-        "meaning": "reception, receiving"
+        "meaning": {
+          "vi": "reception, receiving"
+        },
+        "romaji": "shuuju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "受ける",
         "reading": "うける",
-        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+        "meaning": {
+          "vi": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+        },
+        "romaji": "ukeru"
       },
       {
         "example": "受かる",
         "reading": "うかる",
-        "meaning": "to pass (examination)"
+        "meaning": {
+          "vi": "to pass (examination)"
+        },
+        "romaji": "ukaru"
       }
     ],
     "radical": {
@@ -412,5 +430,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53d7.gif",
     "uri": "https://jisho.org/search/%E5%8F%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "thâu",
+    "thọ",
+    "thụ"
+  ]
 }

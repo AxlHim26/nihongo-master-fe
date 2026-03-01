@@ -22,19 +22,28 @@
       {
         "example": "浸漬",
         "reading": "シンシ",
-        "meaning": "dipping, soaking, immersing"
+        "meaning": {
+          "vi": "dipping, soaking, immersing"
+        },
+        "romaji": "shinshi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "漬ける",
         "reading": "つける",
-        "meaning": "to soak (in), to steep, to dip, to dunk, to pickle, to preserve (in salt, vinegar, etc.)"
+        "meaning": {
+          "vi": "to soak (in), to steep, to dip, to dunk, to pickle, to preserve (in salt, vinegar, etc.)"
+        },
+        "romaji": "tsukeru"
       },
       {
         "example": "浸かる",
         "reading": "つかる",
-        "meaning": "to be submerged, to be soaked, to be pickled, to be well seasoned, to be totally immersed (in a condition, e.g. laziness)"
+        "meaning": {
+          "vi": "to be submerged, to be soaked, to be pickled, to be well seasoned, to be totally immersed (in a condition, e.g. laziness)"
+        },
+        "romaji": "tsukaru"
       }
     ],
     "radical": {
@@ -58,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f2c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f2c.gif",
     "uri": "https://jisho.org/search/%E6%BC%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "tí",
+    "tý"
+  ]
 }

@@ -300,34 +300,52 @@
       {
         "example": "担当者",
         "reading": "タントウシャ",
-        "meaning": "person in charge (of an area of work, etc.), person responsible, contact (person)"
+        "meaning": {
+          "vi": "person in charge (of an area of work, etc.), person responsible, contact (person)"
+        },
+        "romaji": "tantousha"
       },
       {
         "example": "担当",
         "reading": "タントウ",
-        "meaning": "being in charge (of an area of responsibility), being responsible (for a work role, etc.)"
+        "meaning": {
+          "vi": "being in charge (of an area of responsibility), being responsible (for a work role, etc.)"
+        },
+        "romaji": "tantou"
       },
       {
         "example": "同担",
         "reading": "ドウタン",
-        "meaning": "someone who supports the same member (of an idol group, etc.) as oneself"
+        "meaning": {
+          "vi": "someone who supports the same member (of an idol group, etc.) as oneself"
+        },
+        "romaji": "doutan"
       },
       {
         "example": "自担",
         "reading": "ジタン",
-        "meaning": "one's favourite member of an idol group"
+        "meaning": {
+          "vi": "one's favourite member of an idol group"
+        },
+        "romaji": "jitan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "担ぐ",
         "reading": "かつぐ",
-        "meaning": "to shoulder, to carry on one's shoulder, to nominate for a position, to choose as a representative, to take (someone) for a ride, to deceive, to take in, to be caught up in superstition"
+        "meaning": {
+          "vi": "to shoulder, to carry on one's shoulder, to nominate for a position, to choose as a representative, to take (someone) for a ride, to deceive, to take in, to be caught up in superstition"
+        },
+        "romaji": "katsugu"
       },
       {
         "example": "担う",
         "reading": "になう",
-        "meaning": "to carry on one's shoulder, to shoulder, to bear, to bear (a burden, responsibility, etc.), to take upon oneself"
+        "meaning": {
+          "vi": "to carry on one's shoulder, to shoulder, to bear, to bear (a burden, responsibility, etc.), to take upon oneself"
+        },
+        "romaji": "ninau"
       }
     ],
     "radical": {
@@ -346,5 +364,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c5.gif",
     "uri": "https://jisho.org/search/%E6%8B%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "đam",
+    "đãn",
+    "đảm"
+  ]
 }

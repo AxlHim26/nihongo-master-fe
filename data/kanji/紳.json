@@ -17,22 +17,34 @@
       {
         "example": "紳士",
         "reading": "シンシ",
-        "meaning": "quý ông"
+        "meaning": {
+          "vi": "quý ông"
+        },
+        "romaji": "shinshi"
       },
       {
         "example": "紳士協定",
         "reading": "シンシキョウテイ",
-        "meaning": "thỏa thuận danh dự"
+        "meaning": {
+          "vi": "thỏa thuận danh dự"
+        },
+        "romaji": "shinshikyoutei"
       },
       {
         "example": "貴紳",
         "reading": "キシン",
-        "meaning": "quý tộc, người có địa vị"
+        "meaning": {
+          "vi": "quý tộc, người có địa vị"
+        },
+        "romaji": "kishin"
       },
       {
         "example": "縉紳",
         "reading": "シンシン",
-        "meaning": "người có chức vị, quan chức"
+        "meaning": {
+          "vi": "người có chức vị, quan chức"
+        },
+        "romaji": "shinshin"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d33.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d33.gif",
     "uri": "https://jisho.org/search/%E7%B4%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thân"
+  ]
 }

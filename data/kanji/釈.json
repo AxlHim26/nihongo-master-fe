@@ -22,27 +22,42 @@
       {
         "example": "釈明",
         "reading": "シャクメイ",
-        "meaning": "explanation, vindication"
+        "meaning": {
+          "vi": "explanation, vindication"
+        },
+        "romaji": "shakumei"
       },
       {
         "example": "釈放",
         "reading": "シャクホウ",
-        "meaning": "release, liberation, acquittal"
+        "meaning": {
+          "en": "release, liberation, acquittal"
+        },
+        "romaji": "shakuhou"
       },
       {
         "example": "保釈",
         "reading": "ホシャク",
-        "meaning": "bail, releasing on bail"
+        "meaning": {
+          "en": "bail, releasing on bail"
+        },
+        "romaji": "hoshaku"
       },
       {
         "example": "講釈",
         "reading": "コウシャク",
-        "meaning": "explanation (of a text, phrase, etc.), lecture, exposition, explanation (in a pompous fashion), (long-winded) lecture, storytelling"
+        "meaning": {
+          "vi": "explanation (of a text, phrase, etc.), lecture, exposition, explanation (in a pompous fashion), (long-winded) lecture, storytelling"
+        },
+        "romaji": "koushaku"
       },
       {
         "example": "釈然",
         "reading": "シャクゼン",
-        "meaning": "fully satisfied (with an explanation, apology, etc.), happy, cleared of doubt"
+        "meaning": {
+          "vi": "fully satisfied (with an explanation, apology, etc.), happy, cleared of doubt"
+        },
+        "romaji": "shakuzen"
       }
     ],
     "kunyomiExamples": [],
@@ -60,5 +75,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091c8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91c8.gif",
     "uri": "https://jisho.org/search/%E9%87%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch",
+    "thích"
+  ]
 }

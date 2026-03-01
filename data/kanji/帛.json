@@ -16,17 +16,26 @@
       {
         "example": "帛",
         "reading": "ハク",
-        "meaning": "silk"
+        "meaning": {
+          "en": "silk"
+        },
+        "romaji": "haku"
       },
       {
         "example": "幣帛",
         "reading": "ヘイハク",
-        "meaning": "offering of cloth (rope, paper, etc.)"
+        "meaning": {
+          "vi": "offering of cloth (rope, paper, etc.)"
+        },
+        "romaji": "heihaku"
       },
       {
         "example": "竹帛",
         "reading": "チクハク",
-        "meaning": "history"
+        "meaning": {
+          "en": "history"
+        },
+        "romaji": "chikuhaku"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e1b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e1b.gif",
     "uri": "https://jisho.org/search/%E5%B8%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạch"
+  ]
 }

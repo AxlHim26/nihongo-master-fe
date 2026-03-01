@@ -268,44 +268,68 @@
       {
         "example": "幅",
         "reading": "フク",
-        "meaning": "scroll, counter for scrolls"
+        "meaning": {
+          "en": "scroll, counter for scrolls"
+        },
+        "romaji": "fuku"
       },
       {
         "example": "幅員",
         "reading": "フクイン",
-        "meaning": "width (of a road, bridge, etc.)"
+        "meaning": {
+          "en": "width (of a road, bridge, etc.)"
+        },
+        "romaji": "fukuin"
       },
       {
         "example": "増幅",
         "reading": "ゾウフク",
-        "meaning": "amplification, magnification, amplification, making larger"
+        "meaning": {
+          "vi": "amplification, magnification, amplification, making larger"
+        },
+        "romaji": "zoufuku"
       },
       {
         "example": "双幅",
         "reading": "ソウフク",
-        "meaning": "pair of hanging scrolls"
+        "meaning": {
+          "vi": "pair of hanging scrolls"
+        },
+        "romaji": "soufuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幅",
         "reading": "はば",
-        "meaning": "width, breadth, freedom (e.g. of thought), latitude, gap, difference (e.g. in price), range (e.g. of voice)"
+        "meaning": {
+          "vi": "width, breadth, freedom (e.g. of thought), latitude, gap, difference (e.g. in price), range (e.g. of voice)"
+        },
+        "romaji": "haba"
       },
       {
         "example": "幅広い",
         "reading": "はばひろい",
-        "meaning": "extensive, wide, broad"
+        "meaning": {
+          "en": "extensive, wide, broad"
+        },
+        "romaji": "habahiroi"
       },
       {
         "example": "小幅",
         "reading": "こはば",
-        "meaning": "small, narrow, single-breadth cloth (approx. 36 cm wide)"
+        "meaning": {
+          "vi": "small, narrow, single-breadth cloth (approx. 36 cm wide)"
+        },
+        "romaji": "kohaba"
       },
       {
         "example": "値幅",
         "reading": "ねはば",
-        "meaning": "price range or fluctuation"
+        "meaning": {
+          "vi": "price range or fluctuation"
+        },
+        "romaji": "nehaba"
       }
     ],
     "radical": {
@@ -322,5 +346,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e45.gif",
     "uri": "https://jisho.org/search/%E5%B9%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "bức",
+    "phúc"
+  ]
 }

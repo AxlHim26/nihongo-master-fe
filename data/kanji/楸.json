@@ -18,12 +18,18 @@
       {
         "example": "楸",
         "reading": "きささげ",
-        "meaning": "yellow catalpa (Catalpa ovata), Chinese catalpa"
+        "meaning": {
+          "vi": "yellow catalpa (Catalpa ovata), Chinese catalpa"
+        },
+        "romaji": "kisasage"
       },
       {
         "example": "楸",
         "reading": "ひさぎ",
-        "meaning": "yellow catalpa (Catalpa ovata), Chinese catalpa, Japanese mallotus (Mallotus japonicus)"
+        "meaning": {
+          "vi": "yellow catalpa (Catalpa ovata), Chinese catalpa, Japanese mallotus (Mallotus japonicus)"
+        },
+        "romaji": "hisagi"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06978.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6978.gif",
     "uri": "https://jisho.org/search/%E6%A5%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thu"
+  ]
 }

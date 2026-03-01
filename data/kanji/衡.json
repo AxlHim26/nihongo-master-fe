@@ -17,22 +17,34 @@
       {
         "example": "衡器",
         "reading": "コウキ",
-        "meaning": "scale, balance, weighing machine"
+        "meaning": {
+          "en": "scale, balance, weighing machine"
+        },
+        "romaji": "kouki"
       },
       {
         "example": "衡平",
         "reading": "コウヘイ",
-        "meaning": "balance, equity"
+        "meaning": {
+          "en": "balance, equity"
+        },
+        "romaji": "kouhei"
       },
       {
         "example": "拡大均衡",
         "reading": "カクダイキンコウ",
-        "meaning": "an expanded or expanding equilibrium"
+        "meaning": {
+          "vi": "an expanded or expanding equilibrium"
+        },
+        "romaji": "kakudaikinkou"
       },
       {
         "example": "合従連衡",
         "reading": "ガッショウレンコウ",
-        "meaning": "alliance (of the Six Kingdoms against the Qin dynasty, and of individual Kingdoms with the Qin dynasty), (tactic of) making and breaking alliances (to benefit oneself as the occasion demands), resorting to alliances as a diplomatic expedient"
+        "meaning": {
+          "vi": "alliance (of the Six Kingdoms against the Qin dynasty, and of individual Kingdoms with the Qin dynasty), (tactic of) making and breaking alliances (to benefit oneself as the occasion demands), resorting to alliances as a diplomatic expedient"
+        },
+        "romaji": "gasshourenkou"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08861.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8861.gif",
     "uri": "https://jisho.org/search/%E8%A1%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoành",
+    "hành"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "慚恚",
         "reading": "ザンイ",
-        "meaning": "being ashamed and angry"
+        "meaning": {
+          "en": "being ashamed and angry"
+        },
+        "romaji": "zan'i"
       },
       {
         "example": "瞋恚",
         "reading": "シンイ",
-        "meaning": "dosa (ill will, antipathy), irateness, anger"
+        "meaning": {
+          "vi": "dosa (ill will, antipathy), irateness, anger"
+        },
+        "romaji": "shin'i"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0605a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/605a.gif",
     "uri": "https://jisho.org/search/%E6%81%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "huệ",
+    "khuể"
+  ]
 }

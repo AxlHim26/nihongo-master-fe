@@ -14,22 +14,34 @@
       {
         "example": "酥",
         "reading": "ソ",
-        "meaning": "so (condensed milk product eaten in ancient Japan)"
+        "meaning": {
+          "vi": "so (condensed milk product eaten in ancient Japan)"
+        },
+        "romaji": "so"
       },
       {
         "example": "酥油",
         "reading": "ソユ",
-        "meaning": "butter from cow's milk, storax (resin), styrax, toad venom"
+        "meaning": {
+          "en": "butter from cow's milk, storax (resin), styrax, toad venom"
+        },
+        "romaji": "soyu"
       },
       {
         "example": "生酥",
         "reading": "ショウソ",
-        "meaning": "freshly curdled butter"
+        "meaning": {
+          "en": "freshly curdled butter"
+        },
+        "romaji": "shouso"
       },
       {
         "example": "熟酥",
         "reading": "ジュクソ",
-        "meaning": "sarpis (type of butter)"
+        "meaning": {
+          "vi": "sarpis (type of butter)"
+        },
+        "romaji": "jukuso"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09165.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9165.gif",
     "uri": "https://jisho.org/search/%E9%85%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tô"
+  ]
 }

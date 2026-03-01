@@ -17,12 +17,18 @@
       {
         "example": "搭載",
         "reading": "トウサイ",
-        "meaning": "loading (on a ship), equipping (an aircraft, car, etc.) with, being equipped with"
+        "meaning": {
+          "vi": "loading (on a ship), equipping (an aircraft, car, etc.) with, being equipped with"
+        },
+        "romaji": "tousai"
       },
       {
         "example": "搭乗",
         "reading": "トウジョウ",
-        "meaning": "embarkation, boarding (a ship or aircraft)"
+        "meaning": {
+          "vi": "embarkation, boarding (a ship or aircraft)"
+        },
+        "romaji": "toujou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642d.gif",
     "uri": "https://jisho.org/search/%E6%90%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tháp",
+    "đáp"
+  ]
 }

@@ -19,19 +19,28 @@
       {
         "example": "才媛",
         "reading": "サイエン",
-        "meaning": "literary woman, talented woman"
+        "meaning": {
+          "en": "literary woman, talented woman"
+        },
+        "romaji": "saien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姫",
         "reading": "ひめ",
-        "meaning": "young lady of noble birth, princess (esp. in Western contexts, tales, etc.), girl, small, cute, lesser (in names of species), prostitute"
+        "meaning": {
+          "vi": "young lady of noble birth, princess (esp. in Western contexts, tales, etc.), girl, small, cute, lesser (in names of species), prostitute"
+        },
+        "romaji": "hime"
       },
       {
         "example": "愛媛",
         "reading": "えひめ",
-        "meaning": "Ehime (prefecture)"
+        "meaning": {
+          "vi": "Ehime (prefecture)"
+        },
+        "romaji": "ehime"
       }
     ],
     "radical": {
@@ -48,5 +57,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a9b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a9b.gif",
     "uri": "https://jisho.org/search/%E5%AA%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "viên",
+    "viện"
+  ]
 }

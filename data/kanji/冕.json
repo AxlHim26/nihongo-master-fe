@@ -17,12 +17,18 @@
       {
         "example": "冕",
         "reading": "ベン",
-        "meaning": "benkan (loại mũ lễ vuông)"
+        "meaning": {
+          "vi": "benkan (loại mũ lễ vuông)"
+        },
+        "romaji": "ben"
       },
       {
         "example": "冕冠",
         "reading": "ベンカン",
-        "meaning": "benkan, mũ lễ vuông có tua trang sức"
+        "meaning": {
+          "vi": "benkan, mũ lễ vuông có tua trang sức"
+        },
+        "romaji": "benkan"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05195.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5195.gif",
     "uri": "https://jisho.org/search/%E5%86%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "miện"
+  ]
 }

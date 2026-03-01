@@ -17,29 +17,44 @@
       {
         "example": "鏤刻",
         "reading": "ルコク",
-        "meaning": "engraving, carving (into), polishing (a piece of writing), improving"
+        "meaning": {
+          "vi": "engraving, carving (into), polishing (a piece of writing), improving"
+        },
+        "romaji": "rukoku"
       },
       {
         "example": "鏤骨",
         "reading": "ルコツ",
-        "meaning": "painstaking efforts"
+        "meaning": {
+          "vi": "painstaking efforts"
+        },
+        "romaji": "rukotsu"
       },
       {
         "example": "撥鏤",
         "reading": "バチル",
-        "meaning": "engraving of lacquer-stained ivory (popular during the Tang dynasty)"
+        "meaning": {
+          "vi": "engraving of lacquer-stained ivory (popular during the Tang dynasty)"
+        },
+        "romaji": "bachiru"
       },
       {
         "example": "鏤刻",
         "reading": "ルコク",
-        "meaning": "engraving, carving (into), polishing (a piece of writing), improving"
+        "meaning": {
+          "vi": "engraving, carving (into), polishing (a piece of writing), improving"
+        },
+        "romaji": "rukoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "散りばめる",
         "reading": "ちりばめる",
-        "meaning": "to inlay, to set, to stud (e.g. star-studded sky), to enchase (something) with, to mount (gems)"
+        "meaning": {
+          "en": "to inlay, to set, to stud (e.g. star-studded sky), to enchase (something) with, to mount (gems)"
+        },
+        "romaji": "chiribameru"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93e4.gif",
     "uri": "https://jisho.org/search/%E9%8F%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lũ"
+  ]
 }

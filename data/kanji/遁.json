@@ -17,29 +17,44 @@
       {
         "example": "遁甲",
         "reading": "トンコウ",
-        "meaning": "type of astrology"
+        "meaning": {
+          "vi": "type of astrology"
+        },
+        "romaji": "tonkou"
       },
       {
         "example": "遯竄",
         "reading": "トンザン",
-        "meaning": "fleeing into hiding"
+        "meaning": {
+          "en": "fleeing into hiding"
+        },
+        "romaji": "tonzan"
       },
       {
         "example": "水遁",
         "reading": "スイトン",
-        "meaning": "ninjutsu art of water-escape"
+        "meaning": {
+          "vi": "ninjutsu art of water-escape"
+        },
+        "romaji": "suiton"
       },
       {
         "example": "隠遁",
         "reading": "イントン",
-        "meaning": "retirement (from the world), seclusion"
+        "meaning": {
+          "en": "retirement (from the world), seclusion"
+        },
+        "romaji": "inton"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "逃れる",
         "reading": "のがれる",
-        "meaning": "to escape"
+        "meaning": {
+          "vi": "to escape"
+        },
+        "romaji": "nogareru"
       }
     ],
     "radical": {
@@ -62,5 +77,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09041.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9041.gif",
     "uri": "https://jisho.org/search/%E9%81%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuân",
+    "tuần",
+    "độn"
+  ]
 }

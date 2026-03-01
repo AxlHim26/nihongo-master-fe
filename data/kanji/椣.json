@@ -15,7 +15,10 @@
       {
         "example": "四手",
         "reading": "しで",
-        "meaning": "zigzag-shaped paper streamer often used to adorn Shinto-related objects, hornbeam (deciduous tree in the birch family)"
+        "meaning": {
+          "vi": "zigzag-shaped paper streamer often used to adorn Shinto-related objects, hornbeam (deciduous tree in the birch family)"
+        },
+        "romaji": "shide"
       }
     ],
     "radical": {
@@ -33,5 +36,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06923.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6923.gif",
     "uri": "https://jisho.org/search/%E6%A4%A3%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

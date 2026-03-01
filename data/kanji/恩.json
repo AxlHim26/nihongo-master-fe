@@ -274,22 +274,34 @@
       {
         "example": "恩",
         "reading": "オン",
-        "meaning": "favour, favor, obligation, debt of gratitude"
+        "meaning": {
+          "en": "favour, favor, obligation, debt of gratitude"
+        },
+        "romaji": "on"
       },
       {
         "example": "恩返し",
         "reading": "オンガエシ",
-        "meaning": "paying back a favour, repayment (of an obligation, kindness, etc.)"
+        "meaning": {
+          "vi": "paying back a favour, repayment (of an obligation, kindness, etc.)"
+        },
+        "romaji": "ongaeshi"
       },
       {
         "example": "迎恩",
         "reading": "ゲイオン",
-        "meaning": "welcoming reception"
+        "meaning": {
+          "vi": "welcoming reception"
+        },
+        "romaji": "geion"
       },
       {
         "example": "聖恩",
         "reading": "セイオン",
-        "meaning": "imperial blessings or favor (favour)"
+        "meaning": {
+          "vi": "imperial blessings or favor (favour)"
+        },
+        "romaji": "seion"
       }
     ],
     "kunyomiExamples": [],
@@ -310,5 +322,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06069.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6069.gif",
     "uri": "https://jisho.org/search/%E6%81%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "ân"
+  ]
 }

@@ -294,37 +294,58 @@
       {
         "example": "芸",
         "reading": "ゲイ",
-        "meaning": "art, craft, accomplishment, artistic skill, technique, performance"
+        "meaning": {
+          "vi": "art, craft, accomplishment, artistic skill, technique, performance"
+        },
+        "romaji": "gei"
       },
       {
         "example": "芸者",
         "reading": "ゲイシャ",
-        "meaning": "geisha, professional female entertainer, usu. at traditional banquets"
+        "meaning": {
+          "vi": "geisha, professional female entertainer, usu. at traditional banquets"
+        },
+        "romaji": "geisha"
       },
       {
         "example": "民芸",
         "reading": "ミンゲイ",
-        "meaning": "folk craft, folk art"
+        "meaning": {
+          "en": "folk craft, folk art"
+        },
+        "romaji": "mingei"
       },
       {
         "example": "文芸",
         "reading": "ブンゲイ",
-        "meaning": "literature, the arts, art and literature, liberal arts"
+        "meaning": {
+          "en": "literature, the arts, art and literature, liberal arts"
+        },
+        "romaji": "bungei"
       },
       {
         "example": "芸香",
         "reading": "ウンコウ",
-        "meaning": "common rue (Ruta graveolens)"
+        "meaning": {
+          "en": "common rue (Ruta graveolens)"
+        },
+        "romaji": "unkou"
       },
       {
         "example": "芸艸堂",
         "reading": "ウンソウドウ",
-        "meaning": "Unsodo"
+        "meaning": {
+          "en": "Unsodo"
+        },
+        "romaji": "unsoudou"
       },
       {
         "example": "耕耘",
         "reading": "コウウン",
-        "meaning": "plowing and weeding, farming, cultivation, tillage"
+        "meaning": {
+          "vi": "plowing and weeding, farming, cultivation, tillage"
+        },
+        "romaji": "kouun"
       }
     ],
     "kunyomiExamples": [],
@@ -344,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082b8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82b8.gif",
     "uri": "https://jisho.org/search/%E8%8A%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "vân"
+  ]
 }

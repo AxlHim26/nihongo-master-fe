@@ -17,24 +17,36 @@
       {
         "example": "鶫",
         "reading": "ツグミ",
-        "meaning": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        "meaning": {
+          "vi": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        },
+        "romaji": "tsugumi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鶫",
         "reading": "つぐみ",
-        "meaning": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        "meaning": {
+          "vi": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        },
+        "romaji": "tsugumi"
       },
       {
         "example": "宿木鶇",
         "reading": "やどりぎつぐみ",
-        "meaning": "mistle thrush (Turdus viscivorus), missel thrush, stormcock"
+        "meaning": {
+          "en": "mistle thrush (Turdus viscivorus), missel thrush, stormcock"
+        },
+        "romaji": "yadorigitsugumi"
       },
       {
         "example": "駒鶇",
         "reading": "こまつぐみ",
-        "meaning": "American robin (Turdus migratorius)"
+        "meaning": {
+          "en": "American robin (Turdus migratorius)"
+        },
+        "romaji": "komatsugumi"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d87.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d87.gif",
     "uri": "https://jisho.org/search/%E9%B6%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "đông"
+  ]
 }

@@ -20,39 +20,60 @@
       {
         "example": "駆使",
         "reading": "クシ",
-        "meaning": "sử dụng tự do, tận dụng, thành thạo, bắt làm việc cật lực"
+        "meaning": {
+          "vi": "sử dụng tự do, tận dụng, thành thạo, bắt làm việc cật lực"
+        },
+        "romaji": "kushi"
       },
       {
         "example": "駆除",
         "reading": "クジョ",
-        "meaning": "tiêu diệt (sâu bọ), trừ tận gốc"
+        "meaning": {
+          "vi": "tiêu diệt (sâu bọ), trừ tận gốc"
+        },
+        "romaji": "kujo"
       },
       {
         "example": "先駆",
         "reading": "センク",
-        "meaning": "người đi đầu, tiên phong, lãnh đạo"
+        "meaning": {
+          "vi": "người đi đầu, tiên phong, lãnh đạo"
+        },
+        "romaji": "senku"
       },
       {
         "example": "上手く行く",
         "reading": "ウマクイク",
-        "meaning": "diễn ra suôn sẻ, thành công, quan hệ hòa bình"
+        "meaning": {
+          "vi": "diễn ra suôn sẻ, thành công, quan hệ hòa bình"
+        },
+        "romaji": "umakuiku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "翔る",
         "reading": "かける",
-        "meaning": "bay vút, bay, chạy, lao"
+        "meaning": {
+          "vi": "bay vút, bay, chạy, lao"
+        },
+        "romaji": "kakeru"
       },
       {
         "example": "駆ける",
         "reading": "かける",
-        "meaning": "chạy, lao, đua, phi (ngựa), tiến (về địch), xung phong"
+        "meaning": {
+          "vi": "chạy, lao, đua, phi (ngựa), tiến (về địch), xung phong"
+        },
+        "romaji": "kakeru"
       },
       {
         "example": "駆る",
         "reading": "かる",
-        "meaning": "thúc giục, thúc đẩy, lái tốc độ cao"
+        "meaning": {
+          "vi": "thúc giục, thúc đẩy, lái tốc độ cao"
+        },
+        "romaji": "karu"
       }
     ],
     "radical": {
@@ -70,5 +91,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c6.gif",
     "uri": "https://jisho.org/search/%E9%A7%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "khu"
+  ]
 }

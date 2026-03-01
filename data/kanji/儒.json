@@ -17,22 +17,34 @@
       {
         "example": "儒",
         "reading": "ジュ",
-        "meaning": "Confucianism, Confucianist, Chinese scholar"
+        "meaning": {
+          "en": "Confucianism, Confucianist, Chinese scholar"
+        },
+        "romaji": "ju"
       },
       {
         "example": "儒教",
         "reading": "ジュキョウ",
-        "meaning": "Confucianism"
+        "meaning": {
+          "en": "Confucianism"
+        },
+        "romaji": "jukyou"
       },
       {
         "example": "大儒",
         "reading": "タイジュ",
-        "meaning": "great Confucian (scholar), great scholar, person of great erudition"
+        "meaning": {
+          "vi": "great Confucian (scholar), great scholar, person of great erudition"
+        },
+        "romaji": "taiju"
       },
       {
         "example": "坑儒",
         "reading": "コウジュ",
-        "meaning": "burying Confucian scholars alive"
+        "meaning": {
+          "en": "burying Confucian scholars alive"
+        },
+        "romaji": "kouju"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05112.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5112.gif",
     "uri": "https://jisho.org/search/%E5%84%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "nho",
+    "nhu"
+  ]
 }

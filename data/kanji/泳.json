@@ -282,29 +282,44 @@
       {
         "example": "泳者",
         "reading": "エイシャ",
-        "meaning": "a swimmer"
+        "meaning": {
+          "en": "a swimmer"
+        },
+        "romaji": "eisha"
       },
       {
         "example": "泳動",
         "reading": "エイドウ",
-        "meaning": "migration, movement, phoresis"
+        "meaning": {
+          "vi": "migration, movement, phoresis"
+        },
+        "romaji": "eidou"
       },
       {
         "example": "遠泳",
         "reading": "エンエイ",
-        "meaning": "long-distance swimming"
+        "meaning": {
+          "en": "long-distance swimming"
+        },
+        "romaji": "en'ei"
       },
       {
         "example": "着衣泳",
         "reading": "チャクイエイ",
-        "meaning": "swimming fully-clothed"
+        "meaning": {
+          "en": "swimming fully-clothed"
+        },
+        "romaji": "chakuiei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泳ぐ",
         "reading": "およぐ",
-        "meaning": "to swim, to struggle through (a crowd), to make one's way through the world, to get along (in life), to totter, to lose one's balance"
+        "meaning": {
+          "en": "to swim, to struggle through (a crowd), to make one's way through the world, to get along (in life), to totter, to lose one's balance"
+        },
+        "romaji": "oyogu"
       }
     ],
     "radical": {
@@ -324,5 +339,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cf3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cf3.gif",
     "uri": "https://jisho.org/search/%E6%B3%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "vịnh"
+  ]
 }

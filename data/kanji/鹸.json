@@ -18,17 +18,26 @@
       {
         "example": "鹸化",
         "reading": "ケンカ",
-        "meaning": "saponification, conversion to soap"
+        "meaning": {
+          "vi": "saponification, conversion to soap"
+        },
+        "romaji": "kenka"
       },
       {
         "example": "固形石鹸",
         "reading": "コケイセッケン",
-        "meaning": "bar soap, solid soap"
+        "meaning": {
+          "vi": "bar soap, solid soap"
+        },
+        "romaji": "kokeisekken"
       },
       {
         "example": "逆性石鹸",
         "reading": "ギャクセイセッケン",
-        "meaning": "cationic soap, invert soap, positive soap"
+        "meaning": {
+          "vi": "cationic soap, invert soap, positive soap"
+        },
+        "romaji": "gyakuseisekken"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +57,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e78.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e78.gif",
     "uri": "https://jisho.org/search/%E9%B9%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "dảm",
+    "kiềm",
+    "thiêm"
+  ]
 }

@@ -20,7 +20,10 @@
       {
         "example": "困厄",
         "reading": "コンヤク",
-        "meaning": "distress, disaster"
+        "meaning": {
+          "en": "distress, disaster"
+        },
+        "romaji": "kon'yaku"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09628.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9628.gif",
     "uri": "https://jisho.org/search/%E9%98%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "ách",
+    "ải"
+  ]
 }

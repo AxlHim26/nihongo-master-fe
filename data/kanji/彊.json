@@ -17,17 +17,26 @@
       {
         "example": "強弩",
         "reading": "キョウド",
-        "meaning": "strong bow, stiff bow"
+        "meaning": {
+          "en": "strong bow, stiff bow"
+        },
+        "romaji": "kyoudo"
       },
       {
         "example": "至強",
         "reading": "シキョウ",
-        "meaning": "unparalleled strength, the strongest, supreme strength"
+        "meaning": {
+          "vi": "unparalleled strength, the strongest, supreme strength"
+        },
+        "romaji": "shikyou"
       },
       {
         "example": "自彊",
         "reading": "ジキョウ",
-        "meaning": "strenuous effort"
+        "meaning": {
+          "en": "strenuous effort"
+        },
+        "romaji": "jikyou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f4a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f4a.gif",
     "uri": "https://jisho.org/search/%E5%BD%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "cương",
+    "cường",
+    "cưỡng"
+  ]
 }

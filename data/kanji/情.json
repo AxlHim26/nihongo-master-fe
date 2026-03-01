@@ -396,49 +396,76 @@
       {
         "example": "情",
         "reading": "ジョウ",
-        "meaning": "feelings, emotion, sentiment, compassion, sympathy, passion, affection, love, the way things really are, the actual situation"
+        "meaning": {
+          "vi": "feelings, emotion, sentiment, compassion, sympathy, passion, affection, love, the way things really are, the actual situation"
+        },
+        "romaji": "jou"
       },
       {
         "example": "情感",
         "reading": "ジョウカン",
-        "meaning": "feeling, sensitivity, emotion"
+        "meaning": {
+          "en": "feeling, sensitivity, emotion"
+        },
+        "romaji": "joukan"
       },
       {
         "example": "風情",
         "reading": "フゼイ",
-        "meaning": "taste, elegance, charm, appearance, air, the likes of ..., lowly people such as ..."
+        "meaning": {
+          "vi": "taste, elegance, charm, appearance, air, the likes of ..., lowly people such as ..."
+        },
+        "romaji": "fuzei"
       },
       {
         "example": "内情",
         "reading": "ナイジョウ",
-        "meaning": "internal conditions, true state of affairs"
+        "meaning": {
+          "en": "internal conditions, true state of affairs"
+        },
+        "romaji": "naijou"
       },
       {
         "example": "傾城",
         "reading": "ケイセイ",
-        "meaning": "beauty, siren, courtesan, prostitute"
+        "meaning": {
+          "vi": "beauty, siren, courtesan, prostitute"
+        },
+        "romaji": "keisei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "情け",
         "reading": "なさけ",
-        "meaning": "pity, sympathy, compassion, mercy, affection, love"
+        "meaning": {
+          "vi": "pity, sympathy, compassion, mercy, affection, love"
+        },
+        "romaji": "nasake"
       },
       {
         "example": "情けない",
         "reading": "なさけない",
-        "meaning": "miserable, pitiable, shameful, deplorable, pathetic"
+        "meaning": {
+          "vi": "miserable, pitiable, shameful, deplorable, pathetic"
+        },
+        "romaji": "nasakenai"
       },
       {
         "example": "恋情",
         "reading": "れんじょう",
-        "meaning": "love, attachment, lovesickness"
+        "meaning": {
+          "en": "love, attachment, lovesickness"
+        },
+        "romaji": "renjou"
       },
       {
         "example": "武士の情け",
         "reading": "ぶしのなさけ",
-        "meaning": "samurai's compassion, samurai-like mercy"
+        "meaning": {
+          "vi": "samurai's compassion, samurai-like mercy"
+        },
+        "romaji": "bushinonasake"
       }
     ],
     "radical": {
@@ -461,5 +488,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60c5.gif",
     "uri": "https://jisho.org/search/%E6%83%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "tình"
+  ]
 }

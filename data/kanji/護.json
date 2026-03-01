@@ -336,29 +336,44 @@
       {
         "example": "護岸",
         "reading": "ゴガン",
-        "meaning": "river dike"
+        "meaning": {
+          "en": "river dike"
+        },
+        "romaji": "gogan"
       },
       {
         "example": "護衛",
         "reading": "ゴエイ",
-        "meaning": "guard, convoy, escort"
+        "meaning": {
+          "en": "guard, convoy, escort"
+        },
+        "romaji": "goei"
       },
       {
         "example": "警護",
         "reading": "ケイゴ",
-        "meaning": "bodyguard, escort"
+        "meaning": {
+          "en": "bodyguard, escort"
+        },
+        "romaji": "keigo"
       },
       {
         "example": "愛護",
         "reading": "アイゴ",
-        "meaning": "protection, tender care"
+        "meaning": {
+          "vi": "protection, tender care"
+        },
+        "romaji": "aigo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "守る",
         "reading": "まもる",
-        "meaning": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow"
+        "meaning": {
+          "vi": "to protect, to guard, to defend, to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow"
+        },
+        "romaji": "mamoru"
       }
     ],
     "radical": {
@@ -378,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b77.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b77.gif",
     "uri": "https://jisho.org/search/%E8%AD%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "hộ"
+  ]
 }

@@ -321,34 +321,52 @@
       {
         "example": "絡繹",
         "reading": "ラクエキ",
-        "meaning": "constant (stream of traffic), incessant"
+        "meaning": {
+          "en": "constant (stream of traffic), incessant"
+        },
+        "romaji": "rakueki"
       },
       {
         "example": "絡糸嬢",
         "reading": "ラクシジョウ",
-        "meaning": "cricket, bush-cricket"
+        "meaning": {
+          "en": "cricket, bush-cricket"
+        },
+        "romaji": "rakushijou"
       },
       {
         "example": "短絡",
         "reading": "タンラク",
-        "meaning": "short circuit, short, illogical jump, drawing a hasty inference (between two events), jumping to conclusions, acting rashly"
+        "meaning": {
+          "vi": "short circuit, short, illogical jump, drawing a hasty inference (between two events), jumping to conclusions, acting rashly"
+        },
+        "romaji": "tanraku"
       },
       {
         "example": "脈絡",
         "reading": "ミャクラク",
-        "meaning": "logical connection, chain of reasoning, coherence, context, blood vessel"
+        "meaning": {
+          "en": "logical connection, chain of reasoning, coherence, context, blood vessel"
+        },
+        "romaji": "myakuraku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "絡む",
         "reading": "からむ",
-        "meaning": "to twine, to get tangled, to get entangled, to get caught (in), to be involved (e.g. of money in a matter), to get involved (in), to be a factor (in), to have an influence, to pick a quarrel (with), to find fault (with), to pester, to hassle"
+        "meaning": {
+          "vi": "to twine, to get tangled, to get entangled, to get caught (in), to be involved (e.g. of money in a matter), to get involved (in), to be a factor (in), to have an influence, to pick a quarrel (with), to find fault (with), to pester, to hassle"
+        },
+        "romaji": "karamu"
       },
       {
         "example": "絡まる",
         "reading": "からまる",
-        "meaning": "to be entwined, to be involved"
+        "meaning": {
+          "en": "to be entwined, to be involved"
+        },
+        "romaji": "karamaru"
       }
     ],
     "radical": {
@@ -369,5 +387,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d61.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d61.gif",
     "uri": "https://jisho.org/search/%E7%B5%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạc"
+  ]
 }

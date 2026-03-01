@@ -17,17 +17,24 @@
       {
         "example": "【マムシ】",
         "reading": "pit viper (esp. the mamushi, Gloydius blomhoffi)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "pit viper (esp. the mamushi, Gloydius blomhoffi)"
       },
       {
         "example": "蝮草",
         "reading": "まむしぐさ",
-        "meaning": "Arisaema serratum (species of jack-in-the-pulpit)"
+        "meaning": {
+          "vi": "Arisaema serratum (species of jack-in-the-pulpit)"
+        },
+        "romaji": "mamushigusa"
       },
       {
         "example": "日本蝮",
         "reading": "にほんまむし",
-        "meaning": "Japanese copperhead (Gloydius blomhoffii), mamushi pit-viper"
+        "meaning": {
+          "vi": "Japanese copperhead (Gloydius blomhoffii), mamushi pit-viper"
+        },
+        "romaji": "nihonmamushi"
       }
     ],
     "radical": {
@@ -44,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0876e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/876e.gif",
     "uri": "https://jisho.org/search/%E8%9D%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phúc"
+  ]
 }

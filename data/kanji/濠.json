@@ -17,29 +17,44 @@
       {
         "example": "壕",
         "reading": "ゴウ",
-        "meaning": "moat, fosse, trench, ditch, underground air-raid shelter, dugout"
+        "meaning": {
+          "en": "moat, fosse, trench, ditch, underground air-raid shelter, dugout"
+        },
+        "romaji": "gou"
       },
       {
         "example": "豪",
         "reading": "ゴウ",
-        "meaning": "Australia"
+        "meaning": {
+          "en": "Australia"
+        },
+        "romaji": "gou"
       },
       {
         "example": "環濠",
         "reading": "カンゴウ",
-        "meaning": "(circular) moat"
+        "meaning": {
+          "en": "(circular) moat"
+        },
+        "romaji": "kangou"
       },
       {
         "example": "水濠",
         "reading": "スイゴウ",
-        "meaning": "water jump (on a racetrack, etc.), moat (around a castle, etc.)"
+        "meaning": {
+          "vi": "water jump (on a racetrack, etc.), moat (around a castle, etc.)"
+        },
+        "romaji": "suigou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "堀",
         "reading": "ほり",
-        "meaning": "moat, fosse, canal, ditch"
+        "meaning": {
+          "en": "moat, fosse, canal, ditch"
+        },
+        "romaji": "hori"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fe0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fe0.gif",
     "uri": "https://jisho.org/search/%E6%BF%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "hào"
+  ]
 }

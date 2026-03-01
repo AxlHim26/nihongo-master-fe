@@ -17,7 +17,10 @@
       {
         "example": "柬埔寨",
         "reading": "カンボジア",
-        "meaning": "Cambodia"
+        "meaning": {
+          "en": "Cambodia"
+        },
+        "romaji": "kanbojia"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67ec.gif",
     "uri": "https://jisho.org/search/%E6%9F%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "giản"
+  ]
 }

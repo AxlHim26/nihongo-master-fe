@@ -364,44 +364,68 @@
       {
         "example": "首",
         "reading": "シュ",
-        "meaning": "counter for songs and poems"
+        "meaning": {
+          "vi": "counter for songs and poems"
+        },
+        "romaji": "shu"
       },
       {
         "example": "首級",
         "reading": "シュキュウ",
-        "meaning": "decapitated head of an enemy"
+        "meaning": {
+          "vi": "decapitated head of an enemy"
+        },
+        "romaji": "shukyuu"
       },
       {
         "example": "元首",
         "reading": "ゲンシュ",
-        "meaning": "sovereign, ruler, head of state"
+        "meaning": {
+          "en": "sovereign, ruler, head of state"
+        },
+        "romaji": "genshu"
       },
       {
         "example": "百人一首",
         "reading": "ヒャクニンイッシュ",
-        "meaning": "(Ogura) Hyakunin Isshu, classical Japanese anthology of one hundred Japanese waka by one hundred poets, hyakunin isshu karuta, hyakunin isshu poetry cards, deck of 200 cards, the 100 waka of the Hyakunin Isshu split between them, to be matched together during the game"
+        "meaning": {
+          "vi": "(Ogura) Hyakunin Isshu, classical Japanese anthology of one hundred Japanese waka by one hundred poets, hyakunin isshu karuta, hyakunin isshu poetry cards, deck of 200 cards, the 100 waka of the Hyakunin Isshu split between them, to be matched together during the game"
+        },
+        "romaji": "hyakunin'isshu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "首",
         "reading": "くび",
-        "meaning": "neck, head, dismissal (from a job), firing, sacking"
+        "meaning": {
+          "en": "neck, head, dismissal (from a job), firing, sacking"
+        },
+        "romaji": "kubi"
       },
       {
         "example": "首飾り",
         "reading": "くびかざり",
-        "meaning": "necklace, choker"
+        "meaning": {
+          "en": "necklace, choker"
+        },
+        "romaji": "kubikazari"
       },
       {
         "example": "縛り首",
         "reading": "しばりくび",
-        "meaning": "(death by) hanging"
+        "meaning": {
+          "en": "(death by) hanging"
+        },
+        "romaji": "shibarikubi"
       },
       {
         "example": "猪首",
         "reading": "いくび",
-        "meaning": "bull neck"
+        "meaning": {
+          "en": "bull neck"
+        },
+        "romaji": "ikubi"
       }
     ],
     "radical": {
@@ -418,5 +442,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09996.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9996.gif",
     "uri": "https://jisho.org/search/%E9%A6%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "thú",
+    "thủ"
+  ]
 }

@@ -22,69 +22,108 @@
       {
         "example": "請求",
         "reading": "セイキュウ",
-        "meaning": "claim, demand, charge, application, request, billing (for a service)"
+        "meaning": {
+          "vi": "claim, demand, charge, application, request, billing (for a service)"
+        },
+        "romaji": "seikyuu"
       },
       {
         "example": "請願",
         "reading": "セイガン",
-        "meaning": "petition"
+        "meaning": {
+          "vi": "petition"
+        },
+        "romaji": "seigan"
       },
       {
         "example": "招請",
         "reading": "ショウセイ",
-        "meaning": "invitation"
+        "meaning": {
+          "en": "invitation"
+        },
+        "romaji": "shousei"
       },
       {
         "example": "懇請",
         "reading": "コンセイ",
-        "meaning": "appeal, entreaty, request"
+        "meaning": {
+          "vi": "appeal, entreaty, request"
+        },
+        "romaji": "konsei"
       },
       {
         "example": "普請",
         "reading": "フシン",
-        "meaning": "building, construction, group effort by Buddhist practitioners, group activities by a community (e.g. cleaning, etc.)"
+        "meaning": {
+          "vi": "building, construction, group effort by Buddhist practitioners, group activities by a community (e.g. cleaning, etc.)"
+        },
+        "romaji": "fushin"
       },
       {
         "example": "安普請",
         "reading": "ヤスブシン",
-        "meaning": "cheap structure (e.g. of houses)"
+        "meaning": {
+          "vi": "cheap structure (e.g. of houses)"
+        },
+        "romaji": "yasubushin"
       },
       {
         "example": "請",
         "reading": "ショウ",
-        "meaning": "request, invitation, privilege in criminal law given to nobles of the fifth rank or above (ritsuryō system)"
+        "meaning": {
+          "vi": "request, invitation, privilege in criminal law given to nobles of the fifth rank or above (ritsuryō system)"
+        },
+        "romaji": "shou"
       },
       {
         "example": "招待",
         "reading": "ショウタイ",
-        "meaning": "invitation"
+        "meaning": {
+          "en": "invitation"
+        },
+        "romaji": "shoutai"
       },
       {
         "example": "招請",
         "reading": "ショウセイ",
-        "meaning": "invitation"
+        "meaning": {
+          "en": "invitation"
+        },
+        "romaji": "shousei"
       },
       {
         "example": "拝請",
         "reading": "ハイショウ",
-        "meaning": "humbly inviting"
+        "meaning": {
+          "en": "humbly inviting"
+        },
+        "romaji": "haishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乞う",
         "reading": "こう",
-        "meaning": "to beg, to ask, to request, to invite, to pray, to wish"
+        "meaning": {
+          "vi": "to beg, to ask, to request, to invite, to pray, to wish"
+        },
+        "romaji": "kou"
       },
       {
         "example": "乞うご期待",
         "reading": "こうごきたい",
-        "meaning": "don't miss it, stay tuned, coming soon, look forward to it"
+        "meaning": {
+          "en": "don't miss it, stay tuned, coming soon, look forward to it"
+        },
+        "romaji": "kougokitai"
       },
       {
         "example": "受ける",
         "reading": "うける",
-        "meaning": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+        "meaning": {
+          "vi": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+        },
+        "romaji": "ukeru"
       }
     ],
     "radical": {
@@ -106,5 +145,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acb.gif",
     "uri": "https://jisho.org/search/%E8%AB%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "thỉnh",
+    "tình",
+    "tính"
+  ]
 }

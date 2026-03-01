@@ -16,14 +16,20 @@
       {
         "example": "宴",
         "reading": "ウタゲ",
-        "meaning": "party, banquet, feast"
+        "meaning": {
+          "vi": "party, banquet, feast"
+        },
+        "romaji": "utage"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宴",
         "reading": "うたげ",
-        "meaning": "party, banquet, feast"
+        "meaning": {
+          "vi": "party, banquet, feast"
+        },
+        "romaji": "utage"
       }
     ],
     "radical": {
@@ -46,5 +52,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b8c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b8c.gif",
     "uri": "https://jisho.org/search/%E8%AE%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "yên",
+    "yến"
+  ]
 }

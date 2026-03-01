@@ -21,7 +21,10 @@
       {
         "example": "淵",
         "reading": "ふち",
-        "meaning": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+        "meaning": {
+          "vi": "deep pool, deep water, abyss, depths (e.g. of despair), grip (e.g. of death)"
+        },
+        "romaji": "fuchi"
       }
     ],
     "radical": {
@@ -42,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e0a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e0a.gif",
     "uri": "https://jisho.org/search/%E6%B8%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "uyên"
+  ]
 }

@@ -23,44 +23,68 @@
       {
         "example": "遣唐使",
         "reading": "ケントウシ",
-        "meaning": "envoy to Tang China"
+        "meaning": {
+          "en": "envoy to Tang China"
+        },
+        "romaji": "kentoushi"
       },
       {
         "example": "遣欧",
         "reading": "ケンオウ",
-        "meaning": "dispatching to Europe (e.g. an envoy), sending to Europe"
+        "meaning": {
+          "vi": "dispatching to Europe (e.g. an envoy), sending to Europe"
+        },
+        "romaji": "ken'ou"
       },
       {
         "example": "先遣",
         "reading": "センケン",
-        "meaning": "sending ahead"
+        "meaning": {
+          "en": "sending ahead"
+        },
+        "romaji": "senken"
       },
       {
         "example": "差遣",
         "reading": "サケン",
-        "meaning": "dispatch, despatch, sending"
+        "meaning": {
+          "vi": "dispatch, despatch, sending"
+        },
+        "romaji": "saken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "使う",
         "reading": "つかう",
-        "meaning": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"
+        "meaning": {
+          "vi": "to use (a tool, method, etc.), to make use of, to put to use, to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate, to use (time, money, etc.), to spend, to consume, to use (language), to speak"
+        },
+        "romaji": "tsukau"
       },
       {
         "example": "遣わす",
         "reading": "つかわす",
-        "meaning": "to send, to dispatch, to despatch, to bestow (favour, etc.), to grant (e.g. pardon)"
+        "meaning": {
+          "vi": "to send, to dispatch, to despatch, to bestow (favour, etc.), to grant (e.g. pardon)"
+        },
+        "romaji": "tsukawasu"
       },
       {
         "example": "遣る",
         "reading": "やる",
-        "meaning": "to do, to undertake, to perform, to play (a game), to study, to send, to dispatch, to despatch, to put, to move, to turn (one's head, glance, etc.), to give (esp. to someone of equal or lower status), to let have, to present, to bestow, to confer, to make (a vehicle) go faster, to run (a business), to keep, to be engaged in, to practice (law, medicine, etc.), to practise, to have (food, drink, etc.), to eat, to drink, to smoke, to hold (a performance), to perform, to show, to ease (one's mind), to harm, to injure, to kill, to have sex, to fuck, to bang, to live, to get by, to get along, to do ... completely, to do ... broadly, to do ... to a great distance, to do ... for (someone of equal or lower status), to do ... to, to make active efforts to ..."
+        "meaning": {
+          "vi": "to do, to undertake, to perform, to play (a game), to study, to send, to dispatch, to despatch, to put, to move, to turn (one's head, glance, etc.), to give (esp. to someone of equal or lower status), to let have, to present, to bestow, to confer, to make (a vehicle) go faster, to run (a business), to keep, to be engaged in, to practice (law, medicine, etc.), to practise, to have (food, drink, etc.), to eat, to drink, to smoke, to hold (a performance), to perform, to show, to ease (one's mind), to harm, to injure, to kill, to have sex, to fuck, to bang, to live, to get by, to get along, to do ... completely, to do ... broadly, to do ... to a great distance, to do ... for (someone of equal or lower status), to do ... to, to make active efforts to ..."
+        },
+        "romaji": "yaru"
       },
       {
         "example": "やる気",
         "reading": "やるき",
-        "meaning": "will (to do something), drive, motivation, enthusiasm, eagerness"
+        "meaning": {
+          "en": "will (to do something), drive, motivation, enthusiasm, eagerness"
+        },
+        "romaji": "yaruki"
       }
     ],
     "radical": {
@@ -82,5 +106,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09063.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9063.gif",
     "uri": "https://jisho.org/search/%E9%81%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiển",
+    "khán"
+  ]
 }

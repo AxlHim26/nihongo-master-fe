@@ -19,24 +19,36 @@
       {
         "example": "耐",
         "reading": "タイ",
-        "meaning": "-proof, -resistant"
+        "meaning": {
+          "vi": "-proof, -resistant"
+        },
+        "romaji": "tai"
       },
       {
         "example": "耐久",
         "reading": "タイキュウ",
-        "meaning": "endurance, persistence"
+        "meaning": {
+          "vi": "endurance, persistence"
+        },
+        "romaji": "taikyuu"
       },
       {
         "example": "不耐",
         "reading": "フタイ",
-        "meaning": "intolerance (to food, drug, etc.)"
+        "meaning": {
+          "en": "intolerance (to food, drug, etc.)"
+        },
+        "romaji": "futai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "耐える",
         "reading": "たえる",
-        "meaning": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to"
+        "meaning": {
+          "vi": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to"
+        },
+        "romaji": "taeru"
       }
     ],
     "radical": {
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08010.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8010.gif",
     "uri": "https://jisho.org/search/%E8%80%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "năng",
+    "nại"
+  ]
 }

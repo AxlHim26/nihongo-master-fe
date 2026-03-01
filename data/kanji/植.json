@@ -14,7 +14,7 @@
         "japanese": "植物（しょくぶつ）",
         "meaning": {
           "english": "plant, vegetation",
-        "vietnamese": "thực vật, cây cối"
+          "vietnamese": "thực vật, cây cối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "植物園（しょくぶつえん）",
         "meaning": {
           "english": "botanical garden",
-        "vietnamese": "vườn bách thảo"
+          "vietnamese": "vườn bách thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "植民地（しょくみんち）",
         "meaning": {
           "english": "colony",
-        "vietnamese": "thuộc địa"
+          "vietnamese": "thuộc địa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "臓器移植（ぞうきいしょく）",
         "meaning": {
           "english": "organ transplant",
-        "vietnamese": "cấy ghép nội tạng"
+          "vietnamese": "cấy ghép nội tạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "移植する（いしょくする）",
         "meaning": {
           "english": "transplant, implant",
-        "vietnamese": "cấy ghép, cấy"
+          "vietnamese": "cấy ghép, cấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_e.opus",
@@ -79,7 +79,7 @@
         "japanese": "入植する（にゅうしょくする）",
         "meaning": {
           "english": "settle, immigrate",
-        "vietnamese": "định cư, nhập cư"
+          "vietnamese": "định cư, nhập cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_f.opus",
@@ -92,7 +92,7 @@
         "japanese": "植える（うえる）",
         "meaning": {
           "english": "plant, grow [v.t.]",
-        "vietnamese": "trồng, gieo trồng"
+          "vietnamese": "trồng, gieo trồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_g.opus",
@@ -105,7 +105,7 @@
         "japanese": "植木（うえき）",
         "meaning": {
           "english": "garden shrubs, potted plant",
-        "vietnamese": "cây bụi trong vườn, cây trồng trong chậu"
+          "vietnamese": "cây bụi trong vườn, cây trồng trong chậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_h.opus",
@@ -118,7 +118,7 @@
         "japanese": "田植え（たうえ）",
         "meaning": {
           "english": "rice planting",
-        "vietnamese": "cấy lúa"
+          "vietnamese": "cấy lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_i.opus",
@@ -131,7 +131,7 @@
         "japanese": "植わる（うわる）",
         "meaning": {
           "english": "be planted [v.i.]",
-        "vietnamese": "được trồng"
+          "vietnamese": "được trồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(waru)_06_j.opus",
@@ -340,34 +340,52 @@
       {
         "example": "植物",
         "reading": "ショクブツ",
-        "meaning": "thực vật, cây cối"
+        "meaning": {
+          "vi": "thực vật, cây cối"
+        },
+        "romaji": "shokubutsu"
       },
       {
         "example": "植樹",
         "reading": "ショクジュ",
-        "meaning": "trồng cây"
+        "meaning": {
+          "vi": "trồng cây"
+        },
+        "romaji": "shokuju"
       },
       {
         "example": "写植",
         "reading": "シャショク",
-        "meaning": "sắp chữ ảnh"
+        "meaning": {
+          "vi": "sắp chữ ảnh"
+        },
+        "romaji": "shashoku"
       },
       {
         "example": "拓殖",
         "reading": "タクショク",
-        "meaning": "thực dân hóa, phát triển, định cư, khai thác"
+        "meaning": {
+          "vi": "thực dân hóa, phát triển, định cư, khai thác"
+        },
+        "romaji": "takushoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "植える",
         "reading": "うえる",
-        "meaning": "trồng, gieo trồng, nuôi, cắm, cấy ghép, cấy, sắp chữ, tiêm chủng, gieo (ý tưởng, giá trị)"
+        "meaning": {
+          "vi": "trồng, gieo trồng, nuôi, cắm, cấy ghép, cấy, sắp chữ, tiêm chủng, gieo (ý tưởng, giá trị)"
+        },
+        "romaji": "ueru"
       },
       {
         "example": "植わる",
         "reading": "うわる",
-        "meaning": "được trồng"
+        "meaning": {
+          "vi": "được trồng"
+        },
+        "romaji": "uwaru"
       }
     ],
     "radical": {
@@ -383,5 +401,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690d.gif",
     "uri": "https://jisho.org/search/%E6%A4%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thực",
+    "trĩ",
+    "trị"
+  ]
 }

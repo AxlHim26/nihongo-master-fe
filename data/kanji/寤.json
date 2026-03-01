@@ -16,7 +16,10 @@
       {
         "example": "寤寐",
         "reading": "ゴビ",
-        "meaning": "being asleep and awake"
+        "meaning": {
+          "vi": "being asleep and awake"
+        },
+        "romaji": "gobi"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be4.gif",
     "uri": "https://jisho.org/search/%E5%AF%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngộ",
+    "ngụ"
+  ]
 }

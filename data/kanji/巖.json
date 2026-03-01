@@ -19,17 +19,26 @@
       {
         "example": "岩",
         "reading": "いわ",
-        "meaning": "đá, tảng đá, vách đá"
+        "meaning": {
+          "vi": "đá, tảng đá, vách đá"
+        },
+        "romaji": "iwa"
       },
       {
         "example": "巌",
         "reading": "いわお",
-        "meaning": "đá lớn, tảng đá khổng lồ"
+        "meaning": {
+          "vi": "đá lớn, tảng đá khổng lồ"
+        },
+        "romaji": "iwao"
       },
       {
         "example": "巌",
         "reading": "いわお",
-        "meaning": "đá lớn, tảng đá khổng lồ"
+        "meaning": {
+          "vi": "đá lớn, tảng đá khổng lồ"
+        },
+        "romaji": "iwao"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dd6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dd6.gif",
     "uri": "https://jisho.org/search/%E5%B7%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "nham"
+  ]
 }

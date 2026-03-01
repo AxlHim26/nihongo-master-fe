@@ -336,42 +336,66 @@
       {
         "example": "客",
         "reading": "キャク",
-        "meaning": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests"
+        "meaning": {
+          "vi": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests"
+        },
+        "romaji": "kyaku"
       },
       {
         "example": "客足",
         "reading": "キャクアシ",
-        "meaning": "customer traffic, customers, custom"
+        "meaning": {
+          "en": "customer traffic, customers, custom"
+        },
+        "romaji": "kyakuashi"
       },
       {
         "example": "論客",
         "reading": "ロンキャク",
-        "meaning": "controversialist, polemic, disputant"
+        "meaning": {
+          "vi": "controversialist, polemic, disputant"
+        },
+        "romaji": "ronkyaku"
       },
       {
         "example": "賓客",
         "reading": "ヒンキャク",
-        "meaning": "guest of honour, guest of honor, privileged guest, visitor"
+        "meaning": {
+          "vi": "guest of honour, guest of honor, privileged guest, visitor"
+        },
+        "romaji": "hinkyaku"
       },
       {
         "example": "客",
         "reading": "キャク",
-        "meaning": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests"
+        "meaning": {
+          "vi": "guest, visitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger, counter for containers used to entertain guests"
+        },
+        "romaji": "kyaku"
       },
       {
         "example": "客員",
         "reading": "キャクイン",
-        "meaning": "guest member, associate member, honorary member"
+        "meaning": {
+          "en": "guest member, associate member, honorary member"
+        },
+        "romaji": "kyakuin"
       },
       {
         "example": "論客",
         "reading": "ロンキャク",
-        "meaning": "controversialist, polemic, disputant"
+        "meaning": {
+          "vi": "controversialist, polemic, disputant"
+        },
+        "romaji": "ronkyaku"
       },
       {
         "example": "賓客",
         "reading": "ヒンキャク",
-        "meaning": "guest of honour, guest of honor, privileged guest, visitor"
+        "meaning": {
+          "vi": "guest of honour, guest of honor, privileged guest, visitor"
+        },
+        "romaji": "hinkyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -388,5 +412,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ba2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ba2.gif",
     "uri": "https://jisho.org/search/%E5%AE%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "khách"
+  ]
 }

@@ -289,42 +289,66 @@
       {
         "example": "衆",
         "reading": "シュウ",
-        "meaning": "số đông (người), đông người, quần chúng, dân chúng, nhóm, bọn"
+        "meaning": {
+          "vi": "số đông (người), đông người, quần chúng, dân chúng, nhóm, bọn"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "衆院",
         "reading": "シュウイン",
-        "meaning": "Hạ viện (viện dưới của Quốc hội Nhật Bản)"
+        "meaning": {
+          "vi": "Hạ viện (viện dưới của Quốc hội Nhật Bản)"
+        },
+        "romaji": "shuuin"
       },
       {
         "example": "若い衆",
         "reading": "ワカイシュ",
-        "meaning": "thanh niên, chàng trai trẻ, tiểu nhị"
+        "meaning": {
+          "vi": "thanh niên, chàng trai trẻ, tiểu nhị"
+        },
+        "romaji": "wakaishu"
       },
       {
         "example": "全会衆",
         "reading": "ゼンカイシュウ",
-        "meaning": "toàn thể hội nghị, toàn thể hội chúng"
+        "meaning": {
+          "vi": "toàn thể hội nghị, toàn thể hội chúng"
+        },
+        "romaji": "zenkaishuu"
       },
       {
         "example": "衆",
         "reading": "シュウ",
-        "meaning": "số đông (người), đông người, quần chúng, dân chúng, nhóm, bọn"
+        "meaning": {
+          "vi": "số đông (người), đông người, quần chúng, dân chúng, nhóm, bọn"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "衆院",
         "reading": "シュウイン",
-        "meaning": "Hạ viện (viện dưới của Quốc hội Nhật Bản)"
+        "meaning": {
+          "vi": "Hạ viện (viện dưới của Quốc hội Nhật Bản)"
+        },
+        "romaji": "shuuin"
       },
       {
         "example": "若い衆",
         "reading": "ワカイシュ",
-        "meaning": "thanh niên, chàng trai trẻ, tiểu nhị"
+        "meaning": {
+          "vi": "thanh niên, chàng trai trẻ, tiểu nhị"
+        },
+        "romaji": "wakaishu"
       },
       {
         "example": "僧衆",
         "reading": "ソウシュウ",
-        "meaning": "đông đảo tăng ni"
+        "meaning": {
+          "vi": "đông đảo tăng ni"
+        },
+        "romaji": "soushuu"
       }
     ],
     "kunyomiExamples": [],
@@ -341,5 +365,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08846.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8846.gif",
     "uri": "https://jisho.org/search/%E8%A1%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "chúng"
+  ]
 }

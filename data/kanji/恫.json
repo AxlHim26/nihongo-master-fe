@@ -17,7 +17,10 @@
       {
         "example": "恫喝",
         "reading": "ドウカツ",
-        "meaning": "intimidation, threat, bluster"
+        "meaning": {
+          "en": "intimidation, threat, bluster"
+        },
+        "romaji": "doukatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +42,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0606b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/606b.gif",
     "uri": "https://jisho.org/search/%E6%81%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "thông",
+    "đồng",
+    "đỗng",
+    "động"
+  ]
 }

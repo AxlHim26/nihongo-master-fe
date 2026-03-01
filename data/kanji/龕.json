@@ -17,22 +17,34 @@
       {
         "example": "龕",
         "reading": "ガン",
-        "meaning": "hốc thờ tượng Phật, hốc tường, đền thờ nhỏ, kiệu rước linh cữu (Okinawa)"
+        "meaning": {
+          "vi": "hốc thờ tượng Phật, hốc tường, đền thờ nhỏ, kiệu rước linh cữu (Okinawa)"
+        },
+        "romaji": "gan"
       },
       {
         "example": "龕像",
         "reading": "ガンゾウ",
-        "meaning": "tượng Phật khắc trên đá, tượng Phật trong tủ"
+        "meaning": {
+          "vi": "tượng Phật khắc trên đá, tượng Phật trong tủ"
+        },
+        "romaji": "ganzou"
       },
       {
         "example": "起龕",
         "reading": "キガン",
-        "meaning": "lễ đưa quan tài ra khỏi nhà hoặc chùa (Thiền tông)"
+        "meaning": {
+          "vi": "lễ đưa quan tài ra khỏi nhà hoặc chùa (Thiền tông)"
+        },
+        "romaji": "kigan"
       },
       {
         "example": "壁龕",
         "reading": "ヘキガン",
-        "meaning": "hốc tường (kiến trúc phương Tây)"
+        "meaning": {
+          "vi": "hốc tường (kiến trúc phương Tây)"
+        },
+        "romaji": "hekigan"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f95.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f95.gif",
     "uri": "https://jisho.org/search/%E9%BE%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "kham",
+    "khám"
+  ]
 }

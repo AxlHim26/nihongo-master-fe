@@ -361,64 +361,100 @@
       {
         "example": "流",
         "reading": "リュウ",
-        "meaning": "way, manner, style, fashion, mode, school (e.g. of flower arrangement), class, rate, rank, flow, current, stream"
+        "meaning": {
+          "en": "way, manner, style, fashion, mode, school (e.g. of flower arrangement), class, rate, rank, flow, current, stream"
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "旒",
         "reading": "リュウ",
-        "meaning": "counter for flags, banners, etc."
+        "meaning": {
+          "en": "counter for flags, banners, etc."
+        },
+        "romaji": "ryuu"
       },
       {
         "example": "清流",
         "reading": "セイリュウ",
-        "meaning": "clear stream"
+        "meaning": {
+          "en": "clear stream"
+        },
+        "romaji": "seiryuu"
       },
       {
         "example": "火砕流",
         "reading": "カサイリュウ",
-        "meaning": "pyroclastic flow"
+        "meaning": {
+          "vi": "pyroclastic flow"
+        },
+        "romaji": "kasairyuu"
       },
       {
         "example": "流",
         "reading": "ル",
-        "meaning": "exile (second most severe of the five ritsuryō punishments)"
+        "meaning": {
+          "vi": "exile (second most severe of the five ritsuryō punishments)"
+        },
+        "romaji": "ru"
       },
       {
         "example": "流刑",
         "reading": "リュウケイ",
-        "meaning": "exile, banishment, deportation"
+        "meaning": {
+          "vi": "exile, banishment, deportation"
+        },
+        "romaji": "ryuukei"
       },
       {
         "example": "配流",
         "reading": "ハイル",
-        "meaning": "exile, banishment"
+        "meaning": {
+          "en": "exile, banishment"
+        },
+        "romaji": "hairu"
       },
       {
         "example": "中流",
         "reading": "チュウル",
-        "meaning": "banishment (to a somewhat distant province), middle-degree punishment of the three banishment punishments under the ritsuryō system"
+        "meaning": {
+          "vi": "banishment (to a somewhat distant province), middle-degree punishment of the three banishment punishments under the ritsuryō system"
+        },
+        "romaji": "chuuru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "流れる",
         "reading": "ながれる",
-        "meaning": "to stream, to flow (liquid, time, etc.), to run (ink), to be washed away, to be carried, to drift, to float (e.g. clouds), to wander, to stray, to sweep (e.g. rumour, fire), to spread, to circulate, to be heard (e.g. music), to be played, to lapse (e.g. into indolence, despair), to pass, to elapse, to be transmitted, to be called off, to be forfeited, to disappear, to be removed"
+        "meaning": {
+          "vi": "to stream, to flow (liquid, time, etc.), to run (ink), to be washed away, to be carried, to drift, to float (e.g. clouds), to wander, to stray, to sweep (e.g. rumour, fire), to spread, to circulate, to be heard (e.g. music), to be played, to lapse (e.g. into indolence, despair), to pass, to elapse, to be transmitted, to be called off, to be forfeited, to disappear, to be removed"
+        },
+        "romaji": "nagareru"
       },
       {
         "example": "流れ",
         "reading": "ながれ",
-        "meaning": "flow (of a fluid or gas), stream, current, flow (of people, things), passage (of time), tide, passing, (changing) trends, tendency, course (of events), (step-by-step) procedure, process, group of people who remain together after the end of an event, descent, ancestry, school, forfeiture, foreclosure, cancellation, drifting, wandering, roaming"
+        "meaning": {
+          "vi": "flow (of a fluid or gas), stream, current, flow (of people, things), passage (of time), tide, passing, (changing) trends, tendency, course (of events), (step-by-step) procedure, process, group of people who remain together after the end of an event, descent, ancestry, school, forfeiture, foreclosure, cancellation, drifting, wandering, roaming"
+        },
+        "romaji": "nagare"
       },
       {
         "example": "流れ込む",
         "reading": "ながれこむ",
-        "meaning": "to flow into, to pour into, to stream into"
+        "meaning": {
+          "vi": "to flow into, to pour into, to stream into"
+        },
+        "romaji": "nagarekomu"
       },
       {
         "example": "流す",
         "reading": "ながす",
-        "meaning": "to drain, to pour, to run, to let flow, to flush, to shed (blood, tears), to spill, to float (e.g. logs down a river), to set adrift, to wash away, to carry away, to sweep away, to broadcast, to play (e.g. music over a loudspeaker), to send (electricity through a wire), to circulate (a rumour, information, etc.), to spread, to distribute, to cruise (of a taxi), to stroll around (in search of customers, an audience, etc.), to go from place to place, to cancel (a plan, meeting, etc.), to call off, to reject (e.g. a bill), to forfeit (a pawn), to do leisurely (e.g. running, swimming), to do with ease, to do effortlessly, to exile, to banish, to hit (the ball) to the opposite field, to do inattentively, to do without concentrating, to put little effort into doing, to cause a miscarriage, to abort"
+        "meaning": {
+          "vi": "to drain, to pour, to run, to let flow, to flush, to shed (blood, tears), to spill, to float (e.g. logs down a river), to set adrift, to wash away, to carry away, to sweep away, to broadcast, to play (e.g. music over a loudspeaker), to send (electricity through a wire), to circulate (a rumour, information, etc.), to spread, to distribute, to cruise (of a taxi), to stroll around (in search of customers, an audience, etc.), to go from place to place, to cancel (a plan, meeting, etc.), to call off, to reject (e.g. a bill), to forfeit (a pawn), to do leisurely (e.g. running, swimming), to do with ease, to do effortlessly, to exile, to banish, to hit (the ball) to the opposite field, to do inattentively, to do without concentrating, to put little effort into doing, to cause a miscarriage, to abort"
+        },
+        "romaji": "nagasu"
       }
     ],
     "radical": {
@@ -439,5 +475,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d41.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d41.gif",
     "uri": "https://jisho.org/search/%E6%B5%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "lưu"
+  ]
 }

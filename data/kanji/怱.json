@@ -17,22 +17,34 @@
       {
         "example": "匆々",
         "reading": "ソウソウ",
-        "meaning": "busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"
+        "meaning": {
+          "vi": "busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"
+        },
+        "romaji": "sousou"
       },
       {
         "example": "倉卒",
         "reading": "ソウソツ",
-        "meaning": "hurried, hasty, busy, precipitate, sudden, abrupt"
+        "meaning": {
+          "vi": "hurried, hasty, busy, precipitate, sudden, abrupt"
+        },
+        "romaji": "sousotsu"
       },
       {
         "example": "匆々",
         "reading": "ソウソウ",
-        "meaning": "busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"
+        "meaning": {
+          "vi": "busy, hurried, rushed, yours sincerely, yours in haste, simple, brief, quick"
+        },
+        "romaji": "sousou"
       },
       {
         "example": "烏兎匆々",
         "reading": "ウトソウソウ",
-        "meaning": "days and nights passing by quickly, months and years flying by, time flies"
+        "meaning": {
+          "vi": "days and nights passing by quickly, months and years flying by, time flies"
+        },
+        "romaji": "utosousou"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06031.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6031.gif",
     "uri": "https://jisho.org/search/%E6%80%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "thông"
+  ]
 }

@@ -357,29 +357,44 @@
       {
         "example": "送球",
         "reading": "ソウキュウ",
-        "meaning": "throw, pass (in basketball, etc.), handball"
+        "meaning": {
+          "vi": "throw, pass (in basketball, etc.), handball"
+        },
+        "romaji": "soukyuu"
       },
       {
         "example": "送還",
         "reading": "ソウカン",
-        "meaning": "sending home, repatriation, deportation"
+        "meaning": {
+          "vi": "sending home, repatriation, deportation"
+        },
+        "romaji": "soukan"
       },
       {
         "example": "葬送",
         "reading": "ソウソウ",
-        "meaning": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial"
+        "meaning": {
+          "vi": "attending a funeral procession, seeing off the deceased, burial of someone's remains, observing a burial"
+        },
+        "romaji": "sousou"
       },
       {
         "example": "移送",
         "reading": "イソウ",
-        "meaning": "transfer, transport, transportation"
+        "meaning": {
+          "vi": "transfer, transport, transportation"
+        },
+        "romaji": "isou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "送る",
         "reading": "おくる",
-        "meaning": "to send, to dispatch, to forward, to transmit, to ship, to remit, to see (someone) off, to escort, to accompany, to take, to bid farewell to (the departed), to say goodbye to, to bury, to spend (time), to pass, to lead (a life), to live, to pass (on, along), to advance (a runner), to affix (okurigana)"
+        "meaning": {
+          "vi": "to send, to dispatch, to forward, to transmit, to ship, to remit, to see (someone) off, to escort, to accompany, to take, to bid farewell to (the departed), to say goodbye to, to bury, to spend (time), to pass, to lead (a life), to live, to pass (on, along), to advance (a runner), to affix (okurigana)"
+        },
+        "romaji": "okuru"
       }
     ],
     "radical": {
@@ -402,5 +417,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09001.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9001.gif",
     "uri": "https://jisho.org/search/%E9%80%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "tống"
+  ]
 }

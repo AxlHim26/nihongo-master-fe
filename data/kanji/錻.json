@@ -14,7 +14,10 @@
       {
         "example": "錻力",
         "reading": "ブリキ",
-        "meaning": "tin plate"
+        "meaning": {
+          "vi": "tin plate"
+        },
+        "romaji": "buriki"
       }
     ],
     "kunyomiExamples": [],
@@ -34,5 +37,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0933b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/933b.gif",
     "uri": "https://jisho.org/search/%E9%8C%BB%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

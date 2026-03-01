@@ -19,29 +19,44 @@
       {
         "example": "陵",
         "reading": "ミササギ",
-        "meaning": "imperial mausoleum, Emperor's tomb, big hill"
+        "meaning": {
+          "vi": "imperial mausoleum, Emperor's tomb, big hill"
+        },
+        "romaji": "misasagi"
       },
       {
         "example": "陵墓",
         "reading": "リョウボ",
-        "meaning": "imperial tomb, imperial mausoleum"
+        "meaning": {
+          "vi": "imperial tomb, imperial mausoleum"
+        },
+        "romaji": "ryoubo"
       },
       {
         "example": "帝陵",
         "reading": "テイリョウ",
-        "meaning": "imperial mausoleum"
+        "meaning": {
+          "vi": "imperial mausoleum"
+        },
+        "romaji": "teiryou"
       },
       {
         "example": "皇陵",
         "reading": "コウリョウ",
-        "meaning": "imperial mausoleum"
+        "meaning": {
+          "vi": "imperial mausoleum"
+        },
+        "romaji": "kouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "陵",
         "reading": "みささぎ",
-        "meaning": "imperial mausoleum, Emperor's tomb, big hill"
+        "meaning": {
+          "vi": "imperial mausoleum, Emperor's tomb, big hill"
+        },
+        "romaji": "misasagi"
       }
     ],
     "radical": {
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09675.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9675.gif",
     "uri": "https://jisho.org/search/%E9%99%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "lăng"
+  ]
 }

@@ -331,34 +331,52 @@
       {
         "example": "暑",
         "reading": "ショ",
-        "meaning": "heat, midsummer"
+        "meaning": {
+          "en": "heat, midsummer"
+        },
+        "romaji": "sho"
       },
       {
         "example": "暑中見舞",
         "reading": "ショチュウミマイ",
-        "meaning": "summer greeting card, inquiry after someone's health in the hot season"
+        "meaning": {
+          "en": "summer greeting card, inquiry after someone's health in the hot season"
+        },
+        "romaji": "shochuumimai"
       },
       {
         "example": "残暑",
         "reading": "ザンショ",
-        "meaning": "late summer heat, lingering summer heat"
+        "meaning": {
+          "en": "late summer heat, lingering summer heat"
+        },
+        "romaji": "zansho"
       },
       {
         "example": "避暑",
         "reading": "ヒショ",
-        "meaning": "escaping the summer heat, going somewhere cooler during the summer, summering"
+        "meaning": {
+          "vi": "escaping the summer heat, going somewhere cooler during the summer, summering"
+        },
+        "romaji": "hisho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暑い",
         "reading": "あつい",
-        "meaning": "hot, warm, sultry, heated, passionate, impassioned, burning (desire, etc.), on everybody's mind, on the radar, du jour, interested (gaze, etc.)"
+        "meaning": {
+          "vi": "hot, warm, sultry, heated, passionate, impassioned, burning (desire, etc.), on everybody's mind, on the radar, du jour, interested (gaze, etc.)"
+        },
+        "romaji": "atsui"
       },
       {
         "example": "暑い盛り",
         "reading": "あついさかり",
-        "meaning": "heat of the day, hottest part of the day"
+        "meaning": {
+          "vi": "heat of the day, hottest part of the day"
+        },
+        "romaji": "atsuisakari"
       }
     ],
     "radical": {
@@ -373,5 +391,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06691.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6691.gif",
     "uri": "https://jisho.org/search/%E6%9A%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "thử"
+  ]
 }

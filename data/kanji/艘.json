@@ -18,12 +18,18 @@
       {
         "example": "艘",
         "reading": "ソウ",
-        "meaning": "counter for (small) boats"
+        "meaning": {
+          "en": "counter for (small) boats"
+        },
+        "romaji": "sou"
       },
       {
         "example": "一艘",
         "reading": "イッソウ",
-        "meaning": "one boat, one ship"
+        "meaning": {
+          "vi": "one boat, one ship"
+        },
+        "romaji": "issou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08258.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8258.gif",
     "uri": "https://jisho.org/search/%E8%89%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "sưu",
+    "tao"
+  ]
 }

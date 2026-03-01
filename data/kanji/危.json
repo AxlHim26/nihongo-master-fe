@@ -312,39 +312,60 @@
       {
         "example": "危",
         "reading": "キ",
-        "meaning": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "ki"
       },
       {
         "example": "危害",
         "reading": "キガイ",
-        "meaning": "injury, harm, danger"
+        "meaning": {
+          "en": "injury, harm, danger"
+        },
+        "romaji": "kigai"
       },
       {
         "example": "安危",
         "reading": "アンキ",
-        "meaning": "fate, safety, welfare"
+        "meaning": {
+          "en": "fate, safety, welfare"
+        },
+        "romaji": "anki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "危ない",
         "reading": "あぶない",
-        "meaning": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful!"
+        "meaning": {
+          "vi": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful!"
+        },
+        "romaji": "abunai"
       },
       {
         "example": "危ない橋を渡る",
         "reading": "あぶないはしをわたる",
-        "meaning": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge"
+        "meaning": {
+          "vi": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge"
+        },
+        "romaji": "abunaihashiwowataru"
       },
       {
         "example": "危うい",
         "reading": "あやうい",
-        "meaning": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying"
+        "meaning": {
+          "vi": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying"
+        },
+        "romaji": "ayaui"
       },
       {
         "example": "危ぶむ",
         "reading": "あやぶむ",
-        "meaning": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about"
+        "meaning": {
+          "vi": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about"
+        },
+        "romaji": "ayabumu"
       }
     ],
     "radical": {
@@ -360,5 +381,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05371.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5371.gif",
     "uri": "https://jisho.org/search/%E5%8D%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "nguy",
+    "quỵ"
+  ]
 }

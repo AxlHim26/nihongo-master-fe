@@ -18,29 +18,44 @@
       {
         "example": "傲慢",
         "reading": "ゴウマン",
-        "meaning": "haughty, arrogant, insolent, proud, overbearing"
+        "meaning": {
+          "vi": "haughty, arrogant, insolent, proud, overbearing"
+        },
+        "romaji": "gouman"
       },
       {
         "example": "傲岸",
         "reading": "ゴウガン",
-        "meaning": "haughty, arrogant, supercilious"
+        "meaning": {
+          "vi": "haughty, arrogant, supercilious"
+        },
+        "romaji": "gougan"
       },
       {
         "example": "驕傲",
         "reading": "キョウゴウ",
-        "meaning": "pride, arrogance"
+        "meaning": {
+          "vi": "pride, arrogance"
+        },
+        "romaji": "kyougou"
       },
       {
         "example": "倨傲",
         "reading": "キョゴウ",
-        "meaning": "haughty, arrogant, insolent, proud"
+        "meaning": {
+          "vi": "haughty, arrogant, insolent, proud"
+        },
+        "romaji": "kyogou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "驕る",
         "reading": "おごる",
-        "meaning": "to be proud, to be haughty, to be arrogant, to be conceited, to brag, to show off"
+        "meaning": {
+          "vi": "to be proud, to be haughty, to be arrogant, to be conceited, to brag, to show off"
+        },
+        "romaji": "ogoru"
       }
     ],
     "radical": {
@@ -63,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b2.gif",
     "uri": "https://jisho.org/search/%E5%82%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạo"
+  ]
 }

@@ -14,22 +14,34 @@
       {
         "example": "抄",
         "reading": "ショウ",
-        "meaning": "excerpt, extract, annotation, shō (unit of volume, approx. 1.8 ml), banknote, paper money"
+        "meaning": {
+          "vi": "excerpt, extract, annotation, shō (unit of volume, approx. 1.8 ml), banknote, paper money"
+        },
+        "romaji": "shou"
       },
       {
         "example": "抄本",
         "reading": "ショウホン",
-        "meaning": "excerpt, abridgment, abridgement, book of selections"
+        "meaning": {
+          "vi": "excerpt, abridgment, abridgement, book of selections"
+        },
+        "romaji": "shouhon"
       },
       {
         "example": "壒嚢鈔",
         "reading": "アイノウショウ",
-        "meaning": "Ainosho (dictionary of Buddhism, first published in 1446)"
+        "meaning": {
+          "vi": "Ainosho (dictionary of Buddhism, first published in 1446)"
+        },
+        "romaji": "ainoushou"
       },
       {
         "example": "あい嚢鈔",
         "reading": "アイノウショウ",
-        "meaning": "Ainosho (dictionary of Buddhism, first published in 1446)"
+        "meaning": {
+          "vi": "Ainosho (dictionary of Buddhism, first published in 1446)"
+        },
+        "romaji": "ainoushou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09214.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9214.gif",
     "uri": "https://jisho.org/search/%E9%88%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "sao",
+    "sào",
+    "sáo"
+  ]
 }

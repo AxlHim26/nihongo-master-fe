@@ -262,22 +262,34 @@
       {
         "example": "徳",
         "reading": "トク",
-        "meaning": "virtue, benevolence, profit, benefit, advantage"
+        "meaning": {
+          "vi": "virtue, benevolence, profit, benefit, advantage"
+        },
+        "romaji": "toku"
       },
       {
         "example": "徳義",
         "reading": "トクギ",
-        "meaning": "morals, morality, sincerity"
+        "meaning": {
+          "en": "morals, morality, sincerity"
+        },
+        "romaji": "tokugi"
       },
       {
         "example": "高徳",
         "reading": "コウトク",
-        "meaning": "saintliness, great virtue, eminent virtue"
+        "meaning": {
+          "en": "saintliness, great virtue, eminent virtue"
+        },
+        "romaji": "koutoku"
       },
       {
         "example": "大徳",
         "reading": "ダイトク",
-        "meaning": "great virtue, virtuous priest, priest, rich person"
+        "meaning": {
+          "vi": "great virtue, virtuous priest, priest, rich person"
+        },
+        "romaji": "daitoku"
       }
     ],
     "kunyomiExamples": [],
@@ -295,5 +307,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fb3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fb3.gif",
     "uri": "https://jisho.org/search/%E5%BE%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "đức"
+  ]
 }

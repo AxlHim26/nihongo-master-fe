@@ -16,12 +16,18 @@
       {
         "example": "夏外套",
         "reading": "ナツガイトウ",
-        "meaning": "áo khoác mùa hè, áo khoác nhẹ"
+        "meaning": {
+          "vi": "áo khoác mùa hè, áo khoác nhẹ"
+        },
+        "romaji": "natsugaitou"
       },
       {
         "example": "雨外套",
         "reading": "アマガイトウ",
-        "meaning": "áo mưa"
+        "meaning": {
+          "vi": "áo mưa"
+        },
+        "romaji": "amagaitou"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05957.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5957.gif",
     "uri": "https://jisho.org/search/%E5%A5%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "sáo"
+  ]
 }

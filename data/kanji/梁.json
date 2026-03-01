@@ -21,49 +21,76 @@
       {
         "example": "梁",
         "reading": "リョウ",
-        "meaning": "Liang dynasty (of China; 502-557)"
+        "meaning": {
+          "en": "Liang dynasty (of China; 502-557)"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "梁山泊",
         "reading": "リョウザンパク",
-        "meaning": "place of assemblage for the bold and ambitious"
+        "meaning": {
+          "vi": "place of assemblage for the bold and ambitious"
+        },
+        "romaji": "ryouzanpaku"
       },
       {
         "example": "高粱",
         "reading": "コウリョウ",
-        "meaning": "kaoliang, variety of sorghum, esp. used in making spirits"
+        "meaning": {
+          "vi": "kaoliang, variety of sorghum, esp. used in making spirits"
+        },
+        "romaji": "kouryou"
       },
       {
         "example": "虹梁",
         "reading": "コウリョウ",
-        "meaning": "arched beam used in shrine and temple construction"
+        "meaning": {
+          "vi": "arched beam used in shrine and temple construction"
+        },
+        "romaji": "kouryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梁",
         "reading": "はり",
-        "meaning": "beam, joist"
+        "meaning": {
+          "en": "beam, joist"
+        },
+        "romaji": "hari"
       },
       {
         "example": "梁成",
         "reading": "はりせい",
-        "meaning": "height of a beam, beam as measured from top to bottom"
+        "meaning": {
+          "vi": "height of a beam, beam as measured from top to bottom"
+        },
+        "romaji": "harisei"
       },
       {
         "example": "梁",
         "reading": "うつばり",
-        "meaning": "(roof) beam"
+        "meaning": {
+          "en": "(roof) beam"
+        },
+        "romaji": "utsubari"
       },
       {
         "example": "梁",
         "reading": "うつばり",
-        "meaning": "(roof) beam"
+        "meaning": {
+          "en": "(roof) beam"
+        },
+        "romaji": "utsubari"
       },
       {
         "example": "梁",
         "reading": "やな",
-        "meaning": "(fish) weir, fish trap"
+        "meaning": {
+          "vi": "(fish) weir, fish trap"
+        },
+        "romaji": "yana"
       }
     ],
     "radical": {
@@ -80,5 +107,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06881.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6881.gif",
     "uri": "https://jisho.org/search/%E6%A2%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "lương"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "上膊",
         "reading": "ジョウハク",
-        "meaning": "upper arm"
+        "meaning": {
+          "vi": "upper arm"
+        },
+        "romaji": "jouhaku"
       },
       {
         "example": "下膊",
         "reading": "カハク",
-        "meaning": "forearm"
+        "meaning": {
+          "en": "forearm"
+        },
+        "romaji": "kahaku"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0818a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/818a.gif",
     "uri": "https://jisho.org/search/%E8%86%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "bác",
+    "bạc"
+  ]
 }

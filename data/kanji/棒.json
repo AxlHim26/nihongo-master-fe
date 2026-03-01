@@ -290,22 +290,34 @@
       {
         "example": "棒",
         "reading": "ボウ",
-        "meaning": "pole, rod, stick, baton, line, dash, spoken monotonously"
+        "meaning": {
+          "vi": "pole, rod, stick, baton, line, dash, spoken monotonously"
+        },
+        "romaji": "bou"
       },
       {
         "example": "棒状",
         "reading": "ボウジョウ",
-        "meaning": "cylinder or rod-shaped"
+        "meaning": {
+          "vi": "cylinder or rod-shaped"
+        },
+        "romaji": "boujou"
       },
       {
         "example": "用心棒",
         "reading": "ヨウジンボウ",
-        "meaning": "bodyguard, bouncer, (security) guard, bar (on a door), bolt, stick or pole used for self-defence"
+        "meaning": {
+          "vi": "bodyguard, bouncer, (security) guard, bar (on a door), bolt, stick or pole used for self-defence"
+        },
+        "romaji": "youjinbou"
       },
       {
         "example": "指揮棒",
         "reading": "シキボウ",
-        "meaning": "conductor's stick, conductor's baton"
+        "meaning": {
+          "en": "conductor's stick, conductor's baton"
+        },
+        "romaji": "shikibou"
       }
     ],
     "kunyomiExamples": [],
@@ -325,5 +337,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68d2.gif",
     "uri": "https://jisho.org/search/%E6%A3%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "bổng"
+  ]
 }

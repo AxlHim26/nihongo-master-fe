@@ -22,22 +22,46 @@
       {
         "example": "串",
         "reading": "くし",
-        "meaning": "spit, skewer, proxy (computer server)"
+        "meaning": {
+          "vi": "spit, skewer, proxy (computer server)"
+        },
+        "meaningVN": "nhổ, xiên, proxy (máy chủ máy tính)",
+        "hanViet": "quán",
+        "hanVietExplain": "quán: suốt, xâu, chuỗi",
+        "romaji": "kushi"
       },
       {
         "example": "串揚げ",
         "reading": "くしあげ",
-        "meaning": "kushiage, deep-fried skewered meat and vegetables"
+        "meaning": {
+          "vi": "kushiage, deep-fried skewered meat and vegetables"
+        },
+        "meaningVN": "kushiage, thịt xiên và rau chiên giòn",
+        "hanViet": "quán dương げ",
+        "hanVietExplain": "串 (quán: suốt, xâu, chuỗi) + 揚 (dương: dơ lên, giương lên, bay lên) → kushiage, thịt xiên và rau chiên giòn",
+        "romaji": "kushiage"
       },
       {
         "example": "牛串",
         "reading": "ぎゅうくし",
-        "meaning": "skewered beef"
+        "meaning": {
+          "en": "skewered beef"
+        },
+        "meaningVN": "thịt bò xiên",
+        "hanViet": "ngưu quán",
+        "hanVietExplain": "牛 (ngưu: con trâu) + 串 (quán: suốt, xâu, chuỗi) → thịt bò xiên",
+        "romaji": "gyuukushi"
       },
       {
         "example": "魚串",
         "reading": "うおぐし",
-        "meaning": "fish skewer, skewered fish"
+        "meaning": {
+          "en": "fish skewer, skewered fish"
+        },
+        "meaningVN": "cá xiên, cá xiên",
+        "hanViet": "ngư quán",
+        "hanVietExplain": "魚 (ngư: con cá) + 串 (quán: suốt, xâu, chuỗi) → cá xiên, cá xiên",
+        "romaji": "uogushi"
       }
     ],
     "radical": {
@@ -52,5 +76,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e32.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e32.gif",
     "uri": "https://jisho.org/search/%E4%B8%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "quán",
+    "xuyến"
+  ],
+  "meaningVN": "nhổ, xiên",
+  "hanVietExplain": "quán: suốt, xâu, chuỗi"
 }

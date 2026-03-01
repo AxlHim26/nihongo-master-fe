@@ -293,22 +293,34 @@
       {
         "example": "層",
         "reading": "ソウ",
-        "meaning": "layer, stratum, seam, bed, class, stratum, bracket, group, sheaf, counter for stories (of a building)"
+        "meaning": {
+          "vi": "layer, stratum, seam, bed, class, stratum, bracket, group, sheaf, counter for stories (of a building)"
+        },
+        "romaji": "sou"
       },
       {
         "example": "層群",
         "reading": "ソウグン",
-        "meaning": "(geol) group"
+        "meaning": {
+          "vi": "(geol) group"
+        },
+        "romaji": "sougun"
       },
       {
         "example": "重層",
         "reading": "ジュウソウ",
-        "meaning": "multistoried, multilayered"
+        "meaning": {
+          "en": "multistoried, multilayered"
+        },
+        "romaji": "juusou"
       },
       {
         "example": "高層",
         "reading": "コウソウ",
-        "meaning": "high-rise (building), multistory, multistoried, tall, high (altitude), upper (atmosphere, air current, etc.)"
+        "meaning": {
+          "vi": "high-rise (building), multistory, multistoried, tall, high (altitude), upper (atmosphere, air current, etc.)"
+        },
+        "romaji": "kousou"
       }
     ],
     "kunyomiExamples": [],
@@ -326,5 +338,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c64.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c64.gif",
     "uri": "https://jisho.org/search/%E5%B1%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "tằng"
+  ]
 }

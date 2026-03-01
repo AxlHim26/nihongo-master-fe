@@ -395,54 +395,84 @@
       {
         "example": "親",
         "reading": "シン",
-        "meaning": "intimacy, closeness, friendliness, close relative, pro- (e.g. pro-American)"
+        "meaning": {
+          "vi": "intimacy, closeness, friendliness, close relative, pro- (e.g. pro-American)"
+        },
+        "romaji": "shin"
       },
       {
         "example": "親衛",
         "reading": "シンエイ",
-        "meaning": "monarch's guards"
+        "meaning": {
+          "en": "monarch's guards"
+        },
+        "romaji": "shin'ei"
       },
       {
         "example": "懇親",
         "reading": "コンシン",
-        "meaning": "friendship, intimacy"
+        "meaning": {
+          "vi": "friendship, intimacy"
+        },
+        "romaji": "konshin"
       },
       {
         "example": "近親",
         "reading": "キンシン",
-        "meaning": "near relative"
+        "meaning": {
+          "en": "near relative"
+        },
+        "romaji": "kinshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "親",
         "reading": "おや",
-        "meaning": "parent, parents, mother and father, dealer, banker, founder, inventor, (pet) owner, key, parent (organization), main, ancestor, forefather"
+        "meaning": {
+          "vi": "parent, parents, mother and father, dealer, banker, founder, inventor, (pet) owner, key, parent (organization), main, ancestor, forefather"
+        },
+        "romaji": "oya"
       },
       {
         "example": "親方",
         "reading": "おやかた",
-        "meaning": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+        "meaning": {
+          "vi": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+        },
+        "romaji": "oyakata"
       },
       {
         "example": "生みの親",
         "reading": "うみのおや",
-        "meaning": "biological parent, founder, creator"
+        "meaning": {
+          "vi": "biological parent, founder, creator"
+        },
+        "romaji": "uminooya"
       },
       {
         "example": "里親",
         "reading": "さとおや",
-        "meaning": "foster parent, foster parents, (pet) caretaker"
+        "meaning": {
+          "vi": "foster parent, foster parents, (pet) caretaker"
+        },
+        "romaji": "satooya"
       },
       {
         "example": "親しい",
         "reading": "したしい",
-        "meaning": "close (e.g. friend), familiar, friendly, intimate, familiar (e.g. story), well-known (to one), close (relatives), closely related"
+        "meaning": {
+          "en": "close (e.g. friend), familiar, friendly, intimate, familiar (e.g. story), well-known (to one), close (relatives), closely related"
+        },
+        "romaji": "shitashii"
       },
       {
         "example": "親しむ",
         "reading": "したしむ",
-        "meaning": "to be intimate with, to befriend"
+        "meaning": {
+          "en": "to be intimate with, to befriend"
+        },
+        "romaji": "shitashimu"
       }
     ],
     "radical": {
@@ -461,5 +491,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89aa.gif",
     "uri": "https://jisho.org/search/%E8%A6%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "thân",
+    "thấn"
+  ]
 }

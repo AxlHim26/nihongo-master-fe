@@ -23,69 +23,108 @@
       {
         "example": "仰天",
         "reading": "ギョウテン",
-        "meaning": "being amazed, being horrified, being taken aback"
+        "meaning": {
+          "en": "being amazed, being horrified, being taken aback"
+        },
+        "romaji": "gyouten"
       },
       {
         "example": "仰角",
         "reading": "ギョウカク",
-        "meaning": "angle of elevation"
+        "meaning": {
+          "en": "angle of elevation"
+        },
+        "romaji": "gyoukaku"
       },
       {
         "example": "大仰",
         "reading": "オオギョウ",
-        "meaning": "exaggerated, overblown, overdone"
+        "meaning": {
+          "en": "exaggerated, overblown, overdone"
+        },
+        "romaji": "oogyou"
       },
       {
         "example": "景仰",
         "reading": "ケイコウ",
-        "meaning": "adoration, admiration, reverence"
+        "meaning": {
+          "en": "adoration, admiration, reverence"
+        },
+        "romaji": "keikou"
       },
       {
         "example": "景仰",
         "reading": "ケイコウ",
-        "meaning": "adoration, admiration, reverence"
+        "meaning": {
+          "en": "adoration, admiration, reverence"
+        },
+        "romaji": "keikou"
       },
       {
         "example": "欽仰",
         "reading": "キンギョウ",
-        "meaning": "reverence, adoration, veneration"
+        "meaning": {
+          "en": "reverence, adoration, veneration"
+        },
+        "romaji": "kingyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仰ぐ",
         "reading": "あおぐ",
-        "meaning": "to look up (at), to look up to, to respect, to revere, to ask for (e.g. guidance), to seek, to turn to (someone) for, to depend on, to rely on, to gulp down, to quaff, to drink"
+        "meaning": {
+          "vi": "to look up (at), to look up to, to respect, to revere, to ask for (e.g. guidance), to seek, to turn to (someone) for, to depend on, to rely on, to gulp down, to quaff, to drink"
+        },
+        "romaji": "aogu"
       },
       {
         "example": "仰せ",
         "reading": "おおせ",
-        "meaning": "order (from one's superior), command, what you say, (someone's) words"
+        "meaning": {
+          "vi": "order (from one's superior), command, what you say, (someone's) words"
+        },
+        "romaji": "oose"
       },
       {
         "example": "仰せ言",
         "reading": "おおせごと",
-        "meaning": "statement, order"
+        "meaning": {
+          "en": "statement, order"
+        },
+        "romaji": "oosegoto"
       },
       {
         "example": "仰る",
         "reading": "おっしゃる",
-        "meaning": "to say, to speak, to tell, to be called"
+        "meaning": {
+          "vi": "to say, to speak, to tell, to be called"
+        },
+        "romaji": "ossharu"
       },
       {
         "example": "おっしゃる通り",
         "reading": "おっしゃるとおり",
-        "meaning": "as you (they, etc.) say, as you suggest, I absolutely agree"
+        "meaning": {
+          "en": "as you (they, etc.) say, as you suggest, I absolutely agree"
+        },
+        "romaji": "ossharutoori"
       },
       {
         "example": "仰る",
         "reading": "おっしゃる",
-        "meaning": "to say, to speak, to tell, to be called"
+        "meaning": {
+          "vi": "to say, to speak, to tell, to be called"
+        },
+        "romaji": "ossharu"
       },
       {
         "example": "おっしゃる通り",
         "reading": "おっしゃるとおり",
-        "meaning": "as you (they, etc.) say, as you suggest, I absolutely agree"
+        "meaning": {
+          "en": "as you (they, etc.) say, as you suggest, I absolutely agree"
+        },
+        "romaji": "ossharutoori"
       }
     ],
     "radical": {
@@ -103,5 +142,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ef0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ef0.gif",
     "uri": "https://jisho.org/search/%E4%BB%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngang",
+    "ngưỡng",
+    "nhạng"
+  ]
 }

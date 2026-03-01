@@ -16,29 +16,44 @@
       {
         "example": "諺解",
         "reading": "ゲンカイ",
-        "meaning": "colloquial interpretation (of a text), interpretation using common language"
+        "meaning": {
+          "vi": "colloquial interpretation (of a text), interpretation using common language"
+        },
+        "romaji": "genkai"
       },
       {
         "example": "諺語",
         "reading": "ゲンゴ",
-        "meaning": "colloquialism, slang, proverb"
+        "meaning": {
+          "vi": "colloquialism, slang, proverb"
+        },
+        "romaji": "gengo"
       },
       {
         "example": "西諺",
         "reading": "セイゲン",
-        "meaning": "Western saying, Western proverb"
+        "meaning": {
+          "vi": "Western saying, Western proverb"
+        },
+        "romaji": "seigen"
       },
       {
         "example": "世諺",
         "reading": "セイゲン",
-        "meaning": "proverb, saying"
+        "meaning": {
+          "vi": "proverb, saying"
+        },
+        "romaji": "seigen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "諺",
         "reading": "ことわざ",
-        "meaning": "proverb, saying, aphorism, maxim"
+        "meaning": {
+          "vi": "proverb, saying, aphorism, maxim"
+        },
+        "romaji": "kotowaza"
       }
     ],
     "radical": {
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08afa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8afa.gif",
     "uri": "https://jisho.org/search/%E8%AB%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạn"
+  ]
 }

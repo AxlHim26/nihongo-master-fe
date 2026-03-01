@@ -17,22 +17,34 @@
       {
         "example": "俗",
         "reading": "ゾク",
-        "meaning": "layman (esp. as opposed to a Buddhist monk), laity, man of the world, the world, local manners, modern customs, common, popular, vulgar, low"
+        "meaning": {
+          "vi": "layman (esp. as opposed to a Buddhist monk), laity, man of the world, the world, local manners, modern customs, common, popular, vulgar, low"
+        },
+        "romaji": "zoku"
       },
       {
         "example": "俗語",
         "reading": "ゾクゴ",
-        "meaning": "colloquialism, colloquial language, slang"
+        "meaning": {
+          "en": "colloquialism, colloquial language, slang"
+        },
+        "romaji": "zokugo"
       },
       {
         "example": "民俗",
         "reading": "ミンゾク",
-        "meaning": "folk customs, folkways, ethnic customs"
+        "meaning": {
+          "en": "folk customs, folkways, ethnic customs"
+        },
+        "romaji": "minzoku"
       },
       {
         "example": "低俗",
         "reading": "テイゾク",
-        "meaning": "vulgar, lowbrow, coarse"
+        "meaning": {
+          "en": "vulgar, lowbrow, coarse"
+        },
+        "romaji": "teizoku"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fd7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fd7.gif",
     "uri": "https://jisho.org/search/%E4%BF%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "tục"
+  ]
 }

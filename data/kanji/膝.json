@@ -18,34 +18,52 @@
       {
         "example": "膝窩静脈",
         "reading": "シツカジョウミャク",
-        "meaning": "popliteal vein"
+        "meaning": {
+          "vi": "popliteal vein"
+        },
+        "romaji": "shitsukajoumyaku"
       },
       {
         "example": "膝窩動脈",
         "reading": "シツカドウミャク",
-        "meaning": "popliteal artery"
+        "meaning": {
+          "vi": "popliteal artery"
+        },
+        "romaji": "shitsukadoumyaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "膝",
         "reading": "ひざ",
-        "meaning": "knee, lap, knee and thigh (while sitting)"
+        "meaning": {
+          "vi": "knee, lap, knee and thigh (while sitting)"
+        },
+        "romaji": "hiza"
       },
       {
         "example": "跪く",
         "reading": "ひざまずく",
-        "meaning": "to kneel (in respect), to genuflect"
+        "meaning": {
+          "vi": "to kneel (in respect), to genuflect"
+        },
+        "romaji": "hizamazuku"
       },
       {
         "example": "両膝",
         "reading": "りょうひざ",
-        "meaning": "both knees"
+        "meaning": {
+          "en": "both knees"
+        },
+        "romaji": "ryouhiza"
       },
       {
         "example": "突き膝",
         "reading": "つきひざ",
-        "meaning": "knee touch down, posture with knees and toes on the floor"
+        "meaning": {
+          "vi": "knee touch down, posture with knees and toes on the floor"
+        },
+        "romaji": "tsukihiza"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819d.gif",
     "uri": "https://jisho.org/search/%E8%86%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tất"
+  ]
 }

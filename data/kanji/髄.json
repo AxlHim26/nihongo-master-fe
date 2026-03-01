@@ -17,22 +17,34 @@
       {
         "example": "髄",
         "reading": "ズイ",
-        "meaning": "medulla, pith, marrow"
+        "meaning": {
+          "vi": "medulla, pith, marrow"
+        },
+        "romaji": "zui"
       },
       {
         "example": "髄膜炎",
         "reading": "ズイマクエン",
-        "meaning": "meningitis"
+        "meaning": {
+          "en": "meningitis"
+        },
+        "romaji": "zuimakuen"
       },
       {
         "example": "骨髄",
         "reading": "コツズイ",
-        "meaning": "bone marrow, medulla, heart's core, depths of one's heart, main point, vital part"
+        "meaning": {
+          "vi": "bone marrow, medulla, heart's core, depths of one's heart, main point, vital part"
+        },
+        "romaji": "kotsuzui"
       },
       {
         "example": "脊髄",
         "reading": "セキズイ",
-        "meaning": "spinal cord"
+        "meaning": {
+          "vi": "spinal cord"
+        },
+        "romaji": "sekizui"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ac4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ac4.gif",
     "uri": "https://jisho.org/search/%E9%AB%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuỷ"
+  ]
 }

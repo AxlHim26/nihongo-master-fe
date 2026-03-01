@@ -304,22 +304,34 @@
       {
         "example": "脈",
         "reading": "ミャク",
-        "meaning": "pulse, vein, chain (of mountains, etc.), hope, thread (of an argument)"
+        "meaning": {
+          "vi": "pulse, vein, chain (of mountains, etc.), hope, thread (of an argument)"
+        },
+        "romaji": "myaku"
       },
       {
         "example": "脈拍",
         "reading": "ミャクハク",
-        "meaning": "pulse, pulse rate, pulsation, stroke of pulse"
+        "meaning": {
+          "vi": "pulse, pulse rate, pulsation, stroke of pulse"
+        },
+        "romaji": "myakuhaku"
       },
       {
         "example": "大動脈",
         "reading": "ダイドウミャク",
-        "meaning": "aorta, important traffic route"
+        "meaning": {
+          "vi": "aorta, important traffic route"
+        },
+        "romaji": "daidoumyaku"
       },
       {
         "example": "動脈",
         "reading": "ドウミャク",
-        "meaning": "artery, arterial road, major route"
+        "meaning": {
+          "en": "artery, arterial road, major route"
+        },
+        "romaji": "doumyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -339,5 +351,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08108.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8108.gif",
     "uri": "https://jisho.org/search/%E8%84%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạch"
+  ]
 }

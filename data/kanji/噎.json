@@ -19,12 +19,18 @@
       {
         "example": "噎せる",
         "reading": "むせる",
-        "meaning": "to choke, to be choked by, to be stifled by"
+        "meaning": {
+          "en": "to choke, to be choked by, to be stifled by"
+        },
+        "romaji": "museru"
       },
       {
         "example": "咽ぶ",
         "reading": "むせぶ",
-        "meaning": "to be choked, to be stifled, to be smothered"
+        "meaning": {
+          "en": "to be choked, to be stifled, to be smothered"
+        },
+        "romaji": "musebu"
       }
     ],
     "radical": {
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0564e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/564e.gif",
     "uri": "https://jisho.org/search/%E5%99%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "ế"
+  ]
 }

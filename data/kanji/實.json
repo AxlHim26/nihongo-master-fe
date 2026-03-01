@@ -21,14 +21,20 @@
       {
         "example": "実に",
         "reading": "ジツニ",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "jitsuni"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "実に",
         "reading": "じつに",
-        "meaning": "indeed, really, absolutely, truly, actually, very, quite"
+        "meaning": {
+          "en": "indeed, really, absolutely, truly, actually, very, quite"
+        },
+        "romaji": "jitsuni"
       }
     ],
     "radical": {
@@ -47,5 +53,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be6.gif",
     "uri": "https://jisho.org/search/%E5%AF%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí",
+    "thật",
+    "thực"
+  ]
 }

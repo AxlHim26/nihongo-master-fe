@@ -17,24 +17,36 @@
       {
         "example": "呻吟",
         "reading": "シンギン",
-        "meaning": "moaning, groaning"
+        "meaning": {
+          "en": "moaning, groaning"
+        },
+        "romaji": "shingin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "呻く",
         "reading": "うめく",
-        "meaning": "to moan, to groan"
+        "meaning": {
+          "en": "to moan, to groan"
+        },
+        "romaji": "umeku"
       },
       {
         "example": "呻き",
         "reading": "うめき",
-        "meaning": "moan, groan, groaning"
+        "meaning": {
+          "en": "moan, groan, groaning"
+        },
+        "romaji": "umeki"
       },
       {
         "example": "うめき声",
         "reading": "うめきごえ",
-        "meaning": "groan, moan, moaning"
+        "meaning": {
+          "en": "groan, moan, moaning"
+        },
+        "romaji": "umekigoe"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0547b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/547b.gif",
     "uri": "https://jisho.org/search/%E5%91%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạp",
+    "thân"
+  ]
 }

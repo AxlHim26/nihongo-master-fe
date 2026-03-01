@@ -19,29 +19,44 @@
       {
         "example": "老杉",
         "reading": "ロウサン",
-        "meaning": "old cryptomeria"
+        "meaning": {
+          "vi": "old cryptomeria"
+        },
+        "romaji": "rousan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "杉",
         "reading": "すぎ",
-        "meaning": "Japanese cedar (Cryptomeria japonica)"
+        "meaning": {
+          "vi": "Japanese cedar (Cryptomeria japonica)"
+        },
+        "romaji": "sugi"
       },
       {
         "example": "杉戸",
         "reading": "すぎど",
-        "meaning": "door made of cedar"
+        "meaning": {
+          "en": "door made of cedar"
+        },
+        "romaji": "sugido"
       },
       {
         "example": "台杉",
         "reading": "だいすぎ",
-        "meaning": "coppicing-like technique used with cedar trees"
+        "meaning": {
+          "vi": "coppicing-like technique used with cedar trees"
+        },
+        "romaji": "daisugi"
       },
       {
         "example": "神代杉",
         "reading": "じんだいすぎ",
-        "meaning": "lignitized Japanese cedar, lignitised Japanese cedar"
+        "meaning": {
+          "vi": "lignitized Japanese cedar, lignitised Japanese cedar"
+        },
+        "romaji": "jindaisugi"
       }
     ],
     "radical": {
@@ -56,5 +71,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06749.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6749.gif",
     "uri": "https://jisho.org/search/%E6%9D%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "am",
+    "sam"
+  ]
 }

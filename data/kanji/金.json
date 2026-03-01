@@ -407,69 +407,108 @@
       {
         "example": "金",
         "reading": "キン",
-        "meaning": "gold (metal), gold (color), gold (medal), first place (prize), something of great value, something golden (e.g. silence), money, gold coin, sum (of money), Friday, karat (measure of purity of gold), carat, metal (fourth phase of Wu Xing), Jin dynasty (of China; 1115-1234), Chin dynasty, Jurchen dynasty, gold general, testicles"
+        "meaning": {
+          "vi": "gold (metal), gold (color), gold (medal), first place (prize), something of great value, something golden (e.g. silence), money, gold coin, sum (of money), Friday, karat (measure of purity of gold), carat, metal (fourth phase of Wu Xing), Jin dynasty (of China; 1115-1234), Chin dynasty, Jurchen dynasty, gold general, testicles"
+        },
+        "romaji": "kin"
       },
       {
         "example": "金色",
         "reading": "キンイロ",
-        "meaning": "gold (colour, color)"
+        "meaning": {
+          "en": "gold (colour, color)"
+        },
+        "romaji": "kin'iro"
       },
       {
         "example": "集金",
         "reading": "シュウキン",
-        "meaning": "money collection"
+        "meaning": {
+          "en": "money collection"
+        },
+        "romaji": "shuukin"
       },
       {
         "example": "納金",
         "reading": "ノウキン",
-        "meaning": "payment"
+        "meaning": {
+          "vi": "payment"
+        },
+        "romaji": "noukin"
       },
       {
         "example": "金色",
         "reading": "キンイロ",
-        "meaning": "gold (colour, color)"
+        "meaning": {
+          "en": "gold (colour, color)"
+        },
+        "romaji": "kin'iro"
       },
       {
         "example": "金剛",
         "reading": "コンゴウ",
-        "meaning": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
+        "meaning": {
+          "vi": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
+        },
+        "romaji": "kongou"
       },
       {
         "example": "鬱金",
         "reading": "ウコン",
-        "meaning": "turmeric (Curcuma domestica)"
+        "meaning": {
+          "en": "turmeric (Curcuma domestica)"
+        },
+        "romaji": "ukon"
       },
       {
         "example": "葛鬱金",
         "reading": "クズウコン",
-        "meaning": "arrowroot (Maranta arundinacea)"
+        "meaning": {
+          "en": "arrowroot (Maranta arundinacea)"
+        },
+        "romaji": "kuzuukon"
       },
       {
         "example": "漉油",
         "reading": "コシアブラ",
-        "meaning": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+        "meaning": {
+          "vi": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+        },
+        "romaji": "koshiabura"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "金",
         "reading": "かね",
-        "meaning": "money, metal"
+        "meaning": {
+          "en": "money, metal"
+        },
+        "romaji": "kane"
       },
       {
         "example": "金持ち",
         "reading": "かねもち",
-        "meaning": "rich person, wealthy person"
+        "meaning": {
+          "vi": "rich person, wealthy person"
+        },
+        "romaji": "kanemochi"
       },
       {
         "example": "細かい金",
         "reading": "こまかいかね",
-        "meaning": "small change"
+        "meaning": {
+          "en": "small change"
+        },
+        "romaji": "komakaikane"
       },
       {
         "example": "汚れた金",
         "reading": "よごれたかね",
-        "meaning": "dirty money"
+        "meaning": {
+          "en": "dirty money"
+        },
+        "romaji": "yogoretakane"
       }
     ],
     "radical": {
@@ -490,5 +529,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091d1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91d1.gif",
     "uri": "https://jisho.org/search/%E9%87%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "kim"
+  ]
 }

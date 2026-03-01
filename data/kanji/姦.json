@@ -19,34 +19,52 @@
       {
         "example": "奸",
         "reading": "カン",
-        "meaning": "cunning and wickedness, cunning and wicked person"
+        "meaning": {
+          "vi": "cunning and wickedness, cunning and wicked person"
+        },
+        "romaji": "kan"
       },
       {
         "example": "姦通",
         "reading": "カンツウ",
-        "meaning": "adultery"
+        "meaning": {
+          "en": "adultery"
+        },
+        "romaji": "kantsuu"
       },
       {
         "example": "強姦",
         "reading": "ゴウカン",
-        "meaning": "rape, sexual assault"
+        "meaning": {
+          "vi": "rape, sexual assault"
+        },
+        "romaji": "goukan"
       },
       {
         "example": "鶏姦",
         "reading": "ケイカン",
-        "meaning": "homosexual sex between males, buggery, sodomy"
+        "meaning": {
+          "en": "homosexual sex between males, buggery, sodomy"
+        },
+        "romaji": "keikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "姦する",
         "reading": "かんする",
-        "meaning": "to commit adultery, to fornicate, to have illicit sex, to rape, to violate, to abuse sexually"
+        "meaning": {
+          "vi": "to commit adultery, to fornicate, to have illicit sex, to rape, to violate, to abuse sexually"
+        },
+        "romaji": "kansuru"
       },
       {
         "example": "姦しい",
         "reading": "かしましい",
-        "meaning": "noisy, boisterous"
+        "meaning": {
+          "en": "noisy, boisterous"
+        },
+        "romaji": "kashimashii"
       }
     ],
     "radical": {
@@ -60,5 +78,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59e6.gif",
     "uri": "https://jisho.org/search/%E5%A7%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "gian"
+  ]
 }

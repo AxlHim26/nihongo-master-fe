@@ -18,12 +18,18 @@
       {
         "example": "輜重",
         "reading": "シチョウ",
-        "meaning": "military supplies (transported to the front line), military stores"
+        "meaning": {
+          "vi": "military supplies (transported to the front line), military stores"
+        },
+        "romaji": "shichou"
       },
       {
         "example": "輜重隊",
         "reading": "シチョウタイ",
-        "meaning": "transport corps, army service corps"
+        "meaning": {
+          "vi": "transport corps, army service corps"
+        },
+        "romaji": "shichoutai"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f1c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f1c.gif",
     "uri": "https://jisho.org/search/%E8%BC%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuy",
+    "tri",
+    "truy"
+  ]
 }

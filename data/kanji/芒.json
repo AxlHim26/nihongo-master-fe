@@ -20,34 +20,50 @@
       {
         "example": "芒種",
         "reading": "ボウシュ",
-        "meaning": "\"grain in ear\" solar term (approx. June 6, when awns begin to grow on grains)"
+        "meaning": {
+          "vi": "\"grain in ear\" solar term (approx. June 6, when awns begin to grow on grains)"
+        },
+        "romaji": "boushu"
       },
       {
         "example": "芒硝",
         "reading": "ボウショウ",
-        "meaning": "sal mirabilis, mirabilite, sodium sulfate decahydrate, sodium sulphate decahydrate"
+        "meaning": {
+          "vi": "sal mirabilis, mirabilite, sodium sulfate decahydrate, sodium sulphate decahydrate"
+        },
+        "romaji": "boushou"
       },
       {
         "example": "光芒",
         "reading": "コウボウ",
-        "meaning": "beam of light"
+        "meaning": {
+          "en": "beam of light"
+        },
+        "romaji": "koubou"
       },
       {
         "example": "五芒",
         "reading": "ゴボウ",
-        "meaning": "pentagram"
+        "meaning": {
+          "vi": "pentagram"
+        },
+        "romaji": "gobou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "【ススキ】",
         "reading": "Chinese silvergrass (Miscanthus sinensis), maiden grass, susuki grass",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "Chinese silvergrass (Miscanthus sinensis), maiden grass, susuki grass"
       },
       {
         "example": "芒",
         "reading": "のぎ",
-        "meaning": "arista, awn, (grain) beard"
+        "meaning": {
+          "en": "arista, awn, (grain) beard"
+        },
+        "romaji": "nogi"
       }
     ],
     "radical": {
@@ -66,5 +82,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08292.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8292.gif",
     "uri": "https://jisho.org/search/%E8%8A%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "mang"
+  ]
 }

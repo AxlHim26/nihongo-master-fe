@@ -17,19 +17,28 @@
       {
         "example": "鷭",
         "reading": "バン",
-        "meaning": "moorhen (Gallinula chloropus), waterhen, gallinule"
+        "meaning": {
+          "vi": "moorhen (Gallinula chloropus), waterhen, gallinule"
+        },
+        "romaji": "ban"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鷭",
         "reading": "ばん",
-        "meaning": "moorhen (Gallinula chloropus), waterhen, gallinule"
+        "meaning": {
+          "vi": "moorhen (Gallinula chloropus), waterhen, gallinule"
+        },
+        "romaji": "ban"
       },
       {
         "example": "大鷭",
         "reading": "おおばん",
-        "meaning": "coot (Fulica atra)"
+        "meaning": {
+          "en": "coot (Fulica atra)"
+        },
+        "romaji": "ooban"
       }
     ],
     "radical": {
@@ -47,5 +56,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ded.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ded.gif",
     "uri": "https://jisho.org/search/%E9%B7%AD%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

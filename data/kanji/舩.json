@@ -18,7 +18,10 @@
       {
         "example": "新船",
         "reading": "シンセン",
-        "meaning": "new ship"
+        "meaning": {
+          "vi": "new ship"
+        },
+        "romaji": "shinsen"
       }
     ],
     "kunyomiExamples": [],
@@ -35,5 +38,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08229.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8229.gif",
     "uri": "https://jisho.org/search/%E8%88%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuyền"
+  ]
 }

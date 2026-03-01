@@ -16,19 +16,28 @@
       {
         "example": "蘚苔",
         "reading": "センタイ",
-        "meaning": "moss, bryophyte"
+        "meaning": {
+          "vi": "moss, bryophyte"
+        },
+        "romaji": "sentai"
       },
       {
         "example": "蘚苔学",
         "reading": "センタイガク",
-        "meaning": "bryology"
+        "meaning": {
+          "en": "bryology"
+        },
+        "romaji": "sentaigaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "苔",
         "reading": "こけ",
-        "meaning": "moss, short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)"
+        "meaning": {
+          "vi": "moss, short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)"
+        },
+        "romaji": "koke"
       }
     ],
     "radical": {
@@ -51,5 +60,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0861a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/861a.gif",
     "uri": "https://jisho.org/search/%E8%98%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiển"
+  ]
 }

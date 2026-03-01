@@ -16,24 +16,36 @@
       {
         "example": "厩舎",
         "reading": "キュウシャ",
-        "meaning": "stable, cowshed"
+        "meaning": {
+          "en": "stable, cowshed"
+        },
+        "romaji": "kyuusha"
       },
       {
         "example": "厩肥",
         "reading": "キュウヒ",
-        "meaning": "manure"
+        "meaning": {
+          "en": "manure"
+        },
+        "romaji": "kyuuhi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "厩",
         "reading": "うまや",
-        "meaning": "stable, barn"
+        "meaning": {
+          "en": "stable, barn"
+        },
+        "romaji": "umaya"
       },
       {
         "example": "厩肥",
         "reading": "きゅうひ",
-        "meaning": "manure"
+        "meaning": {
+          "en": "manure"
+        },
+        "romaji": "kyuuhi"
       }
     ],
     "radical": {
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ecf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ecf.gif",
     "uri": "https://jisho.org/search/%E5%BB%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cứu"
+  ]
 }

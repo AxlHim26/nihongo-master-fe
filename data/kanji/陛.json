@@ -237,12 +237,18 @@
       {
         "example": "陛下",
         "reading": "ヘイカ",
-        "meaning": "Your Majesty, His Majesty, Her Majesty"
+        "meaning": {
+          "en": "Your Majesty, His Majesty, Her Majesty"
+        },
+        "romaji": "heika"
       },
       {
         "example": "陛衛",
         "reading": "ヘイエイ",
-        "meaning": "Imperial guard"
+        "meaning": {
+          "vi": "Imperial guard"
+        },
+        "romaji": "heiei"
       }
     ],
     "kunyomiExamples": [],
@@ -262,5 +268,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0965b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/965b.gif",
     "uri": "https://jisho.org/search/%E9%99%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "bệ"
+  ]
 }

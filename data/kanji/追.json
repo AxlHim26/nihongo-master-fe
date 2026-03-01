@@ -279,34 +279,52 @@
       {
         "example": "追求",
         "reading": "ツイキュウ",
-        "meaning": "pursuit (of a goal, ideal, etc.), search, chase, seeking after"
+        "meaning": {
+          "vi": "pursuit (of a goal, ideal, etc.), search, chase, seeking after"
+        },
+        "romaji": "tsuikyuu"
       },
       {
         "example": "追加",
         "reading": "ツイカ",
-        "meaning": "addition, supplement, appending, appendix"
+        "meaning": {
+          "vi": "addition, supplement, appending, appendix"
+        },
+        "romaji": "tsuika"
       },
       {
         "example": "訴追",
         "reading": "ソツイ",
-        "meaning": "prosecution, indictment, impeachment"
+        "meaning": {
+          "vi": "prosecution, indictment, impeachment"
+        },
+        "romaji": "sotsui"
       },
       {
         "example": "猛追",
         "reading": "モウツイ",
-        "meaning": "hot pursuit, hot chase"
+        "meaning": {
+          "vi": "hot pursuit, hot chase"
+        },
+        "romaji": "moutsui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "追う",
         "reading": "おう",
-        "meaning": "to chase, to run after, to pursue, to follow after, to follow (a set order, a trend, etc.), to drive out, to get rid of, to oust, to expel, to drive (e.g. a herd), to be pressed (e.g. for time)"
+        "meaning": {
+          "vi": "to chase, to run after, to pursue, to follow after, to follow (a set order, a trend, etc.), to drive out, to get rid of, to oust, to expel, to drive (e.g. a herd), to be pressed (e.g. for time)"
+        },
+        "romaji": "ou"
       },
       {
         "example": "追手門学院大学",
         "reading": "おうてもんがくいんだいがく",
-        "meaning": "Otemon Gakuin University"
+        "meaning": {
+          "en": "Otemon Gakuin University"
+        },
+        "romaji": "outemongakuindaigaku"
       }
     ],
     "radical": {
@@ -327,5 +345,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ffd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ffd.gif",
     "uri": "https://jisho.org/search/%E8%BF%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "truy",
+    "đôi"
+  ]
 }

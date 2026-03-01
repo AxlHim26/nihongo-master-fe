@@ -20,34 +20,52 @@
       {
         "example": "藤黄",
         "reading": "トウオウ",
-        "meaning": "gamboge"
+        "meaning": {
+          "en": "gamboge"
+        },
+        "romaji": "touou"
       },
       {
         "example": "藤花",
         "reading": "トウカ",
-        "meaning": "wisteria flower"
+        "meaning": {
+          "en": "wisteria flower"
+        },
+        "romaji": "touka"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "藤",
         "reading": "ふじ",
-        "meaning": "wisteria (esp. Japanese wisteria, Wisteria floribunda), wistaria"
+        "meaning": {
+          "vi": "wisteria (esp. Japanese wisteria, Wisteria floribunda), wistaria"
+        },
+        "romaji": "fuji"
       },
       {
         "example": "藤色",
         "reading": "ふじいろ",
-        "meaning": "light purple"
+        "meaning": {
+          "vi": "light purple"
+        },
+        "romaji": "fujiiro"
       },
       {
         "example": "草藤",
         "reading": "くさふじ",
-        "meaning": "tufted vetch (Vicia cracca), cow vetch"
+        "meaning": {
+          "en": "tufted vetch (Vicia cracca), cow vetch"
+        },
+        "romaji": "kusafuji"
       },
       {
         "example": "野田藤",
         "reading": "のだふじ",
-        "meaning": "Japanese wisteria (Wisteria floribunda)"
+        "meaning": {
+          "vi": "Japanese wisteria (Wisteria floribunda)"
+        },
+        "romaji": "nodafuji"
       }
     ],
     "radical": {
@@ -70,5 +88,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085e4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85e4.gif",
     "uri": "https://jisho.org/search/%E8%97%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "đằng"
+  ]
 }

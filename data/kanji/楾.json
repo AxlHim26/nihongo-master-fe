@@ -15,7 +15,10 @@
       {
         "example": "半挿",
         "reading": "はんぞう",
-        "meaning": "teapot-like object made typically of lacquerware and used to pour hot and cold liquids, basin of water with two handles on either side used for washing one's face or hands"
+        "meaning": {
+          "vi": "teapot-like object made typically of lacquerware and used to pour hot and cold liquids, basin of water with two handles on either side used for washing one's face or hands"
+        },
+        "romaji": "hanzou"
       }
     ],
     "radical": {
@@ -31,5 +34,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0697e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/697e.gif",
     "uri": "https://jisho.org/search/%E6%A5%BE%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

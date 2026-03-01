@@ -324,44 +324,68 @@
       {
         "example": "造語",
         "reading": "ゾウゴ",
-        "meaning": "coinage, invention of a new word, coined word"
+        "meaning": {
+          "en": "coinage, invention of a new word, coined word"
+        },
+        "romaji": "zougo"
       },
       {
         "example": "造形",
         "reading": "ゾウケイ",
-        "meaning": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+        "meaning": {
+          "vi": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+        },
+        "romaji": "zoukei"
       },
       {
         "example": "変造",
         "reading": "ヘンゾウ",
-        "meaning": "alteration, defacement, debasement, falsification, forgery"
+        "meaning": {
+          "en": "alteration, defacement, debasement, falsification, forgery"
+        },
+        "romaji": "henzou"
       },
       {
         "example": "捏造",
         "reading": "ネツゾウ",
-        "meaning": "fabrication, forgery, falsehood, hoax"
+        "meaning": {
+          "en": "fabrication, forgery, falsehood, hoax"
+        },
+        "romaji": "netsuzou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "作る",
         "reading": "つくる",
-        "meaning": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        "meaning": {
+          "vi": "to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion, to form (a line, etc.), to set (a record), to commit (a sin, etc.)"
+        },
+        "romaji": "tsukuru"
       },
       {
         "example": "作り",
         "reading": "つくり",
-        "meaning": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.)"
+        "meaning": {
+          "vi": "making, producing, manufacturing, building, construction, make, structure, appearance (attire, make-up, etc.), build, physique, sashimi, forced (smile, etc.)"
+        },
+        "romaji": "tsukuri"
       },
       {
         "example": "作り上げる",
         "reading": "つくりあげる",
-        "meaning": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up"
+        "meaning": {
+          "vi": "to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up"
+        },
+        "romaji": "tsukuriageru"
       },
       {
         "example": "塚造",
         "reading": "つかつくり",
-        "meaning": "megapode (any bird of family Megapodiidae, incl. brush turkeys and mallee fowl), mound builder"
+        "meaning": {
+          "vi": "megapode (any bird of family Megapodiidae, incl. brush turkeys and mallee fowl), mound builder"
+        },
+        "romaji": "tsukatsukuri"
       }
     ],
     "radical": {
@@ -383,5 +407,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09020.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9020.gif",
     "uri": "https://jisho.org/search/%E9%80%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tháo",
+    "tạo"
+  ]
 }

@@ -18,12 +18,18 @@
       {
         "example": "医院",
         "reading": "イイン",
-        "meaning": "doctor's office, doctor's surgery, clinic"
+        "meaning": {
+          "en": "doctor's office, doctor's surgery, clinic"
+        },
+        "romaji": "iin"
       },
       {
         "example": "医師",
         "reading": "イシ",
-        "meaning": "doctor, physician"
+        "meaning": {
+          "vi": "doctor, physician"
+        },
+        "romaji": "ishi"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ab.gif",
     "uri": "https://jisho.org/search/%E9%86%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "y",
+    "ỷ"
+  ]
 }

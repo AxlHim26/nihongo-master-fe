@@ -17,22 +17,34 @@
       {
         "example": "凪",
         "reading": "なぎ",
-        "meaning": "calm (at sea), lull"
+        "meaning": {
+          "en": "calm (at sea), lull"
+        },
+        "romaji": "nagi"
       },
       {
         "example": "夕凪",
         "reading": "ゆうなぎ",
-        "meaning": "evening calm"
+        "meaning": {
+          "en": "evening calm"
+        },
+        "romaji": "yuunagi"
       },
       {
         "example": "逆凪",
         "reading": "さかなぎ",
-        "meaning": "backfire (of a spell, curse, etc.)"
+        "meaning": {
+          "vi": "backfire (of a spell, curse, etc.)"
+        },
+        "romaji": "sakanagi"
       },
       {
         "example": "凪ぐ",
         "reading": "なぐ",
-        "meaning": "to become calm (of the wind, sea, etc.), to die down"
+        "meaning": {
+          "en": "to become calm (of the wind, sea, etc.), to die down"
+        },
+        "romaji": "nagu"
       }
     ],
     "radical": {
@@ -47,5 +59,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051ea.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51ea.gif",
     "uri": "https://jisho.org/search/%E5%87%AA%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

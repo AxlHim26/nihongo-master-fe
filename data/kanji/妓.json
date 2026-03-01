@@ -18,27 +18,42 @@
       {
         "example": "妓",
         "reading": "ギ",
-        "meaning": "geisha"
+        "meaning": {
+          "en": "geisha"
+        },
+        "romaji": "gi"
       },
       {
         "example": "妓院",
         "reading": "ギイン",
-        "meaning": "brothel"
+        "meaning": {
+          "en": "brothel"
+        },
+        "romaji": "giin"
       },
       {
         "example": "舞妓",
         "reading": "マイコ",
-        "meaning": "maiko, apprentice geisha (in Kyoto)"
+        "meaning": {
+          "vi": "maiko, apprentice geisha (in Kyoto)"
+        },
+        "romaji": "maiko"
       },
       {
         "example": "芸妓",
         "reading": "ゲイギ",
-        "meaning": "geisha"
+        "meaning": {
+          "en": "geisha"
+        },
+        "romaji": "geigi"
       },
       {
         "example": "妓生",
         "reading": "キーセン",
-        "meaning": "kisaeng (Korean female entertainer)"
+        "meaning": {
+          "en": "kisaeng (Korean female entertainer)"
+        },
+        "romaji": "kiisen"
       }
     ],
     "kunyomiExamples": [],
@@ -56,5 +71,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05993.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5993.gif",
     "uri": "https://jisho.org/search/%E5%A6%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "kĩ",
+    "kỹ"
+  ]
 }

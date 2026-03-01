@@ -254,29 +254,44 @@
       {
         "example": "掃除",
         "reading": "ソウジ",
-        "meaning": "cleaning, sweeping, dusting, scrubbing"
+        "meaning": {
+          "vi": "cleaning, sweeping, dusting, scrubbing"
+        },
+        "romaji": "souji"
       },
       {
         "example": "掃海",
         "reading": "ソウカイ",
-        "meaning": "sweeping the sea for mines, dragging for mines"
+        "meaning": {
+          "vi": "sweeping the sea for mines, dragging for mines"
+        },
+        "romaji": "soukai"
       },
       {
         "example": "洒掃",
         "reading": "サイソウ",
-        "meaning": "scrubbing (with water), cleaning"
+        "meaning": {
+          "en": "scrubbing (with water), cleaning"
+        },
+        "romaji": "saisou"
       },
       {
         "example": "特殊清掃",
         "reading": "トクシュセイソウ",
-        "meaning": "special cleaning and disinfection (esp. after an accident or death), biohazard cleanup, crime scene cleanup"
+        "meaning": {
+          "vi": "special cleaning and disinfection (esp. after an accident or death), biohazard cleanup, crime scene cleanup"
+        },
+        "romaji": "tokushuseisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "掃く",
         "reading": "はく",
-        "meaning": "to sweep, to brush, to clean, to gather silkworms"
+        "meaning": {
+          "vi": "to sweep, to brush, to clean, to gather silkworms"
+        },
+        "romaji": "haku"
       }
     ],
     "radical": {
@@ -296,5 +311,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06383.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6383.gif",
     "uri": "https://jisho.org/search/%E6%8E%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "táo",
+    "tảo"
+  ]
 }

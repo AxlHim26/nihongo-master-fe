@@ -308,39 +308,60 @@
       {
         "example": "袋",
         "reading": "タイ",
-        "meaning": "counter for things inside a bag"
+        "meaning": {
+          "en": "counter for things inside a bag"
+        },
+        "romaji": "tai"
       },
       {
         "example": "袋果",
         "reading": "タイカ",
-        "meaning": "follicle"
+        "meaning": {
+          "en": "follicle"
+        },
+        "romaji": "taika"
       },
       {
         "example": "頸袋",
         "reading": "ケイタイ",
-        "meaning": "dewlap"
+        "meaning": {
+          "vi": "dewlap"
+        },
+        "romaji": "keitai"
       },
       {
         "example": "製袋",
         "reading": "セイタイ",
-        "meaning": "bag manufacturing"
+        "meaning": {
+          "en": "bag manufacturing"
+        },
+        "romaji": "seitai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "袋",
         "reading": "ふくろ",
-        "meaning": "bag, sack, pouch, skin of an orange (and other like fruits), dead end, plot of land surrounded by water"
+        "meaning": {
+          "vi": "bag, sack, pouch, skin of an orange (and other like fruits), dead end, plot of land surrounded by water"
+        },
+        "romaji": "fukuro"
       },
       {
         "example": "袋小路",
         "reading": "ふくろこうじ",
-        "meaning": "blind alley, cul-de-sac, dead end street, deadlock, impasse, dead end"
+        "meaning": {
+          "vi": "blind alley, cul-de-sac, dead end street, deadlock, impasse, dead end"
+        },
+        "romaji": "fukurokouji"
       },
       {
         "example": "空気袋",
         "reading": "くうきぶくろ",
-        "meaning": "air sac, bladder, air bag, windbag"
+        "meaning": {
+          "en": "air sac, bladder, air bag, windbag"
+        },
+        "romaji": "kuukibukuro"
       }
     ],
     "radical": {
@@ -360,5 +381,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0888b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/888b.gif",
     "uri": "https://jisho.org/search/%E8%A2%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "đại"
+  ]
 }

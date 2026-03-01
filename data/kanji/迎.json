@@ -283,29 +283,44 @@
       {
         "example": "迎賓館",
         "reading": "ゲイヒンカン",
-        "meaning": "reception hall (esp. for visiting state dignitaries), guest house, State Guest House (esp. Akasaka palace, also guest house in Kyoto)"
+        "meaning": {
+          "vi": "reception hall (esp. for visiting state dignitaries), guest house, State Guest House (esp. Akasaka palace, also guest house in Kyoto)"
+        },
+        "romaji": "geihinkan"
       },
       {
         "example": "迎撃",
         "reading": "ゲイゲキ",
-        "meaning": "intercept, interception, counter-attack"
+        "meaning": {
+          "vi": "intercept, interception, counter-attack"
+        },
+        "romaji": "geigeki"
       },
       {
         "example": "奉迎",
         "reading": "ホウゲイ",
-        "meaning": "welcome"
+        "meaning": {
+          "en": "welcome"
+        },
+        "romaji": "hougei"
       },
       {
         "example": "盛んな歓迎",
         "reading": "サカンナカンゲイ",
-        "meaning": "cordial reception"
+        "meaning": {
+          "vi": "cordial reception"
+        },
+        "romaji": "sakannakangei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "迎える",
         "reading": "むかえる",
-        "meaning": "to go out to meet, to receive, to welcome, to greet, to salute, to hail, to call for, to summon, to invite, to accept (e.g. as a member of a group or family), to take (e.g. a wife), to reach (a certain time, a point in one's life, etc.), to enter (a new phase, new era, etc.), to approach (e.g. death)"
+        "meaning": {
+          "vi": "to go out to meet, to receive, to welcome, to greet, to salute, to hail, to call for, to summon, to invite, to accept (e.g. as a member of a group or family), to take (e.g. a wife), to reach (a certain time, a point in one's life, etc.), to enter (a new phase, new era, etc.), to approach (e.g. death)"
+        },
+        "romaji": "mukaeru"
       }
     ],
     "radical": {
@@ -325,5 +340,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fce.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fce.gif",
     "uri": "https://jisho.org/search/%E8%BF%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghinh",
+    "nghênh",
+    "nghịnh"
+  ]
 }

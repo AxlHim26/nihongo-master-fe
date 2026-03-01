@@ -268,22 +268,34 @@
       {
         "example": "寸",
         "reading": "スン",
-        "meaning": "sun (approx. 3 cm), length, measurement, shortness, tininess"
+        "meaning": {
+          "vi": "sun (approx. 3 cm), length, measurement, shortness, tininess"
+        },
+        "romaji": "sun"
       },
       {
         "example": "寸前",
         "reading": "スンゼン",
-        "meaning": "just before, on the verge of, on the brink of, just in front of, just ahead of"
+        "meaning": {
+          "en": "just before, on the verge of, on the brink of, just in front of, just ahead of"
+        },
+        "romaji": "sunzen"
       },
       {
         "example": "原寸",
         "reading": "ゲンスン",
-        "meaning": "actual size, full size"
+        "meaning": {
+          "en": "actual size, full size"
+        },
+        "romaji": "gensun"
       },
       {
         "example": "外寸",
         "reading": "ガイスン",
-        "meaning": "external dimensions, outer size"
+        "meaning": {
+          "en": "external dimensions, outer size"
+        },
+        "romaji": "gaisun"
       }
     ],
     "kunyomiExamples": [],
@@ -298,5 +310,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bf8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bf8.gif",
     "uri": "https://jisho.org/search/%E5%AF%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "thốn"
+  ]
 }

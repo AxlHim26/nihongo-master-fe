@@ -249,34 +249,52 @@
       {
         "example": "銅",
         "reading": "ドウ",
-        "meaning": "copper (Cu), bronze (medal)"
+        "meaning": {
+          "vi": "copper (Cu), bronze (medal)"
+        },
+        "romaji": "dou"
       },
       {
         "example": "銅像",
         "reading": "ドウゾウ",
-        "meaning": "bronze statue"
+        "meaning": {
+          "en": "bronze statue"
+        },
+        "romaji": "douzou"
       },
       {
         "example": "白銅",
         "reading": "ハクドウ",
-        "meaning": "nickel and copper alloy"
+        "meaning": {
+          "vi": "nickel and copper alloy"
+        },
+        "romaji": "hakudou"
       },
       {
         "example": "精銅",
         "reading": "セイドウ",
-        "meaning": "refined copper"
+        "meaning": {
+          "vi": "refined copper"
+        },
+        "romaji": "seidou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "銅",
         "reading": "どう",
-        "meaning": "copper (Cu), bronze (medal)"
+        "meaning": {
+          "vi": "copper (Cu), bronze (medal)"
+        },
+        "romaji": "dou"
       },
       {
         "example": "銅色",
         "reading": "どうしょく",
-        "meaning": "bronze color, copper color"
+        "meaning": {
+          "vi": "bronze color, copper color"
+        },
+        "romaji": "doushoku"
       }
     ],
     "radical": {
@@ -296,5 +314,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09285.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9285.gif",
     "uri": "https://jisho.org/search/%E9%8A%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "đồng"
+  ]
 }

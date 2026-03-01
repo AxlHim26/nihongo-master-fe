@@ -18,19 +18,28 @@
       {
         "example": "懶惰",
         "reading": "ランダ",
-        "meaning": "indolence, laziness, sloth, idleness"
+        "meaning": {
+          "en": "indolence, laziness, sloth, idleness"
+        },
+        "romaji": "randa"
       },
       {
         "example": "懶惰",
         "reading": "ランダ",
-        "meaning": "indolence, laziness, sloth, idleness"
+        "meaning": {
+          "en": "indolence, laziness, sloth, idleness"
+        },
+        "romaji": "randa"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "物憂い",
         "reading": "ものうい",
-        "meaning": "languid, weary, listless, melancholy"
+        "meaning": {
+          "en": "languid, weary, listless, melancholy"
+        },
+        "romaji": "monoui"
       }
     ],
     "radical": {
@@ -55,5 +64,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061f6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61f6.gif",
     "uri": "https://jisho.org/search/%E6%87%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "lãn",
+    "lại"
+  ]
 }

@@ -21,49 +21,103 @@
       {
         "example": "乙",
         "reading": "オツ",
-        "meaning": "(the) second (party, rank, etc.), B (grade), the latter, stylish, chic, smart, witty, tasty, strange, quaint, queer, thank you, good job, see you, goodbye, goodnight"
+        "meaning": {
+          "vi": "(the) second (party, rank, etc.), B (grade), the latter, stylish, chic, smart, witty, tasty, strange, quaint, queer, thank you, good job, see you, goodbye, goodnight"
+        },
+        "meaningVN": "(the) thứ hai (bữa tiệc, cấp bậc, v.v.), b (lớp), thứ hai, phong cách, sang trọng, thông minh, hóm hỉnh, ngon, lạ, lạ, kỳ lạ, cảm ơn bạn, làm tốt lắm, hẹn gặp lại, tạm biệt, chúc ngủ ngon",
+        "hanViet": "ất",
+        "hanVietExplain": "ất: Ất (ngôi thứ hai thuộc hàng Can), bộ ất",
+        "romaji": "otsu"
       },
       {
         "example": "乙亥",
         "reading": "キノトイ",
-        "meaning": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+        "meaning": {
+          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+        },
+        "meaningVN": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
+        "hanViet": "ất giai",
+        "hanVietExplain": "乙 (ất: Ất (ngôi thứ hai thuộc hàng Can)) + 亥 (giai: Hợi (ngôi thứ 12 hàng Chi)) → lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
+        "romaji": "kinotoi"
       },
       {
         "example": "うｐ乙",
         "reading": "ウプオツ",
-        "meaning": "thanks for uploading"
+        "meaning": {
+          "vi": "thanks for uploading"
+        },
+        "meaningVN": "cảm ơn vì đã tải lên",
+        "hanViet": "う ｐ ất",
+        "hanVietExplain": "ất: Ất (ngôi thứ hai thuộc hàng Can), bộ ất",
+        "romaji": "upuotsu"
       },
       {
         "example": "枠乙",
         "reading": "ワクオツ",
-        "meaning": "thanks for streaming"
+        "meaning": {
+          "en": "thanks for streaming"
+        },
+        "meaningVN": "cảm ơn vì đã phát trực tuyến",
+        "hanViet": "hoa ất",
+        "hanVietExplain": "枠 (hoa: ?) + 乙 (ất: Ất (ngôi thứ hai thuộc hàng Can)) → cảm ơn vì đã phát trực tuyến",
+        "romaji": "wakuotsu"
       },
       {
         "example": "乙亥",
         "reading": "キノトイ",
-        "meaning": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+        "meaning": {
+          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+        },
+        "meaningVN": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
+        "hanViet": "ất giai",
+        "hanVietExplain": "乙 (ất: Ất (ngôi thứ hai thuộc hàng Can)) + 亥 (giai: Hợi (ngôi thứ 12 hàng Chi)) → lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
+        "romaji": "kinotoi"
       },
       {
         "example": "乙未",
         "reading": "キノトヒツジ",
-        "meaning": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+        "meaning": {
+          "vi": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+        },
+        "meaningVN": "cừu gỗ (học kỳ thứ 32 của chu kỳ sáu mươi năm, ví dụ: 1955, 2015, 2075)",
+        "hanViet": "ất mùi",
+        "hanVietExplain": "乙 (ất: Ất (ngôi thứ hai thuộc hàng Can)) + 未 (mùi: Mùi (ngôi thứ 8 hàng Chi)) → cừu gỗ (học kỳ thứ 32 của chu kỳ sáu mươi năm, ví dụ: 1955, 2015, 2075)",
+        "romaji": "kinotohitsuji"
       },
       {
         "example": "不一",
         "reading": "フイツ",
-        "meaning": "Very sincerely yours, different"
+        "meaning": {
+          "en": "Very sincerely yours, different"
+        },
+        "meaningVN": "rất chân thành của bạn, khác biệt",
+        "hanViet": "bưu nhất",
+        "hanVietExplain": "不 (bưu: không, chẳng) + 一 (nhất: một, 1) → rất chân thành của bạn, khác biệt",
+        "romaji": "fuitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乙",
         "reading": "きのと",
-        "meaning": "second in rank, second sign of the Chinese calendar"
+        "meaning": {
+          "en": "second in rank, second sign of the Chinese calendar"
+        },
+        "meaningVN": "hạng nhì, dấu hiệu thứ hai của lịch trung quốc",
+        "hanViet": "ất",
+        "hanVietExplain": "ất: Ất (ngôi thứ hai thuộc hàng Can), bộ ất",
+        "romaji": "kinoto"
       },
       {
         "example": "乙亥",
         "reading": "きのとい",
-        "meaning": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+        "meaning": {
+          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+        },
+        "meaningVN": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
+        "hanViet": "ất giai",
+        "hanVietExplain": "乙 (ất: Ất (ngôi thứ hai thuộc hàng Can)) + 亥 (giai: Hợi (ngôi thứ 12 hàng Chi)) → lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
+        "romaji": "kinotoi"
       }
     ],
     "radical": {
@@ -82,5 +136,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e59.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e59.gif",
     "uri": "https://jisho.org/search/%E4%B9%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "ất"
+  ],
+  "meaningVN": "cái sau, trùng lặp, kỳ lạ, hóm hỉnh, lưỡi câu cấp tiến (số 5)",
+  "hanVietExplain": "ất: Ất (ngôi thứ hai thuộc hàng Can), bộ ất"
 }

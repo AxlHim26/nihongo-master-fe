@@ -281,49 +281,76 @@
       {
         "example": "沈着",
         "reading": "チンチャク",
-        "meaning": "composure, calmness, self-possession, presence of mind, depositing (at the bottom), deposition, accumulation, adherence"
+        "meaning": {
+          "vi": "composure, calmness, self-possession, presence of mind, depositing (at the bottom), deposition, accumulation, adherence"
+        },
+        "romaji": "chinchaku"
       },
       {
         "example": "沈下",
         "reading": "チンカ",
-        "meaning": "sinking, subsidence"
+        "meaning": {
+          "en": "sinking, subsidence"
+        },
+        "romaji": "chinka"
       },
       {
         "example": "浮沈",
         "reading": "フチン",
-        "meaning": "floating and sinking, rise and fall, ebb and flow, ups and downs"
+        "meaning": {
+          "vi": "floating and sinking, rise and fall, ebb and flow, ups and downs"
+        },
+        "romaji": "fuchin"
       },
       {
         "example": "撃沈",
         "reading": "ゲキチン",
-        "meaning": "(attacking and) sinking (a ship), sending (a ship) to the bottom"
+        "meaning": {
+          "vi": "(attacking and) sinking (a ship), sending (a ship) to the bottom"
+        },
+        "romaji": "gekichin"
       },
       {
         "example": "沈香",
         "reading": "ジンコウ",
-        "meaning": "agarwood, aloeswood, gharuwood, eaglewood, agalloch, agallochum, aquilaria tree, lign aloes"
+        "meaning": {
+          "en": "agarwood, aloeswood, gharuwood, eaglewood, agalloch, agallochum, aquilaria tree, lign aloes"
+        },
+        "romaji": "jinkou"
       },
       {
         "example": "沈香も焚かず屁も放らず",
         "reading": "ジンコウモタカズヘモヒラズ",
-        "meaning": "having few faults as well as few virtues, not burning agarwood (incense); not passing wind"
+        "meaning": {
+          "vi": "having few faults as well as few virtues, not burning agarwood (incense); not passing wind"
+        },
+        "romaji": "jinkoumotakazuhemohirazu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沈む",
         "reading": "しずむ",
-        "meaning": "to sink, to go under, to submerge, to go down (e.g. sun), to set, to descend, to feel depressed, to become subdued, to become somber"
+        "meaning": {
+          "vi": "to sink, to go under, to submerge, to go down (e.g. sun), to set, to descend, to feel depressed, to become subdued, to become somber"
+        },
+        "romaji": "shizumu"
       },
       {
         "example": "沈む瀬あれば浮かぶ瀬あり",
         "reading": "しずむせあればうかぶせあり",
-        "meaning": "life has its ups and downs, he who falls today may rise tomorrow"
+        "meaning": {
+          "vi": "life has its ups and downs, he who falls today may rise tomorrow"
+        },
+        "romaji": "shizumusearebaukabuseari"
       },
       {
         "example": "沈める",
         "reading": "しずめる",
-        "meaning": "to sink (e.g. a ship), to submerge, to lower (e.g. one's body into a chair), to floor (an opponent)"
+        "meaning": {
+          "vi": "to sink (e.g. a ship), to submerge, to lower (e.g. one's body into a chair), to floor (an opponent)"
+        },
+        "romaji": "shizumeru"
       }
     ],
     "radical": {
@@ -343,5 +370,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c88.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c88.gif",
     "uri": "https://jisho.org/search/%E6%B2%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "thẩm",
+    "trấm",
+    "trầm"
+  ]
 }

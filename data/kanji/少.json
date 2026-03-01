@@ -353,39 +353,60 @@
       {
         "example": "少",
         "reading": "ショウ",
-        "meaning": "small, little, few"
+        "meaning": {
+          "en": "small, little, few"
+        },
+        "romaji": "shou"
       },
       {
         "example": "少輔",
         "reading": "ショウ",
-        "meaning": "assistant vice-minister (ritsuryō system, early Meiji period)"
+        "meaning": {
+          "vi": "assistant vice-minister (ritsuryō system, early Meiji period)"
+        },
+        "romaji": "shou"
       },
       {
         "example": "最少",
         "reading": "サイショウ",
-        "meaning": "fewest, least, smallest (number), lowest, minimum, youngest"
+        "meaning": {
+          "en": "fewest, least, smallest (number), lowest, minimum, youngest"
+        },
+        "romaji": "saishou"
       },
       {
         "example": "過少",
         "reading": "カショウ",
-        "meaning": "too few, too little, insufficient"
+        "meaning": {
+          "en": "too few, too little, insufficient"
+        },
+        "romaji": "kashou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "少ない",
         "reading": "すくない",
-        "meaning": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+        "meaning": {
+          "en": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+        },
+        "romaji": "sukunai"
       },
       {
         "example": "少し",
         "reading": "すこし",
-        "meaning": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance"
+        "meaning": {
+          "en": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance"
+        },
+        "romaji": "sukoshi"
       },
       {
         "example": "少しも",
         "reading": "すこしも",
-        "meaning": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+        "meaning": {
+          "en": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+        },
+        "romaji": "sukoshimo"
       }
     ],
     "radical": {
@@ -400,5 +421,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c11.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c11.gif",
     "uri": "https://jisho.org/search/%E5%B0%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiếu",
+    "thiểu"
+  ]
 }

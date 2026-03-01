@@ -16,12 +16,18 @@
       {
         "example": "抵触",
         "reading": "テイショク",
-        "meaning": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+        "meaning": {
+          "vi": "infringement (of a law, treaty, etc.), contravention, running afoul, conflict (with a theory, claim, etc.), inconsistency, incompatibility, contradiction, collision, contact, touching"
+        },
+        "romaji": "teishoku"
       },
       {
         "example": "角觝",
         "reading": "カクテイ",
-        "meaning": "strength contest, sumo wrestling"
+        "meaning": {
+          "en": "strength contest, sumo wrestling"
+        },
+        "romaji": "kakutei"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89dd.gif",
     "uri": "https://jisho.org/search/%E8%A7%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "để"
+  ]
 }

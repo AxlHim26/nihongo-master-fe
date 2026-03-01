@@ -18,12 +18,18 @@
       {
         "example": "逗留",
         "reading": "トウリュウ",
-        "meaning": "stay, sojourn"
+        "meaning": {
+          "en": "stay, sojourn"
+        },
+        "romaji": "touryuu"
       },
       {
         "example": "逗留客",
         "reading": "トウリュウキャク",
-        "meaning": "sojourner, visitor"
+        "meaning": {
+          "en": "sojourner, visitor"
+        },
+        "romaji": "touryuukyaku"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +52,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09017.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9017.gif",
     "uri": "https://jisho.org/search/%E9%80%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "đậu"
+  ]
 }

@@ -317,29 +317,44 @@
       {
         "example": "謝罪",
         "reading": "シャザイ",
-        "meaning": "apology"
+        "meaning": {
+          "vi": "apology"
+        },
+        "romaji": "shazai"
       },
       {
         "example": "謝意",
         "reading": "シャイ",
-        "meaning": "gratitude, thanks, apology"
+        "meaning": {
+          "vi": "gratitude, thanks, apology"
+        },
+        "romaji": "shai"
       },
       {
         "example": "慰謝",
         "reading": "イシャ",
-        "meaning": "consolation"
+        "meaning": {
+          "en": "consolation"
+        },
+        "romaji": "isha"
       },
       {
         "example": "代謝",
         "reading": "タイシャ",
-        "meaning": "metabolism, renewal, regeneration, replacing the old with the new"
+        "meaning": {
+          "vi": "metabolism, renewal, regeneration, replacing the old with the new"
+        },
+        "romaji": "taisha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謝る",
         "reading": "あやまる",
-        "meaning": "to apologize, to apologise, to refuse, to decline, to be unable to bear, to be defeated (by), to be at a loss"
+        "meaning": {
+          "vi": "to apologize, to apologise, to refuse, to decline, to be unable to bear, to be defeated (by), to be at a loss"
+        },
+        "romaji": "ayamaru"
       }
     ],
     "radical": {
@@ -358,5 +373,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b1d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b1d.gif",
     "uri": "https://jisho.org/search/%E8%AC%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "tạ"
+  ]
 }

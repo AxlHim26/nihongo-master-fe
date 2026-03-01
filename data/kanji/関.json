@@ -382,54 +382,84 @@
       {
         "example": "関",
         "reading": "カン",
-        "meaning": "barrier, gate"
+        "meaning": {
+          "en": "barrier, gate"
+        },
+        "romaji": "kan"
       },
       {
         "example": "関係",
         "reading": "カンケイ",
-        "meaning": "relation, relationship, connection, participation, involvement, concern, influence, effect, sexual relations, sexual relationship, related to, connected to"
+        "meaning": {
+          "vi": "relation, relationship, connection, participation, involvement, concern, influence, effect, sexual relations, sexual relationship, related to, connected to"
+        },
+        "romaji": "kankei"
       },
       {
         "example": "連関",
         "reading": "レンカン",
-        "meaning": "connection, relation, linkage"
+        "meaning": {
+          "en": "connection, relation, linkage"
+        },
+        "romaji": "renkan"
       },
       {
         "example": "通関",
         "reading": "ツウカン",
-        "meaning": "customs clearance"
+        "meaning": {
+          "en": "customs clearance"
+        },
+        "romaji": "tsuukan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "関",
         "reading": "せき",
-        "meaning": "barrier, gate, seki, mutual life"
+        "meaning": {
+          "en": "barrier, gate, seki, mutual life"
+        },
+        "romaji": "seki"
       },
       {
         "example": "関取",
         "reading": "せきとり",
-        "meaning": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        "meaning": {
+          "en": "ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions"
+        },
+        "romaji": "sekitori"
       },
       {
         "example": "霞ヶ関",
         "reading": "かすみがせき",
-        "meaning": "Kasumigaseki, district of Tokyo where most of Japan's government ministry offices are located, government ministries (of Japan), Japanese government bureaucracy"
+        "meaning": {
+          "vi": "Kasumigaseki, district of Tokyo where most of Japan's government ministry offices are located, government ministries (of Japan), Japanese government bureaucracy"
+        },
+        "romaji": "kasumigaseki"
       },
       {
         "example": "関わる",
         "reading": "かかわる",
-        "meaning": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+        "meaning": {
+          "vi": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+        },
+        "romaji": "kakawaru"
       },
       {
         "example": "覗き機関",
         "reading": "のぞきからくり",
-        "meaning": "peep show, device with lens mounted on a stand or in a box to view enlarged pictures"
+        "meaning": {
+          "vi": "peep show, device with lens mounted on a stand or in a box to view enlarged pictures"
+        },
+        "romaji": "nozokikarakuri"
       },
       {
         "example": "水機関",
         "reading": "みずからくり",
-        "meaning": "puppet powered by (falling) water, water-powered contrivance, show using such a device (in Edo-period Osaka)"
+        "meaning": {
+          "vi": "puppet powered by (falling) water, water-powered contrivance, show using such a device (in Edo-period Osaka)"
+        },
+        "romaji": "mizukarakuri"
       }
     ],
     "radical": {
@@ -449,5 +479,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95a2.gif",
     "uri": "https://jisho.org/search/%E9%96%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "quan"
+  ]
 }

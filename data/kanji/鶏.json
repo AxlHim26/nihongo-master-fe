@@ -20,54 +20,84 @@
       {
         "example": "鶏肉",
         "reading": "トリニク",
-        "meaning": "chicken meat, fowl, poultry, bird meat"
+        "meaning": {
+          "vi": "chicken meat, fowl, poultry, bird meat"
+        },
+        "romaji": "toriniku"
       },
       {
         "example": "鶏卵",
         "reading": "ケイラン",
-        "meaning": "hen's egg"
+        "meaning": {
+          "en": "hen's egg"
+        },
+        "romaji": "keiran"
       },
       {
         "example": "養鶏",
         "reading": "ヨウケイ",
-        "meaning": "poultry raising, poultry farming, chicken farming"
+        "meaning": {
+          "vi": "poultry raising, poultry farming, chicken farming"
+        },
+        "romaji": "youkei"
       },
       {
         "example": "成鶏",
         "reading": "セイケイ",
-        "meaning": "adult chicken, mature fowl"
+        "meaning": {
+          "en": "adult chicken, mature fowl"
+        },
+        "romaji": "seikei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鶏",
         "reading": "にわとり",
-        "meaning": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        "meaning": {
+          "en": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        },
+        "romaji": "niwatori"
       },
       {
         "example": "鶏小屋",
         "reading": "にわとりごや",
-        "meaning": "henhouse, chicken coop"
+        "meaning": {
+          "vi": "henhouse, chicken coop"
+        },
+        "romaji": "niwatorigoya"
       },
       {
         "example": "鳥",
         "reading": "とり",
-        "meaning": "bird, bird meat (esp. chicken meat), fowl, poultry"
+        "meaning": {
+          "vi": "bird, bird meat (esp. chicken meat), fowl, poultry"
+        },
+        "romaji": "tori"
       },
       {
         "example": "鶏",
         "reading": "にわとり",
-        "meaning": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        "meaning": {
+          "en": "chicken (Gallus gallus domesticus), domestic chicken, chicken meat"
+        },
+        "romaji": "niwatori"
       },
       {
         "example": "焼き鳥",
         "reading": "やきとり",
-        "meaning": "yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer, grilled and skewered bird (esp. sparrow), failing to win a single hand during a half-game"
+        "meaning": {
+          "vi": "yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer, grilled and skewered bird (esp. sparrow), failing to win a single hand during a half-game"
+        },
+        "romaji": "yakitori"
       },
       {
         "example": "花鶏",
         "reading": "あとり",
-        "meaning": "brambling (bird) (Fringilla montifringilla)"
+        "meaning": {
+          "en": "brambling (bird) (Fringilla montifringilla)"
+        },
+        "romaji": "atori"
       }
     ],
     "radical": {
@@ -87,5 +117,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d8f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d8f.gif",
     "uri": "https://jisho.org/search/%E9%B6%8F%23kanji"
-  }
+  },
+  "hanViet": [
+    "kê"
+  ]
 }

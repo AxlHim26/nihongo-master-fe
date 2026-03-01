@@ -19,29 +19,44 @@
       {
         "example": "悼辞",
         "reading": "トウジ",
-        "meaning": "funeral address, message of condolence, words of condolence"
+        "meaning": {
+          "en": "funeral address, message of condolence, words of condolence"
+        },
+        "romaji": "touji"
       },
       {
         "example": "悼惜",
         "reading": "トウセキ",
-        "meaning": "mourning, grieving"
+        "meaning": {
+          "en": "mourning, grieving"
+        },
+        "romaji": "touseki"
       },
       {
         "example": "追悼",
         "reading": "ツイトウ",
-        "meaning": "mourning"
+        "meaning": {
+          "en": "mourning"
+        },
+        "romaji": "tsuitou"
       },
       {
         "example": "戦没者追悼",
         "reading": "センボツシャツイトウ",
-        "meaning": "war memorial, memorial (monument) to war dead"
+        "meaning": {
+          "en": "war memorial, memorial (monument) to war dead"
+        },
+        "romaji": "senbotsushatsuitou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悼む",
         "reading": "いたむ",
-        "meaning": "to grieve over, to mourn, to lament"
+        "meaning": {
+          "en": "to grieve over, to mourn, to lament"
+        },
+        "romaji": "itamu"
       }
     ],
     "radical": {
@@ -62,5 +77,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060bc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60bc.gif",
     "uri": "https://jisho.org/search/%E6%82%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "nạo",
+    "điệu"
+  ]
 }

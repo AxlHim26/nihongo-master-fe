@@ -17,7 +17,10 @@
       {
         "example": "矍鑠",
         "reading": "カクシャク",
-        "meaning": "vigorous (in old age), hale and hearty"
+        "meaning": {
+          "en": "vigorous (in old age), hale and hearty"
+        },
+        "romaji": "kakushaku"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09460.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9460.gif",
     "uri": "https://jisho.org/search/%E9%91%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thước"
+  ]
 }

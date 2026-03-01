@@ -327,34 +327,52 @@
       {
         "example": "換金",
         "reading": "カンキン",
-        "meaning": "realization (of goods into money), conversion (into money), liquidation"
+        "meaning": {
+          "en": "realization (of goods into money), conversion (into money), liquidation"
+        },
+        "romaji": "kankin"
       },
       {
         "example": "換気",
         "reading": "カンキ",
-        "meaning": "ventilation"
+        "meaning": {
+          "en": "ventilation"
+        },
+        "romaji": "kanki"
       },
       {
         "example": "互換",
         "reading": "ゴカン",
-        "meaning": "interchange, transposition, compatible (e.g. PC)"
+        "meaning": {
+          "vi": "interchange, transposition, compatible (e.g. PC)"
+        },
+        "romaji": "gokan"
       },
       {
         "example": "代換",
         "reading": "ダイカン",
-        "meaning": "hypallage"
+        "meaning": {
+          "vi": "hypallage"
+        },
+        "romaji": "daikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "替える",
         "reading": "かえる",
-        "meaning": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.)"
+        "meaning": {
+          "vi": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.)"
+        },
+        "romaji": "kaeru"
       },
       {
         "example": "替わる",
         "reading": "かわる",
-        "meaning": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch"
+        "meaning": {
+          "vi": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch"
+        },
+        "romaji": "kawaru"
       }
     ],
     "radical": {
@@ -375,5 +393,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063db.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63db.gif",
     "uri": "https://jisho.org/search/%E6%8F%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoán"
+  ]
 }

@@ -18,17 +18,26 @@
       {
         "example": "釦",
         "reading": "ボタン",
-        "meaning": "button (clothing), push-button, button"
+        "meaning": {
+          "vi": "button (clothing), push-button, button"
+        },
+        "romaji": "botan"
       },
       {
         "example": "押しボタン",
         "reading": "おしボタン",
-        "meaning": "push button, push-button"
+        "meaning": {
+          "vi": "push button, push-button"
+        },
+        "romaji": "oshibotan"
       },
       {
         "example": "包み釦",
         "reading": "つつみぼたん",
-        "meaning": "covered button"
+        "meaning": {
+          "en": "covered button"
+        },
+        "romaji": "tsutsumibotan"
       }
     ],
     "radical": {
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91e6.gif",
     "uri": "https://jisho.org/search/%E9%87%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "khấu",
+    "khẩu"
+  ]
 }

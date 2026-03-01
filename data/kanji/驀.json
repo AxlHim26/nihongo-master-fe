@@ -14,12 +14,18 @@
       {
         "example": "驀進",
         "reading": "バクシン",
-        "meaning": "dash, rush"
+        "meaning": {
+          "en": "dash, rush"
+        },
+        "romaji": "bakushin"
       },
       {
         "example": "驀地",
         "reading": "バクチ",
-        "meaning": "full-speed (dash), sudden"
+        "meaning": {
+          "vi": "full-speed (dash), sudden"
+        },
+        "romaji": "bakuchi"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a40.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a40.gif",
     "uri": "https://jisho.org/search/%E9%A9%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "mạch"
+  ]
 }

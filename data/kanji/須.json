@@ -25,39 +25,60 @@
       {
         "example": "須恵器",
         "reading": "スエキ",
-        "meaning": "Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)"
+        "meaning": {
+          "vi": "Sue ware (type of unglazed pottery made from the middle of the Kofun era through the Heian era)"
+        },
+        "romaji": "sueki"
       },
       {
         "example": "須義",
         "reading": "スギ",
-        "meaning": "cobia (Rachycentron canadum), sergeant fish"
+        "meaning": {
+          "en": "cobia (Rachycentron canadum), sergeant fish"
+        },
+        "romaji": "sugi"
       },
       {
         "example": "恵比寿",
         "reading": "エビス",
-        "meaning": "Ebisu, god of fishing and commerce"
+        "meaning": {
+          "en": "Ebisu, god of fishing and commerce"
+        },
+        "romaji": "ebisu"
       },
       {
         "example": "提宇子",
         "reading": "ダイウス",
-        "meaning": "God"
+        "meaning": {
+          "en": "God"
+        },
+        "romaji": "daiusu"
       },
       {
         "example": "須髯",
         "reading": "シュゼン",
-        "meaning": "beard"
+        "meaning": {
+          "en": "beard"
+        },
+        "romaji": "shuzen"
       },
       {
         "example": "須弥山",
         "reading": "シュミセン",
-        "meaning": "Mount Sumeru (believed to be the centre of the Buddhist world)"
+        "meaning": {
+          "en": "Mount Sumeru (believed to be the centre of the Buddhist world)"
+        },
+        "romaji": "shumisen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "須らく",
         "reading": "すべからく",
-        "meaning": "absolutely (ought to), by all means, all, entirely"
+        "meaning": {
+          "en": "absolutely (ought to), by all means, all, entirely"
+        },
+        "romaji": "subekaraku"
       }
     ],
     "radical": {
@@ -75,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09808.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9808.gif",
     "uri": "https://jisho.org/search/%E9%A0%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "tu"
+  ]
 }

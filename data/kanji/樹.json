@@ -316,44 +316,68 @@
       {
         "example": "樹木",
         "reading": "ジュモク",
-        "meaning": "cây, cây cối"
+        "meaning": {
+          "vi": "cây, cây cối"
+        },
+        "romaji": "jumoku"
       },
       {
         "example": "樹脂",
         "reading": "ジュシ",
-        "meaning": "nhựa cây"
+        "meaning": {
+          "vi": "nhựa cây"
+        },
+        "romaji": "jushi"
       },
       {
         "example": "植樹",
         "reading": "ショクジュ",
-        "meaning": "trồng cây"
+        "meaning": {
+          "vi": "trồng cây"
+        },
+        "romaji": "shokuju"
       },
       {
         "example": "広葉樹",
         "reading": "コウヨウジュ",
-        "meaning": "cây lá rộng"
+        "meaning": {
+          "vi": "cây lá rộng"
+        },
+        "romaji": "kouyouju"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "木",
         "reading": "き",
-        "meaning": "cây, gỗ, gỗ ván, mõ gỗ"
+        "meaning": {
+          "vi": "cây, gỗ, gỗ ván, mõ gỗ"
+        },
+        "romaji": "ki"
       },
       {
         "example": "木々",
         "reading": "きぎ",
-        "meaning": "nhiều cây, mọi cây"
+        "meaning": {
+          "vi": "nhiều cây, mọi cây"
+        },
+        "romaji": "kigi"
       },
       {
         "example": "一樹",
         "reading": "いちじゅ",
-        "meaning": "một cây"
+        "meaning": {
+          "vi": "một cây"
+        },
+        "romaji": "ichiju"
       },
       {
         "example": "楷の木",
         "reading": "かいのき",
-        "meaning": "cây hồ đào Trung Quốc"
+        "meaning": {
+          "vi": "cây hồ đào Trung Quốc"
+        },
+        "romaji": "kainoki"
       }
     ],
     "radical": {
@@ -372,5 +396,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a39.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a39.gif",
     "uri": "https://jisho.org/search/%E6%A8%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thọ",
+    "thụ"
+  ]
 }

@@ -15,7 +15,10 @@
       {
         "example": "蘿蔔",
         "reading": "スズシロ",
-        "meaning": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+        "meaning": {
+          "vi": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+        },
+        "romaji": "suzushiro"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08514.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8514.gif",
     "uri": "https://jisho.org/search/%E8%94%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "bặc",
+    "bốc"
+  ]
 }

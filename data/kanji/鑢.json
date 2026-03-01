@@ -18,22 +18,34 @@
       {
         "example": "鑢",
         "reading": "やすり",
-        "meaning": "file, rasp"
+        "meaning": {
+          "vi": "file, rasp"
+        },
+        "romaji": "yasuri"
       },
       {
         "example": "ヤスリ掛け",
         "reading": "ヤスリがけ",
-        "meaning": "filing, rasping"
+        "meaning": {
+          "vi": "filing, rasping"
+        },
+        "romaji": "yasurigake"
       },
       {
         "example": "雁木鑢",
         "reading": "がんぎやすり",
-        "meaning": "zigzag rasp"
+        "meaning": {
+          "vi": "zigzag rasp"
+        },
+        "romaji": "gangiyasuri"
       },
       {
         "example": "紙やすり",
         "reading": "かみやすり",
-        "meaning": "sandpaper, emery paper"
+        "meaning": {
+          "vi": "sandpaper, emery paper"
+        },
+        "romaji": "kamiyasuri"
       }
     ],
     "radical": {
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09462.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9462.gif",
     "uri": "https://jisho.org/search/%E9%91%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "lự"
+  ]
 }

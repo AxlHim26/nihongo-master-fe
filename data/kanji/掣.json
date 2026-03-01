@@ -17,7 +17,10 @@
       {
         "example": "掣肘",
         "reading": "セイチュウ",
-        "meaning": "restraint, restriction, control, check"
+        "meaning": {
+          "en": "restraint, restriction, control, check"
+        },
+        "romaji": "seichuu"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +43,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a3.gif",
     "uri": "https://jisho.org/search/%E6%8E%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "sế",
+    "xiết",
+    "xế"
+  ]
 }

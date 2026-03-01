@@ -16,24 +16,36 @@
       {
         "example": "棋局",
         "reading": "キキョク",
-        "meaning": "go or shogi board, position of a game of go or shogi"
+        "meaning": {
+          "vi": "go or shogi board, position of a game of go or shogi"
+        },
+        "romaji": "kikyoku"
       },
       {
         "example": "きし麺",
         "reading": "キシメン",
-        "meaning": "noodles made in flat strips"
+        "meaning": {
+          "vi": "noodles made in flat strips"
+        },
+        "romaji": "kishimen"
       },
       {
         "example": "弾棋",
         "reading": "ダンギ",
-        "meaning": "ancient Chinese board game similar to go"
+        "meaning": {
+          "en": "ancient Chinese board game similar to go"
+        },
+        "romaji": "dangi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "碁",
         "reading": "ご",
-        "meaning": "go (board game)"
+        "meaning": {
+          "en": "go (board game)"
+        },
+        "romaji": "go"
       }
     ],
     "radical": {
@@ -50,5 +62,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ca.gif",
     "uri": "https://jisho.org/search/%E6%A3%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "kì",
+    "kỳ"
+  ]
 }

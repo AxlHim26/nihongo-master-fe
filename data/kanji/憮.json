@@ -17,7 +17,10 @@
       {
         "example": "憮然",
         "reading": "ブゼン",
-        "meaning": "disappointed, dejected, disheartened, glum, astonished, dumbfounded, indignant, angry"
+        "meaning": {
+          "vi": "disappointed, dejected, disheartened, glum, astonished, dumbfounded, indignant, angry"
+        },
+        "romaji": "buzen"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +45,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ae.gif",
     "uri": "https://jisho.org/search/%E6%86%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "hủ",
+    "vũ"
+  ]
 }

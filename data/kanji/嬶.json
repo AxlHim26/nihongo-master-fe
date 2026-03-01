@@ -16,22 +16,34 @@
       {
         "example": "嬶",
         "reading": "かかあ",
-        "meaning": "wife"
+        "meaning": {
+          "en": "wife"
+        },
+        "romaji": "kakaa"
       },
       {
         "example": "かかあ天下",
         "reading": "かかあでんか",
-        "meaning": "household with the wife as the boss, wife wearing the pants, wife ruling the roost, house with a henpecked husband"
+        "meaning": {
+          "vi": "household with the wife as the boss, wife wearing the pants, wife ruling the roost, house with a henpecked husband"
+        },
+        "romaji": "kakaadenka"
       },
       {
         "example": "嬶",
         "reading": "かかあ",
-        "meaning": "wife"
+        "meaning": {
+          "en": "wife"
+        },
+        "romaji": "kakaa"
       },
       {
         "example": "かかあ天下",
         "reading": "かかあでんか",
-        "meaning": "household with the wife as the boss, wife wearing the pants, wife ruling the roost, house with a henpecked husband"
+        "meaning": {
+          "vi": "household with the wife as the boss, wife wearing the pants, wife ruling the roost, house with a henpecked husband"
+        },
+        "romaji": "kakaadenka"
       }
     ],
     "radical": {
@@ -50,5 +62,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b36.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b36.gif",
     "uri": "https://jisho.org/search/%E5%AC%B6%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

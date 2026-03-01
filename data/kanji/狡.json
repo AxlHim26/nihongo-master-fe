@@ -19,24 +19,36 @@
       {
         "example": "狡猾",
         "reading": "コウカツ",
-        "meaning": "sly, cunning, crafty"
+        "meaning": {
+          "en": "sly, cunning, crafty"
+        },
+        "romaji": "koukatsu"
       },
       {
         "example": "狡猾老獪",
         "reading": "コウカツロウカイ",
-        "meaning": "sly and crafty"
+        "meaning": {
+          "en": "sly and crafty"
+        },
+        "romaji": "koukatsuroukai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "狡い",
         "reading": "ずるい",
-        "meaning": "sly, cunning, sneaky, crafty, unfair, dishonest, miserly, mean, stingy"
+        "meaning": {
+          "en": "sly, cunning, sneaky, crafty, unfair, dishonest, miserly, mean, stingy"
+        },
+        "romaji": "zurui"
       },
       {
         "example": "狡い",
         "reading": "ずるい",
-        "meaning": "sly, cunning, sneaky, crafty, unfair, dishonest, miserly, mean, stingy"
+        "meaning": {
+          "en": "sly, cunning, sneaky, crafty, unfair, dishonest, miserly, mean, stingy"
+        },
+        "romaji": "zurui"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072e1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72e1.gif",
     "uri": "https://jisho.org/search/%E7%8B%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "giảo"
+  ]
 }

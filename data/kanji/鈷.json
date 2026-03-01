@@ -14,12 +14,18 @@
       {
         "example": "雷鈷",
         "reading": "ライコ",
-        "meaning": "ground stone tool from the late Jomon period"
+        "meaning": {
+          "vi": "ground stone tool from the late Jomon period"
+        },
+        "romaji": "raiko"
       },
       {
         "example": "独鈷",
         "reading": "トッコ",
-        "meaning": "single-pronged vajra, tokko, dokko, copper or iron implement, pointed at both ends, used in esoteric Buddhist rituals, cloth of a tokko pattern"
+        "meaning": {
+          "vi": "single-pronged vajra, tokko, dokko, copper or iron implement, pointed at both ends, used in esoteric Buddhist rituals, cloth of a tokko pattern"
+        },
+        "romaji": "tokko"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09237.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9237.gif",
     "uri": "https://jisho.org/search/%E9%88%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "cổ"
+  ]
 }

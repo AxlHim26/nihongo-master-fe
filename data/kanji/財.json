@@ -336,39 +336,60 @@
       {
         "example": "財",
         "reading": "ザイ",
-        "meaning": "fortune, riches, goods, incorporated foundation"
+        "meaning": {
+          "vi": "fortune, riches, goods, incorporated foundation"
+        },
+        "romaji": "zai"
       },
       {
         "example": "財界",
         "reading": "ザイカイ",
-        "meaning": "financial world, business circles"
+        "meaning": {
+          "en": "financial world, business circles"
+        },
+        "romaji": "zaikai"
       },
       {
         "example": "無形文化財",
         "reading": "ムケイブンカザイ",
-        "meaning": "intangible cultural asset"
+        "meaning": {
+          "en": "intangible cultural asset"
+        },
+        "romaji": "mukeibunkazai"
       },
       {
         "example": "文化財",
         "reading": "ブンカザイ",
-        "meaning": "cultural assets, cultural property"
+        "meaning": {
+          "vi": "cultural assets, cultural property"
+        },
+        "romaji": "bunkazai"
       },
       {
         "example": "財布",
         "reading": "サイフ",
-        "meaning": "wallet, purse, coin purse, billfold, pocketbook"
+        "meaning": {
+          "vi": "wallet, purse, coin purse, billfold, pocketbook"
+        },
+        "romaji": "saifu"
       },
       {
         "example": "財布の紐を締める",
         "reading": "サイフノヒモヲシメル",
-        "meaning": "to tighten the purse strings, to tighten one's belt"
+        "meaning": {
+          "vi": "to tighten the purse strings, to tighten one's belt"
+        },
+        "romaji": "saifunohimowoshimeru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宝",
         "reading": "たから",
-        "meaning": "treasure"
+        "meaning": {
+          "en": "treasure"
+        },
+        "romaji": "takara"
       }
     ],
     "radical": {
@@ -387,5 +408,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ca1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ca1.gif",
     "uri": "https://jisho.org/search/%E8%B2%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "tài"
+  ]
 }

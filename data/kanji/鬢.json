@@ -15,22 +15,34 @@
       {
         "example": "鬢",
         "reading": "ビン",
-        "meaning": "sidelocks, hair at the temples"
+        "meaning": {
+          "vi": "sidelocks, hair at the temples"
+        },
+        "romaji": "bin"
       },
       {
         "example": "鬢切り",
         "reading": "ビンキリ",
-        "meaning": "binkiri, Edo-period hairstyle with a lock of hair running down from the temples and hanging over the ears"
+        "meaning": {
+          "vi": "binkiri, Edo-period hairstyle with a lock of hair running down from the temples and hanging over the ears"
+        },
+        "romaji": "binkiri"
       },
       {
         "example": "双鬢",
         "reading": "ソウビン",
-        "meaning": "side locks"
+        "meaning": {
+          "en": "side locks"
+        },
+        "romaji": "soubin"
       },
       {
         "example": "両鬢",
         "reading": "リョウビン",
-        "meaning": "sideburns, hair at the sides of the head"
+        "meaning": {
+          "en": "sideburns, hair at the sides of the head"
+        },
+        "romaji": "ryoubin"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b22.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b22.gif",
     "uri": "https://jisho.org/search/%E9%AC%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "mấn",
+    "tấn"
+  ]
 }

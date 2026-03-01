@@ -352,44 +352,68 @@
       {
         "example": "触媒",
         "reading": "ショクバイ",
-        "meaning": "chất xúc tác"
+        "meaning": {
+          "vi": "chất xúc tác"
+        },
+        "romaji": "shokubai"
       },
       {
         "example": "触発",
         "reading": "ショクハツ",
-        "meaning": "nổ khi chạm, châm ngòi, kích thích"
+        "meaning": {
+          "vi": "nổ khi chạm, châm ngòi, kích thích"
+        },
+        "romaji": "shokuhatsu"
       },
       {
         "example": "鎧袖一触",
         "reading": "ガイシュウイッショク",
-        "meaning": "đánh bại dễ dàng"
+        "meaning": {
+          "vi": "đánh bại dễ dàng"
+        },
+        "romaji": "gaishuuisshoku"
       },
       {
         "example": "濃厚接触",
         "reading": "ノウコウセッショク",
-        "meaning": "tiếp xúc gần (với người nhiễm bệnh)"
+        "meaning": {
+          "vi": "tiếp xúc gần (với người nhiễm bệnh)"
+        },
+        "romaji": "noukousesshoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "触れる",
         "reading": "ふれる",
-        "meaning": "chạm, cảm nhận, tiếp xúc, trải nghiệm, đề cập, vi phạm, tuyên bố, lan truyền"
+        "meaning": {
+          "vi": "chạm, cảm nhận, tiếp xúc, trải nghiệm, đề cập, vi phạm, tuyên bố, lan truyền"
+        },
+        "romaji": "fureru"
       },
       {
         "example": "触る",
         "reading": "さわる",
-        "meaning": "chạm, cảm nhận, can thiệp, gây hại, cản trở"
+        "meaning": {
+          "vi": "chạm, cảm nhận, can thiệp, gây hại, cản trở"
+        },
+        "romaji": "sawaru"
       },
       {
         "example": "触る",
         "reading": "さわる",
-        "meaning": "chạm, cảm nhận, can thiệp, gây hại, cản trở"
+        "meaning": {
+          "vi": "chạm, cảm nhận, can thiệp, gây hại, cản trở"
+        },
+        "romaji": "sawaru"
       },
       {
         "example": "触らぬ神に祟りなし",
         "reading": "さわらぬかみにたたりなし",
-        "meaning": "đừng đụng vào chuyện không liên quan"
+        "meaning": {
+          "vi": "đừng đụng vào chuyện không liên quan"
+        },
+        "romaji": "sawaranukaminitatarinashi"
       }
     ],
     "radical": {
@@ -404,5 +428,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089e6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89e6.gif",
     "uri": "https://jisho.org/search/%E8%A7%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "xúc"
+  ]
 }

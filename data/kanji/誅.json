@@ -19,39 +19,60 @@
       {
         "example": "誅",
         "reading": "チュウ",
-        "meaning": "death penalty"
+        "meaning": {
+          "vi": "death penalty"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "誅求",
         "reading": "チュウキュウ",
-        "meaning": "oppressive exaction (of taxes, etc.)"
+        "meaning": {
+          "vi": "oppressive exaction (of taxes, etc.)"
+        },
+        "romaji": "chuukyuu"
       },
       {
         "example": "筆誅",
         "reading": "ヒッチュウ",
-        "meaning": "written denunciation"
+        "meaning": {
+          "en": "written denunciation"
+        },
+        "romaji": "hitchuu"
       },
       {
         "example": "天誅",
         "reading": "テンチュウ",
-        "meaning": "heaven's punishment, divine punishment, well-deserved punishment, just punishment"
+        "meaning": {
+          "vi": "heaven's punishment, divine punishment, well-deserved punishment, just punishment"
+        },
+        "romaji": "tenchuu"
       },
       {
         "example": "誅",
         "reading": "チュウ",
-        "meaning": "death penalty"
+        "meaning": {
+          "vi": "death penalty"
+        },
+        "romaji": "chuu"
       },
       {
         "example": "誅求",
         "reading": "チュウキュウ",
-        "meaning": "oppressive exaction (of taxes, etc.)"
+        "meaning": {
+          "vi": "oppressive exaction (of taxes, etc.)"
+        },
+        "romaji": "chuukyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "誅する",
         "reading": "ちゅうする",
-        "meaning": "to put to death (e.g. a sinner, traitor, etc.), to punish someone with death"
+        "meaning": {
+          "vi": "to put to death (e.g. a sinner, traitor, etc.), to punish someone with death"
+        },
+        "romaji": "chuusuru"
       }
     ],
     "radical": {
@@ -74,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a85.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a85.gif",
     "uri": "https://jisho.org/search/%E8%AA%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "tru"
+  ]
 }

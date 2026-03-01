@@ -260,39 +260,60 @@
       {
         "example": "森林",
         "reading": "シンリン",
-        "meaning": "forest, woods"
+        "meaning": {
+          "en": "forest, woods"
+        },
+        "romaji": "shinrin"
       },
       {
         "example": "森閑",
         "reading": "シンカン",
-        "meaning": "silent, still, quiet, hushed"
+        "meaning": {
+          "en": "silent, still, quiet, hushed"
+        },
+        "romaji": "shinkan"
       },
       {
         "example": "森々",
         "reading": "シンシン",
-        "meaning": "dense with trees, deeply forested"
+        "meaning": {
+          "vi": "dense with trees, deeply forested"
+        },
+        "romaji": "shinshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "森",
         "reading": "もり",
-        "meaning": "forest, shrine grove"
+        "meaning": {
+          "en": "forest, shrine grove"
+        },
+        "romaji": "mori"
       },
       {
         "example": "森青蛙",
         "reading": "もりあおがえる",
-        "meaning": "forest green tree frog (Rhacophorus arboreus)"
+        "meaning": {
+          "vi": "forest green tree frog (Rhacophorus arboreus)"
+        },
+        "romaji": "moriaogaeru"
       },
       {
         "example": "どう森",
         "reading": "どうもり",
-        "meaning": "Animal Crossing (video game series) (abbr)"
+        "meaning": {
+          "en": "Animal Crossing (video game series) (abbr)"
+        },
+        "romaji": "doumori"
       },
       {
         "example": "青森",
         "reading": "あおもり",
-        "meaning": "Aomori (city, prefecture)"
+        "meaning": {
+          "vi": "Aomori (city, prefecture)"
+        },
+        "romaji": "aomori"
       }
     ],
     "radical": {
@@ -306,5 +327,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068ee.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68ee.gif",
     "uri": "https://jisho.org/search/%E6%A3%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "sâm"
+  ]
 }

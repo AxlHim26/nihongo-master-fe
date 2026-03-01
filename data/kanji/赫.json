@@ -18,29 +18,44 @@
       {
         "example": "赫奕",
         "reading": "カクエキ",
-        "meaning": "sáng, rực rỡ, chói lọi"
+        "meaning": {
+          "vi": "sáng, rực rỡ, chói lọi"
+        },
+        "romaji": "kakueki"
       },
       {
         "example": "赫々",
         "reading": "カクカク",
-        "meaning": "rực rỡ, sáng chói"
+        "meaning": {
+          "vi": "rực rỡ, sáng chói"
+        },
+        "romaji": "kakukaku"
       },
       {
         "example": "赫々",
         "reading": "カクカク",
-        "meaning": "rực rỡ, sáng chói"
+        "meaning": {
+          "vi": "rực rỡ, sáng chói"
+        },
+        "romaji": "kakukaku"
       },
       {
         "example": "名声赫々",
         "reading": "メイセイカッカク",
-        "meaning": "nổi danh, lừng lẫy"
+        "meaning": {
+          "vi": "nổi danh, lừng lẫy"
+        },
+        "romaji": "meiseikakkaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "輝く",
         "reading": "かがやく",
-        "meaning": "tỏa sáng, lấp lánh, rạng rỡ"
+        "meaning": {
+          "vi": "tỏa sáng, lấp lánh, rạng rỡ"
+        },
+        "romaji": "kagayaku"
       }
     ],
     "radical": {
@@ -55,5 +70,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d6b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d6b.gif",
     "uri": "https://jisho.org/search/%E8%B5%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "hách"
+  ]
 }

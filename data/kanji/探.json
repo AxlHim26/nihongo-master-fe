@@ -270,34 +270,52 @@
       {
         "example": "探検",
         "reading": "タンケン",
-        "meaning": "exploration, expedition"
+        "meaning": {
+          "vi": "exploration, expedition"
+        },
+        "romaji": "tanken"
       },
       {
         "example": "探求",
         "reading": "タンキュウ",
-        "meaning": "search, quest, pursuit"
+        "meaning": {
+          "vi": "search, quest, pursuit"
+        },
+        "romaji": "tankyuu"
       },
       {
         "example": "内探",
         "reading": "ナイタン",
-        "meaning": "private inquiry, private enquiry, secret investigation"
+        "meaning": {
+          "vi": "private inquiry, private enquiry, secret investigation"
+        },
+        "romaji": "naitan"
       },
       {
         "example": "独探",
         "reading": "ドクタン",
-        "meaning": "German spy"
+        "meaning": {
+          "vi": "German spy"
+        },
+        "romaji": "dokutan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "探る",
         "reading": "さぐる",
-        "meaning": "to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out, to explore (parts unknown), to enjoy (natural beauty)"
+        "meaning": {
+          "vi": "to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out, to explore (parts unknown), to enjoy (natural beauty)"
+        },
+        "romaji": "saguru"
       },
       {
         "example": "探す",
         "reading": "さがす",
-        "meaning": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around"
+        "meaning": {
+          "vi": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around"
+        },
+        "romaji": "sagasu"
       }
     ],
     "radical": {
@@ -317,5 +335,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a2.gif",
     "uri": "https://jisho.org/search/%E6%8E%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tham",
+    "thám"
+  ]
 }

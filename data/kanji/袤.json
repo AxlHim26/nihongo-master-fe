@@ -16,7 +16,10 @@
       {
         "example": "広袤",
         "reading": "コウボウ",
-        "meaning": "area, expanse, spread, span"
+        "meaning": {
+          "vi": "area, expanse, spread, span"
+        },
+        "romaji": "koubou"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088a4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88a4.gif",
     "uri": "https://jisho.org/search/%E8%A2%A4%23kanji"
-  }
+  },
+  "hanViet": [
+    "mậu"
+  ]
 }

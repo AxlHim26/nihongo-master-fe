@@ -17,22 +17,34 @@
       {
         "example": "隆盛",
         "reading": "リュウセイ",
-        "meaning": "prosperity, flourishing, thriving"
+        "meaning": {
+          "vi": "prosperity, flourishing, thriving"
+        },
+        "romaji": "ryuusei"
       },
       {
         "example": "隆起",
         "reading": "リュウキ",
-        "meaning": "protuberance, bulge, protrusion, projection, swell, rise, uplift, upheaval, elevation"
+        "meaning": {
+          "vi": "protuberance, bulge, protrusion, projection, swell, rise, uplift, upheaval, elevation"
+        },
+        "romaji": "ryuuki"
       },
       {
         "example": "興隆",
         "reading": "コウリュウ",
-        "meaning": "rise, prosperity"
+        "meaning": {
+          "vi": "rise, prosperity"
+        },
+        "romaji": "kouryuu"
       },
       {
         "example": "膨隆",
         "reading": "ボウリュウ",
-        "meaning": "swelling up"
+        "meaning": {
+          "vi": "swelling up"
+        },
+        "romaji": "bouryuu"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09686.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9686.gif",
     "uri": "https://jisho.org/search/%E9%9A%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "long"
+  ]
 }

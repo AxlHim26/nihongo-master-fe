@@ -307,49 +307,76 @@
       {
         "example": "延滞",
         "reading": "エンタイ",
-        "meaning": "arrears, (being) overdue, delay (e.g. in payment), procrastination"
+        "meaning": {
+          "vi": "arrears, (being) overdue, delay (e.g. in payment), procrastination"
+        },
+        "romaji": "entai"
       },
       {
         "example": "延期",
         "reading": "エンキ",
-        "meaning": "postponement, deferment, adjournment"
+        "meaning": {
+          "vi": "postponement, deferment, adjournment"
+        },
+        "romaji": "enki"
       },
       {
         "example": "熱延",
         "reading": "ネツエン",
-        "meaning": "hot rolling"
+        "meaning": {
+          "en": "hot rolling"
+        },
+        "romaji": "netsuen"
       },
       {
         "example": "圧延",
         "reading": "アツエン",
-        "meaning": "rolling, extending by applying pressure"
+        "meaning": {
+          "vi": "rolling, extending by applying pressure"
+        },
+        "romaji": "atsuen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "伸びる",
         "reading": "のびる",
-        "meaning": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
+        "meaning": {
+          "vi": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
+        },
+        "romaji": "nobiru"
       },
       {
         "example": "延べる",
         "reading": "のべる",
-        "meaning": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
+        "meaning": {
+          "vi": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
+        },
+        "romaji": "noberu"
       },
       {
         "example": "延べ",
         "reading": "のべ",
-        "meaning": "futures, credit (buying), stretching, total (preceding counter, unit, etc.), aggregate, gross"
+        "meaning": {
+          "vi": "futures, credit (buying), stretching, total (preceding counter, unit, etc.), aggregate, gross"
+        },
+        "romaji": "nobe"
       },
       {
         "example": "延べ板",
         "reading": "のべいた",
-        "meaning": "hammered-out plates"
+        "meaning": {
+          "vi": "hammered-out plates"
+        },
+        "romaji": "nobeita"
       },
       {
         "example": "伸ばす",
         "reading": "のばす",
-        "meaning": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
+        "meaning": {
+          "vi": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
+        },
+        "romaji": "nobasu"
       }
     ],
     "radical": {
@@ -365,5 +392,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ef6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ef6.gif",
     "uri": "https://jisho.org/search/%E5%BB%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên",
+    "duyên"
+  ]
 }

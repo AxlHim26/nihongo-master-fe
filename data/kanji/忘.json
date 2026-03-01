@@ -294,29 +294,44 @@
       {
         "example": "忘年会",
         "reading": "ボウネンカイ",
-        "meaning": "year-end party, \"forget-the-year\" party, bōnenkai"
+        "meaning": {
+          "vi": "year-end party, \"forget-the-year\" party, bōnenkai"
+        },
+        "romaji": "bounenkai"
       },
       {
         "example": "忘却",
         "reading": "ボウキャク",
-        "meaning": "lapse of memory, forgetting completely, (consigning to) oblivion"
+        "meaning": {
+          "vi": "lapse of memory, forgetting completely, (consigning to) oblivion"
+        },
+        "romaji": "boukyaku"
       },
       {
         "example": "両忘",
         "reading": "リョウボウ",
-        "meaning": "detachment from dichotomies, detachment from objectivity and subjectivity"
+        "meaning": {
+          "en": "detachment from dichotomies, detachment from objectivity and subjectivity"
+        },
+        "romaji": "ryoubou"
       },
       {
         "example": "備忘",
         "reading": "ビボウ",
-        "meaning": "reminder"
+        "meaning": {
+          "en": "reminder"
+        },
+        "romaji": "bibou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "忘れる",
         "reading": "わすれる",
-        "meaning": "to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)"
+        "meaning": {
+          "en": "to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)"
+        },
+        "romaji": "wasureru"
       }
     ],
     "radical": {
@@ -336,5 +351,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd8.gif",
     "uri": "https://jisho.org/search/%E5%BF%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "vong",
+    "vô",
+    "vương"
+  ]
 }

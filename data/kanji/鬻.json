@@ -20,7 +20,10 @@
       {
         "example": "鬻ぐ",
         "reading": "ひさぐ",
-        "meaning": "to sell"
+        "meaning": {
+          "en": "to sell"
+        },
+        "romaji": "hisagu"
       }
     ],
     "radical": {
@@ -40,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b3b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b3b.gif",
     "uri": "https://jisho.org/search/%E9%AC%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "chúc",
+    "dục"
+  ]
 }

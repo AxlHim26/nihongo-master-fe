@@ -19,24 +19,36 @@
       {
         "example": "謹慎",
         "reading": "キンシン",
-        "meaning": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
+        "meaning": {
+          "vi": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
+        },
+        "romaji": "kinshin"
       },
       {
         "example": "謹賀新年",
         "reading": "キンガシンネン",
-        "meaning": "Happy New Year"
+        "meaning": {
+          "vi": "Happy New Year"
+        },
+        "romaji": "kingashinnen"
       },
       {
         "example": "細謹",
         "reading": "サイキン",
-        "meaning": "slight flaw"
+        "meaning": {
+          "en": "slight flaw"
+        },
+        "romaji": "saikin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "慎む",
         "reading": "つつしむ",
-        "meaning": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+        "meaning": {
+          "vi": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+        },
+        "romaji": "tsutsushimu"
       }
     ],
     "radical": {
@@ -57,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b39.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b39.gif",
     "uri": "https://jisho.org/search/%E8%AC%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "cẩn"
+  ]
 }

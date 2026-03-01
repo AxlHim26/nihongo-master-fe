@@ -16,29 +16,44 @@
       {
         "example": "鼾睡",
         "reading": "カンスイ",
-        "meaning": "ngủ ngáy"
+        "meaning": {
+          "vi": "ngủ ngáy"
+        },
+        "romaji": "kansui"
       },
       {
         "example": "鼾声",
         "reading": "カンセイ",
-        "meaning": "tiếng ngáy"
+        "meaning": {
+          "vi": "tiếng ngáy"
+        },
+        "romaji": "kansei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鼾",
         "reading": "いびき",
-        "meaning": "ngáy"
+        "meaning": {
+          "vi": "ngáy"
+        },
+        "romaji": "ibiki"
       },
       {
         "example": "鼾を掻く",
         "reading": "いびきをかく",
-        "meaning": "ngáy"
+        "meaning": {
+          "vi": "ngáy"
+        },
+        "romaji": "ibikiwokaku"
       },
       {
         "example": "大いびき",
         "reading": "おおいびき",
-        "meaning": "ngáy to"
+        "meaning": {
+          "vi": "ngáy to"
+        },
+        "romaji": "ooibiki"
       }
     ],
     "radical": {
@@ -57,5 +72,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f3e.gif",
     "uri": "https://jisho.org/search/%E9%BC%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "han",
+    "hãn"
+  ]
 }

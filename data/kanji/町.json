@@ -318,44 +318,68 @@
       {
         "example": "町",
         "reading": "チョウ",
-        "meaning": "town, block, neighbourhood, neighborhood, street, chō (unit of length, approx. 109.09 m), chō (unit of land area, approx. 0.99 hectares)"
+        "meaning": {
+          "vi": "town, block, neighbourhood, neighborhood, street, chō (unit of length, approx. 109.09 m), chō (unit of land area, approx. 0.99 hectares)"
+        },
+        "romaji": "chou"
       },
       {
         "example": "町議会",
         "reading": "チョウギカイ",
-        "meaning": "town council"
+        "meaning": {
+          "en": "town council"
+        },
+        "romaji": "chougikai"
       },
       {
         "example": "同町",
         "reading": "ドウチョウ",
-        "meaning": "the same town, that town"
+        "meaning": {
+          "en": "the same town, that town"
+        },
+        "romaji": "douchou"
       },
       {
         "example": "門前町",
         "reading": "モンゼンマチ",
-        "meaning": "town originally built around a temple or shrine"
+        "meaning": {
+          "vi": "town originally built around a temple or shrine"
+        },
+        "romaji": "monzenmachi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "町",
         "reading": "まち",
-        "meaning": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
+        "meaning": {
+          "en": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
+        },
+        "romaji": "machi"
       },
       {
         "example": "街角",
         "reading": "まちかど",
-        "meaning": "street corner"
+        "meaning": {
+          "en": "street corner"
+        },
+        "romaji": "machikado"
       },
       {
         "example": "室町",
         "reading": "むろまち",
-        "meaning": "Muromachi period (1336-1573)"
+        "meaning": {
+          "vi": "Muromachi period (1336-1573)"
+        },
+        "romaji": "muromachi"
       },
       {
         "example": "門前町",
         "reading": "もんぜんまち",
-        "meaning": "town originally built around a temple or shrine"
+        "meaning": {
+          "vi": "town originally built around a temple or shrine"
+        },
+        "romaji": "monzenmachi"
       }
     ],
     "radical": {
@@ -371,5 +395,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0753a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/753a.gif",
     "uri": "https://jisho.org/search/%E7%94%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "đinh",
+    "đỉnh"
+  ]
 }

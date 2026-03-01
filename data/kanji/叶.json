@@ -20,17 +20,26 @@
       {
         "example": "叶える",
         "reading": "かなえる",
-        "meaning": "to grant (request, wish), to answer (prayer), to fulfill (conditions), to meet (requirements)"
+        "meaning": {
+          "vi": "to grant (request, wish), to answer (prayer), to fulfill (conditions), to meet (requirements)"
+        },
+        "romaji": "kanaeru"
       },
       {
         "example": "叶う",
         "reading": "かなう",
-        "meaning": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        "meaning": {
+          "vi": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+        },
+        "romaji": "kanau"
       },
       {
         "example": "叶うことなら",
         "reading": "かなうことなら",
-        "meaning": "if possible, if it is in my power, if it was realistic"
+        "meaning": {
+          "vi": "if possible, if it is in my power, if it was realistic"
+        },
+        "romaji": "kanaukotonara"
       }
     ],
     "radical": {
@@ -45,5 +54,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f6.gif",
     "uri": "https://jisho.org/search/%E5%8F%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "diệp",
+    "hiệp"
+  ]
 }

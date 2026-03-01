@@ -355,69 +355,108 @@
       {
         "example": "従",
         "reading": "ジュウ",
-        "meaning": "subordinate, secondary, junior, incidental"
+        "meaning": {
+          "en": "subordinate, secondary, junior, incidental"
+        },
+        "romaji": "juu"
       },
       {
         "example": "従業員",
         "reading": "ジュウギョウイン",
-        "meaning": "employee, worker"
+        "meaning": {
+          "vi": "employee, worker"
+        },
+        "romaji": "juugyouin"
       },
       {
         "example": "専従",
         "reading": "センジュウ",
-        "meaning": "working exclusively for, working full-time (for)"
+        "meaning": {
+          "en": "working exclusively for, working full-time (for)"
+        },
+        "romaji": "senjuu"
       },
       {
         "example": "侍従",
         "reading": "ジジュウ",
-        "meaning": "chamberlain"
+        "meaning": {
+          "en": "chamberlain"
+        },
+        "romaji": "jijuu"
       },
       {
         "example": "従容",
         "reading": "ショウヨウ",
-        "meaning": "calm, composed, tranquil"
+        "meaning": {
+          "vi": "calm, composed, tranquil"
+        },
+        "romaji": "shouyou"
       },
       {
         "example": "従容自若",
         "reading": "ショウヨウジジャク",
-        "meaning": "having presence of mind, imperturbable, calm and self-possessed, with serenity"
+        "meaning": {
+          "vi": "having presence of mind, imperturbable, calm and self-possessed, with serenity"
+        },
+        "romaji": "shouyoujijaku"
       },
       {
         "example": "追従",
         "reading": "ツイショウ",
-        "meaning": "flattery, sycophancy, adulation"
+        "meaning": {
+          "vi": "flattery, sycophancy, adulation"
+        },
+        "romaji": "tsuishou"
       },
       {
         "example": "阿諛追従",
         "reading": "アユツイショウ",
-        "meaning": "excessive flattery, adulation"
+        "meaning": {
+          "en": "excessive flattery, adulation"
+        },
+        "romaji": "ayutsuishou"
       },
       {
         "example": "従",
         "reading": "ジュ",
-        "meaning": "lesser (of equal court ranks), lower, junior"
+        "meaning": {
+          "en": "lesser (of equal court ranks), lower, junior"
+        },
+        "romaji": "ju"
       },
       {
         "example": "従",
         "reading": "ジュウ",
-        "meaning": "subordinate, secondary, junior, incidental"
+        "meaning": {
+          "en": "subordinate, secondary, junior, incidental"
+        },
+        "romaji": "juu"
       },
       {
         "example": "類聚",
         "reading": "ルイジュウ",
-        "meaning": "collection of similar objects, classification by similarity"
+        "meaning": {
+          "en": "collection of similar objects, classification by similarity"
+        },
+        "romaji": "ruijuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "従う",
         "reading": "したがう",
-        "meaning": "to obey (an order, law, etc.), to abide by (a rule, custom, etc.), to follow, to observe, to conform to, to yield to, to follow (a person), to accompany, to go with, to go alongside (e.g. a river), to follow (e.g. a sign), to serve (as), to engage in (work)"
+        "meaning": {
+          "vi": "to obey (an order, law, etc.), to abide by (a rule, custom, etc.), to follow, to observe, to conform to, to yield to, to follow (a person), to accompany, to go with, to go alongside (e.g. a river), to follow (e.g. a sign), to serve (as), to engage in (work)"
+        },
+        "romaji": "shitagau"
       },
       {
         "example": "従える",
         "reading": "したがえる",
-        "meaning": "to be accompanied by, to be attended by, to take along (someone), to conquer, to subjugate, to subdue"
+        "meaning": {
+          "vi": "to be accompanied by, to be attended by, to take along (someone), to conquer, to subjugate, to subdue"
+        },
+        "romaji": "shitagaeru"
       }
     ],
     "radical": {
@@ -433,5 +472,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f93.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f93.gif",
     "uri": "https://jisho.org/search/%E5%BE%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "tòng"
+  ]
 }

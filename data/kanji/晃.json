@@ -18,12 +18,18 @@
       {
         "example": "煌々",
         "reading": "コウコウ",
-        "meaning": "brilliant, bright, dazzling"
+        "meaning": {
+          "en": "brilliant, bright, dazzling"
+        },
+        "romaji": "koukou"
       },
       {
         "example": "晃曜",
         "reading": "コウヨウ",
-        "meaning": "dazzling brightness"
+        "meaning": {
+          "en": "dazzling brightness"
+        },
+        "romaji": "kouyou"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06643.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6643.gif",
     "uri": "https://jisho.org/search/%E6%99%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoàng",
+    "hoảng"
+  ]
 }

@@ -372,44 +372,68 @@
       {
         "example": "良",
         "reading": "リョウ",
-        "meaning": "good (quality, condition, etc.), Good (grade), B"
+        "meaning": {
+          "en": "good (quality, condition, etc.), Good (grade), B"
+        },
+        "romaji": "ryou"
       },
       {
         "example": "良好",
         "reading": "リョウコウ",
-        "meaning": "good, fine, excellent, favorable, favourable, satisfactory"
+        "meaning": {
+          "en": "good, fine, excellent, favorable, favourable, satisfactory"
+        },
+        "romaji": "ryoukou"
       },
       {
         "example": "優良",
         "reading": "ユウリョウ",
-        "meaning": "superior, excellent, fine"
+        "meaning": {
+          "vi": "superior, excellent, fine"
+        },
+        "romaji": "yuuryou"
       },
       {
         "example": "選良",
         "reading": "センリョウ",
-        "meaning": "member of parliament, the elite"
+        "meaning": {
+          "vi": "member of parliament, the elite"
+        },
+        "romaji": "senryou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "良い",
         "reading": "よい",
-        "meaning": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        "meaning": {
+          "vi": "good, excellent, fine, nice, pleasant, agreeable, sufficient, enough, ready, prepared, profitable (deal, business offer, etc.), beneficial, OK, all right, fine, no problem, easy to ..."
+        },
+        "romaji": "yoi"
       },
       {
         "example": "いい男",
         "reading": "いいおとこ",
-        "meaning": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        "meaning": {
+          "vi": "handsome man, looker, good guy, great guy, influential person (esp. in the yakuza), sumo wrestler"
+        },
+        "romaji": "iiotoko"
       },
       {
         "example": "いい加減",
         "reading": "いいかげん",
-        "meaning": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty"
+        "meaning": {
+          "vi": "irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, (already) enough, considerably, quite, rather, pretty"
+        },
+        "romaji": "iikagen"
       },
       {
         "example": "いい塩梅に",
         "reading": "いいあんばいに",
-        "meaning": "fortunately, luckily"
+        "meaning": {
+          "en": "fortunately, luckily"
+        },
+        "romaji": "iianbaini"
       }
     ],
     "radical": {
@@ -423,5 +447,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826f.gif",
     "uri": "https://jisho.org/search/%E8%89%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "lương"
+  ]
 }

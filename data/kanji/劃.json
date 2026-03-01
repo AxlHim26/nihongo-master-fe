@@ -17,17 +17,26 @@
       {
         "example": "画",
         "reading": "カク",
-        "meaning": "stroke (of a kanji)"
+        "meaning": {
+          "en": "stroke (of a kanji)"
+        },
+        "romaji": "kaku"
       },
       {
         "example": "画一",
         "reading": "カクイツ",
-        "meaning": "uniformity, standardization, standardisation"
+        "meaning": {
+          "en": "uniformity, standardization, standardisation"
+        },
+        "romaji": "kakuitsu"
       },
       {
         "example": "分画",
         "reading": "ブンカク",
-        "meaning": "demarcation, graduation, fractionation, fraction"
+        "meaning": {
+          "en": "demarcation, graduation, fractionation, fraction"
+        },
+        "romaji": "bunkaku"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05283.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5283.gif",
     "uri": "https://jisho.org/search/%E5%8A%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoạch"
+  ]
 }

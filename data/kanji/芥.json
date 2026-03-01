@@ -20,69 +20,104 @@
       {
         "example": "芥子泥",
         "reading": "カイシデイ",
-        "meaning": "mustard plaster"
+        "meaning": {
+          "vi": "mustard plaster"
+        },
+        "romaji": "kaishidei"
       },
       {
         "example": "芥藍",
         "reading": "カイラン",
-        "meaning": "kai-lan, gai-lan, Chinese broccoli"
+        "meaning": {
+          "en": "kai-lan, gai-lan, Chinese broccoli"
+        },
+        "romaji": "kairan"
       },
       {
         "example": "厨芥",
         "reading": "チュウカイ",
-        "meaning": "kitchen waste"
+        "meaning": {
+          "en": "kitchen waste"
+        },
+        "romaji": "chuukai"
       },
       {
         "example": "塵芥",
         "reading": "ジンカイ",
-        "meaning": "rubbish, trash, garbage, refuse, worthless thing"
+        "meaning": {
+          "en": "rubbish, trash, garbage, refuse, worthless thing"
+        },
+        "romaji": "jinkai"
       },
       {
         "example": "【ケシ】",
         "reading": "opium poppy (Papaver somniferum)",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "opium poppy (Papaver somniferum)"
       },
       {
         "example": "芥子粒",
         "reading": "ケシツブ",
-        "meaning": "poppy seed, something extremely tiny"
+        "meaning": {
+          "vi": "poppy seed, something extremely tiny"
+        },
+        "romaji": "keshitsubu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "辛子",
         "reading": "からし",
-        "meaning": "mustard"
+        "meaning": {
+          "en": "mustard"
+        },
+        "romaji": "karashi"
       },
       {
         "example": "からし色",
         "reading": "からしいろ",
-        "meaning": "mustard (color)"
+        "meaning": {
+          "en": "mustard (color)"
+        },
+        "romaji": "karashiiro"
       },
       {
         "example": "【ゴミ】",
         "reading": "rubbish, trash, garbage, refuse, litter",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "rubbish, trash, garbage, refuse, litter"
       },
       {
         "example": "ゴミ箱",
         "reading": "ごみばこ",
-        "meaning": "trash can, garbage can, rubbish bin, dustbin"
+        "meaning": {
+          "en": "trash can, garbage can, rubbish bin, dustbin"
+        },
+        "romaji": "gomibako"
       },
       {
         "example": "芥",
         "reading": "あくた",
-        "meaning": "rubbish, trash, garbage, refuse, dirt"
+        "meaning": {
+          "en": "rubbish, trash, garbage, refuse, dirt"
+        },
+        "romaji": "akuta"
       },
       {
         "example": "芥川賞",
         "reading": "あくたがわしょう",
-        "meaning": "Akutagawa Prize (literary award)"
+        "meaning": {
+          "vi": "Akutagawa Prize (literary award)"
+        },
+        "romaji": "akutagawashou"
       },
       {
         "example": "塵芥",
         "reading": "じんかい",
-        "meaning": "rubbish, trash, garbage, refuse, worthless thing"
+        "meaning": {
+          "en": "rubbish, trash, garbage, refuse, worthless thing"
+        },
+        "romaji": "jinkai"
       }
     ],
     "radical": {
@@ -101,5 +136,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82a5.gif",
     "uri": "https://jisho.org/search/%E8%8A%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

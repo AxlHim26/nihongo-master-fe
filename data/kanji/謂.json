@@ -19,34 +19,52 @@
       {
         "example": "謂",
         "reading": "イイ",
-        "meaning": "what was said, what it means, origin of a story (or tradition, etc.)"
+        "meaning": {
+          "en": "what was said, what it means, origin of a story (or tradition, etc.)"
+        },
+        "romaji": "ii"
       },
       {
         "example": "言う",
         "reading": "イウ",
-        "meaning": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        "meaning": {
+          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        },
+        "romaji": "iu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "言う",
         "reading": "いう",
-        "meaning": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        "meaning": {
+          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+        },
+        "romaji": "iu"
       },
       {
         "example": "言うところの",
         "reading": "いうところの",
-        "meaning": "what is called, as it is called, the so-called, known as, so to speak"
+        "meaning": {
+          "vi": "what is called, as it is called, the so-called, known as, so to speak"
+        },
+        "romaji": "iutokorono"
       },
       {
         "example": "謂",
         "reading": "いい",
-        "meaning": "what was said, what it means, origin of a story (or tradition, etc.)"
+        "meaning": {
+          "en": "what was said, what it means, origin of a story (or tradition, etc.)"
+        },
+        "romaji": "ii"
       },
       {
         "example": "所謂",
         "reading": "いわゆる",
-        "meaning": "what is called, what you call, what they call, so-called"
+        "meaning": {
+          "en": "what is called, what you call, what they call, so-called"
+        },
+        "romaji": "iwayuru"
       }
     ],
     "radical": {
@@ -65,5 +83,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b02.gif",
     "uri": "https://jisho.org/search/%E8%AC%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "vị"
+  ]
 }

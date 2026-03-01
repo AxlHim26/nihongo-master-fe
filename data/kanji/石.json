@@ -327,79 +327,124 @@
       {
         "example": "石",
         "reading": "セキ",
-        "meaning": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"
+        "meaning": {
+          "vi": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"
+        },
+        "romaji": "seki"
       },
       {
         "example": "石材",
         "reading": "セキザイ",
-        "meaning": "(building) stone"
+        "meaning": {
+          "en": "(building) stone"
+        },
+        "romaji": "sekizai"
       },
       {
         "example": "一石",
         "reading": "イッセキ",
-        "meaning": "one game (of go)"
+        "meaning": {
+          "en": "one game (of go)"
+        },
+        "romaji": "isseki"
       },
       {
         "example": "投石",
         "reading": "トウセキ",
-        "meaning": "stone throwing"
+        "meaning": {
+          "en": "stone throwing"
+        },
+        "romaji": "touseki"
       },
       {
         "example": "石神",
         "reading": "シャクジン",
-        "meaning": "stone which is worshipped, image of a god in stone"
+        "meaning": {
+          "vi": "stone which is worshipped, image of a god in stone"
+        },
+        "romaji": "shakujin"
       },
       {
         "example": "石南花",
         "reading": "シャクナゲ",
-        "meaning": "rhododendron"
+        "meaning": {
+          "en": "rhododendron"
+        },
+        "romaji": "shakunage"
       },
       {
         "example": "電磁石",
         "reading": "デンジシャク",
-        "meaning": "electromagnet"
+        "meaning": {
+          "en": "electromagnet"
+        },
+        "romaji": "denjishaku"
       },
       {
         "example": "界磁石",
         "reading": "カイジシャク",
-        "meaning": "field magnet"
+        "meaning": {
+          "en": "field magnet"
+        },
+        "romaji": "kaijishaku"
       },
       {
         "example": "石",
         "reading": "コク",
-        "meaning": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+        "meaning": {
+          "vi": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+        },
+        "romaji": "koku"
       },
       {
         "example": "石高",
         "reading": "コクダカ",
-        "meaning": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary"
+        "meaning": {
+          "vi": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary"
+        },
+        "romaji": "kokudaka"
       },
       {
         "example": "一石",
         "reading": "イッコク",
-        "meaning": "one koku (measure)"
+        "meaning": {
+          "en": "one koku (measure)"
+        },
+        "romaji": "ikkoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "石",
         "reading": "いし",
-        "meaning": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus"
+        "meaning": {
+          "vi": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus"
+        },
+        "romaji": "ishi"
       },
       {
         "example": "石垣",
         "reading": "いしがき",
-        "meaning": "stone wall"
+        "meaning": {
+          "en": "stone wall"
+        },
+        "romaji": "ishigaki"
       },
       {
         "example": "墓石",
         "reading": "ぼせき",
-        "meaning": "tombstone, gravestone"
+        "meaning": {
+          "en": "tombstone, gravestone"
+        },
+        "romaji": "boseki"
       },
       {
         "example": "敷石",
         "reading": "しきいし",
-        "meaning": "paving stone, pavement"
+        "meaning": {
+          "vi": "paving stone, pavement"
+        },
+        "romaji": "shikiishi"
       }
     ],
     "radical": {
@@ -414,5 +459,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077f3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77f3.gif",
     "uri": "https://jisho.org/search/%E7%9F%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thạch",
+    "đạn"
+  ]
 }

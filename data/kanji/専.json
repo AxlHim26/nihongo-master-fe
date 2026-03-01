@@ -265,34 +265,52 @@
       {
         "example": "専",
         "reading": "セン",
-        "meaning": "exclusively doing ..., person who exclusively does ..., fetish for ..., someone with a fetish for ..., first, most important thing, number one priority"
+        "meaning": {
+          "vi": "exclusively doing ..., person who exclusively does ..., fetish for ..., someone with a fetish for ..., first, most important thing, number one priority"
+        },
+        "romaji": "sen"
       },
       {
         "example": "専業",
         "reading": "センギョウ",
-        "meaning": "special occupation, principal occupation, specialty, monopoly"
+        "meaning": {
+          "vi": "special occupation, principal occupation, specialty, monopoly"
+        },
+        "romaji": "sengyou"
       },
       {
         "example": "住専",
         "reading": "ジュウセン",
-        "meaning": "housing-loan corporation"
+        "meaning": {
+          "vi": "housing-loan corporation"
+        },
+        "romaji": "juusen"
       },
       {
         "example": "高専",
         "reading": "コウセン",
-        "meaning": "technical college, higher schools and colleges"
+        "meaning": {
+          "en": "technical college, higher schools and colleges"
+        },
+        "romaji": "kousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "専ら",
         "reading": "もっぱら",
-        "meaning": "wholly, solely, entirely, exclusively, devotedly, fixedly, principally, mostly, chiefly, mainly"
+        "meaning": {
+          "vi": "wholly, solely, entirely, exclusively, devotedly, fixedly, principally, mostly, chiefly, mainly"
+        },
+        "romaji": "moppara"
       },
       {
         "example": "専らにする",
         "reading": "もっぱらにする",
-        "meaning": "devote oneself to, to do as one pleases, to act selfishly"
+        "meaning": {
+          "vi": "devote oneself to, to do as one pleases, to act selfishly"
+        },
+        "romaji": "mopparanisuru"
       }
     ],
     "radical": {
@@ -308,5 +326,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c02.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c02.gif",
     "uri": "https://jisho.org/search/%E5%B0%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "chuyên"
+  ]
 }

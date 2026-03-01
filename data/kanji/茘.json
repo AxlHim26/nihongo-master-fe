@@ -18,12 +18,18 @@
       {
         "example": "茘枝",
         "reading": "レイシ",
-        "meaning": "litchi (Nephelium litchi), lychee, lichee, litchi nut, bitter melon (Momordica charantia), bitter gourd, Thais bronni (species of muricid gastropod)"
+        "meaning": {
+          "vi": "litchi (Nephelium litchi), lychee, lichee, litchi nut, bitter melon (Momordica charantia), bitter gourd, Thais bronni (species of muricid gastropod)"
+        },
+        "romaji": "reishi"
       },
       {
         "example": "茘枝貝",
         "reading": "レイシガイ",
-        "meaning": "Thais bronni (species of muricid gastropod)"
+        "meaning": {
+          "vi": "Thais bronni (species of muricid gastropod)"
+        },
+        "romaji": "reishigai"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08318.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8318.gif",
     "uri": "https://jisho.org/search/%E8%8C%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "lệ"
+  ]
 }

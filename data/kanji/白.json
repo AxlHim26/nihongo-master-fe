@@ -333,74 +333,116 @@
       {
         "example": "白",
         "reading": "ハク",
-        "meaning": "white, striped mullet fry (Mugil cephalus), (spoken) line (in a play, film, etc.), one's lines, white dragon tile, winning hand with a pung (or kong) of white dragon tiles, Belgium, white person, Caucasian"
+        "meaning": {
+          "vi": "white, striped mullet fry (Mugil cephalus), (spoken) line (in a play, film, etc.), one's lines, white dragon tile, winning hand with a pung (or kong) of white dragon tiles, Belgium, white person, Caucasian"
+        },
+        "romaji": "haku"
       },
       {
         "example": "白衣",
         "reading": "ハクイ",
-        "meaning": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson"
+        "meaning": {
+          "vi": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson"
+        },
+        "romaji": "hakui"
       },
       {
         "example": "美白",
         "reading": "ビハク",
-        "meaning": "beautifully white (esp. of skin), whitening (of skin, teeth, etc.)"
+        "meaning": {
+          "vi": "beautifully white (esp. of skin), whitening (of skin, teeth, etc.)"
+        },
+        "romaji": "bihaku"
       },
       {
         "example": "漂白",
         "reading": "ヒョウハク",
-        "meaning": "blanching, bleaching"
+        "meaning": {
+          "en": "blanching, bleaching"
+        },
+        "romaji": "hyouhaku"
       },
       {
         "example": "白衣",
         "reading": "ハクイ",
-        "meaning": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson"
+        "meaning": {
+          "vi": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson"
+        },
+        "romaji": "hakui"
       },
       {
         "example": "白夜",
         "reading": "ビャクヤ",
-        "meaning": "night under the midnight sun, white night (at extreme latitudes), night during which the sun doesn't set"
+        "meaning": {
+          "en": "night under the midnight sun, white night (at extreme latitudes), night during which the sun doesn't set"
+        },
+        "romaji": "byakuya"
       },
       {
         "example": "敬白",
         "reading": "ケイハク",
-        "meaning": "yours sincerely, sincerely yours, yours truly"
+        "meaning": {
+          "en": "yours sincerely, sincerely yours, yours truly"
+        },
+        "romaji": "keihaku"
       },
       {
         "example": "恐惶敬白",
         "reading": "キョウコウケイハク",
-        "meaning": "very truly yours, very respectfully yours"
+        "meaning": {
+          "vi": "very truly yours, very respectfully yours"
+        },
+        "romaji": "kyoukoukeihaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "白",
         "reading": "しろ",
-        "meaning": "white, innocence, innocent person, blank space, white stone, white dragon tile, skewered grilled pig intestine"
+        "meaning": {
+          "vi": "white, innocence, innocent person, blank space, white stone, white dragon tile, skewered grilled pig intestine"
+        },
+        "romaji": "shiro"
       },
       {
         "example": "白い",
         "reading": "しろい",
-        "meaning": "white"
+        "meaning": {
+          "en": "white"
+        },
+        "romaji": "shiroi"
       },
       {
         "example": "面白",
         "reading": "おもしろ",
-        "meaning": "amusing, funny, interesting"
+        "meaning": {
+          "en": "amusing, funny, interesting"
+        },
+        "romaji": "omoshiro"
       },
       {
         "example": "蘿蔔",
         "reading": "すずしろ",
-        "meaning": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+        "meaning": {
+          "vi": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+        },
+        "romaji": "suzushiro"
       },
       {
         "example": "白い",
         "reading": "しろい",
-        "meaning": "white"
+        "meaning": {
+          "en": "white"
+        },
+        "romaji": "shiroi"
       },
       {
         "example": "白色",
         "reading": "しろいろ",
-        "meaning": "white"
+        "meaning": {
+          "en": "white"
+        },
+        "romaji": "shiroiro"
       }
     ],
     "radical": {
@@ -414,5 +456,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0767d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/767d.gif",
     "uri": "https://jisho.org/search/%E7%99%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "bạch"
+  ]
 }

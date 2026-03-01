@@ -16,19 +16,28 @@
       {
         "example": "蛹化",
         "reading": "ヨウカ",
-        "meaning": "pupation"
+        "meaning": {
+          "vi": "pupation"
+        },
+        "romaji": "youka"
       },
       {
         "example": "蛹虫",
         "reading": "ヨウチュウ",
-        "meaning": "pupa, chrysalis"
+        "meaning": {
+          "vi": "pupa, chrysalis"
+        },
+        "romaji": "youchuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蛹",
         "reading": "さなぎ",
-        "meaning": "chrysalis, pupa"
+        "meaning": {
+          "vi": "chrysalis, pupa"
+        },
+        "romaji": "sanagi"
       }
     ],
     "radical": {
@@ -44,5 +53,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86f9.gif",
     "uri": "https://jisho.org/search/%E8%9B%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "dõng",
+    "dũng"
+  ]
 }

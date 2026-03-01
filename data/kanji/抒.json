@@ -19,12 +19,18 @@
       {
         "example": "叙情",
         "reading": "ジョジョウ",
-        "meaning": "lyricism, description of one's feelings"
+        "meaning": {
+          "vi": "lyricism, description of one's feelings"
+        },
+        "romaji": "jojou"
       },
       {
         "example": "叙情詩",
         "reading": "ジョジョウシ",
-        "meaning": "lyric poetry, lyric poem, ode"
+        "meaning": {
+          "vi": "lyric poetry, lyric poem, ode"
+        },
+        "romaji": "jojoushi"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06292.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6292.gif",
     "uri": "https://jisho.org/search/%E6%8A%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "trữ"
+  ]
 }

@@ -14,12 +14,18 @@
       {
         "example": "蹣跚",
         "reading": "マンサン",
-        "meaning": "staggering, reeling, tottering"
+        "meaning": {
+          "en": "staggering, reeling, tottering"
+        },
+        "romaji": "mansan"
       },
       {
         "example": "酔歩蹣跚",
         "reading": "スイホマンサン",
-        "meaning": "tipsy lurch, reeling gait, staggering gait"
+        "meaning": {
+          "vi": "tipsy lurch, reeling gait, staggering gait"
+        },
+        "romaji": "suihomansan"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dda.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dda.gif",
     "uri": "https://jisho.org/search/%E8%B7%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "san"
+  ]
 }

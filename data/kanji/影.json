@@ -295,44 +295,68 @@
       {
         "example": "影響",
         "reading": "エイキョウ",
-        "meaning": "influence, effect, impact"
+        "meaning": {
+          "vi": "influence, effect, impact"
+        },
+        "romaji": "eikyou"
       },
       {
         "example": "影響力",
         "reading": "エイキョウリョク",
-        "meaning": "influence, clout, leverage"
+        "meaning": {
+          "en": "influence, clout, leverage"
+        },
+        "romaji": "eikyouryoku"
       },
       {
         "example": "遺影",
         "reading": "イエイ",
-        "meaning": "portrait of a deceased person"
+        "meaning": {
+          "vi": "portrait of a deceased person"
+        },
+        "romaji": "iei"
       },
       {
         "example": "投影",
         "reading": "トウエイ",
-        "meaning": "projection"
+        "meaning": {
+          "vi": "projection"
+        },
+        "romaji": "touei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "影",
         "reading": "かげ",
-        "meaning": "shadow, silhouette, figure, shape, reflection, image, ominous sign, light (stars, moon), trace, shadow (of one's former self), behind, background, other side"
+        "meaning": {
+          "vi": "shadow, silhouette, figure, shape, reflection, image, ominous sign, light (stars, moon), trace, shadow (of one's former self), behind, background, other side"
+        },
+        "romaji": "kage"
       },
       {
         "example": "陰口",
         "reading": "かげぐち",
-        "meaning": "malicious gossip, backbiting, speaking ill behind someone's back"
+        "meaning": {
+          "vi": "malicious gossip, backbiting, speaking ill behind someone's back"
+        },
+        "romaji": "kageguchi"
       },
       {
         "example": "山陰",
         "reading": "やまかげ",
-        "meaning": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        "meaning": {
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+        },
+        "romaji": "yamakage"
       },
       {
         "example": "夕影",
         "reading": "ゆうかげ",
-        "meaning": "light of the setting sun, figure lit by the evening sun"
+        "meaning": {
+          "en": "light of the setting sun, figure lit by the evening sun"
+        },
+        "romaji": "yuukage"
       }
     ],
     "radical": {
@@ -350,5 +374,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f71.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f71.gif",
     "uri": "https://jisho.org/search/%E5%BD%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "ảnh"
+  ]
 }

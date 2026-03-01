@@ -19,34 +19,52 @@
       {
         "example": "千両",
         "reading": "センリョウ",
-        "meaning": "glabrous sarcandra herb (Sarcandra glabra), very large sum (of money), very high value, 1000 ryō"
+        "meaning": {
+          "en": "glabrous sarcandra herb (Sarcandra glabra), very large sum (of money), very high value, 1000 ryō"
+        },
+        "romaji": "senryou"
       },
       {
         "example": "木天蓼",
         "reading": "マタタビ",
-        "meaning": "silver vine (Actinidia polygama), cat powder"
+        "meaning": {
+          "vi": "silver vine (Actinidia polygama), cat powder"
+        },
+        "romaji": "matatabi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蓼",
         "reading": "たで",
-        "meaning": "knotweed (Polygonaceae), jointweed, smartweed, water pepper (Persicaria hydropiper)"
+        "meaning": {
+          "vi": "knotweed (Polygonaceae), jointweed, smartweed, water pepper (Persicaria hydropiper)"
+        },
+        "romaji": "tade"
       },
       {
         "example": "蓼藍",
         "reading": "たであい",
-        "meaning": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"
+        "meaning": {
+          "vi": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"
+        },
+        "romaji": "tadeai"
       },
       {
         "example": "藍蓼",
         "reading": "あいたで",
-        "meaning": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"
+        "meaning": {
+          "vi": "dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)"
+        },
+        "romaji": "aitade"
       },
       {
         "example": "柳蓼",
         "reading": "やなぎたで",
-        "meaning": "water pepper (Persicaria hydropiper)"
+        "meaning": {
+          "vi": "water pepper (Persicaria hydropiper)"
+        },
+        "romaji": "yanagitade"
       }
     ],
     "radical": {
@@ -67,5 +85,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084fc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84fc.gif",
     "uri": "https://jisho.org/search/%E8%93%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "liễu",
+    "liệu",
+    "lục"
+  ]
 }

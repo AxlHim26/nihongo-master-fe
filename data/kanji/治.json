@@ -355,64 +355,100 @@
       {
         "example": "治療",
         "reading": "チリョウ",
-        "meaning": "(medical) treatment, care, therapy, cure, remedy"
+        "meaning": {
+          "vi": "(medical) treatment, care, therapy, cure, remedy"
+        },
+        "romaji": "chiryou"
       },
       {
         "example": "治安",
         "reading": "ジアン",
-        "meaning": "Jian era (1021.2.2-1024.7.13)"
+        "meaning": {
+          "en": "Jian era (1021.2.2-1024.7.13)"
+        },
+        "romaji": "jian"
       },
       {
         "example": "完治",
         "reading": "カンチ",
-        "meaning": "complete recovery"
+        "meaning": {
+          "vi": "complete recovery"
+        },
+        "romaji": "kanchi"
       },
       {
         "example": "政党政治",
         "reading": "セイトウセイジ",
-        "meaning": "party politics"
+        "meaning": {
+          "vi": "party politics"
+        },
+        "romaji": "seitouseiji"
       },
       {
         "example": "治",
         "reading": "チ",
-        "meaning": "politics, government, administration, rule, peace, medical treatment, cure"
+        "meaning": {
+          "vi": "politics, government, administration, rule, peace, medical treatment, cure"
+        },
+        "romaji": "chi"
       },
       {
         "example": "治安",
         "reading": "チアン",
-        "meaning": "public order, public peace, public security, law and order"
+        "meaning": {
+          "vi": "public order, public peace, public security, law and order"
+        },
+        "romaji": "chian"
       },
       {
         "example": "完治",
         "reading": "カンチ",
-        "meaning": "complete recovery"
+        "meaning": {
+          "vi": "complete recovery"
+        },
+        "romaji": "kanchi"
       },
       {
         "example": "地方自治",
         "reading": "チホウジチ",
-        "meaning": "local (governmental) autonomy"
+        "meaning": {
+          "en": "local (governmental) autonomy"
+        },
+        "romaji": "chihoujichi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "治める",
         "reading": "おさめる",
-        "meaning": "to rule, to govern, to reign over, to administer, to manage (e.g. a household), to subdue, to suppress, to quell, to settle (e.g. a dispute)"
+        "meaning": {
+          "vi": "to rule, to govern, to reign over, to administer, to manage (e.g. a household), to subdue, to suppress, to quell, to settle (e.g. a dispute)"
+        },
+        "romaji": "osameru"
       },
       {
         "example": "治まる",
         "reading": "おさまる",
-        "meaning": "to die down (storm, anger, conflict, etc.), to calm down, to cool off, to abate, to be settled, to be brought under control, to be at peace, to be governed well, to subside (of pain, symptoms, etc.), to be alleviated, to get better, to ease off"
+        "meaning": {
+          "vi": "to die down (storm, anger, conflict, etc.), to calm down, to cool off, to abate, to be settled, to be brought under control, to be at peace, to be governed well, to subside (of pain, symptoms, etc.), to be alleviated, to get better, to ease off"
+        },
+        "romaji": "osamaru"
       },
       {
         "example": "治る",
         "reading": "なおる",
-        "meaning": "to get better, to get well, to recover (from an illness), to be cured, to be restored, to heal"
+        "meaning": {
+          "en": "to get better, to get well, to recover (from an illness), to be cured, to be restored, to heal"
+        },
+        "romaji": "naoru"
       },
       {
         "example": "治す",
         "reading": "なおす",
-        "meaning": "to cure, to heal"
+        "meaning": {
+          "en": "to cure, to heal"
+        },
+        "romaji": "naosu"
       }
     ],
     "radical": {
@@ -432,5 +468,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cbb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cbb.gif",
     "uri": "https://jisho.org/search/%E6%B2%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "trì",
+    "trị"
+  ]
 }

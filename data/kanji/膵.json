@@ -14,12 +14,18 @@
       {
         "example": "膵",
         "reading": "スイ",
-        "meaning": "pancreas"
+        "meaning": {
+          "vi": "pancreas"
+        },
+        "romaji": "sui"
       },
       {
         "example": "膵液",
         "reading": "スイエキ",
-        "meaning": "pancreatic juice"
+        "meaning": {
+          "vi": "pancreatic juice"
+        },
+        "romaji": "suieki"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081b5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81b5.gif",
     "uri": "https://jisho.org/search/%E8%86%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuỵ"
+  ]
 }

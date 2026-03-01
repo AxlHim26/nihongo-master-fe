@@ -16,29 +16,44 @@
       {
         "example": "麩",
         "reading": "フ",
-        "meaning": "gluten lúa mì (thường hấp hoặc nướng)"
+        "meaning": {
+          "vi": "gluten lúa mì (thường hấp hoặc nướng)"
+        },
+        "romaji": "fu"
       },
       {
         "example": "麬",
         "reading": "フスマ",
-        "meaning": "cám lúa mì"
+        "meaning": {
+          "vi": "cám lúa mì"
+        },
+        "romaji": "fusuma"
       },
       {
         "example": "生麩",
         "reading": "ナマフ",
-        "meaning": "nama-fu, gluten lúa mì trộn bột gạo hấp thành khối"
+        "meaning": {
+          "vi": "nama-fu, gluten lúa mì trộn bột gạo hấp thành khối"
+        },
+        "romaji": "namafu"
       },
       {
         "example": "お麩",
         "reading": "オフ",
-        "meaning": "gluten lúa mì (thường hấp hoặc nướng)"
+        "meaning": {
+          "vi": "gluten lúa mì (thường hấp hoặc nướng)"
+        },
+        "romaji": "ofu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "麬",
         "reading": "ふすま",
-        "meaning": "cám lúa mì"
+        "meaning": {
+          "vi": "cám lúa mì"
+        },
+        "romaji": "fusuma"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09eb8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9eb8.gif",
     "uri": "https://jisho.org/search/%E9%BA%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "phu"
+  ]
 }

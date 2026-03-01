@@ -349,44 +349,68 @@
       {
         "example": "天",
         "reading": "テン",
-        "meaning": "sky, heaven, God, svarga (heaven-like realm visited as a stage of death and rebirth), deva (divine being of Buddhism), top (of a book), sole (of a Japanese sandal), beginning, start, tempura, India"
+        "meaning": {
+          "vi": "sky, heaven, God, svarga (heaven-like realm visited as a stage of death and rebirth), deva (divine being of Buddhism), top (of a book), sole (of a Japanese sandal), beginning, start, tempura, India"
+        },
+        "romaji": "ten"
       },
       {
         "example": "天下",
         "reading": "テンカ",
-        "meaning": "the whole world, the whole country, society, the public, supremacy over a nation, government of a country, the ruling power, having one's own way, doing as one pleases, peerless, incomparable, superlative, world-famous, shogun (Edo period)"
+        "meaning": {
+          "vi": "the whole world, the whole country, society, the public, supremacy over a nation, government of a country, the ruling power, having one's own way, doing as one pleases, peerless, incomparable, superlative, world-famous, shogun (Edo period)"
+        },
+        "romaji": "tenka"
       },
       {
         "example": "炎天",
         "reading": "エンテン",
-        "meaning": "blazing heat, scorching sun"
+        "meaning": {
+          "en": "blazing heat, scorching sun"
+        },
+        "romaji": "enten"
       },
       {
         "example": "楽天",
         "reading": "ラクテン",
-        "meaning": "optimism"
+        "meaning": {
+          "vi": "optimism"
+        },
+        "romaji": "rakuten"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "天津",
         "reading": "あまつ",
-        "meaning": "heavenly, imperial"
+        "meaning": {
+          "vi": "heavenly, imperial"
+        },
+        "romaji": "amatsu"
       },
       {
         "example": "天津乙女",
         "reading": "あまつおとめ",
-        "meaning": "celestial maiden"
+        "meaning": {
+          "en": "celestial maiden"
+        },
+        "romaji": "amatsuotome"
       },
       {
         "example": "天",
         "reading": "あめ",
-        "meaning": "sky"
+        "meaning": {
+          "en": "sky"
+        },
+        "romaji": "ame"
       },
       {
         "example": "天地",
         "reading": "てんち",
-        "meaning": "heaven and earth, the universe, the world, nature, land, world, realm, sphere, top and bottom, gods of heaven and earth"
+        "meaning": {
+          "vi": "heaven and earth, the universe, the world, nature, land, world, realm, sphere, top and bottom, gods of heaven and earth"
+        },
+        "romaji": "tenchi"
       }
     ],
     "radical": {
@@ -402,5 +426,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05929.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5929.gif",
     "uri": "https://jisho.org/search/%E5%A4%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiên"
+  ]
 }

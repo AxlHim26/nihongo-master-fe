@@ -360,22 +360,34 @@
       {
         "example": "服",
         "reading": "フク",
-        "meaning": "clothes (esp. Western clothes), clothing, dress, costume, suit, outfit, counter for doses of medicine, gulps of tea, puffs of a cigarette, etc."
+        "meaning": {
+          "vi": "clothes (esp. Western clothes), clothing, dress, costume, suit, outfit, counter for doses of medicine, gulps of tea, puffs of a cigarette, etc."
+        },
+        "romaji": "fuku"
       },
       {
         "example": "服役",
         "reading": "フクエキ",
-        "meaning": "penal servitude, serving time in prison, military service, forced labor, compulsory service"
+        "meaning": {
+          "vi": "penal servitude, serving time in prison, military service, forced labor, compulsory service"
+        },
+        "romaji": "fukueki"
       },
       {
         "example": "私服",
         "reading": "シフク",
-        "meaning": "ordinary clothes (i.e. non-uniform), plain clothes, civilian clothes, casual wear, mufti, plainclothes police officer"
+        "meaning": {
+          "vi": "ordinary clothes (i.e. non-uniform), plain clothes, civilian clothes, casual wear, mufti, plainclothes police officer"
+        },
+        "romaji": "shifuku"
       },
       {
         "example": "呉服",
         "reading": "ゴフク",
-        "meaning": "cloth (for Japanese clothes), kimono fabrics, textile, drapery, dry goods, piece goods, silk fabrics"
+        "meaning": {
+          "vi": "cloth (for Japanese clothes), kimono fabrics, textile, drapery, dry goods, piece goods, silk fabrics"
+        },
+        "romaji": "gofuku"
       }
     ],
     "kunyomiExamples": [],
@@ -392,5 +404,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0670d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/670d.gif",
     "uri": "https://jisho.org/search/%E6%9C%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "phục"
+  ]
 }

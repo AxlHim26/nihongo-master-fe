@@ -267,29 +267,44 @@
       {
         "example": "妹君",
         "reading": "イモウトギミ",
-        "meaning": "(younger) sister"
+        "meaning": {
+          "en": "(younger) sister"
+        },
+        "romaji": "imoutogimi"
       },
       {
         "example": "義妹",
         "reading": "ギマイ",
-        "meaning": "sister-in-law (spouse's younger sister or younger brother's wife), younger stepsister, younger adopted sister, non-blood-related younger sister"
+        "meaning": {
+          "vi": "sister-in-law (spouse's younger sister or younger brother's wife), younger stepsister, younger adopted sister, non-blood-related younger sister"
+        },
+        "romaji": "gimai"
       },
       {
         "example": "弟妹",
         "reading": "テイマイ",
-        "meaning": "younger brother and sister"
+        "meaning": {
+          "en": "younger brother and sister"
+        },
+        "romaji": "teimai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妹",
         "reading": "いもうと",
-        "meaning": "younger sister"
+        "meaning": {
+          "en": "younger sister"
+        },
+        "romaji": "imouto"
       },
       {
         "example": "妹君",
         "reading": "いもうとぎみ",
-        "meaning": "(younger) sister"
+        "meaning": {
+          "en": "(younger) sister"
+        },
+        "romaji": "imoutogimi"
       }
     ],
     "radical": {
@@ -308,5 +323,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059b9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59b9.gif",
     "uri": "https://jisho.org/search/%E5%A6%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "muội"
+  ]
 }

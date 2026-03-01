@@ -18,37 +18,58 @@
       {
         "example": "斗",
         "reading": "ト",
-        "meaning": "to, traditional unit of volume, approx. 18 litres, square bearing block (at the top of a pillar), Chinese \"Dipper\" constellation (one of the 28 mansions)"
+        "meaning": {
+          "vi": "to, traditional unit of volume, approx. 18 litres, square bearing block (at the top of a pillar), Chinese \"Dipper\" constellation (one of the 28 mansions)"
+        },
+        "romaji": "to"
       },
       {
         "example": "斗",
         "reading": "トマス",
-        "meaning": "kanji radical 68 at right"
+        "meaning": {
+          "en": "kanji radical 68 at right"
+        },
+        "romaji": "tomasu"
       },
       {
         "example": "星斗",
         "reading": "セイト",
-        "meaning": "star"
+        "meaning": {
+          "en": "star"
+        },
+        "romaji": "seito"
       },
       {
         "example": "泰斗",
         "reading": "タイト",
-        "meaning": "great authority, eminent person, luminary"
+        "meaning": {
+          "vi": "great authority, eminent person, luminary"
+        },
+        "romaji": "taito"
       },
       {
         "example": "闘争",
         "reading": "トウソウ",
-        "meaning": "fight, battle, combat, conflict, struggle (for rights, higher wages, etc.), strife, (labor) dispute, strike"
+        "meaning": {
+          "vi": "fight, battle, combat, conflict, struggle (for rights, higher wages, etc.), strife, (labor) dispute, strike"
+        },
+        "romaji": "tousou"
       },
       {
         "example": "闘魂",
         "reading": "トウコン",
-        "meaning": "fighting spirit"
+        "meaning": {
+          "vi": "fighting spirit"
+        },
+        "romaji": "toukon"
       },
       {
         "example": "擬闘",
         "reading": "ギトウ",
-        "meaning": "stage combat, staged fighting, fight choreography"
+        "meaning": {
+          "vi": "stage combat, staged fighting, fight choreography"
+        },
+        "romaji": "gitou"
       }
     ],
     "kunyomiExamples": [],
@@ -63,5 +84,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06597.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6597.gif",
     "uri": "https://jisho.org/search/%E6%96%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "đấu",
+    "đẩu",
+    "ẩu"
+  ]
 }

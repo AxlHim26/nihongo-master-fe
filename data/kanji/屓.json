@@ -14,12 +14,18 @@
       {
         "example": "贔屓",
         "reading": "ビイキ",
-        "meaning": "liking something, being partial to something, -phile"
+        "meaning": {
+          "vi": "liking something, being partial to something, -phile"
+        },
+        "romaji": "biiki"
       },
       {
         "example": "贔屓贔屓",
         "reading": "ヒイキビイキ",
-        "meaning": "each person supporting (patronizing) his (her) own favorite"
+        "meaning": {
+          "vi": "each person supporting (patronizing) his (her) own favorite"
+        },
+        "romaji": "hiikibiiki"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c53.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c53.gif",
     "uri": "https://jisho.org/search/%E5%B1%93%23kanji"
-  }
+  },
+  "hanViet": [
+    "hí",
+    "hý"
+  ]
 }

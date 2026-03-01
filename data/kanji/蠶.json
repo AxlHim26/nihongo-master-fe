@@ -19,7 +19,10 @@
       {
         "example": "蚕",
         "reading": "かいこ",
-        "meaning": "silkworm (Bombyx mori)"
+        "meaning": {
+          "en": "silkworm (Bombyx mori)"
+        },
+        "romaji": "kaiko"
       }
     ],
     "radical": {
@@ -35,5 +38,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08836.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8836.gif",
     "uri": "https://jisho.org/search/%E8%A0%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "tàm",
+    "tằm"
+  ]
 }

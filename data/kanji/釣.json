@@ -21,49 +21,76 @@
       {
         "example": "釣果",
         "reading": "チョウカ",
-        "meaning": "catch (fishing), amount of fish caught, caught fish"
+        "meaning": {
+          "en": "catch (fishing), amount of fish caught, caught fish"
+        },
+        "romaji": "chouka"
       },
       {
         "example": "釣菌",
         "reading": "チョウキン",
-        "meaning": "extracting bacteria (from a petri dish, etc.)"
+        "meaning": {
+          "vi": "extracting bacteria (from a petri dish, etc.)"
+        },
+        "romaji": "choukin"
       },
       {
         "example": "爆釣",
         "reading": "バクチョウ",
-        "meaning": "big catch (of fish), big haul"
+        "meaning": {
+          "en": "big catch (of fish), big haul"
+        },
+        "romaji": "bakuchou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "釣る",
         "reading": "つる",
-        "meaning": "to fish, to angle, to catch, to lure in, to tempt, to attract, to entice, to allure"
+        "meaning": {
+          "vi": "to fish, to angle, to catch, to lure in, to tempt, to attract, to entice, to allure"
+        },
+        "romaji": "tsuru"
       },
       {
         "example": "釣瓶",
         "reading": "つるべ",
-        "meaning": "well bucket"
+        "meaning": {
+          "en": "well bucket"
+        },
+        "romaji": "tsurube"
       },
       {
         "example": "釣り",
         "reading": "つり",
-        "meaning": "fishing, angling, change (for a purchase), clickbaiting, trolling, bait, making deliberately inflammatory posts online"
+        "meaning": {
+          "vi": "fishing, angling, change (for a purchase), clickbaiting, trolling, bait, making deliberately inflammatory posts online"
+        },
+        "romaji": "tsuri"
       },
       {
         "example": "釣り合い",
         "reading": "つりあい",
-        "meaning": "balance, equilibrium"
+        "meaning": {
+          "en": "balance, equilibrium"
+        },
+        "romaji": "tsuriai"
       },
       {
         "example": "雪釣り",
         "reading": "ゆきつり",
-        "meaning": "game in which children use a piece of charcoal on a string to create and lift up snowballs"
+        "meaning": {
+          "vi": "game in which children use a piece of charcoal on a string to create and lift up snowballs"
+        },
+        "romaji": "yukitsuri"
       },
       {
         "example": "雪吊り",
         "reading": "ゆきづり",
-        "meaning": "placing ropes or wires around trees to protect them from the snow, ropes stretched from the top of a tree to the lower branches to prevent their breaking under heavy snow"
+        "meaning": {
+          "vi": "placing ropes or wires around trees to protect them from the snow, ropes stretched from the top of a tree to the lower branches to prevent their breaking under heavy snow"
+        },
+        "romaji": "yukizuri"
       }
     ],
     "radical": {
@@ -82,5 +109,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091e3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91e3.gif",
     "uri": "https://jisho.org/search/%E9%87%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "điếu"
+  ]
 }

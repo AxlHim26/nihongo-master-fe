@@ -17,17 +17,26 @@
       {
         "example": "蜀",
         "reading": "ショク",
-        "meaning": "Sichuan (province in China), Shu (kingdom in China during the Three Kingdoms era; 221-263), Shu Han, Shu (kingdom in ancient China; ??-316 BCE)"
+        "meaning": {
+          "vi": "Sichuan (province in China), Shu (kingdom in China during the Three Kingdoms era; 221-263), Shu Han, Shu (kingdom in ancient China; ??-316 BCE)"
+        },
+        "romaji": "shoku"
       },
       {
         "example": "蜀漢",
         "reading": "ショッカン",
-        "meaning": "Shu Han (kingdom in China during the Three Kingdoms era; 221-263), Shu"
+        "meaning": {
+          "en": "Shu Han (kingdom in China during the Three Kingdoms era; 221-263), Shu"
+        },
+        "romaji": "shokkan"
       },
       {
         "example": "望蜀",
         "reading": "ボウショク",
-        "meaning": "insatiability"
+        "meaning": {
+          "en": "insatiability"
+        },
+        "romaji": "boushoku"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08700.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8700.gif",
     "uri": "https://jisho.org/search/%E8%9C%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "thục"
+  ]
 }

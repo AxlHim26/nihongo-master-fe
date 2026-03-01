@@ -19,44 +19,68 @@
       {
         "example": "裸体",
         "reading": "ラタイ",
-        "meaning": "naked body, nudity"
+        "meaning": {
+          "en": "naked body, nudity"
+        },
+        "romaji": "ratai"
       },
       {
         "example": "裸眼",
         "reading": "ラガン",
-        "meaning": "bare eyes (i.e. without glasses, contact lenses, etc.), uncorrected vision, unaided vision"
+        "meaning": {
+          "en": "bare eyes (i.e. without glasses, contact lenses, etc.), uncorrected vision, unaided vision"
+        },
+        "romaji": "ragan"
       },
       {
         "example": "全裸",
         "reading": "ゼンラ",
-        "meaning": "stark naked, completely naked, nude"
+        "meaning": {
+          "vi": "stark naked, completely naked, nude"
+        },
+        "romaji": "zenra"
       },
       {
         "example": "赤裸",
         "reading": "セキラ",
-        "meaning": "stark naked, nude, bare, unvarnished (e.g. truth), plain (e.g. fact), frank, candid, outspoken"
+        "meaning": {
+          "vi": "stark naked, nude, bare, unvarnished (e.g. truth), plain (e.g. fact), frank, candid, outspoken"
+        },
+        "romaji": "sekira"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "裸",
         "reading": "はだか",
-        "meaning": "nakedness, nudity, bareness, nakedness, baldness, being uncovered, being penniless, concealing nothing, openness"
+        "meaning": {
+          "vi": "nakedness, nudity, bareness, nakedness, baldness, being uncovered, being penniless, concealing nothing, openness"
+        },
+        "romaji": "hadaka"
       },
       {
         "example": "裸一貫",
         "reading": "はだかいっかん",
-        "meaning": "having nothing except one's body, having empty pockets, being penniless"
+        "meaning": {
+          "vi": "having nothing except one's body, having empty pockets, being penniless"
+        },
+        "romaji": "hadakaikkan"
       },
       {
         "example": "丸裸",
         "reading": "まるはだか",
-        "meaning": "being stark-naked, having no possessions, losing all one's belongings"
+        "meaning": {
+          "vi": "being stark-naked, having no possessions, losing all one's belongings"
+        },
+        "romaji": "maruhadaka"
       },
       {
         "example": "赤裸",
         "reading": "あかはだか",
-        "meaning": "stark naked, nude, bare, stripped of all belongings, penniless, naked barley (Hordeum vulgare var. nudum)"
+        "meaning": {
+          "vi": "stark naked, nude, bare, stripped of all belongings, penniless, naked barley (Hordeum vulgare var. nudum)"
+        },
+        "romaji": "akahadaka"
       }
     ],
     "radical": {
@@ -75,5 +99,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f8.gif",
     "uri": "https://jisho.org/search/%E8%A3%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoã",
+    "khoả",
+    "loã",
+    "loả",
+    "quán"
+  ]
 }

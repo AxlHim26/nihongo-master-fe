@@ -256,22 +256,34 @@
       {
         "example": "倍",
         "reading": "バイ",
-        "meaning": "double, twice (as much), times (as much), -fold, 1-nth, 1 to n, 1 in n"
+        "meaning": {
+          "en": "double, twice (as much), times (as much), -fold, 1-nth, 1 to n, 1 in n"
+        },
+        "romaji": "bai"
       },
       {
         "example": "倍増",
         "reading": "バイゾウ",
-        "meaning": "doubling, double"
+        "meaning": {
+          "en": "doubling, double"
+        },
+        "romaji": "baizou"
       },
       {
         "example": "逓倍",
         "reading": "テイバイ",
-        "meaning": "multiplication (e.g. of frequencies)"
+        "meaning": {
+          "vi": "multiplication (e.g. of frequencies)"
+        },
+        "romaji": "teibai"
       },
       {
         "example": "倍々",
         "reading": "バイバイ",
-        "meaning": "doubling (repeatedly), multiplying"
+        "meaning": {
+          "vi": "doubling (repeatedly), multiplying"
+        },
+        "romaji": "baibai"
       }
     ],
     "kunyomiExamples": [],
@@ -291,5 +303,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0500d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/500d.gif",
     "uri": "https://jisho.org/search/%E5%80%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bội"
+  ]
 }

@@ -14,7 +14,7 @@
         "japanese": "位置（いち）",
         "meaning": {
           "english": "position, location",
-        "vietnamese": "vị trí, địa điểm"
+          "vietnamese": "vị trí, địa điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_a.opus",
@@ -27,7 +27,7 @@
         "japanese": "地位（ちい）",
         "meaning": {
           "english": "(social) status",
-        "vietnamese": "địa vị xã hội"
+          "vietnamese": "địa vị xã hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_b.opus",
@@ -40,7 +40,7 @@
         "japanese": "順位（じゅんい）",
         "meaning": {
           "english": "rank [n.]",
-        "vietnamese": "thứ hạng"
+          "vietnamese": "thứ hạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_c.opus",
@@ -53,7 +53,7 @@
         "japanese": "優位（ゆうい）",
         "meaning": {
           "english": "superiority",
-        "vietnamese": "ưu thế"
+          "vietnamese": "ưu thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_d.opus",
@@ -66,7 +66,7 @@
         "japanese": "単位（たんい）",
         "meaning": {
           "english": "unit, credit (in school)",
-        "vietnamese": "đơn vị, tín chỉ (học)"
+          "vietnamese": "đơn vị, tín chỉ (học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_e.opus",
@@ -79,7 +79,7 @@
         "japanese": "一位（いちい）",
         "meaning": {
           "english": "first place",
-        "vietnamese": "vị trí đầu tiên"
+          "vietnamese": "vị trí đầu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_f.opus",
@@ -92,7 +92,7 @@
         "japanese": "位（くらい）",
         "meaning": {
           "english": "rank, about, almost",
-        "vietnamese": "thứ hạng, khoảng, gần như"
+          "vietnamese": "thứ hạng, khoảng, gần như"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_g.opus",
@@ -105,7 +105,7 @@
         "japanese": "十分位（じゅっぷんぐらい）",
         "meaning": {
           "english": "about 10 minutes",
-        "vietnamese": "khoảng 10 phút"
+          "vietnamese": "khoảng 10 phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kurai_06_h.opus",
@@ -220,7 +220,7 @@
       "character": "位",
       "meaning": {
         "english": "rank, position",
-      "vietnamese": "cấp bậc, vị trí"
+        "vietnamese": "cấp bậc, vị trí"
       },
       "strokes": {
         "count": 7,
@@ -273,7 +273,7 @@
       },
       "meaning": {
         "english": "person ",
-      "vietnamese": "người"
+        "vietnamese": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -306,54 +306,84 @@
       {
         "example": "位",
         "reading": "イ",
-        "meaning": "thứ hạng, vị trí (vd. nhất), hàng thập phân"
+        "meaning": {
+          "vi": "thứ hạng, vị trí (vd. nhất), hàng thập phân"
+        },
+        "romaji": "i"
       },
       {
         "example": "位置",
         "reading": "イチ",
-        "meaning": "nơi, vị trí, địa điểm, địa vị, tình trạng"
+        "meaning": {
+          "vi": "nơi, vị trí, địa điểm, địa vị, tình trạng"
+        },
+        "romaji": "ichi"
       },
       {
         "example": "一位",
         "reading": "イチイ",
-        "meaning": "vị trí nhất, hàng đơn vị"
+        "meaning": {
+          "vi": "vị trí nhất, hàng đơn vị"
+        },
+        "romaji": "ichii"
       },
       {
         "example": "高位",
         "reading": "コウイ",
-        "meaning": "uy nghi, cao quý, hàng cao"
+        "meaning": {
+          "vi": "uy nghi, cao quý, hàng cao"
+        },
+        "romaji": "koui"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "位",
         "reading": "くらい",
-        "meaning": "ngai, vương miện, vị trí chính phủ, thứ bậc xã hội, cấp, hàng số"
+        "meaning": {
+          "vi": "ngai, vương miện, vị trí chính phủ, thứ bậc xã hội, cấp, hàng số"
+        },
+        "romaji": "kurai"
       },
       {
         "example": "位が昇る",
         "reading": "くらいがのぼる",
-        "meaning": "thăng cấp"
+        "meaning": {
+          "vi": "thăng cấp"
+        },
+        "romaji": "kuraiganoboru"
       },
       {
         "example": "どれ位",
         "reading": "どれくらい",
-        "meaning": "bao lâu, bao xa, bao nhiêu"
+        "meaning": {
+          "vi": "bao lâu, bao xa, bao nhiêu"
+        },
+        "romaji": "dorekurai"
       },
       {
         "example": "申し訳ないくらい",
         "reading": "もうしわけないくらい",
-        "meaning": "đến mức cảm thấy có lỗi"
+        "meaning": {
+          "vi": "đến mức cảm thấy có lỗi"
+        },
+        "romaji": "moushiwakenaikurai"
       },
       {
         "example": "どれ位",
         "reading": "どれくらい",
-        "meaning": "bao lâu, bao xa, bao nhiêu"
+        "meaning": {
+          "vi": "bao lâu, bao xa, bao nhiêu"
+        },
+        "romaji": "dorekurai"
       },
       {
         "example": "申し訳ないくらい",
         "reading": "もうしわけないくらい",
-        "meaning": "đến mức cảm thấy có lỗi"
+        "meaning": {
+          "vi": "đến mức cảm thấy có lỗi"
+        },
+        "romaji": "moushiwakenaikurai"
       }
     ],
     "radical": {
@@ -371,5 +401,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f4d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f4d.gif",
     "uri": "https://jisho.org/search/%E4%BD%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "vị"
+  ]
 }

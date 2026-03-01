@@ -301,32 +301,50 @@
       {
         "example": "輸血",
         "reading": "ユケツ",
-        "meaning": "blood transfusion"
+        "meaning": {
+          "en": "blood transfusion"
+        },
+        "romaji": "yuketsu"
       },
       {
         "example": "輸銀",
         "reading": "ユギン",
-        "meaning": "import-export bank"
+        "meaning": {
+          "vi": "import-export bank"
+        },
+        "romaji": "yugin"
       },
       {
         "example": "禁輸",
         "reading": "キンユ",
-        "meaning": "embargo"
+        "meaning": {
+          "en": "embargo"
+        },
+        "romaji": "kin'yu"
       },
       {
         "example": "全日本空輸",
         "reading": "ゼンニッポンクウユ",
-        "meaning": "All Nippon Airways"
+        "meaning": {
+          "vi": "All Nippon Airways"
+        },
+        "romaji": "zennipponkuuyu"
       },
       {
         "example": "輸入",
         "reading": "ユニュウ",
-        "meaning": "import, importation, introduction, afferent"
+        "meaning": {
+          "vi": "import, importation, introduction, afferent"
+        },
+        "romaji": "yunyuu"
       },
       {
         "example": "輸出",
         "reading": "ユシュツ",
-        "meaning": "export, exportation, efferent"
+        "meaning": {
+          "vi": "export, exportation, efferent"
+        },
+        "romaji": "yushutsu"
       }
     ],
     "kunyomiExamples": [],
@@ -345,5 +363,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f38.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f38.gif",
     "uri": "https://jisho.org/search/%E8%BC%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "du",
+    "thâu",
+    "thú"
+  ]
 }

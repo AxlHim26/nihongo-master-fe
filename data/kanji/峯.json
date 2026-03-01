@@ -19,17 +19,26 @@
       {
         "example": "峰",
         "reading": "みね",
-        "meaning": "peak, summit, ridge, top, back of a blade"
+        "meaning": {
+          "vi": "peak, summit, ridge, top, back of a blade"
+        },
+        "romaji": "mine"
       },
       {
         "example": "雲の峰",
         "reading": "くものみね",
-        "meaning": "clouds that stand like a mountain peak during the summer"
+        "meaning": {
+          "vi": "clouds that stand like a mountain peak during the summer"
+        },
+        "romaji": "kumonomine"
       },
       {
         "example": "雲の峰",
         "reading": "くものみね",
-        "meaning": "clouds that stand like a mountain peak during the summer"
+        "meaning": {
+          "vi": "clouds that stand like a mountain peak during the summer"
+        },
+        "romaji": "kumonomine"
       }
     ],
     "radical": {
@@ -46,5 +55,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cef.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cef.gif",
     "uri": "https://jisho.org/search/%E5%B3%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "phong"
+  ]
 }

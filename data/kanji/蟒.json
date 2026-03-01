@@ -19,12 +19,18 @@
       {
         "example": "蟒",
         "reading": "うわばみ",
-        "meaning": "large snake, heavy drinking, heavy drinker"
+        "meaning": {
+          "en": "large snake, heavy drinking, heavy drinker"
+        },
+        "romaji": "uwabami"
       },
       {
         "example": "蟒草",
         "reading": "うわばみそう",
-        "meaning": "Elatostema umbellatum var. majus (variety of plant related to the nettles)"
+        "meaning": {
+          "vi": "Elatostema umbellatum var. majus (variety of plant related to the nettles)"
+        },
+        "romaji": "uwabamisou"
       }
     ],
     "radical": {
@@ -41,5 +47,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87d2.gif",
     "uri": "https://jisho.org/search/%E8%9F%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "mãng",
+    "mãnh"
+  ]
 }

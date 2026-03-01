@@ -17,17 +17,26 @@
       {
         "example": "贄",
         "reading": "にえ",
-        "meaning": "offering (to the gods, emperor, etc.), gift, sacrifice"
+        "meaning": {
+          "vi": "offering (to the gods, emperor, etc.), gift, sacrifice"
+        },
+        "romaji": "nie"
       },
       {
         "example": "速贄",
         "reading": "はやにえ",
-        "meaning": "butcher-bird prey impaled on twigs, thorns, etc. for later consumption, first offering of the season"
+        "meaning": {
+          "vi": "butcher-bird prey impaled on twigs, thorns, etc. for later consumption, first offering of the season"
+        },
+        "romaji": "hayanie"
       },
       {
         "example": "百舌のはやにえ",
         "reading": "もずのはやにえ",
-        "meaning": "butcher-bird prey impaled on twigs, thorns, etc. for later consumption"
+        "meaning": {
+          "vi": "butcher-bird prey impaled on twigs, thorns, etc. for later consumption"
+        },
+        "romaji": "mozunohayanie"
       }
     ],
     "radical": {
@@ -49,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d04.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d04.gif",
     "uri": "https://jisho.org/search/%E8%B4%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "chí",
+    "trập"
+  ]
 }

@@ -390,49 +390,76 @@
       {
         "example": "見",
         "reading": "ケン",
-        "meaning": "view (of life, etc.), outlook"
+        "meaning": {
+          "en": "view (of life, etc.), outlook"
+        },
+        "romaji": "ken"
       },
       {
         "example": "見解",
         "reading": "ケンカイ",
-        "meaning": "opinion, point of view"
+        "meaning": {
+          "vi": "opinion, point of view"
+        },
+        "romaji": "kenkai"
       },
       {
         "example": "後見",
         "reading": "コウケン",
-        "meaning": "guardianship, guardian, (theatrical) assistant, prompter"
+        "meaning": {
+          "vi": "guardianship, guardian, (theatrical) assistant, prompter"
+        },
+        "romaji": "kouken"
       },
       {
         "example": "政見",
         "reading": "セイケン",
-        "meaning": "political views"
+        "meaning": {
+          "vi": "political views"
+        },
+        "romaji": "seiken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": {
+          "vi": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        },
+        "romaji": "miru"
       },
       {
         "example": "見る見る",
         "reading": "みるみる",
-        "meaning": "very fast, in a twinkle, before one's eyes"
+        "meaning": {
+          "en": "very fast, in a twinkle, before one's eyes"
+        },
+        "romaji": "mirumiru"
       },
       {
         "example": "見える",
         "reading": "みえる",
-        "meaning": "to be seen, to be visible, to be in sight, to look, to seem, to appear, to come"
+        "meaning": {
+          "vi": "to be seen, to be visible, to be in sight, to look, to seem, to appear, to come"
+        },
+        "romaji": "mieru"
       },
       {
         "example": "見える化",
         "reading": "みえるか",
-        "meaning": "visualization, rendering visible (e.g. a problem), digitization"
+        "meaning": {
+          "vi": "visualization, rendering visible (e.g. a problem), digitization"
+        },
+        "romaji": "mieruka"
       },
       {
         "example": "見せる",
         "reading": "みせる",
-        "meaning": "to show, to display, to make (something or someone) look ..., to present an appearance of ..., to make (something) worth watching, to be entertaining, to have (something) looked at (by a specialist), to have (an antique, etc.) appraised, to have (an injury, person, etc.) looked at (by a doctor), to take (someone) to a doctor, to make a show of (doing), to do in a conspicuous manner, to do in view of others, to resolve to do, to do at any cost, to show others that one will ..."
+        "meaning": {
+          "vi": "to show, to display, to make (something or someone) look ..., to present an appearance of ..., to make (something) worth watching, to be entertaining, to have (something) looked at (by a specialist), to have (an antique, etc.) appraised, to have (an injury, person, etc.) looked at (by a doctor), to take (someone) to a doctor, to make a show of (doing), to do in a conspicuous manner, to do in view of others, to resolve to do, to do at any cost, to show others that one will ..."
+        },
+        "romaji": "miseru"
       }
     ],
     "radical": {
@@ -448,5 +475,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0898b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/898b.gif",
     "uri": "https://jisho.org/search/%E8%A6%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiện",
+    "kiến"
+  ]
 }

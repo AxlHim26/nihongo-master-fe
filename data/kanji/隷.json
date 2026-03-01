@@ -20,29 +20,44 @@
       {
         "example": "隷",
         "reading": "レイ",
-        "meaning": "clerical script (ancient, highly angular style of kanji)"
+        "meaning": {
+          "vi": "clerical script (ancient, highly angular style of kanji)"
+        },
+        "romaji": "rei"
       },
       {
         "example": "隷書",
         "reading": "レイショ",
-        "meaning": "clerical script (ancient, highly angular style of kanji)"
+        "meaning": {
+          "vi": "clerical script (ancient, highly angular style of kanji)"
+        },
+        "romaji": "reisho"
       },
       {
         "example": "性奴隷",
         "reading": "セイドレイ",
-        "meaning": "sex slave, sexual slavery"
+        "meaning": {
+          "en": "sex slave, sexual slavery"
+        },
+        "romaji": "seidorei"
       },
       {
         "example": "性的奴隷",
         "reading": "セイテキドレイ",
-        "meaning": "sex slave, sexual slavery"
+        "meaning": {
+          "en": "sex slave, sexual slavery"
+        },
+        "romaji": "seitekidorei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "僕",
         "reading": "しもべ",
-        "meaning": "servant, manservant, menial"
+        "meaning": {
+          "en": "servant, manservant, menial"
+        },
+        "romaji": "shimobe"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096b7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96b7.gif",
     "uri": "https://jisho.org/search/%E9%9A%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lệ"
+  ]
 }

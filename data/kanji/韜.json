@@ -18,17 +18,26 @@
       {
         "example": "韜晦",
         "reading": "トウカイ",
-        "meaning": "concealing one's talents, status, intentions, etc., maintaining a strict incognito, self-effacement"
+        "meaning": {
+          "en": "concealing one's talents, status, intentions, etc., maintaining a strict incognito, self-effacement"
+        },
+        "romaji": "toukai"
       },
       {
         "example": "韜晦趣味",
         "reading": "トウカイシュミ",
-        "meaning": "propensity to efface oneself, being prone to conceal one's talent"
+        "meaning": {
+          "vi": "propensity to efface oneself, being prone to conceal one's talent"
+        },
+        "romaji": "toukaishumi"
       },
       {
         "example": "天津鞴韜",
         "reading": "テンシンフクトウ",
-        "meaning": "bellows (of the) imperial harbor, Shinto Buddhist doctrines"
+        "meaning": {
+          "vi": "bellows (of the) imperial harbor, Shinto Buddhist doctrines"
+        },
+        "romaji": "tenshinfukutou"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97dc.gif",
     "uri": "https://jisho.org/search/%E9%9F%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "sáo",
+    "thao"
+  ]
 }

@@ -14,22 +14,34 @@
       {
         "example": "膣",
         "reading": "チツ",
-        "meaning": "vagina"
+        "meaning": {
+          "en": "vagina"
+        },
+        "romaji": "chitsu"
       },
       {
         "example": "膣圧",
         "reading": "チツアツ",
-        "meaning": "vaginal tightness, vaginal pressure"
+        "meaning": {
+          "vi": "vaginal tightness, vaginal pressure"
+        },
+        "romaji": "chitsuatsu"
       },
       {
         "example": "経膣",
         "reading": "ケイチツ",
-        "meaning": "transvaginal"
+        "meaning": {
+          "en": "transvaginal"
+        },
+        "romaji": "keichitsu"
       },
       {
         "example": "直腸膣",
         "reading": "チョクチョウチツ",
-        "meaning": "rectovaginal"
+        "meaning": {
+          "en": "rectovaginal"
+        },
+        "romaji": "chokuchouchitsu"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a3.gif",
     "uri": "https://jisho.org/search/%E8%86%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "trất"
+  ]
 }

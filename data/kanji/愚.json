@@ -19,34 +19,52 @@
       {
         "example": "愚",
         "reading": "グ",
-        "meaning": "foolishness, silliness, stupidity, folly, I, me"
+        "meaning": {
+          "vi": "foolishness, silliness, stupidity, folly, I, me"
+        },
+        "romaji": "gu"
       },
       {
         "example": "愚痴",
         "reading": "グチ",
-        "meaning": "idle complaint, grumble, moha (ignorance, folly)"
+        "meaning": {
+          "vi": "idle complaint, grumble, moha (ignorance, folly)"
+        },
+        "romaji": "guchi"
       },
       {
         "example": "軽愚",
         "reading": "ケイグ",
-        "meaning": "moronity, moron"
+        "meaning": {
+          "en": "moronity, moron"
+        },
+        "romaji": "keigu"
       },
       {
         "example": "大愚",
         "reading": "タイグ",
-        "meaning": "great folly or fool"
+        "meaning": {
+          "en": "great folly or fool"
+        },
+        "romaji": "taigu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "愚か",
         "reading": "おろか",
-        "meaning": "foolish, stupid, silly"
+        "meaning": {
+          "vi": "foolish, stupid, silly"
+        },
+        "romaji": "oroka"
       },
       {
         "example": "愚かしい",
         "reading": "おろかしい",
-        "meaning": "foolish, stupid"
+        "meaning": {
+          "vi": "foolish, stupid"
+        },
+        "romaji": "orokashii"
       }
     ],
     "radical": {
@@ -68,5 +86,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0611a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/611a.gif",
     "uri": "https://jisho.org/search/%E6%84%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngu"
+  ]
 }

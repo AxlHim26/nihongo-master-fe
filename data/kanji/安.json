@@ -349,64 +349,100 @@
       {
         "example": "安価",
         "reading": "アンカ",
-        "meaning": "low-priced, cheap, inexpensive, shallow (e.g. sympathy), superficial, cheap (e.g. government), link back to discussion group, bulletin board, etc. posting"
+        "meaning": {
+          "vi": "low-priced, cheap, inexpensive, shallow (e.g. sympathy), superficial, cheap (e.g. government), link back to discussion group, bulletin board, etc. posting"
+        },
+        "romaji": "anka"
       },
       {
         "example": "安易",
         "reading": "アンイ",
-        "meaning": "easy, simple, easygoing, lighthearted, simplistic, irresponsible, careless, quick (to do)"
+        "meaning": {
+          "vi": "easy, simple, easygoing, lighthearted, simplistic, irresponsible, careless, quick (to do)"
+        },
+        "romaji": "an'i"
       },
       {
         "example": "平安",
         "reading": "ヘイアン",
-        "meaning": "peace, tranquility, tranquillity, Heian period (794-1185)"
+        "meaning": {
+          "vi": "peace, tranquility, tranquillity, Heian period (794-1185)"
+        },
+        "romaji": "heian"
       },
       {
         "example": "慰安",
         "reading": "イアン",
-        "meaning": "solace, relaxation"
+        "meaning": {
+          "en": "solace, relaxation"
+        },
+        "romaji": "ian"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "安い",
         "reading": "やすい",
-        "meaning": "cheap, inexpensive, calm, peaceful, quiet"
+        "meaning": {
+          "vi": "cheap, inexpensive, calm, peaceful, quiet"
+        },
+        "romaji": "yasui"
       },
       {
         "example": "休まる",
         "reading": "やすまる",
-        "meaning": "to be rested, to feel at ease, to repose, to be relieved"
+        "meaning": {
+          "vi": "to be rested, to feel at ease, to repose, to be relieved"
+        },
+        "romaji": "yasumaru"
       },
       {
         "example": "安",
         "reading": "やす",
-        "meaning": "cheap, rash, thoughtless, careless, indiscreet, frivolous"
+        "meaning": {
+          "vi": "cheap, rash, thoughtless, careless, indiscreet, frivolous"
+        },
+        "romaji": "yasu"
       },
       {
         "example": "安上がり",
         "reading": "やすあがり",
-        "meaning": "cheap, economical"
+        "meaning": {
+          "vi": "cheap, economical"
+        },
+        "romaji": "yasuagari"
       },
       {
         "example": "目安",
         "reading": "めやす",
-        "meaning": "criterion, standard, yardstick, reference, aim, rough estimate, approximation"
+        "meaning": {
+          "vi": "criterion, standard, yardstick, reference, aim, rough estimate, approximation"
+        },
+        "romaji": "meyasu"
       },
       {
         "example": "最安",
         "reading": "さいやす",
-        "meaning": "cheapest, least expensive, lowest-price"
+        "meaning": {
+          "vi": "cheapest, least expensive, lowest-price"
+        },
+        "romaji": "saiyasu"
       },
       {
         "example": "安らか",
         "reading": "やすらか",
-        "meaning": "peaceful, tranquil, calm, restful"
+        "meaning": {
+          "vi": "peaceful, tranquil, calm, restful"
+        },
+        "romaji": "yasuraka"
       },
       {
         "example": "安らかにお眠りください",
         "reading": "やすらかにおねむりください",
-        "meaning": "rest in peace, requiescat in pace, RIP"
+        "meaning": {
+          "vi": "rest in peace, requiescat in pace, RIP"
+        },
+        "romaji": "yasurakanionemurikudasai"
       }
     ],
     "radical": {
@@ -421,5 +457,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b89.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b89.gif",
     "uri": "https://jisho.org/search/%E5%AE%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "an",
+    "yên"
+  ]
 }

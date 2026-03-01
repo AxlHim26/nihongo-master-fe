@@ -306,29 +306,44 @@
       {
         "example": "導入",
         "reading": "ドウニュウ",
-        "meaning": "giới thiệu, đưa vào, lắp đặt, thiết lập, nhập khẩu, phần mở đầu"
+        "meaning": {
+          "vi": "giới thiệu, đưa vào, lắp đặt, thiết lập, nhập khẩu, phần mở đầu"
+        },
+        "romaji": "dounyuu"
       },
       {
         "example": "導火線",
         "reading": "ドウカセン",
-        "meaning": "ngòi nổ"
+        "meaning": {
+          "vi": "ngòi nổ"
+        },
+        "romaji": "doukasen"
       },
       {
         "example": "超伝導",
         "reading": "チョウデンドウ",
-        "meaning": "siêu dẫn"
+        "meaning": {
+          "vi": "siêu dẫn"
+        },
+        "romaji": "choudendou"
       },
       {
         "example": "主導",
         "reading": "シュドウ",
-        "meaning": "lãnh đạo, chủ động, tiên phong"
+        "meaning": {
+          "vi": "lãnh đạo, chủ động, tiên phong"
+        },
+        "romaji": "shudou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "導く",
         "reading": "みちびく",
-        "meaning": "hướng dẫn, dẫn dắt, chỉ đường, điều khiển, suy ra"
+        "meaning": {
+          "vi": "hướng dẫn, dẫn dắt, chỉ đường, điều khiển, suy ra"
+        },
+        "romaji": "michibiku"
       }
     ],
     "radical": {
@@ -346,5 +361,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0e.gif",
     "uri": "https://jisho.org/search/%E5%B0%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "đạo"
+  ]
 }

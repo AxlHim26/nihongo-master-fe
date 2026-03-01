@@ -321,29 +321,44 @@
       {
         "example": "測量",
         "reading": "ソクリョウ",
-        "meaning": "measurement, surveying"
+        "meaning": {
+          "en": "measurement, surveying"
+        },
+        "romaji": "sokuryou"
       },
       {
         "example": "測定",
         "reading": "ソクテイ",
-        "meaning": "measurement"
+        "meaning": {
+          "en": "measurement"
+        },
+        "romaji": "sokutei"
       },
       {
         "example": "計測",
         "reading": "ケイソク",
-        "meaning": "measuring, measurement"
+        "meaning": {
+          "en": "measuring, measurement"
+        },
+        "romaji": "keisoku"
       },
       {
         "example": "憶測",
         "reading": "オクソク",
-        "meaning": "guess, speculation, supposition"
+        "meaning": {
+          "vi": "guess, speculation, supposition"
+        },
+        "romaji": "okusoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "計る",
         "reading": "はかる",
-        "meaning": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise"
+        "meaning": {
+          "en": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise"
+        },
+        "romaji": "hakaru"
       }
     ],
     "radical": {
@@ -365,5 +380,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e2c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e2c.gif",
     "uri": "https://jisho.org/search/%E6%B8%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "trắc"
+  ]
 }

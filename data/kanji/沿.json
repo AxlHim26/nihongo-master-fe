@@ -266,19 +266,28 @@
       {
         "example": "沿海",
         "reading": "エンカイ",
-        "meaning": "sea along the coast, coastal waters, inshore waters, coast"
+        "meaning": {
+          "en": "sea along the coast, coastal waters, inshore waters, coast"
+        },
+        "romaji": "enkai"
       },
       {
         "example": "沿海州",
         "reading": "エンカイシュウ",
-        "meaning": "Primorskaya Oblast (Russia)"
+        "meaning": {
+          "vi": "Primorskaya Oblast (Russia)"
+        },
+        "romaji": "enkaishuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "沿う",
         "reading": "そう",
-        "meaning": "to run along, to run beside, to stick to (a line), to follow (a policy, plan, etc.), to act in accordance with, to align with, to meet (wishes, expectations, etc.), to satisfy, to comply with, to live up to"
+        "meaning": {
+          "vi": "to run along, to run beside, to stick to (a line), to follow (a policy, plan, etc.), to act in accordance with, to align with, to meet (wishes, expectations, etc.), to satisfy, to comply with, to live up to"
+        },
+        "romaji": "sou"
       }
     ],
     "radical": {
@@ -298,5 +307,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cbf.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cbf.gif",
     "uri": "https://jisho.org/search/%E6%B2%BF%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên",
+    "duyên"
+  ]
 }

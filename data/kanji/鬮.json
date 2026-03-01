@@ -17,12 +17,18 @@
       {
         "example": "籤",
         "reading": "くじ",
-        "meaning": "lottery, lot, raffle, draw"
+        "meaning": {
+          "en": "lottery, lot, raffle, draw"
+        },
+        "romaji": "kuji"
       },
       {
         "example": "神籤",
         "reading": "みくじ",
-        "meaning": "fortune slip (usu. bought at a shrine)"
+        "meaning": {
+          "vi": "fortune slip (usu. bought at a shrine)"
+        },
+        "romaji": "mikuji"
       }
     ],
     "radical": {
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b2e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b2e.gif",
     "uri": "https://jisho.org/search/%E9%AC%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cưu"
+  ]
 }

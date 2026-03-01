@@ -16,19 +16,28 @@
       {
         "example": "鏖殺",
         "reading": "オウサツ",
-        "meaning": "massacre, extermination"
+        "meaning": {
+          "en": "massacre, extermination"
+        },
+        "romaji": "ousatsu"
       },
       {
         "example": "鏖戦",
         "reading": "オウセン",
-        "meaning": "fierce battle"
+        "meaning": {
+          "en": "fierce battle"
+        },
+        "romaji": "ousen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "皆殺し",
         "reading": "みなごろし",
-        "meaning": "massacre, annihilation, wholesale slaughter"
+        "meaning": {
+          "en": "massacre, annihilation, wholesale slaughter"
+        },
+        "romaji": "minagoroshi"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d6.gif",
     "uri": "https://jisho.org/search/%E9%8F%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "ao"
+  ]
 }

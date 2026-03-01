@@ -302,64 +302,100 @@
       {
         "example": "州",
         "reading": "シュウ",
-        "meaning": "state (of the US, Australia, India, Germany, etc.), province (e.g. of Canada), county (e.g. of the UK), region (e.g. of Italy), canton, oblast, continent, province (of Japan), province (of ancient China), prefecture, department, dear"
+        "meaning": {
+          "vi": "state (of the US, Australia, India, Germany, etc.), province (e.g. of Canada), county (e.g. of the UK), region (e.g. of Italy), canton, oblast, continent, province (of Japan), province (of ancient China), prefecture, department, dear"
+        },
+        "romaji": "shuu"
       },
       {
         "example": "州政府",
         "reading": "シュウセイフ",
-        "meaning": "state government"
+        "meaning": {
+          "en": "state government"
+        },
+        "romaji": "shuuseifu"
       },
       {
         "example": "広州",
         "reading": "コウシュウ",
-        "meaning": "Guangzhou (China), Canton"
+        "meaning": {
+          "en": "Guangzhou (China), Canton"
+        },
+        "romaji": "koushuu"
       },
       {
         "example": "沿海州",
         "reading": "エンカイシュウ",
-        "meaning": "Primorskaya Oblast (Russia)"
+        "meaning": {
+          "vi": "Primorskaya Oblast (Russia)"
+        },
+        "romaji": "enkaishuu"
       },
       {
         "example": "州",
         "reading": "ス",
-        "meaning": "sandbank, sandbar"
+        "meaning": {
+          "en": "sandbank, sandbar"
+        },
+        "romaji": "su"
       },
       {
         "example": "洲浜",
         "reading": "スハマ",
-        "meaning": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake"
+        "meaning": {
+          "vi": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake"
+        },
+        "romaji": "suhama"
       },
       {
         "example": "白州",
         "reading": "シラス",
-        "meaning": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand"
+        "meaning": {
+          "vi": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand"
+        },
+        "romaji": "shirasu"
       },
       {
         "example": "中州",
         "reading": "ナカス",
-        "meaning": "sandbank (in a river), sandbar"
+        "meaning": {
+          "en": "sandbank (in a river), sandbar"
+        },
+        "romaji": "nakasu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "州",
         "reading": "す",
-        "meaning": "sandbank, sandbar"
+        "meaning": {
+          "en": "sandbank, sandbar"
+        },
+        "romaji": "su"
       },
       {
         "example": "洲浜",
         "reading": "すはま",
-        "meaning": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake"
+        "meaning": {
+          "vi": "sandy beach, sandbar that projects into the ocean, particularly in a wavy form, designs and objects with a wavy pattern, sweet mochi cake"
+        },
+        "romaji": "suhama"
       },
       {
         "example": "白州",
         "reading": "しらす",
-        "meaning": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand"
+        "meaning": {
+          "vi": "white sandbar, white sandbank, area in a garden or entrance of a house laid with white sand or pebbles, gravel separating a noh stage from the audience, court of law in the Edo period, in which the parties sat on white sand"
+        },
+        "romaji": "shirasu"
       },
       {
         "example": "中州",
         "reading": "なかす",
-        "meaning": "sandbank (in a river), sandbar"
+        "meaning": {
+          "en": "sandbank (in a river), sandbar"
+        },
+        "romaji": "nakasu"
       }
     ],
     "radical": {
@@ -379,5 +415,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dde.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dde.gif",
     "uri": "https://jisho.org/search/%E5%B7%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "châu"
+  ]
 }

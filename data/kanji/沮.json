@@ -17,19 +17,28 @@
       {
         "example": "阻止",
         "reading": "ソシ",
-        "meaning": "obstruction, prevention, hindrance, check, blocking, stopping"
+        "meaning": {
+          "vi": "obstruction, prevention, hindrance, check, blocking, stopping"
+        },
+        "romaji": "soshi"
       },
       {
         "example": "沮害",
         "reading": "ソガイ",
-        "meaning": "check, obstruction, hindrance, impediment"
+        "meaning": {
+          "vi": "check, obstruction, hindrance, impediment"
+        },
+        "romaji": "sogai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "阻む",
         "reading": "はばむ",
-        "meaning": "to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart"
+        "meaning": {
+          "vi": "to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart"
+        },
+        "romaji": "habamu"
       }
     ],
     "radical": {
@@ -48,5 +57,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cae.gif",
     "uri": "https://jisho.org/search/%E6%B2%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thư",
+    "trở",
+    "tư",
+    "tự"
+  ]
 }

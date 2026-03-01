@@ -18,12 +18,18 @@
       {
         "example": "戒飭",
         "reading": "カイチョク",
-        "meaning": "admonishment, warning"
+        "meaning": {
+          "en": "admonishment, warning"
+        },
+        "romaji": "kaichoku"
       },
       {
         "example": "謹飭",
         "reading": "キンチョク",
-        "meaning": "deep modesty, deep discretion"
+        "meaning": {
+          "vi": "deep modesty, deep discretion"
+        },
+        "romaji": "kinchoku"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ed.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ed.gif",
     "uri": "https://jisho.org/search/%E9%A3%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "sức"
+  ]
 }

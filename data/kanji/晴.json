@@ -319,44 +319,68 @@
       {
         "example": "晴天",
         "reading": "セイテン",
-        "meaning": "fine weather (i.e. little or no clouds), fair weather, clear weather, clear sky, fair skies"
+        "meaning": {
+          "en": "fine weather (i.e. little or no clouds), fair weather, clear weather, clear sky, fair skies"
+        },
+        "romaji": "seiten"
       },
       {
         "example": "晴雨",
         "reading": "セイウ",
-        "meaning": "clear or rainy weather, sunshine or rain"
+        "meaning": {
+          "en": "clear or rainy weather, sunshine or rain"
+        },
+        "romaji": "seiu"
       },
       {
         "example": "好晴",
         "reading": "コウセイ",
-        "meaning": "clear weather, good weather"
+        "meaning": {
+          "en": "clear weather, good weather"
+        },
+        "romaji": "kousei"
       },
       {
         "example": "陰晴",
         "reading": "インセイ",
-        "meaning": "unsettled (fine and cloudy) weather"
+        "meaning": {
+          "en": "unsettled (fine and cloudy) weather"
+        },
+        "romaji": "insei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "晴れる",
         "reading": "はれる",
-        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        "meaning": {
+          "vi": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        },
+        "romaji": "hareru"
       },
       {
         "example": "晴れ",
         "reading": "はれ",
-        "meaning": "clear weather, fine weather, formal, ceremonial, public, cleared of suspicion"
+        "meaning": {
+          "vi": "clear weather, fine weather, formal, ceremonial, public, cleared of suspicion"
+        },
+        "romaji": "hare"
       },
       {
         "example": "晴れる",
         "reading": "はれる",
-        "meaning": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        "meaning": {
+          "vi": "to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished"
+        },
+        "romaji": "hareru"
       },
       {
         "example": "晴らす",
         "reading": "はらす",
-        "meaning": "to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear"
+        "meaning": {
+          "vi": "to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear"
+        },
+        "romaji": "harasu"
       }
     ],
     "radical": {
@@ -375,5 +399,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06674.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6674.gif",
     "uri": "https://jisho.org/search/%E6%99%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "tình"
+  ]
 }

@@ -17,19 +17,28 @@
       {
         "example": "浚渫",
         "reading": "シュンセツ",
-        "meaning": "dredging"
+        "meaning": {
+          "en": "dredging"
+        },
+        "romaji": "shunsetsu"
       },
       {
         "example": "浚渫機",
         "reading": "シュンセツキ",
-        "meaning": "dredging machine, dredge, dredger"
+        "meaning": {
+          "en": "dredging machine, dredge, dredger"
+        },
+        "romaji": "shunsetsuki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "浚う",
         "reading": "さらう",
-        "meaning": "to sweep away, to wash away, to dredge"
+        "meaning": {
+          "vi": "to sweep away, to wash away, to dredge"
+        },
+        "romaji": "sarau"
       }
     ],
     "radical": {
@@ -50,5 +59,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d5a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d5a.gif",
     "uri": "https://jisho.org/search/%E6%B5%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "tuấn"
+  ]
 }

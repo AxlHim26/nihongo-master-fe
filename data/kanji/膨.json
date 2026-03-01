@@ -20,29 +20,44 @@
       {
         "example": "膨張",
         "reading": "ボウチョウ",
-        "meaning": "expansion, swelling, increase, growth"
+        "meaning": {
+          "vi": "expansion, swelling, increase, growth"
+        },
+        "romaji": "bouchou"
       },
       {
         "example": "膨大",
         "reading": "ボウダイ",
-        "meaning": "huge, vast, enormous, colossal, extensive, large, swelling, expansion"
+        "meaning": {
+          "vi": "huge, vast, enormous, colossal, extensive, large, swelling, expansion"
+        },
+        "romaji": "boudai"
       },
       {
         "example": "海膨",
         "reading": "カイボウ",
-        "meaning": "rise"
+        "meaning": {
+          "en": "rise"
+        },
+        "romaji": "kaibou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "膨らむ",
         "reading": "ふくらむ",
-        "meaning": "to expand, to swell (out), to get big, to become inflated"
+        "meaning": {
+          "vi": "to expand, to swell (out), to get big, to become inflated"
+        },
+        "romaji": "fukuramu"
       },
       {
         "example": "膨れる",
         "reading": "ふくれる",
-        "meaning": "to swell (out), to expand, to be inflated, to distend, to bulge, to get cross, to get sulky, to pout"
+        "meaning": {
+          "vi": "to swell (out), to expand, to be inflated, to distend, to bulge, to get cross, to get sulky, to pout"
+        },
+        "romaji": "fukureru"
       }
     ],
     "radical": {
@@ -65,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a8.gif",
     "uri": "https://jisho.org/search/%E8%86%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "bành"
+  ]
 }

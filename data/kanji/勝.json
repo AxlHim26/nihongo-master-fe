@@ -367,59 +367,92 @@
       {
         "example": "勝",
         "reading": "ショウ",
-        "meaning": "win, victory, beautiful scenery, scenic spot, counter for wins"
+        "meaning": {
+          "vi": "win, victory, beautiful scenery, scenic spot, counter for wins"
+        },
+        "romaji": "shou"
       },
       {
         "example": "勝因",
         "reading": "ショウイン",
-        "meaning": "cause of victory, reason for (one's) success"
+        "meaning": {
+          "en": "cause of victory, reason for (one's) success"
+        },
+        "romaji": "shouin"
       },
       {
         "example": "必勝",
         "reading": "ヒッショウ",
-        "meaning": "certain victory"
+        "meaning": {
+          "en": "certain victory"
+        },
+        "romaji": "hisshou"
       },
       {
         "example": "快勝",
         "reading": "カイショウ",
-        "meaning": "sweeping victory, easy victory"
+        "meaning": {
+          "vi": "sweeping victory, easy victory"
+        },
+        "romaji": "kaishou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勝つ",
         "reading": "かつ",
-        "meaning": "to win, to gain victory"
+        "meaning": {
+          "en": "to win, to gain victory"
+        },
+        "romaji": "katsu"
       },
       {
         "example": "褐色",
         "reading": "かちいろ",
-        "meaning": "dark indigo (almost black)"
+        "meaning": {
+          "en": "dark indigo (almost black)"
+        },
+        "romaji": "kachiiro"
       },
       {
         "example": "勝る",
         "reading": "まさる",
-        "meaning": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+        "meaning": {
+          "vi": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+        },
+        "romaji": "masaru"
       },
       {
         "example": "優るとも劣らない",
         "reading": "まさるともおとらない",
-        "meaning": "not at all inferior to, rival or surpass, compare favorably (with)"
+        "meaning": {
+          "vi": "not at all inferior to, rival or surpass, compare favorably (with)"
+        },
+        "romaji": "masarutomootoranai"
       },
       {
         "example": "優れる",
         "reading": "すぐれる",
-        "meaning": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        "meaning": {
+          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+        },
+        "romaji": "sugureru"
       },
       {
         "example": "勝つ",
         "reading": "かつ",
-        "meaning": "to win, to gain victory"
+        "meaning": {
+          "en": "to win, to gain victory"
+        },
+        "romaji": "katsu"
       },
       {
         "example": "褐色",
         "reading": "かちいろ",
-        "meaning": "dark indigo (almost black)"
+        "meaning": {
+          "en": "dark indigo (almost black)"
+        },
+        "romaji": "kachiiro"
       }
     ],
     "radical": {
@@ -438,5 +471,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52dd.gif",
     "uri": "https://jisho.org/search/%E5%8B%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "thăng",
+    "thắng"
+  ]
 }

@@ -14,12 +14,18 @@
       {
         "example": "淙々",
         "reading": "ソウソウ",
-        "meaning": "murmuring (stream, brook, etc.), gurgling, babbling"
+        "meaning": {
+          "en": "murmuring (stream, brook, etc.), gurgling, babbling"
+        },
+        "romaji": "sousou"
       },
       {
         "example": "淙々",
         "reading": "ソウソウ",
-        "meaning": "murmuring (stream, brook, etc.), gurgling, babbling"
+        "meaning": {
+          "en": "murmuring (stream, brook, etc.), gurgling, babbling"
+        },
+        "romaji": "sousou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd9.gif",
     "uri": "https://jisho.org/search/%E6%B7%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "tông"
+  ]
 }

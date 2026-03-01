@@ -17,22 +17,34 @@
       {
         "example": "核",
         "reading": "カク",
-        "meaning": "stone (of a fruit), pit, pip, core (of an organization, team, etc.), nucleus, heart, nuclear weapons, nucleus (of an atom), nucleus (of a cell), condensation nucleus, (planetary) core, ring (in a cyclic compound), kernel, core, nucleus (of a cultured pearl)"
+        "meaning": {
+          "vi": "stone (of a fruit), pit, pip, core (of an organization, team, etc.), nucleus, heart, nuclear weapons, nucleus (of an atom), nucleus (of a cell), condensation nucleus, (planetary) core, ring (in a cyclic compound), kernel, core, nucleus (of a cultured pearl)"
+        },
+        "romaji": "kaku"
       },
       {
         "example": "核家族",
         "reading": "カクカゾク",
-        "meaning": "nuclear family"
+        "meaning": {
+          "en": "nuclear family"
+        },
+        "romaji": "kakukazoku"
       },
       {
         "example": "中核",
         "reading": "チュウカク",
-        "meaning": "kernel, core, nucleus, center, centre"
+        "meaning": {
+          "en": "kernel, core, nucleus, center, centre"
+        },
+        "romaji": "chuukaku"
       },
       {
         "example": "放射性同位核",
         "reading": "ホウシャセイドウイカク",
-        "meaning": "radioisotope"
+        "meaning": {
+          "vi": "radioisotope"
+        },
+        "romaji": "houshaseidouikaku"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06838.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6838.gif",
     "uri": "https://jisho.org/search/%E6%A0%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hạch",
+    "hạt",
+    "hồ"
+  ]
 }

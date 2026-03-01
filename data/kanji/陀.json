@@ -21,27 +21,42 @@
       {
         "example": "珍陀",
         "reading": "チンタ",
-        "meaning": "rượu vang đỏ"
+        "meaning": {
+          "vi": "rượu vang đỏ"
+        },
+        "romaji": "chinta"
       },
       {
         "example": "陀羅尼助",
         "reading": "ダラニスケ",
-        "meaning": "thuốc Đông y truyền thống cho dạ dày (thường viên tròn nhỏ màu sẫm)"
+        "meaning": {
+          "vi": "thuốc Đông y truyền thống cho dạ dày (thường viên tròn nhỏ màu sẫm)"
+        },
+        "romaji": "daranisuke"
       },
       {
         "example": "陀羅尼",
         "reading": "ダラニ",
-        "meaning": "đà-la-ni, thần chú, tụng kinh Phạn đa âm tiết"
+        "meaning": {
+          "vi": "đà-la-ni, thần chú, tụng kinh Phạn đa âm tiết"
+        },
+        "romaji": "darani"
       },
       {
         "example": "阿弥陀",
         "reading": "アミダ",
-        "meaning": "A Di Đà (Phật), Amida, xổ số kiểu ghostleg, đội mũ ngả ra sau"
+        "meaning": {
+          "vi": "A Di Đà (Phật), Amida, xổ số kiểu ghostleg, đội mũ ngả ra sau"
+        },
+        "romaji": "amida"
       },
       {
         "example": "半田",
         "reading": "ハンダ",
-        "meaning": "hàn, thiếc"
+        "meaning": {
+          "vi": "hàn, thiếc"
+        },
+        "romaji": "handa"
       }
     ],
     "kunyomiExamples": [],
@@ -61,5 +76,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09640.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9640.gif",
     "uri": "https://jisho.org/search/%E9%99%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "đà"
+  ]
 }

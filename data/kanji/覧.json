@@ -312,19 +312,28 @@
       {
         "example": "一覧",
         "reading": "イチラン",
-        "meaning": "look, glance, sight, having a look at, looking over, glancing through, running one's eyes over, summary, list, table, catalog, catalogue"
+        "meaning": {
+          "en": "look, glance, sight, having a look at, looking over, glancing through, running one's eyes over, summary, list, table, catalog, catalogue"
+        },
+        "romaji": "ichiran"
       },
       {
         "example": "遊覧",
         "reading": "ユウラン",
-        "meaning": "sightseeing"
+        "meaning": {
+          "en": "sightseeing"
+        },
+        "romaji": "yuuran"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "見る",
         "reading": "みる",
-        "meaning": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        "meaning": {
+          "vi": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+        },
+        "romaji": "miru"
       }
     ],
     "radical": {
@@ -342,5 +351,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089a7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89a7.gif",
     "uri": "https://jisho.org/search/%E8%A6%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "lãm"
+  ]
 }

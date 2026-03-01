@@ -17,22 +17,34 @@
       {
         "example": "陋",
         "reading": "ロウ",
-        "meaning": "narrowness, meanness, humbleness, lowliness"
+        "meaning": {
+          "en": "narrowness, meanness, humbleness, lowliness"
+        },
+        "romaji": "rou"
       },
       {
         "example": "陋屋",
         "reading": "ロウオク",
-        "meaning": "cramped home, one's humble abode, hovel, pigsty, cottage, squalid hut"
+        "meaning": {
+          "vi": "cramped home, one's humble abode, hovel, pigsty, cottage, squalid hut"
+        },
+        "romaji": "rouoku"
       },
       {
         "example": "固陋",
         "reading": "コロウ",
-        "meaning": "stubbornly sticking to old ways, dislike of new things, narrow-mindedness"
+        "meaning": {
+          "en": "stubbornly sticking to old ways, dislike of new things, narrow-mindedness"
+        },
+        "romaji": "korou"
       },
       {
         "example": "狷介固陋",
         "reading": "ケンカイコロウ",
-        "meaning": "stubbornly sticking to old ways, narrow-mindedly rejecting other people's views"
+        "meaning": {
+          "vi": "stubbornly sticking to old ways, narrow-mindedly rejecting other people's views"
+        },
+        "romaji": "kenkaikorou"
       }
     ],
     "kunyomiExamples": [],
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0964b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/964b.gif",
     "uri": "https://jisho.org/search/%E9%99%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "lậu"
+  ]
 }

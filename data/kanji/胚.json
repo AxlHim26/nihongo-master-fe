@@ -18,22 +18,34 @@
       {
         "example": "胚",
         "reading": "ハイ",
-        "meaning": "embryo, germ (e.g. wheat germ)"
+        "meaning": {
+          "en": "embryo, germ (e.g. wheat germ)"
+        },
+        "romaji": "hai"
       },
       {
         "example": "胚移植",
         "reading": "ハイイショク",
-        "meaning": "embryo transfer, embryo transplant"
+        "meaning": {
+          "vi": "embryo transfer, embryo transplant"
+        },
+        "romaji": "haiishoku"
       },
       {
         "example": "胞胚",
         "reading": "ホウハイ",
-        "meaning": "blastula, blastosphere"
+        "meaning": {
+          "vi": "blastula, blastosphere"
+        },
+        "romaji": "houhai"
       },
       {
         "example": "凍結胚",
         "reading": "トウケツハイ",
-        "meaning": "frozen embryo"
+        "meaning": {
+          "en": "frozen embryo"
+        },
+        "romaji": "touketsuhai"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080da.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80da.gif",
     "uri": "https://jisho.org/search/%E8%83%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "phôi"
+  ]
 }

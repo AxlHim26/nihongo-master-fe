@@ -22,49 +22,76 @@
       {
         "example": "戯曲",
         "reading": "ギキョク",
-        "meaning": "drama, play, Chinese opera"
+        "meaning": {
+          "vi": "drama, play, Chinese opera"
+        },
+        "romaji": "gikyoku"
       },
       {
         "example": "戯画",
         "reading": "ギガ",
-        "meaning": "caricature, cartoon, comics"
+        "meaning": {
+          "en": "caricature, cartoon, comics"
+        },
+        "romaji": "giga"
       },
       {
         "example": "遊戯",
         "reading": "ユウギ",
-        "meaning": "play, playing, game, play and dance (at a kindergarten or elementary school)"
+        "meaning": {
+          "vi": "play, playing, game, play and dance (at a kindergarten or elementary school)"
+        },
+        "romaji": "yuugi"
       },
       {
         "example": "性戯",
         "reading": "セイギ",
-        "meaning": "sex act, sexual play"
+        "meaning": {
+          "vi": "sex act, sexual play"
+        },
+        "romaji": "seigi"
       },
       {
         "example": "戯作",
         "reading": "ゲサク",
-        "meaning": "cheap literature, writing for amusement, light literature popular in the late Edo period"
+        "meaning": {
+          "vi": "cheap literature, writing for amusement, light literature popular in the late Edo period"
+        },
+        "romaji": "gesaku"
       },
       {
         "example": "戯作三昧",
         "reading": "ゲサクザンマイ",
-        "meaning": "being absorbed in writing popular novels (cheap fiction), being absorbed in writing something to amuse oneself"
+        "meaning": {
+          "vi": "being absorbed in writing popular novels (cheap fiction), being absorbed in writing something to amuse oneself"
+        },
+        "romaji": "gesakuzanmai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "戯れる",
         "reading": "たわむれる",
-        "meaning": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with, to have elegance, to have refinement"
+        "meaning": {
+          "vi": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with, to have elegance, to have refinement"
+        },
+        "romaji": "tawamureru"
       },
       {
         "example": "戯れる",
         "reading": "たわむれる",
-        "meaning": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with, to have elegance, to have refinement"
+        "meaning": {
+          "vi": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke, to flirt with, to have elegance, to have refinement"
+        },
+        "romaji": "tawamureru"
       },
       {
         "example": "戯れる",
         "reading": "じゃれる",
-        "meaning": "to play around (of a cat, dog, etc.), to frisk, to gambol, to frolic"
+        "meaning": {
+          "vi": "to play around (of a cat, dog, etc.), to frisk, to gambol, to frolic"
+        },
+        "romaji": "jareru"
       }
     ],
     "radical": {
@@ -82,5 +109,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622f.gif",
     "uri": "https://jisho.org/search/%E6%88%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "hí",
+    "hý"
+  ]
 }

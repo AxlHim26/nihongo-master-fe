@@ -305,34 +305,52 @@
       {
         "example": "営業所",
         "reading": "エイギョウショ",
-        "meaning": "business office, place of business"
+        "meaning": {
+          "vi": "business office, place of business"
+        },
+        "romaji": "eigyousho"
       },
       {
         "example": "営業",
         "reading": "エイギョウ",
-        "meaning": "business, trade, operations, sales"
+        "meaning": {
+          "vi": "business, trade, operations, sales"
+        },
+        "romaji": "eigyou"
       },
       {
         "example": "国営",
         "reading": "コクエイ",
-        "meaning": "government management, state management"
+        "meaning": {
+          "en": "government management, state management"
+        },
+        "romaji": "kokuei"
       },
       {
         "example": "公営",
         "reading": "コウエイ",
-        "meaning": "public management"
+        "meaning": {
+          "vi": "public management"
+        },
+        "romaji": "kouei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "営む",
         "reading": "いとなむ",
-        "meaning": "to run (a business), to operate, to conduct, to practice (law, medicine, etc.), to carry out, to perform, to lead (a life), to hold (a Buddhist or Shinto ceremony)"
+        "meaning": {
+          "vi": "to run (a business), to operate, to conduct, to practice (law, medicine, etc.), to carry out, to perform, to lead (a life), to hold (a Buddhist or Shinto ceremony)"
+        },
+        "romaji": "itonamu"
       },
       {
         "example": "営み",
         "reading": "いとなみ",
-        "meaning": "activity, action, performance, execution, occupation, business, work, sexual intercourse, sex, preparations"
+        "meaning": {
+          "vi": "activity, action, performance, execution, occupation, business, work, sexual intercourse, sex, preparations"
+        },
+        "romaji": "itonami"
       }
     ],
     "radical": {
@@ -349,5 +367,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055b6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55b6.gif",
     "uri": "https://jisho.org/search/%E5%96%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "dinh",
+    "doanh"
+  ]
 }

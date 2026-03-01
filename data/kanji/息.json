@@ -321,44 +321,68 @@
       {
         "example": "息",
         "reading": "ソク",
-        "meaning": "son"
+        "meaning": {
+          "en": "son"
+        },
+        "romaji": "soku"
       },
       {
         "example": "息",
         "reading": "ソク",
-        "meaning": "son"
+        "meaning": {
+          "en": "son"
+        },
+        "romaji": "soku"
       },
       {
         "example": "鼻息",
         "reading": "ハナイキ",
-        "meaning": "nasal breathing, breathing through one's nose, person's pleasure, excitement"
+        "meaning": {
+          "vi": "nasal breathing, breathing through one's nose, person's pleasure, excitement"
+        },
+        "romaji": "hanaiki"
       },
       {
         "example": "終息",
         "reading": "シュウソク",
-        "meaning": "cessation, (coming to an) end"
+        "meaning": {
+          "en": "cessation, (coming to an) end"
+        },
+        "romaji": "shuusoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "息",
         "reading": "いき",
-        "meaning": "breath, breathing, concord, harmony, rapport, steam (coming off hot food, tea, etc.), (water) vapor, vapour"
+        "meaning": {
+          "vi": "breath, breathing, concord, harmony, rapport, steam (coming off hot food, tea, etc.), (water) vapor, vapour"
+        },
+        "romaji": "iki"
       },
       {
         "example": "息切れ",
         "reading": "いきぎれ",
-        "meaning": "shortness of breath, panting, puffing, running out of steam (of the economy, a project, etc.), losing momentum, loss of efficiency"
+        "meaning": {
+          "vi": "shortness of breath, panting, puffing, running out of steam (of the economy, a project, etc.), losing momentum, loss of efficiency"
+        },
+        "romaji": "ikigire"
       },
       {
         "example": "鼻息",
         "reading": "はないき",
-        "meaning": "nasal breathing, breathing through one's nose, person's pleasure, excitement"
+        "meaning": {
+          "vi": "nasal breathing, breathing through one's nose, person's pleasure, excitement"
+        },
+        "romaji": "hanaiki"
       },
       {
         "example": "寝息",
         "reading": "ねいき",
-        "meaning": "breathing of a sleeping person"
+        "meaning": {
+          "vi": "breathing of a sleeping person"
+        },
+        "romaji": "neiki"
       }
     ],
     "radical": {
@@ -378,5 +402,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0606f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/606f.gif",
     "uri": "https://jisho.org/search/%E6%81%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "tức"
+  ]
 }

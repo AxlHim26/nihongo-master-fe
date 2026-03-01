@@ -17,12 +17,18 @@
       {
         "example": "只管打坐",
         "reading": "シカンタザ",
-        "meaning": "shikantaza, meditation practice where one stays intensely focused without focusing on any particular object"
+        "meaning": {
+          "vi": "shikantaza, meditation practice where one stays intensely focused without focusing on any particular object"
+        },
+        "romaji": "shikantaza"
       },
       {
         "example": "伺候",
         "reading": "シコウ",
-        "meaning": "waiting upon (someone)"
+        "meaning": {
+          "vi": "waiting upon (someone)"
+        },
+        "romaji": "shikou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07957.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7957.gif",
     "uri": "https://jisho.org/search/%E7%A5%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi"
+  ]
 }

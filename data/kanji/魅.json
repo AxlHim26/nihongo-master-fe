@@ -17,22 +17,34 @@
       {
         "example": "魅力",
         "reading": "ミリョク",
-        "meaning": "charm, fascination, glamour, glamor, attraction, appeal"
+        "meaning": {
+          "vi": "charm, fascination, glamour, glamor, attraction, appeal"
+        },
+        "romaji": "miryoku"
       },
       {
         "example": "魅了",
         "reading": "ミリョウ",
-        "meaning": "charm, fascination, to charm, to fascinate, to captivate, to mesmerize, to enthrall, to hold spellbound"
+        "meaning": {
+          "vi": "charm, fascination, to charm, to fascinate, to captivate, to mesmerize, to enthrall, to hold spellbound"
+        },
+        "romaji": "miryou"
       },
       {
         "example": "鬼魅",
         "reading": "キミ",
-        "meaning": "demon, monster, apparition"
+        "meaning": {
+          "vi": "demon, monster, apparition"
+        },
+        "romaji": "kimi"
       },
       {
         "example": "魑魅",
         "reading": "チミ",
-        "meaning": "mountain demon"
+        "meaning": {
+          "en": "mountain demon"
+        },
+        "romaji": "chimi"
       }
     ],
     "kunyomiExamples": [],
@@ -56,5 +68,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b45.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b45.gif",
     "uri": "https://jisho.org/search/%E9%AD%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "mị"
+  ]
 }

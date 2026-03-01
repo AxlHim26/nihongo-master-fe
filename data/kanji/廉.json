@@ -17,22 +17,34 @@
       {
         "example": "廉",
         "reading": "レン",
-        "meaning": "cheap, inexpensive, pure, honest, upright"
+        "meaning": {
+          "vi": "cheap, inexpensive, pure, honest, upright"
+        },
+        "romaji": "ren"
       },
       {
         "example": "廉価",
         "reading": "レンカ",
-        "meaning": "low price, moderate price"
+        "meaning": {
+          "vi": "low price, moderate price"
+        },
+        "romaji": "renka"
       },
       {
         "example": "清廉",
         "reading": "セイレン",
-        "meaning": "honest, upright, cleanhanded, unselfish"
+        "meaning": {
+          "vi": "honest, upright, cleanhanded, unselfish"
+        },
+        "romaji": "seiren"
       },
       {
         "example": "低廉",
         "reading": "テイレン",
-        "meaning": "cheap, inexpensive"
+        "meaning": {
+          "vi": "cheap, inexpensive"
+        },
+        "romaji": "teiren"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec9.gif",
     "uri": "https://jisho.org/search/%E5%BB%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "liêm"
+  ]
 }

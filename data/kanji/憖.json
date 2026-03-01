@@ -18,7 +18,10 @@
       {
         "example": "憖い",
         "reading": "なまじい",
-        "meaning": "thoughtlessly, rashly, unwisely, half-heartedly, halfway, half-done, incomplete"
+        "meaning": {
+          "vi": "thoughtlessly, rashly, unwisely, half-heartedly, halfway, half-done, incomplete"
+        },
+        "romaji": "namajii"
       }
     ],
     "radical": {
@@ -41,5 +44,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06196.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6196.gif",
     "uri": "https://jisho.org/search/%E6%86%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngận"
+  ]
 }

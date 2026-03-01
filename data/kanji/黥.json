@@ -17,19 +17,28 @@
       {
         "example": "黥",
         "reading": "ゲイ",
-        "meaning": "xăm (đặc biệt kiểu truyền thống Nhật), xăm mình"
+        "meaning": {
+          "vi": "xăm (đặc biệt kiểu truyền thống Nhật), xăm mình"
+        },
+        "romaji": "gei"
       },
       {
         "example": "黥首",
         "reading": "ゲイシュ",
-        "meaning": "xăm trán tội phạm (hình phạt thời Edo)"
+        "meaning": {
+          "vi": "xăm trán tội phạm (hình phạt thời Edo)"
+        },
+        "romaji": "geishu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "黥",
         "reading": "げい",
-        "meaning": "xăm (đặc biệt kiểu truyền thống Nhật), xăm mình"
+        "meaning": {
+          "vi": "xăm (đặc biệt kiểu truyền thống Nhật), xăm mình"
+        },
+        "romaji": "gei"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ee5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ee5.gif",
     "uri": "https://jisho.org/search/%E9%BB%A5%23kanji"
-  }
+  },
+  "hanViet": [
+    "kình"
+  ]
 }

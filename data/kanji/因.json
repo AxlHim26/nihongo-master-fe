@@ -280,39 +280,60 @@
       {
         "example": "因",
         "reading": "イン",
-        "meaning": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya)"
+        "meaning": {
+          "vi": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya)"
+        },
+        "romaji": "in"
       },
       {
         "example": "因縁",
         "reading": "インネン",
-        "meaning": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"
+        "meaning": {
+          "vi": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"
+        },
+        "romaji": "innen"
       },
       {
         "example": "主因",
         "reading": "シュイン",
-        "meaning": "primary cause, main factor"
+        "meaning": {
+          "vi": "primary cause, main factor"
+        },
+        "romaji": "shuin"
       },
       {
         "example": "勝因",
         "reading": "ショウイン",
-        "meaning": "cause of victory, reason for (one's) success"
+        "meaning": {
+          "en": "cause of victory, reason for (one's) success"
+        },
+        "romaji": "shouin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "依る",
         "reading": "よる",
-        "meaning": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        "meaning": {
+          "vi": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+        },
+        "romaji": "yoru"
       },
       {
         "example": "よるところが大きい",
         "reading": "よるところがおおきい",
-        "meaning": "depending largely on, playing a large role in, due largely to"
+        "meaning": {
+          "vi": "depending largely on, playing a large role in, due largely to"
+        },
+        "romaji": "yorutokorogaookii"
       },
       {
         "example": "因む",
         "reading": "ちなむ",
-        "meaning": "to be associated (with), to be connected (with)"
+        "meaning": {
+          "en": "to be associated (with), to be connected (with)"
+        },
+        "romaji": "chinamu"
       }
     ],
     "radical": {
@@ -327,5 +348,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056e0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56e0.gif",
     "uri": "https://jisho.org/search/%E5%9B%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhân"
+  ]
 }

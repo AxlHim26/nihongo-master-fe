@@ -296,34 +296,52 @@
       {
         "example": "具",
         "reading": "グ",
-        "meaning": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc."
+        "meaning": {
+          "vi": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc."
+        },
+        "romaji": "gu"
       },
       {
         "example": "具合",
         "reading": "グアイ",
-        "meaning": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+        "meaning": {
+          "vi": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+        },
+        "romaji": "guai"
       },
       {
         "example": "文具",
         "reading": "ブング",
-        "meaning": "stationery"
+        "meaning": {
+          "en": "stationery"
+        },
+        "romaji": "bungu"
       },
       {
         "example": "金具",
         "reading": "カナグ",
-        "meaning": "metal fittings, metal fixtures"
+        "meaning": {
+          "en": "metal fittings, metal fixtures"
+        },
+        "romaji": "kanagu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "備える",
         "reading": "そなえる",
-        "meaning": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
+        "meaning": {
+          "vi": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
+        },
+        "romaji": "sonaeru"
       },
       {
         "example": "具に",
         "reading": "つぶさに",
-        "meaning": "in detail, with great care, completely, fully"
+        "meaning": {
+          "vi": "in detail, with great care, completely, fully"
+        },
+        "romaji": "tsubusani"
       }
     ],
     "radical": {
@@ -339,5 +357,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05177.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5177.gif",
     "uri": "https://jisho.org/search/%E5%85%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "cụ"
+  ]
 }

@@ -316,42 +316,66 @@
       {
         "example": "茶",
         "reading": "チャ",
-        "meaning": "tea, tea plant (Camellia sinensis), tea preparation, making tea, brown, mockery"
+        "meaning": {
+          "vi": "tea, tea plant (Camellia sinensis), tea preparation, making tea, brown, mockery"
+        },
+        "romaji": "cha"
       },
       {
         "example": "茶色",
         "reading": "チャイロ",
-        "meaning": "brown, light brown, tawny"
+        "meaning": {
+          "en": "brown, light brown, tawny"
+        },
+        "romaji": "chairo"
       },
       {
         "example": "煎茶",
         "reading": "センチャ",
-        "meaning": "green tea, green leaf tea, non-powdered tea (as opposed to matcha), medium-grade green tea"
+        "meaning": {
+          "vi": "green tea, green leaf tea, non-powdered tea (as opposed to matcha), medium-grade green tea"
+        },
+        "romaji": "sencha"
       },
       {
         "example": "抹茶",
         "reading": "マッチャ",
-        "meaning": "matcha, powdered green tea"
+        "meaning": {
+          "vi": "matcha, powdered green tea"
+        },
+        "romaji": "matcha"
       },
       {
         "example": "茶道",
         "reading": "サドウ",
-        "meaning": "tea ceremony, Way of Tea, sadō"
+        "meaning": {
+          "en": "tea ceremony, Way of Tea, sadō"
+        },
+        "romaji": "sadou"
       },
       {
         "example": "茶店",
         "reading": "サテン",
-        "meaning": "tea house"
+        "meaning": {
+          "en": "tea house"
+        },
+        "romaji": "saten"
       },
       {
         "example": "喫茶",
         "reading": "キッサ",
-        "meaning": "tea drinking, teahouse, tearoom, coffee lounge, coffee shop, (rather formal) cafe"
+        "meaning": {
+          "vi": "tea drinking, teahouse, tearoom, coffee lounge, coffee shop, (rather formal) cafe"
+        },
+        "romaji": "kissa"
       },
       {
         "example": "歌声喫茶",
         "reading": "ウタゴエキッサ",
-        "meaning": "utagoe coffeehouse, sing-along tearoom, coffee shop in which customers can sing in chorus accompanied by a band"
+        "meaning": {
+          "vi": "utagoe coffeehouse, sing-along tearoom, coffee shop in which customers can sing in chorus accompanied by a band"
+        },
+        "romaji": "utagoekissa"
       }
     ],
     "kunyomiExamples": [],
@@ -371,5 +395,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08336.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8336.gif",
     "uri": "https://jisho.org/search/%E8%8C%B6%23kanji"
-  }
+  },
+  "hanViet": [
+    "trà"
+  ]
 }

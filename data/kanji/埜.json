@@ -17,14 +17,20 @@
       {
         "example": "野",
         "reading": "ノ",
-        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post"
+        "meaning": {
+          "vi": "plain, field, hidden (structural) member, wild, lacking a political post"
+        },
+        "romaji": "no"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "野",
         "reading": "の",
-        "meaning": "plain, field, hidden (structural) member, wild, lacking a political post"
+        "meaning": {
+          "vi": "plain, field, hidden (structural) member, wild, lacking a political post"
+        },
+        "romaji": "no"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57dc.gif",
     "uri": "https://jisho.org/search/%E5%9F%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "dã"
+  ]
 }

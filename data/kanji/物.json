@@ -405,54 +405,84 @@
       {
         "example": "物",
         "reading": "ブツ",
-        "meaning": "stock, products, goods (esp. stolen), loot, spoils, stuff"
+        "meaning": {
+          "vi": "stock, products, goods (esp. stolen), loot, spoils, stuff"
+        },
+        "romaji": "butsu"
       },
       {
         "example": "物議",
         "reading": "ブツギ",
-        "meaning": "public discussion, public criticism, controversy"
+        "meaning": {
+          "vi": "public discussion, public criticism, controversy"
+        },
+        "romaji": "butsugi"
       },
       {
         "example": "異物",
         "reading": "イブツ",
-        "meaning": "foreign substance, foreign body, foreign contamination, foreign material, strange object, unusual object, dead body, corpse, remains"
+        "meaning": {
+          "vi": "foreign substance, foreign body, foreign contamination, foreign material, strange object, unusual object, dead body, corpse, remains"
+        },
+        "romaji": "ibutsu"
       },
       {
         "example": "遺物",
         "reading": "イブツ",
-        "meaning": "relic, remains, memento"
+        "meaning": {
+          "en": "relic, remains, memento"
+        },
+        "romaji": "ibutsu"
       },
       {
         "example": "一物",
         "reading": "イチモツ",
-        "meaning": "one thing, one article, ulterior motive, secret intention, secret scheme, plot, penis, money"
+        "meaning": {
+          "vi": "one thing, one article, ulterior motive, secret intention, secret scheme, plot, penis, money"
+        },
+        "romaji": "ichimotsu"
       },
       {
         "example": "財物",
         "reading": "ザイブツ",
-        "meaning": "property"
+        "meaning": {
+          "vi": "property"
+        },
+        "romaji": "zaibutsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "物",
         "reading": "もの",
-        "meaning": "thing, object, article, stuff, substance, one's things, possessions, property, belongings, things, something, anything, everything, nothing, quality, reason, the way of things, used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen, item classified as ..., item related to ..., work in the genre of ..., cause of ..., cause for ..., somehow, somewhat, for some reason, really, truly"
+        "meaning": {
+          "vi": "thing, object, article, stuff, substance, one's things, possessions, property, belongings, things, something, anything, everything, nothing, quality, reason, the way of things, used to emphasize emotion, judgment, etc., used to indicate a common occurrence in the past (after a verb in past tense), used to indicate a general tendency, used to indicate something that should happen, item classified as ..., item related to ..., work in the genre of ..., cause of ..., cause for ..., somehow, somewhat, for some reason, really, truly"
+        },
+        "romaji": "mono"
       },
       {
         "example": "物言い",
         "reading": "ものいい",
-        "meaning": "manner of speaking, verbal argument, objection, protesting a decision (esp. that of a sumo referee), rumor, rumour"
+        "meaning": {
+          "vi": "manner of speaking, verbal argument, objection, protesting a decision (esp. that of a sumo referee), rumor, rumour"
+        },
+        "romaji": "monoii"
       },
       {
         "example": "先物",
         "reading": "さきもの",
-        "meaning": "futures, futures contract"
+        "meaning": {
+          "en": "futures, futures contract"
+        },
+        "romaji": "sakimono"
       },
       {
         "example": "拾い物",
         "reading": "ひろいもの",
-        "meaning": "found article, thing picked up (e.g. in the street), (lucky) find, piece of good luck, windfall, bargain"
+        "meaning": {
+          "vi": "found article, thing picked up (e.g. in the street), (lucky) find, piece of good luck, windfall, bargain"
+        },
+        "romaji": "hiroimono"
       }
     ],
     "radical": {
@@ -472,5 +502,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07269.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7269.gif",
     "uri": "https://jisho.org/search/%E7%89%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "vật"
+  ]
 }

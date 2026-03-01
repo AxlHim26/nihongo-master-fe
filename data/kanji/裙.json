@@ -16,7 +16,10 @@
       {
         "example": "裙子",
         "reading": "クンス",
-        "meaning": "waist-robe, pleated lower garment"
+        "meaning": {
+          "vi": "waist-robe, pleated lower garment"
+        },
+        "romaji": "kunsu"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +41,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088d9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88d9.gif",
     "uri": "https://jisho.org/search/%E8%A3%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "quần"
+  ]
 }

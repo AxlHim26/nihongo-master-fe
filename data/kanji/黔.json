@@ -17,12 +17,18 @@
       {
         "example": "黔首",
         "reading": "ケンシュ",
-        "meaning": "nhân dân, quần chúng, công chúng"
+        "meaning": {
+          "vi": "nhân dân, quần chúng, công chúng"
+        },
+        "romaji": "kenshu"
       },
       {
         "example": "黔黎",
         "reading": "ケンレイ",
-        "meaning": "dân thường, nông dân, quần chúng"
+        "meaning": {
+          "vi": "dân thường, nông dân, quần chúng"
+        },
+        "romaji": "kenrei"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed4.gif",
     "uri": "https://jisho.org/search/%E9%BB%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiềm"
+  ]
 }

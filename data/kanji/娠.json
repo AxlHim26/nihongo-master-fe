@@ -17,12 +17,18 @@
       {
         "example": "双胎妊娠",
         "reading": "ソウタイニンシン",
-        "meaning": "twin pregnancy"
+        "meaning": {
+          "vi": "twin pregnancy"
+        },
+        "romaji": "soutaininshin"
       },
       {
         "example": "多胎妊娠",
         "reading": "タタイニンシン",
-        "meaning": "multiple pregnancy, polycyesis"
+        "meaning": {
+          "vi": "multiple pregnancy, polycyesis"
+        },
+        "romaji": "tataininshin"
       }
     ],
     "kunyomiExamples": [],
@@ -40,5 +46,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a20.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a20.gif",
     "uri": "https://jisho.org/search/%E5%A8%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "thần"
+  ]
 }

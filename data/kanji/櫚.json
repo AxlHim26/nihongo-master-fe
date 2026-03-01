@@ -15,12 +15,18 @@
       {
         "example": "棕櫚",
         "reading": "シュロ",
-        "meaning": "Chinese windmill palm (Trachycarpus fortunei), Chusan palm, hemp palm"
+        "meaning": {
+          "vi": "Chinese windmill palm (Trachycarpus fortunei), Chusan palm, hemp palm"
+        },
+        "romaji": "shuro"
       },
       {
         "example": "唐棕櫚",
         "reading": "トウジュロ",
-        "meaning": "miniature Chusan palm (Trachycarpus wagnerianus), (poss. Trachycarpus fortunei)"
+        "meaning": {
+          "vi": "miniature Chusan palm (Trachycarpus wagnerianus), (poss. Trachycarpus fortunei)"
+        },
+        "romaji": "toujuro"
       }
     ],
     "kunyomiExamples": [],
@@ -38,5 +44,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ada.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ada.gif",
     "uri": "https://jisho.org/search/%E6%AB%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "lư",
+    "lữ"
+  ]
 }

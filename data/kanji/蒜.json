@@ -19,17 +19,26 @@
       {
         "example": "大蒜",
         "reading": "にんにく",
-        "meaning": "garlic (Allium sativum)"
+        "meaning": {
+          "en": "garlic (Allium sativum)"
+        },
+        "romaji": "ninniku"
       },
       {
         "example": "浜大蒜",
         "reading": "はまにんにく",
-        "meaning": "American dune grass (Leymus mollis)"
+        "meaning": {
+          "en": "American dune grass (Leymus mollis)"
+        },
+        "romaji": "hamaninniku"
       },
       {
         "example": "蒜",
         "reading": "ひる",
-        "meaning": "strong-smelling edible plant (esp. perennials of the family Liliaceae, e.g. Welsh onion, garlic, wild rocambole, etc.)"
+        "meaning": {
+          "vi": "strong-smelling edible plant (esp. perennials of the family Liliaceae, e.g. Welsh onion, garlic, wild rocambole, etc.)"
+        },
+        "romaji": "hiru"
       }
     ],
     "radical": {
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0849c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/849c.gif",
     "uri": "https://jisho.org/search/%E8%92%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "toán"
+  ]
 }

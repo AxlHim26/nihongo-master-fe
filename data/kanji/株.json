@@ -286,39 +286,60 @@
       {
         "example": "株",
         "reading": "シュ",
-        "meaning": "stump, counter for trees"
+        "meaning": {
+          "vi": "stump, counter for trees"
+        },
+        "romaji": "shu"
       },
       {
         "example": "雌雄異株",
         "reading": "シユウイシュ",
-        "meaning": "dioecy, dioecism"
+        "meaning": {
+          "en": "dioecy, dioecism"
+        },
+        "romaji": "shiyuuishu"
       },
       {
         "example": "懸念される変異株",
         "reading": "ケネンサレルヘンイシュ",
-        "meaning": "variant of concern (of SARS-CoV-2), VOC"
+        "meaning": {
+          "en": "variant of concern (of SARS-CoV-2), VOC"
+        },
+        "romaji": "kenensareruhen'ishu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "株",
         "reading": "かぶ",
-        "meaning": "stock, share, stump, (clump of) roots, plant with attached roots or stem, strain (of bacteria, etc.), stock company, corporation, kabushiki kaisha, KK, goodwill (of a business), privilege (that comes with a role), reputation, standing, popularity, one's forte"
+        "meaning": {
+          "vi": "stock, share, stump, (clump of) roots, plant with attached roots or stem, strain (of bacteria, etc.), stock company, corporation, kabushiki kaisha, KK, goodwill (of a business), privilege (that comes with a role), reputation, standing, popularity, one's forte"
+        },
+        "romaji": "kabu"
       },
       {
         "example": "株",
         "reading": "かぶた",
-        "meaning": "stump, useless item"
+        "meaning": {
+          "vi": "stump, useless item"
+        },
+        "romaji": "kabuta"
       },
       {
         "example": "新株",
         "reading": "しんかぶ",
-        "meaning": "new stock, new share, newly issued shares"
+        "meaning": {
+          "en": "new stock, new share, newly issued shares"
+        },
+        "romaji": "shinkabu"
       },
       {
         "example": "仕手株",
         "reading": "してかぶ",
-        "meaning": "speculative stock"
+        "meaning": {
+          "vi": "speculative stock"
+        },
+        "romaji": "shitekabu"
       }
     ],
     "radical": {
@@ -333,5 +354,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0682a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/682a.gif",
     "uri": "https://jisho.org/search/%E6%A0%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chu",
+    "châu"
+  ]
 }

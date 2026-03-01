@@ -310,34 +310,52 @@
       {
         "example": "百葉箱",
         "reading": "ヒャクヨウバコ",
-        "meaning": "Stevenson screen (louvre-sided box housing for meteorological gauges), instrument shelter"
+        "meaning": {
+          "en": "Stevenson screen (louvre-sided box housing for meteorological gauges), instrument shelter"
+        },
+        "romaji": "hyakuyoubako"
       },
       {
         "example": "書箱",
         "reading": "ショソウ",
-        "meaning": "bookcase"
+        "meaning": {
+          "en": "bookcase"
+        },
+        "romaji": "shosou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "箱",
         "reading": "はこ",
-        "meaning": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        "meaning": {
+          "vi": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+        },
+        "romaji": "hako"
       },
       {
         "example": "箱入り",
         "reading": "はこいり",
-        "meaning": "cased, boxed, precious, cherished, girl who has been sheltered from the world, one's special talent"
+        "meaning": {
+          "vi": "cased, boxed, precious, cherished, girl who has been sheltered from the world, one's special talent"
+        },
+        "romaji": "hakoiri"
       },
       {
         "example": "リサイクル用の箱",
         "reading": "リサイクルようのはこ",
-        "meaning": "recycling bin, recycling box"
+        "meaning": {
+          "en": "recycling bin, recycling box"
+        },
+        "romaji": "risaikuruyounohako"
       },
       {
         "example": "契約の箱",
         "reading": "けいやくのはこ",
-        "meaning": "Ark of the Covenant"
+        "meaning": {
+          "en": "Ark of the Covenant"
+        },
+        "romaji": "keiyakunohako"
       }
     ],
     "radical": {
@@ -357,5 +375,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bb1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bb1.gif",
     "uri": "https://jisho.org/search/%E7%AE%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "sương",
+    "tương"
+  ]
 }

@@ -19,29 +19,44 @@
       {
         "example": "醸成",
         "reading": "ジョウセイ",
-        "meaning": "brewing, fermenting, arousing, causing, creating, fermenting, bringing about"
+        "meaning": {
+          "en": "brewing, fermenting, arousing, causing, creating, fermenting, bringing about"
+        },
+        "romaji": "jousei"
       },
       {
         "example": "醸造",
         "reading": "ジョウゾウ",
-        "meaning": "brewing"
+        "meaning": {
+          "en": "brewing"
+        },
+        "romaji": "jouzou"
       },
       {
         "example": "銘醸",
         "reading": "メイジョウ",
-        "meaning": "famous winery, famous brewery"
+        "meaning": {
+          "en": "famous winery, famous brewery"
+        },
+        "romaji": "meijou"
       },
       {
         "example": "佳醸",
         "reading": "カジョウ",
-        "meaning": "sweet sake, good wine"
+        "meaning": {
+          "en": "sweet sake, good wine"
+        },
+        "romaji": "kajou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "醸す",
         "reading": "かもす",
-        "meaning": "to brew (sake, etc.), to cause, to bring on, to bring about, to give rise to"
+        "meaning": {
+          "en": "to brew (sake, etc.), to cause, to bring on, to bring about, to give rise to"
+        },
+        "romaji": "kamosu"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091b8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91b8.gif",
     "uri": "https://jisho.org/search/%E9%86%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhưỡng"
+  ]
 }

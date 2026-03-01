@@ -329,34 +329,52 @@
       {
         "example": "復権",
         "reading": "フッケン",
-        "meaning": "rehabilitation, reinstatement, restoration of rights"
+        "meaning": {
+          "en": "rehabilitation, reinstatement, restoration of rights"
+        },
+        "romaji": "fukken"
       },
       {
         "example": "復員",
         "reading": "フクイン",
-        "meaning": "demobilization, demobilisation, repatriation"
+        "meaning": {
+          "vi": "demobilization, demobilisation, repatriation"
+        },
+        "romaji": "fukuin"
       },
       {
         "example": "重複",
         "reading": "チョウフク",
-        "meaning": "duplication, repetition, overlapping, redundancy, restoration"
+        "meaning": {
+          "vi": "duplication, repetition, overlapping, redundancy, restoration"
+        },
+        "romaji": "choufuku"
       },
       {
         "example": "障害回復",
         "reading": "ショウガイカイフク",
-        "meaning": "fault recovery"
+        "meaning": {
+          "en": "fault recovery"
+        },
+        "romaji": "shougaikaifuku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "又",
         "reading": "また",
-        "meaning": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect"
+        "meaning": {
+          "en": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect"
+        },
+        "romaji": "mata"
       },
       {
         "example": "又々",
         "reading": "またまた",
-        "meaning": "once again, yet again, (there you go) again"
+        "meaning": {
+          "en": "once again, yet again, (there you go) again"
+        },
+        "romaji": "matamata"
       }
     ],
     "radical": {
@@ -376,5 +394,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fa9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fa9.gif",
     "uri": "https://jisho.org/search/%E5%BE%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "phú",
+    "phúc",
+    "phục"
+  ]
 }

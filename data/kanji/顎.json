@@ -18,49 +18,76 @@
       {
         "example": "顎",
         "reading": "アゴ",
-        "meaning": "jaw, chin, barb (of a fishhook)"
+        "meaning": {
+          "en": "jaw, chin, barb (of a fishhook)"
+        },
+        "romaji": "ago"
       },
       {
         "example": "顎関節",
         "reading": "ガクカンセツ",
-        "meaning": "jaw joint, temporomandibular joint, TMJ"
+        "meaning": {
+          "vi": "jaw joint, temporomandibular joint, TMJ"
+        },
+        "romaji": "gakukansetsu"
       },
       {
         "example": "上顎",
         "reading": "ウワアゴ",
-        "meaning": "upper jaw, palate"
+        "meaning": {
+          "vi": "upper jaw, palate"
+        },
+        "romaji": "uwaago"
       },
       {
         "example": "下顎",
         "reading": "シタアゴ",
-        "meaning": "lower jaw, mandible"
+        "meaning": {
+          "en": "lower jaw, mandible"
+        },
+        "romaji": "shitaago"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "顎",
         "reading": "あご",
-        "meaning": "jaw, chin, barb (of a fishhook)"
+        "meaning": {
+          "en": "jaw, chin, barb (of a fishhook)"
+        },
+        "romaji": "ago"
       },
       {
         "example": "顎足付き",
         "reading": "あごあしつき",
-        "meaning": "paid expenses (meals and transport)"
+        "meaning": {
+          "vi": "paid expenses (meals and transport)"
+        },
+        "romaji": "agoashitsuki"
       },
       {
         "example": "二重顎",
         "reading": "にじゅうあご",
-        "meaning": "double chin"
+        "meaning": {
+          "en": "double chin"
+        },
+        "romaji": "nijuuago"
       },
       {
         "example": "下顎",
         "reading": "したあご",
-        "meaning": "lower jaw, mandible"
+        "meaning": {
+          "en": "lower jaw, mandible"
+        },
+        "romaji": "shitaago"
       },
       {
         "example": "顎門",
         "reading": "あぎと",
-        "meaning": "chin, jaw, gills, branchia"
+        "meaning": {
+          "en": "chin, jaw, gills, branchia"
+        },
+        "romaji": "agito"
       }
     ],
     "radical": {
@@ -80,5 +107,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0984e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/984e.gif",
     "uri": "https://jisho.org/search/%E9%A1%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạc"
+  ]
 }

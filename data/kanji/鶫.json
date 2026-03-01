@@ -17,24 +17,36 @@
       {
         "example": "鶫",
         "reading": "ツグミ",
-        "meaning": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        "meaning": {
+          "vi": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        },
+        "romaji": "tsugumi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鶫",
         "reading": "つぐみ",
-        "meaning": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        "meaning": {
+          "vi": "thrush (esp. the dusky thrush, Turdus naumanni)"
+        },
+        "romaji": "tsugumi"
       },
       {
         "example": "真似鶫",
         "reading": "まねしつぐみ",
-        "meaning": "mockingbird"
+        "meaning": {
+          "en": "mockingbird"
+        },
+        "romaji": "maneshitsugumi"
       },
       {
         "example": "虎鶫",
         "reading": "とらつぐみ",
-        "meaning": "White's thrush (Zoothera dauma), scaly thrush"
+        "meaning": {
+          "en": "White's thrush (Zoothera dauma), scaly thrush"
+        },
+        "romaji": "toratsugumi"
       }
     ],
     "radical": {
@@ -54,5 +66,7 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dab.gif",
     "uri": "https://jisho.org/search/%E9%B6%AB%23kanji"
-  }
+  },
+  "hanViet": null,
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
 }

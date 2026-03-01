@@ -20,34 +20,52 @@
       {
         "example": "溺愛",
         "reading": "デキアイ",
-        "meaning": "infatuation, adoration, blind love, doting (on a child)"
+        "meaning": {
+          "en": "infatuation, adoration, blind love, doting (on a child)"
+        },
+        "romaji": "dekiai"
       },
       {
         "example": "溺死",
         "reading": "デキシ",
-        "meaning": "death by drowning"
+        "meaning": {
+          "en": "death by drowning"
+        },
+        "romaji": "dekishi"
       },
       {
         "example": "惑溺",
         "reading": "ワクデキ",
-        "meaning": "indulgence, addiction, infatuation"
+        "meaning": {
+          "en": "indulgence, addiction, infatuation"
+        },
+        "romaji": "wakudeki"
       },
       {
         "example": "沈溺",
         "reading": "チンデキ",
-        "meaning": "being immersed in water, being drowned, being infatuated, being dazed, being blinded by"
+        "meaning": {
+          "en": "being immersed in water, being drowned, being infatuated, being dazed, being blinded by"
+        },
+        "romaji": "chindeki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "溺れる",
         "reading": "おぼれる",
-        "meaning": "to struggle in the water, to sink below the surface and become unable to breathe, to (nearly) drown, to indulge in, to lose one's head over something, to be addicted, to wallow in"
+        "meaning": {
+          "en": "to struggle in the water, to sink below the surface and become unable to breathe, to (nearly) drown, to indulge in, to lose one's head over something, to be addicted, to wallow in"
+        },
+        "romaji": "oboreru"
       },
       {
         "example": "溺れる者は藁をも掴む",
         "reading": "おぼれるものはわらをもつかむ",
-        "meaning": "a drowning man will clutch at a straw"
+        "meaning": {
+          "en": "a drowning man will clutch at a straw"
+        },
+        "romaji": "oborerumonohawarawomotsukamu"
       }
     ],
     "radical": {
@@ -67,5 +85,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eba.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eba.gif",
     "uri": "https://jisho.org/search/%E6%BA%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "niệu",
+    "nịch"
+  ]
 }

@@ -256,14 +256,20 @@
       {
         "example": "巧笑",
         "reading": "コウショウ",
-        "meaning": "courteous laughter, forced laughter"
+        "meaning": {
+          "en": "courteous laughter, forced laughter"
+        },
+        "romaji": "koushou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "咲く",
         "reading": "さく",
-        "meaning": "to bloom, to flower, to blossom, to open, to rise up (of breaking waves)"
+        "meaning": {
+          "vi": "to bloom, to flower, to blossom, to open, to rise up (of breaking waves)"
+        },
+        "romaji": "saku"
       }
     ],
     "radical": {
@@ -282,5 +288,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54b2.gif",
     "uri": "https://jisho.org/search/%E5%92%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiếu"
+  ]
 }

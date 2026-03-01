@@ -22,49 +22,76 @@
       {
         "example": "咽喉",
         "reading": "インコウ",
-        "meaning": "throat, vital passage, key position"
+        "meaning": {
+          "vi": "throat, vital passage, key position"
+        },
+        "romaji": "inkou"
       },
       {
         "example": "咽喉頭異常感症",
         "reading": "インコウトウイジョウカンショウ",
-        "meaning": "globus pharyngis, lump in one's throat, pharyngolaryngeal paresthesia"
+        "meaning": {
+          "vi": "globus pharyngis, lump in one's throat, pharyngolaryngeal paresthesia"
+        },
+        "romaji": "inkoutouijoukanshou"
       },
       {
         "example": "嚥下",
         "reading": "エンゲ",
-        "meaning": "swallowing, deglutition"
+        "meaning": {
+          "en": "swallowing, deglutition"
+        },
+        "romaji": "enge"
       },
       {
         "example": "哀咽",
         "reading": "アイエツ",
-        "meaning": "being choked with tears"
+        "meaning": {
+          "en": "being choked with tears"
+        },
+        "romaji": "aietsu"
       },
       {
         "example": "嗚咽",
         "reading": "オエツ",
-        "meaning": "sobbing, weeping, fit of crying"
+        "meaning": {
+          "vi": "sobbing, weeping, fit of crying"
+        },
+        "romaji": "oetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "咽ぶ",
         "reading": "むせぶ",
-        "meaning": "to be choked, to be stifled, to be smothered"
+        "meaning": {
+          "en": "to be choked, to be stifled, to be smothered"
+        },
+        "romaji": "musebu"
       },
       {
         "example": "噎せる",
         "reading": "むせる",
-        "meaning": "to choke, to be choked by, to be stifled by"
+        "meaning": {
+          "en": "to choke, to be choked by, to be stifled by"
+        },
+        "romaji": "museru"
       },
       {
         "example": "喉",
         "reading": "のど",
-        "meaning": "throat, singing voice, gutter (inner margins of a book)"
+        "meaning": {
+          "en": "throat, singing voice, gutter (inner margins of a book)"
+        },
+        "romaji": "nodo"
       },
       {
         "example": "喉から手が出る",
         "reading": "のどからてがでる",
-        "meaning": "(wanting something so badly that) one can almost taste it, a hand reaches out from one's throat"
+        "meaning": {
+          "en": "(wanting something so badly that) one can almost taste it, a hand reaches out from one's throat"
+        },
+        "romaji": "nodokarategaderu"
       }
     ],
     "radical": {
@@ -80,5 +107,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054bd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54bd.gif",
     "uri": "https://jisho.org/search/%E5%92%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "yên",
+    "yến",
+    "yết",
+    "ân",
+    "ế"
+  ]
 }

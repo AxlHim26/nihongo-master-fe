@@ -15,22 +15,34 @@
       {
         "example": "十",
         "reading": "ジュウ",
-        "meaning": "ten, 10, ten years of age, book containing a collection of poems"
+        "meaning": {
+          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+        },
+        "romaji": "juu"
       },
       {
         "example": "什一",
         "reading": "ジュウイチ",
-        "meaning": "tithe"
+        "meaning": {
+          "en": "tithe"
+        },
+        "romaji": "juuichi"
       },
       {
         "example": "佳什",
         "reading": "カジュウ",
-        "meaning": "excellent poem"
+        "meaning": {
+          "vi": "excellent poem"
+        },
+        "romaji": "kajuu"
       },
       {
         "example": "家什",
         "reading": "カジュウ",
-        "meaning": "furniture, fixtures"
+        "meaning": {
+          "en": "furniture, fixtures"
+        },
+        "romaji": "kajuu"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec0.gif",
     "uri": "https://jisho.org/search/%E4%BB%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "thậm",
+    "thập"
+  ]
 }

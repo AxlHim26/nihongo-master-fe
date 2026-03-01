@@ -22,7 +22,13 @@
       {
         "example": "乱暴",
         "reading": "ランボウ",
-        "meaning": "violence, assault, rowdiness, wildness, running riot, rough (handling, language, etc.), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument), rape, sexual assault"
+        "meaning": {
+          "vi": "violence, assault, rowdiness, wildness, running riot, rough (handling, language, etc.), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument), rape, sexual assault"
+        },
+        "meaningVN": "bạo lực, hành hung, ồn ào, hoang dã, bạo loạn, thô bạo (cách xử lý, ngôn ngữ, v.v.), liều lĩnh, bất cẩn, thô lỗ, thô lỗ, vô lý (ví dụ: yêu cầu), hoang dã (ví dụ: tranh luận), hãm hiếp, tấn công tình dục",
+        "hanViet": "loạn bão",
+        "hanVietExplain": "乱 (loạn: lẫn lộn) + 暴 (bão: giông bão) → bạo lực, hành hung, ồn ào, hoang dã, bạo loạn, thô bạo (cách xử lý, ngôn ngữ, v.v.), liều lĩnh, bất cẩn, thô lỗ, thô lỗ, vô lý (ví dụ: yêu cầu), hoang dã (ví dụ: tranh luận), hãm hiếp, tấn công tình dục",
+        "romaji": "ranbou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e82.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e82.gif",
     "uri": "https://jisho.org/search/%E4%BA%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "loạn"
+  ],
+  "meaningVN": "chiến tranh, rối loạn, bạo loạn, làm phiền",
+  "hanVietExplain": "loạn: lẫn lộn, rối, phá hoại"
 }

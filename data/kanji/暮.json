@@ -306,34 +306,52 @@
       {
         "example": "暮雨",
         "reading": "ボウ",
-        "meaning": "evening rain"
+        "meaning": {
+          "en": "evening rain"
+        },
+        "romaji": "bou"
       },
       {
         "example": "暮雲",
         "reading": "ボウン",
-        "meaning": "twilight clouds"
+        "meaning": {
+          "en": "twilight clouds"
+        },
+        "romaji": "boun"
       },
       {
         "example": "歳暮",
         "reading": "セイボ",
-        "meaning": "year-end gift, end of the year, year end"
+        "meaning": {
+          "en": "year-end gift, end of the year, year end"
+        },
+        "romaji": "seibo"
       },
       {
         "example": "朝々暮々",
         "reading": "チョウチョウボボ",
-        "meaning": "every morning and evening"
+        "meaning": {
+          "en": "every morning and evening"
+        },
+        "romaji": "chouchoubobo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "暮れる",
         "reading": "くれる",
-        "meaning": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        "meaning": {
+          "vi": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
+        },
+        "romaji": "kureru"
       },
       {
         "example": "暮らす",
         "reading": "くらす",
-        "meaning": "to live, to get along, to spend (time)"
+        "meaning": {
+          "vi": "to live, to get along, to spend (time)"
+        },
+        "romaji": "kurasu"
       }
     ],
     "radical": {
@@ -349,5 +367,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ae.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ae.gif",
     "uri": "https://jisho.org/search/%E6%9A%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "mộ"
+  ]
 }

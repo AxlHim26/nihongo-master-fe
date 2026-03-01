@@ -19,29 +19,44 @@
       {
         "example": "愧死",
         "reading": "キシ",
-        "meaning": "chết vì xấu hổ"
+        "meaning": {
+          "vi": "chết vì xấu hổ"
+        },
+        "romaji": "kishi"
       },
       {
         "example": "愧赧",
         "reading": "キタン",
-        "meaning": "đỏ mặt vì xấu hổ"
+        "meaning": {
+          "vi": "đỏ mặt vì xấu hổ"
+        },
+        "romaji": "kitan"
       },
       {
         "example": "無愧",
         "reading": "ムギ",
-        "meaning": "vô liêm sỉ"
+        "meaning": {
+          "vi": "vô liêm sỉ"
+        },
+        "romaji": "mugi"
       },
       {
         "example": "慙愧",
         "reading": "ザンキ",
-        "meaning": "(cảm giác) xấu hổ"
+        "meaning": {
+          "vi": "(cảm giác) xấu hổ"
+        },
+        "romaji": "zanki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恥じる",
         "reading": "はじる",
-        "meaning": "cảm thấy xấu hổ"
+        "meaning": {
+          "vi": "cảm thấy xấu hổ"
+        },
+        "romaji": "hajiru"
       }
     ],
     "radical": {
@@ -64,5 +79,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06127.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6127.gif",
     "uri": "https://jisho.org/search/%E6%84%A7%23kanji"
-  }
+  },
+  "hanViet": [
+    "quý"
+  ]
 }

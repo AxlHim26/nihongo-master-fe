@@ -18,12 +18,18 @@
       {
         "example": "鎬",
         "reading": "しのぎ",
-        "meaning": "ridge on the side of a sword blade, ridged pattern"
+        "meaning": {
+          "vi": "ridge on the side of a sword blade, ridged pattern"
+        },
+        "romaji": "shinogi"
       },
       {
         "example": "鎬鑿",
         "reading": "しのぎのみ",
-        "meaning": "chisel for making dovetail joints"
+        "meaning": {
+          "en": "chisel for making dovetail joints"
+        },
+        "romaji": "shinoginomi"
       }
     ],
     "radical": {
@@ -44,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093ac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93ac.gif",
     "uri": "https://jisho.org/search/%E9%8E%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cảo",
+    "hạo"
+  ]
 }

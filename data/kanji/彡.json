@@ -15,7 +15,10 @@
       {
         "example": "彡旁",
         "reading": "サンヅクリ",
-        "meaning": "bộ thủ \"ba\" hoặc \"đồ trang sức tóc\" bên phải"
+        "meaning": {
+          "vi": "bộ thủ \"ba\" hoặc \"đồ trang sức tóc\" bên phải"
+        },
+        "romaji": "sanzukuri"
       }
     ],
     "kunyomiExamples": [],
@@ -30,5 +33,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f61.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f61.gif",
     "uri": "https://jisho.org/search/%E5%BD%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "sam",
+    "tiệm"
+  ]
 }

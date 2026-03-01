@@ -363,42 +363,66 @@
       {
         "example": "期",
         "reading": "キ",
-        "meaning": "period, time, opportunity, chance, occasion, age, term (e.g. in office), session (e.g. of parliament), stage (e.g. of a disease), season (e.g. of a TV series)"
+        "meaning": {
+          "vi": "period, time, opportunity, chance, occasion, age, term (e.g. in office), session (e.g. of parliament), stage (e.g. of a disease), season (e.g. of a TV series)"
+        },
+        "romaji": "ki"
       },
       {
         "example": "期間",
         "reading": "キカン",
-        "meaning": "period, term, interval"
+        "meaning": {
+          "vi": "period, term, interval"
+        },
+        "romaji": "kikan"
       },
       {
         "example": "周期",
         "reading": "シュウキ",
-        "meaning": "cycle, period"
+        "meaning": {
+          "vi": "cycle, period"
+        },
+        "romaji": "shuuki"
       },
       {
         "example": "当期",
         "reading": "トウキ",
-        "meaning": "current term (period)"
+        "meaning": {
+          "vi": "current term (period)"
+        },
+        "romaji": "touki"
       },
       {
         "example": "期",
         "reading": "ゴ",
-        "meaning": "time, moment, limit, time of death, last moment, midnight in red-light districts during the Edo period"
+        "meaning": {
+          "vi": "time, moment, limit, time of death, last moment, midnight in red-light districts during the Edo period"
+        },
+        "romaji": "go"
       },
       {
         "example": "期日",
         "reading": "キジツ",
-        "meaning": "fixed date, appointed date, set date, deadline, due date"
+        "meaning": {
+          "vi": "fixed date, appointed date, set date, deadline, due date"
+        },
+        "romaji": "kijitsu"
       },
       {
         "example": "一期",
         "reading": "イチゴ",
-        "meaning": "one's whole life, one's lifetime"
+        "meaning": {
+          "en": "one's whole life, one's lifetime"
+        },
+        "romaji": "ichigo"
       },
       {
         "example": "非業の最期",
         "reading": "ヒゴウノサイゴ",
-        "meaning": "unnatural death, violent death"
+        "meaning": {
+          "en": "unnatural death, violent death"
+        },
+        "romaji": "higounosaigo"
       }
     ],
     "kunyomiExamples": [],
@@ -415,5 +439,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0671f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/671f.gif",
     "uri": "https://jisho.org/search/%E6%9C%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "cơ",
+    "ki",
+    "ky",
+    "kì",
+    "kỳ"
+  ]
 }

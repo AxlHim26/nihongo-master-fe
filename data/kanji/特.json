@@ -343,22 +343,34 @@
       {
         "example": "特産",
         "reading": "トクサン",
-        "meaning": "being produced in a particular region, local specialty"
+        "meaning": {
+          "vi": "being produced in a particular region, local specialty"
+        },
+        "romaji": "tokusan"
       },
       {
         "example": "特異",
         "reading": "トクイ",
-        "meaning": "unique, peculiar, singular"
+        "meaning": {
+          "vi": "unique, peculiar, singular"
+        },
+        "romaji": "tokui"
       },
       {
         "example": "快特",
         "reading": "カイトク",
-        "meaning": "rapid express (train service), rapid limited express"
+        "meaning": {
+          "vi": "rapid express (train service), rapid limited express"
+        },
+        "romaji": "kaitoku"
       },
       {
         "example": "在特",
         "reading": "ザイトク",
-        "meaning": "Special Permission to Stay in Japan, residence status that can be granted to illegal immigrants or overstayers"
+        "meaning": {
+          "vi": "Special Permission to Stay in Japan, residence status that can be granted to illegal immigrants or overstayers"
+        },
+        "romaji": "zaitoku"
       }
     ],
     "kunyomiExamples": [],
@@ -378,5 +390,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07279.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7279.gif",
     "uri": "https://jisho.org/search/%E7%89%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "đặc"
+  ]
 }

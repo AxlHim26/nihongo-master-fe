@@ -20,44 +20,68 @@
       {
         "example": "霞",
         "reading": "カスミ",
-        "meaning": "haze (esp. in spring), mist, dimness (of sight)"
+        "meaning": {
+          "vi": "haze (esp. in spring), mist, dimness (of sight)"
+        },
+        "romaji": "kasumi"
       },
       {
         "example": "霞む",
         "reading": "カスム",
-        "meaning": "to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"
+        "meaning": {
+          "vi": "to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"
+        },
+        "romaji": "kasumu"
       },
       {
         "example": "紅霞",
         "reading": "コウカ",
-        "meaning": "crimson mist, crimson-tinted clouds (e.g. at sunset)"
+        "meaning": {
+          "en": "crimson mist, crimson-tinted clouds (e.g. at sunset)"
+        },
+        "romaji": "kouka"
       },
       {
         "example": "朝霞",
         "reading": "アサガスミ",
-        "meaning": "morning glow, morning mist (haze)"
+        "meaning": {
+          "en": "morning glow, morning mist (haze)"
+        },
+        "romaji": "asagasumi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "霞",
         "reading": "かすみ",
-        "meaning": "haze (esp. in spring), mist, dimness (of sight)"
+        "meaning": {
+          "vi": "haze (esp. in spring), mist, dimness (of sight)"
+        },
+        "romaji": "kasumi"
       },
       {
         "example": "かすみ網",
         "reading": "かすみあみ",
-        "meaning": "mist net (fine mesh for capturing small birds)"
+        "meaning": {
+          "vi": "mist net (fine mesh for capturing small birds)"
+        },
+        "romaji": "kasumiami"
       },
       {
         "example": "雲霞",
         "reading": "うんか",
-        "meaning": "clouds and haze, swarm (of people), throng, drove, (flee) like the wind, (run) out of sight"
+        "meaning": {
+          "vi": "clouds and haze, swarm (of people), throng, drove, (flee) like the wind, (run) out of sight"
+        },
+        "romaji": "unka"
       },
       {
         "example": "霞む",
         "reading": "かすむ",
-        "meaning": "to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"
+        "meaning": {
+          "vi": "to become misty, to become hazy, to get blurry, to grow dim, to be overshadowed, to be upstaged, to be outshone"
+        },
+        "romaji": "kasumu"
       }
     ],
     "radical": {
@@ -72,5 +96,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971e.gif",
     "uri": "https://jisho.org/search/%E9%9C%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "hà"
+  ]
 }

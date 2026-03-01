@@ -17,22 +17,34 @@
       {
         "example": "吟",
         "reading": "ギン",
-        "meaning": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem, classical Chinese poetry form, stress of sound in noh song"
+        "meaning": {
+          "vi": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem, classical Chinese poetry form, stress of sound in noh song"
+        },
+        "romaji": "gin"
       },
       {
         "example": "吟味",
         "reading": "ギンミ",
-        "meaning": "close examination, careful investigation, close inspection, careful selection, inquiry, enquiry, scrutiny, testing, investigation of a crime, inquiry into someone's guilt, winner (of the most rounds, i.e. a full game), reciting and appreciating traditional poetry"
+        "meaning": {
+          "vi": "close examination, careful investigation, close inspection, careful selection, inquiry, enquiry, scrutiny, testing, investigation of a crime, inquiry into someone's guilt, winner (of the most rounds, i.e. a full game), reciting and appreciating traditional poetry"
+        },
+        "romaji": "ginmi"
       },
       {
         "example": "愛吟",
         "reading": "アイギン",
-        "meaning": "love of reciting or singing favourite poems or songs"
+        "meaning": {
+          "vi": "love of reciting or singing favourite poems or songs"
+        },
+        "romaji": "aigin"
       },
       {
         "example": "詠吟",
         "reading": "エイギン",
-        "meaning": "reciting poetry"
+        "meaning": {
+          "vi": "reciting poetry"
+        },
+        "romaji": "eigin"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541f.gif",
     "uri": "https://jisho.org/search/%E5%90%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngâm"
+  ]
 }

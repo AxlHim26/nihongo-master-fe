@@ -371,59 +371,92 @@
       {
         "example": "花形",
         "reading": "ハナガタ",
-        "meaning": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+        "meaning": {
+          "vi": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+        },
+        "romaji": "hanagata"
       },
       {
         "example": "花園",
         "reading": "ハナゾノ",
-        "meaning": "flower garden"
+        "meaning": {
+          "en": "flower garden"
+        },
+        "romaji": "hanazono"
       },
       {
         "example": "献花",
         "reading": "ケンカ",
-        "meaning": "flower offering, floral tribute, laying flowers"
+        "meaning": {
+          "en": "flower offering, floral tribute, laying flowers"
+        },
+        "romaji": "kenka"
       },
       {
         "example": "雄花",
         "reading": "オバナ",
-        "meaning": "male flower, staminate flower"
+        "meaning": {
+          "en": "male flower, staminate flower"
+        },
+        "romaji": "obana"
       },
       {
         "example": "花かご",
         "reading": "ハナカゴ",
-        "meaning": "flower basket, flower basket (or plate) used for flower-scattering rituals"
+        "meaning": {
+          "vi": "flower basket, flower basket (or plate) used for flower-scattering rituals"
+        },
+        "romaji": "hanakago"
       },
       {
         "example": "華香",
         "reading": "ケコウ",
-        "meaning": "flowers and incense (given as a Buddhist offering)"
+        "meaning": {
+          "en": "flowers and incense (given as a Buddhist offering)"
+        },
+        "romaji": "kekou"
       },
       {
         "example": "天花",
         "reading": "テンゲ",
-        "meaning": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image"
+        "meaning": {
+          "vi": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image"
+        },
+        "romaji": "tenge"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "花",
         "reading": "はな",
-        "meaning": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely"
+        "meaning": {
+          "vi": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely"
+        },
+        "romaji": "hana"
       },
       {
         "example": "花形",
         "reading": "はながた",
-        "meaning": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+        "meaning": {
+          "vi": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+        },
+        "romaji": "hanagata"
       },
       {
         "example": "菜の花",
         "reading": "なのはな",
-        "meaning": "rape blossoms, rapeseed flowers"
+        "meaning": {
+          "vi": "rape blossoms, rapeseed flowers"
+        },
+        "romaji": "nanohana"
       },
       {
         "example": "紅花",
         "reading": "べにばな",
-        "meaning": "safflower (Carthamus tinctorius)"
+        "meaning": {
+          "en": "safflower (Carthamus tinctorius)"
+        },
+        "romaji": "benibana"
       }
     ],
     "radical": {
@@ -442,5 +475,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082b1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82b1.gif",
     "uri": "https://jisho.org/search/%E8%8A%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoa"
+  ]
 }

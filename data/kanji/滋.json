@@ -18,27 +18,42 @@
       {
         "example": "滋養",
         "reading": "ジヨウ",
-        "meaning": "nourishment, nutrition"
+        "meaning": {
+          "en": "nourishment, nutrition"
+        },
+        "romaji": "jiyou"
       },
       {
         "example": "慈雨",
         "reading": "ジウ",
-        "meaning": "welcome rain, beneficial rain, blessed rain, rain that comes after a drought"
+        "meaning": {
+          "en": "welcome rain, beneficial rain, blessed rain, rain that comes after a drought"
+        },
+        "romaji": "jiu"
       },
       {
         "example": "京滋",
         "reading": "ケイジ",
-        "meaning": "Kyoto-Shiga, Kyoto and Shiga"
+        "meaning": {
+          "en": "Kyoto-Shiga, Kyoto and Shiga"
+        },
+        "romaji": "keiji"
       },
       {
         "example": "茂る",
         "reading": "シゲル",
-        "meaning": "to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious"
+        "meaning": {
+          "vi": "to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious"
+        },
+        "romaji": "shigeru"
       },
       {
         "example": "滋賀",
         "reading": "シガ",
-        "meaning": "Shiga (prefecture)"
+        "meaning": {
+          "vi": "Shiga (prefecture)"
+        },
+        "romaji": "shiga"
       }
     ],
     "kunyomiExamples": [],
@@ -60,5 +75,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ecb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ecb.gif",
     "uri": "https://jisho.org/search/%E6%BB%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "tư"
+  ]
 }

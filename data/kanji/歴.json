@@ -353,27 +353,42 @@
       {
         "example": "歴",
         "reading": "レキ",
-        "meaning": "experience, history, record, career"
+        "meaning": {
+          "vi": "experience, history, record, career"
+        },
+        "romaji": "reki"
       },
       {
         "example": "歴史",
         "reading": "レキシ",
-        "meaning": "history"
+        "meaning": {
+          "en": "history"
+        },
+        "romaji": "rekishi"
       },
       {
         "example": "略歴",
         "reading": "リャクレキ",
-        "meaning": "brief personal record, short curriculum vitae, short CV"
+        "meaning": {
+          "vi": "brief personal record, short curriculum vitae, short CV"
+        },
+        "romaji": "ryakureki"
       },
       {
         "example": "来歴",
         "reading": "ライレキ",
-        "meaning": "history, career"
+        "meaning": {
+          "en": "history, career"
+        },
+        "romaji": "raireki"
       },
       {
         "example": "歴とした",
         "reading": "レッキトシタ",
-        "meaning": "accepted, fully-fledged, clear, respectable"
+        "meaning": {
+          "vi": "accepted, fully-fledged, clear, respectable"
+        },
+        "romaji": "rekkitoshita"
       }
     ],
     "kunyomiExamples": [],
@@ -392,5 +407,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b74.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b74.gif",
     "uri": "https://jisho.org/search/%E6%AD%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "lịch"
+  ]
 }

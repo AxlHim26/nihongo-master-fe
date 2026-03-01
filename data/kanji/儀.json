@@ -17,22 +17,34 @@
       {
         "example": "儀",
         "reading": "ギ",
-        "meaning": "ceremony, matter, affair, case, with regard to, as for, as concerns"
+        "meaning": {
+          "en": "ceremony, matter, affair, case, with regard to, as for, as concerns"
+        },
+        "romaji": "gi"
       },
       {
         "example": "儀式",
         "reading": "ギシキ",
-        "meaning": "ceremony, rite, ritual, service"
+        "meaning": {
+          "en": "ceremony, rite, ritual, service"
+        },
+        "romaji": "gishiki"
       },
       {
         "example": "奥義",
         "reading": "オウギ",
-        "meaning": "secret techniques (of an art or skill), inner mysteries, essence, quintessence, heart"
+        "meaning": {
+          "en": "secret techniques (of an art or skill), inner mysteries, essence, quintessence, heart"
+        },
+        "romaji": "ougi"
       },
       {
         "example": "祭儀",
         "reading": "サイギ",
-        "meaning": "rites, ritual"
+        "meaning": {
+          "en": "rites, ritual"
+        },
+        "romaji": "saigi"
       }
     ],
     "kunyomiExamples": [],
@@ -57,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05100.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5100.gif",
     "uri": "https://jisho.org/search/%E5%84%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "nghi"
+  ]
 }

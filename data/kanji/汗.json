@@ -248,44 +248,68 @@
       {
         "example": "汗",
         "reading": "カン",
-        "meaning": "khan (medieval ruler of a Tatary tribe)"
+        "meaning": {
+          "en": "khan (medieval ruler of a Tatary tribe)"
+        },
+        "romaji": "kan"
       },
       {
         "example": "汗顔",
         "reading": "カンガン",
-        "meaning": "ashamed"
+        "meaning": {
+          "en": "ashamed"
+        },
+        "romaji": "kangan"
       },
       {
         "example": "成吉思汗",
         "reading": "ジンギスカン",
-        "meaning": "jingisukan, grilled mutton and vegetable dish, slotted dome cast iron grill (used for jingisukan)"
+        "meaning": {
+          "en": "jingisukan, grilled mutton and vegetable dish, slotted dome cast iron grill (used for jingisukan)"
+        },
+        "romaji": "jingisukan"
       },
       {
         "example": "大汗",
         "reading": "タイカン",
-        "meaning": "Great Khan, Grand Khan"
+        "meaning": {
+          "en": "Great Khan, Grand Khan"
+        },
+        "romaji": "taikan"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "汗",
         "reading": "あせ",
-        "meaning": "sweat, perspiration, moisture, condensation, gulp, oops"
+        "meaning": {
+          "vi": "sweat, perspiration, moisture, condensation, gulp, oops"
+        },
+        "romaji": "ase"
       },
       {
         "example": "汗だく",
         "reading": "あせだく",
-        "meaning": "dripping with sweat, bathed in perspiration"
+        "meaning": {
+          "vi": "dripping with sweat, bathed in perspiration"
+        },
+        "romaji": "asedaku"
       },
       {
         "example": "滝汗",
         "reading": "たきあせ",
-        "meaning": "profuse sweating"
+        "meaning": {
+          "vi": "profuse sweating"
+        },
+        "romaji": "takiase"
       },
       {
         "example": "手汗",
         "reading": "てあせ",
-        "meaning": "palm sweat"
+        "meaning": {
+          "vi": "palm sweat"
+        },
+        "romaji": "tease"
       }
     ],
     "radical": {
@@ -304,5 +328,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c57.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c57.gif",
     "uri": "https://jisho.org/search/%E6%B1%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "hàn",
+    "hãn",
+    "hạn"
+  ]
 }

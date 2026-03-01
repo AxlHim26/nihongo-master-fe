@@ -18,24 +18,36 @@
       {
         "example": "杵",
         "reading": "ショ",
-        "meaning": "vajra (mystical weapon in Hinduism and Buddhism)"
+        "meaning": {
+          "vi": "vajra (mystical weapon in Hinduism and Buddhism)"
+        },
+        "romaji": "sho"
       },
       {
         "example": "金剛杵",
         "reading": "コンゴウショ",
-        "meaning": "vajra (mystical weapon in Hinduism and Buddhism)"
+        "meaning": {
+          "vi": "vajra (mystical weapon in Hinduism and Buddhism)"
+        },
+        "romaji": "kongousho"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "杵",
         "reading": "きね",
-        "meaning": "mallet, pestle, pounder"
+        "meaning": {
+          "vi": "mallet, pestle, pounder"
+        },
+        "romaji": "kine"
       },
       {
         "example": "杵柄",
         "reading": "きねづか",
-        "meaning": "mallet handle"
+        "meaning": {
+          "en": "mallet handle"
+        },
+        "romaji": "kinezuka"
       }
     ],
     "radical": {
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06775.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6775.gif",
     "uri": "https://jisho.org/search/%E6%9D%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "chử",
+    "xử"
+  ]
 }

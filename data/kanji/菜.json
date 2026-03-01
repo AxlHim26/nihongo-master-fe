@@ -324,44 +324,68 @@
       {
         "example": "菜",
         "reading": "サイ",
-        "meaning": "side dish"
+        "meaning": {
+          "en": "side dish"
+        },
+        "romaji": "sai"
       },
       {
         "example": "菜園",
         "reading": "サイエン",
-        "meaning": "vegetable garden"
+        "meaning": {
+          "en": "vegetable garden"
+        },
+        "romaji": "saien"
       },
       {
         "example": "山菜",
         "reading": "サンサイ",
-        "meaning": "edible wild plants"
+        "meaning": {
+          "vi": "edible wild plants"
+        },
+        "romaji": "sansai"
       },
       {
         "example": "前菜",
         "reading": "ゼンサイ",
-        "meaning": "hors d'oeuvre, appetizer, appetiser, starter"
+        "meaning": {
+          "vi": "hors d'oeuvre, appetizer, appetiser, starter"
+        },
+        "romaji": "zensai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "菜",
         "reading": "な",
-        "meaning": "greens, vegetables, rape (Brassica napus), rapeseed"
+        "meaning": {
+          "vi": "greens, vegetables, rape (Brassica napus), rapeseed"
+        },
+        "romaji": "na"
       },
       {
         "example": "菜種",
         "reading": "なたね",
-        "meaning": "rapeseed, coleseed"
+        "meaning": {
+          "vi": "rapeseed, coleseed"
+        },
+        "romaji": "natane"
       },
       {
         "example": "若菜",
         "reading": "わかな",
-        "meaning": "young greens, young herbs"
+        "meaning": {
+          "en": "young greens, young herbs"
+        },
+        "romaji": "wakana"
       },
       {
         "example": "うまい菜",
         "reading": "うまいな",
-        "meaning": "Swiss chard"
+        "meaning": {
+          "en": "Swiss chard"
+        },
+        "romaji": "umaina"
       }
     ],
     "radical": {
@@ -380,5 +404,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083dc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83dc.gif",
     "uri": "https://jisho.org/search/%E8%8F%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "thái"
+  ]
 }

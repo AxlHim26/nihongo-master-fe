@@ -16,24 +16,36 @@
       {
         "example": "専横",
         "reading": "センオウ",
-        "meaning": "arbitrariness, despotism, high-handedness, tyranny"
+        "meaning": {
+          "vi": "arbitrariness, despotism, high-handedness, tyranny"
+        },
+        "romaji": "sen'ou"
       },
       {
         "example": "専制",
         "reading": "センセイ",
-        "meaning": "despotism, autocracy"
+        "meaning": {
+          "vi": "despotism, autocracy"
+        },
+        "romaji": "sensei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恣",
         "reading": "ほしいまま",
-        "meaning": "selfish, self-indulgent, arbitrary"
+        "meaning": {
+          "en": "selfish, self-indulgent, arbitrary"
+        },
+        "romaji": "hoshiimama"
       },
       {
         "example": "恣にする",
         "reading": "ほしいままにする",
-        "meaning": "to abuse, to exploit to the full, to give free rein to"
+        "meaning": {
+          "vi": "to abuse, to exploit to the full, to give free rein to"
+        },
+        "romaji": "hoshiimamanisuru"
       }
     ],
     "radical": {
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64c5.gif",
     "uri": "https://jisho.org/search/%E6%93%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiện"
+  ]
 }

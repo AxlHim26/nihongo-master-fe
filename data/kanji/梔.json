@@ -16,14 +16,20 @@
       {
         "example": "梔子",
         "reading": "クチナシ",
-        "meaning": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+        "meaning": {
+          "vi": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+        },
+        "romaji": "kuchinashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梔子",
         "reading": "くちなし",
-        "meaning": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+        "meaning": {
+          "vi": "Cape jasmine (Gardenia jasminoides), Cape jessamine, gardenia"
+        },
+        "romaji": "kuchinashi"
       }
     ],
     "radical": {
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06894.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6894.gif",
     "uri": "https://jisho.org/search/%E6%A2%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "chi"
+  ]
 }

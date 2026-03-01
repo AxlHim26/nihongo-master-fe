@@ -362,39 +362,60 @@
       {
         "example": "権",
         "reading": "ケン",
-        "meaning": "right (to do something), authority, power"
+        "meaning": {
+          "vi": "right (to do something), authority, power"
+        },
+        "romaji": "ken"
       },
       {
         "example": "権威",
         "reading": "ケンイ",
-        "meaning": "authority, power, influence, prestige, (an) authority (on), expert"
+        "meaning": {
+          "vi": "authority, power, influence, prestige, (an) authority (on), expert"
+        },
+        "romaji": "ken'i"
       },
       {
         "example": "抵当権",
         "reading": "テイトウケン",
-        "meaning": "mortgage, right of pledge, lien"
+        "meaning": {
+          "vi": "mortgage, right of pledge, lien"
+        },
+        "romaji": "teitouken"
       },
       {
         "example": "参政権",
         "reading": "サンセイケン",
-        "meaning": "suffrage, franchise"
+        "meaning": {
+          "en": "suffrage, franchise"
+        },
+        "romaji": "sanseiken"
       },
       {
         "example": "権化",
         "reading": "ゴンゲ",
-        "meaning": "incarnation (of Buddha or bodhisattva), avatar, embodiment (as in \"embodiment of evil\"), incarnation, personification"
+        "meaning": {
+          "vi": "incarnation (of Buddha or bodhisattva), avatar, embodiment (as in \"embodiment of evil\"), incarnation, personification"
+        },
+        "romaji": "gonge"
       },
       {
         "example": "権宮司",
         "reading": "ゴングウジ",
-        "meaning": "associate chief priest, deputy chief priest"
+        "meaning": {
+          "vi": "associate chief priest, deputy chief priest"
+        },
+        "romaji": "gonguuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "仮殿",
         "reading": "かりどの",
-        "meaning": "temporary shrine (houses the object in which the deity resides when main shrine is under repairs)"
+        "meaning": {
+          "vi": "temporary shrine (houses the object in which the deity resides when main shrine is under repairs)"
+        },
+        "romaji": "karidono"
       }
     ],
     "radical": {
@@ -411,5 +432,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a29.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a29.gif",
     "uri": "https://jisho.org/search/%E6%A8%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "quyền"
+  ]
 }

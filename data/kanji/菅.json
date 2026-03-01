@@ -19,22 +19,34 @@
       {
         "example": "菅",
         "reading": "すげ",
-        "meaning": "sedge (Cyperaceae spp., esp. members of genus Carex)"
+        "meaning": {
+          "vi": "sedge (Cyperaceae spp., esp. members of genus Carex)"
+        },
+        "romaji": "suge"
       },
       {
         "example": "菅笠",
         "reading": "すげがさ",
-        "meaning": "sedge-woven (bamboo) hat"
+        "meaning": {
+          "en": "sedge-woven (bamboo) hat"
+        },
+        "romaji": "sugegasa"
       },
       {
         "example": "夕菅",
         "reading": "ゆうすげ",
-        "meaning": "daily lily"
+        "meaning": {
+          "en": "daily lily"
+        },
+        "romaji": "yuusuge"
       },
       {
         "example": "日光黄菅",
         "reading": "にっこうきすげ",
-        "meaning": "day lily (Hemerocallis dumortierii), orange-yellow day lily, Nikko day lily"
+        "meaning": {
+          "en": "day lily (Hemerocallis dumortierii), orange-yellow day lily, Nikko day lily"
+        },
+        "romaji": "nikkoukisuge"
       }
     ],
     "radical": {
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083c5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83c5.gif",
     "uri": "https://jisho.org/search/%E8%8F%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "gian"
+  ]
 }

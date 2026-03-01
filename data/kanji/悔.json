@@ -21,39 +21,60 @@
       {
         "example": "悔恨",
         "reading": "カイコン",
-        "meaning": "regret, remorse, repentance, contrition"
+        "meaning": {
+          "vi": "regret, remorse, repentance, contrition"
+        },
+        "romaji": "kaikon"
       },
       {
         "example": "悔悟",
         "reading": "カイゴ",
-        "meaning": "remorse, repentance"
+        "meaning": {
+          "vi": "remorse, repentance"
+        },
+        "romaji": "kaigo"
       },
       {
         "example": "痛悔",
         "reading": "ツウカイ",
-        "meaning": "contrition, extreme regret, contrition (in Catholicism)"
+        "meaning": {
+          "en": "contrition, extreme regret, contrition (in Catholicism)"
+        },
+        "romaji": "tsuukai"
       },
       {
         "example": "亢龍有悔",
         "reading": "コウリョウユウカイ",
-        "meaning": "the arrogant dragon will have cause to repent, he who reaches the top is bound to fail if he is not prudent"
+        "meaning": {
+          "vi": "the arrogant dragon will have cause to repent, he who reaches the top is bound to fail if he is not prudent"
+        },
+        "romaji": "kouryouyuukai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悔いる",
         "reading": "くいる",
-        "meaning": "to regret"
+        "meaning": {
+          "en": "to regret"
+        },
+        "romaji": "kuiru"
       },
       {
         "example": "悔やむ",
         "reading": "くやむ",
-        "meaning": "to mourn, to lament, to be sorry, to regret, to repent"
+        "meaning": {
+          "vi": "to mourn, to lament, to be sorry, to regret, to repent"
+        },
+        "romaji": "kuyamu"
       },
       {
         "example": "悔しい",
         "reading": "くやしい",
-        "meaning": "frustrated (over a failure, humiliation or injustice), annoyed, chagrined, (bitterly) disappointed, bitter, vexed, frustrating, annoying, regrettable"
+        "meaning": {
+          "vi": "frustrated (over a failure, humiliation or injustice), annoyed, chagrined, (bitterly) disappointed, bitter, vexed, frustrating, annoying, regrettable"
+        },
+        "romaji": "kuyashii"
       }
     ],
     "radical": {
@@ -77,5 +98,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06094.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6094.gif",
     "uri": "https://jisho.org/search/%E6%82%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "hối",
+    "hổi"
+  ]
 }

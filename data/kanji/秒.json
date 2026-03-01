@@ -233,22 +233,34 @@
       {
         "example": "秒",
         "reading": "ビョウ",
-        "meaning": "second (unit of time), arc second"
+        "meaning": {
+          "en": "second (unit of time), arc second"
+        },
+        "romaji": "byou"
       },
       {
         "example": "秒速",
         "reading": "ビョウソク",
-        "meaning": "speed per second, velocity per second, instant, moment, a few seconds"
+        "meaning": {
+          "vi": "speed per second, velocity per second, instant, moment, a few seconds"
+        },
+        "romaji": "byousoku"
       },
       {
         "example": "壊変毎秒",
         "reading": "カイヘンマイビョウ",
-        "meaning": "decays per second, disintegrations per second, dps"
+        "meaning": {
+          "vi": "decays per second, disintegrations per second, dps"
+        },
+        "romaji": "kaihenmaibyou"
       },
       {
         "example": "閏秒",
         "reading": "ウルウビョウ",
-        "meaning": "leap second"
+        "meaning": {
+          "vi": "leap second"
+        },
+        "romaji": "uruubyou"
       }
     ],
     "kunyomiExamples": [],
@@ -265,5 +277,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079d2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79d2.gif",
     "uri": "https://jisho.org/search/%E7%A7%92%23kanji"
-  }
+  },
+  "hanViet": [
+    "miểu",
+    "miễu"
+  ]
 }

@@ -308,39 +308,60 @@
       {
         "example": "典",
         "reading": "テン",
-        "meaning": "ceremony, celebration, law code, Sweden"
+        "meaning": {
+          "en": "ceremony, celebration, law code, Sweden"
+        },
+        "romaji": "ten"
       },
       {
         "example": "典型",
         "reading": "テンケイ",
-        "meaning": "type, pattern, model, epitome, exemplar, archetype, perfect example"
+        "meaning": {
+          "vi": "type, pattern, model, epitome, exemplar, archetype, perfect example"
+        },
+        "romaji": "tenkei"
       },
       {
         "example": "国語辞典",
         "reading": "コクゴジテン",
-        "meaning": "Japanese-language dictionary, dictionary of a national language"
+        "meaning": {
+          "vi": "Japanese-language dictionary, dictionary of a national language"
+        },
+        "romaji": "kokugojiten"
       },
       {
         "example": "拉丁",
         "reading": "ラテン",
-        "meaning": "Latin (language), Latin-American, Latin, Latino, Latin (i.e. relating to the literature, culture, etc. of ancient Rome), Roman"
+        "meaning": {
+          "en": "Latin (language), Latin-American, Latin, Latino, Latin (i.e. relating to the literature, culture, etc. of ancient Rome), Roman"
+        },
+        "romaji": "raten"
       },
       {
         "example": "香典",
         "reading": "コウデン",
-        "meaning": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"
+        "meaning": {
+          "en": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"
+        },
+        "romaji": "kouden"
       },
       {
         "example": "経典",
         "reading": "キョウテン",
-        "meaning": "sacred books, sutras, scriptures (Bible, Koran, etc.)"
+        "meaning": {
+          "vi": "sacred books, sutras, scriptures (Bible, Koran, etc.)"
+        },
+        "romaji": "kyouten"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "法",
         "reading": "のり",
-        "meaning": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        "meaning": {
+          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+        },
+        "romaji": "nori"
       }
     ],
     "radical": {
@@ -357,5 +378,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05178.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5178.gif",
     "uri": "https://jisho.org/search/%E5%85%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "điển"
+  ]
 }

@@ -19,44 +19,68 @@
       {
         "example": "貪",
         "reading": "タン",
-        "meaning": "tham lam, dục vọng (raga)"
+        "meaning": {
+          "vi": "tham lam, dục vọng (raga)"
+        },
+        "romaji": "tan"
       },
       {
         "example": "貪欲",
         "reading": "ドンヨク",
-        "meaning": "tham lam, háo lợi"
+        "meaning": {
+          "vi": "tham lam, háo lợi"
+        },
+        "romaji": "don'yoku"
       },
       {
         "example": "貪",
         "reading": "タン",
-        "meaning": "tham lam, dục vọng (raga)"
+        "meaning": {
+          "vi": "tham lam, dục vọng (raga)"
+        },
+        "romaji": "tan"
       },
       {
         "example": "貪欲",
         "reading": "ドンヨク",
-        "meaning": "tham lam, háo lợi"
+        "meaning": {
+          "vi": "tham lam, háo lợi"
+        },
+        "romaji": "don'yoku"
       },
       {
         "example": "貪",
         "reading": "タン",
-        "meaning": "tham lam, dục vọng (raga)"
+        "meaning": {
+          "vi": "tham lam, dục vọng (raga)"
+        },
+        "romaji": "tan"
       },
       {
         "example": "貪欲",
         "reading": "ドンヨク",
-        "meaning": "tham lam, háo lợi"
+        "meaning": {
+          "vi": "tham lam, háo lợi"
+        },
+        "romaji": "don'yoku"
       },
       {
         "example": "無貪",
         "reading": "ムトン",
-        "meaning": "không tham lam, không ham muốn"
+        "meaning": {
+          "vi": "không tham lam, không ham muốn"
+        },
+        "romaji": "muton"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "貪る",
         "reading": "むさぼる",
-        "meaning": "tham lam, khao khát, ham muốn, ăn tham, đắm chìm, làm không ngừng, ăn ngấu nghiến"
+        "meaning": {
+          "vi": "tham lam, khao khát, ham muốn, ăn tham, đắm chìm, làm không ngừng, ăn ngấu nghiến"
+        },
+        "romaji": "musaboru"
       }
     ],
     "radical": {
@@ -74,5 +98,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08caa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8caa.gif",
     "uri": "https://jisho.org/search/%E8%B2%AA%23kanji"
-  }
+  },
+  "hanViet": [
+    "tham"
+  ]
 }

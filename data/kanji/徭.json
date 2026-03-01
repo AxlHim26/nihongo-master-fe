@@ -19,12 +19,18 @@
       {
         "example": "徭役",
         "reading": "ヨウエキ",
-        "meaning": "statute-labor service (ritsuryō period), socage"
+        "meaning": {
+          "vi": "statute-labor service (ritsuryō period), socage"
+        },
+        "romaji": "youeki"
       },
       {
         "example": "雑徭",
         "reading": "ゾウヨウ",
-        "meaning": "forced labour (labor) imposed upon commoners (ritsuryō period)"
+        "meaning": {
+          "vi": "forced labour (labor) imposed upon commoners (ritsuryō period)"
+        },
+        "romaji": "zouyou"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fad.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fad.gif",
     "uri": "https://jisho.org/search/%E5%BE%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "dao"
+  ]
 }

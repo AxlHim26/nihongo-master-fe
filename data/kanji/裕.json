@@ -17,12 +17,18 @@
       {
         "example": "裕福",
         "reading": "ユウフク",
-        "meaning": "wealthy, rich, affluent, well-off"
+        "meaning": {
+          "en": "wealthy, rich, affluent, well-off"
+        },
+        "romaji": "yuufuku"
       },
       {
         "example": "優に",
         "reading": "ユウニ",
-        "meaning": "easily (reach, exceed, etc.), comfortably, amply, fully, well over"
+        "meaning": {
+          "vi": "easily (reach, exceed, etc.), comfortably, amply, fully, well over"
+        },
+        "romaji": "yuuni"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088d5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88d5.gif",
     "uri": "https://jisho.org/search/%E8%A3%95%23kanji"
-  }
+  },
+  "hanViet": [
+    "dụ"
+  ]
 }

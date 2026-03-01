@@ -19,24 +19,36 @@
       {
         "example": "謙虚",
         "reading": "ケンキョ",
-        "meaning": "modest, humble"
+        "meaning": {
+          "en": "modest, humble"
+        },
+        "romaji": "kenkyo"
       },
       {
         "example": "謙遜",
         "reading": "ケンソン",
-        "meaning": "modesty, humility, being humble"
+        "meaning": {
+          "en": "modesty, humility, being humble"
+        },
+        "romaji": "kenson"
       },
       {
         "example": "恭謙",
         "reading": "キョウケン",
-        "meaning": "modesty, humility"
+        "meaning": {
+          "en": "modesty, humility"
+        },
+        "romaji": "kyouken"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "謙る",
         "reading": "へりくだる",
-        "meaning": "to deprecate oneself and praise the listener, to abase oneself"
+        "meaning": {
+          "vi": "to deprecate oneself and praise the listener, to abase oneself"
+        },
+        "romaji": "herikudaru"
       }
     ],
     "radical": {
@@ -57,5 +69,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b19.gif",
     "uri": "https://jisho.org/search/%E8%AC%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiêm",
+    "khiểm",
+    "khiệm"
+  ]
 }

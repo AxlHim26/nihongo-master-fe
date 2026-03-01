@@ -324,54 +324,84 @@
       {
         "example": "済州",
         "reading": "チェジュ",
-        "meaning": "Jeju (special self-governing province and island in South Korea)"
+        "meaning": {
+          "vi": "Jeju (special self-governing province and island in South Korea)"
+        },
+        "romaji": "cheju"
       },
       {
         "example": "済州大学",
         "reading": "サイシュウダイガク",
-        "meaning": "Cheju National University"
+        "meaning": {
+          "en": "Cheju National University"
+        },
+        "romaji": "saishuudaigaku"
       },
       {
         "example": "決済",
         "reading": "ケッサイ",
-        "meaning": "settlement (of an account), liquidation of debts, payment"
+        "meaning": {
+          "vi": "settlement (of an account), liquidation of debts, payment"
+        },
+        "romaji": "kessai"
       },
       {
         "example": "弁済",
         "reading": "ベンサイ",
-        "meaning": "repayment, settlement (of a debt), paying off, reimbursement (of expenses)"
+        "meaning": {
+          "vi": "repayment, settlement (of a debt), paying off, reimbursement (of expenses)"
+        },
+        "romaji": "bensai"
       },
       {
         "example": "済世",
         "reading": "サイセイ",
-        "meaning": "saving the world, promoting national welfare"
+        "meaning": {
+          "vi": "saving the world, promoting national welfare"
+        },
+        "romaji": "saisei"
       },
       {
         "example": "済美",
         "reading": "セイビ",
-        "meaning": "achieving virtue"
+        "meaning": {
+          "en": "achieving virtue"
+        },
+        "romaji": "seibi"
       },
       {
         "example": "既済",
         "reading": "キサイ",
-        "meaning": "already settled, paid-up"
+        "meaning": {
+          "vi": "already settled, paid-up"
+        },
+        "romaji": "kisai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "済む",
         "reading": "すむ",
-        "meaning": "to finish, to end, to be completed, to merely result in something less severe than expected, to feel at ease, to feel unease or guilt for troubling someone, to be sorry"
+        "meaning": {
+          "vi": "to finish, to end, to be completed, to merely result in something less severe than expected, to feel at ease, to feel unease or guilt for troubling someone, to be sorry"
+        },
+        "romaji": "sumu"
       },
       {
         "example": "済まない",
         "reading": "すまない",
-        "meaning": "inexcusable, unjustifiable, unpardonable, sorry, remorseful, apologetic, conscience-stricken, contrite, excuse me, (I'm) sorry, thank you"
+        "meaning": {
+          "vi": "inexcusable, unjustifiable, unpardonable, sorry, remorseful, apologetic, conscience-stricken, contrite, excuse me, (I'm) sorry, thank you"
+        },
+        "romaji": "sumanai"
       },
       {
         "example": "済ます",
         "reading": "すます",
-        "meaning": "to finish, to get it over with, to conclude, to settle, to pay back, to get along (without something), to make do with (without)"
+        "meaning": {
+          "vi": "to finish, to get it over with, to conclude, to settle, to pay back, to get along (without something), to make do with (without)"
+        },
+        "romaji": "sumasu"
       }
     ],
     "radical": {
@@ -394,5 +424,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e08.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e08.gif",
     "uri": "https://jisho.org/search/%E6%B8%88%23kanji"
-  }
+  },
+  "hanViet": [
+    "tế"
+  ]
 }

@@ -17,12 +17,18 @@
       {
         "example": "喧嘩",
         "reading": "ケンカ",
-        "meaning": "quarrel, brawl, fight, squabble, scuffle, argument"
+        "meaning": {
+          "en": "quarrel, brawl, fight, squabble, scuffle, argument"
+        },
+        "romaji": "kenka"
       },
       {
         "example": "喧騒",
         "reading": "ケンソウ",
-        "meaning": "tumult, great noise, clatter, hustle and bustle"
+        "meaning": {
+          "en": "tumult, great noise, clatter, hustle and bustle"
+        },
+        "romaji": "kensou"
       }
     ],
     "kunyomiExamples": [],
@@ -44,5 +50,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae0.gif",
     "uri": "https://jisho.org/search/%E8%AB%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyên"
+  ]
 }

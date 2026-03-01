@@ -19,17 +19,26 @@
       {
         "example": "兌",
         "reading": "ダ",
-        "meaning": "dui (one of the trigrams of the I Ching: swamp, west)"
+        "meaning": {
+          "vi": "dui (one of the trigrams of the I Ching: swamp, west)"
+        },
+        "romaji": "da"
       },
       {
         "example": "兌換",
         "reading": "ダカン",
-        "meaning": "conversion (of paper money, esp. into specie)"
+        "meaning": {
+          "vi": "conversion (of paper money, esp. into specie)"
+        },
+        "romaji": "dakan"
       },
       {
         "example": "発兌",
         "reading": "ハツダ",
-        "meaning": "publication, printing"
+        "meaning": {
+          "vi": "publication, printing"
+        },
+        "romaji": "hatsuda"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +55,12 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514c.gif",
     "uri": "https://jisho.org/search/%E5%85%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "duyệt",
+    "duệ",
+    "nhuệ",
+    "đoài",
+    "đoái"
+  ]
 }

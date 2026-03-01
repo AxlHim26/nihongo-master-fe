@@ -287,54 +287,84 @@
       {
         "example": "申請",
         "reading": "シンセイ",
-        "meaning": "application, request, petition"
+        "meaning": {
+          "vi": "application, request, petition"
+        },
+        "romaji": "shinsei"
       },
       {
         "example": "申告",
         "reading": "シンコク",
-        "meaning": "report, return (e.g. tax), statement, declaration, notification, filing"
+        "meaning": {
+          "vi": "report, return (e.g. tax), statement, declaration, notification, filing"
+        },
+        "romaji": "shinkoku"
       },
       {
         "example": "上申",
         "reading": "ジョウシン",
-        "meaning": "report to a superior"
+        "meaning": {
+          "vi": "report to a superior"
+        },
+        "romaji": "joushin"
       },
       {
         "example": "具申",
         "reading": "グシン",
-        "meaning": "offering a full report to a superior"
+        "meaning": {
+          "vi": "offering a full report to a superior"
+        },
+        "romaji": "gushin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "申す",
         "reading": "もうす",
-        "meaning": "to say, to be called, to do"
+        "meaning": {
+          "en": "to say, to be called, to do"
+        },
+        "romaji": "mousu"
       },
       {
         "example": "申すまでもなく",
         "reading": "もうすまでもなく",
-        "meaning": "needless to say, obviously, of course"
+        "meaning": {
+          "en": "needless to say, obviously, of course"
+        },
+        "romaji": "mousumademonaku"
       },
       {
         "example": "申",
         "reading": "さる",
-        "meaning": "the Monkey (ninth sign of the Chinese zodiac), hour of the Monkey (around 4pm, 3-5pm, or 4-6pm), west-southwest, 7th month of the lunar calendar"
+        "meaning": {
+          "vi": "the Monkey (ninth sign of the Chinese zodiac), hour of the Monkey (around 4pm, 3-5pm, or 4-6pm), west-southwest, 7th month of the lunar calendar"
+        },
+        "romaji": "saru"
       },
       {
         "example": "猿楽",
         "reading": "さるがく",
-        "meaning": "sarugaku (form of theatre popular in Japan during the 11th to 14th centuries), noh, fooling around"
+        "meaning": {
+          "vi": "sarugaku (form of theatre popular in Japan during the 11th to 14th centuries), noh, fooling around"
+        },
+        "romaji": "sarugaku"
       },
       {
         "example": "庚申",
         "reading": "かのえさる",
-        "meaning": "Metal Monkey (57th term of the sexagenary cycle, e.g. 1920, 1980, 2040), Shōmen Kongō (deity), kōshin-machi (religious wake)"
+        "meaning": {
+          "en": "Metal Monkey (57th term of the sexagenary cycle, e.g. 1920, 1980, 2040), Shōmen Kongō (deity), kōshin-machi (religious wake)"
+        },
+        "romaji": "kanoesaru"
       },
       {
         "example": "甲申",
         "reading": "きのえさる",
-        "meaning": "Wood Monkey (21st term of the sexagenary cycle, e.g. 1944, 2004, 2064)"
+        "meaning": {
+          "en": "Wood Monkey (21st term of the sexagenary cycle, e.g. 1944, 2004, 2064)"
+        },
+        "romaji": "kinoesaru"
       }
     ],
     "radical": {
@@ -350,5 +380,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07533.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7533.gif",
     "uri": "https://jisho.org/search/%E7%94%B3%23kanji"
-  }
+  },
+  "hanViet": [
+    "thân"
+  ]
 }

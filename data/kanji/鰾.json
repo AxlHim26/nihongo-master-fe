@@ -17,19 +17,28 @@
       {
         "example": "鰾",
         "reading": "フエ",
-        "meaning": "swim bladder, air bladder"
+        "meaning": {
+          "en": "swim bladder, air bladder"
+        },
+        "romaji": "fue"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鰾",
         "reading": "ふえ",
-        "meaning": "swim bladder, air bladder"
+        "meaning": {
+          "en": "swim bladder, air bladder"
+        },
+        "romaji": "fue"
       },
       {
         "example": "鰾",
         "reading": "ふえ",
-        "meaning": "swim bladder, air bladder"
+        "meaning": {
+          "en": "swim bladder, air bladder"
+        },
+        "romaji": "fue"
       }
     ],
     "radical": {
@@ -49,5 +58,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3e.gif",
     "uri": "https://jisho.org/search/%E9%B0%BE%23kanji"
-  }
+  },
+  "hanViet": [
+    "phiêu"
+  ]
 }

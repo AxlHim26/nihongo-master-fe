@@ -315,39 +315,60 @@
       {
         "example": "渡航",
         "reading": "トコウ",
-        "meaning": "voyage, passage, travelling"
+        "meaning": {
+          "vi": "voyage, passage, travelling"
+        },
+        "romaji": "tokou"
       },
       {
         "example": "渡欧",
         "reading": "トオウ",
-        "meaning": "going to Europe, trip to Europe"
+        "meaning": {
+          "vi": "going to Europe, trip to Europe"
+        },
+        "romaji": "toou"
       },
       {
         "example": "過渡",
         "reading": "カト",
-        "meaning": "crossing, ferry, transient, changing old to new"
+        "meaning": {
+          "en": "crossing, ferry, transient, changing old to new"
+        },
+        "romaji": "kato"
       },
       {
         "example": "譲渡",
         "reading": "ジョウト",
-        "meaning": "transfer, assignment, conveyance"
+        "meaning": {
+          "en": "transfer, assignment, conveyance"
+        },
+        "romaji": "jouto"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "渡る",
         "reading": "わたる",
-        "meaning": "to cross over, to go across, to extend, to cover, to range, to span"
+        "meaning": {
+          "vi": "to cross over, to go across, to extend, to cover, to range, to span"
+        },
+        "romaji": "wataru"
       },
       {
         "example": "渡る世間に鬼はない",
         "reading": "わたるせけんにおにはない",
-        "meaning": "all people aren't evil, don't distrust everyone, there is kindness to be found everywhere"
+        "meaning": {
+          "vi": "all people aren't evil, don't distrust everyone, there is kindness to be found everywhere"
+        },
+        "romaji": "watarusekennionihanai"
       },
       {
         "example": "渡す",
         "reading": "わたす",
-        "meaning": "to ferry across (e.g. a river), to carry across, to traverse, to lay across, to build across, to hand over, to hand in, to pass, to give, to transfer"
+        "meaning": {
+          "vi": "to ferry across (e.g. a river), to carry across, to traverse, to lay across, to build across, to hand over, to hand in, to pass, to give, to transfer"
+        },
+        "romaji": "watasu"
       }
     ],
     "radical": {
@@ -367,5 +388,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e21.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e21.gif",
     "uri": "https://jisho.org/search/%E6%B8%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "độ"
+  ]
 }

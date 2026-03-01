@@ -21,39 +21,60 @@
       {
         "example": "滅亡",
         "reading": "メツボウ",
-        "meaning": "downfall, ruin, collapse, destruction"
+        "meaning": {
+          "vi": "downfall, ruin, collapse, destruction"
+        },
+        "romaji": "metsubou"
       },
       {
         "example": "滅罪",
         "reading": "メツザイ",
-        "meaning": "expiation"
+        "meaning": {
+          "vi": "expiation"
+        },
+        "romaji": "metsuzai"
       },
       {
         "example": "隠滅",
         "reading": "インメツ",
-        "meaning": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+        "meaning": {
+          "vi": "destruction (esp. of evidence), spoliation, suppression, hiding, concealment"
+        },
+        "romaji": "inmetsu"
       },
       {
         "example": "衰滅",
         "reading": "スイメツ",
-        "meaning": "decline, downfall, ruin(ation)"
+        "meaning": {
+          "en": "decline, downfall, ruin(ation)"
+        },
+        "romaji": "suimetsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "滅びる",
         "reading": "ほろびる",
-        "meaning": "to go to ruin, to go under, to fall, to be destroyed, to die out, to become extinct, to perish"
+        "meaning": {
+          "vi": "to go to ruin, to go under, to fall, to be destroyed, to die out, to become extinct, to perish"
+        },
+        "romaji": "horobiru"
       },
       {
         "example": "滅ぶ",
         "reading": "ほろぶ",
-        "meaning": "to be ruined, to go under, to perish, to be destroyed"
+        "meaning": {
+          "vi": "to be ruined, to go under, to perish, to be destroyed"
+        },
+        "romaji": "horobu"
       },
       {
         "example": "滅ぼす",
         "reading": "ほろぼす",
-        "meaning": "to destroy, to overthrow, to wreck, to ruin"
+        "meaning": {
+          "en": "to destroy, to overthrow, to wreck, to ruin"
+        },
+        "romaji": "horobosu"
       }
     ],
     "radical": {
@@ -74,5 +95,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec5.gif",
     "uri": "https://jisho.org/search/%E6%BB%85%23kanji"
-  }
+  },
+  "hanViet": [
+    "diệt"
+  ]
 }

@@ -21,44 +21,68 @@
       {
         "example": "諦観",
         "reading": "テイカン",
-        "meaning": "clear insight, resignation (to one's fate), acceptance"
+        "meaning": {
+          "vi": "clear insight, resignation (to one's fate), acceptance"
+        },
+        "romaji": "teikan"
       },
       {
         "example": "諦念",
         "reading": "テイネン",
-        "meaning": "understanding and acceptance, spiritual awakening, a heart that understands truth, (feeling of) resignation"
+        "meaning": {
+          "vi": "understanding and acceptance, spiritual awakening, a heart that understands truth, (feeling of) resignation"
+        },
+        "romaji": "teinen"
       },
       {
         "example": "妙諦",
         "reading": "ミョウテイ",
-        "meaning": "amazing truth, cardinal principle, key (to understanding)"
+        "meaning": {
+          "vi": "amazing truth, cardinal principle, key (to understanding)"
+        },
+        "romaji": "myoutei"
       },
       {
         "example": "要諦",
         "reading": "ヨウテイ",
-        "meaning": "(most) important point, key point, key, secret, essence"
+        "meaning": {
+          "vi": "(most) important point, key point, key, secret, essence"
+        },
+        "romaji": "youtei"
       },
       {
         "example": "諦",
         "reading": "タイ",
-        "meaning": "satya, truth"
+        "meaning": {
+          "en": "satya, truth"
+        },
+        "romaji": "tai"
       },
       {
         "example": "空諦",
         "reading": "クウタイ",
-        "meaning": "truth of emptiness (holding that all things are void)"
+        "meaning": {
+          "vi": "truth of emptiness (holding that all things are void)"
+        },
+        "romaji": "kuutai"
       },
       {
         "example": "道諦",
         "reading": "ドウタイ",
-        "meaning": "truth of the way to the cessation of suffering"
+        "meaning": {
+          "en": "truth of the way to the cessation of suffering"
+        },
+        "romaji": "doutai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "諦める",
         "reading": "あきらめる",
-        "meaning": "to give up, to abandon (hope, plans), to resign oneself (to)"
+        "meaning": {
+          "vi": "to give up, to abandon (hope, plans), to resign oneself (to)"
+        },
+        "romaji": "akirameru"
       }
     ],
     "radical": {
@@ -80,5 +104,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae6.gif",
     "uri": "https://jisho.org/search/%E8%AB%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "đế",
+    "đề"
+  ]
 }

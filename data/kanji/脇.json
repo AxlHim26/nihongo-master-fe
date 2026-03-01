@@ -19,39 +19,60 @@
       {
         "example": "脇侍",
         "reading": "ワキジ",
-        "meaning": "tượng hai bên (tam tôn Phật)"
+        "meaning": {
+          "vi": "tượng hai bên (tam tôn Phật)"
+        },
+        "romaji": "wakiji"
       },
       {
         "example": "脇息",
         "reading": "キョウソク",
-        "meaning": "tay vịn"
+        "meaning": {
+          "vi": "tay vịn"
+        },
+        "romaji": "kyousoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "脇",
         "reading": "わき",
-        "meaning": "nách, bên cạnh, gần, lệch đề, vai phụ"
+        "meaning": {
+          "vi": "nách, bên cạnh, gần, lệch đề, vai phụ"
+        },
+        "romaji": "waki"
       },
       {
         "example": "脇見",
         "reading": "わきみ",
-        "meaning": "nhìn nghiêng, nhìn sang bên"
+        "meaning": {
+          "vi": "nhìn nghiêng, nhìn sang bên"
+        },
+        "romaji": "wakimi"
       },
       {
         "example": "床脇",
         "reading": "とこわき",
-        "meaning": "góc phòng cạnh hốc tường (để kệ)"
+        "meaning": {
+          "vi": "góc phòng cạnh hốc tường (để kệ)"
+        },
+        "romaji": "tokowaki"
       },
       {
         "example": "口脇",
         "reading": "くちわき",
-        "meaning": "mép miệng"
+        "meaning": {
+          "vi": "mép miệng"
+        },
+        "romaji": "kuchiwaki"
       },
       {
         "example": "関脇",
         "reading": "せきわけ",
-        "meaning": "võ sĩ sumo hạng ba"
+        "meaning": {
+          "vi": "võ sĩ sumo hạng ba"
+        },
+        "romaji": "sekiwake"
       }
     ],
     "radical": {
@@ -69,5 +90,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08107.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8107.gif",
     "uri": "https://jisho.org/search/%E8%84%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "hiếp"
+  ]
 }

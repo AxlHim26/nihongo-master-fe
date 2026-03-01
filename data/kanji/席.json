@@ -295,34 +295,52 @@
       {
         "example": "席",
         "reading": "セキ",
-        "meaning": "seat, location (of a gathering, etc.), place, position, post"
+        "meaning": {
+          "vi": "seat, location (of a gathering, etc.), place, position, post"
+        },
+        "romaji": "seki"
       },
       {
         "example": "席上",
         "reading": "セキジョウ",
-        "meaning": "at the meeting, on the occasion"
+        "meaning": {
+          "en": "at the meeting, on the occasion"
+        },
+        "romaji": "sekijou"
       },
       {
         "example": "寄席",
         "reading": "ヨセ",
-        "meaning": "entertainment hall (for rakugo, manzai, magic, music, etc.), vaudeville theater (theatre), music hall"
+        "meaning": {
+          "en": "entertainment hall (for rakugo, manzai, magic, music, etc.), vaudeville theater (theatre), music hall"
+        },
+        "romaji": "yose"
       },
       {
         "example": "次席",
         "reading": "ジセキ",
-        "meaning": "associate, junior, assistant, next in rank, runner-up"
+        "meaning": {
+          "vi": "associate, junior, assistant, next in rank, runner-up"
+        },
+        "romaji": "jiseki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "筵",
         "reading": "むしろ",
-        "meaning": "woven mat (esp. one made of straw), seat"
+        "meaning": {
+          "vi": "woven mat (esp. one made of straw), seat"
+        },
+        "romaji": "mushiro"
       },
       {
         "example": "竹席",
         "reading": "たかむしろ",
-        "meaning": "bamboo mat"
+        "meaning": {
+          "en": "bamboo mat"
+        },
+        "romaji": "takamushiro"
       }
     ],
     "radical": {
@@ -339,5 +357,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e2d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e2d.gif",
     "uri": "https://jisho.org/search/%E5%B8%AD%23kanji"
-  }
+  },
+  "hanViet": [
+    "tịch"
+  ]
 }

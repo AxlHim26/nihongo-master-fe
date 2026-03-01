@@ -331,39 +331,60 @@
       {
         "example": "売春",
         "reading": "バイシュン",
-        "meaning": "prostitution"
+        "meaning": {
+          "vi": "prostitution"
+        },
+        "romaji": "baishun"
       },
       {
         "example": "売却",
         "reading": "バイキャク",
-        "meaning": "selling off, disposal by sale, sale"
+        "meaning": {
+          "vi": "selling off, disposal by sale, sale"
+        },
+        "romaji": "baikyaku"
       },
       {
         "example": "乱売",
         "reading": "ランバイ",
-        "meaning": "selling at a fire-sale price, clearance sale, dumping"
+        "meaning": {
+          "vi": "selling at a fire-sale price, clearance sale, dumping"
+        },
+        "romaji": "ranbai"
       },
       {
         "example": "転売",
         "reading": "テンバイ",
-        "meaning": "resale"
+        "meaning": {
+          "en": "resale"
+        },
+        "romaji": "tenbai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "売る",
         "reading": "うる",
-        "meaning": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone"
+        "meaning": {
+          "vi": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone"
+        },
+        "romaji": "uru"
       },
       {
         "example": "売るほど",
         "reading": "うるほど",
-        "meaning": "so many (that one would want to sell some), more than enough, lots, plenty"
+        "meaning": {
+          "vi": "so many (that one would want to sell some), more than enough, lots, plenty"
+        },
+        "romaji": "uruhodo"
       },
       {
         "example": "売れる",
         "reading": "うれる",
-        "meaning": "to sell (well), to be well known, to be popular, to be famous"
+        "meaning": {
+          "vi": "to sell (well), to be well known, to be popular, to be famous"
+        },
+        "romaji": "ureru"
       }
     ],
     "radical": {
@@ -379,5 +400,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058f2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58f2.gif",
     "uri": "https://jisho.org/search/%E5%A3%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "mại"
+  ]
 }

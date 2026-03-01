@@ -18,22 +18,34 @@
       {
         "example": "泌尿器",
         "reading": "ヒニョウキ",
-        "meaning": "urinary organs"
+        "meaning": {
+          "en": "urinary organs"
+        },
+        "romaji": "hinyouki"
       },
       {
         "example": "泌乳",
         "reading": "ヒツニュウ",
-        "meaning": "lactation"
+        "meaning": {
+          "en": "lactation"
+        },
+        "romaji": "hitsunyuu"
       },
       {
         "example": "泌尿器",
         "reading": "ヒニョウキ",
-        "meaning": "urinary organs"
+        "meaning": {
+          "en": "urinary organs"
+        },
+        "romaji": "hinyouki"
       },
       {
         "example": "泌乳",
         "reading": "ヒツニュウ",
-        "meaning": "lactation"
+        "meaning": {
+          "en": "lactation"
+        },
+        "romaji": "hitsunyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ccc.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ccc.gif",
     "uri": "https://jisho.org/search/%E6%B3%8C%23kanji"
-  }
+  },
+  "hanViet": [
+    "bí"
+  ]
 }

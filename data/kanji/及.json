@@ -22,54 +22,84 @@
       {
         "example": "及第",
         "reading": "キュウダイ",
-        "meaning": "đỗ (kỳ thi), đạt yêu cầu"
+        "meaning": {
+          "vi": "đỗ (kỳ thi), đạt yêu cầu"
+        },
+        "romaji": "kyuudai"
       },
       {
         "example": "及第者",
         "reading": "キュウダイシャ",
-        "meaning": "thí sinh đỗ"
+        "meaning": {
+          "vi": "thí sinh đỗ"
+        },
+        "romaji": "kyuudaisha"
       },
       {
         "example": "波及",
         "reading": "ハキュウ",
-        "meaning": "lan truyền, mở rộng, ảnh hưởng, hậu quả, gợn sóng"
+        "meaning": {
+          "vi": "lan truyền, mở rộng, ảnh hưởng, hậu quả, gợn sóng"
+        },
+        "romaji": "hakyuu"
       },
       {
         "example": "責任追及",
         "reading": "セキニンツイキュウ",
-        "meaning": "truy trách nhiệm, tìm người có lỗi, đổ lỗi cho ai"
+        "meaning": {
+          "vi": "truy trách nhiệm, tìm người có lỗi, đổ lỗi cho ai"
+        },
+        "romaji": "sekinintsuikyuu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "及ぶ",
         "reading": "およぶ",
-        "meaning": "với tới, lên tới, xảy ra với, kéo dài, đảm đương, so sánh với, ngang tầm, phạm (tội), đòi hỏi"
+        "meaning": {
+          "vi": "với tới, lên tới, xảy ra với, kéo dài, đảm đương, so sánh với, ngang tầm, phạm (tội), đòi hỏi"
+        },
+        "romaji": "oyobu"
       },
       {
         "example": "及び",
         "reading": "および",
-        "meaning": "và, cũng như"
+        "meaning": {
+          "vi": "và, cũng như"
+        },
+        "romaji": "oyobi"
       },
       {
         "example": "及び腰",
         "reading": "およびごし",
-        "meaning": "cong lưng, thái độ do dự, nhút nhát, thiếu can đảm"
+        "meaning": {
+          "vi": "cong lưng, thái độ do dự, nhút nhát, thiếu can đảm"
+        },
+        "romaji": "oyobigoshi"
       },
       {
         "example": "及び",
         "reading": "および",
-        "meaning": "và, cũng như"
+        "meaning": {
+          "vi": "và, cũng như"
+        },
+        "romaji": "oyobi"
       },
       {
         "example": "及び腰",
         "reading": "およびごし",
-        "meaning": "cong lưng, thái độ do dự, nhút nhát, thiếu can đảm"
+        "meaning": {
+          "vi": "cong lưng, thái độ do dự, nhút nhát, thiếu can đảm"
+        },
+        "romaji": "oyobigoshi"
       },
       {
         "example": "及ぼす",
         "reading": "およぼす",
-        "meaning": "phát huy (ảnh hưởng), gây ra (thiệt hại, tác hại), mang lại (lợi ích), có tác động"
+        "meaning": {
+          "vi": "phát huy (ảnh hưởng), gây ra (thiệt hại, tác hại), mang lại (lợi ích), có tác động"
+        },
+        "romaji": "oyobosu"
       }
     ],
     "radical": {
@@ -86,5 +116,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ca.gif",
     "uri": "https://jisho.org/search/%E5%8F%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "cập"
+  ]
 }

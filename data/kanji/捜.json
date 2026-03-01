@@ -244,29 +244,44 @@
       {
         "example": "捜索",
         "reading": "ソウサク",
-        "meaning": "search (esp. for someone or something missing), manhunt, legally authorized search of a person, building, etc."
+        "meaning": {
+          "vi": "search (esp. for someone or something missing), manhunt, legally authorized search of a person, building, etc."
+        },
+        "romaji": "sousaku"
       },
       {
         "example": "捜査",
         "reading": "ソウサ",
-        "meaning": "search (esp. in criminal investigations), investigation, inquiry, enquiry"
+        "meaning": {
+          "vi": "search (esp. in criminal investigations), investigation, inquiry, enquiry"
+        },
+        "romaji": "sousa"
       },
       {
         "example": "特捜",
         "reading": "トクソウ",
-        "meaning": "special investigation"
+        "meaning": {
+          "vi": "special investigation"
+        },
+        "romaji": "tokusou"
       },
       {
         "example": "博捜",
         "reading": "ハクソウ",
-        "meaning": "searching far and wide"
+        "meaning": {
+          "en": "searching far and wide"
+        },
+        "romaji": "hakusou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "探す",
         "reading": "さがす",
-        "meaning": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around"
+        "meaning": {
+          "vi": "to search for, to look for, to hunt for, to seek, to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around"
+        },
+        "romaji": "sagasu"
       }
     ],
     "radical": {
@@ -287,5 +302,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0635c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/635c.gif",
     "uri": "https://jisho.org/search/%E6%8D%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "sảo",
+    "sưu",
+    "tiêu"
+  ]
 }

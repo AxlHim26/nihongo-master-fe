@@ -18,34 +18,52 @@
       {
         "example": "舷",
         "reading": "ゲン",
-        "meaning": "side of a boat, gunwale"
+        "meaning": {
+          "en": "side of a boat, gunwale"
+        },
+        "romaji": "gen"
       },
       {
         "example": "舷窓",
         "reading": "ゲンソウ",
-        "meaning": "porthole"
+        "meaning": {
+          "vi": "porthole"
+        },
+        "romaji": "gensou"
       },
       {
         "example": "左舷",
         "reading": "サゲン",
-        "meaning": "port (left side of vessel)"
+        "meaning": {
+          "vi": "port (left side of vessel)"
+        },
+        "romaji": "sagen"
       },
       {
         "example": "右舷",
         "reading": "ウゲン",
-        "meaning": "starboard"
+        "meaning": {
+          "en": "starboard"
+        },
+        "romaji": "ugen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "船端",
         "reading": "ふなばた",
-        "meaning": "side of a boat, gunwale"
+        "meaning": {
+          "en": "side of a boat, gunwale"
+        },
+        "romaji": "funabata"
       },
       {
         "example": "船縁",
         "reading": "ふなべり",
-        "meaning": "side of a boat, gunwale"
+        "meaning": {
+          "en": "side of a boat, gunwale"
+        },
+        "romaji": "funaberi"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08237.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8237.gif",
     "uri": "https://jisho.org/search/%E8%88%B7%23kanji"
-  }
+  },
+  "hanViet": [
+    "huyền"
+  ]
 }

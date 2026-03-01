@@ -19,39 +19,58 @@
       {
         "example": "蚊帳",
         "reading": "カヤ",
-        "meaning": "mosquito net"
+        "meaning": {
+          "en": "mosquito net"
+        },
+        "romaji": "kaya"
       },
       {
         "example": "夜鷹",
         "reading": "ヨタカ",
-        "meaning": "grey nightjar (Caprimulgus indicus), nightjar (any bird of family Caprimulgidae), goatsucker, streetwalker, low class prostitute (Edo period), soba vendors who walk around at night, soba sold by these vendors"
+        "meaning": {
+          "vi": "grey nightjar (Caprimulgus indicus), nightjar (any bird of family Caprimulgidae), goatsucker, streetwalker, low class prostitute (Edo period), soba vendors who walk around at night, soba sold by these vendors"
+        },
+        "romaji": "yotaka"
       },
       {
         "example": "【カナブン】",
         "reading": "drone beetle (Pseudotorynorrhina japonica), scarab beetle",
-        "meaning": ""
+        "meaning": "",
+        "romaji": "drone beetle (Pseudotorynorrhina japonica), scarab beetle"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蚊",
         "reading": "か",
-        "meaning": "mosquito"
+        "meaning": {
+          "en": "mosquito"
+        },
+        "romaji": "ka"
       },
       {
         "example": "蚊帳",
         "reading": "かや",
-        "meaning": "mosquito net"
+        "meaning": {
+          "en": "mosquito net"
+        },
+        "romaji": "kaya"
       },
       {
         "example": "マラリア蚊",
         "reading": "マラリアか",
-        "meaning": "malaria mosquito"
+        "meaning": {
+          "en": "malaria mosquito"
+        },
+        "romaji": "marariaka"
       },
       {
         "example": "家蚊",
         "reading": "いえか",
-        "meaning": "house mosquito (genus Culex)"
+        "meaning": {
+          "en": "house mosquito (genus Culex)"
+        },
+        "romaji": "ieka"
       }
     ],
     "radical": {
@@ -66,5 +85,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0868a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/868a.gif",
     "uri": "https://jisho.org/search/%E8%9A%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "văn"
+  ]
 }

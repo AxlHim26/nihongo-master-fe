@@ -17,22 +17,34 @@
       {
         "example": "魔",
         "reading": "マ",
-        "meaning": "demon, devil, evil spirit, evil influence, -crazed person, -obsessed person, fiend, dreaded, terrible, awful, dreadful"
+        "meaning": {
+          "vi": "demon, devil, evil spirit, evil influence, -crazed person, -obsessed person, fiend, dreaded, terrible, awful, dreadful"
+        },
+        "romaji": "ma"
       },
       {
         "example": "魔女",
         "reading": "マジョ",
-        "meaning": "witch"
+        "meaning": {
+          "en": "witch"
+        },
+        "romaji": "majo"
       },
       {
         "example": "病魔",
         "reading": "ビョウマ",
-        "meaning": "demon of ill health, disease"
+        "meaning": {
+          "en": "demon of ill health, disease"
+        },
+        "romaji": "byouma"
       },
       {
         "example": "尼",
         "reading": "アマ",
-        "meaning": "Buddhist nun, Catholic nun, sister, bitch, Amagasaki (city in Hyogo Prefecture), Amazon (online retailer)"
+        "meaning": {
+          "vi": "Buddhist nun, Catholic nun, sister, bitch, Amagasaki (city in Hyogo Prefecture), Amazon (online retailer)"
+        },
+        "romaji": "ama"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b54.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b54.gif",
     "uri": "https://jisho.org/search/%E9%AD%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "ma"
+  ]
 }

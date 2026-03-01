@@ -13,133 +13,240 @@
       {
         "japanese": "不規則な（ふきそくな）",
         "meaning": {
-          "english": "irregular"
+          "vi": "không thường xuyên",
+          "en": "irregular"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_a.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_a.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_a.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_a.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "quy",
+          "tắc"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 規 (quy: quy tắc, quy chế) + 則 (tắc: quy tắc) → không thường xuyên",
+          "en": "不 (buu: no, no) + 規 (rule: rule, regulation) + 則 (tac: rule) → irregular"
         }
       },
       {
         "japanese": "不可能な（ふかのうな）",
         "meaning": {
-          "english": "impossible"
+          "vi": "không thể nào",
+          "en": "impossible"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_b.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_b.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_b.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_b.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "khả",
+          "nai"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 可 (khả: có thể) + 能 (nai: khả năng, có thể) → không thể nào",
+          "en": "不 (buu: no, not) + 可 (kha: possible) + 能 (nai: possibility, possible) → impossible"
         }
       },
       {
         "japanese": "不親切な（ふしんせつな）",
         "meaning": {
-          "english": "unkind"
+          "vi": "không tử tế",
+          "en": "unkind"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_c.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_c.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_c.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_c.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "thân",
+          "thiết"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 親 (thân: cha mẹ) + 切 (thiết: cắt, chạm khắc) → không tử tế",
+          "en": "不 (buu: no, no) + 親 (body: parents) + 切 (tie: cut, carve) → unkind"
         }
       },
       {
         "japanese": "不都合な（ふつごうな）",
         "meaning": {
-          "english": "inconvenient"
+          "vi": "bất tiện",
+          "en": "inconvenient"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_d.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_d.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_d.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_d.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "đô",
+          "cáp"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 都 (đô: tất cả, toàn bộ) + 合 (cáp: cửa ngách - giản thể của chữ 閤) → bất tiện",
+          "en": "不 (buu: no, no) + 都 (do: all, entire) + 合 (cà: side door - simplified form of 閤) → inconvenient"
         }
       },
       {
         "japanese": "不公平な（ふこうへいな）",
         "meaning": {
-          "english": "unfair"
+          "vi": "không công bằng",
+          "en": "unfair"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_e.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_e.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_e.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_e.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "công",
+          "biền"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 公 (công: cân bằng) + 平 (biền: bằng) → không công bằng",
+          "en": "不 (buu: no, no) + 公 (cong: balance) + 平 (bien: equal) → unfair"
         }
       },
       {
         "japanese": "不思議な（ふしぎな）",
         "meaning": {
-          "english": "mysterious, strange"
+          "vi": "bí ẩn, kỳ lạ",
+          "en": "mysterious, strange"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_f.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_f.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_f.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_f.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "tai",
+          "nghị"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 思 (tai: nhớ, mong) + 議 (nghị: bàn bạc) → bí ẩn, kỳ lạ",
+          "en": "不 (buu: no, no) + 思 (tai: remember, hope) + 議 (yi: discuss) → mysterious, strange"
         }
       },
       {
         "japanese": "不安（ふあん）",
         "meaning": {
-          "english": "anxiety"
+          "vi": "sự lo lắng",
+          "en": "anxiety"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_g.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_g.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_g.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_g.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "an"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 安 (an: yên tĩnh, yên lành) → sự lo lắng",
+          "en": "不 (buu: no, no) + 安 (an: quiet, peaceful) → worry"
         }
       },
       {
         "japanese": "不満（ふまん）",
         "meaning": {
-          "english": "dissatisfaction"
+          "vi": "sự không hài lòng",
+          "en": "dissatisfaction"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_h.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_h.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_h.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_h.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "mãn"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 満 (mãn: ?) → sự không hài lòng",
+          "en": "不 (buu: no, no) + 満 (màn: ?) → dissatisfaction"
         }
       },
       {
         "japanese": "不足する（ふそくする）",
         "meaning": {
-          "english": "be short of"
+          "vi": "thiếu",
+          "en": "be short of"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_i.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_i.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_i.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_i.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "tú"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 足 (tú: chân thú) → thiếu",
+          "en": "不 (buu: no, no) + 足 (tú: true beast) → lacking"
         }
       },
       {
         "japanese": "不器用な（ぶきような）",
         "meaning": {
-          "english": "clumsy"
+          "vi": "hậu đậu",
+          "en": "clumsy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_j.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_j.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_j.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_j.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "khí",
+          "dụng"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 器 (khí: đồ dùng) + 用 (dụng: dùng, sử dụng) → hậu đậu",
+          "en": "不 (buu: no, no) + 器 (qi: utensil) + 用 (util: use, use) → clumsy"
         }
       },
       {
         "japanese": "不用心な（ぶようじんな）",
         "meaning": {
-          "english": "careless, unsafe"
+          "vi": "bất cẩn, không an toàn",
+          "en": "careless, unsafe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu(man)_06_k.opus",
           "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fu(man)_06_k.aac",
           "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fu(man)_06_k.ogg",
           "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fu(man)_06_k.mp3"
+        },
+        "hanViet": [
+          "bưu",
+          "dụng",
+          "tâm"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 用 (dụng: dùng, sử dụng) + 心 (tâm: lòng) → bất cẩn, không an toàn",
+          "en": "不 (buu: no, no) + 用 (dung: use, use) + 心 (tâm: heart) → careless, unsafe"
         }
       }
     ],
@@ -361,32 +468,104 @@
       {
         "example": "不",
         "reading": "フ",
-        "meaning": "un-, non-"
+        "meaning": {
+          "vi": "a-, không phải-",
+          "en": "un-, non-"
+        },
+        "hanViet": [
+          "bưu"
+        ],
+        "hanVietExplain": {
+          "vi": "bưu: không, chẳng",
+          "en": "post: no, no"
+        },
+        "romaji": "fu"
       },
       {
         "example": "不安",
         "reading": "フアン",
-        "meaning": "anxiety, uneasiness, worry, apprehension, fear, insecurity, suspense"
+        "meaning": {
+          "vi": "sự lo lắng, sự bất an, sự lo lắng, sự e ngại, sự sợ hãi, sự bất an, sự hồi hộp",
+          "en": "anxiety, uneasiness, worry, apprehension, fear, insecurity, suspense"
+        },
+        "hanViet": [
+          "bưu",
+          "an"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 安 (an: yên tĩnh, yên lành) → sự lo lắng, sự bất an, sự lo lắng, sự e ngại, sự sợ hãi, sự bất an, sự hồi hộp",
+          "en": "不 (buu: no, no) + 安 (an: quiet, peaceful) → worry, insecurity, worry, apprehension, fear, insecurity, nervousness"
+        },
+        "romaji": "fuan"
       },
       {
         "example": "意味不",
         "reading": "イミフ",
-        "meaning": "of uncertain meaning, ambiguous, cryptic, nonsensical, incomprehensible, perplexing"
+        "meaning": {
+          "vi": "có ý nghĩa không chắc chắn, mơ hồ, khó hiểu, vô nghĩa, khó hiểu, khó hiểu",
+          "en": "of uncertain meaning, ambiguous, cryptic, nonsensical, incomprehensible, perplexing"
+        },
+        "hanViet": [
+          "y",
+          "vị",
+          "bưu"
+        ],
+        "hanVietExplain": {
+          "vi": "意 (y: ý, ý nghĩ) + 味 (vị: mùi, hương vị) + 不 (bưu: không, chẳng) → có ý nghĩa không chắc chắn, mơ hồ, khó hiểu, vô nghĩa, khó hiểu, khó hiểu",
+          "en": "意 (y: idea, thought) + 味 (taste: smell, taste) + 不 (buu: no, no) → has an uncertain meaning, vague, confusing, meaningless, difficult to understand, difficult to understand"
+        },
+        "romaji": "imifu"
       },
       {
         "example": "社不",
         "reading": "シャフ",
-        "meaning": "person unfit for society, misfit"
+        "meaning": {
+          "vi": "người không phù hợp với xã hội, người không phù hợp",
+          "en": "person unfit for society, misfit"
+        },
+        "hanViet": [
+          "xã",
+          "bưu"
+        ],
+        "hanVietExplain": {
+          "vi": "社 (xã: thần đất) + 不 (bưu: không, chẳng) → người không phù hợp với xã hội, người không phù hợp",
+          "en": "社 (commune: god of the earth) + 不 (buu: no, no) → a person who does not fit into society, a person who is not suitable"
+        },
+        "romaji": "shafu"
       },
       {
         "example": "無",
         "reading": "ブ",
-        "meaning": "un-, non-, bad ..., poor ..."
+        "meaning": {
+          "vi": "không-, không-, xấu..., kém...",
+          "en": "un-, non-, bad ..., poor ..."
+        },
+        "hanViet": [
+          "mô"
+        ],
+        "hanVietExplain": {
+          "vi": "mô: không có",
+          "en": "tissue: none"
+        },
+        "romaji": "bu"
       },
       {
         "example": "不気味",
         "reading": "ブキミ",
-        "meaning": "weird, eerie, ominous, creepy, uncanny, unearthly"
+        "meaning": {
+          "vi": "kỳ lạ, kỳ lạ, đáng ngại, đáng sợ, kỳ lạ, kỳ lạ",
+          "en": "weird, eerie, ominous, creepy, uncanny, unearthly"
+        },
+        "hanViet": [
+          "bưu",
+          "khí",
+          "vị"
+        ],
+        "hanVietExplain": {
+          "vi": "不 (bưu: không, chẳng) + 気 (khí: khí, hơi) + 味 (vị: mùi, hương vị) → kỳ lạ, kỳ lạ, đáng ngại, đáng sợ, kỳ lạ, kỳ lạ",
+          "en": "不 (buu: no, no) + 気 (qi: air, vapor) + 味 (taste: smell, taste) → strange, strange, ominous, scary, strange, strange"
+        },
+        "romaji": "bukimi"
       }
     ],
     "kunyomiExamples": [],
@@ -404,5 +583,22 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e0d.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e0d.gif",
     "uri": "https://jisho.org/search/%E4%B8%8D%23kanji"
+  },
+  "hanViet": [
+    "bưu",
+    "bất",
+    "bỉ",
+    "phi",
+    "phu",
+    "phầu",
+    "phủ"
+  ],
+  "hanVietExplain": {
+    "vi": "bưu: không, chẳng",
+    "en": "post: no, no"
+  },
+  "meaning": {
+    "vi": "không",
+    "en": "not"
   }
 }

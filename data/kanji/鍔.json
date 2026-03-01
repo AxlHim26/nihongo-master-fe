@@ -17,22 +17,34 @@
       {
         "example": "鍔",
         "reading": "つば",
-        "meaning": "guard (on a sword), brim (of a hat), visor, peak, brim (of a pot), flange, collar"
+        "meaning": {
+          "vi": "guard (on a sword), brim (of a hat), visor, peak, brim (of a pot), flange, collar"
+        },
+        "romaji": "tsuba"
       },
       {
         "example": "鍔音",
         "reading": "つばおと",
-        "meaning": "sound when stopping the blade of a sword with the guard"
+        "meaning": {
+          "vi": "sound when stopping the blade of a sword with the guard"
+        },
+        "romaji": "tsubaoto"
       },
       {
         "example": "金鍔",
         "reading": "きんつば",
-        "meaning": "confection of sweetened beans wrapped in wheat-flour dough (in the shape of a sword guard), metal sword guard, polearm"
+        "meaning": {
+          "vi": "confection of sweetened beans wrapped in wheat-flour dough (in the shape of a sword guard), metal sword guard, polearm"
+        },
+        "romaji": "kintsuba"
       },
       {
         "example": "どじょう汁に金鍔",
         "reading": "どじょうじるにきんつば",
-        "meaning": "two things that do not go well together, pairing kintsuba with loach soup"
+        "meaning": {
+          "vi": "two things that do not go well together, pairing kintsuba with loach soup"
+        },
+        "romaji": "dojoujirunikintsuba"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09354.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9354.gif",
     "uri": "https://jisho.org/search/%E9%8D%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "ngạc"
+  ]
 }

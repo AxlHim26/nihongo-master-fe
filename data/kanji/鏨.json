@@ -18,12 +18,18 @@
       {
         "example": "鏨",
         "reading": "たがね",
-        "meaning": "đục, dao khắc, dụng cụ khắc, dụng cụ khai thác mỏ"
+        "meaning": {
+          "vi": "đục, dao khắc, dụng cụ khắc, dụng cụ khai thác mỏ"
+        },
+        "romaji": "tagane"
       },
       {
         "example": "割り鏨",
         "reading": "わりたがね",
-        "meaning": "đục xé"
+        "meaning": {
+          "vi": "đục xé"
+        },
+        "romaji": "waritagane"
       }
     ],
     "radical": {
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093e8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93e8.gif",
     "uri": "https://jisho.org/search/%E9%8F%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "trạm",
+    "tạm"
+  ]
 }

@@ -17,29 +17,44 @@
       {
         "example": "垂涎",
         "reading": "スイゼン",
-        "meaning": "avid desire, craving, thirst, envy, watering at the mouth, drooling"
+        "meaning": {
+          "en": "avid desire, craving, thirst, envy, watering at the mouth, drooling"
+        },
+        "romaji": "suizen"
       },
       {
         "example": "垂涎",
         "reading": "スイゼン",
-        "meaning": "avid desire, craving, thirst, envy, watering at the mouth, drooling"
+        "meaning": {
+          "en": "avid desire, craving, thirst, envy, watering at the mouth, drooling"
+        },
+        "romaji": "suizen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "涎",
         "reading": "よだれ",
-        "meaning": "drool"
+        "meaning": {
+          "en": "drool"
+        },
+        "romaji": "yodare"
       },
       {
         "example": "涎掛け",
         "reading": "よだれかけ",
-        "meaning": "bib, drool bib"
+        "meaning": {
+          "en": "bib, drool bib"
+        },
+        "romaji": "yodarekake"
       },
       {
         "example": "商いは牛のよだれ",
         "reading": "あきないはうしのよだれ",
-        "meaning": "one should not rush to make a profit, business is (best run when sales flow like) a cow's drool (i.e. long and thin)"
+        "meaning": {
+          "vi": "one should not rush to make a profit, business is (best run when sales flow like) a cow's drool (i.e. long and thin)"
+        },
+        "romaji": "akinaihaushinoyodare"
       }
     ],
     "radical": {
@@ -60,5 +75,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d8e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d8e.gif",
     "uri": "https://jisho.org/search/%E6%B6%8E%23kanji"
-  }
+  },
+  "hanViet": [
+    "diên",
+    "diện",
+    "duyên",
+    "tiên"
+  ]
 }

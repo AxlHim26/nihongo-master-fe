@@ -19,22 +19,34 @@
       {
         "example": "埴輪",
         "reading": "はにわ",
-        "meaning": "haniwa, tượng đất nung rỗng thời Kofun"
+        "meaning": {
+          "vi": "haniwa, tượng đất nung rỗng thời Kofun"
+        },
+        "romaji": "haniwa"
       },
       {
         "example": "埴瓮",
         "reading": "はにべ",
-        "meaning": "vật đựng bằng đất sét"
+        "meaning": {
+          "vi": "vật đựng bằng đất sét"
+        },
+        "romaji": "hanibe"
       },
       {
         "example": "粘土",
         "reading": "ねんど",
-        "meaning": "đất sét"
+        "meaning": {
+          "vi": "đất sét"
+        },
+        "romaji": "nendo"
       },
       {
         "example": "へな猪口",
         "reading": "へなちょこ",
-        "meaning": "người mới, tay mơ, vô giá trị"
+        "meaning": {
+          "vi": "người mới, tay mơ, vô giá trị"
+        },
+        "romaji": "henachoko"
       }
     ],
     "radical": {
@@ -50,5 +62,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f4.gif",
     "uri": "https://jisho.org/search/%E5%9F%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "thực"
+  ]
 }

@@ -17,22 +17,34 @@
       {
         "example": "攘夷",
         "reading": "ジョウイ",
-        "meaning": "expulsion of foreigners"
+        "meaning": {
+          "vi": "expulsion of foreigners"
+        },
+        "romaji": "joui"
       },
       {
         "example": "攘夷論",
         "reading": "ジョウイロン",
-        "meaning": "principle of excluding foreigners (late Edo period)"
+        "meaning": {
+          "vi": "principle of excluding foreigners (late Edo period)"
+        },
+        "romaji": "jouiron"
       },
       {
         "example": "撃攘",
         "reading": "ゲキジョウ",
-        "meaning": "repulse (e.g. enemy), repelling, driving off"
+        "meaning": {
+          "vi": "repulse (e.g. enemy), repelling, driving off"
+        },
+        "romaji": "gekijou"
       },
       {
         "example": "尊攘",
         "reading": "ソンジョウ",
-        "meaning": "revere the Emperor, expel the (Western) barbarians"
+        "meaning": {
+          "vi": "revere the Emperor, expel the (Western) barbarians"
+        },
+        "romaji": "sonjou"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06518.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6518.gif",
     "uri": "https://jisho.org/search/%E6%94%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhương",
+    "nhưỡng",
+    "nhượng"
+  ]
 }

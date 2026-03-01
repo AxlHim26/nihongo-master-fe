@@ -16,19 +16,28 @@
       {
         "example": "斃仆",
         "reading": "ヘイフ",
-        "meaning": "falling dead, perishing, dying"
+        "meaning": {
+          "vi": "falling dead, perishing, dying"
+        },
+        "romaji": "heifu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "倒れる",
         "reading": "たおれる",
-        "meaning": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
+        "meaning": {
+          "vi": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
+        },
+        "romaji": "taoreru"
       },
       {
         "example": "斃れる",
         "reading": "たおれる",
-        "meaning": "to die, to be killed"
+        "meaning": {
+          "en": "to die, to be killed"
+        },
+        "romaji": "taoreru"
       }
     ],
     "radical": {
@@ -46,5 +55,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec6.gif",
     "uri": "https://jisho.org/search/%E4%BB%86%23kanji"
-  }
+  },
+  "hanViet": [
+    "bộc",
+    "phó"
+  ]
 }

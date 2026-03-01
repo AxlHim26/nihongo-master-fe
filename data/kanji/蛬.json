@@ -18,7 +18,10 @@
       {
         "example": "蟋蟀",
         "reading": "こおろぎ",
-        "meaning": "cricket (Gryllidae spp.)"
+        "meaning": {
+          "vi": "cricket (Gryllidae spp.)"
+        },
+        "romaji": "koorogi"
       }
     ],
     "radical": {
@@ -36,5 +39,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ec.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ec.gif",
     "uri": "https://jisho.org/search/%E8%9B%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "cung"
+  ]
 }

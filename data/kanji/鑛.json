@@ -17,7 +17,10 @@
       {
         "example": "粗金",
         "reading": "あらがね",
-        "meaning": "ore"
+        "meaning": {
+          "en": "ore"
+        },
+        "romaji": "aragane"
       }
     ],
     "radical": {
@@ -38,5 +41,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0945b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/945b.gif",
     "uri": "https://jisho.org/search/%E9%91%9B%23kanji"
-  }
+  },
+  "hanViet": [
+    "khoáng",
+    "quáng"
+  ]
 }

@@ -21,29 +21,44 @@
       {
         "example": "欣栄",
         "reading": "キンエイ",
-        "meaning": "joy and glory, joyous glory, pleasure"
+        "meaning": {
+          "vi": "joy and glory, joyous glory, pleasure"
+        },
+        "romaji": "kin'ei"
       },
       {
         "example": "欣悦",
         "reading": "キンエツ",
-        "meaning": "joy, gladness"
+        "meaning": {
+          "en": "joy, gladness"
+        },
+        "romaji": "kin'etsu"
       },
       {
         "example": "欣求",
         "reading": "ゴング",
-        "meaning": "earnest aspiration (to go to paradise)"
+        "meaning": {
+          "vi": "earnest aspiration (to go to paradise)"
+        },
+        "romaji": "gongu"
       },
       {
         "example": "欣求浄土",
         "reading": "ゴングジョウド",
-        "meaning": "seeking rebirth in the Pure Land"
+        "meaning": {
+          "vi": "seeking rebirth in the Pure Land"
+        },
+        "romaji": "gongujoudo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喜ぶ",
         "reading": "よろこぶ",
-        "meaning": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
+        "meaning": {
+          "vi": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
+        },
+        "romaji": "yorokobu"
       }
     ],
     "radical": {
@@ -58,5 +73,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b23.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b23.gif",
     "uri": "https://jisho.org/search/%E6%AC%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "hân"
+  ]
 }

@@ -370,29 +370,44 @@
       {
         "example": "論",
         "reading": "ロン",
-        "meaning": "argument, discussion, dispute, controversy, discourse, debate, theory (e.g. of evolution), doctrine, essay, treatise, comment"
+        "meaning": {
+          "vi": "argument, discussion, dispute, controversy, discourse, debate, theory (e.g. of evolution), doctrine, essay, treatise, comment"
+        },
+        "romaji": "ron"
       },
       {
         "example": "論客",
         "reading": "ロンキャク",
-        "meaning": "controversialist, polemic, disputant"
+        "meaning": {
+          "vi": "controversialist, polemic, disputant"
+        },
+        "romaji": "ronkyaku"
       },
       {
         "example": "公論",
         "reading": "コウロン",
-        "meaning": "public opinion, unbiased criticism, unbiassed criticism"
+        "meaning": {
+          "vi": "public opinion, unbiased criticism, unbiassed criticism"
+        },
+        "romaji": "kouron"
       },
       {
         "example": "対論",
         "reading": "タイロン",
-        "meaning": "arguing face to face"
+        "meaning": {
+          "en": "arguing face to face"
+        },
+        "romaji": "tairon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "論う",
         "reading": "あげつらう",
-        "meaning": "to discuss, to find fault with, to criticize, to criticise"
+        "meaning": {
+          "en": "to discuss, to find fault with, to criticize, to criticise"
+        },
+        "romaji": "agetsurau"
       }
     ],
     "radical": {
@@ -414,5 +429,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ad6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ad6.gif",
     "uri": "https://jisho.org/search/%E8%AB%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "luân",
+    "luận"
+  ]
 }

@@ -17,19 +17,28 @@
       {
         "example": "烏鵲",
         "reading": "ウジャク",
-        "meaning": "chim ác là châu Âu, quạ"
+        "meaning": {
+          "vi": "chim ác là châu Âu, quạ"
+        },
+        "romaji": "ujaku"
       },
       {
         "example": "烏鵲",
         "reading": "ウジャク",
-        "meaning": "chim ác là châu Âu, quạ"
+        "meaning": {
+          "vi": "chim ác là châu Âu, quạ"
+        },
+        "romaji": "ujaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鵲",
         "reading": "かささぎ",
-        "meaning": "chim ác là châu Âu"
+        "meaning": {
+          "vi": "chim ác là châu Âu"
+        },
+        "romaji": "kasasagi"
       }
     ],
     "radical": {
@@ -47,5 +56,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d72.gif",
     "uri": "https://jisho.org/search/%E9%B5%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "thước"
+  ]
 }

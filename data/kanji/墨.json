@@ -19,44 +19,68 @@
       {
         "example": "墨",
         "reading": "ボク",
-        "meaning": "Mexico, Mohism, ink, tattooing (as a form of punishment in ancient China)"
+        "meaning": {
+          "vi": "Mexico, Mohism, ink, tattooing (as a form of punishment in ancient China)"
+        },
+        "romaji": "boku"
       },
       {
         "example": "墨書",
         "reading": "ボクショ",
-        "meaning": "writing in India ink"
+        "meaning": {
+          "en": "writing in India ink"
+        },
+        "romaji": "bokusho"
       },
       {
         "example": "遺墨",
         "reading": "イボク",
-        "meaning": "autographs (brushwork) of departed person"
+        "meaning": {
+          "vi": "autographs (brushwork) of departed person"
+        },
+        "romaji": "iboku"
       },
       {
         "example": "水墨",
         "reading": "スイボク",
-        "meaning": "water and ink, ink painting"
+        "meaning": {
+          "vi": "water and ink, ink painting"
+        },
+        "romaji": "suiboku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "墨",
         "reading": "すみ",
-        "meaning": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"
+        "meaning": {
+          "vi": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"
+        },
+        "romaji": "sumi"
       },
       {
         "example": "墨絵",
         "reading": "すみえ",
-        "meaning": "ink painting"
+        "meaning": {
+          "vi": "ink painting"
+        },
+        "romaji": "sumie"
       },
       {
         "example": "イカ墨",
         "reading": "いかすみ",
-        "meaning": "squid ink"
+        "meaning": {
+          "en": "squid ink"
+        },
+        "romaji": "ikasumi"
       },
       {
         "example": "雪と墨",
         "reading": "ゆきとすみ",
-        "meaning": "diametric opposites, night and day, black and white, snow and ink"
+        "meaning": {
+          "vi": "diametric opposites, night and day, black and white, snow and ink"
+        },
+        "romaji": "yukitosumi"
       }
     ],
     "radical": {
@@ -73,5 +97,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058a8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58a8.gif",
     "uri": "https://jisho.org/search/%E5%A2%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "mặc"
+  ]
 }

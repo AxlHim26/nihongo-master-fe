@@ -16,29 +16,44 @@
       {
         "example": "庚",
         "reading": "カノエ",
-        "meaning": "thứ 7, can Canh (lịch Trung Quốc)"
+        "meaning": {
+          "vi": "thứ 7, can Canh (lịch Trung Quốc)"
+        },
+        "romaji": "kanoe"
       },
       {
         "example": "庚寅",
         "reading": "カノエトラ",
-        "meaning": "Canh Dần (chi thứ 27 trong lục thập hoa giáp, vd. 1950, 2010, 2070)"
+        "meaning": {
+          "vi": "Canh Dần (chi thứ 27 trong lục thập hoa giáp, vd. 1950, 2010, 2070)"
+        },
+        "romaji": "kanoetora"
       },
       {
         "example": "同庚",
         "reading": "ドウコウ",
-        "meaning": "cùng tuổi"
+        "meaning": {
+          "vi": "cùng tuổi"
+        },
+        "romaji": "doukou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "庚",
         "reading": "かのえ",
-        "meaning": "thứ 7, can Canh (lịch Trung Quốc)"
+        "meaning": {
+          "vi": "thứ 7, can Canh (lịch Trung Quốc)"
+        },
+        "romaji": "kanoe"
       },
       {
         "example": "庚戌",
         "reading": "かのえいぬ",
-        "meaning": "Canh Tuất (chi thứ 47 trong lục thập hoa giáp, vd. 1910, 1970, 2030)"
+        "meaning": {
+          "vi": "Canh Tuất (chi thứ 47 trong lục thập hoa giáp, vd. 1910, 1970, 2030)"
+        },
+        "romaji": "kanoeinu"
       }
     ],
     "radical": {
@@ -54,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e9a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e9a.gif",
     "uri": "https://jisho.org/search/%E5%BA%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "canh"
+  ]
 }

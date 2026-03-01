@@ -22,54 +22,84 @@
       {
         "example": "謀反",
         "reading": "ムホン",
-        "meaning": "rebellion, revolt, insurrection, treason"
+        "meaning": {
+          "en": "rebellion, revolt, insurrection, treason"
+        },
+        "romaji": "muhon"
       },
       {
         "example": "謀議",
         "reading": "ボウギ",
-        "meaning": "plot, conspiracy, conference"
+        "meaning": {
+          "vi": "plot, conspiracy, conference"
+        },
+        "romaji": "bougi"
       },
       {
         "example": "無謀",
         "reading": "ムボウ",
-        "meaning": "reckless, thoughtless, rash, ill-advised, impulsive, mad (e.g. scheme)"
+        "meaning": {
+          "vi": "reckless, thoughtless, rash, ill-advised, impulsive, mad (e.g. scheme)"
+        },
+        "romaji": "mubou"
       },
       {
         "example": "共謀",
         "reading": "キョウボウ",
-        "meaning": "conspiracy, collusion, complicity"
+        "meaning": {
+          "vi": "conspiracy, collusion, complicity"
+        },
+        "romaji": "kyoubou"
       },
       {
         "example": "謀反",
         "reading": "ムホン",
-        "meaning": "rebellion, revolt, insurrection, treason"
+        "meaning": {
+          "en": "rebellion, revolt, insurrection, treason"
+        },
+        "romaji": "muhon"
       },
       {
         "example": "謀反",
         "reading": "ムヘン",
-        "meaning": "plotting to overthrow the government (by assassinating the emperor)"
+        "meaning": {
+          "vi": "plotting to overthrow the government (by assassinating the emperor)"
+        },
+        "romaji": "muhen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "図る",
         "reading": "はかる",
-        "meaning": "to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in"
+        "meaning": {
+          "vi": "to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in"
+        },
+        "romaji": "hakaru"
       },
       {
         "example": "謀る",
         "reading": "たばかる",
-        "meaning": "to work out a plan of deception, to scheme, to take in, to dupe, to deceive, to think up a plan, to think over a plan, to discuss, to consult"
+        "meaning": {
+          "vi": "to work out a plan of deception, to scheme, to take in, to dupe, to deceive, to think up a plan, to think over a plan, to discuss, to consult"
+        },
+        "romaji": "tabakaru"
       },
       {
         "example": "謀",
         "reading": "はかりごと",
-        "meaning": "plan, scheme, stratagem, plot, trick"
+        "meaning": {
+          "vi": "plan, scheme, stratagem, plot, trick"
+        },
+        "romaji": "hakarigoto"
       },
       {
         "example": "謀は密なるを良しとす",
         "reading": "はかりごとはみつなるをよしとす",
-        "meaning": "strategies cannot succeed unless they are kept secret"
+        "meaning": {
+          "vi": "strategies cannot succeed unless they are kept secret"
+        },
+        "romaji": "hakarigotohamitsunaruwoyoshitosu"
       }
     ],
     "radical": {
@@ -88,5 +118,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b00.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b00.gif",
     "uri": "https://jisho.org/search/%E8%AC%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "mưu"
+  ]
 }

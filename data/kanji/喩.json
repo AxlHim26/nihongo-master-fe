@@ -18,19 +18,28 @@
       {
         "example": "教諭",
         "reading": "キョウユ",
-        "meaning": "(licensed) teacher"
+        "meaning": {
+          "en": "(licensed) teacher"
+        },
+        "romaji": "kyouyu"
       },
       {
         "example": "比喩",
         "reading": "ヒユ",
-        "meaning": "simile, metaphor, allegory, parable"
+        "meaning": {
+          "vi": "simile, metaphor, allegory, parable"
+        },
+        "romaji": "hiyu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "例える",
         "reading": "たとえる",
-        "meaning": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+        "meaning": {
+          "vi": "to compare (something) to, to liken, to speak figuratively, to use a simile, to use a metaphor"
+        },
+        "romaji": "tatoeru"
       }
     ],
     "radical": {
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055a9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55a9.gif",
     "uri": "https://jisho.org/search/%E5%96%A9%23kanji"
-  }
+  },
+  "hanViet": [
+    "dụ"
+  ]
 }

@@ -330,42 +330,66 @@
       {
         "example": "役",
         "reading": "ヤク",
-        "meaning": "role, assignment, responsibility, duty, function, job, service, position (of responsibility), post, office, part (in a play, film, etc.), role, character, scoring combination, hand, yaku, meld"
+        "meaning": {
+          "vi": "role, assignment, responsibility, duty, function, job, service, position (of responsibility), post, office, part (in a play, film, etc.), role, character, scoring combination, hand, yaku, meld"
+        },
+        "romaji": "yaku"
       },
       {
         "example": "役員",
         "reading": "ヤクイン",
-        "meaning": "director, executive, officer, official, person in charge"
+        "meaning": {
+          "vi": "director, executive, officer, official, person in charge"
+        },
+        "romaji": "yakuin"
       },
       {
         "example": "悪役",
         "reading": "アクヤク",
-        "meaning": "villain, baddie, the villain's part"
+        "meaning": {
+          "vi": "villain, baddie, the villain's part"
+        },
+        "romaji": "akuyaku"
       },
       {
         "example": "大役",
         "reading": "タイヤク",
-        "meaning": "important task, important role, great duty, important mission, major part (in a film, play, etc.), leading role, high-scoring combination"
+        "meaning": {
+          "vi": "important task, important role, great duty, important mission, major part (in a film, play, etc.), leading role, high-scoring combination"
+        },
+        "romaji": "taiyaku"
       },
       {
         "example": "役",
         "reading": "エキ",
-        "meaning": "war, campaign, battle, unpaid work (ritsuryō system), forced labor"
+        "meaning": {
+          "vi": "war, campaign, battle, unpaid work (ritsuryō system), forced labor"
+        },
+        "romaji": "eki"
       },
       {
         "example": "役務",
         "reading": "エキム",
-        "meaning": "labor, labour, service"
+        "meaning": {
+          "en": "labor, labour, service"
+        },
+        "romaji": "ekimu"
       },
       {
         "example": "荷役",
         "reading": "ニエキ",
-        "meaning": "handling cargo, loading and unloading"
+        "meaning": {
+          "en": "handling cargo, loading and unloading"
+        },
+        "romaji": "nieki"
       },
       {
         "example": "就役",
         "reading": "シュウエキ",
-        "meaning": "being placed on duty, going into commission (of a warship, freighter, etc.), being placed in commission"
+        "meaning": {
+          "vi": "being placed on duty, going into commission (of a warship, freighter, etc.), being placed in commission"
+        },
+        "romaji": "shuueki"
       }
     ],
     "kunyomiExamples": [],
@@ -383,5 +407,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f79.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f79.gif",
     "uri": "https://jisho.org/search/%E5%BD%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "dịch"
+  ]
 }

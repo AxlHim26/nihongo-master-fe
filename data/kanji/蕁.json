@@ -15,12 +15,18 @@
       {
         "example": "刺草",
         "reading": "イラクサ",
-        "meaning": "Urtica thunbergiana (loại cây tầm ma)"
+        "meaning": {
+          "vi": "Urtica thunbergiana (loại cây tầm ma)"
+        },
+        "romaji": "irakusa"
       },
       {
         "example": "蕁麻疹",
         "reading": "ジンマシン",
-        "meaning": "mề đay, phát ban"
+        "meaning": {
+          "vi": "mề đay, phát ban"
+        },
+        "romaji": "jinmashin"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08541.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8541.gif",
     "uri": "https://jisho.org/search/%E8%95%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "kiền",
+    "tầm",
+    "đàm"
+  ]
 }

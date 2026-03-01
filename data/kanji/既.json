@@ -19,29 +19,44 @@
       {
         "example": "既成",
         "reading": "キセイ",
-        "meaning": "established, existing, accomplished, accepted, completed"
+        "meaning": {
+          "vi": "established, existing, accomplished, accepted, completed"
+        },
+        "romaji": "kisei"
       },
       {
         "example": "既婚",
         "reading": "キコン",
-        "meaning": "married"
+        "meaning": {
+          "en": "married"
+        },
+        "romaji": "kikon"
       },
       {
         "example": "皆既",
         "reading": "カイキ",
-        "meaning": "total eclipse, totality"
+        "meaning": {
+          "vi": "total eclipse, totality"
+        },
+        "romaji": "kaiki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "既に",
         "reading": "すでに",
-        "meaning": "already, previously, before, undeniably, unmistakably, in the first place"
+        "meaning": {
+          "vi": "already, previously, before, undeniably, unmistakably, in the first place"
+        },
+        "romaji": "sudeni"
       },
       {
         "example": "既にして",
         "reading": "すでにして",
-        "meaning": "in the meantime, meanwhile"
+        "meaning": {
+          "en": "in the meantime, meanwhile"
+        },
+        "romaji": "sudenishite"
       }
     ],
     "radical": {
@@ -56,5 +71,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e2.gif",
     "uri": "https://jisho.org/search/%E6%97%A2%23kanji"
-  }
+  },
+  "hanViet": [
+    "kí",
+    "ký"
+  ]
 }

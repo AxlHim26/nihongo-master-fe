@@ -299,34 +299,52 @@
       {
         "example": "占領",
         "reading": "センリョウ",
-        "meaning": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure"
+        "meaning": {
+          "vi": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure"
+        },
+        "romaji": "senryou"
       },
       {
         "example": "占拠",
         "reading": "センキョ",
-        "meaning": "occupation, taking and maintaining exclusive control (of a location)"
+        "meaning": {
+          "vi": "occupation, taking and maintaining exclusive control (of a location)"
+        },
+        "romaji": "senkyo"
       },
       {
         "example": "寡占",
         "reading": "カセン",
-        "meaning": "oligopoly, control of a market"
+        "meaning": {
+          "vi": "oligopoly, control of a market"
+        },
+        "romaji": "kasen"
       },
       {
         "example": "買い手寡占",
         "reading": "カイテカセン",
-        "meaning": "oligopsony"
+        "meaning": {
+          "vi": "oligopsony"
+        },
+        "romaji": "kaitekasen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "占める",
         "reading": "しめる",
-        "meaning": "to occupy, to hold, to account for, to make up, to take up"
+        "meaning": {
+          "vi": "to occupy, to hold, to account for, to make up, to take up"
+        },
+        "romaji": "shimeru"
       },
       {
         "example": "占う",
         "reading": "うらなう",
-        "meaning": "to tell someone's fortune, to divine (the future), to predict, to forecast"
+        "meaning": {
+          "vi": "to tell someone's fortune, to divine (the future), to predict, to forecast"
+        },
+        "romaji": "uranau"
       }
     ],
     "radical": {
@@ -341,5 +359,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05360.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5360.gif",
     "uri": "https://jisho.org/search/%E5%8D%A0%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiêm",
+    "chiếm"
+  ]
 }

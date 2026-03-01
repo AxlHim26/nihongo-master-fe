@@ -17,39 +17,60 @@
       {
         "example": "鞘翅類",
         "reading": "ショウシルイ",
-        "meaning": "coleopterans, beetles"
+        "meaning": {
+          "vi": "coleopterans, beetles"
+        },
+        "romaji": "shoushirui"
       },
       {
         "example": "髄鞘",
         "reading": "ズイショウ",
-        "meaning": "myelin sheath (around the axon of a neuron)"
+        "meaning": {
+          "en": "myelin sheath (around the axon of a neuron)"
+        },
+        "romaji": "zuishou"
       },
       {
         "example": "葉鞘",
         "reading": "ヨウショウ",
-        "meaning": "leaf sheath, vagina"
+        "meaning": {
+          "en": "leaf sheath, vagina"
+        },
+        "romaji": "youshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "鞘",
         "reading": "さや",
-        "meaning": "scabbard, sheath, cap (on a brush, pen, etc.), case, sleeve, margin (between two prices), spread, markup, commission, enclosure, outer fence"
+        "meaning": {
+          "vi": "scabbard, sheath, cap (on a brush, pen, etc.), case, sleeve, margin (between two prices), spread, markup, commission, enclosure, outer fence"
+        },
+        "romaji": "saya"
       },
       {
         "example": "鞘当て",
         "reading": "さやあて",
-        "meaning": "rivalry in love, rivalry for the heart of a woman, quarrel over something trivial, storm in a teacup, quarrel between two samurai due to an (accidental) clash of sheaths while crossing paths"
+        "meaning": {
+          "vi": "rivalry in love, rivalry for the heart of a woman, quarrel over something trivial, storm in a teacup, quarrel between two samurai due to an (accidental) clash of sheaths while crossing paths"
+        },
+        "romaji": "sayaate"
       },
       {
         "example": "元サヤ",
         "reading": "もとサヤ",
-        "meaning": "getting back together, being reconciled, returning to normal"
+        "meaning": {
+          "en": "getting back together, being reconciled, returning to normal"
+        },
+        "romaji": "motosaya"
       },
       {
         "example": "弓は袋に太刀は鞘",
         "reading": "ゆみはふくろにたちはさや",
-        "meaning": "the world is at peace, bows in bags and swords in sheaths"
+        "meaning": {
+          "vi": "the world is at peace, bows in bags and swords in sheaths"
+        },
+        "romaji": "yumihafukuronitachihasaya"
       }
     ],
     "radical": {
@@ -65,5 +86,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09798.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9798.gif",
     "uri": "https://jisho.org/search/%E9%9E%98%23kanji"
-  }
+  },
+  "hanViet": [
+    "sao",
+    "tiếu"
+  ]
 }

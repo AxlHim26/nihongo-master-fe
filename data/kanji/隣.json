@@ -318,49 +318,76 @@
       {
         "example": "隣国",
         "reading": "リンゴク",
-        "meaning": "neighbouring country, neighboring country, adjacent country"
+        "meaning": {
+          "en": "neighbouring country, neighboring country, adjacent country"
+        },
+        "romaji": "ringoku"
       },
       {
         "example": "隣家",
         "reading": "リンカ",
-        "meaning": "neighbouring house, neighboring house"
+        "meaning": {
+          "en": "neighbouring house, neighboring house"
+        },
+        "romaji": "rinka"
       },
       {
         "example": "善隣",
         "reading": "ゼンリン",
-        "meaning": "good neighbour, good neighbor"
+        "meaning": {
+          "en": "good neighbour, good neighbor"
+        },
+        "romaji": "zenrin"
       },
       {
         "example": "四隣",
         "reading": "シリン",
-        "meaning": "whole neighborhood, whole neighbourhood, surrounding countries"
+        "meaning": {
+          "en": "whole neighborhood, whole neighbourhood, surrounding countries"
+        },
+        "romaji": "shirin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "隣る",
         "reading": "となる",
-        "meaning": "to neighbor (neighbour), to be adjacent to, to be next to, to border"
+        "meaning": {
+          "en": "to neighbor (neighbour), to be adjacent to, to be next to, to border"
+        },
+        "romaji": "tonaru"
       },
       {
         "example": "隣",
         "reading": "となり",
-        "meaning": "next (to), adjoining, adjacent, house next door, neighbouring house, next-door neighbour, next-door neighbor"
+        "meaning": {
+          "en": "next (to), adjoining, adjacent, house next door, neighbouring house, next-door neighbour, next-door neighbor"
+        },
+        "romaji": "tonari"
       },
       {
         "example": "隣り合う",
         "reading": "となりあう",
-        "meaning": "to adjoin each other, to sit side by side"
+        "meaning": {
+          "en": "to adjoin each other, to sit side by side"
+        },
+        "romaji": "tonariau"
       },
       {
         "example": "先隣",
         "reading": "さきとなり",
-        "meaning": "next door but one, (a house) two doors away"
+        "meaning": {
+          "en": "next door but one, (a house) two doors away"
+        },
+        "romaji": "sakitonari"
       },
       {
         "example": "右隣",
         "reading": "みぎどなり",
-        "meaning": "neighbour to the right (person, building, etc.)"
+        "meaning": {
+          "vi": "neighbour to the right (person, building, etc.)"
+        },
+        "romaji": "migidonari"
       }
     ],
     "radical": {
@@ -380,5 +407,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96a3.gif",
     "uri": "https://jisho.org/search/%E9%9A%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "lân"
+  ]
 }

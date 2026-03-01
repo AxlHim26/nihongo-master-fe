@@ -18,12 +18,18 @@
       {
         "example": "苫",
         "reading": "とま",
-        "meaning": "woven mat (of sedge, hay, etc.)"
+        "meaning": {
+          "en": "woven mat (of sedge, hay, etc.)"
+        },
+        "romaji": "toma"
       },
       {
         "example": "苫小牧駒澤大学",
         "reading": "とまこまいこまざわだいがく",
-        "meaning": "Tomakomaikomazawa University"
+        "meaning": {
+          "en": "Tomakomaikomazawa University"
+        },
+        "romaji": "tomakomaikomazawadaigaku"
       }
     ],
     "radical": {
@@ -42,5 +48,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082eb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82eb.gif",
     "uri": "https://jisho.org/search/%E8%8B%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiêm",
+    "thiệm"
+  ]
 }

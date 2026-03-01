@@ -312,29 +312,44 @@
       {
         "example": "濃",
         "reading": "ノウ",
-        "meaning": "dark (color), concentrated, thick"
+        "meaning": {
+          "en": "dark (color), concentrated, thick"
+        },
+        "romaji": "nou"
       },
       {
         "example": "濃厚",
         "reading": "ノウコウ",
-        "meaning": "rich (flavor, color, etc.), strong (e.g. odor), heavy, thick (soup, makeup, etc.), dense, probable, (very) likely, strong (suspicion, sense, etc.), pronounced, passionate, sensuous, hot"
+        "meaning": {
+          "vi": "rich (flavor, color, etc.), strong (e.g. odor), heavy, thick (soup, makeup, etc.), dense, probable, (very) likely, strong (suspicion, sense, etc.), pronounced, passionate, sensuous, hot"
+        },
+        "romaji": "noukou"
       },
       {
         "example": "特濃",
         "reading": "トクノウ",
-        "meaning": "highly concentrated, thick, rich, dark"
+        "meaning": {
+          "en": "highly concentrated, thick, rich, dark"
+        },
+        "romaji": "tokunou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "濃い",
         "reading": "こい",
-        "meaning": "deep (colour), dark, strong (flavour, smell, etc.), thick (consistency), dense, strong (possibility, etc.), thick (i.e. \"as thick as thieves\"), close, deep (love, etc.)"
+        "meaning": {
+          "vi": "deep (colour), dark, strong (flavour, smell, etc.), thick (consistency), dense, strong (possibility, etc.), thick (i.e. \"as thick as thieves\"), close, deep (love, etc.)"
+        },
+        "romaji": "koi"
       },
       {
         "example": "濃い口",
         "reading": "こいくち",
-        "meaning": "rich (taste), dark-coloured, thick, heavy, dark soy sauce"
+        "meaning": {
+          "en": "rich (taste), dark-coloured, thick, heavy, dark soy sauce"
+        },
+        "romaji": "koikuchi"
       }
     ],
     "radical": {
@@ -358,5 +373,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fc3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fc3.gif",
     "uri": "https://jisho.org/search/%E6%BF%83%23kanji"
-  }
+  },
+  "hanViet": [
+    "nùng"
+  ]
 }

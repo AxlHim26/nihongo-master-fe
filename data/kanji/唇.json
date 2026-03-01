@@ -19,44 +19,68 @@
       {
         "example": "唇音",
         "reading": "シンオン",
-        "meaning": "labial sound"
+        "meaning": {
+          "en": "labial sound"
+        },
+        "romaji": "shin'on"
       },
       {
         "example": "唇音化",
         "reading": "シンオンカ",
-        "meaning": "labialization"
+        "meaning": {
+          "en": "labialization"
+        },
+        "romaji": "shin'onka"
       },
       {
         "example": "下唇",
         "reading": "シタクチビル",
-        "meaning": "lower lip"
+        "meaning": {
+          "vi": "lower lip"
+        },
+        "romaji": "shitakuchibiru"
       },
       {
         "example": "上唇",
         "reading": "ウワクチビル",
-        "meaning": "upper lip, labrum"
+        "meaning": {
+          "vi": "upper lip, labrum"
+        },
+        "romaji": "uwakuchibiru"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "唇",
         "reading": "くちびる",
-        "meaning": "lip, lips"
+        "meaning": {
+          "vi": "lip, lips"
+        },
+        "romaji": "kuchibiru"
       },
       {
         "example": "唇を奪う",
         "reading": "くちびるをうばう",
-        "meaning": "to steal a kiss, to snatch a kiss"
+        "meaning": {
+          "en": "to steal a kiss, to snatch a kiss"
+        },
+        "romaji": "kuchibiruwoubau"
       },
       {
         "example": "上唇",
         "reading": "うわくちびる",
-        "meaning": "upper lip, labrum"
+        "meaning": {
+          "vi": "upper lip, labrum"
+        },
+        "romaji": "uwakuchibiru"
       },
       {
         "example": "下唇",
         "reading": "したくちびる",
-        "meaning": "lower lip"
+        "meaning": {
+          "vi": "lower lip"
+        },
+        "romaji": "shitakuchibiru"
       }
     ],
     "radical": {
@@ -73,5 +97,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05507.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5507.gif",
     "uri": "https://jisho.org/search/%E5%94%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "chấn",
+    "thần"
+  ]
 }

@@ -17,17 +17,26 @@
       {
         "example": "揖譲",
         "reading": "ユウジョウ",
-        "meaning": "bowing respectfully with one's hands clasped in front of one's chest, abdication of an emperor to a successor (in China)"
+        "meaning": {
+          "vi": "bowing respectfully with one's hands clasped in front of one's chest, abdication of an emperor to a successor (in China)"
+        },
+        "romaji": "yuujou"
       },
       {
         "example": "揖譲",
         "reading": "ユウジョウ",
-        "meaning": "bowing respectfully with one's hands clasped in front of one's chest, abdication of an emperor to a successor (in China)"
+        "meaning": {
+          "vi": "bowing respectfully with one's hands clasped in front of one's chest, abdication of an emperor to a successor (in China)"
+        },
+        "romaji": "yuujou"
       },
       {
         "example": "一揖",
         "reading": "イチユウ",
-        "meaning": "slight bow"
+        "meaning": {
+          "en": "slight bow"
+        },
+        "romaji": "ichiyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +56,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063d6.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63d6.gif",
     "uri": "https://jisho.org/search/%E6%8F%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "tập",
+    "ấp"
+  ]
 }

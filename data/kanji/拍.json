@@ -18,32 +18,50 @@
       {
         "example": "拍",
         "reading": "ハク",
-        "meaning": "nhịp, âm tiết"
+        "meaning": {
+          "vi": "nhịp, âm tiết"
+        },
+        "romaji": "haku"
       },
       {
         "example": "拍車",
         "reading": "ハクシャ",
-        "meaning": "đinh thúc ngựa, thúc đẩy, gia tốc"
+        "meaning": {
+          "vi": "đinh thúc ngựa, thúc đẩy, gia tốc"
+        },
+        "romaji": "hakusha"
       },
       {
         "example": "強拍",
         "reading": "キョウハク",
-        "meaning": "nhịp mạnh, phách nhấn"
+        "meaning": {
+          "vi": "nhịp mạnh, phách nhấn"
+        },
+        "romaji": "kyouhaku"
       },
       {
         "example": "上拍",
         "reading": "ジョウハク",
-        "meaning": "nhịp nhẹ"
+        "meaning": {
+          "vi": "nhịp nhẹ"
+        },
+        "romaji": "jouhaku"
       },
       {
         "example": "拍子",
         "reading": "ヒョウシ",
-        "meaning": "nhịp điệu, tiết tấu, phách, lúc, dịp"
+        "meaning": {
+          "vi": "nhịp điệu, tiết tấu, phách, lúc, dịp"
+        },
+        "romaji": "hyoushi"
       },
       {
         "example": "拍子抜け",
         "reading": "ヒョウシヌケ",
-        "meaning": "chán nản, thất vọng, mất hứng"
+        "meaning": {
+          "vi": "chán nản, thất vọng, mất hứng"
+        },
+        "romaji": "hyoushinuke"
       }
     ],
     "kunyomiExamples": [],
@@ -62,5 +80,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062cd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62cd.gif",
     "uri": "https://jisho.org/search/%E6%8B%8D%23kanji"
-  }
+  },
+  "hanViet": [
+    "bác",
+    "phách"
+  ]
 }

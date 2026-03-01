@@ -16,24 +16,36 @@
       {
         "example": "裸足",
         "reading": "ハダシ",
-        "meaning": "barefoot, superior to (e.g. a professional), outdoing, outshining"
+        "meaning": {
+          "vi": "barefoot, superior to (e.g. a professional), outdoing, outshining"
+        },
+        "romaji": "hadashi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "裸足",
         "reading": "はだし",
-        "meaning": "barefoot, superior to (e.g. a professional), outdoing, outshining"
+        "meaning": {
+          "vi": "barefoot, superior to (e.g. a professional), outdoing, outshining"
+        },
+        "romaji": "hadashi"
       },
       {
         "example": "裸足で逃げる",
         "reading": "はだしでにげる",
-        "meaning": "to be put to shame (of an expert), to be no match (for someone), to run away barefoot"
+        "meaning": {
+          "vi": "to be put to shame (of an expert), to be no match (for someone), to run away barefoot"
+        },
+        "romaji": "hadashidenigeru"
       },
       {
         "example": "素裸足",
         "reading": "すはだし",
-        "meaning": "barefoot"
+        "meaning": {
+          "en": "barefoot"
+        },
+        "romaji": "suhadashi"
       }
     ],
     "radical": {
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08de3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8de3.gif",
     "uri": "https://jisho.org/search/%E8%B7%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tiên",
+    "tiển"
+  ]
 }

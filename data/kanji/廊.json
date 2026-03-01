@@ -17,22 +17,34 @@
       {
         "example": "廊",
         "reading": "ロウ",
-        "meaning": "corridor, passage, hall"
+        "meaning": {
+          "vi": "corridor, passage, hall"
+        },
+        "romaji": "rou"
       },
       {
         "example": "廊下",
         "reading": "ロウカ",
-        "meaning": "corridor, hallway, passageway"
+        "meaning": {
+          "vi": "corridor, hallway, passageway"
+        },
+        "romaji": "rouka"
       },
       {
         "example": "回廊",
         "reading": "カイロウ",
-        "meaning": "corridor, gallery, hallway, cloister (i.e. covered walk typically circling a building or garden, esp. in a palace or place of worship)"
+        "meaning": {
+          "vi": "corridor, gallery, hallway, cloister (i.e. covered walk typically circling a building or garden, esp. in a palace or place of worship)"
+        },
+        "romaji": "kairou"
       },
       {
         "example": "人道回廊",
         "reading": "ジンドウカイロウ",
-        "meaning": "humanitarian corridor"
+        "meaning": {
+          "en": "humanitarian corridor"
+        },
+        "romaji": "jindoukairou"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eca.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eca.gif",
     "uri": "https://jisho.org/search/%E5%BB%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "lang"
+  ]
 }

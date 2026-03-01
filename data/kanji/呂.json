@@ -20,42 +20,66 @@
       {
         "example": "蝋色漆",
         "reading": "ロイロウルシ",
-        "meaning": "black lacquer"
+        "meaning": {
+          "en": "black lacquer"
+        },
+        "romaji": "roirourushi"
       },
       {
         "example": "呂律",
         "reading": "ロレツ",
-        "meaning": "articulation"
+        "meaning": {
+          "en": "articulation"
+        },
+        "romaji": "roretsu"
       },
       {
         "example": "大呂",
         "reading": "タイリョ",
-        "meaning": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
+        "meaning": {
+          "vi": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
+        },
+        "romaji": "tairyo"
       },
       {
         "example": "仲呂",
         "reading": "チュウリョ",
-        "meaning": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
+        "meaning": {
+          "vi": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
+        },
+        "romaji": "chuuryo"
       },
       {
         "example": "呂",
         "reading": "リョ",
-        "meaning": "bass range (in Japanese music), six even-numbered notes of the ancient chromatic scale, Japanese seven-tone gagaku scale similar to Mixolydian mode (corresp. to: re, mi, fa, so, la, ti, do)"
+        "meaning": {
+          "vi": "bass range (in Japanese music), six even-numbered notes of the ancient chromatic scale, Japanese seven-tone gagaku scale similar to Mixolydian mode (corresp. to: re, mi, fa, so, la, ti, do)"
+        },
+        "romaji": "ryo"
       },
       {
         "example": "呂旋",
         "reading": "リョセン",
-        "meaning": "Japanese seven-tone gagaku scale (corresponding to: so, la, ti, do, re, mi, fa), similar to Mixolydian mode"
+        "meaning": {
+          "vi": "Japanese seven-tone gagaku scale (corresponding to: so, la, ti, do, re, mi, fa), similar to Mixolydian mode"
+        },
+        "romaji": "ryosen"
       },
       {
         "example": "大呂",
         "reading": "タイリョ",
-        "meaning": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
+        "meaning": {
+          "vi": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
+        },
+        "romaji": "tairyo"
       },
       {
         "example": "仲呂",
         "reading": "チュウリョ",
-        "meaning": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
+        "meaning": {
+          "vi": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
+        },
+        "romaji": "chuuryo"
       }
     ],
     "kunyomiExamples": [],
@@ -71,5 +95,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05442.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5442.gif",
     "uri": "https://jisho.org/search/%E5%91%82%23kanji"
-  }
+  },
+  "hanViet": [
+    "lã",
+    "lữ"
+  ]
 }

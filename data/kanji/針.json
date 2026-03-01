@@ -310,44 +310,68 @@
       {
         "example": "鍼灸",
         "reading": "シンキュウ",
-        "meaning": "acupuncture and moxibustion"
+        "meaning": {
+          "vi": "acupuncture and moxibustion"
+        },
+        "romaji": "shinkyuu"
       },
       {
         "example": "針葉樹",
         "reading": "シンヨウジュ",
-        "meaning": "conifer, needle-leaved tree"
+        "meaning": {
+          "en": "conifer, needle-leaved tree"
+        },
+        "romaji": "shin'youju"
       },
       {
         "example": "指針",
         "reading": "シシン",
-        "meaning": "needle (compass, gauge, etc.), hand (clock), indicator, pointer, index, guiding principle, guideline, guide"
+        "meaning": {
+          "vi": "needle (compass, gauge, etc.), hand (clock), indicator, pointer, index, guiding principle, guideline, guide"
+        },
+        "romaji": "shishin"
       },
       {
         "example": "検針",
         "reading": "ケンシン",
-        "meaning": "inspection of a meter, reading a meter, needle detection (in garments, etc.), needle inspection"
+        "meaning": {
+          "vi": "inspection of a meter, reading a meter, needle detection (in garments, etc.), needle inspection"
+        },
+        "romaji": "kenshin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "針",
         "reading": "はり",
-        "meaning": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"
+        "meaning": {
+          "vi": "needle, pin, hook, stinger, thorn, hand (e.g. clock, etc.), pointer, staple (for a stapler), needlework, sewing, malice, counter for stitches"
+        },
+        "romaji": "hari"
       },
       {
         "example": "針金",
         "reading": "はりがね",
-        "meaning": "wire"
+        "meaning": {
+          "en": "wire"
+        },
+        "romaji": "harigane"
       },
       {
         "example": "縫い針",
         "reading": "ぬいばり",
-        "meaning": "sewing needle"
+        "meaning": {
+          "en": "sewing needle"
+        },
+        "romaji": "nuibari"
       },
       {
         "example": "無外傷性針",
         "reading": "むがいしょうせいはり",
-        "meaning": "atraumatic needle"
+        "meaning": {
+          "en": "atraumatic needle"
+        },
+        "romaji": "mugaishouseihari"
       }
     ],
     "radical": {
@@ -365,5 +389,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dd.gif",
     "uri": "https://jisho.org/search/%E9%87%9D%23kanji"
-  }
+  },
+  "hanViet": [
+    "châm",
+    "trâm"
+  ]
 }

@@ -14,12 +14,18 @@
       {
         "example": "鷓鴣",
         "reading": "シャコ",
-        "meaning": "francolin (partridge-like bird of genus Francolinus), partridge (of genus Perdix)"
+        "meaning": {
+          "vi": "francolin (partridge-like bird of genus Francolinus), partridge (of genus Perdix)"
+        },
+        "romaji": "shako"
       },
       {
         "example": "岩鷓鴣",
         "reading": "イワシャコ",
-        "meaning": "chukar partridge (Alectoris chukar)"
+        "meaning": {
+          "vi": "chukar partridge (Alectoris chukar)"
+        },
+        "romaji": "iwashako"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d23.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d23.gif",
     "uri": "https://jisho.org/search/%E9%B4%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "cô"
+  ]
 }

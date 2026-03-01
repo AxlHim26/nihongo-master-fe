@@ -19,17 +19,26 @@
       {
         "example": "艱苦",
         "reading": "カンク",
-        "meaning": "privation suffering"
+        "meaning": {
+          "vi": "privation suffering"
+        },
+        "romaji": "kanku"
       },
       {
         "example": "艱難",
         "reading": "カンナン",
-        "meaning": "hardships, privations, difficulties"
+        "meaning": {
+          "vi": "hardships, privations, difficulties"
+        },
+        "romaji": "kannan"
       },
       {
         "example": "時艱",
         "reading": "ジカン",
-        "meaning": "problems that affect a period of time, hardships peculiar to an age, hard problems of the times"
+        "meaning": {
+          "vi": "problems that affect a period of time, hardships peculiar to an age, hard problems of the times"
+        },
+        "romaji": "jikan"
       }
     ],
     "kunyomiExamples": [],
@@ -48,5 +57,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08271.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8271.gif",
     "uri": "https://jisho.org/search/%E8%89%B1%23kanji"
-  }
+  },
+  "hanViet": [
+    "gian"
+  ]
 }

@@ -17,44 +17,68 @@
       {
         "example": "杖",
         "reading": "ジョウ",
-        "meaning": "public caning (60-100 strokes; second least severe of the five ritsuryō punishments)"
+        "meaning": {
+          "vi": "public caning (60-100 strokes; second least severe of the five ritsuryō punishments)"
+        },
+        "romaji": "jou"
       },
       {
         "example": "杖鼓",
         "reading": "ジョウコ",
-        "meaning": "janggu (Korean hourglass drum), janggo, changgo"
+        "meaning": {
+          "en": "janggu (Korean hourglass drum), janggo, changgo"
+        },
+        "romaji": "jouko"
       },
       {
         "example": "聖杖",
         "reading": "セイジョウ",
-        "meaning": "holy staff, sacred staff"
+        "meaning": {
+          "en": "holy staff, sacred staff"
+        },
+        "romaji": "seijou"
       },
       {
         "example": "金剛杖",
         "reading": "コンゴウヅエ",
-        "meaning": "pilgrim's staff"
+        "meaning": {
+          "vi": "pilgrim's staff"
+        },
+        "romaji": "kongouzue"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "杖",
         "reading": "つえ",
-        "meaning": "cane, walking stick, staff, wand"
+        "meaning": {
+          "en": "cane, walking stick, staff, wand"
+        },
+        "romaji": "tsue"
       },
       {
         "example": "杖状",
         "reading": "つえじょう",
-        "meaning": "staff-shaped"
+        "meaning": {
+          "vi": "staff-shaped"
+        },
+        "romaji": "tsuejou"
       },
       {
         "example": "魔法の杖",
         "reading": "まほうのつえ",
-        "meaning": "magic wand"
+        "meaning": {
+          "en": "magic wand"
+        },
+        "romaji": "mahounotsue"
       },
       {
         "example": "転ばぬ先の杖",
         "reading": "ころばぬさきのつえ",
-        "meaning": "prevention is better than cure, an ounce of prevention is worth a pound of cure, look before you leap, forewarned is forearmed, a stitch in time saves nine, a walking stick before stumbling"
+        "meaning": {
+          "vi": "prevention is better than cure, an ounce of prevention is worth a pound of cure, look before you leap, forewarned is forearmed, a stitch in time saves nine, a walking stick before stumbling"
+        },
+        "romaji": "korobanusakinotsue"
       }
     ],
     "radical": {
@@ -70,5 +94,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06756.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6756.gif",
     "uri": "https://jisho.org/search/%E6%9D%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "tráng",
+    "trượng"
+  ]
 }

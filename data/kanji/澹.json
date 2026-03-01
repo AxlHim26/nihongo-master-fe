@@ -17,22 +17,34 @@
       {
         "example": "淡々",
         "reading": "タンタン",
-        "meaning": "uninterested, unconcerned, indifferent, dispassionate, matter-of-fact, detached, plain, light, simple, bland, flowing gently"
+        "meaning": {
+          "vi": "uninterested, unconcerned, indifferent, dispassionate, matter-of-fact, detached, plain, light, simple, bland, flowing gently"
+        },
+        "romaji": "tantan"
       },
       {
         "example": "淡白",
         "reading": "タンパク",
-        "meaning": "light (flavor, color, etc.), simple, plain, frank, candid, easygoing, unselfish, indifferent (to), not particular (about)"
+        "meaning": {
+          "vi": "light (flavor, color, etc.), simple, plain, frank, candid, easygoing, unselfish, indifferent (to), not particular (about)"
+        },
+        "romaji": "tanpaku"
       },
       {
         "example": "暗澹",
         "reading": "アンタン",
-        "meaning": "dark, gloomy, somber, depressing"
+        "meaning": {
+          "vi": "dark, gloomy, somber, depressing"
+        },
+        "romaji": "antan"
       },
       {
         "example": "疾痛惨憺",
         "reading": "シッツウサンタン",
-        "meaning": "terrible worry, extreme anxiety"
+        "meaning": {
+          "en": "terrible worry, extreme anxiety"
+        },
+        "romaji": "shittsuusantan"
       }
     ],
     "kunyomiExamples": [],
@@ -54,5 +66,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb9.gif",
     "uri": "https://jisho.org/search/%E6%BE%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "đam",
+    "đàm",
+    "đạm"
+  ]
 }

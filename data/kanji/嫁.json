@@ -22,49 +22,76 @@
       {
         "example": "片付ける",
         "reading": "カタヅケル",
-        "meaning": "to put in order, to tidy up, to clean up, to put away, to clear away, to settle (a matter), to solve, to deal with, to dispose of, to finish, to get through, to complete, to get (something) done, to marry off (one's daughter), to do away with (someone), to bump off, to kill, to eliminate"
+        "meaning": {
+          "vi": "to put in order, to tidy up, to clean up, to put away, to clear away, to settle (a matter), to solve, to deal with, to dispose of, to finish, to get through, to complete, to get (something) done, to marry off (one's daughter), to do away with (someone), to bump off, to kill, to eliminate"
+        },
+        "romaji": "katazukeru"
       },
       {
         "example": "嫁す",
         "reading": "カス",
-        "meaning": "to wed, to be married, to shift blame to someone else"
+        "meaning": {
+          "en": "to wed, to be married, to shift blame to someone else"
+        },
+        "romaji": "kasu"
       },
       {
         "example": "責任転嫁",
         "reading": "セキニンテンカ",
-        "meaning": "shifting the responsibility (for something) on to (someone), passing the buck"
+        "meaning": {
+          "vi": "shifting the responsibility (for something) on to (someone), passing the buck"
+        },
+        "romaji": "sekinintenka"
       },
       {
         "example": "再嫁",
         "reading": "サイカ",
-        "meaning": "remarriage (of a woman)"
+        "meaning": {
+          "en": "remarriage (of a woman)"
+        },
+        "romaji": "saika"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "嫁",
         "reading": "よめ",
-        "meaning": "bride, (one's) daughter-in-law, wife"
+        "meaning": {
+          "en": "bride, (one's) daughter-in-law, wife"
+        },
+        "romaji": "yome"
       },
       {
         "example": "嫁入り",
         "reading": "よめいり",
-        "meaning": "marriage, wedding"
+        "meaning": {
+          "en": "marriage, wedding"
+        },
+        "romaji": "yomeiri"
       },
       {
         "example": "新嫁",
         "reading": "しんよめ",
-        "meaning": "newly-wed bride"
+        "meaning": {
+          "en": "newly-wed bride"
+        },
+        "romaji": "shin'yome"
       },
       {
         "example": "惣嫁",
         "reading": "そうか",
-        "meaning": "streetwalker (Edo period)"
+        "meaning": {
+          "vi": "streetwalker (Edo period)"
+        },
+        "romaji": "souka"
       },
       {
         "example": "嫁ぐ",
         "reading": "とつぐ",
-        "meaning": "to marry (of a woman), to become a bride, to marry into (a family), to have sexual intercourse"
+        "meaning": {
+          "en": "to marry (of a woman), to become a bride, to marry into (a family), to have sexual intercourse"
+        },
+        "romaji": "totsugu"
       }
     ],
     "radical": {
@@ -80,5 +107,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac1.gif",
     "uri": "https://jisho.org/search/%E5%AB%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "giá"
+  ]
 }

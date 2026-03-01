@@ -18,19 +18,28 @@
       {
         "example": "蹲踞",
         "reading": "ソンキョ",
-        "meaning": "crouching, formal crouch performed at the beginning of a sumo or kendo match"
+        "meaning": {
+          "vi": "crouching, formal crouch performed at the beginning of a sumo or kendo match"
+        },
+        "romaji": "sonkyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "蹲う",
         "reading": "つくばう",
-        "meaning": "to crouch, to squat"
+        "meaning": {
+          "en": "to crouch, to squat"
+        },
+        "romaji": "tsukubau"
       },
       {
         "example": "蹲る",
         "reading": "うずくまる",
-        "meaning": "to crouch, to squat, to cower"
+        "meaning": {
+          "en": "to crouch, to squat, to cower"
+        },
+        "romaji": "uzukumaru"
       }
     ],
     "radical": {
@@ -52,5 +61,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e72.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e72.gif",
     "uri": "https://jisho.org/search/%E8%B9%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "thuẫn",
+    "tồn",
+    "tỗn"
+  ]
 }

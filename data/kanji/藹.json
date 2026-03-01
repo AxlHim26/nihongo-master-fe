@@ -14,22 +14,34 @@
       {
         "example": "藹々",
         "reading": "アイアイ",
-        "meaning": "harmonious, peaceful, congenial, luxuriant (vegetation)"
+        "meaning": {
+          "vi": "harmonious, peaceful, congenial, luxuriant (vegetation)"
+        },
+        "romaji": "aiai"
       },
       {
         "example": "靄然",
         "reading": "アイゼン",
-        "meaning": "hovering like mist or clouds, gentle, calm"
+        "meaning": {
+          "en": "hovering like mist or clouds, gentle, calm"
+        },
+        "romaji": "aizen"
       },
       {
         "example": "藹々",
         "reading": "アイアイ",
-        "meaning": "harmonious, peaceful, congenial, luxuriant (vegetation)"
+        "meaning": {
+          "vi": "harmonious, peaceful, congenial, luxuriant (vegetation)"
+        },
+        "romaji": "aiai"
       },
       {
         "example": "和気あいあい",
         "reading": "ワキアイアイ",
-        "meaning": "harmonious, peaceful, congenial, friendly, happy"
+        "meaning": {
+          "vi": "harmonious, peaceful, congenial, friendly, happy"
+        },
+        "romaji": "wakiaiai"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085f9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85f9.gif",
     "uri": "https://jisho.org/search/%E8%97%B9%23kanji"
-  }
+  },
+  "hanViet": [
+    "ái"
+  ]
 }

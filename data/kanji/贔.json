@@ -14,12 +14,18 @@
       {
         "example": "贔屓",
         "reading": "ヒイキ",
-        "meaning": "favour, favor, patronage, favouritism, favoritism, partiality, favourite, favorite, patron, supporter, backer"
+        "meaning": {
+          "vi": "favour, favor, patronage, favouritism, favoritism, partiality, favourite, favorite, patron, supporter, backer"
+        },
+        "romaji": "hiiki"
       },
       {
         "example": "贔屓にする",
         "reading": "ヒイキニスル",
-        "meaning": "to favor, to favour, to show favor to, to show favour to, to be partial to, to be a regular customer of"
+        "meaning": {
+          "vi": "to favor, to favour, to show favor to, to show favour to, to be partial to, to be a regular customer of"
+        },
+        "romaji": "hiikinisuru"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +42,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d14.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d14.gif",
     "uri": "https://jisho.org/search/%E8%B4%94%23kanji"
-  }
+  },
+  "hanViet": [
+    "bí"
+  ]
 }

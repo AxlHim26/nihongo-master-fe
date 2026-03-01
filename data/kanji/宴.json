@@ -19,34 +19,52 @@
       {
         "example": "宴",
         "reading": "ウタゲ",
-        "meaning": "party, banquet, feast"
+        "meaning": {
+          "vi": "party, banquet, feast"
+        },
+        "romaji": "utage"
       },
       {
         "example": "宴会",
         "reading": "エンカイ",
-        "meaning": "party, banquet, reception, feast, dinner"
+        "meaning": {
+          "vi": "party, banquet, reception, feast, dinner"
+        },
+        "romaji": "enkai"
       },
       {
         "example": "饗宴",
         "reading": "キョウエン",
-        "meaning": "feast, banquet"
+        "meaning": {
+          "en": "feast, banquet"
+        },
+        "romaji": "kyouen"
       },
       {
         "example": "開宴",
         "reading": "カイエン",
-        "meaning": "opening of a banquet, opening of a wedding reception"
+        "meaning": {
+          "vi": "opening of a banquet, opening of a wedding reception"
+        },
+        "romaji": "kaien"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "宴",
         "reading": "うたげ",
-        "meaning": "party, banquet, feast"
+        "meaning": {
+          "vi": "party, banquet, feast"
+        },
+        "romaji": "utage"
       },
       {
         "example": "花見の宴",
         "reading": "はなみのうたげ",
-        "meaning": "cherry blossom viewing party"
+        "meaning": {
+          "vi": "cherry blossom viewing party"
+        },
+        "romaji": "hanaminoutage"
       }
     ],
     "radical": {
@@ -62,5 +80,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb4.gif",
     "uri": "https://jisho.org/search/%E5%AE%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "yến"
+  ]
 }

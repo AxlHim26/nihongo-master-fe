@@ -17,12 +17,18 @@
       {
         "example": "変",
         "reading": "ヘン",
-        "meaning": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, emergency, flat"
+        "meaning": {
+          "vi": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, emergency, flat"
+        },
+        "romaji": "hen"
       },
       {
         "example": "変更",
         "reading": "ヘンコウ",
-        "meaning": "change, modification, alteration, revision, amendment"
+        "meaning": {
+          "en": "change, modification, alteration, revision, amendment"
+        },
+        "romaji": "henkou"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b8a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b8a.gif",
     "uri": "https://jisho.org/search/%E8%AE%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "biến",
+    "biện"
+  ]
 }

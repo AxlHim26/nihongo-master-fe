@@ -295,34 +295,52 @@
       {
         "example": "幼",
         "reading": "ヨウ",
-        "meaning": "infancy, childhood, infant, child"
+        "meaning": {
+          "en": "infancy, childhood, infant, child"
+        },
+        "romaji": "you"
       },
       {
         "example": "幼少",
         "reading": "ヨウショウ",
-        "meaning": "infancy, childhood, tender age"
+        "meaning": {
+          "en": "infancy, childhood, tender age"
+        },
+        "romaji": "youshou"
       },
       {
         "example": "長幼",
         "reading": "チョウヨウ",
-        "meaning": "young and old"
+        "meaning": {
+          "en": "young and old"
+        },
+        "romaji": "chouyou"
       },
       {
         "example": "老幼",
         "reading": "ロウヨウ",
-        "meaning": "old and young"
+        "meaning": {
+          "en": "old and young"
+        },
+        "romaji": "rouyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "幼い",
         "reading": "おさない",
-        "meaning": "very young, little, childish, immature"
+        "meaning": {
+          "en": "very young, little, childish, immature"
+        },
+        "romaji": "osanai"
       },
       {
         "example": "幼い頃",
         "reading": "おさないころ",
-        "meaning": "when one was a very young child, very early in one's life"
+        "meaning": {
+          "en": "when one was a very young child, very early in one's life"
+        },
+        "romaji": "osanaikoro"
       }
     ],
     "radical": {
@@ -337,5 +355,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7c.gif",
     "uri": "https://jisho.org/search/%E5%B9%BC%23kanji"
-  }
+  },
+  "hanViet": [
+    "yếu",
+    "ấu"
+  ]
 }

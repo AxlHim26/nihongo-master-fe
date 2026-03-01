@@ -349,44 +349,68 @@
       {
         "example": "悲",
         "reading": "ヒ",
-        "meaning": "karuna (compassion)"
+        "meaning": {
+          "vi": "karuna (compassion)"
+        },
+        "romaji": "hi"
       },
       {
         "example": "悲哀",
         "reading": "ヒアイ",
-        "meaning": "sorrow, grief, sadness"
+        "meaning": {
+          "en": "sorrow, grief, sadness"
+        },
+        "romaji": "hiai"
       },
       {
         "example": "大慈大悲",
         "reading": "ダイジダイヒ",
-        "meaning": "great compassion and mercy"
+        "meaning": {
+          "vi": "great compassion and mercy"
+        },
+        "romaji": "daijidaihi"
       },
       {
         "example": "無慈悲",
         "reading": "ムジヒ",
-        "meaning": "merciless, ruthless, pitiless, unfeeling"
+        "meaning": {
+          "vi": "merciless, ruthless, pitiless, unfeeling"
+        },
+        "romaji": "mujihi"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "悲しい",
         "reading": "かなしい",
-        "meaning": "sad, miserable, unhappy, sorrowful, sad, lamentable, deplorable, grievous"
+        "meaning": {
+          "vi": "sad, miserable, unhappy, sorrowful, sad, lamentable, deplorable, grievous"
+        },
+        "romaji": "kanashii"
       },
       {
         "example": "悲しいかな",
         "reading": "かなしいかな",
-        "meaning": "sad to say, how sad, alas"
+        "meaning": {
+          "en": "sad to say, how sad, alas"
+        },
+        "romaji": "kanashiikana"
       },
       {
         "example": "悲しむ",
         "reading": "かなしむ",
-        "meaning": "to be sad, to mourn for, to regret"
+        "meaning": {
+          "en": "to be sad, to mourn for, to regret"
+        },
+        "romaji": "kanashimu"
       },
       {
         "example": "悲しむべき境遇",
         "reading": "かなしむべききょうぐう",
-        "meaning": "pitiable condition"
+        "meaning": {
+          "vi": "pitiable condition"
+        },
+        "romaji": "kanashimubekikyouguu"
       }
     ],
     "radical": {
@@ -405,5 +429,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60b2.gif",
     "uri": "https://jisho.org/search/%E6%82%B2%23kanji"
-  }
+  },
+  "hanViet": [
+    "bi"
+  ]
 }

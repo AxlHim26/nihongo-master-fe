@@ -258,29 +258,44 @@
       {
         "example": "工作機械",
         "reading": "コウサクキカイ",
-        "meaning": "machine tool"
+        "meaning": {
+          "en": "machine tool"
+        },
+        "romaji": "kousakukikai"
       },
       {
         "example": "産業機械",
         "reading": "サンギョウキカイ",
-        "meaning": "industrial machinery"
+        "meaning": {
+          "en": "industrial machinery"
+        },
+        "romaji": "sangyoukikai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "枷",
         "reading": "かせ",
-        "meaning": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"
+        "meaning": {
+          "vi": "shackles, fetters, irons, handcuffs, restraint, constraint, bonds (e.g. family), ties, binding relationship, binding relationships, encumbrance"
+        },
+        "romaji": "kase"
       },
       {
         "example": "足かせ",
         "reading": "あしかせ",
-        "meaning": "fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"
+        "meaning": {
+          "vi": "fetters, shackles, hobbles, encumbrance, hindrance, burden, trap"
+        },
+        "romaji": "ashikase"
       },
       {
         "example": "手かせ",
         "reading": "てかせ",
-        "meaning": "handcuffs"
+        "meaning": {
+          "en": "handcuffs"
+        },
+        "romaji": "tekase"
       }
     ],
     "radical": {
@@ -296,5 +311,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b0.gif",
     "uri": "https://jisho.org/search/%E6%A2%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "giới"
+  ]
 }

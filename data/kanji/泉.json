@@ -241,44 +241,68 @@
       {
         "example": "泉水",
         "reading": "センスイ",
-        "meaning": "garden pond, miniature lake, fountain"
+        "meaning": {
+          "vi": "garden pond, miniature lake, fountain"
+        },
+        "romaji": "sensui"
       },
       {
         "example": "泉塩",
         "reading": "センエン",
-        "meaning": "salt (from a mineral spring)"
+        "meaning": {
+          "vi": "salt (from a mineral spring)"
+        },
+        "romaji": "sen'en"
       },
       {
         "example": "源泉",
         "reading": "ゲンセン",
-        "meaning": "source (of a spring, etc.), source (of payment, energy, knowledge, etc.), origin, wellspring"
+        "meaning": {
+          "vi": "source (of a spring, etc.), source (of payment, energy, knowledge, etc.), origin, wellspring"
+        },
+        "romaji": "gensen"
       },
       {
         "example": "天然温泉",
         "reading": "テンネンオンセン",
-        "meaning": "natural hot spring"
+        "meaning": {
+          "vi": "natural hot spring"
+        },
+        "romaji": "tennen'onsen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "泉",
         "reading": "いずみ",
-        "meaning": "spring, fountain"
+        "meaning": {
+          "vi": "spring, fountain"
+        },
+        "romaji": "izumi"
       },
       {
         "example": "泉熱",
         "reading": "いずみねつ",
-        "meaning": "Izumi fever (resembles scarlet fever)"
+        "meaning": {
+          "en": "Izumi fever (resembles scarlet fever)"
+        },
+        "romaji": "izuminetsu"
       },
       {
         "example": "知識の泉",
         "reading": "ちしきのいずみ",
-        "meaning": "source of knowledge"
+        "meaning": {
+          "en": "source of knowledge"
+        },
+        "romaji": "chishikinoizumi"
       },
       {
         "example": "ことばの泉",
         "reading": "ことばのいずみ",
-        "meaning": "Kotoba no Izumi (Japanese dictionary; publ. 1898)"
+        "meaning": {
+          "vi": "Kotoba no Izumi (Japanese dictionary; publ. 1898)"
+        },
+        "romaji": "kotobanoizumi"
       }
     ],
     "radical": {
@@ -297,5 +321,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cc9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cc9.gif",
     "uri": "https://jisho.org/search/%E6%B3%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "toàn",
+    "tuyền"
+  ]
 }

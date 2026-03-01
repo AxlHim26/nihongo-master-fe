@@ -19,29 +19,44 @@
       {
         "example": "克明",
         "reading": "コクメイ",
-        "meaning": "detailed, scrupulous, careful, minute, faithful, elaborate, diligent, honest, upright, sincere"
+        "meaning": {
+          "vi": "detailed, scrupulous, careful, minute, faithful, elaborate, diligent, honest, upright, sincere"
+        },
+        "romaji": "kokumei"
       },
       {
         "example": "克服",
         "reading": "コクフク",
-        "meaning": "conquest (of a difficulty, illness, crisis, etc.), overcoming, surmounting, bringing under control"
+        "meaning": {
+          "en": "conquest (of a difficulty, illness, crisis, etc.), overcoming, surmounting, bringing under control"
+        },
+        "romaji": "kokufuku"
       },
       {
         "example": "相克",
         "reading": "ソウコク",
-        "meaning": "rivalry"
+        "meaning": {
+          "en": "rivalry"
+        },
+        "romaji": "soukoku"
       },
       {
         "example": "超克",
         "reading": "チョウコク",
-        "meaning": "overcoming, conquering, surmounting, getting over"
+        "meaning": {
+          "en": "overcoming, conquering, surmounting, getting over"
+        },
+        "romaji": "choukoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "勝つ",
         "reading": "かつ",
-        "meaning": "to win, to gain victory"
+        "meaning": {
+          "en": "to win, to gain victory"
+        },
+        "romaji": "katsu"
       }
     ],
     "radical": {
@@ -57,5 +72,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514b.gif",
     "uri": "https://jisho.org/search/%E5%85%8B%23kanji"
-  }
+  },
+  "hanViet": [
+    "khắc"
+  ]
 }

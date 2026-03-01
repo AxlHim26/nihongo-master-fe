@@ -17,12 +17,18 @@
       {
         "example": "辣腕",
         "reading": "ラツワン",
-        "meaning": "shrewdness, sharpness, astuteness, acumen, tact"
+        "meaning": {
+          "vi": "shrewdness, sharpness, astuteness, acumen, tact"
+        },
+        "romaji": "ratsuwan"
       },
       {
         "example": "悪辣",
         "reading": "アクラツ",
-        "meaning": "crafty, vicious, unscrupulous, sharp"
+        "meaning": {
+          "vi": "crafty, vicious, unscrupulous, sharp"
+        },
+        "romaji": "akuratsu"
       }
     ],
     "kunyomiExamples": [],
@@ -42,5 +48,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fa3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fa3.gif",
     "uri": "https://jisho.org/search/%E8%BE%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "lạt"
+  ]
 }

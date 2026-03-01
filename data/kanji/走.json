@@ -314,29 +314,44 @@
       {
         "example": "走",
         "reading": "ソウ",
-        "meaning": "run, race"
+        "meaning": {
+          "en": "run, race"
+        },
+        "romaji": "sou"
       },
       {
         "example": "走行",
         "reading": "ソウコウ",
-        "meaning": "running (of a car, bus, etc.), traveling, travelling, running (of a program)"
+        "meaning": {
+          "vi": "running (of a car, bus, etc.), traveling, travelling, running (of a program)"
+        },
+        "romaji": "soukou"
       },
       {
         "example": "代走",
         "reading": "ダイソウ",
-        "meaning": "substitute runner"
+        "meaning": {
+          "en": "substitute runner"
+        },
+        "romaji": "daisou"
       },
       {
         "example": "快走",
         "reading": "カイソウ",
-        "meaning": "fast moving, fast running, fast sailing"
+        "meaning": {
+          "en": "fast moving, fast running, fast sailing"
+        },
+        "romaji": "kaisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "走る",
         "reading": "はしる",
-        "meaning": "to run, to run (of a vehicle), to drive, to travel, to move, to sail, to rush (to), to dash, to race, to retreat, to flee, to defect (to), to run away, to abscond, to elope, to flash (of lightning), to streak, to shoot (through; e.g. of pain), to run (through), to flare, to flit (e.g. across one's face), to spread quickly (of news, shock, etc.), to go (e.g. bad, to extremes), to become, to turn, to take to (e.g. crime), to get carried away by (e.g. one's emotions), to get involved in, to get wrapped up in, to run (through; of a road, street, etc.), to extend (e.g. of a mountain range), to stretch, to lie"
+        "meaning": {
+          "vi": "to run, to run (of a vehicle), to drive, to travel, to move, to sail, to rush (to), to dash, to race, to retreat, to flee, to defect (to), to run away, to abscond, to elope, to flash (of lightning), to streak, to shoot (through; e.g. of pain), to run (through), to flare, to flit (e.g. across one's face), to spread quickly (of news, shock, etc.), to go (e.g. bad, to extremes), to become, to turn, to take to (e.g. crime), to get carried away by (e.g. one's emotions), to get involved in, to get wrapped up in, to run (through; of a road, street, etc.), to extend (e.g. of a mountain range), to stretch, to lie"
+        },
+        "romaji": "hashiru"
       }
     ],
     "radical": {
@@ -354,5 +369,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d70.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d70.gif",
     "uri": "https://jisho.org/search/%E8%B5%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "tẩu"
+  ]
 }

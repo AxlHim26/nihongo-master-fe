@@ -18,32 +18,50 @@
       {
         "example": "岐路",
         "reading": "キロ",
-        "meaning": "forked road, crossroads"
+        "meaning": {
+          "en": "forked road, crossroads"
+        },
+        "romaji": "kiro"
       },
       {
         "example": "多岐",
         "reading": "タキ",
-        "meaning": "digression, many divergences"
+        "meaning": {
+          "en": "digression, many divergences"
+        },
+        "romaji": "taki"
       },
       {
         "example": "壱岐",
         "reading": "イキ",
-        "meaning": "Iki (former province located on Iki Island in present-day Nagasaki Prefecture), Iki (island)"
+        "meaning": {
+          "vi": "Iki (former province located on Iki Island in present-day Nagasaki Prefecture), Iki (island)"
+        },
+        "romaji": "iki"
       },
       {
         "example": "岐阜",
         "reading": "ギフ",
-        "meaning": "Gifu (city, prefecture)"
+        "meaning": {
+          "vi": "Gifu (city, prefecture)"
+        },
+        "romaji": "gifu"
       },
       {
         "example": "岐大",
         "reading": "ギダイ",
-        "meaning": "Gifu University (abbr)"
+        "meaning": {
+          "en": "Gifu University (abbr)"
+        },
+        "romaji": "gidai"
       },
       {
         "example": "伊邪那岐",
         "reading": "イザナギ",
-        "meaning": "Izanagi, male deity who fathered Japan and the sun, moon, and storm gods"
+        "meaning": {
+          "vi": "Izanagi, male deity who fathered Japan and the sun, moon, and storm gods"
+        },
+        "romaji": "izanagi"
       }
     ],
     "kunyomiExamples": [],
@@ -61,5 +79,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c90.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c90.gif",
     "uri": "https://jisho.org/search/%E5%B2%90%23kanji"
-  }
+  },
+  "hanViet": [
+    "kì",
+    "kỳ"
+  ]
 }

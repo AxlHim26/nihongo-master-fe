@@ -15,7 +15,10 @@
       {
         "example": "芫菁",
         "reading": "ゲンセイ",
-        "meaning": "blister beetle, cantharides"
+        "meaning": {
+          "en": "blister beetle, cantharides"
+        },
+        "romaji": "gensei"
       }
     ],
     "kunyomiExamples": [],
@@ -36,5 +39,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82ab.gif",
     "uri": "https://jisho.org/search/%E8%8A%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "diêm",
+    "nguyên"
+  ]
 }

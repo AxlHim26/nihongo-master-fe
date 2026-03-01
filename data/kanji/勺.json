@@ -15,17 +15,26 @@
       {
         "example": "勺",
         "reading": "シャク",
-        "meaning": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square"
+        "meaning": {
+          "vi": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square"
+        },
+        "romaji": "shaku"
       },
       {
         "example": "勺水",
         "reading": "シャクスイ",
-        "meaning": "shaku of water, 18 ml of water, droplet of water, very small amount of water"
+        "meaning": {
+          "vi": "shaku of water, 18 ml of water, droplet of water, very small amount of water"
+        },
+        "romaji": "shakusui"
       },
       {
         "example": "一勺",
         "reading": "イッシャク",
-        "meaning": "one shaku"
+        "meaning": {
+          "en": "one shaku"
+        },
+        "romaji": "isshaku"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +50,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052fa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52fa.gif",
     "uri": "https://jisho.org/search/%E5%8B%BA%23kanji"
-  }
+  },
+  "hanViet": [
+    "chước",
+    "thược"
+  ]
 }

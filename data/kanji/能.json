@@ -371,44 +371,68 @@
       {
         "example": "能",
         "reading": "ノウ",
-        "meaning": "talent, gift, function, noh (theatre)"
+        "meaning": {
+          "en": "talent, gift, function, noh (theatre)"
+        },
+        "romaji": "nou"
       },
       {
         "example": "能楽",
         "reading": "ノウガク",
-        "meaning": "noh play"
+        "meaning": {
+          "vi": "noh play"
+        },
+        "romaji": "nougaku"
       },
       {
         "example": "有能",
         "reading": "ユウノウ",
-        "meaning": "able, capable, competent, talented, efficient"
+        "meaning": {
+          "vi": "able, capable, competent, talented, efficient"
+        },
+        "romaji": "yuunou"
       },
       {
         "example": "芸能",
         "reading": "ゲイノウ",
-        "meaning": "public entertainment, performing arts, accomplishments, attainments"
+        "meaning": {
+          "vi": "public entertainment, performing arts, accomplishments, attainments"
+        },
+        "romaji": "geinou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "良く",
         "reading": "よく",
-        "meaning": "nicely, properly, well, skillfully, skilfully, frequently, often, I'm glad that you ..., thank you for ..., (you have) quite the nerve to, I don't know how you can ..."
+        "meaning": {
+          "vi": "nicely, properly, well, skillfully, skilfully, frequently, often, I'm glad that you ..., thank you for ..., (you have) quite the nerve to, I don't know how you can ..."
+        },
+        "romaji": "yoku"
       },
       {
         "example": "良く良く",
         "reading": "よくよく",
-        "meaning": "carefully, closely, very, extremely, exceedingly, have no choice, cannot be helped, unavoidable, inevitable"
+        "meaning": {
+          "vi": "carefully, closely, very, extremely, exceedingly, have no choice, cannot be helped, unavoidable, inevitable"
+        },
+        "romaji": "yokuyoku"
       },
       {
         "example": "能う",
         "reading": "あたう",
-        "meaning": "to be able (to do), to be capable (of doing)"
+        "meaning": {
+          "vi": "to be able (to do), to be capable (of doing)"
+        },
+        "romaji": "atau"
       },
       {
         "example": "能う限り",
         "reading": "あたうかぎり",
-        "meaning": "as much as possible, as far as possible, to the best of one's abilities"
+        "meaning": {
+          "vi": "as much as possible, as far as possible, to the best of one's abilities"
+        },
+        "romaji": "ataukagiri"
       }
     ],
     "radical": {
@@ -427,5 +451,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080fd.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80fd.gif",
     "uri": "https://jisho.org/search/%E8%83%BD%23kanji"
-  }
+  },
+  "hanViet": [
+    "nai",
+    "năng",
+    "nại"
+  ]
 }

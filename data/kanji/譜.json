@@ -17,22 +17,34 @@
       {
         "example": "譜",
         "reading": "フ",
-        "meaning": "(sheet) music, (musical) note, (musical) score, genealogy, family tree, record of a game of go, shogi, chess, etc."
+        "meaning": {
+          "en": "(sheet) music, (musical) note, (musical) score, genealogy, family tree, record of a game of go, shogi, chess, etc."
+        },
+        "romaji": "fu"
       },
       {
         "example": "譜面",
         "reading": "フメン",
-        "meaning": "sheet music, score"
+        "meaning": {
+          "en": "sheet music, score"
+        },
+        "romaji": "fumen"
       },
       {
         "example": "系譜",
         "reading": "ケイフ",
-        "meaning": "genealogy, lineage, family tree, pedigree"
+        "meaning": {
+          "vi": "genealogy, lineage, family tree, pedigree"
+        },
+        "romaji": "keifu"
       },
       {
         "example": "五線譜",
         "reading": "ゴセンフ",
-        "meaning": "staff notation"
+        "meaning": {
+          "en": "staff notation"
+        },
+        "romaji": "gosenfu"
       }
     ],
     "kunyomiExamples": [],
@@ -55,5 +67,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b5c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b5c.gif",
     "uri": "https://jisho.org/search/%E8%AD%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "phả",
+    "phổ"
+  ]
 }

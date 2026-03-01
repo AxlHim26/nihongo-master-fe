@@ -256,24 +256,36 @@
       {
         "example": "各",
         "reading": "カク",
-        "meaning": "each, every, all"
+        "meaning": {
+          "en": "each, every, all"
+        },
+        "romaji": "kaku"
       },
       {
         "example": "各自",
         "reading": "カクジ",
-        "meaning": "each (person), everyone, individual, respective"
+        "meaning": {
+          "vi": "each (person), everyone, individual, respective"
+        },
+        "romaji": "kakuji"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "各々",
         "reading": "おのおの",
-        "meaning": "each, you (plural)"
+        "meaning": {
+          "vi": "each, you (plural)"
+        },
+        "romaji": "onoono"
       },
       {
         "example": "各々方",
         "reading": "おのおのがた",
-        "meaning": "all of you"
+        "meaning": {
+          "en": "all of you"
+        },
+        "romaji": "onoonogata"
       }
     ],
     "radical": {
@@ -289,5 +301,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05404.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5404.gif",
     "uri": "https://jisho.org/search/%E5%90%84%23kanji"
-  }
+  },
+  "hanViet": [
+    "các"
+  ]
 }

@@ -16,12 +16,18 @@
       {
         "example": "枸杞",
         "reading": "クコ",
-        "meaning": "Chinese matrimony vine (Lycium chinense), Chinese wolfberry, goji"
+        "meaning": {
+          "en": "Chinese matrimony vine (Lycium chinense), Chinese wolfberry, goji"
+        },
+        "romaji": "kuko"
       },
       {
         "example": "杞憂",
         "reading": "キユウ",
-        "meaning": "needless fear, groundless apprehension, unfounded worry"
+        "meaning": {
+          "vi": "needless fear, groundless apprehension, unfounded worry"
+        },
+        "romaji": "kiyuu"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0675e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/675e.gif",
     "uri": "https://jisho.org/search/%E6%9D%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "kỉ",
+    "kỷ"
+  ]
 }

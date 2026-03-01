@@ -19,39 +19,60 @@
       {
         "example": "錦衣",
         "reading": "キンイ",
-        "meaning": "fine clothes, beautiful kimono, Japanese brocade"
+        "meaning": {
+          "vi": "fine clothes, beautiful kimono, Japanese brocade"
+        },
+        "romaji": "kin'i"
       },
       {
         "example": "錦衣玉食",
         "reading": "キンイギョクショク",
-        "meaning": "beautiful clothes and fine food, life of luxury"
+        "meaning": {
+          "en": "beautiful clothes and fine food, life of luxury"
+        },
+        "romaji": "kin'igyokushoku"
       },
       {
         "example": "蜀錦",
         "reading": "ショッキン",
-        "meaning": "type of brocade"
+        "meaning": {
+          "vi": "type of brocade"
+        },
+        "romaji": "shokkin"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "錦",
         "reading": "にしき",
-        "meaning": "brocade, fine dress, fine clothes"
+        "meaning": {
+          "en": "brocade, fine dress, fine clothes"
+        },
+        "romaji": "nishiki"
       },
       {
         "example": "錦絵",
         "reading": "にしきえ",
-        "meaning": "nishiki-e, multi-colour woodblock print"
+        "meaning": {
+          "vi": "nishiki-e, multi-colour woodblock print"
+        },
+        "romaji": "nishikie"
       },
       {
         "example": "蜀江の錦",
         "reading": "しょっこうのにしき",
-        "meaning": "type of red brocade originally from the ancient Chinese country of Shu and passed on in Japan, type of brocade made in Sichuan during the Ming period"
+        "meaning": {
+          "vi": "type of red brocade originally from the ancient Chinese country of Shu and passed on in Japan, type of brocade made in Sichuan during the Ming period"
+        },
+        "romaji": "shokkounonishiki"
       },
       {
         "example": "綾錦",
         "reading": "あやにしき",
-        "meaning": "twill damask and brocade"
+        "meaning": {
+          "en": "twill damask and brocade"
+        },
+        "romaji": "ayanishiki"
       }
     ],
     "radical": {
@@ -70,5 +91,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09326.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9326.gif",
     "uri": "https://jisho.org/search/%E9%8C%A6%23kanji"
-  }
+  },
+  "hanViet": [
+    "cẩm"
+  ]
 }

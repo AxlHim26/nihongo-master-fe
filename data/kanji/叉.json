@@ -18,54 +18,84 @@
       {
         "example": "叉骨",
         "reading": "サコツ",
-        "meaning": "wishbone, furcula"
+        "meaning": {
+          "en": "wishbone, furcula"
+        },
+        "romaji": "sakotsu"
       },
       {
         "example": "叉銃",
         "reading": "サジュウ",
-        "meaning": "stacked arms"
+        "meaning": {
+          "en": "stacked arms"
+        },
+        "romaji": "sajuu"
       },
       {
         "example": "蹄叉",
         "reading": "テイサ",
-        "meaning": "frog, fourchette, pad in a horse's hoof that acts as a shock absorber"
+        "meaning": {
+          "vi": "frog, fourchette, pad in a horse's hoof that acts as a shock absorber"
+        },
+        "romaji": "teisa"
       },
       {
         "example": "視神経交叉",
         "reading": "シシンケイコウサ",
-        "meaning": "optic chiasm, optic chiasma"
+        "meaning": {
+          "vi": "optic chiasm, optic chiasma"
+        },
+        "romaji": "shishinkeikousa"
       },
       {
         "example": "夜叉",
         "reading": "ヤシャ",
-        "meaning": "yaksha (Buddhist guardian deities sometimes depicted as demonic warriors)"
+        "meaning": {
+          "vi": "yaksha (Buddhist guardian deities sometimes depicted as demonic warriors)"
+        },
+        "romaji": "yasha"
       },
       {
         "example": "波羅提木叉",
         "reading": "ハラダイモクシャ",
-        "meaning": "pratimokṣa, pratimoksha, rules governing the behaviour of Buddhist monks and nuns"
+        "meaning": {
+          "vi": "pratimokṣa, pratimoksha, rules governing the behaviour of Buddhist monks and nuns"
+        },
+        "romaji": "haradaimokusha"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "股",
         "reading": "また",
-        "meaning": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+        "meaning": {
+          "en": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+        },
+        "romaji": "mata"
       },
       {
         "example": "また木",
         "reading": "またぎ",
-        "meaning": "forked tree, forked branch"
+        "meaning": {
+          "en": "forked tree, forked branch"
+        },
+        "romaji": "matagi"
       },
       {
         "example": "逆叉",
         "reading": "さかまた",
-        "meaning": "orca, killer whale"
+        "meaning": {
+          "en": "orca, killer whale"
+        },
+        "romaji": "sakamata"
       },
       {
         "example": "刺股",
         "reading": "さすまた",
-        "meaning": "sasumata, man catcher, two-pronged weapon for catching criminals"
+        "meaning": {
+          "vi": "sasumata, man catcher, two-pronged weapon for catching criminals"
+        },
+        "romaji": "sasumata"
       }
     ],
     "radical": {
@@ -80,5 +110,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c9.gif",
     "uri": "https://jisho.org/search/%E5%8F%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "xoa"
+  ]
 }

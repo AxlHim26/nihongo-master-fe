@@ -346,44 +346,68 @@
       {
         "example": "草",
         "reading": "ソウ",
-        "meaning": "draft, rough copy, highly cursive style (of writing Chinese characters), grass style"
+        "meaning": {
+          "vi": "draft, rough copy, highly cursive style (of writing Chinese characters), grass style"
+        },
+        "romaji": "sou"
       },
       {
         "example": "壮",
         "reading": "ソウ",
-        "meaning": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion)"
+        "meaning": {
+          "vi": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion)"
+        },
+        "romaji": "sou"
       },
       {
         "example": "除草",
         "reading": "ジョソウ",
-        "meaning": "weeding"
+        "meaning": {
+          "en": "weeding"
+        },
+        "romaji": "josou"
       },
       {
         "example": "起草",
         "reading": "キソウ",
-        "meaning": "drafting (e.g. a bill), drawing up"
+        "meaning": {
+          "vi": "drafting (e.g. a bill), drawing up"
+        },
+        "romaji": "kisou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "草",
         "reading": "くさ",
-        "meaning": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha"
+        "meaning": {
+          "en": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha"
+        },
+        "romaji": "kusa"
       },
       {
         "example": "草刈り",
         "reading": "くさかり",
-        "meaning": "mowing, mower"
+        "meaning": {
+          "en": "mowing, mower"
+        },
+        "romaji": "kusakari"
       },
       {
         "example": "水草",
         "reading": "みずくさ",
-        "meaning": "water plant, aquatic plant, waterweed, hydrophyte"
+        "meaning": {
+          "vi": "water plant, aquatic plant, waterweed, hydrophyte"
+        },
+        "romaji": "mizukusa"
       },
       {
         "example": "若草",
         "reading": "わかくさ",
-        "meaning": "green grass, young (fresh) grass"
+        "meaning": {
+          "en": "green grass, young (fresh) grass"
+        },
+        "romaji": "wakakusa"
       }
     ],
     "radical": {
@@ -402,5 +426,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08349.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8349.gif",
     "uri": "https://jisho.org/search/%E8%8D%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "thảo",
+    "tạo"
+  ]
 }

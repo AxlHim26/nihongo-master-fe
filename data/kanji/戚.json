@@ -20,12 +20,18 @@
       {
         "example": "外戚",
         "reading": "ガイセキ",
-        "meaning": "maternal relative"
+        "meaning": {
+          "en": "maternal relative"
+        },
+        "romaji": "gaiseki"
       },
       {
         "example": "休戚",
         "reading": "キュウセキ",
-        "meaning": "weal and woe, joys and sorrows, welfare"
+        "meaning": {
+          "en": "weal and woe, joys and sorrows, welfare"
+        },
+        "romaji": "kyuuseki"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0621a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/621a.gif",
     "uri": "https://jisho.org/search/%E6%88%9A%23kanji"
-  }
+  },
+  "hanViet": [
+    "thích",
+    "xúc"
+  ]
 }

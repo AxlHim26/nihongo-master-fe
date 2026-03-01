@@ -17,12 +17,18 @@
       {
         "example": "悲愴",
         "reading": "ヒソウ",
-        "meaning": "pathetic, sad, sorrowful, grievous"
+        "meaning": {
+          "vi": "pathetic, sad, sorrowful, grievous"
+        },
+        "romaji": "hisou"
       },
       {
         "example": "悽愴",
         "reading": "セイソウ",
-        "meaning": "pathetic, dreadful"
+        "meaning": {
+          "vi": "pathetic, dreadful"
+        },
+        "romaji": "seisou"
       }
     ],
     "kunyomiExamples": [],
@@ -46,5 +52,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06134.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6134.gif",
     "uri": "https://jisho.org/search/%E6%84%B4%23kanji"
-  }
+  },
+  "hanViet": [
+    "sang",
+    "sảng"
+  ]
 }

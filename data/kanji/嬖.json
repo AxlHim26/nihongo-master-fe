@@ -16,12 +16,18 @@
       {
         "example": "嬖妾",
         "reading": "ヘイショウ",
-        "meaning": "beloved concubine, favorite mistress"
+        "meaning": {
+          "en": "beloved concubine, favorite mistress"
+        },
+        "romaji": "heishou"
       },
       {
         "example": "嬖臣",
         "reading": "ヘイシン",
-        "meaning": "favorite retainer, court favorite"
+        "meaning": {
+          "en": "favorite retainer, court favorite"
+        },
+        "romaji": "heishin"
       }
     ],
     "kunyomiExamples": [],
@@ -41,5 +47,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b16.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b16.gif",
     "uri": "https://jisho.org/search/%E5%AC%96%23kanji"
-  }
+  },
+  "hanViet": [
+    "bế"
+  ]
 }

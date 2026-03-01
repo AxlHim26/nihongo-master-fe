@@ -16,22 +16,34 @@
       {
         "example": "椀",
         "reading": "ワン",
-        "meaning": "bowl (wooden), counter for bowls of food or drink"
+        "meaning": {
+          "en": "bowl (wooden), counter for bowls of food or drink"
+        },
+        "romaji": "wan"
       },
       {
         "example": "椀形",
         "reading": "ワンガタ",
-        "meaning": "bowl-shaped, dome-shaped"
+        "meaning": {
+          "vi": "bowl-shaped, dome-shaped"
+        },
+        "romaji": "wangata"
       },
       {
         "example": "お椀",
         "reading": "オワン",
-        "meaning": "bowl (wooden)"
+        "meaning": {
+          "en": "bowl (wooden)"
+        },
+        "romaji": "owan"
       },
       {
         "example": "飯椀",
         "reading": "メシワン",
-        "meaning": "bowl used for serving rice"
+        "meaning": {
+          "en": "bowl used for serving rice"
+        },
+        "romaji": "meshiwan"
       }
     ],
     "kunyomiExamples": [],
@@ -49,5 +61,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06900.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6900.gif",
     "uri": "https://jisho.org/search/%E6%A4%80%23kanji"
-  }
+  },
+  "hanViet": [
+    "oản",
+    "uyển"
+  ]
 }

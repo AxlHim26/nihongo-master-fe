@@ -17,19 +17,28 @@
       {
         "example": "揉捻",
         "reading": "ジュウネン",
-        "meaning": "rolling freshly picked tea-leaves, crushing tea"
+        "meaning": {
+          "vi": "rolling freshly picked tea-leaves, crushing tea"
+        },
+        "romaji": "juunen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "揉む",
         "reading": "もむ",
-        "meaning": "to rub, to crumple, to massage, to argue, to have a heated discussion, to train, to coach, to jostle, to crowd, to shake, to rock, to have various experiences (out in the world)"
+        "meaning": {
+          "vi": "to rub, to crumple, to massage, to argue, to have a heated discussion, to train, to coach, to jostle, to crowd, to shake, to rock, to have various experiences (out in the world)"
+        },
+        "romaji": "momu"
       },
       {
         "example": "揉める",
         "reading": "もめる",
-        "meaning": "to disagree, to dispute, to fight (over)"
+        "meaning": {
+          "vi": "to disagree, to dispute, to fight (over)"
+        },
+        "romaji": "momeru"
       }
     ],
     "radical": {
@@ -49,5 +58,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063c9.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63c9.gif",
     "uri": "https://jisho.org/search/%E6%8F%89%23kanji"
-  }
+  },
+  "hanViet": [
+    "nhu",
+    "nhụ"
+  ]
 }

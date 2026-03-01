@@ -22,39 +22,81 @@
       {
         "example": "乞食",
         "reading": "コジキ",
-        "meaning": "ăn xin, sự ăn xin"
+        "meaning": {
+          "vi": "ăn xin, sự ăn xin"
+        },
+        "meaningVN": "ăn xin, sự ăn xin",
+        "hanViet": "khí thực",
+        "hanVietExplain": "乞 (khí: kẻ ăn mày, người ăn xin) + 食 (thực: ăn) → ăn xin, sự ăn xin",
+        "romaji": "kojiki"
       },
       {
         "example": "乞丐",
         "reading": "コツガイ",
-        "meaning": "ăn xin, kẻ lang thang"
+        "meaning": {
+          "vi": "ăn xin, kẻ lang thang"
+        },
+        "meaningVN": "ăn xin, kẻ lang thang",
+        "hanViet": "khí cái",
+        "hanVietExplain": "乞 (khí: kẻ ăn mày, người ăn xin) + 丐 (cái: kẻ ăn mày) → ăn xin, kẻ lang thang",
+        "romaji": "kotsugai"
       },
       {
         "example": "行乞",
         "reading": "ギョウコツ",
-        "meaning": "đi khất thực (xin ăn), đi xin ăn, pindacara"
+        "meaning": {
+          "vi": "đi khất thực (xin ăn), đi xin ăn, pindacara"
+        },
+        "meaningVN": "đi khất thực (xin ăn), đi xin ăn, pindacara",
+        "hanViet": "hàng khí",
+        "hanVietExplain": "行 (hàng: hàng, dòng) + 乞 (khí: kẻ ăn mày, người ăn xin) → đi khất thực (xin ăn), đi xin ăn, pindacara",
+        "romaji": "gyoukotsu"
       },
       {
         "example": "乞巧奠",
         "reading": "キッコウデン",
-        "meaning": "Lễ hội Cầu Tài (tiền thân lễ Tanabata)"
+        "meaning": {
+          "vi": "Lễ hội Cầu Tài (tiền thân lễ Tanabata)"
+        },
+        "meaningVN": "lễ hội cầu tài (tiền thân lễ tanabata)",
+        "hanViet": "khí xảo điện",
+        "hanVietExplain": "乞 (khí: kẻ ăn mày, người ăn xin) + 巧 (xảo: khéo léo) + 奠 (điện: định yên) → lễ hội cầu tài (tiền thân lễ tanabata)",
+        "romaji": "kikkouden"
       },
       {
         "example": "乞丐",
         "reading": "コツガイ",
-        "meaning": "ăn xin, kẻ lang thang"
+        "meaning": {
+          "vi": "ăn xin, kẻ lang thang"
+        },
+        "meaningVN": "ăn xin, kẻ lang thang",
+        "hanViet": "khí cái",
+        "hanVietExplain": "乞 (khí: kẻ ăn mày, người ăn xin) + 丐 (cái: kẻ ăn mày) → ăn xin, kẻ lang thang",
+        "romaji": "kotsugai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "乞う",
         "reading": "こう",
-        "meaning": "xin, hỏi, yêu cầu, mời, cầu nguyện, ước mong"
+        "meaning": {
+          "vi": "xin, hỏi, yêu cầu, mời, cầu nguyện, ước mong"
+        },
+        "meaningVN": "xin, hỏi, yêu cầu, mời, cầu nguyện, ước mong",
+        "hanViet": "khí う",
+        "hanVietExplain": "khí: kẻ ăn mày, người ăn xin",
+        "romaji": "kou"
       },
       {
         "example": "乞高評",
         "reading": "こうこうひょう",
-        "meaning": "kèm lời chúc của tác giả"
+        "meaning": {
+          "vi": "kèm lời chúc của tác giả"
+        },
+        "meaningVN": "kèm lời chúc của tác giả",
+        "hanViet": "khí cao bình",
+        "hanVietExplain": "乞 (khí: kẻ ăn mày, người ăn xin) + 高 (cao: cao) + 評 (bình: phê bình, bình phẩm) → kèm lời chúc của tác giả",
+        "romaji": "koukouhyou"
       }
     ],
     "radical": {
@@ -77,5 +119,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e5e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e5e.gif",
     "uri": "https://jisho.org/search/%E4%B9%9E%23kanji"
-  }
+  },
+  "hanViet": [
+    "khí",
+    "khất"
+  ],
+  "meaningVN": "xin, mời, hỏi",
+  "hanVietExplain": "khí: kẻ ăn mày, người ăn xin"
 }

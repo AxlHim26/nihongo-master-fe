@@ -364,79 +364,124 @@
       {
         "example": "極",
         "reading": "キョク",
-        "meaning": "pole, climax, extreme, extremity, culmination, height, zenith, nadir"
+        "meaning": {
+          "vi": "pole, climax, extreme, extremity, culmination, height, zenith, nadir"
+        },
+        "romaji": "kyoku"
       },
       {
         "example": "極右",
         "reading": "キョクウ",
-        "meaning": "far right (in politics), extreme right, ultraconservative"
+        "meaning": {
+          "vi": "far right (in politics), extreme right, ultraconservative"
+        },
+        "romaji": "kyokuu"
       },
       {
         "example": "消極",
         "reading": "ショウキョク",
-        "meaning": "passive, negative, conservative, depolarization"
+        "meaning": {
+          "vi": "passive, negative, conservative, depolarization"
+        },
+        "romaji": "shoukyoku"
       },
       {
         "example": "対極",
         "reading": "タイキョク",
-        "meaning": "antipodes, other (opposite) extreme, opposite, antithesis"
+        "meaning": {
+          "vi": "antipodes, other (opposite) extreme, opposite, antithesis"
+        },
+        "romaji": "taikyoku"
       },
       {
         "example": "極",
         "reading": "ゴク",
-        "meaning": "quite, very, 10^48, quindecillion"
+        "meaning": {
+          "en": "quite, very, 10^48, quindecillion"
+        },
+        "romaji": "goku"
       },
       {
         "example": "極秘",
         "reading": "ゴクヒ",
-        "meaning": "absolute secrecy"
+        "meaning": {
+          "en": "absolute secrecy"
+        },
+        "romaji": "gokuhi"
       },
       {
         "example": "極々",
         "reading": "ゴクゴク",
-        "meaning": "extremely, highly"
+        "meaning": {
+          "en": "extremely, highly"
+        },
+        "romaji": "gokugoku"
       },
       {
         "example": "失礼至極",
         "reading": "シツレイシゴク",
-        "meaning": "extremely rude, impertinent, impolite"
+        "meaning": {
+          "vi": "extremely rude, impertinent, impolite"
+        },
+        "romaji": "shitsureishigoku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "極める",
         "reading": "きわめる",
-        "meaning": "to carry to extremes, to go to the end of something, to reach the limits of something, to reach the peak of something (e.g. luxury, hardships, etc), to be extremely (e.g. busy), to exhaust completely, to have nothing left (e.g. to say)"
+        "meaning": {
+          "vi": "to carry to extremes, to go to the end of something, to reach the limits of something, to reach the peak of something (e.g. luxury, hardships, etc), to be extremely (e.g. busy), to exhaust completely, to have nothing left (e.g. to say)"
+        },
+        "romaji": "kiwameru"
       },
       {
         "example": "極まる",
         "reading": "きわまる",
-        "meaning": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled"
+        "meaning": {
+          "en": "to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled"
+        },
+        "romaji": "kiwamaru"
       },
       {
         "example": "極まり",
         "reading": "きわまり",
-        "meaning": "extremity, end, bound, limit"
+        "meaning": {
+          "en": "extremity, end, bound, limit"
+        },
+        "romaji": "kiwamari"
       },
       {
         "example": "極まりない",
         "reading": "きわまりない",
-        "meaning": "extremely, in the extreme, knows no bounds (e.g. rudeness), unparalleled, boundless (e.g. universe, ocean), limitless"
+        "meaning": {
+          "vi": "extremely, in the extreme, knows no bounds (e.g. rudeness), unparalleled, boundless (e.g. universe, ocean), limitless"
+        },
+        "romaji": "kiwamarinai"
       },
       {
         "example": "極み",
         "reading": "きわみ",
-        "meaning": "height, acme, extremity, peak, end, limit"
+        "meaning": {
+          "vi": "height, acme, extremity, peak, end, limit"
+        },
+        "romaji": "kiwami"
       },
       {
         "example": "決める",
         "reading": "きめる",
-        "meaning": "to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix, to clinch (a victory), to decide (the outcome of a match), to persist in doing, to go through with, to always do, to have made a habit of, to take for granted, to assume, to dress up, to dress to kill, to dress to the nines, to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing, to immobilize with a double-arm lock (in sumo, judo, etc.), to eat or drink something, to take illegal drugs"
+        "meaning": {
+          "vi": "to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix, to clinch (a victory), to decide (the outcome of a match), to persist in doing, to go through with, to always do, to have made a habit of, to take for granted, to assume, to dress up, to dress to kill, to dress to the nines, to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing, to immobilize with a double-arm lock (in sumo, judo, etc.), to eat or drink something, to take illegal drugs"
+        },
+        "romaji": "kimeru"
       },
       {
         "example": "決まる",
         "reading": "きまる",
-        "meaning": "to be decided, to be settled, to be fixed, to be arranged, to be unchanging, to be the same (as always), to be fixed, to be set, to be a fixed rule, to be destined, to be a convention, to be a custom, to be common knowledge, to be well executed (of a manoeuvre in a sport, game, etc.), to go well, to succeed, to connect (of a punch), to look good (of clothing), to look sharp, to be stylish, to suit one, to be held in place (of a hairdo), to be struck and held (of a pose in kabuki)"
+        "meaning": {
+          "vi": "to be decided, to be settled, to be fixed, to be arranged, to be unchanging, to be the same (as always), to be fixed, to be set, to be a fixed rule, to be destined, to be a convention, to be a custom, to be common knowledge, to be well executed (of a manoeuvre in a sport, game, etc.), to go well, to succeed, to connect (of a punch), to look good (of clothing), to look sharp, to be stylish, to suit one, to be held in place (of a hairdo), to be struck and held (of a pose in kabuki)"
+        },
+        "romaji": "kimaru"
       }
     ],
     "radical": {
@@ -453,5 +498,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06975.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6975.gif",
     "uri": "https://jisho.org/search/%E6%A5%B5%23kanji"
-  }
+  },
+  "hanViet": [
+    "cực"
+  ]
 }

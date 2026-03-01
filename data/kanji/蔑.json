@@ -22,22 +22,34 @@
       {
         "example": "蔑ろ",
         "reading": "ないがしろ",
-        "meaning": "(a) slight, disrespect, making light (of), neglect"
+        "meaning": {
+          "vi": "(a) slight, disrespect, making light (of), neglect"
+        },
+        "romaji": "naigashiro"
       },
       {
         "example": "蔑ろにする",
         "reading": "ないがしろにする",
-        "meaning": "to make light of, to ignore, to slight"
+        "meaning": {
+          "en": "to make light of, to ignore, to slight"
+        },
+        "romaji": "naigashironisuru"
       },
       {
         "example": "蔑する",
         "reading": "なみする",
-        "meaning": "to set at naught, to ignore, to disregard"
+        "meaning": {
+          "en": "to set at naught, to ignore, to disregard"
+        },
+        "romaji": "namisuru"
       },
       {
         "example": "蔑む",
         "reading": "さげすむ",
-        "meaning": "to scorn, to despise, to hold in contempt, to look down on, to disdain"
+        "meaning": {
+          "vi": "to scorn, to despise, to hold in contempt, to look down on, to disdain"
+        },
+        "romaji": "sagesumu"
       }
     ],
     "radical": {
@@ -57,5 +69,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08511.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8511.gif",
     "uri": "https://jisho.org/search/%E8%94%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "miệt"
+  ]
 }

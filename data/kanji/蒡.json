@@ -15,12 +15,18 @@
       {
         "example": "牛蒡",
         "reading": "ゴボウ",
-        "meaning": "great burdock (Arctium lappa), gobo"
+        "meaning": {
+          "vi": "great burdock (Arctium lappa), gobo"
+        },
+        "romaji": "gobou"
       },
       {
         "example": "叩き牛蒡",
         "reading": "タタキゴボウ",
-        "meaning": "burdock root seasoned with sesame"
+        "meaning": {
+          "en": "burdock root seasoned with sesame"
+        },
+        "romaji": "tatakigobou"
       }
     ],
     "kunyomiExamples": [],
@@ -43,5 +49,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084a1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84a1.gif",
     "uri": "https://jisho.org/search/%E8%92%A1%23kanji"
-  }
+  },
+  "hanViet": [
+    "bàng",
+    "bảng"
+  ]
 }

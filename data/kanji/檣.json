@@ -16,29 +16,44 @@
       {
         "example": "檣頭",
         "reading": "ショウトウ",
-        "meaning": "masthead (top of a mast)"
+        "meaning": {
+          "vi": "masthead (top of a mast)"
+        },
+        "romaji": "shoutou"
       },
       {
         "example": "檣楼",
         "reading": "ショウロウ",
-        "meaning": "top"
+        "meaning": {
+          "vi": "top"
+        },
+        "romaji": "shourou"
       },
       {
         "example": "船檣",
         "reading": "センショウ",
-        "meaning": "mast"
+        "meaning": {
+          "en": "mast"
+        },
+        "romaji": "senshou"
       },
       {
         "example": "帆檣",
         "reading": "ハンショウ",
-        "meaning": "mast"
+        "meaning": {
+          "en": "mast"
+        },
+        "romaji": "hanshou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "帆柱",
         "reading": "ほばしら",
-        "meaning": "mast"
+        "meaning": {
+          "en": "mast"
+        },
+        "romaji": "hobashira"
       }
     ],
     "radical": {
@@ -56,5 +71,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06aa3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6aa3.gif",
     "uri": "https://jisho.org/search/%E6%AA%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tường"
+  ]
 }

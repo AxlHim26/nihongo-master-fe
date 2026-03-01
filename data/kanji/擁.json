@@ -17,22 +17,34 @@
       {
         "example": "擁する",
         "reading": "ヨウスル",
-        "meaning": "ôm ấp, có, sở hữu, chỉ huy, dẫn dắt, thuê, ủng hộ, hậu thuẫn, tập hợp xung quanh"
+        "meaning": {
+          "vi": "ôm ấp, có, sở hữu, chỉ huy, dẫn dắt, thuê, ủng hộ, hậu thuẫn, tập hợp xung quanh"
+        },
+        "romaji": "yousuru"
       },
       {
         "example": "擁護",
         "reading": "ヨウゴ",
-        "meaning": "bảo vệ, phòng thủ, ủng hộ, bảo hộ, bênh vực, minh oan"
+        "meaning": {
+          "vi": "bảo vệ, phòng thủ, ủng hộ, bảo hộ, bênh vực, minh oan"
+        },
+        "romaji": "yougo"
       },
       {
         "example": "抱擁",
         "reading": "ホウヨウ",
-        "meaning": "ôm ấp, ôm trong vòng tay"
+        "meaning": {
+          "vi": "ôm ấp, ôm trong vòng tay"
+        },
+        "romaji": "houyou"
       },
       {
         "example": "相擁",
         "reading": "アイヨウ",
-        "meaning": "ôm ấp"
+        "meaning": {
+          "vi": "ôm ấp"
+        },
+        "romaji": "aiyou"
       }
     ],
     "kunyomiExamples": [],
@@ -53,5 +65,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064c1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64c1.gif",
     "uri": "https://jisho.org/search/%E6%93%81%23kanji"
-  }
+  },
+  "hanViet": [
+    "ung",
+    "ủng"
+  ]
 }

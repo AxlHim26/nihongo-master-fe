@@ -19,34 +19,52 @@
       {
         "example": "轟音",
         "reading": "ゴウオン",
-        "meaning": "thunderous roar, roaring sound"
+        "meaning": {
+          "en": "thunderous roar, roaring sound"
+        },
+        "romaji": "gouon"
       },
       {
         "example": "囂々",
         "reading": "ゴウゴウ",
-        "meaning": "loud (criticism, protest, etc.), noisy, clamorous, boisterous, uproarious, fierce"
+        "meaning": {
+          "vi": "loud (criticism, protest, etc.), noisy, clamorous, boisterous, uproarious, fierce"
+        },
+        "romaji": "gougou"
       },
       {
         "example": "非難轟々",
         "reading": "ヒナンゴウゴウ",
-        "meaning": "loud criticism, torrent of criticism, fierce denouncement (from many people), uproarious outcry"
+        "meaning": {
+          "vi": "loud criticism, torrent of criticism, fierce denouncement (from many people), uproarious outcry"
+        },
+        "romaji": "hinangougou"
       },
       {
         "example": "爆轟",
         "reading": "バクゴウ",
-        "meaning": "detonation"
+        "meaning": {
+          "en": "detonation"
+        },
+        "romaji": "bakugou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "轟かす",
         "reading": "とどろかす",
-        "meaning": "to make (a thundering sound), to let resound, to make (one's name, etc.) widely known, to make (one's heart) pound, to throb, to thump"
+        "meaning": {
+          "vi": "to make (a thundering sound), to let resound, to make (one's name, etc.) widely known, to make (one's heart) pound, to throb, to thump"
+        },
+        "romaji": "todorokasu"
       },
       {
         "example": "轟く",
         "reading": "とどろく",
-        "meaning": "to roar, to thunder, to boom, to rumble, to resound, to reverberate, to become well known, to become famous, to pound (of one's heart), to throb, to palpitate"
+        "meaning": {
+          "vi": "to roar, to thunder, to boom, to rumble, to resound, to reverberate, to become well known, to become famous, to pound (of one's heart), to throb, to palpitate"
+        },
+        "romaji": "todoroku"
       }
     ],
     "radical": {
@@ -60,5 +78,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f5f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f5f.gif",
     "uri": "https://jisho.org/search/%E8%BD%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "hoanh",
+    "oanh"
+  ]
 }

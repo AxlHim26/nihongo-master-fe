@@ -16,12 +16,18 @@
       {
         "example": "皇妣",
         "reading": "コウヒ",
-        "meaning": "deceased Queen Mother, deceased Empress Dowager"
+        "meaning": {
+          "vi": "deceased Queen Mother, deceased Empress Dowager"
+        },
+        "romaji": "kouhi"
       },
       {
         "example": "考妣",
         "reading": "コウヒ",
-        "meaning": "deceased parents, one's late mother and father"
+        "meaning": {
+          "vi": "deceased parents, one's late mother and father"
+        },
+        "romaji": "kouhi"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +43,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a3.gif",
     "uri": "https://jisho.org/search/%E5%A6%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "tỉ",
+    "tỷ"
+  ]
 }

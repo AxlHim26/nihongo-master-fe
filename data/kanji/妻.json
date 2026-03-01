@@ -315,44 +315,68 @@
       {
         "example": "妻",
         "reading": "サイ",
-        "meaning": "one's wife"
+        "meaning": {
+          "en": "one's wife"
+        },
+        "romaji": "sai"
       },
       {
         "example": "妻子",
         "reading": "サイシ",
-        "meaning": "wife and children, wife"
+        "meaning": {
+          "en": "wife and children, wife"
+        },
+        "romaji": "saishi"
       },
       {
         "example": "先妻",
         "reading": "センサイ",
-        "meaning": "former wife, late wife"
+        "meaning": {
+          "en": "former wife, late wife"
+        },
+        "romaji": "sensai"
       },
       {
         "example": "後妻",
         "reading": "ゴサイ",
-        "meaning": "second wife"
+        "meaning": {
+          "en": "second wife"
+        },
+        "romaji": "gosai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "妻",
         "reading": "つま",
-        "meaning": "wife, garnish (esp. one served with sashimi), trimmings, accompaniment, side (remark)"
+        "meaning": {
+          "vi": "wife, garnish (esp. one served with sashimi), trimmings, accompaniment, side (remark)"
+        },
+        "romaji": "tsuma"
       },
       {
         "example": "妻",
         "reading": "つま",
-        "meaning": "my dear, dear, honey"
+        "meaning": {
+          "en": "my dear, dear, honey"
+        },
+        "romaji": "tsuma"
       },
       {
         "example": "駐妻",
         "reading": "ちゅうつま",
-        "meaning": "expat wife, wife of an expatriate employee"
+        "meaning": {
+          "vi": "expat wife, wife of an expatriate employee"
+        },
+        "romaji": "chuutsuma"
       },
       {
         "example": "我が妻",
         "reading": "わがつま",
-        "meaning": "my spouse (esp. used to refer to one's wife), my wife, my husband"
+        "meaning": {
+          "vi": "my spouse (esp. used to refer to one's wife), my wife, my husband"
+        },
+        "romaji": "wagatsuma"
       }
     ],
     "radical": {
@@ -369,5 +393,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059bb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59bb.gif",
     "uri": "https://jisho.org/search/%E5%A6%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "thê",
+    "thế"
+  ]
 }

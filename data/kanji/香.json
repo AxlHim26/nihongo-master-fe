@@ -299,79 +299,124 @@
       {
         "example": "香",
         "reading": "コウ",
-        "meaning": "incense"
+        "meaning": {
+          "en": "incense"
+        },
+        "romaji": "kou"
       },
       {
         "example": "香水",
         "reading": "コウスイ",
-        "meaning": "perfume, scent"
+        "meaning": {
+          "vi": "perfume, scent"
+        },
+        "romaji": "kousui"
       },
       {
         "example": "線香",
         "reading": "センコウ",
-        "meaning": "incense stick"
+        "meaning": {
+          "en": "incense stick"
+        },
+        "romaji": "senkou"
       },
       {
         "example": "焼香",
         "reading": "ショウコウ",
-        "meaning": "burning (offer) incense"
+        "meaning": {
+          "en": "burning (offer) incense"
+        },
+        "romaji": "shoukou"
       },
       {
         "example": "香",
         "reading": "キョウ",
-        "meaning": "lance"
+        "meaning": {
+          "en": "lance"
+        },
+        "romaji": "kyou"
       },
       {
         "example": "香車",
         "reading": "キョウシャ",
-        "meaning": "lance"
+        "meaning": {
+          "en": "lance"
+        },
+        "romaji": "kyousha"
       },
       {
         "example": "異香",
         "reading": "イキョウ",
-        "meaning": "great fragrance"
+        "meaning": {
+          "en": "great fragrance"
+        },
+        "romaji": "ikyou"
       },
       {
         "example": "茴香",
         "reading": "ウイキョウ",
-        "meaning": "fennel (Foeniculum vulgare)"
+        "meaning": {
+          "en": "fennel (Foeniculum vulgare)"
+        },
+        "romaji": "uikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "香",
         "reading": "か",
-        "meaning": "smell (esp. a good smell), fragrance, scent, aroma, perfume"
+        "meaning": {
+          "vi": "smell (esp. a good smell), fragrance, scent, aroma, perfume"
+        },
+        "romaji": "ka"
       },
       {
         "example": "香り",
         "reading": "かおり",
-        "meaning": "aroma, fragrance, scent, smell"
+        "meaning": {
+          "en": "aroma, fragrance, scent, smell"
+        },
+        "romaji": "kaori"
       },
       {
         "example": "腸香",
         "reading": "わたか",
-        "meaning": "Ischikauia steenackeri (species of cyprinid fish)"
+        "meaning": {
+          "vi": "Ischikauia steenackeri (species of cyprinid fish)"
+        },
+        "romaji": "wataka"
       },
       {
         "example": "木の香",
         "reading": "きのか",
-        "meaning": "smell of new wood"
+        "meaning": {
+          "en": "smell of new wood"
+        },
+        "romaji": "kinoka"
       },
       {
         "example": "香り",
         "reading": "かおり",
-        "meaning": "aroma, fragrance, scent, smell"
+        "meaning": {
+          "en": "aroma, fragrance, scent, smell"
+        },
+        "romaji": "kaori"
       },
       {
         "example": "香りがする",
         "reading": "かおりがする",
-        "meaning": "to smell, to smell of, to have a smell"
+        "meaning": {
+          "en": "to smell, to smell of, to have a smell"
+        },
+        "romaji": "kaorigasuru"
       },
       {
         "example": "香る",
         "reading": "かおる",
-        "meaning": "to smell sweet, to be fragrant"
+        "meaning": {
+          "en": "to smell sweet, to be fragrant"
+        },
+        "romaji": "kaoru"
       }
     ],
     "radical": {
@@ -387,5 +432,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09999.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9999.gif",
     "uri": "https://jisho.org/search/%E9%A6%99%23kanji"
-  }
+  },
+  "hanViet": [
+    "hương"
+  ]
 }

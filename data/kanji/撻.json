@@ -16,12 +16,18 @@
       {
         "example": "鞭撻",
         "reading": "ベンタツ",
-        "meaning": "encouragement, urging, spurring on, chastising by whipping"
+        "meaning": {
+          "vi": "encouragement, urging, spurring on, chastising by whipping"
+        },
+        "romaji": "bentatsu"
       },
       {
         "example": "ご鞭撻",
         "reading": "ゴベンタツ",
-        "meaning": "encouragement, urging, spurring on"
+        "meaning": {
+          "vi": "encouragement, urging, spurring on"
+        },
+        "romaji": "gobentatsu"
       }
     ],
     "kunyomiExamples": [],
@@ -47,5 +53,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064bb.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64bb.gif",
     "uri": "https://jisho.org/search/%E6%92%BB%23kanji"
-  }
+  },
+  "hanViet": [
+    "thát"
+  ]
 }

@@ -412,39 +412,60 @@
       {
         "example": "説",
         "reading": "セツ",
-        "meaning": "theory, doctrine, opinion, view, rumour, rumor, gossip, hearsay"
+        "meaning": {
+          "vi": "theory, doctrine, opinion, view, rumour, rumor, gossip, hearsay"
+        },
+        "romaji": "setsu"
       },
       {
         "example": "説明",
         "reading": "セツメイ",
-        "meaning": "explanation, exposition, description, account, caption, legend"
+        "meaning": {
+          "vi": "explanation, exposition, description, account, caption, legend"
+        },
+        "romaji": "setsumei"
       },
       {
         "example": "論説",
         "reading": "ロンセツ",
-        "meaning": "article, discourse, dissertation, (written) argument, commentary, editorial, leading article, leader"
+        "meaning": {
+          "en": "article, discourse, dissertation, (written) argument, commentary, editorial, leading article, leader"
+        },
+        "romaji": "ronsetsu"
       },
       {
         "example": "定説",
         "reading": "テイセツ",
-        "meaning": "established theory, accepted opinion, accepted explanation"
+        "meaning": {
+          "vi": "established theory, accepted opinion, accepted explanation"
+        },
+        "romaji": "teisetsu"
       },
       {
         "example": "遊説",
         "reading": "ユウゼイ",
-        "meaning": "election tour, election campaign, stumping"
+        "meaning": {
+          "vi": "election tour, election campaign, stumping"
+        },
+        "romaji": "yuuzei"
       },
       {
         "example": "全国遊説",
         "reading": "ゼンコクユウゼイ",
-        "meaning": "nationwide election campaign"
+        "meaning": {
+          "vi": "nationwide election campaign"
+        },
+        "romaji": "zenkokuyuuzei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "説く",
         "reading": "とく",
-        "meaning": "to explain, to preach, to advocate, to persuade, to prevail upon, to reason with, to urge (someone to do)"
+        "meaning": {
+          "vi": "to explain, to preach, to advocate, to persuade, to prevail upon, to reason with, to urge (someone to do)"
+        },
+        "romaji": "toku"
       }
     ],
     "radical": {
@@ -464,5 +485,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aac.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aac.gif",
     "uri": "https://jisho.org/search/%E8%AA%AC%23kanji"
-  }
+  },
+  "hanViet": [
+    "duyệt",
+    "thuyết",
+    "thuế"
+  ]
 }

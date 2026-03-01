@@ -17,24 +17,36 @@
       {
         "example": "樟蔭女子大学",
         "reading": "ショウインジョシダイガク",
-        "meaning": "Shouin Women's University"
+        "meaning": {
+          "en": "Shouin Women's University"
+        },
+        "romaji": "shouinjoshidaigaku"
       },
       {
         "example": "樟蔭東女子短大",
         "reading": "ショウインヒガシジョシタンダイ",
-        "meaning": "Shouinhigashi Women's Junior College"
+        "meaning": {
+          "en": "Shouinhigashi Women's Junior College"
+        },
+        "romaji": "shouinhigashijoshitandai"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "樟",
         "reading": "くすのき",
-        "meaning": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+        "meaning": {
+          "vi": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+        },
+        "romaji": "kusunoki"
       },
       {
         "example": "クスノキ科",
         "reading": "クスノキか",
-        "meaning": "Lauraceae (laurel family of plants)"
+        "meaning": {
+          "vi": "Lauraceae (laurel family of plants)"
+        },
+        "romaji": "kusunokika"
       }
     ],
     "radical": {
@@ -52,5 +64,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a1f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a1f.gif",
     "uri": "https://jisho.org/search/%E6%A8%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "chương"
+  ]
 }

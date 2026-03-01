@@ -233,24 +233,36 @@
       {
         "example": "喫煙",
         "reading": "キツエン",
-        "meaning": "hút thuốc lá"
+        "meaning": {
+          "vi": "hút thuốc lá"
+        },
+        "romaji": "kitsuen"
       },
       {
         "example": "喫飲",
         "reading": "キツイン",
-        "meaning": "ăn uống"
+        "meaning": {
+          "vi": "ăn uống"
+        },
+        "romaji": "kitsuin"
       },
       {
         "example": "漫喫",
         "reading": "マンキツ",
-        "meaning": "quán cà phê manga (tính tiền theo giờ)"
+        "meaning": {
+          "vi": "quán cà phê manga (tính tiền theo giờ)"
+        },
+        "romaji": "mankitsu"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "喫む",
         "reading": "のむ",
-        "meaning": "hút thuốc lá"
+        "meaning": {
+          "vi": "hút thuốc lá"
+        },
+        "romaji": "nomu"
       }
     ],
     "radical": {
@@ -269,5 +281,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55ab.gif",
     "uri": "https://jisho.org/search/%E5%96%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "khiết"
+  ]
 }

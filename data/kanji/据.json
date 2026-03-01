@@ -20,24 +20,36 @@
       {
         "example": "据銃",
         "reading": "キョジュウ",
-        "meaning": "mounting a gun (i.e. holding the stock against one's shoulder), gun mount"
+        "meaning": {
+          "en": "mounting a gun (i.e. holding the stock against one's shoulder), gun mount"
+        },
+        "romaji": "kyojuu"
       },
       {
         "example": "拮据",
         "reading": "キッキョ",
-        "meaning": "diligence, assiduity, pinching, hard toil"
+        "meaning": {
+          "vi": "diligence, assiduity, pinching, hard toil"
+        },
+        "romaji": "kikkyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "据える",
         "reading": "すえる",
-        "meaning": "to place (in position), to fix, to set (e.g. table), to lay (foundation), to install, to seat (someone), to settle (upon something), to fix (e.g. one's gaze), to apply (moxa)"
+        "meaning": {
+          "vi": "to place (in position), to fix, to set (e.g. table), to lay (foundation), to install, to seat (someone), to settle (upon something), to fix (e.g. one's gaze), to apply (moxa)"
+        },
+        "romaji": "sueru"
       },
       {
         "example": "座る",
         "reading": "すわる",
-        "meaning": "to sit, to squat, to assume (a position), to hold steady, to hold still"
+        "meaning": {
+          "vi": "to sit, to squat, to assume (a position), to hold steady, to hold still"
+        },
+        "romaji": "suwaru"
       }
     ],
     "radical": {
@@ -57,5 +69,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0636e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/636e.gif",
     "uri": "https://jisho.org/search/%E6%8D%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "cư",
+    "cứ"
+  ]
 }

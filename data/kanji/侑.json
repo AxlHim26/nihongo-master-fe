@@ -19,12 +19,18 @@
       {
         "example": "侑觴",
         "reading": "ユウショウ",
-        "meaning": "urging one to drink more good wine during a banquet"
+        "meaning": {
+          "en": "urging one to drink more good wine during a banquet"
+        },
+        "romaji": "yuushou"
       },
       {
         "example": "侑食",
         "reading": "ユウショク",
-        "meaning": "assisting at dinner, dining with a superior"
+        "meaning": {
+          "vi": "assisting at dinner, dining with a superior"
+        },
+        "romaji": "yuushoku"
       }
     ],
     "kunyomiExamples": [],
@@ -45,5 +51,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f91.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f91.gif",
     "uri": "https://jisho.org/search/%E4%BE%91%23kanji"
-  }
+  },
+  "hanViet": [
+    "hựu"
+  ]
 }

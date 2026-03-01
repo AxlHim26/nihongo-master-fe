@@ -18,34 +18,52 @@
       {
         "example": "梯子",
         "reading": "ハシゴ",
-        "meaning": "ladder, stairs, going to several places in succession (e.g. barhopping)"
+        "meaning": {
+          "vi": "ladder, stairs, going to several places in succession (e.g. barhopping)"
+        },
+        "romaji": "hashigo"
       },
       {
         "example": "梯形",
         "reading": "テイケイ",
-        "meaning": "trapezoid, trapezium"
+        "meaning": {
+          "vi": "trapezoid, trapezium"
+        },
+        "romaji": "teikei"
       },
       {
         "example": "階梯",
         "reading": "カイテイ",
-        "meaning": "stairs, rank, grade, gradations, step, guide, guidebook, slanted ladder (exercise equipment)"
+        "meaning": {
+          "vi": "stairs, rank, grade, gradations, step, guide, guidebook, slanted ladder (exercise equipment)"
+        },
+        "romaji": "kaitei"
       },
       {
         "example": "索梯",
         "reading": "サクテイ",
-        "meaning": "rope ladder, jack ladder"
+        "meaning": {
+          "vi": "rope ladder, jack ladder"
+        },
+        "romaji": "sakutei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "梯子",
         "reading": "はしご",
-        "meaning": "ladder, stairs, going to several places in succession (e.g. barhopping)"
+        "meaning": {
+          "vi": "ladder, stairs, going to several places in succession (e.g. barhopping)"
+        },
+        "romaji": "hashigo"
       },
       {
         "example": "はしご酒",
         "reading": "はしござけ",
-        "meaning": "barhopping, pub crawl"
+        "meaning": {
+          "vi": "barhopping, pub crawl"
+        },
+        "romaji": "hashigozake"
       }
     ],
     "radical": {
@@ -63,5 +81,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068af.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68af.gif",
     "uri": "https://jisho.org/search/%E6%A2%AF%23kanji"
-  }
+  },
+  "hanViet": [
+    "thê"
+  ]
 }

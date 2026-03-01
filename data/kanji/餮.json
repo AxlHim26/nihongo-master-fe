@@ -16,7 +16,10 @@
       {
         "example": "饕餮",
         "reading": "トウテツ",
-        "meaning": "taotie (Chinese mythological creature commonly represented as a motif on ritual bronzes from the Shang and Zhou dynasties), covetousness, greed, avarice"
+        "meaning": {
+          "vi": "taotie (Chinese mythological creature commonly represented as a motif on ritual bronzes from the Shang and Zhou dynasties), covetousness, greed, avarice"
+        },
+        "romaji": "toutetsu"
       }
     ],
     "kunyomiExamples": [],
@@ -37,5 +40,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0992e.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/992e.gif",
     "uri": "https://jisho.org/search/%E9%A4%AE%23kanji"
-  }
+  },
+  "hanViet": [
+    "thiết"
+  ]
 }

@@ -18,29 +18,88 @@
       {
         "example": "丙",
         "reading": "ヘイ",
-        "meaning": "third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"
+        "meaning": {
+          "vi": "hạng ba, hạng ba, người thứ ba (trong hợp đồng, v.v.), ký hiệu thứ ba của lịch trung quốc",
+          "en": "third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: Bính (ngôi thứ 3 của hàng Can)",
+          "en": "bing: bing (3rd position of can row)"
+        },
+        "romaji": "hei"
       },
       {
         "example": "丙寅",
         "reading": "ヒノエトラ",
-        "meaning": "Fire Tiger (3rd term of the sexagenary cycle, e.g. 1926, 1986, 2046)"
+        "meaning": {
+          "vi": "hỏa hổ (đoạn thứ 3 của chu kỳ lục thập niên, ví dụ: 1926, 1986, 2046)",
+          "en": "Fire Tiger (3rd term of the sexagenary cycle, e.g. 1926, 1986, 2046)"
+        },
+        "hanViet": [
+          "bính",
+          "dần"
+        ],
+        "hanVietExplain": {
+          "vi": "丙 (bính: Bính (ngôi thứ 3 của hàng Can)) + 寅 (dần: Dần (chi thứ 3 hàng Chi)) → hỏa hổ (đoạn thứ 3 của chu kỳ lục thập niên, ví dụ: 1926, 1986, 2046)",
+          "en": "丙 (bing: bing (3rd branch of the can row)) + 寅 (dragon: dan (3rd branch of the chi row)) → fire tiger (3rd segment of the six-decade cycle, for example: 1926, 1986, 2046)"
+        },
+        "romaji": "hinoetora"
       },
       {
         "example": "甲乙丙",
         "reading": "コウオツヘイ",
-        "meaning": "A, B and C, first, second and third"
+        "meaning": {
+          "vi": "a, b và c, thứ nhất, thứ hai và thứ ba",
+          "en": "A, B and C, first, second and third"
+        },
+        "hanViet": [
+          "giáp",
+          "ất",
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "甲 (giáp: vỏ cứng của động vật) + 乙 (ất: Ất (ngôi thứ hai thuộc hàng Can)) + 丙 (bính: Bính (ngôi thứ 3 của hàng Can)) → a, b và c, thứ nhất, thứ hai và thứ ba",
+          "en": "甲 (armor: hard shell of an animal) + 乙 (at: at (second person in can row)) + 丙 (bin: binh (3rd person in can row)) → a, b and c, first, second and third"
+        },
+        "romaji": "kouotsuhei"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "丙",
         "reading": "へい",
-        "meaning": "third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"
+        "meaning": {
+          "vi": "hạng ba, hạng ba, người thứ ba (trong hợp đồng, v.v.), ký hiệu thứ ba của lịch trung quốc",
+          "en": "third rank, third class, third person (in a contract, etc.), third sign of the Chinese calendar"
+        },
+        "hanViet": [
+          "bính"
+        ],
+        "hanVietExplain": {
+          "vi": "bính: Bính (ngôi thứ 3 của hàng Can)",
+          "en": "bing: bing (3rd position of can row)"
+        },
+        "romaji": "hei"
       },
       {
         "example": "丙戌",
         "reading": "ひのえいぬ",
-        "meaning": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)"
+        "meaning": {
+          "vi": "hỏa tuất (học kỳ thứ 23 của chu kỳ lục thập niên, ví dụ: 1946, 2006, 2066)",
+          "en": "Fire Dog (23rd term of the sexagenary cycle, e.g. 1946, 2006, 2066)"
+        },
+        "hanViet": [
+          "bính",
+          "tuất"
+        ],
+        "hanVietExplain": {
+          "vi": "丙 (bính: Bính (ngôi thứ 3 của hàng Can)) + 戌 (tuất: Tuất (ngôi thứ 11 hàng Chi)) → hỏa tuất (học kỳ thứ 23 của chu kỳ lục thập niên, ví dụ: 1946, 2006, 2066)",
+          "en": "丙 (binh: bing (3rd position of can row)) + 戌 (tuat: tuat (11th position of chi row)) → fire dog (23rd semester of six-decade cycle, e.g. 1946, 2006, 2066)"
+        },
+        "romaji": "hinoeinu"
       }
     ],
     "radical": {
@@ -56,5 +115,16 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e19.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e19.gif",
     "uri": "https://jisho.org/search/%E4%B8%99%23kanji"
+  },
+  "hanViet": [
+    "bính"
+  ],
+  "hanVietExplain": {
+    "vi": "bính: Bính (ngôi thứ 3 của hàng Can)",
+    "en": "bing: bing (3rd position of can row)"
+  },
+  "meaning": {
+    "vi": "bảng lịch hạng ba, hạng 3, hạng 3",
+    "en": "third class, 3rd, 3rd calendar sign"
   }
 }

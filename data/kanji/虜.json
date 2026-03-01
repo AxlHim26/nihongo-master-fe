@@ -21,29 +21,44 @@
       {
         "example": "虜",
         "reading": "リョ",
-        "meaning": "captive, prisoner, foreigner, barbarian, slave"
+        "meaning": {
+          "vi": "captive, prisoner, foreigner, barbarian, slave"
+        },
+        "romaji": "ryo"
       },
       {
         "example": "虜囚",
         "reading": "リョシュウ",
-        "meaning": "captive, prisoner (of war)"
+        "meaning": {
+          "vi": "captive, prisoner (of war)"
+        },
+        "romaji": "ryoshuu"
       },
       {
         "example": "胡虜",
         "reading": "コリョ",
-        "meaning": "northern barbarian tribes surrounding ancient China, foreigner, barbarian tribe"
+        "meaning": {
+          "en": "northern barbarian tribes surrounding ancient China, foreigner, barbarian tribe"
+        },
+        "romaji": "koryo"
       },
       {
         "example": "俘虜",
         "reading": "フリョ",
-        "meaning": "prisoner of war, captive"
+        "meaning": {
+          "vi": "prisoner of war, captive"
+        },
+        "romaji": "furyo"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "虜",
         "reading": "とりこ",
-        "meaning": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+        "meaning": {
+          "vi": "captive, prisoner, victim (of love, etc.), slave (to one's lust, etc.)"
+        },
+        "romaji": "toriko"
       }
     ],
     "radical": {
@@ -62,5 +77,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865c.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865c.gif",
     "uri": "https://jisho.org/search/%E8%99%9C%23kanji"
-  }
+  },
+  "hanViet": [
+    "lỗ"
+  ]
 }

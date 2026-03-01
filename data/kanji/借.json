@@ -256,34 +256,52 @@
       {
         "example": "借家",
         "reading": "シャクヤ",
-        "meaning": "rented house, house for rent"
+        "meaning": {
+          "en": "rented house, house for rent"
+        },
+        "romaji": "shakuya"
       },
       {
         "example": "借地",
         "reading": "シャクチ",
-        "meaning": "leased land"
+        "meaning": {
+          "en": "leased land"
+        },
+        "romaji": "shakuchi"
       },
       {
         "example": "賃借",
         "reading": "チンシャク",
-        "meaning": "renting, rental, hiring, leasing (from)"
+        "meaning": {
+          "en": "renting, rental, hiring, leasing (from)"
+        },
+        "romaji": "chinshaku"
       },
       {
         "example": "賃貸借",
         "reading": "チンタイシャク",
-        "meaning": "renting, leasing"
+        "meaning": {
+          "en": "renting, leasing"
+        },
+        "romaji": "chintaishaku"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "借りる",
         "reading": "かりる",
-        "meaning": "to borrow, to rent, to hire, to make use of (another's help, wisdom, etc.), to obtain, to receive, to use (for another purpose), to put to a different use"
+        "meaning": {
+          "vi": "to borrow, to rent, to hire, to make use of (another's help, wisdom, etc.), to obtain, to receive, to use (for another purpose), to put to a different use"
+        },
+        "romaji": "kariru"
       },
       {
         "example": "借りる時の地蔵顔、済す時の閻魔顔",
         "reading": "かりるときのじぞうがお、なすときのえんまがお",
-        "meaning": "people look friendly when they ask for a loan but not so much when they repay it, when borrowing (the money), the face of the (bodhisattva) Kshitigarbha; when returning it, the face of the (hell king) Yama"
+        "meaning": {
+          "vi": "people look friendly when they ask for a loan but not so much when they repay it, when borrowing (the money), the face of the (bodhisattva) Kshitigarbha; when returning it, the face of the (hell king) Yama"
+        },
+        "romaji": "karirutokinojizougao,nasutokinoenmagao"
       }
     ],
     "radical": {
@@ -303,5 +321,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0501f.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/501f.gif",
     "uri": "https://jisho.org/search/%E5%80%9F%23kanji"
-  }
+  },
+  "hanViet": [
+    "tá"
+  ]
 }

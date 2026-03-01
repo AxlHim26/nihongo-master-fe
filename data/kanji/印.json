@@ -307,44 +307,68 @@
       {
         "example": "印",
         "reading": "イン",
-        "meaning": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India"
+        "meaning": {
+          "vi": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India"
+        },
+        "romaji": "in"
       },
       {
         "example": "印鑑",
         "reading": "インカン",
-        "meaning": "stamp, seal"
+        "meaning": {
+          "vi": "stamp, seal"
+        },
+        "romaji": "inkan"
       },
       {
         "example": "消印",
         "reading": "ケシイン",
-        "meaning": "postmark, (postal) cancellation mark"
+        "meaning": {
+          "vi": "postmark, (postal) cancellation mark"
+        },
+        "romaji": "keshiin"
       },
       {
         "example": "認め印",
         "reading": "ミトメイン",
-        "meaning": "private seal, personal seal, unregistered seal, informal seal, signet"
+        "meaning": {
+          "vi": "private seal, personal seal, unregistered seal, informal seal, signet"
+        },
+        "romaji": "mitomein"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "印",
         "reading": "しるし",
-        "meaning": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+        "meaning": {
+          "vi": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+        },
+        "romaji": "shirushi"
       },
       {
         "example": "印半纏",
         "reading": "しるしばんてん",
-        "meaning": "livery coat"
+        "meaning": {
+          "en": "livery coat"
+        },
+        "romaji": "shirushibanten"
       },
       {
         "example": "感謝の印",
         "reading": "かんしゃのしるし",
-        "meaning": "token of appreciation"
+        "meaning": {
+          "vi": "token of appreciation"
+        },
+        "romaji": "kanshanoshirushi"
       },
       {
         "example": "印す",
         "reading": "しるす",
-        "meaning": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for"
+        "meaning": {
+          "vi": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for"
+        },
+        "romaji": "shirusu"
       }
     ],
     "radical": {
@@ -359,5 +383,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05370.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5370.gif",
     "uri": "https://jisho.org/search/%E5%8D%B0%23kanji"
-  }
+  },
+  "hanViet": [
+    "ấn"
+  ]
 }

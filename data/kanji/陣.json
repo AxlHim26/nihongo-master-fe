@@ -17,22 +17,34 @@
       {
         "example": "陣",
         "reading": "ジン",
-        "meaning": "battle formation, camp, encampment, position, group, gang, party, corps, war, battle, campaign"
+        "meaning": {
+          "vi": "battle formation, camp, encampment, position, group, gang, party, corps, war, battle, campaign"
+        },
+        "romaji": "jin"
       },
       {
         "example": "陣営",
         "reading": "ジンエイ",
-        "meaning": "camp (supporters of a doctrine, party, etc.), faction (of a party), military camp, encampment, cantonment"
+        "meaning": {
+          "vi": "camp (supporters of a doctrine, party, etc.), faction (of a party), military camp, encampment, cantonment"
+        },
+        "romaji": "jin'ei"
       },
       {
         "example": "布陣",
         "reading": "フジン",
-        "meaning": "battle formation, lineup (e.g. for a game)"
+        "meaning": {
+          "vi": "battle formation, lineup (e.g. for a game)"
+        },
+        "romaji": "fujin"
       },
       {
         "example": "出陣",
         "reading": "シュツジン",
-        "meaning": "going into battle, departure for the front, appearing (in a match), starting an election campaign"
+        "meaning": {
+          "vi": "going into battle, departure for the front, appearing (in a match), starting an election campaign"
+        },
+        "romaji": "shutsujin"
       }
     ],
     "kunyomiExamples": [],
@@ -51,5 +63,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09663.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9663.gif",
     "uri": "https://jisho.org/search/%E9%99%A3%23kanji"
-  }
+  },
+  "hanViet": [
+    "trận"
+  ]
 }

@@ -20,34 +20,52 @@
       {
         "example": "恨事",
         "reading": "コンジ",
-        "meaning": "regrettable matter"
+        "meaning": {
+          "en": "regrettable matter"
+        },
+        "romaji": "konji"
       },
       {
         "example": "痛恨",
         "reading": "ツウコン",
-        "meaning": "deep regret, great sorrow, bitter grief"
+        "meaning": {
+          "vi": "deep regret, great sorrow, bitter grief"
+        },
+        "romaji": "tsuukon"
       },
       {
         "example": "意趣遺恨",
         "reading": "イシュイコン",
-        "meaning": "grudge, spite, malice, rancor"
+        "meaning": {
+          "vi": "grudge, spite, malice, rancor"
+        },
+        "romaji": "ishuikon"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "恨む",
         "reading": "うらむ",
-        "meaning": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards"
+        "meaning": {
+          "en": "to bear a grudge against, to resent, to blame, to curse, to feel bitter towards"
+        },
+        "romaji": "uramu"
       },
       {
         "example": "憾む",
         "reading": "うらむ",
-        "meaning": "to regret"
+        "meaning": {
+          "en": "to regret"
+        },
+        "romaji": "uramu"
       },
       {
         "example": "恨めしい",
         "reading": "うらめしい",
-        "meaning": "reproachful, hateful, bitter"
+        "meaning": {
+          "vi": "reproachful, hateful, bitter"
+        },
+        "romaji": "urameshii"
       }
     ],
     "radical": {
@@ -66,5 +84,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06068.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6068.gif",
     "uri": "https://jisho.org/search/%E6%81%A8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hận"
+  ]
 }

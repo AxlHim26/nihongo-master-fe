@@ -17,12 +17,18 @@
       {
         "example": "旧字",
         "reading": "キュウジ",
-        "meaning": "old character form, traditional form of kanji used in Japan before 1946"
+        "meaning": {
+          "vi": "old character form, traditional form of kanji used in Japan before 1946"
+        },
+        "romaji": "kyuuji"
       },
       {
         "example": "旧字体",
         "reading": "キュウジタイ",
-        "meaning": "old character form, kyūjitai, traditional form of kanji used in Japan before 1946"
+        "meaning": {
+          "vi": "old character form, kyūjitai, traditional form of kanji used in Japan before 1946"
+        },
+        "romaji": "kyuujitai"
       }
     ],
     "kunyomiExamples": [],
@@ -39,5 +45,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0820a.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/820a.gif",
     "uri": "https://jisho.org/search/%E8%88%8A%23kanji"
-  }
+  },
+  "hanViet": [
+    "cựu"
+  ]
 }

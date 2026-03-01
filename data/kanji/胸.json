@@ -255,44 +255,68 @@
       {
         "example": "胸部",
         "reading": "キョウブ",
-        "meaning": "chest, breast"
+        "meaning": {
+          "en": "chest, breast"
+        },
+        "romaji": "kyoubu"
       },
       {
         "example": "胸中",
         "reading": "キョウチュウ",
-        "meaning": "one's heart, one's mind, one's intentions"
+        "meaning": {
+          "en": "one's heart, one's mind, one's intentions"
+        },
+        "romaji": "kyouchuu"
       },
       {
         "example": "豊胸",
         "reading": "ホウキョウ",
-        "meaning": "full breasts, ample breasts, breast enlargement"
+        "meaning": {
+          "vi": "full breasts, ample breasts, breast enlargement"
+        },
+        "romaji": "houkyou"
       },
       {
         "example": "開胸",
         "reading": "カイキョウ",
-        "meaning": "thoracotomy"
+        "meaning": {
+          "en": "thoracotomy"
+        },
+        "romaji": "kaikyou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "胸",
         "reading": "むね",
-        "meaning": "chest, breast, breasts, bosom, bust, heart, lungs, stomach, heart, mind, feelings"
+        "meaning": {
+          "en": "chest, breast, breasts, bosom, bust, heart, lungs, stomach, heart, mind, feelings"
+        },
+        "romaji": "mune"
       },
       {
         "example": "胸赤鶸",
         "reading": "むねあかひわ",
-        "meaning": "Eurasian linnet (Carduelis cannabina)"
+        "meaning": {
+          "en": "Eurasian linnet (Carduelis cannabina)"
+        },
+        "romaji": "muneakahiwa"
       },
       {
         "example": "両胸",
         "reading": "りょうむね",
-        "meaning": "both sides of the chest, both breasts"
+        "meaning": {
+          "en": "both sides of the chest, both breasts"
+        },
+        "romaji": "ryoumune"
       },
       {
         "example": "鳩胸",
         "reading": "はとむね",
-        "meaning": "pigeon chest (deformity of the chest, protruding ribs and sternum), pigeon breast, pectus carinatum, woman with big breasts, iron armor with protruding chest, curved front portion of a stirrup, curve at the base of a shamisen neck"
+        "meaning": {
+          "vi": "pigeon chest (deformity of the chest, protruding ribs and sternum), pigeon breast, pectus carinatum, woman with big breasts, iron armor with protruding chest, curved front portion of a stirrup, curve at the base of a shamisen neck"
+        },
+        "romaji": "hatomune"
       }
     ],
     "radical": {
@@ -313,5 +337,8 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f8.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f8.gif",
     "uri": "https://jisho.org/search/%E8%83%B8%23kanji"
-  }
+  },
+  "hanViet": [
+    "hung"
+  ]
 }

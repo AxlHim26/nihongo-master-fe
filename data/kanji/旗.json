@@ -286,44 +286,68 @@
       {
         "example": "旗手",
         "reading": "キシュ",
-        "meaning": "standard-bearer, flag-bearer"
+        "meaning": {
+          "en": "standard-bearer, flag-bearer"
+        },
+        "romaji": "kishu"
       },
       {
         "example": "旗色",
         "reading": "ハタイロ",
-        "meaning": "situation, outlook, one's allegiance, affiliation, position"
+        "meaning": {
+          "vi": "situation, outlook, one's allegiance, affiliation, position"
+        },
+        "romaji": "hatairo"
       },
       {
         "example": "日章旗",
         "reading": "ニッショウキ",
-        "meaning": "national flag of Japan"
+        "meaning": {
+          "vi": "national flag of Japan"
+        },
+        "romaji": "nisshouki"
       },
       {
         "example": "校旗",
         "reading": "コウキ",
-        "meaning": "school flag"
+        "meaning": {
+          "en": "school flag"
+        },
+        "romaji": "kouki"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "旗",
         "reading": "はた",
-        "meaning": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+        "meaning": {
+          "vi": "flag, pataka (banner), banner (administrative division of Inner Mongolia)"
+        },
+        "romaji": "hata"
       },
       {
         "example": "旗揚げ",
         "reading": "はたあげ",
-        "meaning": "raising an army, raising a banner, launching a new group, launching a business, launching a new party"
+        "meaning": {
+          "vi": "raising an army, raising a banner, launching a new group, launching a business, launching a new party"
+        },
+        "romaji": "hataage"
       },
       {
         "example": "白旗",
         "reading": "しらはた",
-        "meaning": "white flag, truce flag, surrender flag"
+        "meaning": {
+          "en": "white flag, truce flag, surrender flag"
+        },
+        "romaji": "shirahata"
       },
       {
         "example": "大会旗",
         "reading": "たいかいはた",
-        "meaning": "tournament flag"
+        "meaning": {
+          "en": "tournament flag"
+        },
+        "romaji": "taikaihata"
       }
     ],
     "radical": {
@@ -340,5 +364,9 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065d7.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65d7.gif",
     "uri": "https://jisho.org/search/%E6%97%97%23kanji"
-  }
+  },
+  "hanViet": [
+    "kì",
+    "kỳ"
+  ]
 }

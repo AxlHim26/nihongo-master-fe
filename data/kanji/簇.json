@@ -18,49 +18,76 @@
       {
         "example": "蔟",
         "reading": "マブシ",
-        "meaning": "cocoon holders"
+        "meaning": {
+          "en": "cocoon holders"
+        },
+        "romaji": "mabushi"
       },
       {
         "example": "簇出",
         "reading": "ソウシュツ",
-        "meaning": "springing up (in clusters), mushrooming"
+        "meaning": {
+          "vi": "springing up (in clusters), mushrooming"
+        },
+        "romaji": "soushutsu"
       },
       {
         "example": "大簇",
         "reading": "タイソウ",
-        "meaning": "(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"
+        "meaning": {
+          "vi": "(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"
+        },
+        "romaji": "taisou"
       },
       {
         "example": "集簇",
         "reading": "シュウゾク",
-        "meaning": "aggregation, accumulation"
+        "meaning": {
+          "en": "aggregation, accumulation"
+        },
+        "romaji": "shuuzoku"
       },
       {
         "example": "簇出",
         "reading": "ソウシュツ",
-        "meaning": "springing up (in clusters), mushrooming"
+        "meaning": {
+          "vi": "springing up (in clusters), mushrooming"
+        },
+        "romaji": "soushutsu"
       },
       {
         "example": "叢生",
         "reading": "ソウセイ",
-        "meaning": "dense growth, thick growth, gregarious growth, growing in clusters"
+        "meaning": {
+          "en": "dense growth, thick growth, gregarious growth, growing in clusters"
+        },
+        "romaji": "sousei"
       },
       {
         "example": "大簇",
         "reading": "タイソウ",
-        "meaning": "(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"
+        "meaning": {
+          "vi": "(in China) 3rd note of the ancient chromatic scale (approx. E), first lunar month"
+        },
+        "romaji": "taisou"
       },
       {
         "example": "簇々",
         "reading": "ソウソウ",
-        "meaning": "gathering, swarming"
+        "meaning": {
+          "en": "gathering, swarming"
+        },
+        "romaji": "sousou"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "群がる",
         "reading": "むらがる",
-        "meaning": "to swarm, to gather"
+        "meaning": {
+          "en": "to swarm, to gather"
+        },
+        "romaji": "muragaru"
       }
     ],
     "radical": {
@@ -80,5 +107,10 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c07.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c07.gif",
     "uri": "https://jisho.org/search/%E7%B0%87%23kanji"
-  }
+  },
+  "hanViet": [
+    "thấu",
+    "thốc",
+    "tộc"
+  ]
 }

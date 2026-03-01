@@ -16,24 +16,36 @@
       {
         "example": "顫動",
         "reading": "センドウ",
-        "meaning": "vibration, to tremble, to shake"
+        "meaning": {
+          "en": "vibration, to tremble, to shake"
+        },
+        "romaji": "sendou"
       },
       {
         "example": "顫動音",
         "reading": "センドウオン",
-        "meaning": "trill"
+        "meaning": {
+          "en": "trill"
+        },
+        "romaji": "sendouon"
       },
       {
         "example": "振戦",
         "reading": "シンセン",
-        "meaning": "tremor (muscular), trembling, shaking"
+        "meaning": {
+          "en": "tremor (muscular), trembling, shaking"
+        },
+        "romaji": "shinsen"
       }
     ],
     "kunyomiExamples": [
       {
         "example": "震える",
         "reading": "ふるえる",
-        "meaning": "to shiver, to shake, to quake, to tremble, to quaver, to quiver"
+        "meaning": {
+          "en": "to shiver, to shake, to quake, to tremble, to quaver, to quiver"
+        },
+        "romaji": "furueru"
       }
     ],
     "radical": {
@@ -55,5 +67,11 @@
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0986b.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/986b.gif",
     "uri": "https://jisho.org/search/%E9%A1%AB%23kanji"
-  }
+  },
+  "hanViet": [
+    "chiến",
+    "thiên",
+    "đạn",
+    "đản"
+  ]
 }
