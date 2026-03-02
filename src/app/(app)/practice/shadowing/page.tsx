@@ -4,7 +4,7 @@ import PracticeComingSoon from "@/features/practice/components/practice-coming-s
 
 export const metadata: Metadata = {
   title: "Shadowing",
-  description: "Luyện shadowing tiếng Nhật",
+  description: "Tính năng Shadowing đang phát triển",
 };
 
 export default function PracticeShadowingPage() {
