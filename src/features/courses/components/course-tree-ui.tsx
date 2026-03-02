@@ -389,15 +389,17 @@ export const LessonListItem = React.memo(function LessonListItem({
 }: LessonListItemProps) {
   const hasVideo = Boolean(lesson.videoUrl);
   const hasPdf = Boolean(lesson.pdfUrl);
+  const chipClassName =
+    "!h-6 !rounded-full !border !border-[var(--app-border)] !bg-[var(--app-surface-2)] !px-2 !text-[11px] !font-semibold !text-[var(--app-fg-muted)] dark:!border-[rgba(255,255,255,0.1)] dark:!bg-[rgba(255,255,255,0.06)] dark:!text-slate-300";
 
   return (
     <button
       type="button"
       onClick={() => onSelect(lesson.id)}
-      className={`min-h-[96px] min-w-[220px] rounded-2xl border px-4 py-3 text-left transition duration-200 lg:min-w-0 ${
+      className={`group min-h-[96px] min-w-[220px] rounded-2xl border px-4 py-3 text-left transition duration-200 lg:min-w-0 ${
         active
-          ? "border-blue-300 bg-[linear-gradient(180deg,#f8fbff_0%,#eef5ff_100%)] shadow-[0_12px_24px_-24px_rgba(37,99,235,0.95)] dark:border-[var(--app-active-border)] dark:bg-[var(--app-active-bg)]"
-          : "border-[var(--app-border)] bg-[var(--app-card)] hover:-translate-y-px hover:border-blue-200 hover:bg-slate-50 hover:shadow-sm dark:hover:border-[var(--app-active-border)] dark:hover:bg-[var(--app-surface-2)]"
+          ? "border-blue-300 bg-[linear-gradient(180deg,#f8fbff_0%,#eef5ff_100%)] shadow-[0_12px_24px_-24px_rgba(37,99,235,0.95)] dark:border-[rgba(255,255,255,0.2)] dark:bg-[#34373d] dark:bg-none dark:shadow-[0_16px_28px_-22px_rgba(0,0,0,0.72)]"
+          : "border-[var(--app-border)] bg-[var(--app-card)] hover:-translate-y-px hover:border-blue-200 hover:bg-slate-50 hover:shadow-sm dark:border-[rgba(255,255,255,0.08)] dark:bg-[#27272a] dark:hover:border-[rgba(255,255,255,0.16)] dark:hover:bg-[#303338] dark:hover:shadow-[0_14px_24px_-22px_rgba(0,0,0,0.72)]"
       }`}
     >
       <div className="flex h-full flex-col justify-between gap-2">
@@ -405,20 +407,31 @@ export const LessonListItem = React.memo(function LessonListItem({
           <Typography variant="body2" fontWeight={700} className="leading-5">
             {lesson.title}
           </Typography>
-          <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-blue-100 bg-white text-blue-600 shadow-sm dark:border-[var(--app-active-border)] dark:bg-[var(--app-surface-2)] dark:text-[var(--app-fg)]">
+          <span
+            className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full border shadow-sm ${
+              active
+                ? "border-blue-100 bg-white text-blue-600 dark:border-[rgba(255,255,255,0.2)] dark:bg-[rgba(255,255,255,0.14)] dark:text-slate-100"
+                : "border-blue-100 bg-white text-blue-600 dark:border-[rgba(255,255,255,0.1)] dark:bg-[rgba(255,255,255,0.06)] dark:text-slate-300 dark:group-hover:bg-[rgba(255,255,255,0.1)]"
+            }`}
+          >
             <PlayCircleRoundedIcon fontSize="medium" />
           </span>
         </div>
         <div className="flex items-center justify-between gap-2">
           <div className="flex flex-wrap gap-1.5">
-            {hasVideo ? <Chip size="small" label="Video" /> : null}
-            {hasPdf ? <Chip size="small" label="PDF" /> : null}
+            {hasVideo ? <Chip size="small" label="Video" className={chipClassName} /> : null}
+            {hasPdf ? <Chip size="small" label="PDF" className={chipClassName} /> : null}
             {!hasVideo && !hasPdf ? (
-              <Chip size="small" label="Đang cập nhật" variant="outlined" />
+              <Chip
+                size="small"
+                label="Đang cập nhật"
+                variant="outlined"
+                className={chipClassName}
+              />
             ) : null}
           </div>
           {active ? (
-            <span className="rounded-full bg-blue-600 px-2.5 py-1 text-xs font-semibold text-white dark:bg-[var(--app-primary)] dark:text-slate-900">
+            <span className="rounded-full bg-blue-600 px-2.5 py-1 text-xs font-semibold text-white dark:bg-[rgba(255,255,255,0.14)] dark:text-slate-100">
               Đang xem
             </span>
           ) : null}
