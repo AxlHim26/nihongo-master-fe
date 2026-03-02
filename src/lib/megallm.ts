@@ -10,3 +10,10 @@ export const buildMegaLlmChatCompletionsUrl = (rawBaseUrl?: string) => {
   const normalizedBase = trimV1Suffix(trimTrailingSlash(fallback.trim()));
   return `${normalizedBase}/v1/chat/completions`;
 };
+
+export const buildMegaLlmAudioTranscriptionsUrl = (rawBaseUrl?: string) => {
+  const fallback =
+    rawBaseUrl && rawBaseUrl.trim().length > 0 ? rawBaseUrl : DEFAULT_MEGALLM_BASE_URL;
+  const normalizedBase = trimV1Suffix(trimTrailingSlash(fallback.trim()));
+  return `${normalizedBase}/v1/audio/transcriptions`;
+};

@@ -163,7 +163,7 @@ export default function CourseLessonViewerPage({
 
             <Paper
               elevation={0}
-              className="rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-3"
+              className="rounded-2xl border border-[var(--app-border)] bg-[var(--app-card)] p-3 dark:border-[rgba(255,255,255,0.08)] dark:bg-[#242427]"
             >
               <Typography variant="subtitle2" fontWeight={700} className="px-2 pb-2 pt-1">
                 Danh sách bài học
