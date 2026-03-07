@@ -24,20 +24,27 @@ export async function GET(_request: NextRequest, context: { params: Promise<{ ka
     const data = await response.json();
 
     // Process and extract top 5 vocabularies
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const items =
-      data.data?.slice(0, 5).map((item: any) => {
-        // Find the japanese text that contains the kanji, or just use the first one
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const japanese =
-          item.japanese?.find((j: any) => j.word?.includes(kanji)) || item.japanese?.[0];
+      data.data
+        ?.slice(0, 5)
+        .map(
+          (item: {
+            japanese?: Array<{ word?: string; reading?: string }>;
+            senses?: Array<{ english_definitions?: string[] }>;
+          }) => {
+            // Find the japanese text that contains the kanji, or just use the first one
+            const japanese =
+              item.japanese?.find((j: { word?: string; reading?: string }) =>
+                j.word?.includes(kanji),
+              ) || item.japanese?.[0];
 
-        const word = japanese?.word || japanese?.reading || "";
-        const reading = japanese?.reading || "";
-        const meaning = item.senses?.[0]?.english_definitions?.join(", ") || "";
+            const word = japanese?.word || japanese?.reading || "";
+            const reading = japanese?.reading || "";
+            const meaning = item.senses?.[0]?.english_definitions?.join(", ") || "";
 
-        return { word, reading, meaning };
-      }) || [];
+            return { word, reading, meaning };
+          },
+        ) || [];
 
     return NextResponse.json({ items });
   } catch (error) {
