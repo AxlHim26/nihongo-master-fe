@@ -1,0 +1,6314 @@
+{
+  "summary": {
+    "sourceDir": "/home/thuanc177/Documents/JLPTTest",
+    "outputDir": "/home/thuanc177/Documents/Git/miraigo/miraigo-fe/data/jlpt-import",
+    "minYear": 2010,
+    "maxFiles": 0,
+    "includeImages": false,
+    "includeAttachments": false,
+    "totalPdfs": 188,
+    "discoveredPdfs": 188,
+    "usableText": 72,
+    "lowText": 116,
+    "failedText": 0,
+    "mediaRecords": 197,
+    "mediaSummaryByLevel": [
+      {
+        "level": "N1",
+        "audio": 127,
+        "text": 1
+      },
+      {
+        "level": "N2",
+        "audio": 24,
+        "text": 0
+      },
+      {
+        "level": "N3",
+        "audio": 23,
+        "text": 0
+      },
+      {
+        "level": "N4",
+        "audio": 13,
+        "text": 0
+      },
+      {
+        "level": "N5",
+        "audio": 9,
+        "text": 0
+      }
+    ]
+  },
+  "files": [
+    {
+      "sourcePath": "N1/2010年/2010年12月/2010年12月N1听力解析.pdf",
+      "level": "N1",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N1__2010年__2010年12月__2010年12月N1听力解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2010年__2010年12月__2010年12月N1听力解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 19108,
+        "formFeedCount": 21,
+        "cjkRatio": 0.7153,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2010年/2010年7月/2010年7月解析.pdf",
+      "level": "N1",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N1__2010年__2010年7月__2010年7月解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2010年__2010年7月__2010年7月解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 24,
+        "formFeedCount": 24,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2011年/2011年12月/2011年12月N1听力解析.pdf",
+      "level": "N1",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N1__2011年__2011年12月__2011年12月N1听力解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2011年__2011年12月__2011年12月N1听力解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 22133,
+        "formFeedCount": 26,
+        "cjkRatio": 0.7232,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2011年/2011年12月/2011年12月解析.pdf",
+      "level": "N1",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N1__2011年__2011年12月__2011年12月解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2011年__2011年12月__2011年12月解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 11,
+        "formFeedCount": 11,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2011年/2011年7月/2011年7月解析.pdf",
+      "level": "N1",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N1__2011年__2011年7月__2011年7月解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2011年__2011年7月__2011年7月解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 20,
+        "formFeedCount": 20,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2012年/2012年12月/2012年12月N1真题解析+听力材料(完整版).pdf",
+      "level": "N1",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N1__2012年__2012年12月__2012年12月N1真题解析+听力材料(完整版).txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2012年__2012年12月__2012年12月N1真题解析+听力材料(完整版)_img",
+      "text": {
+        "ok": true,
+        "charCount": 31025,
+        "formFeedCount": 59,
+        "cjkRatio": 0.6464,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2012年/2012年12月/2012年12月日语一级听力原文及答案解析.pdf",
+      "level": "N1",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N1__2012年__2012年12月__2012年12月日语一级听力原文及答案解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2012年__2012年12月__2012年12月日语一级听力原文及答案解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 15,
+        "formFeedCount": 15,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2012年/2012年7月/2012年7月N1真题解析1~45.pdf",
+      "level": "N1",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N1__2012年__2012年7月__2012年7月N1真题解析1~45.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2012年__2012年7月__2012年7月N1真题解析1~45_img",
+      "text": {
+        "ok": true,
+        "charCount": 22,
+        "formFeedCount": 22,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2012年/2012年7月/2012年7月N1真题阅读解析46~70.pdf",
+      "level": "N1",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N1__2012年__2012年7月__2012年7月N1真题阅读解析46~70.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2012年__2012年7月__2012年7月N1真题阅读解析46~70_img",
+      "text": {
+        "ok": true,
+        "charCount": 9827,
+        "formFeedCount": 12,
+        "cjkRatio": 0.6822,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2013年/2013年12月/2013年12月日语能力考试N1真题及详细解析翻译.pdf",
+      "level": "N1",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N1__2013年__2013年12月__2013年12月日语能力考试N1真题及详细解析翻译.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2013年__2013年12月__2013年12月日语能力考试N1真题及详细解析翻译_img",
+      "text": {
+        "ok": true,
+        "charCount": 252,
+        "formFeedCount": 59,
+        "cjkRatio": 0.5278,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2013年/2013年7月/2013年7月N1真题解析&听力原文.pdf",
+      "level": "N1",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N1__2013年__2013年7月__2013年7月N1真题解析&听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2013年__2013年7月__2013年7月N1真题解析&听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 41286,
+        "formFeedCount": 23,
+        "cjkRatio": 0.3137,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年12月/2014年12月N1解析-1.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年12月__2014年12月N1解析-1.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年12月__2014年12月N1解析-1_img",
+      "text": {
+        "ok": true,
+        "charCount": 1,
+        "formFeedCount": 1,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年12月/2014年12月N1解析-2.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年12月__2014年12月N1解析-2.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年12月__2014年12月N1解析-2_img",
+      "text": {
+        "ok": true,
+        "charCount": 4,
+        "formFeedCount": 4,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年12月/2014年12月N1解析-3.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年12月__2014年12月N1解析-3.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年12月__2014年12月N1解析-3_img",
+      "text": {
+        "ok": true,
+        "charCount": 11,
+        "formFeedCount": 11,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年12月/2014年12月N1解析-4听力.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年12月__2014年12月N1解析-4听力.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年12月__2014年12月N1解析-4听力_img",
+      "text": {
+        "ok": true,
+        "charCount": 10,
+        "formFeedCount": 10,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年7月/2014年7月N1解析-1.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年7月__2014年7月N1解析-1.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年7月__2014年7月N1解析-1_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年7月/2014年7月N1解析-2.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年7月__2014年7月N1解析-2.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年7月__2014年7月N1解析-2_img",
+      "text": {
+        "ok": true,
+        "charCount": 3,
+        "formFeedCount": 3,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2014年/2014年7月/2014年7月N1解析-3.pdf",
+      "level": "N1",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N1__2014年__2014年7月__2014年7月N1解析-3.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2014年__2014年7月__2014年7月N1解析-3_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.07/2015-7真题.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.07__2015-7真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.07__2015-7真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 26526,
+        "formFeedCount": 21,
+        "cjkRatio": 0.5652,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.07/2015-7答案.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.07__2015-7答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.07__2015-7答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 2379,
+        "formFeedCount": 2,
+        "cjkRatio": 0.0425,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.07/2015年一级7月听力原文.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.07__2015年一级7月听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.07__2015年一级7月听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 3,
+        "formFeedCount": 3,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.07/词汇语法阅读解析/2015年7月日语真题解析.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.07__词汇语法阅读解析__2015年7月日语真题解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.07__词汇语法阅读解析__2015年7月日语真题解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 16,
+        "formFeedCount": 16,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.12/2015年12月n1听力原文.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.12__2015年12月n1听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.12__2015年12月n1听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 5,
+        "formFeedCount": 5,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.12/2015年12月日语能力考一级N1真题解析：听力.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.12__2015年12月日语能力考一级N1真题解析：听力.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.12__2015年12月日语能力考一级N1真题解析：听力_img",
+      "text": {
+        "ok": true,
+        "charCount": 1,
+        "formFeedCount": 1,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2015.12/2015年12月日语能力考一级N1真题解析：读解.pdf",
+      "level": "N1",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N1__2015.12__2015年12月日语能力考一级N1真题解析：读解.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2015.12__2015年12月日语能力考一级N1真题解析：读解_img",
+      "text": {
+        "ok": true,
+        "charCount": 1,
+        "formFeedCount": 1,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2016.07/2016年7月n1答案解析.pdf",
+      "level": "N1",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N1__2016.07__2016年7月n1答案解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2016.07__2016年7月n1答案解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 16,
+        "formFeedCount": 16,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2016.12/2016年12月N1听力原文.pdf",
+      "level": "N1",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N1__2016.12__2016年12月N1听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2016.12__2016年12月N1听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 12259,
+        "formFeedCount": 11,
+        "cjkRatio": 0.8661,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2016.12/真题+音频/2016.12.N1.pdf",
+      "level": "N1",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N1__2016.12__真题+音频__2016.12.N1.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2016.12__真题+音频__2016.12.N1_img",
+      "text": {
+        "ok": true,
+        "charCount": 20115,
+        "formFeedCount": 39,
+        "cjkRatio": 0.6951,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.07__2017.07.N1.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.07__2017.07.N1_img",
+      "text": {
+        "ok": true,
+        "charCount": 20914,
+        "formFeedCount": 37,
+        "cjkRatio": 0.6603,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1听力原文.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.07__2017.07.N1听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.07__2017.07.N1听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 11602,
+        "formFeedCount": 13,
+        "cjkRatio": 0.8288,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1词汇解析.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.07__2017.07.N1词汇解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.07__2017.07.N1词汇解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 3230,
+        "formFeedCount": 5,
+        "cjkRatio": 0.6269,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1语法解析.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.07__2017.07.N1语法解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.07__2017.07.N1语法解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 4784,
+        "formFeedCount": 7,
+        "cjkRatio": 0.6702,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1阅读解析.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.07__2017.07.N1阅读解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.07__2017.07.N1阅读解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 5147,
+        "formFeedCount": 8,
+        "cjkRatio": 0.7604,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.12/2017年12月N1真题.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.12__2017年12月N1真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.12__2017年12月N1真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 25074,
+        "formFeedCount": 29,
+        "cjkRatio": 0.5966,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.12/2017年12月N1真题解析版.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.12__2017年12月N1真题解析版.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.12__2017年12月N1真题解析版_img",
+      "text": {
+        "ok": true,
+        "charCount": 60473,
+        "formFeedCount": 71,
+        "cjkRatio": 0.6004,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2017.12/2017年12月N1真题解析（截取版）.pdf",
+      "level": "N1",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N1__2017.12__2017年12月N1真题解析（截取版）.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2017.12__2017年12月N1真题解析（截取版）_img",
+      "text": {
+        "ok": true,
+        "charCount": 4544,
+        "formFeedCount": 5,
+        "cjkRatio": 0.4837,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2018/2018.07/1. 真题 2018年7月 N1.pdf",
+      "level": "N1",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N1__2018__2018.07__1. 真题 2018年7月 N1.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2018__2018.07__1. 真题 2018年7月 N1_img",
+      "text": {
+        "ok": true,
+        "charCount": 319,
+        "formFeedCount": 18,
+        "cjkRatio": 0.6019,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2018/2018.07/2. 答案 + 解析 + 听力 2018年7月 N1.pdf",
+      "level": "N1",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N1__2018__2018.07__2. 答案 + 解析 + 听力 2018年7月 N1.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2018__2018.07__2. 答案 + 解析 + 听力 2018年7月 N1_img",
+      "text": {
+        "ok": true,
+        "charCount": 143,
+        "formFeedCount": 13,
+        "cjkRatio": 0.7273,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2018/2018.12/18年12月N1真题.pdf",
+      "level": "N1",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N1__2018__2018.12__18年12月N1真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2018__2018.12__18年12月N1真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 1265,
+        "formFeedCount": 26,
+        "cjkRatio": 0.0008,
+        "noisyWatermarkHits": 0,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2018/2018.12/2018年12月日语能力考N1真题-解析.pdf",
+      "level": "N1",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N1__2018__2018.12__2018年12月日语能力考N1真题-解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2018__2018.12__2018年12月日语能力考N1真题-解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 65,
+        "formFeedCount": 65,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2019.12/2019年12月N1听力原文.pdf",
+      "level": "N1",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N1__2019.12__2019年12月N1听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2019.12__2019年12月N1听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 20,
+        "formFeedCount": 20,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2019.7/2019年7月N1真题及答案.pdf",
+      "level": "N1",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N1__2019.7__2019年7月N1真题及答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2019.7__2019年7月N1真题及答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 25390,
+        "formFeedCount": 27,
+        "cjkRatio": 0.0009,
+        "noisyWatermarkHits": 0,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2019.7/2019年7月N1答案+解析+听力原文.pdf",
+      "level": "N1",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N1__2019.7__2019年7月N1答案+解析+听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2019.7__2019年7月N1答案+解析+听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 6061,
+        "formFeedCount": 70,
+        "cjkRatio": 0.0026,
+        "noisyWatermarkHits": 0,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2019.7/2019年7月日语能力考试N1真题及详细解析翻译.pdf",
+      "level": "N1",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N1__2019.7__2019年7月日语能力考试N1真题及详细解析翻译.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2019.7__2019年7月日语能力考试N1真题及详细解析翻译_img",
+      "text": {
+        "ok": true,
+        "charCount": 261,
+        "formFeedCount": 67,
+        "cjkRatio": 0.5172,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2020.12/2020年12月N1真题.pdf",
+      "level": "N1",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N1__2020.12__2020年12月N1真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2020.12__2020年12月N1真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 31826,
+        "formFeedCount": 26,
+        "cjkRatio": 0.0468,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2020.12/2020年12月N1真题及解析.pdf",
+      "level": "N1",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N1__2020.12__2020年12月N1真题及解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2020.12__2020年12月N1真题及解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 22,
+        "formFeedCount": 22,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2020.12/2020年12月日语等级考试一级N1真题解析：听力.pdf",
+      "level": "N1",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N1__2020.12__2020年12月日语等级考试一级N1真题解析：听力.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2020.12__2020年12月日语等级考试一级N1真题解析：听力_img",
+      "text": {
+        "ok": true,
+        "charCount": 1271,
+        "formFeedCount": 2,
+        "cjkRatio": 0.7372,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2021.7/2021.7/2021年7月N1真题(1)_Password_Removed.pdf",
+      "level": "N1",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N1__2021.7__2021.7__2021年7月N1真题(1)_Password_Removed.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2021.7__2021.7__2021年7月N1真题(1)_Password_Removed_img",
+      "text": {
+        "ok": true,
+        "charCount": 2004,
+        "formFeedCount": 34,
+        "cjkRatio": 0.4546,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2021.7/2021年7月N1真题(1).pdf",
+      "level": "N1",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N1__2021.7__2021年7月N1真题(1).txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2021.7__2021年7月N1真题(1)_img",
+      "text": {
+        "ok": true,
+        "charCount": 2004,
+        "formFeedCount": 34,
+        "cjkRatio": 0.4546,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2021.7/2021年7月N1真题听力原文.pdf",
+      "level": "N1",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N1__2021.7__2021年7月N1真题听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2021.7__2021年7月N1真题听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 12,
+        "formFeedCount": 12,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2022.12/Answer N1 T12-2022.pdf",
+      "level": "N1",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N1__2022.12__Answer N1 T12-2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2022.12__Answer N1 T12-2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 2629,
+        "formFeedCount": 3,
+        "cjkRatio": 0.0384,
+        "noisyWatermarkHits": 1,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2022.12/N1 Listening Script T12ー2022.pdf",
+      "level": "N1",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N1__2022.12__N1 Listening Script T12ー2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2022.12__N1 Listening Script T12ー2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 11798,
+        "formFeedCount": 12,
+        "cjkRatio": 0.7195,
+        "noisyWatermarkHits": 14,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2022.12/N1 T12-2022[MARK].pdf",
+      "level": "N1",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N1__2022.12__N1 T12-2022[MARK].txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2022.12__N1 T12-2022[MARK]_img",
+      "text": {
+        "ok": true,
+        "charCount": 1732,
+        "formFeedCount": 22,
+        "cjkRatio": 0.5953,
+        "noisyWatermarkHits": 2,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2023.12/Answer N1 T12-2023.pdf",
+      "level": "N1",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N1__2023.12__Answer N1 T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2023.12__Answer N1 T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 3644,
+        "formFeedCount": 6,
+        "cjkRatio": 0.545,
+        "noisyWatermarkHits": 8,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2023.12/N1 Listening Script T12ー2023.pdf",
+      "level": "N1",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N1__2023.12__N1 Listening Script T12ー2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2023.12__N1 Listening Script T12ー2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 10806,
+        "formFeedCount": 9,
+        "cjkRatio": 0.7562,
+        "noisyWatermarkHits": 10,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N1/2023.12/N1 Test T12-2023.pdf",
+      "level": "N1",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N1__2023.12__N1 Test T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N1__2023.12__N1 Test T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 5928,
+        "formFeedCount": 52,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 52,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2010.07/词汇语法阅读/文字解析.pdf",
+      "level": "N2",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N2__2010.07__词汇语法阅读__文字解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2010.07__词汇语法阅读__文字解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 6677,
+        "formFeedCount": 9,
+        "cjkRatio": 0.3985,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2010.07/词汇语法阅读/语法部分解析.pdf",
+      "level": "N2",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N2__2010.07__词汇语法阅读__语法部分解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2010.07__词汇语法阅读__语法部分解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 9590,
+        "formFeedCount": 11,
+        "cjkRatio": 0.465,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2010.07/词汇语法阅读/读解解析.pdf",
+      "level": "N2",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N2__2010.07__词汇语法阅读__读解解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2010.07__词汇语法阅读__读解解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 2907,
+        "formFeedCount": 4,
+        "cjkRatio": 0.7798,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2010.12/词汇语法阅读/2010年12月N2真题解析.pdf",
+      "level": "N2",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N2__2010.12__词汇语法阅读__2010年12月N2真题解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2010.12__词汇语法阅读__2010年12月N2真题解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 24,
+        "formFeedCount": 11,
+        "cjkRatio": 0.1667,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2020/2020年12月N2真题+答案.pdf",
+      "level": "N2",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N2__2020__2020年12月N2真题+答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2020__2020年12月N2真题+答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 22724,
+        "formFeedCount": 22,
+        "cjkRatio": 0.0311,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2020/N2-2020.12真题解析（井上野先生）.pdf",
+      "level": "N2",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N2__2020__N2-2020.12真题解析（井上野先生）.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2020__N2-2020.12真题解析（井上野先生）_img",
+      "text": {
+        "ok": true,
+        "charCount": 4,
+        "formFeedCount": 4,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/2021.7/2021年7月N2真题.pdf",
+      "level": "N2",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N2__2021.7__2021年7月N2真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__2021.7__2021年7月N2真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 64647,
+        "formFeedCount": 33,
+        "cjkRatio": 0.0837,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2 12-2022/Answer N2 T12-2022.pdf",
+      "level": "N2",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N2__N2 12-2022__Answer N2 T12-2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2 12-2022__Answer N2 T12-2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 2957,
+        "formFeedCount": 3,
+        "cjkRatio": 0.0358,
+        "noisyWatermarkHits": 1,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2 12-2022/Listening Script N2 T12-2022.pdf",
+      "level": "N2",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N2__N2 12-2022__Listening Script N2 T12-2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2 12-2022__Listening Script N2 T12-2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 11642,
+        "formFeedCount": 13,
+        "cjkRatio": 0.6772,
+        "noisyWatermarkHits": 15,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2 12-2022/N2 T12-2022 Complete version.pdf",
+      "level": "N2",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N2__N2 12-2022__N2 T12-2022 Complete version.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2 12-2022__N2 T12-2022 Complete version_img",
+      "text": {
+        "ok": true,
+        "charCount": 4543,
+        "formFeedCount": 21,
+        "cjkRatio": 0.4986,
+        "noisyWatermarkHits": 4,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2 12-2023/Answer N2 T12-2023.pdf",
+      "level": "N2",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N2__N2 12-2023__Answer N2 T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2 12-2023__Answer N2 T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 3200,
+        "formFeedCount": 4,
+        "cjkRatio": 0.5566,
+        "noisyWatermarkHits": 6,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2 12-2023/Listening Script N2 T12-2023.pdf",
+      "level": "N2",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N2__N2 12-2023__Listening Script N2 T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2 12-2023__Listening Script N2 T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 9835,
+        "formFeedCount": 9,
+        "cjkRatio": 0.7452,
+        "noisyWatermarkHits": 10,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2 12-2023/N2 Test T12-2023.pdf",
+      "level": "N2",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N2__N2 12-2023__N2 Test T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2 12-2023__N2 Test T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 5928,
+        "formFeedCount": 52,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 52,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2011-07/N2-2011-07-真题.pdf",
+      "level": "N2",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2011-07__N2-2011-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2011-07__N2-2011-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2011-07/N2-2011-07-答案.pdf",
+      "level": "N2",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2011-07__N2-2011-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2011-07__N2-2011-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2011-12/N2-2011-12-真题.pdf",
+      "level": "N2",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2011-12__N2-2011-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2011-12__N2-2011-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2011-12/N2-2011-12-答案.pdf",
+      "level": "N2",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2011-12__N2-2011-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2011-12__N2-2011-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2012-07/N2-2012-07-真题.pdf",
+      "level": "N2",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2012-07__N2-2012-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2012-07__N2-2012-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2012-07/N2-2012-07-答案.pdf",
+      "level": "N2",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2012-07__N2-2012-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2012-07__N2-2012-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2012-12/N2-2012-12-真题.pdf",
+      "level": "N2",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2012-12__N2-2012-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2012-12__N2-2012-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2012-12/N2-2012-12-答案.pdf",
+      "level": "N2",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2012-12__N2-2012-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2012-12__N2-2012-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2013-07/N2-2013-07-真题.pdf",
+      "level": "N2",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2013-07__N2-2013-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2013-07__N2-2013-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2013-07/N2-2013-07-答案.pdf",
+      "level": "N2",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2013-07__N2-2013-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2013-07__N2-2013-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2013-12/N2-2013-12-真题.pdf",
+      "level": "N2",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2013-12__N2-2013-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2013-12__N2-2013-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2013-12/N2-2013-12-答案.pdf",
+      "level": "N2",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2013-12__N2-2013-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2013-12__N2-2013-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2014-07/N2-2014-07-真题.pdf",
+      "level": "N2",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2014-07__N2-2014-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2014-07__N2-2014-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2014-07/N2-2014-07-答案.pdf",
+      "level": "N2",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2014-07__N2-2014-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2014-07__N2-2014-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2014-12/N2-2014-12-真题.pdf",
+      "level": "N2",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2014-12__N2-2014-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2014-12__N2-2014-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2014-12/N2-2014-12-答案.pdf",
+      "level": "N2",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2014-12__N2-2014-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2014-12__N2-2014-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2015-07/N2-2015-07-真题.pdf",
+      "level": "N2",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2015-07__N2-2015-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2015-07__N2-2015-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2015-07/N2-2015-07-答案.pdf",
+      "level": "N2",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2015-07__N2-2015-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2015-07__N2-2015-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2015-12/N2-2015-12-真题.pdf",
+      "level": "N2",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2015-12__N2-2015-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2015-12__N2-2015-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2015-12/N2-2015-12-答案.pdf",
+      "level": "N2",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2015-12__N2-2015-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2015-12__N2-2015-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2016-07/N2-2016-07-真题.pdf",
+      "level": "N2",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2016-07__N2-2016-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2016-07__N2-2016-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2016-07/N2-2016-07-答案.pdf",
+      "level": "N2",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2016-07__N2-2016-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2016-07__N2-2016-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2016-12/N2-2016-12-真题.pdf",
+      "level": "N2",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2016-12__N2-2016-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2016-12__N2-2016-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 16,
+        "formFeedCount": 16,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2016-12/N2-2016-12-答案.pdf",
+      "level": "N2",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2016-12__N2-2016-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2016-12__N2-2016-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2017-07/N2-2017-07-真题.pdf",
+      "level": "N2",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2017-07__N2-2017-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2017-07__N2-2017-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 16,
+        "formFeedCount": 16,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2017-07/N2-2017-07-答案.pdf",
+      "level": "N2",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2017-07__N2-2017-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2017-07__N2-2017-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2017-12/N2-2017-12-真题.pdf",
+      "level": "N2",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2017-12__N2-2017-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2017-12__N2-2017-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 16,
+        "formFeedCount": 16,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2017-12/N2-2017-12-答案.pdf",
+      "level": "N2",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2017-12__N2-2017-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2017-12__N2-2017-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2018-07/N2-2018-07-真题.pdf",
+      "level": "N2",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2018-07__N2-2018-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2018-07__N2-2018-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 16,
+        "formFeedCount": 16,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2018-07/N2-2018-07-答案.pdf",
+      "level": "N2",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2018-07__N2-2018-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2018-07__N2-2018-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2018-12/N2-2018-12-真题.pdf",
+      "level": "N2",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2018-12__N2-2018-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2018-12__N2-2018-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2018-12/N2-2018-12-答案.pdf",
+      "level": "N2",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2018-12__N2-2018-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2018-12__N2-2018-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 33,
+        "formFeedCount": 10,
+        "cjkRatio": 0.4242,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2019-07/N2-2019-07-真题.pdf",
+      "level": "N2",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2019-07__N2-2019-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2019-07__N2-2019-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2019-07/N2-2019-07-答案.pdf",
+      "level": "N2",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2019-07__N2-2019-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2019-07__N2-2019-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 33,
+        "formFeedCount": 10,
+        "cjkRatio": 0.4242,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2019-12/N2-2019-12 真题.PDF",
+      "level": "N2",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2019-12__N2-2019-12 真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2019-12__N2-2019-12 真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 768,
+        "formFeedCount": 15,
+        "cjkRatio": 0.263,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N2/N2-2019-12/N2-2019-12 答案.PDF",
+      "level": "N2",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N2__N2-2019-12__N2-2019-12 答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N2__N2-2019-12__N2-2019-12 答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 10,
+        "formFeedCount": 10,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2010.12/2010.12真题及答案/2010年12月日语能力测试N3真题+答案.pdf",
+      "level": "N3",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N3__2010.12__2010.12真题及答案__2010年12月日语能力测试N3真题+答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2010.12__2010.12真题及答案__2010年12月日语能力测试N3真题+答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 26339,
+        "formFeedCount": 19,
+        "cjkRatio": 0.5575,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2010.12/2010年12月N3听解原文.pdf",
+      "level": "N3",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N3__2010.12__2010年12月N3听解原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2010.12__2010年12月N3听解原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 6547,
+        "formFeedCount": 10,
+        "cjkRatio": 0.6823,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2010.7/2010年7月N3听力原文.pdf",
+      "level": "N3",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N3__2010.7__2010年7月N3听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2010.7__2010年7月N3听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 5529,
+        "formFeedCount": 8,
+        "cjkRatio": 0.777,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2010.7/2010年7月日本语能力考试N3真题答案解析.pdf",
+      "level": "N3",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N3__2010.7__2010年7月日本语能力考试N3真题答案解析.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2010.7__2010年7月日本语能力考试N3真题答案解析_img",
+      "text": {
+        "ok": true,
+        "charCount": 11621,
+        "formFeedCount": 9,
+        "cjkRatio": 0.6653,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2010.7/2010年7月真题.pdf",
+      "level": "N3",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N3__2010.7__2010年7月真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2010.7__2010年7月真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 16209,
+        "formFeedCount": 15,
+        "cjkRatio": 0.4791,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2019.12/2019.12答案.pdf",
+      "level": "N3",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N3__2019.12__2019.12答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2019.12__2019.12答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 4,
+        "formFeedCount": 4,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2019.12/2019年12月N3听力原文.pdf",
+      "level": "N3",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N3__2019.12__2019年12月N3听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2019.12__2019年12月N3听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 6538,
+        "formFeedCount": 16,
+        "cjkRatio": 0.7773,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2019.12/2019年12月N3真题 (2).pdf",
+      "level": "N3",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N3__2019.12__2019年12月N3真题 (2).txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2019.12__2019年12月N3真题 (2)_img",
+      "text": {
+        "ok": true,
+        "charCount": 6567,
+        "formFeedCount": 17,
+        "cjkRatio": 0.4593,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2020/2020-日语N3试卷-附答案.pdf",
+      "level": "N3",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N3__2020__2020-日语N3试卷-附答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2020__2020-日语N3试卷-附答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 12,
+        "formFeedCount": 12,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2020/2020年12月日本語能力試験N3真题.pdf",
+      "level": "N3",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N3__2020__2020年12月日本語能力試験N3真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2020__2020年12月日本語能力試験N3真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 7481,
+        "formFeedCount": 9,
+        "cjkRatio": 0.406,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2020/N3 2020.12 答案+解析+听力原文.pdf",
+      "level": "N3",
+      "year": 2020,
+      "textOutputPath": "data/jlpt-import/text/N3__2020__N3 2020.12 答案+解析+听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2020__N3 2020.12 答案+解析+听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 4,
+        "formFeedCount": 4,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/2021.7/2021年7月N3真题.pdf",
+      "level": "N3",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N3__2021.7__2021年7月N3真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__2021.7__2021年7月N3真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 41506,
+        "formFeedCount": 30,
+        "cjkRatio": 0.1106,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3 12-2022/Answer N3 T12-2022.pdf",
+      "level": "N3",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N3__N3 12-2022__Answer N3 T12-2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3 12-2022__Answer N3 T12-2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 4,
+        "formFeedCount": 4,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3 12-2022/Listening Script N3 T12-2022.pdf",
+      "level": "N3",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N3__N3 12-2022__Listening Script N3 T12-2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3 12-2022__Listening Script N3 T12-2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 20,
+        "formFeedCount": 20,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3 12-2022/N3 Test T12-2022 Final Version.pdf",
+      "level": "N3",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N3__N3 12-2022__N3 Test T12-2022 Final Version.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3 12-2022__N3 Test T12-2022 Final Version_img",
+      "text": {
+        "ok": true,
+        "charCount": 22327,
+        "formFeedCount": 25,
+        "cjkRatio": 0.4071,
+        "noisyWatermarkHits": 26,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3 12-2023/Answer N3 T12-2023.pdf",
+      "level": "N3",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N3__N3 12-2023__Answer N3 T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3 12-2023__Answer N3 T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 3766,
+        "formFeedCount": 6,
+        "cjkRatio": 0.5141,
+        "noisyWatermarkHits": 8,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3 12-2023/N3 Listening Script T12-2023.pdf",
+      "level": "N3",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N3__N3 12-2023__N3 Listening Script T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3 12-2023__N3 Listening Script T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 7076,
+        "formFeedCount": 8,
+        "cjkRatio": 0.6757,
+        "noisyWatermarkHits": 9,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3 12-2023/N3 Test T12-2023.pdf",
+      "level": "N3",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N3__N3 12-2023__N3 Test T12-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3 12-2023__N3 Test T12-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 5472,
+        "formFeedCount": 48,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 48,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2011-07/N3-2011-07-真题.pdf",
+      "level": "N3",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2011-07__N3-2011-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2011-07__N3-2011-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2011-07/N3-2011-07-答案.pdf",
+      "level": "N3",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2011-07__N3-2011-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2011-07__N3-2011-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2011-12/N3-2011-12-真题.pdf",
+      "level": "N3",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2011-12__N3-2011-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2011-12__N3-2011-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2011-12/N3-2011-12-答案.pdf",
+      "level": "N3",
+      "year": 2011,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2011-12__N3-2011-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2011-12__N3-2011-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2012-07/N3-2012-07-真题.pdf",
+      "level": "N3",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2012-07__N3-2012-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2012-07__N3-2012-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2012-07/N3-2012-07-答案.pdf",
+      "level": "N3",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2012-07__N3-2012-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2012-07__N3-2012-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2012-12/N3-2012-12-真题.pdf",
+      "level": "N3",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2012-12__N3-2012-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2012-12__N3-2012-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2012-12/N3-2012-12-答案.pdf",
+      "level": "N3",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2012-12__N3-2012-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2012-12__N3-2012-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2013-07/N3-2013-07-真题.pdf",
+      "level": "N3",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2013-07__N3-2013-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2013-07__N3-2013-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2013-07/N3-2013-07-答案.pdf",
+      "level": "N3",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2013-07__N3-2013-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2013-07__N3-2013-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2013-12/N3-2013-12-真题.pdf",
+      "level": "N3",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2013-12__N3-2013-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2013-12__N3-2013-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2013-12/N3-2013-12-答案.pdf",
+      "level": "N3",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2013-12__N3-2013-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2013-12__N3-2013-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2014-07/N3-2014-07-真题.pdf",
+      "level": "N3",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2014-07__N3-2014-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2014-07__N3-2014-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2014-07/N3-2014-07-答案.pdf",
+      "level": "N3",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2014-07__N3-2014-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2014-07__N3-2014-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2014-12/N3-2014-12-真题.pdf",
+      "level": "N3",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2014-12__N3-2014-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2014-12__N3-2014-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2014-12/N3-2014-12-答案.pdf",
+      "level": "N3",
+      "year": 2014,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2014-12__N3-2014-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2014-12__N3-2014-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2015-12/N3-2015-12-真题.pdf",
+      "level": "N3",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2015-12__N3-2015-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2015-12__N3-2015-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2015-12/N3-2015-12-答案.pdf",
+      "level": "N3",
+      "year": 2015,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2015-12__N3-2015-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2015-12__N3-2015-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2016-07/N3-2016-07-真题.pdf",
+      "level": "N3",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2016-07__N3-2016-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2016-07__N3-2016-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2016-07/N3-2016-07-答案.pdf",
+      "level": "N3",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2016-07__N3-2016-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2016-07__N3-2016-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2016-12/N3-2016-12-真题.pdf",
+      "level": "N3",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2016-12__N3-2016-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2016-12__N3-2016-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2016-12/N3-2016-12-答案.pdf",
+      "level": "N3",
+      "year": 2016,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2016-12__N3-2016-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2016-12__N3-2016-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2017-07/N3-2017-07-真题.pdf",
+      "level": "N3",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2017-07__N3-2017-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2017-07__N3-2017-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2017-07/N3-2017-07-答案.pdf",
+      "level": "N3",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2017-07__N3-2017-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2017-07__N3-2017-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2017-12/N3-2017-12-真题.pdf",
+      "level": "N3",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2017-12__N3-2017-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2017-12__N3-2017-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2017-12/N3-2017-12-答案.pdf",
+      "level": "N3",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2017-12__N3-2017-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2017-12__N3-2017-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2018-07/N3-2018-07-真题.pdf",
+      "level": "N3",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2018-07__N3-2018-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2018-07__N3-2018-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2018-07/N3-2018-07-答案.pdf",
+      "level": "N3",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2018-07__N3-2018-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2018-07__N3-2018-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 13,
+        "formFeedCount": 13,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2018-12/N3-2018-12-真题.pdf",
+      "level": "N3",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2018-12__N3-2018-12-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2018-12__N3-2018-12-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2018-12/N3-2018-12-答案.pdf",
+      "level": "N3",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2018-12__N3-2018-12-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2018-12__N3-2018-12-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 33,
+        "formFeedCount": 10,
+        "cjkRatio": 0.4242,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2019-07/N3-2019-07-真题.pdf",
+      "level": "N3",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2019-07__N3-2019-07-真题.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2019-07__N3-2019-07-真题_img",
+      "text": {
+        "ok": true,
+        "charCount": 14,
+        "formFeedCount": 14,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N3/N3-2019-07/N3-2019-07-答案.pdf",
+      "level": "N3",
+      "year": 2019,
+      "textOutputPath": "data/jlpt-import/text/N3__N3-2019-07__N3-2019-07-答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N3__N3-2019-07__N3-2019-07-答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 33,
+        "formFeedCount": 10,
+        "cjkRatio": 0.4242,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2018 年/N4-2018年-高清打印版.pdf",
+      "level": "N4",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N4__2018 年__N4-2018年-高清打印版.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2018 年__N4-2018年-高清打印版_img",
+      "text": {
+        "ok": true,
+        "charCount": 1490,
+        "formFeedCount": 24,
+        "cjkRatio": 0.4101,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2021年12月/Answers to N4 test T12-2021.pdf",
+      "level": "N4",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N4__2021年12月__Answers to N4 test T12-2021.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2021年12月__Answers to N4 test T12-2021_img",
+      "text": {
+        "ok": true,
+        "charCount": 2682,
+        "formFeedCount": 4,
+        "cjkRatio": 0.4478,
+        "noisyWatermarkHits": 6,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2021年12月/Listening Script N4 T12-2021.pdf",
+      "level": "N4",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N4__2021年12月__Listening Script N4 T12-2021.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2021年12月__Listening Script N4 T12-2021_img",
+      "text": {
+        "ok": true,
+        "charCount": 5422,
+        "formFeedCount": 8,
+        "cjkRatio": 0.6086,
+        "noisyWatermarkHits": 10,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2021年12月/N4 Test T12-2021.pdf",
+      "level": "N4",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N4__2021年12月__N4 Test T12-2021.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2021年12月__N4 Test T12-2021_img",
+      "text": {
+        "ok": true,
+        "charCount": 20,
+        "formFeedCount": 20,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2022年12月/Detailed answers N4 T12-2022.pdf",
+      "level": "N4",
+      "year": 2022,
+      "textOutputPath": "data/jlpt-import/text/N4__2022年12月__Detailed answers N4 T12-2022.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2022年12月__Detailed answers N4 T12-2022_img",
+      "text": {
+        "ok": true,
+        "charCount": 2394,
+        "formFeedCount": 4,
+        "cjkRatio": 0.2623,
+        "noisyWatermarkHits": 6,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2023年7月/Answers to N4 test T7-2023.pdf",
+      "level": "N4",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N4__2023年7月__Answers to N4 test T7-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2023年7月__Answers to N4 test T7-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 2151,
+        "formFeedCount": 3,
+        "cjkRatio": 0.3566,
+        "noisyWatermarkHits": 5,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/2023年7月/N4 Test T7-2023.pdf",
+      "level": "N4",
+      "year": 2023,
+      "textOutputPath": "data/jlpt-import/text/N4__2023年7月__N4 Test T7-2023.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__2023年7月__N4 Test T7-2023_img",
+      "text": {
+        "ok": true,
+        "charCount": 18466,
+        "formFeedCount": 23,
+        "cjkRatio": 0.4737,
+        "noisyWatermarkHits": 24,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2010-2014年-高清打印版/2010-2011年.pdf",
+      "level": "N4",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2010-2014年-高清打印版__2010-2011年.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2010-2014年-高清打印版__2010-2011年_img",
+      "text": {
+        "ok": true,
+        "charCount": 24,
+        "formFeedCount": 24,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2010-2014年-高清打印版/2012年.pdf",
+      "level": "N4",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2010-2014年-高清打印版__2012年.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2010-2014年-高清打印版__2012年_img",
+      "text": {
+        "ok": true,
+        "charCount": 24,
+        "formFeedCount": 24,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2010-2014年-高清打印版/2013年12月.pdf",
+      "level": "N4",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2010-2014年-高清打印版__2013年12月.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2010-2014年-高清打印版__2013年12月_img",
+      "text": {
+        "ok": true,
+        "charCount": 78132,
+        "formFeedCount": 24,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "low_text_ratio"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2010-2014年-高清打印版/2013年7月.pdf",
+      "level": "N4",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2010-2014年-高清打印版__2013年7月.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2010-2014年-高清打印版__2013年7月_img",
+      "text": {
+        "ok": true,
+        "charCount": 24,
+        "formFeedCount": 24,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2010-2014年-高清打印版/2014年7月.pdf",
+      "level": "N4",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2010-2014年-高清打印版__2014年7月.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2010-2014年-高清打印版__2014年7月_img",
+      "text": {
+        "ok": true,
+        "charCount": 576,
+        "formFeedCount": 24,
+        "cjkRatio": 0.7083,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4 2017.7真题/N4G.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4 2017.7真题__N4G.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4 2017.7真题__N4G_img",
+      "text": {
+        "ok": true,
+        "charCount": 511,
+        "formFeedCount": 9,
+        "cjkRatio": 0.1683,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4 2017.7真题/N4L.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4 2017.7真题__N4L.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4 2017.7真题__N4L_img",
+      "text": {
+        "ok": true,
+        "charCount": 651,
+        "formFeedCount": 17,
+        "cjkRatio": 0.0952,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4 2017.7真题/N4R.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4 2017.7真题__N4R.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4 2017.7真题__N4R_img",
+      "text": {
+        "ok": true,
+        "charCount": 515,
+        "formFeedCount": 8,
+        "cjkRatio": 0.1709,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4 2017.7真题/N4V.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4 2017.7真题__N4V.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4 2017.7真题__N4V_img",
+      "text": {
+        "ok": true,
+        "charCount": 522,
+        "formFeedCount": 11,
+        "cjkRatio": 0.2414,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4听力原文.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 19507,
+        "formFeedCount": 10,
+        "cjkRatio": 0.2776,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4答案.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 2054,
+        "formFeedCount": 2,
+        "cjkRatio": 0.0497,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/N4答题卡.pdf",
+      "level": "N4",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N4__N4-2017年7月__N4答题卡.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N4__N4-2017年7月__N4答题卡_img",
+      "text": {
+        "ok": true,
+        "charCount": 5593,
+        "formFeedCount": 3,
+        "cjkRatio": 0.0415,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2010-11/N5-2010-2011年-真题+解析+听力原文-高清打印版..pdf",
+      "level": "N5",
+      "year": 2010,
+      "textOutputPath": "data/jlpt-import/text/N5__2010-11__N5-2010-2011年-真题+解析+听力原文-高清打印版..txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2010-11__N5-2010-2011年-真题+解析+听力原文-高清打印版._img",
+      "text": {
+        "ok": true,
+        "charCount": 22,
+        "formFeedCount": 22,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2012/N5-2012年12月-真题+解析+听力原文-高清打印版..pdf",
+      "level": "N5",
+      "year": 2012,
+      "textOutputPath": "data/jlpt-import/text/N5__2012__N5-2012年12月-真题+解析+听力原文-高清打印版..txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2012__N5-2012年12月-真题+解析+听力原文-高清打印版._img",
+      "text": {
+        "ok": true,
+        "charCount": 23,
+        "formFeedCount": 23,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2013/N5-2013年7月-真题+解析+听力原文-高清打印版..pdf",
+      "level": "N5",
+      "year": 2013,
+      "textOutputPath": "data/jlpt-import/text/N5__2013__N5-2013年7月-真题+解析+听力原文-高清打印版..txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2013__N5-2013年7月-真题+解析+听力原文-高清打印版._img",
+      "text": {
+        "ok": true,
+        "charCount": 24,
+        "formFeedCount": 24,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5听力原文.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5听力原文.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5听力原文_img",
+      "text": {
+        "ok": true,
+        "charCount": 14086,
+        "formFeedCount": 8,
+        "cjkRatio": 0.2641,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5真题2017.7/N5G.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5真题2017.7__N5G.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5真题2017.7__N5G_img",
+      "text": {
+        "ok": true,
+        "charCount": 505,
+        "formFeedCount": 9,
+        "cjkRatio": 0.1703,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5真题2017.7/N5L.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5真题2017.7__N5L.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5真题2017.7__N5L_img",
+      "text": {
+        "ok": true,
+        "charCount": 590,
+        "formFeedCount": 16,
+        "cjkRatio": 0.0983,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5真题2017.7/N5R.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5真题2017.7__N5R.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5真题2017.7__N5R_img",
+      "text": {
+        "ok": true,
+        "charCount": 515,
+        "formFeedCount": 8,
+        "cjkRatio": 0.1709,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5真题2017.7/N5V.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5真题2017.7__N5V.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5真题2017.7__N5V_img",
+      "text": {
+        "ok": true,
+        "charCount": 450,
+        "formFeedCount": 10,
+        "cjkRatio": 0.2489,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5答案.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5答案.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5答案_img",
+      "text": {
+        "ok": true,
+        "charCount": 1903,
+        "formFeedCount": 2,
+        "cjkRatio": 0.0525,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2017/N5答题卡.pdf",
+      "level": "N5",
+      "year": 2017,
+      "textOutputPath": "data/jlpt-import/text/N5__2017__N5答题卡.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2017__N5答题卡_img",
+      "text": {
+        "ok": true,
+        "charCount": 5045,
+        "formFeedCount": 3,
+        "cjkRatio": 0.0452,
+        "noisyWatermarkHits": 0,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2018/N5-2018年-真题+解析+听力原文-高清打印版.pdf",
+      "level": "N5",
+      "year": 2018,
+      "textOutputPath": "data/jlpt-import/text/N5__2018__N5-2018年-真题+解析+听力原文-高清打印版.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2018__N5-2018年-真题+解析+听力原文-高清打印版_img",
+      "text": {
+        "ok": true,
+        "charCount": 26,
+        "formFeedCount": 26,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2021/Script Nghe N5 T12-2021 Mark.pdf",
+      "level": "N5",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N5__2021__Script Nghe N5 T12-2021 Mark.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2021__Script Nghe N5 T12-2021 Mark_img",
+      "text": {
+        "ok": true,
+        "charCount": 3358,
+        "formFeedCount": 6,
+        "cjkRatio": 0.5366,
+        "noisyWatermarkHits": 8,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2021/Đáp án đề N5 T12-2021 Mark.pdf",
+      "level": "N5",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N5__2021__Đáp án đề N5 T12-2021 Mark.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2021__Đáp án đề N5 T12-2021 Mark_img",
+      "text": {
+        "ok": true,
+        "charCount": 1743,
+        "formFeedCount": 3,
+        "cjkRatio": 0.4028,
+        "noisyWatermarkHits": 5,
+        "quality": "usable"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    },
+    {
+      "sourcePath": "N5/2021/Đề N5 T12-2021 Mark.pdf",
+      "level": "N5",
+      "year": 2021,
+      "textOutputPath": "data/jlpt-import/text/N5__2021__Đề N5 T12-2021 Mark.txt",
+      "imageOutputPrefix": "data/jlpt-import/images/N5__2021__Đề N5 T12-2021 Mark_img",
+      "text": {
+        "ok": true,
+        "charCount": 17,
+        "formFeedCount": 17,
+        "cjkRatio": 0,
+        "noisyWatermarkHits": 0,
+        "quality": "very_low_text"
+      },
+      "images": {
+        "ok": true,
+        "skipped": true,
+        "stderr": ""
+      },
+      "attachments": {
+        "ok": true,
+        "skipped": true,
+        "output": "",
+        "stderr": ""
+      }
+    }
+  ],
+  "mediaFiles": [
+    {
+      "sourcePath": "N1/2010年/2010年12月/2010年12月N1.mp3",
+      "level": "N1",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2010年/2010年7月/2010年7月 N1听力.mp3",
+      "level": "N1",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2011年/2011年12月/2011年12月N1 听力音频.mp3",
+      "level": "N1",
+      "year": 2011,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2011年/2011年7月/2011年7月N1.mp3",
+      "level": "N1",
+      "year": 2011,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2012年/2012年12月/2012年12月N1 听力音频.mp3",
+      "level": "N1",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2012年/2012年7月/2012年7月N1听力音频.mp3",
+      "level": "N1",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2013年/2013年12月/2013年12月N1.mp3",
+      "level": "N1",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2013年/2013年7月/2013年7月N1 听力音频.mp3",
+      "level": "N1",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2013年/2013年7月/2013年7月日语一级听力原文及答案.txt",
+      "level": "N1",
+      "year": 2013,
+      "type": "text",
+      "extension": ".txt"
+    },
+    {
+      "sourcePath": "N1/2014年/2014年12月/2014年12月日语N1听力.mp3",
+      "level": "N1",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2014年/2014年7月/2014年07月日语能力考N1真题听力.mp3",
+      "level": "N1",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2015.07/2015年7月.mp3",
+      "level": "N1",
+      "year": 2015,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2015.12/2015年12月N1.mp3",
+      "level": "N1",
+      "year": 2015,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/001.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/002.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/003.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/004.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/005.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/006.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/007.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/008.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/009.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/010.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/011.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/012.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/013.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/014.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/015.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/016.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/017.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/018.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/019.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/020.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/021.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/022.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/023.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/024.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/025.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/026.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/027.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/028.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/029.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/030.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/031.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/032.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/033.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/034.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/035.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/036.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.07/2016.07.N1.MP3/037.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2016.12/真题+音频/2016.12.N1.mp3",
+      "level": "N1",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/1-1.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/1-2.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/1-3.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/1-4.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/1-5.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/1-6.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/2-1.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/2-2.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/2-3.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/2-4.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/2-5.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/2-6.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/3-1.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/3-2.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/3-3.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/3-4.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/3-5.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/3-6.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-01.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-02.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-03.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-04.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-05.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-06.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-07.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-08.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-09.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-10.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-11.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-12.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/4-13.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/5-1.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/5-2.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2017.07/2017.07.N1.mp3/5-3.mp3",
+      "level": "N1",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2018/2018.07/3. 听力 2018年7月 N1.mp3",
+      "level": "N1",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2018/2018.12/2018年12月N1听力.mp3",
+      "level": "N1",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2019.12/2019年12月日语N1听力音频.mp3",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题1 1番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题1 2番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题1 3番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题1 4番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题1 5番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题1 6番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题2 1番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题2 2番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题2 3番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题2 4番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题2 5番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题2 6番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题3 1番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题3 2番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题3 3番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题3 4番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题3 5番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题3 6番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 10番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 11番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 12番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 13番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 1番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 2番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 3番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 4番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 5番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 6番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 7番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 8番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题4 9番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题5 1番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题5 2番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.12/N1-2019-12（1套）/2019年12月N1听力音频/问题5 3番.m4a",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N1/2019.7/2019年7月N1听力.mp3",
+      "level": "N1",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2020.12/N1-2020.12.mp3",
+      "level": "N1",
+      "year": 2020,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2021.7/2021.7.n1.mp3",
+      "level": "N1",
+      "year": 2021,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2021.7/2021.7/2021.7.n1.mp3",
+      "level": "N1",
+      "year": 2021,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2022.12/Listening N 1 12-2022 Standard version.mp3",
+      "level": "N1",
+      "year": 2022,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N1/2023.12/Listening N 1 12-2023 Standard version.mp3",
+      "level": "N1",
+      "year": 2023,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/2010.07/2010年7月N2.mp3",
+      "level": "N2",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/2010.12/2010年12月N2.mp3",
+      "level": "N2",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/2020/N2-2020.12.mp3",
+      "level": "N2",
+      "year": 2020,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/2021.7/2021.7.n2.mp3",
+      "level": "N2",
+      "year": 2021,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2 12-2022/Listening N2 T12-2022 Complete version.mp3",
+      "level": "N2",
+      "year": 2022,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2 12-2023/Listening N2 T12-2023 Standard Version.mp3",
+      "level": "N2",
+      "year": 2023,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2011-07/2011年7月N2.mp3",
+      "level": "N2",
+      "year": 2011,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2011-12/2011年12月N2.mp3",
+      "level": "N2",
+      "year": 2011,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2012-07/2012年7月N2.mp3",
+      "level": "N2",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2012-12/2012年12月N2.mp3",
+      "level": "N2",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2013-07/2013年7月N2.mp3",
+      "level": "N2",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2013-12/2013年12月N2.mp3",
+      "level": "N2",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2014-07/2014年7月N2.mp3",
+      "level": "N2",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2014-12/2014年12月N2.mp3",
+      "level": "N2",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2015-07/2015年7月N2.mp3",
+      "level": "N2",
+      "year": 2015,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2015-12/2015年12月.mp3",
+      "level": "N2",
+      "year": 2015,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2016-07/2016年7月N2.mp3",
+      "level": "N2",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2016-12/2016年12月N2.mp3",
+      "level": "N2",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2017-07/2017年7月N2.mp3",
+      "level": "N2",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2017-12/2017年12月N2.mp3",
+      "level": "N2",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2018-07/2018年7月日语N2真题听力.mp3",
+      "level": "N2",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2018-12/2018年12月N2.mp3",
+      "level": "N2",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2019-07/2019年7月N2.mp3",
+      "level": "N2",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N2/N2-2019-12/2019年12月N2.mp3",
+      "level": "N2",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/2010.12/2010年12月.mp3",
+      "level": "N3",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/2010.7/2010年7月N3.mp3",
+      "level": "N3",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/2019.12/01 N3-2019.12.mp3",
+      "level": "N3",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/2020/N3-2020.12.mp3",
+      "level": "N3",
+      "year": 2020,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/2021.7/2021年07月JLPT日语N3真题听力.MP3",
+      "level": "N3",
+      "year": 2021,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3 12-2022/Listening N3 T12-2022.mp3",
+      "level": "N3",
+      "year": 2022,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3 12-2023/Listening N3 T12-2023 Standard Version.mp3",
+      "level": "N3",
+      "year": 2023,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2011-07/2011年7月N3.mp3",
+      "level": "N3",
+      "year": 2011,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2011-12/2011年12月N3.mp3",
+      "level": "N3",
+      "year": 2011,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2012-07/2012年7月N3.mp3",
+      "level": "N3",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2012-12/2012年12月N3.mp3",
+      "level": "N3",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2013-07/2013年7月N3.mp3",
+      "level": "N3",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2013-12/2013年12月N3.mp3",
+      "level": "N3",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2014-07/2014年7月N3.mp3",
+      "level": "N3",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2014-12/2014年12月N3.mp3",
+      "level": "N3",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2015-12/2015年12月N3.mp3",
+      "level": "N3",
+      "year": 2015,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2016-07/2016年7月N3.mp3",
+      "level": "N3",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2016-12/2016年12月N3.mp3",
+      "level": "N3",
+      "year": 2016,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2017-07/2017年7月N3.mp3",
+      "level": "N3",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2017-12/2017年12月N3.mp3",
+      "level": "N3",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2018-07/2018年7月N3音频.mp3",
+      "level": "N3",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2018-12/2018年12月N3.mp3",
+      "level": "N3",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N3/N3-2019-07/2019年7月N3.mp3",
+      "level": "N3",
+      "year": 2019,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/2018 年/Listening  N4-2018年.m4a",
+      "level": "N4",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".m4a"
+    },
+    {
+      "sourcePath": "N4/2021年12月/Listen to N4 T12-2021 standard version.mp3",
+      "level": "N4",
+      "year": 2021,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/2022年12月/Listening  N4 T12-2022 bản thu âm lại.mp3",
+      "level": "N4",
+      "year": 2022,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4 听力MP3 Listening audio/2013年12月 N4.mp3",
+      "level": "N4",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4 听力MP3 Listening audio/2013年7月 N4.mp3",
+      "level": "N4",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4 听力MP3 Listening audio/2014年7月 N4.mp3",
+      "level": "N4",
+      "year": 2014,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4 听力MP3 Listening audio/试题集(2012) N4.mp3",
+      "level": "N4",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4 听力MP3 Listening audio/试题集(2018) N4.mp3",
+      "level": "N4",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4-2010-2014年-高清打印版/试题集(2010-2011)N4.mp3",
+      "level": "N4",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/听力MP3/N4Q1.mp3",
+      "level": "N4",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/听力MP3/N4Q2.mp3",
+      "level": "N4",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/听力MP3/N4Q3.mp3",
+      "level": "N4",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N4/N4-2017年7月/听力MP3/N4Q4.mp3",
+      "level": "N4",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2010-11/试题集(2010-2011)  N5.mp3",
+      "level": "N5",
+      "year": 2010,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2012/2012年12月 N5.mp3",
+      "level": "N5",
+      "year": 2012,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2013/2013年7月 N5.mp3",
+      "level": "N5",
+      "year": 2013,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2017/MP3听力/N5Q1(1).mp3",
+      "level": "N5",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2017/MP3听力/N5Q2.mp3",
+      "level": "N5",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2017/MP3听力/N5Q3.mp3",
+      "level": "N5",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2017/MP3听力/N5Q4.mp3",
+      "level": "N5",
+      "year": 2017,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2018/试题集(2018) N5.mp3",
+      "level": "N5",
+      "year": 2018,
+      "type": "audio",
+      "extension": ".mp3"
+    },
+    {
+      "sourcePath": "N5/2021/Nghe N5 T12-2021 bản chuẩn Yuuki Bùi.mp3",
+      "level": "N5",
+      "year": 2021,
+      "type": "audio",
+      "extension": ".mp3"
+    }
+  ]
+}
