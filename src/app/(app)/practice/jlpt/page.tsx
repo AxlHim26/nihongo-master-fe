@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 
-import PracticeComingSoon from "@/features/practice/components/practice-coming-soon";
+import PracticeJlptView from "@/features/practice/components/practice-jlpt-view";
 
 export const metadata: Metadata = {
   title: "Luyện thi JLPT",
-  description: "Luyện thi JLPT",
+  description: "Thi thử JLPT sát đề thật với lưu tiến trình và chấm điểm",
 };
 
 export default function PracticeJlptPage() {
-  return <PracticeComingSoon title="Luyện thi JLPT" />;
+  return <PracticeJlptView />;
 }

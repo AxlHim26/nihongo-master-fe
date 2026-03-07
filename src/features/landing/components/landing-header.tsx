@@ -27,6 +27,12 @@ export default function LandingHeader() {
               Khoá học
             </Link>
             <Link
+              href="/practice/jlpt"
+              className="transition-colors hover:text-blue-600 dark:hover:text-blue-400"
+            >
+              Thi thử JLPT
+            </Link>
+            <Link
               href="#pricing"
               className="transition-colors hover:text-blue-600 dark:hover:text-blue-400"
             >
@@ -36,7 +42,7 @@ export default function LandingHeader() {
         </div>
 
         <div className="flex items-center gap-4">
-          <Link href="/login" passHref legacyBehavior>
+          <Link href="/login">
             <Button
               variant="outlined"
               color="primary"
@@ -46,7 +52,7 @@ export default function LandingHeader() {
               Đăng nhập
             </Button>
           </Link>
-          <Link href="/courses" passHref legacyBehavior>
+          <Link href="/courses">
             <Button
               variant="contained"
               color="primary"

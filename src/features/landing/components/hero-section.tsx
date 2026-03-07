@@ -63,13 +63,13 @@ export default function HeroSection() {
                   Bắt đầu học ngay
                 </Button>
               </Link>
-              <Link href="#features" passHref legacyBehavior>
+              <Link href="/practice/jlpt" passHref legacyBehavior>
                 <Button
                   variant="outlined"
                   size="large"
-                  className="w-full rounded-full border-slate-300 px-8 py-4 text-base font-medium text-slate-700 transition-all hover:bg-slate-100 dark:border-slate-700 dark:text-slate-300 dark:hover:bg-slate-800 sm:w-auto"
+                  className="w-full rounded-full border-blue-300 bg-blue-50/50 px-8 py-4 text-base font-medium text-blue-700 transition-all hover:border-blue-400 hover:bg-blue-100 dark:border-blue-700 dark:bg-blue-950/30 dark:text-blue-300 dark:hover:bg-blue-900/50 sm:w-auto"
                 >
-                  Hiểu cách hoạt động
+                  Luyện thi JLPT
                 </Button>
               </Link>
             </div>

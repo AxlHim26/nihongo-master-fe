@@ -22,6 +22,8 @@
     "process-next-15-cache": "node scripts/process-next-15-cache-only.mjs",
     "process-next-15-vi": "node scripts/process-next-15-vi.mjs",
     "process-15-unprocessed": "node scripts/process-15-unprocessed.mjs",
+    "extract:jlpt:recent": "node scripts/extract-jlpt-recent.mjs",
+    "import:jlpt:manifest": "node scripts/import-jlpt-manifest-to-backend.mjs",
     "lint-staged": "lint-staged",
     "prepare": "husky"
   },
