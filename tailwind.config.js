@@ -4,6 +4,27 @@ module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx,mdx}"],
   theme: {
     extend: {
+      animation: {
+        "kanji-drop": "kanjiDrop linear infinite",
+        "float-card": "floatCard 6s ease-in-out infinite",
+        "pulse-slow": "pulseSlow 8s ease-in-out infinite",
+      },
+      keyframes: {
+        kanjiDrop: {
+          "0%": { transform: "translateY(-10%)", opacity: "0" },
+          "10%": { opacity: "1" },
+          "90%": { opacity: "1" },
+          "100%": { transform: "translateY(110vh)", opacity: "0" },
+        },
+        floatCard: {
+          "0%, 100%": { transform: "translateY(0) rotate(0deg)" },
+          "50%": { transform: "translateY(-20px) rotate(2deg)" },
+        },
+        pulseSlow: {
+          "0%, 100%": { opacity: "1", transform: "scale(1)" },
+          "50%": { opacity: ".8", transform: "scale(1.05)" },
+        },
+      },
       colors: {
         brand: {
           50: "#eff6ff",
