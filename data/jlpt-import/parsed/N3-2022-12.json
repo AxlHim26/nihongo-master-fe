@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "testFile": "data/jlpt-import/text/N3__N3 12-2022__N3 Test T12-2022 Final Version.txt",
+    "answerFile": "data/jlpt-import/text/N3__N3 12-2022__Answer N3 T12-2022.txt",
+    "parsedAt": "2026-03-07T12:59:09.620Z",
+    "parserVersion": "3.0"
+  },
+  "validation": {
+    "valid": false,
+    "stats": {
+      "totalQuestions": 25,
+      "withAnswers": 0,
+      "withFullOptions": 3,
+      "bySectionType": {
+        "GRAMMAR_READING": {
+          "questions": 25,
+          "withAnswers": 0,
+          "withOptions": 3
+        },
+        "LISTENING": {
+          "questions": 0,
+          "withAnswers": 0,
+          "withOptions": 0
+        }
+      }
+    },
+    "issues": [
+      "GRAMMAR_READING P2 Q1: Missing answer",
+      "GRAMMAR_READING P2 Q1: No options",
+      "GRAMMAR_READING P2 Q3: Missing answer",
+      "GRAMMAR_READING P4 Q23: Missing answer",
+      "GRAMMAR_READING P4 Q23: No options",
+      "GRAMMAR_READING P4 Q1: Missing answer",
+      "GRAMMAR_READING P4 Q1: No options",
+      "GRAMMAR_READING P4 Q2: Missing answer",
+      "GRAMMAR_READING P4 Q2: No options",
+      "GRAMMAR_READING P4 Q3: Missing answer",
+      "GRAMMAR_READING P4 Q3: No options",
+      "GRAMMAR_READING P4 Q4: Missing answer",
+      "GRAMMAR_READING P4 Q4: No options",
+      "GRAMMAR_READING P4 Q6: Missing answer",
+      "GRAMMAR_READING P4 Q6: Only 1/4 options",
+      "GRAMMAR_READING P5 Q27: Missing answer",
+      "GRAMMAR_READING P5 Q27: No options",
+      "GRAMMAR_READING P5 Q1: Missing answer",
+      "GRAMMAR_READING P5 Q1: No options",
+      "GRAMMAR_READING P5 Q2: Missing answer",
+      "GRAMMAR_READING P5 Q2: No options",
+      "GRAMMAR_READING P5 Q3: Missing answer",
+      "GRAMMAR_READING P5 Q3: No options",
+      "GRAMMAR_READING P5 Q4: Missing answer",
+      "GRAMMAR_READING P5 Q4: No options",
+      "GRAMMAR_READING P5 Q28: Missing answer",
+      "GRAMMAR_READING P5 Q28: No options",
+      "GRAMMAR_READING P5 Q1: Missing answer",
+      "GRAMMAR_READING P5 Q1: No options",
+      "GRAMMAR_READING P5 Q2: Missing answer",
+      "GRAMMAR_READING P5 Q2: No options",
+      "GRAMMAR_READING P5 Q3: Missing answer",
+      "GRAMMAR_READING P5 Q3: No options",
+      "GRAMMAR_READING P5 Q4: Missing answer",
+      "GRAMMAR_READING P5 Q4: No options",
+      "GRAMMAR_READING P5 Q29: Missing answer",
+      "GRAMMAR_READING P5 Q29: No options",
+      "GRAMMAR_READING P5 Q1: Missing answer",
+      "GRAMMAR_READING P5 Q1: No options",
+      "GRAMMAR_READING P5 Q2: Missing answer",
+      "GRAMMAR_READING P5 Q2: No options",
+      "GRAMMAR_READING P5 Q3: Missing answer",
+      "GRAMMAR_READING P5 Q3: No options",
+      "GRAMMAR_READING P5 Q4: Missing answer",
+      "GRAMMAR_READING P5 Q4: Only 1/4 options",
+      "GRAMMAR_READING P7 Q37: Missing answer",
+      "GRAMMAR_READING P7 Q38: Missing answer"
+    ],
+    "completeness": 0.12
+  },
+  "sections": [
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": [
+        {
+          "problemNumber": "2",
+          "questions": [
+            {
+              "number": "1",
+              "prompt": "１年前に習い始めたのだが                      2 弾くほど",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "弾けば                               4 弾けるようになりたくて",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "こういう色の"
+                },
+                {
+                  "key": "2",
+                  "text": "欲しい"
+                },
+                {
+                  "key": "3",
+                  "text": "と思っていた"
+                },
+                {
+                  "key": "4",
+                  "text": "かばんが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": [
+        {
+          "problemNumber": "4",
+          "questions": [
+            {
+              "number": "23",
+              "prompt": "営業課のホンさんは、明日の朝の会議で使う資料を今日中に 5 枚コピーしたいと考えて",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "営業課でコピーをする。中島さんに言う必要はない。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "会計課でコピーをする。中島さんに言う必要はない。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "中島さんに言ってから、営業課でコピーをする。",
+              "options": []
+            },
+            {
+              "number": "4",
+              "prompt": "中島さんに言ってから、会計課でコピーをする。",
+              "options": []
+            },
+            {
+              "number": "6",
+              "prompt": "歳の娘がボールを上手に投げられるようになりたいと言う。私は娘の投げ方の悪い点をいろいろと",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": [
+        {
+          "problemNumber": "5",
+          "questions": [
+            {
+              "number": "27",
+              "prompt": "①懐かしい声とあるが、何か。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "「私」が高校生のころの父の声。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "「私」高校生のころの自分の声 。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "「私」が高校生のころ大好きだった歌手の声 。",
+              "options": []
+            },
+            {
+              "number": "4",
+              "prompt": "「私」が高校生のころ聞いていたアナウンサーの声 。",
+              "options": []
+            },
+            {
+              "number": "28",
+              "prompt": "②また、ラジオを聞こうと思ったのはどうしてか。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "ラジオは、テレビより小さくて身近に置くことができるから",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "ラジオは、インターネットより多くのことを教えてくれるから",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "ラジオは、新しいことだけでなく古いことも伝えてくれるから",
+              "options": []
+            },
+            {
+              "number": "4",
+              "prompt": "ラジオは、何かをしながらでも、いろいろなことを知ることができるから",
+              "options": []
+            },
+            {
+              "number": "29",
+              "prompt": "この文章のテーマは何か 。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "ラジオ番組の楽しさ。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "ラジオの良さ。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "ラジオの歴史の長さ。",
+              "options": []
+            },
+            {
+              "number": "4",
+              "prompt": "ラジオの使い方の工夫。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": [
+        {
+          "problemNumber": "6",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": [
+        {
+          "problemNumber": "7",
+          "questions": [
+            {
+              "number": "37",
+              "prompt": "田中さんは、出発日が土曜日のパス旅行に申し込みたいと思っている 。昼食がついていて、",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "①。       i    up"
+                },
+                {
+                  "key": "2",
+                  "text": "②。"
+                },
+                {
+                  "key": "3",
+                  "text": "③。"
+                },
+                {
+                  "key": "4",
+                  "text": "④。"
+                }
+              ]
+            },
+            {
+              "number": "38",
+              "prompt": "ロパートさんは、出発日が明日 10 月 6 日（土）の「①川中市内観光と川中東温泉」に申し",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "7,500 円の"
+                },
+                {
+                  "key": "4",
+                  "text": "0 %を払う。"
+                },
+                {
+                  "key": "2",
+                  "text": "8,500 円の"
+                },
+                {
+                  "key": "4",
+                  "text": "0 %を払う。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": []
+    },
+    {
+      "type": "LISTENING",
+      "problems": []
+    },
+    {
+      "type": "LISTENING",
+      "problems": []
+    },
+    {
+      "type": "LISTENING",
+      "problems": []
+    },
+    {
+      "type": "LISTENING",
+      "problems": []
+    },
+    {
+      "type": "LISTENING",
+      "problems": []
+    },
+    {
+      "type": "LISTENING",
+      "problems": []
+    }
+  ]
+}

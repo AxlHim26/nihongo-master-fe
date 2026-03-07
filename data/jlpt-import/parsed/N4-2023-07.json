@@ -1,0 +1,1493 @@
+{
+  "meta": {
+    "testFile": "data/jlpt-import/text/N4__2023年7月__N4 Test T7-2023.txt",
+    "answerFile": "data/jlpt-import/text/N4__2023年7月__Answers to N4 test T7-2023.txt",
+    "parsedAt": "2026-03-07T12:57:44.835Z",
+    "parserVersion": "3.0"
+  },
+  "validation": {
+    "valid": false,
+    "stats": {
+      "totalQuestions": 87,
+      "withAnswers": 48,
+      "withFullOptions": 47,
+      "bySectionType": {
+        "VOCABULARY": {
+          "questions": 24,
+          "withAnswers": 24,
+          "withOptions": 24
+        },
+        "GRAMMAR_READING": {
+          "questions": 24,
+          "withAnswers": 24,
+          "withOptions": 23
+        },
+        "LISTENING": {
+          "questions": 39,
+          "withAnswers": 0,
+          "withOptions": 0
+        }
+      }
+    },
+    "issues": [
+      "GRAMMAR_READING P5 Q29: Only 1/4 options",
+      "LISTENING P3 Q1: Missing answer",
+      "LISTENING P3 Q1: No options",
+      "LISTENING P3 Q2: Missing answer",
+      "LISTENING P3 Q2: No options",
+      "LISTENING P3 Q3: Missing answer",
+      "LISTENING P3 Q3: No options",
+      "LISTENING P3 Q1: Missing answer",
+      "LISTENING P3 Q1: No options",
+      "LISTENING P3 Q2: Missing answer",
+      "LISTENING P3 Q2: No options",
+      "LISTENING P3 Q3: Missing answer",
+      "LISTENING P3 Q3: No options",
+      "LISTENING P3 Q1: Missing answer",
+      "LISTENING P3 Q1: No options",
+      "LISTENING P3 Q2: Missing answer",
+      "LISTENING P3 Q2: No options",
+      "LISTENING P3 Q3: Missing answer",
+      "LISTENING P3 Q3: No options",
+      "LISTENING P3 Q1: Missing answer",
+      "LISTENING P3 Q1: No options",
+      "LISTENING P3 Q2: Missing answer",
+      "LISTENING P3 Q2: No options",
+      "LISTENING P3 Q3: Missing answer",
+      "LISTENING P3 Q3: No options",
+      "LISTENING P3 Q1: Missing answer",
+      "LISTENING P3 Q1: No options",
+      "LISTENING P3 Q2: Missing answer",
+      "LISTENING P3 Q2: No options",
+      "LISTENING P3 Q3: Missing answer",
+      "LISTENING P3 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options",
+      "LISTENING P4 Q1: Missing answer",
+      "LISTENING P4 Q1: No options",
+      "LISTENING P4 Q2: Missing answer",
+      "LISTENING P4 Q2: No options",
+      "LISTENING P4 Q3: Missing answer",
+      "LISTENING P4 Q3: No options"
+    ],
+    "completeness": 0.5402298850574713
+  },
+  "sections": [
+    {
+      "type": "VOCABULARY",
+      "problems": [
+        {
+          "problemNumber": "1",
+          "questions": [
+            {
+              "number": "1",
+              "prompt": "わたしの車はあの白いのです。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "しろい"
+                },
+                {
+                  "key": "2",
+                  "text": "くろい"
+                },
+                {
+                  "key": "3",
+                  "text": "あおい"
+                },
+                {
+                  "key": "4",
+                  "text": "あかい"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "2",
+              "prompt": "最近、とても忙しいです。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "さいしん"
+                },
+                {
+                  "key": "2",
+                  "text": "すいきん"
+                },
+                {
+                  "key": "3",
+                  "text": "さいきん"
+                },
+                {
+                  "key": "4",
+                  "text": "すいしん"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "3",
+              "prompt": "とてもきれいな色ですね。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "いろ"
+                },
+                {
+                  "key": "2",
+                  "text": "おと"
+                },
+                {
+                  "key": "3",
+                  "text": "とり"
+                },
+                {
+                  "key": "4",
+                  "text": "ほし"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "4",
+              "prompt": "少しお金が足りませんでした。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "あしりません"
+                },
+                {
+                  "key": "2",
+                  "text": "たりません"
+                },
+                {
+                  "key": "3",
+                  "text": "だりません"
+                },
+                {
+                  "key": "4",
+                  "text": "あじりません"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "5",
+              "prompt": "あしたはちょっと都合が悪いです。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "つあい"
+                },
+                {
+                  "key": "2",
+                  "text": "つごう"
+                },
+                {
+                  "key": "3",
+                  "text": "とごう"
+                },
+                {
+                  "key": "4",
+                  "text": "とあい"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "6",
+              "prompt": "わたしは８時に着きました。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "ききまいた"
+                },
+                {
+                  "key": "2",
+                  "text": "ひきました"
+                },
+                {
+                  "key": "3",
+                  "text": "おきました"
+                },
+                {
+                  "key": "4",
+                  "text": "つきました"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "7",
+              "prompt": "その糸をとってください。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "はり"
+                },
+                {
+                  "key": "2",
+                  "text": "しお"
+                },
+                {
+                  "key": "3",
+                  "text": "いと"
+                },
+                {
+                  "key": "4",
+                  "text": "さら"
+                }
+              ],
+              "correctAnswer": "3"
+            }
+          ]
+        },
+        {
+          "problemNumber": "2",
+          "questions": [
+            {
+              "number": "8",
+              "prompt": "たなかさんは友だちをまっています。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "侍って"
+                },
+                {
+                  "key": "2",
+                  "text": "持って"
+                },
+                {
+                  "key": "3",
+                  "text": "特って"
+                },
+                {
+                  "key": "4",
+                  "text": "待って"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "9",
+              "prompt": "あそこにいるのはわたしのあにです。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "姉"
+                },
+                {
+                  "key": "2",
+                  "text": "兄"
+                },
+                {
+                  "key": "3",
+                  "text": "弟"
+                },
+                {
+                  "key": "4",
+                  "text": "妹"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "10",
+              "prompt": "あしたはこうじょうを見学します。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "公場"
+                },
+                {
+                  "key": "2",
+                  "text": "公湯"
+                },
+                {
+                  "key": "3",
+                  "text": "工湯"
+                },
+                {
+                  "key": "4",
+                  "text": "工場"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "11",
+              "prompt": "前より少しよわくなりました。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "弱く"
+                },
+                {
+                  "key": "2",
+                  "text": "強く"
+                },
+                {
+                  "key": "3",
+                  "text": "軽く"
+                },
+                {
+                  "key": "4",
+                  "text": "重く"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "12",
+              "prompt": "わたしはアルバイトのけいけんがありません。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "径験"
+                },
+                {
+                  "key": "2",
+                  "text": "経検"
+                },
+                {
+                  "key": "3",
+                  "text": "経験"
+                },
+                {
+                  "key": "4",
+                  "text": "径検"
+                }
+              ],
+              "correctAnswer": "3"
+            }
+          ]
+        },
+        {
+          "problemNumber": "3",
+          "questions": [
+            {
+              "number": "13",
+              "prompt": "きのうつくったカレーを（             ）であたためてたべました。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "レンジ"
+                },
+                {
+                  "key": "2",
+                  "text": "エプロン"
+                },
+                {
+                  "key": "3",
+                  "text": "ペットボトル"
+                },
+                {
+                  "key": "4",
+                  "text": "メニュー"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "14",
+              "prompt": "どこにりょこうに行くか、クラスのみんなに（                          ）を聞いて、決めました。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "そうだん"
+                },
+                {
+                  "key": "2",
+                  "text": "さんせい"
+                },
+                {
+                  "key": "3",
+                  "text": "しつもん"
+                },
+                {
+                  "key": "4",
+                  "text": "いけん"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "15",
+              "prompt": "先週買ったベッドが今日いえに（                    ）。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "むかいました  up"
+                },
+                {
+                  "key": "2",
+                  "text": "うごきました"
+                },
+                {
+                  "key": "3",
+                  "text": "とどきました"
+                },
+                {
+                  "key": "4",
+                  "text": "よりました"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "16",
+              "prompt": "１２時を（         ）ので、ひるやすみにしましょう。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "わたった"
+                },
+                {
+                  "key": "2",
+                  "text": "とおった"
+                },
+                {
+                  "key": "3",
+                  "text": "すすんだ"
+                },
+                {
+                  "key": "4",
+                  "text": "すぎた"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "17",
+              "prompt": "今日は人がす少ないので、１０こあれば（                      ）です。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "じゅう"
+                },
+                {
+                  "key": "2",
+                  "text": "じゅうぶん"
+                },
+                {
+                  "key": "3",
+                  "text": "だいじ"
+                },
+                {
+                  "key": "4",
+                  "text": "ひつよう"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "18",
+              "prompt": "子どものころおとうととけんかしてよく父に（                         ）。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "たのまれました"
+                },
+                {
+                  "key": "2",
+                  "text": "ほめられました"
+                },
+                {
+                  "key": "3",
+                  "text": "しかられました"
+                },
+                {
+                  "key": "4",
+                  "text": "さそわれました"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "19",
+              "prompt": "たくさん買い物をしたので、さいふに５００円しか（                           ）いません。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "ふりこんで"
+                },
+                {
+                  "key": "2",
+                  "text": "のこって"
+                },
+                {
+                  "key": "3",
+                  "text": "はらって"
+                },
+                {
+                  "key": "4",
+                  "text": "ひきだして"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "20",
+              "prompt": "えさをやったり、さんぼにつれていったり、毎日犬の（                           ）をしています。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "せわ"
+                },
+                {
+                  "key": "2",
+                  "text": "うんどん"
+                },
+                {
+                  "key": "3",
+                  "text": "ようい"
+                },
+                {
+                  "key": "4",
+                  "text": "しゅうかん"
+                }
+              ],
+              "correctAnswer": "1"
+            }
+          ]
+        },
+        {
+          "problemNumber": "4",
+          "questions": [
+            {
+              "number": "21",
+              "prompt": "このテーブルはよこれていますね。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "このテーブルはふるいですね。"
+                },
+                {
+                  "key": "2",
+                  "text": "このテーブルはきたないですね。"
+                },
+                {
+                  "key": "3",
+                  "text": "このテーブルはきれいですね。"
+                },
+                {
+                  "key": "4",
+                  "text": "このテーブルはあたらしいですね。"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "22",
+              "prompt": "今日はしょくじをする時間がありませんでした。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "今日は本をかりる時間がありませんでした。"
+                },
+                {
+                  "key": "2",
+                  "text": "今日はごはんをつくる時間がありませんでした。"
+                },
+                {
+                  "key": "3",
+                  "text": "今日は本を読む時間がありませんでした。"
+                },
+                {
+                  "key": "4",
+                  "text": "今日はごはんを食べる時間がありませんでした。"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "23",
+              "prompt": "それはひえていますよ。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "それはあついですよ。"
+                },
+                {
+                  "key": "2",
+                  "text": "それはあまいですよ。"
+                },
+                {
+                  "key": "3",
+                  "text": "それはつめたいですよ。"
+                },
+                {
+                  "key": "4",
+                  "text": "それはからいですよ。"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "24",
+              "prompt": "きそくがたくさんあります。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "ルールがたくさんあります。"
+                },
+                {
+                  "key": "2",
+                  "text": "アイデアがたくさんあります。"
+                },
+                {
+                  "key": "3",
+                  "text": "チャンスがたくさんあります。"
+                },
+                {
+                  "key": "3",
+                  "text": "アルバイトがたくさんあります。"
+                }
+              ],
+              "correctAnswer": "1"
+            }
+          ]
+        },
+        {
+          "problemNumber": "5",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "type": "GRAMMAR_READING",
+      "problems": [
+        {
+          "problemNumber": "1",
+          "questions": [
+            {
+              "number": "1",
+              "prompt": "わたしはよく仕事（    up     ）飛行機に乗ります。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "と"
+                },
+                {
+                  "key": "2",
+                  "text": "で"
+                },
+                {
+                  "key": "3",
+                  "text": "が"
+                },
+                {
+                  "key": "4",
+                  "text": "を"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "2",
+              "prompt": "今朝、いなかにいる母（           ）荷物がとどきました。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "で"
+                },
+                {
+                  "key": "2",
+                  "text": "と"
+                },
+                {
+                  "key": "3",
+                  "text": "を"
+                },
+                {
+                  "key": "4",
+                  "text": "から"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "4",
+              "prompt": "田中 ｢山下さん、好きな食べ物はなんですか。｣",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "週間に"
+                },
+                {
+                  "key": "3",
+                  "text": "回ぐらい食べます。｣"
+                },
+                {
+                  "key": "1",
+                  "text": "週間に"
+                },
+                {
+                  "key": "3",
+                  "text": "回（        ）食べるんですか。大好きなんですね。｣"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "5",
+              "prompt": "いっしょうけんめい勉強して、",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "すっかり"
+                },
+                {
+                  "key": "2",
+                  "text": "たぶん"
+                },
+                {
+                  "key": "3",
+                  "text": "やっと"
+                },
+                {
+                  "key": "4",
+                  "text": "いつか"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "6",
+              "prompt": "青木 ｢林さんはいつも会社まで（           ）行っていますか。｣",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "どれを"
+                },
+                {
+                  "key": "2",
+                  "text": "どこに"
+                },
+                {
+                  "key": "3",
+                  "text": "どうやって"
+                },
+                {
+                  "key": "4",
+                  "text": "どのぐらい"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "7",
+              "prompt": "毎日じゅぎょうは（           ）ごろ終わります。",
+              "options": [
+                {
+                  "key": "3",
+                  "text": "時"
+                },
+                {
+                  "key": "3",
+                  "text": "時に"
+                },
+                {
+                  "key": "3",
+                  "text": "時間"
+                },
+                {
+                  "key": "3",
+                  "text": "時間に"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "8",
+              "prompt": "庭のさくらは去年より（            ）さきました。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "早く"
+                },
+                {
+                  "key": "2",
+                  "text": "早い"
+                },
+                {
+                  "key": "3",
+                  "text": "早くて"
+                },
+                {
+                  "key": "4",
+                  "text": "早かった"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "9",
+              "prompt": "わたしは本当に虫がきらいで、",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "見るし"
+                },
+                {
+                  "key": "2",
+                  "text": "見るのに"
+                },
+                {
+                  "key": "3",
+                  "text": "見るなら"
+                },
+                {
+                  "key": "4",
+                  "text": "見るのも"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "10",
+              "prompt": "れいぞうこから変な音が（up         ）。こしょうしたのかもしれない。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "いる"
+                },
+                {
+                  "key": "2",
+                  "text": "ある"
+                },
+                {
+                  "key": "3",
+                  "text": "する"
+                },
+                {
+                  "key": "4",
+                  "text": "聞く"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "11",
+              "prompt": "花が好きなそぼのへやには、いつもいろいろな花が（                ）",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "かざらせます"
+                },
+                {
+                  "key": "2",
+                  "text": "かざります"
+                },
+                {
+                  "key": "3",
+                  "text": "かざっておきます"
+                },
+                {
+                  "key": "4",
+                  "text": "かざられています"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "12",
+              "prompt": "山川 ｢もうすぐ夏休みですね。アンさんは、今年の夏休みも国に帰るんですか。｣",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "帰っていません"
+                },
+                {
+                  "key": "2",
+                  "text": "帰られないといけません"
+                },
+                {
+                  "key": "3",
+                  "text": "帰らないことにしました"
+                },
+                {
+                  "key": "4",
+                  "text": "帰ったことがあります"
+                }
+              ],
+              "correctAnswer": "3"
+            }
+          ]
+        },
+        {
+          "problemNumber": "2",
+          "questions": [
+            {
+              "number": "14",
+              "prompt": "今日は、一年で                              ★           です。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "日"
+                },
+                {
+                  "key": "2",
+                  "text": "が"
+                },
+                {
+                  "key": "3",
+                  "text": "夜"
+                },
+                {
+                  "key": "4",
+                  "text": "最も長い"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "15",
+              "prompt": "私は、日本に                             ★        写真をたくさんとりたいです。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "いろいろな町へ"
+                },
+                {
+                  "key": "2",
+                  "text": "行って"
+                },
+                {
+                  "key": "3",
+                  "text": "間に"
+                },
+                {
+                  "key": "4",
+                  "text": "いる"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "16",
+              "prompt": "★           、私は小さいとき、この絵本が大好きだったそ",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "によると"
+                },
+                {
+                  "key": "2",
+                  "text": "話"
+                },
+                {
+                  "key": "3",
+                  "text": "母"
+                },
+                {
+                  "key": "4",
+                  "text": "の"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "17",
+              "prompt": "今日、学校に木村さんは明るい青色のシャツを着て来た。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "あんな色"
+                },
+                {
+                  "key": "2",
+                  "text": "木村さんが"
+                },
+                {
+                  "key": "3",
+                  "text": "着ていた"
+                },
+                {
+                  "key": "4",
+                  "text": "私も"
+                }
+              ],
+              "correctAnswer": "3"
+            }
+          ]
+        },
+        {
+          "problemNumber": "3",
+          "questions": []
+        },
+        {
+          "problemNumber": "4",
+          "questions": [
+            {
+              "number": "22",
+              "prompt": "リナさんは、このメモを読んで、上田さんが来たら何をしなければなりませんか。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "上田さんが持ってきたシャツのそでをきれいにします。"
+                },
+                {
+                  "key": "2",
+                  "text": "上田さんが持ってきたシャツを新しいシャツと取り替えます。"
+                },
+                {
+                  "key": "3",
+                  "text": "上田さんが持ってきたシャツをもらって、お金を返します。"
+                },
+                {
+                  "key": "4",
+                  "text": "上田さんが持ってきたシャツをチェックします。"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "23",
+              "prompt": "｢赤ちゃん新聞｣について、合っているものはどれですか。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "赤ちゃんについて書いてあって、人気があります。"
+                },
+                {
+                  "key": "2",
+                  "text": "新聞の会社が、赤ちゃんにあげるために作りました。"
+                },
+                {
+                  "key": "3",
+                  "text": "本当の新聞ではないので、口に入れても安心です。"
+                },
+                {
+                  "key": "4",
+                  "text": "紙でできていますが、何回でも洗えて便利です。"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "24",
+              "prompt": "卒業式の挨拶について、中西先生がリムさんに聞きたいことは何ですか。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "前川先生と高木先生にも文章を送ったかどうか"
+                },
+                {
+                  "key": "2",
+                  "text": "前川先生と高木先生の前で練習をしているかどうか"
+                },
+                {
+                  "key": "3",
+                  "text": "前川先生と高木先生に練習を見てもらいたいかどうか"
+                },
+                {
+                  "key": "4",
+                  "text": "前川先生と高木先生に｢練習を見てください。｣と頼んだかどうか"
+                }
+              ],
+              "correctAnswer": "3"
+            }
+          ]
+        },
+        {
+          "problemNumber": "5",
+          "questions": [
+            {
+              "number": "25",
+              "prompt": "どうして「私」は➀引っ越しましたか。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "家族と一緒に住みたかったから"
+                },
+                {
+                  "key": "2",
+                  "text": "家が会社から遠かったから"
+                },
+                {
+                  "key": "3",
+                  "text": "家の近くに広い公園がなかったから"
+                },
+                {
+                  "key": "4",
+                  "text": "一人で生活がしたかったから"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "26",
+              "prompt": "「私」が先週、散歩をしているとき、公園で見た男の人は何をしていましたか。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "散歩をしていました。"
+                },
+                {
+                  "key": "2",
+                  "text": "お茶を飲んでいました。"
+                },
+                {
+                  "key": "3",
+                  "text": "音楽を聞いていました。"
+                },
+                {
+                  "key": "4",
+                  "text": "ギターを弾いていました。"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "27",
+              "prompt": "➁いい場所とありますが、どうして「私」はいいと思っていますか。",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "誰にも遠慮しないでバイオリンが弾けるから"
+                },
+                {
+                  "key": "2",
+                  "text": "バイオリンを教えてくれる人がいるから"
+                },
+                {
+                  "key": "3",
+                  "text": "一緒にバイオリンを弾いてくれる人がいるから"
+                },
+                {
+                  "key": "4",
+                  "text": "周りにいる人が「私」のバイオリンをほめてくれるから"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "28",
+              "prompt": "石川さんは「8 月のみどり島一日旅行」に行きたいと思っています。石川さんは",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "5,000 円"
+                },
+                {
+                  "key": "2",
+                  "text": "6,000 円"
+                },
+                {
+                  "key": "1",
+                  "text": "0,000 円"
+                },
+                {
+                  "key": "2",
+                  "text": ",000 円"
+                }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "29",
+              "prompt": "ロンさんは友達と 3 人で",
+              "options": [
+                {
+                  "key": "3",
+                  "text": "人がみんな空いている日で、"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "8",
+              "prompt": "月の空いている日",
+              "options": [
+                {
+                  "key": "2",
+                  "text": "日、"
+                },
+                {
+                  "key": "1",
+                  "text": "9 日"
+                },
+                {
+                  "key": "2",
+                  "text": "日、"
+                },
+                {
+                  "key": "3",
+                  "text": "日、"
+                },
+                {
+                  "key": "1",
+                  "text": "9 日、"
+                },
+                {
+                  "key": "2",
+                  "text": "0 日"
+                }
+              ],
+              "correctAnswer": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LISTENING",
+      "problems": [
+        {
+          "problemNumber": "1",
+          "questions": []
+        },
+        {
+          "problemNumber": "2",
+          "questions": []
+        },
+        {
+          "problemNumber": "3",
+          "questions": [
+            {
+              "number": "1",
+              "prompt": "拾いましたか。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "無くしました。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "落ちましたよ。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "それは山の名前ですか。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "なんという山ですか。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "どういう山についてですか。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "ここで待ってしまいました。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "少し待ちましょうか。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "お待たせしました。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "教室にもういった?",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "そろそろ行こうか。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "今から行くところだよ。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "ねえ、この瓶、開けられる?",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "ねえ、瓶が開いてしまったよ。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "ねえ、このソースをくれない?",
+              "options": []
+            }
+          ]
+        },
+        {
+          "problemNumber": "4",
+          "questions": [
+            {
+              "number": "1",
+              "prompt": "どこも行かないんだね。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "楽しかったよ。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "いいね、行こう。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "面白い人たちですよ。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "予定では 12 人です。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "いろいろな大学から来ます。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "すぐ行きます。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "今日はくれませんでした。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "ここでですか。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "夏休みに旅行したいんです。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "アルバイトは楽しいですから",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "インターネットで見つけました",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "漢字を覚えることです。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "いいえ、一番じゃありませんか。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "会話の練習をしています。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "店の前にあったんです。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "今来たところです。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "初めて来ました。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "ナスかトマトはどうですか。",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "野菜がいいと思いますよ。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "トマトで何を作ったんですか。",
+              "options": []
+            },
+            {
+              "number": "1",
+              "prompt": "甘い方が好き?",
+              "options": []
+            },
+            {
+              "number": "2",
+              "prompt": "砂糖を少なくしているんだ。",
+              "options": []
+            },
+            {
+              "number": "3",
+              "prompt": "次作る時はそうするよ。",
+              "options": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

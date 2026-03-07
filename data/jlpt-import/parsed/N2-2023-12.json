@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "testFile": "data/jlpt-import/text/N2__N2 12-2023__N2 Test T12-2023.txt",
+    "answerFile": "data/jlpt-import/text/N2__N2 12-2023__Answer N2 T12-2023.txt",
+    "parsedAt": "2026-03-07T12:58:20.354Z",
+    "parserVersion": "3.0"
+  },
+  "validation": {
+    "valid": true,
+    "stats": {
+      "totalQuestions": 0,
+      "withAnswers": 0,
+      "withFullOptions": 0,
+      "bySectionType": {}
+    },
+    "issues": [],
+    "completeness": 0
+  },
+  "sections": []
+}
