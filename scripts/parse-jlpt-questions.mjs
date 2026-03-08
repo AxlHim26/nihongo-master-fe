@@ -233,7 +233,12 @@ function parseTestQuestions(testText, answersBySection) {
       const indentSize = line.match(/^(\s*)/)[1].length;
       const isQuestionIndent = indentSize < 5;
       
-      if (!hasMultipleOptions && num.length <= 2 && rest.length > 5 && isQuestionIndent) {
+      // Check if this is likely a question:
+      // 1. Not an option line (no multiple option markers)
+      // 2. Question number is short (1-2 digits)
+      // 3. Has some text after the number (even single words like "ねつ")
+      // 4. Question indent (< 5 spaces)
+      if (!hasMultipleOptions && num.length <= 2 && rest.length > 0 && isQuestionIndent) {
         // This is a question
         if (currentQuestion) {
           currentProblem.questions.push(currentQuestion);

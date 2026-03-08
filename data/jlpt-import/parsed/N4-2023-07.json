@@ -2,25 +2,25 @@
   "meta": {
     "testFile": "data/jlpt-import/text/N4__2023年7月__N4 Test T7-2023.txt",
     "answerFile": "data/jlpt-import/text/N4__2023年7月__Answers to N4 test T7-2023.txt",
-    "parsedAt": "2026-03-07T12:57:44.835Z",
+    "parsedAt": "2026-03-08T01:01:18.725Z",
     "parserVersion": "3.0"
   },
   "validation": {
     "valid": false,
     "stats": {
-      "totalQuestions": 87,
-      "withAnswers": 48,
-      "withFullOptions": 47,
+      "totalQuestions": 93,
+      "withAnswers": 54,
+      "withFullOptions": 53,
       "bySectionType": {
         "VOCABULARY": {
-          "questions": 24,
-          "withAnswers": 24,
-          "withOptions": 24
+          "questions": 28,
+          "withAnswers": 28,
+          "withOptions": 28
         },
         "GRAMMAR_READING": {
-          "questions": 24,
-          "withAnswers": 24,
-          "withOptions": 23
+          "questions": 26,
+          "withAnswers": 26,
+          "withOptions": 25
         },
         "LISTENING": {
           "questions": 39,
@@ -110,7 +110,7 @@
       "LISTENING P4 Q3: Missing answer",
       "LISTENING P4 Q3: No options"
     ],
-    "completeness": 0.5402298850574713
+    "completeness": 0.5698924731182796
   },
   "sections": [
     {
@@ -690,7 +690,100 @@
         },
         {
           "problemNumber": "5",
-          "questions": []
+          "questions": [
+            {
+              "number": "25",
+              "prompt": "ねつ",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "今日は天気がいいので、外はとてもねつがあります。"
+                },
+                {
+                  "key": "2",
+                  "text": "あさからあたまがいたくて、ねつもあります。"
+                },
+                {
+                  "key": "3",
+                  "text": "今日はさむいので、ねつがあるものを食べたいです。"
+                },
+                {
+                  "key": "4",
+                  "text": "コップはねつがあるので、飲むとき気をつけてください。"
+                }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "26",
+              "prompt": "わかす",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "出かけるとき、コートやマフラーでからだをわかします。"
+                },
+                {
+                  "key": "2",
+                  "text": "エアコンをつけて、へやをわかします。"
+                },
+                {
+                  "key": "3",
+                  "text": "みんなでにくや魚をわかして食べました。"
+                },
+                {
+                  "key": "4",
+                  "text": "おゆをわかして、お茶を入れてください。"
+                }
+              ],
+              "correctAnswer": "4"
+            },
+            {
+              "number": "27",
+              "prompt": "しょうたい",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "木村さんをけっこんしきにしょうたいしました。"
+                },
+                {
+                  "key": "2",
+                  "text": "ねこをかぞくにしょうたいしました。"
+                },
+                {
+                  "key": "3",
+                  "text": "すずしいかぜをへやにしょうたいしました。"
+                },
+                {
+                  "key": "4",
+                  "text": "本に書いてあったことをレポートにしょうたいしました。"
+                }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "28",
+              "prompt": "やむ",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "としょかんがもうやんでいて、本がかりられませんでした。"
+                },
+                {
+                  "key": "2",
+                  "text": "かいぎがやんだら、わたしにしらせてください。"
+                },
+                {
+                  "key": "3",
+                  "text": "雨はおひるごろにやんで、今ははれています。"
+                },
+                {
+                  "key": "4",
+                  "text": "なつやすみがやんだら、すぐにテストがあります。"
+                }
+              ],
+              "correctAnswer": "3"
+            }
+          ]
         }
       ]
     },
@@ -745,6 +838,29 @@
                 }
               ],
               "correctAnswer": "4"
+            },
+            {
+              "number": "3",
+              "prompt": "（教室で）",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "など"
+                },
+                {
+                  "key": "2",
+                  "text": "ずつ"
+                },
+                {
+                  "key": "3",
+                  "text": "しか"
+                },
+                {
+                  "key": "4",
+                  "text": "も"
+                }
+              ],
+              "correctAnswer": "2"
             },
             {
               "number": "4",
@@ -952,6 +1068,29 @@
                 }
               ],
               "correctAnswer": "3"
+            },
+            {
+              "number": "13",
+              "prompt": "（台所で）",
+              "options": [
+                {
+                  "key": "1",
+                  "text": "切ってある"
+                },
+                {
+                  "key": "2",
+                  "text": "切ってもらえる"
+                },
+                {
+                  "key": "3",
+                  "text": "切ってもいい"
+                },
+                {
+                  "key": "4",
+                  "text": "切ったほうがいい"
+                }
+              ],
+              "correctAnswer": "2"
             }
           ]
         },
