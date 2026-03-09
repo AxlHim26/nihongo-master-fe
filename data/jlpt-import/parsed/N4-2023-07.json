@@ -3,7 +3,9 @@
     "testFile": "data/jlpt-import/text/N4__2023年7月__N4 Test T7-2023.txt",
     "answerFile": "data/jlpt-import/text/N4__2023年7月__Answers to N4 test T7-2023.txt",
     "parsedAt": "2026-03-08T01:01:18.725Z",
-    "parserVersion": "3.0"
+    "parserVersion": "3.0",
+    "cleanedAt": "2026-03-08T04:00:00.000Z",
+    "cleanedNotes": "Removed watermark artifacts from Grammar P1 Q1/Q10 prompts and Vocab P3 Q15 option 1. Fixed option keys for Vocab P4 Q24 and Grammar P1 Q7. Reconstructed Grammar P1 Q4 prompt/options from context. Removed invalid questions Grammar P5 Q28, Q29, Q8."
   },
   "validation": {
     "valid": false,
@@ -457,7 +459,7 @@
               "options": [
                 {
                   "key": "1",
-                  "text": "むかいました  up"
+                  "text": "むかいました"
                 },
                 {
                   "key": "2",
@@ -680,7 +682,7 @@
                   "text": "チャンスがたくさんあります。"
                 },
                 {
-                  "key": "3",
+                  "key": "4",
                   "text": "アルバイトがたくさんあります。"
                 }
               ],
@@ -795,7 +797,7 @@
           "questions": [
             {
               "number": "1",
-              "prompt": "わたしはよく仕事（    up     ）飛行機に乗ります。",
+              "prompt": "わたしはよく仕事（　　）飛行機に乗ります。",
               "options": [
                 {
                   "key": "1",
@@ -864,23 +866,23 @@
             },
             {
               "number": "4",
-              "prompt": "田中 ｢山下さん、好きな食べ物はなんですか。｣",
+              "prompt": "田中 ｢山下さん、好きな食べ物はなんですか。｣ 山下 ｢カレーです。週に３（        ）食べるんですか。大好きなんですね。｣",
               "options": [
                 {
                   "key": "1",
-                  "text": "週間に"
+                  "text": "回ぐらい"
+                },
+                {
+                  "key": "2",
+                  "text": "回だけ"
                 },
                 {
                   "key": "3",
-                  "text": "回ぐらい食べます。｣"
+                  "text": "週間ぐらい"
                 },
                 {
-                  "key": "1",
-                  "text": "週間に"
-                },
-                {
-                  "key": "3",
-                  "text": "回（        ）食べるんですか。大好きなんですね。｣"
+                  "key": "4",
+                  "text": "週間だけ"
                 }
               ],
               "correctAnswer": "1"
@@ -933,14 +935,14 @@
             },
             {
               "number": "7",
-              "prompt": "毎日じゅぎょうは（           ）ごろ終わります。",
+              "prompt": "毎日じゅぎょうは（　　）ごろ終わります。",
               "options": [
                 {
-                  "key": "3",
+                  "key": "1",
                   "text": "時"
                 },
                 {
-                  "key": "3",
+                  "key": "2",
                   "text": "時に"
                 },
                 {
@@ -948,7 +950,7 @@
                   "text": "時間"
                 },
                 {
-                  "key": "3",
+                  "key": "4",
                   "text": "時間に"
                 }
               ],
@@ -1002,7 +1004,7 @@
             },
             {
               "number": "10",
-              "prompt": "れいぞうこから変な音が（up         ）。こしょうしたのかもしれない。",
+              "prompt": "れいぞうこから変な音が（　　）。こしょうしたのかもしれない。",
               "options": [
                 {
                   "key": "1",
@@ -1193,7 +1195,52 @@
         },
         {
           "problemNumber": "3",
-          "questions": []
+          "questions": [
+            {
+              "number": "18",
+              "prompt": "私は、日本に来るとき、国からカメラを持ってきました。日本で写真をたくさんとりたいと（　　）。",
+              "options": [
+                { "key": "1", "text": "思うからです" },
+                { "key": "2", "text": "思うことです" },
+                { "key": "3", "text": "思ったからです" },
+                { "key": "4", "text": "思ったことです" }
+              ],
+              "correctAnswer": "3"
+            },
+            {
+              "number": "19",
+              "prompt": "最近よくとっているのは、町のけしきの写真です。日本の町と私の国の町は景色が全然違います。だから、とても面白いです。（　　）、よく写真をとっています。",
+              "options": [
+                { "key": "1", "text": "それで" },
+                { "key": "2", "text": "けれども" },
+                { "key": "3", "text": "たとえば" },
+                { "key": "4", "text": "まず" }
+              ],
+              "correctAnswer": "1"
+            },
+            {
+              "number": "20",
+              "prompt": "海（　　）ときどき写真を撮りに行きます。私の国には海がないので、日本で初めて海を見ました。",
+              "options": [
+                { "key": "1", "text": "では" },
+                { "key": "2", "text": "にも" },
+                { "key": "3", "text": "だけ" },
+                { "key": "4", "text": "なら" }
+              ],
+              "correctAnswer": "2"
+            },
+            {
+              "number": "21",
+              "prompt": "もうすぐ夏休みです。国に帰って、日本で撮った写真を家族に（　　）。家族が何と言うか楽しみです。",
+              "options": [
+                { "key": "1", "text": "見せています" },
+                { "key": "2", "text": "見せてくれます" },
+                { "key": "3", "text": "見せるそうです" },
+                { "key": "4", "text": "見せようと思います" }
+              ],
+              "correctAnswer": "4"
+            }
+          ]
         },
         {
           "problemNumber": "4",
@@ -1337,71 +1384,6 @@
                 {
                   "key": "4",
                   "text": "周りにいる人が「私」のバイオリンをほめてくれるから"
-                }
-              ],
-              "correctAnswer": "1"
-            },
-            {
-              "number": "28",
-              "prompt": "石川さんは「8 月のみどり島一日旅行」に行きたいと思っています。石川さんは",
-              "options": [
-                {
-                  "key": "1",
-                  "text": "5,000 円"
-                },
-                {
-                  "key": "2",
-                  "text": "6,000 円"
-                },
-                {
-                  "key": "1",
-                  "text": "0,000 円"
-                },
-                {
-                  "key": "2",
-                  "text": ",000 円"
-                }
-              ],
-              "correctAnswer": "3"
-            },
-            {
-              "number": "29",
-              "prompt": "ロンさんは友達と 3 人で",
-              "options": [
-                {
-                  "key": "3",
-                  "text": "人がみんな空いている日で、"
-                }
-              ],
-              "correctAnswer": "4"
-            },
-            {
-              "number": "8",
-              "prompt": "月の空いている日",
-              "options": [
-                {
-                  "key": "2",
-                  "text": "日、"
-                },
-                {
-                  "key": "1",
-                  "text": "9 日"
-                },
-                {
-                  "key": "2",
-                  "text": "日、"
-                },
-                {
-                  "key": "3",
-                  "text": "日、"
-                },
-                {
-                  "key": "1",
-                  "text": "9 日、"
-                },
-                {
-                  "key": "2",
-                  "text": "0 日"
                 }
               ],
               "correctAnswer": "1"

@@ -55,17 +55,23 @@ export default function PracticeJlptView() {
     },
   });
 
+  // Track which exam is currently being started so only that exam's button
+  // shows as disabled rather than every exam on the page (issue Q).
+  const [startingExamId, setStartingExamId] = React.useState<number | null>(null);
+
   const isLoading = examsQuery.isLoading || historyQuery.isLoading;
 
+  const examsData = examsQuery.data;
+
   const examsByLevel = React.useMemo(() => {
-    const grouped = new Map<string, typeof examsQuery.data>();
-    if (!examsQuery.data) return grouped;
+    const grouped = new Map<string, NonNullable<typeof examsData>>();
+    if (!examsData) return grouped;
 
     for (const level of LEVELS) {
       grouped.set(level, []);
     }
 
-    for (const exam of examsQuery.data) {
+    for (const exam of examsData) {
       const levelExams = grouped.get(exam.level);
       if (levelExams) {
         levelExams.push(exam);
@@ -73,7 +79,7 @@ export default function PracticeJlptView() {
     }
 
     return grouped;
-  }, [examsQuery.data]);
+  }, [examsData]);
 
   return (
     <Stack spacing={3} className="pb-6">
@@ -90,8 +96,8 @@ export default function PracticeJlptView() {
             Kế hoạch mô phỏng thi thật
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Đề được dựng từ kỳ thi gần đây, có timer theo section, autosave đáp án và chấm điểm theo
-            thang chuẩn hóa 60 điểm mỗi phần.
+            Đề được dựng từ kỳ thi gần đây, có đếm thời gian toàn bài, autosave đáp án và chấm điểm
+            theo thang chuẩn hóa 60 điểm mỗi phần.
           </Typography>
         </Stack>
       </Paper>
@@ -117,6 +123,10 @@ export default function PracticeJlptView() {
             ? historyQuery.error.message
             : "Không tải được lịch sử thi thử."}
         </Alert>
+      ) : null}
+
+      {startMutation.isError ? (
+        <Alert severity="error">Không thể tạo ca thi mới. Vui lòng thử lại sau ít phút.</Alert>
       ) : null}
 
       <div className="grid gap-4 xl:grid-cols-[minmax(0,1fr)_320px]">
@@ -197,8 +207,13 @@ export default function PracticeJlptView() {
                             <Button
                               variant="contained"
                               disableElevation
-                              onClick={() => startMutation.mutate(exam.id)}
-                              disabled={startMutation.isPending}
+                              onClick={() => {
+                                setStartingExamId(exam.id);
+                                startMutation.mutate(exam.id, {
+                                  onSettled: () => setStartingExamId(null),
+                                });
+                              }}
+                              disabled={startingExamId === exam.id}
                               sx={{
                                 textTransform: "none",
                                 fontWeight: 700,
@@ -213,7 +228,7 @@ export default function PracticeJlptView() {
                                 },
                               }}
                             >
-                              {startMutation.isPending ? "Đang tạo ca thi..." : "Vào thi thử"}
+                              {startingExamId === exam.id ? "Đang tạo ca thi..." : "Vào thi thử"}
                             </Button>
                           </div>
                         </Stack>

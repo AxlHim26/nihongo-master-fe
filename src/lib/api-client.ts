@@ -4,7 +4,7 @@ import { authStorage } from "@/features/auth/utils/auth-storage";
 import { getBackendApiUrl } from "@/lib/env";
 import { ApiError } from "@/lib/fetcher";
 
-type ApiEnvelope<T> = {
+export type ApiEnvelope<T> = {
   status: number;
   message: string;
   data: T;

@@ -1,13 +1,13 @@
-export type ApiEnvelope<T> = {
-  status: number;
-  message: string;
-  data: T;
-  errorCode?: string;
-  path?: string;
-  timestamp?: string;
-};
+export type { ApiEnvelope } from "@/lib/api-client";
 
-export type JlptSectionType = "LANGUAGE_KNOWLEDGE" | "READING" | "LISTENING";
+export type JlptSectionType =
+  | "LANGUAGE_KNOWLEDGE"
+  | "READING"
+  | "LISTENING"
+  | "VOCABULARY"
+  | "GRAMMAR_READING"
+  | "GRAMMAR_KNOWLEDGE"
+  | "READING_COMPREHENSION";
 
 export type JlptAttemptStatus = "IN_PROGRESS" | "SUBMITTED";
 
@@ -73,6 +73,8 @@ export type JlptStartAttemptResponse = {
   examId: number;
   status: JlptAttemptStatus;
   startedAt: string;
+  totalDurationMinutes: number;
+  remainingSeconds: number;
   answers: JlptAttemptAnswer[];
 };
 
@@ -108,6 +110,7 @@ export type JlptAttemptResultQuestion = {
   selectedOptionKey: string | null;
   correctOptionKey: string;
   correct: boolean;
+  options: JlptQuestionOption[];
 };
 
 export type JlptAttemptSectionResult = {
@@ -117,6 +120,7 @@ export type JlptAttemptSectionResult = {
   rawScore: number;
   rawMaxScore: number;
   scaledScore: number;
+  scaledMaxScore: number;
   questions: JlptAttemptResultQuestion[];
 };
 

@@ -25,20 +25,20 @@ export default function PracticeJlptResultView({ attemptId }: PracticeJlptResult
     queryFn: () => getJlptAttemptResult(attemptId),
   });
 
+  if (resultQuery.isError) {
+    return (
+      <Alert severity="error">
+        Không tải được kết quả. Có thể bài thi chưa được nộp hoặc phiên làm bài không còn hợp lệ.
+      </Alert>
+    );
+  }
+
   if (resultQuery.isLoading || !resultQuery.data) {
     return (
       <div className="flex items-center gap-2 text-[var(--app-muted)]">
         <CircularProgress size={18} />
         <Typography variant="body2">Đang tải kết quả...</Typography>
       </div>
-    );
-  }
-
-  if (resultQuery.isError) {
-    return (
-      <Alert severity="error">
-        {resultQuery.error instanceof Error ? resultQuery.error.message : "Không tải được kết quả."}
-      </Alert>
     );
   }
 
@@ -77,7 +77,7 @@ export default function PracticeJlptResultView({ attemptId }: PracticeJlptResult
                   {section.title}
                 </Typography>
                 <Typography variant="body1" fontWeight={700}>
-                  {section.scaledScore}/60
+                  {section.scaledScore}/{section.scaledMaxScore}
                 </Typography>
                 <Typography variant="caption" color="text.secondary">
                   {section.rawScore}/{section.rawMaxScore} câu
@@ -128,13 +128,44 @@ export default function PracticeJlptResultView({ attemptId }: PracticeJlptResult
                   <Typography variant="body2" className="mt-1 text-[var(--app-fg)]">
                     {question.prompt}
                   </Typography>
-                  <Typography
-                    variant="caption"
-                    className={`mt-1 block ${question.correct ? "text-emerald-600" : "text-rose-500"}`}
-                  >
-                    Bạn chọn: {question.selectedOptionKey ?? "(chưa trả lời)"} · Đáp án đúng:{" "}
-                    {question.correctOptionKey}
-                  </Typography>
+
+                  <div className="mt-2 grid gap-2">
+                    {question.options.map((option) => {
+                      const isCorrect = option.key === question.correctOptionKey;
+                      const isSelected = option.key === question.selectedOptionKey;
+                      const isWrongSelection = isSelected && !isCorrect;
+
+                      let className = "rounded-xl border px-3 py-2 text-left cursor-default ";
+                      if (isCorrect) {
+                        className +=
+                          "border-emerald-300 bg-emerald-50 text-emerald-700 dark:border-emerald-700/50 dark:bg-emerald-950/30 dark:text-emerald-200";
+                      } else if (isWrongSelection) {
+                        className +=
+                          "border-rose-300 bg-rose-50 text-rose-700 dark:border-rose-700/50 dark:bg-rose-950/30 dark:text-rose-200";
+                      } else {
+                        className +=
+                          "border-[var(--app-border)] bg-[var(--app-card)] text-[var(--app-fg)]";
+                      }
+
+                      return (
+                        <div key={`${question.questionId}-${option.key}`} className={className}>
+                          <span className="mr-2 font-semibold">{option.key}.</span>
+                          {option.text}
+                          {isCorrect && (
+                            <span className="ml-2 text-xs font-semibold">(Đáp án đúng)</span>
+                          )}
+                          {isWrongSelection && (
+                            <span className="ml-2 text-xs font-semibold">(Bạn chọn)</span>
+                          )}
+                        </div>
+                      );
+                    })}
+                    {question.selectedOptionKey === null && (
+                      <Typography variant="caption" className="text-[var(--app-muted)]">
+                        (Chưa trả lời)
+                      </Typography>
+                    )}
+                  </div>
                 </div>
               ))}
             </Stack>

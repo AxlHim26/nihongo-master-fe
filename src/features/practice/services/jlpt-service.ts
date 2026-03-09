@@ -27,6 +27,13 @@ export const startJlptAttempt = async (examId: number) => {
   return response.data.data;
 };
 
+export const getJlptAttemptSession = async (attemptId: number) => {
+  const response = await api.get<ApiEnvelope<JlptStartAttemptResponse>>(
+    `/api/v1/jlpt/attempts/${attemptId}`,
+  );
+  return response.data.data;
+};
+
 export const saveJlptAnswers = async (
   attemptId: number,
   answers: Array<{ questionId: number; selectedOptionKey: string }>,
