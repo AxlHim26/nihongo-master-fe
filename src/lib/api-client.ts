@@ -73,7 +73,11 @@ const authRequestInterceptor = (config: InternalAxiosRequestConfig) => {
 };
 
 const createApiError = (error: AxiosError<ApiEnvelope<unknown>>) => {
-  return new ApiError(getErrorMessage(error), error.response?.status ?? 500);
+  return new ApiError(
+    getErrorMessage(error),
+    error.response?.status ?? 500,
+    error.response?.data?.errorCode,
+  );
 };
 
 const refreshClient = Axios.create({
@@ -116,6 +120,7 @@ export const ensureAccessToken = async () => {
   try {
     return await refreshAccessToken();
   } catch {
+    authStorage.clearSession();
     return null;
   }
 };

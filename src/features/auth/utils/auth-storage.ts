@@ -1,3 +1,5 @@
+import { clearAuthSessionHint, setAuthSessionHint } from "@/features/auth/utils/session-hint";
+
 let accessToken: string | null = null;
 let username: string | null = null;
 let email: string | null = null;
@@ -51,11 +53,13 @@ export const authStorage = {
     username = payload?.sub ?? null;
     email = payload?.email ?? null;
     role = payload?.role ?? null;
+    setAuthSessionHint();
   },
   clearSession: () => {
     accessToken = null;
     username = null;
     email = null;
     role = null;
+    clearAuthSessionHint();
   },
 };
