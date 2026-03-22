@@ -14,8 +14,27 @@ type AuthenticatePayload = {
   password: string;
 };
 
+type RegisterPayload = {
+  username: string;
+  email: string;
+  password: string;
+};
+
+type ResendVerificationPayload = {
+  email: string;
+};
+
+type ConfirmVerificationPayload = {
+  token: string;
+};
+
 type AuthenticateData = {
   token: string;
+};
+
+export type EmailVerificationStatus = {
+  email: string;
+  expiresInMinutes: number;
 };
 
 export type CurrentUser = {
@@ -30,6 +49,38 @@ export const authenticate = async ({ username, password }: AuthenticatePayload) 
     username,
     password,
   });
+
+  return response.data.data;
+};
+
+export const registerAccount = async ({ username, email, password }: RegisterPayload) => {
+  const response = await api.post<ApiEnvelope<EmailVerificationStatus>>("/api/v1/auth/register", {
+    username,
+    email,
+    password,
+  });
+
+  return response.data.data;
+};
+
+export const resendEmailVerification = async ({ email }: ResendVerificationPayload) => {
+  const response = await api.post<ApiEnvelope<EmailVerificationStatus>>(
+    "/api/v1/auth/verification/resend",
+    {
+      email,
+    },
+  );
+
+  return response.data.data;
+};
+
+export const confirmEmailVerification = async ({ token }: ConfirmVerificationPayload) => {
+  const response = await api.post<ApiEnvelope<AuthenticateData>>(
+    "/api/v1/auth/verification/confirm",
+    {
+      token,
+    },
+  );
 
   return response.data.data;
 };

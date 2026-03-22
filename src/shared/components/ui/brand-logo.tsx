@@ -6,6 +6,8 @@ type BrandLogoProps = {
   className?: string;
   iconClassName?: string;
   labelClassName?: string;
+  primaryTextClassName?: string;
+  accentTextClassName?: string;
   subtitleClassName?: string;
   withLabel?: boolean;
   subtitle?: string;
@@ -34,6 +36,8 @@ export default function BrandLogo({
   className,
   iconClassName,
   labelClassName,
+  primaryTextClassName,
+  accentTextClassName,
   subtitleClassName,
   withLabel = true,
   subtitle,
@@ -91,8 +95,12 @@ export default function BrandLogo({
       {withLabel ? (
         <div className={cn("flex min-w-0 flex-col", labelClassName)}>
           <span className={cn("font-semibold leading-none", config.title)}>
-            <span className="text-slate-900 dark:text-white">Mirai</span>
-            <span className="text-[#3D73F3] dark:text-[#60A5FA]">Go</span>
+            <span className={cn("text-slate-900 dark:text-white", primaryTextClassName)}>
+              Mirai
+            </span>
+            <span className={cn("text-[#3D73F3] dark:text-[#60A5FA]", accentTextClassName)}>
+              Go
+            </span>
           </span>
           {subtitle ? (
             <span

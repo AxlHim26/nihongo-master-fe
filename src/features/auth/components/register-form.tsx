@@ -1,6 +1,5 @@
 "use client";
 
-import LoginIcon from "@mui/icons-material/Login";
 import VisibilityOffRoundedIcon from "@mui/icons-material/VisibilityOffRounded";
 import VisibilityRoundedIcon from "@mui/icons-material/VisibilityRounded";
 import Alert from "@mui/material/Alert";
@@ -20,17 +19,17 @@ import { useRouter } from "next/navigation";
 import * as React from "react";
 
 import { createAppTheme } from "@/core/theme/create-theme";
-import { authenticate } from "@/features/auth/services/auth-api";
-import { authStorage } from "@/features/auth/utils/auth-storage";
-import { createAuthRoute, resolveRedirectTarget } from "@/features/auth/utils/redirect";
+import { registerAccount } from "@/features/auth/services/auth-api";
+import { savePendingVerification } from "@/features/auth/utils/pending-verification";
+import { createAuthRoute, createAuthRouteWithParams } from "@/features/auth/utils/redirect";
 import { ApiError } from "@/lib/fetcher";
 import BrandLogo from "@/shared/components/ui/brand-logo";
 
-type LoginFormProps = {
+type RegisterFormProps = {
   redirectParam?: string | null;
 };
 
-export default function LoginForm({ redirectParam = null }: LoginFormProps) {
+export default function RegisterForm({ redirectParam = null }: RegisterFormProps) {
   const router = useRouter();
   const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)", {
     noSsr: true,
@@ -39,8 +38,11 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
     noSsr: true,
   });
   const [username, setUsername] = React.useState("");
+  const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
+  const [confirmPassword, setConfirmPassword] = React.useState("");
   const [showPassword, setShowPassword] = React.useState(false);
+  const [formError, setFormError] = React.useState<string | null>(null);
   const isDarkMode = prefersDarkMode;
   const authTheme = React.useMemo(
     () => createAppTheme(isDarkMode ? "dark" : "light"),
@@ -74,26 +76,43 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
         lineFour: "#4F83FF",
       };
 
-  const targetPath = resolveRedirectTarget(redirectParam);
-  const registerHref = createAuthRoute("/register", redirectParam);
+  const loginHref = createAuthRoute("/login", redirectParam);
+  const passwordMismatch = confirmPassword.length > 0 && password !== confirmPassword;
 
   const mutation = useMutation({
-    mutationFn: authenticate,
+    mutationFn: registerAccount,
     onSuccess: (data) => {
-      authStorage.setSession(data.token);
-      router.replace(targetPath);
+      savePendingVerification(data.email, redirectParam);
+      router.replace(
+        createAuthRouteWithParams("/register/check-email", redirectParam, {
+          email: data.email,
+          expires: data.expiresInMinutes,
+        }),
+      );
     },
   });
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    mutation.mutate({ username: username.trim(), password });
+
+    if (passwordMismatch) {
+      setFormError("Mật khẩu xác nhận chưa khớp.");
+      return;
+    }
+
+    setFormError(null);
+    mutation.mutate({
+      username: username.trim(),
+      email: email.trim(),
+      password,
+    });
   };
 
   const helperMessage =
-    mutation.error instanceof ApiError
+    formError ??
+    (mutation.error instanceof ApiError
       ? mutation.error.message
-      : "Đăng nhập thất bại. Vui lòng kiểm tra lại thông tin.";
+      : "Tạo tài khoản thất bại. Vui lòng kiểm tra lại thông tin.");
 
   return (
     <ThemeProvider theme={authTheme}>
@@ -120,7 +139,7 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
               : "0 20px 60px -26px rgba(15, 23, 42, 0.35)",
           }}
         >
-          <div className="grid grid-cols-1 lg:min-h-[620px] lg:grid-cols-3">
+          <div className="grid grid-cols-1 lg:min-h-[680px] lg:grid-cols-3">
             <Stack
               spacing={{ xs: 2.5, sm: 4 }}
               component="form"
@@ -150,23 +169,40 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
                   fontWeight={700}
                   sx={{ color: "text.primary", fontSize: { xs: "1.65rem", sm: "2.125rem" } }}
                 >
-                  Đăng nhập
+                  Tạo tài khoản
                 </Typography>
                 <Typography variant="body2" sx={{ color: "text.secondary" }}>
-                  Đăng nhập để tiếp tục học tập với MiraiGo.
+                  Tạo tài khoản để bắt đầu học, lưu tiến độ và truy cập MiraiGo trên mọi thiết bị.
                 </Typography>
               </Stack>
 
-              {mutation.isError && <Alert severity="error">{helperMessage}</Alert>}
+              {(formError || mutation.isError) && <Alert severity="error">{helperMessage}</Alert>}
 
               <Stack spacing={{ xs: 1.75, sm: 2.25 }}>
                 <TextField
                   required
                   label="Tên đăng nhập"
                   value={username}
-                  onChange={(event) => setUsername(event.target.value)}
+                  onChange={(event) => {
+                    setFormError(null);
+                    setUsername(event.target.value);
+                  }}
                   autoComplete="username"
                   autoFocus
+                  size={isPhone ? "small" : "medium"}
+                  fullWidth
+                  sx={{ "& .MuiInputBase-root": { minHeight: { xs: 48, sm: 56 } } }}
+                />
+                <TextField
+                  required
+                  label="Email"
+                  type="email"
+                  value={email}
+                  onChange={(event) => {
+                    setFormError(null);
+                    setEmail(event.target.value);
+                  }}
+                  autoComplete="email"
                   size={isPhone ? "small" : "medium"}
                   fullWidth
                   sx={{ "& .MuiInputBase-root": { minHeight: { xs: 48, sm: 56 } } }}
@@ -176,8 +212,44 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
                   label="Mật khẩu"
                   type={showPassword ? "text" : "password"}
                   value={password}
-                  onChange={(event) => setPassword(event.target.value)}
-                  autoComplete="current-password"
+                  onChange={(event) => {
+                    setFormError(null);
+                    setPassword(event.target.value);
+                  }}
+                  autoComplete="new-password"
+                  size={isPhone ? "small" : "medium"}
+                  fullWidth
+                  sx={{ "& .MuiInputBase-root": { minHeight: { xs: 48, sm: 56 } } }}
+                  InputProps={{
+                    endAdornment: (
+                      <InputAdornment position="end">
+                        <IconButton
+                          aria-label="Hiển thị mật khẩu"
+                          edge="end"
+                          onClick={() => setShowPassword((prev) => !prev)}
+                        >
+                          {showPassword ? (
+                            <VisibilityOffRoundedIcon fontSize="small" />
+                          ) : (
+                            <VisibilityRoundedIcon fontSize="small" />
+                          )}
+                        </IconButton>
+                      </InputAdornment>
+                    ),
+                  }}
+                />
+                <TextField
+                  required
+                  label="Xác nhận mật khẩu"
+                  type={showPassword ? "text" : "password"}
+                  value={confirmPassword}
+                  onChange={(event) => {
+                    setFormError(null);
+                    setConfirmPassword(event.target.value);
+                  }}
+                  autoComplete="new-password"
+                  error={passwordMismatch}
+                  helperText={passwordMismatch ? "Mật khẩu xác nhận chưa khớp." : undefined}
                   size={isPhone ? "small" : "medium"}
                   fullWidth
                   sx={{ "& .MuiInputBase-root": { minHeight: { xs: 48, sm: 56 } } }}
@@ -207,9 +279,13 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
                 size="large"
                 fullWidth
                 disabled={
-                  mutation.isPending || username.trim().length === 0 || password.length === 0
+                  mutation.isPending ||
+                  username.trim().length === 0 ||
+                  email.trim().length === 0 ||
+                  password.length === 0 ||
+                  confirmPassword.length === 0 ||
+                  passwordMismatch
                 }
-                startIcon={<LoginIcon />}
                 sx={{
                   borderRadius: "14px",
                   py: { xs: 1.15, sm: 1.35 },
@@ -224,20 +300,20 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
                   },
                 }}
               >
-                {mutation.isPending ? "Đang xác thực..." : "Đăng nhập"}
+                {mutation.isPending ? "Đang tạo tài khoản..." : "Tạo tài khoản"}
               </Button>
 
               <Typography variant="caption" sx={{ textAlign: "center", color: "text.secondary" }}>
-                Chưa có tài khoản?{" "}
+                Đã có tài khoản?{" "}
                 <Link
-                  href={registerHref}
+                  href={loginHref}
                   style={{
                     color: isDarkMode ? "#BFDBFE" : "#2563EB",
                     fontWeight: 700,
                     textDecoration: "none",
                   }}
                 >
-                  Đăng ký ngay
+                  Đăng nhập
                 </Link>
               </Typography>
             </Stack>
@@ -258,7 +334,7 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
               >
                 <defs>
                   <pattern
-                    id="miraigo-squiggle"
+                    id="miraigo-register-squiggle"
                     width="220"
                     height="220"
                     patternUnits="userSpaceOnUse"
@@ -283,7 +359,7 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
                     <circle cx="188" cy="34" r="3.2" fill={artColors.dotAccent} />
                   </pattern>
                 </defs>
-                <rect width="960" height="1120" fill="url(#miraigo-squiggle)" />
+                <rect width="960" height="1120" fill="url(#miraigo-register-squiggle)" />
                 <g strokeLinecap="round" fill="none">
                   <path
                     d="M70 190 C 196 90, 346 116, 470 200"

@@ -1,36 +1,47 @@
 export class ApiError extends Error {
   readonly status: number;
+  readonly errorCode: string | undefined;
 
-  constructor(message: string, status: number) {
+  constructor(message: string, status: number, errorCode?: string) {
     super(message);
     this.name = "ApiError";
     this.status = status;
+    this.errorCode = errorCode;
   }
 }
 
-const getErrorMessage = async (response: Response) => {
-  const text = await response.text();
+const parseErrorPayload = (text: string) => {
   if (!text) {
-    return response.statusText || "Request failed";
+    return {
+      message: undefined,
+      errorCode: undefined,
+    };
   }
 
   try {
-    const parsed = JSON.parse(text) as { message?: string };
-    if (parsed?.message) {
-      return parsed.message;
-    }
+    const parsed = JSON.parse(text) as { message?: string; errorCode?: string };
+    return {
+      message: parsed?.message,
+      errorCode: parsed?.errorCode,
+    };
   } catch {
-    return text;
+    return {
+      message: text,
+      errorCode: undefined,
+    };
   }
-
-  return response.statusText || "Request failed";
 };
 
 export const fetchJson = async <T>(input: RequestInfo | URL, init?: RequestInit) => {
   const response = await fetch(input, init);
   if (!response.ok) {
-    const message = await getErrorMessage(response);
-    throw new ApiError(message, response.status);
+    const text = await response.text();
+    const { message, errorCode } = parseErrorPayload(text);
+    throw new ApiError(
+      message || response.statusText || "Request failed",
+      response.status,
+      errorCode,
+    );
   }
 
   return (await response.json()) as T;
